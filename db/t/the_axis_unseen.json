@@ -2,10 +2,10 @@
   "ID": "38f10855ba5a47baa6b6deb8bde74b59",
   "Name": "The Axis Unseen",
   "ProductSlug": "the-axis-unseen-439821",
-  "Ranking_EOS_Progress": 741,
+  "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.0959371+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:59:46.9060032+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:06:14.6868026+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:01:24.0889605+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:08:02.2376528+00:00"
 }

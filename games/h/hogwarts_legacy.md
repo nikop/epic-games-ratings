@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 127)
 | First Class Student | 14.00% | ~42,288 |
 | Troll with the Punches | 14.00% | ~42,288 |
 | A Keen Sense of Spell | 13.00% | ~39,267 |
-| A Talent for Spending | 12.00% | ~36,246 |
-| That's a Keeper | 12.00% | ~36,246 |
+| A Talent for Spending | 12.00% | ~36,247 |
+| That's a Keeper | 12.00% | ~36,247 |
 | Grappling with a Graphorn | 11.00% | ~33,226 |
 | The One Who Mastered Memories | 11.00% | ~33,226 |
 | The Hallowed Hero | 11.00% | ~33,226 |
@@ -18,9 +18,9 @@ Rating: 4.76 (Ranked 127)
 | Challenge Accepted | 11.00% | ~33,226 |
 | Loom for Improvement | 11.00% | ~33,226 |
 | Coasting Along | 11.00% | ~33,226 |
-| The Hero of Hogwarts | 10.00% | ~30,205 |
-| Followed the Butterflies | 10.00% | ~30,205 |
-| Rising From the Ashes | 10.00% | ~30,205 |
+| The Hero of Hogwarts | 10.00% | ~30,206 |
+| Followed the Butterflies | 10.00% | ~30,206 |
+| Rising From the Ashes | 10.00% | ~30,206 |
 | The Spell Master | 9.00% | ~27,185 |
 | The Avenging Gazelle | 8.00% | ~24,164 |
 | Beast Friends | 8.00% | ~24,164 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 127)
 | A Forte for Achievement | 2.00% | ~6,041 |
 | Savvy Spender | 1.00% | ~3,021 |
 | Merlin's Beard! | 1.00% | ~3,021 |
-| Spilled Milk | 0.90% | ~2,718 |
+| Spilled Milk | 0.90% | ~2,719 |
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,054 (Ranked 50)  
+Progressed: 302,056 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
-| 2023-11-14 | 302,054 | 510 |
+| 2023-11-14 | 302,056 | 510 |
 ## Awards
 Max (Character Customization): 24,282  (Ranked 17)  
 Sum: 48,111 (Ranked 30)  

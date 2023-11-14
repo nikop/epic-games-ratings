@@ -10491,9 +10491,9 @@
       "Count": 782
     }
   ],
-  "EOS_Progressed": 302054,
+  "EOS_Progressed": 302056,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32836,6 +32836,11 @@
       "Time": "2023-11-14T07:09:46.8020785+00:00",
       "NumProgressed": 302054,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-14T10:10:31.6254961+00:00",
+      "NumProgressed": 302056,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 45,
@@ -32879,7 +32884,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30205
+      "UsersEstimate": 30206
     },
     {
       "ID": "PFA_14",
@@ -33031,7 +33036,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36246
+      "UsersEstimate": 36247
     },
     {
       "ID": "PFA_31",
@@ -33055,7 +33060,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "PFA_34",
@@ -33071,7 +33076,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30205
+      "UsersEstimate": 30206
     },
     {
       "ID": "PFA_36",
@@ -33191,7 +33196,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36246
+      "UsersEstimate": 36247
     },
     {
       "ID": "PFA_9",
@@ -33199,14 +33204,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30205
+      "UsersEstimate": 30206
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302054,
+      "Progressed": 302056,
       "Completed": 510
     }
   ],
@@ -33214,8 +33219,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-14T07:01:55.0320313+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:09:32.7396119+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:10:31.6254953+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:00:29.1623528+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:09:32.7397745+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:02:22.1061615+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:10:31.6258221+00:00"
 }

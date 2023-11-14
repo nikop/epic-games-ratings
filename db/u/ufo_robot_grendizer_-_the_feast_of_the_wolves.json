@@ -2,10 +2,10 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 741,
+  "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -28,9 +28,251 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ALLLEGENDARYLOOT",
+      "SetID": "ch874lb",
+      "Name": "Gold Seeker",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALLMEDITATION",
+      "SetID": "ch874lb",
+      "Name": "A Land of Peace",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COLLECTORS",
+      "SetID": "ch874lb",
+      "Name": "The Power of Friendship",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ESCAPEFROMFLEED",
+      "SetID": "ch874lb",
+      "Name": "Escape from Fleed",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTCONTACT",
+      "SetID": "ch874lb",
+      "Name": "First Contact",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTDEATH",
+      "SetID": "ch874lb",
+      "Name": "Strength in Defeat",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTLEGENDARYLOOT",
+      "SetID": "ch874lb",
+      "Name": "The Remains of Fleed",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTMEDITATION",
+      "SetID": "ch874lb",
+      "Name": "Life of Pi",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTSKINCHANGE",
+      "SetID": "ch874lb",
+      "Name": "A Good Paint Job",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRSTUPGRADE",
+      "SetID": "ch874lb",
+      "Name": "Technology first!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLEEDKEEPER",
+      "SetID": "ch874lb",
+      "Name": "The Keeper of Fleed",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GOLGOTHPLANS",
+      "SetID": "ch874lb",
+      "Name": "The Planner",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GREENEARTH",
+      "SetID": "ch874lb",
+      "Name": "Earth\u0027s Savior",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_IRONFIST",
+      "SetID": "ch874lb",
+      "Name": "Iron Fist",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLENEMY",
+      "SetID": "ch874lb",
+      "Name": "The Exterminator",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEGENDARYMATERIAL",
+      "SetID": "ch874lb",
+      "Name": "The Legend",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PERFECTDODGE",
+      "SetID": "ch874lb",
+      "Name": "You can\u0027t fool me!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RESOURCES",
+      "SetID": "ch874lb",
+      "Name": "The Collector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RUINDIVISION",
+      "SetID": "ch874lb",
+      "Name": "The Broken Guard",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SAUCERBEASTUNCHAINED",
+      "SetID": "ch874lb",
+      "Name": "Saucer Beast Unchained",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SKILLTREE",
+      "SetID": "ch874lb",
+      "Name": "The Completionist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEBATTLEAXE",
+      "SetID": "ch874lb",
+      "Name": "The Battle Axe",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEFIRECANONS",
+      "SetID": "ch874lb",
+      "Name": "The Fire Cannons",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEFLYINGOCTOPUS",
+      "SetID": "ch874lb",
+      "Name": "The Flying Octopus",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEINTERSTELLARFIGHTER",
+      "SetID": "ch874lb",
+      "Name": "The Interstellar Fighter",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEROYALGUARD",
+      "SetID": "ch874lb",
+      "Name": "The Royal Guard",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THESPACEHYDRA",
+      "SetID": "ch874lb",
+      "Name": "The Space Hydra",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEULTIMATEATTACK",
+      "SetID": "ch874lb",
+      "Name": "The Ultimate Attack",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THEVEGATURTLE",
+      "SetID": "ch874lb",
+      "Name": "The Vega Turtle",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WOLFVENGEANCE",
+      "SetID": "ch874lb",
+      "Name": "Vengeance of the Wolf",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "ch874lb",
@@ -40,8 +282,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:08:45.6930095+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:09:31.9139128+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:35.2722669+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:58:08.1065917+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:08:45.6930127+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:59:08.1944126+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:09:31.967101+00:00"
 }

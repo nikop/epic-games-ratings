@@ -11,16 +11,16 @@ Rating: 4.54 (Ranked 523)
 | Hotel California | 0.90% | ~6,464 |
 | Welcome To Hell-A | 0.90% | ~6,464 |
 | Break A Leg | 0.80% | ~5,746 |
-| Dr. Reed, I Presume? | 0.70% | ~5,027 |
-| Git Gutte! | 0.70% | ~5,027 |
-| Anger Management | 0.70% | ~5,027 |
-| Bookworm | 0.70% | ~5,027 |
-| Coup de Grâce | 0.70% | ~5,027 |
-| Hazardous Materials | 0.70% | ~5,027 |
-| Friends Like These | 0.70% | ~5,027 |
-| Apex Predator | 0.70% | ~5,027 |
-| Stacking the Deck | 0.70% | ~5,027 |
-| Personal Assistant Personally Assisted | 0.70% | ~5,027 |
+| Dr. Reed, I Presume? | 0.70% | ~5,028 |
+| Git Gutte! | 0.70% | ~5,028 |
+| Anger Management | 0.70% | ~5,028 |
+| Bookworm | 0.70% | ~5,028 |
+| Coup de Grâce | 0.70% | ~5,028 |
+| Hazardous Materials | 0.70% | ~5,028 |
+| Friends Like These | 0.70% | ~5,028 |
+| Apex Predator | 0.70% | ~5,028 |
+| Stacking the Deck | 0.70% | ~5,028 |
+| Personal Assistant Personally Assisted | 0.70% | ~5,028 |
 | But Doctor, I am Butcho | 0.60% | ~4,309 |
 | Can't Handle the Truth | 0.60% | ~4,309 |
 | Like Riding a Bike | 0.60% | ~4,309 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,209 (Ranked 20)  
-Completed: 2,389 (0.33%) (Ranked 223)  
+Progressed: 718,223 (Ranked 20)  
+Completed: 2,390 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,7 +265,7 @@ Completed: 2,389 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,209 | 2,389 |
+| 2023-11-14 | 718,223 | 2,390 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,274 (Ranked 85)  

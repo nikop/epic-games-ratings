@@ -18,6 +18,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One Easy Payment | 2.00% | ~2,795 |
 | Some Assembly Required | 2.00% | ~2,795 |
 | Bounty Hunters | 2.00% | ~2,795 |
+| Demand for Supplies | 2.00% | ~2,795 |
 | Flooding the Market | 2.00% | ~2,795 |
 | Where it Hurts | 2.00% | ~2,795 |
 | Another Satisfied Customer | 2.00% | ~2,795 |
@@ -33,7 +34,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 1.00% | ~1,398 |
 | Fated Encounters | 1.00% | ~1,398 |
 | Blank Page Syndrome | 1.00% | ~1,398 |
-| Demand for Supplies | 1.00% | ~1,398 |
 | Power of Love | 1.00% | ~1,398 |
 | Efficient Floor Space | 1.00% | ~1,398 |
 | Flawless Fusion | 1.00% | ~1,398 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,769 (Ranked 79)  
+Progressed: 139,774 (Ranked 79)  
 Completed: 184 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 184 (0.13%) (Ranked 264)
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
-| 2023-11-14 | 139,769 | 184 |
+| 2023-11-14 | 139,774 | 184 |
 ## Awards
 Max (Great for Beginners): 4,828  (Ranked 73)  
 Sum: 27,543 (Ranked 50)  

@@ -2,12 +2,12 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205282,
+  "EOS_Progressed": 205284,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22613,6 +22613,11 @@
       "Time": "2023-11-14T08:03:20.2653411+00:00",
       "NumProgressed": 205282,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2023-11-14T10:04:40.8497019+00:00",
+      "NumProgressed": 205284,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 29,
@@ -22648,7 +22653,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192965
+      "UsersEstimate": 192967
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22696,7 +22701,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -22792,7 +22797,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -22855,7 +22860,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205282,
+      "Progressed": 205284,
       "Completed": 527
     }
   ],
@@ -22863,8 +22868,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:03:35.7717588+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:04:40.8497012+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:58:28.3009151+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:03:35.7718779+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:59:35.8752472+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:04:40.850004+00:00"
 }

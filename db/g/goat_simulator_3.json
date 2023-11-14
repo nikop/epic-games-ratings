@@ -5071,9 +5071,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 250710,
+  "EOS_Progressed": 250711,
   "EOS_Completed": 876,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -27721,6 +27721,11 @@
       "Time": "2023-11-14T09:09:37.3852006+00:00",
       "NumProgressed": 250710,
       "NumCompleted": 876
+    },
+    {
+      "Time": "2023-11-14T10:10:37.603498+00:00",
+      "NumProgressed": 250711,
+      "NumCompleted": 876
     }
   ],
   "TotalAchievements": 39,
@@ -27796,7 +27801,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 228146
+      "UsersEstimate": 228147
     },
     {
       "ID": "AchievementClownID",
@@ -27844,7 +27849,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82734
+      "UsersEstimate": 82735
     },
     {
       "ID": "AchievementGoatID",
@@ -27860,7 +27865,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132876
+      "UsersEstimate": 132877
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27876,7 +27881,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37606
+      "UsersEstimate": 37607
     },
     {
       "ID": "AchievementInstinctID",
@@ -27908,7 +27913,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35099
+      "UsersEstimate": 35100
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -27964,7 +27969,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185525
+      "UsersEstimate": 185526
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27980,7 +27985,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 125355
+      "UsersEstimate": 125356
     },
     {
       "ID": "AchievementStreakingID",
@@ -27996,7 +28001,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 37606
+      "UsersEstimate": 37607
     },
     {
       "ID": "AchievementThroneID",
@@ -28004,7 +28009,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137890
+      "UsersEstimate": 137891
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -28043,7 +28048,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250710,
+      "Progressed": 250711,
       "Completed": 876
     }
   ],
@@ -28051,8 +28056,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-13T21:01:02.4023138+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:09:37.3852003+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:10:37.6034974+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5356776+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:59:51.670466+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:09:37.3853384+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:01:30.6017402+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:10:37.603725+00:00"
 }

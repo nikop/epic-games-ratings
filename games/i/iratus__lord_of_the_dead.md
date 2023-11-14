@@ -6,7 +6,7 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~38,194 |
+| Improvement | 86.00% | ~38,643 |
 | Blood Moon | 73.00% | ~32,802 |
 | Path of the Necromancer | 66.00% | ~29,656 |
 | Chainbreaker - I | 60.00% | ~26,960 |

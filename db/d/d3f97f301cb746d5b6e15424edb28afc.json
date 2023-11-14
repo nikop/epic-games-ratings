@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1600,9 +1600,9 @@
       "ID": "ACH_CAR_WASH_03",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 3",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_CAR_WASH_04",
@@ -1904,9 +1904,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 360
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -1960,9 +1960,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 354
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -2040,9 +2040,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -2176,9 +2176,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -2240,9 +2240,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -2319,8 +2319,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:06:24.0222739+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:08:14.0090579+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:59:15.4865933+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:06:24.0223709+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:00:41.0310974+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:08:14.0092248+00:00"
 }

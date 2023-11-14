@@ -1,20 +1,20 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.38 (Ranked 763)  
+Rating: 4.38 (Ranked 762)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,575 |
-| IT MAKES BOOM! | 6.00% | ~17,745 |
-| EXTRA BOOST | 5.00% | ~14,787 |
-| PROTECTED | 4.00% | ~11,830 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,872 |
-| PRO | 3.00% | ~8,872 |
+| ROOKIE | 10.00% | ~29,577 |
+| IT MAKES BOOM! | 6.00% | ~17,746 |
+| EXTRA BOOST | 5.00% | ~14,789 |
+| PROTECTED | 4.00% | ~11,831 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,873 |
+| PRO | 3.00% | ~8,873 |
 | A TIGER'S FEAR | 2.00% | ~5,915 |
 | AGGRESSIVE RACER | 2.00% | ~5,915 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,957 |
-| ACE SPEEDSTER | 1.00% | ~2,957 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,958 |
+| ACE SPEEDSTER | 1.00% | ~2,958 |
 | RELEASE THE KRAKEN | 0.80% | ~2,366 |
 | LEGENDARY HERO | 0.80% | ~2,366 |
 | TRAINING HARD | 0.70% | ~2,070 |
@@ -22,15 +22,15 @@ Rating: 4.38 (Ranked 763)
 | DEFEAT OUR CHAMPION | 0.70% | ~2,070 |
 | FRIENDLY | 0.70% | ~2,070 |
 | MASTER | 0.70% | ~2,070 |
-| THE EYE OF THE HUNTER | 0.60% | ~1,774 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,775 |
 | EXPERIENCED CREW | 0.50% | ~1,479 |
 | ACE BRAWLER | 0.40% | ~1,183 |
 | ACE DEFENDER | 0.40% | ~1,183 |
 | FRAMED! | 0.30% | ~887 |
-| PERFECTLY POISED | 0.20% | ~591 |
-| ACE TRICKSTER | 0.20% | ~591 |
+| PERFECTLY POISED | 0.20% | ~592 |
+| ACE TRICKSTER | 0.20% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,747 (Ranked 52)  
+Progressed: 295,771 (Ranked 52)  
 Completed: 284 (0.10%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 284 (0.10%) (Ranked 275)
 | 2023-11-11 | 292,080 | 281 |
 | 2023-11-12 | 294,059 | 281 |
 | 2023-11-13 | 295,317 | 283 |
-| 2023-11-14 | 295,747 | 284 |
+| 2023-11-14 | 295,771 | 284 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 407)  
 Sum: 537 (Ranked 319)  

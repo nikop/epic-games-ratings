@@ -7,8 +7,8 @@ Rating: 4.55 (Ranked 504)
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~405 |
 | And again, and again, and... | 63.00% | ~293 |
+| Kuvaq Minigame-Master | 62.00% | ~288 |
 | Burn, Elysium, burn! | 62.00% | ~288 |
-| Kuvaq Minigame-Master | 61.00% | ~284 |
 | FunScore | 55.00% | ~256 |
 | Funtime's over | 53.00% | ~246 |
 | Chunky | 50.00% | ~232 |
@@ -31,8 +31,8 @@ Rating: 4.55 (Ranked 504)
 | Blast from the Past | 12.00% | ~56 |
 | Play it again, Ronny | 11.00% | ~51 |
 | Paradox! | 10.00% | ~46 |
+| Weapons 101 | 9.00% | ~42 |
 | Goat Team | 9.00% | ~42 |
-| Weapons 101 | 8.00% | ~37 |
 | Sadist | 7.00% | ~33 |
 | The customer is always right | 7.00% | ~33 |
 | Every man for himself! | 6.00% | ~28 |

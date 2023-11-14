@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2565,9 +2565,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 8520,
+  "EOS_Progressed": 8521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7980,6 +7980,11 @@
       "Time": "2023-11-14T09:03:12.6636656+00:00",
       "NumProgressed": 8520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T10:04:11.0464646+00:00",
+      "NumProgressed": 8521,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8008,7 +8013,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "ach04",
@@ -8016,7 +8021,7 @@
       "Name": "What Just Happened??",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ach05",
@@ -8032,7 +8037,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6390
+      "UsersEstimate": 6391
     },
     {
       "ID": "ach07",
@@ -8040,7 +8045,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "ach08",
@@ -8176,7 +8181,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "ach25",
@@ -8200,7 +8205,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ach28",
@@ -8240,7 +8245,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ach33",
@@ -8296,7 +8301,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3493
+      "UsersEstimate": 3494
     },
     {
       "ID": "ach40",
@@ -8312,7 +8317,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "ach42",
@@ -8344,7 +8349,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "ach46",
@@ -8360,7 +8365,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ach48",
@@ -8368,7 +8373,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ach49",
@@ -8391,7 +8396,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8520,
+      "Progressed": 8521,
       "Completed": 0
     }
   ],
@@ -8399,8 +8404,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-14T01:41:58.3043699+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:03:12.6636651+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:04:11.0464638+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:57:32.6793407+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:03:12.6637441+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:58:19.1107387+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:04:11.0466105+00:00"
 }

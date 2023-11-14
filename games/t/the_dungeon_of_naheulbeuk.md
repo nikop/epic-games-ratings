@@ -1,16 +1,16 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,968 |
+| Sowwy! | 35.00% | ~82,969 |
 | Alt+F4 | 8.00% | ~18,964 |
 | Where's that freaking Dwarf? | 7.00% | ~16,594 |
 | Déjà vu | 6.00% | ~14,223 |
-| Sock! SOCK! | 5.00% | ~11,852 |
+| Sock! SOCK! | 5.00% | ~11,853 |
 | A beer, two curses, three companions | 4.00% | ~9,482 |
 | GG EZ | 4.00% | ~9,482 |
 | DM intervention | 4.00% | ~9,482 |
@@ -37,13 +37,13 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,741 |
 | Team Building Exercise | 2.00% | ~4,741 |
 | Oh, when I'll be level 10... | 2.00% | ~4,741 |
-| Dwarf Fortress | 1.00% | ~2,370 |
-| %#*!$*! | 1.00% | ~2,370 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,370 |
-| Dead for good | 1.00% | ~2,370 |
-| Gargantua | 1.00% | ~2,370 |
-| Lust and Debauchery | 1.00% | ~2,370 |
-| Material Girl | 1.00% | ~2,370 |
+| Dwarf Fortress | 1.00% | ~2,371 |
+| %#*!$*! | 1.00% | ~2,371 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,371 |
+| Dead for good | 1.00% | ~2,371 |
+| Gargantua | 1.00% | ~2,371 |
+| Lust and Debauchery | 1.00% | ~2,371 |
+| Material Girl | 1.00% | ~2,371 |
 | In Navalu's footsteps | 0.80% | ~1,896 |
 | We come in peace | 0.70% | ~1,659 |
 | Lëgal Legend | 0.70% | ~1,659 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,050 (Ranked 62)  
+Progressed: 237,053 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-11 | 236,594 | 7 |
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
-| 2023-11-14 | 237,050 | 7 |
+| 2023-11-14 | 237,053 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 273)  
 Sum: 458 (Ranked 331)  

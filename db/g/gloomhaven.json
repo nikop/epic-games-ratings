@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2429,9 +2429,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20557,
+  "EOS_Progressed": 20560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1486,
+  "EOS_NewPlayers": 1484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9224,6 +9224,11 @@
       "Time": "2023-11-14T09:05:45.791117+00:00",
       "NumProgressed": 20557,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T10:07:25.1541479+00:00",
+      "NumProgressed": 20560,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9410,9 +9415,9 @@
       "ID": "Achievement_Trophy23",
       "SetID": "724h0m0",
       "Name": "Grizzled veteran",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3084
+      "UsersEstimate": 2878
     },
     {
       "ID": "Achievement_Trophy24",
@@ -9420,7 +9425,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8634
+      "UsersEstimate": 8635
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9428,7 +9433,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "Achievement_Trophy26",
@@ -9436,7 +9441,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6989
+      "UsersEstimate": 6990
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9452,7 +9457,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6784
+      "UsersEstimate": 6785
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9468,7 +9473,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6167
+      "UsersEstimate": 6168
     },
     {
       "ID": "Achievement_Trophy31",
@@ -9476,7 +9481,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9524,7 +9529,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9556,7 +9561,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "Achievement_Trophy42",
@@ -9580,7 +9585,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Achievement_Trophy45",
@@ -9612,7 +9617,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "Achievement_Trophy49",
@@ -9723,7 +9728,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20557,
+      "Progressed": 20560,
       "Completed": 1
     }
   ],
@@ -9731,8 +9736,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T03:00:02.2239753+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:05:45.7911165+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:07:25.1541473+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:59:11.2106621+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:05:45.7912039+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:00:35.009475+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:07:25.1542585+00:00"
 }

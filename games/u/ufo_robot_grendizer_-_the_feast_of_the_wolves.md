@@ -1,3 +1,36 @@
 # UFO ROBOT GRENDIZER - The Feast of the Wolves
 [Store](https://store.epicgames.com/en-US/p/goldorak-d90cf1)  
 [View Rawdata](../../db/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.json)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Gold Seeker | 0.00% | ~0 |
+| A Land of Peace | 0.00% | ~0 |
+| The Power of Friendship | 0.00% | ~0 |
+| Escape from Fleed | 0.00% | ~0 |
+| First Contact | 0.00% | ~0 |
+| Strength in Defeat | 0.00% | ~0 |
+| The Remains of Fleed | 0.00% | ~0 |
+| Life of Pi | 0.00% | ~0 |
+| A Good Paint Job | 0.00% | ~0 |
+| Technology first! | 0.00% | ~0 |
+| The Keeper of Fleed | 0.00% | ~0 |
+| The Planner | 0.00% | ~0 |
+| Earth's Savior | 0.00% | ~0 |
+| Iron Fist | 0.00% | ~0 |
+| The Exterminator | 0.00% | ~0 |
+| The Legend | 0.00% | ~0 |
+| You can't fool me! | 0.00% | ~0 |
+| The Collector | 0.00% | ~0 |
+| The Broken Guard | 0.00% | ~0 |
+| Saucer Beast Unchained | 0.00% | ~0 |
+| The Completionist | 0.00% | ~0 |
+| The Battle Axe | 0.00% | ~0 |
+| The Fire Cannons | 0.00% | ~0 |
+| The Flying Octopus | 0.00% | ~0 |
+| The Interstellar Fighter | 0.00% | ~0 |
+| The Royal Guard | 0.00% | ~0 |
+| The Space Hydra | 0.00% | ~0 |
+| The Ultimate Attack | 0.00% | ~0 |
+| The Vega Turtle | 0.00% | ~0 |
+| Vengeance of the Wolf | 0.00% | ~0 |

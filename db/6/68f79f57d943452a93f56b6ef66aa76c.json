@@ -2,10 +2,10 @@
   "ID": "68f79f57d943452a93f56b6ef66aa76c",
   "Name": "Zoria Age of Shattering",
   "ProductSlug": "zoria-age-of-shattering-334aa7",
-  "Ranking_EOS_Progress": 741,
+  "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-07T11:57:09.3256888+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:57:55.6328065+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:06:22.229626+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:58:51.0046645+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:08:11.8919393+00:00"
 }

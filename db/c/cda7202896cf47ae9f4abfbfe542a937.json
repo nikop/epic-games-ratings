@@ -2,10 +2,10 @@
   "ID": "cda7202896cf47ae9f4abfbfe542a937",
   "Name": "Delicious Dungeon",
   "ProductSlug": "delicious-dungeon-eee7e6",
-  "Ranking_EOS_Progress": 741,
+  "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-03T18:00:00+00:00",
     "PcReleaseDate": "2023-11-03T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-05T02:22:44.0888027+00:00",
   "LastUpdate_AppInfo": "2023-11-11T05:57:05.6770101+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:57:41.3857357+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:03:42.1550654+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:58:31.3644857+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:04:49.059296+00:00"
 }

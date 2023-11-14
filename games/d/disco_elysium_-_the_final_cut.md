@@ -7,7 +7,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,620 |
-| Biggest Communism Builder | 24.00% | ~31,388 |
+| Biggest Communism Builder | 24.00% | ~31,389 |
 | The World's Most Laughable Centrist | 21.00% | ~27,465 |
 | Il Coppo Del'Arte! | 18.00% | ~23,541 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,926 |
@@ -16,7 +16,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~18,310 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,002 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,386 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,078 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,079 |
 | Unbelievably Boring **** | 9.00% | ~11,771 |
 | Enemy Of The Physical Realm | 9.00% | ~11,771 |
 | Hardie's Heroes | 6.00% | ~7,847 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Venture into the HARDCORE | 0.90% | ~1,177 |
 | Real Musor | 0.90% | ~1,177 |
 | Baddest Brow in Town | 0.80% | ~1,046 |
-| Networthy Individual | 0.70% | ~915 |
+| Networthy Individual | 0.70% | ~916 |
 | Leopard Mindset | 0.60% | ~785 |
 | Modus: Mullen | 0.30% | ~392 |
 | Palerunner | 0.30% | ~392 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,785 (Ranked 81)  
+Progressed: 130,786 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 28 (0.02%) (Ranked 320)
 | 2023-11-11 | 130,697 | 28 |
 | 2023-11-12 | 130,740 | 28 |
 | 2023-11-13 | 130,780 | 28 |
-| 2023-11-14 | 130,785 | 28 |
+| 2023-11-14 | 130,786 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 177)  
 Sum: 1,118 (Ranked 249)  

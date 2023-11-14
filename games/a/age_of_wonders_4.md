@@ -19,9 +19,9 @@ Rating: 4.61 (Ranked 385)
 | Magical Synergy | 0.70% | ~38 |
 | Seat of Power | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
+| Valley of Wonders | 0.60% | ~32 |
 | In a Liege of Your Own | 0.60% | ~32 |
 | Chaos Surge | 0.60% | ~32 |
-| Valley of Wonders | 0.50% | ~27 |
 | Digging for Treasure | 0.50% | ~27 |
 | Intimidation Tactics | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |

@@ -33,7 +33,7 @@ Number of Ratings: 274  (23.09.2022)
 | TUNING MANIAC | 0.50% | ~1,178 |
 | DRAGOON | 0.40% | ~942 |
 | FLAWLESS | 0.40% | ~942 |
-| MARID | 0.30% | ~706 |
+| MARID | 0.30% | ~707 |
 | BETTER THAN EVER | 0.20% | ~471 |
 | IINI | 0.20% | ~471 |
 | NOBUNAGA | 0.20% | ~471 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~471 |
 | ENLIGHTENED | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,500 (Ranked 63)  
+Progressed: 235,501 (Ranked 63)  
 Completed: 48 (0.02%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 48 (0.02%) (Ranked 320)
 | 2023-11-11 | 235,336 | 48 |
 | 2023-11-12 | 235,434 | 48 |
 | 2023-11-13 | 235,484 | 48 |
-| 2023-11-14 | 235,500 | 48 |
+| 2023-11-14 | 235,501 | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

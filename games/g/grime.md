@@ -1,14 +1,14 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 430)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taste | 5.00% | ~7,909 |
 | Imprint | 5.00% | ~7,909 |
-| The Hunt | 4.00% | ~6,327 |
+| The Hunt | 4.00% | ~6,328 |
 | Weeper | 3.00% | ~4,746 |
 | Ravenous | 3.00% | ~4,746 |
 | Harmless | 2.00% | ~3,164 |
@@ -23,10 +23,10 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 1.00% | ~1,582 |
 | Shapely | 0.90% | ~1,424 |
 | Glare | 0.90% | ~1,420 |
-| Assimilation | 0.80% | ~1,265 |
+| Assimilation | 0.80% | ~1,266 |
 | Host | 0.80% | ~1,262 |
-| Celebration | 0.80% | ~1,265 |
-| Predator | 0.80% | ~1,265 |
+| Celebration | 0.80% | ~1,266 |
+| Predator | 0.80% | ~1,266 |
 | Hunt Down | 0.60% | ~949 |
 | Hush | 0.60% | ~949 |
 | Inevitable | 0.60% | ~949 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,186 (Ranked 76)  
+Progressed: 158,188 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,10 +238,10 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
 | 2023-11-13 | 158,135 | 1 |
-| 2023-11-14 | 158,186 | 1 |
+| 2023-11-14 | 158,188 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
-Sum: 363 (Ranked 349)  
+Sum: 364 (Ranked 349)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -249,8 +249,8 @@ Diff (max vs sum): 77
 | This game has Quickly Understood Controls | 51 |
 | This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 47 |
+| This game has Amazing Storytelling | 46 |
 | This game has Challenging Combat | 45 |
-| This game has Amazing Storytelling | 45 |
 | This game has Amazing Characters | 38 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
@@ -396,4 +396,4 @@ Diff (max vs sum): 77
 | 2023-11-11 | 4.59 | - | 51 | 358 |
 | 2023-11-12 | 4.59 | - | 51 | 361 |
 | 2023-11-13 | 4.58 | - | 51 | 363 |
-| 2023-11-14 | 4.59 | - | 51 | 363 |
+| 2023-11-14 | 4.59 | - | 51 | 364 |

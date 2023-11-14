@@ -6,10 +6,33 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| AAA Credit | 0.10% | ~455 |
 | At every continent | 0.10% | ~455 |
+| Bright Spark | 0.10% | ~455 |
+| Brothers in Arms | 0.10% | ~455 |
+| Cold War | 0.10% | ~455 |
+| Combined Arms | 0.10% | ~455 |
+| Defender of the Faith | 0.10% | ~455 |
 | Early-Modern Warfare | 0.10% | ~455 |
+| Gentle Persuasion | 0.10% | ~455 |
+| A Golden Empire | 0.10% | ~455 |
+| That's a Grand Army | 0.10% | ~455 |
+| That's a Grand Navy | 0.10% | ~455 |
+| Just Resting In My Account | 0.10% | ~455 |
+| Live Long and Prosper | 0.10% | ~455 |
+| Respected | 0.10% | ~455 |
 | Royal Authority | 0.10% | ~455 |
+| Seriously?! | 0.10% | ~455 |
+| That is mine! | 0.10% | ~455 |
+| This navy can take it all | 0.10% | ~455 |
+| Time Bandit | 0.10% | ~455 |
+| Trophy Hunter | 0.10% | ~455 |
+| Truly Divine Ruler | 0.10% | ~455 |
 | Until death do us apart | 0.10% | ~455 |
+| Vasa or Wettin? | 0.10% | ~455 |
+| Victorious! | 0.10% | ~455 |
+| Viva la Revolución! | 0.10% | ~455 |
+| Wonderful | 0.10% | ~455 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
@@ -20,7 +43,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Protected Market | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
-| AAA Credit | 0.00% | ~0 |
 | Absolutely | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
@@ -63,8 +85,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
 | Brick by Brick | 0.00% | ~0 |
-| Bright Spark | 0.00% | ~0 |
-| Brothers in Arms | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
@@ -74,9 +94,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
 | City of Cities | 0.00% | ~0 |
-| Cold War | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
-| Combined Arms | 0.00% | ~0 |
 | Consulate of the Sea | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
@@ -86,7 +104,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
-| Defender of the Faith | 0.00% | ~0 |
 | Definitely the Sultan of Rum | 0.00% | ~0 |
 | Die Please Die | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
@@ -123,20 +140,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fugger Banking | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Gentle Persuasion | 0.00% | ~0 |
 | Georgia on my Mind | 0.00% | ~0 |
 | Global Hegemony | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
 | Gold Rush | 0.00% | ~0 |
-| A Golden Empire | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| That's a Grand Army | 0.00% | ~0 |
 | Grand Coalition | 0.00% | ~0 |
 | Grand Duchy | 0.00% | ~0 |
-| That's a Grand Navy | 0.00% | ~0 |
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -165,7 +178,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Just a Little Patience | 0.00% | ~0 |
-| Just Resting In My Account | 0.00% | ~0 |
 | A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
@@ -187,7 +199,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Levant Turnabout | 0.00% | ~0 |
 | Liberty or Death | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
-| Live Long and Prosper | 0.00% | ~0 |
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
@@ -250,14 +261,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Redecorating | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Relentless Push East | 0.00% | ~0 |
-| Respected | 0.00% | ~0 |
 | Rise of the White Sheep | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
 | Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Sakoku Law | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
-| Seriously?! | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Shahanshah | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
@@ -292,7 +301,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tatarstan | 0.00% | ~0 |
 | Tear Down This Wall | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
-| That is mine! | 0.00% | ~0 |
 | That's a Silk Road | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
@@ -320,31 +328,24 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is fine | 0.00% | ~0 |
 | This is My Faith | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
-| This navy can take it all | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Three Trivial Tributary Tribes | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
-| Time Bandit | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Total Control | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
 | Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
-| Trophy Hunter | 0.00% | ~0 |
 | True Catholic | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
-| Truly Divine Ruler | 0.00% | ~0 |
 | Trustworthy | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
 | Turning the Tide | 0.00% | ~0 |
 | Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
-| Vasa or Wettin? | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
-| Victorious! | 0.00% | ~0 |
-| Viva la Revolución! | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
 | Voting Streak | 0.00% | ~0 |
 | We bled for this | 0.00% | ~0 |
@@ -355,7 +356,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | Winged Hussars | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
-| Wonderful | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
 | World Discoverer | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,215 (Ranked 41)  
+Progressed: 455,243 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,19 +578,19 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,215 | 1 |
+| 2023-11-14 | 455,243 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 54)  
-Sum: 57,480 (Ranked 24)  
+Sum: 57,505 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,999 |
-| This game has Diverse Characters | 6,708 |
+| This game has Diverse Characters | 6,725 |
 | This game is Highly Recommended | 6,699 |
 | This game has Challenging Combat | 6,606 |
 | This game is Extremely Fun | 6,587 |
-| This game is Relaxing | 6,421 |
+| This game is Relaxing | 6,429 |
 | This game has Competitive Players | 6,264 |
 | This game has Amazing Storytelling | 5,810 |
 | This game has Amazing Characters | 5,386 |
@@ -899,4 +899,4 @@ Diff (max vs sum): 30
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
-| 2023-11-14 | 4.69 | - | 6,999 | 57,480 |
+| 2023-11-14 | 4.69 | - | 6,999 | 57,505 |

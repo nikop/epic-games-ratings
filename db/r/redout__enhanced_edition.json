@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235500,
+  "EOS_Progressed": 235501,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
@@ -22182,6 +22182,11 @@
       "Time": "2023-11-14T08:05:10.3305719+00:00",
       "NumProgressed": 235500,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-14T10:07:16.4742345+00:00",
+      "NumProgressed": 235501,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22321,7 +22326,7 @@
       "Name": "MARID",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "NATURALBORNWINNER",
@@ -22464,15 +22469,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235500,
+      "Progressed": 235501,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-14T09:05:38.9918645+00:00",
+  "LastChanged_Achievements": "2023-11-14T10:07:16.4742338+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:58:23.3545256+00:00",
-  "LastUpdate_Achievements": "2023-11-14T09:05:38.9920018+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:59:28.7840414+00:00",
+  "LastUpdate_Achievements": "2023-11-14T10:07:16.4746161+00:00"
 }
