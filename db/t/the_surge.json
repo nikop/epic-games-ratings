@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4833,
+  "EOS_Progressed": 4835,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3216,6 +3216,11 @@
       "Time": "2023-11-13T22:31:02.611252+00:00",
       "NumProgressed": 4833,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-14T00:05:47.4433432+00:00",
+      "NumProgressed": 4835,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3243,7 +3248,7 @@
       "Name": "Big Sister",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -3275,7 +3280,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4110
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3283,7 +3288,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4543
+      "UsersEstimate": 4545
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3291,7 +3296,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3723
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3299,7 +3304,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3395,7 +3400,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -3411,7 +3416,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -3443,7 +3448,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3723
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3475,7 +3480,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -3507,7 +3512,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3571,7 +3576,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3579,7 +3584,7 @@
       "Name": "SENTINEL",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -3762,15 +3767,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4833,
+      "Progressed": 4835,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:05:18.1370947+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:05:47.4433428+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:29.1986368+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:57:32.7948616+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:05:18.1371625+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:57:37.0500984+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:05:47.4434353+00:00"
 }

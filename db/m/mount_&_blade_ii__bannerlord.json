@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8662,10 +8662,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15252,
       "NumberOfAwardsMax": 7379
+    },
+    {
+      "Time": "2023-11-13T23:58:47.4425154+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15254,
+      "NumberOfAwardsMax": 7379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15252,
+  "NumberOfAwards": 15254,
   "NumberOfAwardsMax": 7379,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8709,7 +8715,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 856
+      "Count": 858
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8742,7 +8748,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65066,
+  "EOS_Progressed": 65067,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
@@ -30567,6 +30573,11 @@
       "Time": "2023-11-13T23:08:38.1302523+00:00",
       "NumProgressed": 65066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T00:09:18.1847645+00:00",
+      "NumProgressed": 65067,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30592,9 +30603,9 @@
       "ID": "Bannerlord",
       "SetID": "den0lp1",
       "Name": "Bannerlord",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 14965
+      "UsersEstimate": 15616
     },
     {
       "ID": "Best served cold",
@@ -30810,7 +30821,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26026
+      "UsersEstimate": 26027
     },
     {
       "ID": "Lawmaker",
@@ -30985,15 +30996,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65066,
+      "Progressed": 65067,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-13T13:04:38.4343155+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:08:38.130252+00:00",
+  "LastChanged": "2023-11-13T23:58:47.4425152+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:09:18.1847639+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:58:39.9586213+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:08:38.1303602+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:58:47.4425158+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:09:18.1849326+00:00"
 }

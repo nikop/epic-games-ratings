@@ -249,9 +249,9 @@ Completed: 30 (0.16%) (Ranked 259)
 | 2023-11-12 | 18,526 | 31 |
 | 2023-11-13 | 18,507 | 30 |
 ## Awards
-Max (Quickly Understood Controls): 92  (Ranked 371)  
+Max (Quickly Understood Controls): 92  (Ranked 372)  
 Sum: 676 (Ranked 299)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 92 |

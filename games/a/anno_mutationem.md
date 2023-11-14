@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.56 (Ranked 488)  
+Rating: 4.56 (Ranked 489)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 488)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682 (Ranked 276)  
+Progressed: 682 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |

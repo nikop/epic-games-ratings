@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4115,9 +4115,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76394,
+  "EOS_Progressed": 76396,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22490,6 +22490,11 @@
       "Time": "2023-11-13T22:29:58.6396746+00:00",
       "NumProgressed": 76394,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-14T00:04:49.2134085+00:00",
+      "NumProgressed": 76396,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22581,7 +22586,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "APPLY_STATUS",
@@ -22677,7 +22682,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22685,7 +22690,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6875
+      "UsersEstimate": 6876
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -22717,7 +22722,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7639
+      "UsersEstimate": 7640
     },
     {
       "ID": "FREEZE_1",
@@ -22725,7 +22730,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21390
+      "UsersEstimate": 21391
     },
     {
       "ID": "FREEZE_1_5",
@@ -22805,7 +22810,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26738
+      "UsersEstimate": 26739
     },
     {
       "ID": "HARLEY_2",
@@ -22813,7 +22818,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19098
+      "UsersEstimate": 19099
     },
     {
       "ID": "HARLEY_3",
@@ -22845,7 +22850,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38961
+      "UsersEstimate": 38962
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22877,7 +22882,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20626
+      "UsersEstimate": 20627
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22893,7 +22898,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25974
+      "UsersEstimate": 25975
     },
     {
       "ID": "MYSTERY_02",
@@ -22901,7 +22906,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19098
+      "UsersEstimate": 19099
     },
     {
       "ID": "MYSTERY_03",
@@ -22949,7 +22954,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9167
+      "UsersEstimate": 9168
     },
     {
       "ID": "SECRET_CACHE",
@@ -22957,7 +22962,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8403
+      "UsersEstimate": 8404
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -22965,7 +22970,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6875
+      "UsersEstimate": 6876
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -22988,13 +22993,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76394,
+      "Progressed": 76396,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46674,
+      "Progressed": 46676,
       "Completed": 2673
     }
   ],
@@ -23002,8 +23007,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-13T13:57:31.4314506+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:04:22.074896+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:04:49.213408+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:57:27.7830864+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:04:22.0750118+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:57:31.7788715+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:04:49.2136171+00:00"
 }

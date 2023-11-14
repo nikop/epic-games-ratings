@@ -1,14 +1,14 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Imprint | 5.00% | ~7,907 |
-| The Hunt | 4.00% | ~6,325 |
-| Taste | 4.00% | ~6,325 |
+| The Hunt | 4.00% | ~6,326 |
+| Taste | 4.00% | ~6,326 |
 | Weeper | 3.00% | ~4,744 |
 | Ravenous | 3.00% | ~4,744 |
 | Harmless | 2.00% | ~3,163 |
@@ -22,7 +22,7 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,581 |
 | Sharpened Vessel | 1.00% | ~1,581 |
 | Shapely | 0.90% | ~1,423 |
-| Glare | 0.90% | ~1,419 |
+| Glare | 0.90% | ~1,420 |
 | Assimilation | 0.80% | ~1,265 |
 | Host | 0.80% | ~1,262 |
 | Celebration | 0.80% | ~1,265 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,135 (Ranked 76)  
+Progressed: 158,141 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
 | 2023-11-13 | 158,135 | 1 |
+| 2023-11-14 | 158,141 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 363 (Ranked 349)  

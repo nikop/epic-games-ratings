@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2561,7 +2561,7 @@
   ],
   "EOS_Progressed": 8512,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8346,9 +8346,9 @@
       "ID": "ach50",
       "SetID": "47in8n6",
       "Name": "Witness Me!!!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3405
     }
   ],
   "AchievementSets": [
@@ -8363,8 +8363,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-13T22:00:32.985661+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:07:52.349518+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:08:31.5112763+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:57:20.6549636+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:07:52.3495707+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:57:23.6428991+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:08:31.5113776+00:00"
 }

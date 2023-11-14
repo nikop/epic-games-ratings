@@ -14,13 +14,13 @@
 | The court | 9.00% | ~50 |
 | Holy Nails | 8.00% | ~45 |
 | The crucifixion | 7.00% | ~39 |
-| Flagellation | 6.00% | ~34 |
+| Flagellation | 7.00% | ~39 |
 | The choice | 4.00% | ~22 |
 | Hubris | 3.00% | ~17 |
 | Humility | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 560 (Ranked 294)  
-Completed: 5 (0.89%) (Ranked 165)  
+Completed: 6 (1.07%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,3 +137,4 @@ Completed: 5 (0.89%) (Ranked 165)
 | 2023-11-10 | 555 | 5 |
 | 2023-11-11 | 558 | 5 |
 | 2023-11-12 | 560 | 5 |
+| 2023-11-14 | 560 | 6 |

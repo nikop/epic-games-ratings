@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1453,9 +1453,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158135,
+  "EOS_Progressed": 158141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15543,6 +15543,11 @@
       "Time": "2023-11-13T23:03:59.5559436+00:00",
       "NumProgressed": 158135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T00:04:25.8384283+00:00",
+      "NumProgressed": 158141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15602,7 +15607,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15618,7 +15623,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15666,7 +15671,7 @@
       "Name": "Glare",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -15921,21 +15926,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157718,
+      "Progressed": 157724,
       "Completed": 1201
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158135,
+      "Progressed": 158141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-13T18:00:16.0469446+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:03:59.5559431+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:04:25.8384278+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:59:15.4073895+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:03:59.5560719+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:59:24.740688+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:04:25.8386052+00:00"
 }

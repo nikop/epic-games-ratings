@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251263,
+  "EOS_Progressed": 251266,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18932,6 +18932,11 @@
       "Time": "2023-11-13T23:08:23.9893382+00:00",
       "NumProgressed": 251263,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T00:09:03.6702326+00:00",
+      "NumProgressed": 251266,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18943,7 +18948,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     },
     {
       "ID": "aWinnerIsYou",
@@ -18967,7 +18972,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52765
+      "UsersEstimate": 52766
     },
     {
       "ID": "blotbuster",
@@ -19015,7 +19020,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37689
+      "UsersEstimate": 37690
     },
     {
       "ID": "clearCut",
@@ -19039,7 +19044,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45227
+      "UsersEstimate": 45228
     },
     {
       "ID": "curator",
@@ -19119,7 +19124,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133169
+      "UsersEstimate": 133171
     },
     {
       "ID": "indegestible",
@@ -19135,7 +19140,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     },
     {
       "ID": "itsTheFall",
@@ -19143,7 +19148,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65328
+      "UsersEstimate": 65329
     },
     {
       "ID": "justABit",
@@ -19183,7 +19188,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125632
+      "UsersEstimate": 125633
     },
     {
       "ID": "notScared",
@@ -19215,7 +19220,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     },
     {
       "ID": "rideTheWave",
@@ -19247,7 +19252,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55278
+      "UsersEstimate": 55279
     },
     {
       "ID": "thunderstruck",
@@ -19263,7 +19268,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32664
+      "UsersEstimate": 32665
     },
     {
       "ID": "treeMedalist",
@@ -19303,14 +19308,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40202
+      "UsersEstimate": 40203
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251263,
+      "Progressed": 251266,
       "Completed": 6
     }
   ],
@@ -19318,8 +19323,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:08:23.9893379+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:09:03.670232+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:57:50.3541187+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:08:23.9894345+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:57:55.1933504+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:09:03.670494+00:00"
 }

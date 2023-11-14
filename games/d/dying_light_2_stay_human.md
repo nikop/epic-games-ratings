@@ -1,42 +1,42 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 37.00% | ~241,157 |
-| Into the Unknown | 34.00% | ~221,604 |
-| First Shot | 34.00% | ~221,604 |
-| Herzlich Wilkommen! | 32.00% | ~208,568 |
-| Good Night & Good Luck | 32.00% | ~208,568 |
-| Sancho Panza | 31.00% | ~202,050 |
-| Oh, So This Is How It Works! | 28.00% | ~182,497 |
-| Flag Burning | 26.00% | ~169,462 |
-| Under Pressure | 24.00% | ~156,426 |
-| It Wasn't That Hard, Was It? | 24.00% | ~156,426 |
-| Can't Touch This! | 24.00% | ~156,426 |
-| On the Trail of the Enemy | 23.00% | ~149,908 |
-| Light in the Darkness | 23.00% | ~149,908 |
-| Get Outta My House! | 23.00% | ~149,908 |
-| Night Hunter | 22.00% | ~143,390 |
-| Being All Social | 21.00% | ~136,873 |
-| After the Fall | 19.00% | ~123,837 |
-| We Will Be Heard! | 18.00% | ~117,320 |
-| Tunnel Entrance | 17.00% | ~110,802 |
-| Known Associate | 16.00% | ~104,284 |
-| Brush with Death | 16.00% | ~104,284 |
-| Debris and Ashes | 15.00% | ~97,766 |
-| Going Down | 15.00% | ~97,766 |
-| Family First | 15.00% | ~97,766 |
-| Your World, Your Rules | 14.00% | ~91,249 |
-| Death From Afar | 14.00% | ~91,249 |
-| Terminal Headache | 14.00% | ~91,249 |
-| Slowpoke! | 12.00% | ~78,213 |
-| Tickets, Please! | 7.00% | ~45,624 |
-| Parkour Master | 6.00% | ~39,106 |
-| Combat Master | 6.00% | ~39,106 |
+| You Never Forget Your First... | 37.00% | ~241,160 |
+| Into the Unknown | 34.00% | ~221,606 |
+| First Shot | 34.00% | ~221,606 |
+| Herzlich Wilkommen! | 32.00% | ~208,571 |
+| Good Night & Good Luck | 32.00% | ~208,571 |
+| Sancho Panza | 31.00% | ~202,053 |
+| Oh, So This Is How It Works! | 28.00% | ~182,499 |
+| Flag Burning | 26.00% | ~169,464 |
+| Under Pressure | 24.00% | ~156,428 |
+| It Wasn't That Hard, Was It? | 24.00% | ~156,428 |
+| Can't Touch This! | 24.00% | ~156,428 |
+| On the Trail of the Enemy | 23.00% | ~149,910 |
+| Light in the Darkness | 23.00% | ~149,910 |
+| Get Outta My House! | 23.00% | ~149,910 |
+| Night Hunter | 22.00% | ~143,392 |
+| Being All Social | 21.00% | ~136,874 |
+| After the Fall | 19.00% | ~123,839 |
+| We Will Be Heard! | 18.00% | ~117,321 |
+| Tunnel Entrance | 17.00% | ~110,803 |
+| Known Associate | 16.00% | ~104,285 |
+| Brush with Death | 16.00% | ~104,285 |
+| Debris and Ashes | 15.00% | ~97,767 |
+| Going Down | 15.00% | ~97,767 |
+| Family First | 15.00% | ~97,767 |
+| Your World, Your Rules | 14.00% | ~91,250 |
+| Death From Afar | 14.00% | ~91,250 |
+| Terminal Headache | 14.00% | ~91,250 |
+| Slowpoke! | 12.00% | ~78,214 |
+| Tickets, Please! | 7.00% | ~45,625 |
+| Parkour Master | 6.00% | ~39,107 |
+| Combat Master | 6.00% | ~39,107 |
 | Municipal Services | 5.00% | ~32,589 |
 | Ban Hammer | 5.00% | ~32,589 |
 | Modder | 5.00% | ~32,589 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~297 |
 | Connoisseur | 0.10% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651,775 (Ranked 29)  
+Progressed: 651,783 (Ranked 29)  
 Completed: 67 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,18 +280,19 @@ Completed: 67 (0.01%) (Ranked 329)
 | 2023-11-11 | 650,733 | 67 |
 | 2023-11-12 | 651,313 | 67 |
 | 2023-11-13 | 651,775 | 67 |
+| 2023-11-14 | 651,783 | 67 |
 ## Awards
 Max (Character Customization): 10,039  (Ranked 39)  
-Sum: 25,283 (Ranked 52)  
+Sum: 25,294 (Ranked 52)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 10,039 |
 | This game has Great Boss Battles | 6,140 |
 | This game is Great for Beginners | 1,191 |
-| This game has Diverse Characters | 1,091 |
+| This game has Diverse Characters | 1,098 |
 | This game is Highly Recommended | 1,070 |
-| This game has Amazing Characters | 1,036 |
+| This game has Amazing Characters | 1,040 |
 | This game has Amazing Storytelling | 1,001 |
 | This game is Extremely Fun | 987 |
 | This game has Quickly Understood Controls | 946 |
@@ -606,4 +607,4 @@ Diff (max vs sum): -13
 | 2023-11-10 | 4.58 | - | 9,967 | 25,019 |
 | 2023-11-11 | 4.58 | - | 9,986 | 25,094 |
 | 2023-11-12 | 4.58 | - | 10,023 | 25,216 |
-| 2023-11-13 | 4.58 | - | 10,039 | 25,283 |
+| 2023-11-13 | 4.58 | - | 10,039 | 25,294 |

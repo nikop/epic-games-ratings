@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -235,9 +235,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -323,9 +323,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_DEATH_2",
@@ -387,9 +387,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 45,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -435,9 +435,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:04:29.240791+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:04:56.6826758+00:00",
   "LastUpdate_AppInfo": "2023-11-07T16:57:12.9013304+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:59:23.8087896+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:04:29.240821+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:59:33.5277117+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:04:56.6827132+00:00"
 }

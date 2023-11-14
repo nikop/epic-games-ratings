@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4023,9 +4023,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 78387,
+  "EOS_Progressed": 78389,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27498,6 +27498,11 @@
       "Time": "2023-11-13T22:33:05.4989222+00:00",
       "NumProgressed": 78387,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-14T00:08:39.5676164+00:00",
+      "NumProgressed": 78389,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27605,7 +27610,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 24300
+      "UsersEstimate": 24301
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -27621,7 +27626,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36842
+      "UsersEstimate": 36843
     },
     {
       "ID": "customize_a_vehicle",
@@ -27637,7 +27642,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29003
+      "UsersEstimate": 29004
     },
     {
       "ID": "cutting_edge_materials",
@@ -27701,7 +27706,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9406
+      "UsersEstimate": 9407
     },
     {
       "ID": "empire_tier_5",
@@ -27757,7 +27762,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 28219
+      "UsersEstimate": 28220
     },
     {
       "ID": "hit_max_level",
@@ -27781,7 +27786,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15677
+      "UsersEstimate": 15678
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -27789,7 +27794,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21948
+      "UsersEstimate": 21949
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -27805,7 +27810,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27435
+      "UsersEstimate": 27436
     },
     {
       "ID": "one_third_purple",
@@ -27853,7 +27858,7 @@
       "Name": "Tourist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "staggered_by_vending_machine",
@@ -27861,7 +27866,7 @@
       "Name": "Food for Thought",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21948
+      "UsersEstimate": 21949
     },
     {
       "ID": "two_thirds_purple",
@@ -27917,7 +27922,7 @@
       "Name": "Face Off",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -27932,13 +27937,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 78387,
+      "Progressed": 78389,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 50024,
+      "Progressed": 50026,
       "Completed": 4312
     }
   ],
@@ -27946,8 +27951,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-07T18:03:25.9766934+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:08:00.2684+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:08:39.567616+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:06.5148406+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:02:39.7522126+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:08:00.2685139+00:00"
+  "LastUpdate_Ratings": "2023-11-14T00:03:01.1685408+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:08:39.5678727+00:00"
 }

@@ -25,15 +25,15 @@ Rating: 4.54 (Ranked 522)
 | Like Riding a Bike | 0.60% | ~4,309 |
 | Stacking the Deck | 0.60% | ~4,309 |
 | This is My Weapon | 0.60% | ~4,309 |
-| Perks of the Job | 0.50% | ~3,590 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,590 |
-| Slayer Squad | 0.50% | ~3,590 |
-| Zombologist | 0.50% | ~3,590 |
-| Ooh, Shiny! | 0.50% | ~3,590 |
-| A Patton Emerges | 0.50% | ~3,590 |
-| I Am the Resurrection | 0.50% | ~3,590 |
-| Max Headroom | 0.50% | ~3,590 |
-| Our True Nature | 0.50% | ~3,590 |
+| Perks of the Job | 0.50% | ~3,591 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,591 |
+| Slayer Squad | 0.50% | ~3,591 |
+| Zombologist | 0.50% | ~3,591 |
+| Ooh, Shiny! | 0.50% | ~3,591 |
+| A Patton Emerges | 0.50% | ~3,591 |
+| I Am the Resurrection | 0.50% | ~3,591 |
+| Max Headroom | 0.50% | ~3,591 |
+| Our True Nature | 0.50% | ~3,591 |
 | Making Your Mark | 0.40% | ~2,872 |
 | Not Even My Final Form | 0.40% | ~2,872 |
 | Humanity Distilled | 0.40% | ~2,872 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,089 (Ranked 20)  
+Progressed: 718,109 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
+| 2023-11-14 | 718,109 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,268 (Ranked 85)  

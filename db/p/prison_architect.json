@@ -6771,9 +6771,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 193713,
+  "EOS_Progressed": 193719,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2290,
+  "EOS_NewPlayers": 2285,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30376,6 +30376,11 @@
       "Time": "2023-11-13T23:08:24.4741057+00:00",
       "NumProgressed": 193713,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-14T00:09:04.2745493+00:00",
+      "NumProgressed": 193719,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -30403,7 +30408,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "Achievement_11",
@@ -30411,7 +30416,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "Achievement_12",
@@ -30419,7 +30424,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30994
+      "UsersEstimate": 30995
     },
     {
       "ID": "Achievement_13",
@@ -30443,7 +30448,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "Achievement_2",
@@ -30467,7 +30472,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48428
+      "UsersEstimate": 48430
     },
     {
       "ID": "Achievement_5",
@@ -30499,7 +30504,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17434
+      "UsersEstimate": 17435
     },
     {
       "ID": "Achievement_9",
@@ -30514,15 +30519,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 193713,
+      "Progressed": 193719,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-13T15:59:42.6534252+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:08:24.4741054+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:09:04.2745487+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:15.0661534+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:59:25.3976033+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:08:24.474224+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:59:35.2058463+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:09:04.274748+00:00"
 }

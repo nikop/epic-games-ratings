@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5071,9 +5071,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 250695,
+  "EOS_Progressed": 250696,
   "EOS_Completed": 875,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -27686,6 +27686,11 @@
       "Time": "2023-11-13T22:34:31.219876+00:00",
       "NumProgressed": 250695,
       "NumCompleted": 875
+    },
+    {
+      "Time": "2023-11-14T00:09:28.9586183+00:00",
+      "NumProgressed": 250696,
+      "NumCompleted": 875
     }
   ],
   "TotalAchievements": 39,
@@ -27713,7 +27718,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30083
+      "UsersEstimate": 30084
     },
     {
       "ID": "AchievementBaywatchID",
@@ -27745,7 +27750,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75208
+      "UsersEstimate": 75209
     },
     {
       "ID": "AchievementBoulderID",
@@ -27761,7 +27766,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 228132
+      "UsersEstimate": 228133
     },
     {
       "ID": "AchievementClownID",
@@ -27809,7 +27814,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82729
+      "UsersEstimate": 82730
     },
     {
       "ID": "AchievementGoatID",
@@ -27825,7 +27830,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132868
+      "UsersEstimate": 132869
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27865,7 +27870,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142896
+      "UsersEstimate": 142897
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27929,7 +27934,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185514
+      "UsersEstimate": 185515
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27969,7 +27974,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137882
+      "UsersEstimate": 137883
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -28008,7 +28013,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250695,
+      "Progressed": 250696,
       "Completed": 875
     }
   ],
@@ -28016,8 +28021,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-13T21:01:02.4023138+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:08:48.6623298+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:09:28.9586177+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5356776+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:59:19.3139559+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:08:48.6624581+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:59:28.8837404+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:09:28.958834+00:00"
 }

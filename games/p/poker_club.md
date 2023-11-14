@@ -5,19 +5,19 @@ Rating: 3.82 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~408,508 |
-| Handy | 41.00% | ~220,380 |
-| Cold Caller | 39.00% | ~209,629 |
-| A Bit On The Side | 27.00% | ~145,128 |
-| Backdoor | 25.00% | ~134,378 |
-| Rank Amateur | 21.00% | ~112,877 |
-| Three Way | 19.00% | ~102,127 |
+| Pro Creation | 76.00% | ~408,512 |
+| Handy | 41.00% | ~220,382 |
+| Cold Caller | 39.00% | ~209,631 |
+| A Bit On The Side | 27.00% | ~145,129 |
+| Backdoor | 25.00% | ~134,379 |
+| Rank Amateur | 21.00% | ~112,878 |
+| Three Way | 19.00% | ~102,128 |
 | Deadly Assassin | 15.00% | ~80,627 |
 | Gutshot | 14.00% | ~75,252 |
 | Risk It For A Biscuit | 14.00% | ~75,252 |
-| Showoff | 13.00% | ~69,876 |
-| W.H.I.P. | 12.00% | ~64,501 |
-| Bet Bet Bet | 10.00% | ~53,751 |
+| Showoff | 13.00% | ~69,877 |
+| W.H.I.P. | 12.00% | ~64,502 |
+| Bet Bet Bet | 10.00% | ~53,752 |
 | Blindman's Bluff | 9.00% | ~48,376 |
 | Poker Joker | 9.00% | ~48,376 |
 | Never Give Up | 8.00% | ~43,001 |
@@ -26,8 +26,8 @@ Rating: 3.82 (Ranked 1,023)
 | Dog Eat Dog | 7.00% | ~37,626 |
 | Quack Quack | 7.00% | ~37,626 |
 | Give Your Regards To Broadway | 6.00% | ~32,251 |
-| Check Yourself | 4.00% | ~21,500 |
-| Moneymaker | 4.00% | ~21,500 |
+| Check Yourself | 4.00% | ~21,501 |
+| Moneymaker | 4.00% | ~21,501 |
 | In The Gang | 3.00% | ~16,125 |
 | On The Button | 3.00% | ~16,125 |
 | Before You Wreck Yourself | 2.00% | ~10,750 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,023)
 | Rounder | 0.10% | ~538 |
 | Top Dog | 0.10% | ~538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,511 (Ranked 34)  
+Progressed: 537,516 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,6 +258,7 @@ Completed: 2 (0.00%) (Ranked 351)
 | 2023-11-11 | 537,085 | 2 |
 | 2023-11-12 | 537,337 | 2 |
 | 2023-11-13 | 537,511 | 2 |
+| 2023-11-14 | 537,516 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 411)  
 Sum: 174 (Ranked 411)  

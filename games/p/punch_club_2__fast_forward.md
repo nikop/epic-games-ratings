@@ -52,8 +52,8 @@
 | Get out of my apartment! | 40.00% | ~137 |
 | Gang wrangler | 38.00% | ~130 |
 | Seashell hunter | 38.00% | ~130 |
+| Undercover robot | 38.00% | ~130 |
 | Problems of cyborgs | 37.00% | ~127 |
-| Undercover robot | 37.00% | ~127 |
 | Not little hacker | 36.00% | ~123 |
 | Absolute Champion! | 36.00% | ~123 |
 | Your own way | 36.00% | ~123 |

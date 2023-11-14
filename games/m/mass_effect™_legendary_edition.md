@@ -32,8 +32,8 @@
 | Sentinel Ally | 39.00% | ~485 |
 | Very Elusive | 39.00% | ~485 |
 | Head Hunter | 39.00% | ~485 |
+| Scholar | 38.00% | ~472 |
 | Operative | 37.00% | ~460 |
-| Scholar | 37.00% | ~460 |
 | Veteran | 36.00% | ~447 |
 | The Professor | 36.00% | ~447 |
 | The Archangel | 35.00% | ~435 |
@@ -88,9 +88,9 @@
 | Savior | 21.00% | ~261 |
 | Paramour II | 20.00% | ~249 |
 | Party Crasher | 20.00% | ~249 |
+| Problem Solver | 20.00% | ~249 |
 | Hard Target | 19.00% | ~236 |
 | Fact Finder | 19.00% | ~236 |
-| Problem Solver | 19.00% | ~236 |
 | Pyromaniac | 18.00% | ~224 |
 | Under Pressure | 18.00% | ~224 |
 | Last Resort | 18.00% | ~224 |
@@ -100,11 +100,11 @@
 | Well Connected | 18.00% | ~224 |
 | Executioner | 16.00% | ~199 |
 | Patriot | 16.00% | ~199 |
+| Legend | 16.00% | ~199 |
 | Master and Commander | 16.00% | ~199 |
 | Electronics Specialist | 15.00% | ~186 |
 | Sabotage Specialist | 15.00% | ~186 |
 | Throw Mastery | 15.00% | ~186 |
-| Legend | 15.00% | ~186 |
 | Long Service Medal | 14.00% | ~174 |
 | Mail Slot | 13.00% | ~162 |
 | Combined Arms | 12.00% | ~149 |

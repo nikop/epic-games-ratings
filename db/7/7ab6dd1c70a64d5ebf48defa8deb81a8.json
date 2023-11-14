@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -710,6 +710,11 @@
       "Time": "2023-11-13T12:10:02.7765091+00:00",
       "NumProgressed": 185,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T00:09:31.682812+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -721,7 +726,7 @@
       "Name": "Break Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_02",
@@ -785,15 +790,15 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_11",
@@ -815,9 +820,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_14",
@@ -833,7 +838,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_16",
@@ -855,9 +860,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_19",
@@ -879,9 +884,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_22",
@@ -897,7 +902,7 @@
       "Name": "Geared Up",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_24",
@@ -1008,14 +1013,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-13T23:08:51.3313955+00:00",
+  "LastChanged_Achievements": "2023-11-14T00:09:31.6828116+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:59:27.4424469+00:00",
-  "LastUpdate_Achievements": "2023-11-13T23:08:51.3314224+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:59:37.3006411+00:00",
+  "LastUpdate_Achievements": "2023-11-14T00:09:31.6828441+00:00"
 }
