@@ -795,9 +795,9 @@
       "ID": "Eliminated_3_Mask_Men_in_009",
       "SetID": "6od1ndi",
       "Name": "Danka, Lagga, Wonwon",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
@@ -843,9 +843,9 @@
       "ID": "Level_completed_004_009",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IV",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "Level_completed_005_003",
@@ -940,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:27:49.3410772+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:08:55.411496+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.2044407+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:19:51.3609078+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:27:49.341092+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:01:44.7798182+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:08:55.4115173+00:00"
 }

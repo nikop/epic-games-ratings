@@ -816,9 +816,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "Persistent",
@@ -848,9 +848,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "RenaissanceRobot",
@@ -1041,8 +1041,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:23:38.2957987+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:05:08.6370778+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:17:36.9463002+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:23:38.295839+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:58:45.9267596+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:05:08.637127+00:00"
 }

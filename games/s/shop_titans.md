@@ -10,10 +10,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 4.00% | ~5,590 |
 | Tinkle of Coins | 4.00% | ~5,590 |
 | Titan's First Steps | 4.00% | ~5,590 |
-| Disintermediation | 3.00% | ~4,192 |
-| It's Free Real Estate | 3.00% | ~4,192 |
-| Budding Merchant | 3.00% | ~4,192 |
-| Capitalism Ho! | 3.00% | ~4,192 |
+| Disintermediation | 3.00% | ~4,193 |
+| It's Free Real Estate | 3.00% | ~4,193 |
+| Budding Merchant | 3.00% | ~4,193 |
+| Capitalism Ho! | 3.00% | ~4,193 |
 | The Daily Grind | 2.00% | ~2,795 |
 | One Easy Payment | 2.00% | ~2,795 |
 | Some Assembly Required | 2.00% | ~2,795 |
@@ -26,27 +26,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 2.00% | ~2,795 |
 | Through Repetition, Perfection | 2.00% | ~2,795 |
 | Own the Means of Production | 2.00% | ~2,795 |
-| On the Path to Greatness | 1.00% | ~1,397 |
-| Ascended | 1.00% | ~1,397 |
-| Tax not Included | 1.00% | ~1,397 |
-| Research & Development | 1.00% | ~1,397 |
-| Vanity, Verily | 1.00% | ~1,397 |
-| Fated Encounters | 1.00% | ~1,397 |
-| Blank Page Syndrome | 1.00% | ~1,397 |
-| Demand for Supplies | 1.00% | ~1,397 |
-| Power of Love | 1.00% | ~1,397 |
-| Efficient Floor Space | 1.00% | ~1,397 |
-| Flawless Fusion | 1.00% | ~1,397 |
-| Trash to Treasure | 1.00% | ~1,397 |
-| Gem Expert | 1.00% | ~1,397 |
-| Gild-Gotten Goods | 1.00% | ~1,397 |
-| Royal Ransom | 1.00% | ~1,397 |
-| Helping Hand | 1.00% | ~1,397 |
-| Accomplished Merchant | 1.00% | ~1,397 |
-| Natural 20 | 1.00% | ~1,397 |
-| Did we pack lunch? | 1.00% | ~1,397 |
-| Magical Harmony | 1.00% | ~1,397 |
-| Arcane Industries | 1.00% | ~1,397 |
+| On the Path to Greatness | 1.00% | ~1,398 |
+| Ascended | 1.00% | ~1,398 |
+| Tax not Included | 1.00% | ~1,398 |
+| Research & Development | 1.00% | ~1,398 |
+| Vanity, Verily | 1.00% | ~1,398 |
+| Fated Encounters | 1.00% | ~1,398 |
+| Blank Page Syndrome | 1.00% | ~1,398 |
+| Demand for Supplies | 1.00% | ~1,398 |
+| Power of Love | 1.00% | ~1,398 |
+| Efficient Floor Space | 1.00% | ~1,398 |
+| Flawless Fusion | 1.00% | ~1,398 |
+| Trash to Treasure | 1.00% | ~1,398 |
+| Gem Expert | 1.00% | ~1,398 |
+| Gild-Gotten Goods | 1.00% | ~1,398 |
+| Royal Ransom | 1.00% | ~1,398 |
+| Helping Hand | 1.00% | ~1,398 |
+| Accomplished Merchant | 1.00% | ~1,398 |
+| Natural 20 | 1.00% | ~1,398 |
+| Did we pack lunch? | 1.00% | ~1,398 |
+| Magical Harmony | 1.00% | ~1,398 |
+| Arcane Industries | 1.00% | ~1,398 |
 | A Notch Above the Rest | 0.90% | ~1,258 |
 | The King's Caprice | 0.90% | ~1,258 |
 | Big Game Hunting | 0.90% | ~1,258 |
@@ -98,8 +98,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~978 |
 | King's Shadow | 0.70% | ~978 |
 | Master Recycler | 0.70% | ~978 |
-| Fillin' the Bin | 0.60% | ~838 |
-| Economy of Scarce | 0.60% | ~838 |
+| Fillin' the Bin | 0.60% | ~839 |
+| Economy of Scarce | 0.60% | ~839 |
 | The Free Encyclopedia | 0.50% | ~699 |
 | Thank You Tom Nook | 0.50% | ~699 |
 | Jackpot! | 0.50% | ~699 |
@@ -111,15 +111,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.30% | ~419 |
 | The Greatest Grind | 0.30% | ~419 |
 | Marvels from the World Over | 0.30% | ~419 |
-| Bane of Legends | 0.20% | ~279 |
-| Ultimate Collector | 0.20% | ~279 |
-| Oligarch Monarch | 0.20% | ~279 |
-| Merchant Extraordinaire | 0.20% | ~279 |
-| Cash Only Please | 0.20% | ~279 |
+| Bane of Legends | 0.20% | ~280 |
+| Ultimate Collector | 0.20% | ~280 |
+| Oligarch Monarch | 0.20% | ~280 |
+| Merchant Extraordinaire | 0.20% | ~280 |
+| Cash Only Please | 0.20% | ~280 |
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,745 (Ranked 79)  
+Progressed: 139,753 (Ranked 79)  
 Completed: 183 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 183 (0.13%) (Ranked 264)
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
-| 2023-11-14 | 139,745 | 183 |
+| 2023-11-14 | 139,753 | 183 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,541 (Ranked 50)  

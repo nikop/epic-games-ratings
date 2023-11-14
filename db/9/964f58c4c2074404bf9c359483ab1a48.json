@@ -1837,10 +1837,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 575,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2023-11-14T02:58:48.1969307+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 575,
+  "NumberOfAwards": 576,
   "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1878,7 +1884,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1917,7 +1923,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 1287672,
+  "EOS_Progressed": 1287675,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1507,
   "EOS_NewCompleters": 0,
@@ -21247,6 +21253,11 @@
       "Time": "2023-11-14T02:23:33.4041181+00:00",
       "NumProgressed": 1287672,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T03:05:02.5554018+00:00",
+      "NumProgressed": 1287675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -21410,7 +21421,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25753
+      "UsersEstimate": 25754
     },
     {
       "ID": "250_c4_kills",
@@ -21546,7 +21557,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 128767
+      "UsersEstimate": 128768
     },
     {
       "ID": "ghost_win",
@@ -21554,7 +21565,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 772603
+      "UsersEstimate": 772605
     },
     {
       "ID": "hunter_win",
@@ -21562,7 +21573,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 695343
+      "UsersEstimate": 695344
     },
     {
       "ID": "master_of_loadouts",
@@ -21593,16 +21604,16 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1287672,
+      "Progressed": 1287675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-11-14T01:42:38.5471795+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:23:33.4041178+00:00",
+  "LastChanged": "2023-11-14T02:58:48.1969305+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:05:02.5554014+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:57.5340795+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:17:38.7532108+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:23:33.4042193+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:58:48.1969314+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:05:02.5555199+00:00"
 }

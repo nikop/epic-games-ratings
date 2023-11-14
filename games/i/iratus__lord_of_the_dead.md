@@ -71,11 +71,11 @@ Number of Ratings: 10,109  (23.09.2022)
 | Dungeon Queen | 3.00% | ~1,348 |
 | Mek Brothers | 3.00% | ~1,348 |
 | The Hunter Becomes... | 3.00% | ~1,348 |
+| Experimenter | 3.00% | ~1,348 |
 | Evil Always Wins! | 2.00% | ~898 |
 | Graveyard Call - I | 2.00% | ~898 |
 | Graveyard Call - II | 2.00% | ~898 |
 | Sweet Revenge | 2.00% | ~898 |
-| Experimenter | 2.00% | ~898 |
 | Graveyard Call - III | 0.90% | ~404 |
 | I'll Be Back! | 0.80% | ~359 |
 | Doctorate in Potion Brewing | 0.70% | ~314 |

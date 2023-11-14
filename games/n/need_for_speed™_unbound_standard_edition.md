@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~9,185 |
+| Throwing up Tags | 92.00% | ~9,186 |
 | Cool Whip | 90.00% | ~8,986 |
-| Fashion Killa | 88.00% | ~8,786 |
-| Drop the Beat | 85.00% | ~8,486 |
+| Fashion Killa | 88.00% | ~8,787 |
+| Drop the Beat | 85.00% | ~8,487 |
 | Hey Lakeshore | 84.00% | ~8,387 |
-| 100 Miles and Runnin' | 83.00% | ~8,287 |
-| Public Enemy | 82.00% | ~8,187 |
-| Hey Speedie! | 67.00% | ~6,689 |
-| Rebel Without a Pause | 66.00% | ~6,589 |
-| Most Wanted | 63.00% | ~6,290 |
-| New Crew | 61.00% | ~6,090 |
+| 100 Miles and Runnin' | 83.00% | ~8,288 |
+| Public Enemy | 82.00% | ~8,188 |
+| Hey Speedie! | 67.00% | ~6,690 |
+| Rebel Without a Pause | 66.00% | ~6,590 |
+| Most Wanted | 63.00% | ~6,291 |
+| New Crew | 61.00% | ~6,091 |
 | Escape Artist | 53.00% | ~5,292 |
 | Serious Guap | 52.00% | ~5,192 |
 | Style it Out | 52.00% | ~5,192 |
 | Untouchable | 51.00% | ~5,092 |
-| Oh, It's On | 49.00% | ~4,892 |
-| Rydell's Rydes | 47.00% | ~4,692 |
+| Oh, It's On | 49.00% | ~4,893 |
+| Rydell's Rydes | 47.00% | ~4,693 |
 | Cash Money Millionaire | 45.00% | ~4,493 |
 | Lake Better Watch Out | 38.00% | ~3,794 |
 | Access All Areas | 33.00% | ~3,295 |
 | #Blessed | 33.00% | ~3,295 |
-| Found Family | 30.00% | ~2,995 |
-| The Collector | 29.00% | ~2,895 |
-| Kick it | 29.00% | ~2,895 |
+| Found Family | 30.00% | ~2,996 |
+| The Collector | 29.00% | ~2,896 |
+| Kick it | 29.00% | ~2,896 |
 | In the Flow | 28.00% | ~2,796 |
-| Top Billin' | 22.00% | ~2,196 |
+| Top Billin' | 22.00% | ~2,197 |
 | Teacher's Pet | 20.00% | ~1,997 |
 | Full House | 18.00% | ~1,797 |
 | Superstar | 18.00% | ~1,797 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~200 |
 | Cleaning Up | 2.00% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,984 (Ranked 158)  
+Progressed: 9,985 (Ranked 158)  
 Completed: 50 (0.50%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,4 +106,4 @@ Completed: 50 (0.50%) (Ranked 197)
 | 2023-11-11 | 9,758 | 49 |
 | 2023-11-12 | 9,887 | 49 |
 | 2023-11-13 | 9,967 | 50 |
-| 2023-11-14 | 9,984 | 50 |
+| 2023-11-14 | 9,985 | 50 |

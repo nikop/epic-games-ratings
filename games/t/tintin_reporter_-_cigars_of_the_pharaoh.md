@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 100.00% | ~2 |
 | A Loyal Friend | 50.00% | ~1 |
+| Abandon Ship! | 50.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |
 | Mysterious Bungalow | 0.00% | ~0 |
@@ -26,7 +27,6 @@
 | Escaping War | 0.00% | ~0 |
 | Jungle Runner | 0.00% | ~0 |
 | Broken Brotherhood | 0.00% | ~0 |
-| Abandon Ship! | 0.00% | ~0 |
 | Mountain Runner | 0.00% | ~0 |
 | A Yummy Detour | 0.00% | ~0 |
 | The Pharaoh's New Clothes | 0.00% | ~0 |

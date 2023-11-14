@@ -1940,10 +1940,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4841,
       "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-11-14T02:59:54.159454+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4842,
+      "NumberOfAwardsMax": 573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4841,
+  "NumberOfAwards": 4842,
   "NumberOfAwardsMax": 573,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1987,7 +1993,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 539
+      "Count": 540
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2014,9 +2020,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213632,
+  "EOS_Progressed": 213635,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1298,
+  "EOS_NewPlayers": 1300,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25729,6 +25735,11 @@
       "Time": "2023-11-14T02:23:46.7252615+00:00",
       "NumProgressed": 213632,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-14T03:05:19.275165+00:00",
+      "NumProgressed": 213635,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -25740,7 +25751,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21363
+      "UsersEstimate": 21364
     },
     {
       "ID": "AtheistOx",
@@ -26028,7 +26039,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21363
+      "UsersEstimate": 21364
     },
     {
       "ID": "TimeParadox",
@@ -26091,15 +26102,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213632,
+      "Progressed": 213635,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-14T01:43:23.7767709+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:23:46.7252612+00:00",
+  "LastChanged": "2023-11-14T02:59:54.1594538+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:05:19.2751646+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:18:28.1547777+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:23:46.7253679+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:59:54.1594548+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:05:19.2752972+00:00"
 }

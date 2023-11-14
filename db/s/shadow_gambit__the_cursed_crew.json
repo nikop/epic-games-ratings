@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.41,
   "EosHistory": [
@@ -2602,6 +2602,11 @@
       "Time": "2023-11-13T15:09:12.9228968+00:00",
       "NumProgressed": 821,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-14T03:03:33.5795789+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2614,7 +2619,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2622,7 +2627,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "_03_FinishAct1",
@@ -2654,7 +2659,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "_07_FinishAct3",
@@ -2662,7 +2667,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "_08_Completion_10",
@@ -2710,7 +2715,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "_14_Completion_70",
@@ -2750,7 +2755,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2821,7 +2826,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 28
     }
   ],
@@ -2829,8 +2834,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:22:22.5658811+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:03:33.5795787+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.1384885+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:20:01.245461+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:22:22.5660139+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:01:58.0529823+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:03:33.5796101+00:00"
 }

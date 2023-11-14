@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1676,9 +1676,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 391
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -1956,9 +1956,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 333
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -1988,17 +1988,17 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 473
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 426
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -2132,9 +2132,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 409
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -2299,8 +2299,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:25:31.8415345+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:07:32.0667723+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:18:38.7741167+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:25:31.8416119+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:00:08.1138429+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:07:32.0668477+00:00"
 }

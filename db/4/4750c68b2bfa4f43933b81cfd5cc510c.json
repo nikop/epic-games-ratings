@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -1641,9 +1641,9 @@
       "Count": 244
     }
   ],
-  "EOS_Progressed": 52690,
+  "EOS_Progressed": 52691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7951,6 +7951,11 @@
       "Time": "2023-11-14T02:23:47.4487383+00:00",
       "NumProgressed": 52690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T03:05:20.1838652+00:00",
+      "NumProgressed": 52691,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -8011,7 +8016,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 25818
+      "UsersEstimate": 25819
     },
     {
       "ID": "achievement_16",
@@ -8027,7 +8032,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 31614
+      "UsersEstimate": 31615
     },
     {
       "ID": "achievement_18",
@@ -8083,7 +8088,7 @@
       "Name": "Graduation Day",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 25818
+      "UsersEstimate": 25819
     },
     {
       "ID": "achievement_24",
@@ -8179,7 +8184,7 @@
       "Name": "Fashion Icon",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "achievement_35",
@@ -8219,7 +8224,7 @@
       "Name": "Best of Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "achievement_4",
@@ -8251,7 +8256,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 31087
+      "UsersEstimate": 31088
     },
     {
       "ID": "achievement_7",
@@ -8259,7 +8264,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 18968
+      "UsersEstimate": 18969
     },
     {
       "ID": "achievement_8",
@@ -8282,7 +8287,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 52690,
+      "Progressed": 52691,
       "Completed": 0
     }
   ],
@@ -8290,8 +8295,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-13T22:08:23.4258735+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:23:47.4487375+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:05:20.1838648+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.8674427+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:17:41.7470439+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:23:47.4487859+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:58:52.1172219+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:05:20.1839128+00:00"
 }

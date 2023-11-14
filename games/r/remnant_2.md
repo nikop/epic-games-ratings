@@ -6,15 +6,15 @@ Rating: 4.75 (Ranked 145)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,837 |
-| The Killing Jar | 8.00% | ~17,632 |
-| Expanding Horizons | 7.00% | ~15,428 |
-| Quest for Survival | 7.00% | ~15,428 |
-| Not Your Average Trait | 7.00% | ~15,428 |
-| Gleaming the Cube | 6.00% | ~13,224 |
-| Familiar Face | 6.00% | ~13,224 |
-| Duality | 6.00% | ~13,224 |
-| Boss'n Up | 6.00% | ~13,224 |
-| Trait Chaser | 6.00% | ~13,224 |
+| The Killing Jar | 8.00% | ~17,633 |
+| Expanding Horizons | 7.00% | ~15,429 |
+| Quest for Survival | 7.00% | ~15,429 |
+| Not Your Average Trait | 7.00% | ~15,429 |
+| Gleaming the Cube | 6.00% | ~13,225 |
+| Familiar Face | 6.00% | ~13,225 |
+| Duality | 6.00% | ~13,225 |
+| Boss'n Up | 6.00% | ~13,225 |
+| Trait Chaser | 6.00% | ~13,225 |
 | Not So Special Now | 5.00% | ~11,020 |
 | Not a Janitor | 5.00% | ~11,020 |
 | Equal Measures | 5.00% | ~11,020 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,204 |
 | Proving Grounds | 1.00% | ~2,204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,406 (Ranked 68)  
+Progressed: 220,410 (Ranked 68)  
 Completed: 445 (0.20%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 445 (0.20%) (Ranked 250)
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
-| 2023-11-14 | 220,406 | 445 |
+| 2023-11-14 | 220,410 | 445 |
 ## Awards
 Max (Great Boss Battles): 2,168  (Ranked 108)  
 Sum: 4,921 (Ranked 138)  

@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -666,9 +666,9 @@
       "ID": "achievement_6",
       "SetID": "jnappp",
       "Name": "Keepin it real",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_7",
@@ -705,8 +705,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:28:33.1411723+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:09:50.6735073+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:18:41.3546938+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:28:33.1411939+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:00:11.6490677+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:09:50.6735445+00:00"
 }

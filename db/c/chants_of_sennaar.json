@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.55,
+  "EOS_Completed_Percentage": 5.54,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2320,6 +2320,11 @@
       "Time": "2023-11-14T00:06:11.0738381+00:00",
       "NumProgressed": 541,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T03:07:49.7589222+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2331,7 +2336,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "END_GOOD",
@@ -2347,7 +2352,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2355,7 +2360,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2401,9 +2406,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2449,9 +2454,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2467,7 +2472,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2499,7 +2504,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "PROGRESS_N3",
@@ -2530,14 +2535,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:25:46.0150366+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:07:49.758922+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:16:37.2917095+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:25:46.015062+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:57:27.1961377+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:07:49.7589446+00:00"
 }

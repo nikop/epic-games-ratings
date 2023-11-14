@@ -19,24 +19,24 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 3.00% | ~7,111 |
 | The plot thickens... At the tavern | 3.00% | ~7,111 |
 | Fireproof Wizardess | 3.00% | ~7,111 |
-| Shiny and Crôm | 2.00% | ~4,740 |
-| The demons' feast | 2.00% | ~4,740 |
-| The Great Library | 2.00% | ~4,740 |
-| Torture and Sensibility | 2.00% | ~4,740 |
-| Urik's Depths | 2.00% | ~4,740 |
-| The Dungeon Master | 2.00% | ~4,740 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,740 |
-| Res Judicata | 2.00% | ~4,740 |
-| The Woman in the High Castle | 2.00% | ~4,740 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,740 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,740 |
-| Look but don't touch | 2.00% | ~4,740 |
-| The beards of change | 2.00% | ~4,740 |
-| The Ranger of Chaos | 2.00% | ~4,740 |
-| I am the night | 2.00% | ~4,740 |
-| Thieves' Guild Accreditation | 2.00% | ~4,740 |
-| Team Building Exercise | 2.00% | ~4,740 |
-| Oh, when I'll be level 10... | 2.00% | ~4,740 |
+| Shiny and Crôm | 2.00% | ~4,741 |
+| The demons' feast | 2.00% | ~4,741 |
+| The Great Library | 2.00% | ~4,741 |
+| Torture and Sensibility | 2.00% | ~4,741 |
+| Urik's Depths | 2.00% | ~4,741 |
+| The Dungeon Master | 2.00% | ~4,741 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,741 |
+| Res Judicata | 2.00% | ~4,741 |
+| The Woman in the High Castle | 2.00% | ~4,741 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,741 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,741 |
+| Look but don't touch | 2.00% | ~4,741 |
+| The beards of change | 2.00% | ~4,741 |
+| The Ranger of Chaos | 2.00% | ~4,741 |
+| I am the night | 2.00% | ~4,741 |
+| Thieves' Guild Accreditation | 2.00% | ~4,741 |
+| Team Building Exercise | 2.00% | ~4,741 |
+| Oh, when I'll be level 10... | 2.00% | ~4,741 |
 | Dwarf Fortress | 1.00% | ~2,370 |
 | %#*!$*! | 1.00% | ~2,370 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,370 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,025 (Ranked 62)  
+Progressed: 237,026 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-11 | 236,594 | 7 |
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
-| 2023-11-14 | 237,025 | 7 |
+| 2023-11-14 | 237,026 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 273)  
 Sum: 458 (Ranked 331)  

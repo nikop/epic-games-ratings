@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~18,691 |
-| Safety in the Storm | 24.00% | ~4,722 |
-| A Better Idea | 24.00% | ~4,722 |
-| Begin the Ceremony | 20.00% | ~3,935 |
-| Mission Accomplished | 19.00% | ~3,738 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,951 |
+| Fracture at Fostar Haven | 95.00% | ~18,698 |
+| Safety in the Storm | 24.00% | ~4,724 |
+| A Better Idea | 24.00% | ~4,724 |
+| Begin the Ceremony | 20.00% | ~3,936 |
+| Mission Accomplished | 19.00% | ~3,740 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,952 |
 | A Starfighter of Your Own | 14.00% | ~2,755 |
-| Asset Secured | 13.00% | ~2,558 |
-| Unkillable | 8.00% | ~1,574 |
-| Together, Vanguard | 7.00% | ~1,377 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,180 |
-| Sound Strategy | 6.00% | ~1,180 |
+| Asset Secured | 13.00% | ~2,559 |
+| Unkillable | 8.00% | ~1,575 |
+| Together, Vanguard | 7.00% | ~1,378 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,181 |
+| Sound Strategy | 6.00% | ~1,181 |
 | Flames Over Mon Cala | 5.00% | ~984 |
 | Stomped | 5.00% | ~984 |
 | A Promising Career | 5.00% | ~984 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~20 |
 | The Galaxy's Finest (Ace) | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,675 (Ranked 135)  
+Progressed: 19,682 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-11 | 19,008 | 1 |
 | 2023-11-12 | 19,415 | 1 |
 | 2023-11-13 | 19,649 | 1 |
-| 2023-11-14 | 19,675 | 1 |
+| 2023-11-14 | 19,682 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

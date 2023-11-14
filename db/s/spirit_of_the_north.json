@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74169,
+  "EOS_Progressed": 74170,
   "EOS_Completed": 393,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -23188,6 +23188,11 @@
       "Time": "2023-11-14T02:28:05.0929989+00:00",
       "NumProgressed": 74169,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-11-14T03:09:15.1678815+00:00",
+      "NumProgressed": 74170,
+      "NumCompleted": 393
     }
   ],
   "TotalAchievements": 24,
@@ -23215,7 +23220,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50435
+      "UsersEstimate": 50436
     },
     {
       "ID": "BEST_FRIENDS",
@@ -23239,7 +23244,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15575
+      "UsersEstimate": 15576
     },
     {
       "ID": "FETCH",
@@ -23247,7 +23252,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20767
+      "UsersEstimate": 20768
     },
     {
       "ID": "FOXIN_AROUND",
@@ -23271,7 +23276,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13350
+      "UsersEstimate": 13351
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -23343,7 +23348,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15575
+      "UsersEstimate": 15576
     },
     {
       "ID": "SPIRIT_DASH",
@@ -23367,7 +23372,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11125
+      "UsersEstimate": 11126
     },
     {
       "ID": "WEIGHTLESS",
@@ -23390,7 +23395,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74169,
+      "Progressed": 74170,
       "Completed": 393
     }
   ],
@@ -23398,8 +23403,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:28:05.0929984+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:09:15.167881+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.6683476+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:22:02.8331277+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:28:05.093149+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:03:05.8023037+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:09:15.1680086+00:00"
 }

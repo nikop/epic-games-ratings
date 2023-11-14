@@ -323,9 +323,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 310237,
+  "EOS_Progressed": 310259,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5848,
+  "EOS_NewPlayers": 5841,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5873,6 +5873,11 @@
       "Time": "2023-11-14T02:24:20.0100079+00:00",
       "NumProgressed": 310237,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-14T03:06:01.5700599+00:00",
+      "NumProgressed": 310259,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -5893,7 +5898,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "S03_OTWA",
@@ -5901,7 +5906,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "S04_BRDC",
@@ -5909,7 +5914,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "S05_SWRA",
@@ -6077,7 +6082,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "S26_CRTA",
@@ -6109,7 +6114,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "S30_DIAMOND",
@@ -6204,7 +6209,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 310237,
+      "Progressed": 310259,
       "Completed": 4
     }
   ],
@@ -6212,8 +6217,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-13T13:59:37.2505654+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:24:20.0100075+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:06:01.5700593+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:19:22.7517072+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:24:20.010064+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:01:07.0333478+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:06:01.5701027+00:00"
 }

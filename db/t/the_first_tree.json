@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37874,
+  "EOS_Progressed": 37875,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18269,6 +18269,11 @@
       "Time": "2023-11-14T00:06:28.6552681+00:00",
       "NumProgressed": 37874,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-11-14T03:08:14.5453835+00:00",
+      "NumProgressed": 37875,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 14,
@@ -18288,7 +18293,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "50stars",
@@ -18296,7 +18301,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9847
+      "UsersEstimate": 9848
     },
     {
       "ID": "allItems",
@@ -18304,7 +18309,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "allSecrets",
@@ -18312,7 +18317,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "bigBunny",
@@ -18336,7 +18341,7 @@
       "Name": "Completionist",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "dejaVu",
@@ -18344,7 +18349,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ending",
@@ -18368,7 +18373,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29163
+      "UsersEstimate": 29164
     },
     {
       "ID": "roots",
@@ -18391,15 +18396,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37874,
+      "Progressed": 37875,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-10T13:04:10.4343986+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:26:05.8419543+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:08:14.5453831+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.7506613+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:17:12.877087+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:26:05.8420542+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:58:14.0166906+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:08:14.5454645+00:00"
 }

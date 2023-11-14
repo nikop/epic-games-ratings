@@ -1039,10 +1039,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 529,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2023-11-14T02:58:24.2118969+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 534,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 529,
+  "NumberOfAwards": 534,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1050,7 +1056,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 61
+      "Count": 64
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1062,7 +1068,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 60
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1119,9 +1125,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 295526,
+  "EOS_Progressed": 295572,
   "EOS_Completed": 283,
-  "EOS_NewPlayers": 11570,
+  "EOS_NewPlayers": 11562,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11904,6 +11910,11 @@
       "Time": "2023-11-14T02:25:50.5703958+00:00",
       "NumProgressed": 295526,
       "NumCompleted": 283
+    },
+    {
+      "Time": "2023-11-14T03:07:55.434088+00:00",
+      "NumProgressed": 295572,
+      "NumCompleted": 283
     }
   ],
   "TotalAchievements": 24,
@@ -11915,7 +11926,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "10",
@@ -11923,7 +11934,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14776
+      "UsersEstimate": 14779
     },
     {
       "ID": "11",
@@ -11955,7 +11966,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17732
+      "UsersEstimate": 17734
     },
     {
       "ID": "15",
@@ -11971,7 +11982,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.8,
       "XP": 45,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "17",
@@ -12003,7 +12014,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "20",
@@ -12011,7 +12022,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11821
+      "UsersEstimate": 11823
     },
     {
       "ID": "21",
@@ -12043,7 +12054,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8866
+      "UsersEstimate": 8867
     },
     {
       "ID": "3",
@@ -12067,7 +12078,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29553
+      "UsersEstimate": 29557
     },
     {
       "ID": "6",
@@ -12075,7 +12086,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8866
+      "UsersEstimate": 8867
     },
     {
       "ID": "7",
@@ -12099,23 +12110,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 295526,
+      "Progressed": 295572,
       "Completed": 283
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-13T22:04:38.4258739+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:25:50.5703954+00:00",
+  "LastChanged": "2023-11-14T02:58:24.2118967+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:07:55.4340876+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:24.0449621+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:17:20.7047894+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:25:50.5704557+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:58:24.2118972+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:07:55.4341438+00:00"
 }

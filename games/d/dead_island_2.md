@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,144 (Ranked 20)  
+Progressed: 718,152 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,144 | 2,387 |
+| 2023-11-14 | 718,152 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,268 (Ranked 85)  

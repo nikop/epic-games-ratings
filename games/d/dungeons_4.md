@@ -26,7 +26,7 @@
 | Pure Dynamite! | 30.00% | ~76 |
 | Mana Cannon | 28.00% | ~71 |
 | The Big Eaty | 26.00% | ~66 |
-| “… like son” | 19.00% | ~48 |
+| “… like son” | 20.00% | ~51 |
 | Dungeonlord Gorgu | 16.00% | ~41 |
 | Shame! Shame! Shame! | 15.00% | ~38 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~36 |

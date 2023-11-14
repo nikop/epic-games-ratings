@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,636 |
-| A thief's beginning | 10.00% | ~21,363 |
-| Thorough | 10.00% | ~21,363 |
+| A thief's beginning | 10.00% | ~21,364 |
+| Thorough | 10.00% | ~21,364 |
 | Disguised | 9.00% | ~19,227 |
 | Rollin' | 9.00% | ~19,227 |
 | Tanuki Time | 9.00% | ~19,227 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,632 (Ranked 70)  
+Progressed: 213,635 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,15 +259,15 @@ Completed: 98 (0.05%) (Ranked 302)
 | 2023-11-11 | 213,217 | 97 |
 | 2023-11-12 | 213,446 | 98 |
 | 2023-11-13 | 213,621 | 98 |
-| 2023-11-14 | 213,632 | 98 |
+| 2023-11-14 | 213,635 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 196)  
-Sum: 4,841 (Ranked 142)  
+Sum: 4,842 (Ranked 142)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 573 |
-| This game has Diverse Characters | 539 |
+| This game has Diverse Characters | 540 |
 | This game is Extremely Fun | 534 |
 | This game has Amazing Storytelling | 514 |
 | This game has Amazing Characters | 498 |
@@ -491,4 +491,4 @@ Diff (max vs sum): 54
 | 2023-11-11 | 4.67 | - | 573 | 4,835 |
 | 2023-11-12 | 4.67 | - | 573 | 4,837 |
 | 2023-11-13 | 4.67 | - | 573 | 4,840 |
-| 2023-11-14 | 4.67 | - | 573 | 4,841 |
+| 2023-11-14 | 4.67 | - | 573 | 4,842 |

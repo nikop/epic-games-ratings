@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2129,
+  "EOS_Progressed": 2130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4832,6 +4832,11 @@
       "Time": "2023-11-14T00:09:32.834205+00:00",
       "NumProgressed": 2129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T03:10:06.8464711+00:00",
+      "NumProgressed": 2130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4844,7 +4849,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4852,7 +4857,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4946,9 +4951,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 383
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5196,7 +5201,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5235,14 +5240,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2129,
+      "Progressed": 2130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:28:46.0597309+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:10:06.8464708+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:19:25.1245223+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:28:46.0597968+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:01:10.216699+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:10:06.8465199+00:00"
 }

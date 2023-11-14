@@ -501,9 +501,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5716,
+  "EOS_Progressed": 5717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5476,6 +5476,11 @@
       "Time": "2023-11-14T01:48:55.735506+00:00",
       "NumProgressed": 5716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T03:05:08.1230107+00:00",
+      "NumProgressed": 5717,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5496,7 +5501,7 @@
       "Name": "Gathering Dust",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "achievement_0003",
@@ -5528,7 +5533,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4344
+      "UsersEstimate": 4345
     },
     {
       "ID": "achievement_0007",
@@ -5536,7 +5541,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "achievement_0008",
@@ -5544,7 +5549,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "achievement_0009",
@@ -5576,7 +5581,7 @@
       "Name": "Seasoned Rookie",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_0013",
@@ -5624,7 +5629,7 @@
       "Name": "Hitting a Century",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_0019",
@@ -5638,9 +5643,9 @@
       "ID": "achievement_0020",
       "SetID": "9123ogc",
       "Name": "For all Those Back at the Factory",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 286
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_0021",
@@ -5648,7 +5653,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "achievement_0022",
@@ -5736,7 +5741,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "achievement_0033",
@@ -5800,7 +5805,7 @@
       "Name": "One for the Book",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "achievement_0041",
@@ -5879,7 +5884,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5716,
+      "Progressed": 5717,
       "Completed": 0
     }
   ],
@@ -5887,8 +5892,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-13T14:57:01.7185506+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:23:37.874476+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:05:08.1230103+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:16:43.2493283+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:23:37.8745326+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:57:34.9930136+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:05:08.123071+00:00"
 }

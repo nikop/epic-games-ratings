@@ -20,9 +20,9 @@
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~70 |
 | Meat grinder | 59.00% | ~69 |
 | You're not going to blow me up! | 55.00% | ~64 |
-| Mushroom soup of the day | 50.00% | ~58 |
+| Mushroom soup of the day | 51.00% | ~60 |
+| Honk honk! | 49.00% | ~57 |
 | Cockadoodledoo! | 49.00% | ~57 |
-| Honk honk! | 48.00% | ~56 |
 | Butcher | 48.00% | ~56 |
 | Spare Ribs | 47.00% | ~55 |
 | Thats disgusting! | 46.00% | ~54 |
@@ -32,23 +32,23 @@
 | Haemochromatosis | 39.00% | ~46 |
 | Make America Grate Again | 35.00% | ~41 |
 | Pasta Bolognese | 34.00% | ~40 |
+| You can't stop me, bro! | 33.00% | ~39 |
 | You are no match for me, Billy! | 32.00% | ~37 |
 | Catch the bus with me! | 32.00% | ~37 |
 | Karaoke king | 32.00% | ~37 |
-| You can't stop me, bro! | 32.00% | ~37 |
-| Meatballs, coming up! | 29.00% | ~34 |
+| Meatballs, coming up! | 30.00% | ~35 |
 | I'm going to get a concussion | 29.00% | ~34 |
 | Another one bites the iron | 27.00% | ~32 |
 | A Megapint...? | 24.00% | ~28 |
-| Ripe Meat Off The Bone! | 23.00% | ~27 |
-| Hovering around | 23.00% | ~27 |
+| Ripe Meat Off The Bone! | 24.00% | ~28 |
+| Hovering around | 24.00% | ~28 |
 | Kleptomaniac | 23.00% | ~27 |
 | You're not so Big anymore, Boi! | 21.00% | ~25 |
 | Your daily dose of Vitamin C. | 21.00% | ~25 |
 | I cant stand still! | 21.00% | ~25 |
+| Just wing it! | 17.00% | ~20 |
 | Slimy... yet satisfying | 17.00% | ~20 |
 | Master Butcher | 16.00% | ~19 |
-| Just wing it! | 16.00% | ~19 |
 | Deal with it | 16.00% | ~19 |
 | Yeehaw!!! | 13.00% | ~15 |
 | You're looking mozzare-hella good! | 12.00% | ~14 |
@@ -59,8 +59,8 @@
 | I drink, but I'm not a drunk! | 9.00% | ~11 |
 | Grumpy Immortal | 9.00% | ~11 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~9 |
+| I want to throw up! | 8.00% | ~9 |
 | Scrambled Eggs | 8.00% | ~9 |
-| I want to throw up! | 7.00% | ~8 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~8 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~5 |

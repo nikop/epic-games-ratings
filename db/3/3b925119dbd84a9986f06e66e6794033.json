@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -631,9 +631,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:28:08.2373118+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:09:19.3264009+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:18:56.6173363+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:28:08.237331+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:00:32.1864837+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:09:19.3264164+00:00"
 }

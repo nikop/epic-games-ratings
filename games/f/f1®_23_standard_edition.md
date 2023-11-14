@@ -5,10 +5,10 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,316 |
-| On the Top Step | 87.00% | ~4,973 |
-| Setting up for Success | 76.00% | ~4,344 |
-| Team Orders | 74.00% | ~4,230 |
+| Getting on the Step | 93.00% | ~5,317 |
+| On the Top Step | 87.00% | ~4,974 |
+| Setting up for Success | 76.00% | ~4,345 |
+| Team Orders | 74.00% | ~4,231 |
 | Engineer | 54.00% | ~3,087 |
 | Familiar Faces | 47.00% | ~2,687 |
 | Sharing the Love | 41.00% | ~2,344 |
@@ -25,8 +25,8 @@ Rating: 4.69 (Ranked 231)
 | Crucial Combo | 18.00% | ~1,029 |
 | Reuse | 16.00% | ~915 |
 | Proving Them Wrong | 16.00% | ~915 |
-| Gathering Dust | 15.00% | ~857 |
-| One for the Book | 15.00% | ~857 |
+| Gathering Dust | 15.00% | ~858 |
+| One for the Book | 15.00% | ~858 |
 | Oil and Water | 13.00% | ~743 |
 | Eagle Eye | 12.00% | ~686 |
 | Lightning Round the World | 12.00% | ~686 |
@@ -36,15 +36,15 @@ Rating: 4.69 (Ranked 231)
 | All in a Weekend's Work | 11.00% | ~629 |
 | Friendly Competition | 11.00% | ~629 |
 | Recycle | 11.00% | ~629 |
-| Tinkerer | 9.00% | ~514 |
+| Tinkerer | 9.00% | ~515 |
 | Undisputed Winner | 8.00% | ~457 |
+| For all Those Back at the Factory | 6.00% | ~343 |
 | Living up to Expectations | 6.00% | ~343 |
 | Smooth Operator | 6.00% | ~343 |
-| For all Those Back at the Factory | 5.00% | ~286 |
 | Peak Performance | 5.00% | ~286 |
 | Loyal Bond | 4.00% | ~229 |
-| Seasoned Rookie | 3.00% | ~171 |
-| Hitting a Century | 3.00% | ~171 |
+| Seasoned Rookie | 3.00% | ~172 |
+| Hitting a Century | 3.00% | ~172 |
 | Wait, I know you? | 2.00% | ~114 |
 | Filling in the Gaps | 2.00% | ~114 |
 | Saturday Night Drama | 1.00% | ~57 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,716 (Ranked 181)  
+Progressed: 5,717 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 5,656 | 0 |
 | 2023-11-12 | 5,698 | 0 |
 | 2023-11-13 | 5,713 | 0 |
-| 2023-11-14 | 5,716 | 0 |
+| 2023-11-14 | 5,717 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 501)  
 Sum: 48 (Ranked 483)  

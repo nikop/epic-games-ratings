@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,10 +18,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9984,
+  "EOS_Progressed": 9985,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 920,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 918,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
@@ -6488,6 +6488,11 @@
       "Time": "2023-11-14T02:24:48.8773486+00:00",
       "NumProgressed": 9984,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-14T03:06:38.1536591+00:00",
+      "NumProgressed": 9985,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -6580,7 +6585,7 @@
       "Name": "Rebel Without a Pause",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "achievement_2",
@@ -6588,7 +6593,7 @@
       "Name": "Most Wanted",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 6290
+      "UsersEstimate": 6291
     },
     {
       "ID": "achievement_20",
@@ -6604,7 +6609,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "achievement_22",
@@ -6620,7 +6625,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 8187
+      "UsersEstimate": 8188
     },
     {
       "ID": "achievement_24",
@@ -6676,7 +6681,7 @@
       "Name": "New Crew",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     },
     {
       "ID": "achievement_30",
@@ -6692,7 +6697,7 @@
       "Name": "Top Billin\u0027",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "achievement_32",
@@ -6716,7 +6721,7 @@
       "Name": "The Collector",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "achievement_35",
@@ -6724,7 +6729,7 @@
       "Name": "Hey Speedie!",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6690
     },
     {
       "ID": "achievement_36",
@@ -6732,7 +6737,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 8287
+      "UsersEstimate": 8288
     },
     {
       "ID": "achievement_37",
@@ -6740,7 +6745,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 9185
+      "UsersEstimate": 9186
     },
     {
       "ID": "achievement_38",
@@ -6748,7 +6753,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8786
+      "UsersEstimate": 8787
     },
     {
       "ID": "achievement_39",
@@ -6764,7 +6769,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     },
     {
       "ID": "achievement_40",
@@ -6772,7 +6777,7 @@
       "Name": "Kick it",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "achievement_41",
@@ -6780,7 +6785,7 @@
       "Name": "Drop the Beat",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 8486
+      "UsersEstimate": 8487
     },
     {
       "ID": "achievement_5",
@@ -6796,7 +6801,7 @@
       "Name": "Found Family",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "achievement_7",
@@ -6827,13 +6832,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 9984,
+      "Progressed": 9985,
       "Completed": 50
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-11-14T02:24:48.8773483+00:00",
+  "LastChanged_Achievements": "2023-11-14T03:06:38.1536587+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:17.9046216+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:19:30.2047606+00:00",
-  "LastUpdate_Achievements": "2023-11-14T02:24:48.8774139+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:01:17.0470355+00:00",
+  "LastUpdate_Achievements": "2023-11-14T03:06:38.1537056+00:00"
 }
