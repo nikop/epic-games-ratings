@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.54,
+  "EOS_Completed_Percentage": 5.52,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2325,6 +2325,11 @@
       "Time": "2023-11-14T03:07:49.7589222+00:00",
       "NumProgressed": 542,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T05:05:58.70067+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2368,7 +2373,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "META_HALF_LINK",
@@ -2392,7 +2397,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2406,9 +2411,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2456,7 +2461,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2470,9 +2475,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2496,7 +2501,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "PROGRESS_N2",
@@ -2520,7 +2525,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "PROGRESS_N5",
@@ -2535,14 +2540,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:07:36.8020511+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:05:58.7006692+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:57:53.4264326+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:07:36.8020845+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:57:20.2111673+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:05:58.7007021+00:00"
 }

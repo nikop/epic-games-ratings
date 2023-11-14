@@ -5,23 +5,23 @@ Rating: 4.60 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,587 |
+| Azoria Beckons | 72.00% | ~5,588 |
 | A Thorny Situation | 71.00% | ~5,510 |
 | ... And Spit Back Out | 61.00% | ~4,734 |
-| Break-Net Speed | 49.00% | ~3,802 |
-| Bramble Breaker | 47.00% | ~3,647 |
+| Break-Net Speed | 49.00% | ~3,803 |
+| Bramble Breaker | 47.00% | ~3,648 |
 | Miner 49er | 43.00% | ~3,337 |
-| Humble Collector | 42.00% | ~3,259 |
-| Calm Sailing | 37.00% | ~2,871 |
-| Open the Gate! | 34.00% | ~2,638 |
-| Mist Walker | 32.00% | ~2,483 |
+| Humble Collector | 42.00% | ~3,260 |
+| Calm Sailing | 37.00% | ~2,872 |
+| Open the Gate! | 34.00% | ~2,639 |
+| Mist Walker | 32.00% | ~2,484 |
 | Lumberjack | 27.00% | ~2,095 |
 | Oui, Chef! | 23.00% | ~1,785 |
-| Clear the Air | 19.00% | ~1,474 |
+| Clear the Air | 19.00% | ~1,475 |
 | Botanical Breakthrough | 17.00% | ~1,319 |
-| Search for the Hairy Grell | 14.00% | ~1,086 |
-| Beach Comber | 14.00% | ~1,086 |
-| Higher Tax Bracket | 14.00% | ~1,086 |
+| Search for the Hairy Grell | 14.00% | ~1,087 |
+| Beach Comber | 14.00% | ~1,087 |
+| Higher Tax Bracket | 14.00% | ~1,087 |
 | Skilled | 9.00% | ~698 |
 | Flaming Hot Completos | 8.00% | ~621 |
 | Got to Catch Them All | 8.00% | ~621 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 411)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,760 (Ranked 170)  
+Progressed: 7,761 (Ranked 170)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-11 | 7,700 | 1 |
 | 2023-11-12 | 7,736 | 1 |
 | 2023-11-13 | 7,755 | 1 |
-| 2023-11-14 | 7,760 | 1 |
+| 2023-11-14 | 7,761 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

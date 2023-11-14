@@ -3,7 +3,7 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2087,6 +2087,11 @@
       "Time": "2023-11-14T04:05:19.9776019+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T05:04:03.2786778+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2099,7 +2104,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2107,7 +2112,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2115,7 +2120,7 @@
       "Name": "Out of control",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2243,7 +2248,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2267,7 +2272,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2355,7 +2360,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2371,7 +2376,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2435,27 +2440,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 715,
-      "Completed": 715
+      "Progressed": 716,
+      "Completed": 716
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:05:19.9776015+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:04:03.2786772+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:01:13.1239558+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:05:19.9776526+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:00:02.6361407+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:04:03.2787289+00:00"
 }

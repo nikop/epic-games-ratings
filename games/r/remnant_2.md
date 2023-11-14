@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,837 |
-| The Killing Jar | 8.00% | ~17,633 |
+| First of Many | 9.00% | ~19,838 |
+| The Killing Jar | 8.00% | ~17,634 |
 | Expanding Horizons | 7.00% | ~15,429 |
 | Quest for Survival | 7.00% | ~15,429 |
 | Not Your Average Trait | 7.00% | ~15,429 |
@@ -34,15 +34,15 @@ Rating: 4.75 (Ranked 145)
 | The Web | 4.00% | ~8,817 |
 | Scrap Collector | 4.00% | ~8,817 |
 | All These Traits� | 4.00% | ~8,817 |
-| Am I Seeing This? | 3.00% | ~6,612 |
-| Forever is a Long Time Coming | 3.00% | ~6,612 |
-| The Agenda | 3.00% | ~6,612 |
-| Tall Tales | 3.00% | ~6,612 |
-| Bad Moon Rising | 3.00% | ~6,612 |
-| Strapped | 3.00% | ~6,612 |
-| Edgelord | 3.00% | ~6,612 |
-| The Ultimate Weapon | 3.00% | ~6,612 |
-| No One Should Have All That Power | 3.00% | ~6,612 |
+| Am I Seeing This? | 3.00% | ~6,613 |
+| Forever is a Long Time Coming | 3.00% | ~6,613 |
+| The Agenda | 3.00% | ~6,613 |
+| Tall Tales | 3.00% | ~6,613 |
+| Bad Moon Rising | 3.00% | ~6,613 |
+| Strapped | 3.00% | ~6,613 |
+| Edgelord | 3.00% | ~6,613 |
+| The Ultimate Weapon | 3.00% | ~6,613 |
+| No One Should Have All That Power | 3.00% | ~6,613 |
 | Crafty | 2.00% | ~4,408 |
 | Only Human | 2.00% | ~4,408 |
 | Red Room | 2.00% | ~4,408 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,204 |
 | Proving Grounds | 1.00% | ~2,204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,413 (Ranked 68)  
+Progressed: 220,419 (Ranked 68)  
 Completed: 445 (0.20%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 445 (0.20%) (Ranked 250)
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
-| 2023-11-14 | 220,413 | 445 |
+| 2023-11-14 | 220,419 | 445 |
 ## Awards
 Max (Great Boss Battles): 2,168  (Ranked 108)  
 Sum: 4,921 (Ranked 138)  

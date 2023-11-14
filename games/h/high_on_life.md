@@ -10,6 +10,7 @@ Rating: 4.64 (Ranked 331)
 | Creature Feature | 2.00% | ~490 |
 | Are You Packin'? | 2.00% | ~490 |
 | Bring A Knife to a Gun Fight | 2.00% | ~490 |
+| Lezduit! | 2.00% | ~490 |
 | RIP Davey Glutes | 2.00% | ~490 |
 | Sweezy Like Sunday Morning | 2.00% | ~490 |
 | We're All Very Impressed, Trust Me | 2.00% | ~490 |
@@ -22,7 +23,6 @@ Rating: 4.64 (Ranked 331)
 | Don't Knife The Hand That Feeds | 2.00% | ~490 |
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~490 |
 | Eatin' Good in the Neighborhood | 1.00% | ~245 |
-| Lezduit! | 1.00% | ~245 |
 | Eye Scream, You Scream | 1.00% | ~245 |
 | Legendary Bounty Hunter | 1.00% | ~245 |
 | Series Wrap on Suit-O | 1.00% | ~245 |

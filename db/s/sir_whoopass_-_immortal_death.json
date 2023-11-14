@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -546,9 +546,9 @@
       "ID": "BIGBOI_1",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not so Big anymore, Boi!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BILLY_BOB_1",
@@ -594,9 +594,9 @@
       "ID": "CHEESE_4",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re looking mozzare-hella good!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CHEESE_5",
@@ -650,9 +650,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Dirty Feet",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_06",
@@ -706,9 +706,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_01",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Stubbed Toes",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COMPLETE_DUNGEONRUINS_02",
@@ -738,9 +738,9 @@
       "ID": "DIE_1",
       "SetID": "9gfkh7c",
       "Name": "Catch the bus with me!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "DODGE_1",
@@ -754,9 +754,9 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DODGE_3",
@@ -802,9 +802,9 @@
       "ID": "ENEMIES_2",
       "SetID": "9gfkh7c",
       "Name": "Master Butcher",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ENEMIES_3",
@@ -858,9 +858,9 @@
       "ID": "GLASSES_1",
       "SetID": "9gfkh7c",
       "Name": "Deal with it",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "GLASSES_2",
@@ -938,9 +938,9 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ITEM_2",
@@ -954,9 +954,9 @@
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "JOLLY_1",
@@ -994,9 +994,9 @@
       "ID": "JUMP_3",
       "SetID": "9gfkh7c",
       "Name": "I cant stand still!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "KNIGHT_1",
@@ -1058,9 +1058,9 @@
       "ID": "MOUNT_1",
       "SetID": "9gfkh7c",
       "Name": "Hovering around",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ORC_HIPSTER_1",
@@ -1178,9 +1178,9 @@
       "ID": "WHOOPASS_1",
       "SetID": "9gfkh7c",
       "Name": "Pasta Bolognese",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "WORM_1",
@@ -1201,8 +1201,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:09:27.4010715+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:08:37.0517551+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:16.7726106+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:00:26.6715637+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:09:27.4011761+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:59:24.4651424+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:08:37.0518527+00:00"
 }

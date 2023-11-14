@@ -5,18 +5,18 @@ Rating: 4.39 (Ranked 749)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~103,758 |
-| 74 miles East of Otaheité | 56.00% | ~72,631 |
-| Interesting... | 42.00% | ~54,473 |
-| The Everhart Expedition | 39.00% | ~50,582 |
-| The Vanishing of the Lady Shannon | 30.00% | ~38,909 |
-| Seaside Serenade | 30.00% | ~38,909 |
-| Halfway there | 29.00% | ~37,612 |
-| A brigantine, a brig and a barque | 28.00% | ~36,315 |
-| 506 East Hampden Avenue | 28.00% | ~36,315 |
-| Weekend at Walakea's | 27.00% | ~35,018 |
-| Quite a Show | 27.00% | ~35,018 |
-| Dark Water Ride | 25.00% | ~32,424 |
+| A Family Heirloom | 80.00% | ~103,760 |
+| 74 miles East of Otaheité | 56.00% | ~72,632 |
+| Interesting... | 42.00% | ~54,474 |
+| The Everhart Expedition | 39.00% | ~50,583 |
+| The Vanishing of the Lady Shannon | 30.00% | ~38,910 |
+| Seaside Serenade | 30.00% | ~38,910 |
+| Halfway there | 29.00% | ~37,613 |
+| A brigantine, a brig and a barque | 28.00% | ~36,316 |
+| 506 East Hampden Avenue | 28.00% | ~36,316 |
+| Weekend at Walakea's | 27.00% | ~35,019 |
+| Quite a Show | 27.00% | ~35,019 |
+| Dark Water Ride | 25.00% | ~32,425 |
 | Sunken | 24.00% | ~31,128 |
 | Deep Cut | 24.00% | ~31,128 |
 | FHALGOF'N' | 23.00% | ~29,831 |
@@ -40,8 +40,8 @@ Rating: 4.39 (Ranked 749)
 | Gently down the stream... | 1.00% | ~1,297 |
 | Meta-reference | 1.00% | ~1,297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,698 (Ranked 82)  
-Completed: 1,111 (0.86%) (Ranked 168)  
+Progressed: 129,700 (Ranked 82)  
+Completed: 1,111 (0.86%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,7 +248,7 @@ Completed: 1,111 (0.86%) (Ranked 168)
 | 2023-11-11 | 129,333 | 1,107 |
 | 2023-11-12 | 129,543 | 1,110 |
 | 2023-11-13 | 129,674 | 1,110 |
-| 2023-11-14 | 129,698 | 1,111 |
+| 2023-11-14 | 129,700 | 1,111 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

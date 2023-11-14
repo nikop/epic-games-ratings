@@ -1,12 +1,12 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.68 (Ranked 253)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,701 |
+| Own use | 75.00% | ~38,702 |
 | I read Shakespeare and stuff | 64.00% | ~33,025 |
 | Just a sprinkle | 62.00% | ~31,993 |
 | I'm stumped | 61.00% | ~31,477 |
@@ -15,12 +15,12 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's just the beginning | 58.00% | ~29,929 |
 | Hard work pays off | 53.00% | ~27,349 |
 | It's never too late to farm | 51.00% | ~26,317 |
-| All out of Land | 45.00% | ~23,220 |
-| Field Trip | 44.00% | ~22,704 |
-| I like to switch it up | 40.00% | ~20,640 |
-| Help me to help you | 38.00% | ~19,608 |
-| Ultimutt Pawesomeness | 28.00% | ~14,448 |
-| Van Gogh | 26.00% | ~13,416 |
+| All out of Land | 45.00% | ~23,221 |
+| Field Trip | 44.00% | ~22,705 |
+| I like to switch it up | 40.00% | ~20,641 |
+| Help me to help you | 38.00% | ~19,609 |
+| Ultimutt Pawesomeness | 28.00% | ~14,449 |
+| Van Gogh | 26.00% | ~13,417 |
 | You wood not believe it | 22.00% | ~11,352 |
 | Vehicle fleet | 22.00% | ~11,352 |
 | The plot thickens | 16.00% | ~8,256 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~206 |
 | Raisin the stakes | 0.30% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,601 (Ranked 110)  
+Progressed: 51,602 (Ranked 110)  
 Completed: 6 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 6 (0.01%) (Ranked 329)
 | 2023-11-11 | 51,473 | 6 |
 | 2023-11-12 | 51,549 | 6 |
 | 2023-11-13 | 51,598 | 6 |
-| 2023-11-14 | 51,601 | 6 |
+| 2023-11-14 | 51,602 | 6 |
 ## Awards
 Max (Great for Beginners): 5,483  (Ranked 69)  
 Sum: 42,605 (Ranked 33)  

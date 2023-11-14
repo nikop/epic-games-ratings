@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
@@ -6483,10 +6483,10 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718159,
-  "EOS_Completed": 2388,
-  "EOS_NewPlayers": 3896,
-  "EOS_NewCompleters": 38,
+  "EOS_Progressed": 718163,
+  "EOS_Completed": 2389,
+  "EOS_NewPlayers": 3888,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30198,6 +30198,11 @@
       "Time": "2023-11-14T04:05:26.5134127+00:00",
       "NumProgressed": 718159,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-11-14T05:04:08.9203615+00:00",
+      "NumProgressed": 718163,
+      "NumCompleted": 2389
     }
   ],
   "TotalAchievements": 51,
@@ -30439,9 +30444,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 4309
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30616,22 +30621,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718159,
-      "Completed": 2388
+      "Progressed": 718163,
+      "Completed": 2389
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43701,
-      "Completed": 36538
+      "Progressed": 43705,
+      "Completed": 36539
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T21:03:02.1142567+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:05:26.5134118+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:04:08.920361+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:57:44.1286871+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:05:26.5136022+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:57:12.5861167+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:04:08.920562+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,6 +23,7 @@ Rating: 4.54 (Ranked 522)
 | But Doctor, I am Butcho | 0.60% | ~4,309 |
 | Can't Handle the Truth | 0.60% | ~4,309 |
 | Like Riding a Bike | 0.60% | ~4,309 |
+| A Patton Emerges | 0.60% | ~4,309 |
 | Stacking the Deck | 0.60% | ~4,309 |
 | This is My Weapon | 0.60% | ~4,309 |
 | Perks of the Job | 0.50% | ~3,591 |
@@ -30,7 +31,6 @@ Rating: 4.54 (Ranked 522)
 | Slayer Squad | 0.50% | ~3,591 |
 | Zombologist | 0.50% | ~3,591 |
 | Ooh, Shiny! | 0.50% | ~3,591 |
-| A Patton Emerges | 0.50% | ~3,591 |
 | I Am the Resurrection | 0.50% | ~3,591 |
 | Max Headroom | 0.50% | ~3,591 |
 | Our True Nature | 0.50% | ~3,591 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,159 (Ranked 20)  
-Completed: 2,388 (0.33%) (Ranked 223)  
+Progressed: 718,163 (Ranked 20)  
+Completed: 2,389 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,7 +265,7 @@ Completed: 2,388 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,159 | 2,388 |
+| 2023-11-14 | 718,163 | 2,389 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,268 (Ranked 85)  

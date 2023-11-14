@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114112,
+  "EOS_Progressed": 114113,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17834,6 +17834,11 @@
       "Time": "2023-11-14T04:09:28.5978963+00:00",
       "NumProgressed": 114112,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-14T05:08:37.912847+00:00",
+      "NumProgressed": 114113,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17853,7 +17858,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87866
+      "UsersEstimate": 87867
     },
     {
       "ID": "EAwards_10",
@@ -17917,7 +17922,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42221
+      "UsersEstimate": 42222
     },
     {
       "ID": "EAwards_18",
@@ -18029,7 +18034,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "EAwards_30",
@@ -18037,7 +18042,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "EAwards_31",
@@ -18213,7 +18218,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13693
+      "UsersEstimate": 13694
     },
     {
       "ID": "EAwards_8",
@@ -18221,7 +18226,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13693
+      "UsersEstimate": 13694
     },
     {
       "ID": "EAwards_9",
@@ -18236,7 +18241,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114112,
+      "Progressed": 114113,
       "Completed": 50
     }
   ],
@@ -18244,8 +18249,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:09:28.5978957+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:08:37.9128465+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:58:45.5372781+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:09:28.5980499+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:58:02.2956601+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:08:37.9130083+00:00"
 }

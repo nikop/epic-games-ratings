@@ -28,31 +28,31 @@
 | Spare Ribs | 47.00% | ~55 |
 | Self assessed tax return | 42.00% | ~50 |
 | My pants squeak when I walk | 42.00% | ~50 |
-| Surprise!! | 40.00% | ~47 |
+| Surprise!! | 41.00% | ~48 |
 | Haemochromatosis | 40.00% | ~47 |
 | Make America Grate Again | 35.00% | ~41 |
-| Pasta Bolognese | 34.00% | ~40 |
+| Pasta Bolognese | 35.00% | ~41 |
 | Karaoke king | 33.00% | ~39 |
 | You can't stop me, bro! | 33.00% | ~39 |
 | You are no match for me, Billy! | 32.00% | ~38 |
-| Catch the bus with me! | 31.00% | ~37 |
+| Catch the bus with me! | 32.00% | ~38 |
 | Meatballs, coming up! | 30.00% | ~35 |
-| I'm going to get a concussion | 29.00% | ~34 |
+| I'm going to get a concussion | 30.00% | ~35 |
 | Another one bites the iron | 27.00% | ~32 |
+| Ripe Meat Off The Bone! | 25.00% | ~30 |
+| Hovering around | 25.00% | ~30 |
 | A Megapint...? | 24.00% | ~28 |
-| Ripe Meat Off The Bone! | 24.00% | ~28 |
-| Hovering around | 24.00% | ~28 |
 | Kleptomaniac | 24.00% | ~28 |
 | Your daily dose of Vitamin C. | 23.00% | ~27 |
-| You're not so Big anymore, Boi! | 21.00% | ~25 |
-| I cant stand still! | 20.00% | ~24 |
+| You're not so Big anymore, Boi! | 22.00% | ~26 |
+| I cant stand still! | 21.00% | ~25 |
+| Master Butcher | 17.00% | ~20 |
 | Just wing it! | 17.00% | ~20 |
+| Deal with it | 17.00% | ~20 |
 | Slimy... yet satisfying | 17.00% | ~20 |
-| Master Butcher | 16.00% | ~19 |
-| Deal with it | 16.00% | ~19 |
 | Yeehaw!!! | 14.00% | ~17 |
-| You're looking mozzare-hella good! | 12.00% | ~14 |
-| Ancient Ruins of Dirty Feet | 12.00% | ~14 |
+| You're looking mozzare-hella good! | 13.00% | ~15 |
+| Ancient Ruins of Dirty Feet | 13.00% | ~15 |
 | Timber! | 10.00% | ~12 |
 | Free Of Chains | 10.00% | ~12 |
 | Grumpy Immortal | 9.00% | ~11 |
@@ -62,9 +62,9 @@
 | I drink, but I'm not a drunk! | 8.00% | ~9 |
 | Scrambled Eggs | 8.00% | ~9 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~8 |
+| Ancient Ruins of Stubbed Toes | 5.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~5 |
-| Ancient Ruins of Stubbed Toes | 4.00% | ~5 |
 | Ancient Ruins of Leaky Roof | 4.00% | ~5 |
 | Fifty Shades of Gruyere | 3.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~4 |

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251267,
+  "EOS_Progressed": 251269,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18942,6 +18942,11 @@
       "Time": "2023-11-14T03:09:26.7880783+00:00",
       "NumProgressed": 251267,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T05:08:46.7157784+00:00",
+      "NumProgressed": 251269,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19009,7 +19014,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42715
+      "UsersEstimate": 42716
     },
     {
       "ID": "cantBeKeptDown",
@@ -19057,7 +19062,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50253
+      "UsersEstimate": 50254
     },
     {
       "ID": "didYourTime",
@@ -19129,7 +19134,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133172
+      "UsersEstimate": 133173
     },
     {
       "ID": "indegestible",
@@ -19153,7 +19158,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65329
+      "UsersEstimate": 65330
     },
     {
       "ID": "justABit",
@@ -19169,7 +19174,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20101
+      "UsersEstimate": 20102
     },
     {
       "ID": "lockupLockdown",
@@ -19185,7 +19190,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35177
+      "UsersEstimate": 35178
     },
     {
       "ID": "myFirstRunbow",
@@ -19320,7 +19325,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251267,
+      "Progressed": 251269,
       "Completed": 6
     }
   ],
@@ -19328,8 +19333,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:09:39.3619081+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:08:46.7157777+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:58:50.0798239+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:09:39.3620664+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:58:05.9890488+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:08:46.7159478+00:00"
 }

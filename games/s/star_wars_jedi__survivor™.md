@@ -11,8 +11,8 @@ Rating: 4.50 (Ranked 588)
 | Can You Pet the Bogling? | 86.00% | ~6,835 |
 | The Past Made Present | 82.00% | ~6,517 |
 | Survivors, We Adapt | 78.00% | ~6,199 |
+| Among the Masters | 77.00% | ~6,120 |
 | They Never Saw It Coming | 76.00% | ~6,040 |
-| Among the Masters | 76.00% | ~6,040 |
 | Who Gives a Puck | 72.00% | ~5,723 |
 | Mirror Match | 64.00% | ~5,087 |
 | For the Path | 64.00% | ~5,087 |
@@ -120,12 +120,12 @@ Completed: 43 (0.54%) (Ranked 191)
 | 2023-11-13 | 7,935 | 42 |
 | 2023-11-14 | 7,948 | 43 |
 ## Awards
-Max (Great Boss Battles): 3,200  (Ranked 95)  
-Sum: 4,882 (Ranked 140)  
+Max (Great Boss Battles): 3,211  (Ranked 95)  
+Sum: 4,893 (Ranked 140)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,200 |
+| This game has Great Boss Battles | 3,211 |
 | This game has Amazing Storytelling | 224 |
 | This game has Quickly Understood Controls | 204 |
 | This game has Amazing Characters | 202 |
@@ -336,4 +336,4 @@ Diff (max vs sum): -45
 | 2023-11-11 | 4.50 | 3,183 | 4,845 |
 | 2023-11-12 | 4.50 | 3,200 | 4,869 |
 | 2023-11-13 | 4.50 | 3,200 | 4,880 |
-| 2023-11-14 | 4.50 | 3,200 | 4,882 |
+| 2023-11-14 | 4.50 | 3,211 | 4,893 |

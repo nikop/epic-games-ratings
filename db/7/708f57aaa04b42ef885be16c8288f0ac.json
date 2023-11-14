@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -99,11 +99,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5184,
-  "EOS_Completed": 5,
-  "EOS_NewPlayers": 863,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Progressed": 5187,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 864,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -3159,6 +3159,11 @@
       "Time": "2023-11-14T04:09:43.9209612+00:00",
       "NumProgressed": 5184,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-14T05:08:50.6345508+00:00",
+      "NumProgressed": 5187,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3211,7 +3216,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "Eavesdropper",
@@ -3243,7 +3248,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3315,7 +3320,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "NoMoreTotems",
@@ -3363,7 +3368,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "TheQuarterback",
@@ -3442,16 +3447,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5184,
-      "Completed": 5
+      "Progressed": 5187,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-13T19:58:14.3039079+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:09:43.9209607+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:08:50.6345503+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:59:19.4232295+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:09:43.9210015+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:58:29.7689013+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:08:50.6345978+00:00"
 }

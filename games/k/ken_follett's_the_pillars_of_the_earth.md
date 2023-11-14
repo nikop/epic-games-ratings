@@ -6,24 +6,24 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,558 |
+| Tattletale | 40.00% | ~6,559 |
 | Man of politics | 34.00% | ~5,575 |
 | Friends of sorts | 33.00% | ~5,411 |
 | Yet another secret | 33.00% | ~5,411 |
 | Let there be darkness | 32.00% | ~5,247 |
 | End of Book One | 30.00% | ~4,919 |
-| Garden of Eden | 24.00% | ~3,935 |
-| Wannabe knight | 23.00% | ~3,771 |
-| Full house | 23.00% | ~3,771 |
-| Help an old friend | 21.00% | ~3,443 |
-| Two of us | 20.00% | ~3,279 |
-| Negotiation skills | 18.00% | ~2,951 |
-| Workers' union | 18.00% | ~2,951 |
-| End of Book Two | 18.00% | ~2,951 |
-| Everything's in order | 17.00% | ~2,787 |
-| Twist of Fate | 14.00% | ~2,295 |
-| Jack was here! | 14.00% | ~2,295 |
-| Exterminator | 13.00% | ~2,131 |
+| Garden of Eden | 24.00% | ~3,936 |
+| Wannabe knight | 23.00% | ~3,772 |
+| Full house | 23.00% | ~3,772 |
+| Help an old friend | 21.00% | ~3,444 |
+| Two of us | 20.00% | ~3,280 |
+| Negotiation skills | 18.00% | ~2,952 |
+| Workers' union | 18.00% | ~2,952 |
+| End of Book Two | 18.00% | ~2,952 |
+| Everything's in order | 17.00% | ~2,788 |
+| Twist of Fate | 14.00% | ~2,296 |
+| Jack was here! | 14.00% | ~2,296 |
+| Exterminator | 13.00% | ~2,132 |
 | Whodunnit | 12.00% | ~1,968 |
 | Good midwife | 11.00% | ~1,804 |
 | First profit | 11.00% | ~1,804 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~492 |
 | Boy of mystery | 2.00% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,396 (Ranked 144)  
+Progressed: 16,398 (Ranked 144)  
 Completed: 116 (0.71%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 116 (0.71%) (Ranked 177)
 | 2023-11-11 | 16,333 | 114 |
 | 2023-11-12 | 16,368 | 114 |
 | 2023-11-13 | 16,395 | 115 |
-| 2023-11-14 | 16,396 | 116 |
+| 2023-11-14 | 16,398 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 313)  
 Sum: 198 (Ranked 400)  

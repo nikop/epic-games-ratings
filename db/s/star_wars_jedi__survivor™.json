@@ -4987,18 +4987,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 4882,
       "NumberOfAwardsMax": 3200
+    },
+    {
+      "Time": "2023-11-14T04:57:58.5862547+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 4893,
+      "NumberOfAwardsMax": 3211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4882,
-  "NumberOfAwardsMax": 3200,
+  "NumberOfAwards": 4893,
+  "NumberOfAwardsMax": 3211,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3200
+      "Count": 3211
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5057,7 +5063,7 @@
   ],
   "EOS_Progressed": 7948,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -11562,9 +11568,9 @@
       "ID": "achievement_a6",
       "SetID": "3m4b0pk",
       "Name": "Among the Masters",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 6040
+      "UsersEstimate": 6120
     },
     {
       "ID": "achievement_a7",
@@ -11602,9 +11608,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-11-14T03:58:40.6815479+00:00",
-  "LastChanged_Achievements": "2023-11-14T04:08:59.9693409+00:00",
+  "LastChanged": "2023-11-14T04:57:58.5862545+00:00",
+  "LastChanged_Achievements": "2023-11-14T05:06:34.4228142+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:25.3052471+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:58:40.6815487+00:00",
-  "LastUpdate_Achievements": "2023-11-14T04:08:59.9694355+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:57:58.5862551+00:00",
+  "LastUpdate_Achievements": "2023-11-14T05:06:34.4229109+00:00"
 }

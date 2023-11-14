@@ -6,9 +6,9 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,779 |
-| Ready for Winter | 65.00% | ~2,377 |
-| Ready for Summer | 53.00% | ~1,938 |
+| Venture Outward | 76.00% | ~2,780 |
+| Ready for Winter | 65.00% | ~2,378 |
+| Ready for Summer | 53.00% | ~1,939 |
 | Cordon Bleu | 45.00% | ~1,646 |
 | Tapped! | 38.00% | ~1,390 |
 | Eureka | 33.00% | ~1,207 |
@@ -16,11 +16,11 @@ Number of Ratings: 266  (23.09.2022)
 | Science, Troglodyte! | 24.00% | ~878 |
 | Exceptional Skill | 23.00% | ~841 |
 | Home Sweet Home | 23.00% | ~841 |
-| Encyclopedic! | 20.00% | ~731 |
+| Encyclopedic! | 20.00% | ~732 |
 | A Fortress Toppled! | 17.00% | ~622 |
 | The Power of Family | 17.00% | ~622 |
 | Apex Predator | 16.00% | ~585 |
-| The Power of Faith | 13.00% | ~475 |
+| The Power of Faith | 13.00% | ~476 |
 | Strange amalgams | 12.00% | ~439 |
 | The Power of Freedom | 10.00% | ~366 |
 | Magic is a science | 9.00% | ~329 |
@@ -34,8 +34,8 @@ Number of Ratings: 266  (23.09.2022)
 | The stuff of legends. | 6.00% | ~219 |
 | Ancestor's Pride | 4.00% | ~146 |
 | For All Aurai | 4.00% | ~146 |
-| Light of Levant | 4.00% | ~146 |
 | Memory of a legend | 4.00% | ~146 |
+| Light of Levant | 3.00% | ~110 |
 | This was a mistake... | 3.00% | ~110 |
 | Crowd Pleaser. | 2.00% | ~73 |
 | Perfect Defense | 2.00% | ~73 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,657 (Ranked 196)  
-Completed: 4 (0.11%) (Ranked 272)  
+Progressed: 3,658 (Ranked 196)  
+Completed: 4 (0.11%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,7 +245,7 @@ Completed: 4 (0.11%) (Ranked 272)
 | 2023-11-11 | 3,649 | 4 |
 | 2023-11-12 | 3,654 | 4 |
 | 2023-11-13 | 3,656 | 4 |
-| 2023-11-14 | 3,657 | 4 |
+| 2023-11-14 | 3,658 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 468)  
 Sum: 245 (Ranked 380)  

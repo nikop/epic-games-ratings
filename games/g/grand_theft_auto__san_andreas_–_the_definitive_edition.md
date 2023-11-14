@@ -5,12 +5,12 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~11,090 |
-| Pay 'n' Spray | 51.00% | ~6,982 |
+| Getting Started | 82.00% | ~11,227 |
+| Pay 'n' Spray | 51.00% | ~6,983 |
 | All Dressed Up for San Fierro | 26.00% | ~3,560 |
 | The American Dream | 20.00% | ~2,738 |
 | School's Out | 19.00% | ~2,601 |
-| Smooth Moves | 17.00% | ~2,327 |
+| Smooth Moves | 17.00% | ~2,328 |
 | What happens in Las Venturas... | 15.00% | ~2,054 |
 | Today Was a Good Day | 15.00% | ~2,054 |
 | Horror of the Santa Maria | 11.00% | ~1,506 |
@@ -18,7 +18,7 @@ Rating: 4.56 (Ranked 489)
 | The End of the Line | 8.00% | ~1,095 |
 | Original Gangster | 8.00% | ~1,095 |
 | With Extra Dip | 7.00% | ~958 |
-| Saviour | 6.00% | ~821 |
+| Saviour | 6.00% | ~822 |
 | They Can’t Stop All of Us | 5.00% | ~685 |
 | Rescue a Kitten Too? | 5.00% | ~685 |
 | What are the Odds | 4.00% | ~548 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | ...Here we go again | 0.50% | ~68 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,691 (Ranked 149)  
+Progressed: 13,692 (Ranked 149)  
 Completed: 53 (0.39%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,18 +249,18 @@ Completed: 53 (0.39%) (Ranked 211)
 | 2023-11-11 | 13,663 | 52 |
 | 2023-11-12 | 13,671 | 53 |
 | 2023-11-13 | 13,689 | 53 |
-| 2023-11-14 | 13,691 | 53 |
+| 2023-11-14 | 13,692 | 53 |
 ## Awards
 Max (Great Boss Battles): 387  (Ranked 231)  
-Sum: 608 (Ranked 309)  
+Sum: 609 (Ranked 309)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 387 |
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 34 |
+| This game has Amazing Characters | 33 |
 | This game is Great for Beginners | 33 |
-| This game has Amazing Characters | 32 |
 | This game is Highly Recommended | 28 |
 | This game has a Creative Community | 24 |
 | This game is Extremely Fun | 23 |
@@ -442,3 +442,4 @@ Diff (max vs sum): -78
 | 2023-11-11 | 4.56 | 384 | 638 |
 | 2023-11-12 | 4.55 | 387 | 608 |
 | 2023-11-13 | 4.56 | 387 | 608 |
+| 2023-11-14 | 4.56 | 387 | 609 |
