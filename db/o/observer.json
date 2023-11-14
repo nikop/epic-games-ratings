@@ -4,7 +4,7 @@
   "ProductSlug": "observer/home",
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T19:59:38.2929256+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:58:24.7158216+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:03:53.5501214+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:59:04.5474246+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:04:22.4406134+00:00"
 }

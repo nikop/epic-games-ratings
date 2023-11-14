@@ -4,10 +4,10 @@
   "ProductSlug": "old-world",
   "Ranking_Rating": 312,
   "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 215,
+  "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2010,7 +2010,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15318,
+  "EOS_Progressed": 15319,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -15955,6 +15955,11 @@
       "Time": "2023-11-14T19:05:42.3952338+00:00",
       "NumProgressed": 15318,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-14T20:06:41.1209736+00:00",
+      "NumProgressed": 15319,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16596,9 +16601,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 613
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -17380,9 +17385,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -18701,21 +18706,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15318,
+      "Progressed": 15319,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15318,
+      "Progressed": 15319,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:05:42.3952332+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:06:41.1209731+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:03.7822979+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:05:42.3961425+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:57:16.5245721+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:06:41.1218551+00:00"
 }

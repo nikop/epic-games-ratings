@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~613 |
 | Architect | 4.00% | ~613 |
 | Intrepid | 4.00% | ~613 |
+| Strong | 4.00% | ~613 |
 | Ambitious | 3.00% | ~460 |
 | Enlightened | 3.00% | ~460 |
 | Glorious | 3.00% | ~460 |
@@ -23,12 +24,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 3.00% | ~460 |
 | Noble | 3.00% | ~460 |
 | Pioneer | 3.00% | ~460 |
-| Strong | 3.00% | ~460 |
 | Warrior | 3.00% | ~460 |
 | Developing Cities | 3.00% | ~460 |
 | Strong Cities | 3.00% | ~460 |
 | Hanging Gardens | 3.00% | ~460 |
 | Ishtar Gate | 3.00% | ~460 |
+| Lighthouse | 3.00% | ~460 |
 | Oracle | 3.00% | ~460 |
 | Pyramids | 3.00% | ~460 |
 | Christianity | 3.00% | ~460 |
@@ -59,7 +60,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 2.00% | ~306 |
 | Colossus | 2.00% | ~306 |
 | Great Ziggurat | 2.00% | ~306 |
-| Lighthouse | 2.00% | ~306 |
 | Musaeum | 2.00% | ~306 |
 | Necropolis | 2.00% | ~306 |
 | Learn to Play 1 | 2.00% | ~306 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,318 (Ranked 146)  
+Progressed: 15,319 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,11 +557,11 @@ Completed: 5 (0.03%) (Ranked 314)
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
 | 2023-11-13 | 15,305 | 5 |
-| 2023-11-14 | 15,318 | 5 |
+| 2023-11-14 | 15,319 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
-Sum: 1,872 (Ranked 215)  
-Diff (max vs sum): 59  
+Sum: 1,872 (Ranked 216)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |

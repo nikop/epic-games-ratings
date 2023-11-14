@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1707,
+  "EOS_Progressed": 1708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4201,6 +4201,11 @@
       "Time": "2023-11-14T11:03:34.1997527+00:00",
       "NumProgressed": 1707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T20:04:35.4872733+00:00",
+      "NumProgressed": 1708,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4316,7 +4321,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4332,7 +4337,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4364,7 +4369,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4388,7 +4393,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4595,7 +4600,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1707,
+      "Progressed": 1708,
       "Completed": 0
     }
   ],
@@ -4603,8 +4608,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:04:03.6917221+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:04:35.4872727+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9996626+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:57.9570611+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:04:03.6917851+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:58:28.7358042+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:04:35.48732+00:00"
 }

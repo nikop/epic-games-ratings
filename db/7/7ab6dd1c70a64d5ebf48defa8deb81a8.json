@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 186,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -772,9 +772,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_08",
@@ -1019,8 +1019,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:09:16.8074778+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:09:56.175531+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:00:18.899915+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:09:16.8074984+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:01:36.961988+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:09:56.1755524+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "test-dd068f",
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-14T01:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-14T14:57:11.0296287+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:59:51.2243228+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:04:12.8245462+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:01:00.2622146+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:04:46.8585227+00:00"
 }

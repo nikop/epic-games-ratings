@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,918 |
-| Now You're Talking | 62.00% | ~329,413 |
-| Steel Yourself | 62.00% | ~329,413 |
-| Window Dressing | 50.00% | ~265,656 |
+| First Step | 70.00% | ~371,920 |
+| Now You're Talking | 62.00% | ~329,415 |
+| Steel Yourself | 62.00% | ~329,415 |
+| Window Dressing | 50.00% | ~265,657 |
 | Trigger Happy | 46.00% | ~244,404 |
-| Riverborn | 45.00% | ~239,090 |
-| Starry Eyed | 34.00% | ~180,646 |
-| Poking Around | 34.00% | ~180,646 |
+| Riverborn | 45.00% | ~239,091 |
+| Starry Eyed | 34.00% | ~180,647 |
+| Poking Around | 34.00% | ~180,647 |
 | Talk of the Town | 24.00% | ~127,515 |
 | AAARR! | 23.00% | ~122,202 |
 | Hello Darkness | 23.00% | ~122,202 |
 | Wind At Our Backs | 22.00% | ~116,889 |
-| To the Beat | 20.00% | ~106,262 |
+| To the Beat | 20.00% | ~106,263 |
 | Sunny Shores | 17.00% | ~90,323 |
 | Sunday Best | 16.00% | ~85,010 |
 | To Victory! | 15.00% | ~79,697 |
 | Two of a Kind | 14.00% | ~74,384 |
 | Keep On Trucking | 13.00% | ~69,071 |
-| Going on an Adventure | 11.00% | ~58,444 |
-| Make Peace, Not War | 11.00% | ~58,444 |
+| Going on an Adventure | 11.00% | ~58,445 |
+| Make Peace, Not War | 11.00% | ~58,445 |
 | Walking The Line | 10.00% | ~53,131 |
 | Not So Cute Anymore | 10.00% | ~53,131 |
 | Road Less Travelled | 9.00% | ~47,818 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,566 |
 | Rising Star | 5.00% | ~26,566 |
 | Slime Slayer | 5.00% | ~26,566 |
-| Privacy, Please! | 4.00% | ~21,252 |
-| Silky Smooth | 4.00% | ~21,252 |
-| Hash It Over | 4.00% | ~21,252 |
-| Biting Tongue | 4.00% | ~21,252 |
-| What a Catch! | 4.00% | ~21,252 |
-| Hit the Spot | 4.00% | ~21,252 |
+| Privacy, Please! | 4.00% | ~21,253 |
+| Silky Smooth | 4.00% | ~21,253 |
+| Hash It Over | 4.00% | ~21,253 |
+| Biting Tongue | 4.00% | ~21,253 |
+| What a Catch! | 4.00% | ~21,253 |
+| Hit the Spot | 4.00% | ~21,253 |
 | Talk the Talk | 3.00% | ~15,939 |
 | Skin in the Game | 3.00% | ~15,939 |
 | Caving In | 3.00% | ~15,939 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,594 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,312 (Ranked 35)  
+Progressed: 531,314 (Ranked 35)  
 Completed: 498 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 498 (0.09%) (Ranked 281)
 | 2023-11-11 | 531,124 | 497 |
 | 2023-11-12 | 531,221 | 497 |
 | 2023-11-13 | 531,270 | 498 |
-| 2023-11-14 | 531,312 | 498 |
+| 2023-11-14 | 531,314 | 498 |
 ## Awards
 Max (Relaxing): 20  (Ranked 541)  
 Sum: 20 (Ranked 542)  

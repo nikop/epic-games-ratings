@@ -4,7 +4,7 @@
   "ProductSlug": "rollercoaster-tycoon-adventures",
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2018-11-29T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.1859613+00:00",
   "LastChanged": "2023-03-31T05:57:01.1859615+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:25.1014491+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:32.5820273+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:09:07.651257+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:57:54.9117683+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:09:44.630271+00:00"
 }

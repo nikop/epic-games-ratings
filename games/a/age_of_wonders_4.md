@@ -26,11 +26,11 @@ Rating: 4.61 (Ranked 385)
 | My Final Form | 0.50% | ~27 |
 | Impenetrable Fortress | 0.50% | ~27 |
 | Intimidation Tactics | 0.50% | ~27 |
+| Here be Dragons | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
 | Seal the Deal | 0.50% | ~27 |
 | Dawn of the Dread | 0.50% | ~27 |
 | Enchanted Archipelago | 0.40% | ~22 |
-| Here be Dragons | 0.40% | ~22 |
 | Tipping the Scales | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |

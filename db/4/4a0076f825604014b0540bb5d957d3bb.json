@@ -2,9 +2,9 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:08:42.1892049+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:09:11.697519+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.5901981+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:00:20.3987021+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:08:42.1892262+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:01:39.0153004+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:09:11.697537+00:00"
 }

@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Powerful Allies | 1.00% | ~2 |
 | Calm before the Storm | 1.00% | ~2 |
+| Clear Sight | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
 | Fashion Victim | 1.00% | ~2 |
 | Scholar | 1.00% | ~2 |
@@ -18,7 +19,6 @@
 | Break Out | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
-| Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
@@ -41,7 +41,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 379)  
+Progressed: 186 (Ranked 381)  
 Completed: 1 (0.54%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |

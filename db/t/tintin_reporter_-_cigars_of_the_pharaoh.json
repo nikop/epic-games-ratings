@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 624,
+  "Ranking_EOS_Progress": 614,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-11-14T18:07:58.2293227+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T20:07:54.9016507+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -62,7 +67,7 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -150,7 +155,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -238,7 +243,7 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -359,13 +364,13 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:06:40.9107133+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:07:54.9016501+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:05.8922612+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:21.7953315+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:06:40.9107338+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:57:40.8480069+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:07:54.9016747+00:00"
 }

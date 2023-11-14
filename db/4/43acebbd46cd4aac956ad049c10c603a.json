@@ -5,9 +5,9 @@
   "Ranking_Rating": 3,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -651,9 +651,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "ChasingTheLight",
@@ -763,9 +763,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "JustOneLap",
@@ -803,7 +803,7 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -851,17 +851,17 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "PrometheusUnbound",
@@ -891,7 +891,7 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -939,9 +939,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "TextAdventurer",
@@ -987,9 +987,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "TheThiefOfFire",
@@ -1003,17 +1003,17 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 231
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "TrevorsBiographer",
@@ -1076,8 +1076,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:04:37.4718036+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:05:18.7380827+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:58:29.8656754+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:04:37.4718448+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:59:11.4101979+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:05:18.7381254+00:00"
 }

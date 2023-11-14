@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
@@ -204,9 +204,9 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:09:12.7481346+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:09:51.3096569+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:58:28.5291915+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:09:12.7481466+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:59:09.3712053+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:09:51.3096644+00:00"
 }

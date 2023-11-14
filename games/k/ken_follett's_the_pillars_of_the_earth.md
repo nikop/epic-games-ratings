@@ -13,8 +13,8 @@ Number of Ratings: 368  (23.09.2022)
 | Let there be darkness | 32.00% | ~5,251 |
 | End of Book One | 30.00% | ~4,922 |
 | Garden of Eden | 24.00% | ~3,938 |
+| Full house | 24.00% | ~3,938 |
 | Wannabe knight | 23.00% | ~3,774 |
-| Full house | 23.00% | ~3,774 |
 | Help an old friend | 21.00% | ~3,446 |
 | Two of us | 20.00% | ~3,282 |
 | Negotiation skills | 18.00% | ~2,953 |

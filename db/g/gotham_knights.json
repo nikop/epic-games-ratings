@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4059,10 +4059,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4984,
       "NumberOfAwardsMax": 2938
+    },
+    {
+      "Time": "2023-11-14T19:58:26.0875296+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4985,
+      "NumberOfAwardsMax": 2938
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4984,
+  "NumberOfAwards": 4985,
   "NumberOfAwardsMax": 2938,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4112,7 +4118,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 260
+      "Count": 261
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4127,7 +4133,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76421,
+  "EOS_Progressed": 76422,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
@@ -22562,6 +22568,11 @@
       "Time": "2023-11-14T19:05:16.0123969+00:00",
       "NumProgressed": 76421,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-14T20:06:07.6875528+00:00",
+      "NumProgressed": 76422,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22677,7 +22688,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16048
+      "UsersEstimate": 16049
     },
     {
       "ID": "CLAYFACE_2",
@@ -22717,7 +22728,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5349
+      "UsersEstimate": 5350
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -22805,7 +22816,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16048
+      "UsersEstimate": 16049
     },
     {
       "ID": "FREEZE_2",
@@ -22877,7 +22888,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26747
+      "UsersEstimate": 26748
     },
     {
       "ID": "HARLEY_2",
@@ -22885,7 +22896,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "HARLEY_3",
@@ -22901,7 +22912,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12227
+      "UsersEstimate": 12228
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22973,7 +22984,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "MYSTERY_03",
@@ -23060,22 +23071,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76421,
+      "Progressed": 76422,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46701,
+      "Progressed": 46702,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-14T14:57:59.7836834+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:05:16.0123962+00:00",
+  "LastChanged": "2023-11-14T19:58:26.0875294+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:06:07.6875523+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:55.8906366+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:05:16.0125393+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:58:26.0875301+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:06:07.6876768+00:00"
 }

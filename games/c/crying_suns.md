@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,758 |
-| Jeef Skeejj | 44.00% | ~207,172 |
+| The Shutdown | 66.00% | ~310,759 |
+| Jeef Skeejj | 44.00% | ~207,173 |
 | Careful planning | 39.00% | ~183,630 |
-| Second Coming | 34.00% | ~160,087 |
+| Second Coming | 34.00% | ~160,088 |
 | Jeef Skagg | 30.00% | ~141,254 |
-| Mother | 25.00% | ~117,711 |
+| Mother | 25.00% | ~117,712 |
 | In space, no one can hear you scream | 24.00% | ~113,003 |
 | Chapter I: Echoes | 22.00% | ~103,586 |
 | Excelsior Rule | 22.00% | ~103,586 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,627 |
 | Tetsuo | 11.00% | ~51,793 |
 | Plan for the worst | 11.00% | ~51,793 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,084 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,085 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,668 |
 | Through the mirror | 8.00% | ~37,668 |
 | General Vivar | 8.00% | ~37,668 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,845 (Ranked 40)  
+Progressed: 470,847 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 20 (0.00%) (Ranked 351)
 | 2023-11-11 | 470,723 | 20 |
 | 2023-11-12 | 470,778 | 20 |
 | 2023-11-13 | 470,822 | 20 |
-| 2023-11-14 | 470,845 | 20 |
+| 2023-11-14 | 470,847 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 275)  
 Sum: 245 (Ranked 380)  

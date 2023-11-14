@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10509,10 +10509,10 @@
       "Count": 782
     }
   ],
-  "EOS_Progressed": 302081,
-  "EOS_Completed": 510,
-  "EOS_NewPlayers": 502,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 302085,
+  "EOS_Completed": 511,
+  "EOS_NewPlayers": 492,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -32894,6 +32894,11 @@
       "Time": "2023-11-14T19:09:10.1707959+00:00",
       "NumProgressed": 302081,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-14T20:09:48.0495596+00:00",
+      "NumProgressed": 302085,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 45,
@@ -32905,7 +32910,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48333
+      "UsersEstimate": 48334
     },
     {
       "ID": "PFA_10",
@@ -32953,7 +32958,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24166
+      "UsersEstimate": 24167
     },
     {
       "ID": "PFA_16",
@@ -32969,7 +32974,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24166
+      "UsersEstimate": 24167
     },
     {
       "ID": "PFA_18",
@@ -32977,7 +32982,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24166
+      "UsersEstimate": 24167
     },
     {
       "ID": "PFA_19",
@@ -32985,7 +32990,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24166
+      "UsersEstimate": 24167
     },
     {
       "ID": "PFA_2",
@@ -33065,7 +33070,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9062
+      "UsersEstimate": 9063
     },
     {
       "ID": "PFA_29",
@@ -33081,7 +33086,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9062
+      "UsersEstimate": 9063
     },
     {
       "ID": "PFA_30",
@@ -33121,7 +33126,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9062
+      "UsersEstimate": 9063
     },
     {
       "ID": "PFA_35",
@@ -33209,7 +33214,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27187
+      "UsersEstimate": 27188
     },
     {
       "ID": "PFA_45",
@@ -33233,7 +33238,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42291
+      "UsersEstimate": 42292
     },
     {
       "ID": "PFA_7",
@@ -33241,7 +33246,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42291
+      "UsersEstimate": 42292
     },
     {
       "ID": "PFA_8",
@@ -33264,16 +33269,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302081,
-      "Completed": 510
+      "Progressed": 302085,
+      "Completed": 511
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-14T19:02:32.0513088+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:09:10.1707953+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:09:48.0495593+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:02:32.0513094+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:09:10.1709054+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:02:36.0694371+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:09:48.0496713+00:00"
 }

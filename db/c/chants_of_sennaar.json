@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 547,
+  "EOS_Progressed": 549,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.48,
+  "EOS_Completed_Percentage": 5.46,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2345,6 +2345,11 @@
       "Time": "2023-11-14T16:07:59.1977346+00:00",
       "NumProgressed": 547,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T20:03:19.6771837+00:00",
+      "NumProgressed": 549,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2372,7 +2377,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2380,7 +2385,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2388,7 +2393,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "META_HALF_LINK",
@@ -2458,9 +2463,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 60
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2476,7 +2481,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2490,9 +2495,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2524,7 +2529,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "PROGRESS_N3",
@@ -2532,7 +2537,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PROGRESS_N4",
@@ -2540,7 +2545,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "PROGRESS_N5",
@@ -2555,14 +2560,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 547,
+      "Progressed": 549,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:08:03.0650538+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:03:19.6771832+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:29.9566064+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:08:03.0650822+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:57:51.5378817+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:03:19.677249+00:00"
 }

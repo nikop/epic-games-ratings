@@ -20,6 +20,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.10% | ~456 |
 | Baa Baa Black Sheep | 0.10% | ~456 |
 | Basileus | 0.10% | ~456 |
+| Black Jack | 0.10% | ~456 |
 | Bleed Them Dry | 0.10% | ~456 |
 | Blockader | 0.10% | ~456 |
 | Bright Spark | 0.10% | ~456 |
@@ -136,7 +137,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
 | Big Blue Blob | 0.00% | ~0 |
-| Black Jack | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,629 (Ranked 41)  
+Progressed: 455,673 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,629 | 1 |
+| 2023-11-14 | 455,673 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,546 (Ranked 24)  

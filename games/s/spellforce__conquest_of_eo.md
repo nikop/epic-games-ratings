@@ -60,13 +60,13 @@
 | Get to the Airship! | 5.00% | ~1 |
 | Defeat Raith | 5.00% | ~1 |
 | Crypt of the Revenant | 5.00% | ~1 |
+| Misty Coast Dragonbones | 5.00% | ~1 |
 | The Forge of Regan Gor | 5.00% | ~1 |
 | Fireforge | 5.00% | ~1 |
 | Master Artificer | 5.00% | ~1 |
 | Heroes | 5.00% | ~1 |
 | My Friends! | 5.00% | ~1 |
 | Friend of Grey Dusk Vale | 5.00% | ~1 |
-| Misty Coast Dragonbones | 0.00% | ~0 |
 | A Monopoly of Might | 0.00% | ~0 |
 | Hard Life | 0.00% | ~0 |
 | Master Necromancer | 0.00% | ~0 |

@@ -19,7 +19,7 @@ Rating: 4.06 (Ranked 973)
 | Socialite | 27.00% | ~74 |
 | Control is an Illusion | 26.00% | ~71 |
 | The Means to Save It | 20.00% | ~55 |
-| Resilience to Sin | 18.00% | ~49 |
+| Resilience to Sin | 19.00% | ~52 |
 | A Familiar Nest | 18.00% | ~49 |
 | Periapt Alizarin | 18.00% | ~49 |
 | Geas Aristeya | 17.00% | ~47 |
@@ -53,7 +53,7 @@ Rating: 4.06 (Ranked 973)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 350)  
+Progressed: 274 (Ranked 352)  
 Completed: 1 (0.36%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |

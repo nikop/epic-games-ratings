@@ -66,6 +66,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.80% | ~1,119 |
 | Above the Norm | 0.80% | ~1,119 |
 | A Ronin Reborn | 0.80% | ~1,119 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,119 |
 | Master of Transmutation | 0.80% | ~1,119 |
 | Supercharged | 0.80% | ~1,119 |
 | Cranked up to 11 | 0.80% | ~1,119 |
@@ -87,7 +88,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.70% | ~979 |
 | Archivist | 0.70% | ~979 |
 | Industrial Evolution | 0.70% | ~979 |
-| Omae wa Mou Shindeiru | 0.70% | ~979 |
 | Ritualist | 0.70% | ~979 |
 | By Your Powers Combined... | 0.70% | ~979 |
 | A Legend is Born | 0.70% | ~979 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,820 (Ranked 79)  
+Progressed: 139,821 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 186 (0.13%) (Ranked 264)
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
-| 2023-11-14 | 139,820 | 186 |
+| 2023-11-14 | 139,821 | 186 |
 ## Awards
 Max (Great for Beginners): 4,828  (Ranked 74)  
 Sum: 27,547 (Ranked 51)  

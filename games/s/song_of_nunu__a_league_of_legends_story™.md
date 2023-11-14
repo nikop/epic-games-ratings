@@ -7,8 +7,8 @@
 | Feels Familiar | 77.00% | ~533 |
 | I Broke It | 73.00% | ~505 |
 | Better On Ice | 70.00% | ~484 |
+| Notai Notes | 70.00% | ~484 |
 | Blue Dreams | 69.00% | ~477 |
-| Notai Notes | 69.00% | ~477 |
 | He's Famous! | 68.00% | ~471 |
 | Krugmazing | 67.00% | ~464 |
 | Cutie Poro | 67.00% | ~464 |
@@ -21,7 +21,7 @@
 | My Darkest Day | 50.00% | ~346 |
 | Rhythm Of Willump | 47.00% | ~325 |
 | The Relentless Storm | 47.00% | ~325 |
-| A Tragic Reminder | 44.00% | ~304 |
+| A Tragic Reminder | 45.00% | ~311 |
 | 3000 Year Blackout | 43.00% | ~298 |
 | The Finisher | 42.00% | ~291 |
 | True Legends | 41.00% | ~284 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -461,7 +461,7 @@
   ],
   "EOS_Progressed": 5390,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7460,9 +7460,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "46",
@@ -7603,8 +7603,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-14T19:04:46.5470888+00:00",
+  "LastChanged_Achievements": "2023-11-14T20:05:29.626612+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:57:33.0007879+00:00",
-  "LastUpdate_Achievements": "2023-11-14T19:04:46.5471581+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:57:55.4791118+00:00",
+  "LastUpdate_Achievements": "2023-11-14T20:05:29.6266927+00:00"
 }

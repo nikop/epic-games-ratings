@@ -27,8 +27,8 @@ Rating: 4.57 (Ranked 470)
 | Hard worker | 29.00% | ~11 |
 | Death of a legend | 26.00% | ~10 |
 | Archaeologist | 26.00% | ~10 |
+| Little hero | 26.00% | ~10 |
 | Peacekeeper | 26.00% | ~10 |
-| Little hero | 24.00% | ~9 |
 | Pandora's box | 24.00% | ~9 |
 | Sidelined | 24.00% | ~9 |
 | Ghost hunter | 21.00% | ~8 |

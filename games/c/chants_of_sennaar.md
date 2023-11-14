@@ -6,32 +6,32 @@
 | ---- | ---------- | ----- |
 | That's the spirit | 33.00% | ~181 |
 | Welcome to the Tower | 31.00% | ~170 |
-| The great escape | 28.00% | ~153 |
-| The Preacher's fate | 26.00% | ~142 |
-| A new dawn | 24.00% | ~131 |
+| The great escape | 28.00% | ~154 |
+| The Preacher's fate | 26.00% | ~143 |
+| A new dawn | 24.00% | ~132 |
 | True G3M4R | 21.00% | ~115 |
 | Scholar | 21.00% | ~115 |
-| A good beginning | 20.00% | ~109 |
-| The darkness | 20.00% | ~109 |
+| A good beginning | 20.00% | ~110 |
+| The darkness | 20.00% | ~110 |
 | I did it | 19.00% | ~104 |
 | Half the way | 19.00% | ~104 |
 | One last step | 19.00% | ~104 |
-| Peace walker | 18.00% | ~98 |
-| Cable guy | 18.00% | ~98 |
-| Champollion | 18.00% | ~98 |
+| Peace walker | 18.00% | ~99 |
+| Cable guy | 18.00% | ~99 |
 | In this together | 17.00% | ~93 |
+| Champollion | 17.00% | ~93 |
 | Open door | 16.00% | ~88 |
 | Feels like springtime | 16.00% | ~88 |
 | Alchemists Express | 16.00% | ~88 |
 | Free at last | 13.00% | ~71 |
 | A Link to the Past | 12.00% | ~66 |
-| Rascal | 12.00% | ~66 |
+| Rascal | 11.00% | ~60 |
 | A great audience | 10.00% | ~55 |
 | For its own good | 9.00% | ~49 |
 | Fashion victim | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547 (Ranked 296)  
-Completed: 30 (5.48%) (Ranked 68)  
+Progressed: 549 (Ranked 296)  
+Completed: 30 (5.46%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,4 +145,4 @@ Completed: 30 (5.48%) (Ranked 68)
 | 2023-11-11 | 525 | 28 |
 | 2023-11-12 | 536 | 29 |
 | 2023-11-13 | 540 | 30 |
-| 2023-11-14 | 547 | 30 |
+| 2023-11-14 | 549 | 30 |
