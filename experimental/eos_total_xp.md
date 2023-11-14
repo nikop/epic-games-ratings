@@ -376,6 +376,7 @@
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
 | [Inspector Gadget - Mad Time Party](../games/i/inspector_gadget_-_mad_time_party.md) | 11 | 1,000 |
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |
+| [Invincible Presents: Atom Eve](../games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 35 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
 | [Iron Danger](../games/i/iron_danger.md) | 23 | 1,000 |
 | [Island Cities](../games/i/island_cities.md) | 22 | 1,000 |
