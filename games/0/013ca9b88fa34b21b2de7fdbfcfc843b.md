@@ -5,18 +5,18 @@ Rating: 4.60 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,589 |
-| A Thorny Situation | 71.00% | ~5,511 |
-| ... And Spit Back Out | 61.00% | ~4,735 |
-| Break-Net Speed | 49.00% | ~3,803 |
-| Bramble Breaker | 47.00% | ~3,648 |
-| Miner 49er | 43.00% | ~3,338 |
-| Humble Collector | 42.00% | ~3,260 |
-| Calm Sailing | 37.00% | ~2,872 |
-| Open the Gate! | 34.00% | ~2,639 |
+| Azoria Beckons | 72.00% | ~5,590 |
+| A Thorny Situation | 71.00% | ~5,512 |
+| ... And Spit Back Out | 61.00% | ~4,736 |
+| Break-Net Speed | 49.00% | ~3,804 |
+| Bramble Breaker | 47.00% | ~3,649 |
+| Miner 49er | 43.00% | ~3,339 |
+| Humble Collector | 42.00% | ~3,261 |
+| Calm Sailing | 37.00% | ~2,873 |
+| Open the Gate! | 34.00% | ~2,640 |
 | Mist Walker | 32.00% | ~2,484 |
 | Lumberjack | 27.00% | ~2,096 |
-| Oui, Chef! | 23.00% | ~1,785 |
+| Oui, Chef! | 23.00% | ~1,786 |
 | Clear the Air | 19.00% | ~1,475 |
 | Botanical Breakthrough | 17.00% | ~1,320 |
 | Search for the Hairy Grell | 14.00% | ~1,087 |
@@ -31,8 +31,8 @@ Rating: 4.60 (Ranked 411)
 | Scattered Scroll Scrounger | 6.00% | ~466 |
 | Azorian Anniversary | 6.00% | ~466 |
 | I Now Pronounce You... | 5.00% | ~388 |
-| Chatty Neighbor | 4.00% | ~310 |
-| House Proud | 4.00% | ~310 |
+| Chatty Neighbor | 4.00% | ~311 |
+| House Proud | 4.00% | ~311 |
 | Right Tool For the Job | 3.00% | ~233 |
 | Captain of Cozy | 2.00% | ~155 |
 | Angling Authority | 1.00% | ~78 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 411)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,762 (Ranked 170)  
+Progressed: 7,764 (Ranked 170)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-11 | 7,700 | 1 |
 | 2023-11-12 | 7,736 | 1 |
 | 2023-11-13 | 7,755 | 1 |
-| 2023-11-14 | 7,762 | 1 |
+| 2023-11-14 | 7,764 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -820,9 +820,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 46317,
+  "EOS_Progressed": 46320,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24300,6 +24300,11 @@
       "Time": "2023-11-14T06:07:35.4655679+00:00",
       "NumProgressed": 46317,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-14T07:07:13.7841918+00:00",
+      "NumProgressed": 46320,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -24463,7 +24468,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     },
     {
       "ID": "playerPaz",
@@ -24519,7 +24524,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12042
+      "UsersEstimate": 12043
     },
     {
       "ID": "sandboarder",
@@ -24607,7 +24612,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     },
     {
       "ID": "windswept",
@@ -24622,15 +24627,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 46317,
+      "Progressed": 46320,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-09T16:58:19.7879138+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:07:35.4655674+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:07:13.7841914+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.2500678+00:00",
-  "LastUpdate_Ratings": "2023-11-14T06:01:54.1699145+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:07:35.4657216+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:01:45.8735832+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:07:13.7843382+00:00"
 }

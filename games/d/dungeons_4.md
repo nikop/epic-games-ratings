@@ -10,8 +10,8 @@
 | Hammer Time, Round Two | 76.00% | ~194 |
 | The Hellwoods | 69.00% | ~176 |
 | Thalya's Concentrated Fury | 63.00% | ~161 |
+| The Plains of Strothalm | 62.00% | ~158 |
 | Experienced Thalya | 62.00% | ~158 |
-| The Plains of Strothalm | 61.00% | ~156 |
 | Master of Magic | 58.00% | ~148 |
 | Bad Elves Go Everywhere | 56.00% | ~143 |
 | Unicorn steaks – fresh off the hoof! | 53.00% | ~135 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -4030,7 +4030,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 483538,
+  "EOS_Progressed": 483553,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 4055,
   "EOS_NewCompleters": 0,
@@ -27715,6 +27715,11 @@
       "Time": "2023-11-14T06:07:43.9225651+00:00",
       "NumProgressed": 483538,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-14T07:07:22.0930759+00:00",
+      "NumProgressed": 483553,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -27734,7 +27739,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "ACH_CARRYING",
@@ -27830,7 +27835,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "ACH_JR_50",
@@ -27854,7 +27859,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -27926,7 +27931,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -27942,7 +27947,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -27958,7 +27963,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -27982,7 +27987,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -27990,7 +27995,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24177
+      "UsersEstimate": 24178
     },
     {
       "ID": "ACH_WET_FEET",
@@ -28005,15 +28010,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 483538,
+      "Progressed": 483553,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-11-12T22:00:33.631917+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:07:43.9225647+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:07:22.0930756+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.866497+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:58:02.0895594+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:07:43.922681+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:57:54.8259444+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:07:22.0931915+00:00"
 }

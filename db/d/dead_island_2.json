@@ -6427,10 +6427,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11271,
       "NumberOfAwardsMax": 7413
+    },
+    {
+      "Time": "2023-11-14T06:57:22.1835882+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11274,
+      "NumberOfAwardsMax": 7413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11271,
+  "NumberOfAwards": 11274,
   "NumberOfAwardsMax": 7413,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6444,7 +6450,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 537
+      "Count": 540
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6489,9 +6495,9 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718172,
+  "EOS_Progressed": 718184,
   "EOS_Completed": 2389,
-  "EOS_NewPlayers": 3888,
+  "EOS_NewPlayers": 3891,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30214,6 +30220,11 @@
       "Time": "2023-11-14T06:05:31.702842+00:00",
       "NumProgressed": 718172,
       "NumCompleted": 2389
+    },
+    {
+      "Time": "2023-11-14T07:05:09.9817516+00:00",
+      "NumProgressed": 718184,
+      "NumCompleted": 2389
     }
   ],
   "TotalAchievements": 51,
@@ -30585,7 +30596,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ach_dark_magic",
@@ -30593,7 +30604,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ach_gardening_tools",
@@ -30609,7 +30620,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30632,22 +30643,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718172,
+      "Progressed": 718184,
       "Completed": 2389
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43714,
+      "Progressed": 43726,
       "Completed": 36539
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-14T05:57:29.1587184+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:05:31.7028416+00:00",
+  "LastChanged": "2023-11-14T06:57:22.1835881+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:05:09.9817512+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:57:29.158719+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:05:31.7030262+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:57:22.1835887+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:05:09.9818831+00:00"
 }

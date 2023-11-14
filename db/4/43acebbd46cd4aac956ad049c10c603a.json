@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -555,6 +555,11 @@
       "Time": "2023-11-14T04:05:20.6454128+00:00",
       "NumProgressed": 315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T07:05:02.9501368+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -597,7 +602,7 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -663,7 +668,7 @@
       "Name": "Discovery",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "EasternWetlands",
@@ -685,9 +690,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "FloodedValley",
@@ -735,7 +740,7 @@
       "Name": "Into the Machine",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "JustOneLap",
@@ -773,7 +778,7 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -823,7 +828,7 @@
       "Name": "Overload",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Persistent",
@@ -861,7 +866,7 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -885,7 +890,7 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -893,7 +898,7 @@
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -911,7 +916,7 @@
       "Name": "Team Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "TextAdventurer",
@@ -927,7 +932,7 @@
       "Name": "The All-Gifted",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TheEdgeOfForever",
@@ -959,15 +964,15 @@
       "Name": "The Spark",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "TheWordEndures",
@@ -975,7 +980,7 @@
       "Name": "The Word Endures",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "TouchGrass",
@@ -983,7 +988,7 @@
       "Name": "Touch Grass",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "TrevorsBiographer",
@@ -1038,7 +1043,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 1
     }
   ],
@@ -1046,8 +1051,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:05:24.7118638+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:05:02.9501364+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:59:00.4470703+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:05:24.7119102+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:58:52.8073762+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:05:02.9501733+00:00"
 }

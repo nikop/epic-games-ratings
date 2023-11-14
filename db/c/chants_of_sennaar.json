@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.52,
+  "EOS_Completed_Percentage": 5.51,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2330,6 +2330,11 @@
       "Time": "2023-11-14T05:05:58.70067+00:00",
       "NumProgressed": 543,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T07:07:43.8758072+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2459,9 +2464,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 141
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2485,7 +2490,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2517,7 +2522,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PROGRESS_N4",
@@ -2540,14 +2545,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:08:05.8943558+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:07:43.8758068+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:57:40.7337203+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:08:05.8943793+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:57:33.6992067+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:07:43.8758265+00:00"
 }

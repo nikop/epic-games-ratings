@@ -155,9 +155,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3213,
+  "EOS_Progressed": 3224,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3208,
+  "EOS_NewPlayers": 3219,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -645,6 +645,11 @@
       "Time": "2023-11-14T06:08:14.4342452+00:00",
       "NumProgressed": 3213,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-14T07:07:52.3984424+00:00",
+      "NumProgressed": 3224,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -689,7 +694,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -705,7 +710,7 @@
       "Name": "Rescuer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 355
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -721,7 +726,7 @@
       "Name": "Locksmith",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -736,7 +741,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 3213,
+      "Progressed": 3224,
       "Completed": 5
     }
   ],
@@ -744,8 +749,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-11T10:01:08.2940969+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:08:14.4342447+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:07:52.398442+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:33.6452734+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:59:00.5973597+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:08:14.4342553+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:58:52.8601219+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:07:52.398454+00:00"
 }

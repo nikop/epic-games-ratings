@@ -5,9 +5,9 @@
   "Ranking_Rating": 902,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 376,
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 1579,
+  "EOS_Progressed": 1581,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2294,6 +2294,11 @@
       "Time": "2023-11-14T03:07:16.9957104+00:00",
       "NumProgressed": 1579,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T07:07:11.716309+00:00",
+      "NumProgressed": 1581,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2528,9 +2533,9 @@
       "ID": "TLOTF_ACHIEVEMENT_029",
       "SetID": "87e61g",
       "Name": "Together in Death",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_030",
@@ -2776,9 +2781,9 @@
       "ID": "TLOTF_ACHIEVEMENT_060",
       "SetID": "87e61g",
       "Name": "The Past Shapes the Present",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -2809,7 +2814,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1579,
+      "Progressed": 1581,
       "Completed": 1
     }
   ],
@@ -2817,8 +2822,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-14T05:59:12.6439238+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:07:33.4390767+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:07:11.7163085+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.5758609+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:59:12.6439243+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:07:33.4391477+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:59:04.8696023+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:07:11.716374+00:00"
 }

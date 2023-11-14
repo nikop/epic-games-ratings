@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4341,
+  "EOS_Progressed": 4342,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1515,6 +1515,11 @@
       "Time": "2023-11-13T01:55:46.0879147+00:00",
       "NumProgressed": 4341,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-14T07:09:59.9108815+00:00",
+      "NumProgressed": 4342,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1598,7 +1603,7 @@
       "Name": "I like to build stuff... II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS3",
@@ -1862,7 +1867,7 @@
       "Name": "Full-time job II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2222,7 +2227,7 @@
       "Name": "A time consuming game II",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -2254,7 +2259,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -2302,7 +2307,7 @@
       "Name": "Knee deep in snow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION05",
@@ -2333,15 +2338,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4341,
+      "Progressed": 4342,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-10T19:58:11.5162309+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:10:22.4410352+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:09:59.9108812+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.7121959+00:00",
-  "LastUpdate_Ratings": "2023-11-14T06:01:12.6876994+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:10:22.4411256+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:01:04.1378459+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:09:59.9109686+00:00"
 }

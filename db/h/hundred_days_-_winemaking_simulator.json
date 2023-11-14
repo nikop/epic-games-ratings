@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12180,
+  "EOS_Progressed": 12182,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10006,6 +10006,11 @@
       "Time": "2023-11-14T06:09:18.5393267+00:00",
       "NumProgressed": 12180,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-14T07:08:55.9208334+00:00",
+      "NumProgressed": 12182,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10066,7 +10071,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "a_19",
@@ -10265,7 +10270,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12180,
+      "Progressed": 12182,
       "Completed": 10
     }
   ],
@@ -10273,8 +10278,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-14T06:09:18.5393262+00:00",
+  "LastChanged_Achievements": "2023-11-14T07:08:55.9208331+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-14T06:01:03.7549102+00:00",
-  "LastUpdate_Achievements": "2023-11-14T06:09:18.5393906+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:00:55.5145708+00:00",
+  "LastUpdate_Achievements": "2023-11-14T07:08:55.9208967+00:00"
 }

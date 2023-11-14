@@ -12,9 +12,10 @@ Rating: 4.21 (Ranked 902)
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
 | Shades of Violence | 0.40% | ~6 |
+| The Past Shapes the Present | 0.40% | ~6 |
 | Vengeance for the Fallen | 0.30% | ~5 |
 | Rise and Fall | 0.30% | ~5 |
-| The Past Shapes the Present | 0.30% | ~5 |
+| Together in Death | 0.30% | ~5 |
 | A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
@@ -36,7 +37,6 @@ Rating: 4.21 (Ranked 902)
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |
-| Together in Death | 0.10% | ~2 |
 | Burying the Past | 0.10% | ~2 |
 | Unwanted | 0.10% | ~2 |
 | Unbroken to the End | 0.10% | ~2 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 902)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,579 (Ranked 234)  
+Progressed: 1,581 (Ranked 233)  
 Completed: 1 (0.06%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.06%) (Ranked 295)
 | 2023-11-11 | 1,538 | 1 |
 | 2023-11-12 | 1,564 | 1 |
 | 2023-11-13 | 1,572 | 1 |
-| 2023-11-14 | 1,579 | 1 |
+| 2023-11-14 | 1,581 | 1 |
 ## Awards
 Max (Character Customization): 151  (Ranked 315)  
 Sum: 262 (Ranked 376)  
