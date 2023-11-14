@@ -16,7 +16,7 @@ Number of Ratings: 170  (23.09.2022)
 | Mausoleum of Ice | 13.00% | ~3,136 |
 | Wings of Stone | 12.00% | ~2,895 |
 | Equilibrium | 12.00% | ~2,895 |
-| In the belly of the beast | 11.00% | ~2,653 |
+| In the belly of the beast | 11.00% | ~2,654 |
 | Condor condo | 10.00% | ~2,412 |
 | Memorial | 9.00% | ~2,171 |
 | An uninvited guest | 7.00% | ~1,689 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,206 |
 | Hide and Seek | 4.00% | ~965 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,122 (Ranked 126)  
+Progressed: 24,123 (Ranked 126)  
 Completed: 459 (1.90%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 459 (1.90%) (Ranked 124)
 | 2023-11-11 | 23,932 | 456 |
 | 2023-11-12 | 24,030 | 457 |
 | 2023-11-13 | 24,094 | 457 |
-| 2023-11-14 | 24,122 | 459 |
+| 2023-11-14 | 24,123 | 459 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

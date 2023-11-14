@@ -12063,9 +12063,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455352,
+  "EOS_Progressed": 455397,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6245,
+  "EOS_NewPlayers": 6247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35868,6 +35868,11 @@
       "Time": "2023-11-14T13:08:24.8747286+00:00",
       "NumProgressed": 455352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T14:03:42.4145264+00:00",
+      "NumProgressed": 455397,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35925,9 +35930,9 @@
       "ID": "achievement_a_pile_of_gold",
       "SetID": "67mdiil",
       "Name": "A Pile of Gold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_a_protected_market",
@@ -35965,9 +35970,9 @@
       "ID": "achievement_absolutely",
       "SetID": "8p2n7he",
       "Name": "Absolutely",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_abu_bakr_IIs_ambition",
@@ -36037,9 +36042,9 @@
       "ID": "achievement_all_that_is_thine_shall_be_mine",
       "SetID": "8p2n7he",
       "Name": "All That\u0027s Thine Shall Be Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -36157,9 +36162,9 @@
       "ID": "achievement_azur_seme_de_lis_or",
       "SetID": "67mdiil",
       "Name": "Azur sem\u00E9 de lis or",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -36589,9 +36594,9 @@
       "ID": "achievement_electable",
       "SetID": "8p2n7he",
       "Name": "Electable!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -36637,9 +36642,9 @@
       "ID": "achievement_factionalism",
       "SetID": "67mdiil",
       "Name": "Factionalism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -37557,9 +37562,9 @@
       "ID": "achievement_not_so_sad_a_state",
       "SetID": "67mdiil",
       "Name": "Not so sad a state...",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_on_the_edge_of_madness",
@@ -37597,9 +37602,9 @@
       "ID": "achievement_one_king_to_rule",
       "SetID": "8p2n7he",
       "Name": "One King to Rule!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_one_nation_to_rule_them_all",
@@ -38141,9 +38146,9 @@
       "ID": "achievement_tear_down_this_wall",
       "SetID": "8p2n7he",
       "Name": "Tear Down This Wall",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_terra_mariana",
@@ -38277,9 +38282,9 @@
       "ID": "achievement_the_pen_is_mightier_than_the_sword",
       "SetID": "67mdiil",
       "Name": "The pen is mightier than the sword",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_the_pheasant_strut",
@@ -38365,9 +38370,9 @@
       "ID": "achievement_this_is_my_faith",
       "SetID": "8p2n7he",
       "Name": "This is My Faith",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_this_is_persia",
@@ -38782,21 +38787,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455352,
+      "Progressed": 455397,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455352,
+      "Progressed": 455397,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-14T09:57:28.5758681+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:08:24.8747282+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:03:42.414526+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:02:00.4162009+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:08:24.8758147+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:57:02.0534833+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:03:42.4156073+00:00"
 }

@@ -7,8 +7,8 @@
 | Alone with Them | 71.00% | ~217 |
 | Forced to Kill | 69.00% | ~210 |
 | A Night To Remember | 40.00% | ~122 |
-| Safe...For now? | 34.00% | ~104 |
-| Open Sesame | 28.00% | ~85 |
+| Safe...For now? | 35.00% | ~107 |
+| Open Sesame | 29.00% | ~88 |
 | What have I done!? | 18.00% | ~55 |
 | Them and Us | 17.00% | ~52 |
 | OUTRAGE | 17.00% | ~52 |
@@ -22,7 +22,7 @@
 | The Curse Is Real | 10.00% | ~30 |
 | Trapped | 10.00% | ~30 |
 | Rest In Peace | 9.00% | ~27 |
-| What A Mansion | 7.00% | ~21 |
+| What A Mansion | 8.00% | ~24 |
 | Researcher | 6.00% | ~18 |
 | I Am The Gate Keeper! | 6.00% | ~18 |
 | Armed To The Teeth | 4.00% | ~12 |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 85.00% | ~220 |
 | Thalya – Simply Immortal | 85.00% | ~220 |
-| For the Horde! | 77.00% | ~199 |
+| For the Horde! | 78.00% | ~202 |
 | Hammer Time, Round Two | 76.00% | ~197 |
 | The Hellwoods | 68.00% | ~176 |
 | Thalya's Concentrated Fury | 64.00% | ~166 |
@@ -17,9 +17,9 @@
 | Unicorn steaks – fresh off the hoof! | 53.00% | ~137 |
 | Magic Accidents | 51.00% | ~132 |
 | Trap Master | 49.00% | ~127 |
+| Heroes’ Gorge | 49.00% | ~127 |
 | Minions, Minions! | 48.00% | ~124 |
-| Heroes’ Gorge | 48.00% | ~124 |
-| YOU SHALL NOT PASS! | 36.00% | ~93 |
+| YOU SHALL NOT PASS! | 37.00% | ~96 |
 | The Ascent | 35.00% | ~91 |
 | It's Warm and Cozy at Home | 35.00% | ~91 |
 | Pure Dynamite! | 32.00% | ~83 |
@@ -28,9 +28,9 @@
 | The Big Eaty | 28.00% | ~73 |
 | “… like son” | 20.00% | ~52 |
 | Dungeonlord Gorgu | 17.00% | ~44 |
+| Shame! Shame! Shame! | 16.00% | ~41 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 15.00% | ~39 |
 | The Cathedral of Light | 15.00% | ~39 |
-| Shame! Shame! Shame! | 15.00% | ~39 |
 | Hungry, Hungry Gorgu! | 12.00% | ~31 |
 | Tanos' Crusade Against Thalya | 11.00% | ~28 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~26 |
@@ -59,9 +59,9 @@
 | To Infinity And Beyond! | 2.00% | ~5 |
 | To the Max! | 1.00% | ~3 |
 | The Rune Sockets of Finitude (Part 2) | 1.00% | ~3 |
+| The Last Stand - This Time For Real! | 1.00% | ~3 |
 | No Mana, No Cry | 0.80% | ~2 |
 | Hands Off My Stones | 0.80% | ~2 |
-| The Last Stand - This Time For Real! | 0.80% | ~2 |
 | Evilification | 0.80% | ~2 |
 | Heal Heal Blessing | 0.40% | ~1 |
 | I Don't Need Any Help | 0.40% | ~1 |

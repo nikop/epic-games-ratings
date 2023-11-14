@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114129,
+  "EOS_Progressed": 114132,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17874,6 +17874,11 @@
       "Time": "2023-11-14T13:13:23.5921563+00:00",
       "NumProgressed": 114129,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-14T14:08:48.7048475+00:00",
+      "NumProgressed": 114132,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17893,7 +17898,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87879
+      "UsersEstimate": 87882
     },
     {
       "ID": "EAwards_10",
@@ -17901,7 +17906,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12554
+      "UsersEstimate": 12555
     },
     {
       "ID": "EAwards_11",
@@ -17917,7 +17922,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17119
+      "UsersEstimate": 17120
     },
     {
       "ID": "EAwards_13",
@@ -17957,7 +17962,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42228
+      "UsersEstimate": 42229
     },
     {
       "ID": "EAwards_18",
@@ -17981,7 +17986,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54782
+      "UsersEstimate": 54783
     },
     {
       "ID": "EAwards_20",
@@ -17989,7 +17994,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12554
+      "UsersEstimate": 12555
     },
     {
       "ID": "EAwards_21",
@@ -18013,7 +18018,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "EAwards_24",
@@ -18037,7 +18042,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12554
+      "UsersEstimate": 12555
     },
     {
       "ID": "EAwards_27",
@@ -18117,7 +18122,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9130
+      "UsersEstimate": 9131
     },
     {
       "ID": "EAwards_36",
@@ -18253,7 +18258,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13695
+      "UsersEstimate": 13696
     },
     {
       "ID": "EAwards_8",
@@ -18261,7 +18266,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13695
+      "UsersEstimate": 13696
     },
     {
       "ID": "EAwards_9",
@@ -18269,14 +18274,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12554
+      "UsersEstimate": 12555
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114129,
+      "Progressed": 114132,
       "Completed": 50
     }
   ],
@@ -18284,8 +18289,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:13:23.5921559+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:08:48.7048473+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:02:59.4729535+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:13:23.592297+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:58:01.2726466+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:08:48.7049949+00:00"
 }

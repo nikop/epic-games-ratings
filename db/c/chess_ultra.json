@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217677,
+  "EOS_Progressed": 217678,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24093,6 +24093,11 @@
       "Time": "2023-11-14T13:07:53.873284+00:00",
       "NumProgressed": 217677,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-14T14:03:11.4297931+00:00",
+      "NumProgressed": 217678,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -24104,7 +24109,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 102308
+      "UsersEstimate": 102309
     },
     {
       "ID": "AlekhinesGun",
@@ -24152,7 +24157,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 119722
+      "UsersEstimate": 119723
     },
     {
       "ID": "Checkmate",
@@ -24176,7 +24181,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 152374
+      "UsersEstimate": 152375
     },
     {
       "ID": "DoubleCheck",
@@ -24272,7 +24277,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52242
+      "UsersEstimate": 52243
     },
     {
       "ID": "O-O-O",
@@ -24328,7 +24333,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 43535
+      "UsersEstimate": 43536
     },
     {
       "ID": "ScholarsMate",
@@ -24407,7 +24412,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 217677,
+      "Progressed": 217678,
       "Completed": 2
     }
   ],
@@ -24415,8 +24420,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-14T13:07:38.4889289+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:07:53.8732836+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:03:11.4297928+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:29.355352+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:07:38.4889296+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:07:53.8735185+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:02:54.4734733+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:03:11.4299649+00:00"
 }

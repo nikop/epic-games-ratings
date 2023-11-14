@@ -6,14 +6,14 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~537,902 |
-| Every story has a beginning | 36.00% | ~245,120 |
-| The first of many | 31.00% | ~211,075 |
-| Positive word of mouth | 18.00% | ~122,560 |
-| Lawn in the U.S.A. | 15.00% | ~102,133 |
-| Blade Runner | 9.00% | ~61,280 |
-| Credible | 7.00% | ~47,662 |
-| Teamwork makes the dream work | 6.00% | ~40,853 |
+| The dream begins | 79.00% | ~537,911 |
+| Every story has a beginning | 36.00% | ~245,124 |
+| The first of many | 31.00% | ~211,079 |
+| Positive word of mouth | 18.00% | ~122,562 |
+| Lawn in the U.S.A. | 15.00% | ~102,135 |
+| Blade Runner | 9.00% | ~61,281 |
+| Credible | 7.00% | ~47,663 |
+| Teamwork makes the dream work | 6.00% | ~40,854 |
 | Where there's muck there's brass | 4.00% | ~27,236 |
 | Bigger and better | 4.00% | ~27,236 |
 | Aggressive expansion | 4.00% | ~27,236 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~681 |
 | Mo mowers, mo problems | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,888 (Ranked 25)  
+Progressed: 680,900 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,15 +269,15 @@ Completed: 17 (0.00%) (Ranked 351)
 | 2023-11-11 | 680,225 | 17 |
 | 2023-11-12 | 680,571 | 17 |
 | 2023-11-13 | 680,798 | 17 |
-| 2023-11-14 | 680,888 | 17 |
+| 2023-11-14 | 680,900 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 298)  
-Sum: 984 (Ranked 261)  
+Sum: 985 (Ranked 261)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |
-| This game is Extremely Fun | 169 |
+| This game is Extremely Fun | 170 |
 | This game is Great for Beginners | 167 |
 | This game is Relaxing | 166 |
 | This game is Highly Recommended | 158 |
@@ -379,3 +379,4 @@ Diff (max vs sum): 37
 | 2023-10-31 | 4.07 | - | 182 | 983 |
 | 2023-11-07 | 4.08 | - | 182 | 983 |
 | 2023-11-13 | 4.08 | - | 182 | 984 |
+| 2023-11-14 | 4.08 | - | 182 | 985 |

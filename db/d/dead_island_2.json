@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6495,9 +6495,9 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718283,
+  "EOS_Progressed": 718312,
   "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3872,
+  "EOS_NewPlayers": 3880,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30255,6 +30255,11 @@
       "Time": "2023-11-14T13:09:15.1683765+00:00",
       "NumProgressed": 718283,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-14T14:04:31.1607705+00:00",
+      "NumProgressed": 718312,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30314,7 +30319,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_bookworm",
@@ -30346,7 +30351,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -30362,7 +30367,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_explorer",
@@ -30474,7 +30479,7 @@
       "Name": "Zombologist",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_legendary",
@@ -30482,7 +30487,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_magnum_opus",
@@ -30514,7 +30519,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_salvation",
@@ -30562,7 +30567,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_the_vcla",
@@ -30578,7 +30583,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3591
+      "UsersEstimate": 3592
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -30626,7 +30631,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ach_dark_magic",
@@ -30634,7 +30639,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ach_gardening_tools",
@@ -30650,7 +30655,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30666,20 +30671,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718283,
+      "Progressed": 718312,
       "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43825,
+      "Progressed": 43854,
       "Completed": 36540
     }
   ],
@@ -30687,8 +30692,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-14T06:57:22.1835881+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:09:15.1683761+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:04:31.1607702+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:02:10.8058206+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:09:15.1685094+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:57:12.2916437+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:04:31.1609619+00:00"
 }

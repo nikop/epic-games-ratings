@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~876 |
-| Whatever It Takes | 2.00% | ~876 |
-| Pork Chopped | 2.00% | ~876 |
+| One of Us | 2.00% | ~877 |
+| Whatever It Takes | 2.00% | ~877 |
+| Pork Chopped | 2.00% | ~877 |
 | Hotel California | 0.90% | ~6,465 |
 | Welcome To Hell-A | 0.90% | ~6,465 |
 | Break A Leg | 0.80% | ~5,746 |
@@ -26,14 +26,14 @@ Rating: 4.54 (Ranked 523)
 | Like Riding a Bike | 0.60% | ~4,310 |
 | A Patton Emerges | 0.60% | ~4,310 |
 | This is My Weapon | 0.60% | ~4,310 |
-| Perks of the Job | 0.50% | ~3,591 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,591 |
-| Slayer Squad | 0.50% | ~3,591 |
-| Zombologist | 0.50% | ~3,591 |
-| Ooh, Shiny! | 0.50% | ~3,591 |
-| I Am the Resurrection | 0.50% | ~3,591 |
-| Max Headroom | 0.50% | ~3,591 |
-| Our True Nature | 0.50% | ~3,591 |
+| Perks of the Job | 0.50% | ~3,592 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,592 |
+| Slayer Squad | 0.50% | ~3,592 |
+| Zombologist | 0.50% | ~3,592 |
+| Ooh, Shiny! | 0.50% | ~3,592 |
+| I Am the Resurrection | 0.50% | ~3,592 |
+| Max Headroom | 0.50% | ~3,592 |
+| Our True Nature | 0.50% | ~3,592 |
 | Making Your Mark | 0.40% | ~2,873 |
 | Not Even My Final Form | 0.40% | ~2,873 |
 | Humanity Distilled | 0.40% | ~2,873 |
@@ -45,7 +45,7 @@ Rating: 4.54 (Ranked 523)
 | Go, Bobcats! | 0.30% | ~2,155 |
 | Variety is the Spice of Death | 0.30% | ~2,155 |
 | Rising Star | 0.30% | ~2,155 |
-| Top That, Tisha! | 0.30% | ~131 |
+| Top That, Tisha! | 0.30% | ~132 |
 | Make it So | 0.20% | ~1,437 |
 | LA Influential | 0.20% | ~1,437 |
 | Sole Survivor | 0.20% | ~1,437 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,283 (Ranked 20)  
+Progressed: 718,312 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,283 | 2,391 |
+| 2023-11-14 | 718,312 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,274 (Ranked 85)  

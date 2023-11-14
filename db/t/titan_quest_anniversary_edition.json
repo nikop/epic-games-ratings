@@ -4,7 +4,7 @@
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 253,
   "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
@@ -541,10 +541,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-11-14T13:59:47.3189573+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -571,6 +577,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -584,8 +596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2023-11-03T17:59:53.3006095+00:00",
+  "LastChanged": "2023-11-14T13:59:47.3189572+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.3486053+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:04:49.7586869+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:10:54.6707114+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:59:47.3189576+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:06:11.0969893+00:00"
 }

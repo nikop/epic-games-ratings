@@ -6,14 +6,14 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,643 |
-| A thief's beginning | 10.00% | ~21,369 |
-| Thorough | 10.00% | ~21,369 |
-| Disguised | 9.00% | ~19,232 |
-| Rollin' | 9.00% | ~19,232 |
-| Tanuki Time | 9.00% | ~19,232 |
-| Rescue Takuma | 8.00% | ~17,095 |
-| Stoned Ox | 8.00% | ~17,095 |
+| Genin | 12.00% | ~25,645 |
+| A thief's beginning | 10.00% | ~21,371 |
+| Thorough | 10.00% | ~21,371 |
+| Disguised | 9.00% | ~19,234 |
+| Rollin' | 9.00% | ~19,234 |
+| Tanuki Time | 9.00% | ~19,234 |
+| Rescue Takuma | 8.00% | ~17,097 |
+| Stoned Ox | 8.00% | ~17,097 |
 | Happy Planning | 7.00% | ~14,959 |
 | Ice Ice Yuki | 7.00% | ~14,959 |
 | Jonin | 7.00% | ~14,959 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,923 |
 | High Five the Moon | 0.80% | ~1,710 |
 | The Cave | 0.80% | ~1,710 |
-| Merciful | 0.50% | ~1,068 |
-| Time Paradox | 0.50% | ~1,068 |
+| Merciful | 0.50% | ~1,069 |
+| Time Paradox | 0.50% | ~1,069 |
 | Five Shadows | 0.40% | ~855 |
 | Complete Mastery | 0.20% | ~427 |
 | Praise the Shogun | 0.20% | ~427 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,693 (Ranked 70)  
+Progressed: 213,707 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 98 (0.05%) (Ranked 302)
 | 2023-11-11 | 213,217 | 97 |
 | 2023-11-12 | 213,446 | 98 |
 | 2023-11-13 | 213,621 | 98 |
-| 2023-11-14 | 213,693 | 98 |
+| 2023-11-14 | 213,707 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 196)  
-Sum: 4,842 (Ranked 142)  
+Sum: 4,843 (Ranked 142)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 492 |
 | This game is Relaxing | 492 |
 | This game has Challenging Combat | 491 |
-| This game has Quickly Understood Controls | 456 |
+| This game has Quickly Understood Controls | 457 |
 | This game has a Creative Community | 252 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -491,4 +491,4 @@ Diff (max vs sum): 54
 | 2023-11-11 | 4.67 | - | 573 | 4,835 |
 | 2023-11-12 | 4.67 | - | 573 | 4,837 |
 | 2023-11-13 | 4.67 | - | 573 | 4,840 |
-| 2023-11-14 | 4.67 | - | 573 | 4,842 |
+| 2023-11-14 | 4.67 | - | 573 | 4,843 |

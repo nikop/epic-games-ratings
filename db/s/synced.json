@@ -1059,9 +1059,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66609,
+  "EOS_Progressed": 66612,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9104,6 +9104,11 @@
       "Time": "2023-11-14T13:10:50.2199345+00:00",
       "NumProgressed": 66609,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-14T14:06:06.7120281+00:00",
+      "NumProgressed": 66612,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9116,7 +9121,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22647
+      "UsersEstimate": 22648
     },
     {
       "ID": "10",
@@ -9188,7 +9193,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8659
+      "UsersEstimate": 8660
     },
     {
       "ID": "4",
@@ -9220,7 +9225,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "8",
@@ -9243,7 +9248,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66609,
+      "Progressed": 66612,
       "Completed": 33
     }
   ],
@@ -9251,8 +9256,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-14T01:44:51.1168734+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:10:50.2199341+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:06:06.7120278+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:02:07.8470751+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:10:50.2199898+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:57:09.4341052+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:06:06.7120843+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -15152,9 +15152,9 @@
       "Count": 12936
     }
   ],
-  "EOS_Progressed": 896652,
+  "EOS_Progressed": 896658,
   "EOS_Completed": 2777,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38727,6 +38727,11 @@
       "Time": "2023-11-14T13:10:17.1198235+00:00",
       "NumProgressed": 896652,
       "NumCompleted": 2777
+    },
+    {
+      "Time": "2023-11-14T14:05:33.9635864+00:00",
+      "NumProgressed": 896658,
+      "NumCompleted": 2777
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38809,9 +38814,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8967
+      "UsersEstimate": 17933
     },
     {
       "ID": "Gunslinger",
@@ -39274,21 +39279,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896652,
+      "Progressed": 896658,
       "Completed": 2777
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25275,
+      "Progressed": 25281,
       "Completed": 10222
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-14T13:04:38.3156569+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:10:17.1198232+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:05:33.9635862+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:04:38.3156575+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:10:17.1199662+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:59:35.7929655+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:05:33.9637226+00:00"
 }

@@ -316,9 +316,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "23",
@@ -388,9 +388,9 @@
       "ID": "6",
       "SetID": "6bgoh8g",
       "Name": "A true detective",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "7",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:09:42.2822782+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:04:59.4484396+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:42.0374617+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:03:14.7113372+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:09:42.2823084+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:58:16.715054+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:04:59.4484576+00:00"
 }

@@ -24,8 +24,8 @@ Rating: 4.29 (Ranked 840)
 | Start As You Mean To Go On | 0.70% | ~282 |
 | Hail the Great Horned Metal God! | 0.70% | ~282 |
 | That'll Come In Handy... | 0.70% | ~282 |
-| Four Legged Friend | 0.50% | ~201 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~201 |
+| Four Legged Friend | 0.50% | ~202 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~202 |
 | Ice To See You | 0.40% | ~161 |
 | Smack My Imp Up | 0.40% | ~161 |
 | Vroll With It | 0.30% | ~121 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 840)
 | Heart Of Steel | 0.10% | ~40 |
 | Death or Glory | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,298 (Ranked 117)  
+Progressed: 40,302 (Ranked 117)  
 Completed: 26 (0.06%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 26 (0.06%) (Ranked 296)
 | 2023-11-11 | 40,176 | 26 |
 | 2023-11-12 | 40,239 | 26 |
 | 2023-11-13 | 40,281 | 26 |
-| 2023-11-14 | 40,298 | 26 |
+| 2023-11-14 | 40,302 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 330)  
 Sum: 127 (Ranked 428)  

@@ -28,6 +28,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Walk It Off | 0.20% | ~479 |
 | Cold Hearted | 0.20% | ~479 |
 | I Am Overburdened | 0.20% | ~479 |
+| Save Our Souls | 0.20% | ~479 |
 | Defeat The Dark | 0.20% | ~479 |
 | Destroy Your Fears | 0.20% | ~479 |
 | The Bestiary | 0.20% | ~479 |
@@ -80,7 +81,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Power Score | 0.10% | ~240 |
 | Predator | 0.10% | ~240 |
 | Here Comes The Airplane | 0.10% | ~240 |
-| Save Our Souls | 0.10% | ~240 |
 | Resourceful | 0.10% | ~240 |
 | Become The Nightmare | 0.10% | ~240 |
 | Trail Of Death | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,678 (Ranked 61)  
+Progressed: 239,679 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 288 (0.12%) (Ranked 270)
 | 2023-11-11 | 239,548 | 288 |
 | 2023-11-12 | 239,608 | 288 |
 | 2023-11-13 | 239,662 | 288 |
-| 2023-11-14 | 239,678 | 288 |
+| 2023-11-14 | 239,679 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
 Sum: 11,674 (Ranked 83)  

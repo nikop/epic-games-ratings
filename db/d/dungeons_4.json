@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 202
     },
     {
       "ID": "ach_main02horde_traps",
@@ -559,9 +559,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -575,9 +575,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "ach_main07storm_classified",
@@ -679,9 +679,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -903,9 +903,9 @@
       "ID": "ach_main20end_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand\u00A0- This Time For Real!",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_main20end_notristan",
@@ -934,8 +934,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:09:11.8075848+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:04:27.8255668+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:04:11.6094769+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:09:11.8076322+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:59:13.9120923+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:04:27.8256038+00:00"
 }

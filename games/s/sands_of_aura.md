@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 85.00% | ~60 |
-| A Small Thirsty Thing | 13.00% | ~9 |
-| Spirit Within | 10.00% | ~7 |
+| A Small Thirsty Thing | 14.00% | ~10 |
+| Spirit Within | 11.00% | ~8 |
+| Overboard | 8.00% | ~6 |
 | Dousing a Venerable Flame | 8.00% | ~6 |
 | Advanced Armaments | 8.00% | ~6 |
-| Overboard | 7.00% | ~5 |
 | Leisis Bless You | 7.00% | ~5 |
 | Rain Must Fall | 6.00% | ~4 |
 | Bladesmith | 6.00% | ~4 |

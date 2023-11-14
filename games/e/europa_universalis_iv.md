@@ -6,11 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Pile of Gold | 0.10% | ~455 |
 | AAA Credit | 0.10% | ~455 |
+| Absolutely | 0.10% | ~455 |
 | Aggressive Expander | 0.10% | ~455 |
 | All belongs to Mother Russia | 0.10% | ~455 |
+| All That's Thine Shall Be Mine | 0.10% | ~455 |
 | Arabian Coffee | 0.10% | ~455 |
 | At every continent | 0.10% | ~455 |
+| Azur semé de lis or | 0.10% | ~455 |
 | Blockader | 0.10% | ~455 |
 | Bright Spark | 0.10% | ~455 |
 | Brothers in Arms | 0.10% | ~455 |
@@ -21,7 +25,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.10% | ~455 |
 | Down Under | 0.10% | ~455 |
 | Early-Modern Warfare | 0.10% | ~455 |
+| Electable! | 0.10% | ~455 |
 | The Emperors new clothes | 0.10% | ~455 |
+| Factionalism | 0.10% | ~455 |
 | Foul Mouthed | 0.10% | ~455 |
 | Gentle Persuasion | 0.10% | ~455 |
 | A Golden Empire | 0.10% | ~455 |
@@ -37,17 +43,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.10% | ~455 |
 | Multiculturalism | 0.10% | ~455 |
 | My armies are invincible! | 0.10% | ~455 |
+| Not so sad a state... | 0.10% | ~455 |
 | One Family to Rule them All | 0.10% | ~455 |
+| One King to Rule! | 0.10% | ~455 |
 | Populists in Government | 0.10% | ~455 |
 | Queen of Conquest | 0.10% | ~455 |
 | Respected | 0.10% | ~455 |
 | Royal Authority | 0.10% | ~455 |
 | Seriously?! | 0.10% | ~455 |
+| Tear Down This Wall | 0.10% | ~455 |
 | That is mine! | 0.10% | ~455 |
 | The Chrysanthemum Throne | 0.10% | ~455 |
 | The Five Colonies | 0.10% | ~455 |
 | The Grand Armada | 0.10% | ~455 |
+| The pen is mightier than the sword | 0.10% | ~455 |
 | The Princess is in this Castle | 0.10% | ~455 |
+| This is My Faith | 0.10% | ~455 |
 | This navy can take it all | 0.10% | ~455 |
 | Time Bandit | 0.10% | ~455 |
 | Total Control | 0.10% | ~455 |
@@ -68,18 +79,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Decent Reserve | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
-| A Pile of Gold | 0.00% | ~0 |
 | A Protected Market | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
-| Absolutely | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
 | Albania or Iberia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
-| All That's Thine Shall Be Mine | 0.00% | ~0 |
 | All Your Trade Are Belong to Us | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An early Reich | 0.00% | ~0 |
@@ -92,7 +100,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
 | Avar Khaganate | 0.00% | ~0 |
-| Azur semé de lis or | 0.00% | ~0 |
 | Baa Baa Black Sheep | 0.00% | ~0 |
 | Back in Control | 0.00% | ~0 |
 | Back to the Piast | 0.00% | ~0 |
@@ -136,12 +143,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dracula's Revenge | 0.00% | ~0 |
 | Dude, Where's my Boat? | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
-| Electable! | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
 | Even Better than Piet Heyn | 0.00% | ~0 |
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
-| Factionalism | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | Fine Financials | 0.00% | ~0 |
@@ -241,11 +246,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | Not just Pizza | 0.00% | ~0 |
-| Not so sad a state... | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
-| One King to Rule! | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | One Night in Paris | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
@@ -308,7 +311,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
-| Tear Down This Wall | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
 | That's a Silk Road | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
@@ -321,7 +323,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
-| The pen is mightier than the sword | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | The Power of Three | 0.00% | ~0 |
 | The Re-Reconquista | 0.00% | ~0 |
@@ -331,7 +332,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
 | This is fine | 0.00% | ~0 |
-| This is My Faith | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Three Trivial Tributary Tribes | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,352 (Ranked 41)  
+Progressed: 455,397 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,352 | 1 |
+| 2023-11-14 | 455,397 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 54)  
 Sum: 57,505 (Ranked 24)  

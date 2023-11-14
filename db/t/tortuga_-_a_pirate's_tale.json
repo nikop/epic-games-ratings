@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17067,
+  "EOS_Progressed": 17068,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6559,6 +6559,11 @@
       "Time": "2023-11-14T13:08:44.8505859+00:00",
       "NumProgressed": 17067,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T14:04:02.2081592+00:00",
+      "NumProgressed": 17068,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6570,7 +6575,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16214
+      "UsersEstimate": 16215
     },
     {
       "ID": "ACH001",
@@ -6610,7 +6615,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "ACH0014",
@@ -6666,7 +6671,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12288
+      "UsersEstimate": 12289
     },
     {
       "ID": "ACH0020",
@@ -6690,7 +6695,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5973
+      "UsersEstimate": 5974
     },
     {
       "ID": "ACH0023",
@@ -6722,7 +6727,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9216
+      "UsersEstimate": 9217
     },
     {
       "ID": "ACH004",
@@ -6730,7 +6735,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14848
+      "UsersEstimate": 14849
     },
     {
       "ID": "ACH005",
@@ -6777,7 +6782,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17067,
+      "Progressed": 17068,
       "Completed": 1
     }
   ],
@@ -6785,8 +6790,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:08:44.8505847+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:04:02.2081577+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.4914759+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:02:59.3558872+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:08:44.8506226+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:58:01.1538312+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:04:02.2082155+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,969 |
+| First Step Into the Knight | 51.00% | ~38,970 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,744 |
-| Loose Ends | 34.00% | ~25,979 |
+| Loose Ends | 34.00% | ~25,980 |
 | To the Victor Go the Spoils | 28.00% | ~21,395 |
 | Knighthood | 27.00% | ~20,631 |
-| Get ReQ'd | 25.00% | ~19,102 |
-| Whispered Words | 25.00% | ~19,102 |
-| The Batman Family | 23.00% | ~17,574 |
-| Lock and Key | 22.00% | ~16,810 |
-| Something in the Clay | 21.00% | ~16,046 |
-| Quartzer Life Crisis | 21.00% | ~16,046 |
+| Get ReQ'd | 25.00% | ~19,103 |
+| Whispered Words | 25.00% | ~19,103 |
+| The Batman Family | 23.00% | ~17,575 |
+| Lock and Key | 22.00% | ~16,811 |
+| Something in the Clay | 21.00% | ~16,047 |
+| Quartzer Life Crisis | 21.00% | ~16,047 |
 | Working Hard or Harley Working? | 20.00% | ~15,282 |
 | Unstoppable Force | 20.00% | ~15,282 |
 | Bad Apples in Every Orchard | 20.00% | ~15,282 |
@@ -26,11 +26,11 @@ Rating: 4.18 (Ranked 925)
 | Universal Health Scare | 16.00% | ~12,226 |
 | In Your Element | 15.00% | ~11,462 |
 | Voiceless | 15.00% | ~11,462 |
-| Rock and a Hard Place | 14.00% | ~10,697 |
-| Cooldown | 14.00% | ~10,697 |
-| Seeking Asylum | 14.00% | ~10,697 |
-| Not On My Watch | 13.00% | ~9,933 |
-| Shock Til They Drop | 13.00% | ~9,933 |
+| Rock and a Hard Place | 14.00% | ~10,698 |
+| Cooldown | 14.00% | ~10,698 |
+| Seeking Asylum | 14.00% | ~10,698 |
+| Not On My Watch | 13.00% | ~9,934 |
+| Shock Til They Drop | 13.00% | ~9,934 |
 | End of an Era | 12.00% | ~9,169 |
 | Bulldozed | 12.00% | ~9,169 |
 | Gotham Knight | 12.00% | ~9,169 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,410 (Ranked 97)  
+Progressed: 76,412 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 123 (0.16%) (Ranked 260)
 | 2023-11-11 | 76,302 | 123 |
 | 2023-11-12 | 76,353 | 123 |
 | 2023-11-13 | 76,394 | 123 |
-| 2023-11-14 | 76,410 | 123 |
+| 2023-11-14 | 76,412 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,935  (Ranked 98)  
 Sum: 4,981 (Ranked 137)  

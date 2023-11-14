@@ -8,11 +8,11 @@ Rating: 4.22 (Ranked 897)
 | A Veil Lifted | 0.60% | ~10 |
 | Lost and Found | 0.60% | ~10 |
 | No Mercy | 0.60% | ~10 |
+| Shades of Violence | 0.60% | ~10 |
 | Thriving in Darkness | 0.60% | ~10 |
 | Comrades | 0.50% | ~8 |
 | The Past Shapes the Present | 0.50% | ~8 |
 | Shared Triumph | 0.40% | ~6 |
-| Shades of Violence | 0.40% | ~6 |
 | Vengeance for the Fallen | 0.30% | ~5 |
 | Rise and Fall | 0.30% | ~5 |
 | Together in Death | 0.30% | ~5 |

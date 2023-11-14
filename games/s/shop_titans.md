@@ -52,6 +52,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.90% | ~1,258 |
 | For the Hoard! | 0.90% | ~1,258 |
 | Scrapbooker | 0.90% | ~1,258 |
+| Locally Sourced | 0.90% | ~1,258 |
 | Flying off the Shelves | 0.90% | ~1,258 |
 | This Power Level...! | 0.90% | ~1,258 |
 | Hidden Potential | 0.90% | ~1,258 |
@@ -65,7 +66,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.80% | ~1,118 |
 | Above the Norm | 0.80% | ~1,118 |
 | A Ronin Reborn | 0.80% | ~1,118 |
-| Locally Sourced | 0.80% | ~1,118 |
 | Master of Transmutation | 0.80% | ~1,118 |
 | Supercharged | 0.80% | ~1,118 |
 | Cranked up to 11 | 0.80% | ~1,118 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,789 (Ranked 79)  
+Progressed: 139,794 (Ranked 79)  
 Completed: 185 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 185 (0.13%) (Ranked 264)
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
-| 2023-11-14 | 139,789 | 185 |
+| 2023-11-14 | 139,794 | 185 |
 ## Awards
 Max (Great for Beginners): 4,828  (Ranked 73)  
 Sum: 27,545 (Ranked 50)  

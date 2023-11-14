@@ -469,9 +469,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2307,
+  "EOS_Progressed": 2308,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7024,6 +7024,11 @@
       "Time": "2023-11-14T13:13:13.4497349+00:00",
       "NumProgressed": 2307,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-14T14:08:38.5653353+00:00",
+      "NumProgressed": 2308,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7083,7 +7088,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "cauldronliberator",
@@ -7187,7 +7192,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "enhancedwarmachines",
@@ -7339,7 +7344,7 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "masterenchanter",
@@ -7451,7 +7456,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "scientist",
@@ -7491,7 +7496,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "thealchemist",
@@ -7507,7 +7512,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "thefatherofdragons",
@@ -7523,7 +7528,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "thepowerofawakening",
@@ -7634,7 +7639,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2307,
+      "Progressed": 2308,
       "Completed": 2
     }
   ],
@@ -7642,8 +7647,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-12T10:58:26.0075516+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:13:13.4497345+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:08:38.565335+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:04:09.5308508+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:13:13.4498254+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:59:12.0448273+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:08:38.565432+00:00"
 }

@@ -10411,10 +10411,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48111,
       "NumberOfAwardsMax": 24282
+    },
+    {
+      "Time": "2023-11-14T14:02:39.9034101+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48118,
+      "NumberOfAwardsMax": 24282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48111,
+  "NumberOfAwards": 48118,
   "NumberOfAwardsMax": 24282,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10482,7 +10488,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1100
+      "Count": 1107
     },
     {
       "Text": "This game has a Creative Community",
@@ -10491,9 +10497,9 @@
       "Count": 782
     }
   ],
-  "EOS_Progressed": 302061,
+  "EOS_Progressed": 302063,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32851,6 +32857,11 @@
       "Time": "2023-11-14T13:13:53.1097313+00:00",
       "NumProgressed": 302061,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-14T14:09:17.8983586+00:00",
+      "NumProgressed": 302063,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 45,
@@ -33014,7 +33025,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "PFA_28",
@@ -33046,7 +33057,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36247
+      "UsersEstimate": 36248
     },
     {
       "ID": "PFA_31",
@@ -33062,7 +33073,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "PFA_33",
@@ -33110,7 +33121,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "PFA_39",
@@ -33166,7 +33177,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27185
+      "UsersEstimate": 27186
     },
     {
       "ID": "PFA_45",
@@ -33182,7 +33193,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12082
+      "UsersEstimate": 12083
     },
     {
       "ID": "PFA_6",
@@ -33206,7 +33217,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36247
+      "UsersEstimate": 36248
     },
     {
       "ID": "PFA_9",
@@ -33221,16 +33232,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302061,
+      "Progressed": 302063,
       "Completed": 510
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-14T07:01:55.0320313+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:13:53.1097309+00:00",
+  "LastChanged": "2023-11-14T14:02:39.90341+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:09:17.8983583+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:05:12.2834014+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:13:53.1098763+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:02:39.9034105+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:09:17.8985056+00:00"
 }

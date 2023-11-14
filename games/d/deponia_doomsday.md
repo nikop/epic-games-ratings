@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~405 |
-| And again, and again, and... | 64.00% | ~298 |
-| Burn, Elysium, burn! | 62.00% | ~289 |
-| Kuvaq Minigame-Master | 61.00% | ~284 |
-| FunScore | 55.00% | ~256 |
-| Funtime's over | 53.00% | ~247 |
-| Chunky | 50.00% | ~233 |
-| Boat of love, boat of love | 49.00% | ~228 |
+| Huzza, he's back. | 87.00% | ~406 |
+| And again, and again, and... | 63.00% | ~294 |
+| Burn, Elysium, burn! | 62.00% | ~290 |
+| Kuvaq Minigame-Master | 61.00% | ~285 |
+| FunScore | 55.00% | ~257 |
+| Funtime's over | 53.00% | ~248 |
+| Chunky | 50.00% | ~234 |
+| Boat of love, boat of love | 49.00% | ~229 |
 | Shall we play a game? | 48.00% | ~224 |
 | School's out | 44.00% | ~205 |
-| Elysian Minigame-Master | 38.00% | ~177 |
-| Scaffolding Expert | 37.00% | ~172 |
+| Scaffolding Expert | 37.00% | ~173 |
+| Elysian Minigame-Master | 37.00% | ~173 |
 | Sole Music | 36.00% | ~168 |
 | No man left behind! | 30.00% | ~140 |
 | Portals come in packs | 30.00% | ~140 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 504)
 | Distraction | 5.00% | ~23 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466 (Ranked 307)  
-Completed: 6 (1.29%) (Ranked 148)  
+Progressed: 467 (Ranked 307)  
+Completed: 6 (1.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 6 (1.29%) (Ranked 148)
 | 2023-11-11 | 460 | 6 |
 | 2023-11-12 | 462 | 6 |
 | 2023-11-13 | 464 | 6 |
-| 2023-11-14 | 466 | 6 |
+| 2023-11-14 | 467 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

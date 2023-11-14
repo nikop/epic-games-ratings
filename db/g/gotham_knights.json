@@ -4121,7 +4121,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76410,
+  "EOS_Progressed": 76412,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -22536,6 +22536,11 @@
       "Time": "2023-11-14T13:09:43.5364337+00:00",
       "NumProgressed": 76410,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-14T14:05:00.7779073+00:00",
+      "NumProgressed": 76412,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22595,7 +22600,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17574
+      "UsersEstimate": 17575
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22651,7 +22656,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16046
+      "UsersEstimate": 16047
     },
     {
       "ID": "CLAYFACE_2",
@@ -22667,7 +22672,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -22707,7 +22712,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9933
+      "UsersEstimate": 9934
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -22755,7 +22760,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9933
+      "UsersEstimate": 9934
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -22779,7 +22784,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16046
+      "UsersEstimate": 16047
     },
     {
       "ID": "FREEZE_2",
@@ -22795,7 +22800,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -22859,7 +22864,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19102
+      "UsersEstimate": 19103
     },
     {
       "ID": "HARLEY_3",
@@ -22891,7 +22896,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38970
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22939,7 +22944,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25979
+      "UsersEstimate": 25980
     },
     {
       "ID": "MYSTERY_02",
@@ -22947,7 +22952,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19102
+      "UsersEstimate": 19103
     },
     {
       "ID": "MYSTERY_03",
@@ -22955,7 +22960,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16810
+      "UsersEstimate": 16811
     },
     {
       "ID": "MYSTERY_04",
@@ -22987,7 +22992,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10697
+      "UsersEstimate": 10698
     },
     {
       "ID": "MYSTERY_08",
@@ -23034,13 +23039,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76410,
+      "Progressed": 76412,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46690,
+      "Progressed": 46692,
       "Completed": 2673
     }
   ],
@@ -23048,8 +23053,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-14T02:58:01.0972053+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:09:43.5364335+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:05:00.777907+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:02:40.3956316+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:09:43.5365546+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:57:42.1915008+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:05:00.7780501+00:00"
 }

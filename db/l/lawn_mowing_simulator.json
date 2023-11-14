@@ -2108,10 +2108,16 @@
       "Rating": 4.08,
       "NumberOfAwards": 984,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-11-14T13:58:49.9393858+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 985,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 984,
+  "NumberOfAwards": 985,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2119,7 +2125,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2176,9 +2182,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 680888,
+  "EOS_Progressed": 680900,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1789,
+  "EOS_NewPlayers": 1792,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25911,6 +25917,11 @@
       "Time": "2023-11-14T13:14:00.0576724+00:00",
       "NumProgressed": 680888,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-14T14:09:24.7594334+00:00",
+      "NumProgressed": 680900,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -25922,7 +25933,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 537902
+      "UsersEstimate": 537911
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -26010,7 +26021,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 245120
+      "UsersEstimate": 245124
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -26162,7 +26173,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 211075
+      "UsersEstimate": 211079
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -26194,7 +26205,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40853
+      "UsersEstimate": 40854
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -26226,7 +26237,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102133
+      "UsersEstimate": 102135
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -26282,7 +26293,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47662
+      "UsersEstimate": 47663
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -26322,7 +26333,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 122560
+      "UsersEstimate": 122562
     },
     {
       "ID": "RP_TRUSTED",
@@ -26338,7 +26349,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61280
+      "UsersEstimate": 61281
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -26353,15 +26364,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 680888,
+      "Progressed": 680900,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
-  "LastChanged": "2023-11-13T03:58:44.1700297+00:00",
-  "LastChanged_Achievements": "2023-11-14T13:14:00.057672+00:00",
+  "LastChanged": "2023-11-14T13:58:49.9393856+00:00",
+  "LastChanged_Achievements": "2023-11-14T14:09:24.7594331+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:37.75216+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:03:47.8196014+00:00",
-  "LastUpdate_Achievements": "2023-11-14T13:14:00.057859+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:58:49.9393861+00:00",
+  "LastUpdate_Achievements": "2023-11-14T14:09:24.7595684+00:00"
 }
