@@ -6483,10 +6483,10 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718109,
+  "EOS_Progressed": 718138,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 3923,
-  "EOS_NewCompleters": 38,
+  "EOS_NewPlayers": 3917,
+  "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30178,6 +30178,11 @@
       "Time": "2023-11-14T00:04:19.890305+00:00",
       "NumProgressed": 718109,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-11-14T01:49:01.1046515+00:00",
+      "NumProgressed": 718138,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 51,
@@ -30197,7 +30202,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ach_ammo_ran",
@@ -30325,7 +30330,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30347,9 +30352,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5745
+      "UsersEstimate": 6463
     },
     {
       "ID": "ach_impressive_aim",
@@ -30429,7 +30434,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ach_revival_tour",
@@ -30445,7 +30450,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ach_secrets_of_la",
@@ -30549,7 +30554,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ach_dark_magic",
@@ -30557,7 +30562,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ach_gardening_tools",
@@ -30573,7 +30578,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30587,31 +30592,31 @@
       "ID": "ach_zombie_predator",
       "SetID": "344c43k",
       "Name": "Top That, Tisha!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718109,
+      "Progressed": 718138,
       "Completed": 2387
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43651,
-      "Completed": 36537
+      "Progressed": 43680,
+      "Completed": 36538
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T21:03:02.1142567+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:19.8903043+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:01.1046512+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:00:12.6555964+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:19.8905259+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:41:34.8282234+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:49:01.1047737+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~110 |
+| Break Out | 60.00% | ~112 |
 | Trinity | 33.00% | ~61 |
 | Find Allies | 30.00% | ~56 |
+| Shatter Them All | 29.00% | ~54 |
 | A Taste of Wrath | 28.00% | ~52 |
-| Shatter Them All | 28.00% | ~52 |
 | I Found It | 28.00% | ~52 |
 | Adventurer | 27.00% | ~50 |
+| Fashion Victim | 27.00% | ~50 |
 | The Collector | 27.00% | ~50 |
-| Fashion Victim | 26.00% | ~48 |
 | Powerful Allies | 25.00% | ~46 |
 | Scholar | 25.00% | ~46 |
 | Tributes of Caladrias | 24.00% | ~45 |
@@ -42,7 +42,7 @@
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 186 (Ranked 379)  
-Completed: 1 (0.54%) (Ranked 190)  
+Completed: 1 (0.54%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -399,6 +399,11 @@
       "Time": "2023-11-14T00:04:17.0450501+00:00",
       "NumProgressed": 252,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T01:48:58.0715993+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -411,7 +416,7 @@
       "Name": "The Last Stand",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_main01begin_die",
@@ -419,7 +424,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ach_main01begin_storm",
@@ -435,7 +440,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -443,15 +448,15 @@
       "Name": "For the Horde!",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_main03demon_completed",
@@ -459,7 +464,7 @@
       "Name": "The Hellwoods",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_main03demon_doors",
@@ -467,15 +472,15 @@
       "Name": "Master of Magic",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_main04undead_completed",
@@ -497,9 +502,9 @@
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_main05evil_completed",
@@ -507,7 +512,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -515,7 +520,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -585,9 +590,9 @@
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -633,9 +638,9 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -753,9 +758,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -769,9 +774,9 @@
       "ID": "ach_main15drill_untouchable",
       "SetID": "4hg22ll",
       "Name": "Untouchable",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_main16ring_completed",
@@ -889,23 +894,23 @@
       "ID": "ach_main20end_spawners",
       "SetID": "4hg22ll",
       "Name": "Evilification",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:17.0450496+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:48:58.071599+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:59:05.0940147+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:17.0451192+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:43:41.8902908+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:48:58.0716405+00:00"
 }

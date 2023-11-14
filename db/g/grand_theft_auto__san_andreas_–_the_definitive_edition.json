@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1489,9 +1489,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13690,
+  "EOS_Progressed": 13691,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14569,6 +14569,11 @@
       "Time": "2023-11-14T00:08:54.0133844+00:00",
       "NumProgressed": 13690,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-14T01:53:08.0036723+00:00",
+      "NumProgressed": 13691,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14580,7 +14585,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11089
+      "UsersEstimate": 11090
     },
     {
       "ID": "ACH02",
@@ -14692,7 +14697,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH16",
@@ -14724,7 +14729,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH20",
@@ -14756,7 +14761,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "ACH24",
@@ -14859,7 +14864,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13690,
+      "Progressed": 13691,
       "Completed": 53
     }
   ],
@@ -14867,8 +14872,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-13T14:57:51.7283251+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:08:54.0133837+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:53:08.0036721+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:57:58.7710289+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:08:54.0134934+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:42:33.918439+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:53:08.0037357+00:00"
 }

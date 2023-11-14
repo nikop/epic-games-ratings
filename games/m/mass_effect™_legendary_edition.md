@@ -14,7 +14,7 @@
 | Honorarium of Corporate Service | 58.00% | ~721 |
 | Medal of Exploration II | 52.00% | ~646 |
 | Turian Ally | 52.00% | ~646 |
-| Council Legion of Merit | 51.00% | ~634 |
+| Council Legion of Merit | 52.00% | ~646 |
 | Medal of Honor | 49.00% | ~609 |
 | Meritorious Service Medal | 49.00% | ~609 |
 | Charismatic | 48.00% | ~597 |
@@ -79,31 +79,31 @@
 | A House Divided | 25.00% | ~311 |
 | World Shaker | 25.00% | ~311 |
 | Eye of the Hurricane | 24.00% | ~298 |
+| Liberator | 24.00% | ~298 |
 | Weapon Specialist | 23.00% | ~286 |
 | Pathfinder | 23.00% | ~286 |
 | Tunnel Rat | 23.00% | ~286 |
-| Liberator | 23.00% | ~286 |
 | Arbiter | 22.00% | ~273 |
 | Lost and Found | 22.00% | ~273 |
 | Savior | 21.00% | ~261 |
 | Paramour II | 20.00% | ~249 |
 | Party Crasher | 20.00% | ~249 |
 | Problem Solver | 20.00% | ~249 |
+| Pyromaniac | 19.00% | ~236 |
 | Hard Target | 19.00% | ~236 |
 | Fact Finder | 19.00% | ~236 |
-| Pyromaniac | 18.00% | ~224 |
 | Under Pressure | 18.00% | ~224 |
 | Last Resort | 18.00% | ~224 |
 | No One Left Behind | 18.00% | ~224 |
 | Saboteur | 18.00% | ~224 |
 | Last Witness | 18.00% | ~224 |
 | Well Connected | 18.00% | ~224 |
+| Sabotage Specialist | 16.00% | ~199 |
 | Executioner | 16.00% | ~199 |
 | Patriot | 16.00% | ~199 |
 | Legend | 16.00% | ~199 |
 | Master and Commander | 16.00% | ~199 |
 | Electronics Specialist | 15.00% | ~186 |
-| Sabotage Specialist | 15.00% | ~186 |
 | Throw Mastery | 15.00% | ~186 |
 | Long Service Medal | 14.00% | ~174 |
 | Mail Slot | 13.00% | ~162 |

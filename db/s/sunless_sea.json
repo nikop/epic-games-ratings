@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -736,7 +736,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40547,
+  "EOS_Progressed": 40550,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
@@ -21916,6 +21916,11 @@
       "Time": "2023-11-14T00:03:10.6055294+00:00",
       "NumProgressed": 40547,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-14T01:47:50.1709262+00:00",
+      "NumProgressed": 40550,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21943,7 +21948,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "ach_antiquarian10",
@@ -21959,7 +21964,7 @@
       "Name": "A buoyant escape",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_constant",
@@ -22047,7 +22052,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14597
+      "UsersEstimate": 14598
     },
     {
       "ID": "ach_die10",
@@ -22071,7 +22076,7 @@
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_dreadnaught",
@@ -22127,7 +22132,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "ach_legacyrival",
@@ -22143,7 +22148,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "ach_legacyshipmate",
@@ -22159,7 +22164,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "ach_portbell",
@@ -22167,7 +22172,7 @@
       "Name": "The Bell Tolls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_portbones",
@@ -22199,7 +22204,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_portknife",
@@ -22207,7 +22212,7 @@
       "Name": "Knife, Cup and Bone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_portleviathan",
@@ -22223,7 +22228,7 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_portregret",
@@ -22239,7 +22244,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_portunder",
@@ -22255,7 +22260,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "ach_stranger",
@@ -22271,7 +22276,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "ach_sweetheart",
@@ -22279,7 +22284,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7298
+      "UsersEstimate": 7299
     },
     {
       "ID": "ach_terror100",
@@ -22303,7 +22308,7 @@
       "Name": "A current under zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ach_underdepth",
@@ -22358,15 +22363,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40547,
+      "Progressed": 40550,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:03:10.6055289+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:47:50.1709261+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:15.1182628+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:58:12.815966+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:03:10.6057729+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:42:48.1219461+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:47:50.1710379+00:00"
 }

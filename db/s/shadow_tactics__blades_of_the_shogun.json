@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1934,10 +1934,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4840,
       "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-11-14T01:43:23.7767711+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4841,
+      "NumberOfAwardsMax": 573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4840,
+  "NumberOfAwards": 4841,
   "NumberOfAwardsMax": 573,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1999,7 +2005,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 497
+      "Count": 498
     },
     {
       "Text": "This game has a Creative Community",
@@ -2008,9 +2014,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213625,
+  "EOS_Progressed": 213627,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1304,
+  "EOS_NewPlayers": 1295,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25713,6 +25719,11 @@
       "Time": "2023-11-14T00:04:22.6870731+00:00",
       "NumProgressed": 213625,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-14T01:49:04.0287202+00:00",
+      "NumProgressed": 213627,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -25724,7 +25735,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21362
+      "UsersEstimate": 21363
     },
     {
       "ID": "AtheistOx",
@@ -25732,7 +25743,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "ChickenDinner",
@@ -25772,7 +25783,7 @@
       "Name": "Five Shadows",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "FlyingRocks",
@@ -25884,7 +25895,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "Noboru",
@@ -25908,7 +25919,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "PraiseTheShogun",
@@ -26012,7 +26023,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21362
+      "UsersEstimate": 21363
     },
     {
       "ID": "TimeParadox",
@@ -26060,7 +26071,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "Yabu",
@@ -26075,15 +26086,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213625,
+      "Progressed": 213627,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-13T22:58:39.612006+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:22.6870726+00:00",
+  "LastChanged": "2023-11-14T01:43:23.7767709+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:04.0287199+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:58:47.009524+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:22.687299+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:43:23.7767716+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:49:04.0288537+00:00"
 }

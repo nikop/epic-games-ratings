@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3229,10 +3229,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2783,
       "NumberOfAwardsMax": 313
+    },
+    {
+      "Time": "2023-11-14T01:47:25.0722551+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2785,
+      "NumberOfAwardsMax": 313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2783,
+  "NumberOfAwards": 2785,
   "NumberOfAwardsMax": 313,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3300,7 +3306,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 273
+      "Count": 275
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3309,9 +3315,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30948,
+  "EOS_Progressed": 30953,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19149,6 +19155,11 @@
       "Time": "2023-11-14T00:05:12.5862447+00:00",
       "NumProgressed": 30948,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-14T01:49:55.3551274+00:00",
+      "NumProgressed": 30953,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19168,7 +19179,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Back_Off",
@@ -19216,7 +19227,7 @@
       "Name": "Collector",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Cultured",
@@ -19224,7 +19235,7 @@
       "Name": "Cultured",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Daily_Dose",
@@ -19232,7 +19243,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Diabolical",
@@ -19240,15 +19251,15 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1548
     },
     {
       "ID": "Dont_Need_These",
@@ -19280,7 +19291,7 @@
       "Name": "Escape Artist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Fragile_Panes",
@@ -19304,7 +19315,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Ghost_Expert",
@@ -19320,7 +19331,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Legions",
@@ -19384,7 +19395,7 @@
       "Name": "Reckless",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Rift_Destroyer",
@@ -19408,7 +19419,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Rivalry",
@@ -19416,7 +19427,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Seasoned",
@@ -19504,7 +19515,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Therapeutic",
@@ -19528,7 +19539,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Ultimate_Defense",
@@ -19567,16 +19578,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30948,
+      "Progressed": 30953,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-13T19:02:48.0372969+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:05:12.5862441+00:00",
+  "LastChanged": "2023-11-14T01:47:25.0722549+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:55.3551272+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-14T00:02:47.6353025+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:05:12.5864252+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:47:25.0722554+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:49:55.3552436+00:00"
 }

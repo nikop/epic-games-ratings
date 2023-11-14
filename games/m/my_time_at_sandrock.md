@@ -11,21 +11,21 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 117.00% | ~387 |
 | Your Especially Earned Trajectory | 92.00% | ~305 |
 | No Mountain Wide Enough | 63.00% | ~209 |
+| On that Grindset | 61.00% | ~202 |
 | Can We Keep It? | 61.00% | ~202 |
-| On that Grindset | 60.00% | ~199 |
 | Yakmel Whisperer | 56.00% | ~185 |
-| Pack Mule | 53.00% | ~175 |
+| Pack Mule | 54.00% | ~179 |
 | One of the Cool Kids | 53.00% | ~175 |
-| Diamonds are Forever | 52.00% | ~172 |
+| Diamonds are Forever | 53.00% | ~175 |
+| Unboxing | 51.00% | ~169 |
 | Big Game Hunter | 50.00% | ~166 |
-| Unboxing | 50.00% | ~166 |
 | Financially Secure | 49.00% | ~162 |
 | Got Served | 47.00% | ~156 |
 | Chatterbox | 44.00% | ~146 |
 | What Plants Crave | 41.00% | ~136 |
+| Happier-est Place on Earth | 41.00% | ~136 |
 | You Don't Win Friends With Salad | 41.00% | ~136 |
 | Call Me Fishmael | 41.00% | ~136 |
-| Happier-est Place on Earth | 40.00% | ~132 |
 | First Love | 40.00% | ~132 |
 | I Do! | 40.00% | ~132 |
 | My Time Mansion | 39.00% | ~129 |
@@ -35,12 +35,12 @@ Number of Ratings: 892  (23.09.2022)
 | Anti-Santa | 37.00% | ~122 |
 | Panda-kin | 35.00% | ~116 |
 | Finishing Touches | 34.00% | ~113 |
+| Builder of the Month | 33.00% | ~109 |
 | Officially Official | 33.00% | ~109 |
-| Builder of the Month | 32.00% | ~106 |
 | Bridging the Gap | 32.00% | ~106 |
 | Who Ya Gonna Call...? | 32.00% | ~106 |
+| Waste Not Want Not | 31.00% | ~103 |
 | Commissions, commissions...! | 30.00% | ~99 |
-| Waste Not Want Not | 30.00% | ~99 |
 | Martle's Dream | 29.00% | ~96 |
 | Jewel of the Eufaula | 27.00% | ~89 |
 | He Can Spin A Yarn... | 27.00% | ~89 |
@@ -51,9 +51,9 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 21.00% | ~70 |
 | Kind of a Big Deal | 20.00% | ~66 |
 | Sepia Toned Memories | 20.00% | ~66 |
-| Just What I Always Wanted! | 19.00% | ~63 |
+| Just What I Always Wanted! | 20.00% | ~66 |
+| Santa In Training | 19.00% | ~63 |
 | Time Flies | 18.00% | ~60 |
-| Santa In Training | 18.00% | ~60 |
 | Sandrunning Speedster | 18.00% | ~60 |
 | It Belongs in a Museum! | 18.00% | ~60 |
 | Pro Gamer | 16.00% | ~53 |

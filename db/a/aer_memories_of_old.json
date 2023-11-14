@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24098,
+  "EOS_Progressed": 24101,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -22718,6 +22718,11 @@
       "Time": "2023-11-14T00:04:43.5941958+00:00",
       "NumProgressed": 24098,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-14T01:49:25.7067667+00:00",
+      "NumProgressed": 24101,
+      "NumCompleted": 457
     }
   ],
   "TotalAchievements": 20,
@@ -22849,7 +22854,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18555
+      "UsersEstimate": 18558
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22857,7 +22862,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6506
+      "UsersEstimate": 6507
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22888,15 +22893,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24098,
+      "Progressed": 24101,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:43.594195+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:25.7067663+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:59:31.6263291+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:43.5943844+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:44:09.1587011+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:49:25.7068925+00:00"
 }

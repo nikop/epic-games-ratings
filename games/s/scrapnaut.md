@@ -17,7 +17,7 @@ Number of Ratings: 38  (23.09.2022)
 | Digger | 33.00% | ~155 |
 | Electro-Scrap Gatherer | 33.00% | ~155 |
 | Survivor | 32.00% | ~150 |
-| Lumberjack | 30.00% | ~141 |
+| Lumberjack | 31.00% | ~145 |
 | Robot Destroyer | 30.00% | ~141 |
 | Herbalist | 29.00% | ~136 |
 | Prepper | 27.00% | ~127 |
@@ -28,8 +28,8 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 16.00% | ~75 |
 | Mythical Smelter | 14.00% | ~66 |
 | Blacksmith | 11.00% | ~52 |
+| Forest Lord | 11.00% | ~52 |
 | Master Of Management | 10.00% | ~47 |
-| Forest Lord | 10.00% | ~47 |
 | Fuel | 10.00% | ~47 |
 | Smelting Master | 10.00% | ~47 |
 | Black Gold | 7.00% | ~33 |

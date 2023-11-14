@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -591,9 +591,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3557,
+  "EOS_Progressed": 3559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5031,6 +5031,11 @@
       "Time": "2023-11-14T00:03:17.2333601+00:00",
       "NumProgressed": 3557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T01:47:56.6847044+00:00",
+      "NumProgressed": 3559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5051,7 +5056,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "achievement_11",
@@ -5139,7 +5144,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2029
     },
     {
       "ID": "achievement_21",
@@ -5171,7 +5176,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_6",
@@ -5179,7 +5184,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_7",
@@ -5195,7 +5200,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "achievement_9",
@@ -5210,7 +5215,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3557,
+      "Progressed": 3559,
       "Completed": 0
     }
   ],
@@ -5218,8 +5223,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-13T15:58:51.2109706+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:03:17.2333595+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:47:56.6847041+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:58:47.5629274+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:03:17.2335831+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:43:24.3801154+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:47:56.6847419+00:00"
 }

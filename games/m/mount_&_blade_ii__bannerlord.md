@@ -37,7 +37,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 2.00% | ~1,301 |
 | Entrepreneur | 1.00% | ~651 |
 | Crackshot | 0.90% | ~586 |
-| Undercover | 0.80% | ~521 |
+| Undercover | 0.90% | ~586 |
 | Fat Cat | 0.70% | ~455 |
 | Catch | 0.60% | ~390 |
 | Slice 'n dice | 0.50% | ~325 |

@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,635 |
-| A thief's beginning | 10.00% | ~21,362 |
-| Thorough | 10.00% | ~21,362 |
+| A thief's beginning | 10.00% | ~21,363 |
+| Thorough | 10.00% | ~21,363 |
 | Disguised | 9.00% | ~19,226 |
 | Rollin' | 9.00% | ~19,226 |
 | Tanuki Time | 9.00% | ~19,226 |
@@ -32,10 +32,10 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 3.00% | ~6,409 |
 | Stoned | 3.00% | ~6,409 |
 | The Old Way | 3.00% | ~6,409 |
-| Atheist Ox | 2.00% | ~4,272 |
-| No Gimmicks | 2.00% | ~4,272 |
-| Old Man | 2.00% | ~4,272 |
-| Winner Winner | 2.00% | ~4,272 |
+| Atheist Ox | 2.00% | ~4,273 |
+| No Gimmicks | 2.00% | ~4,273 |
+| Old Man | 2.00% | ~4,273 |
+| Winner Winner | 2.00% | ~4,273 |
 | Meticulous | 1.00% | ~2,136 |
 | The End | 1.00% | ~2,136 |
 | Undeserved Honor | 1.00% | ~2,136 |
@@ -44,14 +44,14 @@ Number of Ratings: 495  (23.09.2022)
 | The Cave | 0.80% | ~1,709 |
 | Merciful | 0.50% | ~1,068 |
 | Time Paradox | 0.50% | ~1,068 |
-| Five Shadows | 0.40% | ~854 |
+| Five Shadows | 0.40% | ~855 |
 | Complete Mastery | 0.20% | ~427 |
 | Praise the Shogun | 0.20% | ~427 |
 | Chicken Dinner | 0.10% | ~214 |
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,625 (Ranked 70)  
+Progressed: 213,627 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 98 (0.05%) (Ranked 302)
 | 2023-11-11 | 213,217 | 97 |
 | 2023-11-12 | 213,446 | 98 |
 | 2023-11-13 | 213,621 | 98 |
-| 2023-11-14 | 213,625 | 98 |
+| 2023-11-14 | 213,627 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 196)  
-Sum: 4,840 (Ranked 142)  
+Sum: 4,841 (Ranked 142)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): 54
 | This game has Diverse Characters | 539 |
 | This game is Extremely Fun | 534 |
 | This game has Amazing Storytelling | 514 |
-| This game has Amazing Characters | 497 |
+| This game has Amazing Characters | 498 |
 | This game is Highly Recommended | 492 |
 | This game is Relaxing | 492 |
 | This game has Challenging Combat | 491 |
@@ -491,3 +491,4 @@ Diff (max vs sum): 54
 | 2023-11-11 | 4.67 | - | 573 | 4,835 |
 | 2023-11-12 | 4.67 | - | 573 | 4,837 |
 | 2023-11-13 | 4.67 | - | 573 | 4,840 |
+| 2023-11-14 | 4.67 | - | 573 | 4,841 |

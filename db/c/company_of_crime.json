@@ -4,8 +4,8 @@
   "ProductSlug": "company-of-crime-a5af43",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
     "PcReleaseDate": "2020-08-08T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:12.6772035+00:00",
   "LastChanged": "2023-03-31T05:57:12.6772036+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8989125+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:57:32.1600368+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:08:48.8588469+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:42:06.5711875+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:53:02.5771689+00:00"
 }

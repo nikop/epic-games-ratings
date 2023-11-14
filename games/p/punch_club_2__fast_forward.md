@@ -54,8 +54,8 @@
 | Seashell hunter | 38.00% | ~130 |
 | Undercover robot | 38.00% | ~130 |
 | Problems of cyborgs | 37.00% | ~127 |
+| Absolute Champion! | 37.00% | ~127 |
 | Not little hacker | 36.00% | ~123 |
-| Absolute Champion! | 36.00% | ~123 |
 | Your own way | 36.00% | ~123 |
 | The lonesome road | 35.00% | ~120 |
 | Keep nature safe | 35.00% | ~120 |
@@ -67,9 +67,9 @@
 | Trap disarmed | 34.00% | ~116 |
 | Another world | 34.00% | ~116 |
 | The last bell ring | 33.00% | ~113 |
+| Silver’s past | 31.00% | ~106 |
 | Better cooking at home | 31.00% | ~106 |
-| Silver’s past | 30.00% | ~103 |
-| The only right decision | 30.00% | ~103 |
+| The only right decision | 31.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 342 (Ranked 324)  
 Completed: 9 (2.63%) (Ranked 111)  

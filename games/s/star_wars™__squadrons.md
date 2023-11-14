@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~18,671 |
-| Safety in the Storm | 24.00% | ~4,717 |
-| A Better Idea | 24.00% | ~4,717 |
-| Begin the Ceremony | 20.00% | ~3,931 |
-| Mission Accomplished | 19.00% | ~3,734 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,948 |
-| A Starfighter of Your Own | 14.00% | ~2,752 |
-| Asset Secured | 13.00% | ~2,555 |
-| Unkillable | 8.00% | ~1,572 |
-| Together, Vanguard | 7.00% | ~1,376 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,179 |
-| Sound Strategy | 6.00% | ~1,179 |
-| Flames Over Mon Cala | 5.00% | ~983 |
-| Stomped | 5.00% | ~983 |
-| A Promising Career | 5.00% | ~983 |
-| Great Shot, Kid | 4.00% | ~786 |
-| Fearless | 4.00% | ~786 |
-| Back From the Brink | 4.00% | ~786 |
-| Temporary Guardian | 4.00% | ~786 |
-| Baited | 4.00% | ~786 |
+| Fracture at Fostar Haven | 95.00% | ~18,686 |
+| Safety in the Storm | 24.00% | ~4,721 |
+| A Better Idea | 24.00% | ~4,721 |
+| Begin the Ceremony | 20.00% | ~3,934 |
+| Mission Accomplished | 19.00% | ~3,737 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,950 |
+| A Starfighter of Your Own | 14.00% | ~2,754 |
+| Asset Secured | 13.00% | ~2,557 |
+| Unkillable | 8.00% | ~1,574 |
+| Together, Vanguard | 7.00% | ~1,377 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,180 |
+| Sound Strategy | 6.00% | ~1,180 |
+| Flames Over Mon Cala | 5.00% | ~984 |
+| Stomped | 5.00% | ~984 |
+| A Promising Career | 5.00% | ~984 |
+| Great Shot, Kid | 4.00% | ~787 |
+| Fearless | 4.00% | ~787 |
+| Back From the Brink | 4.00% | ~787 |
+| Temporary Guardian | 4.00% | ~787 |
+| Baited | 4.00% | ~787 |
 | Stronger Together | 3.00% | ~590 |
 | Squadron Hunter | 3.00% | ~590 |
 | Punch It | 3.00% | ~590 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~20 |
 | The Galaxy's Finest (Ace) | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,654 (Ranked 135)  
+Progressed: 19,670 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-11 | 19,008 | 1 |
 | 2023-11-12 | 19,415 | 1 |
 | 2023-11-13 | 19,649 | 1 |
-| 2023-11-14 | 19,654 | 1 |
+| 2023-11-14 | 19,670 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

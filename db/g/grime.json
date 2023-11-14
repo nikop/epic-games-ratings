@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1453,7 +1453,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158141,
+  "EOS_Progressed": 158155,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 0,
@@ -15548,6 +15548,11 @@
       "Time": "2023-11-14T00:04:25.8384283+00:00",
       "NumProgressed": 158141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T01:49:07.3123846+00:00",
+      "NumProgressed": 158155,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15631,7 +15636,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -15685,9 +15690,9 @@
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Hush",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 791
+      "UsersEstimate": 949
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -15703,7 +15708,7 @@
       "Name": "Jawcrab",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -15711,7 +15716,7 @@
       "Name": "Jawstag",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -15735,7 +15740,7 @@
       "Name": "Feast",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -15743,7 +15748,7 @@
       "Name": "Watcher",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -15775,7 +15780,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7907
+      "UsersEstimate": 7908
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15815,7 +15820,7 @@
       "Name": "Yank",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -15823,7 +15828,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -15831,7 +15836,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4744
+      "UsersEstimate": 4745
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -15926,21 +15931,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157724,
+      "Progressed": 157738,
       "Completed": 1201
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158141,
+      "Progressed": 158155,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-13T18:00:16.0469446+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:25.8384278+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:07.3123842+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:59:24.740688+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:25.8386052+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:44:02.1121175+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:49:07.3124738+00:00"
 }

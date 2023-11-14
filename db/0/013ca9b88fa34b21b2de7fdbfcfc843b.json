@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7755,
+  "EOS_Progressed": 7756,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6696,6 +6696,11 @@
       "Time": "2023-11-13T20:09:00.7291227+00:00",
       "NumProgressed": 7755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T01:53:34.1290401+00:00",
+      "NumProgressed": 7756,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6716,7 +6721,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6724,7 +6729,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6740,7 +6745,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6844,7 +6849,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6932,7 +6937,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -6987,22 +6992,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7755,
+      "Progressed": 7756,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 372,
-      "Completed": 372
+      "Progressed": 373,
+      "Completed": 373
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:09:19.7751338+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:53:34.1290394+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-14T00:02:57.4207339+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:09:19.7752158+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:47:35.1126501+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:53:34.1290965+00:00"
 }

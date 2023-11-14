@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 2129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5146,9 +5146,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 532
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5241,8 +5241,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:09:32.8342047+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:54:07.2659969+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:59:37.6606211+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:09:32.8342769+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:44:15.5962616+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:54:07.2660657+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16443,
+  "EOS_Progressed": 16444,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8954,6 +8954,11 @@
       "Time": "2023-11-13T22:30:28.3197242+00:00",
       "NumProgressed": 16443,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-14T01:49:59.3627466+00:00",
+      "NumProgressed": 16444,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8997,7 +9002,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9141,7 +9146,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9340,13 +9345,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16443,
+      "Progressed": 16444,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4369,
+      "Progressed": 4370,
       "Completed": 29
     }
   ],
@@ -9354,8 +9359,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-12T16:02:53.4187845+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:05:16.1247097+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:59.3627464+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:57.886898+00:00",
-  "LastUpdate_Ratings": "2023-11-14T00:02:53.477143+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:05:16.124804+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:47:31.0466456+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:49:59.362807+00:00"
 }

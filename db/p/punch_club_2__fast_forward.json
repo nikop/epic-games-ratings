@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1520,9 +1520,9 @@
       "ID": "flash_silver",
       "SetID": "69co12a",
       "Name": "Silver\u2019s past",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "flash_yakuza",
@@ -1616,9 +1616,9 @@
       "ID": "league_3",
       "SetID": "69co12a",
       "Name": "Absolute Champion!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "lil_bobo_fight",
@@ -1704,9 +1704,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "poisoned_fighter",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:25.482547+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:49:06.9512492+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:34.4044983+00:00",
   "LastUpdate_Ratings": "2023-11-14T00:00:15.5684639+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:25.4826293+00:00"
+  "LastUpdate_Achievements": "2023-11-14T01:49:06.9513007+00:00"
 }

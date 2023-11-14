@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664596,
+  "EOS_Progressed": 664597,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20619,6 +20619,11 @@
       "Time": "2023-11-14T00:08:21.9200709+00:00",
       "NumProgressed": 664596,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-14T01:52:35.1833357+00:00",
+      "NumProgressed": 664597,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20630,7 +20635,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478509
+      "UsersEstimate": 478510
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20774,7 +20779,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93043
+      "UsersEstimate": 93044
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -21013,15 +21018,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664596,
+      "Progressed": 664597,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:08:21.9200702+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:52:35.1833353+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:12.8499735+00:00",
-  "LastUpdate_Ratings": "2023-11-13T23:57:06.0968702+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:08:21.9202496+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:41:40.1581849+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:52:35.1834684+00:00"
 }

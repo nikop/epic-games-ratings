@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -3442,9 +3442,9 @@
       "ID": "achievement_106",
       "SetID": "d252ncf",
       "Name": "Pyromaniac",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_107",
@@ -3650,9 +3650,9 @@
       "ID": "achievement_15",
       "SetID": "b9pe172",
       "Name": "Sabotage Specialist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_16",
@@ -3866,9 +3866,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 646
     },
     {
       "ID": "achievement_40",
@@ -4338,9 +4338,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_94",
@@ -4406,8 +4406,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:04:06.8340856+00:00",
+  "LastChanged_Achievements": "2023-11-14T01:48:47.7515319+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-14T00:02:57.7427575+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:04:06.8343514+00:00"
+  "LastUpdate_Ratings": "2023-11-14T01:47:35.461233+00:00",
+  "LastUpdate_Achievements": "2023-11-14T01:48:47.7516951+00:00"
 }
