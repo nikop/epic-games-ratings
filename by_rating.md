@@ -108,7 +108,7 @@
 | 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 450 |
 | 107 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 262 | 266 |
 | 107 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 421 |
-| 107 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,672 | 38 |
+| 107 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,680 | 38 |
 | 107 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,437 | 104 |
 | 107 | [Outlast](games/o/outlast.md) | 4.78 | 0 | 546 |
 | 107 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 546 |
@@ -596,7 +596,7 @@
 | 588 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 375 |
 | 588 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 546 |
 | 588 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 546 |
-| 588 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 313 | 247 |
+| 588 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 315 | 247 |
 | 588 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 113 | 345 |
 | 588 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 546 |
 | 588 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 652 | 186 |
@@ -609,7 +609,7 @@
 | 607 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 408 |
 | 607 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,016 | 111 |
 | 607 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 43 | 448 |
-| 607 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,121 | 14 |
+| 607 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,144 | 14 |
 | 607 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 546 |
 | 607 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 279 | 260 |
 | 607 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 546 |
@@ -689,7 +689,7 @@
 | 675 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 24 | 520 |
 | 688 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 49 | 433 |
 | 688 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 248 | 271 |
-| 688 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,629 | 30 |
+| 688 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 13,636 | 30 |
 | 688 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.43 | 0 | 546 |
 | 688 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 546 |
 | 688 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.43 | 0 | 546 |
@@ -959,17 +959,17 @@
 | 957 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 546 |
 | 957 | [Fangs](games/f/fangs.md) | 4.11 | 0 | 546 |
 | 959 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 98 | 359 |
-| 959 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.10 | 0 | 546 |
 | 959 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.10 | 0 | 546 |
 | 959 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
-| 963 | [Gravewood High](games/g/gravewood_high.md) | 4.09 | 0 | 546 |
-| 963 | [Obduction](games/o/obduction.md) | 4.09 | 55 | 418 |
-| 963 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 546 |
-| 966 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 546 |
-| 966 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 142 | 322 |
-| 966 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 298 |
-| 966 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 0 | 546 |
-| 966 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 546 |
+| 962 | [Gravewood High](games/g/gravewood_high.md) | 4.09 | 0 | 546 |
+| 962 | [Obduction](games/o/obduction.md) | 4.09 | 55 | 418 |
+| 962 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 546 |
+| 965 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 546 |
+| 965 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.08 | 0 | 546 |
+| 965 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 142 | 322 |
+| 965 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 298 |
+| 965 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 0 | 546 |
+| 965 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 546 |
 | 971 | [Banished](games/b/banished.md) | 4.07 | 0 | 546 |
 | 971 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 561 | 200 |
 | 973 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,521 | 69 |
