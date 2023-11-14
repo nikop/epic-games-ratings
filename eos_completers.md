@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.28% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.27% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -186,16 +186,16 @@
 | 182 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 185 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.58% |
 | 185 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.57% |
-| 188 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
-| 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.56% |
+| 185 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.58% |
+| 188 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.57% |
+| 189 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
 | 190 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 191 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.54% |
 | 191 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.54% |
-| 193 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 193 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 193 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.53% |
-| 193 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.53% |
+| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.54% |
+| 194 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 194 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 194 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.53% |
 | 197 | [Eternights](games/e/eternights.md) | 0.50% |
 | 197 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.50% |
 | 199 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
@@ -210,12 +210,12 @@
 | 208 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.41% |
 | 208 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.41% |
 | 208 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
-| 211 | [Dungeons 4](games/d/dungeons_4.md) | 0.40% |
-| 212 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
-| 212 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
-| 212 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
-| 212 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.39% |
-| 212 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
+| 211 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
+| 211 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
+| 211 | [Dungeons 4](games/d/dungeons_4.md) | 0.39% |
+| 211 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
+| 211 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.39% |
+| 211 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 217 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 218 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 218 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.37% |
