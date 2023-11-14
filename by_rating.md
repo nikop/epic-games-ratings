@@ -21,7 +21,7 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,046 | 150 |
 | 17 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 546 |
 | 17 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 197,224 | 6 |
-| 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,592 | 32 |
+| 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,611 | 32 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 546 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 293 | 253 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,489 | 133 |
@@ -144,7 +144,7 @@
 | 126 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 546 |
 | 126 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 546 |
 | 126 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.76 | 0 | 546 |
-| 145 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,479 | 58 |
+| 145 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,485 | 58 |
 | 145 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 819 | 168 |
 | 145 | [Haven](games/h/haven.md) | 4.75 | 0 | 546 |
 | 145 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.75 | 0 | 546 |
@@ -242,7 +242,7 @@
 | 231 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,218 | 140 |
 | 231 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 546 |
 | 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 546 |
-| 231 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,604 | 36 |
+| 231 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,606 | 36 |
 | 231 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 56 | 415 |
 | 231 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 400 | 227 |
 | 231 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 508 |
