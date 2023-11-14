@@ -3,12 +3,12 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 52,
-  "Ranking_PopularitySum": 85,
+  "Ranking_Popularity": 53,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6439,10 +6439,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11279,
       "NumberOfAwardsMax": 7413
+    },
+    {
+      "Time": "2023-11-14T18:57:21.2325529+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11283,
+      "NumberOfAwardsMax": 7413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11279,
+  "NumberOfAwards": 11283,
   "NumberOfAwardsMax": 7413,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6492,7 +6498,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 485
+      "Count": 489
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6501,10 +6507,10 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718418,
+  "EOS_Progressed": 718437,
   "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3871,
-  "EOS_NewCompleters": 38,
+  "EOS_NewPlayers": 3862,
+  "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30281,6 +30287,11 @@
       "Time": "2023-11-14T18:05:30.9064719+00:00",
       "NumProgressed": 718418,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-14T19:04:43.4653185+00:00",
+      "NumProgressed": 718437,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30498,9 +30509,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3592
+      "UsersEstimate": 4311
     },
     {
       "ID": "ach_legendary",
@@ -30652,7 +30663,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ach_dark_magic",
@@ -30660,7 +30671,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ach_gardening_tools",
@@ -30676,7 +30687,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30699,22 +30710,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718418,
+      "Progressed": 718437,
       "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43960,
+      "Progressed": 43979,
       "Completed": 36541
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-14T17:57:41.8740013+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:05:30.9064714+00:00",
+  "LastChanged": "2023-11-14T18:57:21.2325528+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:04:43.465318+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T17:57:41.874002+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:05:30.9065859+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:57:21.2325534+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:43.4654762+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5726,
+  "EOS_Progressed": 5727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5512,6 +5512,11 @@
       "Time": "2023-11-14T18:05:22.868929+00:00",
       "NumProgressed": 5726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T19:04:36.7830527+00:00",
+      "NumProgressed": 5727,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5564,7 +5569,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "achievement_0007",
@@ -5572,7 +5577,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "achievement_0008",
@@ -5620,7 +5625,7 @@
       "Name": "Oil and Water",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "achievement_0014",
@@ -5684,7 +5689,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4237
+      "UsersEstimate": 4238
     },
     {
       "ID": "achievement_0022",
@@ -5780,7 +5785,7 @@
       "Name": "Engineer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "achievement_0034",
@@ -5860,7 +5865,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "achievement_0044",
@@ -5915,7 +5920,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5726,
+      "Progressed": 5727,
       "Completed": 0
     }
   ],
@@ -5923,8 +5928,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-14T14:57:42.5078658+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:05:22.8689286+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:04:36.7830522+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-14T17:58:01.0114259+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:05:22.8689852+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:57:35.9770502+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:36.7831116+00:00"
 }

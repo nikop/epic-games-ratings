@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 692,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1262,17 +1262,17 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 477
     },
     {
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 346
     },
     {
       "ID": "EV_ACH03",
@@ -1342,9 +1342,9 @@
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 249
     },
     {
       "ID": "EV_ACH12",
@@ -1382,9 +1382,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 464
     },
     {
       "ID": "EV_ACH17",
@@ -1414,9 +1414,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 284
     },
     {
       "ID": "EV_ACH21",
@@ -1470,9 +1470,9 @@
       "ID": "EV_ACH27",
       "SetID": "6jeac23",
       "Name": "I Broke It",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 505
     },
     {
       "ID": "EV_ACH28",
@@ -1486,9 +1486,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 464
     },
     {
       "ID": "EV_ACH30",
@@ -1534,9 +1534,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 443
     },
     {
       "ID": "EV_ACH36",
@@ -1621,8 +1621,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:09:52.9885231+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:09:11.5245816+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:02:58.9776692+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:09:52.9885628+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:02:50.0141255+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:09:11.5246179+00:00"
 }

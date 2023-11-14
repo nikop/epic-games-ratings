@@ -62,6 +62,7 @@ Rating: 4.86 (Ranked 30)
 | I can't see this ever being a problem again | 0.20% | ~8 |
 | This was... not what I expected. | 0.20% | ~8 |
 | Have we met before? | 0.20% | ~8 |
+| Please don't make this awkward | 0.20% | ~5 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
@@ -72,7 +73,6 @@ Rating: 4.86 (Ranked 30)
 | I'm trying to FOCUS HERE! | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
-| Please don't make this awkward | 0.10% | ~3 |
 | It was all for this | 0.10% | ~3 |
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |

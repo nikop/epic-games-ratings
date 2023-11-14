@@ -6,13 +6,13 @@ Rating: 4.64 (Ranked 332)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 3.00% | ~734 |
+| Sweezy Like Sunday Morning | 3.00% | ~734 |
 | Cold-Blooded Driller | 3.00% | ~734 |
 | Creature Feature | 2.00% | ~490 |
 | Are You Packin'? | 2.00% | ~490 |
 | Bring A Knife to a Gun Fight | 2.00% | ~490 |
 | Lezduit! | 2.00% | ~490 |
 | RIP Davey Glutes | 2.00% | ~490 |
-| Sweezy Like Sunday Morning | 2.00% | ~490 |
 | We're All Very Impressed, Trust Me | 2.00% | ~490 |
 | First Bounty Down | 2.00% | ~490 |
 | G3 Graduation | 2.00% | ~490 |

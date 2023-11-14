@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,7 +459,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5389,
+  "EOS_Progressed": 5390,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -7094,6 +7094,11 @@
       "Time": "2023-11-14T18:05:34.6233158+00:00",
       "NumProgressed": 5389,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-14T19:04:46.5470894+00:00",
+      "NumProgressed": 5390,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7303,9 +7308,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "33",
@@ -7527,9 +7532,9 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "55",
@@ -7584,13 +7589,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5389,
+      "Progressed": 5390,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5389,
+      "Progressed": 5390,
       "Completed": 7
     }
   ],
@@ -7598,8 +7603,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:05:34.6233153+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:04:46.5470888+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T17:57:57.0421198+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:05:34.623382+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:57:33.0007879+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:46.5471581+00:00"
 }

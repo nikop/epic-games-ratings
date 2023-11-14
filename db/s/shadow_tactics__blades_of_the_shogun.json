@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2026,9 +2026,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213739,
+  "EOS_Progressed": 213745,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1280,
+  "EOS_NewPlayers": 1276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25811,6 +25811,11 @@
       "Time": "2023-11-14T18:05:33.8739737+00:00",
       "NumProgressed": 213739,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-14T19:04:45.9053873+00:00",
+      "NumProgressed": 213745,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -25846,7 +25851,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12824
+      "UsersEstimate": 12825
     },
     {
       "ID": "CompleteMastery",
@@ -25878,7 +25883,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12824
+      "UsersEstimate": 12825
     },
     {
       "ID": "GearUp",
@@ -25974,7 +25979,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12824
+      "UsersEstimate": 12825
     },
     {
       "ID": "NoGimmicks",
@@ -26038,7 +26043,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17099
+      "UsersEstimate": 17100
     },
     {
       "ID": "Rollin",
@@ -26070,7 +26075,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17099
+      "UsersEstimate": 17100
     },
     {
       "ID": "TanukiTime",
@@ -26142,7 +26147,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12824
+      "UsersEstimate": 12825
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -26173,15 +26178,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213739,
+      "Progressed": 213745,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-14T13:58:56.1506735+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:05:33.8739732+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:04:45.9053867+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:18.238933+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:05:33.8740797+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:21.7240015+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:45.9055232+00:00"
 }

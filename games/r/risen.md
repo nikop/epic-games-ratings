@@ -18,13 +18,13 @@ Rating: 4.57 (Ranked 470)
 | Ladies' man | 50.00% | ~19 |
 | Ferocious wild boars | 39.00% | ~15 |
 | Wise man | 37.00% | ~14 |
+| Family man | 34.00% | ~13 |
 | Idiot | 34.00% | ~13 |
-| Family man | 32.00% | ~12 |
+| Beast slayer | 32.00% | ~12 |
+| The fourth triplet | 32.00% | ~12 |
 | Master detective | 32.00% | ~12 |
-| Beast slayer | 29.00% | ~11 |
 | Ogre friend | 29.00% | ~11 |
 | Hard worker | 29.00% | ~11 |
-| The fourth triplet | 29.00% | ~11 |
 | Death of a legend | 26.00% | ~10 |
 | Archaeologist | 26.00% | ~10 |
 | Peacekeeper | 26.00% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 470)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 499)  
+Progressed: 38 (Ranked 501)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |

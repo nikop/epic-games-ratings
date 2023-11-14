@@ -26,8 +26,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 37.00% | ~259 |
 | The Lava Mantor Wyrm | 36.00% | ~252 |
 | One Mean Merc | 36.00% | ~252 |
+| Money, Money, Money | 36.00% | ~252 |
 | Adept, for an Acting Mayor | 35.00% | ~245 |
-| Money, Money, Money | 35.00% | ~245 |
 | Rune Wall Master | 34.00% | ~238 |
 | The Quarry...On Foot! | 31.00% | ~217 |
 | The Runebarrows...On Foot! | 29.00% | ~203 |

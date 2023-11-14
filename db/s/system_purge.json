@@ -2,7 +2,7 @@
   "ID": "0212045e373b4c729b07f8aa369d8191",
   "Name": "System Purge",
   "ProductSlug": "system-purge-9ab7b7",
-  "Ranking_EOS_Progress": 743,
+  "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:59.7204441+00:00",
   "LastChanged": "2023-03-31T05:57:59.7204441+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:36.2436361+00:00",
-  "LastUpdate_Ratings": "2023-11-14T17:58:17.9482065+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:06:34.7119648+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:57:49.3185524+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:05:34.490558+00:00"
 }

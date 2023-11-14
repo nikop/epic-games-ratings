@@ -14,11 +14,11 @@
 | Honorarium of Corporate Service | 58.00% | ~728 |
 | Medal of Exploration II | 52.00% | ~653 |
 | Turian Ally | 52.00% | ~653 |
-| Council Legion of Merit | 51.00% | ~640 |
+| Council Legion of Merit | 52.00% | ~653 |
 | Medal of Honor | 49.00% | ~615 |
 | Meritorious Service Medal | 49.00% | ~615 |
+| Soldier | 48.00% | ~602 |
 | Charismatic | 48.00% | ~602 |
-| Soldier | 47.00% | ~590 |
 | Medal of Exploration III | 45.00% | ~565 |
 | Soldier Ally | 45.00% | ~565 |
 | Asari Ally | 45.00% | ~565 |
@@ -32,8 +32,8 @@
 | Very Elusive | 40.00% | ~502 |
 | Sentinel Ally | 39.00% | ~489 |
 | Head Hunter | 39.00% | ~489 |
+| Operative | 38.00% | ~477 |
 | Scholar | 38.00% | ~477 |
-| Operative | 37.00% | ~464 |
 | Veteran | 36.00% | ~452 |
 | The Professor | 36.00% | ~452 |
 | The Archangel | 35.00% | ~439 |
@@ -61,13 +61,13 @@
 | Driven | 29.00% | ~364 |
 | Focused | 28.00% | ~351 |
 | Archivist | 28.00% | ~351 |
+| Cat's in the Cradle | 28.00% | ~351 |
 | Treason | 28.00% | ~351 |
 | Agent | 28.00% | ~351 |
 | Revenge! | 28.00% | ~351 |
 | Digital Exorcist | 28.00% | ~351 |
 | Bringer of War | 28.00% | ~351 |
 | Friend or Foe | 27.00% | ~339 |
-| Cat's in the Cradle | 27.00% | ~339 |
 | Doppelganger | 27.00% | ~339 |
 | Mobilizer | 27.00% | ~339 |
 | Mission Accomplished | 26.00% | ~326 |

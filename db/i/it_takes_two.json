@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21541,
+  "EOS_Progressed": 21542,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 2134,
+  "EOS_NewPlayers": 2129,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -6498,6 +6498,11 @@
       "Time": "2023-11-14T18:08:50.1076836+00:00",
       "NumProgressed": 21541,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-11-14T19:08:21.8144112+00:00",
+      "NumProgressed": 21542,
+      "NumCompleted": 90
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -6510,7 +6515,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 9047
+      "UsersEstimate": 9048
     },
     {
       "ID": "achievement_10",
@@ -6534,7 +6539,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 12063
+      "UsersEstimate": 12064
     },
     {
       "ID": "achievement_13",
@@ -6614,7 +6619,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 18741
+      "UsersEstimate": 18742
     },
     {
       "ID": "achievement_4",
@@ -6622,7 +6627,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 18956
+      "UsersEstimate": 18957
     },
     {
       "ID": "achievement_5",
@@ -6646,7 +6651,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 16802
+      "UsersEstimate": 16803
     },
     {
       "ID": "achievement_8",
@@ -6662,20 +6667,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11201
+      "UsersEstimate": 11202
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 21541,
+      "Progressed": 21542,
       "Completed": 90
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:08:50.1076833+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:08:21.8144105+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.824403+00:00",
-  "LastUpdate_Ratings": "2023-11-14T17:57:45.956197+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:08:50.1077231+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:57:24.391954+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:08:21.8144487+00:00"
 }

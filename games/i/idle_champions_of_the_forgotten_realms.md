@@ -10,10 +10,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.80% | ~1,610 |
 | Tomb of Champions | 0.60% | ~1,208 |
 | A Brief Tour of the Realms | 0.50% | ~1,175 |
-| See You on the Flipside | 0.50% | ~1,006 |
+| See You on the Flipside | 0.50% | ~1,007 |
 | Beast Intentions | 0.20% | ~470 |
 | The Cursed Farmer | 0.20% | ~470 |
 | The Mad Wizard | 0.20% | ~470 |
+| Reya Reborn | 0.20% | ~403 |
 | Maddening | 0.10% | ~235 |
 | Pros and CONs | 0.10% | ~235 |
 | Upholding the Law | 0.10% | ~235 |
@@ -443,7 +444,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Going To Eleven | 0.10% | ~201 |
 | Idyllglen | 0.10% | ~201 |
 | The Madness of Yeenoghu | 0.10% | ~201 |
-| Reya Reborn | 0.10% | ~201 |
 | The Radiant Nightmare | 0.10% | ~201 |
 | Quick Thinking | 0.10% | ~201 |
 | Tough Acting | 0.10% | ~201 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~201 |
 | Time Out | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,019 (Ranked 64)  
+Progressed: 235,033 (Ranked 64)  
 Completed: 2,447 (1.04%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -747,7 +747,7 @@ Completed: 2,447 (1.04%) (Ranked 157)
 | 2023-11-11 | 234,594 | 2,442 |
 | 2023-11-12 | 234,790 | 2,442 |
 | 2023-11-13 | 234,919 | 2,446 |
-| 2023-11-14 | 235,019 | 2,447 |
+| 2023-11-14 | 235,033 | 2,447 |
 ## Awards
 Max (Great for Beginners): 5,521  (Ranked 69)  
 Sum: 32,474 (Ranked 41)  

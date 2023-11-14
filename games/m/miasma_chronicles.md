@@ -29,7 +29,7 @@ Rating: 4.43 (Ranked 688)
 | Experienced | 33.00% | ~522 |
 | Pushing Daisy | 33.00% | ~522 |
 | Hold The Line | 32.00% | ~506 |
-| Endgame | 27.00% | ~427 |
+| Endgame | 28.00% | ~443 |
 | Savior | 27.00% | ~427 |
 | There Can Be Only One! | 26.00% | ~411 |
 | Silent but Violent | 25.00% | ~395 |
@@ -52,8 +52,8 @@ Rating: 4.43 (Ranked 688)
 | Cruelty | 3.00% | ~47 |
 | Five Finger Deathcount | 1.00% | ~16 |
 | Shadow Boxin' | 1.00% | ~16 |
+| Alpha Editor | 0.90% | ~14 |
 | Fratricide | 0.90% | ~14 |
-| Alpha Editor | 0.80% | ~13 |
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)

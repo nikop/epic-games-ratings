@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1429,7 +1429,7 @@
   ],
   "EOS_Progressed": 6749,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12938,9 +12938,9 @@
       "ID": "SURVIVE_FIRST_YEAR",
       "SetID": "5349c2e",
       "Name": "All Year Round",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1485
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -13002,8 +13002,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-14T18:00:09.6823623+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:04:55.8192413+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:04:15.5767341+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:09.6823631+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:04:55.81931+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:14.9599235+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:15.5768077+00:00"
 }

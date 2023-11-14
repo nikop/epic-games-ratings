@@ -799,7 +799,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3428,
+  "EOS_Progressed": 3429,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -5329,6 +5329,11 @@
       "Time": "2023-11-14T18:04:14.0157419+00:00",
       "NumProgressed": 3428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T19:03:42.0150465+00:00",
+      "NumProgressed": 3429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5341,7 +5346,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_10",
@@ -5349,7 +5354,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "achievement_11",
@@ -5357,7 +5362,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "achievement_12",
@@ -5365,7 +5370,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "achievement_13",
@@ -5387,9 +5392,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1817
     },
     {
       "ID": "achievement_16",
@@ -5443,9 +5448,9 @@
       "ID": "achievement_21",
       "SetID": "c8fif6p",
       "Name": "The Fortress",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_3",
@@ -5493,7 +5498,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_9",
@@ -5508,7 +5513,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3428,
+      "Progressed": 3429,
       "Completed": 0
     }
   ],
@@ -5516,8 +5521,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:04:14.0157414+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:03:42.0150459+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:59.9807392+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:04:14.0157756+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:53.1617739+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:03:42.0150759+00:00"
 }

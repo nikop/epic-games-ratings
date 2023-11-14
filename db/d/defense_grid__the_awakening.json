@@ -2008,9 +2008,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 489762,
+  "EOS_Progressed": 489763,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23928,6 +23928,11 @@
       "Time": "2023-11-14T18:06:11.6738948+00:00",
       "NumProgressed": 489762,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-14T19:05:16.2764015+00:00",
+      "NumProgressed": 489763,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -24035,7 +24040,7 @@
       "Name": "Close Call",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 244881
+      "UsersEstimate": 244882
     },
     {
       "ID": "COMBATTURMOIL",
@@ -24051,7 +24056,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 200802
+      "UsersEstimate": 200803
     },
     {
       "ID": "CORECONTAINER",
@@ -24091,7 +24096,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 176314
+      "UsersEstimate": 176315
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -24107,7 +24112,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 362424
+      "UsersEstimate": 362425
     },
     {
       "ID": "FILTHYRICH",
@@ -24115,7 +24120,7 @@
       "Name": "Filthy Rich",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 97952
+      "UsersEstimate": 97953
     },
     {
       "ID": "FIREBUG",
@@ -24131,7 +24136,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 396707
+      "UsersEstimate": 396708
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -24211,7 +24216,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382014
+      "UsersEstimate": 382015
     },
     {
       "ID": "HEADTRAUMA",
@@ -24219,7 +24224,7 @@
       "Name": "Head Trauma",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 58771
+      "UsersEstimate": 58772
     },
     {
       "ID": "HEYTHATSMINE",
@@ -24227,7 +24232,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382014
+      "UsersEstimate": 382015
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -24275,7 +24280,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 347731
+      "UsersEstimate": 347732
     },
     {
       "ID": "LIQUIDATOR",
@@ -24339,7 +24344,7 @@
       "Name": "No Sale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 151826
+      "UsersEstimate": 151827
     },
     {
       "ID": "NOTSOFAST",
@@ -24347,7 +24352,7 @@
       "Name": "Not So Fast",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 161621
+      "UsersEstimate": 161622
     },
     {
       "ID": "OUTOFBULLETS",
@@ -24387,7 +24392,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 239983
+      "UsersEstimate": 239984
     },
     {
       "ID": "PEWPEW",
@@ -24395,7 +24400,7 @@
       "Name": "Pew Pew",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 244881
+      "UsersEstimate": 244882
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -24523,7 +24528,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 318345
+      "UsersEstimate": 318346
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -24571,7 +24576,7 @@
       "Name": "Tower Expert",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19590
+      "UsersEstimate": 19591
     },
     {
       "ID": "TRACEAMOUNTSOFGOLD",
@@ -24603,7 +24608,7 @@
       "Name": "What IS that?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 244881
+      "UsersEstimate": 244882
     },
     {
       "ID": "XENOCIDE",
@@ -24634,15 +24639,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 489762,
+      "Progressed": 489763,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-11-12T11:58:23.6701896+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:06:11.6738945+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:05:16.2764009+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:37.0920461+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:07.7483629+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:06:11.6740426+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:13.5604705+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:05:16.276584+00:00"
 }

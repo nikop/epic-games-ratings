@@ -7,13 +7,14 @@
 | Powerful Allies | 1.00% | ~2 |
 | Calm before the Storm | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
+| Fashion Victim | 1.00% | ~2 |
 | Scholar | 1.00% | ~2 |
 | I Found It | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Find Allies | 0.50% | ~1 |
 | Trinity | 0.50% | ~1 |
 | Adventurer | 0.50% | ~1 |
-| Fashion Victim | 0.50% | ~1 |
+| Geared Up | 0.50% | ~1 |
 | Break Out | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -30,7 +31,6 @@
 | Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
-| Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
@@ -42,7 +42,7 @@
 | A Queen's Tale | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 186 (Ranked 379)  
-Completed: 1 (0.54%) (Ranked 191)  
+Completed: 1 (0.54%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

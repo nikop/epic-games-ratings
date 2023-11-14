@@ -588,9 +588,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_20",
@@ -715,8 +715,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:09:44.7494107+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:09:05.2961661+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:35.350465+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:09:44.7494283+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:34.9843814+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:09:05.2961823+00:00"
 }

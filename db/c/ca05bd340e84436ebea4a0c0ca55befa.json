@@ -2,7 +2,7 @@
   "ID": "ca05bd340e84436ebea4a0c0ca55befa",
   "Name": "Golden Light",
   "ProductSlug": "golden-light-f543b3",
-  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2023-10-23T19:07:24.0385263+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T19:05:28.6930035+00:00",
+      "NumProgressed": 127,
       "NumCompleted": 0
     }
   ],
@@ -44,17 +49,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "h261mm",
       "Name": "Unfortunate Plumber",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "h261mm",
       "Name": "An Old Timer",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -68,17 +73,17 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "h261mm",
       "Name": "Don\u0027t play with fire, kids",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "h261mm",
       "Name": "First fall",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 170,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -92,17 +97,17 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "h261mm",
       "Name": "Golden fingers",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 185,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "h261mm",
       "Name": "Golden tongue",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -116,9 +121,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "h261mm",
       "Name": "Fire safety",
-      "Percentage": 0,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -140,9 +145,9 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "h261mm",
       "Name": "Boot for an eye",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -180,9 +185,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "h261mm",
       "Name": "Hands up!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -196,41 +201,41 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "h261mm",
       "Name": "Groovy!",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "h261mm",
       "Name": "Infinite pleasure",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "h261mm",
       "Name": "I\u0027ll give this one a 0 star rating",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "h261mm",
       "Name": "1.000.000 Scovilles",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "h261mm",
       "Name": "Don\u0027t interrupt my research!",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -252,25 +257,25 @@
       "ID": "NEW_ACHIEVEMENT_2_10",
       "SetID": "h261mm",
       "Name": "First steps",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "h261mm",
       "Name": "I Think I\u0027m Lost",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_12",
       "SetID": "h261mm",
       "Name": "Smothered in Meat",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_13",
@@ -292,25 +297,25 @@
       "ID": "NEW_ACHIEVEMENT_2_16",
       "SetID": "h261mm",
       "Name": "Uh, Which Key is the Right One?",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_17",
       "SetID": "h261mm",
       "Name": "Vampire Killer",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_18",
       "SetID": "h261mm",
       "Name": "Don\u0027t Come Near Me",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -332,9 +337,9 @@
       "ID": "NEW_ACHIEVEMENT_2_22",
       "SetID": "h261mm",
       "Name": "Meat Machine",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_23",
@@ -356,25 +361,25 @@
       "ID": "NEW_ACHIEVEMENT_2_25",
       "SetID": "h261mm",
       "Name": "Mmm, tasty",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_26",
       "SetID": "h261mm",
       "Name": "Feeling Better",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_27",
       "SetID": "h261mm",
       "Name": "Body Building",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_29",
@@ -388,9 +393,9 @@
       "ID": "NEW_ACHIEVEMENT_2_30",
       "SetID": "h261mm",
       "Name": "A Good Read",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_31",
@@ -420,9 +425,9 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "h261mm",
       "Name": "Untouchable",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -436,9 +441,9 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "h261mm",
       "Name": "Athletic",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -452,9 +457,9 @@
       "ID": "NEW_ACHIEVEMENT_3_0",
       "SetID": "h261mm",
       "Name": "Good Murder",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_1",
@@ -581,14 +586,14 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-15T21:59:09.4936341+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:06:27.4899171+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:05:28.6930028+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.7731465+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:10.0451011+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:06:27.4899638+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:15.2510937+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:05:28.6930727+00:00"
 }

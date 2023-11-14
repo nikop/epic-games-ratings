@@ -5,7 +5,7 @@
   "Ranking_Rating": 65,
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 125,
-  "Ranking_EOS_Progress": 743,
+  "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -8559,10 +8559,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 6584,
       "NumberOfAwardsMax": 860
+    },
+    {
+      "Time": "2023-11-14T18:57:54.9228372+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 6586,
+      "NumberOfAwardsMax": 860
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6584,
+  "NumberOfAwards": 6586,
   "NumberOfAwardsMax": 860,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8600,7 +8606,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 846
+      "Count": 848
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8650,8 +8656,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-11-14T08:57:40.1517131+00:00",
+  "LastChanged": "2023-11-14T18:57:54.922837+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:09.2972124+00:00",
-  "LastUpdate_Ratings": "2023-11-14T17:58:25.5777879+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:08:29.1187768+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:57:54.9228376+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:08:04.8168321+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~879 |
-| Whatever It Takes | 2.00% | ~879 |
-| Pork Chopped | 2.00% | ~879 |
+| One of Us | 2.00% | ~880 |
+| Whatever It Takes | 2.00% | ~880 |
+| Pork Chopped | 2.00% | ~880 |
 | Hotel California | 0.90% | ~6,466 |
 | Welcome To Hell-A | 0.90% | ~6,466 |
 | Break A Leg | 0.80% | ~5,747 |
@@ -24,13 +24,13 @@ Rating: 4.54 (Ranked 523)
 | But Doctor, I am Butcho | 0.60% | ~4,311 |
 | Can't Handle the Truth | 0.60% | ~4,311 |
 | Like Riding a Bike | 0.60% | ~4,311 |
+| Zombologist | 0.60% | ~4,311 |
 | A Patton Emerges | 0.60% | ~4,311 |
 | Our True Nature | 0.60% | ~4,311 |
 | This is My Weapon | 0.60% | ~4,311 |
 | Perks of the Job | 0.50% | ~3,592 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,592 |
 | Slayer Squad | 0.50% | ~3,592 |
-| Zombologist | 0.50% | ~3,592 |
 | Ooh, Shiny! | 0.50% | ~3,592 |
 | I Am the Resurrection | 0.50% | ~3,592 |
 | Max Headroom | 0.50% | ~3,592 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,418 (Ranked 20)  
+Progressed: 718,437 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,18 +265,18 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,418 | 2,391 |
+| 2023-11-14 | 718,437 | 2,391 |
 ## Awards
-Max (Great Boss Battles): 7,413  (Ranked 52)  
-Sum: 11,279 (Ranked 85)  
-Diff (max vs sum): -33  
+Max (Great Boss Battles): 7,413  (Ranked 53)  
+Sum: 11,283 (Ranked 84)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,413 |
 | This game is Great for Beginners | 555 |
 | This game has Diverse Characters | 540 |
 | This game has Quickly Understood Controls | 513 |
-| This game is Relaxing | 485 |
+| This game is Relaxing | 489 |
 | This game has Amazing Storytelling | 463 |
 | This game is Highly Recommended | 454 |
 | This game is Extremely Fun | 449 |
@@ -491,4 +491,4 @@ Diff (max vs sum): -33
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
-| 2023-11-14 | 4.54 | 7,413 | 11,279 |
+| 2023-11-14 | 4.54 | 7,413 | 11,283 |

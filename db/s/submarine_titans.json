@@ -2,7 +2,7 @@
   "ID": "d3ec9db2529b4b6bb350789d32959112",
   "Name": "Submarine Titans",
   "ProductSlug": "submarine-titans-660aa0",
-  "Ranking_EOS_Progress": 743,
+  "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.3257133+00:00",
   "LastChanged": "2023-03-31T05:57:04.3257134+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:49.4091983+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:02:48.122704+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:04:39.0642706+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:02:42.3157562+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:02.1120639+00:00"
 }

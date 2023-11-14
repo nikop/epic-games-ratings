@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 713)  
+Rating: 4.42 (Ranked 712)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,8 +27,8 @@ Rating: 4.42 (Ranked 713)
 | Bull and bear | 34.00% | ~737 |
 | Stoker | 33.00% | ~715 |
 | Full Steam ahead | 33.00% | ~715 |
+| All mine | 31.00% | ~672 |
 | Financial Shark | 31.00% | ~672 |
-| All mine | 30.00% | ~650 |
 | Mole | 30.00% | ~650 |
 | Socializer | 30.00% | ~650 |
 | General Manager | 28.00% | ~607 |

@@ -2,7 +2,7 @@
   "ID": "60125e6f56d14c0d903ab753625354d1",
   "Name": "Bugby",
   "ProductSlug": "bugby-c6bc9c",
-  "Ranking_EOS_Progress": 743,
+  "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-24T19:57:04.956413+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:57.8741793+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:02:00.1376389+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:07:57.641696+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:02:29.11351+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:06:40.3751834+00:00"
 }

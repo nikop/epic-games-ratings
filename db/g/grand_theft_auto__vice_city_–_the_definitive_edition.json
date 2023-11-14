@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 11015,
+  "EOS_Progressed": 11016,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12881,6 +12881,11 @@
       "Time": "2023-11-14T18:08:05.6949596+00:00",
       "NumProgressed": 11015,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-14T19:07:46.3376831+00:00",
+      "NumProgressed": 11016,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -12996,7 +13001,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4626
+      "UsersEstimate": 4627
     },
     {
       "ID": "ACH15",
@@ -13092,7 +13097,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH27",
@@ -13163,7 +13168,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11015,
+      "Progressed": 11016,
       "Completed": 65
     }
   ],
@@ -13171,8 +13176,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-14T13:04:58.5739562+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:08:05.6949592+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:07:46.3376824+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:01:49.3719703+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:08:05.6950286+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:00:30.7411529+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:07:46.3377541+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -315,7 +315,7 @@
   "Tags": [],
   "EOS_Progressed": 24480,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6740,9 +6740,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -7019,8 +7019,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:04:02.8059853+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:03:33.1100842+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.3548849+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:00:16.9649556+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:04:02.8060493+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:59:20.8336688+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:03:33.1101691+00:00"
 }

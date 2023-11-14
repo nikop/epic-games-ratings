@@ -1,7 +1,7 @@
 {
   "ID": "b39977dadbb24d79b62a9f716e5df28d",
   "Name": "Dragonfish",
-  "Ranking_EOS_Progress": 743,
+  "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:27.090626+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:01:26.3495127+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:04:45.786879+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:00:13.2117583+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:04:07.4805292+00:00"
 }

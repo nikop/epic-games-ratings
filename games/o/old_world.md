@@ -13,35 +13,36 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~613 |
 | Architect | 4.00% | ~613 |
 | Intrepid | 4.00% | ~613 |
-| Ambitious | 3.00% | ~459 |
-| Enlightened | 3.00% | ~459 |
-| Glorious | 3.00% | ~459 |
-| Good | 3.00% | ~459 |
-| Just | 3.00% | ~459 |
-| Keystone | 3.00% | ~459 |
-| Learned | 3.00% | ~459 |
-| Mason | 3.00% | ~459 |
-| Noble | 3.00% | ~459 |
-| Pioneer | 3.00% | ~459 |
-| Strong | 3.00% | ~459 |
-| Warrior | 3.00% | ~459 |
-| Developing Cities | 3.00% | ~459 |
-| Strong Cities | 3.00% | ~459 |
-| Hanging Gardens | 3.00% | ~459 |
-| Ishtar Gate | 3.00% | ~459 |
-| Oracle | 3.00% | ~459 |
-| Pyramids | 3.00% | ~459 |
-| Christianity | 3.00% | ~459 |
-| Judaism | 3.00% | ~459 |
-| Babylonian Paganism | 3.00% | ~459 |
-| Greek Paganism | 3.00% | ~459 |
-| Naming Landmarks | 3.00% | ~459 |
-| Trade Caravan | 3.00% | ~459 |
+| Ambitious | 3.00% | ~460 |
+| Enlightened | 3.00% | ~460 |
+| Glorious | 3.00% | ~460 |
+| Good | 3.00% | ~460 |
+| Just | 3.00% | ~460 |
+| Keystone | 3.00% | ~460 |
+| Learned | 3.00% | ~460 |
+| Mason | 3.00% | ~460 |
+| Noble | 3.00% | ~460 |
+| Pioneer | 3.00% | ~460 |
+| Strong | 3.00% | ~460 |
+| Warrior | 3.00% | ~460 |
+| Developing Cities | 3.00% | ~460 |
+| Strong Cities | 3.00% | ~460 |
+| Hanging Gardens | 3.00% | ~460 |
+| Ishtar Gate | 3.00% | ~460 |
+| Oracle | 3.00% | ~460 |
+| Pyramids | 3.00% | ~460 |
+| Christianity | 3.00% | ~460 |
+| Judaism | 3.00% | ~460 |
+| Babylonian Paganism | 3.00% | ~460 |
+| Greek Paganism | 3.00% | ~460 |
+| Naming Landmarks | 3.00% | ~460 |
+| Trade Caravan | 3.00% | ~460 |
 | Regicide | 2.00% | ~306 |
 | Drillmaster | 2.00% | ~306 |
 | Brilliant | 2.00% | ~306 |
 | Fountainhead | 2.00% | ~306 |
 | Great | 2.00% | ~306 |
+| Intercessor | 2.00% | ~306 |
 | Magnificent | 2.00% | ~306 |
 | Mighty | 2.00% | ~306 |
 | Valiant | 2.00% | ~306 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~153 |
 | Capable | 1.00% | ~153 |
 | Conqueror | 1.00% | ~153 |
-| Intercessor | 1.00% | ~153 |
 | Invincible | 1.00% | ~153 |
 | Lion | 1.00% | ~153 |
 | Subjugator | 1.00% | ~153 |
@@ -119,18 +119,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
 | One True Faith | 0.90% | ~138 |
+| Assyrian Paganism | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
 | Enlightenment | 0.90% | ~138 |
 | Revelation | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
+| Bad Heir Day | 0.80% | ~123 |
 | Devout | 0.80% | ~123 |
 | Clerics | 0.80% | ~123 |
 | Egypt | 0.80% | ~123 |
-| Assyrian Paganism | 0.80% | ~123 |
 | Turreted Elephant | 0.80% | ~123 |
 | Poetic Leader | 0.80% | ~123 |
-| Bad Heir Day | 0.70% | ~107 |
 | Noble Difficulty | 0.70% | ~107 |
 | Cao'an | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.40% | ~61 |
 | Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
+| Magnificent Difficulty | 0.40% | ~61 |
 | Run, Pheidippides, Run! | 0.40% | ~61 |
 | Assyria | 0.40% | ~61 |
 | Hatti | 0.40% | ~61 |
@@ -169,7 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
-| Magnificent Difficulty | 0.30% | ~46 |
+| Great Difficulty | 0.30% | ~46 |
 | The Eternal Treaty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
@@ -183,7 +184,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
 | Holy | 0.20% | ~31 |
-| Great Difficulty | 0.20% | ~31 |
 | Event Level High | 0.20% | ~31 |
 | Get the Hellas Out | 0.20% | ~31 |
 | The Turning Point | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,314 (Ranked 146)  
+Progressed: 15,318 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 5 (0.03%) (Ranked 314)
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
 | 2023-11-13 | 15,305 | 5 |
-| 2023-11-14 | 15,314 | 5 |
+| 2023-11-14 | 15,318 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 215)  

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,079 |
-| Off to a good start | 67.00% | ~812 |
-| Do... or do not. There is no try | 51.00% | ~618 |
-| A good blaster at your side | 31.00% | ~376 |
-| I suggest a new strategy | 20.00% | ~242 |
-| Scrap collector | 19.00% | ~230 |
-| All right, I'll give it a try | 17.00% | ~206 |
-| Great shot, kid! | 17.00% | ~206 |
+| New Recruit | 89.00% | ~1,081 |
+| Off to a good start | 67.00% | ~814 |
+| Do... or do not. There is no try | 51.00% | ~620 |
+| A good blaster at your side | 31.00% | ~377 |
+| I suggest a new strategy | 20.00% | ~243 |
+| Scrap collector | 19.00% | ~231 |
+| All right, I'll give it a try | 17.00% | ~207 |
+| Great shot, kid! | 17.00% | ~207 |
 | The power of the Force | 15.00% | ~182 |
 | Together we can rule the galaxy | 15.00% | ~182 |
 | Shoot first | 15.00% | ~182 |
 | Collector | 14.00% | ~170 |
-| Tell Jabba that I've got his money | 10.00% | ~121 |
-| Survivor | 10.00% | ~121 |
+| Tell Jabba that I've got his money | 10.00% | ~122 |
+| Best star-pilot in the galaxy | 10.00% | ~122 |
+| Survivor | 10.00% | ~122 |
 | Never tell me the odds! | 9.00% | ~109 |
-| Best star-pilot in the galaxy | 9.00% | ~109 |
 | What's the cargo? | 8.00% | ~97 |
 | A cunning warrior | 8.00% | ~97 |
 | Judge me by my size, do you? | 7.00% | ~85 |
 | "Gonk? Gonk!" | 6.00% | ~73 |
 | Distinguished | 6.00% | ~73 |
+| A tremor in the Force | 6.00% | ~73 |
 | Impressive. Most impressive. | 6.00% | ~73 |
 | Support the troops | 6.00% | ~73 |
-| A tremor in the Force | 5.00% | ~61 |
-| Safety ain't the point of a joyride | 4.00% | ~48 |
-| Not bad for a little furball | 4.00% | ~48 |
-| Patience you must have | 4.00% | ~48 |
-| Don't underestimate the Force | 4.00% | ~48 |
+| Safety ain't the point of a joyride | 4.00% | ~49 |
+| Not bad for a little furball | 4.00% | ~49 |
+| Patience you must have | 4.00% | ~49 |
+| Don't underestimate the Force | 4.00% | ~49 |
 | I've been waiting for you | 3.00% | ~36 |
 | When 900 years old you reach... | 3.00% | ~36 |
 | Determined | 3.00% | ~36 |
@@ -55,20 +55,20 @@
 | Onwards! | 1.00% | ~12 |
 | No such thing as luck | 0.90% | ~11 |
 | Do we take prisoners? | 0.90% | ~11 |
-| A New Hope | 0.70% | ~8 |
-| Walker defender | 0.70% | ~8 |
-| I’ll take that bet | 0.70% | ~8 |
+| A New Hope | 0.70% | ~9 |
+| Walker defender | 0.70% | ~9 |
+| I’ll take that bet | 0.70% | ~9 |
 | Stay on target | 0.40% | ~5 |
 | Don't get cocky | 0.40% | ~5 |
 | Greed can be a very powerful ally | 0.40% | ~5 |
+| That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
-| That got him! | 0.20% | ~2 |
 | Master | 0.20% | ~2 |
 | Stay in attack formation | 0.20% | ~2 |
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,212 (Ranked 243)  
+Progressed: 1,215 (Ranked 243)  
 Completed: 1 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 1 (0.08%) (Ranked 289)
 | 2023-11-11 | 1,176 | 1 |
 | 2023-11-12 | 1,196 | 1 |
 | 2023-11-13 | 1,206 | 1 |
-| 2023-11-14 | 1,212 | 1 |
+| 2023-11-14 | 1,215 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

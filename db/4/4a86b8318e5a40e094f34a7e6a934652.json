@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1086,9 +1086,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
@@ -1101,8 +1101,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-14T18:07:32.8234922+00:00",
+  "LastChanged_Achievements": "2023-11-14T19:06:20.8891037+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:05.3146397+00:00",
-  "LastUpdate_Ratings": "2023-11-14T18:02:49.4749733+00:00",
-  "LastUpdate_Achievements": "2023-11-14T18:07:32.8235714+00:00"
+  "LastUpdate_Ratings": "2023-11-14T19:02:43.1514549+00:00",
+  "LastUpdate_Achievements": "2023-11-14T19:06:20.8891186+00:00"
 }

@@ -7,17 +7,17 @@ Rating: 4.46 (Ranked 645)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,777 |
 | Confirming Suspicions | 41.00% | ~1,584 |
-| The Kraken Wakes | 37.00% | ~1,429 |
-| It's Starting to Crack | 34.00% | ~1,313 |
+| The Kraken Wakes | 37.00% | ~1,430 |
+| It's Starting to Crack | 34.00% | ~1,314 |
 | Change the Channel | 31.00% | ~1,198 |
 | Lord of War | 30.00% | ~1,159 |
-| Taking it back | 29.00% | ~1,120 |
+| Taking it back | 29.00% | ~1,121 |
 | Resourceful | 27.00% | ~1,043 |
 | Target America | 27.00% | ~1,043 |
 | The Kraken Sleeps | 25.00% | ~966 |
-| Liberté | 23.00% | ~888 |
-| Organ Grinder | 23.00% | ~888 |
-| As Quiet as a Mouse | 23.00% | ~888 |
+| Liberté | 23.00% | ~889 |
+| Organ Grinder | 23.00% | ~889 |
+| As Quiet as a Mouse | 23.00% | ~889 |
 | Sharpshooter | 22.00% | ~850 |
 | Gunslinger | 19.00% | ~734 |
 | Explosive Efficiency | 19.00% | ~734 |
@@ -26,9 +26,9 @@ Rating: 4.46 (Ranked 645)
 | Climbing the Ladder | 16.00% | ~618 |
 | Close Quarters | 16.00% | ~618 |
 | Snake in the Grass | 16.00% | ~618 |
-| Skirmisher | 15.00% | ~579 |
-| Die Nussknacker Sweet! | 15.00% | ~579 |
-| Brains of the Operation | 15.00% | ~579 |
+| Skirmisher | 15.00% | ~580 |
+| Die Nussknacker Sweet! | 15.00% | ~580 |
+| Brains of the Operation | 15.00% | ~580 |
 | No Stone Unturned | 14.00% | ~541 |
 | Opposing Force | 14.00% | ~541 |
 | Enemy at the Gates | 14.00% | ~541 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 645)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,863 (Ranked 192)  
+Progressed: 3,864 (Ranked 192)  
 Completed: 11 (0.28%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 11 (0.28%) (Ranked 236)
 | 2023-11-11 | 3,850 | 11 |
 | 2023-11-12 | 3,857 | 11 |
 | 2023-11-13 | 3,862 | 11 |
-| 2023-11-14 | 3,863 | 11 |
+| 2023-11-14 | 3,864 | 11 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 520)  
 Sum: 24 (Ranked 525)  
