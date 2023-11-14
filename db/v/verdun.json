@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1817,9 +1817,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 63459,
+  "EOS_Progressed": 63460,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24597,6 +24597,11 @@
       "Time": "2023-11-14T01:48:22.7275649+00:00",
       "NumProgressed": 63459,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-14T02:23:02.3164836+00:00",
+      "NumProgressed": 63460,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -24608,7 +24613,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 34902
+      "UsersEstimate": 34903
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -24840,7 +24845,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16499
+      "UsersEstimate": 16500
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -24896,7 +24901,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 39979
+      "UsersEstimate": 39980
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -24976,7 +24981,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 49498
+      "UsersEstimate": 49499
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -25079,15 +25084,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 63459,
+      "Progressed": 63460,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-12T14:57:20.6392865+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:48:22.7275645+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:23:02.3164832+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:37.3607719+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:40.2612084+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:48:22.7277097+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:40.6264039+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:23:02.316599+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "313f3719063340f886d90e70ae503cd4",
   "Name": "Stories Untold",
   "ProductSlug": "stories-untold",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2017-02-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -214,6 +214,6 @@
   "FirstSeen": "2022-07-22T20:24:00.2135471+00:00",
   "LastChanged": "2023-09-01T11:59:45.0257591+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:19.1085293+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:43:02.5454588+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:48:49.1887164+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:18:04.8564477+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:23:30.7072263+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-11-10T13:11:28.5451789+00:00",
       "NumProgressed": 918,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T02:27:48.3073637+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2465,7 +2470,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ClockworkProgress1",
@@ -2473,7 +2478,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ClovemaryGift",
@@ -2489,7 +2494,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "CosmeticProgress1",
@@ -2737,7 +2742,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "SkillCompletion1",
@@ -2785,7 +2790,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "TheaterChests1",
@@ -2839,16 +2844,16 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 6
     }
   ],
@@ -2856,8 +2861,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:52:53.4013414+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:27:48.3073632+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.3466186+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:41:55.843058+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:52:53.4013905+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:16:51.6897439+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:27:48.3074127+00:00"
 }

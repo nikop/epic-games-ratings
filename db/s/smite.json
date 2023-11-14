@@ -2,13 +2,13 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
     "PcReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -9826,11 +9826,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 26743,
       "NumberOfAwardsMax": 4575
+    },
+    {
+      "Time": "2023-11-14T02:17:02.8234012+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 26745,
+      "NumberOfAwardsMax": 4577
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26743,
-  "NumberOfAwardsMax": 4575,
+  "NumberOfAwards": 26745,
+  "NumberOfAwardsMax": 4577,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9843,7 +9849,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4575
+      "Count": 4577
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9905,8 +9911,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-11-13T20:57:55.3891122+00:00",
+  "LastChanged": "2023-11-14T02:17:02.823401+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.1345203+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:05.9388828+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:06:30.4733013+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:02.8234017+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:22:21.5800331+00:00"
 }

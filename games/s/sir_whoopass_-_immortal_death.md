@@ -23,15 +23,15 @@
 | Mushroom soup of the day | 50.00% | ~58 |
 | Cockadoodledoo! | 49.00% | ~57 |
 | Honk honk! | 48.00% | ~56 |
-| Butcher | 47.00% | ~55 |
+| Butcher | 48.00% | ~56 |
 | Spare Ribs | 47.00% | ~55 |
 | Thats disgusting! | 46.00% | ~54 |
 | Self assessed tax return | 43.00% | ~50 |
-| My pants squeak when I walk | 42.00% | ~49 |
+| My pants squeak when I walk | 43.00% | ~50 |
 | Surprise!! | 40.00% | ~47 |
 | Haemochromatosis | 39.00% | ~46 |
-| Make America Grate Again | 34.00% | ~40 |
-| Pasta Bolognese | 33.00% | ~39 |
+| Make America Grate Again | 35.00% | ~41 |
+| Pasta Bolognese | 34.00% | ~40 |
 | You are no match for me, Billy! | 32.00% | ~37 |
 | Catch the bus with me! | 32.00% | ~37 |
 | Karaoke king | 32.00% | ~37 |
@@ -56,9 +56,9 @@
 | Timber! | 10.00% | ~12 |
 | Free Of Chains | 10.00% | ~12 |
 | Spoiler alert! | 9.00% | ~11 |
+| I drink, but I'm not a drunk! | 9.00% | ~11 |
 | Grumpy Immortal | 9.00% | ~11 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~9 |
-| I drink, but I'm not a drunk! | 8.00% | ~9 |
 | Scrambled Eggs | 8.00% | ~9 |
 | I want to throw up! | 7.00% | ~8 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~8 |

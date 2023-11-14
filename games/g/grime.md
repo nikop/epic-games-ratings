@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.59 (Ranked 430)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,155 (Ranked 76)  
+Progressed: 158,157 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
 | 2023-11-13 | 158,135 | 1 |
-| 2023-11-14 | 158,155 | 1 |
+| 2023-11-14 | 158,157 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 363 (Ranked 349)  
@@ -396,3 +396,4 @@ Diff (max vs sum): 77
 | 2023-11-11 | 4.59 | - | 51 | 358 |
 | 2023-11-12 | 4.59 | - | 51 | 361 |
 | 2023-11-13 | 4.58 | - | 51 | 363 |
+| 2023-11-14 | 4.59 | - | 51 | 363 |

@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 689)  
+Rating: 4.43 (Ranked 688)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -68,9 +68,9 @@ Number of Ratings: 62  (23.09.2022)
 | Gramophone Enthusiast | 2.00% | ~97 |
 | Bling-Bling | 1.00% | ~48 |
 | Sniffing Around | 0.80% | ~39 |
+| Tools of War | 0.80% | ~39 |
 | Modus Operandi | 0.70% | ~34 |
 | Suited and Booted | 0.70% | ~34 |
-| Tools of War | 0.70% | ~34 |
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1416,9 +1416,9 @@
       "ID": "any_stat_5",
       "SetID": "69co12a",
       "Name": "Fitness professional",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 274
     },
     {
       "ID": "buy_trainer",
@@ -1848,9 +1848,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 270
     },
     {
       "ID": "work_promotion_2",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:49:06.9512492+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:23:49.9253458+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:34.4044983+00:00",
-  "LastUpdate_Ratings": "2023-11-14T00:00:15.5684639+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:49:06.9513007+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:16:26.9616008+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:23:49.925393+00:00"
 }

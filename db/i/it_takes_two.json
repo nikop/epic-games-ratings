@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21387,
+  "EOS_Progressed": 21388,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 2184,
+  "EOS_NewPlayers": 2182,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -6418,6 +6418,11 @@
       "Time": "2023-11-14T01:52:53.9556842+00:00",
       "NumProgressed": 21387,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-11-14T02:27:48.9582335+00:00",
+      "NumProgressed": 21388,
+      "NumCompleted": 90
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -6446,7 +6451,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "achievement_12",
@@ -6470,7 +6475,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "achievement_15",
@@ -6518,7 +6523,7 @@
       "Name": "Minigame Megalomania",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "achievement_20",
@@ -6526,7 +6531,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2567
     },
     {
       "ID": "achievement_3",
@@ -6534,7 +6539,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 18607
+      "UsersEstimate": 18608
     },
     {
       "ID": "achievement_4",
@@ -6558,7 +6563,7 @@
       "Name": "Faraway Frequencies",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "achievement_7",
@@ -6566,7 +6571,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 16682
+      "UsersEstimate": 16683
     },
     {
       "ID": "achievement_8",
@@ -6574,7 +6579,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9196
+      "UsersEstimate": 9197
     },
     {
       "ID": "achievement_9",
@@ -6582,20 +6587,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11121
+      "UsersEstimate": 11122
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 21387,
+      "Progressed": 21388,
       "Completed": 90
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:52:53.955684+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:27:48.958233+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.824403+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:41:37.6852623+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:52:53.9557293+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:16:31.636293+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:27:48.9582755+00:00"
 }

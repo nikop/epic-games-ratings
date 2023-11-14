@@ -6,32 +6,32 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,644 |
-| Leader | 61.00% | ~6,387 |
+| First Step | 73.00% | ~7,645 |
+| Leader | 61.00% | ~6,388 |
 | Explorer | 53.00% | ~5,550 |
 | Healer | 52.00% | ~5,445 |
-| Aspiring Inventor | 44.00% | ~4,607 |
+| Aspiring Inventor | 44.00% | ~4,608 |
 | Adventurer | 42.00% | ~4,398 |
 | Famous Healer | 38.00% | ~3,979 |
 | Local Leader | 35.00% | ~3,665 |
 | Famous Explorer | 34.00% | ~3,560 |
 | New Opportunities | 34.00% | ~3,560 |
-| Energized | 33.00% | ~3,455 |
-| The Long Haul | 33.00% | ~3,455 |
+| Energized | 33.00% | ~3,456 |
+| The Long Haul | 33.00% | ~3,456 |
 | The Great Healer | 31.00% | ~3,246 |
 | Survivor | 31.00% | ~3,246 |
 | Legendary Explorer | 28.00% | ~2,932 |
 | Cleaner | 28.00% | ~2,932 |
 | Catastrofan | 28.00% | ~2,932 |
-| Finders, Keepers | 26.00% | ~2,722 |
+| Finders, Keepers | 26.00% | ~2,723 |
 | Top Notch | 25.00% | ~2,618 |
-| Great Leader | 23.00% | ~2,408 |
-| Mentor | 23.00% | ~2,408 |
+| Great Leader | 23.00% | ~2,409 |
+| Mentor | 23.00% | ~2,409 |
 | Merchant | 22.00% | ~2,304 |
 | Ice Lakes | 22.00% | ~2,304 |
 | Real Survivor | 22.00% | ~2,304 |
 | Rocket Surgeon | 20.00% | ~2,094 |
-| War Never Changes | 19.00% | ~1,989 |
+| War Never Changes | 19.00% | ~1,990 |
 | Friendly | 17.00% | ~1,780 |
 | Big Game Hunter | 17.00% | ~1,780 |
 | Around the World | 17.00% | ~1,780 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~21 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,471 (Ranked 156)  
+Progressed: 10,472 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,11 +274,11 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 10,357 | 0 |
 | 2023-11-12 | 10,425 | 0 |
 | 2023-11-13 | 10,464 | 0 |
-| 2023-11-14 | 10,471 | 0 |
+| 2023-11-14 | 10,472 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 353)  
-Sum: 728 (Ranked 289)  
-Diff (max vs sum): 64  
+Sum: 728 (Ranked 290)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

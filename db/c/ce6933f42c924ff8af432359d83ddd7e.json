@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 704,
+  "EOS_Progressed": 705,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 4.26,
   "EosHistory": [
@@ -1634,6 +1634,11 @@
       "Time": "2023-11-14T01:53:13.9173713+00:00",
       "NumProgressed": 704,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T02:28:10.2960598+00:00",
+      "NumProgressed": 705,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1652,17 +1657,17 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 345
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 486
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1670,7 +1675,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1684,9 +1689,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 345
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1694,7 +1699,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1702,7 +1707,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1718,21 +1723,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 704,
+      "Progressed": 705,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:53:13.9173708+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:28:10.2960594+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:52.0005242+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:53:13.9173874+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:53.1557274+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:28:10.2960736+00:00"
 }

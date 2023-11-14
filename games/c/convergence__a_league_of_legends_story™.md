@@ -22,13 +22,13 @@ Rating: 4.62 (Ranked 366)
 | Immaculate Aim | 21.00% | ~193 |
 | The Betrayer | 20.00% | ~184 |
 | Honest Mistake | 20.00% | ~184 |
-| Like Clockwork | 19.00% | ~174 |
-| Golem Chaser | 19.00% | ~174 |
-| Check Your Pulse | 19.00% | ~174 |
-| The Family Fortune | 19.00% | ~174 |
+| Like Clockwork | 19.00% | ~175 |
+| Golem Chaser | 19.00% | ~175 |
+| Check Your Pulse | 19.00% | ~175 |
 | Right On Time | 18.00% | ~165 |
 | The Man Who Shattered Time | 18.00% | ~165 |
 | The Loose Cannon | 18.00% | ~165 |
+| The Family Fortune | 18.00% | ~165 |
 | Street Style | 17.00% | ~156 |
 | Treasure Trove | 15.00% | ~138 |
 | Whiz Kid | 15.00% | ~138 |
@@ -44,8 +44,8 @@ Rating: 4.62 (Ranked 366)
 | Theater Explorer | 10.00% | ~92 |
 | Cultivair Explorer | 9.00% | ~83 |
 | Entresol Explorer | 9.00% | ~83 |
-| Corin Goes Home | 8.00% | ~73 |
-| Sartorialist | 8.00% | ~73 |
+| Corin Goes Home | 8.00% | ~74 |
+| Sartorialist | 8.00% | ~74 |
 | Golem Hunter | 7.00% | ~64 |
 | Clovemary for Remembering | 6.00% | ~55 |
 | Rungs Was Right | 6.00% | ~55 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 366)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 918 (Ranked 262)  
+Progressed: 919 (Ranked 262)  
 Completed: 6 (0.65%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 6 (0.65%) (Ranked 179)
 | 2023-11-04 | 916 | 6 |
 | 2023-11-05 | 917 | 6 |
 | 2023-11-10 | 918 | 6 |
+| 2023-11-14 | 919 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

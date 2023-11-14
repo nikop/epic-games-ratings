@@ -52,7 +52,7 @@
 | Ambition is... blind | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 504)  
+Progressed: 36 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,3 +75,4 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-10-30 | 33 | 0 |
 | 2023-11-01 | 34 | 0 |
 | 2023-11-11 | 35 | 0 |
+| 2023-11-14 | 36 | 0 |

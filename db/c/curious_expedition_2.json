@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -614,9 +614,9 @@
       "ID": "ach-kill-sandworm",
       "SetID": "17ih7ma",
       "Name": "Shortening of the Way",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-learn-traits",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:54:05.3134316+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:28:44.0517982+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:53.914827+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:54:05.3134807+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:55.2613672+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:28:44.0518346+00:00"
 }

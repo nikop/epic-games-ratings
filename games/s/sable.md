@@ -7,7 +7,7 @@ Number of Ratings: 43  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~33,654 |
-| Just The Two of Us | 32.00% | ~31,674 |
+| Just The Two of Us | 32.00% | ~31,675 |
 | Up On High | 25.00% | ~24,746 |
 | Under The Hood | 25.00% | ~24,746 |
 | Got Your Nose | 24.00% | ~23,756 |
@@ -21,8 +21,8 @@ Number of Ratings: 43  (23.09.2022)
 | Sticky Paws | 16.00% | ~15,837 |
 | Bubble Up | 16.00% | ~15,837 |
 | Thread The Needle | 15.00% | ~14,847 |
-| Power to the People | 14.00% | ~13,857 |
-| Nesting Giant | 14.00% | ~13,857 |
+| Power to the People | 14.00% | ~13,858 |
+| Nesting Giant | 14.00% | ~13,858 |
 | Take That! | 13.00% | ~12,868 |
 | Treasure Tracker | 13.00% | ~12,868 |
 | Big Spender | 13.00% | ~12,868 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,969 |
 | Vivacious Vivarium | 2.00% | ~1,980 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,982 (Ranked 87)  
+Progressed: 98,983 (Ranked 87)  
 Completed: 1,000 (1.01%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 1,000 (1.01%) (Ranked 159)
 | 2023-11-11 | 98,615 | 995 |
 | 2023-11-12 | 98,819 | 998 |
 | 2023-11-13 | 98,971 | 1,000 |
-| 2023-11-14 | 98,982 | 1,000 |
+| 2023-11-14 | 98,983 | 1,000 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 517)  
 Sum: 91 (Ranked 447)  

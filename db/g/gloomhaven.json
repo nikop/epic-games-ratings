@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2423,9 +2423,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20514,
+  "EOS_Progressed": 20517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9178,6 +9178,11 @@
       "Time": "2023-11-14T01:50:06.3434111+00:00",
       "NumProgressed": 20514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T02:24:53.1784035+00:00",
+      "NumProgressed": 20517,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9206,7 +9211,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "Achievement_Trophy04",
@@ -9230,7 +9235,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "Achievement_Trophy07",
@@ -9286,7 +9291,7 @@
       "Name": "Down the hatch",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "Achievement_Trophy14",
@@ -9294,7 +9299,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "Achievement_Trophy15",
@@ -9358,7 +9363,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "Achievement_Trophy23",
@@ -9374,7 +9379,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8616
+      "UsersEstimate": 8617
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9390,7 +9395,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6975
+      "UsersEstimate": 6976
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9406,7 +9411,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9422,7 +9427,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6154
+      "UsersEstimate": 6155
     },
     {
       "ID": "Achievement_Trophy31",
@@ -9430,7 +9435,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6564
+      "UsersEstimate": 6565
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9478,7 +9483,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9486,7 +9491,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "Achievement_Trophy39",
@@ -9550,7 +9555,7 @@
       "Name": "Grin and bear it",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "Achievement_Trophy47",
@@ -9574,7 +9579,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3077
+      "UsersEstimate": 3078
     },
     {
       "ID": "Achievement_Trophy50",
@@ -9677,7 +9682,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20514,
+      "Progressed": 20517,
       "Completed": 1
     }
   ],
@@ -9685,8 +9690,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-12T20:58:12.1935919+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:50:06.3434106+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:24:53.1784031+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:43:29.2328156+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:50:06.3435343+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:18:34.3299194+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:24:53.1784879+00:00"
 }

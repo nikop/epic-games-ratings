@@ -6,31 +6,31 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 84.00% | ~213 |
 | Thalya – Simply Immortal | 84.00% | ~213 |
-| For the Horde! | 77.00% | ~195 |
+| For the Horde! | 77.00% | ~196 |
 | Hammer Time, Round Two | 75.00% | ~190 |
 | The Hellwoods | 69.00% | ~175 |
-| Thalya's Concentrated Fury | 63.00% | ~159 |
+| Thalya's Concentrated Fury | 63.00% | ~160 |
 | Experienced Thalya | 62.00% | ~157 |
-| The Plains of Strothalm | 61.00% | ~154 |
-| Master of Magic | 58.00% | ~147 |
+| The Plains of Strothalm | 61.00% | ~155 |
+| Master of Magic | 57.00% | ~145 |
 | Bad Elves Go Everywhere | 56.00% | ~142 |
-| Unicorn steaks – fresh off the hoof! | 53.00% | ~134 |
-| Magic Accidents | 51.00% | ~129 |
+| Unicorn steaks – fresh off the hoof! | 53.00% | ~135 |
+| Magic Accidents | 50.00% | ~127 |
 | Trap Master | 49.00% | ~124 |
-| Minions, Minions! | 48.00% | ~121 |
-| Heroes’ Gorge | 48.00% | ~121 |
+| Minions, Minions! | 48.00% | ~122 |
+| Heroes’ Gorge | 48.00% | ~122 |
 | YOU SHALL NOT PASS! | 36.00% | ~91 |
 | The Ascent | 34.00% | ~86 |
 | It's Warm and Cozy at Home | 34.00% | ~86 |
-| Hard Work | 30.00% | ~76 |
+| Hard Work | 31.00% | ~79 |
 | Pure Dynamite! | 30.00% | ~76 |
 | Mana Cannon | 28.00% | ~71 |
 | The Big Eaty | 26.00% | ~66 |
 | “… like son” | 19.00% | ~48 |
-| Dungeonlord Gorgu | 16.00% | ~40 |
+| Dungeonlord Gorgu | 16.00% | ~41 |
 | Shame! Shame! Shame! | 15.00% | ~38 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~35 |
-| The Cathedral of Light | 14.00% | ~35 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~36 |
+| The Cathedral of Light | 14.00% | ~36 |
 | Hungry, Hungry Gorgu! | 11.00% | ~28 |
 | Tanos' Crusade Against Thalya | 10.00% | ~25 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~23 |
@@ -66,8 +66,8 @@
 | Heal Heal Blessing | 0.40% | ~1 |
 | I Don't Need Any Help | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 355)  
-Completed: 1 (0.40%) (Ranked 211)  
+Progressed: 254 (Ranked 355)  
+Completed: 1 (0.39%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,4 +76,4 @@ Completed: 1 (0.40%) (Ranked 211)
 | 2023-11-11 | 205 | 0 |
 | 2023-11-12 | 236 | 1 |
 | 2023-11-13 | 250 | 1 |
-| 2023-11-14 | 253 | 1 |
+| 2023-11-14 | 254 | 1 |

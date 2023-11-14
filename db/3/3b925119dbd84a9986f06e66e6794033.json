@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "TIME_ORWELL",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:53:11.9647004+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:28:08.2373118+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:43:49.5227626+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:53:11.964714+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:18:56.6173363+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:28:08.237331+00:00"
 }

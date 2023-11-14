@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235490,
+  "EOS_Progressed": 235491,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22157,6 +22157,11 @@
       "Time": "2023-11-14T01:50:00.271514+00:00",
       "NumProgressed": 235490,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-14T02:24:46.3667254+00:00",
+      "NumProgressed": 235491,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22360,7 +22365,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11775
     },
     {
       "ID": "RESPWND",
@@ -22439,15 +22444,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235490,
+      "Progressed": 235491,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:50:00.2715136+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:24:46.3667249+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:45.180583+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:50:00.2716294+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:45.8487953+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:24:46.3668659+00:00"
 }

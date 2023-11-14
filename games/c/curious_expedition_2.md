@@ -27,8 +27,8 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 21.00% | ~71 |
 | Red Flag Pirate | 19.00% | ~64 |
 | Iron Man | 17.00% | ~58 |
+| Shortening of the Way | 17.00% | ~58 |
 | A Gentle Beast | 17.00% | ~58 |
-| Shortening of the Way | 16.00% | ~54 |
 | Practical Palaeontology | 16.00% | ~54 |
 | Adventurer | 15.00% | ~51 |
 | For the Club! | 15.00% | ~51 |

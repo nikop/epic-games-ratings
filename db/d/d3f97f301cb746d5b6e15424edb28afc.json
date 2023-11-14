@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1564,17 +1564,17 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -1668,9 +1668,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 496
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -1716,9 +1716,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 123
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -2012,9 +2012,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -2140,9 +2140,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 362
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -2299,8 +2299,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:50:41.8573504+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:25:31.8415345+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:43:33.425215+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:50:41.8574448+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:18:38.7741167+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:25:31.8416119+00:00"
 }

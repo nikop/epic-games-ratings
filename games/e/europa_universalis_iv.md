@@ -110,6 +110,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Jerusalem | 0.10% | ~455 |
 | Kingdom of God | 0.10% | ~455 |
 | Kow-Tow | 0.10% | ~455 |
+| Krabater | 0.10% | ~455 |
 | Laughingstock | 0.10% | ~455 |
 | Lazarus | 0.10% | ~455 |
 | Lessons of Hemmingstedt | 0.10% | ~455 |
@@ -282,7 +283,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
-| Krabater | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Land of Eastern Jade | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,103 (Ranked 41)  
+Progressed: 455,110 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,103 | 1 |
+| 2023-11-14 | 455,110 | 1 |
 ## Awards
 Max (Educational): 6,981  (Ranked 54)  
 Sum: 57,438 (Ranked 24)  

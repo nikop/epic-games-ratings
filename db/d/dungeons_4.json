@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -404,6 +404,11 @@
       "Time": "2023-11-14T01:48:58.0715993+00:00",
       "NumProgressed": 253,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T02:23:40.4806873+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -432,7 +437,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_main02horde_completed",
@@ -448,7 +453,7 @@
       "Name": "For the Horde!",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ach_main02horde_traps",
@@ -470,17 +475,17 @@
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_main04undead_completed",
@@ -488,7 +493,7 @@
       "Name": "The Plains of Strothalm",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ach_main04undead_minions",
@@ -496,7 +501,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -528,7 +533,7 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -536,7 +541,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -558,9 +563,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_main07storm_completed",
@@ -608,7 +613,7 @@
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_main09journey_completed",
@@ -624,7 +629,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -640,7 +645,7 @@
       "Name": "The Cathedral of Light",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_main10fire_freehorde",
@@ -903,14 +908,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:48:58.071599+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:23:40.4806869+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:43:41.8902908+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:48:58.0716405+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:18:48.2485587+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:23:40.4807287+00:00"
 }

@@ -131,7 +131,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8136,
+  "EOS_Progressed": 8137,
   "EOS_Completed": 126,
   "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 19,
@@ -3271,6 +3271,11 @@
       "Time": "2023-11-14T01:50:23.5213376+00:00",
       "NumProgressed": 8136,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-11-14T02:25:12.0253462+00:00",
+      "NumProgressed": 8137,
+      "NumCompleted": 126
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -3283,7 +3288,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -3291,7 +3296,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 7160
+      "UsersEstimate": 7161
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -3323,7 +3328,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -3371,7 +3376,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -3379,7 +3384,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -3427,7 +3432,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2766
+      "UsersEstimate": 2767
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -3467,7 +3472,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -3547,7 +3552,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3010
+      "UsersEstimate": 3011
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -3595,7 +3600,7 @@
       "Name": "Drama King",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -3618,7 +3623,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 8136,
+      "Progressed": 8137,
       "Completed": 126
     }
   ],
@@ -3626,8 +3631,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-12T14:00:10.4470311+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:50:23.5213372+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:25:12.0253459+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:07.5168381+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:41:54.8443456+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:50:23.5213772+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:16:50.5612375+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:25:12.0253816+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 58.00% | ~113 |
-| Press-ganged | 42.00% | ~81 |
+| Press-ganged | 43.00% | ~83 |
 | The Package | 27.00% | ~52 |
 | Conquered | 19.00% | ~37 |
 | Randomized | 18.00% | ~35 |

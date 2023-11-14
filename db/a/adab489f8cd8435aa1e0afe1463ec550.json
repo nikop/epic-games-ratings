@@ -2,10 +2,10 @@
   "ID": "adab489f8cd8435aa1e0afe1463ec550",
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "22",
       "SetID": "6hl9l7f",
       "Name": "Trashmaster",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "23",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:48:46.5472101+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:23:27.9950905+00:00",
   "LastUpdate_AppInfo": "2023-11-12T14:56:54.3017105+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:43:05.2281448+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:48:46.5472403+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:18:07.7200112+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:23:27.9951126+00:00"
 }

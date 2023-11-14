@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -2489,9 +2489,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2552,8 +2552,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:52:27.194956+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:26:10.0491535+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.3644935+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:41.3943116+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:52:27.194979+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:42.026436+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:26:10.0491742+00:00"
 }

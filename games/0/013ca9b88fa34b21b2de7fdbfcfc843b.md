@@ -5,31 +5,31 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,584 |
-| A Thorny Situation | 71.00% | ~5,507 |
-| ... And Spit Back Out | 61.00% | ~4,731 |
-| Break-Net Speed | 49.00% | ~3,800 |
-| Bramble Breaker | 47.00% | ~3,645 |
-| Miner 49er | 43.00% | ~3,335 |
-| Humble Collector | 42.00% | ~3,258 |
-| Calm Sailing | 37.00% | ~2,870 |
-| Open the Gate! | 34.00% | ~2,637 |
-| Mist Walker | 32.00% | ~2,482 |
-| Lumberjack | 27.00% | ~2,094 |
-| Oui, Chef! | 23.00% | ~1,784 |
+| Azoria Beckons | 72.00% | ~5,587 |
+| A Thorny Situation | 71.00% | ~5,510 |
+| ... And Spit Back Out | 61.00% | ~4,734 |
+| Break-Net Speed | 49.00% | ~3,802 |
+| Bramble Breaker | 47.00% | ~3,647 |
+| Miner 49er | 43.00% | ~3,337 |
+| Humble Collector | 42.00% | ~3,259 |
+| Calm Sailing | 37.00% | ~2,871 |
+| Open the Gate! | 34.00% | ~2,638 |
+| Mist Walker | 32.00% | ~2,483 |
+| Lumberjack | 27.00% | ~2,095 |
+| Oui, Chef! | 23.00% | ~1,785 |
 | Clear the Air | 19.00% | ~1,474 |
 | Botanical Breakthrough | 17.00% | ~1,319 |
 | Search for the Hairy Grell | 14.00% | ~1,086 |
 | Beach Comber | 14.00% | ~1,086 |
 | Higher Tax Bracket | 14.00% | ~1,086 |
 | Skilled | 9.00% | ~698 |
-| Flaming Hot Completos | 8.00% | ~620 |
-| Got to Catch Them All | 8.00% | ~620 |
-| Rumble in the Jumble | 8.00% | ~620 |
-| Fanatical Farmer | 8.00% | ~620 |
+| Flaming Hot Completos | 8.00% | ~621 |
+| Got to Catch Them All | 8.00% | ~621 |
+| Rumble in the Jumble | 8.00% | ~621 |
+| Fanatical Farmer | 8.00% | ~621 |
 | Fae Farmer | 7.00% | ~543 |
-| Scattered Scroll Scrounger | 6.00% | ~465 |
-| Azorian Anniversary | 6.00% | ~465 |
+| Scattered Scroll Scrounger | 6.00% | ~466 |
+| Azorian Anniversary | 6.00% | ~466 |
 | I Now Pronounce You... | 5.00% | ~388 |
 | Chatty Neighbor | 4.00% | ~310 |
 | House Proud | 4.00% | ~310 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 410)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,756 (Ranked 170)  
+Progressed: 7,760 (Ranked 170)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-11 | 7,700 | 1 |
 | 2023-11-12 | 7,736 | 1 |
 | 2023-11-13 | 7,755 | 1 |
-| 2023-11-14 | 7,756 | 1 |
+| 2023-11-14 | 7,760 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

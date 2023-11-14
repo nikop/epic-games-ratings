@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4849,
+  "EOS_Progressed": 4850,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9205,6 +9205,11 @@
       "Time": "2023-11-13T21:10:18.2357858+00:00",
       "NumProgressed": 4849,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-14T02:22:22.7716277+00:00",
+      "NumProgressed": 4850,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9249,7 +9254,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9273,7 +9278,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9313,7 +9318,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9321,7 +9326,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -9377,7 +9382,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9400,15 +9405,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4849,
+      "Progressed": 4850,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:09:30.1059058+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:22:22.7716274+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:50.3646794+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:09:30.1059816+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:51.4661681+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:22:22.7717016+00:00"
 }

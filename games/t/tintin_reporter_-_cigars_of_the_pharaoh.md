@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 100.00% | ~2 |
+| A Loyal Friend | 50.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |
 | Mysterious Bungalow | 0.00% | ~0 |
@@ -15,7 +16,6 @@
 | Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
-| A Loyal Friend | 0.00% | ~0 |
 | The Corporal's Golden Boy | 0.00% | ~0 |
 | Eyes Shut | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |

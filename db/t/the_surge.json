@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -3718,9 +3718,9 @@
       "ID": "ID_ACHIEV_63",
       "SetID": "98bke8c",
       "Name": "Tools of War",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ID_ACHIEV_64",
@@ -3774,8 +3774,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:50:30.9684808+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:25:20.1004208+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:29.1986368+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:42:11.6311842+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:50:30.9685434+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:17:08.9704722+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:25:20.1004781+00:00"
 }

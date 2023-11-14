@@ -2652,9 +2652,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 246
     },
     {
       "ID": "_07_FinishAct3",
@@ -2829,8 +2829,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-14T00:09:29.904118+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:22:22.5658811+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.1384885+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:44:48.2801789+00:00",
-  "LastUpdate_Achievements": "2023-11-14T00:09:29.9041738+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:20:01.245461+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:22:22.5660139+00:00"
 }

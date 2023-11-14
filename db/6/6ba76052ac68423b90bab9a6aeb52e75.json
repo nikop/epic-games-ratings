@@ -4,8 +4,8 @@
   "ProductSlug": "dead-signal-02ba3f",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-20T16:00:00+00:00",
     "PcReleaseDate": "2023-10-20T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-22T18:00:44.1275637+00:00",
   "LastUpdate_AppInfo": "2023-11-12T20:56:55.0368486+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:44:50.3114819+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:50:37.390193+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:20:03.505029+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:25:27.1692924+00:00"
 }

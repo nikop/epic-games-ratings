@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1391,6 +1391,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 363,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-14T02:19:10.3787497+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 363,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
@@ -1453,9 +1459,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158155,
+  "EOS_Progressed": 158157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15553,6 +15559,11 @@
       "Time": "2023-11-14T01:49:07.3123846+00:00",
       "NumProgressed": 158155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T02:23:50.3571964+00:00",
+      "NumProgressed": 158157,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15931,21 +15942,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157738,
+      "Progressed": 157740,
       "Completed": 1201
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158155,
+      "Progressed": 158157,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-13T18:00:16.0469446+00:00",
-  "LastChanged_Achievements": "2023-11-14T01:49:07.3123842+00:00",
+  "LastChanged": "2023-11-14T02:19:10.3787495+00:00",
+  "LastChanged_Achievements": "2023-11-14T02:23:50.3571959+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-14T01:44:02.1121175+00:00",
-  "LastUpdate_Achievements": "2023-11-14T01:49:07.3124738+00:00"
+  "LastUpdate_Ratings": "2023-11-14T02:19:10.3787502+00:00",
+  "LastUpdate_Achievements": "2023-11-14T02:23:50.3572928+00:00"
 }
