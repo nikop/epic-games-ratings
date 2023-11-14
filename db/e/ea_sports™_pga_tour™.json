@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1857,9 +1857,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_14",
@@ -1975,8 +1975,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:09:18.2356782+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:09:31.6899017+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:59:03.4133471+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:09:18.2356972+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:59:12.509778+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:09:31.6899281+00:00"
 }

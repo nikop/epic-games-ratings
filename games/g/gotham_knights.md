@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,966 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,741 |
-| Loose Ends | 34.00% | ~25,977 |
-| To the Victor Go the Spoils | 28.00% | ~21,393 |
-| Knighthood | 27.00% | ~20,629 |
-| Get ReQ'd | 25.00% | ~19,101 |
-| Whispered Words | 25.00% | ~19,101 |
+| First Step Into the Knight | 51.00% | ~38,967 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,742 |
+| Loose Ends | 34.00% | ~25,978 |
+| To the Victor Go the Spoils | 28.00% | ~21,394 |
+| Knighthood | 27.00% | ~20,630 |
+| Get ReQ'd | 25.00% | ~19,102 |
+| Whispered Words | 25.00% | ~19,102 |
 | The Batman Family | 23.00% | ~17,573 |
 | Lock and Key | 22.00% | ~16,809 |
 | Something in the Clay | 21.00% | ~16,045 |
@@ -23,21 +23,21 @@ Rating: 4.18 (Ranked 925)
 | The Show Mud Go On | 18.00% | ~13,753 |
 | From Inside Gotham's Walls | 18.00% | ~13,753 |
 | Protector of Gotham | 17.00% | ~12,989 |
-| Universal Health Scare | 16.00% | ~12,224 |
-| In Your Element | 15.00% | ~11,460 |
-| Voiceless | 15.00% | ~11,460 |
-| Rock and a Hard Place | 14.00% | ~10,696 |
-| Cooldown | 14.00% | ~10,696 |
-| Seeking Asylum | 14.00% | ~10,696 |
-| Not On My Watch | 13.00% | ~9,932 |
-| Shock Til They Drop | 13.00% | ~9,932 |
-| End of an Era | 12.00% | ~9,168 |
-| Bulldozed | 12.00% | ~9,168 |
-| Gotham Knight | 12.00% | ~9,168 |
-| Gotham City Confidential | 11.00% | ~8,404 |
-| Drone You Out | 10.00% | ~7,640 |
-| Out of Their League | 9.00% | ~6,876 |
-| Solid Alibi | 9.00% | ~6,876 |
+| Universal Health Scare | 16.00% | ~12,225 |
+| In Your Element | 15.00% | ~11,461 |
+| Voiceless | 15.00% | ~11,461 |
+| Rock and a Hard Place | 14.00% | ~10,697 |
+| Cooldown | 14.00% | ~10,697 |
+| Seeking Asylum | 14.00% | ~10,697 |
+| Not On My Watch | 13.00% | ~9,933 |
+| Shock Til They Drop | 13.00% | ~9,933 |
+| End of an Era | 12.00% | ~9,169 |
+| Bulldozed | 12.00% | ~9,169 |
+| Gotham Knight | 12.00% | ~9,169 |
+| Gotham City Confidential | 11.00% | ~8,405 |
+| Drone You Out | 10.00% | ~7,641 |
+| Out of Their League | 9.00% | ~6,877 |
+| Solid Alibi | 9.00% | ~6,877 |
 | Fusion Expert | 7.00% | ~5,348 |
 | Expert Crime Fighter | 6.00% | ~4,584 |
 | Family Meeting | 6.00% | ~4,584 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,403 (Ranked 97)  
+Progressed: 76,406 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 123 (0.16%) (Ranked 259)
 | 2023-11-11 | 76,302 | 123 |
 | 2023-11-12 | 76,353 | 123 |
 | 2023-11-13 | 76,394 | 123 |
-| 2023-11-14 | 76,403 | 123 |
+| 2023-11-14 | 76,406 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,935  (Ranked 98)  
 Sum: 4,981 (Ranked 137)  

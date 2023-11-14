@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,118 (Ranked 41)  
+Progressed: 455,130 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,10 +578,10 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,118 | 1 |
+| 2023-11-14 | 455,130 | 1 |
 ## Awards
 Max (Educational): 6,981  (Ranked 54)  
-Sum: 57,453 (Ranked 24)  
+Sum: 57,462 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -592,7 +592,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,587 |
 | This game is Relaxing | 6,421 |
 | This game has Competitive Players | 6,264 |
-| This game has Amazing Storytelling | 5,801 |
+| This game has Amazing Storytelling | 5,810 |
 | This game has Amazing Characters | 5,386 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -899,4 +899,4 @@ Diff (max vs sum): 30
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
-| 2023-11-14 | 4.69 | - | 6,981 | 57,453 |
+| 2023-11-14 | 4.69 | - | 6,981 | 57,462 |

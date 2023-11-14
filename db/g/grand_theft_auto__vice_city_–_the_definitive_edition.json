@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -835,7 +835,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 11011,
+  "EOS_Progressed": 11012,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
@@ -12855,6 +12855,11 @@
       "Time": "2023-11-14T00:06:12.5641414+00:00",
       "NumProgressed": 11011,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-14T04:07:38.9571194+00:00",
+      "NumProgressed": 11012,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13026,7 +13031,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5065
+      "UsersEstimate": 5066
     },
     {
       "ID": "ACH22",
@@ -13034,7 +13039,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "ACH23",
@@ -13137,7 +13142,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11011,
+      "Progressed": 11012,
       "Completed": 65
     }
   ],
@@ -13145,8 +13150,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-09T19:58:38.2755624+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:07:52.222128+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:07:38.9571189+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:01:25.8321427+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:07:52.2221946+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:01:08.6888497+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:07:38.9572218+00:00"
 }

@@ -7,8 +7,8 @@
 | Feels Familiar | 76.00% | ~520 |
 | I Broke It | 73.00% | ~499 |
 | Better On Ice | 70.00% | ~479 |
+| Blue Dreams | 69.00% | ~472 |
 | Notai Notes | 69.00% | ~472 |
-| Blue Dreams | 68.00% | ~465 |
 | He's Famous! | 68.00% | ~465 |
 | Krugmazing | 67.00% | ~458 |
 | Cutie Poro | 67.00% | ~458 |
@@ -24,7 +24,7 @@
 | A Tragic Reminder | 44.00% | ~301 |
 | 3000 Year Blackout | 43.00% | ~294 |
 | The Finisher | 42.00% | ~287 |
-| True Legends | 40.00% | ~274 |
+| True Legends | 41.00% | ~280 |
 | So Close | 39.00% | ~267 |
 | You Get Used To It | 39.00% | ~267 |
 | Family | 36.00% | ~246 |

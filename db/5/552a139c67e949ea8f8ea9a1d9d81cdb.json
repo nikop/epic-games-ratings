@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1046,
+  "EOS_Progressed": 1047,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -2082,6 +2082,11 @@
       "Time": "2023-11-13T21:05:12.2693187+00:00",
       "NumProgressed": 1046,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T04:05:19.9776019+00:00",
+      "NumProgressed": 1047,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2094,7 +2099,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2142,7 +2147,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2358,7 +2363,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2437,20 +2442,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1046,
+      "Progressed": 1047,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 714,
-      "Completed": 714
+      "Progressed": 715,
+      "Completed": 715
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:05:07.9201378+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:05:19.9776015+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:01:31.1472911+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:05:07.9201776+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:01:13.1239558+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:05:19.9776526+00:00"
 }

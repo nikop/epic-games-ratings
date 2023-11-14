@@ -4,7 +4,7 @@
   "ProductSlug": "arcadia-078924",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-22T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T13:01:23.4196101+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:01:22.2254611+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:06:26.1559393+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:01:05.755593+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:06:26.2079121+00:00"
 }

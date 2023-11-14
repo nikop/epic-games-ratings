@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2982,6 +2982,11 @@
       "Time": "2023-11-13T21:05:11.7973273+00:00",
       "NumProgressed": 678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T04:05:19.5237676+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3169,7 +3174,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "Packing20",
@@ -3257,7 +3262,7 @@
       "Name": "Italian Style",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "UnlockAssiette",
@@ -3312,7 +3317,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 0
     }
   ],
@@ -3320,8 +3325,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:05:07.3746056+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:05:19.523767+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:51.4511106+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:02:49.4175261+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:05:07.374646+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:03:23.4964407+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:05:19.5238195+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6947,
+  "EOS_Progressed": 6949,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12609,6 +12609,11 @@
       "Time": "2023-11-14T01:52:49.3682768+00:00",
       "NumProgressed": 6947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T04:09:06.1557858+00:00",
+      "NumProgressed": 6949,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12620,7 +12625,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "10",
@@ -12676,7 +12681,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "3",
@@ -12739,7 +12744,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6947,
+      "Progressed": 6949,
       "Completed": 0
     }
   ],
@@ -12747,8 +12752,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:08:48.4577742+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:09:06.1557845+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:07.1544722+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:59:45.2723846+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:08:48.457833+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:59:46.5034351+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:09:06.1558798+00:00"
 }

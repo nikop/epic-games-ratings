@@ -1459,9 +1459,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158167,
+  "EOS_Progressed": 158170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1173,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15569,6 +15569,11 @@
       "Time": "2023-11-14T03:05:23.8115459+00:00",
       "NumProgressed": 158167,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T04:05:33.4944882+00:00",
+      "NumProgressed": 158170,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15642,9 +15647,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6327
+      "UsersEstimate": 7908
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15876,7 +15881,7 @@
       "Name": "Dream",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "QUEST_CODA",
@@ -15947,21 +15952,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157750,
+      "Progressed": 157753,
       "Completed": 1201
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158167,
+      "Progressed": 158170,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-14T02:19:10.3787495+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:05:23.8115455+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:05:33.4944877+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:00:50.7066061+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:05:23.8116299+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:00:40.0900085+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:05:33.4946062+00:00"
 }

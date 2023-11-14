@@ -5392,9 +5392,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 713789,
+  "EOS_Progressed": 713790,
   "EOS_Completed": 6481,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -27812,6 +27812,11 @@
       "Time": "2023-11-14T03:09:25.3410498+00:00",
       "NumProgressed": 713789,
       "NumCompleted": 6481
+    },
+    {
+      "Time": "2023-11-14T04:09:37.920652+00:00",
+      "NumProgressed": 713790,
+      "NumCompleted": 6481
     }
   ],
   "TotalAchievements": 49,
@@ -27871,7 +27876,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 228412
+      "UsersEstimate": 228413
     },
     {
       "ID": "AchClearAnyRun",
@@ -27879,7 +27884,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 371170
+      "UsersEstimate": 371171
     },
     {
       "ID": "AchClearAsphodel",
@@ -27887,7 +27892,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 563893
+      "UsersEstimate": 563894
     },
     {
       "ID": "AchClearElysium",
@@ -27927,7 +27932,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 635272
+      "UsersEstimate": 635273
     },
     {
       "ID": "AchCrushedThanatos",
@@ -27935,7 +27940,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 321205
+      "UsersEstimate": 321206
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -28031,7 +28036,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 178447
+      "UsersEstimate": 178448
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -28047,7 +28052,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 442549
+      "UsersEstimate": 442550
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -28119,7 +28124,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 164171
+      "UsersEstimate": 164172
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -28135,7 +28140,7 @@
       "Name": "The Family Secret",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 178447
+      "UsersEstimate": 178448
     },
     {
       "ID": "AchReachedEpilogue",
@@ -28159,7 +28164,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 99930
+      "UsersEstimate": 99931
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -28175,7 +28180,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 299791
+      "UsersEstimate": 299792
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -28183,7 +28188,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 499652
+      "UsersEstimate": 499653
     },
     {
       "ID": "AchWeaponClears",
@@ -28191,7 +28196,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 164171
+      "UsersEstimate": 164172
     },
     {
       "ID": "AchWellShopItems",
@@ -28214,15 +28219,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 713789,
+      "Progressed": 713790,
       "Completed": 6481
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-11-13T15:57:17.4464806+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:09:25.3410492+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:09:37.9206499+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:07.9323253+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:57:43.7261143+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:09:25.3411728+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:58:07.053276+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:09:37.9208379+00:00"
 }

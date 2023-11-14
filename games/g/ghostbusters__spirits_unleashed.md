@@ -9,11 +9,11 @@ Rating: 4.50 (Ranked 588)
 | Advancement | 6.00% | ~1,857 |
 | Meticulously Efficient | 6.00% | ~1,857 |
 | Discovery | 5.00% | ~1,548 |
+| Swift Rift Removers | 5.00% | ~1,548 |
 | Clutch Capture | 4.00% | ~1,238 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,238 |
 | Fully Upgraded | 4.00% | ~1,238 |
 | Solo Capture | 4.00% | ~1,238 |
-| Swift Rift Removers | 4.00% | ~1,238 |
 | Teamwork | 4.00% | ~1,238 |
 | There you are! | 4.00% | ~1,238 |
 | Vaporous Expansion | 4.00% | ~1,238 |

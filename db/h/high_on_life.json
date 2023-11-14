@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -6836,9 +6836,9 @@
       "ID": "ACH_KILL_SLUMSLEY",
       "SetID": "cdkbb11",
       "Name": "Fallout Doesn\u0027t Let You Do This",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -7019,8 +7019,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:03:48.0187086+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:04:11.5009892+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.3548849+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:59:52.7913557+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:03:48.0187595+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:59:52.7293162+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:04:11.5010689+00:00"
 }

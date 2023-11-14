@@ -105,8 +105,8 @@
 | Master and Commander | 16.00% | ~199 |
 | Electronics Specialist | 15.00% | ~187 |
 | Throw Mastery | 15.00% | ~187 |
+| Mail Slot | 14.00% | ~174 |
 | Long Service Medal | 14.00% | ~174 |
-| Mail Slot | 13.00% | ~162 |
 | Combined Arms | 12.00% | ~149 |
 | Bruiser | 11.00% | ~137 |
 | Warp Mastery | 11.00% | ~137 |

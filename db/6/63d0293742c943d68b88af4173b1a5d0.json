@@ -411,9 +411,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_010",
@@ -530,8 +530,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:07:05.1962696+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:06:59.1233766+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-14T03:01:49.1134395+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:07:05.196283+00:00"
+  "LastUpdate_Ratings": "2023-11-14T04:01:27.6830843+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:06:59.1234008+00:00"
 }

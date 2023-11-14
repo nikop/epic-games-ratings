@@ -6,10 +6,10 @@ Rating: 4.46 (Ranked 646)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,777 |
-| Confirming Suspicions | 41.00% | ~1,583 |
+| Confirming Suspicions | 41.00% | ~1,584 |
 | The Kraken Wakes | 37.00% | ~1,429 |
 | It's Starting to Crack | 34.00% | ~1,313 |
-| Change the Channel | 31.00% | ~1,197 |
+| Change the Channel | 31.00% | ~1,198 |
 | Lord of War | 30.00% | ~1,159 |
 | Taking it back | 29.00% | ~1,120 |
 | Resourceful | 27.00% | ~1,043 |
@@ -47,8 +47,8 @@ Rating: 4.46 (Ranked 646)
 | Last Resort | 5.00% | ~191 |
 | Siegebreaker | 5.00% | ~191 |
 | Ghost of Falaise | 5.00% | ~191 |
-| Strategist | 4.00% | ~154 |
-| Locomotion Commotion | 4.00% | ~154 |
+| Strategist | 4.00% | ~155 |
+| Locomotion Commotion | 4.00% | ~155 |
 | From Paris with Love | 3.00% | ~116 |
 | Burn after reading | 3.00% | ~116 |
 | Souvenir hunter | 3.00% | ~116 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 646)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,862 (Ranked 192)  
+Progressed: 3,863 (Ranked 192)  
 Completed: 11 (0.28%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,6 +283,7 @@ Completed: 11 (0.28%) (Ranked 236)
 | 2023-11-11 | 3,850 | 11 |
 | 2023-11-12 | 3,857 | 11 |
 | 2023-11-13 | 3,862 | 11 |
+| 2023-11-14 | 3,863 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 527)  
 Sum: 23 (Ranked 529)  

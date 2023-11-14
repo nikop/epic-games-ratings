@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -550,6 +550,11 @@
       "Time": "2023-11-14T02:23:38.295799+00:00",
       "NumProgressed": 314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T04:05:20.6454128+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -600,9 +605,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "BreakTheLoop",
@@ -618,7 +623,7 @@
       "Name": "Bridge Builder",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ChasingTheLight",
@@ -682,15 +687,15 @@
       "Name": "Excellent",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 32
     },
     {
       "ID": "GnothiSeauton",
@@ -714,15 +719,15 @@
       "Name": "Grasslands Ring",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "HighPlain",
       "SetID": "1n308hc",
       "Name": "High Plain",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "IntoTheMachine",
@@ -746,23 +751,23 @@
       "Name": "Lord of the Files",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 32
     },
     {
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "Mnemosyne",
@@ -776,9 +781,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 54
     },
     {
       "ID": "MuseumVisitor",
@@ -792,9 +797,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "NewMorality",
@@ -824,9 +829,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "PrometheusUnbound",
@@ -850,7 +855,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "RenaissanceRobot",
@@ -992,9 +997,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "Wanderers",
@@ -1008,9 +1013,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "WoodedPlateau",
@@ -1033,7 +1038,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 1
     }
   ],
@@ -1041,8 +1046,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:05:08.6370778+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:05:20.6454117+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:58:45.9267596+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:05:08.637127+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:58:58.1490843+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:05:20.6454744+00:00"
 }

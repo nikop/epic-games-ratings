@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3862,
+  "EOS_Progressed": 3863,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7877,6 +7877,11 @@
       "Time": "2023-11-13T18:04:14.4266031+00:00",
       "NumProgressed": 3862,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-14T04:05:01.4942422+00:00",
+      "NumProgressed": 3863,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7960,7 +7965,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -8056,7 +8061,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8216,7 +8221,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -8224,7 +8229,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8455,13 +8460,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3813,
+      "Progressed": 3814,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3862,
+      "Progressed": 3863,
       "Completed": 11
     }
   ],
@@ -8469,8 +8474,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-14T03:04:46.7512233+00:00",
+  "LastChanged_Achievements": "2023-11-14T04:05:01.4942417+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-14T02:58:01.0358683+00:00",
-  "LastUpdate_Achievements": "2023-11-14T03:04:46.7513016+00:00"
+  "LastUpdate_Ratings": "2023-11-14T03:58:21.2066747+00:00",
+  "LastUpdate_Achievements": "2023-11-14T04:05:01.494359+00:00"
 }
