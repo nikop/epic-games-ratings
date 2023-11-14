@@ -2,13 +2,13 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -467,6 +467,12 @@
     {
       "Time": "2023-11-14T05:59:12.643924+00:00",
       "Rating": 4.21,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2023-11-14T11:58:15.6252721+00:00",
+      "Rating": 4.22,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 151
     }
@@ -2551,9 +2557,9 @@
       "ID": "TLOTF_ACHIEVEMENT_030",
       "SetID": "87e61g",
       "Name": "Burying the Past",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_031",
@@ -2791,9 +2797,9 @@
       "ID": "TLOTF_ACHIEVEMENT_060",
       "SetID": "87e61g",
       "Name": "The Past Shapes the Present",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -2831,9 +2837,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-14T05:59:12.6439238+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:05:31.8977089+00:00",
+  "LastChanged": "2023-11-14T11:58:15.6252718+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:05:40.3296018+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.5758609+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:58:17.8286192+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:05:31.8977544+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:58:15.6252726+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:05:40.3296584+00:00"
 }

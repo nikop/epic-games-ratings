@@ -15146,9 +15146,9 @@
       "Count": 12936
     }
   ],
-  "EOS_Progressed": 896642,
+  "EOS_Progressed": 896645,
   "EOS_Completed": 2777,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38711,6 +38711,11 @@
       "Time": "2023-11-14T11:05:08.9060448+00:00",
       "NumProgressed": 896642,
       "NumCompleted": 2777
+    },
+    {
+      "Time": "2023-11-14T12:05:16.6358352+00:00",
+      "NumProgressed": 896645,
+      "NumCompleted": 2777
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38747,7 +38752,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "Denied",
@@ -38945,9 +38950,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4483
     },
     {
       "ID": "TheHightPriestess",
@@ -39019,7 +39024,7 @@
       "Name": "True Soldier",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "TrueWarrior",
@@ -39258,21 +39263,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896642,
+      "Progressed": 896645,
       "Completed": 2777
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25265,
+      "Progressed": 25268,
       "Completed": 10222
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-14T10:59:33.1867186+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:05:08.9060445+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:05:16.6358349+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:59:33.1867194+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:05:08.9061755+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:59:34.3768713+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:05:16.6359654+00:00"
 }

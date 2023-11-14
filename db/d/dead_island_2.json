@@ -6495,7 +6495,7 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718237,
+  "EOS_Progressed": 718262,
   "EOS_Completed": 2390,
   "EOS_NewPlayers": 3877,
   "EOS_NewCompleters": 38,
@@ -30245,6 +30245,11 @@
       "Time": "2023-11-14T11:04:08.1930562+00:00",
       "NumProgressed": 718237,
       "NumCompleted": 2390
+    },
+    {
+      "Time": "2023-11-14T12:04:13.6456019+00:00",
+      "NumProgressed": 718262,
+      "NumCompleted": 2390
     }
   ],
   "TotalAchievements": 51,
@@ -30288,7 +30293,7 @@
       "Name": "Make it So",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ach_big_name_in_town",
@@ -30296,7 +30301,7 @@
       "Name": "LA Influential",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ach_blueprinted",
@@ -30344,7 +30349,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "ach_doom_buddies",
@@ -30368,7 +30373,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "ach_finisher",
@@ -30384,7 +30389,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "ach_good_eyesight",
@@ -30440,7 +30445,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -30480,7 +30485,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ach_metropolitan",
@@ -30488,7 +30493,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30520,7 +30525,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ach_skilled_up",
@@ -30576,7 +30581,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -30663,13 +30668,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718237,
+      "Progressed": 718262,
       "Completed": 2390
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43779,
+      "Progressed": 43804,
       "Completed": 36540
     }
   ],
@@ -30677,8 +30682,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-14T06:57:22.1835881+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:04:08.1930559+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:04:13.6456017+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:11.9275984+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:04:08.1931894+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:57:07.3212331+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:04:13.6457163+00:00"
 }

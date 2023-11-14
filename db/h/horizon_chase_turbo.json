@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2018-05-15T15:00:00+00:00",
@@ -2851,9 +2851,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 1074300,
+  "EOS_Progressed": 1074310,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 2810,
+  "EOS_NewPlayers": 2811,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26556,6 +26556,11 @@
       "Time": "2023-11-14T11:08:37.2573942+00:00",
       "NumProgressed": 1074300,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-11-14T12:08:38.2806478+00:00",
+      "NumProgressed": 1074310,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 37,
@@ -26567,7 +26572,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 365262
+      "UsersEstimate": 365265
     },
     {
       "ID": "CompleteAustralia",
@@ -26591,7 +26596,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 75201
+      "UsersEstimate": 75202
     },
     {
       "ID": "CompleteChile",
@@ -26759,7 +26764,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118173
+      "UsersEstimate": 118174
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -26767,7 +26772,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 966870
+      "UsersEstimate": 966879
     },
     {
       "ID": "GetLotsOfScore",
@@ -26799,7 +26804,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 504921
+      "UsersEstimate": 504926
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -26807,7 +26812,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193374
+      "UsersEstimate": 193376
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -26831,7 +26836,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 676809
+      "UsersEstimate": 676815
     },
     {
       "ID": "WinBySmallDifference",
@@ -26839,7 +26844,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193374
+      "UsersEstimate": 193376
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -26855,22 +26860,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53715
+      "UsersEstimate": 53716
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1074300,
+      "Progressed": 1074310,
       "Completed": 484
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-13T04:02:37.5835585+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:08:37.2573939+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:08:38.2806473+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.6159115+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:25.7993019+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:08:37.2575537+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:57:21.9478454+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:08:38.2807981+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 71  (23.09.2022)
 | Screwdriver | 44.00% | ~726 |
 | Cutepie | 41.00% | ~677 |
 | Someone was here | 41.00% | ~677 |
-| Ghost Hunters | 40.00% | ~660 |
+| Ghost Hunters | 41.00% | ~677 |
 | Alone | 39.00% | ~644 |
 | Pack Rat | 39.00% | ~644 |
 | All together, again | 34.00% | ~561 |

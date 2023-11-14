@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1454,7 +1454,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130788,
+  "EOS_Progressed": 130789,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
@@ -21874,6 +21874,11 @@
       "Time": "2023-11-14T11:04:27.0962564+00:00",
       "NumProgressed": 130788,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-14T12:04:33.0241091+00:00",
+      "NumProgressed": 130789,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21997,7 +22002,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27465
+      "UsersEstimate": 27466
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22013,7 +22018,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17002
+      "UsersEstimate": 17003
     },
     {
       "ID": "ACH_COP_STAR",
@@ -22204,15 +22209,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130788,
+      "Progressed": 130789,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-13T17:59:18.2204176+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:04:27.0962562+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:04:33.0241088+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:58:49.2833603+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:04:27.0963838+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:58:48.9197241+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:04:33.0242595+00:00"
 }

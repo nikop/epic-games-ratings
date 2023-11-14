@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12063,9 +12063,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455275,
+  "EOS_Progressed": 455319,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6219,
+  "EOS_NewPlayers": 6243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35858,6 +35858,11 @@
       "Time": "2023-11-14T11:03:19.2531686+00:00",
       "NumProgressed": 455275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T12:03:22.2508634+00:00",
+      "NumProgressed": 455319,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36523,9 +36528,9 @@
       "ID": "achievement_double_the_love",
       "SetID": "67mdiil",
       "Name": "Double the Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -36595,9 +36600,9 @@
       "ID": "achievement_emperors_new_clothes",
       "SetID": "8p2n7he",
       "Name": "The Emperors new clothes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -37019,9 +37024,9 @@
       "ID": "achievement_in_the_name_of_the_father",
       "SetID": "8p2n7he",
       "Name": "In the Name of the Father",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_industrial_evolution",
@@ -37075,9 +37080,9 @@
       "ID": "achievement_its_all_about_luck",
       "SetID": "8p2n7he",
       "Name": "It\u0027s all about luck",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -37675,9 +37680,9 @@
       "ID": "achievement_populists_in_government",
       "SetID": "8p2n7he",
       "Name": "Populists in Government",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_prester_john",
@@ -38291,9 +38296,9 @@
       "ID": "achievement_the_princess_is_in_this_castle",
       "SetID": "8p2n7he",
       "Name": "The Princess is in this Castle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -38459,9 +38464,9 @@
       "ID": "achievement_true_catholic",
       "SetID": "8p2n7he",
       "Name": "True Catholic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -38772,21 +38777,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455275,
+      "Progressed": 455319,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455275,
+      "Progressed": 455319,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-14T09:57:28.5758681+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:03:19.2531684+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:03:22.2508631+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:01.6944249+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:03:19.2542286+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:56:56.6260759+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:03:22.2519635+00:00"
 }

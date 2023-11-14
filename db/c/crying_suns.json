@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470830,
+  "EOS_Progressed": 470833,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
@@ -22383,6 +22383,11 @@
       "Time": "2023-11-14T10:10:43.2895525+00:00",
       "NumProgressed": 470830,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-14T12:09:06.590593+00:00",
+      "NumProgressed": 470833,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22394,7 +22399,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70624
+      "UsersEstimate": 70625
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -22402,7 +22407,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70624
+      "UsersEstimate": 70625
     },
     {
       "ID": "achievement_first_death",
@@ -22410,7 +22415,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112999
+      "UsersEstimate": 113000
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22426,7 +22431,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70624
+      "UsersEstimate": 70625
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -22442,7 +22447,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37666
+      "UsersEstimate": 37667
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -22482,7 +22487,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310748
+      "UsersEstimate": 310750
     },
     {
       "ID": "achievement_story_landa",
@@ -22506,7 +22511,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37666
+      "UsersEstimate": 37667
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -22546,7 +22551,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51791
+      "UsersEstimate": 51792
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -22554,7 +22559,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37666
+      "UsersEstimate": 37667
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -22562,7 +22567,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70624
+      "UsersEstimate": 70625
     },
     {
       "ID": "achievement_story_neon_child",
@@ -22570,7 +22575,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94166
+      "UsersEstimate": 94167
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22578,7 +22583,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160082
+      "UsersEstimate": 160083
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22586,7 +22591,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37666
+      "UsersEstimate": 37667
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -22818,7 +22823,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207165
+      "UsersEstimate": 207167
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22826,7 +22831,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141249
+      "UsersEstimate": 141250
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -22842,7 +22847,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51791
+      "UsersEstimate": 51792
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -22850,7 +22855,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183624
+      "UsersEstimate": 183625
     },
     {
       "ID": "achievement_win_run_hard",
@@ -22898,7 +22903,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37666
+      "UsersEstimate": 37667
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -23025,21 +23030,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14764,
+      "Progressed": 14767,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470830,
+      "Progressed": 470833,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:09:04.655242+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:09:06.5905927+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:35.5024438+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:09:04.6553789+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:57:31.9091676+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:09:06.5907625+00:00"
 }

@@ -21,11 +21,11 @@ Rating: 4.54 (Ranked 523)
 | Apex Predator | 0.70% | ~5,028 |
 | Stacking the Deck | 0.70% | ~5,028 |
 | Personal Assistant Personally Assisted | 0.70% | ~5,028 |
-| But Doctor, I am Butcho | 0.60% | ~4,309 |
-| Can't Handle the Truth | 0.60% | ~4,309 |
-| Like Riding a Bike | 0.60% | ~4,309 |
-| A Patton Emerges | 0.60% | ~4,309 |
-| This is My Weapon | 0.60% | ~4,309 |
+| But Doctor, I am Butcho | 0.60% | ~4,310 |
+| Can't Handle the Truth | 0.60% | ~4,310 |
+| Like Riding a Bike | 0.60% | ~4,310 |
+| A Patton Emerges | 0.60% | ~4,310 |
+| This is My Weapon | 0.60% | ~4,310 |
 | Perks of the Job | 0.50% | ~3,591 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,591 |
 | Slayer Squad | 0.50% | ~3,591 |
@@ -46,18 +46,18 @@ Rating: 4.54 (Ranked 523)
 | Variety is the Spice of Death | 0.30% | ~2,155 |
 | Rising Star | 0.30% | ~2,155 |
 | Top That, Tisha! | 0.30% | ~131 |
-| Make it So | 0.20% | ~1,436 |
-| LA Influential | 0.20% | ~1,436 |
-| Sole Survivor | 0.20% | ~1,436 |
-| Gore Horse | 0.20% | ~1,436 |
-| Sharpest Tool in the Box | 0.20% | ~1,436 |
+| Make it So | 0.20% | ~1,437 |
+| LA Influential | 0.20% | ~1,437 |
+| Sole Survivor | 0.20% | ~1,437 |
+| Gore Horse | 0.20% | ~1,437 |
+| Sharpest Tool in the Box | 0.20% | ~1,437 |
 | Donk! | 0.10% | ~718 |
 | Survival Skills | 0.10% | ~718 |
 | Bucket List | 0.10% | ~718 |
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,237 (Ranked 20)  
+Progressed: 718,262 (Ranked 20)  
 Completed: 2,390 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 2,390 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,237 | 2,390 |
+| 2023-11-14 | 718,262 | 2,390 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,274 (Ranked 85)  

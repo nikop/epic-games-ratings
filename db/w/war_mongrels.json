@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1957,6 +1957,11 @@
       "Time": "2023-11-14T05:08:47.3710008+00:00",
       "NumProgressed": 591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T12:08:37.669223+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2072,7 +2077,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_COLL_20",
@@ -2088,7 +2093,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2102,9 +2107,9 @@
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2144,7 +2149,7 @@
       "Name": "Collectibles of Chapter VII",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -2208,7 +2213,7 @@
       "Name": "The Motivation",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2240,7 +2245,7 @@
       "Name": "The Horror",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2248,7 +2253,7 @@
       "Name": "The Difference",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2262,9 +2267,9 @@
       "ID": "ACH_FIN_CH10",
       "SetID": "1j25agn",
       "Name": "Broken Hopes",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -2334,9 +2339,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2368,7 +2373,7 @@
       "Name": "It Will Rain",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_OFFICER",
@@ -2392,7 +2397,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2432,22 +2437,22 @@
       "Name": "Not Spill a Drop",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:08:36.6449856+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:08:37.6692227+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:03:26.1567412+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:08:36.6450325+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:56:55.1625676+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:08:37.66928+00:00"
 }

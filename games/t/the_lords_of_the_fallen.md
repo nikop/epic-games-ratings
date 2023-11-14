@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.21 (Ranked 902)  
+Rating: 4.22 (Ranked 897)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,12 +10,13 @@ Rating: 4.21 (Ranked 902)
 | No Mercy | 0.60% | ~10 |
 | Thriving in Darkness | 0.60% | ~10 |
 | Comrades | 0.50% | ~8 |
+| The Past Shapes the Present | 0.50% | ~8 |
 | Shared Triumph | 0.40% | ~6 |
 | Shades of Violence | 0.40% | ~6 |
-| The Past Shapes the Present | 0.40% | ~6 |
 | Vengeance for the Fallen | 0.30% | ~5 |
 | Rise and Fall | 0.30% | ~5 |
 | Together in Death | 0.30% | ~5 |
+| Burying the Past | 0.30% | ~5 |
 | A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
@@ -37,7 +38,6 @@ Rating: 4.21 (Ranked 902)
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |
-| Burying the Past | 0.10% | ~2 |
 | Unwanted | 0.10% | ~2 |
 | Unbroken to the End | 0.10% | ~2 |
 | Wings of Grief | 0.10% | ~2 |
@@ -136,4 +136,4 @@ Diff (max vs sum): -61
 | 2023-11-10 | 4.21 | 145 | 250 |
 | 2023-11-11 | 4.21 | 148 | 255 |
 | 2023-11-12 | 4.21 | 149 | 258 |
-| 2023-11-14 | 4.21 | 151 | 262 |
+| 2023-11-14 | 4.22 | 151 | 262 |

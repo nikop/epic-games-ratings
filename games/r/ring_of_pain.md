@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.30% | ~719 |
 | A Quick Escape | 0.30% | ~719 |
 | Uncharted Territory | 0.30% | ~719 |
+| An Offering | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~3 |
 | What Doesn't Kill You | 0.30% | ~3 |
 | Ambitious Intent | 0.20% | ~479 |
@@ -46,7 +47,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.20% | ~479 |
 | Flesh Wound | 0.20% | ~479 |
 | Shapeshifting | 0.20% | ~479 |
-| An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~240 |
 | Achievement Hunter | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,674 (Ranked 61)  
+Progressed: 239,676 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 288 (0.12%) (Ranked 270)
 | 2023-11-11 | 239,548 | 288 |
 | 2023-11-12 | 239,608 | 288 |
 | 2023-11-13 | 239,662 | 288 |
-| 2023-11-14 | 239,674 | 288 |
+| 2023-11-14 | 239,676 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
 Sum: 11,674 (Ranked 83)  

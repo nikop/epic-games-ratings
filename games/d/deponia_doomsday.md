@@ -7,30 +7,30 @@ Rating: 4.55 (Ranked 504)
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~405 |
 | And again, and again, and... | 64.00% | ~298 |
-| Kuvaq Minigame-Master | 62.00% | ~288 |
-| Burn, Elysium, burn! | 62.00% | ~288 |
+| Burn, Elysium, burn! | 62.00% | ~289 |
+| Kuvaq Minigame-Master | 61.00% | ~284 |
 | FunScore | 55.00% | ~256 |
-| Funtime's over | 53.00% | ~246 |
-| Chunky | 50.00% | ~232 |
+| Funtime's over | 53.00% | ~247 |
+| Chunky | 50.00% | ~233 |
 | Boat of love, boat of love | 49.00% | ~228 |
-| Shall we play a game? | 48.00% | ~223 |
+| Shall we play a game? | 48.00% | ~224 |
 | School's out | 44.00% | ~205 |
 | Elysian Minigame-Master | 38.00% | ~177 |
 | Scaffolding Expert | 37.00% | ~172 |
-| Sole Music | 36.00% | ~167 |
+| Sole Music | 36.00% | ~168 |
 | No man left behind! | 30.00% | ~140 |
 | Portals come in packs | 30.00% | ~140 |
 | Photo Friend | 26.00% | ~121 |
 | Brainfreeze | 21.00% | ~98 |
 | And everything comes full circle. | 20.00% | ~93 |
-| Masseltov | 19.00% | ~88 |
-| Quickdraw | 16.00% | ~74 |
+| Masseltov | 19.00% | ~89 |
+| Quickdraw | 16.00% | ~75 |
 | Thuna...? | 14.00% | ~65 |
 | Monstrous Harassment | 14.00% | ~65 |
 | Heading the inverter | 14.00% | ~65 |
 | Blast from the Past | 12.00% | ~56 |
 | Play it again, Ronny | 11.00% | ~51 |
-| Paradox! | 10.00% | ~46 |
+| Paradox! | 10.00% | ~47 |
 | Weapons 101 | 9.00% | ~42 |
 | Goat Team | 9.00% | ~42 |
 | Sadist | 7.00% | ~33 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 504)
 | Distraction | 5.00% | ~23 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 307)  
+Progressed: 466 (Ranked 307)  
 Completed: 6 (1.29%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 6 (1.29%) (Ranked 148)
 | 2023-11-11 | 460 | 6 |
 | 2023-11-12 | 462 | 6 |
 | 2023-11-13 | 464 | 6 |
-| 2023-11-14 | 465 | 6 |
+| 2023-11-14 | 466 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

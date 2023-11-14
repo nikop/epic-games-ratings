@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -620,6 +620,11 @@
       "Time": "2023-11-14T00:06:06.3693109+00:00",
       "NumProgressed": 465,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T12:05:59.1525644+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -639,7 +644,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "dep4_achievement_11",
@@ -655,7 +660,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "dep4_achievement_13",
@@ -663,7 +668,7 @@
       "Name": "Quickdraw",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "dep4_achievement_14",
@@ -671,7 +676,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "dep4_achievement_15",
@@ -703,7 +708,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "dep4_achievement_19",
@@ -789,9 +794,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 284
     },
     {
       "ID": "dep4_achievement_29",
@@ -807,7 +812,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "dep4_achievement_30",
@@ -855,7 +860,7 @@
       "Name": "Paradox!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "dep4_achievement_36",
@@ -871,7 +876,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "dep4_achievement_5",
@@ -918,7 +923,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 6
     }
   ],
@@ -926,8 +931,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:05:50.1422554+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:05:59.1525641+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.983403+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:58:59.0394307+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:05:50.1422794+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:58:59.0417888+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:05:59.1525851+00:00"
 }

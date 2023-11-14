@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 84.00% | ~215 |
-| Thalya – Simply Immortal | 84.00% | ~215 |
+| The Last Stand | 85.00% | ~218 |
+| Thalya – Simply Immortal | 85.00% | ~218 |
 | For the Horde! | 78.00% | ~200 |
 | Hammer Time, Round Two | 76.00% | ~195 |
 | The Hellwoods | 69.00% | ~177 |
-| Thalya's Concentrated Fury | 63.00% | ~161 |
+| Thalya's Concentrated Fury | 64.00% | ~164 |
 | Experienced Thalya | 62.00% | ~159 |
-| The Plains of Strothalm | 61.00% | ~156 |
-| Master of Magic | 57.00% | ~146 |
-| Bad Elves Go Everywhere | 56.00% | ~143 |
+| The Plains of Strothalm | 61.00% | ~157 |
+| Master of Magic | 58.00% | ~149 |
+| Bad Elves Go Everywhere | 56.00% | ~144 |
 | Unicorn steaks – fresh off the hoof! | 53.00% | ~136 |
 | Magic Accidents | 51.00% | ~131 |
-| Trap Master | 49.00% | ~125 |
+| Trap Master | 49.00% | ~126 |
+| Heroes’ Gorge | 49.00% | ~126 |
 | Minions, Minions! | 48.00% | ~123 |
-| Heroes’ Gorge | 48.00% | ~123 |
-| YOU SHALL NOT PASS! | 36.00% | ~92 |
+| YOU SHALL NOT PASS! | 36.00% | ~93 |
 | The Ascent | 35.00% | ~90 |
 | It's Warm and Cozy at Home | 35.00% | ~90 |
 | Hard Work | 32.00% | ~82 |
 | Pure Dynamite! | 32.00% | ~82 |
-| Mana Cannon | 29.00% | ~74 |
-| The Big Eaty | 27.00% | ~69 |
-| “… like son” | 20.00% | ~51 |
+| Mana Cannon | 29.00% | ~75 |
+| The Big Eaty | 28.00% | ~72 |
+| “… like son” | 19.00% | ~49 |
 | Dungeonlord Gorgu | 16.00% | ~41 |
 | Shame! Shame! Shame! | 16.00% | ~41 |
-| The Cathedral of Light | 15.00% | ~38 |
+| The Cathedral of Light | 15.00% | ~39 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~36 |
 | Hungry, Hungry Gorgu! | 12.00% | ~31 |
 | Tanos' Crusade Against Thalya | 11.00% | ~28 |
@@ -39,7 +39,7 @@
 | Ghost Pirates? Ghost Heroes! | 9.00% | ~23 |
 | Master of the Undead | 9.00% | ~23 |
 | All’s Well That Ends Evil | 9.00% | ~23 |
-| The Duel | 8.00% | ~20 |
+| The Duel | 8.00% | ~21 |
 | Stop Tanos! | 7.00% | ~18 |
 | If Looks Could Kill | 7.00% | ~18 |
 | The Finitude Drill | 5.00% | ~13 |
@@ -66,7 +66,7 @@
 | Heal Heal Blessing | 0.40% | ~1 |
 | I Don't Need Any Help | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256 (Ranked 355)  
+Progressed: 257 (Ranked 355)  
 Completed: 1 (0.39%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 1 (0.39%) (Ranked 211)
 | 2023-11-11 | 205 | 0 |
 | 2023-11-12 | 236 | 1 |
 | 2023-11-13 | 250 | 1 |
-| 2023-11-14 | 256 | 1 |
+| 2023-11-14 | 257 | 1 |

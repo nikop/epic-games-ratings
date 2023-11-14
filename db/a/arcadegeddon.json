@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9612,
+  "EOS_Progressed": 9613,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11490,6 +11490,11 @@
       "Time": "2023-11-14T09:03:28.5861425+00:00",
       "NumProgressed": 9612,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T12:03:11.3048964+00:00",
+      "NumProgressed": 9613,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11501,7 +11506,7 @@
       "Name": "Adventure Time",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7401
+      "UsersEstimate": 7402
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11557,7 +11562,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3557
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -11565,7 +11570,7 @@
       "Name": "Get Furious",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -11589,7 +11594,7 @@
       "Name": "Ground Control",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_GUARDIAN_ANGEL",
@@ -11597,7 +11602,7 @@
       "Name": "Guardian Angel",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -11605,7 +11610,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -11613,7 +11618,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -11621,7 +11626,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -11693,7 +11698,7 @@
       "Name": "No Chill",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_PHOTOGENIC",
@@ -11701,7 +11706,7 @@
       "Name": "Photogenic",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -11709,7 +11714,7 @@
       "Name": "Playing With Power",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 7113
+      "UsersEstimate": 7114
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -11717,7 +11722,7 @@
       "Name": "Plug It In",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7786
+      "UsersEstimate": 7787
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -11781,7 +11786,7 @@
       "Name": "Start Your Collection",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_STOP_HITTING_YOURSELF",
@@ -11805,7 +11810,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7786
+      "UsersEstimate": 7787
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -11821,7 +11826,7 @@
       "Name": "Team Player",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_THE_COLLECTOR",
@@ -11869,7 +11874,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -11900,15 +11905,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9612,
+      "Progressed": 9613,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:03:08.5849376+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:03:11.3048962+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:16.5376264+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:13.7889484+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:03:08.5850264+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:57:09.3038922+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:03:11.3049766+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 7.00% | ~1,047 |
+| Oyedang, Kopengs | 8.00% | ~1,196 |
 | The Pit and the Pirates | 4.00% | ~598 |
 | Bosmang | 4.00% | ~598 |
 | Zen Master | 4.00% | ~36 |

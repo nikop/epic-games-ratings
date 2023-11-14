@@ -1,23 +1,23 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.12 (Ranked 955)  
+Rating: 4.12 (Ranked 956)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,144 |
-| World Map | 79.00% | ~1,821 |
+| Victor | 93.00% | ~2,145 |
+| World Map | 78.00% | ~1,799 |
 | Temple of Eternals | 57.00% | ~1,314 |
 | Prestigious | 54.00% | ~1,245 |
-| Fellowship Power | 42.00% | ~968 |
+| Fellowship Power | 42.00% | ~969 |
 | Guild Power | 25.00% | ~576 |
 | Prestigious x10 | 22.00% | ~507 |
 | The game is on | 20.00% | ~461 |
 | Exotic Merchant | 18.00% | ~415 |
 | Dragon Clicker | 17.00% | ~392 |
+| Miner Clicker | 17.00% | ~392 |
 | Full Party | 16.00% | ~369 |
 | Inspection | 16.00% | ~369 |
-| Miner Clicker | 16.00% | ~369 |
 | Dragon Master | 15.00% | ~346 |
 | Enlightenment | 15.00% | ~346 |
 | Hero inspection | 15.00% | ~346 |
@@ -33,16 +33,16 @@ Rating: 4.12 (Ranked 955)
 | Mastery | 11.00% | ~254 |
 | Relic Of The Past | 11.00% | ~254 |
 | The power of Awakening | 11.00% | ~254 |
-| Challenger | 10.00% | ~230 |
-| Daily Quest Completionist | 10.00% | ~230 |
-| Four Leaf Clover | 10.00% | ~230 |
-| Frostfire Liberator | 10.00% | ~230 |
-| Moving Up The Ladder | 10.00% | ~230 |
-| Scroll Master | 10.00% | ~230 |
-| Here We Go Again | 9.00% | ~207 |
-| Master Enchanter | 9.00% | ~207 |
-| The father of Dragons | 9.00% | ~207 |
-| Trader | 9.00% | ~207 |
+| Challenger | 10.00% | ~231 |
+| Daily Quest Completionist | 10.00% | ~231 |
+| Four Leaf Clover | 10.00% | ~231 |
+| Frostfire Liberator | 10.00% | ~231 |
+| Moving Up The Ladder | 10.00% | ~231 |
+| Scroll Master | 10.00% | ~231 |
+| Here We Go Again | 9.00% | ~208 |
+| Master Enchanter | 9.00% | ~208 |
+| The father of Dragons | 9.00% | ~208 |
+| Trader | 9.00% | ~208 |
 | Crystal Mining | 8.00% | ~184 |
 | Dragon Slayer | 8.00% | ~184 |
 | Enchanting skill | 8.00% | ~184 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 955)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,305 (Ranked 213)  
+Progressed: 2,306 (Ranked 213)  
 Completed: 2 (0.09%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2 (0.09%) (Ranked 280)
 | 2023-11-11 | 2,229 | 2 |
 | 2023-11-12 | 2,269 | 2 |
 | 2023-11-13 | 2,290 | 2 |
-| 2023-11-14 | 2,305 | 2 |
+| 2023-11-14 | 2,306 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 489)  
 Sum: 80 (Ranked 456)  

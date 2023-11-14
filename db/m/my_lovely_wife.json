@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -484,9 +484,9 @@
       "ID": "ACH_ASSIGN_SHRINE_1",
       "SetID": "ajki3eh",
       "Name": "Devoted",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_ASSIGN_SHRINE_2",
@@ -708,8 +708,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:05:42.858047+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:05:51.7799175+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.6894003+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:19.7503933+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:05:42.8580688+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:57:15.6472826+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:05:51.7799389+00:00"
 }

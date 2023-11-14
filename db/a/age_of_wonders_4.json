@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7301,9 +7301,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "34",
@@ -7588,8 +7588,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:04:11.063586+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:04:16.4235173+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:57:21.7055927+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:04:11.0636751+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:57:17.6876151+00:00",
+  "LastUpdate_Achievements": "2023-11-14T12:04:16.4235782+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 14,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 284870,
+  "EOS_Progressed": 284883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10767,
+  "EOS_NewPlayers": 10725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8467,6 +8467,11 @@
       "Time": "2023-11-14T11:05:52.8148167+00:00",
       "NumProgressed": 284870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T12:06:02.0502739+00:00",
+      "NumProgressed": 284883,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -8575,7 +8580,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 156678
+      "UsersEstimate": 156686
     },
     {
       "ID": "kills_100",
@@ -8631,7 +8636,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28487
+      "UsersEstimate": 28488
     },
     {
       "ID": "revives_25",
@@ -8726,13 +8731,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 284870,
+      "Progressed": 284883,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-11-14T11:05:52.8148165+00:00",
+  "LastChanged_Achievements": "2023-11-14T12:06:02.0502735+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:12.1435355+00:00",
   "LastUpdate_Ratings": "2023-11-14T11:00:12.7223423+00:00",
-  "LastUpdate_Achievements": "2023-11-14T11:05:52.8148684+00:00"
+  "LastUpdate_Achievements": "2023-11-14T12:06:02.0503353+00:00"
 }
