@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -17178,9 +17178,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6398
     },
     {
       "ID": "10",
@@ -17658,8 +17658,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-12T19:57:53.2270772+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:03:26.2234167+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:03:26.4327347+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:11.3013234+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:58:18.2949853+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:03:26.2235758+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:58:36.529624+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:03:26.4328298+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,977 |
-| Alt+F4 | 8.00% | ~18,966 |
-| Where's that freaking Dwarf? | 7.00% | ~16,595 |
+| Sowwy! | 35.00% | ~82,981 |
+| Alt+F4 | 8.00% | ~18,967 |
+| Where's that freaking Dwarf? | 7.00% | ~16,596 |
 | Déjà vu | 6.00% | ~14,225 |
 | Sock! SOCK! | 5.00% | ~11,854 |
-| A beer, two curses, three companions | 4.00% | ~9,483 |
-| GG EZ | 4.00% | ~9,483 |
-| DM intervention | 4.00% | ~9,483 |
-| Speedrun | 4.00% | ~9,483 |
-| Livin' in a dwarven paradise | 3.00% | ~7,112 |
-| Way of the Wimp | 3.00% | ~7,112 |
-| The plot thickens... At the tavern | 3.00% | ~7,112 |
-| Fireproof Wizardess | 3.00% | ~7,112 |
+| A beer, two curses, three companions | 4.00% | ~9,484 |
+| GG EZ | 4.00% | ~9,484 |
+| DM intervention | 4.00% | ~9,484 |
+| Speedrun | 4.00% | ~9,484 |
+| Livin' in a dwarven paradise | 3.00% | ~7,113 |
+| Way of the Wimp | 3.00% | ~7,113 |
+| The plot thickens... At the tavern | 3.00% | ~7,113 |
+| Fireproof Wizardess | 3.00% | ~7,113 |
 | Shiny and Crôm | 2.00% | ~4,742 |
 | The demons' feast | 2.00% | ~4,742 |
 | The Great Library | 2.00% | ~4,742 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.80% | ~1,897 |
 | We come in peace | 0.70% | ~1,660 |
 | Lëgal Legend | 0.70% | ~1,660 |
-| Holistic Adventuring Party | 0.60% | ~1,422 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,422 |
+| Holistic Adventuring Party | 0.60% | ~1,423 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,423 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,185 |
 | Law and Order | 0.50% | ~1,185 |
 | It's been a hard day's night | 0.40% | ~948 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,078 (Ranked 62)  
+Progressed: 237,089 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-11 | 236,594 | 7 |
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
-| 2023-11-14 | 237,078 | 7 |
+| 2023-11-14 | 237,089 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 273)  
 Sum: 458 (Ranked 331)  

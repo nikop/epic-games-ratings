@@ -14,15 +14,15 @@
 | Cutie Poro | 67.00% | ~460 |
 | The Fire Below the Mountain | 64.00% | ~440 |
 | Moneyball | 60.00% | ~412 |
+| No Bites | 57.00% | ~392 |
 | Iceborn | 57.00% | ~392 |
-| No Bites | 56.00% | ~385 |
 | Tear of Freedom | 53.00% | ~364 |
 | Boom Things | 53.00% | ~364 |
 | My Darkest Day | 50.00% | ~344 |
 | Rhythm Of Willump | 47.00% | ~323 |
 | The Relentless Storm | 47.00% | ~323 |
-| A Tragic Reminder | 44.00% | ~302 |
-| 3000 Year Blackout | 43.00% | ~295 |
+| A Tragic Reminder | 45.00% | ~309 |
+| 3000 Year Blackout | 44.00% | ~302 |
 | The Finisher | 42.00% | ~289 |
 | True Legends | 41.00% | ~282 |
 | So Close | 39.00% | ~268 |
@@ -40,7 +40,7 @@
 | Vertical Power | 28.00% | ~192 |
 | One From The Heart | 14.00% | ~96 |
 | Yummy | 12.00% | ~82 |
-| Snowball Fightn't | 10.00% | ~69 |
+| Snowball Fightn't | 11.00% | ~76 |
 | It Was Him | 8.00% | ~55 |
 | Handy Yeti | 7.00% | ~48 |
 | The Pied Piper Of Freljord | 6.00% | ~41 |

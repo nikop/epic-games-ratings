@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7931,
+  "EOS_Progressed": 7935,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6441,6 +6441,11 @@
       "Time": "2023-11-14T12:09:07.1336403+00:00",
       "NumProgressed": 7931,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T15:09:20.6907244+00:00",
+      "NumProgressed": 7935,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6507,9 +6512,9 @@
       "ID": "CreditsSpent50000",
       "SetID": "12d07c7",
       "Name": "Spent 50000 Credits",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 555
     },
     {
       "ID": "DHUpgraded1",
@@ -6565,7 +6570,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "GamesPlayed1",
@@ -6573,7 +6578,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "GamesPlayed10",
@@ -6597,7 +6602,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "GamesWon10",
@@ -6619,9 +6624,9 @@
       "ID": "GolemKills1",
       "SetID": "12d07c7",
       "Name": "Eliminated the Golem",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 79
     },
     {
       "ID": "GrenadeLauncherUpgraded1",
@@ -6645,7 +6650,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "HAUpgraded1",
@@ -6861,7 +6866,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "NeutralKills200",
@@ -6949,7 +6954,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "SEUpgraded1",
@@ -7013,7 +7018,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "TSUPurchased1",
@@ -7044,7 +7049,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7931,
+      "Progressed": 7935,
       "Completed": 1
     }
   ],
@@ -7052,8 +7057,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:09:26.7824951+00:00",
-  "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:57:34.9759596+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:09:26.7825744+00:00"
+  "LastChanged_Achievements": "2023-11-14T15:09:20.6907242+00:00",
+  "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
+  "LastUpdate_Ratings": "2023-11-14T14:57:52.5871949+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:09:20.6908187+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235508,
+  "EOS_Progressed": 235511,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
@@ -22207,6 +22207,11 @@
       "Time": "2023-11-14T14:05:27.1980291+00:00",
       "NumProgressed": 235508,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-14T15:05:29.5720503+00:00",
+      "NumProgressed": 235511,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22234,7 +22239,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65942
+      "UsersEstimate": 65943
     },
     {
       "ID": "CENTAUR",
@@ -22354,7 +22359,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77718
+      "UsersEstimate": 77719
     },
     {
       "ID": "NOBUNAGA",
@@ -22410,7 +22415,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11775
+      "UsersEstimate": 11776
     },
     {
       "ID": "RESPWND",
@@ -22482,22 +22487,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96558
+      "UsersEstimate": 96560
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235508,
+      "Progressed": 235511,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:05:27.1980288+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:05:29.57205+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:58:19.03872+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:05:27.1981699+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:58:37.3237008+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:05:29.5721818+00:00"
 }

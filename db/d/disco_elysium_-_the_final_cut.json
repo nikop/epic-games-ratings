@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1454,7 +1454,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130792,
+  "EOS_Progressed": 130793,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
@@ -21884,6 +21884,11 @@
       "Time": "2023-11-14T13:09:34.062251+00:00",
       "NumProgressed": 130792,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-14T15:04:53.3619246+00:00",
+      "NumProgressed": 130793,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22007,7 +22012,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27466
+      "UsersEstimate": 27467
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22214,15 +22219,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130792,
+      "Progressed": 130793,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-13T17:59:18.2204176+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:04:51.3366809+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:04:53.3619241+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:58:51.4657304+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:04:51.3368015+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:59:09.9576236+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:04:53.3620636+00:00"
 }

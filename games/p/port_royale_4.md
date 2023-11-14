@@ -35,7 +35,7 @@ Number of Ratings: 53  (23.09.2022)
 | Paths of Glory | 8.00% | ~83 |
 | Panel of experts | 8.00% | ~83 |
 | Maker | 7.00% | ~72 |
-| Conglomerate | 6.00% | ~62 |
+| Conglomerate | 7.00% | ~72 |
 | The Grande Bouffe | 6.00% | ~62 |
 | Buccaneer | 5.00% | ~52 |
 | Flying Dutchman | 5.00% | ~52 |

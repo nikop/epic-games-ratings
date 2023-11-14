@@ -70,7 +70,7 @@ Rating: 4.22 (Ranked 897)
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,585 (Ranked 233)  
-Completed: 1 (0.06%) (Ranked 296)  
+Completed: 1 (0.06%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

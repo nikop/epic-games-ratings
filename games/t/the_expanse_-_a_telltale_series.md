@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 8.00% | ~1,196 |
+| Oyedang, Kopengs | 8.00% | ~1,197 |
 | The Pit and the Pirates | 4.00% | ~598 |
 | Bosmang | 4.00% | ~598 |
-| Zen Master | 4.00% | ~36 |
+| Zen Master | 4.00% | ~37 |
 | Stogie for Fogey | 3.00% | ~449 |
 | Drug Gifter | 3.00% | ~449 |
 | Spore Taste | 3.00% | ~449 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,956 (Ranked 147)  
+Progressed: 14,959 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 34 (0.23%) (Ranked 242)
 | 2023-11-11 | 14,854 | 34 |
 | 2023-11-12 | 14,900 | 34 |
 | 2023-11-13 | 14,936 | 34 |
-| 2023-11-14 | 14,956 | 34 |
+| 2023-11-14 | 14,959 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

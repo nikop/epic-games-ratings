@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7635,9 +7635,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716896,
+  "EOS_Progressed": 716897,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26040,6 +26040,11 @@
       "Time": "2023-11-14T14:05:40.4543401+00:00",
       "NumProgressed": 716896,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-14T15:05:43.2136077+00:00",
+      "NumProgressed": 716897,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26049,9 +26054,9 @@
       "ID": "01_Prologue",
       "SetID": "adcm20g",
       "Name": "The Old Grandmaster",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3584
+      "UsersEstimate": 4301
     },
     {
       "ID": "02_Vengeance_H1",
@@ -26530,21 +26535,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26197,
+      "Progressed": 26198,
       "Completed": 10739
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716896,
+      "Progressed": 716897,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-13T14:00:03.6986303+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:05:40.4543399+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:05:43.2136073+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
   "LastUpdate_Ratings": "2023-11-14T14:02:37.6129676+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:05:40.4544704+00:00"
+  "LastUpdate_Achievements": "2023-11-14T15:05:43.2137112+00:00"
 }

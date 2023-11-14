@@ -7,21 +7,21 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~403 |
-| Cowardice | 61.00% | ~361 |
+| Cowardice | 61.00% | ~362 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~296 |
-| Eat Lead! | 48.00% | ~284 |
-| The Breaking Point | 45.00% | ~266 |
-| Prospector | 44.00% | ~260 |
-| Here Comes the Boom | 44.00% | ~260 |
-| Treasure Hunter | 41.00% | ~243 |
+| Eat Lead! | 48.00% | ~285 |
+| The Breaking Point | 45.00% | ~267 |
+| Prospector | 44.00% | ~261 |
+| Here Comes the Boom | 44.00% | ~261 |
+| Treasure Hunter | 40.00% | ~237 |
 | Sniper Wolf | 40.00% | ~237 |
 | The Motivation | 39.00% | ~231 |
 | Heroism | 36.00% | ~213 |
 | Missing in Action | 36.00% | ~213 |
-| Collectibles of Chapter I | 35.00% | ~207 |
-| King of Knives | 34.00% | ~201 |
-| Consequences | 32.00% | ~189 |
-| Opportunities | 32.00% | ~189 |
+| Collectibles of Chapter I | 35.00% | ~208 |
+| King of Knives | 34.00% | ~202 |
+| Consequences | 32.00% | ~190 |
+| Opportunities | 32.00% | ~190 |
 | The Horror | 30.00% | ~178 |
 | The Difference | 28.00% | ~166 |
 | Vengeance | 26.00% | ~154 |
@@ -29,9 +29,9 @@ Number of Ratings: 34  (23.09.2022)
 | Broken Hopes | 23.00% | ~136 |
 | Bullseye! | 23.00% | ~136 |
 | It's Just an Accident | 22.00% | ~130 |
-| Sorrow | 20.00% | ~118 |
-| Atonement | 19.00% | ~112 |
-| Food Massacre | 19.00% | ~112 |
+| Sorrow | 20.00% | ~119 |
+| Atonement | 19.00% | ~113 |
+| Food Massacre | 19.00% | ~113 |
 | Helping Hand | 16.00% | ~95 |
 | Collectibles of Chapter III | 15.00% | ~89 |
 | Collectibles of Chapter IV | 15.00% | ~89 |
@@ -39,8 +39,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter V | 11.00% | ~65 |
 | Tiptoe Around | 10.00% | ~59 |
 | Such is War! | 9.00% | ~53 |
-| Collectibles of Chapter XII | 7.00% | ~41 |
-| Piece of Cake | 7.00% | ~41 |
+| Collectibles of Chapter XII | 7.00% | ~42 |
+| Piece of Cake | 7.00% | ~42 |
 | Collectibles of Chapter VII | 6.00% | ~36 |
 | It Will Rain | 6.00% | ~36 |
 | Not Spill a Drop | 6.00% | ~36 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592 (Ranked 290)  
+Progressed: 593 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 578 | 0 |
 | 2023-11-12 | 582 | 0 |
 | 2023-11-13 | 589 | 0 |
-| 2023-11-14 | 592 | 0 |
+| 2023-11-14 | 593 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

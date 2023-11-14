@@ -6,8 +6,8 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~5,007 |
-| It's a good start | 10.00% | ~1,221 |
+| Bye Bye | 41.00% | ~5,010 |
+| It's a good start | 10.00% | ~1,222 |
 | Bonjour! | 7.00% | ~855 |
 | Quack | 7.00% | ~855 |
 | The Assistant | 6.00% | ~733 |
@@ -15,10 +15,10 @@ Number of Ratings: 7,669  (23.09.2022)
 | Ostinata | 5.00% | ~611 |
 | Better than nothing? | 5.00% | ~611 |
 | A long journey | 4.00% | ~489 |
-| Big Money | 3.00% | ~366 |
-| Keep the doctor away | 3.00% | ~366 |
-| Surprise of Langhe | 3.00% | ~366 |
-| Famous | 3.00% | ~366 |
+| Big Money | 3.00% | ~367 |
+| Keep the doctor away | 3.00% | ~367 |
+| Surprise of Langhe | 3.00% | ~367 |
+| Famous | 3.00% | ~367 |
 | What is that? A castle? | 2.00% | ~244 |
 | A lot of space | 2.00% | ~244 |
 | A big garage | 2.00% | ~244 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Very Important Winemaker | 2.00% | ~244 |
 | King of Langhe | 1.00% | ~122 |
 | Gem of Monferrato | 1.00% | ~122 |
-| Treasure of Roero | 0.70% | ~85 |
+| Treasure of Roero | 0.70% | ~86 |
 | Knight of Langhe | 0.50% | ~61 |
 | King of red wines | 0.20% | ~24 |
 | King of white wines | 0.20% | ~24 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~12 |
 | Master Winemaker | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,213 (Ranked 152)  
+Progressed: 12,219 (Ranked 152)  
 Completed: 10 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,14 +119,14 @@ Completed: 10 (0.08%) (Ranked 289)
 | 2023-11-11 | 11,914 | 10 |
 | 2023-11-12 | 12,064 | 10 |
 | 2023-11-13 | 12,170 | 10 |
-| 2023-11-14 | 12,213 | 10 |
+| 2023-11-14 | 12,219 | 10 |
 ## Awards
-Max (Relaxing): 206  (Ranked 285)  
-Sum: 1,725 (Ranked 219)  
+Max (Relaxing): 207  (Ranked 285)  
+Sum: 1,726 (Ranked 219)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 206 |
+| This game is Relaxing | 207 |
 | This game is Extremely Fun | 204 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Great for Beginners | 200 |
@@ -202,3 +202,4 @@ Diff (max vs sum): 66
 | 2023-10-30 | 4.35 | - | 205 | 1,593 |
 | 2023-10-31 | 4.35 | - | 206 | 1,594 |
 | 2023-11-07 | 4.35 | - | 206 | 1,725 |
+| 2023-11-14 | 4.35 | - | 207 | 1,726 |

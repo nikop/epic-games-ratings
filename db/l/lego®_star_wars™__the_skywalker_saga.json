@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3593,9 +3593,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51958,
+  "EOS_Progressed": 51959,
   "EOS_Completed": 247,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -13683,6 +13683,11 @@
       "Time": "2023-11-14T02:24:28.8330838+00:00",
       "NumProgressed": 51958,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-11-14T15:05:14.3298295+00:00",
+      "NumProgressed": 51959,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 45,
@@ -13718,7 +13723,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41047
+      "UsersEstimate": 41048
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13806,7 +13811,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30655
+      "UsersEstimate": 30656
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13814,7 +13819,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24420
+      "UsersEstimate": 24421
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -13862,7 +13867,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11950
+      "UsersEstimate": 11951
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -13886,7 +13891,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29616
+      "UsersEstimate": 29617
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -13934,7 +13939,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30655
+      "UsersEstimate": 30656
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -13958,7 +13963,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50399
+      "UsersEstimate": 50400
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14030,7 +14035,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28057
+      "UsersEstimate": 28058
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -14053,15 +14058,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51958,
+      "Progressed": 51959,
       "Completed": 247
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-11T13:57:50.1898154+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:05:11.9194864+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:05:14.3298292+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:03.8172916+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:58:36.8542234+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:05:11.9195757+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:58:55.0508253+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:05:14.3299127+00:00"
 }

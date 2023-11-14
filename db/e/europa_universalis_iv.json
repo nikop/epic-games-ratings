@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12063,9 +12063,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455397,
+  "EOS_Progressed": 455443,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6247,
+  "EOS_NewPlayers": 6249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35873,6 +35873,11 @@
       "Time": "2023-11-14T14:03:42.4145264+00:00",
       "NumProgressed": 455397,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T15:03:43.185359+00:00",
+      "NumProgressed": 455443,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36570,9 +36575,9 @@
       "ID": "achievement_dude_where_s_my_boat",
       "SetID": "8p2n7he",
       "Name": "Dude, Where\u0027s my Boat?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_early_modern_warfare",
@@ -36674,9 +36679,9 @@
       "ID": "achievement_fine_goosestep",
       "SetID": "67mdiil",
       "Name": "A Fine Goosestep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_first_come_first_serve",
@@ -36746,9 +36751,9 @@
       "ID": "achievement_four_for_trade",
       "SetID": "8p2n7he",
       "Name": "Four For Trade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_frankfurt_andes",
@@ -37018,9 +37023,9 @@
       "ID": "achievement_imperio_espanol",
       "SetID": "8p2n7he",
       "Name": "Imperio espa\u00F1ol",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_imposter_syndrome",
@@ -38402,9 +38407,9 @@
       "ID": "achievement_three_trivial_tributaries",
       "SetID": "8p2n7he",
       "Name": "Three Trivial Tributary Tribes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_tiger_of_mysore",
@@ -38787,21 +38792,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455397,
+      "Progressed": 455443,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455397,
+      "Progressed": 455443,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-14T09:57:28.5758681+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:03:42.414526+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:03:43.1853586+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:57:02.0534833+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:03:42.4156073+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:57:19.2158351+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:03:43.1864434+00:00"
 }

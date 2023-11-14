@@ -1,73 +1,73 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 253)  
+Rating: 4.68 (Ranked 252)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 256.00% | ~814 |
-| Iron Chef | 187.00% | ~595 |
-| Greeno-B-Gone | 124.00% | ~394 |
-| Your Especially Earned Trajectory | 96.00% | ~305 |
-| No Mountain Wide Enough | 67.00% | ~213 |
-| On that Grindset | 64.00% | ~204 |
-| Can We Keep It? | 64.00% | ~204 |
-| Yakmel Whisperer | 60.00% | ~191 |
+| Adept Assembler | 257.00% | ~815 |
+| Iron Chef | 188.00% | ~596 |
+| Greeno-B-Gone | 124.00% | ~393 |
+| Your Especially Earned Trajectory | 97.00% | ~307 |
+| No Mountain Wide Enough | 67.00% | ~212 |
+| On that Grindset | 64.00% | ~203 |
+| Can We Keep It? | 64.00% | ~203 |
+| Yakmel Whisperer | 61.00% | ~193 |
 | One of the Cool Kids | 57.00% | ~181 |
 | Pack Mule | 56.00% | ~178 |
-| Diamonds are Forever | 55.00% | ~175 |
-| Unboxing | 54.00% | ~172 |
-| Big Game Hunter | 53.00% | ~169 |
+| Diamonds are Forever | 55.00% | ~174 |
+| Unboxing | 54.00% | ~171 |
+| Big Game Hunter | 53.00% | ~168 |
 | Financially Secure | 51.00% | ~162 |
-| Got Served | 50.00% | ~159 |
+| Got Served | 50.00% | ~158 |
 | Chatterbox | 46.00% | ~146 |
 | Happier-est Place on Earth | 45.00% | ~143 |
 | You Don't Win Friends With Salad | 45.00% | ~143 |
-| Call Me Fishmael | 44.00% | ~140 |
-| What Plants Crave | 43.00% | ~137 |
-| I Do! | 43.00% | ~137 |
-| My Time Mansion | 42.00% | ~134 |
-| First Love | 42.00% | ~134 |
-| Mole Masher | 41.00% | ~130 |
+| What Plants Crave | 44.00% | ~139 |
+| I Do! | 44.00% | ~139 |
+| Call Me Fishmael | 44.00% | ~139 |
+| First Love | 43.00% | ~136 |
+| My Time Mansion | 42.00% | ~133 |
+| Mole Masher | 42.00% | ~133 |
 | Knowledge is Power | 39.00% | ~124 |
 | Better Late than Never | 39.00% | ~124 |
 | Anti-Santa | 39.00% | ~124 |
-| Panda-kin | 37.00% | ~118 |
-| Finishing Touches | 37.00% | ~118 |
+| Panda-kin | 38.00% | ~120 |
+| Finishing Touches | 37.00% | ~117 |
 | Builder of the Month | 35.00% | ~111 |
 | Officially Official | 35.00% | ~111 |
 | Who Ya Gonna Call...? | 34.00% | ~108 |
 | Bridging the Gap | 33.00% | ~105 |
 | Waste Not Want Not | 33.00% | ~105 |
-| Commissions, commissions...! | 32.00% | ~102 |
-| Martle's Dream | 31.00% | ~99 |
+| Commissions, commissions...! | 32.00% | ~101 |
+| Martle's Dream | 31.00% | ~98 |
 | Jewel of the Eufaula | 30.00% | ~95 |
 | He Can Spin A Yarn... | 28.00% | ~89 |
 | Elementary, My Dear | 28.00% | ~89 |
 | Got the Flow Back | 27.00% | ~86 |
-| Lifeline Pipeline | 26.00% | ~83 |
+| Lifeline Pipeline | 26.00% | ~82 |
 | Newton | 24.00% | ~76 |
 | Do Your Part | 23.00% | ~73 |
 | Kind of a Big Deal | 22.00% | ~70 |
 | Sepia Toned Memories | 21.00% | ~67 |
 | Just What I Always Wanted! | 21.00% | ~67 |
-| Time Flies | 20.00% | ~64 |
-| Santa In Training | 20.00% | ~64 |
-| It Belongs in a Museum! | 20.00% | ~64 |
+| Time Flies | 20.00% | ~63 |
+| Santa In Training | 20.00% | ~63 |
+| It Belongs in a Museum! | 20.00% | ~63 |
 | Sandrunning Speedster | 19.00% | ~60 |
 | Cardistry | 17.00% | ~54 |
 | Pro Gamer | 17.00% | ~54 |
+| Jack of All Trades | 9.00% | ~29 |
 | It's High Noon... | 9.00% | ~29 |
-| Jack of All Trades | 8.00% | ~25 |
-| Strong Arms | 8.00% | ~25 |
+| Strong Arms | 9.00% | ~29 |
 | Got the Receipt? | 8.00% | ~25 |
 | Sandrock's Hottest Club | 3.00% | ~10 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 335)  
+Progressed: 317 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,12 +86,12 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-13 | 333 | 0 |
 | 2023-11-14 | 331 | 0 |
 ## Awards
-Max (Character Customization): 588  (Ranked 194)  
-Sum: 1,342 (Ranked 239)  
+Max (Character Customization): 590  (Ranked 194)  
+Sum: 1,344 (Ranked 239)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 588 |
+| This game has Inclusive Character Customization | 590 |
 | This game is Great for Beginners | 104 |
 | This game is Highly Recommended | 87 |
 | This game is Extremely Fun | 84 |
@@ -268,3 +268,4 @@ Diff (max vs sum): -45
 | 2023-11-11 | 4.68 | - | 586 | 1,334 |
 | 2023-11-12 | 4.68 | - | 588 | 1,338 |
 | 2023-11-13 | 4.68 | - | 588 | 1,342 |
+| 2023-11-14 | 4.68 | - | 590 | 1,344 |

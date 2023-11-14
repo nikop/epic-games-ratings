@@ -6,46 +6,46 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,641 |
-| Overkill | 34.00% | ~6,995 |
-| Vaccine Incoming | 33.00% | ~6,789 |
-| A normal day in Gloomhaven | 32.00% | ~6,584 |
-| Spread the plague | 30.00% | ~6,172 |
-| Get over here! | 25.00% | ~5,144 |
-| Just when I thought I was out... | 19.00% | ~3,909 |
-| Precious! | 17.00% | ~3,498 |
-| Mine... All Mine... | 17.00% | ~3,498 |
-| Anatomy Lesson | 15.00% | ~3,086 |
-| Grizzled veteran | 14.00% | ~2,880 |
-| Light of my life | 14.00% | ~2,880 |
-| You activated my trap card! | 13.00% | ~2,675 |
-| Obstacle race | 13.00% | ~2,675 |
-| Augmented rat | 12.00% | ~2,469 |
-| Doom and gloom | 11.00% | ~2,263 |
-| Who's the Boss? | 10.00% | ~2,057 |
-| Dungeon Veteran | 8.00% | ~1,646 |
-| Pack leader | 8.00% | ~1,646 |
-| Pain is your friend | 8.00% | ~1,646 |
-| Black death | 8.00% | ~1,646 |
-| Play it again, Sam | 8.00% | ~1,646 |
-| Quad damage | 6.00% | ~1,234 |
+| I'm not dead yet | 42.00% | ~8,646 |
+| Overkill | 34.00% | ~6,999 |
+| Vaccine Incoming | 33.00% | ~6,793 |
+| A normal day in Gloomhaven | 32.00% | ~6,587 |
+| Spread the plague | 30.00% | ~6,176 |
+| Get over here! | 25.00% | ~5,146 |
+| Just when I thought I was out... | 19.00% | ~3,911 |
+| Precious! | 17.00% | ~3,499 |
+| Mine... All Mine... | 17.00% | ~3,499 |
+| Anatomy Lesson | 15.00% | ~3,088 |
+| Grizzled veteran | 14.00% | ~2,882 |
+| Light of my life | 14.00% | ~2,882 |
+| You activated my trap card! | 13.00% | ~2,676 |
+| Obstacle race | 13.00% | ~2,676 |
+| Augmented rat | 12.00% | ~2,470 |
+| Doom and gloom | 11.00% | ~2,264 |
+| Who's the Boss? | 10.00% | ~2,058 |
+| Dungeon Veteran | 8.00% | ~1,647 |
+| Pack leader | 8.00% | ~1,647 |
+| Pain is your friend | 8.00% | ~1,647 |
+| Black death | 8.00% | ~1,647 |
+| Play it again, Sam | 8.00% | ~1,647 |
+| Quad damage | 6.00% | ~1,235 |
 | Power Up! | 5.00% | ~1,029 |
 | Caught off guard | 5.00% | ~1,029 |
 | The Pro from Dover | 5.00% | ~1,029 |
 | Pretty lights! | 5.00% | ~1,029 |
 | Now you see me... | 5.00% | ~1,029 |
 | Merchant of doom | 4.00% | ~823 |
-| I hate portals | 3.00% | ~617 |
-| Down the hatch | 3.00% | ~617 |
-| An eye for an eye | 3.00% | ~617 |
-| Grin and bear it | 3.00% | ~617 |
-| From Gloom, only greed and death emerges | 2.00% | ~411 |
-| The Rat King | 2.00% | ~411 |
-| How to train your Drake | 2.00% | ~411 |
-| The Cephalophore | 2.00% | ~411 |
-| Master Assassin | 2.00% | ~411 |
-| The Sniper | 2.00% | ~411 |
-| An axe to grind | 2.00% | ~411 |
+| I hate portals | 3.00% | ~618 |
+| Down the hatch | 3.00% | ~618 |
+| An eye for an eye | 3.00% | ~618 |
+| Grin and bear it | 3.00% | ~618 |
+| From Gloom, only greed and death emerges | 2.00% | ~412 |
+| The Rat King | 2.00% | ~412 |
+| How to train your Drake | 2.00% | ~412 |
+| The Cephalophore | 2.00% | ~412 |
+| Master Assassin | 2.00% | ~412 |
+| The Sniper | 2.00% | ~412 |
+| An axe to grind | 2.00% | ~412 |
 | Add a bit of colour | 1.00% | ~206 |
 | Captain hooked | 1.00% | ~206 |
 | New Blood | 1.00% | ~206 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~21 |
 | Murder Death Kill | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,574 (Ranked 132)  
+Progressed: 20,585 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,15 +130,15 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 20,013 | 1 |
 | 2023-11-12 | 20,293 | 1 |
 | 2023-11-13 | 20,479 | 1 |
-| 2023-11-14 | 20,574 | 1 |
+| 2023-11-14 | 20,585 | 1 |
 ## Awards
 Max (Character Customization): 3,572  (Ranked 90)  
-Sum: 8,354 (Ranked 100)  
+Sum: 8,355 (Ranked 100)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,572 |
-| This game has Diverse Characters | 595 |
+| This game has Diverse Characters | 596 |
 | This game has Challenging Combat | 551 |
 | This game is Extremely Fun | 543 |
 | This game is Highly Recommended | 543 |
@@ -368,4 +368,4 @@ Diff (max vs sum): -10
 | 2023-11-09 | 4.47 | - | 3,571 | 8,346 |
 | 2023-11-11 | 4.47 | - | 3,571 | 8,347 |
 | 2023-11-12 | 4.47 | - | 3,572 | 8,352 |
-| 2023-11-14 | 4.47 | - | 3,572 | 8,354 |
+| 2023-11-14 | 4.47 | - | 3,572 | 8,355 |

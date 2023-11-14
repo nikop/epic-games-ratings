@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -983,11 +983,17 @@
       "Rating": 4.35,
       "NumberOfAwards": 1725,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2023-11-14T14:59:50.1823359+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1726,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1725,
-  "NumberOfAwardsMax": 206,
+  "NumberOfAwards": 1726,
+  "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1024,7 +1030,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1051,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12213,
+  "EOS_Progressed": 12219,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10046,6 +10052,11 @@
       "Time": "2023-11-14T14:08:42.5950787+00:00",
       "NumProgressed": 12213,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-14T15:08:35.5938343+00:00",
+      "NumProgressed": 12219,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10058,7 +10069,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "a_10",
@@ -10090,7 +10101,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "a_16",
@@ -10106,7 +10117,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5010
     },
     {
       "ID": "a_19",
@@ -10178,7 +10189,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "a_28",
@@ -10194,7 +10205,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "a_30",
@@ -10266,7 +10277,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "a_6",
@@ -10290,7 +10301,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "a_9",
@@ -10305,16 +10316,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12213,
+      "Progressed": 12219,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:08:42.5950784+00:00",
+  "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:08:35.5938339+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:59:31.3606202+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:08:42.595157+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:59:50.1823362+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:08:35.5938878+00:00"
 }

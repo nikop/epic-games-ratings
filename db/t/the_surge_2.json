@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -276,9 +276,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2199,
+  "EOS_Progressed": 2201,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3176,6 +3176,11 @@
       "Time": "2023-11-14T01:49:33.6754481+00:00",
       "NumProgressed": 2199,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-14T15:05:05.4013299+00:00",
+      "NumProgressed": 2201,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3195,7 +3200,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1453
     },
     {
       "ID": "ACHV_03",
@@ -3387,7 +3392,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1761
     },
     {
       "ID": "ACHV_27",
@@ -3425,9 +3430,9 @@
       "ID": "ACHV_31",
       "SetID": "8p5mlmc",
       "Name": "Where It All Began",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_32",
@@ -3491,15 +3496,15 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1673
     },
     {
       "ID": "ACHV_40",
       "SetID": "8p5mlmc",
       "Name": "Three Birds With One Stone",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHV_41",
@@ -3609,9 +3614,9 @@
       "ID": "ACHV_54",
       "SetID": "8p5mlmc",
       "Name": "The Easy Way Out",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHV_55",
@@ -3642,7 +3647,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2199,
+      "Progressed": 2201,
       "Completed": 13
     }
   ],
@@ -3650,8 +3655,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-11T23:57:43.5779533+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:05:03.031455+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:05:05.4013295+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:21.1827287+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:58:59.2314079+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:05:03.0315127+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:59:17.5252091+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:05:05.4013801+00:00"
 }

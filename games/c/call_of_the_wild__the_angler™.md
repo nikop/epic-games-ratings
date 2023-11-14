@@ -34,7 +34,9 @@ Number of Ratings: 281  (23.09.2022)
 | Golden Ridge Ranger | 0.10% | ~7 |
 | Buckaroo | 0.10% | ~7 |
 | Rod and Troll | 0.10% | ~6 |
+| Trollsporet Tale Teller | 0.10% | ~6 |
 | Fish upon a Star | 0.10% | ~6 |
+| Cache and Carry | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Aguas Claras Conquistador | 0.10% | ~6 |
 | All Good Kings Must Come to an End | 0.10% | ~6 |
@@ -43,8 +45,6 @@ Number of Ratings: 281  (23.09.2022)
 | Taylor Made | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
-| Trollsporet Tale Teller | 0.00% | ~0 |
-| Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,512 (Ranked 178)  

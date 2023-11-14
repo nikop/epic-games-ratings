@@ -8,26 +8,26 @@
 | Thalya – Simply Immortal | 85.00% | ~220 |
 | For the Horde! | 78.00% | ~202 |
 | Hammer Time, Round Two | 76.00% | ~197 |
-| The Hellwoods | 68.00% | ~176 |
+| The Hellwoods | 69.00% | ~179 |
 | Thalya's Concentrated Fury | 64.00% | ~166 |
+| Experienced Thalya | 62.00% | ~161 |
 | The Plains of Strothalm | 61.00% | ~158 |
-| Experienced Thalya | 61.00% | ~158 |
 | Master of Magic | 58.00% | ~150 |
 | Bad Elves Go Everywhere | 56.00% | ~145 |
 | Unicorn steaks – fresh off the hoof! | 53.00% | ~137 |
 | Magic Accidents | 51.00% | ~132 |
-| Trap Master | 49.00% | ~127 |
+| Trap Master | 50.00% | ~130 |
 | Heroes’ Gorge | 49.00% | ~127 |
 | Minions, Minions! | 48.00% | ~124 |
 | YOU SHALL NOT PASS! | 37.00% | ~96 |
 | The Ascent | 35.00% | ~91 |
 | It's Warm and Cozy at Home | 35.00% | ~91 |
-| Pure Dynamite! | 32.00% | ~83 |
-| Hard Work | 31.00% | ~80 |
+| Pure Dynamite! | 33.00% | ~85 |
+| Hard Work | 32.00% | ~83 |
 | Mana Cannon | 29.00% | ~75 |
 | The Big Eaty | 28.00% | ~73 |
 | “… like son” | 20.00% | ~52 |
-| Dungeonlord Gorgu | 17.00% | ~44 |
+| Dungeonlord Gorgu | 18.00% | ~47 |
 | Shame! Shame! Shame! | 16.00% | ~41 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 15.00% | ~39 |
 | The Cathedral of Light | 15.00% | ~39 |
@@ -43,16 +43,16 @@
 | Stop Tanos! | 7.00% | ~18 |
 | If Looks Could Kill | 7.00% | ~18 |
 | The Finitude Drill | 5.00% | ~13 |
+| My Little Torture Chamber | 4.00% | ~10 |
 | Bonus Evilness | 4.00% | ~10 |
 | Sabotage! | 4.00% | ~10 |
-| My Little Torture Chamber | 3.00% | ~8 |
 | Mirror, Mirror | 3.00% | ~8 |
 | Doom Hill | 3.00% | ~8 |
+| Lavalumps on Ice! | 3.00% | ~8 |
 | Rubble and Ashes | 3.00% | ~8 |
 | Gorgu is in the Best of Health | 2.00% | ~5 |
 | Laser Eyes Are So Useless | 2.00% | ~5 |
 | Untouchable | 2.00% | ~5 |
-| Lavalumps on Ice! | 2.00% | ~5 |
 | Raiders of the Lost Stone | 2.00% | ~5 |
 | Brimstone Shaken, Not Stirred | 2.00% | ~5 |
 | The Rune Sockets of Finitude (Part 1) | 2.00% | ~5 |

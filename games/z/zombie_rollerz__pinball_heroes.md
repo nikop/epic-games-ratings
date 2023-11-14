@@ -5,17 +5,17 @@ Rating: 4.30 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~165 |
-| Bullseye! | 84.00% | ~158 |
-| Graduation! | 79.00% | ~149 |
-| Villfir Forest | 74.00% | ~139 |
-| Right in the kisser! | 59.00% | ~111 |
-| The Thrower | 47.00% | ~88 |
-| Duscot Steamcity | 47.00% | ~88 |
-| The Penguin | 45.00% | ~85 |
+| Level Up! | 87.00% | ~164 |
+| Bullseye! | 83.00% | ~157 |
+| Graduation! | 78.00% | ~147 |
+| Villfir Forest | 74.00% | ~140 |
+| Right in the kisser! | 58.00% | ~110 |
+| The Thrower | 47.00% | ~89 |
+| Duscot Steamcity | 47.00% | ~89 |
 | The Shaman | 45.00% | ~85 |
-| The Magician | 40.00% | ~75 |
-| The Tunneler | 39.00% | ~73 |
+| The Penguin | 44.00% | ~83 |
+| The Magician | 40.00% | ~76 |
+| The Tunneler | 39.00% | ~74 |
 | Level Up!! | 37.00% | ~70 |
 | The Shield | 37.00% | ~70 |
 | Kill-streak | 29.00% | ~55 |
@@ -24,9 +24,9 @@ Rating: 4.30 (Ranked 836)
 | The Ninja | 26.00% | ~49 |
 | The Idol | 25.00% | ~47 |
 | Inferno Ruins | 25.00% | ~47 |
-| I'm Rich | 22.00% | ~41 |
-| 1 is all I need | 21.00% | ~39 |
-| The Slime | 21.00% | ~39 |
+| I'm Rich | 22.00% | ~42 |
+| 1 is all I need | 21.00% | ~40 |
+| The Slime | 21.00% | ~40 |
 | Untouchable | 19.00% | ~36 |
 | The Flower | 17.00% | ~32 |
 | The Giant | 17.00% | ~32 |
@@ -36,7 +36,7 @@ Rating: 4.30 (Ranked 836)
 | The Ooze | 15.00% | ~28 |
 | The Assistant | 14.00% | ~26 |
 | Turquoise | 14.00% | ~26 |
-| The Steampunk | 13.00% | ~24 |
+| The Steampunk | 13.00% | ~25 |
 | The Droid | 11.00% | ~21 |
 | Verse | 11.00% | ~21 |
 | Iron | 10.00% | ~19 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 836)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 378)  
+Progressed: 189 (Ranked 378)  
 Completed: 1 (0.53%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 1 (0.53%) (Ranked 194)
 | 2023-11-10 | 185 | 1 |
 | 2023-11-11 | 186 | 1 |
 | 2023-11-12 | 188 | 1 |
+| 2023-11-14 | 189 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

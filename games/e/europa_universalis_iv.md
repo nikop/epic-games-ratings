@@ -24,16 +24,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | Defender of the Faith | 0.10% | ~455 |
 | Double the Love | 0.10% | ~455 |
 | Down Under | 0.10% | ~455 |
+| Dude, Where's my Boat? | 0.10% | ~455 |
 | Early-Modern Warfare | 0.10% | ~455 |
 | Electable! | 0.10% | ~455 |
 | The Emperors new clothes | 0.10% | ~455 |
 | Factionalism | 0.10% | ~455 |
+| A Fine Goosestep | 0.10% | ~455 |
 | Foul Mouthed | 0.10% | ~455 |
+| Four For Trade | 0.10% | ~455 |
 | Gentle Persuasion | 0.10% | ~455 |
 | A Golden Empire | 0.10% | ~455 |
 | That's a Grand Army | 0.10% | ~455 |
 | That's a Grand Navy | 0.10% | ~455 |
 | Hard Bargaining | 0.10% | ~455 |
+| Imperio español | 0.10% | ~455 |
 | In the Name of the Father | 0.10% | ~455 |
 | Italian Ambition | 0.10% | ~455 |
 | It's all about luck | 0.10% | ~455 |
@@ -60,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 0.10% | ~455 |
 | This is My Faith | 0.10% | ~455 |
 | This navy can take it all | 0.10% | ~455 |
+| Three Trivial Tributary Tribes | 0.10% | ~455 |
 | Time Bandit | 0.10% | ~455 |
 | Total Control | 0.10% | ~455 |
 | Trophy Hunter | 0.10% | ~455 |
@@ -141,7 +146,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
-| Dude, Where's my Boat? | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -150,7 +154,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | Fine Financials | 0.00% | ~0 |
-| A Fine Goosestep | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
@@ -158,7 +161,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.00% | ~0 |
 | Forever Golden | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
-| Four For Trade | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | From Humble Origins | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
@@ -187,7 +189,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
-| Imperio español | 0.00% | ~0 |
 | Imposter Syndrome | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
 | Industrial Powerhouse | 0.00% | ~0 |
@@ -334,7 +335,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is fine | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
-| Three Trivial Tributary Tribes | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,397 (Ranked 41)  
+Progressed: 455,443 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,397 | 1 |
+| 2023-11-14 | 455,443 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 54)  
 Sum: 57,505 (Ranked 24)  

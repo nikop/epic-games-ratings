@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6495,9 +6495,9 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718312,
+  "EOS_Progressed": 718337,
   "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3880,
+  "EOS_NewPlayers": 3878,
   "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30260,6 +30260,11 @@
       "Time": "2023-11-14T14:04:31.1607705+00:00",
       "NumProgressed": 718312,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-14T15:04:33.8208768+00:00",
+      "NumProgressed": 718337,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30335,7 +30340,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "ach_contender",
@@ -30631,7 +30636,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ach_dark_magic",
@@ -30639,7 +30644,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ach_gardening_tools",
@@ -30655,7 +30660,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30678,13 +30683,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718312,
+      "Progressed": 718337,
       "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43854,
+      "Progressed": 43879,
       "Completed": 36540
     }
   ],
@@ -30692,8 +30697,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-14T06:57:22.1835881+00:00",
-  "LastChanged_Achievements": "2023-11-14T14:04:31.1607702+00:00",
+  "LastChanged_Achievements": "2023-11-14T15:04:33.8208765+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T13:57:12.2916437+00:00",
-  "LastUpdate_Achievements": "2023-11-14T14:04:31.1609619+00:00"
+  "LastUpdate_Ratings": "2023-11-14T14:57:29.6487438+00:00",
+  "LastUpdate_Achievements": "2023-11-14T15:04:33.8210046+00:00"
 }

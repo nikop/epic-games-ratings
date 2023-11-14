@@ -48,9 +48,9 @@ Number of Ratings: 20  (23.09.2022)
 | The Great Library | 8.00% | ~27 |
 | Level Up | 8.00% | ~27 |
 | Zookeeper | 6.00% | ~20 |
+| Islander Understanding | 6.00% | ~20 |
 | A Paris Sunset | 6.00% | ~20 |
 | The Workshop | 6.00% | ~20 |
-| Islander Understanding | 5.00% | ~17 |
 | The Director Perseveres | 5.00% | ~17 |
 | The Round Table | 5.00% | ~17 |
 | A Familiar Figure | 4.00% | ~14 |
