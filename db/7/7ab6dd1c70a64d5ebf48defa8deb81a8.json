@@ -729,9 +729,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": -1.1,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": -2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_02",
@@ -865,9 +865,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": -1.1,
+      "Percentage": -0.5,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_19",
@@ -1024,8 +1024,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:10:02.8869082+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:08:56.1036175+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:01:52.9943841+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:10:02.8869324+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:00:21.5038254+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:08:56.1036399+00:00"
 }

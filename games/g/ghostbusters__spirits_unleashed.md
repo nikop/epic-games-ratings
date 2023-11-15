@@ -21,12 +21,12 @@ Rating: 4.50 (Ranked 588)
 | Animated | 3.00% | ~931 |
 | Cultured | 3.00% | ~931 |
 | Daily Dose | 3.00% | ~931 |
+| Ectoplasmic Entity | 3.00% | ~931 |
 | Ghostbuster In Training | 3.00% | ~931 |
 | Icing on the Cake | 3.00% | ~931 |
 | Right back at ya | 3.00% | ~931 |
 | Back Off | 2.00% | ~620 |
 | We have the best insurance | 2.00% | ~620 |
-| Ectoplasmic Entity | 2.00% | ~620 |
 | Legions | 2.00% | ~620 |
 | Pesky Jerks | 2.00% | ~620 |
 | Rift Destroyer | 2.00% | ~620 |
@@ -45,7 +45,7 @@ Rating: 4.50 (Ranked 588)
 | Tobin's Prodigy | 1.00% | ~310 |
 | Fragile Panes | 0.90% | ~279 |
 | Liability | 0.90% | ~279 |
-| Surprise! | 0.80% | ~248 |
+| Surprise! | 0.90% | ~279 |
 | Therapeutic | 0.60% | ~186 |
 | Rift Seeker | 0.50% | ~155 |
 | Master Collector | 0.40% | ~124 |

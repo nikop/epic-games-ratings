@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 1096,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1947,8 +1947,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:05:19.5007792+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:04:21.2527684+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:01:18.7342249+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:05:19.5008051+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:59:58.9412867+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:04:21.2527937+00:00"
 }

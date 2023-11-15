@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -957,9 +957,9 @@
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "15",
@@ -996,8 +996,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:04:55.3070137+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:04:04.8831444+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.3694756+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:59:13.3694441+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:04:55.3070377+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:58:36.9574765+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:04:04.8831589+00:00"
 }

@@ -103,6 +103,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Five Colonies | 0.10% | ~456 |
 | The Grand Armada | 0.10% | ~456 |
 | The pen is mightier than the sword | 0.10% | ~456 |
+| The Power of Three | 0.10% | ~456 |
 | The Princess is in this Castle | 0.10% | ~456 |
 | This is My Faith | 0.10% | ~456 |
 | This is Persia! | 0.10% | ~456 |
@@ -333,7 +334,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
-| The Power of Three | 0.00% | ~0 |
 | The Re-Reconquista | 0.00% | ~0 |
 | The Rising Sun | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,934 (Ranked 41)  
+Progressed: 455,966 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,19 +579,19 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 455,934 | 1 |
+| 2023-11-15 | 455,966 | 1 |
 ## Awards
-Max (Educational): 6,999  (Ranked 55)  
-Sum: 57,603 (Ranked 24)  
+Max (Educational): 7,013  (Ranked 55)  
+Sum: 57,635 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,999 |
+| This game is Educational | 7,013 |
 | This game has Diverse Characters | 6,725 |
 | This game is Highly Recommended | 6,712 |
 | This game has Challenging Combat | 6,629 |
 | This game is Extremely Fun | 6,602 |
-| This game is Relaxing | 6,429 |
+| This game is Relaxing | 6,447 |
 | This game has Competitive Players | 6,279 |
 | This game has Amazing Storytelling | 5,829 |
 | This game has Amazing Characters | 5,399 |
@@ -901,4 +901,4 @@ Diff (max vs sum): 31
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
-| 2023-11-15 | 4.69 | - | 6,999 | 57,603 |
+| 2023-11-15 | 4.69 | - | 7,013 | 57,635 |

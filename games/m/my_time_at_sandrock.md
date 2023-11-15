@@ -11,8 +11,8 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 119.00% | ~402 |
 | Your Especially Earned Trajectory | 92.00% | ~311 |
 | No Mountain Wide Enough | 65.00% | ~220 |
-| Can We Keep It? | 63.00% | ~213 |
-| On that Grindset | 62.00% | ~210 |
+| Can We Keep It? | 64.00% | ~216 |
+| On that Grindset | 63.00% | ~213 |
 | Yakmel Whisperer | 61.00% | ~206 |
 | One of the Cool Kids | 58.00% | ~196 |
 | Diamonds are Forever | 57.00% | ~193 |
@@ -36,9 +36,9 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 37.00% | ~125 |
 | Finishing Touches | 37.00% | ~125 |
 | Builder of the Month | 36.00% | ~122 |
-| Commissions, commissions...! | 34.00% | ~115 |
+| Commissions, commissions...! | 35.00% | ~118 |
 | Bridging the Gap | 34.00% | ~115 |
-| Officially Official | 33.00% | ~112 |
+| Officially Official | 34.00% | ~115 |
 | Who Ya Gonna Call...? | 33.00% | ~112 |
 | Waste Not Want Not | 33.00% | ~112 |
 | Martle's Dream | 31.00% | ~105 |
@@ -61,7 +61,7 @@ Number of Ratings: 892  (23.09.2022)
 | It's High Noon... | 9.00% | ~30 |
 | Strong Arms | 9.00% | ~30 |
 | Jack of All Trades | 8.00% | ~27 |
-| Got the Receipt? | 7.00% | ~24 |
+| Got the Receipt? | 8.00% | ~27 |
 | Sandrock's Hottest Club | 3.00% | ~10 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
@@ -88,14 +88,14 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-15 | 342 | 0 |
 ## Awards
 Max (Character Customization): 590  (Ranked 194)  
-Sum: 1,346 (Ranked 239)  
+Sum: 1,348 (Ranked 239)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 590 |
 | This game is Great for Beginners | 104 |
 | This game is Highly Recommended | 87 |
-| This game is Extremely Fun | 84 |
+| This game is Extremely Fun | 86 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 74 |
 | This game is Relaxing | 71 |
@@ -270,3 +270,4 @@ Diff (max vs sum): -45
 | 2023-11-12 | 4.68 | - | 588 | 1,338 |
 | 2023-11-13 | 4.68 | - | 588 | 1,342 |
 | 2023-11-14 | 4.68 | - | 590 | 1,346 |
+| 2023-11-15 | 4.68 | - | 590 | 1,348 |

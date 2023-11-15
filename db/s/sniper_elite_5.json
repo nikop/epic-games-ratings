@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -583,9 +583,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 3866,
+  "EOS_Progressed": 3867,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7903,6 +7903,11 @@
       "Time": "2023-11-15T09:04:29.4758514+00:00",
       "NumProgressed": 3866,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-15T11:04:16.5803997+00:00",
+      "NumProgressed": 3867,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7952,9 +7957,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 503
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7994,15 +7999,15 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
       "SetID": "bm6el81",
       "Name": "Master of Pistols",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_21_MASTER_OF_SECONDARIES",
@@ -8162,7 +8167,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8226,7 +8231,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8250,7 +8255,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8322,7 +8327,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8481,13 +8486,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3817,
+      "Progressed": 3818,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3866,
+      "Progressed": 3867,
       "Completed": 11
     }
   ],
@@ -8495,8 +8500,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-14T08:57:40.9848353+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:05:12.5859349+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:04:16.5803993+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:58:39.4378112+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:05:12.5860368+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:58:14.3801043+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:04:16.5804872+00:00"
 }

@@ -12013,11 +12013,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 57603,
       "NumberOfAwardsMax": 6999
+    },
+    {
+      "Time": "2023-11-15T10:57:33.4697995+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57635,
+      "NumberOfAwardsMax": 7013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57603,
-  "NumberOfAwardsMax": 6999,
+  "NumberOfAwards": 57635,
+  "NumberOfAwardsMax": 7013,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -12048,7 +12054,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6999
+      "Count": 7013
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12066,7 +12072,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6429
+      "Count": 6447
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12087,9 +12093,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455934,
+  "EOS_Progressed": 455966,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6244,
+  "EOS_NewPlayers": 6252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35992,6 +35998,11 @@
       "Time": "2023-11-15T10:04:35.260247+00:00",
       "NumProgressed": 455934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T11:03:51.0960207+00:00",
+      "NumProgressed": 455966,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38417,9 +38428,9 @@
       "ID": "achievement_the_power_of_three",
       "SetID": "8p2n7he",
       "Name": "The Power of Three",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_the_princess_is_in_this_castle",
@@ -38906,21 +38917,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455934,
+      "Progressed": 455966,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455934,
+      "Progressed": 455966,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-15T08:57:44.3298743+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:04:35.2602467+00:00",
+  "LastChanged": "2023-11-15T10:57:33.4697993+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:03:51.0960204+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:57:35.8348853+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:04:35.2613378+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:57:33.4697999+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:03:51.0971622+00:00"
 }

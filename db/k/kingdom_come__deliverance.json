@@ -8479,10 +8479,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28239,
       "NumberOfAwardsMax": 7603
+    },
+    {
+      "Time": "2023-11-15T11:02:43.4658364+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28240,
+      "NumberOfAwardsMax": 7603
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28239,
+  "NumberOfAwards": 28240,
   "NumberOfAwardsMax": 7603,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8532,7 +8538,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1662
+      "Count": 1663
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8565,9 +8571,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808480,
+  "EOS_Progressed": 808481,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32005,6 +32011,11 @@
       "Time": "2023-11-15T10:08:05.7164085+00:00",
       "NumProgressed": 808480,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-15T11:06:14.4957453+00:00",
+      "NumProgressed": 808481,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32216,7 +32227,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185950
+      "UsersEstimate": 185951
     },
     {
       "ID": "Fighter",
@@ -32336,7 +32347,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105102
+      "UsersEstimate": 105103
     },
     {
       "ID": "Judas",
@@ -32671,15 +32682,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808480,
+      "Progressed": 808481,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-15T00:03:18.6414504+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:08:05.7164083+00:00",
+  "LastChanged": "2023-11-15T11:02:43.4658362+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:06:14.4957448+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:02:57.2029678+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:08:05.716564+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:02:43.4658368+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:06:14.4959199+00:00"
 }

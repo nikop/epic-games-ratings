@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Found It | 2.00% | ~4 |
+| Break Out | 0.50% | ~1 |
 | Clear Sight | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
@@ -16,6 +17,7 @@
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
 | Tributes of Caladrias | -0.50% | ~-1 |
+| Shatter Them All | -0.50% | ~-1 |
 | Slayer | -0.50% | ~-1 |
 | Flawless Victory | -0.50% | ~-1 |
 | All There Is | -0.50% | ~-1 |
@@ -24,11 +26,9 @@
 | All That Gold | -0.50% | ~-1 |
 | Stone Collection | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
-| Break Out | -1.10% | ~-2 |
 | Find Allies | -1.10% | ~-2 |
 | Trinity | -1.10% | ~-2 |
 | Adventurer | -1.10% | ~-2 |
-| Shatter Them All | -1.10% | ~-2 |
 | Geared Up | -1.10% | ~-2 |
 | Alchemist | -1.10% | ~-2 |
 | A Queen's Tale | -1.10% | ~-2 |

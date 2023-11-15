@@ -11212,18 +11212,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 42657,
       "NumberOfAwardsMax": 5495
+    },
+    {
+      "Time": "2023-11-15T10:58:56.4802559+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42673,
+      "NumberOfAwardsMax": 5511
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42657,
-  "NumberOfAwardsMax": 5495,
+  "NumberOfAwards": 42673,
+  "NumberOfAwardsMax": 5511,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5495
+      "Count": 5511
     },
     {
       "Text": "This game is Relaxing",
@@ -11292,9 +11298,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51670,
+  "EOS_Progressed": 51671,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30192,6 +30198,11 @@
       "Time": "2023-11-15T10:03:56.8363613+00:00",
       "NumProgressed": 51670,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T11:03:24.2231788+00:00",
+      "NumProgressed": 51671,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -30203,7 +30214,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7750
+      "UsersEstimate": 7751
     },
     {
       "ID": "BreedCows",
@@ -30291,7 +30302,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 11367
+      "UsersEstimate": 11368
     },
     {
       "ID": "CutTreeFirst",
@@ -30339,7 +30350,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 31002
+      "UsersEstimate": 31003
     },
     {
       "ID": "Harvested",
@@ -30355,7 +30366,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38752
+      "UsersEstimate": 38753
     },
     {
       "ID": "HorseJumps",
@@ -30411,7 +30422,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27385
+      "UsersEstimate": 27386
     },
     {
       "ID": "NumBeehives",
@@ -30451,7 +30462,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 11367
+      "UsersEstimate": 11368
     },
     {
       "ID": "NumVehiclesSmall",
@@ -30491,7 +30502,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 32035
+      "UsersEstimate": 32036
     },
     {
       "ID": "Stones",
@@ -30499,7 +30510,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "TractorDriving",
@@ -30507,7 +30518,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 22218
+      "UsersEstimate": 22219
     },
     {
       "ID": "TruckDriving",
@@ -30539,22 +30550,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7750
+      "UsersEstimate": 7751
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51670,
+      "Progressed": 51671,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-11-14T22:59:34.3269771+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:03:56.8363609+00:00",
+  "LastChanged": "2023-11-15T10:58:56.4802558+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:03:24.2231783+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:00.8695856+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:59:44.0431503+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:03:56.8365245+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:58:56.4802563+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:03:24.2232974+00:00"
 }

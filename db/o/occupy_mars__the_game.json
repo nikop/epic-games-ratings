@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1709,
+  "EOS_Progressed": 1710,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4211,6 +4211,11 @@
       "Time": "2023-11-14T22:04:05.1446888+00:00",
       "NumProgressed": 1709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T11:04:00.976934+00:00",
+      "NumProgressed": 1710,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4380,9 +4385,9 @@
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 86
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -4414,7 +4419,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4470,7 +4475,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4605,7 +4610,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1709,
+      "Progressed": 1710,
       "Completed": 0
     }
   ],
@@ -4613,8 +4618,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:04:49.7287872+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:04:00.9769336+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9996626+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:58:42.8186031+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:04:49.728837+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:58:16.6094161+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:04:00.9769832+00:00"
 }

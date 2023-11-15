@@ -25,6 +25,8 @@ Rating: 4.22 (Ranked 897)
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
 | Rune Novice | 0.20% | ~3 |
+| Unbroken to the End | 0.20% | ~3 |
+| Seasoned | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
@@ -39,7 +41,6 @@ Rating: 4.22 (Ranked 897)
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |
-| Unbroken to the End | 0.10% | ~2 |
 | Wings of Grief | 0.10% | ~2 |
 | Twin Faces of Sin | 0.10% | ~2 |
 | Judgement | 0.10% | ~2 |
@@ -64,7 +65,6 @@ Rating: 4.22 (Ranked 897)
 | Back to the Void | 0.10% | ~2 |
 | A Shadow Dispelled | 0.10% | ~2 |
 | Essence of Death | 0.10% | ~2 |
-| Seasoned | 0.10% | ~2 |
 | Lord of the Fallen | 0.10% | ~2 |
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |

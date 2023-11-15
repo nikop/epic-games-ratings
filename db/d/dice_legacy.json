@@ -2318,9 +2318,9 @@
       "ID": "GOLDMASTER",
       "SetID": "6ohhfoc",
       "Name": "Greedy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 58
     },
     {
       "ID": "PREVENTRIOT",
@@ -2495,8 +2495,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:07:07.588185+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:05:34.301022+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:20.4022429+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:00:36.3844864+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:07:07.5882217+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:59:31.5177798+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:05:34.3010608+00:00"
 }

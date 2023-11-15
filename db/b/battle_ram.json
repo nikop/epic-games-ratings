@@ -1429,9 +1429,9 @@
       "ID": "ach_5",
       "SetID": "392n4e7",
       "Name": "Ram First Sergeant",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "ach_6",
@@ -1476,8 +1476,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:05:40.6148603+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:04:36.067182+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.893608+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:01:50.6582564+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:05:40.6148766+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:00:19.7539969+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:04:36.0671999+00:00"
 }

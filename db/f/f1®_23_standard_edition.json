@@ -519,9 +519,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5734,
+  "EOS_Progressed": 5735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5554,6 +5554,11 @@
       "Time": "2023-11-15T06:04:29.5428712+00:00",
       "NumProgressed": 5734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T11:04:30.7371998+00:00",
+      "NumProgressed": 5735,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5606,7 +5611,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "achievement_0007",
@@ -5614,7 +5619,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5333
+      "UsersEstimate": 5334
     },
     {
       "ID": "achievement_0008",
@@ -5662,7 +5667,7 @@
       "Name": "Oil and Water",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_0014",
@@ -5694,7 +5699,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_0018",
@@ -5726,7 +5731,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4243
+      "UsersEstimate": 4244
     },
     {
       "ID": "achievement_0022",
@@ -5790,7 +5795,7 @@
       "Name": "Reduce",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "achievement_0030",
@@ -5798,7 +5803,7 @@
       "Name": "Reuse",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "achievement_0031",
@@ -5822,7 +5827,7 @@
       "Name": "Engineer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "achievement_0034",
@@ -5846,7 +5851,7 @@
       "Name": "Ups and Downs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "achievement_0037",
@@ -5924,9 +5929,9 @@
       "ID": "achievement_0046",
       "SetID": "9123ogc",
       "Name": "Writing a new Chapter",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1376
     },
     {
       "ID": "achievement_0047",
@@ -5950,14 +5955,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5734,
+      "Progressed": 5735,
       "Completed": 0
     }
   ],
@@ -5965,8 +5970,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-15T07:58:19.0332491+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:05:33.1097704+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:04:30.7371994+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:58:12.3731716+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:05:33.1098172+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:57:57.0056292+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:04:30.737254+00:00"
 }

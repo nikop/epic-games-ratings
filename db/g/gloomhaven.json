@@ -2435,9 +2435,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20729,
+  "EOS_Progressed": 20731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1475,
+  "EOS_NewPlayers": 1476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9350,6 +9350,11 @@
       "Time": "2023-11-15T10:07:12.6439157+00:00",
       "NumProgressed": 20729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T11:05:37.7621324+00:00",
+      "NumProgressed": 20731,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9362,7 +9367,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_Trophy02",
@@ -9426,7 +9431,7 @@
       "Name": "Caught off guard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_Trophy10",
@@ -9538,7 +9543,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "Achievement_Trophy24",
@@ -9546,7 +9551,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9562,7 +9567,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7255
+      "UsersEstimate": 7256
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9602,7 +9607,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9626,7 +9631,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "Achievement_Trophy35",
@@ -9634,7 +9639,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_Trophy36",
@@ -9642,7 +9647,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_Trophy37",
@@ -9650,7 +9655,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9714,7 +9719,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "Achievement_Trophy46",
@@ -9746,7 +9751,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "Achievement_Trophy50",
@@ -9849,7 +9854,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20729,
+      "Progressed": 20731,
       "Completed": 1
     }
   ],
@@ -9857,8 +9862,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T14:59:20.1749081+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:07:12.6439153+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:05:37.762132+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:00:45.5557876+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:07:12.6439971+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:59:37.3236725+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:05:37.7622077+00:00"
 }

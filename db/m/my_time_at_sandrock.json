@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1426,10 +1426,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1346,
       "NumberOfAwardsMax": 590
+    },
+    {
+      "Time": "2023-11-15T10:58:58.3388567+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1348,
+      "NumberOfAwardsMax": 590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1346,
+  "NumberOfAwards": 1348,
   "NumberOfAwardsMax": 590,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1473,7 +1479,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1514,7 +1520,7 @@
   ],
   "EOS_Progressed": 338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2958,9 +2964,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "C_STAYUP",
@@ -3030,9 +3036,9 @@
       "ID": "M_COMMISSION",
       "SetID": "80dcan0",
       "Name": "Commissions, commissions...!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "M_DISH",
@@ -3078,9 +3084,9 @@
       "ID": "M_PET",
       "SetID": "80dcan0",
       "Name": "Can We Keep It?",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 216
     },
     {
       "ID": "P_BEAUTIFYSANDROCK",
@@ -3150,9 +3156,9 @@
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "P_OWENSTORY",
@@ -3286,9 +3292,9 @@
       "ID": "S_GIFT_HATE",
       "SetID": "80dcan0",
       "Name": "Got the Receipt?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "S_GIFT_LOVE",
@@ -3429,9 +3435,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2023-11-14T23:59:51.5817647+00:00",
-  "LastChanged_Achievements": "2023-11-15T10:03:50.9983323+00:00",
+  "LastChanged": "2023-11-15T10:58:58.3388566+00:00",
+  "LastChanged_Achievements": "2023-11-15T11:03:20.0390676+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.2013497+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:59:46.6891555+00:00",
-  "LastUpdate_Achievements": "2023-11-15T10:03:50.9983953+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:58:58.3388588+00:00",
+  "LastUpdate_Achievements": "2023-11-15T11:03:20.0391173+00:00"
 }
