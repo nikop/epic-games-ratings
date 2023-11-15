@@ -58,8 +58,8 @@
 | 56 | [Sifu](games/s/sifu.md) | 6,800 | 4.82 | 66 |
 | 57 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 713 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,525 | 4.58 | 444 |
-| 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,485 | 4.75 | 145 |
-| 60 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,465 | 4.80 | 86 |
+| 59 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,497 | 4.75 | 145 |
+| 60 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,466 | 4.80 | 86 |
 | 61 | [Cities: Skylines](games/c/cities__skylines.md) | 6,175 | 4.66 | 293 |
 | 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,099 | 4.79 | 96 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,056 | 4.82 | 66 |
@@ -73,11 +73,11 @@
 | 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,463 | 4.69 | 231 |
 | 72 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,060 | 4.76 | 128 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,889 | 4.60 | 411 |
-| 74 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,830 | 4.56 | 489 |
-| 75 | [Shop Titans](games/s/shop_titans.md) | 4,828 | 3.99 | 998 |
+| 74 | [Shop Titans](games/s/shop_titans.md) | 4,831 | 3.99 | 998 |
+| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,830 | 4.56 | 489 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,751 | 4.56 | 489 |
-| 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,678 | 4.70 | 212 |
-| 78 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,677 | 3.97 | 1,001 |
+| 77 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,695 | 3.97 | 1,001 |
+| 78 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,678 | 4.70 | 212 |
 | 79 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,600 | 4.70 | 212 |
 | 80 | [SMITE](games/s/smite.md) | 4,586 | 4.43 | 688 |
 | 81 | [God of War](games/g/god_of_war.md) | 4,378 | 4.88 | 17 |
@@ -126,7 +126,7 @@
 | 124 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,667 | 4.55 | 504 |
 | 125 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,620 | 4.62 | 366 |
 | 126 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,567 | 4.79 | 96 |
-| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,548 | 4.54 | 523 |
+| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,549 | 4.54 | 523 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,544 | 4.86 | 30 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,513 | 4.53 | 539 |
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,509 | 4.41 | 720 |
@@ -539,9 +539,10 @@
 | 532 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 22 | 4.58 | 444 |
 | 538 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 349 |
 | 538 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 21 | 4.86 | 30 |
+| 538 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 21 | 4.15 | 941 |
 | 538 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 444 |
-| 541 | [Aztez](games/a/aztez.md) | 20 | 4.56 | 489 |
-| 541 | [Figment](games/f/figment.md) | 20 | 4.46 | 645 |
-| 541 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 850 |
-| 541 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 635 |
-| 541 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 20 | 4.36 | 780 |
+| 542 | [Aztez](games/a/aztez.md) | 20 | 4.56 | 489 |
+| 542 | [Figment](games/f/figment.md) | 20 | 4.46 | 645 |
+| 542 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 850 |
+| 542 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 635 |
+| 542 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 20 | 4.36 | 780 |
