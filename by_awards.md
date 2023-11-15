@@ -49,7 +49,7 @@
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 7,936 | 4.77 | 115 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,933 | 4.70 | 213 |
 | 49 | [Supraland](games/s/supraland.md) | 7,723 | 4.61 | 385 |
-| 50 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,601 | 4.71 | 199 |
+| 50 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,603 | 4.71 | 199 |
 | 51 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,514 | 4.68 | 252 |
 | 52 | [Dead Island 2](games/d/dead_island_2.md) | 7,440 | 4.54 | 523 |
 | 53 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,417 | 4.77 | 115 |
@@ -64,7 +64,7 @@
 | 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,094 | 4.79 | 96 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,056 | 4.82 | 66 |
 | 64 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,992 | 4.64 | 332 |
-| 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,961 | 4.66 | 293 |
+| 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,963 | 4.66 | 293 |
 | 66 | [Prey](games/p/prey.md) | 5,771 | 4.63 | 349 |
 | 67 | [Rogue Company](games/r/rogue_company.md) | 5,650 | 4.31 | 830 |
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,618 | 4.85 | 44 |
@@ -179,8 +179,8 @@
 | 177 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 737 | 4.87 | 24 |
 | 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 733 | 4.60 | 411 |
 | 179 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 721 | 4.59 | 430 |
-| 180 | [FAR CRY 4](games/f/far_cry_4.md) | 719 | 4.67 | 271 |
-| 180 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 719 | 4.67 | 271 |
+| 180 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 720 | 4.67 | 271 |
+| 181 | [FAR CRY 4](games/f/far_cry_4.md) | 719 | 4.67 | 271 |
 | 182 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 714 | 4.59 | 430 |
 | 183 | [Neon Abyss](games/n/neon_abyss.md) | 705 | 4.68 | 252 |
 | 184 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 698 | 4.67 | 271 |
@@ -215,7 +215,7 @@
 | 213 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 293 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 459 | 4.71 | 199 |
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 457 | 4.84 | 51 |
-| 216 | [RimWorld](games/r/rimworld.md) | 451 | 4.89 | 12 |
+| 216 | [RimWorld](games/r/rimworld.md) | 452 | 4.89 | 12 |
 | 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 450 | 4.70 | 213 |
 | 218 | [Warface](games/w/warface.md) | 442 | 3.90 | 1,016 |
 | 219 | [Against the Storm](games/a/against_the_storm.md) | 439 | 4.81 | 78 |
@@ -414,9 +414,9 @@
 | 411 | [Ranch Simulator](games/r/ranch_simulator.md) | 59 | 4.43 | 688 |
 | 411 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 675 |
 | 414 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 58 | 4.21 | 901 |
-| 415 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 56 | 4.65 | 312 |
-| 415 | [Session: Skate Sim](games/s/session__skate_sim.md) | 56 | 4.69 | 231 |
-| 415 | [The Escapists 2](games/t/the_escapists_2.md) | 56 | 4.58 | 444 |
+| 415 | [Session: Skate Sim](games/s/session__skate_sim.md) | 57 | 4.69 | 231 |
+| 416 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 56 | 4.65 | 312 |
+| 416 | [The Escapists 2](games/t/the_escapists_2.md) | 56 | 4.58 | 444 |
 | 418 | [Obduction](games/o/obduction.md) | 55 | 4.09 | 962 |
 | 419 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 54 | 4.66 | 293 |
 | 419 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 54 | 4.30 | 835 |
@@ -529,7 +529,7 @@
 | 520 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.25 | 874 |
 | 528 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 23 | 4.88 | 17 |
 | 528 | [DEMON'S TILT](games/d/demon's_tilt.md) | 23 | 4.53 | 539 |
-| 528 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 23 | 4.14 | 947 |
+| 528 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 23 | 4.15 | 941 |
 | 528 | [We Were Here Forever](games/w/we_were_here_forever.md) | 23 | 4.66 | 293 |
 | 532 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.23 | 891 |
 | 532 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 910 |

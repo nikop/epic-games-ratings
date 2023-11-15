@@ -38,6 +38,7 @@
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 | 2 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 | 2 |
 | [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |
+| [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 | 2 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 | 2 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 | 2 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 | 2 |
