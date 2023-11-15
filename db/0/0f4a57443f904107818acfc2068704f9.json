@@ -2,9 +2,9 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.33,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -276,6 +276,11 @@
       "Time": "2023-11-15T03:06:04.2916526+00:00",
       "NumProgressed": 75,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T09:06:24.3102105+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -342,7 +347,7 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -366,7 +371,7 @@
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -390,7 +395,7 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -398,7 +403,7 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -414,7 +419,7 @@
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -422,7 +427,7 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -430,7 +435,7 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -438,7 +443,7 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -446,9 +451,9 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter5",
@@ -478,9 +483,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CompleteChapter9",
@@ -534,9 +539,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Win100OnlineMatched",
@@ -558,7 +563,7 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -566,7 +571,7 @@
       "ID": "Win50ConquestBattles",
       "SetID": "52ail55",
       "Name": "Warmaster Supreme",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -583,13 +588,13 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:07:51.5815916+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:06:24.31021+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:02:44.5523882+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:07:51.5816185+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:00:53.4158492+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:06:24.3102351+00:00"
 }

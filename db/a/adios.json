@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78388,
+  "EOS_Progressed": 78391,
   "EOS_Completed": 842,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -23457,6 +23457,11 @@
       "Time": "2023-11-15T08:08:05.2321389+00:00",
       "NumProgressed": 78388,
       "NumCompleted": 842
+    },
+    {
+      "Time": "2023-11-15T09:06:35.0871533+00:00",
+      "NumProgressed": 78391,
+      "NumCompleted": 842
     }
   ],
   "TotalAchievements": 25,
@@ -23500,7 +23505,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17245
+      "UsersEstimate": 17246
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -23564,7 +23569,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3919
+      "UsersEstimate": 3920
     },
     {
       "ID": "Master, Commander",
@@ -23572,7 +23577,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16461
+      "UsersEstimate": 16462
     },
     {
       "ID": "Meaty",
@@ -23596,7 +23601,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12542
+      "UsersEstimate": 12543
     },
     {
       "ID": "Nothing Left to Say",
@@ -23620,7 +23625,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10190
+      "UsersEstimate": 10191
     },
     {
       "ID": "Sniper",
@@ -23667,7 +23672,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78388,
+      "Progressed": 78391,
       "Completed": 842
     }
   ],
@@ -23675,8 +23680,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:08:05.2321379+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:06:35.0871525+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.731419+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:00:49.8534255+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:08:05.2322612+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:00:04.9380803+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:06:35.0872776+00:00"
 }

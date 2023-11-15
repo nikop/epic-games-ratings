@@ -8,7 +8,7 @@ Rating: 4.50 (Ranked 588)
 | Rooftop Duel | 99.00% | ~7,916 |
 | For Saw Gerrera | 98.00% | ~7,836 |
 | Grab Some Seat | 91.00% | ~7,276 |
-| Can You Pet the Bogling? | 86.00% | ~6,877 |
+| Can You Pet the Bogling? | 87.00% | ~6,957 |
 | The Past Made Present | 82.00% | ~6,557 |
 | Survivors, We Adapt | 78.00% | ~6,237 |
 | Among the Masters | 77.00% | ~6,157 |

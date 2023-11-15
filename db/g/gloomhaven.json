@@ -2435,9 +2435,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20721,
+  "EOS_Progressed": 20723,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1470,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9340,6 +9340,11 @@
       "Time": "2023-11-15T08:07:19.2060532+00:00",
       "NumProgressed": 20721,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T09:05:58.6576197+00:00",
+      "NumProgressed": 20723,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9488,7 +9493,7 @@
       "Name": "Spoiler police!",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Achievement_Trophy19",
@@ -9536,7 +9541,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8703
+      "UsersEstimate": 8704
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9552,7 +9557,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7252
+      "UsersEstimate": 7253
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9568,7 +9573,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6838
+      "UsersEstimate": 6839
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9584,7 +9589,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6216
+      "UsersEstimate": 6217
     },
     {
       "ID": "Achievement_Trophy31",
@@ -9640,7 +9645,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5180
+      "UsersEstimate": 5181
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9728,7 +9733,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "Achievement_Trophy49",
@@ -9839,7 +9844,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20721,
+      "Progressed": 20723,
       "Completed": 1
     }
   ],
@@ -9847,8 +9852,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T14:59:20.1749081+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:07:19.2060527+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:05:58.6576189+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:00:46.728036+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:07:19.2061442+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:00:03.088147+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:05:58.6577001+00:00"
 }

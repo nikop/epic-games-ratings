@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~190,571 |
-| Destroyer-In-Chief | 57.00% | ~172,422 |
-| There Is No Pancakes | 53.00% | ~160,322 |
-| First of Many | 42.00% | ~127,047 |
-| Woah. | 36.00% | ~108,898 |
-| Don't Look Down | 29.00% | ~87,723 |
-| Don't Panic | 28.00% | ~84,698 |
-| Ooo A Piece of Candy! | 22.00% | ~66,549 |
-| Ghost in the Machine | 18.00% | ~54,449 |
-| All Too Easy | 15.00% | ~45,374 |
-| Didn't Need to See Him Naked | 13.00% | ~39,324 |
-| Indomitable | 10.00% | ~30,249 |
-| Blast from the Past | 9.00% | ~27,224 |
-| Bow to the Boss! | 9.00% | ~27,224 |
-| Friend of the Raptors | 9.00% | ~27,224 |
-| About Time! | 8.00% | ~24,200 |
+| Zero Saints Thirty | 63.00% | ~190,579 |
+| Destroyer-In-Chief | 57.00% | ~172,429 |
+| There Is No Pancakes | 53.00% | ~160,329 |
+| First of Many | 42.00% | ~127,053 |
+| Woah. | 36.00% | ~108,903 |
+| Don't Look Down | 29.00% | ~87,727 |
+| Don't Panic | 28.00% | ~84,702 |
+| Ooo A Piece of Candy! | 22.00% | ~66,552 |
+| Ghost in the Machine | 18.00% | ~54,451 |
+| All Too Easy | 15.00% | ~45,376 |
+| Didn't Need to See Him Naked | 13.00% | ~39,326 |
+| Indomitable | 10.00% | ~30,251 |
+| Blast from the Past | 9.00% | ~27,226 |
+| Bow to the Boss! | 9.00% | ~27,226 |
+| Friend of the Raptors | 9.00% | ~27,226 |
+| About Time! | 8.00% | ~24,201 |
 | Actor-Turned-Politician | 7.00% | ~21,175 |
 | Betrayed | 7.00% | ~21,175 |
 | Maximum Stopping Power | 7.00% | ~21,175 |
@@ -56,29 +56,29 @@ Rating: 4.41 (Ranked 720)
 | Switch Hitter | 1.00% | ~3,025 |
 | The Whole Story | 1.00% | ~3,025 |
 | Zoo Keeper | 1.00% | ~3,025 |
-| Make a List, Check it Twice | 0.90% | ~2,722 |
-| Dear Santa | 0.70% | ~2,117 |
-| Rigging the Race | 0.70% | ~2,117 |
+| Make a List, Check it Twice | 0.90% | ~2,723 |
+| Dear Santa | 0.70% | ~2,118 |
+| Rigging the Race | 0.70% | ~2,118 |
 | Back in the Day | 0.60% | ~1,815 |
-| Health Inspector | 0.50% | ~1,512 |
+| Health Inspector | 0.50% | ~1,513 |
 | Bringin' the Heat | 0.40% | ~1,210 |
 | Walking the Dinosaur | 0.40% | ~1,210 |
-| Experimental Tech | 0.30% | ~907 |
-| Fist Meet Ground | 0.30% | ~907 |
-| Fourth and Forty | 0.30% | ~907 |
-| The Challenge King | 0.30% | ~907 |
-| A World Without Christmas | 0.10% | ~302 |
-| Epic Jump Quest | 0.10% | ~302 |
-| Get that Kid to a Psychologist | 0.10% | ~302 |
-| He's Still on the Naughty List | 0.10% | ~302 |
-| Hello Little Friend | 0.10% | ~302 |
-| I Am Become Death | 0.10% | ~302 |
-| OMGWTFBBQ | 0.10% | ~302 |
-| Pounding the Pavement | 0.10% | ~302 |
-| Super Power Team Up! | 0.10% | ~302 |
-| Ultimate Hot Potato | 0.10% | ~302 |
+| Experimental Tech | 0.30% | ~908 |
+| Fist Meet Ground | 0.30% | ~908 |
+| Fourth and Forty | 0.30% | ~908 |
+| The Challenge King | 0.30% | ~908 |
+| A World Without Christmas | 0.10% | ~303 |
+| Epic Jump Quest | 0.10% | ~303 |
+| Get that Kid to a Psychologist | 0.10% | ~303 |
+| He's Still on the Naughty List | 0.10% | ~303 |
+| Hello Little Friend | 0.10% | ~303 |
+| I Am Become Death | 0.10% | ~303 |
+| OMGWTFBBQ | 0.10% | ~303 |
+| Pounding the Pavement | 0.10% | ~303 |
+| Super Power Team Up! | 0.10% | ~303 |
+| Ultimate Hot Potato | 0.10% | ~303 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,494 (Ranked 50)  
+Progressed: 302,507 (Ranked 50)  
 Completed: 16 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 16 (0.01%) (Ranked 330)
 | 2023-11-12 | 301,272 | 16 |
 | 2023-11-13 | 301,823 | 16 |
 | 2023-11-14 | 302,336 | 16 |
-| 2023-11-15 | 302,494 | 16 |
+| 2023-11-15 | 302,507 | 16 |
 ## Awards
 Max (Great Boss Battles): 487  (Ranked 209)  
 Sum: 487 (Ranked 325)  

@@ -18,14 +18,14 @@ Rating: 4.46 (Ranked 645)
 | Liberté | 23.00% | ~889 |
 | Organ Grinder | 23.00% | ~889 |
 | As Quiet as a Mouse | 23.00% | ~889 |
-| Sharpshooter | 22.00% | ~850 |
-| Gunslinger | 19.00% | ~734 |
-| Explosive Efficiency | 19.00% | ~734 |
+| Sharpshooter | 22.00% | ~851 |
+| Gunslinger | 19.00% | ~735 |
+| Explosive Efficiency | 19.00% | ~735 |
 | Just a Flesh Wound | 17.00% | ~657 |
 | Der Geist | 17.00% | ~657 |
-| Climbing the Ladder | 16.00% | ~618 |
-| Close Quarters | 16.00% | ~618 |
-| Snake in the Grass | 16.00% | ~618 |
+| Climbing the Ladder | 16.00% | ~619 |
+| Close Quarters | 16.00% | ~619 |
+| Snake in the Grass | 16.00% | ~619 |
 | Skirmisher | 15.00% | ~580 |
 | Die Nussknacker Sweet! | 15.00% | ~580 |
 | Brains of the Operation | 15.00% | ~580 |
@@ -33,9 +33,9 @@ Rating: 4.46 (Ranked 645)
 | Opposing Force | 14.00% | ~541 |
 | Enemy at the Gates | 14.00% | ~541 |
 | Fields of Glory | 14.00% | ~541 |
-| Set Europe Ablaze | 13.00% | ~502 |
-| Precision Is Key | 10.00% | ~386 |
-| My Little Friend | 10.00% | ~386 |
+| Set Europe Ablaze | 13.00% | ~503 |
+| Precision Is Key | 10.00% | ~387 |
+| My Little Friend | 10.00% | ~387 |
 | Rigged to Blow | 9.00% | ~348 |
 | Herr Today, Gone Tomorrow | 7.00% | ~267 |
 | Operation Foxley | 6.00% | ~229 |
@@ -53,8 +53,8 @@ Rating: 4.46 (Ranked 645)
 | Burn after reading | 3.00% | ~116 |
 | Souvenir hunter | 3.00% | ~116 |
 | Shoot for the Moon | 3.00% | ~116 |
-| If You Go Down To The Woods Today | 3.00% | ~114 |
-| Fight Another Day | 3.00% | ~114 |
+| If You Go Down To The Woods Today | 3.00% | ~115 |
+| Fight Another Day | 3.00% | ~115 |
 | Out of Scope | 2.00% | ~77 |
 | Eagle Eyed | 2.00% | ~77 |
 | Up close and personal | 2.00% | ~77 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 645)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,865 (Ranked 192)  
+Progressed: 3,866 (Ranked 192)  
 Completed: 11 (0.28%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 11 (0.28%) (Ranked 236)
 | 2023-11-12 | 3,857 | 11 |
 | 2023-11-13 | 3,862 | 11 |
 | 2023-11-14 | 3,864 | 11 |
-| 2023-11-15 | 3,865 | 11 |
+| 2023-11-15 | 3,866 | 11 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 520)  
 Sum: 24 (Ranked 525)  

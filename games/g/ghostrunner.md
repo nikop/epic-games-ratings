@@ -6,20 +6,20 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,161 |
-| Sword Runner | 61.00% | ~13,774 |
-| Running out of breath | 54.00% | ~12,193 |
-| Wallrunner | 53.00% | ~11,967 |
-| Homerunner | 45.00% | ~10,161 |
-| Out of order | 44.00% | ~9,935 |
-| I call it luck | 43.00% | ~9,709 |
-| Where are my Keys? | 40.00% | ~9,032 |
+| Longrunner | 76.00% | ~17,162 |
+| Sword Runner | 61.00% | ~13,775 |
+| Running out of breath | 54.00% | ~12,194 |
+| Wallrunner | 53.00% | ~11,968 |
+| Homerunner | 45.00% | ~10,162 |
+| Out of order | 44.00% | ~9,936 |
+| I call it luck | 43.00% | ~9,710 |
+| Where are my Keys? | 40.00% | ~9,033 |
 | Back to hell | 37.00% | ~8,355 |
 | Perfection | 32.00% | ~7,226 |
-| Why not both | 30.00% | ~6,774 |
-| Sword to a gunfight | 29.00% | ~6,548 |
-| Upgrades not mandatory | 29.00% | ~6,548 |
-| Artificial selection | 28.00% | ~6,322 |
+| Why not both | 30.00% | ~6,775 |
+| Sword to a gunfight | 29.00% | ~6,549 |
+| Upgrades not mandatory | 29.00% | ~6,549 |
+| Artificial selection | 28.00% | ~6,323 |
 | Control freak | 27.00% | ~6,097 |
 | Running Wild | 27.00% | ~6,097 |
 | Finish line | 26.00% | ~5,871 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~90 |
 | Up Close And Personal | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,580 (Ranked 128)  
+Progressed: 22,582 (Ranked 128)  
 Completed: 85 (0.38%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 85 (0.38%) (Ranked 216)
 | 2023-11-12 | 22,468 | 84 |
 | 2023-11-13 | 22,528 | 84 |
 | 2023-11-14 | 22,573 | 85 |
-| 2023-11-15 | 22,580 | 85 |
+| 2023-11-15 | 22,582 | 85 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 205)  
 Sum: 751 (Ranked 286)  

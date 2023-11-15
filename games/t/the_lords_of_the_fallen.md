@@ -17,6 +17,7 @@ Rating: 4.22 (Ranked 897)
 | Rise and Fall | 0.30% | ~5 |
 | Together in Death | 0.30% | ~5 |
 | Burying the Past | 0.30% | ~5 |
+| Unwanted | 0.30% | ~5 |
 | A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
@@ -24,7 +25,6 @@ Rating: 4.22 (Ranked 897)
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
 | Rune Novice | 0.20% | ~3 |
-| Unwanted | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |

@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4875,
+  "EOS_Progressed": 4877,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9260,6 +9260,11 @@
       "Time": "2023-11-15T07:03:23.7850296+00:00",
       "NumProgressed": 4875,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T09:03:30.7889481+00:00",
+      "NumProgressed": 4877,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9304,7 +9309,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9328,7 +9333,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9336,7 +9341,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -9352,7 +9357,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -9384,7 +9389,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9400,7 +9405,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -9432,7 +9437,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9455,15 +9460,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4875,
+      "Progressed": 4877,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:04:12.7310229+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:03:30.7889476+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:59:48.4720214+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:04:12.7310778+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:59:18.7306141+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:03:30.7890298+00:00"
 }

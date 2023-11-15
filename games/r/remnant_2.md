@@ -47,6 +47,7 @@ Rating: 4.75 (Ranked 145)
 | Transmutate | 0.10% | ~221 |
 | Regicide | 0.10% | ~0 |
 | Master of the Dark Arts | 0.10% | ~0 |
+| A Foul Feast | 0.10% | ~0 |
 | Expanding Horizons | 0.00% | ~0 |
 | Chaos | 0.00% | ~0 |
 | Traitor | 0.00% | ~0 |
@@ -58,10 +59,9 @@ Rating: 4.75 (Ranked 145)
 | Was This Supposed To Happen? | 0.00% | ~0 |
 | The Web | 0.00% | ~0 |
 | Succession | 0.00% | ~0 |
-| A Foul Feast | 0.00% | ~0 |
 | You Shall Pass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,020 (Ranked 68)  
+Progressed: 221,036 (Ranked 68)  
 Completed: 453 (0.20%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 453 (0.20%) (Ranked 251)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,020 | 453 |
+| 2023-11-15 | 221,036 | 453 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 4,997 (Ranked 137)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -461,7 +461,7 @@
   ],
   "EOS_Progressed": 5392,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7262,9 +7262,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "27",
@@ -7502,9 +7502,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "50",
@@ -7613,8 +7613,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:05:58.301491+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:04:53.9000899+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:58:15.2329273+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:05:58.3015742+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:58:08.0552203+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:04:53.9001551+00:00"
 }

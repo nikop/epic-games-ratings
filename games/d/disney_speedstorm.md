@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,684 |
-| IT MAKES BOOM! | 6.00% | ~17,810 |
-| EXTRA BOOST | 5.00% | ~14,842 |
-| PROTECTED | 4.00% | ~11,873 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,905 |
-| PRO | 3.00% | ~8,905 |
+| ROOKIE | 10.00% | ~29,685 |
+| IT MAKES BOOM! | 6.00% | ~17,811 |
+| EXTRA BOOST | 5.00% | ~14,843 |
+| PROTECTED | 4.00% | ~11,874 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,906 |
+| PRO | 3.00% | ~8,906 |
 | A TIGER'S FEAR | 2.00% | ~5,937 |
 | AGGRESSIVE RACER | 2.00% | ~5,937 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,968 |
-| ACE SPEEDSTER | 1.00% | ~2,968 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,969 |
+| ACE SPEEDSTER | 1.00% | ~2,969 |
 | RELEASE THE KRAKEN | 0.80% | ~2,375 |
 | BE OUR GUEST | 0.80% | ~2,375 |
 | LEGENDARY HERO | 0.80% | ~2,375 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 748)
 | PERFECTLY POISED | 0.20% | ~594 |
 | ACE TRICKSTER | 0.20% | ~594 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,837 (Ranked 52)  
+Progressed: 296,853 (Ranked 52)  
 Completed: 285 (0.10%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,15 +235,15 @@ Completed: 285 (0.10%) (Ranked 276)
 | 2023-11-12 | 294,059 | 281 |
 | 2023-11-13 | 295,317 | 283 |
 | 2023-11-14 | 296,465 | 285 |
-| 2023-11-15 | 296,837 | 285 |
+| 2023-11-15 | 296,853 | 285 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 401)  
-Sum: 546 (Ranked 318)  
+Sum: 548 (Ranked 318)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 70 |
-| This game has Diverse Characters | 64 |
+| This game has Diverse Characters | 66 |
 | This game is Great for Quick Sessions | 62 |
 | This game has Amazing Characters | 48 |
 | This game has Competitive Players | 43 |
@@ -302,4 +302,4 @@ Diff (max vs sum): 83
 | 2023-11-12 | 4.39 | 65 | 524 |
 | 2023-11-13 | 4.39 | 65 | 529 |
 | 2023-11-14 | 4.38 | 70 | 545 |
-| 2023-11-15 | 4.39 | 70 | 546 |
+| 2023-11-15 | 4.39 | 70 | 548 |

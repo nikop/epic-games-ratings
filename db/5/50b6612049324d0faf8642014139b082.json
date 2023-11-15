@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -500,6 +500,11 @@
       "Time": "2023-11-15T00:10:14.3820775+00:00",
       "NumProgressed": 232,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T09:09:18.2349152+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -526,9 +531,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_12",
@@ -550,9 +555,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_15",
@@ -576,7 +581,7 @@
       "Name": "Your first time?",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_18",
@@ -600,7 +605,7 @@
       "Name": "Team Principal",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_20",
@@ -638,9 +643,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_25",
@@ -696,7 +701,7 @@
       "Name": "NEW PB!",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_8",
@@ -719,14 +724,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:09:49.3430168+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:09:18.2349146+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:00:56.3841225+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:09:49.3430376+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:00:10.1287101+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:09:18.2349328+00:00"
 }

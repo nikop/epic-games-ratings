@@ -82,8 +82,8 @@
 | Weapon Specialist | 23.00% | ~291 |
 | Pathfinder | 23.00% | ~291 |
 | Tunnel Rat | 23.00% | ~291 |
+| Arbiter | 23.00% | ~291 |
 | Liberator | 23.00% | ~291 |
-| Arbiter | 22.00% | ~278 |
 | Savior | 21.00% | ~266 |
 | Lost and Found | 21.00% | ~266 |
 | Paramour II | 20.00% | ~253 |

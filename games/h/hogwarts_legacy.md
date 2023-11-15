@@ -1,16 +1,16 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 127)  
+Rating: 4.76 (Ranked 128)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,338 |
 | First Class Student | 14.00% | ~42,296 |
 | Troll with the Punches | 14.00% | ~42,296 |
-| A Keen Sense of Spell | 13.00% | ~39,274 |
-| That's a Keeper | 13.00% | ~39,274 |
-| A Talent for Spending | 12.00% | ~36,253 |
+| A Keen Sense of Spell | 13.00% | ~39,275 |
+| That's a Keeper | 13.00% | ~39,275 |
+| A Talent for Spending | 12.00% | ~36,254 |
 | Grappling with a Graphorn | 11.00% | ~33,232 |
 | The One Who Mastered Memories | 11.00% | ~33,232 |
 | The Hallowed Hero | 11.00% | ~33,232 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 127)
 | The Toast of the Town | 5.00% | ~15,106 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,106 |
 | The Ends Petrify the Means | 5.00% | ~15,106 |
-| Going Through the Potions | 4.00% | ~12,084 |
-| Room with a View | 4.00% | ~12,084 |
-| The Intrepid Explorer | 4.00% | ~12,084 |
-| The Wise Owl | 4.00% | ~12,084 |
+| Going Through the Potions | 4.00% | ~12,085 |
+| Room with a View | 4.00% | ~12,085 |
+| The Intrepid Explorer | 4.00% | ~12,085 |
+| The Wise Owl | 4.00% | ~12,085 |
 | Put Down Roots | 3.00% | ~9,063 |
 | The Auror's Apprentice | 3.00% | ~9,063 |
 | Floo Around the World | 3.00% | ~9,063 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,111 (Ranked 51)  
+Progressed: 302,113 (Ranked 51)  
 Completed: 511 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,15 +260,15 @@ Completed: 511 (0.17%) (Ranked 257)
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
-| 2023-11-15 | 302,111 | 511 |
+| 2023-11-15 | 302,113 | 511 |
 ## Awards
 Max (Character Customization): 24,313  (Ranked 17)  
-Sum: 48,181 (Ranked 30)  
+Sum: 48,199 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,313 |
-| This game has Great Boss Battles | 12,328 |
+| This game has Great Boss Battles | 12,346 |
 | This game is Great for Beginners | 1,297 |
 | This game has Diverse Characters | 1,249 |
 | This game has Amazing Storytelling | 1,248 |
@@ -518,4 +518,4 @@ Diff (max vs sum): -13
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
 | 2023-11-13 | 4.76 | 24,259 | 48,072 |
 | 2023-11-14 | 4.76 | 24,282 | 48,150 |
-| 2023-11-15 | 4.76 | 24,313 | 48,181 |
+| 2023-11-15 | 4.76 | 24,313 | 48,199 |

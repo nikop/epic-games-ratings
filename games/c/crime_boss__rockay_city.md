@@ -32,7 +32,7 @@ Rating: 3.95 (Ranked 1,005)
 | Olympus Ascended | 0.40% | ~365 |
 | Ding Dong | 0.40% | ~365 |
 | Rockay Raider | 0.30% | ~273 |
-| All that Glitters | 0.30% | ~58 |
+| All that Glitters | 0.30% | ~59 |
 | Rockay Knight | 0.20% | ~182 |
 | Privateer | 0.20% | ~182 |
 | Talent Scout | 0.20% | ~182 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,153 (Ranked 91)  
+Progressed: 91,154 (Ranked 91)  
 Completed: 56 (0.06%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 56 (0.06%) (Ranked 295)
 | 2023-11-12 | 90,809 | 55 |
 | 2023-11-13 | 91,003 | 55 |
 | 2023-11-14 | 91,133 | 55 |
-| 2023-11-15 | 91,153 | 56 |
+| 2023-11-15 | 91,154 | 56 |
 ## Awards
 Max (Diverse Characters): 532  (Ranked 203)  
-Sum: 3,018 (Ranked 176)  
+Sum: 3,020 (Ranked 176)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -267,8 +267,8 @@ Diff (max vs sum): 27
 | This game is Highly Recommended | 514 |
 | This game has Quickly Understood Controls | 504 |
 | This game has Challenging Combat | 497 |
-| This game is Extremely Fun | 488 |
-| This game has Amazing Characters | 483 |
+| This game is Extremely Fun | 489 |
+| This game has Amazing Characters | 484 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -502,3 +502,4 @@ Diff (max vs sum): 27
 | 2023-11-12 | 3.95 | 527 | 3,005 |
 | 2023-11-13 | 3.95 | 527 | 3,007 |
 | 2023-11-14 | 3.95 | 532 | 3,018 |
+| 2023-11-15 | 3.95 | 532 | 3,020 |

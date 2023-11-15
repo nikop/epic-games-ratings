@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15330,
+  "EOS_Progressed": 15331,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16000,6 +16000,11 @@
       "Time": "2023-11-15T08:07:09.6620813+00:00",
       "NumProgressed": 15330,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-15T09:05:51.0572632+00:00",
+      "NumProgressed": 15331,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16443,7 +16448,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -16635,7 +16640,7 @@
       "Name": "Settler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -16923,7 +16928,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -17425,9 +17430,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -18746,21 +18751,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15330,
+      "Progressed": 15331,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15330,
+      "Progressed": 15331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:07:09.6620807+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:05:51.0572626+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:57:37.0798087+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:07:09.6631635+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:57:38.2639623+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:05:51.0581513+00:00"
 }

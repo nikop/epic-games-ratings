@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 127,
+  "Ranking_Rating": 128,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 51,
@@ -10447,10 +10447,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48181,
       "NumberOfAwardsMax": 24313
+    },
+    {
+      "Time": "2023-11-15T08:57:24.1221511+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48199,
+      "NumberOfAwardsMax": 24313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48181,
+  "NumberOfAwards": 48199,
   "NumberOfAwardsMax": 24313,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10464,7 +10470,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12328
+      "Count": 12346
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -10527,7 +10533,7 @@
       "Count": 785
     }
   ],
-  "EOS_Progressed": 302111,
+  "EOS_Progressed": 302113,
   "EOS_Completed": 511,
   "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 7,
@@ -32972,6 +32978,11 @@
       "Time": "2023-11-15T08:09:56.5202122+00:00",
       "NumProgressed": 302111,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2023-11-15T09:09:23.8025051+00:00",
+      "NumProgressed": 302113,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 45,
@@ -33103,7 +33114,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39274
+      "UsersEstimate": 39275
     },
     {
       "ID": "PFA_24",
@@ -33135,7 +33146,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12085
     },
     {
       "ID": "PFA_28",
@@ -33167,7 +33178,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36253
+      "UsersEstimate": 36254
     },
     {
       "ID": "PFA_31",
@@ -33183,7 +33194,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12085
     },
     {
       "ID": "PFA_33",
@@ -33231,7 +33242,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12085
     },
     {
       "ID": "PFA_39",
@@ -33303,7 +33314,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12085
     },
     {
       "ID": "PFA_6",
@@ -33327,7 +33338,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39274
+      "UsersEstimate": 39275
     },
     {
       "ID": "PFA_9",
@@ -33342,16 +33353,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302111,
+      "Progressed": 302113,
       "Completed": 511
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-15T05:56:57.4184486+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:09:56.5202116+00:00",
+  "LastChanged": "2023-11-15T08:57:24.1221509+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:09:23.8025045+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:57:18.9272515+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:09:56.5203488+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:57:24.1221514+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:09:23.8026414+00:00"
 }

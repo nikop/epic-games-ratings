@@ -10,10 +10,10 @@ Rating: 4.61 (Ranked 384)
 | A Wonderful Discovery | 1.00% | ~54 |
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
+| Bone Peddler | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
 | Full Ascension | 0.90% | ~49 |
-| Bone Peddler | 0.90% | ~49 |
 | From Friends to Family | 0.90% | ~49 |
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
@@ -31,11 +31,11 @@ Rating: 4.61 (Ranked 384)
 | Impenetrable Fortress | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
 | Tipping the Scales | 0.50% | ~27 |
+| Mighty Hoard | 0.50% | ~27 |
 | Seal the Deal | 0.50% | ~27 |
 | Preparation Is Everything | 0.40% | ~22 |
 | Fiery Friend | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
-| Mighty Hoard | 0.40% | ~22 |
 | Prometheus Avenged | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
 | Return of the Wizard King | 0.30% | ~16 |

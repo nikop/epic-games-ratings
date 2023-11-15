@@ -1081,10 +1081,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 546,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-11-15T08:58:48.1397286+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 548,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 546,
+  "NumberOfAwards": 548,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1092,7 +1098,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 64
+      "Count": 66
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1161,9 +1167,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 296837,
+  "EOS_Progressed": 296853,
   "EOS_Completed": 285,
-  "EOS_NewPlayers": 11241,
+  "EOS_NewPlayers": 11229,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12091,6 +12097,11 @@
       "Time": "2023-11-15T08:08:25.8139561+00:00",
       "NumProgressed": 296837,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-11-15T09:06:51.4600395+00:00",
+      "NumProgressed": 296853,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 24,
@@ -12102,7 +12113,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "10",
@@ -12110,7 +12121,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14842
+      "UsersEstimate": 14843
     },
     {
       "ID": "11",
@@ -12142,7 +12153,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17810
+      "UsersEstimate": 17811
     },
     {
       "ID": "15",
@@ -12190,7 +12201,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "20",
@@ -12198,7 +12209,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11873
+      "UsersEstimate": 11874
     },
     {
       "ID": "21",
@@ -12230,7 +12241,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "3",
@@ -12254,7 +12265,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29684
+      "UsersEstimate": 29685
     },
     {
       "ID": "6",
@@ -12262,7 +12273,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8905
+      "UsersEstimate": 8906
     },
     {
       "ID": "7",
@@ -12293,16 +12304,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 296837,
+      "Progressed": 296853,
       "Completed": 285
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-15T03:58:29.9722572+00:00",
-  "LastChanged_Achievements": "2023-11-15T08:08:25.8139555+00:00",
+  "LastChanged": "2023-11-15T08:58:48.1397284+00:00",
+  "LastChanged_Achievements": "2023-11-15T09:06:51.4600391+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:24.0449621+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:59:07.889228+00:00",
-  "LastUpdate_Achievements": "2023-11-15T08:08:25.8140221+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:58:48.1397288+00:00",
+  "LastUpdate_Achievements": "2023-11-15T09:06:51.4601027+00:00"
 }

@@ -14,15 +14,15 @@
 | Stilesville Hidden Style | 33.00% | ~21 |
 | Creating New Trends | 27.00% | ~17 |
 | Barcelona Hidden Style | 27.00% | ~17 |
-| Best Gala Ever | 25.00% | ~16 |
-| Welcome to the The Stylin' Soiree | 25.00% | ~16 |
+| Best Gala Ever | 27.00% | ~17 |
+| Welcome to the The Stylin' Soiree | 27.00% | ~17 |
 | Scooter Race | 20.00% | ~13 |
 | Seoul Hidden Style | 17.00% | ~11 |
 | Hoverboard Race | 6.00% | ~4 |
 | Trendy Selfies | 3.00% | ~2 |
 | Talented Photographer | 2.00% | ~1 |
 | Xtremely Cool Pictures | 2.00% | ~1 |
-| Exclusive Photoshoot | 0.00% | ~0 |
+| Exclusive Photoshoot | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 462)  
 Completed: 0 (0.00%) (Ranked 351)  
