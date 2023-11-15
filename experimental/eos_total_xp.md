@@ -30,6 +30,7 @@
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
+| [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
@@ -546,7 +547,6 @@
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [RedRaptor](../games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 11 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
-| [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |
 | [REMORE INFESTED KINGDOM](../games/2/27ac7a9891e546e3937d21797b5409b9.md) | 14 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
 | [Return to Abyss 重返深渊](../games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 48 | 1,000 |

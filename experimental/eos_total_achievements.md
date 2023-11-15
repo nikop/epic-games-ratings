@@ -124,6 +124,7 @@
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 |
 | [Railway Empire 2](../games/r/railway_empire_2.md) | 55 | 1,000 |
+| [Remnant 2](../games/r/remnant_2.md) | 55 | 1,250 |
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
 | [CadriaItemShop](../games/1/156fe52117754eb98a332471081ff9ba.md) | 54 | 1,000 |
@@ -171,7 +172,6 @@
 | [Mortal Kombat 1](../games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 50 | 1,000 |
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
 | [Ravenlok](../games/r/ravenlok.md) | 50 | 1,000 |
-| [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |
 | [Risen](../games/r/risen.md) | 50 | 1,000 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Sword and Fairy Inn 2](../games/5/511787884bc344e080cf5ae502e8092d.md) | 50 | 1,000 |
