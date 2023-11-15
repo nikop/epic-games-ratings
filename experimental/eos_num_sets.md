@@ -49,13 +49,14 @@
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 | 2 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 43 | 1,045 | 2 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](../games/s/star_wars™_battlefront™_ultimate_edition.md) | 63 | 2,000 | 2 |
-| [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 | 2 |
+| [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 | 2 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 | 2 |
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 | 2 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 | 2 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 | 2 |
+| [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 | 2 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 | 2 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 | 2 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 | 2 |

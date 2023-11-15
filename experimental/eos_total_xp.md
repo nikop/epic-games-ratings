@@ -35,6 +35,7 @@
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 46 | 1,200 |
+| [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
@@ -637,7 +638,6 @@
 | [Strange House](../games/s/strange_house.md) | 6 | 1,000 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
-| [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
 | [Stray Gods: The Roleplaying Musical](../games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 37 | 1,000 |
 | [StrikeForce Kitty](../games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 31 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
