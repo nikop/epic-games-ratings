@@ -4281,9 +4281,9 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 221327,
+  "EOS_Progressed": 221348,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 2417,
+  "EOS_NewPlayers": 2425,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18236,6 +18236,11 @@
       "Time": "2023-11-15T20:08:13.7328402+00:00",
       "NumProgressed": 221327,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-15T21:08:32.6967217+00:00",
+      "NumProgressed": 221348,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18648,7 +18653,7 @@
       "Name": "Regicide",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -18656,7 +18661,7 @@
       "Name": "Succession",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -18664,7 +18669,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -18672,7 +18677,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -18680,20 +18685,20 @@
       "Name": "You Shall Pass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 221327,
+      "Progressed": 221348,
       "Completed": 457
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 492,
+      "Progressed": 513,
       "Completed": 98
     }
   ],
@@ -18701,8 +18706,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-15T19:03:23.3592851+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:08:13.7328397+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:08:32.6967212+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:03:26.430849+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:08:13.732982+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:03:07.180988+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:08:32.6968046+00:00"
 }

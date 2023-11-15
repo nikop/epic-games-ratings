@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "oscar_winning_performance",
       "SetID": "2db2j74",
       "Name": "Oscar Winning Performance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "patient_listener",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:05:37.8887465+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:05:07.223928+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.3020769+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:58:28.5017147+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:05:37.8887759+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:58:26.7387035+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:05:07.2239431+00:00"
 }

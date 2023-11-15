@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19653,
+  "EOS_Progressed": 19655,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -16943,6 +16943,11 @@
       "Time": "2023-11-15T20:04:55.3408151+00:00",
       "NumProgressed": 19653,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-15T21:04:28.0240997+00:00",
+      "NumProgressed": 19655,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -16954,7 +16959,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15329
+      "UsersEstimate": 15331
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -16978,7 +16983,7 @@
       "Name": "Danger Ahead",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -16994,7 +16999,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -17010,7 +17015,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10416
+      "UsersEstimate": 10417
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -17018,7 +17023,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -17034,7 +17039,7 @@
       "Name": "Look at Me Now",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "ACH_THE_FALL",
@@ -17058,22 +17063,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19653,
+      "Progressed": 19655,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:04:55.3408146+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:04:28.0240993+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:00.2780442+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:00:28.6778515+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:04:55.3409371+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:00:14.9547582+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:04:28.0242088+00:00"
 }

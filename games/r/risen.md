@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 469)
 | Ogre friend | 31.00% | ~12 |
 | The fourth triplet | 31.00% | ~12 |
 | Master detective | 31.00% | ~12 |
+| Death of a legend | 28.00% | ~11 |
 | Hard worker | 28.00% | ~11 |
-| Death of a legend | 26.00% | ~10 |
 | Archaeologist | 26.00% | ~10 |
 | Little hero | 26.00% | ~10 |
 | Peacekeeper | 26.00% | ~10 |

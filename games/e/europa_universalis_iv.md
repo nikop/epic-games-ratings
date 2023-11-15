@@ -23,6 +23,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.10% | ~456 |
 | Baa Baa Black Sheep | 0.10% | ~456 |
 | Basileus | 0.10% | ~456 |
+| Big Blue Blob | 0.10% | ~456 |
 | Black Jack | 0.10% | ~456 |
 | Bleed Them Dry | 0.10% | ~456 |
 | Blockader | 0.10% | ~456 |
@@ -91,6 +92,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Parisian Pasha | 0.10% | ~456 |
 | Populists in Government | 0.10% | ~456 |
 | Queen of Conquest | 0.10% | ~456 |
+| Queen of Mercury | 0.10% | ~456 |
 | Redecorating | 0.10% | ~456 |
 | Respected | 0.10% | ~456 |
 | Royal Authority | 0.10% | ~456 |
@@ -168,7 +170,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
-| Big Blue Blob | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -288,7 +289,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Purify the Temple | 0.00% | ~0 |
 | Pyramid of Skulls | 0.00% | ~0 |
 | Qing of China | 0.00% | ~0 |
-| Queen of Mercury | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,330 (Ranked 41)  
+Progressed: 456,373 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 456,330 | 1 |
+| 2023-11-15 | 456,373 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,694 (Ranked 24)  

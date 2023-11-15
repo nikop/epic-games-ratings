@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -1503,6 +1503,11 @@
       "Time": "2023-11-15T13:12:56.1797039+00:00",
       "NumProgressed": 577,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T21:05:37.1730758+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1602,7 +1607,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Chapter9",
@@ -1618,7 +1623,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Collectibles2",
@@ -1666,7 +1671,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "GollumChoices",
@@ -1682,7 +1687,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Memories",
@@ -1801,14 +1806,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:06:10.1525757+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:05:37.1730751+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:59:28.9330967+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:06:10.1526003+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:59:20.7024312+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:05:37.1731015+00:00"
 }

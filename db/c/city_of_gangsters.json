@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -710,10 +710,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 144,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-15T20:57:45.7972692+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 144,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -733,7 +739,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -760,9 +766,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 352493,
+  "EOS_Progressed": 352496,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1045,
+  "EOS_NewPlayers": 1038,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24520,6 +24526,11 @@
       "Time": "2023-11-15T20:06:47.2018949+00:00",
       "NumProgressed": 352493,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T21:06:11.5073275+00:00",
+      "NumProgressed": 352496,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -24547,7 +24558,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42299
+      "UsersEstimate": 42300
     },
     {
       "ID": "ach004",
@@ -24587,7 +24598,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42299
+      "UsersEstimate": 42300
     },
     {
       "ID": "ach009",
@@ -24619,7 +24630,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28199
+      "UsersEstimate": 28200
     },
     {
       "ID": "ach013",
@@ -24667,7 +24678,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28199
+      "UsersEstimate": 28200
     },
     {
       "ID": "ach019",
@@ -24739,7 +24750,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165672
+      "UsersEstimate": 165673
     },
     {
       "ID": "ach028",
@@ -24755,7 +24766,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38774
+      "UsersEstimate": 38775
     },
     {
       "ID": "ach030",
@@ -24835,7 +24846,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35249
+      "UsersEstimate": 35250
     },
     {
       "ID": "ach040",
@@ -24931,7 +24942,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38774
+      "UsersEstimate": 38775
     },
     {
       "ID": "ach052",
@@ -24995,7 +25006,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35249
+      "UsersEstimate": 35250
     },
     {
       "ID": "ach060",
@@ -25170,16 +25181,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 352493,
+      "Progressed": 352496,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-11-15T04:57:24.3884952+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:06:47.2018945+00:00",
+  "LastChanged": "2023-11-15T20:57:45.7972691+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:06:11.5073271+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.6419748+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:57:43.4263442+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:06:47.2021353+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:57:45.7972698+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:06:11.5074733+00:00"
 }

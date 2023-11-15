@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43883,
+  "EOS_Progressed": 43884,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17549,6 +17549,11 @@
       "Time": "2023-11-15T19:05:01.10323+00:00",
       "NumProgressed": 43883,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-15T21:04:49.6527377+00:00",
+      "NumProgressed": 43884,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17560,7 +17565,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25013
+      "UsersEstimate": 25014
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17616,7 +17621,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -17664,7 +17669,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -17680,7 +17685,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35106
+      "UsersEstimate": 35107
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17704,7 +17709,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -17728,7 +17733,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3949
+      "UsersEstimate": 3950
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -17800,7 +17805,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27646
+      "UsersEstimate": 27647
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17808,7 +17813,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11848
+      "UsersEstimate": 11849
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -17864,7 +17869,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19747
+      "UsersEstimate": 19748
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -17888,7 +17893,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -17896,7 +17901,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40811
+      "UsersEstimate": 40812
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17904,14 +17909,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22819
+      "UsersEstimate": 22820
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43883,
+      "Progressed": 43884,
       "Completed": 240
     }
   ],
@@ -17919,8 +17924,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:05:18.9161362+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:04:49.6527371+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.948951+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:58:39.8329441+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:05:18.9162593+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:58:36.5787269+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:04:49.6528408+00:00"
 }

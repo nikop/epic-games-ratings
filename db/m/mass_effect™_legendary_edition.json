@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1268,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3769,9 +3769,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_19",
@@ -4321,9 +4321,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_81",
@@ -4501,8 +4501,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:05:21.2810324+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:04:52.0260937+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:02:58.5926918+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:05:21.2811984+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:03:00.1606046+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:04:52.0262468+00:00"
 }

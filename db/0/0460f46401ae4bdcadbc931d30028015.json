@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -591,9 +591,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3599,
+  "EOS_Progressed": 3600,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5156,6 +5156,11 @@
       "Time": "2023-11-15T18:04:36.4772641+00:00",
       "NumProgressed": 3599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T21:03:57.6743401+00:00",
+      "NumProgressed": 3600,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5264,7 +5269,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "achievement_21",
@@ -5335,7 +5340,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3599,
+      "Progressed": 3600,
       "Completed": 0
     }
   ],
@@ -5343,8 +5348,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-13T15:58:51.2109706+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:04:21.4546044+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:03:57.6743397+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:00:01.8469989+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:04:21.4546419+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:59:50.8810474+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:03:57.6743697+00:00"
 }

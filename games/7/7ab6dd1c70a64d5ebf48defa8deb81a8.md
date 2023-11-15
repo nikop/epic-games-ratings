@@ -34,11 +34,11 @@
 | Tributes of Caladrias | -0.50% | ~-1 |
 | Alchemist | -0.50% | ~-1 |
 | Stone Collection | -0.50% | ~-1 |
+| The Collector | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 | Airborne | -1.10% | ~-2 |
 | Miner | -1.10% | ~-2 |
-| The Collector | -1.10% | ~-2 |
 | The Mentor | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 188 (Ranked 382)  

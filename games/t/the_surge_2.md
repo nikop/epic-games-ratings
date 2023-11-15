@@ -35,9 +35,9 @@ Rating: 4.24 (Ranked 883)
 | Marked For Success | 12.00% | ~264 |
 | Where It All Began | 12.00% | ~264 |
 | Sorry, Didn't See You There | 12.00% | ~264 |
+| Stimulating The Local Economy | 10.00% | ~220 |
 | Triplets | 10.00% | ~220 |
 | Denying Prophecy | 9.00% | ~198 |
-| Stimulating The Local Economy | 9.00% | ~198 |
 | A Little Banged Up | 8.00% | ~176 |
 | Following In Their Footsteps | 8.00% | ~176 |
 | Defense in Depth | 8.00% | ~176 |
@@ -56,11 +56,11 @@ Rating: 4.24 (Ranked 883)
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~66 |
 | Gotta Craft 'em All | 3.00% | ~66 |
 | Own Medicine | 2.00% | ~44 |
+| Three Birds With One Stone | 2.00% | ~44 |
 | Box Office Smash | 2.00% | ~44 |
 | Going Postal | 2.00% | ~44 |
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
-| Three Birds With One Stone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,203 (Ranked 219)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "collect3",
       "SetID": "c64if4d",
       "Name": "Collector",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "collect4",
@@ -301,9 +301,9 @@
       "ID": "fights5",
       "SetID": "c64if4d",
       "Name": "First among Frisians",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "fights6",
@@ -493,9 +493,9 @@
       "ID": "story17",
       "SetID": "c64if4d",
       "Name": "The End",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "story18",
@@ -509,9 +509,9 @@
       "ID": "story19",
       "SetID": "c64if4d",
       "Name": "Nothing is settled",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "story2",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:05:48.7805798+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:05:17.7104662+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:28.1671836+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:57:30.8713958+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:05:48.7806155+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:57:34.3450948+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:05:17.7105021+00:00"
 }

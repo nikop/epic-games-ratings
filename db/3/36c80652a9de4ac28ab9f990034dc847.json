@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "Surv_20",
       "SetID": "cla1dpp",
       "Name": "XX.",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Surv_30",
@@ -302,8 +302,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:08:43.5737795+00:00",
-  "LastUpdate_AppInfo": "2023-11-08T19:57:13.2883393+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:58:52.8280894+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:08:43.5737958+00:00"
+  "LastChanged_Achievements": "2023-11-15T21:08:41.5751937+00:00",
+  "LastUpdate_AppInfo": "2023-11-15T20:57:12.9880705+00:00",
+  "LastUpdate_Ratings": "2023-11-15T20:58:48.1908435+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:08:41.5752049+00:00"
 }

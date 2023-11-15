@@ -5,10 +5,10 @@
   "Ranking_Rating": 469,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3304,
+  "EOS_Progressed": 3305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5668,6 +5668,11 @@
       "Time": "2023-11-15T19:03:32.4599728+00:00",
       "NumProgressed": 3304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T21:03:18.4947571+00:00",
+      "NumProgressed": 3305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5815,7 +5820,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_BASE_28",
@@ -5847,7 +5852,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_BASE_31",
@@ -5887,7 +5892,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_BASE_36",
@@ -6063,7 +6068,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_BASE_60",
@@ -6134,13 +6139,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1488,
+      "Progressed": 1489,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3304,
+      "Progressed": 3305,
       "Completed": 0
     }
   ],
@@ -6148,8 +6153,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:03:38.072428+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:03:18.4947565+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.602463+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:00:00.2167733+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:03:38.0725502+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:59:49.472161+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:03:18.4948834+00:00"
 }

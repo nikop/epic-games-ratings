@@ -15,8 +15,8 @@
 | Medal of Exploration II | 52.00% | ~659 |
 | Turian Ally | 52.00% | ~659 |
 | Council Legion of Merit | 52.00% | ~659 |
+| Meritorious Service Medal | 50.00% | ~634 |
 | Medal of Honor | 49.00% | ~621 |
-| Meritorious Service Medal | 49.00% | ~621 |
 | Charismatic | 49.00% | ~621 |
 | Soldier | 48.00% | ~609 |
 | Soldier Ally | 46.00% | ~583 |
@@ -59,6 +59,7 @@
 | The Cure | 29.00% | ~368 |
 | Big Game Hunter | 29.00% | ~368 |
 | Heart of Darkness | 29.00% | ~368 |
+| Bringer of War | 29.00% | ~368 |
 | Focused | 28.00% | ~355 |
 | Archivist | 28.00% | ~355 |
 | Cat's in the Cradle | 28.00% | ~355 |
@@ -67,7 +68,6 @@
 | Agent | 28.00% | ~355 |
 | Revenge! | 28.00% | ~355 |
 | Digital Exorcist | 28.00% | ~355 |
-| Bringer of War | 28.00% | ~355 |
 | Friend or Foe | 27.00% | ~342 |
 | Mobilizer | 27.00% | ~342 |
 | Untouchable | 26.00% | ~330 |

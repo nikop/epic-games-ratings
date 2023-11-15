@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -990,9 +990,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": -1.1,
+      "Percentage": -0.5,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_35",
@@ -1029,8 +1029,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:09:35.2035304+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:09:29.191426+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:02:40.0879173+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:09:35.2035595+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:00:33.5839936+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:09:29.1914501+00:00"
 }

@@ -24,21 +24,21 @@
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
+| Collector | 9.00% | ~3 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | Stronger than Gellian steel | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
-| Collector | 6.00% | ~2 |
+| The End | 9.00% | ~3 |
+| Nothing is settled | 9.00% | ~3 |
 | The best apprentice | 6.00% | ~2 |
+| First among Frisians | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
 | Punish the Punisher | 6.00% | ~2 |
 | Cunning plan | 6.00% | ~2 |
 | All's fair in love and war | 6.00% | ~2 |
-| The End | 6.00% | ~2 |
-| Nothing is settled | 6.00% | ~2 |
-| First among Frisians | 3.00% | ~1 |
 | Defeat the bear | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |

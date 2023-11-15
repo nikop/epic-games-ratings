@@ -22,8 +22,8 @@ Rating: 4.61 (Ranked 384)
 | Spoils of War | 0.80% | ~43 |
 | Valley of Wonders | 0.70% | ~38 |
 | In a Liege of Your Own | 0.70% | ~38 |
+| Intimidation Tactics | 0.70% | ~38 |
 | Sehiran Oasis | 0.70% | ~38 |
-| Intimidation Tactics | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,395 (Ranked 184)  
+Progressed: 5,395 (Ranked 185)  
 Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |

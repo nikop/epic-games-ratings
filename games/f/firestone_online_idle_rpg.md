@@ -5,22 +5,22 @@ Rating: 4.12 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,179 |
+| Victor | 93.00% | ~2,180 |
 | World Map | 78.00% | ~1,828 |
 | Temple of Eternals | 57.00% | ~1,336 |
-| Prestigious | 54.00% | ~1,265 |
+| Prestigious | 54.00% | ~1,266 |
 | Fellowship Power | 42.00% | ~984 |
 | Guild Power | 25.00% | ~586 |
-| Prestigious x10 | 22.00% | ~515 |
+| Prestigious x10 | 22.00% | ~516 |
 | The game is on | 20.00% | ~469 |
 | Exotic Merchant | 18.00% | ~422 |
 | Dragon Clicker | 17.00% | ~398 |
 | Full Party | 16.00% | ~375 |
 | Inspection | 16.00% | ~375 |
 | Miner Clicker | 16.00% | ~375 |
-| Dragon Master | 15.00% | ~351 |
-| Enlightenment | 15.00% | ~351 |
-| Hero inspection | 15.00% | ~351 |
+| Dragon Master | 15.00% | ~352 |
+| Enlightenment | 15.00% | ~352 |
+| Hero inspection | 15.00% | ~352 |
 | Lieutenant | 14.00% | ~328 |
 | Milestone collector | 13.00% | ~305 |
 | Mysterious Rock | 13.00% | ~305 |
@@ -43,9 +43,9 @@ Rating: 4.12 (Ranked 957)
 | Master Enchanter | 9.00% | ~211 |
 | The father of Dragons | 9.00% | ~211 |
 | Trader | 9.00% | ~211 |
-| Crystal Mining | 8.00% | ~187 |
-| Dragon Slayer | 8.00% | ~187 |
-| Weekly Quest Completionist | 8.00% | ~187 |
+| Crystal Mining | 8.00% | ~188 |
+| Dragon Slayer | 8.00% | ~188 |
+| Weekly Quest Completionist | 8.00% | ~188 |
 | Blueprint Upgrades | 7.00% | ~164 |
 | Enchanting skill | 7.00% | ~164 |
 | Engineer Mastery | 7.00% | ~164 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 957)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,343 (Ranked 215)  
+Progressed: 2,344 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2 (0.09%) (Ranked 281)
 | 2023-11-12 | 2,269 | 2 |
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
-| 2023-11-15 | 2,343 | 2 |
+| 2023-11-15 | 2,344 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 489)  
 Sum: 80 (Ranked 456)  

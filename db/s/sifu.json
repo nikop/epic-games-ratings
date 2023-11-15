@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7647,9 +7647,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716924,
+  "EOS_Progressed": 716925,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26137,6 +26137,11 @@
       "Time": "2023-11-15T19:06:24.9183677+00:00",
       "NumProgressed": 716924,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-15T21:06:14.746084+00:00",
+      "NumProgressed": 716925,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26154,9 +26159,9 @@
       "ID": "02_Vengeance_H1",
       "SetID": "adcm20g",
       "Name": "The Assault",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3585
+      "UsersEstimate": 4302
     },
     {
       "ID": "03_Vengeance_H2",
@@ -26627,21 +26632,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26225,
+      "Progressed": 26226,
       "Completed": 10742
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716924,
+      "Progressed": 716925,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-15T13:57:22.6562931+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:06:50.6365658+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:06:14.7460835+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:57:43.3113872+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:06:50.6366976+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:57:45.6911822+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:06:14.7461925+00:00"
 }

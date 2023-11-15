@@ -24,6 +24,7 @@ Rating: 4.54 (Ranked 523)
 | Stacking the Deck | 0.70% | ~5,032 |
 | This is My Weapon | 0.70% | ~5,032 |
 | Perks of the Job | 0.60% | ~4,313 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,313 |
 | Slayer Squad | 0.60% | ~4,313 |
 | Can't Handle the Truth | 0.60% | ~4,313 |
 | Like Riding a Bike | 0.60% | ~4,313 |
@@ -31,11 +32,10 @@ Rating: 4.54 (Ranked 523)
 | Ooh, Shiny! | 0.60% | ~4,313 |
 | A Patton Emerges | 0.60% | ~4,313 |
 | Our True Nature | 0.60% | ~4,313 |
-| Making Your Mark | 0.50% | ~3,594 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,594 |
-| Humanity Distilled | 0.50% | ~3,594 |
-| I Am the Resurrection | 0.50% | ~3,594 |
-| Max Headroom | 0.50% | ~3,594 |
+| Making Your Mark | 0.50% | ~3,595 |
+| Humanity Distilled | 0.50% | ~3,595 |
+| I Am the Resurrection | 0.50% | ~3,595 |
+| Max Headroom | 0.50% | ~3,595 |
 | Not Even My Final Form | 0.40% | ~2,876 |
 | Jumbo Keyring | 0.40% | ~2,876 |
 | Down with the Sickness | 0.40% | ~2,876 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,893 (Ranked 20)  
+Progressed: 718,908 (Ranked 20)  
 Completed: 2,393 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,15 +266,15 @@ Completed: 2,393 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,893 | 2,393 |
+| 2023-11-15 | 718,908 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 51)  
-Sum: 11,331 (Ranked 84)  
+Sum: 11,334 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,440 |
-| This game is Great for Beginners | 563 |
+| This game is Great for Beginners | 566 |
 | This game has Diverse Characters | 540 |
 | This game has Quickly Understood Controls | 516 |
 | This game is Relaxing | 489 |
@@ -493,4 +493,4 @@ Diff (max vs sum): -33
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
-| 2023-11-15 | 4.54 | 7,440 | 11,331 |
+| 2023-11-15 | 4.54 | 7,440 | 11,334 |

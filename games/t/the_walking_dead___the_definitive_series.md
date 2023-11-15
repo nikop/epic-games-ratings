@@ -5,8 +5,8 @@ Rating: 4.86 (Ranked 30)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 539  (Ranked 202)  
-Sum: 805 (Ranked 279)  
-Diff (max vs sum): -77  
+Sum: 825 (Ranked 277)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 539 |
@@ -19,6 +19,7 @@ Diff (max vs sum): -77
 | This game has Easy Combat | 23 |
 | This game has Quickly Understood Controls | 22 |
 | This game has Unique Visuals | 22 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -187,4 +188,4 @@ Diff (max vs sum): -77
 | 2023-11-08 | 4.86 | - | 536 | 801 |
 | 2023-11-09 | 4.86 | - | 538 | 803 |
 | 2023-11-14 | 4.86 | - | 539 | 804 |
-| 2023-11-15 | 4.86 | - | 539 | 805 |
+| 2023-11-15 | 4.86 | - | 539 | 825 |

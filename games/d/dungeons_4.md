@@ -15,21 +15,21 @@
 | Bad Elves Go Everywhere | 60.00% | ~163 |
 | Master of Magic | 59.00% | ~160 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~150 |
+| Magic Accidents | 53.00% | ~144 |
 | Heroes’ Gorge | 53.00% | ~144 |
-| Magic Accidents | 52.00% | ~141 |
+| Trap Master | 51.00% | ~139 |
 | Minions, Minions! | 51.00% | ~139 |
-| Trap Master | 50.00% | ~136 |
 | The Ascent | 40.00% | ~109 |
 | It's Warm and Cozy at Home | 40.00% | ~109 |
 | YOU SHALL NOT PASS! | 39.00% | ~106 |
 | Hard Work | 36.00% | ~98 |
 | Pure Dynamite! | 36.00% | ~98 |
-| The Big Eaty | 34.00% | ~92 |
+| The Big Eaty | 35.00% | ~95 |
 | Mana Cannon | 29.00% | ~79 |
 | “… like son” | 26.00% | ~71 |
 | Dungeonlord Gorgu | 22.00% | ~60 |
+| The Cathedral of Light | 20.00% | ~54 |
 | Shame! Shame! Shame! | 20.00% | ~54 |
-| The Cathedral of Light | 19.00% | ~52 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 18.00% | ~49 |
 | Hungry, Hungry Gorgu! | 17.00% | ~46 |
 | Tanos' Crusade Against Thalya | 15.00% | ~41 |

@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,236 |
+| Getting Started | 82.00% | ~11,237 |
 | Pay 'n' Spray | 51.00% | ~6,989 |
 | All Dressed Up for San Fierro | 26.00% | ~3,563 |
 | The American Dream | 20.00% | ~2,741 |
 | School's Out | 19.00% | ~2,604 |
 | Smooth Moves | 17.00% | ~2,330 |
-| What happens in Las Venturas... | 15.00% | ~2,055 |
-| Today Was a Good Day | 15.00% | ~2,055 |
+| What happens in Las Venturas... | 15.00% | ~2,056 |
+| Today Was a Good Day | 15.00% | ~2,056 |
 | Horror of the Santa Maria | 11.00% | ~1,507 |
 | Liberty City State of Mind | 10.00% | ~1,370 |
 | The End of the Line | 8.00% | ~1,096 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,703 (Ranked 149)  
+Progressed: 13,704 (Ranked 149)  
 Completed: 53 (0.39%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,20 +250,20 @@ Completed: 53 (0.39%) (Ranked 211)
 | 2023-11-12 | 13,671 | 53 |
 | 2023-11-13 | 13,689 | 53 |
 | 2023-11-14 | 13,696 | 53 |
-| 2023-11-15 | 13,703 | 53 |
+| 2023-11-15 | 13,704 | 53 |
 ## Awards
-Max (Great Boss Battles): 388  (Ranked 232)  
-Sum: 611 (Ranked 309)  
+Max (Great Boss Battles): 391  (Ranked 231)  
+Sum: 615 (Ranked 308)  
 Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 388 |
+| This game has Great Boss Battles | 391 |
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 34 |
 | This game has Amazing Characters | 33 |
 | This game is Great for Beginners | 33 |
 | This game is Highly Recommended | 28 |
-| This game has a Creative Community | 24 |
+| This game has a Creative Community | 25 |
 | This game is Extremely Fun | 23 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Diverse Characters | 20 |
@@ -444,3 +444,4 @@ Diff (max vs sum): -77
 | 2023-11-12 | 4.55 | 387 | 608 |
 | 2023-11-13 | 4.56 | 387 | 608 |
 | 2023-11-14 | 4.56 | 388 | 611 |
+| 2023-11-15 | 4.56 | 391 | 615 |

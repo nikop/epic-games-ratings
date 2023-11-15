@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5744,
+  "EOS_Progressed": 5745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5596,6 +5596,11 @@
       "Time": "2023-11-15T19:05:08.1580332+00:00",
       "NumProgressed": 5744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T21:04:56.9170589+00:00",
+      "NumProgressed": 5745,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5648,7 +5653,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "achievement_0007",
@@ -5656,7 +5661,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "achievement_0008",
@@ -5664,7 +5669,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4998
     },
     {
       "ID": "achievement_0009",
@@ -5680,7 +5685,7 @@
       "Name": "Network Success",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "achievement_0011",
@@ -5728,7 +5733,7 @@
       "Name": "Hitting a Season",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "achievement_0017",
@@ -5830,9 +5835,9 @@
       "ID": "achievement_0029",
       "SetID": "9123ogc",
       "Name": "Reduce",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1149
     },
     {
       "ID": "achievement_0030",
@@ -5888,7 +5893,7 @@
       "Name": "Ups and Downs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "achievement_0037",
@@ -5999,7 +6004,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5744,
+      "Progressed": 5745,
       "Completed": 0
     }
   ],
@@ -6007,8 +6012,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-15T13:04:50.2965334+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:05:26.7313249+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:04:56.9170586+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:58:19.1547507+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:05:26.7313754+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:58:18.0652302+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:04:56.9171197+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.86 (Ranked 30)
 | You got this, Peppermint? | 13.00% | ~549 |
 | Perfect Parry | 12.00% | ~507 |
 | Alright, that felt AWESOME! | 12.00% | ~507 |
-| This will cost you big time | 11.00% | ~464 |
-| Uh, they were broken when I got here | 11.00% | ~464 |
+| This will cost you big time | 11.00% | ~465 |
+| Uh, they were broken when I got here | 11.00% | ~465 |
 | I play my own way! | 10.00% | ~422 |
 | Z-shielding's got nothing on us! | 10.00% | ~422 |
 | Kissing the sky! | 10.00% | ~422 |
@@ -28,7 +28,7 @@ Rating: 4.86 (Ranked 30)
 | You must like calling me in, Chai | 8.00% | ~338 |
 | Out in a puff of smoke | 8.00% | ~338 |
 | Does that say weakpoint? | 8.00% | ~338 |
-| NOW we got a kickass hideout! | 8.00% | ~219 |
+| NOW we got a kickass hideout! | 8.00% | ~220 |
 | I have to read these things? | 7.00% | ~296 |
 | Perfecter Parry-er! | 7.00% | ~296 |
 | Well that was a rush! | 5.00% | ~211 |
@@ -51,9 +51,9 @@ Rating: 4.86 (Ranked 30)
 | New bad guys? No problem! | 1.00% | ~27 |
 | OK, well THEY came after ME! | 0.80% | ~34 |
 | Easy Listening | 0.60% | ~25 |
-| Now this is how you fight like a team! | 0.50% | ~21 |
 | Choose your own adventure | 0.50% | ~14 |
 | Problem solved... wait, what? | 0.40% | ~17 |
+| Now this is how you fight like a team! | 0.40% | ~17 |
 | It'll do, CNMN | 0.40% | ~11 |
 | And the crowd goes wild! | 0.30% | ~13 |
 | Fully Powered Up! | 0.30% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,222 (Ranked 191)  
+Progressed: 4,223 (Ranked 191)  
 Completed: 8 (0.19%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 8 (0.19%) (Ranked 255)
 | 2023-11-12 | 4,217 | 8 |
 | 2023-11-13 | 4,219 | 8 |
 | 2023-11-14 | 4,221 | 8 |
-| 2023-11-15 | 4,222 | 8 |
+| 2023-11-15 | 4,223 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

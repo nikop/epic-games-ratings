@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12111,9 +12111,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456330,
+  "EOS_Progressed": 456373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6260,
+  "EOS_NewPlayers": 6264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36066,6 +36066,11 @@
       "Time": "2023-11-15T20:04:44.2022043+00:00",
       "NumProgressed": 456330,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T21:04:18.3772424+00:00",
+      "NumProgressed": 456373,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36443,9 +36448,9 @@
       "ID": "achievement_big_blue_blob",
       "SetID": "67mdiil",
       "Name": "Big Blue Blob",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_black_jack",
@@ -37947,9 +37952,9 @@
       "ID": "achievement_queen_of_mercury",
       "SetID": "8p2n7he",
       "Name": "Queen of Mercury",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_quizquiz_pro_quo",
@@ -38980,21 +38985,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456330,
+      "Progressed": 456373,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456330,
+      "Progressed": 456373,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-15T18:58:04.4463968+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:04:44.2022035+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:04:18.3772419+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:57:53.1602073+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:04:44.2032217+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:57:54.5691381+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:04:18.3782593+00:00"
 }

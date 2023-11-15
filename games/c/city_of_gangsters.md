@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 850)  
+Rating: 4.28 (Ranked 851)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,672 |
+| Corner Clout | 47.00% | ~165,673 |
 | Copacetic Coordination | 16.00% | ~56,399 |
 | Fronting the Money | 15.00% | ~52,874 |
 | The Dawn of Automation | 14.00% | ~49,349 |
 | Extraordinary Logistics | 14.00% | ~49,349 |
 | Dirty Money | 13.00% | ~45,824 |
 | Family First | 13.00% | ~45,824 |
-| Cleaning House | 12.00% | ~42,299 |
-| Room in the Back | 12.00% | ~42,299 |
-| Beating the Heat | 11.00% | ~38,774 |
-| Booze Baron | 11.00% | ~38,774 |
-| Friends on the Force | 10.00% | ~35,249 |
-| Neighborhood Watch | 10.00% | ~35,249 |
-| Core Corps | 8.00% | ~28,199 |
-| Sizeable Stash | 8.00% | ~28,199 |
+| Cleaning House | 12.00% | ~42,300 |
+| Room in the Back | 12.00% | ~42,300 |
+| Beating the Heat | 11.00% | ~38,775 |
+| Booze Baron | 11.00% | ~38,775 |
+| Friends on the Force | 10.00% | ~35,250 |
+| Neighborhood Watch | 10.00% | ~35,250 |
+| Core Corps | 8.00% | ~28,200 |
+| Sizeable Stash | 8.00% | ~28,200 |
 | Street Fighter | 7.00% | ~24,675 |
 | Friendly Gestures | 7.00% | ~24,675 |
 | People Person | 7.00% | ~24,675 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 850)
 | High Pillow | 0.10% | ~352 |
 | Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,493 (Ranked 47)  
+Progressed: 352,496 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,17 +295,17 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-12 | 352,103 | 7 |
 | 2023-11-13 | 352,246 | 7 |
 | 2023-11-14 | 352,392 | 7 |
-| 2023-11-15 | 352,493 | 7 |
+| 2023-11-15 | 352,496 | 7 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 467)  
-Sum: 144 (Ranked 423)  
+Sum: 145 (Ranked 423)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 45 |
 | This game is Highly Recommended | 35 |
 | This game is Relaxing | 32 |
-| This game is Extremely Fun | 28 |
+| This game is Extremely Fun | 29 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Easy Combat | 25 |
 | This game has Diverse Characters | 24 |
@@ -409,4 +409,4 @@ Diff (max vs sum): 44
 | 2023-11-08 | 4.28 | 44 | 187 |
 | 2023-11-12 | 4.28 | 44 | 188 |
 | 2023-11-13 | 4.28 | 45 | 189 |
-| 2023-11-15 | 4.28 | 35 | 144 |
+| 2023-11-15 | 4.28 | 35 | 145 |

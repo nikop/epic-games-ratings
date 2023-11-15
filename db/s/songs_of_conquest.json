@@ -5,10 +5,10 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -477,6 +477,11 @@
     {
       "Time": "2023-11-15T20:06:21.5094358+00:00",
       "NumProgressed": 27,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T21:05:47.6153388+00:00",
+      "NumProgressed": 28,
       "NumCompleted": 0
     }
   ],
@@ -632,9 +637,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FlameAttackKillCount",
@@ -816,9 +821,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WielderLevel2",
@@ -921,15 +926,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:06:21.5094351+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:05:47.6153381+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:59:02.1879166+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:06:21.5094779+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:58:56.8490741+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:05:47.6153753+00:00"
 }

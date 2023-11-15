@@ -6,6 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Double Kill | 4.00% | ~1 |
+| Adept | 4.00% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
 | Death To Diplomacy | 0.00% | ~0 |
@@ -24,7 +26,6 @@ Number of Ratings: 292  (23.09.2022)
 | Die by the Bow | 0.00% | ~0 |
 | Die by the Staff | 0.00% | ~0 |
 | Die by the Sword | 0.00% | ~0 |
-| Double Kill | 0.00% | ~0 |
 | Barbecue | 0.00% | ~0 |
 | In The Thick of It | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
@@ -47,7 +48,6 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 0.00% | ~0 |
 | Trojan Horse | 0.00% | ~0 |
 | Ultra Kill | 0.00% | ~0 |
-| Adept | 0.00% | ~0 |
 | Veteran | 0.00% | ~0 |
 | Master | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
@@ -61,12 +61,12 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 522)  
+Progressed: 28 (Ranked 521)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-15 | 27 | 0 |
+| 2023-11-15 | 28 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 507)  
 Sum: 194 (Ranked 403)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227219,
+  "EOS_Progressed": 227223,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23814,6 +23814,11 @@
       "Time": "2023-11-15T20:09:23.0961066+00:00",
       "NumProgressed": 227219,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-15T21:09:17.8579413+00:00",
+      "NumProgressed": 227223,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -23833,7 +23838,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59077
+      "UsersEstimate": 59078
     },
     {
       "ID": "ACH_BASE_11",
@@ -24073,7 +24078,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27266
+      "UsersEstimate": 27267
     },
     {
       "ID": "ACH_BASE_8",
@@ -24096,7 +24101,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227219,
+      "Progressed": 227223,
       "Completed": 5
     }
   ],
@@ -24104,8 +24109,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:09:23.0961063+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:09:17.8579409+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:28.6379322+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:58:30.7871199+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:09:23.0962497+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:58:28.8332338+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:09:17.8580755+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "wrc-11-fia-world-rally-championship-f0749b",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 488,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-03T09:00:00+00:00",
     "PcReleaseDate": "2022-11-03T09:00:00+00:00",
@@ -386,10 +386,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-11-15T20:59:57.6347768+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45,
+  "NumberOfAwards": 46,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -403,7 +409,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -418,8 +424,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-03T15:34:05.2921082+00:00",
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
-  "LastChanged": "2023-11-03T10:58:05.7757319+00:00",
+  "LastChanged": "2023-11-15T20:59:57.6347766+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:14.9050259+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:00:09.270425+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:06:05.9023299+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:59:57.634777+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:05:33.0454102+00:00"
 }

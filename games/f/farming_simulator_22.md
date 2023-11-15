@@ -1,28 +1,28 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 251)  
+Rating: 4.68 (Ranked 252)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,778 |
-| I read Shakespeare and stuff | 64.00% | ~33,091 |
-| Just a sprinkle | 62.00% | ~32,056 |
-| I'm stumped | 61.00% | ~31,539 |
-| Plant get enough | 60.00% | ~31,022 |
-| This is just my weekend vehicle | 58.00% | ~29,988 |
-| It's just the beginning | 58.00% | ~29,988 |
-| Hard work pays off | 53.00% | ~27,403 |
-| It's never too late to farm | 51.00% | ~26,369 |
-| All out of Land | 44.00% | ~22,750 |
-| Field Trip | 43.00% | ~22,233 |
-| I like to switch it up | 40.00% | ~20,682 |
-| Help me to help you | 38.00% | ~19,648 |
-| Ultimutt Pawesomeness | 28.00% | ~14,477 |
-| Van Gogh | 26.00% | ~13,443 |
-| You wood not believe it | 22.00% | ~11,375 |
-| Vehicle fleet | 22.00% | ~11,375 |
+| Own use | 75.00% | ~38,782 |
+| I read Shakespeare and stuff | 64.00% | ~33,094 |
+| Just a sprinkle | 62.00% | ~32,060 |
+| I'm stumped | 61.00% | ~31,542 |
+| Plant get enough | 60.00% | ~31,025 |
+| This is just my weekend vehicle | 58.00% | ~29,991 |
+| It's just the beginning | 58.00% | ~29,991 |
+| Hard work pays off | 53.00% | ~27,406 |
+| It's never too late to farm | 51.00% | ~26,372 |
+| All out of Land | 44.00% | ~22,752 |
+| Field Trip | 43.00% | ~22,235 |
+| I like to switch it up | 40.00% | ~20,684 |
+| Help me to help you | 38.00% | ~19,649 |
+| Ultimutt Pawesomeness | 28.00% | ~14,479 |
+| Van Gogh | 26.00% | ~13,444 |
+| You wood not believe it | 22.00% | ~11,376 |
+| Vehicle fleet | 22.00% | ~11,376 |
 | The plot thickens | 16.00% | ~8,273 |
 | Large-scale supplier | 16.00% | ~8,273 |
 | Well-Oiled Machine | 16.00% | ~8,273 |
@@ -30,15 +30,15 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~7,756 |
 | That's a wrap | 15.00% | ~7,756 |
 | Fix me up | 13.00% | ~6,722 |
-| Rock on | 12.00% | ~6,204 |
-| Highly cultivated | 11.00% | ~5,687 |
-| It's sow easy | 11.00% | ~5,687 |
-| Giddy-up! | 10.00% | ~5,170 |
-| Cowherd | 7.00% | ~3,619 |
-| Fluffyness | 6.00% | ~3,102 |
-| Road Trip | 6.00% | ~3,102 |
-| Helper A does not stop … ever | 6.00% | ~3,102 |
-| Bringing in the Honey | 6.00% | ~3,102 |
+| Rock on | 12.00% | ~6,205 |
+| Highly cultivated | 11.00% | ~5,688 |
+| It's sow easy | 11.00% | ~5,688 |
+| Giddy-up! | 10.00% | ~5,171 |
+| Cowherd | 7.00% | ~3,620 |
+| Fluffyness | 6.00% | ~3,103 |
+| Road Trip | 6.00% | ~3,103 |
+| Helper A does not stop … ever | 6.00% | ~3,103 |
+| Bringing in the Honey | 6.00% | ~3,103 |
 | Three little piggies… | 4.00% | ~2,068 |
 | Game on | 4.00% | ~2,068 |
 | Pretty colourful | 0.80% | ~414 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~207 |
 | Raisin the stakes | 0.30% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,704 (Ranked 110)  
+Progressed: 51,709 (Ranked 110)  
 Completed: 6 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,15 +259,15 @@ Completed: 6 (0.01%) (Ranked 330)
 | 2023-11-12 | 51,549 | 6 |
 | 2023-11-13 | 51,598 | 6 |
 | 2023-11-14 | 51,659 | 6 |
-| 2023-11-15 | 51,704 | 6 |
+| 2023-11-15 | 51,709 | 6 |
 ## Awards
 Max (Great for Beginners): 5,511  (Ranked 69)  
-Sum: 42,696 (Ranked 33)  
+Sum: 42,702 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,511 |
-| This game has Diverse Characters | 4,516 |
+| This game has Diverse Characters | 4,522 |
 | This game is Educational | 4,325 |
 | This game is Relaxing | 4,271 |
 | This game is Highly Recommended | 4,256 |
@@ -583,4 +583,4 @@ Diff (max vs sum): 36
 | 2023-11-12 | 4.69 | - | 5,465 | 42,535 |
 | 2023-11-13 | 4.68 | - | 5,483 | 42,599 |
 | 2023-11-14 | 4.68 | - | 5,495 | 42,657 |
-| 2023-11-15 | 4.68 | - | 5,511 | 42,696 |
+| 2023-11-15 | 4.68 | - | 5,511 | 42,702 |

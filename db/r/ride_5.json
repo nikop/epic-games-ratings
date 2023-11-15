@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2147,
+  "EOS_Progressed": 2148,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -4917,6 +4917,11 @@
       "Time": "2023-11-15T20:09:36.9039441+00:00",
       "NumProgressed": 2147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T21:09:30.7512611+00:00",
+      "NumProgressed": 2148,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4929,7 +4934,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4937,7 +4942,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4945,7 +4950,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5017,7 +5022,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5137,7 +5142,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5225,7 +5230,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5320,14 +5325,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2147,
+      "Progressed": 2148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:09:36.9039437+00:00",
+  "LastChanged_Achievements": "2023-11-15T21:09:30.7512608+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:02:40.3688679+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:09:36.9040055+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:00:33.8225482+00:00",
+  "LastUpdate_Achievements": "2023-11-15T21:09:30.7513172+00:00"
 }
