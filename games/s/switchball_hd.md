@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marbleball Badge | 75.00% | ~99 |
-| Speedroller Rookie | 48.00% | ~63 |
+| Marbleball Badge | 76.00% | ~100 |
+| Speedroller Rookie | 49.00% | ~65 |
 | Metalball Badge | 20.00% | ~26 |
 | Powerball Badge | 14.00% | ~18 |
 | Airball Badge | 2.00% | ~3 |

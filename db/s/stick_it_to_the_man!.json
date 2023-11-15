@@ -2,7 +2,7 @@
   "ID": "ad876f7812c946f6a362bf821b971b48",
   "Name": "Stick It To The Man!",
   "ProductSlug": "stick-it-to-the-man",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 745,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 70,
   "RatingHistory": [
     {
@@ -295,6 +295,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-15T06:58:02.4512038+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -312,8 +318,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:08.6755666+00:00",
-  "LastChanged": "2023-09-21T00:00:21.5572388+00:00",
+  "LastChanged": "2023-11-15T06:58:02.4512036+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.6739362+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:57:47.6782149+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:05:33.6081555+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:58:02.4512041+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:05:47.6436154+00:00"
 }

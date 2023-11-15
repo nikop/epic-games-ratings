@@ -8784,9 +8784,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65116,
+  "EOS_Progressed": 65117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30724,6 +30724,11 @@
       "Time": "2023-11-15T06:08:57.1615256+00:00",
       "NumProgressed": 65116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T07:09:21.2252781+00:00",
+      "NumProgressed": 65117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30775,7 +30780,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5860
+      "UsersEstimate": 5861
     },
     {
       "ID": "Catch",
@@ -30855,7 +30860,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "God of the Arena",
@@ -30959,7 +30964,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21488
+      "UsersEstimate": 21489
     },
     {
       "ID": "Lawbringer",
@@ -30967,7 +30972,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26046
+      "UsersEstimate": 26047
     },
     {
       "ID": "Lawmaker",
@@ -30983,7 +30988,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "Mastery",
@@ -31023,7 +31028,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "Ride it like you stole it",
@@ -31142,15 +31147,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65116,
+      "Progressed": 65117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-15T02:59:26.8104368+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:08:57.1615252+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:09:21.2252779+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:59:11.9856724+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:08:57.1616591+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:59:42.4264342+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:09:21.2254123+00:00"
 }

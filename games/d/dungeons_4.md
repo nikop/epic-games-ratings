@@ -17,8 +17,8 @@
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~146 |
 | Magic Accidents | 52.00% | ~138 |
 | Heroes’ Gorge | 52.00% | ~138 |
+| Minions, Minions! | 51.00% | ~136 |
 | Trap Master | 50.00% | ~133 |
-| Minions, Minions! | 50.00% | ~133 |
 | YOU SHALL NOT PASS! | 38.00% | ~101 |
 | The Ascent | 38.00% | ~101 |
 | It's Warm and Cozy at Home | 38.00% | ~101 |

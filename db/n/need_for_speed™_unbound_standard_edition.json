@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 10065,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -6916,9 +6916,9 @@
       "ID": "achievement_5",
       "SetID": "d0n64ce",
       "Name": "Lake Better Watch Out",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3925
     },
     {
       "ID": "achievement_6",
@@ -6962,8 +6962,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:05:33.072938+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:05:47.0622719+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:17.9046216+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:00:05.2349048+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:05:33.072987+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:00:42.2647131+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:05:47.0623209+00:00"
 }

@@ -8565,9 +8565,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808465,
+  "EOS_Progressed": 808466,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31985,6 +31985,11 @@
       "Time": "2023-11-15T06:06:13.2261691+00:00",
       "NumProgressed": 808465,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-15T07:06:31.7360666+00:00",
+      "NumProgressed": 808466,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32020,7 +32025,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129354
+      "UsersEstimate": 129355
     },
     {
       "ID": "Awakening",
@@ -32156,7 +32161,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80846
+      "UsersEstimate": 80847
     },
     {
       "ID": "DavidHorak",
@@ -32316,7 +32321,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105100
+      "UsersEstimate": 105101
     },
     {
       "ID": "Judas",
@@ -32651,15 +32656,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808465,
+      "Progressed": 808466,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-15T00:03:18.6414504+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:06:13.2261688+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:06:31.7360664+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:02:46.691302+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:06:13.22635+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:02:43.4433665+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:06:31.736242+00:00"
 }

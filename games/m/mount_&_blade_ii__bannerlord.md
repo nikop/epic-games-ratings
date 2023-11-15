@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,046 |
-| Landlord | 33.00% | ~21,488 |
+| Lawbringer | 40.00% | ~26,047 |
+| Landlord | 33.00% | ~21,489 |
 | Bannerlord | 24.00% | ~15,628 |
 | Horde breaker | 24.00% | ~15,628 |
 | Lawmaker | 23.00% | ~14,977 |
@@ -24,16 +24,16 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~6,512 |
 | Swordbearer | 10.00% | ~6,512 |
 | What have the Romans ever done for us? | 10.00% | ~6,512 |
-| Butterlord | 9.00% | ~5,860 |
+| Butterlord | 9.00% | ~5,861 |
 | Know your enemy | 7.00% | ~4,558 |
 | Mastery | 7.00% | ~4,558 |
 | Crowdfunded | 5.00% | ~3,256 |
 | Crush your enemies | 5.00% | ~3,256 |
 | My way | 5.00% | ~3,256 |
 | Veni vidi vici | 4.00% | ~2,605 |
-| Freedom! | 3.00% | ~1,953 |
-| Long live the Empire! | 3.00% | ~1,953 |
-| Real Estate | 3.00% | ~1,953 |
+| Freedom! | 3.00% | ~1,954 |
+| Long live the Empire! | 3.00% | ~1,954 |
+| Real Estate | 3.00% | ~1,954 |
 | Supreme Emperor | 2.00% | ~1,302 |
 | Entrepreneur | 1.00% | ~651 |
 | Crackshot | 0.90% | ~586 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,116 (Ranked 103)  
+Progressed: 65,117 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 65,011 | 0 |
 | 2023-11-13 | 65,066 | 0 |
 | 2023-11-14 | 65,107 | 0 |
-| 2023-11-15 | 65,116 | 0 |
+| 2023-11-15 | 65,117 | 0 |
 ## Awards
 Max (Character Customization): 7,383  (Ranked 54)  
 Sum: 15,272 (Ranked 68)  

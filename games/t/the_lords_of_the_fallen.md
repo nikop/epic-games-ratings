@@ -23,6 +23,7 @@ Rating: 4.22 (Ranked 897)
 | Ammunition Collector | 0.20% | ~3 |
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
+| Unwanted | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
@@ -38,7 +39,6 @@ Rating: 4.22 (Ranked 897)
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |
-| Unwanted | 0.10% | ~2 |
 | Unbroken to the End | 0.10% | ~2 |
 | Wings of Grief | 0.10% | ~2 |
 | Twin Faces of Sin | 0.10% | ~2 |

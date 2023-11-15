@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8065,9 +8065,9 @@
       "Count": 3518
     }
   ],
-  "EOS_Progressed": 235075,
+  "EOS_Progressed": 235082,
   "EOS_Completed": 2448,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31430,6 +31430,11 @@
       "Time": "2023-11-15T06:08:31.9077581+00:00",
       "NumProgressed": 235075,
       "NumCompleted": 2448
+    },
+    {
+      "Time": "2023-11-15T07:08:54.3971394+00:00",
+      "NumProgressed": 235082,
+      "NumCompleted": 2448
     }
   ],
   "TotalAchievements": 532,
@@ -35665,7 +35670,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "objective_completed_1548",
@@ -35696,21 +35701,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201349,
+      "Progressed": 201356,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235075,
+      "Progressed": 235082,
       "Completed": 2448
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-15T02:57:09.1921435+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:08:31.9077578+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:08:54.3971392+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:57:08.3832444+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:08:31.9099651+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:57:18.8016078+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:08:54.3993452+00:00"
 }

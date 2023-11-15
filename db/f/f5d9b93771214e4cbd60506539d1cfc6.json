@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152828,
+  "EOS_Progressed": 152829,
   "EOS_Completed": 334,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18158,6 +18158,11 @@
       "Time": "2023-11-15T06:04:46.7511721+00:00",
       "NumProgressed": 152828,
       "NumCompleted": 334
+    },
+    {
+      "Time": "2023-11-15T07:04:56.6698029+00:00",
+      "NumProgressed": 152829,
+      "NumCompleted": 334
     }
   ],
   "TotalAchievements": 31,
@@ -18353,7 +18358,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 29037
+      "UsersEstimate": 29038
     },
     {
       "ID": "EAwards_30",
@@ -18416,7 +18421,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 152828,
+      "Progressed": 152829,
       "Completed": 334
     }
   ],
@@ -18424,8 +18429,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:04:46.7511717+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:04:56.6698027+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.0681244+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:59:59.1121731+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:04:46.7512597+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:00:35.734352+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:04:56.6699291+00:00"
 }

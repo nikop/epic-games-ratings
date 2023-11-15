@@ -7,6 +7,7 @@ Rating: 4.56 (Ranked 489)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 8.00% | ~1,198 |
 | The Pit and the Pirates | 4.00% | ~599 |
+| Drone Dodger | 4.00% | ~599 |
 | Bosmang | 4.00% | ~599 |
 | Celebrations are in Order | 4.00% | ~599 |
 | Safe Cracker | 4.00% | ~37 |
@@ -15,7 +16,6 @@ Rating: 4.56 (Ranked 489)
 | Drug Gifter | 3.00% | ~449 |
 | Spore Taste | 3.00% | ~449 |
 | Martian Music | 3.00% | ~449 |
-| Drone Dodger | 3.00% | ~449 |
 | Heal Thy Medic | 3.00% | ~449 |
 | Call it Even | 3.00% | ~449 |
 | Captain Drummer | 3.00% | ~449 |

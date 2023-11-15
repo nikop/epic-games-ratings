@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74224,
+  "EOS_Progressed": 74225,
   "EOS_Completed": 393,
   "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 6,
@@ -23298,6 +23298,11 @@
       "Time": "2023-11-15T06:08:33.0551519+00:00",
       "NumProgressed": 74224,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-11-15T07:08:55.1434715+00:00",
+      "NumProgressed": 74225,
+      "NumCompleted": 393
     }
   ],
   "TotalAchievements": 24,
@@ -23317,7 +23322,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16329
+      "UsersEstimate": 16330
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -23325,7 +23330,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50472
+      "UsersEstimate": 50473
     },
     {
       "ID": "BEST_FRIENDS",
@@ -23333,7 +23338,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16329
+      "UsersEstimate": 16330
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -23500,7 +23505,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74224,
+      "Progressed": 74225,
       "Completed": 393
     }
   ],
@@ -23508,8 +23513,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:08:33.0551515+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:08:55.1434713+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.6683476+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:02:42.7329881+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:08:33.0552598+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:02:39.7392668+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:08:55.143609+00:00"
 }

@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232412,
+  "EOS_Progressed": 232415,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1221,
+  "EOS_NewPlayers": 1220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13757,6 +13757,11 @@
       "Time": "2023-11-15T06:08:55.4558279+00:00",
       "NumProgressed": 232412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T07:09:19.3443376+00:00",
+      "NumProgressed": 232415,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -13849,7 +13854,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9296
+      "UsersEstimate": 9297
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -14025,7 +14030,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58103
+      "UsersEstimate": 58104
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -14040,7 +14045,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 232412,
+      "Progressed": 232415,
       "Completed": 0
     }
   ],
@@ -14048,8 +14053,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-14T16:02:55.3405759+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:08:55.4558275+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:09:19.3443372+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.7826275+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:02:42.4797031+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:08:55.4559102+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:02:39.3522656+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:09:19.3444158+00:00"
 }

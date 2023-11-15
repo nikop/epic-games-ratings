@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4873,
+  "EOS_Progressed": 4875,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9255,6 +9255,11 @@
       "Time": "2023-11-15T05:04:06.0178305+00:00",
       "NumProgressed": 4873,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T07:03:23.7850296+00:00",
+      "NumProgressed": 4875,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9267,7 +9272,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -9307,7 +9312,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9315,7 +9320,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9339,7 +9344,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -9363,7 +9368,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9387,7 +9392,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9419,7 +9424,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9450,15 +9455,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4873,
+      "Progressed": 4875,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:03:21.799375+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:03:23.7850293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:58:39.0297518+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:03:21.7994645+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:59:00.2120033+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:03:23.7850908+00:00"
 }

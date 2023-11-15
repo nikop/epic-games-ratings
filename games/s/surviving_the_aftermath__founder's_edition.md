@@ -1,23 +1,23 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 622)  
+Rating: 4.48 (Ranked 623)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,670 |
-| Leader | 61.00% | ~6,409 |
+| First Step | 73.00% | ~7,671 |
+| Leader | 61.00% | ~6,410 |
 | Explorer | 53.00% | ~5,569 |
 | Healer | 52.00% | ~5,464 |
-| Aspiring Inventor | 44.00% | ~4,623 |
+| Aspiring Inventor | 44.00% | ~4,624 |
 | Adventurer | 42.00% | ~4,413 |
 | Famous Healer | 38.00% | ~3,993 |
-| Local Leader | 35.00% | ~3,677 |
-| Famous Explorer | 34.00% | ~3,572 |
-| New Opportunities | 34.00% | ~3,572 |
-| Energized | 33.00% | ~3,467 |
-| The Long Haul | 33.00% | ~3,467 |
+| Local Leader | 35.00% | ~3,678 |
+| Famous Explorer | 34.00% | ~3,573 |
+| New Opportunities | 34.00% | ~3,573 |
+| Energized | 33.00% | ~3,468 |
+| The Long Haul | 33.00% | ~3,468 |
 | The Great Healer | 31.00% | ~3,257 |
 | Survivor | 31.00% | ~3,257 |
 | Legendary Explorer | 28.00% | ~2,942 |
@@ -30,8 +30,8 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 22.00% | ~2,312 |
 | Ice Lakes | 22.00% | ~2,312 |
 | Real Survivor | 22.00% | ~2,312 |
-| Rocket Surgeon | 20.00% | ~2,101 |
-| War Never Changes | 19.00% | ~1,996 |
+| Rocket Surgeon | 20.00% | ~2,102 |
+| War Never Changes | 19.00% | ~1,997 |
 | Friendly | 17.00% | ~1,786 |
 | Big Game Hunter | 17.00% | ~1,786 |
 | Around the World | 17.00% | ~1,786 |
@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 10.00% | ~1,051 |
 | Trader | 9.00% | ~946 |
 | Bread and Circuses | 8.00% | ~841 |
-| New Eden | 7.00% | ~735 |
-| Tailored to fit | 7.00% | ~735 |
+| New Eden | 7.00% | ~736 |
+| Tailored to fit | 7.00% | ~736 |
 | Really Friendly | 6.00% | ~630 |
 | Amped Up | 6.00% | ~630 |
 | Look, no Hands! | 5.00% | ~525 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~21 |
 | Customized calamities | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,507 (Ranked 156)  
+Progressed: 10,508 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 10,425 | 0 |
 | 2023-11-13 | 10,464 | 0 |
 | 2023-11-14 | 10,497 | 0 |
-| 2023-11-15 | 10,507 | 0 |
+| 2023-11-15 | 10,508 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 354)  
 Sum: 728 (Ranked 290)  

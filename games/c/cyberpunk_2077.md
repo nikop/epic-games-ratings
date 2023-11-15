@@ -19,12 +19,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.50% | ~4,484 |
 | The Lovers | 0.50% | ~4,484 |
 | The Wheel of Fortune | 0.50% | ~4,484 |
+| True Warrior | 0.50% | ~4,484 |
 | Bushido and Chill | 0.40% | ~3,587 |
 | Christmas Tree Attack | 0.40% | ~3,587 |
 | Life of the Road | 0.40% | ~3,587 |
 | The High Priestess | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
-| True Warrior | 0.40% | ~3,587 |
 | Judy vs Night City | 0.40% | ~3,587 |
 | Legend of The Afterlife | 0.40% | ~3,587 |
 | Spin Doctor | 0.40% | ~101 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,740 (Ranked 15)  
+Progressed: 896,743 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2,778 (0.31%) (Ranked 227)
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
-| 2023-11-15 | 896,740 | 2,778 |
+| 2023-11-15 | 896,743 | 2,778 |
 ## Awards
 Max (Character Customization): 105,471  (Ranked 9)  
 Sum: 352,831 (Ranked 10)  

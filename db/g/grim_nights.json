@@ -387,9 +387,9 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_level3",
@@ -444,8 +444,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:03:53.4210275+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:03:58.1552061+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.899327+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:59:50.4293497+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:03:53.4210372+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:00:26.0514887+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:03:58.1552143+00:00"
 }

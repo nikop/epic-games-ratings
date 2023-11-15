@@ -22,7 +22,7 @@
 | Oh, It's On | 49.00% | ~4,932 |
 | Rydell's Rydes | 48.00% | ~4,831 |
 | Cash Money Millionaire | 45.00% | ~4,529 |
-| Lake Better Watch Out | 38.00% | ~3,825 |
+| Lake Better Watch Out | 39.00% | ~3,925 |
 | Access All Areas | 33.00% | ~3,321 |
 | #Blessed | 33.00% | ~3,321 |
 | Found Family | 31.00% | ~3,120 |

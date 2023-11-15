@@ -23,7 +23,7 @@ Rating: 4.06 (Ranked 973)
 | A Familiar Nest | 18.00% | ~50 |
 | Periapt Alizarin | 18.00% | ~50 |
 | Geas Aristeya | 17.00% | ~47 |
-| A Perfect Cycle | 15.00% | ~41 |
+| A Perfect Cycle | 16.00% | ~44 |
 | Recruit | 15.00% | ~41 |
 | Armsman | 15.00% | ~41 |
 | Lights Army | 10.00% | ~28 |

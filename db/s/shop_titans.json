@@ -7045,9 +7045,9 @@
       "Count": 3780
     }
   ],
-  "EOS_Progressed": 139861,
+  "EOS_Progressed": 139866,
   "EOS_Completed": 186,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28440,6 +28440,11 @@
       "Time": "2023-11-15T06:03:02.4867145+00:00",
       "NumProgressed": 139861,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2023-11-15T07:03:02.6866855+00:00",
+      "NumProgressed": 139866,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 112,
@@ -28683,7 +28688,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5594
+      "UsersEstimate": 5595
     },
     {
       "ID": "commonres02",
@@ -28923,7 +28928,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5594
+      "UsersEstimate": 5595
     },
     {
       "ID": "gold02",
@@ -29267,7 +29272,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5594
+      "UsersEstimate": 5595
     },
     {
       "ID": "twinenchant01",
@@ -29346,15 +29351,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139861,
+      "Progressed": 139866,
       "Completed": 186
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-14T18:57:56.347917+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:03:02.4867141+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:03:02.6866853+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:57:56.9245472+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:03:02.4869723+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:58:13.4019677+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:03:02.6869182+00:00"
 }

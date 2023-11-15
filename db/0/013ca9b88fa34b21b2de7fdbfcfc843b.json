@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7787,
+  "EOS_Progressed": 7788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6781,6 +6781,11 @@
       "Time": "2023-11-15T02:32:03.2934214+00:00",
       "NumProgressed": 7787,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T07:09:22.1457647+00:00",
+      "NumProgressed": 7788,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6791,9 +6796,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5607
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6809,7 +6814,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6881,7 +6886,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6889,7 +6894,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6945,7 +6950,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7001,7 +7006,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -7057,7 +7062,7 @@
       "Name": "House Proud",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -7072,22 +7077,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7787,
+      "Progressed": 7788,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 404,
-      "Completed": 404
+      "Progressed": 405,
+      "Completed": 405
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-15T06:08:57.9903274+00:00",
+  "LastChanged_Achievements": "2023-11-15T07:09:22.1457645+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:02:48.786632+00:00",
-  "LastUpdate_Achievements": "2023-11-15T06:08:57.9903698+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:02:45.8296799+00:00",
+  "LastUpdate_Achievements": "2023-11-15T07:09:22.14583+00:00"
 }
