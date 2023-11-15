@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 777,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 4.38,
   "EosHistory": [
@@ -1774,6 +1774,11 @@
       "Time": "2023-11-15T12:08:51.7023334+00:00",
       "NumProgressed": 776,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-15T13:15:30.6704413+00:00",
+      "NumProgressed": 777,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1794,7 +1799,7 @@
       "Name": "Brain-teaser",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_DONUTS",
@@ -1802,7 +1807,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1826,7 +1831,7 @@
       "Name": "Evil plan",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1842,7 +1847,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1865,14 +1870,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 777,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:08:51.7023331+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:15:30.670441+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:59:15.2082212+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:08:51.7023482+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:06:19.3731925+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:15:30.6704564+00:00"
 }

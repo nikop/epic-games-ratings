@@ -4,8 +4,8 @@
   "ProductSlug": "baldurs-gate-enhanced-edition",
   "Ranking_Rating": 107,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 474,
-  "Ranking_EOS_Progress": 745,
+  "Ranking_PopularitySum": 475,
+  "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -314,6 +314,6 @@
   "FirstSeen": "2022-07-22T20:19:45.8967483+00:00",
   "LastChanged": "2023-11-04T22:03:25.2234716+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.3640923+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:03:01.4534616+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:08:08.4670748+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:09:46.1219403+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:14:37.4308409+00:00"
 }

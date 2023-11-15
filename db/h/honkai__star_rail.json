@@ -3,9 +3,9 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 157,
-  "Ranking_Popularity": 22,
+  "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 21,
-  "Ranking_EOS_Progress": 745,
+  "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -7399,24 +7399,30 @@
       "Rating": 4.74,
       "NumberOfAwards": 75351,
       "NumberOfAwardsMax": 19751
+    },
+    {
+      "Time": "2023-11-15T13:09:24.5579017+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 76254,
+      "NumberOfAwardsMax": 20075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 75351,
-  "NumberOfAwardsMax": 19751,
+  "NumberOfAwards": 76254,
+  "NumberOfAwardsMax": 20075,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 19751
+      "Count": 20075
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5250
+      "Count": 5380
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7428,7 +7434,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 6970
+      "Count": 7156
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7446,13 +7452,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4928
+      "Count": 4995
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 7163
+      "Count": 7359
     },
     {
       "Text": "This game is Relaxing",
@@ -7491,8 +7497,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-11-15T11:02:37.3675788+00:00",
+  "LastChanged": "2023-11-15T13:09:24.5579015+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.2104471+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:02:43.4353209+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:06:29.5243226+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:09:24.5579022+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:14:03.6014053+00:00"
 }

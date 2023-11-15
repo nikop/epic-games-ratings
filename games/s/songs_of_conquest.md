@@ -3,10 +3,74 @@
 [View Rawdata](../../db/s/songs_of_conquest.json)  
 Rating: 4.69 (Ranked 230)  
 Number of Ratings: 292  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Bringer of Ruin | 0.00% | ~0 |
+| The Song of Stoutheart | 0.00% | ~0 |
+| Death To Diplomacy | 0.00% | ~0 |
+| Dressed For Success | 0.00% | ~0 |
+| Attack Bonanza | 0.00% | ~0 |
+| The Price of Freedom | 0.00% | ~0 |
+| A Free Man | 0.00% | ~0 |
+| This Spot's Taken | 0.00% | ~0 |
+| Hello There | 0.00% | ~0 |
+| Versatile Wielder | 0.00% | ~0 |
+| Unlimited Power! | 0.00% | ~0 |
+| Fully Charged | 0.00% | ~0 |
+| Coming Through! | 0.00% | ~0 |
+| Critical Hit | 0.00% | ~0 |
+| Deepstrike | 0.00% | ~0 |
+| Die by the Bow | 0.00% | ~0 |
+| Die by the Staff | 0.00% | ~0 |
+| Die by the Sword | 0.00% | ~0 |
+| Double Kill | 0.00% | ~0 |
+| Barbecue | 0.00% | ~0 |
+| In The Thick of It | 0.00% | ~0 |
+| Full House | 0.00% | ~0 |
+| Infernal Influence | 0.00% | ~0 |
+| Killing Spree | 0.00% | ~0 |
+| Together For Her | 0.00% | ~0 |
+| An Empress's Hope | 0.00% | ~0 |
+| Multi Kill | 0.00% | ~0 |
+| Proof That Luck Can Be Consistent | 0.00% | ~0 |
+| Oops! | 0.00% | ~0 |
+| Death From Above | 0.00% | ~0 |
+| Whoops! | 0.00% | ~0 |
+| From the Ashes | 0.00% | ~0 |
+| The Marsh Expands | 0.00% | ~0 |
+| Don't Touch My Stuff | 0.00% | ~0 |
+| Such A Fungi | 0.00% | ~0 |
+| Sorcerous Spree | 0.00% | ~0 |
+| Get Over Here! | 0.00% | ~0 |
+| Cleave | 0.00% | ~0 |
+| Landlord Extraordinaire | 0.00% | ~0 |
+| Trojan Horse | 0.00% | ~0 |
+| Ultra Kill | 0.00% | ~0 |
+| Adept | 0.00% | ~0 |
+| Veteran | 0.00% | ~0 |
+| Master | 0.00% | ~0 |
+| Grand Master | 0.00% | ~0 |
+| Humiliation | 0.00% | ~0 |
+| Pyrrhic Victory | 0.00% | ~0 |
+| Expert Essence Employment | 0.00% | ~0 |
+| Veni, Vidi, Vici | 0.00% | ~0 |
+| Venisti, Vidisti, Perdidisti | 0.00% | ~0 |
+| Kneel, peasant! | 0.00% | ~0 |
+| Contractually Obligated to Win | 0.00% | ~0 |
+| I like it a Loth | 0.00% | ~0 |
+| Here be Dragons | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 2 (Ranked 655)  
+Completed: 0 (0.00%) (Ranked 352)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-11-15 | 2 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 27  (Ranked 508)  
+Max (Quickly Understood Controls): 27  (Ranked 507)  
 Sum: 194 (Ranked 402)  
-Diff (max vs sum): 106  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 27 |

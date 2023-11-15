@@ -7,6 +7,7 @@
 | Master trainee | 6.00% | ~2 |
 | You have three wishes left | 6.00% | ~2 |
 | The adventurer | 6.00% | ~2 |
+| A continent with chemistry | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
@@ -14,17 +15,16 @@
 | Fanatacism is... poisonous | 3.00% | ~1 |
 | Jung's dream | 3.00% | ~1 |
 | Giant | 3.00% | ~1 |
+| A rival with no options | 3.00% | ~1 |
 | The battle of Great Britain | 3.00% | ~1 |
 | Pulp! Terror Tales in the Night | 3.00% | ~1 |
 | Pulp! Where Monsters Dwell | 3.00% | ~1 |
-| A continent with chemistry | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
 | ECO mode | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
-| A rival with no options | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |

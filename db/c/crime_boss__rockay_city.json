@@ -4635,9 +4635,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 91162,
+  "EOS_Progressed": 91167,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1444,
+  "EOS_NewPlayers": 1435,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25380,6 +25380,11 @@
       "Time": "2023-11-15T12:06:11.8416231+00:00",
       "NumProgressed": 91162,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-15T13:13:41.8908543+00:00",
+      "NumProgressed": 91167,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 41,
@@ -25447,7 +25452,7 @@
       "Name": "Rockay Raider",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_0022",
@@ -25718,13 +25723,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91162,
+      "Progressed": 91167,
       "Completed": 56
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19509,
+      "Progressed": 19514,
       "Completed": 15570
     }
   ],
@@ -25732,8 +25737,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-15T08:59:15.8485332+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:06:11.8416226+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:13:41.890854+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:59:10.3785258+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:06:11.8417509+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:06:13.3791985+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:13:41.8909478+00:00"
 }

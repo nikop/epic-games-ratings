@@ -31,7 +31,7 @@
 | Merciless | 41.00% | ~519 |
 | Very Elusive | 40.00% | ~506 |
 | Sentinel Ally | 39.00% | ~494 |
-| Head Hunter | 38.00% | ~481 |
+| Head Hunter | 39.00% | ~494 |
 | Operative | 38.00% | ~481 |
 | Scholar | 38.00% | ~481 |
 | Veteran | 36.00% | ~456 |
@@ -70,10 +70,10 @@
 | Friend or Foe | 27.00% | ~342 |
 | Cat's in the Cradle | 27.00% | ~342 |
 | Mobilizer | 27.00% | ~342 |
+| Untouchable | 26.00% | ~329 |
 | Mission Accomplished | 26.00% | ~329 |
 | Suicide Mission | 26.00% | ~329 |
 | Against All Odds | 26.00% | ~329 |
-| Untouchable | 25.00% | ~316 |
 | Eye of the Hurricane | 25.00% | ~316 |
 | Giant Killer | 25.00% | ~316 |
 | First Aid Specialist | 25.00% | ~316 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,266 (Ranked 243)  
+Progressed: 1,266 (Ranked 244)  
 Completed: 3 (0.24%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |

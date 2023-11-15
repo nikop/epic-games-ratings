@@ -2,7 +2,7 @@
   "ID": "2c4ec7c7a6024eb68407cca0fe18a887",
   "Name": "Ignition",
   "ProductSlug": "ignition-5246f9",
-  "Ranking_EOS_Progress": 745,
+  "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.2385978+00:00",
   "LastChanged": "2023-03-31T05:58:02.2385979+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:52.6525021+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:57:39.5402332+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:03:16.9580438+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:04:21.3596662+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:10:06.8184643+00:00"
 }

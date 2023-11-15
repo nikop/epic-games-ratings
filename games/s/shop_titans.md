@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~6,994 |
+| Sponsored by Argon | 5.00% | ~6,995 |
 | Basic in Bulk | 4.00% | ~5,596 |
 | Tinkle of Coins | 4.00% | ~5,596 |
 | Titan's First Steps | 4.00% | ~5,596 |
@@ -71,6 +71,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.80% | ~1,119 |
 | Cranked up to 11 | 0.80% | ~1,119 |
 | Fit for a King | 0.80% | ~1,119 |
+| By Your Powers Combined... | 0.80% | ~1,119 |
 | Wealth Beyond Measure | 0.80% | ~1,119 |
 | Fat Cat Tag Team | 0.80% | ~1,119 |
 | Necromancer Queen | 0.80% | ~1,119 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.70% | ~979 |
 | Industrial Evolution | 0.70% | ~979 |
 | Ritualist | 0.70% | ~979 |
-| By Your Powers Combined... | 0.70% | ~979 |
 | A Legend is Born | 0.70% | ~979 |
 | Item of Renown | 0.70% | ~979 |
 | Bountiful Harvest | 0.70% | ~979 |
@@ -100,11 +100,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~979 |
 | King's Shadow | 0.70% | ~979 |
 | Economy of Scarce | 0.60% | ~839 |
-| The Free Encyclopedia | 0.50% | ~699 |
-| Thank You Tom Nook | 0.50% | ~699 |
-| Jackpot! | 0.50% | ~699 |
-| Eternal Crusade | 0.50% | ~699 |
-| All Accounted For | 0.50% | ~699 |
+| The Free Encyclopedia | 0.50% | ~700 |
+| Thank You Tom Nook | 0.50% | ~700 |
+| Jackpot! | 0.50% | ~700 |
+| Eternal Crusade | 0.50% | ~700 |
+| All Accounted For | 0.50% | ~700 |
 | All or Nothing! | 0.40% | ~560 |
 | Unleashed Potential | 0.30% | ~420 |
 | JACKPOT!!! | 0.30% | ~420 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,890 (Ranked 79)  
+Progressed: 139,900 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 186 (0.13%) (Ranked 264)
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
 | 2023-11-14 | 139,830 | 186 |
-| 2023-11-15 | 139,890 | 186 |
+| 2023-11-15 | 139,900 | 186 |
 ## Awards
 Max (Great for Beginners): 4,831  (Ranked 74)  
 Sum: 27,552 (Ranked 51)  

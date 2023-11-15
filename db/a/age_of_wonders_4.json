@@ -4,7 +4,7 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 384,
   "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 473,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 173,
@@ -7542,9 +7542,9 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "55",
@@ -7613,8 +7613,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:05:00.4247014+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:12:14.7740926+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:58:00.8512432+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:05:00.424771+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:04:46.6957119+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:12:14.7744334+00:00"
 }

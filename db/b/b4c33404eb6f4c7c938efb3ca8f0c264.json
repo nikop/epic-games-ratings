@@ -2,7 +2,7 @@
   "ID": "b4c33404eb6f4c7c938efb3ca8f0c264",
   "Name": "The Last Three",
   "ProductSlug": "the-last-three-50d8e0",
-  "Ranking_EOS_Progress": 745,
+  "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-12T17:57:22.0878198+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:59:28.8929777+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:04:00.8090307+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:06:37.3113295+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:11:01.3062622+00:00"
 }

@@ -18,8 +18,8 @@ Rating: 4.61 (Ranked 384)
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
+| Chaos Surge | 0.80% | ~43 |
 | In a Liege of Your Own | 0.70% | ~38 |
-| Chaos Surge | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
 | Valley of Wonders | 0.60% | ~32 |
 | Intimidation Tactics | 0.60% | ~32 |
@@ -246,8 +246,8 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-15 | 5,392 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
-Sum: 54 (Ranked 473)  
-Diff (max vs sum): 11  
+Sum: 54 (Ranked 474)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

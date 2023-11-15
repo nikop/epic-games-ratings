@@ -3,9 +3,9 @@
   "Name": "The Forgotten City",
   "ProductSlug": "the-forgotten-city",
   "Ranking_Rating": 128,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 745,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
+  "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -190,6 +190,6 @@
   "FirstSeen": "2022-07-22T20:18:49.2138104+00:00",
   "LastChanged": "2023-11-05T17:11:17.866604+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:23.7619108+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:00:44.5686554+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:04:50.6152649+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:08:12.4079224+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:12:02.9697999+00:00"
 }

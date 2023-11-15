@@ -3,8 +3,8 @@
 [View Rawdata](../../db/a/alba_-_a_wildlife_adventure.json)  
 Rating: 4.63 (Ranked 349)  
 ## Awards
-Max (Extremely Fun): 21  (Ranked 538)  
-Sum: 21 (Ranked 539)  
+Max (Extremely Fun): 21  (Ranked 537)  
+Sum: 21 (Ranked 538)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

@@ -6,65 +6,65 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,944 |
-| Now You're Talking | 62.00% | ~329,436 |
-| Steel Yourself | 62.00% | ~329,436 |
-| Window Dressing | 50.00% | ~265,674 |
-| Trigger Happy | 46.00% | ~244,421 |
-| Riverborn | 45.00% | ~239,107 |
-| Starry Eyed | 34.00% | ~180,659 |
-| Poking Around | 34.00% | ~180,659 |
+| First Step | 70.00% | ~371,946 |
+| Now You're Talking | 62.00% | ~329,438 |
+| Steel Yourself | 62.00% | ~329,438 |
+| Window Dressing | 50.00% | ~265,676 |
+| Trigger Happy | 46.00% | ~244,422 |
+| Riverborn | 45.00% | ~239,108 |
+| Starry Eyed | 34.00% | ~180,660 |
+| Poking Around | 34.00% | ~180,660 |
 | Talk of the Town | 24.00% | ~127,524 |
-| AAARR! | 23.00% | ~122,210 |
-| Hello Darkness | 23.00% | ~122,210 |
+| AAARR! | 23.00% | ~122,211 |
+| Hello Darkness | 23.00% | ~122,211 |
 | Wind At Our Backs | 22.00% | ~116,897 |
 | To the Beat | 20.00% | ~106,270 |
-| Sunny Shores | 17.00% | ~90,329 |
+| Sunny Shores | 17.00% | ~90,330 |
 | Sunday Best | 16.00% | ~85,016 |
-| To Victory! | 15.00% | ~79,702 |
+| To Victory! | 15.00% | ~79,703 |
 | Two of a Kind | 14.00% | ~74,389 |
-| Keep On Trucking | 13.00% | ~69,075 |
-| Going on an Adventure | 11.00% | ~58,448 |
-| Make Peace, Not War | 11.00% | ~58,448 |
+| Keep On Trucking | 13.00% | ~69,076 |
+| Going on an Adventure | 11.00% | ~58,449 |
+| Make Peace, Not War | 11.00% | ~58,449 |
 | Walking The Line | 10.00% | ~53,135 |
 | Not So Cute Anymore | 10.00% | ~53,135 |
-| Road Less Travelled | 9.00% | ~47,821 |
-| Lost and Found | 9.00% | ~47,821 |
+| Road Less Travelled | 9.00% | ~47,822 |
+| Lost and Found | 9.00% | ~47,822 |
 | Under the Radar | 8.00% | ~42,508 |
-| Partner in Crime | 7.00% | ~37,194 |
-| Hard to Hear | 7.00% | ~37,194 |
+| Partner in Crime | 7.00% | ~37,195 |
+| Hard to Hear | 7.00% | ~37,195 |
 | Moving On Up | 6.00% | ~31,881 |
 | Owl Knows Best | 6.00% | ~31,881 |
 | Mind the Moose | 6.00% | ~31,881 |
 | Oh, Romeo! | 6.00% | ~31,881 |
 | Dressed to Kill | 6.00% | ~31,881 |
 | Beast Mode | 6.00% | ~31,881 |
-| Noble Intentions | 5.00% | ~26,567 |
-| Rising Star | 5.00% | ~26,567 |
-| Slime Slayer | 5.00% | ~26,567 |
+| Noble Intentions | 5.00% | ~26,568 |
+| Rising Star | 5.00% | ~26,568 |
+| Slime Slayer | 5.00% | ~26,568 |
 | Privacy, Please! | 4.00% | ~21,254 |
 | Silky Smooth | 4.00% | ~21,254 |
 | Hash It Over | 4.00% | ~21,254 |
 | Biting Tongue | 4.00% | ~21,254 |
 | What a Catch! | 4.00% | ~21,254 |
 | Hit the Spot | 4.00% | ~21,254 |
-| Talk the Talk | 3.00% | ~15,940 |
-| Skin in the Game | 3.00% | ~15,940 |
-| Caving In | 3.00% | ~15,940 |
-| Page Turner | 3.00% | ~15,940 |
-| Spinal Adjustment | 3.00% | ~15,940 |
-| The Knowledge | 3.00% | ~15,940 |
+| Talk the Talk | 3.00% | ~15,941 |
+| Skin in the Game | 3.00% | ~15,941 |
+| Caving In | 3.00% | ~15,941 |
+| Page Turner | 3.00% | ~15,941 |
+| Spinal Adjustment | 3.00% | ~15,941 |
+| The Knowledge | 3.00% | ~15,941 |
 | Seek the Rainbow | 2.00% | ~10,627 |
 | Words of Truth | 2.00% | ~10,627 |
 | Star Power | 2.00% | ~10,627 |
 | Justice Served | 2.00% | ~10,627 |
-| Written in the Stars | 1.00% | ~5,313 |
-| Don't Care | 1.00% | ~5,313 |
-| Don’t Get Crabby | 1.00% | ~5,313 |
+| Written in the Stars | 1.00% | ~5,314 |
+| Don't Care | 1.00% | ~5,314 |
+| Don’t Get Crabby | 1.00% | ~5,314 |
 | Boss of All Bosses | 0.30% | ~1,594 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,349 (Ranked 35)  
+Progressed: 531,352 (Ranked 35)  
 Completed: 498 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 498 (0.09%) (Ranked 281)
 | 2023-11-12 | 531,221 | 497 |
 | 2023-11-13 | 531,270 | 498 |
 | 2023-11-14 | 531,325 | 498 |
-| 2023-11-15 | 531,349 | 498 |
+| 2023-11-15 | 531,352 | 498 |
 ## Awards
-Max (Relaxing): 20  (Ranked 542)  
-Sum: 20 (Ranked 543)  
+Max (Relaxing): 20  (Ranked 541)  
+Sum: 20 (Ranked 542)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

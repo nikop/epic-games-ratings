@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -761,17 +761,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": -1.6,
+      "Percentage": -0.5,
       "XP": 15,
-      "UsersEstimate": -3
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": -1.6,
+      "Percentage": -0.5,
       "XP": 40,
-      "UsersEstimate": -3
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_07",
@@ -849,9 +849,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": -1.1,
+      "Percentage": -0.5,
       "XP": 20,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_17",
@@ -865,17 +865,17 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": -0.5,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": -0.5,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_20",
@@ -913,9 +913,9 @@
       "ID": "ACH_24",
       "SetID": "efe2lj",
       "Name": "All There Is",
-      "Percentage": -0.5,
+      "Percentage": 0,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_25",
@@ -937,9 +937,9 @@
       "ID": "ACH_27",
       "SetID": "efe2lj",
       "Name": "False God",
-      "Percentage": -0.5,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_28",
@@ -953,9 +953,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": -0.5,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": -1
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_30",
@@ -1024,8 +1024,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:09:25.7165567+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:16:13.1192301+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:00:47.3384488+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:09:25.7165846+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:08:15.83944+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:16:13.1192603+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158337,
+  "EOS_Progressed": 158347,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15736,6 +15736,11 @@
       "Time": "2023-11-15T12:05:02.8928281+00:00",
       "NumProgressed": 158337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T13:12:17.7012217+00:00",
+      "NumProgressed": 158347,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15795,7 +15800,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6333
+      "UsersEstimate": 6334
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -16114,21 +16119,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157920,
+      "Progressed": 157930,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158337,
+      "Progressed": 158347,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:05:02.8928278+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:12:17.7012213+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:00:34.6786137+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:05:02.892925+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:08:00.5421829+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:12:17.7013158+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1454,7 +1454,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130822,
+  "EOS_Progressed": 130825,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -21954,6 +21954,11 @@
       "Time": "2023-11-15T12:05:18.5088845+00:00",
       "NumProgressed": 130822,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-15T13:12:36.5488851+00:00",
+      "NumProgressed": 130825,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22021,7 +22026,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31397
+      "UsersEstimate": 31398
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22045,7 +22050,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36630
+      "UsersEstimate": 36631
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22109,7 +22114,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14390
+      "UsersEstimate": 14391
     },
     {
       "ID": "ACH_CUNO",
@@ -22157,7 +22162,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7849
+      "UsersEstimate": 7850
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -22181,7 +22186,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18315
+      "UsersEstimate": 18316
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -22245,7 +22250,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18315
+      "UsersEstimate": 18316
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -22284,15 +22289,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130822,
+      "Progressed": 130825,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-13T17:59:18.2204176+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:05:18.5088841+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:12:36.5488847+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:59:45.7704202+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:05:18.5090217+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:06:58.6993672+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:12:36.5489857+00:00"
 }

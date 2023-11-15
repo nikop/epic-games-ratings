@@ -222,8 +222,8 @@ Completed: 6 (0.41%) (Ranked 208)
 | 2023-11-14 | 1,465 | 6 |
 | 2023-11-15 | 1,466 | 6 |
 ## Awards
-Max (Character Customization): 29  (Ranked 496)  
-Sum: 29 (Ranked 511)  
+Max (Character Customization): 29  (Ranked 495)  
+Sum: 29 (Ranked 510)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |

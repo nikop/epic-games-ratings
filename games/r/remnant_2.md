@@ -12,6 +12,8 @@ Rating: 4.75 (Ranked 145)
 | Only Human | 0.10% | ~221 |
 | Chaos | 0.10% | ~221 |
 | Gleaming the Cube | 0.10% | ~221 |
+| Traitor | 0.10% | ~221 |
+| Forever is a Long Time Coming | 0.10% | ~221 |
 | Power Surge | 0.10% | ~221 |
 | The Killing Jar | 0.10% | ~221 |
 | Dark Designs | 0.10% | ~221 |
@@ -54,15 +56,13 @@ Rating: 4.75 (Ranked 145)
 | Regicide | 0.10% | ~0 |
 | Master of the Dark Arts | 0.10% | ~0 |
 | A Foul Feast | 0.10% | ~0 |
-| Traitor | 0.00% | ~0 |
-| Forever is a Long Time Coming | 0.00% | ~0 |
+| You Shall Pass | 0.10% | ~0 |
 | The God Gambit | 0.00% | ~0 |
 | The Web | 0.00% | ~0 |
 | Succession | 0.00% | ~0 |
-| You Shall Pass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,093 (Ranked 68)  
-Completed: 453 (0.20%) (Ranked 251)  
+Progressed: 221,121 (Ranked 68)  
+Completed: 454 (0.21%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 453 (0.20%) (Ranked 251)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,093 | 453 |
+| 2023-11-15 | 221,121 | 454 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 5,012 (Ranked 137)  

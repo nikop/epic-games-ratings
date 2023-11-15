@@ -3,9 +3,9 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 230,
-  "Ranking_Popularity": 508,
+  "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 402,
-  "Ranking_EOS_Progress": 745,
+  "Ranking_EOS_Progress": 655,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -438,28 +438,468 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-11-15T13:13:10.0440812+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
+  "TotalAchievements": 54,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ApocalypseSuccession",
+      "SetID": "71c0n9i",
+      "Name": "Bringer of Ruin",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArleonCampaign",
+      "SetID": "71c0n9i",
+      "Name": "The Song of Stoutheart",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArleonCampaignFinaleOnHard",
+      "SetID": "71c0n9i",
+      "Name": "Death To Diplomacy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArtifactsEquipped",
+      "SetID": "71c0n9i",
+      "Name": "Dressed For Success",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AttackCount",
+      "SetID": "71c0n9i",
+      "Name": "Attack Bonanza",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BaryaCampaign",
+      "SetID": "71c0n9i",
+      "Name": "The Price of Freedom",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BaryaCampaignFinaleOnHard",
+      "SetID": "71c0n9i",
+      "Name": "A Free Man",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BurrowBlocked",
+      "SetID": "71c0n9i",
+      "Name": "This Spot\u0027s Taken",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BurrowUp",
+      "SetID": "71c0n9i",
+      "Name": "Hello There",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CastEachSpell",
+      "SetID": "71c0n9i",
+      "Name": "Versatile Wielder",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChainLightningKills",
+      "SetID": "71c0n9i",
+      "Name": "Unlimited Power!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChargerCount",
+      "SetID": "71c0n9i",
+      "Name": "Fully Charged",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ComingThrough",
+      "SetID": "71c0n9i",
+      "Name": "Coming Through!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DamageThreshold",
+      "SetID": "71c0n9i",
+      "Name": "Critical Hit",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Deepstrike",
+      "SetID": "71c0n9i",
+      "Name": "Deepstrike",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DieByTheBow",
+      "SetID": "71c0n9i",
+      "Name": "Die by the Bow",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DieByTheStaff",
+      "SetID": "71c0n9i",
+      "Name": "Die by the Staff",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DieByTheSword",
+      "SetID": "71c0n9i",
+      "Name": "Die by the Sword",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DoubleKill",
+      "SetID": "71c0n9i",
+      "Name": "Double Kill",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FlameAttackKillCount",
+      "SetID": "71c0n9i",
+      "Name": "Barbecue",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FrontlineFighterCount",
+      "SetID": "71c0n9i",
+      "Name": "In The Thick of It",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FullHouse",
+      "SetID": "71c0n9i",
+      "Name": "Full House",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InfernalInfluence",
+      "SetID": "71c0n9i",
+      "Name": "Infernal Influence",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KillingSpree",
+      "SetID": "71c0n9i",
+      "Name": "Killing Spree",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LothCampaign",
+      "SetID": "71c0n9i",
+      "Name": "Together For Her",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LothCampaignFinaleOnHard",
+      "SetID": "71c0n9i",
+      "Name": "An Empress\u0027s Hope",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MultiKill",
+      "SetID": "71c0n9i",
+      "Name": "Multi Kill",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MultiplayerWins",
+      "SetID": "71c0n9i",
+      "Name": "Proof That Luck Can Be Consistent",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Oops",
+      "SetID": "71c0n9i",
+      "Name": "Oops!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PhoenixKills",
+      "SetID": "71c0n9i",
+      "Name": "Death From Above",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QuickRetaliationDeath",
+      "SetID": "71c0n9i",
+      "Name": "Whoops!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RanaCampaign",
+      "SetID": "71c0n9i",
+      "Name": "From the Ashes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RanaCampaignFinaleOnHard",
+      "SetID": "71c0n9i",
+      "Name": "The Marsh Expands",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ReclaimTown",
+      "SetID": "71c0n9i",
+      "Name": "Don\u0027t Touch My Stuff",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RepelIntoExplosiveFungi",
+      "SetID": "71c0n9i",
+      "Name": "Such A Fungi",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SorcerousSpree",
+      "SetID": "71c0n9i",
+      "Name": "Sorcerous Spree",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SwapIntoPoisonCloud",
+      "SetID": "71c0n9i",
+      "Name": "Get Over Here!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SweepKillCount",
+      "SetID": "71c0n9i",
+      "Name": "Cleave",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TownCompletion",
+      "SetID": "71c0n9i",
+      "Name": "Landlord Extraordinaire",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TrojanHorse",
+      "SetID": "71c0n9i",
+      "Name": "Trojan Horse",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UltraKill",
+      "SetID": "71c0n9i",
+      "Name": "Ultra Kill",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WielderLevel1",
+      "SetID": "71c0n9i",
+      "Name": "Adept",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WielderLevel2",
+      "SetID": "71c0n9i",
+      "Name": "Veteran",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WielderLevel3",
+      "SetID": "71c0n9i",
+      "Name": "Master",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WielderLevel4",
+      "SetID": "71c0n9i",
+      "Name": "Grand Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinBattleBeforeEnemyTurn",
+      "SetID": "71c0n9i",
+      "Name": "Humiliation",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinBattleWithOneUnitLeft",
+      "SetID": "71c0n9i",
+      "Name": "Pyrrhic Victory",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinBattleWithoutAttacking",
+      "SetID": "71c0n9i",
+      "Name": "Expert Essence Employment",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinSiegeAsAttacker",
+      "SetID": "71c0n9i",
+      "Name": "Veni, Vidi, Vici",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinSiegeAsDefender",
+      "SetID": "71c0n9i",
+      "Name": "Venisti, Vidisti, Perdidisti",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinsWithFactionArleon",
+      "SetID": "71c0n9i",
+      "Name": "Kneel, peasant!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinsWithFactionBarya",
+      "SetID": "71c0n9i",
+      "Name": "Contractually Obligated to Win",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinsWithFactionLoth",
+      "SetID": "71c0n9i",
+      "Name": "I like it a Loth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WinsWithFactionRana",
+      "SetID": "71c0n9i",
+      "Name": "Here be Dragons",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:05:45.4120583+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:13:10.044081+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:58:49.4324658+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:05:45.4120613+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:05:46.5215665+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:13:10.0766504+00:00"
 }

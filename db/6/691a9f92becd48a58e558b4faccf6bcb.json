@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1147,6 +1147,11 @@
       "Time": "2023-11-15T04:08:36.8524663+00:00",
       "NumProgressed": 250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T13:15:37.6570748+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1159,7 +1164,7 @@
       "Name": "Minimalist lifestyle",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
@@ -1167,7 +1172,7 @@
       "Name": "I deliver the presents!",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_HOME",
@@ -1175,7 +1180,7 @@
       "Name": "A new HOME",
       "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
@@ -1279,7 +1284,7 @@
       "Name": "Silver Hat",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -1302,13 +1307,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:08:57.7083101+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:15:37.6570746+00:00",
   "LastUpdate_AppInfo": "2023-11-12T22:57:17.5740254+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:00:34.38391+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:08:57.7083283+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:08:00.101877+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:15:37.6570911+00:00"
 }

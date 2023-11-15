@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,005)
 | Foo Finder | 0.40% | ~365 |
 | Olympus Ascended | 0.40% | ~365 |
 | Ding Dong | 0.40% | ~365 |
-| Rockay Raider | 0.30% | ~273 |
+| Rockay Raider | 0.30% | ~274 |
 | All that Glitters | 0.30% | ~59 |
 | Rockay Knight | 0.20% | ~182 |
 | Privateer | 0.20% | ~182 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,162 (Ranked 91)  
+Progressed: 91,167 (Ranked 91)  
 Completed: 56 (0.06%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 56 (0.06%) (Ranked 295)
 | 2023-11-12 | 90,809 | 55 |
 | 2023-11-13 | 91,003 | 55 |
 | 2023-11-14 | 91,133 | 55 |
-| 2023-11-15 | 91,162 | 56 |
+| 2023-11-15 | 91,167 | 56 |
 ## Awards
 Max (Diverse Characters): 532  (Ranked 203)  
 Sum: 3,020 (Ranked 176)  

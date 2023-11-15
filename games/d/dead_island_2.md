@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 524)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,11 +10,11 @@ Rating: 4.54 (Ranked 523)
 | Pork Chopped | 2.00% | ~885 |
 | Welcome To Hell-A | 1.00% | ~7,187 |
 | Hotel California | 0.90% | ~6,468 |
-| Git Gutte! | 0.80% | ~5,749 |
-| Break A Leg | 0.80% | ~5,749 |
-| Coup de Grâce | 0.80% | ~5,749 |
-| Hazardous Materials | 0.80% | ~5,749 |
-| Personal Assistant Personally Assisted | 0.80% | ~5,749 |
+| Git Gutte! | 0.80% | ~5,750 |
+| Break A Leg | 0.80% | ~5,750 |
+| Coup de Grâce | 0.80% | ~5,750 |
+| Hazardous Materials | 0.80% | ~5,750 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,750 |
 | Dr. Reed, I Presume? | 0.70% | ~5,031 |
 | Anger Management | 0.70% | ~5,031 |
 | Bookworm | 0.70% | ~5,031 |
@@ -28,21 +28,21 @@ Rating: 4.54 (Ranked 523)
 | Can't Handle the Truth | 0.60% | ~4,312 |
 | Like Riding a Bike | 0.60% | ~4,312 |
 | Zombologist | 0.60% | ~4,312 |
+| Ooh, Shiny! | 0.60% | ~4,312 |
 | A Patton Emerges | 0.60% | ~4,312 |
 | Our True Nature | 0.60% | ~4,312 |
-| Making Your Mark | 0.50% | ~3,593 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,593 |
-| Ooh, Shiny! | 0.50% | ~3,593 |
-| I Am the Resurrection | 0.50% | ~3,593 |
-| Max Headroom | 0.50% | ~3,593 |
+| Making Your Mark | 0.50% | ~3,594 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,594 |
+| I Am the Resurrection | 0.50% | ~3,594 |
+| Max Headroom | 0.50% | ~3,594 |
 | Not Even My Final Form | 0.40% | ~2,875 |
+| Jumbo Keyring | 0.40% | ~2,875 |
 | Humanity Distilled | 0.40% | ~2,875 |
 | Down with the Sickness | 0.40% | ~2,875 |
 | Make it So | 0.30% | ~2,156 |
 | On Safari | 0.30% | ~2,156 |
 | Smorgasbord | 0.30% | ~2,156 |
 | Internet Famous | 0.30% | ~2,156 |
-| Jumbo Keyring | 0.30% | ~2,156 |
 | Go, Bobcats! | 0.30% | ~2,156 |
 | Variety is the Spice of Death | 0.30% | ~2,156 |
 | Rising Star | 0.30% | ~2,156 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,687 (Ranked 20)  
+Progressed: 718,706 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,687 | 2,391 |
+| 2023-11-15 | 718,706 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
 Sum: 11,329 (Ranked 84)  

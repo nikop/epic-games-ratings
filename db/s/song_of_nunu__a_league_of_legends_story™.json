@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 694,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -1349,9 +1349,9 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 257
     },
     {
       "ID": "EV_ACH11",
@@ -1636,8 +1636,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:09:21.1575078+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:16:07.0773309+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:02:51.0186521+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:09:21.1575385+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:09:33.6069571+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:16:07.0773723+00:00"
 }

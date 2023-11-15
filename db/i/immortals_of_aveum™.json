@@ -3,11 +3,11 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 973,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1427,9 +1427,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_36",
@@ -1668,8 +1668,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:08:21.5729045+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:14:53.4992723+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:57:25.4383609+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:08:21.572938+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:04:02.60735+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:14:53.4993062+00:00"
 }

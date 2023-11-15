@@ -2,10 +2,10 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 236,
-  "Ranking_EOS_Progress": 745,
+  "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
@@ -1658,6 +1658,6 @@
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
   "LastChanged": "2023-11-10T05:02:29.0309694+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:56.6933742+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:02:47.3563178+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:05:52.76767+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:09:29.1956435+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:13:18.7149822+00:00"
 }

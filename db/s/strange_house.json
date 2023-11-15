@@ -4,7 +4,7 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -147,6 +147,11 @@
       "Time": "2023-11-14T18:05:16.6110506+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T13:11:55.9510826+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -197,7 +202,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 150,
       "UsersEstimate": 4
     }
@@ -206,13 +211,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-15T12:04:45.2470685+00:00",
+  "LastChanged_Achievements": "2023-11-15T13:11:55.9510823+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:51.0365967+00:00",
-  "LastUpdate_Ratings": "2023-11-15T12:00:02.6644048+00:00",
-  "LastUpdate_Achievements": "2023-11-15T12:04:45.2470737+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:07:20.5791358+00:00",
+  "LastUpdate_Achievements": "2023-11-15T13:11:55.9510896+00:00"
 }

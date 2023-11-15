@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Lost forever | 2.00% | ~5 |
 | Silver Button | 2.00% | ~5 |
-| Minimalist lifestyle | 1.00% | ~2 |
-| I deliver the presents! | 1.00% | ~2 |
-| A new HOME | 1.00% | ~2 |
-| Silver Hat | 1.00% | ~2 |
+| Minimalist lifestyle | 1.00% | ~3 |
+| I deliver the presents! | 1.00% | ~3 |
+| A new HOME | 1.00% | ~3 |
+| Silver Hat | 1.00% | ~3 |
 | Lesson learned | 0.80% | ~2 |
 | Good list | 0.80% | ~2 |
 | At least you tried | 0.80% | ~2 |
@@ -23,7 +23,7 @@
 | Silver Scarf | 0.40% | ~1 |
 | So close! | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250 (Ranked 358)  
+Progressed: 251 (Ranked 358)  
 Completed: 1 (0.40%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 1 (0.40%) (Ranked 210)
 | 2023-11-12 | 239 | 1 |
 | 2023-11-13 | 241 | 1 |
 | 2023-11-14 | 245 | 1 |
-| 2023-11-15 | 250 | 1 |
+| 2023-11-15 | 251 | 1 |
