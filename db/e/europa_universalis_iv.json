@@ -11995,10 +11995,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57546,
       "NumberOfAwardsMax": 6999
+    },
+    {
+      "Time": "2023-11-15T02:57:17.0114476+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57561,
+      "NumberOfAwardsMax": 6999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57546,
+  "NumberOfAwards": 57561,
   "NumberOfAwardsMax": 6999,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12024,7 +12030,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6587
+      "Count": 6602
     },
     {
       "Text": "This game is Educational",
@@ -12069,9 +12075,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455818,
+  "EOS_Progressed": 455827,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6254,
+  "EOS_NewPlayers": 6253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35934,6 +35940,11 @@
       "Time": "2023-11-15T02:26:37.7776842+00:00",
       "NumProgressed": 455818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T03:03:38.8883045+00:00",
+      "NumProgressed": 455827,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36431,9 +36442,9 @@
       "ID": "achievement_chop_chop",
       "SetID": "8p2n7he",
       "Name": "Chop Chop",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_choson_one",
@@ -36695,9 +36706,9 @@
       "ID": "achievement_everythings_coming_up_mulhouse",
       "SetID": "8p2n7he",
       "Name": "Everything\u0027s Coming Up Mulhouse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_factionalism",
@@ -36895,9 +36906,9 @@
       "ID": "achievement_gold_rush",
       "SetID": "8p2n7he",
       "Name": "Gold Rush",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_golden_empire",
@@ -37447,9 +37458,9 @@
       "ID": "achievement_marshy_march",
       "SetID": "8p2n7he",
       "Name": "Marshy March",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_mary_of_lotharingia",
@@ -37535,9 +37546,9 @@
       "ID": "achievement_narcissism",
       "SetID": "8p2n7he",
       "Name": "Narcissism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_neither_holy_nor_german",
@@ -38039,9 +38050,9 @@
       "ID": "achievement_spice_girls",
       "SetID": "8p2n7he",
       "Name": "Spice Girls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_spice_must_flow",
@@ -38848,21 +38859,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455818,
+      "Progressed": 455827,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455818,
+      "Progressed": 455827,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-14T15:57:16.5326729+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:26:37.7776838+00:00",
+  "LastChanged": "2023-11-15T02:57:17.0114474+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:03:38.8883039+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:19:34.5487645+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:26:37.7787353+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:57:17.011448+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:03:38.8895757+00:00"
 }

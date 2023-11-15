@@ -368,9 +368,9 @@
       "ID": "id_25",
       "SetID": "bk9jib6",
       "Name": "Showdown",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "id_26",
@@ -673,8 +673,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:31:29.6989454+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:08:27.8933309+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:24.9853517+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:24:03.7461139+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:31:29.69902+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:00:29.8801228+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:08:27.8933591+00:00"
 }

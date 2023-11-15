@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -591,9 +591,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3588,
+  "EOS_Progressed": 3589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5111,6 +5111,11 @@
       "Time": "2023-11-15T02:26:15.4453411+00:00",
       "NumProgressed": 3588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T03:03:22.003509+00:00",
+      "NumProgressed": 3589,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5139,7 +5144,7 @@
       "Name": "Big Spender",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "achievement_12",
@@ -5155,7 +5160,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "achievement_14",
@@ -5219,7 +5224,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "achievement_21",
@@ -5290,7 +5295,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3588,
+      "Progressed": 3589,
       "Completed": 0
     }
   ],
@@ -5298,8 +5303,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-13T15:58:51.2109706+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:26:15.4453405+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:03:22.0035084+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:22:35.9369611+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:26:15.4453843+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:59:26.997236+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:03:22.003545+00:00"
 }

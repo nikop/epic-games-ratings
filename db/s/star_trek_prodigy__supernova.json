@@ -143,9 +143,9 @@
       "ID": "BuyWeapon",
       "SetID": "7270ipa",
       "Name": "Up your Arsenal",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 130,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chests_100",
@@ -432,8 +432,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:31:10.7378384+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:08:13.1395142+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:46.3056449+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:19:29.1268914+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:31:10.7378604+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:57:13.216253+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:08:13.1395347+00:00"
 }

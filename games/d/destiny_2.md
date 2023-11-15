@@ -6,20 +6,20 @@ Number of Ratings: 32,207  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long and Winding Road | 93.00% | ~540,220 |
-| The People's Hero | 56.00% | ~325,294 |
-| In A Flash | 32.00% | ~185,882 |
+| Long and Winding Road | 93.00% | ~540,223 |
+| The People's Hero | 56.00% | ~325,296 |
+| In A Flash | 32.00% | ~185,883 |
 | Heart of Darkness | 24.00% | ~139,412 |
-| Lest Ye Be Judged | 23.00% | ~133,603 |
-| Cayde's Pathfinder | 22.00% | ~127,794 |
-| Ikora's Protégé | 21.00% | ~121,985 |
+| Lest Ye Be Judged | 23.00% | ~133,604 |
+| Cayde's Pathfinder | 22.00% | ~127,795 |
+| Ikora's Protégé | 21.00% | ~121,986 |
 | The Life Exotic | 19.00% | ~110,368 |
 | Heart of the Awoken | 18.00% | ~104,559 |
 | Zavala's Lieutenant | 17.00% | ~98,750 |
-| Challenge Accepted | 16.00% | ~92,941 |
-| High-Stakes Play | 16.00% | ~92,941 |
-| Show Me What You Got | 16.00% | ~92,941 |
-| Legends Grow | 14.00% | ~81,323 |
+| Challenge Accepted | 16.00% | ~92,942 |
+| High-Stakes Play | 16.00% | ~92,942 |
+| Show Me What You Got | 16.00% | ~92,942 |
+| Legends Grow | 14.00% | ~81,324 |
 | Exotique | 13.00% | ~75,515 |
 | Nothing Left to Say | 13.00% | ~75,515 |
 | An Exotic Journey | 12.00% | ~69,706 |
@@ -30,8 +30,8 @@ Number of Ratings: 32,207  (23.09.2022)
 | Wishing for the Best | 6.00% | ~34,853 |
 | Seal the Deal | 4.00% | ~23,235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580,882 (Ranked 31)  
-Completed: 16,504 (2.84%) (Ranked 105)  
+Progressed: 580,885 (Ranked 31)  
+Completed: 16,505 (2.84%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,7 +239,7 @@ Completed: 16,504 (2.84%) (Ranked 105)
 | 2023-11-12 | 579,793 | 16,479 |
 | 2023-11-13 | 580,303 | 16,491 |
 | 2023-11-14 | 580,811 | 16,501 |
-| 2023-11-15 | 580,882 | 16,504 |
+| 2023-11-15 | 580,885 | 16,505 |
 ## Awards
 Max (Great Boss Battles): 39,144  (Ranked 14)  
 Sum: 100,356 (Ranked 16)  

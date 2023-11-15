@@ -10,11 +10,11 @@
 | One for the Crew | 27.00% | ~4 |
 | The Clock is Ticking | 27.00% | ~4 |
 | A Helping Hand | 27.00% | ~4 |
+| Up your Arsenal | 13.00% | ~2 |
 | Back online | 13.00% | ~2 |
 | I've Got You | 13.00% | ~2 |
 | Priceless Collection | 7.00% | ~1 |
 | One Man Army | 7.00% | ~1 |
-| Up your Arsenal | 7.00% | ~1 |
 | Quest for Loot | 7.00% | ~1 |
 | Proto Menagerie | 7.00% | ~1 |
 | Punny Lover | 7.00% | ~1 |

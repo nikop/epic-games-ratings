@@ -364,9 +364,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "9",
@@ -555,8 +555,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:29:39.0006532+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:05:54.654684+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:24:46.9258876+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:29:39.0006724+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:00:38.4837777+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:05:54.6547016+00:00"
 }

@@ -37,8 +37,8 @@ Rating: 4.57 (Ranked 470)
 | Safecracker | 18.00% | ~7 |
 | Fence | 18.00% | ~7 |
 | Freedom fighter | 16.00% | ~6 |
+| Showdown | 16.00% | ~6 |
 | Master thief | 16.00% | ~6 |
-| Showdown | 13.00% | ~5 |
 | Moneybags | 13.00% | ~5 |
 | The traveler | 11.00% | ~4 |
 | Titan Lord | 11.00% | ~4 |

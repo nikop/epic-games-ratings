@@ -11184,9 +11184,9 @@
       "Count": 3329
     }
   ],
-  "EOS_Progressed": 580882,
-  "EOS_Completed": 16504,
-  "EOS_NewPlayers": 4068,
+  "EOS_Progressed": 580885,
+  "EOS_Completed": 16505,
+  "EOS_NewPlayers": 4056,
   "EOS_NewCompleters": 109,
   "EOS_Completed_Percentage": 2.84,
   "EosHistory": [
@@ -34989,6 +34989,11 @@
       "Time": "2023-11-15T02:26:29.8205192+00:00",
       "NumProgressed": 580882,
       "NumCompleted": 16504
+    },
+    {
+      "Time": "2023-11-15T03:03:32.7009906+00:00",
+      "NumProgressed": 580885,
+      "NumCompleted": 16505
     }
   ],
   "TotalAchievements": 23,
@@ -35000,7 +35005,7 @@
       "Name": "Long and Winding Road",
       "Percentage": 93,
       "XP": 40,
-      "UsersEstimate": 540220
+      "UsersEstimate": 540223
     },
     {
       "ID": "ACH_10",
@@ -35008,7 +35013,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 92941
+      "UsersEstimate": 92942
     },
     {
       "ID": "ACH_11",
@@ -35032,7 +35037,7 @@
       "Name": "Lest Ye Be Judged",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 133603
+      "UsersEstimate": 133604
     },
     {
       "ID": "ACH_14",
@@ -35040,7 +35045,7 @@
       "Name": "Legends Grow",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 81323
+      "UsersEstimate": 81324
     },
     {
       "ID": "ACH_15",
@@ -35096,7 +35101,7 @@
       "Name": "High-Stakes Play",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 92941
+      "UsersEstimate": 92942
     },
     {
       "ID": "ACH_21",
@@ -35128,7 +35133,7 @@
       "Name": "Cayde\u0027s Pathfinder",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 127794
+      "UsersEstimate": 127795
     },
     {
       "ID": "ACH_4",
@@ -35136,7 +35141,7 @@
       "Name": "Ikora\u0027s Prot\u00E9g\u00E9",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 121985
+      "UsersEstimate": 121986
     },
     {
       "ID": "ACH_5",
@@ -35144,7 +35149,7 @@
       "Name": "Show Me What You Got",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 92941
+      "UsersEstimate": 92942
     },
     {
       "ID": "ACH_6",
@@ -35152,7 +35157,7 @@
       "Name": "In A Flash",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 185882
+      "UsersEstimate": 185883
     },
     {
       "ID": "ACH_7",
@@ -35160,7 +35165,7 @@
       "Name": "The People\u0027s Hero",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 325294
+      "UsersEstimate": 325296
     },
     {
       "ID": "ACH_8",
@@ -35183,22 +35188,22 @@
     {
       "ID": "41p75ck",
       "IsBase": true,
-      "Progressed": 580882,
-      "Completed": 16504
+      "Progressed": 580885,
+      "Completed": 16505
     },
     {
       "ID": "cpegfdi",
       "IsBase": false,
-      "Progressed": 580882,
-      "Completed": 39954
+      "Progressed": 580885,
+      "Completed": 39955
     }
   ],
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
   "LastChanged": "2023-11-15T02:20:49.0961755+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:26:29.8205188+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:03:32.7009902+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:20.7835325+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:20:49.096176+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:26:29.8206468+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:58:10.8097377+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:03:32.7011374+00:00"
 }

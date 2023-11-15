@@ -1,18 +1,18 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 385)  
+Rating: 4.61 (Ranked 384)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,479 |
-| The Blues | 85.00% | ~622,886 |
+| Out of bed | 99.00% | ~725,480 |
+| The Blues | 85.00% | ~622,887 |
 | Fast | 66.00% | ~483,653 |
 | Healthbar | 55.00% | ~403,044 |
 | Force Cube | 53.00% | ~388,388 |
-| Double Jump | 48.00% | ~351,747 |
-| Regeneration | 47.00% | ~344,419 |
+| Double Jump | 48.00% | ~351,748 |
+| Regeneration | 47.00% | ~344,420 |
 | Triple Jump | 43.00% | ~315,107 |
 | Climb the hill | 42.00% | ~307,779 |
 | Through the fire pipe | 39.00% | ~285,795 |
@@ -24,9 +24,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Force Cube Catapult | 25.00% | ~183,202 |
 | Holy Sword | 23.00% | ~168,546 |
 | Telefrag | 23.00% | ~168,546 |
-| Freed from prison | 21.00% | ~153,889 |
-| Stomp | 21.00% | ~153,889 |
-| Double Health | 19.00% | ~139,233 |
+| Freed from prison | 21.00% | ~153,890 |
+| Stomp | 21.00% | ~153,890 |
+| Double Health | 19.00% | ~139,234 |
 | Buckle | 17.00% | ~124,577 |
 | Green Keycard | 17.00% | ~124,577 |
 | Rattle Hag | 16.00% | ~117,249 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,807 (Ranked 19)  
+Progressed: 732,808 (Ranked 19)  
 Completed: 760 (0.10%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 760 (0.10%) (Ranked 276)
 | 2023-11-12 | 732,613 | 760 |
 | 2023-11-13 | 732,700 | 760 |
 | 2023-11-14 | 732,797 | 760 |
-| 2023-11-15 | 732,807 | 760 |
+| 2023-11-15 | 732,808 | 760 |
 ## Awards
 Max (Challenging Puzzles): 7,723  (Ranked 49)  
 Sum: 10,074 (Ranked 91)  

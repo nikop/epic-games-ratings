@@ -25,7 +25,7 @@
 | Alchemists Express | 16.00% | ~88 |
 | Free at last | 13.00% | ~72 |
 | A Link to the Past | 12.00% | ~66 |
-| Rascal | 11.00% | ~61 |
+| Rascal | 12.00% | ~66 |
 | A great audience | 10.00% | ~55 |
 | For its own good | 9.00% | ~50 |
 | Fashion victim | 3.00% | ~17 |

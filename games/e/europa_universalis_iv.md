@@ -26,6 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blockader | 0.10% | ~456 |
 | Bright Spark | 0.10% | ~456 |
 | Brothers in Arms | 0.10% | ~456 |
+| Chop Chop | 0.10% | ~456 |
 | City of Cities | 0.10% | ~456 |
 | Cold War | 0.10% | ~456 |
 | Combined Arms | 0.10% | ~456 |
@@ -39,6 +40,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.10% | ~456 |
 | Electable! | 0.10% | ~456 |
 | The Emperors new clothes | 0.10% | ~456 |
+| Everything's Coming Up Mulhouse | 0.10% | ~456 |
 | Factionalism | 0.10% | ~456 |
 | Fine Financials | 0.10% | ~456 |
 | A Fine Goosestep | 0.10% | ~456 |
@@ -46,6 +48,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Four For Trade | 0.10% | ~456 |
 | Gentle Persuasion | 0.10% | ~456 |
 | Global Hegemony | 0.10% | ~456 |
+| Gold Rush | 0.10% | ~456 |
 | A Golden Empire | 0.10% | ~456 |
 | That's a Grand Army | 0.10% | ~456 |
 | Grand Coalition | 0.10% | ~456 |
@@ -69,8 +72,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~456 |
 | Live Long and Prosper | 0.10% | ~456 |
 | Market Control | 0.10% | ~456 |
+| Marshy March | 0.10% | ~456 |
 | Multiculturalism | 0.10% | ~456 |
 | My armies are invincible! | 0.10% | ~456 |
+| Narcissism | 0.10% | ~456 |
 | Not just Pizza | 0.10% | ~456 |
 | Not so sad a state... | 0.10% | ~456 |
 | One Family to Rule them All | 0.10% | ~456 |
@@ -85,6 +90,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Shahanshah | 0.10% | ~456 |
 | Sleepless in Seattle | 0.10% | ~456 |
 | Spain is the Emperor | 0.10% | ~456 |
+| Spice Girls | 0.10% | ~456 |
 | Subsidize my Love | 0.10% | ~456 |
 | Tear Down This Wall | 0.10% | ~456 |
 | That is mine! | 0.10% | ~456 |
@@ -157,7 +163,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Carthago Delenda Est | 0.00% | ~0 |
 | Center of Attention | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
-| Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
@@ -177,7 +182,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
 | Even Better than Piet Heyn | 0.00% | ~0 |
-| Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
@@ -195,7 +199,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ganges Khan | 0.00% | ~0 |
 | Georgia on my Mind | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
-| Gold Rush | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
@@ -241,7 +244,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mare Nostrum | 0.00% | ~0 |
-| Marshy March | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
@@ -250,7 +252,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mewar Never Changes | 0.00% | ~0 |
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
-| Narcissism | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Networking | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
@@ -299,7 +300,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sons of Carthage | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Spanish Fly | 0.00% | ~0 |
-| Spice Girls | 0.00% | ~0 |
 | The Spice Must Flow | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,818 (Ranked 41)  
+Progressed: 455,827 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,10 +579,10 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 455,818 | 1 |
+| 2023-11-15 | 455,827 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
-Sum: 57,546 (Ranked 24)  
+Sum: 57,561 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -590,7 +590,7 @@ Diff (max vs sum): 31
 | This game has Diverse Characters | 6,725 |
 | This game is Highly Recommended | 6,712 |
 | This game has Challenging Combat | 6,606 |
-| This game is Extremely Fun | 6,587 |
+| This game is Extremely Fun | 6,602 |
 | This game is Relaxing | 6,429 |
 | This game has Competitive Players | 6,279 |
 | This game has Amazing Storytelling | 5,810 |
@@ -901,3 +901,4 @@ Diff (max vs sum): 31
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
+| 2023-11-15 | 4.69 | - | 6,999 | 57,561 |

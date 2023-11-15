@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
+| A Good Start | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
@@ -187,7 +188,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.20% | ~31 |
 | Get the Hellas Out | 0.20% | ~31 |
 | The Turning Point | 0.20% | ~31 |
-| A Good Start | 0.20% | ~31 |
 | Like a Lion | 0.20% | ~31 |
 | Tell the Spartans | 0.20% | ~31 |
 | Learn By Playing 1 - Able | 0.20% | ~31 |

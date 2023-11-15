@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
@@ -7190,9 +7190,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "19",
@@ -7613,8 +7613,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T02:27:50.503066+00:00",
+  "LastChanged_Achievements": "2023-11-15T03:04:33.5931541+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:20:06.8205286+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:27:50.5031362+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:57:40.6398448+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:04:33.5932386+00:00"
 }

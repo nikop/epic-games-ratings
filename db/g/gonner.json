@@ -2,7 +2,7 @@
   "ID": "109273d8719f46b9b89cb912a6649e5c",
   "Name": "GoNNER",
   "ProductSlug": "gonner",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 174,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 744,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:55.275602+00:00",
@@ -37,6 +37,12 @@
     {
       "Time": "2023-10-18T22:59:38.0292631+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-15T02:58:19.3648109+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -57,8 +63,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:30.138323+00:00",
   "FirstSeenRating": "2023-03-31T05:57:55.2756017+00:00",
-  "LastChanged": "2023-10-18T22:59:38.029263+00:00",
+  "LastChanged": "2023-11-15T02:58:19.3648107+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:23.7535024+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:21:00.9474665+00:00",
-  "LastUpdate_Achievements": "2023-11-15T02:27:01.2932475+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:58:19.3648111+00:00",
+  "LastUpdate_Achievements": "2023-11-15T03:03:56.240815+00:00"
 }

@@ -23,6 +23,7 @@ Rating: 4.54 (Ranked 523)
 | Stacking the Deck | 0.70% | ~5,030 |
 | This is My Weapon | 0.70% | ~5,030 |
 | But Doctor, I am Butcho | 0.60% | ~4,311 |
+| Slayer Squad | 0.60% | ~4,311 |
 | Can't Handle the Truth | 0.60% | ~4,311 |
 | Like Riding a Bike | 0.60% | ~4,311 |
 | Zombologist | 0.60% | ~4,311 |
@@ -31,7 +32,6 @@ Rating: 4.54 (Ranked 523)
 | Making Your Mark | 0.50% | ~3,593 |
 | Perks of the Job | 0.50% | ~3,593 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,593 |
-| Slayer Squad | 0.50% | ~3,593 |
 | Ooh, Shiny! | 0.50% | ~3,593 |
 | I Am the Resurrection | 0.50% | ~3,593 |
 | Max Headroom | 0.50% | ~3,593 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,572 (Ranked 20)  
+Progressed: 718,580 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,572 | 2,391 |
+| 2023-11-15 | 718,580 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
 Sum: 11,329 (Ranked 84)  

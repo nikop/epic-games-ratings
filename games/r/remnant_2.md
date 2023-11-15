@@ -56,8 +56,8 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,209 |
 | Proving Grounds | 1.00% | ~2,209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,895 (Ranked 68)  
-Completed: 451 (0.20%) (Ranked 251)  
+Progressed: 220,905 (Ranked 68)  
+Completed: 452 (0.20%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 451 (0.20%) (Ranked 251)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 220,895 | 451 |
+| 2023-11-15 | 220,905 | 452 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 4,991 (Ranked 137)  
