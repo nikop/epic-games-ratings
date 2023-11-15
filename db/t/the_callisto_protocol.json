@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16450,
+  "EOS_Progressed": 16451,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8984,6 +8984,11 @@
       "Time": "2023-11-15T13:13:25.6481026+00:00",
       "NumProgressed": 16450,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-15T14:05:37.7988697+00:00",
+      "NumProgressed": 16451,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -9019,7 +9024,7 @@
       "Name": "You Need a Gun",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "DISARM_ENEMY",
@@ -9139,7 +9144,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -9171,7 +9176,7 @@
       "Name": "Paper Jams",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9195,7 +9200,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "STORY_HABITAT",
@@ -9203,7 +9208,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "STORY_HANGAR",
@@ -9211,7 +9216,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "STORY_MINETOWN",
@@ -9219,7 +9224,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -9235,7 +9240,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "STORY_TOWER",
@@ -9243,7 +9248,7 @@
       "Name": "Full Circle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "STORY_TUNNELS",
@@ -9251,7 +9256,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "DISMEMBER_100",
@@ -9370,13 +9375,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16450,
+      "Progressed": 16451,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4376,
+      "Progressed": 4377,
       "Completed": 29
     }
   ],
@@ -9384,8 +9389,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-12T16:02:53.4187845+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:13:25.6481024+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:05:37.7988693+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:57.886898+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:09:30.0995859+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:13:25.6481759+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:02:40.9958068+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:05:37.7989228+00:00"
 }

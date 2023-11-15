@@ -7,6 +7,10 @@
 | The Prison | 38.00% | ~5 |
 | Light Up Your life | 31.00% | ~4 |
 | The Lair | 31.00% | ~4 |
+| Ashes in The Maw | 23.00% | ~3 |
+| Ashes to Ashes | 23.00% | ~3 |
+| Elusive | 23.00% | ~3 |
+| End in Sight | 23.00% | ~3 |
 | Fun and Games Ahead | 23.00% | ~3 |
 | Six's Song | 23.00% | ~3 |
 | Highly Sprung | 23.00% | ~3 |
@@ -15,10 +19,6 @@
 | So Close | 23.00% | ~3 |
 | The Guest Area | 23.00% | ~3 |
 | The Lady's Quarters | 23.00% | ~3 |
-| Ashes in The Maw | 15.00% | ~2 |
-| Ashes to Ashes | 15.00% | ~2 |
-| Elusive | 15.00% | ~2 |
-| End in Sight | 15.00% | ~2 |
 | I'm Losing You | 15.00% | ~2 |
 | Is Anybody Out There? | 15.00% | ~2 |
 | Rascal | 15.00% | ~2 |

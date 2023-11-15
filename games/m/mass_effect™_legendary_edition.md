@@ -101,10 +101,10 @@
 | Sabotage Specialist | 16.00% | ~203 |
 | Executioner | 16.00% | ~203 |
 | Patriot | 16.00% | ~203 |
+| Legend | 16.00% | ~203 |
 | Master and Commander | 16.00% | ~203 |
 | Electronics Specialist | 15.00% | ~190 |
 | Throw Mastery | 15.00% | ~190 |
-| Legend | 15.00% | ~190 |
 | Long Service Medal | 14.00% | ~177 |
 | Mail Slot | 13.00% | ~165 |
 | Combined Arms | 12.00% | ~152 |

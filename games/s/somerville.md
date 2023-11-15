@@ -9,11 +9,11 @@ Rating: 4.22 (Ranked 897)
 | Worlds best dad | 2.00% | ~33 |
 | Resignation Reprise | 1.00% | ~17 |
 | Admiring the view | 0.80% | ~13 |
+| Blues Jam | 0.50% | ~8 |
 | “Here boy…“ | 0.50% | ~8 |
 | Resignation | 0.50% | ~8 |
 | Understanding | 0.50% | ~8 |
 | War of the worlds | 0.50% | ~8 |
-| Blues Jam | 0.40% | ~7 |
 | Family First | 0.40% | ~7 |
 | First contact | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)

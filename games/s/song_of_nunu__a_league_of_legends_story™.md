@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 77.00% | ~534 |
+| Feels Familiar | 77.00% | ~535 |
 | I Broke It | 73.00% | ~507 |
 | Better On Ice | 70.00% | ~486 |
 | Notai Notes | 70.00% | ~486 |
-| Blue Dreams | 69.00% | ~479 |
-| He's Famous! | 69.00% | ~479 |
-| Krugmazing | 67.00% | ~465 |
-| Cutie Poro | 67.00% | ~465 |
-| The Fire Below the Mountain | 64.00% | ~444 |
-| Moneyball | 60.00% | ~416 |
+| Blue Dreams | 69.00% | ~480 |
+| He's Famous! | 69.00% | ~480 |
+| Krugmazing | 67.00% | ~466 |
+| Cutie Poro | 67.00% | ~466 |
+| The Fire Below the Mountain | 64.00% | ~445 |
+| Moneyball | 60.00% | ~417 |
 | No Bites | 57.00% | ~396 |
 | Iceborn | 57.00% | ~396 |
+| Boom Things | 54.00% | ~375 |
 | Tear of Freedom | 53.00% | ~368 |
-| Boom Things | 53.00% | ~368 |
-| My Darkest Day | 50.00% | ~347 |
-| Rhythm Of Willump | 47.00% | ~326 |
-| The Relentless Storm | 47.00% | ~326 |
-| A Tragic Reminder | 45.00% | ~312 |
-| 3000 Year Blackout | 44.00% | ~305 |
-| The Finisher | 43.00% | ~298 |
+| My Darkest Day | 50.00% | ~348 |
+| Rhythm Of Willump | 47.00% | ~327 |
+| The Relentless Storm | 47.00% | ~327 |
+| A Tragic Reminder | 45.00% | ~313 |
+| 3000 Year Blackout | 44.00% | ~306 |
+| The Finisher | 43.00% | ~299 |
 | True Legends | 41.00% | ~285 |
 | So Close | 40.00% | ~278 |
 | You Get Used To It | 40.00% | ~278 |
@@ -37,7 +37,7 @@
 | It Is Not Over | 34.00% | ~236 |
 | Snowy Poro | 32.00% | ~222 |
 | Never Gets Old | 32.00% | ~222 |
-| Vertical Power | 29.00% | ~201 |
+| Vertical Power | 28.00% | ~195 |
 | One From The Heart | 14.00% | ~97 |
 | Yummy | 12.00% | ~83 |
 | Snowball Fightn't | 11.00% | ~76 |
@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~14 |
 | We Are Speed | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 694 (Ranked 277)  
+Progressed: 695 (Ranked 277)  
 Completed: 6 (0.86%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 6 (0.86%) (Ranked 169)
 | 2023-11-12 | 667 | 5 |
 | 2023-11-13 | 681 | 5 |
 | 2023-11-14 | 693 | 5 |
-| 2023-11-15 | 694 | 6 |
+| 2023-11-15 | 695 | 6 |

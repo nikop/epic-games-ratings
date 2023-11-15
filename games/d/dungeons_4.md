@@ -20,16 +20,16 @@
 | Trap Master | 50.00% | ~134 |
 | Minions, Minions! | 50.00% | ~134 |
 | YOU SHALL NOT PASS! | 39.00% | ~105 |
-| The Ascent | 38.00% | ~102 |
-| It's Warm and Cozy at Home | 38.00% | ~102 |
+| The Ascent | 39.00% | ~105 |
+| It's Warm and Cozy at Home | 39.00% | ~105 |
+| Hard Work | 35.00% | ~94 |
 | Pure Dynamite! | 35.00% | ~94 |
-| Hard Work | 34.00% | ~91 |
 | The Big Eaty | 32.00% | ~86 |
 | Mana Cannon | 29.00% | ~78 |
 | “… like son” | 24.00% | ~64 |
-| Dungeonlord Gorgu | 20.00% | ~54 |
+| Dungeonlord Gorgu | 21.00% | ~56 |
+| The Cathedral of Light | 19.00% | ~51 |
 | Shame! Shame! Shame! | 19.00% | ~51 |
-| The Cathedral of Light | 18.00% | ~48 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 16.00% | ~43 |
 | Hungry, Hungry Gorgu! | 15.00% | ~40 |
 | Tanos' Crusade Against Thalya | 14.00% | ~38 |
@@ -48,10 +48,10 @@
 | Sabotage! | 5.00% | ~13 |
 | Doom Hill | 5.00% | ~13 |
 | Brimstone Shaken, Not Stirred | 5.00% | ~13 |
+| Mirror, Mirror | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |
 | Raiders of the Lost Stone | 4.00% | ~11 |
 | Gorgu is in the Best of Health | 3.00% | ~8 |
-| Mirror, Mirror | 3.00% | ~8 |
 | Laser Eyes Are So Useless | 3.00% | ~8 |
 | Untouchable | 3.00% | ~8 |
 | Lavalumps on Ice! | 3.00% | ~8 |

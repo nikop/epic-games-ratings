@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 588)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,482 |
-| Advancement | 6.00% | ~1,861 |
-| Meticulously Efficient | 6.00% | ~1,861 |
+| Advancement | 6.00% | ~1,862 |
+| Meticulously Efficient | 6.00% | ~1,862 |
 | Discovery | 5.00% | ~1,551 |
 | Swift Rift Removers | 5.00% | ~1,551 |
 | Clutch Capture | 4.00% | ~1,241 |
@@ -25,17 +25,17 @@ Rating: 4.50 (Ranked 588)
 | Ghostbuster In Training | 3.00% | ~931 |
 | Icing on the Cake | 3.00% | ~931 |
 | Right back at ya | 3.00% | ~931 |
-| Back Off | 2.00% | ~620 |
-| We have the best insurance | 2.00% | ~620 |
-| Legions | 2.00% | ~620 |
-| Pesky Jerks | 2.00% | ~620 |
-| Rift Destroyer | 2.00% | ~620 |
-| Seasoned | 2.00% | ~620 |
-| Side Hustle | 2.00% | ~620 |
-| Skilled | 2.00% | ~620 |
-| Stunner | 2.00% | ~620 |
-| Summoner | 2.00% | ~620 |
-| Welcome to the Crew | 2.00% | ~620 |
+| Back Off | 2.00% | ~621 |
+| We have the best insurance | 2.00% | ~621 |
+| Legions | 2.00% | ~621 |
+| Pesky Jerks | 2.00% | ~621 |
+| Rift Destroyer | 2.00% | ~621 |
+| Seasoned | 2.00% | ~621 |
+| Side Hustle | 2.00% | ~621 |
+| Skilled | 2.00% | ~621 |
+| Stunner | 2.00% | ~621 |
+| Summoner | 2.00% | ~621 |
+| Welcome to the Crew | 2.00% | ~621 |
 | Collector | 1.00% | ~310 |
 | Diabolical | 1.00% | ~310 |
 | Escape Artist | 1.00% | ~310 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,024 (Ranked 122)  
+Progressed: 31,026 (Ranked 122)  
 Completed: 68 (0.22%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 68 (0.22%) (Ranked 244)
 | 2023-11-12 | 30,897 | 67 |
 | 2023-11-13 | 30,946 | 68 |
 | 2023-11-14 | 31,007 | 68 |
-| 2023-11-15 | 31,024 | 68 |
+| 2023-11-15 | 31,026 | 68 |
 ## Awards
 Max (Great for Beginners): 315  (Ranked 247)  
 Sum: 2,792 (Ranked 179)  

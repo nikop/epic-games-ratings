@@ -6,21 +6,21 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,917 |
-| Imprint | 5.00% | ~7,917 |
+| Taste | 5.00% | ~7,918 |
+| Imprint | 5.00% | ~7,918 |
 | The Hunt | 4.00% | ~6,334 |
-| Weeper | 3.00% | ~4,750 |
-| Ravenous | 3.00% | ~4,750 |
+| Weeper | 3.00% | ~4,751 |
+| Ravenous | 3.00% | ~4,751 |
 | Harmless | 2.00% | ~3,167 |
 | Silenced Whispers | 2.00% | ~3,167 |
 | Devourer | 2.00% | ~3,167 |
 | Scion | 1.00% | ~1,579 |
-| Jawcrab | 1.00% | ~1,583 |
-| Jawstag | 1.00% | ~1,583 |
-| Feast | 1.00% | ~1,583 |
-| Watcher | 1.00% | ~1,583 |
-| Yank | 1.00% | ~1,583 |
-| Sharpened Vessel | 1.00% | ~1,583 |
+| Jawcrab | 1.00% | ~1,584 |
+| Jawstag | 1.00% | ~1,584 |
+| Feast | 1.00% | ~1,584 |
+| Watcher | 1.00% | ~1,584 |
+| Yank | 1.00% | ~1,584 |
+| Sharpened Vessel | 1.00% | ~1,584 |
 | Shapely | 0.90% | ~1,425 |
 | Glare | 0.90% | ~1,421 |
 | Predator | 0.90% | ~1,425 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,347 (Ranked 76)  
+Progressed: 158,351 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-12 | 157,992 | 1 |
 | 2023-11-13 | 158,135 | 1 |
 | 2023-11-14 | 158,274 | 1 |
-| 2023-11-15 | 158,347 | 1 |
+| 2023-11-15 | 158,351 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 365 (Ranked 349)  

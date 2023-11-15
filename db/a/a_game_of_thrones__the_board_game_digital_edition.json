@@ -2,9 +2,9 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 333,
-  "Ranking_PopularitySum": 280,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 114,
@@ -1314,9 +1314,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28361,
+  "EOS_Progressed": 28365,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23764,6 +23764,11 @@
       "Time": "2023-11-15T13:15:39.7255486+00:00",
       "NumProgressed": 28361,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-11-15T14:08:48.4759708+00:00",
+      "NumProgressed": 28365,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 22,
@@ -23807,7 +23812,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "1020",
@@ -23821,9 +23826,9 @@
       "ID": "1021",
       "SetID": "9l3d3cl",
       "Name": "Hear me Roar!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1418
     },
     {
       "ID": "1022",
@@ -23863,7 +23868,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "1027",
@@ -23871,7 +23876,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "1028",
@@ -23879,7 +23884,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "1029",
@@ -23895,7 +23900,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5672
+      "UsersEstimate": 5673
     },
     {
       "ID": "1031",
@@ -23911,7 +23916,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11344
+      "UsersEstimate": 11346
     },
     {
       "ID": "1033",
@@ -23927,7 +23932,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "1035",
@@ -23950,15 +23955,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28361,
+      "Progressed": 28365,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:15:39.7255482+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:08:48.4759704+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.3392763+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:09:46.3784943+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:15:39.7256689+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:02:52.4642617+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:08:48.4760936+00:00"
 }

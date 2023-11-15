@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -440,9 +440,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:13:00.0660356+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:05:18.5922488+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:08:12.2822646+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:13:00.0660578+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:00:21.511924+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:05:18.5922768+00:00"
 }

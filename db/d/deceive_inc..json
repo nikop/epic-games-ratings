@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 138,
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18842,
+  "EOS_Progressed": 18843,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12888,6 +12888,11 @@
       "Time": "2023-11-15T09:05:12.7085648+00:00",
       "NumProgressed": 18842,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-15T14:05:01.8270783+00:00",
+      "NumProgressed": 18843,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13123,7 +13128,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "0030",
@@ -13186,7 +13191,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18842,
+      "Progressed": 18843,
       "Completed": 4
     }
   ],
@@ -13194,8 +13199,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:12:37.5495248+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:05:01.8270779+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:53.213288+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:04:21.7263506+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:12:37.5496061+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:57:35.6303699+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:05:01.8271601+00:00"
 }

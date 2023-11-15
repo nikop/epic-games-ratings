@@ -19,8 +19,8 @@ Rating: 4.64 (Ranked 332)
 | Freeze | 51.00% | ~922 |
 | Exterminator | 51.00% | ~922 |
 | Greenhouse Effect | 51.00% | ~922 |
+| Full Arsenal | 45.00% | ~813 |
 | S.O.S. | 45.00% | ~813 |
-| Full Arsenal | 44.00% | ~795 |
 | Get Off My Ship! | 44.00% | ~795 |
 | Strange Transmissions | 43.00% | ~777 |
 | Wreckage | 42.00% | ~759 |

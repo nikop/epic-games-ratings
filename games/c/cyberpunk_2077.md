@@ -9,26 +9,26 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 3.00% | ~26,903 |
 | Gun Fu | 2.00% | ~17,935 |
 | Relic Ruler | 1.00% | ~254 |
-| Full Body Conversion | 0.70% | ~6,277 |
+| Full Body Conversion | 0.80% | ~7,174 |
 | True Soldier | 0.70% | ~6,277 |
 | Right Back At Ya | 0.60% | ~5,381 |
 | Stanislavski's Method | 0.60% | ~5,381 |
 | All the President's Men | 0.60% | ~152 |
 | Arachnophobia | 0.60% | ~152 |
 | The Quick and the Dead | 0.50% | ~4,484 |
+| Life of the Road | 0.50% | ~4,484 |
 | The Hermit | 0.50% | ~4,484 |
 | The Lovers | 0.50% | ~4,484 |
 | The Wheel of Fortune | 0.50% | ~4,484 |
 | True Warrior | 0.50% | ~4,484 |
+| Spin Doctor | 0.50% | ~127 |
 | Bushido and Chill | 0.40% | ~3,587 |
 | Master Crafter | 0.40% | ~3,587 |
 | Christmas Tree Attack | 0.40% | ~3,587 |
-| Life of the Road | 0.40% | ~3,587 |
 | The High Priestess | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
 | Judy vs Night City | 0.40% | ~3,587 |
 | Legend of The Afterlife | 0.40% | ~3,587 |
-| Spin Doctor | 0.40% | ~102 |
 | Dirty Deeds | 0.40% | ~102 |
 | To Protect and Serve | 0.30% | ~2,690 |
 | The Wandering Fool | 0.30% | ~2,690 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,765 (Ranked 15)  
+Progressed: 896,770 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2,778 (0.31%) (Ranked 227)
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
-| 2023-11-15 | 896,765 | 2,778 |
+| 2023-11-15 | 896,770 | 2,778 |
 ## Awards
 Max (Character Customization): 105,471  (Ranked 9)  
 Sum: 353,273 (Ranked 10)  

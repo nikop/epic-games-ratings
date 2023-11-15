@@ -5498,9 +5498,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 813
     },
     {
       "ID": "achievement_19",
@@ -5811,8 +5811,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:14:32.4600171+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:07:37.5344581+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:04:13.0476052+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:14:32.4600733+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:57:29.9137748+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:07:37.5345126+00:00"
 }

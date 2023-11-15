@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2364,9 +2364,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43854,
+  "EOS_Progressed": 43855,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8704,6 +8704,11 @@
       "Time": "2023-11-15T13:12:07.0300389+00:00",
       "NumProgressed": 43854,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-15T14:04:38.9189497+00:00",
+      "NumProgressed": 43855,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8715,7 +8720,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27189
+      "UsersEstimate": 27190
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8835,7 +8840,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14033
+      "UsersEstimate": 14034
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -8883,7 +8888,7 @@
       "Name": "Into the deep",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
@@ -8907,7 +8912,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27628
+      "UsersEstimate": 27629
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8923,7 +8928,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -8939,7 +8944,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14033
+      "UsersEstimate": 14034
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -8963,7 +8968,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21488
+      "UsersEstimate": 21489
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -8971,7 +8976,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15787
+      "UsersEstimate": 15788
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -8987,7 +8992,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10086
+      "UsersEstimate": 10087
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -9043,7 +9048,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30259
+      "UsersEstimate": 30260
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9067,7 +9072,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20611
+      "UsersEstimate": 20612
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -9083,7 +9088,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20611
+      "UsersEstimate": 20612
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -9091,7 +9096,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15787
+      "UsersEstimate": 15788
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -9107,7 +9112,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19734
+      "UsersEstimate": 19735
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9155,7 +9160,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -9211,7 +9216,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10086
+      "UsersEstimate": 10087
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -9235,22 +9240,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15787
+      "UsersEstimate": 15788
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43854,
+      "Progressed": 43855,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-15T01:46:36.0216284+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:12:07.0300385+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:04:38.9189495+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:07:17.4525888+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:12:07.0301187+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:59:38.4906072+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:04:38.9190293+00:00"
 }

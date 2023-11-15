@@ -15206,9 +15206,9 @@
       "Count": 12991
     }
   ],
-  "EOS_Progressed": 896765,
+  "EOS_Progressed": 896770,
   "EOS_Completed": 2778,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38896,6 +38896,11 @@
       "Time": "2023-11-15T13:13:36.5234779+00:00",
       "NumProgressed": 896765,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-15T14:05:45.8864146+00:00",
+      "NumProgressed": 896770,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38930,9 +38935,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6277
+      "UsersEstimate": 7174
     },
     {
       "ID": "Denied",
@@ -39074,9 +39079,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4484
     },
     {
       "ID": "Roleplayer",
@@ -39306,9 +39311,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 102
+      "UsersEstimate": 127
     },
     {
       "ID": "Kingofcups",
@@ -39443,21 +39448,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896765,
+      "Progressed": 896770,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25388,
+      "Progressed": 25393,
       "Completed": 10224
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-15T13:08:03.9792988+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:13:36.5234776+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:05:45.8864142+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:08:03.9792995+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:13:36.5236397+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:00:15.6087349+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:05:45.886532+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 234,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -473,6 +473,12 @@
     {
       "Time": "2023-11-14T11:58:15.6252721+00:00",
       "Rating": 4.22,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2023-11-15T13:58:51.4427816+00:00",
+      "Rating": 4.21,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 151
     }
@@ -2709,9 +2715,9 @@
       "ID": "TLOTF_ACHIEVEMENT_044",
       "SetID": "87e61g",
       "Name": "Moving On",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_045",
@@ -2877,9 +2883,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-14T11:58:15.6252718+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:14:07.2796836+00:00",
+  "LastChanged": "2023-11-15T13:58:51.4427814+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:06:09.0153874+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.5758609+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:06:10.3732451+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:14:07.2797315+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:58:51.4427819+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:06:09.0154442+00:00"
 }

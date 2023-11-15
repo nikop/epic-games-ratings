@@ -19,9 +19,9 @@ Rating: 4.61 (Ranked 384)
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
 | Chaos Surge | 0.80% | ~43 |
+| Valley of Wonders | 0.70% | ~38 |
 | In a Liege of Your Own | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
-| Valley of Wonders | 0.60% | ~32 |
 | Intimidation Tactics | 0.60% | ~32 |
 | Sehiran Oasis | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,392 (Ranked 184)  
+Progressed: 5,393 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-12 | 5,383 | 7 |
 | 2023-11-13 | 5,387 | 7 |
 | 2023-11-14 | 5,391 | 7 |
-| 2023-11-15 | 5,392 | 7 |
+| 2023-11-15 | 5,393 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 54 (Ranked 474)  

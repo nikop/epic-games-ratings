@@ -193,9 +193,9 @@
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -264,8 +264,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:16:07.4702664+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:09:09.213784+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:05:56.7665463+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:16:07.4702787+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:58:41.687029+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:09:09.2137926+00:00"
 }

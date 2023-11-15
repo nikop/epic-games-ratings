@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.57 (Ranked 470)  
+Rating: 4.57 (Ranked 469)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.57 (Ranked 470)
 | Assistant Accountant | 17.00% | ~3,203 |
 | You Only Live Twice | 16.00% | ~3,015 |
 | Fully Decked Out | 16.00% | ~3,015 |
-| A view to Win | 13.00% | ~2,449 |
+| A view to Win | 13.00% | ~2,450 |
 | The Living Portrait | 12.00% | ~2,261 |
 | Smells Like Trouble | 12.00% | ~2,261 |
 | My Motto, My Creed | 11.00% | ~2,073 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 470)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,842 (Ranked 138)  
+Progressed: 18,843 (Ranked 138)  
 Completed: 4 (0.02%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 4 (0.02%) (Ranked 320)
 | 2023-11-12 | 18,831 | 4 |
 | 2023-11-13 | 18,834 | 4 |
 | 2023-11-14 | 18,840 | 4 |
-| 2023-11-15 | 18,842 | 4 |
+| 2023-11-15 | 18,843 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

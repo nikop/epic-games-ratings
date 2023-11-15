@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5392,
+  "EOS_Progressed": 5393,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7109,6 +7109,11 @@
       "Time": "2023-11-15T01:51:44.2919583+00:00",
       "NumProgressed": 5392,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T14:04:44.7495112+00:00",
+      "NumProgressed": 5393,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7118,9 +7123,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "10",
@@ -7599,13 +7604,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5392,
+      "Progressed": 5393,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5392,
+      "Progressed": 5393,
       "Completed": 7
     }
   ],
@@ -7613,8 +7618,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:12:14.7740926+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:04:44.7495108+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:04:46.6957119+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:12:14.7744334+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:57:52.3795959+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:04:44.7495725+00:00"
 }

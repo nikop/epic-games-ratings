@@ -9,13 +9,13 @@
 | Minimalist lifestyle | 1.00% | ~3 |
 | I deliver the presents! | 1.00% | ~3 |
 | A new HOME | 1.00% | ~3 |
+| Silver Carrot | 1.00% | ~3 |
 | Silver Hat | 1.00% | ~3 |
 | Lesson learned | 0.80% | ~2 |
 | Good list | 0.80% | ~2 |
 | At least you tried | 0.80% | ~2 |
 | Golden Button | 0.80% | ~2 |
 | Golden Hat | 0.80% | ~2 |
-| Silver Carrot | 0.80% | ~2 |
 | Golden Carrot | 0.40% | ~1 |
 | Golden Scarf | 0.40% | ~1 |
 | Naughty list | 0.40% | ~1 |

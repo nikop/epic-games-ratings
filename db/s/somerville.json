@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -712,9 +712,9 @@
       "ID": "SomervilleBluesJam",
       "SetID": "3mk3nll",
       "Name": "Blues Jam",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SomervilleFamilyFirst",
@@ -809,8 +809,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:10:15.0348306+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:03:14.2747837+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:10.3490819+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:07:37.5227045+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:10:15.0348487+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:59:56.1606532+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:03:14.2747927+00:00"
 }

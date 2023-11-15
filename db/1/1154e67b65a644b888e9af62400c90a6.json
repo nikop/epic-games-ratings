@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 281,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -539,10 +539,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 793,
       "NumberOfAwardsMax": 385
+    },
+    {
+      "Time": "2023-11-15T14:00:22.9814572+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 808,
+      "NumberOfAwardsMax": 385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 793,
+  "NumberOfAwards": 808,
   "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -574,7 +580,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 38
+      "Count": 46
     },
     {
       "Text": "This game is Extremely Fun",
@@ -586,13 +592,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 32
+      "Count": 37
     },
     {
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Highly Recommended",
@@ -631,8 +637,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-15T13:08:14.3817094+00:00",
+  "LastChanged": "2023-11-15T14:00:22.9814571+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:57.3999056+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:08:14.38171+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:13:03.2433877+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:00:22.9814575+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:05:20.9338903+00:00"
 }

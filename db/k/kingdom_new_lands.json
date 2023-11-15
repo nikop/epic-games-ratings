@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2015-10-21T15:00:00+00:00",
@@ -1668,10 +1668,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 759,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-11-15T14:02:42.0338833+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 760,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 759,
+  "NumberOfAwards": 760,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1715,7 +1721,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1747,8 +1753,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-11-14T21:02:46.5491372+00:00",
+  "LastChanged": "2023-11-15T14:02:42.0338832+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:58.4619997+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:09:31.5896504+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:12:28.5456421+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:02:42.0338837+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:04:55.085777+00:00"
 }

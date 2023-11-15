@@ -3,7 +3,7 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
@@ -102,33 +102,33 @@
       "ID": "AshesInTheMaw",
       "SetID": "c36hpcf",
       "Name": "Ashes in The Maw",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AshesToAshes",
       "SetID": "c36hpcf",
       "Name": "Ashes to Ashes",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 155,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Elusive",
       "SetID": "c36hpcf",
       "Name": "Elusive",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EndInSight",
       "SetID": "c36hpcf",
       "Name": "End in Sight",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FunAndGamesAhead",
@@ -284,8 +284,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:12:09.2889664+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:04:40.5921417+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:06:55.67817+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:12:09.2889757+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:59:23.4939548+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:04:40.5921538+00:00"
 }

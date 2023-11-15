@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.22 (Ranked 897)  
+Rating: 4.21 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,6 +26,7 @@ Rating: 4.22 (Ranked 897)
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
 | Rune Novice | 0.20% | ~3 |
+| Moving On | 0.20% | ~3 |
 | Seasoned | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
@@ -52,7 +53,6 @@ Rating: 4.22 (Ranked 897)
 | The Price of Knowledge | 0.10% | ~2 |
 | Part of the Divine | 0.10% | ~2 |
 | Travels Resumed | 0.10% | ~2 |
-| Moving On | 0.10% | ~2 |
 | Hero Worship | 0.10% | ~2 |
 | Antanas' Legacy | 0.10% | ~2 |
 | Faithful | 0.10% | ~2 |
@@ -138,3 +138,4 @@ Diff (max vs sum): -61
 | 2023-11-11 | 4.21 | 148 | 255 |
 | 2023-11-12 | 4.21 | 149 | 258 |
 | 2023-11-14 | 4.22 | 151 | 262 |
+| 2023-11-15 | 4.21 | 151 | 262 |

@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 653,
+  "EOS_Progressed": 654,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -1490,6 +1490,11 @@
       "Time": "2023-11-13T22:31:43.815473+00:00",
       "NumProgressed": 653,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-15T14:07:43.9165144+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1501,7 +1506,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1533,7 +1538,7 @@
       "Name": "The Ploy",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ENDING_4",
@@ -1565,7 +1570,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1573,7 +1578,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1597,7 +1602,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "INTERROGATION",
@@ -1605,7 +1610,7 @@
       "Name": "Interrogation",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "OFFICE_CLERK",
@@ -1613,7 +1618,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1629,7 +1634,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "SABOTAGE",
@@ -1660,7 +1665,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 653,
+      "Progressed": 654,
       "Completed": 9
     }
   ],
@@ -1668,8 +1673,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:14:40.8768799+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:07:43.9165141+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.7667239+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:05:32.676341+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:14:40.8769018+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:58:24.7207626+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:07:43.9165325+00:00"
 }

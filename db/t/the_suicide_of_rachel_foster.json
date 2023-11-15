@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1663,
+  "EOS_Progressed": 1664,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -3468,6 +3468,11 @@
       "Time": "2023-11-15T13:12:35.4649304+00:00",
       "NumProgressed": 1663,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-15T14:05:00.1961748+00:00",
+      "NumProgressed": 1664,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3487,7 +3492,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3527,7 +3532,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3543,7 +3548,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3559,22 +3564,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1663,
+      "Progressed": 1664,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-15T13:12:35.4649301+00:00",
+  "LastChanged_Achievements": "2023-11-15T14:05:00.1961745+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:04:35.526151+00:00",
-  "LastUpdate_Achievements": "2023-11-15T13:12:35.4649575+00:00"
+  "LastUpdate_Ratings": "2023-11-15T13:57:45.1018984+00:00",
+  "LastUpdate_Achievements": "2023-11-15T14:05:00.1962125+00:00"
 }
