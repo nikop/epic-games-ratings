@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.58% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.57% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -32,7 +32,7 @@
 | 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.42% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.67% |
+| 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.66% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 35 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
@@ -67,7 +67,7 @@
 | 65 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.71% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 67 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.49% |
-| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
+| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.39% |
 | 69 | [JARS](games/j/jars.md) | 5.32% |
 | 70 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 71 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
@@ -77,8 +77,8 @@
 | 75 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 76 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.53% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.48% |
-| 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
-| 79 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.39% |
+| 78 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.39% |
+| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.38% |
 | 80 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.15% |
