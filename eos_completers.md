@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.71% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.67% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -31,7 +31,7 @@
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
 | 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.42% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.92% |
+| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.88% |
 | 33 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
@@ -62,8 +62,8 @@
 | 60 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 60 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.25% |
 | 62 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.24% |
-| 63 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
-| 64 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
+| 63 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 63 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 65 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.73% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 67 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.49% |
@@ -79,7 +79,7 @@
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.48% |
 | 78 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.40% |
 | 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 80 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.31% |
+| 80 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.30% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.15% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.91% |
@@ -154,14 +154,14 @@
 | 151 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 153 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 154 | [Adios](games/a/adios.md) | 1.07% |
-| 154 | [The Devil's Face](games/t/the_devil's_face.md) | 1.07% |
+| 155 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
 | 156 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 157 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 157 | [Infindustry](games/i/infindustry.md) | 1.04% |
 | 159 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.01% |
 | 159 | [Sable](games/s/sable.md) | 1.01% |
 | 159 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
-| 162 | [Trifox](games/t/trifox.md) | 0.97% |
+| 162 | [Trifox](games/t/trifox.md) | 0.96% |
 | 163 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 164 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
 | 165 | [Hades](games/h/hades.md) | 0.91% |
