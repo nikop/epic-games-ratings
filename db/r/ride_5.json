@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2140,
+  "EOS_Progressed": 2141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4882,6 +4882,11 @@
       "Time": "2023-11-14T22:09:29.1444782+00:00",
       "NumProgressed": 2140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T00:10:32.2348266+00:00",
+      "NumProgressed": 2141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4894,7 +4899,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5102,7 +5107,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5150,7 +5155,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5285,14 +5290,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2140,
+      "Progressed": 2141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:10:19.5584873+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:10:32.2348263+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:02:25.760845+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:10:19.5585312+00:00"
+  "LastUpdate_Ratings": "2023-11-15T00:02:00.6693609+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:10:32.2348791+00:00"
 }

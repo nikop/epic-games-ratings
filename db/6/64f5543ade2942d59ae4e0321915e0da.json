@@ -264,9 +264,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_BOSS_02",
@@ -328,9 +328,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_DEATH_2",
@@ -392,17 +392,17 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:06:38.657005+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:06:46.6992038+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:01:39.4916845+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:06:38.6570327+00:00"
+  "LastUpdate_Ratings": "2023-11-15T00:01:55.0207715+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:06:46.699227+00:00"
 }

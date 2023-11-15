@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6790,
-  "EOS_Completed": 39,
+  "EOS_Progressed": 6791,
+  "EOS_Completed": 40,
   "EOS_NewPlayers": 88,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:29.9033985+00:00",
@@ -5472,6 +5472,11 @@
       "Time": "2023-11-14T22:04:03.9692092+00:00",
       "NumProgressed": 6790,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-15T00:04:59.764954+00:00",
+      "NumProgressed": 6791,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5484,7 +5489,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5907
+      "UsersEstimate": 5908
     },
     {
       "ID": "achievement_01_02",
@@ -5516,7 +5521,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "achievement_01_06",
@@ -5524,7 +5529,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "achievement_01_07",
@@ -5564,7 +5569,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "achievement_02_02",
@@ -5596,7 +5601,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "achievement_02_06",
@@ -5612,7 +5617,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "achievement_02_08",
@@ -5620,7 +5625,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achievement_03_01",
@@ -5644,7 +5649,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achievement_03_04",
@@ -5724,7 +5729,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "achievement_04_03",
@@ -5764,7 +5769,7 @@
       "Name": "Nitro Saver",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "achievement_04_08",
@@ -5772,7 +5777,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5839
+      "UsersEstimate": 5840
     },
     {
       "ID": "achievement_04_09",
@@ -5787,16 +5792,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6790,
-      "Completed": 39
+      "Progressed": 6791,
+      "Completed": 40
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-12T07:00:07.6812412+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:04:53.9610935+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:04:59.7649535+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-14T22:57:06.1200221+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:04:53.9611411+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:57:20.2438629+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:04:59.7649967+00:00"
 }

@@ -88,9 +88,9 @@
 | Savior | 21.00% | ~265 |
 | Paramour II | 20.00% | ~252 |
 | Party Crasher | 20.00% | ~252 |
+| Problem Solver | 20.00% | ~252 |
 | Hard Target | 19.00% | ~239 |
 | Fact Finder | 19.00% | ~239 |
-| Problem Solver | 19.00% | ~239 |
 | Pyromaniac | 18.00% | ~227 |
 | Under Pressure | 18.00% | ~227 |
 | Last Resort | 18.00% | ~227 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,260 (Ranked 241)  
+Progressed: 1,260 (Ranked 242)  
 Completed: 3 (0.24%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |

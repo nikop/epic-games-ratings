@@ -15,6 +15,7 @@ Rating: 4.56 (Ranked 489)
 | Spore Taste | 3.00% | ~449 |
 | Martian Music | 3.00% | ~449 |
 | Drone Dodger | 3.00% | ~449 |
+| Heal Thy Medic | 3.00% | ~449 |
 | Call it Even | 3.00% | ~449 |
 | Captain Drummer | 3.00% | ~449 |
 | Celebrations are in Order | 3.00% | ~449 |
@@ -23,7 +24,6 @@ Rating: 4.56 (Ranked 489)
 | Madame Undersecretary | 3.00% | ~28 |
 | Data Archivist | 2.00% | ~299 |
 | Thorston Mayer | 2.00% | ~299 |
-| Heal Thy Medic | 2.00% | ~299 |
 | Khan's Revenge | 2.00% | ~299 |
 | Master Negotiator | 2.00% | ~18 |
 | Doctor Approved | 1.00% | ~150 |

@@ -8772,7 +8772,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65107,
+  "EOS_Progressed": 65108,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
@@ -30682,6 +30682,11 @@
       "Time": "2023-11-14T23:10:00.6369827+00:00",
       "NumProgressed": 65107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T00:10:12.5251693+00:00",
+      "NumProgressed": 65108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30901,7 +30906,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "Lance-a-lot",
@@ -30917,7 +30922,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21485
+      "UsersEstimate": 21486
     },
     {
       "ID": "Lawbringer",
@@ -30949,7 +30954,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "Minor Clan",
@@ -31045,7 +31050,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12370
+      "UsersEstimate": 12371
     },
     {
       "ID": "This Is Our Land",
@@ -31100,15 +31105,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65107,
+      "Progressed": 65108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-14T18:59:22.3665484+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:10:00.6369825+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:10:12.5251686+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:00:28.6601351+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:10:00.6371278+00:00"
+  "LastUpdate_Ratings": "2023-11-15T00:00:42.8053152+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:10:12.525345+00:00"
 }

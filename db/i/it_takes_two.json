@@ -4,7 +4,7 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21555,
+  "EOS_Progressed": 21558,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 2114,
+  "EOS_NewPlayers": 2110,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -6523,6 +6523,11 @@
       "Time": "2023-11-14T23:09:06.3899619+00:00",
       "NumProgressed": 21555,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-11-15T00:09:17.2453367+00:00",
+      "NumProgressed": 21558,
+      "NumCompleted": 91
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -6535,7 +6540,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 9053
+      "UsersEstimate": 9054
     },
     {
       "ID": "achievement_10",
@@ -6543,7 +6548,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "achievement_11",
@@ -6559,7 +6564,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 12071
+      "UsersEstimate": 12072
     },
     {
       "ID": "achievement_13",
@@ -6607,7 +6612,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "achievement_19",
@@ -6639,7 +6644,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 18753
+      "UsersEstimate": 18755
     },
     {
       "ID": "achievement_4",
@@ -6647,7 +6652,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 18968
+      "UsersEstimate": 18971
     },
     {
       "ID": "achievement_5",
@@ -6655,7 +6660,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "achievement_6",
@@ -6671,7 +6676,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 16813
+      "UsersEstimate": 16815
     },
     {
       "ID": "achievement_8",
@@ -6679,7 +6684,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9269
+      "UsersEstimate": 9270
     },
     {
       "ID": "achievement_9",
@@ -6687,20 +6692,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11209
+      "UsersEstimate": 11210
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 21555,
+      "Progressed": 21558,
       "Completed": 91
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:09:06.3899617+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:09:17.2453363+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.824403+00:00",
-  "LastUpdate_Ratings": "2023-11-14T22:57:48.0724057+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:09:06.3899935+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:58:02.6197571+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:09:17.2453721+00:00"
 }

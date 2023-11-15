@@ -16,8 +16,8 @@ Number of Ratings: 28  (23.09.2022)
 | Completely nuts! | 41.00% | ~215 |
 | Just in time! | 33.00% | ~173 |
 | Europe | 32.00% | ~168 |
+| Madness! | 31.00% | ~163 |
 | It's no coincidence. | 30.00% | ~158 |
-| Madness! | 30.00% | ~158 |
 | Philatelist | 26.00% | ~136 |
 | Let's roll! | 26.00% | ~136 |
 | Ouroboros | 25.00% | ~131 |

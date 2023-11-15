@@ -1454,9 +1454,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130811,
+  "EOS_Progressed": 130813,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21919,6 +21919,11 @@
       "Time": "2023-11-14T23:06:14.1417791+00:00",
       "NumProgressed": 130811,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-15T00:06:20.8773376+00:00",
+      "NumProgressed": 130813,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21930,7 +21935,7 @@
       "Name": "Baddest Brow in Town",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
@@ -22010,7 +22015,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36627
+      "UsersEstimate": 36628
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22026,7 +22031,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -22042,7 +22047,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27470
+      "UsersEstimate": 27471
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22058,7 +22063,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17005
+      "UsersEstimate": 17006
     },
     {
       "ID": "ACH_COP_STAR",
@@ -22226,7 +22231,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -22249,15 +22254,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130811,
+      "Progressed": 130813,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-13T17:59:18.2204176+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:06:14.141779+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:06:20.8773373+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:00:20.2710211+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:06:14.1418712+00:00"
+  "LastUpdate_Ratings": "2023-11-15T00:00:34.9336697+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:06:20.8774802+00:00"
 }

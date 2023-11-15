@@ -507,9 +507,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_main03demon_doors",
@@ -819,9 +819,9 @@
       "ID": "ach_main15drill_untouchable",
       "SetID": "4hg22ll",
       "Name": "Untouchable",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_main16ring_completed",
@@ -954,8 +954,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:05:41.6606968+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:05:48.1870722+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:00:55.3053395+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:05:41.6607694+00:00"
+  "LastUpdate_Ratings": "2023-11-15T00:01:10.6446252+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:05:48.1871132+00:00"
 }

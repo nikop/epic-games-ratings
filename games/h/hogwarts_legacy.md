@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,334 |
-| First Class Student | 14.00% | ~42,292 |
-| Troll with the Punches | 14.00% | ~42,292 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,335 |
+| First Class Student | 14.00% | ~42,293 |
+| Troll with the Punches | 14.00% | ~42,293 |
 | A Keen Sense of Spell | 13.00% | ~39,272 |
 | A Talent for Spending | 12.00% | ~36,251 |
 | That's a Keeper | 12.00% | ~36,251 |
@@ -26,13 +26,13 @@ Rating: 4.76 (Ranked 127)
 | Beast Friends | 8.00% | ~24,167 |
 | A Sallow Grave | 8.00% | ~24,167 |
 | Flight the Good Flight | 8.00% | ~24,167 |
-| The Seeker of Knowledge | 6.00% | ~18,125 |
-| The Root of the Problem | 6.00% | ~18,125 |
-| Third Time's a Charm | 6.00% | ~18,125 |
-| Raising Expectations | 6.00% | ~18,125 |
-| The Toast of the Town | 5.00% | ~15,104 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,104 |
-| The Ends Petrify the Means | 5.00% | ~15,104 |
+| The Seeker of Knowledge | 6.00% | ~18,126 |
+| The Root of the Problem | 6.00% | ~18,126 |
+| Third Time's a Charm | 6.00% | ~18,126 |
+| Raising Expectations | 6.00% | ~18,126 |
+| The Toast of the Town | 5.00% | ~15,105 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,105 |
+| The Ends Petrify the Means | 5.00% | ~15,105 |
 | Going Through the Potions | 4.00% | ~12,084 |
 | Room with a View | 4.00% | ~12,084 |
 | The Intrepid Explorer | 4.00% | ~12,084 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,089 (Ranked 51)  
+Progressed: 302,092 (Ranked 51)  
 Completed: 511 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 511 (0.17%) (Ranked 258)
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
+| 2023-11-15 | 302,092 | 511 |
 ## Awards
 Max (Character Customization): 24,282  (Ranked 17)  
 Sum: 48,150 (Ranked 30)  

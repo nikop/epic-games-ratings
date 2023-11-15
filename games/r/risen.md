@@ -31,9 +31,9 @@ Rating: 4.57 (Ranked 470)
 | Peacekeeper | 26.00% | ~10 |
 | Pandora's box | 24.00% | ~9 |
 | Sidelined | 24.00% | ~9 |
+| Defender | 21.00% | ~8 |
 | Ghost hunter | 21.00% | ~8 |
 | Workaholic | 21.00% | ~8 |
-| Defender | 18.00% | ~7 |
 | Safecracker | 18.00% | ~7 |
 | Fence | 18.00% | ~7 |
 | Freedom fighter | 16.00% | ~6 |

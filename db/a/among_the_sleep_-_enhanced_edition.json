@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92665,
+  "EOS_Progressed": 92667,
   "EOS_Completed": 421,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -23673,6 +23673,11 @@
       "Time": "2023-11-14T23:04:07.7825139+00:00",
       "NumProgressed": 92665,
       "NumCompleted": 421
+    },
+    {
+      "Time": "2023-11-15T00:04:13.3817247+00:00",
+      "NumProgressed": 92667,
+      "NumCompleted": 421
     }
   ],
   "TotalAchievements": 10,
@@ -23740,7 +23745,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9266
+      "UsersEstimate": 9267
     },
     {
       "ID": "Level00BowlingStrike",
@@ -23763,15 +23768,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 92665,
+      "Progressed": 92667,
       "Completed": 421
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:04:07.7825137+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:04:13.3817241+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:49.6004285+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:03:03.7444087+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:04:07.7826257+00:00"
+  "LastUpdate_Ratings": "2023-11-15T00:03:08.7317089+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:04:13.3818607+00:00"
 }

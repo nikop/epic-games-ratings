@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2914,
+  "EOS_Progressed": 2915,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4111,6 +4111,11 @@
       "Time": "2023-11-14T05:03:43.3347049+00:00",
       "NumProgressed": 2914,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T00:05:15.0621892+00:00",
+      "NumProgressed": 2915,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4186,7 +4191,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4210,7 +4215,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4225,7 +4230,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2914,
+      "Progressed": 2915,
       "Completed": 6
     }
   ],
@@ -4233,8 +4238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:05:08.9961353+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:05:15.0621887+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:19.7535044+00:00",
-  "LastUpdate_Ratings": "2023-11-14T22:59:40.3959301+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:05:08.9961632+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:59:54.9034588+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:05:15.062231+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 44.00% | ~942 |
-| First Love | 43.00% | ~920 |
-| Clean Race | 41.00% | ~877 |
+| First Love | 43.00% | ~921 |
+| Clean Race | 41.00% | ~878 |
 | Hear That Roar! | 39.00% | ~835 |
 | Rivals to the End | 29.00% | ~621 |
 | Bitter Rivalry | 27.00% | ~578 |
@@ -18,7 +18,7 @@
 | Go-Faster Stripes | 18.00% | ~385 |
 | Quick Pit Stop | 18.00% | ~385 |
 | I'm Here Too! | 17.00% | ~364 |
-| We've Just Begun | 11.00% | ~235 |
+| We've Just Begun | 11.00% | ~236 |
 | Stamina Star | 9.00% | ~193 |
 | Is It the Right Size? | 8.00% | ~171 |
 | Evangelist | 6.00% | ~128 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,140 (Ranked 219)  
+Progressed: 2,141 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,3 +129,4 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 2,117 | 0 |
 | 2023-11-13 | 2,128 | 0 |
 | 2023-11-14 | 2,140 | 0 |
+| 2023-11-15 | 2,141 | 0 |

@@ -15,7 +15,9 @@
 | Find Allies | 0.50% | ~1 |
 | Trinity | 0.50% | ~1 |
 | Adventurer | 0.50% | ~1 |
+| Big Bazar | 0.50% | ~1 |
 | Geared Up | 0.50% | ~1 |
+| Stone Collection | 0.50% | ~1 |
 | Break Out | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
@@ -30,18 +32,16 @@
 | Shatter Them All | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
-| Stone Collection | 0.00% | ~0 |
 | Miner | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 381)  
+Progressed: 186 (Ranked 382)  
 Completed: 1 (0.54%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |

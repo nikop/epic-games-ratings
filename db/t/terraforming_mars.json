@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3133,7 +3133,7 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82685,
+  "EOS_Progressed": 82687,
   "EOS_Completed": 161,
   "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 6,
@@ -26333,6 +26333,11 @@
       "Time": "2023-11-14T23:05:30.2033879+00:00",
       "NumProgressed": 82685,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-11-15T00:05:36.6578823+00:00",
+      "NumProgressed": 82687,
+      "NumCompleted": 161
     }
   ],
   "TotalAchievements": 30,
@@ -26376,7 +26381,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14883
+      "UsersEstimate": 14884
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -26384,7 +26389,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9095
+      "UsersEstimate": 9096
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -26400,7 +26405,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9095
+      "UsersEstimate": 9096
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -26416,7 +26421,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -26424,7 +26429,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30593
+      "UsersEstimate": 30594
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -26440,7 +26445,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26459
+      "UsersEstimate": 26460
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -26448,7 +26453,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8268
+      "UsersEstimate": 8269
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -26464,7 +26469,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -26472,7 +26477,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19844
+      "UsersEstimate": 19845
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -26480,7 +26485,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21498
+      "UsersEstimate": 21499
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -26488,7 +26493,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -26528,7 +26533,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14883
+      "UsersEstimate": 14884
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -26552,7 +26557,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8268
+      "UsersEstimate": 8269
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -26560,7 +26565,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9095
+      "UsersEstimate": 9096
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -26568,7 +26573,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15710
+      "UsersEstimate": 15711
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -26583,15 +26588,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82685,
+      "Progressed": 82687,
       "Completed": 161
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-14T14:58:27.4430049+00:00",
-  "LastChanged_Achievements": "2023-11-14T23:05:30.2033877+00:00",
+  "LastChanged_Achievements": "2023-11-15T00:05:36.6578819+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-14T22:59:13.5836147+00:00",
-  "LastUpdate_Achievements": "2023-11-14T23:05:30.203491+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:59:27.5562166+00:00",
+  "LastUpdate_Achievements": "2023-11-15T00:05:36.6580033+00:00"
 }

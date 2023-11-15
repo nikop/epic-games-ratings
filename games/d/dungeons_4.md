@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 86.00% | ~227 |
 | For the Horde! | 79.00% | ~209 |
 | Hammer Time, Round Two | 78.00% | ~206 |
-| The Hellwoods | 70.00% | ~185 |
+| The Hellwoods | 71.00% | ~187 |
 | Thalya's Concentrated Fury | 64.00% | ~169 |
 | The Plains of Strothalm | 64.00% | ~169 |
 | Experienced Thalya | 64.00% | ~169 |
@@ -51,10 +51,10 @@
 | Gorgu is in the Best of Health | 3.00% | ~8 |
 | Mirror, Mirror | 3.00% | ~8 |
 | Laser Eyes Are So Useless | 3.00% | ~8 |
+| Untouchable | 3.00% | ~8 |
 | Lavalumps on Ice! | 3.00% | ~8 |
 | Rubble and Ashes | 3.00% | ~8 |
 | Raiders of the Lost Stone | 3.00% | ~8 |
-| Untouchable | 2.00% | ~5 |
 | The Rune Sockets of Finitude (Part 1) | 2.00% | ~5 |
 | To the Max! | 2.00% | ~5 |
 | To Infinity And Beyond! | 2.00% | ~5 |

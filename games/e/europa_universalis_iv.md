@@ -8,6 +8,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Hero’s Welcome | 0.10% | ~456 |
 | A Pile of Gold | 0.10% | ~456 |
+| A Protected Market | 0.10% | ~456 |
 | AAA Credit | 0.10% | ~456 |
 | Absolutely | 0.10% | ~456 |
 | Aggressive Expander | 0.10% | ~456 |
@@ -91,6 +92,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.10% | ~456 |
 | The Princess is in this Castle | 0.10% | ~456 |
 | This is My Faith | 0.10% | ~456 |
+| This is Persia! | 0.10% | ~456 |
 | This navy can take it all | 0.10% | ~456 |
 | Three Trivial Tributary Tribes | 0.10% | ~456 |
 | Time Bandit | 0.10% | ~456 |
@@ -117,7 +119,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Blessed Nation | 0.00% | ~0 |
 | A Decent Reserve | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
-| A Protected Market | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
@@ -339,7 +340,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
 | This is fine | 0.00% | ~0 |
-| This is Persia! | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,766 (Ranked 41)  
+Progressed: 455,786 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,6 +579,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
+| 2023-11-15 | 455,786 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,546 (Ranked 24)  
