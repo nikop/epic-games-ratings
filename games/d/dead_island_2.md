@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~887 |
-| Whatever It Takes | 2.00% | ~887 |
-| Pork Chopped | 2.00% | ~887 |
+| One of Us | 2.00% | ~888 |
+| Whatever It Takes | 2.00% | ~888 |
+| Pork Chopped | 2.00% | ~888 |
 | Welcome To Hell-A | 1.00% | ~7,188 |
-| Break A Leg | 0.90% | ~6,469 |
-| Hotel California | 0.90% | ~6,469 |
-| Git Gutte! | 0.80% | ~5,750 |
-| Coup de Grâce | 0.80% | ~5,750 |
-| Hazardous Materials | 0.80% | ~5,750 |
-| Personal Assistant Personally Assisted | 0.80% | ~5,750 |
+| Break A Leg | 0.90% | ~6,470 |
+| Hotel California | 0.90% | ~6,470 |
+| Git Gutte! | 0.80% | ~5,751 |
+| Coup de Grâce | 0.80% | ~5,751 |
+| Hazardous Materials | 0.80% | ~5,751 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,751 |
 | Dr. Reed, I Presume? | 0.70% | ~5,032 |
 | Anger Management | 0.70% | ~5,032 |
 | Bookworm | 0.70% | ~5,032 |
@@ -39,13 +39,13 @@ Rating: 4.54 (Ranked 524)
 | Jumbo Keyring | 0.40% | ~2,875 |
 | Humanity Distilled | 0.40% | ~2,875 |
 | Down with the Sickness | 0.40% | ~2,875 |
-| Make it So | 0.30% | ~2,156 |
-| On Safari | 0.30% | ~2,156 |
-| Smorgasbord | 0.30% | ~2,156 |
-| Internet Famous | 0.30% | ~2,156 |
-| Go, Bobcats! | 0.30% | ~2,156 |
-| Variety is the Spice of Death | 0.30% | ~2,156 |
-| Rising Star | 0.30% | ~2,156 |
+| Make it So | 0.30% | ~2,157 |
+| On Safari | 0.30% | ~2,157 |
+| Smorgasbord | 0.30% | ~2,157 |
+| Internet Famous | 0.30% | ~2,157 |
+| Go, Bobcats! | 0.30% | ~2,157 |
+| Variety is the Spice of Death | 0.30% | ~2,157 |
+| Rising Star | 0.30% | ~2,157 |
 | Top That, Tisha! | 0.30% | ~133 |
 | LA Influential | 0.20% | ~1,438 |
 | Sole Survivor | 0.20% | ~1,438 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,807 (Ranked 20)  
+Progressed: 718,835 (Ranked 20)  
 Completed: 2,393 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,393 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,807 | 2,393 |
+| 2023-11-15 | 718,835 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 51)  
 Sum: 11,331 (Ranked 84)  

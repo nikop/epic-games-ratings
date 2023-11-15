@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1368,10 +1368,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1118,
       "NumberOfAwardsMax": 737
+    },
+    {
+      "Time": "2023-11-15T18:00:47.4293215+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1119,
+      "NumberOfAwardsMax": 737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1118,
+  "NumberOfAwards": 1119,
   "NumberOfAwardsMax": 737,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1397,7 +1403,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1454,7 +1460,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130828,
+  "EOS_Progressed": 130829,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
@@ -21969,6 +21975,11 @@
       "Time": "2023-11-15T16:05:35.4334336+00:00",
       "NumProgressed": 130828,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-15T18:06:33.037118+00:00",
+      "NumProgressed": 130829,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22084,7 +22095,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20932
+      "UsersEstimate": 20933
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22116,7 +22127,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20932
+      "UsersEstimate": 20933
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22299,15 +22310,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130828,
+      "Progressed": 130829,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-11-13T17:59:18.2204176+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:05:35.4926413+00:00",
+  "LastChanged": "2023-11-15T18:00:47.4293214+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:06:33.0371175+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:51.4738111+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:05:35.4928332+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:00:47.4293219+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:06:33.0372214+00:00"
 }

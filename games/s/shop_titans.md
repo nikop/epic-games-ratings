@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~6,996 |
+| Sponsored by Argon | 5.00% | ~6,997 |
+| Titan's First Steps | 5.00% | ~6,997 |
 | Basic in Bulk | 4.00% | ~5,597 |
 | Tinkle of Coins | 4.00% | ~5,597 |
-| Titan's First Steps | 4.00% | ~5,597 |
 | Disintermediation | 3.00% | ~4,198 |
 | It's Free Real Estate | 3.00% | ~4,198 |
 | Budding Merchant | 3.00% | ~4,198 |
@@ -83,22 +83,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.80% | ~1,119 |
 | Exotic Commodities | 0.80% | ~1,119 |
 | King's Blade | 0.80% | ~1,119 |
-| Top of the World | 0.70% | ~979 |
-| Proud Paladin | 0.70% | ~979 |
-| Constellated | 0.70% | ~979 |
-| Thirst for Knowledge | 0.70% | ~979 |
-| Booty by the Boatload | 0.70% | ~979 |
-| Archivist | 0.70% | ~979 |
-| Fillin' the Bin | 0.70% | ~979 |
-| Industrial Evolution | 0.70% | ~979 |
-| Ritualist | 0.70% | ~979 |
-| A Legend is Born | 0.70% | ~979 |
-| Item of Renown | 0.70% | ~979 |
-| Bountiful Harvest | 0.70% | ~979 |
-| Precision Engineering | 0.70% | ~979 |
-| Treasure Trove | 0.70% | ~979 |
-| Moment of Respite | 0.70% | ~979 |
-| King's Shadow | 0.70% | ~979 |
+| Top of the World | 0.70% | ~980 |
+| Proud Paladin | 0.70% | ~980 |
+| Constellated | 0.70% | ~980 |
+| Thirst for Knowledge | 0.70% | ~980 |
+| Booty by the Boatload | 0.70% | ~980 |
+| Archivist | 0.70% | ~980 |
+| Fillin' the Bin | 0.70% | ~980 |
+| Industrial Evolution | 0.70% | ~980 |
+| Ritualist | 0.70% | ~980 |
+| A Legend is Born | 0.70% | ~980 |
+| Item of Renown | 0.70% | ~980 |
+| Bountiful Harvest | 0.70% | ~980 |
+| Precision Engineering | 0.70% | ~980 |
+| Treasure Trove | 0.70% | ~980 |
+| Moment of Respite | 0.70% | ~980 |
+| King's Shadow | 0.70% | ~980 |
 | Jackpot! | 0.60% | ~840 |
 | Economy of Scarce | 0.60% | ~840 |
 | The Free Encyclopedia | 0.50% | ~700 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,926 (Ranked 79)  
+Progressed: 139,931 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 186 (0.13%) (Ranked 264)
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
 | 2023-11-14 | 139,830 | 186 |
-| 2023-11-15 | 139,926 | 186 |
+| 2023-11-15 | 139,931 | 186 |
 ## Awards
 Max (Great for Beginners): 4,831  (Ranked 73)  
 Sum: 27,552 (Ranked 50)  

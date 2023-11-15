@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 8.00% | ~2,482 |
+| Stylish | 8.00% | ~2,483 |
 | Advancement | 6.00% | ~1,862 |
 | Meticulously Efficient | 6.00% | ~1,862 |
 | Discovery | 5.00% | ~1,552 |
@@ -27,6 +27,7 @@ Rating: 4.50 (Ranked 588)
 | Right back at ya | 3.00% | ~931 |
 | Back Off | 2.00% | ~621 |
 | We have the best insurance | 2.00% | ~621 |
+| Collector | 2.00% | ~621 |
 | Legions | 2.00% | ~621 |
 | Pesky Jerks | 2.00% | ~621 |
 | Rift Destroyer | 2.00% | ~621 |
@@ -36,7 +37,6 @@ Rating: 4.50 (Ranked 588)
 | Stunner | 2.00% | ~621 |
 | Summoner | 2.00% | ~621 |
 | Welcome to the Crew | 2.00% | ~621 |
-| Collector | 1.00% | ~310 |
 | Diabolical | 1.00% | ~310 |
 | Escape Artist | 1.00% | ~310 |
 | Reckless | 1.00% | ~310 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,031 (Ranked 122)  
+Progressed: 31,032 (Ranked 122)  
 Completed: 68 (0.22%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 68 (0.22%) (Ranked 244)
 | 2023-11-12 | 30,897 | 67 |
 | 2023-11-13 | 30,946 | 68 |
 | 2023-11-14 | 31,007 | 68 |
-| 2023-11-15 | 31,031 | 68 |
+| 2023-11-15 | 31,032 | 68 |
 ## Awards
 Max (Great for Beginners): 315  (Ranked 247)  
 Sum: 2,792 (Ranked 179)  

@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,754,252 |
-| Easy to forget | 46.00% | ~1,646,849 |
-| Back in the black | 39.00% | ~1,396,242 |
-| That's what I'm talking about | 29.00% | ~1,038,231 |
-| The Best of Both Worlds | 25.00% | ~895,027 |
-| Get your wings | 20.00% | ~716,021 |
-| Double trouble | 16.00% | ~572,817 |
-| Smashing it | 11.00% | ~393,812 |
-| But can it run Crysis? | 9.00% | ~322,210 |
-| My favourite feature... | 9.00% | ~322,210 |
-| From humble beginnings... | 7.00% | ~250,607 |
-| Customer satisfaction | 7.00% | ~250,607 |
-| Keeping things neat | 4.00% | ~143,204 |
-| Seems you're pretty good at this | 4.00% | ~143,204 |
-| Bending over backwards | 4.00% | ~143,204 |
-| Triple threat | 3.00% | ~107,403 |
-| You rock at this! | 3.00% | ~107,403 |
-| Your music sucks | 3.00% | ~107,403 |
-| I'm broke, Uncle! | 2.00% | ~71,602 |
-| Maybe you should try something else? | 2.00% | ~71,602 |
-| Taking care of business | 2.00% | ~71,602 |
-| Things are under control | 2.00% | ~71,602 |
-| Perfection | 2.00% | ~71,602 |
-| Calling in Sick | 2.00% | ~71,602 |
+| You need to plug it in... | 49.00% | ~1,754,264 |
+| Easy to forget | 46.00% | ~1,646,860 |
+| Back in the black | 39.00% | ~1,396,251 |
+| That's what I'm talking about | 29.00% | ~1,038,238 |
+| The Best of Both Worlds | 25.00% | ~895,033 |
+| Get your wings | 20.00% | ~716,026 |
+| Double trouble | 16.00% | ~572,821 |
+| Smashing it | 11.00% | ~393,814 |
+| But can it run Crysis? | 9.00% | ~322,212 |
+| My favourite feature... | 9.00% | ~322,212 |
+| From humble beginnings... | 7.00% | ~250,609 |
+| Customer satisfaction | 7.00% | ~250,609 |
+| Keeping things neat | 4.00% | ~143,205 |
+| Seems you're pretty good at this | 4.00% | ~143,205 |
+| Bending over backwards | 4.00% | ~143,205 |
+| Triple threat | 3.00% | ~107,404 |
+| You rock at this! | 3.00% | ~107,404 |
+| Your music sucks | 3.00% | ~107,404 |
+| I'm broke, Uncle! | 2.00% | ~71,603 |
+| Maybe you should try something else? | 2.00% | ~71,603 |
+| Taking care of business | 2.00% | ~71,603 |
+| Things are under control | 2.00% | ~71,603 |
+| Perfection | 2.00% | ~71,603 |
+| Calling in Sick | 2.00% | ~71,603 |
 | Overvolted | 1.00% | ~35,801 |
 | If you fail the first time... | 1.00% | ~35,801 |
 | Amazonian | 1.00% | ~35,801 |
@@ -42,7 +42,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building momentum | 0.60% | ~21,481 |
 | Lead by example | 0.60% | ~21,481 |
 | Treat yourself - RAM | 0.50% | ~17,901 |
-| Mr big business | 0.40% | ~14,320 |
+| Mr big business | 0.40% | ~14,321 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,740 |
 | Mister Big | 0.30% | ~10,740 |
 | Getting your feet wet | 0.30% | ~10,740 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,580 |
 | Treat yourself - GPU | 0.10% | ~3,580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,580,107 (Ranked 5)  
+Progressed: 3,580,131 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,14 +268,14 @@ Completed: 37 (0.00%) (Ranked 351)
 | 2023-11-12 | 3,579,262 | 37 |
 | 2023-11-13 | 3,579,608 | 37 |
 | 2023-11-14 | 3,579,897 | 37 |
-| 2023-11-15 | 3,580,107 | 37 |
+| 2023-11-15 | 3,580,131 | 37 |
 ## Awards
-Max (Great for Beginners): 1,099  (Ranked 144)  
-Sum: 8,124 (Ranked 103)  
+Max (Great for Beginners): 1,101  (Ranked 144)  
+Sum: 8,126 (Ranked 103)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,099 |
+| This game is Great for Beginners | 1,101 |
 | This game is Educational | 1,011 |
 | This game is Extremely Fun | 1,005 |
 | This game is Relaxing | 991 |
@@ -541,4 +541,4 @@ Diff (max vs sum): 41
 | 2023-11-10 | 4.65 | - | 1,099 | 8,119 |
 | 2023-11-11 | 4.65 | - | 1,099 | 8,120 |
 | 2023-11-14 | 4.65 | - | 1,099 | 8,122 |
-| 2023-11-15 | 4.65 | - | 1,099 | 8,124 |
+| 2023-11-15 | 4.65 | - | 1,101 | 8,126 |

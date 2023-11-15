@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -296,6 +296,11 @@
       "Time": "2023-11-15T17:06:42.4227958+00:00",
       "NumProgressed": 81,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T18:08:06.275289+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -338,9 +343,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -362,15 +367,15 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -378,7 +383,7 @@
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -402,7 +407,7 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -434,7 +439,7 @@
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -442,9 +447,9 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompleteChapter2",
@@ -452,7 +457,7 @@
       "Name": "Met the Enemy",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CompleteChapter3",
@@ -490,17 +495,17 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CompleteChapter9",
@@ -578,7 +583,7 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -586,7 +591,7 @@
       "ID": "Win50ConquestBattles",
       "SetID": "52ail55",
       "Name": "Warmaster Supreme",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -603,13 +608,13 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:06:42.4227954+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:08:06.2752884+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:57:31.704457+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:06:42.4228299+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:57:21.0222175+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:08:06.2753143+00:00"
 }

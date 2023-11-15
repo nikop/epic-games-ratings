@@ -4,7 +4,7 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-05-22T02:10:23.0997287+00:00",
@@ -2549,6 +2549,11 @@
       "Time": "2023-11-14T20:03:50.0810861+00:00",
       "NumProgressed": 558,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-15T18:04:29.3041184+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 8,
@@ -2560,7 +2565,7 @@
       "Name": "Barista",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "coffee_100",
@@ -2592,7 +2597,7 @@
       "Name": "Get Lost!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tea_10",
@@ -2600,7 +2605,7 @@
       "Name": "Tea-ser",
       "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "tea_100",
@@ -2623,14 +2628,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:04:07.7985404+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:04:29.3041182+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:36.8148424+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:57:55.6219499+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:04:07.798566+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:57:54.7773059+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:04:29.304139+00:00"
 }

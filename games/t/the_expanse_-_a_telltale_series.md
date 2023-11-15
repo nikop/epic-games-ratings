@@ -10,16 +10,16 @@ Rating: 4.56 (Ranked 489)
 | Drone Dodger | 4.00% | ~599 |
 | Bosmang | 4.00% | ~599 |
 | Celebrations are in Order | 4.00% | ~599 |
-| Safe Cracker | 4.00% | ~37 |
-| Zen Master | 4.00% | ~37 |
-| Stogie for Fogey | 3.00% | ~449 |
-| Drug Gifter | 3.00% | ~449 |
-| Spore Taste | 3.00% | ~449 |
-| Martian Music | 3.00% | ~449 |
-| Heal Thy Medic | 3.00% | ~449 |
-| Call it Even | 3.00% | ~449 |
-| Captain Drummer | 3.00% | ~449 |
-| Impossible Objects | 3.00% | ~449 |
+| Safe Cracker | 4.00% | ~38 |
+| Zen Master | 4.00% | ~38 |
+| Stogie for Fogey | 3.00% | ~450 |
+| Drug Gifter | 3.00% | ~450 |
+| Spore Taste | 3.00% | ~450 |
+| Martian Music | 3.00% | ~450 |
+| Heal Thy Medic | 3.00% | ~450 |
+| Call it Even | 3.00% | ~450 |
+| Captain Drummer | 3.00% | ~450 |
+| Impossible Objects | 3.00% | ~450 |
 | Keep Arjun in Check | 3.00% | ~28 |
 | Madame Undersecretary | 3.00% | ~28 |
 | Data Archivist | 2.00% | ~300 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,983 (Ranked 147)  
+Progressed: 14,984 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 34 (0.23%) (Ranked 242)
 | 2023-11-12 | 14,900 | 34 |
 | 2023-11-13 | 14,936 | 34 |
 | 2023-11-14 | 14,967 | 34 |
-| 2023-11-15 | 14,983 | 34 |
+| 2023-11-15 | 14,984 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

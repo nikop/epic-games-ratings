@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,046 |
-| Alt+F4 | 8.00% | ~18,982 |
-| Where's that freaking Dwarf? | 7.00% | ~16,609 |
-| Déjà vu | 6.00% | ~14,236 |
+| Sowwy! | 35.00% | ~83,050 |
+| Alt+F4 | 8.00% | ~18,983 |
+| Where's that freaking Dwarf? | 7.00% | ~16,610 |
+| Déjà vu | 6.00% | ~14,237 |
 | Sock! SOCK! | 5.00% | ~11,864 |
 | A beer, two curses, three companions | 4.00% | ~9,491 |
 | GG EZ | 4.00% | ~9,491 |
 | DM intervention | 4.00% | ~9,491 |
 | Speedrun | 4.00% | ~9,491 |
-| Livin' in a dwarven paradise | 3.00% | ~7,118 |
-| Way of the Wimp | 3.00% | ~7,118 |
-| The plot thickens... At the tavern | 3.00% | ~7,118 |
-| Fireproof Wizardess | 3.00% | ~7,118 |
+| Livin' in a dwarven paradise | 3.00% | ~7,119 |
+| Way of the Wimp | 3.00% | ~7,119 |
+| The plot thickens... At the tavern | 3.00% | ~7,119 |
+| Fireproof Wizardess | 3.00% | ~7,119 |
 | Shiny and Crôm | 2.00% | ~4,746 |
 | The demons' feast | 2.00% | ~4,746 |
 | The Great Library | 2.00% | ~4,746 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,373 |
 | Lust and Debauchery | 1.00% | ~2,373 |
 | Material Girl | 1.00% | ~2,373 |
-| In Navalu's footsteps | 0.90% | ~2,135 |
+| In Navalu's footsteps | 0.90% | ~2,136 |
 | We come in peace | 0.70% | ~1,661 |
 | Lëgal Legend | 0.70% | ~1,661 |
 | Holistic Adventuring Party | 0.60% | ~1,424 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,275 (Ranked 62)  
+Progressed: 237,285 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
 | 2023-11-14 | 237,170 | 7 |
-| 2023-11-15 | 237,275 | 7 |
+| 2023-11-15 | 237,285 | 7 |
 ## Awards
 Max (Character Customization): 229  (Ranked 272)  
 Sum: 460 (Ranked 332)  

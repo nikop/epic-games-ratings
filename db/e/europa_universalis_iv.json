@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12025,10 +12025,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57663,
       "NumberOfAwardsMax": 7013
+    },
+    {
+      "Time": "2023-11-15T17:58:01.2129292+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57679,
+      "NumberOfAwardsMax": 7013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57663,
+  "NumberOfAwards": 57679,
   "NumberOfAwardsMax": 7013,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12072,7 +12078,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6279
+      "Count": 6295
     },
     {
       "Text": "This game is Relaxing",
@@ -12099,9 +12105,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456193,
+  "EOS_Progressed": 456238,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6263,
+  "EOS_NewPlayers": 6253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36039,6 +36045,11 @@
       "Time": "2023-11-15T17:04:32.2146633+00:00",
       "NumProgressed": 456193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T18:05:04.4209599+00:00",
+      "NumProgressed": 456238,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38184,9 +38195,9 @@
       "ID": "achievement_strait_talk",
       "SetID": "8p2n7he",
       "Name": "Strait Talk",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_subsidize_my_love",
@@ -38528,9 +38539,9 @@
       "ID": "achievement_this_is_fine",
       "SetID": "8p2n7he",
       "Name": "This is fine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_this_is_my_faith",
@@ -38953,21 +38964,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456193,
+      "Progressed": 456238,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456193,
+      "Progressed": 456238,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-15T11:57:34.9244968+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:04:32.2146631+00:00",
+  "LastChanged": "2023-11-15T17:58:01.2129291+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:05:04.4209596+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:58:00.0572043+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:04:32.2158309+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:58:01.2129296+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:05:04.4219711+00:00"
 }

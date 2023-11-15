@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1987,6 +1987,11 @@
       "Time": "2023-11-15T13:15:38.0465465+00:00",
       "NumProgressed": 597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T18:09:35.4005808+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2102,15 +2107,15 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2134,7 +2139,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2222,7 +2227,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2294,7 +2299,7 @@
       "Name": "Broken Hopes",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -2302,7 +2307,7 @@
       "Name": "Sorrow",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2310,7 +2315,7 @@
       "Name": "Atonement",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_HARD_1",
@@ -2382,7 +2387,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2390,7 +2395,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -2414,7 +2419,7 @@
       "Name": "Food Massacre",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2438,7 +2443,7 @@
       "Name": "Bullseye!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_NEST2",
@@ -2469,15 +2474,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:09:17.172271+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:09:35.4005803+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:57:58.2548757+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:09:17.172347+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:57:58.6840537+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:09:35.4006701+00:00"
 }

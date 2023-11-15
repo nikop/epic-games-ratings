@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5315,
+  "EOS_Progressed": 5317,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 889,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3330,6 +3330,11 @@
       "Time": "2023-11-15T17:09:18.8421338+00:00",
       "NumProgressed": 5315,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T18:09:37.8380677+00:00",
+      "NumProgressed": 5317,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3366,7 +3371,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ChewingTheScenery",
@@ -3382,7 +3387,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Eavesdropper",
@@ -3454,7 +3459,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "JackOfAllTrades",
@@ -3534,7 +3539,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "TheQuarterback",
@@ -3542,7 +3547,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ThisIsDharma",
@@ -3574,7 +3579,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -3613,7 +3618,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5315,
+      "Progressed": 5317,
       "Completed": 6
     }
   ],
@@ -3621,8 +3626,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:09:18.8421333+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:09:37.8380673+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:28.6280721+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:09:18.8421658+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:00:13.3090446+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:09:37.8381049+00:00"
 }

@@ -6,54 +6,54 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,039 |
-| He's Signed! | 50.00% | ~238,039 |
-| First Victory | 50.00% | ~238,039 |
-| He's Sold! | 48.00% | ~228,517 |
-| I'm The Boss! | 42.00% | ~199,953 |
-| Hat-trick | 41.00% | ~195,192 |
-| Scoring Streak | 38.00% | ~180,910 |
-| Unbeatable! | 37.00% | ~176,149 |
-| Thumping | 37.00% | ~176,149 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,627 |
-| Total Support | 32.00% | ~152,345 |
-| Record Signing | 32.00% | ~152,345 |
-| He's a Natural | 31.00% | ~147,584 |
-| Millionaire's Club | 31.00% | ~147,584 |
-| Team Performance | 30.00% | ~142,823 |
+| Clean Sheet | 50.00% | ~238,040 |
+| He's Signed! | 50.00% | ~238,040 |
+| First Victory | 50.00% | ~238,040 |
+| He's Sold! | 48.00% | ~228,519 |
+| I'm The Boss! | 42.00% | ~199,954 |
+| Hat-trick | 41.00% | ~195,193 |
+| Scoring Streak | 38.00% | ~180,911 |
+| Unbeatable! | 37.00% | ~176,150 |
+| Thumping | 37.00% | ~176,150 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,628 |
+| Total Support | 32.00% | ~152,346 |
+| Record Signing | 32.00% | ~152,346 |
+| He's a Natural | 31.00% | ~147,585 |
+| Millionaire's Club | 31.00% | ~147,585 |
+| Team Performance | 30.00% | ~142,824 |
 | Parked The Bus | 29.00% | ~138,063 |
 | Shrewd Spender | 29.00% | ~138,063 |
 | Star Man | 29.00% | ~138,063 |
-| Attack! | 28.00% | ~133,302 |
-| You're On Fire | 27.00% | ~128,541 |
-| Tremendous Trio | 27.00% | ~128,541 |
-| Record Sale | 27.00% | ~128,541 |
-| On A Roll | 26.00% | ~123,780 |
-| Unstoppable Force | 26.00% | ~123,780 |
+| Attack! | 28.00% | ~133,303 |
+| You're On Fire | 27.00% | ~128,542 |
+| Tremendous Trio | 27.00% | ~128,542 |
+| Record Sale | 27.00% | ~128,542 |
+| On A Roll | 26.00% | ~123,781 |
+| Unstoppable Force | 26.00% | ~123,781 |
 | Armchair Expert | 25.00% | ~119,020 |
 | Fantastic Five | 24.00% | ~114,259 |
 | Full Faith | 24.00% | ~114,259 |
 | Iron Curtain | 24.00% | ~114,259 |
 | The Boss | 24.00% | ~114,259 |
-| Top Of The Class | 23.00% | ~109,498 |
-| Goal Machine | 23.00% | ~109,498 |
-| Splashing The Cash | 22.00% | ~104,737 |
-| Clean Bill of Health | 22.00% | ~104,737 |
-| What A Goal! | 22.00% | ~104,737 |
-| Cup Glory! | 22.00% | ~104,737 |
+| Top Of The Class | 23.00% | ~109,499 |
+| Goal Machine | 23.00% | ~109,499 |
+| Splashing The Cash | 22.00% | ~104,738 |
+| Clean Bill of Health | 22.00% | ~104,738 |
+| What A Goal! | 22.00% | ~104,738 |
+| Cup Glory! | 22.00% | ~104,738 |
 | Irresistible Force | 20.00% | ~95,216 |
 | Excellent Match Cohesion | 20.00% | ~95,216 |
 | Do The Double | 19.00% | ~90,455 |
-| Top Form | 17.00% | ~80,933 |
-| Cash To Burn | 17.00% | ~80,933 |
-| Overachiever! | 16.00% | ~76,172 |
-| Rushed signing | 16.00% | ~76,172 |
+| Top Form | 17.00% | ~80,934 |
+| Cash To Burn | 17.00% | ~80,934 |
+| Overachiever! | 16.00% | ~76,173 |
+| Rushed signing | 16.00% | ~76,173 |
 | Beating Expectations | 15.00% | ~71,412 |
 | Window Shopping | 15.00% | ~71,412 |
 | Eyes and Ears | 14.00% | ~66,651 |
 | Comeback King! | 14.00% | ~66,651 |
-| You're Up! | 13.00% | ~61,890 |
-| Money, Money, Money | 12.00% | ~57,129 |
+| You're Up! | 13.00% | ~61,891 |
+| Money, Money, Money | 12.00% | ~57,130 |
 | Invincible! | 11.00% | ~52,369 |
 | Superb Strike | 10.00% | ~47,608 |
 | International Superstar | 10.00% | ~47,608 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,078 (Ranked 39)  
+Progressed: 476,081 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 22 (0.00%) (Ranked 351)
 | 2023-11-12 | 475,934 | 22 |
 | 2023-11-13 | 475,989 | 22 |
 | 2023-11-14 | 476,043 | 22 |
-| 2023-11-15 | 476,078 | 22 |
+| 2023-11-15 | 476,081 | 22 |
 ## Awards
 Max (Relaxing): 6,466  (Ranked 59)  
-Sum: 50,996 (Ranked 28)  
+Sum: 50,998 (Ranked 28)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -326,9 +326,9 @@ Diff (max vs sum): 31
 | This game has Competitive Players | 5,910 |
 | This game is Highly Recommended | 5,893 |
 | This game has Quickly Understood Controls | 5,892 |
-| This game is Educational | 5,881 |
+| This game is Educational | 5,882 |
 | This game has Diverse Characters | 5,573 |
-| This game has Amazing Storytelling | 4,926 |
+| This game has Amazing Storytelling | 4,927 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,386 |
 | This game has a Creative Community | 1,495 |
@@ -624,4 +624,4 @@ Diff (max vs sum): 31
 | 2023-11-11 | 4.80 | - | 6,465 | 50,988 |
 | 2023-11-12 | 4.80 | - | 6,465 | 50,989 |
 | 2023-11-13 | 4.80 | - | 6,465 | 50,994 |
-| 2023-11-15 | 4.80 | - | 6,466 | 50,996 |
+| 2023-11-15 | 4.80 | - | 6,466 | 50,998 |

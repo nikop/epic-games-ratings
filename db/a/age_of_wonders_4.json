@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5394,
+  "EOS_Progressed": 5395,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7119,6 +7119,11 @@
       "Time": "2023-11-15T15:06:30.189171+00:00",
       "NumProgressed": 5394,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T18:06:10.3676013+00:00",
+      "NumProgressed": 5395,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7184,9 +7189,9 @@
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "17",
@@ -7609,13 +7614,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5394,
+      "Progressed": 5395,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5394,
+      "Progressed": 5395,
       "Completed": 7
     }
   ],
@@ -7623,8 +7628,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:05:19.3031997+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:06:10.3676008+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:58:21.0874655+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:05:19.3032748+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:58:32.3700749+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:06:10.3676942+00:00"
 }

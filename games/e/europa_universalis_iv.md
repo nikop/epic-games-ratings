@@ -101,6 +101,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sleepless in Seattle | 0.10% | ~456 |
 | Spain is the Emperor | 0.10% | ~456 |
 | Spice Girls | 0.10% | ~456 |
+| Strait Talk | 0.10% | ~456 |
 | Subsidize my Love | 0.10% | ~456 |
 | Tear Down This Wall | 0.10% | ~456 |
 | That is mine! | 0.10% | ~456 |
@@ -111,6 +112,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.10% | ~456 |
 | The Power of Three | 0.10% | ~456 |
 | The Princess is in this Castle | 0.10% | ~456 |
+| This is fine | 0.10% | ~456 |
 | This is My Faith | 0.10% | ~456 |
 | This is Persia! | 0.10% | ~456 |
 | This navy can take it all | 0.10% | ~456 |
@@ -308,7 +310,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
-| Strait Talk | 0.00% | ~0 |
 | The Sudanese Expedition | 0.00% | ~0 |
 | Sun Invasion | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
@@ -341,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Three Mountains | 0.00% | ~0 |
 | The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
-| This is fine | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,193 (Ranked 41)  
+Progressed: 456,238 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,10 +579,10 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 456,193 | 1 |
+| 2023-11-15 | 456,238 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
-Sum: 57,663 (Ranked 24)  
+Sum: 57,679 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -592,7 +592,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,629 |
 | This game is Extremely Fun | 6,602 |
 | This game is Relaxing | 6,447 |
-| This game has Competitive Players | 6,279 |
+| This game has Competitive Players | 6,295 |
 | This game has Amazing Storytelling | 5,829 |
 | This game has Amazing Characters | 5,399 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -901,4 +901,4 @@ Diff (max vs sum): 30
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
-| 2023-11-15 | 4.69 | - | 7,013 | 57,663 |
+| 2023-11-15 | 4.69 | - | 7,013 | 57,679 |

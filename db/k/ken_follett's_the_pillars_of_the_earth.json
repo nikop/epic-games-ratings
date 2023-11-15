@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -14498,9 +14498,9 @@
       "ID": "tpote_achievement_6",
       "SetID": "3jcf6c3",
       "Name": "Full house",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3941
     },
     {
       "ID": "tpote_achievement_7",
@@ -14538,8 +14538,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:08:29.1538518+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:08:28.3802708+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.2386539+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:26.478839+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:08:29.1539512+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:00:09.9687003+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:08:28.3803486+00:00"
 }

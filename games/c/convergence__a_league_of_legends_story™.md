@@ -25,15 +25,15 @@ Rating: 4.62 (Ranked 366)
 | Like Clockwork | 19.00% | ~175 |
 | Golem Chaser | 19.00% | ~175 |
 | Check Your Pulse | 19.00% | ~175 |
-| Right On Time | 18.00% | ~165 |
-| The Man Who Shattered Time | 18.00% | ~165 |
-| The Loose Cannon | 18.00% | ~165 |
-| The Family Fortune | 18.00% | ~165 |
+| Right On Time | 18.00% | ~166 |
+| The Man Who Shattered Time | 18.00% | ~166 |
+| The Loose Cannon | 18.00% | ~166 |
+| The Family Fortune | 18.00% | ~166 |
 | Street Style | 17.00% | ~156 |
 | Treasure Trove | 15.00% | ~138 |
 | Whiz Kid | 15.00% | ~138 |
 | Cartographer | 15.00% | ~138 |
-| Good Neighbor | 13.00% | ~119 |
+| Good Neighbor | 13.00% | ~120 |
 | Chaincrawler Explorer | 12.00% | ~110 |
 | Family Memories | 12.00% | ~110 |
 | Sump Explorer | 11.00% | ~101 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 366)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 919 (Ranked 264)  
+Progressed: 920 (Ranked 264)  
 Completed: 6 (0.65%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 6 (0.65%) (Ranked 179)
 | 2023-11-05 | 917 | 6 |
 | 2023-11-10 | 918 | 6 |
 | 2023-11-14 | 919 | 6 |
+| 2023-11-15 | 920 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

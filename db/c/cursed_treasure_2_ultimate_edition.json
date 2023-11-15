@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_5",
       "SetID": "ak6pfjk",
       "Name": "Starry: The Coreland",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_6",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:08:31.4726575+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:08:31.6235044+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:45.1148952+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:58:24.6196566+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:08:31.4727079+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:58:38.0110085+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:08:31.6235371+00:00"
 }

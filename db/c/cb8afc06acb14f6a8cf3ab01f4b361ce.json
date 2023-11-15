@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 311241,
+  "EOS_Progressed": 311270,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5626,
+  "EOS_NewPlayers": 5619,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6075,6 +6075,11 @@
       "Time": "2023-11-15T17:05:48.7126092+00:00",
       "NumProgressed": 311241,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-15T18:06:50.5326411+00:00",
+      "NumProgressed": 311270,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6093,9 +6098,9 @@
       "ID": "S02_BRDA",
       "SetID": "4j44ol8",
       "Name": "A powerful aura was here",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1867
+      "UsersEstimate": 2179
     },
     {
       "ID": "S03_OTWA",
@@ -6103,7 +6108,7 @@
       "Name": "Rumors are true",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "S04_BRDC",
@@ -6111,7 +6116,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "S05_SWRA",
@@ -6119,7 +6124,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "S06_LWTC",
@@ -6253,9 +6258,9 @@
       "ID": "S22_CORRUPTED",
       "SetID": "4j44ol8",
       "Name": "They won\u0027t last long",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 623
     },
     {
       "ID": "S23_ETHEREAL",
@@ -6279,7 +6284,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "S26_CRTA",
@@ -6311,7 +6316,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "S30_DIAMOND",
@@ -6406,7 +6411,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 311241,
+      "Progressed": 311270,
       "Completed": 4
     }
   ],
@@ -6414,8 +6419,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-15T07:00:35.3213707+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:05:48.7126087+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:06:50.5326404+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:03:01.3432706+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:05:48.7126784+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:02:41.5183699+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:06:50.532701+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2419,6 +2419,11 @@
       "Time": "2023-11-14T02:27:48.3073637+00:00",
       "NumProgressed": 919,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T18:09:02.752949+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2462,7 +2467,7 @@
       "Name": "Right On Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2566,7 +2571,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "GadgetCompletion1",
@@ -2614,7 +2619,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LacunaCompleted",
@@ -2830,7 +2835,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2846,14 +2851,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 6
     }
   ],
@@ -2861,8 +2866,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:08:53.6432668+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:09:02.7529486+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.3466186+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:58:30.266076+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:08:53.6433305+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:58:46.7356316+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:09:02.75299+00:00"
 }

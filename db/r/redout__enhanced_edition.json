@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235553,
+  "EOS_Progressed": 235555,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22317,6 +22317,11 @@
       "Time": "2023-11-15T17:06:11.6846009+00:00",
       "NumProgressed": 235553,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-15T18:07:22.9792825+00:00",
+      "NumProgressed": 235555,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22464,7 +22469,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77732
+      "UsersEstimate": 77733
     },
     {
       "ID": "NOBUNAGA",
@@ -22592,22 +22597,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96577
+      "UsersEstimate": 96578
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235553,
+      "Progressed": 235555,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:06:11.6846004+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:07:22.9792819+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:19.3718767+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:06:11.6847733+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:59:59.692317+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:07:22.9793908+00:00"
 }

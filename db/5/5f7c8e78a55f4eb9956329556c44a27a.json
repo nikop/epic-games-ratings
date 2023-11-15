@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -188,17 +188,17 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 74,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -244,9 +244,9 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 84,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -300,9 +300,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 84,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -403,8 +403,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:06:38.8562511+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:08:01.1313011+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:57:54.5473345+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:06:38.8562707+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:57:53.1012295+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:08:01.1313237+00:00"
 }

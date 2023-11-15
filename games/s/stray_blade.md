@@ -4,52 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~102 |
-| Tinkerer | 69.00% | ~82 |
-| Welcome to the Club | 40.00% | ~48 |
-| Apprentice | 38.00% | ~45 |
-| A new World ahead | 29.00% | ~35 |
-| Can't touch this | 27.00% | ~32 |
-| Don't Cry Wolf | 25.00% | ~30 |
-| Freezing Cold | 18.00% | ~21 |
-| Expert | 18.00% | ~21 |
-| Searing Heat | 14.00% | ~17 |
-| Locked and Loaded | 13.00% | ~15 |
-| Nothing but the Truth | 13.00% | ~15 |
-| The Golden Flash | 13.00% | ~15 |
-| The Power of the Mountains | 13.00% | ~15 |
-| Changing the World | 11.00% | ~13 |
-| Defeat Tezuth | 10.00% | ~12 |
-| The A-Team | 10.00% | ~12 |
-| Witch | 9.00% | ~11 |
-| Craftsmen | 8.00% | ~10 |
-| Defeat Uskol | 8.00% | ~10 |
-| Through Dangers Untold | 8.00% | ~10 |
-| Mirror, Mirror on the Wall | 7.00% | ~8 |
-| Finally! | 7.00% | ~8 |
-| A Deceiving Gift | 6.00% | ~7 |
-| Unveiling the Truth | 5.00% | ~6 |
-| Defeat Ingla | 4.00% | ~5 |
-| Bringing guns to a sword fight | 4.00% | ~5 |
-| Ancient Powers | 4.00% | ~5 |
-| The End | 4.00% | ~5 |
-| But what of the Acreans? | 4.00% | ~5 |
-| Sponsor | 3.00% | ~4 |
-| Wizard | 3.00% | ~4 |
-| Wayseeker | 3.00% | ~4 |
-| Pathfinder | 3.00% | ~4 |
-| Globetrotter | 3.00% | ~4 |
-| Style over Stats | 2.00% | ~2 |
-| Mountain Lover | 2.00% | ~2 |
-| Forest Expert | 2.00% | ~2 |
-| Knowledge is King | 2.00% | ~2 |
-| Explorer by Heart | 0.80% | ~1 |
-| Wasteland Connoisseur | 0.80% | ~1 |
-| Fashionista | 0.80% | ~1 |
-| Bookworm | 0.80% | ~1 |
-| Trailblazer | 0.80% | ~1 |
+| Craftsmen | 0.80% | ~1 |
+| Mirror, Mirror on the Wall | 0.00% | ~0 |
+| Sponsor | 0.00% | ~0 |
+| Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
+| Tinkerer | 0.00% | ~0 |
+| Defeat Ingla | 0.00% | ~0 |
+| Defeat Tezuth | 0.00% | ~0 |
+| Defeat Uskol | 0.00% | ~0 |
+| Bringing guns to a sword fight | 0.00% | ~0 |
+| Self-Defence | 0.00% | ~0 |
+| Freezing Cold | 0.00% | ~0 |
+| Searing Heat | 0.00% | ~0 |
+| Through Dangers Untold | 0.00% | ~0 |
+| Locked and Loaded | 0.00% | ~0 |
+| Explorer by Heart | 0.00% | ~0 |
+| Mountain Lover | 0.00% | ~0 |
+| Wasteland Connoisseur | 0.00% | ~0 |
+| Forest Expert | 0.00% | ~0 |
+| Fashionista | 0.00% | ~0 |
+| Ancient Powers | 0.00% | ~0 |
+| Knowledge is King | 0.00% | ~0 |
+| Witch | 0.00% | ~0 |
+| Wizard | 0.00% | ~0 |
+| Nothing but the Truth | 0.00% | ~0 |
+| Bookworm | 0.00% | ~0 |
+| Trailblazer | 0.00% | ~0 |
+| Wayseeker | 0.00% | ~0 |
+| Pathfinder | 0.00% | ~0 |
+| Globetrotter | 0.00% | ~0 |
+| Finally! | 0.00% | ~0 |
+| Welcome to the Club | 0.00% | ~0 |
+| The End | 0.00% | ~0 |
+| Don't Cry Wolf | 0.00% | ~0 |
+| A new World ahead | 0.00% | ~0 |
+| Can't touch this | 0.00% | ~0 |
+| The A-Team | 0.00% | ~0 |
+| But what of the Acreans? | 0.00% | ~0 |
+| A Deceiving Gift | 0.00% | ~0 |
+| Unveiling the Truth | 0.00% | ~0 |
+| Apprentice | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
+| Expert | 0.00% | ~0 |
+| The Golden Flash | 0.00% | ~0 |
+| The Power of the Mountains | 0.00% | ~0 |
+| Changing the World | 0.00% | ~0 |
+| Mind Over Matter | 0.00% | ~0 |
+| Coming Prepared | 0.00% | ~0 |
+| Everything in its Place | 0.00% | ~0 |
+| Whispers of the Sand | 0.00% | ~0 |
+| Lost and Found | 0.00% | ~0 |
+| Small Setback | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 351)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -586,40 +586,40 @@
       "NumCompleted": 0
     }
   ],
-  "TotalAchievements": 46,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 52,
+  "TotalAchievementsXP": 1200,
   "Achievements": [
     {
       "ID": "ACH_ACTIVATE_ALL_INGLA_MIRRORS",
       "SetID": "7i20me3",
       "Name": "Mirror, Mirror on the Wall",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
       "SetID": "7i20me3",
       "Name": "Sponsor",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 8,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
       "SetID": "7i20me3",
       "Name": "Style over Stats",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CRAFT_ALL_WEAPONS",
@@ -633,289 +633,289 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 69,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
       "SetID": "7i20me3",
       "Name": "Defeat Ingla",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
       "SetID": "7i20me3",
       "Name": "Defeat Tezuth",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DEFEAT_BOSS_USKOL",
       "SetID": "7i20me3",
       "Name": "Defeat Uskol",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
       "SetID": "7i20me3",
       "Name": "Bringing guns to a sword fight",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 86,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 14,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
       "SetID": "7i20me3",
       "Name": "Explorer by Heart",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BEAR",
       "SetID": "7i20me3",
       "Name": "Mountain Lover",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wasteland Connoisseur",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_STAG",
       "SetID": "7i20me3",
       "Name": "Forest Expert",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_COLORS",
       "SetID": "7i20me3",
       "Name": "Fashionista",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
       "SetID": "7i20me3",
       "Name": "Ancient Powers",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
       "SetID": "7i20me3",
       "Name": "Knowledge is King",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 9,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_RUNES",
       "SetID": "7i20me3",
       "Name": "Wizard",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
       "SetID": "7i20me3",
       "Name": "Bookworm",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_BEAR",
       "SetID": "7i20me3",
       "Name": "Trailblazer",
-      "Percentage": 0.8,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wayseeker",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_STAG",
       "SetID": "7i20me3",
       "Name": "Pathfinder",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_ALL_TELEPORTERS",
       "SetID": "7i20me3",
       "Name": "Globetrotter",
-      "Percentage": 3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 7,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 40,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISH_GAME",
       "SetID": "7i20me3",
       "Name": "The End",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 25,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 27,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
       "SetID": "7i20me3",
       "Name": "But what of the Acreans?",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
       "SetID": "7i20me3",
       "Name": "A Deceiving Gift",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
       "SetID": "7i20me3",
       "Name": "Unveiling the Truth",
-      "Percentage": 5,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -929,33 +929,81 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 18,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 11,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DLC_DEFEAT_BOSS_SCIENTIST",
+      "SetID": "doc1i1",
+      "Name": "Mind Over Matter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DLC_FIND_ALL_ARMOR_CHESTS",
+      "SetID": "doc1i1",
+      "Name": "Coming Prepared",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DLC_FIND_ALL_COLLECTIBLES",
+      "SetID": "doc1i1",
+      "Name": "Everything in its Place",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DLC_FIND_ALL_STORY_NOTES",
+      "SetID": "doc1i1",
+      "Name": "Whispers of the Sand",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DLC_FIND_ALL_WEAPON_CHESTS",
+      "SetID": "doc1i1",
+      "Name": "Lost and Found",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DLC_LOSE_TO_BOSS_SCIENTIST",
+      "SetID": "doc1i1",
+      "Name": "Small Setback",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -976,8 +1024,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:09:41.8039308+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:10:10.383703+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.0498419+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:59.9537356+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:09:41.8039683+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:01:00.0284153+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:10:10.3837446+00:00"
 }

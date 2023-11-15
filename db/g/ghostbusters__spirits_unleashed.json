@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3339,9 +3339,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31031,
+  "EOS_Progressed": 31032,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19324,6 +19324,11 @@
       "Time": "2023-11-15T17:06:08.6265027+00:00",
       "NumProgressed": 31031,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-15T18:07:18.9101682+00:00",
+      "NumProgressed": 31032,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19389,9 +19394,9 @@
       "ID": "Collector",
       "SetID": "819popo",
       "Name": "Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 621
     },
     {
       "ID": "Cultured",
@@ -19639,7 +19644,7 @@
       "Name": "Stylish",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "Summoner",
@@ -19742,7 +19747,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31031,
+      "Progressed": 31032,
       "Completed": 68
     }
   ],
@@ -19750,8 +19755,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-15T03:02:27.7013835+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:06:08.6265023+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:07:18.9101678+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:03:13.3500263+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:06:08.6266245+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:02:58.8546747+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:07:18.910286+00:00"
 }

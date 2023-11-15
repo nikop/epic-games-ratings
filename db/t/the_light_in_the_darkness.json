@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2643,
+  "EOS_Progressed": 2644,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 9,
   "EosHistory": [
@@ -7186,6 +7186,11 @@
       "Time": "2023-11-15T10:09:45.7348792+00:00",
       "NumProgressed": 2643,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-11-15T18:09:54.5389739+00:00",
+      "NumProgressed": 2644,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 12,
@@ -7197,7 +7202,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Bernard",
@@ -7213,7 +7218,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7261,7 +7266,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -7292,7 +7297,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2643,
+      "Progressed": 2644,
       "Completed": 238
     }
   ],
@@ -7300,8 +7305,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:09:30.3117544+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:09:54.5389734+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:47.9319715+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:09:30.3118385+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:00:41.9793278+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:09:54.539019+00:00"
 }

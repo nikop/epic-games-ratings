@@ -45,13 +45,13 @@ Rating: 4.61 (Ranked 384)
 | Manufactured War | 0.30% | ~16 |
 | Pruning for Progress | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
+| God Emperor | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
 | Duality | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
-| God Emperor | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,394 (Ranked 184)  
+Progressed: 5,395 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-12 | 5,383 | 7 |
 | 2023-11-13 | 5,387 | 7 |
 | 2023-11-14 | 5,391 | 7 |
-| 2023-11-15 | 5,394 | 7 |
+| 2023-11-15 | 5,395 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 54 (Ranked 474)  

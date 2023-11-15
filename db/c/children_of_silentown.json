@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "Ending3",
       "SetID": "9kk0gal",
       "Name": "Forest Howl",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "Ending4",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:06:43.7387043+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:08:08.1616933+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:33.3899498+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:59:43.926528+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:06:43.7387192+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:00:35.8968839+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:08:08.1617113+00:00"
 }

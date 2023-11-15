@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4195,10 +4195,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5030,
       "NumberOfAwardsMax": 2206
+    },
+    {
+      "Time": "2023-11-15T18:03:30.4611167+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5057,
+      "NumberOfAwardsMax": 2206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5030,
+  "NumberOfAwards": 5057,
   "NumberOfAwardsMax": 2206,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4242,13 +4248,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 282
+      "Count": 297
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 209
+      "Count": 221
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4269,9 +4275,9 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 221228,
+  "EOS_Progressed": 221267,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 2356,
+  "EOS_NewPlayers": 2378,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18209,6 +18215,11 @@
       "Time": "2023-11-15T17:08:47.0555262+00:00",
       "NumProgressed": 221228,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-15T18:08:53.7443953+00:00",
+      "NumProgressed": 221267,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18627,7 +18638,7 @@
       "ID": "DLC1_Discover_True_Ending",
       "SetID": "bkoie00",
       "Name": "Succession",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 75,
       "UsersEstimate": 0
     },
@@ -18660,22 +18671,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 221228,
+      "Progressed": 221267,
       "Completed": 457
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 393,
+      "Progressed": 432,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-15T17:03:27.4832346+00:00",
-  "LastChanged_Achievements": "2023-11-15T17:08:47.0555257+00:00",
+  "LastChanged": "2023-11-15T18:03:30.4611166+00:00",
+  "LastChanged_Achievements": "2023-11-15T18:08:53.7443948+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:03:27.483235+00:00",
-  "LastUpdate_Achievements": "2023-11-15T17:08:47.0556424+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:03:30.4611171+00:00",
+  "LastUpdate_Achievements": "2023-11-15T18:08:53.7445062+00:00"
 }
