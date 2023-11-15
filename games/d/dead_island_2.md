@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 524)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~888 |
-| Whatever It Takes | 2.00% | ~888 |
-| Pork Chopped | 2.00% | ~888 |
+| One of Us | 2.00% | ~889 |
+| Whatever It Takes | 2.00% | ~889 |
+| Pork Chopped | 2.00% | ~889 |
 | Welcome To Hell-A | 1.00% | ~7,189 |
 | Break A Leg | 0.90% | ~6,470 |
 | Hotel California | 0.90% | ~6,470 |
@@ -36,10 +36,10 @@ Rating: 4.54 (Ranked 524)
 | Humanity Distilled | 0.50% | ~3,594 |
 | I Am the Resurrection | 0.50% | ~3,594 |
 | Max Headroom | 0.50% | ~3,594 |
-| Not Even My Final Form | 0.40% | ~2,875 |
-| Jumbo Keyring | 0.40% | ~2,875 |
-| Down with the Sickness | 0.40% | ~2,875 |
-| Rising Star | 0.40% | ~2,875 |
+| Not Even My Final Form | 0.40% | ~2,876 |
+| Jumbo Keyring | 0.40% | ~2,876 |
+| Down with the Sickness | 0.40% | ~2,876 |
+| Rising Star | 0.40% | ~2,876 |
 | Make it So | 0.30% | ~2,157 |
 | On Safari | 0.30% | ~2,157 |
 | Smorgasbord | 0.30% | ~2,157 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,864 (Ranked 20)  
+Progressed: 718,893 (Ranked 20)  
 Completed: 2,393 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,393 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,864 | 2,393 |
+| 2023-11-15 | 718,893 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 51)  
 Sum: 11,331 (Ranked 84)  

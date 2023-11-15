@@ -4,8 +4,8 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -591,9 +591,9 @@
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_17",
@@ -631,9 +631,9 @@
       "ID": "achievement_20",
       "SetID": "jnappp",
       "Name": "Regularity Renaissance",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_21",
@@ -750,8 +750,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:09:18.6805721+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:09:23.4702392+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:00:07.0336396+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:09:18.6805996+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:00:13.9909494+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:09:23.4702608+00:00"
 }

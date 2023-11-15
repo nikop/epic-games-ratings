@@ -6,9 +6,9 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 251.00% | ~846 |
-| Iron Chef | 181.00% | ~610 |
-| Greeno-B-Gone | 121.00% | ~408 |
+| Adept Assembler | 252.00% | ~849 |
+| Iron Chef | 182.00% | ~613 |
+| Greeno-B-Gone | 122.00% | ~411 |
 | Your Especially Earned Trajectory | 93.00% | ~313 |
 | No Mountain Wide Enough | 67.00% | ~226 |
 | Can We Keep It? | 65.00% | ~219 |
@@ -16,16 +16,16 @@ Number of Ratings: 892  (23.09.2022)
 | Yakmel Whisperer | 62.00% | ~209 |
 | One of the Cool Kids | 61.00% | ~206 |
 | Diamonds are Forever | 58.00% | ~195 |
-| Pack Mule | 55.00% | ~185 |
-| Unboxing | 54.00% | ~182 |
+| Pack Mule | 56.00% | ~189 |
+| Unboxing | 55.00% | ~185 |
 | Big Game Hunter | 52.00% | ~175 |
 | Financially Secure | 50.00% | ~168 |
 | Got Served | 48.00% | ~162 |
 | Chatterbox | 47.00% | ~158 |
+| You Don't Win Friends With Salad | 45.00% | ~152 |
 | Happier-est Place on Earth | 44.00% | ~148 |
 | First Love | 44.00% | ~148 |
 | I Do! | 44.00% | ~148 |
-| You Don't Win Friends With Salad | 44.00% | ~148 |
 | Call Me Fishmael | 44.00% | ~148 |
 | What Plants Crave | 42.00% | ~142 |
 | Mole Masher | 42.00% | ~142 |
@@ -44,8 +44,8 @@ Number of Ratings: 892  (23.09.2022)
 | Martle's Dream | 32.00% | ~108 |
 | Got the Flow Back | 31.00% | ~104 |
 | Jewel of the Eufaula | 30.00% | ~101 |
+| Elementary, My Dear | 29.00% | ~98 |
 | He Can Spin A Yarn... | 28.00% | ~94 |
-| Elementary, My Dear | 28.00% | ~94 |
 | Lifeline Pipeline | 28.00% | ~94 |
 | Sepia Toned Memories | 24.00% | ~81 |
 | Newton | 24.00% | ~81 |
@@ -57,7 +57,7 @@ Number of Ratings: 892  (23.09.2022)
 | It Belongs in a Museum! | 20.00% | ~67 |
 | Sandrunning Speedster | 19.00% | ~64 |
 | Cardistry | 18.00% | ~61 |
-| Pro Gamer | 17.00% | ~57 |
+| Pro Gamer | 18.00% | ~61 |
 | Jack of All Trades | 9.00% | ~30 |
 | It's High Noon... | 9.00% | ~30 |
 | Strong Arms | 9.00% | ~30 |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-15 | 342 | 0 |
 ## Awards
 Max (Character Customization): 590  (Ranked 194)  
-Sum: 1,348 (Ranked 239)  
+Sum: 1,349 (Ranked 239)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): -45
 | This game is Extremely Fun | 86 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 74 |
-| This game is Relaxing | 71 |
+| This game is Relaxing | 72 |
 | This game has Amazing Storytelling | 69 |
 | This game has Amazing Characters | 68 |
 | This game has Easy Combat | 68 |
@@ -270,4 +270,4 @@ Diff (max vs sum): -45
 | 2023-11-12 | 4.68 | - | 588 | 1,338 |
 | 2023-11-13 | 4.68 | - | 588 | 1,342 |
 | 2023-11-14 | 4.68 | - | 590 | 1,346 |
-| 2023-11-15 | 4.68 | - | 590 | 1,348 |
+| 2023-11-15 | 4.68 | - | 590 | 1,349 |

@@ -6,15 +6,15 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,897 |
-| keep it tidy | 78.00% | ~8,041 |
-| podium | 72.00% | ~7,422 |
-| medium attack | 60.00% | ~6,185 |
-| brail | 57.00% | ~5,876 |
+| light attack | 96.00% | ~9,898 |
+| keep it tidy | 78.00% | ~8,042 |
+| podium | 72.00% | ~7,423 |
+| medium attack | 60.00% | ~6,186 |
+| brail | 57.00% | ~5,877 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,433 |
 | grocery-getter | 40.00% | ~4,124 |
-| rwd only | 27.00% | ~2,783 |
-| food tour: pasta | 27.00% | ~2,783 |
+| rwd only | 27.00% | ~2,784 |
+| food tour: pasta | 27.00% | ~2,784 |
 | autopilot | 22.00% | ~2,268 |
 | to finish first, first you must finish | 21.00% | ~2,165 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,165 |
@@ -41,7 +41,7 @@ Number of Ratings: 56  (23.09.2022)
 | oktoberfest | 6.00% | ~619 |
 | in like a lamb, out like a lion | 6.00% | ~619 |
 | if in doubt, flat out! | 6.00% | ~619 |
-| group b | 5.00% | ~515 |
+| group b | 5.00% | ~516 |
 | comfy seats | 4.00% | ~412 |
 | simulator | 3.00% | ~309 |
 | real roads, real fast | 3.00% | ~309 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,309 (Ranked 157)  
+Progressed: 10,310 (Ranked 157)  
 Completed: 9 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 9 (0.09%) (Ranked 281)
 | 2023-11-08 | 10,307 | 9 |
 | 2023-11-09 | 10,308 | 9 |
 | 2023-11-13 | 10,309 | 9 |
+| 2023-11-15 | 10,310 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

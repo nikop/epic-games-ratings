@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Craftsmen | 0.80% | ~1 |
 | Self-Defence | 0.80% | ~1 |
+| Small Setback | 0.80% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -55,7 +56,6 @@
 | Everything in its Place | 0.00% | ~0 |
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
-| Small Setback | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 351)  

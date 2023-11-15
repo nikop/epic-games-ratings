@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4665,7 +4665,7 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 11668,
+  "EOS_Progressed": 11669,
   "EOS_Completed": 278,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 6,
@@ -18705,6 +18705,11 @@
       "Time": "2023-11-15T18:05:43.4826669+00:00",
       "NumProgressed": 11668,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-11-15T20:05:14.8496434+00:00",
+      "NumProgressed": 11669,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 15,
@@ -18804,7 +18809,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 8051
+      "UsersEstimate": 8052
     },
     {
       "ID": "Renovator",
@@ -18828,14 +18833,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7234
+      "UsersEstimate": 7235
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11668,
+      "Progressed": 11669,
       "Completed": 278
     }
   ],
@@ -18843,8 +18848,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-15T17:57:25.7259514+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:04:57.5366177+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:05:14.8496429+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:02.0110737+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:57:41.3262679+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:04:57.5366899+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:57:26.515643+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:05:14.8497508+00:00"
 }

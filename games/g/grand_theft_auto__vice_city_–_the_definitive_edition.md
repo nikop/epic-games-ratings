@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 539)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,068 |
+| Legal Counsel | 46.00% | ~5,069 |
 | Greasy Palms | 42.00% | ~4,628 |
 | South American Connection | 26.00% | ~2,865 |
 | Life of the Party | 21.00% | ~2,314 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 539)
 | Done it All | 1.00% | ~110 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,018 (Ranked 155)  
+Progressed: 11,019 (Ranked 155)  
 Completed: 65 (0.59%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 65 (0.59%) (Ranked 183)
 | 2023-11-12 | 11,004 | 64 |
 | 2023-11-13 | 11,010 | 65 |
 | 2023-11-14 | 11,016 | 65 |
-| 2023-11-15 | 11,018 | 65 |
+| 2023-11-15 | 11,019 | 65 |
 ## Awards
 Max (Great Boss Battles): 105  (Ranked 351)  
 Sum: 105 (Ranked 438)  

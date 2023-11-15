@@ -5441,9 +5441,9 @@
       "ID": "achievement_1",
       "SetID": "222fo9l",
       "Name": "Welcome Aboard",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1539
     },
     {
       "ID": "achievement_10",
@@ -5826,8 +5826,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:08:15.9547377+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:07:54.4194509+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:03.0689438+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:08:15.9547874+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:57:51.4788337+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:07:54.4195219+00:00"
 }

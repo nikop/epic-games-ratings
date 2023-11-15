@@ -11,18 +11,18 @@ Rating: 4.61 (Ranked 384)
 | A Wonderful Discovery | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |
+| From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
 | Full Ascension | 0.90% | ~49 |
-| From Friends to Family | 0.90% | ~49 |
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
 | Chaos Surge | 0.80% | ~43 |
+| Spoils of War | 0.80% | ~43 |
 | Valley of Wonders | 0.70% | ~38 |
 | In a Liege of Your Own | 0.70% | ~38 |
 | Sehiran Oasis | 0.70% | ~38 |
-| Spoils of War | 0.70% | ~38 |
 | Intimidation Tactics | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |

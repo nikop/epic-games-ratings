@@ -19,11 +19,11 @@
 | Help of the Gell | 15.00% | ~5 |
 | Trial by cold | 15.00% | ~5 |
 | She-Wolf | 15.00% | ~5 |
+| For the greater good | 12.00% | ~4 |
 | The champion of the arena | 12.00% | ~4 |
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
-| For the greater good | 9.00% | ~3 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | Stronger than Gellian steel | 9.00% | ~3 |

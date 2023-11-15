@@ -2535,9 +2535,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2606,8 +2606,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:03:44.2469266+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:03:51.3454766+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:21.9194566+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:03:44.2469549+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:58:13.528052+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:03:51.3455023+00:00"
 }

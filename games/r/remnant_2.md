@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 146)
 | A Foul Feast | 0.10% | ~0 |
 | You Shall Pass | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,301 (Ranked 68)  
+Progressed: 221,327 (Ranked 68)  
 Completed: 457 (0.21%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 457 (0.21%) (Ranked 246)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,301 | 457 |
+| 2023-11-15 | 221,327 | 457 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 5,085 (Ranked 136)  

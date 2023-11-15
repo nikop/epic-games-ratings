@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
@@ -6543,9 +6543,9 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718864,
+  "EOS_Progressed": 718893,
   "EOS_Completed": 2393,
-  "EOS_NewPlayers": 3772,
+  "EOS_NewPlayers": 3778,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30448,6 +30448,11 @@
       "Time": "2023-11-15T19:05:13.8612136+00:00",
       "NumProgressed": 718864,
       "NumCompleted": 2393
+    },
+    {
+      "Time": "2023-11-15T20:05:33.2231974+00:00",
+      "NumProgressed": 718893,
+      "NumCompleted": 2393
     }
   ],
   "TotalAchievements": 51,
@@ -30595,7 +30600,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30651,7 +30656,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_knock_down",
@@ -30715,7 +30720,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_secrets_of_la",
@@ -30803,7 +30808,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "ach_well_trained",
@@ -30819,7 +30824,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ach_dark_magic",
@@ -30827,7 +30832,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ach_gardening_tools",
@@ -30843,7 +30848,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30866,22 +30871,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718864,
+      "Progressed": 718893,
       "Completed": 2393
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44406,
-      "Completed": 36543
+      "Progressed": 44435,
+      "Completed": 36544
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-15T16:58:10.2485341+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:05:13.8612132+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:05:33.2231968+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:14.3979072+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:05:13.8613394+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:58:04.7842256+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:05:33.2234021+00:00"
 }

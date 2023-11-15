@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7794,
+  "EOS_Progressed": 7795,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6811,6 +6811,11 @@
       "Time": "2023-11-15T19:09:19.0039613+00:00",
       "NumProgressed": 7794,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T20:09:23.8686422+00:00",
+      "NumProgressed": 7795,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6911,7 +6916,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6919,7 +6924,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6927,7 +6932,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3820
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6959,7 +6964,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6975,7 +6980,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6999,7 +7004,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7095,29 +7100,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7794,
+      "Progressed": 7795,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 411,
-      "Completed": 411
+      "Progressed": 412,
+      "Completed": 412
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:09:19.003961+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:09:23.8686417+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:03:15.9598308+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:09:19.00401+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:02:58.1958439+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:09:23.8687244+00:00"
 }

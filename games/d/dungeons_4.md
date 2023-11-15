@@ -22,20 +22,20 @@
 | The Ascent | 40.00% | ~109 |
 | It's Warm and Cozy at Home | 40.00% | ~109 |
 | YOU SHALL NOT PASS! | 39.00% | ~106 |
+| Hard Work | 36.00% | ~98 |
 | Pure Dynamite! | 36.00% | ~98 |
-| Hard Work | 35.00% | ~95 |
 | The Big Eaty | 34.00% | ~92 |
 | Mana Cannon | 29.00% | ~79 |
-| “… like son” | 25.00% | ~68 |
-| Dungeonlord Gorgu | 21.00% | ~57 |
+| “… like son” | 26.00% | ~71 |
+| Dungeonlord Gorgu | 22.00% | ~60 |
 | Shame! Shame! Shame! | 20.00% | ~54 |
 | The Cathedral of Light | 19.00% | ~52 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 18.00% | ~49 |
 | Hungry, Hungry Gorgu! | 17.00% | ~46 |
+| Tanos' Crusade Against Thalya | 15.00% | ~41 |
 | Unstoppable Horde | 14.00% | ~38 |
-| Tanos' Crusade Against Thalya | 14.00% | ~38 |
+| Forbidden Knowledge | 12.00% | ~33 |
 | All’s Well That Ends Evil | 12.00% | ~33 |
-| Forbidden Knowledge | 11.00% | ~30 |
 | Master of the Undead | 11.00% | ~30 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~27 |
 | Ghost Pirates? Ghost Heroes! | 10.00% | ~27 |

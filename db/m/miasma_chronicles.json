@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3928,9 +3928,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 775
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4048,9 +4048,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1107
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4233,8 +4233,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:09:23.2497426+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:09:28.1008118+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.5514998+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:10.2811919+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:09:23.2497937+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:58:00.049226+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:09:28.1008575+00:00"
 }

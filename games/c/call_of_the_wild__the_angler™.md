@@ -15,12 +15,13 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 1.00% | ~65 |
 | More Fish in the Sea | 1.00% | ~65 |
 | Things that go Splash in the Night | 0.90% | ~59 |
+| Goldfish? | 0.80% | ~52 |
 | School's Out for Summer | 0.80% | ~52 |
-| Goldfish? | 0.70% | ~46 |
+| License to Gill | 0.70% | ~46 |
 | Going for Gold | 0.70% | ~46 |
-| License to Gill | 0.60% | ~39 |
 | I'm Hooked! | 0.50% | ~33 |
 | I'm the Captain Now | 0.20% | ~13 |
+| Marathon | 0.20% | ~13 |
 | Diamond in the Rough | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~7 |
@@ -28,7 +29,6 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.10% | ~7 |
 | The Beetles | 0.10% | ~7 |
 | Lake Me up Before You Go Go | 0.10% | ~7 |
-| Marathon | 0.10% | ~7 |
 | No Fin left to give | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Big Fish Small Pond | 0.10% | ~7 |

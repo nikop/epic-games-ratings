@@ -2,13 +2,13 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2019-02-15T16:00:00+00:00",
     "PcReleaseDate": "2019-02-15T11:00:00+00:00",
@@ -979,6 +979,6 @@
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
   "LastChanged": "2023-11-13T17:58:00.104867+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.0547865+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:56.3081635+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:04:26.9341159+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:58:53.0373326+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:04:40.8087511+00:00"
 }

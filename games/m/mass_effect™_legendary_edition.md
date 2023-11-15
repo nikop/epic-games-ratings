@@ -20,8 +20,8 @@
 | Charismatic | 49.00% | ~621 |
 | Soldier | 48.00% | ~609 |
 | Soldier Ally | 46.00% | ~583 |
+| Asari Ally | 46.00% | ~583 |
 | Medal of Exploration III | 45.00% | ~571 |
-| Asari Ally | 45.00% | ~571 |
 | Principled | 44.00% | ~558 |
 | Colonial Savior | 43.00% | ~545 |
 | Paramour I | 42.00% | ~533 |
@@ -39,8 +39,8 @@
 | The Archangel | 36.00% | ~456 |
 | Power Full | 35.00% | ~444 |
 | The Convict | 34.00% | ~431 |
+| Colony Defense | 33.00% | ~418 |
 | The Krogan | 33.00% | ~418 |
-| Colony Defense | 32.00% | ~406 |
 | Broke, Blind, and Bedlam | 32.00% | ~406 |
 | Ghost Ship | 31.00% | ~393 |
 | The Quarian | 31.00% | ~393 |
@@ -88,12 +88,12 @@
 | Lost and Found | 21.00% | ~266 |
 | Paramour II | 20.00% | ~254 |
 | Party Crasher | 20.00% | ~254 |
+| Problem Solver | 20.00% | ~254 |
+| Last Resort | 19.00% | ~241 |
 | Hard Target | 19.00% | ~241 |
 | Fact Finder | 19.00% | ~241 |
-| Problem Solver | 19.00% | ~241 |
 | Pyromaniac | 18.00% | ~228 |
 | Under Pressure | 18.00% | ~228 |
-| Last Resort | 18.00% | ~228 |
 | No One Left Behind | 18.00% | ~228 |
 | Saboteur | 18.00% | ~228 |
 | Last Witness | 18.00% | ~228 |

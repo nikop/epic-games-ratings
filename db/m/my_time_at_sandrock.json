@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1432,10 +1432,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1348,
       "NumberOfAwardsMax": 590
+    },
+    {
+      "Time": "2023-11-15T19:59:25.8488626+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1349,
+      "NumberOfAwardsMax": 590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1348,
+  "NumberOfAwards": 1349,
   "NumberOfAwardsMax": 590,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1491,7 +1497,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1520,7 +1526,7 @@
   ],
   "EOS_Progressed": 337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3060,17 +3066,17 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 251,
+      "Percentage": 252,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 849
     },
     {
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 189
     },
     {
       "ID": "M_COMMISSION",
@@ -3084,9 +3090,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 181,
+      "Percentage": 182,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 613
     },
     {
       "ID": "M_EXPAND",
@@ -3212,9 +3218,9 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 121,
+      "Percentage": 122,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 411
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -3228,9 +3234,9 @@
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "P_THEMEPARK",
@@ -3308,9 +3314,9 @@
       "ID": "S_GAMECOIN",
       "SetID": "80dcan0",
       "Name": "Pro Gamer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "S_GHOST",
@@ -3396,9 +3402,9 @@
       "ID": "S_WINTERSOLSTICE",
       "SetID": "80dcan0",
       "Name": "You Don\u0027t Win Friends With Salad",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "S_YAKMEL",
@@ -3412,9 +3418,9 @@
       "ID": "X_CHEST",
       "SetID": "80dcan0",
       "Name": "Unboxing",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "X_CLEAN",
@@ -3475,9 +3481,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2023-11-15T10:58:58.3388566+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:03:57.3170845+00:00",
+  "LastChanged": "2023-11-15T19:59:25.8488624+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:04:06.1611344+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.2013497+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:59:24.5803951+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:03:57.3171371+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:59:25.8488628+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:04:06.1612169+00:00"
 }

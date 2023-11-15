@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -3617,9 +3617,9 @@
       "ID": "achievement_115",
       "SetID": "d252ncf",
       "Name": "Last Resort",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_116",
@@ -3865,9 +3865,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 583
     },
     {
       "ID": "achievement_3",
@@ -3945,9 +3945,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_39",
@@ -4441,9 +4441,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 254
     },
     {
       "ID": "achievement_95",
@@ -4501,8 +4501,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:05:03.168413+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:05:21.2810324+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:03:16.1936022+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:05:03.1685789+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:02:58.5926918+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:05:21.2811984+00:00"
 }

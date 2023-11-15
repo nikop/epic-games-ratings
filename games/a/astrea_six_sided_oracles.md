@@ -57,12 +57,12 @@
 | Reflexive Mind | 4.00% | ~3 |
 | The Ardent Prince | 4.00% | ~3 |
 | The Raging Skies | 4.00% | ~3 |
+| Eridanian Mastery | 4.00% | ~3 |
 | Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Prestidigitation | 3.00% | ~2 |
 | Royal Choir | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
-| Eridanian Mastery | 3.00% | ~2 |
 | Anomaly Master | 1.00% | ~1 |
 | Arch-Oracle | 1.00% | ~1 |
 | Astral Tinkerer | 1.00% | ~1 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 455)  
+Progressed: 68 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |

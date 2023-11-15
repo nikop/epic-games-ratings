@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break Out | 2.00% | ~4 |
 | Powerful Allies | 2.00% | ~4 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Trinity | 2.00% | ~4 |
 | I Found It | 2.00% | ~4 |
-| Break Out | 1.00% | ~2 |
 | Find Allies | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
@@ -41,7 +41,7 @@
 | The Collector | -1.10% | ~-2 |
 | The Mentor | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 383)  
+Progressed: 188 (Ranked 382)  
 Completed: 1 (0.53%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 1 (0.53%) (Ranked 193)
 | 2023-11-12 | 183 | 1 |
 | 2023-11-13 | 185 | 1 |
 | 2023-11-14 | 186 | 1 |
-| 2023-11-15 | 187 | 1 |
+| 2023-11-15 | 188 | 1 |

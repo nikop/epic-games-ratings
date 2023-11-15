@@ -18,8 +18,8 @@
 | One last step | 19.00% | ~106 |
 | Peace walker | 18.00% | ~100 |
 | Cable guy | 18.00% | ~100 |
+| Champollion | 18.00% | ~100 |
 | In this together | 17.00% | ~95 |
-| Champollion | 17.00% | ~95 |
 | Open door | 16.00% | ~89 |
 | Feels like springtime | 16.00% | ~89 |
 | Alchemists Express | 16.00% | ~89 |

@@ -2,13 +2,13 @@
   "ID": "315f40c8c7ae4f95ad7426f364a39194",
   "Name": "Fangs",
   "ProductSlug": "fangs",
-  "Ranking_Rating": 957,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-30T18:00:00+00:00",
     "PcReleaseDate": "2022-11-30T18:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.11,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2022-12-07T16:57:36.8831311+00:00",
@@ -103,6 +103,12 @@
       "Rating": 4.11,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-15T20:00:34.3545+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -121,8 +127,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
   "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
-  "LastChanged": "2023-10-25T19:02:02.1906077+00:00",
+  "LastChanged": "2023-11-15T20:00:34.3544998+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:03.0468022+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:00:24.7567609+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:08:57.096123+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:00:34.3545006+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:08:59.3585997+00:00"
 }

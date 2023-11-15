@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19920,
+  "EOS_Progressed": 19921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6663,6 +6663,11 @@
       "Time": "2023-11-15T19:09:05.4703854+00:00",
       "NumProgressed": 19920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T20:09:08.7335154+00:00",
+      "NumProgressed": 19921,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -6707,7 +6712,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 14741
+      "UsersEstimate": 14742
     },
     {
       "ID": "achievement_14",
@@ -6715,7 +6720,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 8366
+      "UsersEstimate": 8367
     },
     {
       "ID": "achievement_15",
@@ -6731,7 +6736,7 @@
       "Name": "Heads Down",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "achievement_17",
@@ -6739,7 +6744,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "achievement_18",
@@ -6747,7 +6752,7 @@
       "Name": "Eager Beaver",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 9362
+      "UsersEstimate": 9363
     },
     {
       "ID": "achievement_19",
@@ -6771,7 +6776,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 18326
+      "UsersEstimate": 18327
     },
     {
       "ID": "achievement_21",
@@ -6842,13 +6847,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 19920,
+      "Progressed": 19921,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:09:05.470385+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:09:08.7335149+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.7937389+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:59:28.4612222+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:09:05.4704255+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:59:30.2994781+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:09:08.7335742+00:00"
 }

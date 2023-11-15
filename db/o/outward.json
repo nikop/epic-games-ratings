@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3660,
+  "EOS_Progressed": 3661,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5548,6 +5548,11 @@
       "Time": "2023-11-15T07:04:58.5370887+00:00",
       "NumProgressed": 3660,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-15T20:05:48.4535795+00:00",
+      "NumProgressed": 3661,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5751,7 +5756,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5759,7 +5764,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5894,15 +5899,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3660,
+      "Progressed": 3661,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:05:27.5990648+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:05:48.453579+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.5570436+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:59:55.4164722+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:05:27.5991079+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:00:00.4019003+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:05:48.453646+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -3313,9 +3313,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 287
+      "UsersEstimate": 295
     },
     {
       "ID": "LEVEL_008",
@@ -3450,8 +3450,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:03:40.3098401+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:03:47.163675+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:29.9992863+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:59:39.827095+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:03:40.3098736+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:59:42.9714153+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:03:47.1637111+00:00"
 }

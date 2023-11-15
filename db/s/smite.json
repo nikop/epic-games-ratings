@@ -2,13 +2,13 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
     "PcReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -9892,10 +9892,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 26783,
       "NumberOfAwardsMax": 4586
+    },
+    {
+      "Time": "2023-11-15T19:58:38.3280802+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 26786,
+      "NumberOfAwardsMax": 4586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26783,
+  "NumberOfAwards": 26786,
   "NumberOfAwardsMax": 4586,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9921,7 +9927,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3681
+      "Count": 3684
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9971,8 +9977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-11-15T17:59:01.8538073+00:00",
+  "LastChanged": "2023-11-15T19:58:38.3280801+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.1345203+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:43.4366601+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:03:58.6195538+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:58:38.3280806+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:04:07.4655555+00:00"
 }

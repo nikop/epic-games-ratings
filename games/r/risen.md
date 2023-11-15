@@ -21,18 +21,18 @@ Rating: 4.57 (Ranked 469)
 | Family man | 33.00% | ~13 |
 | Beast slayer | 33.00% | ~13 |
 | Idiot | 33.00% | ~13 |
+| Ogre friend | 31.00% | ~12 |
 | The fourth triplet | 31.00% | ~12 |
 | Master detective | 31.00% | ~12 |
-| Ogre friend | 28.00% | ~11 |
 | Hard worker | 28.00% | ~11 |
 | Death of a legend | 26.00% | ~10 |
 | Archaeologist | 26.00% | ~10 |
 | Little hero | 26.00% | ~10 |
 | Peacekeeper | 26.00% | ~10 |
+| Defender | 23.00% | ~9 |
 | Pandora's box | 23.00% | ~9 |
+| Ghost hunter | 23.00% | ~9 |
 | Sidelined | 23.00% | ~9 |
-| Defender | 21.00% | ~8 |
-| Ghost hunter | 21.00% | ~8 |
 | Workaholic | 21.00% | ~8 |
 | Safecracker | 18.00% | ~7 |
 | Fence | 18.00% | ~7 |

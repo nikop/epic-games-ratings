@@ -2,13 +2,13 @@
   "ID": "9e7e8e8f6a324e1183e9aa63cc901b9a",
   "Name": "Call of Cthulhu",
   "ProductSlug": "call-of-cthulhu-8e5446",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 773,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-22T22:00:00+00:00",
     "PcReleaseDate": "2018-10-29T23:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2022-10-03T16:01:44.7804788+00:00",
@@ -134,6 +134,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-15T19:58:16.941504+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -152,8 +158,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-24T13:06:25.3949128+00:00",
   "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
-  "LastChanged": "2023-10-27T18:58:14.5325824+00:00",
+  "LastChanged": "2023-11-15T19:58:16.9415038+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:49.1701507+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:58:24.9883204+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:06:25.0672879+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:58:16.9415044+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:06:50.7384956+00:00"
 }

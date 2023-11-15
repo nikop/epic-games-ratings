@@ -26,10 +26,10 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.80% | ~52 |
 | Amy: Scavenger Hunt | 0.70% | ~45 |
 | It Smells Like Roses | 0.70% | ~25 |
+| Stephanie | 0.70% | ~45 |
 | Vickie | 0.70% | ~45 |
 | Casanova | 0.60% | ~39 |
 | Now It's a Party! | 0.60% | ~39 |
-| Stephanie | 0.60% | ~39 |
 | The Magic Number | 0.60% | ~39 |
 | Te Amo Lety | 0.60% | ~39 |
 | I'll Be Back | 0.50% | ~32 |

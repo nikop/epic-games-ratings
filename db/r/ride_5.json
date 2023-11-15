@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2146,
+  "EOS_Progressed": 2147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4912,6 +4912,11 @@
       "Time": "2023-11-15T19:09:31.2417351+00:00",
       "NumProgressed": 2146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T20:09:36.9039441+00:00",
+      "NumProgressed": 2147,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4996,7 +5001,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5212,7 +5217,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5228,7 +5233,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5276,7 +5281,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5315,14 +5320,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2146,
+      "Progressed": 2147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:09:31.2417346+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:09:36.9039437+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:02:40.062042+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:09:31.2417996+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:02:40.3688679+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:09:36.9040055+00:00"
 }

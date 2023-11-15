@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14987,
+  "EOS_Progressed": 14990,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
@@ -11322,6 +11322,11 @@
       "Time": "2023-11-15T19:06:16.8507628+00:00",
       "NumProgressed": 14987,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-15T20:06:41.9207973+00:00",
+      "NumProgressed": 14990,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11350,7 +11355,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "12",
@@ -11438,7 +11443,7 @@
       "Name": "Drone Dodger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "22",
@@ -11486,7 +11491,7 @@
       "Name": "Bosmang",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "28",
@@ -11542,7 +11547,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "7",
@@ -11613,22 +11618,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14987,
+      "Progressed": 14990,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 941,
-      "Completed": 582
+      "Progressed": 944,
+      "Completed": 583
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-15T19:06:16.8507624+00:00",
+  "LastChanged_Achievements": "2023-11-15T20:06:41.9207968+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-15T19:02:44.6086112+00:00",
-  "LastUpdate_Achievements": "2023-11-15T19:06:16.8508478+00:00"
+  "LastUpdate_Ratings": "2023-11-15T20:02:45.5837425+00:00",
+  "LastUpdate_Achievements": "2023-11-15T20:06:41.9208924+00:00"
 }
