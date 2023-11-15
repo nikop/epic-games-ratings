@@ -4,8 +4,8 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 152,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -722,6 +722,11 @@
       "Time": "2023-11-13T00:06:30.7715938+00:00",
       "NumProgressed": 151,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T01:53:31.4247183+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -853,7 +858,7 @@
       "Name": "Pooshed Past 2500",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Poosh Past 5000",
@@ -867,9 +872,9 @@
       "ID": "Poosh Past 7500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 7500",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Poosh over 250000",
@@ -877,7 +882,7 @@
       "Name": "Pooshed over 250000",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Terrible Start",
@@ -892,13 +897,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 152,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:08:27.871568+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:53:31.4247181+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:30.7050881+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:57:30.6561807+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:08:27.8715835+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:44:15.2964092+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:53:31.4247351+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -23,10 +23,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 694,
-  "EOS_Completed": 5,
-  "EOS_NewPlayers": 140,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 138,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -1262,6 +1262,11 @@
       "Time": "2023-11-15T00:10:23.524938+00:00",
       "NumProgressed": 694,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-15T01:56:14.1831661+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -1288,9 +1293,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 479
     },
     {
       "ID": "EV_ACH04",
@@ -1504,9 +1509,9 @@
       "ID": "EV_ACH30",
       "SetID": "6jeac23",
       "Name": "Braum\u0027s Poro Ranch",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "EV_ACH31",
@@ -1528,9 +1533,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 486
     },
     {
       "ID": "EV_ACH34",
@@ -1600,9 +1605,9 @@
       "ID": "EV_ACH42",
       "SetID": "6jeac23",
       "Name": "Deadliest and Biggest Snowball Ever!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 250
     },
     {
       "ID": "EV_ACH43",
@@ -1626,13 +1631,13 @@
       "ID": "6jeac23",
       "IsBase": true,
       "Progressed": 694,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:10:23.5249377+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:56:14.1831656+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:03:19.5345321+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:10:23.5249811+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:49:51.5692791+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:56:14.1832009+00:00"
 }

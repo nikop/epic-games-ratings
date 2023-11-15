@@ -11,15 +11,15 @@ Number of Ratings: 25  (23.09.2022)
 | Learner | 92.00% | ~567 |
 | Economical | 92.00% | ~567 |
 | Devout | 89.00% | ~548 |
-| The Love Martyr | 87.00% | ~536 |
-| Frugal | 85.00% | ~524 |
+| The Love Martyr | 88.00% | ~542 |
+| Frugal | 86.00% | ~530 |
 | Dilligent | 83.00% | ~511 |
 | I... I did it? | 81.00% | ~499 |
-| Adored | 76.00% | ~468 |
+| Adored | 77.00% | ~474 |
 | The Hobbyist | 66.00% | ~407 |
 | A Forked Tongue | 56.00% | ~345 |
 | The Admirer | 53.00% | ~326 |
-| Between Two Fires | 51.00% | ~314 |
+| Between Two Fires | 52.00% | ~320 |
 | Precious | 46.00% | ~283 |
 | Devoted | 42.00% | ~259 |
 | The Farmer | 40.00% | ~246 |

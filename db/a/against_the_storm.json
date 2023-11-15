@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3221,9 +3221,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17309,
+  "EOS_Progressed": 17310,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13551,6 +13551,11 @@
       "Time": "2023-11-14T20:06:35.1643743+00:00",
       "NumProgressed": 17309,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-15T01:52:32.6071513+00:00",
+      "NumProgressed": 17310,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 50,
@@ -13698,7 +13703,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinNearCrystals",
@@ -13706,7 +13711,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinNearDangerous",
@@ -13778,7 +13783,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinNearRuins",
@@ -13786,7 +13791,7 @@
       "Name": "Lost Colonies",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinNearStatue",
@@ -13818,7 +13823,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinOnCoral",
@@ -13874,7 +13879,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinWIthCaches",
@@ -13930,7 +13935,7 @@
       "Name": "Trade Baron",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "WinWithoutDeath",
@@ -13961,15 +13966,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17309,
+      "Progressed": 17310,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-11T20:04:57.3720777+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:07:05.4323391+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:52:32.6071509+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:36.8089567+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:59:35.8308086+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:07:05.4324114+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:45:41.8888201+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:52:32.6072166+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_Rating": 87,
+  "Ranking_Rating": 86,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 167,
@@ -131,11 +131,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8207,
-  "EOS_Completed": 128,
-  "EOS_NewPlayers": 874,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 1.56,
+  "EOS_Progressed": 8208,
+  "EOS_Completed": 129,
+  "EOS_NewPlayers": 869,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -3361,6 +3361,11 @@
       "Time": "2023-11-14T22:06:02.6955395+00:00",
       "NumProgressed": 8207,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-11-15T01:53:03.89267+00:00",
+      "NumProgressed": 8208,
+      "NumCompleted": 129
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -3381,7 +3386,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 7222
+      "UsersEstimate": 7223
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -3405,7 +3410,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -3469,7 +3474,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -3517,7 +3522,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -3525,7 +3530,7 @@
       "Name": "Still Single",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -3557,7 +3562,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 5663
+      "UsersEstimate": 5664
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -3581,7 +3586,7 @@
       "Name": "What I Want Is You",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 5170
+      "UsersEstimate": 5171
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -3589,7 +3594,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -3621,7 +3626,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -3645,7 +3650,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -3708,16 +3713,16 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 8207,
-      "Completed": 128
+      "Progressed": 8208,
+      "Completed": 129
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-12T14:00:10.4470311+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:07:49.0500493+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:53:03.8926697+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:07.5168381+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:58:27.5110557+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:07:49.0500908+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:44:54.6986026+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:53:03.8927033+00:00"
 }

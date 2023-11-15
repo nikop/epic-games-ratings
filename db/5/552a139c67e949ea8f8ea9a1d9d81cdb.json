@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1064,
+  "EOS_Progressed": 1065,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -2137,6 +2137,11 @@
       "Time": "2023-11-15T00:05:44.2975698+00:00",
       "NumProgressed": 1064,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T01:51:35.3309336+00:00",
+      "NumProgressed": 1065,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2149,7 +2154,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2181,7 +2186,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2213,7 +2218,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2285,7 +2290,7 @@
       "Name": "International license",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -2403,9 +2408,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 490
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2485,27 +2490,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1064,
+      "Progressed": 1065,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 732,
-      "Completed": 732
+      "Progressed": 733,
+      "Completed": 733
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:05:44.2975693+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:51:35.3309332+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:02:48.6109265+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:05:44.2976109+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:47:31.5320552+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:51:35.3309661+00:00"
 }

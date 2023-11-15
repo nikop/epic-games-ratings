@@ -9,7 +9,7 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Returning Home | 49.00% | ~2,736 |
 | Returning Home: Quick Learner | 26.00% | ~1,452 |
 | Level: Charlie's Circuits | 22.00% | ~1,228 |
-| Level: Rising Markets | 9.00% | ~502 |
+| Level: Rising Markets | 9.00% | ~503 |
 | Peddler | 8.00% | ~447 |
 | Level: Extra Life | 7.00% | ~391 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~391 |
@@ -20,10 +20,10 @@ Number of Ratings: 75  (23.09.2022)
 | High Five! | 4.00% | ~223 |
 | Modular Progress | 4.00% | ~223 |
 | Speedy | 4.00% | ~223 |
-| Campaign: Lesson Learned | 3.00% | ~167 |
-| Level: Bet On Bots | 3.00% | ~167 |
-| Modular Performance | 3.00% | ~167 |
-| Salesperson | 3.00% | ~167 |
+| Campaign: Lesson Learned | 3.00% | ~168 |
+| Level: Bet On Bots | 3.00% | ~168 |
+| Modular Performance | 3.00% | ~168 |
+| Salesperson | 3.00% | ~168 |
 | Level: Merry-Go-Around | 2.00% | ~112 |
 | Charlies's Circuits: Artist | 2.00% | ~112 |
 | Modular Peak | 2.00% | ~112 |
@@ -46,9 +46,9 @@ Number of Ratings: 75  (23.09.2022)
 | Tycoon | 0.90% | ~50 |
 | Bet On Bots: Safety First | 0.80% | ~45 |
 | Merry-Go-Around: Self-Made | 0.70% | ~39 |
-| Level: Eye In The Sky | 0.60% | ~33 |
-| Bet On Bots: Inspector's Favorite | 0.60% | ~33 |
-| Trendsetter | 0.60% | ~33 |
+| Level: Eye In The Sky | 0.60% | ~34 |
+| Bet On Bots: Inspector's Favorite | 0.60% | ~34 |
+| Trendsetter | 0.60% | ~34 |
 | Level: Heating-Up | 0.50% | ~28 |
 | CEO | 0.50% | ~28 |
 | Campaign: Man vs. Machine | 0.40% | ~22 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,583 (Ranked 182)  
+Progressed: 5,584 (Ranked 182)  
 Completed: 1 (0.02%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 1 (0.02%) (Ranked 320)
 | 2023-11-12 | 5,578 | 1 |
 | 2023-11-13 | 5,580 | 1 |
 | 2023-11-14 | 5,583 | 1 |
+| 2023-11-15 | 5,584 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

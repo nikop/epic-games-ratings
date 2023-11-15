@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1365,9 +1365,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6006,
+  "EOS_Progressed": 6007,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12915,6 +12915,11 @@
       "Time": "2023-11-14T23:10:17.6046037+00:00",
       "NumProgressed": 6006,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T01:56:19.669225+00:00",
+      "NumProgressed": 6007,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12942,7 +12947,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -13046,7 +13051,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -13054,7 +13059,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -13086,7 +13091,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13198,7 +13203,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -13245,15 +13250,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6006,
+      "Progressed": 6007,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-14T04:59:03.2386082+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:10:30.269361+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:56:19.6692247+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:00:51.2990664+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:10:30.2694394+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:46:33.2879356+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:56:19.6693081+00:00"
 }

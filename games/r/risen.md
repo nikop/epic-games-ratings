@@ -40,9 +40,9 @@ Rating: 4.57 (Ranked 470)
 | Master thief | 16.00% | ~6 |
 | Showdown | 13.00% | ~5 |
 | Moneybags | 13.00% | ~5 |
+| The traveler | 11.00% | ~4 |
 | Titan Lord | 11.00% | ~4 |
 | King of the handymen | 11.00% | ~4 |
-| The traveler | 8.00% | ~3 |
 | Terror of the hens | 8.00% | ~3 |
 | Expert | 8.00% | ~3 |
 | King Midas | 8.00% | ~3 |

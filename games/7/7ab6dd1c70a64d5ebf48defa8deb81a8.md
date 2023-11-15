@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fashion Victim | 2.00% | ~4 |
+| I Found It | 2.00% | ~4 |
 | Powerful Allies | 1.00% | ~2 |
 | Calm before the Storm | 1.00% | ~2 |
 | Clear Sight | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
 | Scholar | 1.00% | ~2 |
-| I Found It | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Find Allies | 0.50% | ~1 |
 | Trinity | 0.50% | ~1 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 382)  
-Completed: 1 (0.54%) (Ranked 192)  
+Progressed: 187 (Ranked 381)  
+Completed: 1 (0.53%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,3 +79,4 @@ Completed: 1 (0.54%) (Ranked 192)
 | 2023-11-12 | 183 | 1 |
 | 2023-11-13 | 185 | 1 |
 | 2023-11-14 | 186 | 1 |
+| 2023-11-15 | 187 | 1 |

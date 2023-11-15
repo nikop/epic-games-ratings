@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40588,
+  "EOS_Progressed": 40590,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22022,6 +22022,11 @@
       "Time": "2023-11-15T00:04:12.1893243+00:00",
       "NumProgressed": 40588,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-15T01:50:28.9378404+00:00",
+      "NumProgressed": 40590,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22241,7 +22246,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "ach_legacysalvager",
@@ -22361,7 +22366,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ach_stranger",
@@ -22464,15 +22469,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40588,
+      "Progressed": 40590,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:04:12.1893239+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:50:28.93784+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:15.1182628+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:59:47.6817553+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:04:12.18945+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:45:50.6143992+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:50:28.9379784+00:00"
 }

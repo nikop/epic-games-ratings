@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -165,9 +165,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 962,
+  "EOS_Progressed": 963,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2365,6 +2365,11 @@
       "Time": "2023-11-15T00:04:07.8396853+00:00",
       "NumProgressed": 962,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T01:50:25.7246817+00:00",
+      "NumProgressed": 963,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2385,7 +2390,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 93,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "AC02",
@@ -2393,7 +2398,7 @@
       "Name": "Blood and Dust",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "AC03",
@@ -2401,7 +2406,7 @@
       "Name": "Blood and Gold",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "AC04",
@@ -2415,9 +2420,9 @@
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 673
+      "UsersEstimate": 664
     },
     {
       "ID": "AC06",
@@ -2425,7 +2430,7 @@
       "Name": "The Last Ascension",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "AC07",
@@ -2441,7 +2446,7 @@
       "Name": "Forged in Fire",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "AC09",
@@ -2449,7 +2454,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "AC10",
@@ -2521,7 +2526,7 @@
       "Name": "Acquired Taste",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "AC19",
@@ -2529,7 +2534,7 @@
       "Name": "Soledad",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "AC20",
@@ -2553,7 +2558,7 @@
       "Name": "Empty Handed",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "AC23",
@@ -2569,7 +2574,7 @@
       "Name": "The Work of a Master",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "AC25",
@@ -2577,7 +2582,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "AC26",
@@ -2631,17 +2636,17 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 376
     },
     {
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 607
     },
     {
       "ID": "AC34",
@@ -2695,9 +2700,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 819
     },
     {
       "ID": "AC41",
@@ -2729,7 +2734,7 @@
       "Name": "This is Blasphemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC45",
@@ -2744,7 +2749,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 0
     }
   ],
@@ -2752,8 +2757,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:04:07.8396849+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:50:25.7246814+00:00",
   "LastUpdate_AppInfo": "2023-11-14T23:57:14.807598+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:01:18.9475846+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:04:07.8397234+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:46:51.3882851+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:50:25.7247226+00:00"
 }

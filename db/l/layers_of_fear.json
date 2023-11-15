@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "decrypt_one_myth",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:06:20.4627354+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:52:01.3182765+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:00:00.0911177+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:06:20.4627729+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:45:59.0108671+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:52:01.3183129+00:00"
 }

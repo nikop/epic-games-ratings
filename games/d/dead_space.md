@@ -5,20 +5,20 @@ Rating: 4.64 (Ranked 332)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,673 |
-| Welcome Aboard | 84.00% | ~1,511 |
-| Lab Rat | 75.00% | ~1,349 |
-| All Systems Go | 66.00% | ~1,187 |
-| Brute Force | 65.00% | ~1,169 |
-| Cannon Fodder | 60.00% | ~1,079 |
-| Autofire | 58.00% | ~1,043 |
-| Raise the Stakes | 56.00% | ~1,007 |
-| True Believer | 56.00% | ~1,007 |
-| Story Teller | 55.00% | ~989 |
-| Surgeon | 52.00% | ~935 |
-| Freeze | 51.00% | ~917 |
-| Exterminator | 51.00% | ~917 |
-| Greenhouse Effect | 51.00% | ~917 |
+| Marksman | 93.00% | ~1,674 |
+| Welcome Aboard | 85.00% | ~1,530 |
+| Lab Rat | 75.00% | ~1,350 |
+| All Systems Go | 66.00% | ~1,188 |
+| Brute Force | 65.00% | ~1,170 |
+| Cannon Fodder | 60.00% | ~1,080 |
+| Autofire | 58.00% | ~1,044 |
+| Raise the Stakes | 56.00% | ~1,008 |
+| True Believer | 56.00% | ~1,008 |
+| Story Teller | 55.00% | ~990 |
+| Surgeon | 52.00% | ~936 |
+| Freeze | 51.00% | ~918 |
+| Exterminator | 51.00% | ~918 |
+| Greenhouse Effect | 51.00% | ~918 |
 | Full Arsenal | 45.00% | ~810 |
 | S.O.S. | 45.00% | ~810 |
 | Get Off My Ship! | 43.00% | ~774 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 332)
 | Untouchable | 2.00% | ~36 |
 | One Gun | 2.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,799 (Ranked 225)  
+Progressed: 1,800 (Ranked 225)  
 Completed: 9 (0.50%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 9 (0.50%) (Ranked 197)
 | 2023-11-12 | 1,759 | 8 |
 | 2023-11-13 | 1,779 | 8 |
 | 2023-11-14 | 1,798 | 9 |
-| 2023-11-15 | 1,799 | 9 |
+| 2023-11-15 | 1,800 | 9 |
 ## Awards
 Max (Great Boss Battles): 110  (Ranked 348)  
 Sum: 110 (Ranked 437)  

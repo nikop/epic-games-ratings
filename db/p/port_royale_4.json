@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2970,9 +2970,9 @@
       "ID": "ACH030",
       "SetID": "69nfp41",
       "Name": "Walk the plank",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH031",
@@ -3138,8 +3138,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:05:34.8650927+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:51:28.3804515+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.0023043+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:57:51.493881+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:05:34.8651296+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:44:29.7799669+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:51:28.3804957+00:00"
 }

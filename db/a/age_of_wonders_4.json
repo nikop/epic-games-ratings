@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5391,
+  "EOS_Progressed": 5392,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7104,6 +7104,11 @@
       "Time": "2023-11-14T21:04:32.6411877+00:00",
       "NumProgressed": 5391,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T01:51:44.2919583+00:00",
+      "NumProgressed": 5392,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7521,9 +7526,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "53",
@@ -7594,13 +7599,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5391,
+      "Progressed": 5392,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5391,
+      "Progressed": 5392,
       "Completed": 7
     }
   ],
@@ -7608,8 +7613,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:05:56.8113262+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:51:44.291958+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:58:14.060491+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:05:56.8113922+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:44:45.3192728+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:51:44.2920208+00:00"
 }

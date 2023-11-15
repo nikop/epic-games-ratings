@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6457,
+  "EOS_Progressed": 6460,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6192,6 +6192,11 @@
       "Time": "2023-11-14T21:06:11.6151025+00:00",
       "NumProgressed": 6457,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T01:53:27.9305723+00:00",
+      "NumProgressed": 6460,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6379,7 +6384,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "GoodRiddance",
@@ -6754,21 +6759,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3496,
+      "Progressed": 3499,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6457,
+      "Progressed": 6460,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:08:22.7470914+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:53:27.9305721+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:26.4902996+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:59:20.3647968+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:08:22.7471821+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:45:31.4710092+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:53:27.9306379+00:00"
 }

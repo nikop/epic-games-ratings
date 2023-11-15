@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 3067,
+  "EOS_Progressed": 3068,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5729,6 +5729,11 @@
       "Time": "2023-11-13T03:03:11.7225814+00:00",
       "NumProgressed": 3067,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T01:51:01.0444111+00:00",
+      "NumProgressed": 3068,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -5844,7 +5849,7 @@
       "Name": "Go with the Flow",
       "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -6044,7 +6049,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -6123,15 +6128,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3067,
+      "Progressed": 3068,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-14T23:59:21.0037965+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:04:56.7976866+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:51:01.0444109+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:27.8412507+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:59:21.0037969+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:04:56.7977312+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:45:31.8633071+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:51:01.0444518+00:00"
 }

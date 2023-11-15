@@ -5,17 +5,17 @@ Rating: 4.12 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,158 |
+| Victor | 93.00% | ~2,159 |
 | World Map | 78.00% | ~1,810 |
-| Temple of Eternals | 57.00% | ~1,322 |
+| Temple of Eternals | 57.00% | ~1,323 |
 | Prestigious | 54.00% | ~1,253 |
-| Fellowship Power | 42.00% | ~974 |
+| Fellowship Power | 42.00% | ~975 |
 | Guild Power | 25.00% | ~580 |
-| Prestigious x10 | 22.00% | ~510 |
+| Prestigious x10 | 22.00% | ~511 |
 | The game is on | 20.00% | ~464 |
 | Exotic Merchant | 18.00% | ~418 |
-| Dragon Clicker | 17.00% | ~394 |
-| Miner Clicker | 17.00% | ~394 |
+| Dragon Clicker | 17.00% | ~395 |
+| Miner Clicker | 17.00% | ~395 |
 | Full Party | 16.00% | ~371 |
 | Inspection | 16.00% | ~371 |
 | Dragon Master | 15.00% | ~348 |
@@ -27,7 +27,7 @@ Rating: 4.12 (Ranked 956)
 | Mysterious Rock | 13.00% | ~302 |
 | Natural Talent | 13.00% | ~302 |
 | Superior | 13.00% | ~302 |
-| Scientist | 12.00% | ~278 |
+| Scientist | 12.00% | ~279 |
 | Doing My Part | 11.00% | ~255 |
 | Hunter | 11.00% | ~255 |
 | Mastery | 11.00% | ~255 |
@@ -45,9 +45,9 @@ Rating: 4.12 (Ranked 956)
 | Trader | 9.00% | ~209 |
 | Crystal Mining | 8.00% | ~186 |
 | Dragon Slayer | 8.00% | ~186 |
-| Enchanting skill | 8.00% | ~186 |
 | Weekly Quest Completionist | 8.00% | ~186 |
 | Blueprint Upgrades | 7.00% | ~162 |
+| Enchanting skill | 7.00% | ~162 |
 | Engineer Mastery | 7.00% | ~162 |
 | Lock And Load | 7.00% | ~162 |
 | Sailor | 7.00% | ~162 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 956)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,320 (Ranked 213)  
+Progressed: 2,321 (Ranked 213)  
 Completed: 2 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,6 +285,7 @@ Completed: 2 (0.09%) (Ranked 281)
 | 2023-11-12 | 2,269 | 2 |
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
+| 2023-11-15 | 2,321 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 80 (Ranked 456)  

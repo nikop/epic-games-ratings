@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 6.00% | ~919 |
+| Play a Single Player Game | 6.00% | ~920 |
 | Explorer | 5.00% | ~766 |
 | Settler | 5.00% | ~766 |
 | Friendly Family | 5.00% | ~766 |
@@ -37,42 +37,42 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~460 |
 | Naming Landmarks | 3.00% | ~460 |
 | Trade Caravan | 3.00% | ~460 |
-| Regicide | 2.00% | ~306 |
-| Drillmaster | 2.00% | ~306 |
-| Brilliant | 2.00% | ~306 |
-| Fountainhead | 2.00% | ~306 |
-| Great | 2.00% | ~306 |
-| Intercessor | 2.00% | ~306 |
-| Magnificent | 2.00% | ~306 |
-| Mighty | 2.00% | ~306 |
-| Valiant | 2.00% | ~306 |
-| Victorious | 2.00% | ~306 |
-| Wise | 2.00% | ~306 |
-| Legendary Cities | 2.00% | ~306 |
-| Able Difficulty | 2.00% | ~306 |
-| Just Difficulty | 2.00% | ~306 |
-| Artisans | 2.00% | ~306 |
-| Champions | 2.00% | ~306 |
-| Sages | 2.00% | ~306 |
-| Furious Family | 2.00% | ~306 |
-| Acropolis | 2.00% | ~306 |
-| Apadana | 2.00% | ~306 |
-| Colossus | 2.00% | ~306 |
-| Great Ziggurat | 2.00% | ~306 |
-| Lighthouse | 2.00% | ~306 |
-| Musaeum | 2.00% | ~306 |
-| Necropolis | 2.00% | ~306 |
-| Learn to Play 1 | 2.00% | ~306 |
-| Learn to Play 2 | 2.00% | ~306 |
-| Manichaeism | 2.00% | ~306 |
-| Carthaginian Paganism | 2.00% | ~306 |
-| Egyptian Paganism | 2.00% | ~306 |
-| Roman Paganism | 2.00% | ~306 |
-| Zoroastrianism | 2.00% | ~306 |
-| Mythology | 2.00% | ~306 |
-| Win a Single Player Game | 2.00% | ~306 |
-| Kushite Pyramids | 2.00% | ~306 |
-| Kushite Paganism | 2.00% | ~306 |
+| Regicide | 2.00% | ~307 |
+| Drillmaster | 2.00% | ~307 |
+| Brilliant | 2.00% | ~307 |
+| Fountainhead | 2.00% | ~307 |
+| Great | 2.00% | ~307 |
+| Intercessor | 2.00% | ~307 |
+| Magnificent | 2.00% | ~307 |
+| Mighty | 2.00% | ~307 |
+| Valiant | 2.00% | ~307 |
+| Victorious | 2.00% | ~307 |
+| Wise | 2.00% | ~307 |
+| Legendary Cities | 2.00% | ~307 |
+| Able Difficulty | 2.00% | ~307 |
+| Just Difficulty | 2.00% | ~307 |
+| Artisans | 2.00% | ~307 |
+| Champions | 2.00% | ~307 |
+| Sages | 2.00% | ~307 |
+| Furious Family | 2.00% | ~307 |
+| Acropolis | 2.00% | ~307 |
+| Apadana | 2.00% | ~307 |
+| Colossus | 2.00% | ~307 |
+| Great Ziggurat | 2.00% | ~307 |
+| Lighthouse | 2.00% | ~307 |
+| Musaeum | 2.00% | ~307 |
+| Necropolis | 2.00% | ~307 |
+| Learn to Play 1 | 2.00% | ~307 |
+| Learn to Play 2 | 2.00% | ~307 |
+| Manichaeism | 2.00% | ~307 |
+| Carthaginian Paganism | 2.00% | ~307 |
+| Egyptian Paganism | 2.00% | ~307 |
+| Roman Paganism | 2.00% | ~307 |
+| Zoroastrianism | 2.00% | ~307 |
+| Mythology | 2.00% | ~307 |
+| Win a Single Player Game | 2.00% | ~307 |
+| Kushite Pyramids | 2.00% | ~307 |
+| Kushite Paganism | 2.00% | ~307 |
 | Hanging Gardens in Babylon | 1.00% | ~153 |
 | Beloved | 1.00% | ~153 |
 | Capable | 1.00% | ~153 |
@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
 | Magnificent Difficulty | 0.40% | ~61 |
+| The Eternal Treaty | 0.40% | ~61 |
 | Run, Pheidippides, Run! | 0.40% | ~61 |
 | Assyria | 0.40% | ~61 |
 | Hatti | 0.40% | ~61 |
@@ -171,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
 | Great Difficulty | 0.30% | ~46 |
-| The Eternal Treaty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
@@ -193,6 +193,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
 | Medo-Babylonian Conquest | 0.20% | ~31 |
+| Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Randomized Leaders | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
@@ -283,7 +284,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.10% | ~15 |
 | Play a MP Teams Game | 0.10% | ~15 |
 | Play a Play-By-Cloud Game | 0.10% | ~15 |
-| Punic Wars | 0.10% | ~15 |
 | Colossus in Rhodes | 0.10% | ~15 |
 | Roman Papacy | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,324 (Ranked 146)  
+Progressed: 15,326 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,6 +558,7 @@ Completed: 5 (0.03%) (Ranked 314)
 | 2023-11-12 | 15,291 | 5 |
 | 2023-11-13 | 15,305 | 5 |
 | 2023-11-14 | 15,324 | 5 |
+| 2023-11-15 | 15,326 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

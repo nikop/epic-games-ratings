@@ -11,8 +11,8 @@
 | Video Saved The Radio Star | 39.00% | ~93 |
 | Hashtag Winning | 37.00% | ~88 |
 | A Woman Scorned | 28.00% | ~67 |
-| Chameleon | 21.00% | ~50 |
-| Look Mum I'm A Detective | 20.00% | ~48 |
+| Chameleon | 22.00% | ~52 |
+| Look Mum I'm A Detective | 21.00% | ~50 |
 | Highlander | 18.00% | ~43 |
 | Book 'em Danny | 13.00% | ~31 |
 | Poetent | 13.00% | ~31 |
@@ -27,7 +27,7 @@
 | Bullseye | 4.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 238 (Ranked 362)  
-Completed: 2 (0.84%) (Ranked 170)  
+Completed: 2 (0.84%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

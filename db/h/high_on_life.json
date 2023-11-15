@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24480,
+  "EOS_Progressed": 24481,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6643,6 +6643,11 @@
       "Time": "2023-11-14T02:22:34.0554639+00:00",
       "NumProgressed": 24480,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-15T01:50:35.3971652+00:00",
+      "NumProgressed": 24481,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6780,9 +6785,9 @@
       "ID": "ACH_KILL_9TORG",
       "SetID": "cdkbb11",
       "Name": "First Bounty Down",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 734
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -7005,13 +7010,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24480,
+      "Progressed": 24481,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1773,
+      "Progressed": 1774,
       "Completed": 1376
     }
   ],
@@ -7019,8 +7024,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:04:21.2969474+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:50:35.397165+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.3548849+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:00:40.5493107+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:04:21.2970054+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:46:26.0485066+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:50:35.3972268+00:00"
 }

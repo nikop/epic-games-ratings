@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8692,10 +8692,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15269,
       "NumberOfAwardsMax": 7383
+    },
+    {
+      "Time": "2023-11-15T01:46:27.5921023+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15270,
+      "NumberOfAwardsMax": 7383
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15269,
+  "NumberOfAwards": 15270,
   "NumberOfAwardsMax": 7383,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8709,7 +8715,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 923
+      "Count": 924
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8772,7 +8778,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65108,
+  "EOS_Progressed": 65110,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
@@ -30687,6 +30693,11 @@
       "Time": "2023-11-15T00:10:12.5251693+00:00",
       "NumProgressed": 65108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T01:56:06.7295956+00:00",
+      "NumProgressed": 65110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30706,7 +30717,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10417
+      "UsersEstimate": 10418
     },
     {
       "ID": "Bannerlord",
@@ -30754,7 +30765,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "Crackshot",
@@ -30770,7 +30781,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "Duelist",
@@ -30866,7 +30877,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10417
+      "UsersEstimate": 10418
     },
     {
       "ID": "I spit on your grave",
@@ -30890,7 +30901,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11719
+      "UsersEstimate": 11720
     },
     {
       "ID": "Kingslayer",
@@ -30930,7 +30941,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26043
+      "UsersEstimate": 26044
     },
     {
       "ID": "Lawmaker",
@@ -30978,7 +30989,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "Real Estate",
@@ -31105,15 +31116,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65108,
+      "Progressed": 65110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-14T18:59:22.3665484+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:10:12.5251686+00:00",
+  "LastChanged": "2023-11-15T01:46:27.5921021+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:56:06.7295953+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:00:42.8053152+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:10:12.525345+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:46:27.5921027+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:56:06.7297059+00:00"
 }

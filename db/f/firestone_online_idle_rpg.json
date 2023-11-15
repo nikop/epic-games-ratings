@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -469,9 +469,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2320,
+  "EOS_Progressed": 2321,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7059,6 +7059,11 @@
       "Time": "2023-11-14T23:09:11.6251028+00:00",
       "NumProgressed": 2320,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T01:55:30.7773979+00:00",
+      "NumProgressed": 2321,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7174,7 +7179,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "dragonmaster",
@@ -7204,9 +7209,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 162
     },
     {
       "ID": "enchantingskillx5",
@@ -7254,7 +7259,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "fourleafclover",
@@ -7406,7 +7411,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "missionsdedication",
@@ -7470,7 +7475,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "relicofthepast",
@@ -7494,7 +7499,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "scrollmaster",
@@ -7526,7 +7531,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "thealchemist",
@@ -7630,7 +7635,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "warmachinesarmy",
@@ -7669,7 +7674,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2320,
+      "Progressed": 2321,
       "Completed": 2
     }
   ],
@@ -7677,8 +7682,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-12T10:58:26.0075516+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:09:22.6623297+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:55:30.7773977+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T00:01:07.6078039+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:09:22.6624049+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:46:43.9461801+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:55:30.7774726+00:00"
 }

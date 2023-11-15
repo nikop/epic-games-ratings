@@ -7,9 +7,9 @@
 | Feels Familiar | 77.00% | ~534 |
 | I Broke It | 73.00% | ~507 |
 | Better On Ice | 70.00% | ~486 |
+| Notai Notes | 70.00% | ~486 |
 | Blue Dreams | 69.00% | ~479 |
-| Notai Notes | 69.00% | ~479 |
-| He's Famous! | 68.00% | ~472 |
+| He's Famous! | 69.00% | ~479 |
 | Krugmazing | 67.00% | ~465 |
 | Cutie Poro | 67.00% | ~465 |
 | The Fire Below the Mountain | 64.00% | ~444 |
@@ -32,8 +32,8 @@
 | Biggest Snowball Ever | 36.00% | ~250 |
 | Freeze The Ice Witch | 36.00% | ~250 |
 | Bullseye | 36.00% | ~250 |
+| Deadliest and Biggest Snowball Ever! | 36.00% | ~250 |
 | On The Rocks | 35.00% | ~243 |
-| Deadliest and Biggest Snowball Ever! | 35.00% | ~243 |
 | It Is Not Over | 34.00% | ~236 |
 | Snowy Poro | 32.00% | ~222 |
 | Never Gets Old | 32.00% | ~222 |
@@ -44,13 +44,13 @@
 | It Was Him | 8.00% | ~56 |
 | Handy Yeti | 7.00% | ~49 |
 | The Pied Piper Of Freljord | 6.00% | ~42 |
-| Braum's Poro Ranch | 3.00% | ~21 |
+| Braum's Poro Ranch | 4.00% | ~28 |
 | Sneaky Notai | 2.00% | ~14 |
 | Rock Star | 2.00% | ~14 |
 | We Are Speed | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 694 (Ranked 277)  
-Completed: 5 (0.72%) (Ranked 176)  
+Completed: 6 (0.86%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,4 +75,4 @@ Completed: 5 (0.72%) (Ranked 176)
 | 2023-11-12 | 667 | 5 |
 | 2023-11-13 | 681 | 5 |
 | 2023-11-14 | 693 | 5 |
-| 2023-11-15 | 694 | 5 |
+| 2023-11-15 | 694 | 6 |

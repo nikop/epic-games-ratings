@@ -8,16 +8,16 @@ Rating: 4.50 (Ranked 588)
 | Stylish | 8.00% | ~2,481 |
 | Advancement | 6.00% | ~1,861 |
 | Meticulously Efficient | 6.00% | ~1,861 |
-| Discovery | 5.00% | ~1,550 |
-| Swift Rift Removers | 5.00% | ~1,550 |
-| Clutch Capture | 4.00% | ~1,240 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,240 |
-| Fully Upgraded | 4.00% | ~1,240 |
-| Solo Capture | 4.00% | ~1,240 |
-| Teamwork | 4.00% | ~1,240 |
-| There you are! | 4.00% | ~1,240 |
-| Vaporous Expansion | 4.00% | ~1,240 |
-| Whoopsie | 4.00% | ~1,240 |
+| Discovery | 5.00% | ~1,551 |
+| Swift Rift Removers | 5.00% | ~1,551 |
+| Clutch Capture | 4.00% | ~1,241 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,241 |
+| Fully Upgraded | 4.00% | ~1,241 |
+| Solo Capture | 4.00% | ~1,241 |
+| Teamwork | 4.00% | ~1,241 |
+| There you are! | 4.00% | ~1,241 |
+| Vaporous Expansion | 4.00% | ~1,241 |
+| Whoopsie | 4.00% | ~1,241 |
 | Animated | 3.00% | ~930 |
 | Cultured | 3.00% | ~930 |
 | Daily Dose | 3.00% | ~930 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,009 (Ranked 122)  
+Progressed: 31,013 (Ranked 122)  
 Completed: 68 (0.22%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 68 (0.22%) (Ranked 244)
 | 2023-11-12 | 30,897 | 67 |
 | 2023-11-13 | 30,946 | 68 |
 | 2023-11-14 | 31,007 | 68 |
-| 2023-11-15 | 31,009 | 68 |
+| 2023-11-15 | 31,013 | 68 |
 ## Awards
 Max (Great for Beginners): 315  (Ranked 247)  
-Sum: 2,790 (Ranked 179)  
+Sum: 2,791 (Ranked 179)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -278,7 +278,7 @@ Diff (max vs sum): 68
 | This game has Diverse Characters | 289 |
 | This game has Amazing Storytelling | 278 |
 | This game is Highly Recommended | 276 |
-| This game has Competitive Players | 275 |
+| This game has Competitive Players | 276 |
 | This game is Relaxing | 270 |
 | This game is Extremely Fun | 268 |
 | This game has Amazing Characters | 257 |
@@ -500,3 +500,4 @@ Diff (max vs sum): 68
 | 2023-11-12 | 4.50 | 311 | 2,764 |
 | 2023-11-13 | 4.50 | 313 | 2,783 |
 | 2023-11-14 | 4.50 | 315 | 2,790 |
+| 2023-11-15 | 4.50 | 315 | 2,791 |

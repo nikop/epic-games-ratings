@@ -23,6 +23,7 @@ Rating: 4.61 (Ranked 385)
 | Spoils of War | 0.70% | ~38 |
 | Valley of Wonders | 0.60% | ~32 |
 | Intimidation Tactics | 0.60% | ~32 |
+| Sehiran Oasis | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
 | Digging for Treasure | 0.50% | ~27 |
@@ -30,7 +31,6 @@ Rating: 4.61 (Ranked 385)
 | Impenetrable Fortress | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
 | Tipping the Scales | 0.50% | ~27 |
-| Sehiran Oasis | 0.50% | ~27 |
 | Seal the Deal | 0.50% | ~27 |
 | Preparation Is Everything | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,391 (Ranked 184)  
+Progressed: 5,392 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-12 | 5,383 | 7 |
 | 2023-11-13 | 5,387 | 7 |
 | 2023-11-14 | 5,391 | 7 |
+| 2023-11-15 | 5,392 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 54 (Ranked 473)  

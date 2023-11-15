@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 1,023)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,642 (Ranked 231)  
+Progressed: 1,642 (Ranked 232)  
 Completed: 10 (0.61%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |

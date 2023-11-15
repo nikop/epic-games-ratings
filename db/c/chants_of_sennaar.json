@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 552,
+  "EOS_Progressed": 553,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.43,
+  "EOS_Completed_Percentage": 5.42,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2365,6 +2365,11 @@
       "Time": "2023-11-15T00:03:43.457653+00:00",
       "NumProgressed": 552,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-15T01:50:07.9910229+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2392,7 +2397,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2400,7 +2405,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2408,7 +2413,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "META_HALF_LINK",
@@ -2488,7 +2493,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2510,9 +2515,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2552,7 +2557,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "PROGRESS_N4",
@@ -2560,7 +2565,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "PROGRESS_N5",
@@ -2575,14 +2580,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 552,
+      "Progressed": 553,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:03:43.4576527+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:50:07.9910227+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:58:10.0277009+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:03:43.4576813+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:44:42.5773455+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:50:07.9910477+00:00"
 }

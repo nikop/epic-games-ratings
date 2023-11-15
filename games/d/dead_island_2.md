@@ -8,7 +8,7 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~882 |
 | Whatever It Takes | 2.00% | ~882 |
 | Pork Chopped | 2.00% | ~882 |
-| Welcome To Hell-A | 1.00% | ~7,185 |
+| Welcome To Hell-A | 1.00% | ~7,186 |
 | Hotel California | 0.90% | ~6,467 |
 | Break A Leg | 0.80% | ~5,748 |
 | Coup de Grâce | 0.80% | ~5,748 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,538 (Ranked 20)  
+Progressed: 718,561 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,538 | 2,391 |
+| 2023-11-15 | 718,561 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
-Sum: 11,323 (Ranked 84)  
+Sum: 11,326 (Ranked 84)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -278,7 +278,7 @@ Diff (max vs sum): -32
 | This game has Diverse Characters | 540 |
 | This game has Quickly Understood Controls | 513 |
 | This game is Relaxing | 489 |
-| This game has Amazing Storytelling | 463 |
+| This game has Amazing Storytelling | 466 |
 | This game is Highly Recommended | 454 |
 | This game is Extremely Fun | 449 |
 | This game has Amazing Characters | 412 |
@@ -493,3 +493,4 @@ Diff (max vs sum): -32
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
+| 2023-11-15 | 4.54 | 7,440 | 11,326 |

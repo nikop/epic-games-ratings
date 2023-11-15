@@ -55,6 +55,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.10% | ~456 |
 | Imposter Syndrome | 0.10% | ~456 |
 | In the Name of the Father | 0.10% | ~456 |
+| Industrial Powerhouse | 0.10% | ~456 |
 | Isn't this the way to India? | 0.10% | ~456 |
 | Italian Ambition | 0.10% | ~456 |
 | It's all about luck | 0.10% | ~456 |
@@ -63,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just Resting In My Account | 0.10% | ~456 |
 | A Kaiser not just in name | 0.10% | ~456 |
 | Keep the Flame Burning | 0.10% | ~456 |
+| Kingdom of God | 0.10% | ~456 |
 | Krabater | 0.10% | ~456 |
 | Liberty or Death | 0.10% | ~456 |
 | Live Long and Prosper | 0.10% | ~456 |
@@ -211,7 +213,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
-| Industrial Powerhouse | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
@@ -219,7 +220,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Jihad | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
 | King of Jerusalem | 0.00% | ~0 |
-| Kingdom of God | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,786 (Ranked 41)  
+Progressed: 455,813 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 455,786 | 1 |
+| 2023-11-15 | 455,813 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,546 (Ranked 24)  

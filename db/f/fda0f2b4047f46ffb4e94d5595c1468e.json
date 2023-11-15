@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2515,10 +2515,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4754,
       "NumberOfAwardsMax": 1507
+    },
+    {
+      "Time": "2023-11-15T01:44:58.9316339+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4757,
+      "NumberOfAwardsMax": 1507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4754,
+  "NumberOfAwards": 4757,
   "NumberOfAwardsMax": 1507,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2532,7 +2538,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 301
+      "Count": 304
     },
     {
       "Text": "This game has Competitive Players",
@@ -2595,9 +2601,9 @@
       "Count": 356
     }
   ],
-  "EOS_Progressed": 8528,
+  "EOS_Progressed": 8529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8045,6 +8051,11 @@
       "Time": "2023-11-14T22:03:21.5971474+00:00",
       "NumProgressed": 8528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T01:50:21.7171889+00:00",
+      "NumProgressed": 8529,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8073,7 +8084,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "ach04",
@@ -8097,7 +8108,7 @@
       "Name": "Titan",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6481
+      "UsersEstimate": 6482
     },
     {
       "ID": "ach07",
@@ -8111,9 +8122,9 @@
       "ID": "ach08",
       "SetID": "47in8n6",
       "Name": "It Has Begun!!!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3412
     },
     {
       "ID": "ach09",
@@ -8121,7 +8132,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ach10",
@@ -8153,7 +8164,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "ach14",
@@ -8241,7 +8252,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "ach25",
@@ -8289,7 +8300,7 @@
       "Name": "Juggernaut",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ach31",
@@ -8297,7 +8308,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ach32",
@@ -8321,7 +8332,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "ach35",
@@ -8345,7 +8356,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "ach38",
@@ -8361,7 +8372,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3497
     },
     {
       "ID": "ach40",
@@ -8377,7 +8388,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "ach42",
@@ -8385,7 +8396,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "ach43",
@@ -8449,23 +8460,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8528,
+      "Progressed": 8529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-14T23:58:33.1886084+00:00",
-  "LastChanged_Achievements": "2023-11-15T00:04:02.1651543+00:00",
+  "LastChanged": "2023-11-15T01:44:58.9316337+00:00",
+  "LastChanged_Achievements": "2023-11-15T01:50:21.7171884+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-14T23:58:33.188609+00:00",
-  "LastUpdate_Achievements": "2023-11-15T00:04:02.1652486+00:00"
+  "LastUpdate_Ratings": "2023-11-15T01:44:58.9316342+00:00",
+  "LastUpdate_Achievements": "2023-11-15T01:50:21.7172713+00:00"
 }

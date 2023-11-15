@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~128 |
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,278 (Ranked 240)  
+Progressed: 1,278 (Ranked 241)  
 Completed: 17 (1.33%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
