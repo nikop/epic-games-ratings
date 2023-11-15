@@ -257,7 +257,7 @@
 | 252 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 546 |
 | 252 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 546 |
 | 252 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,514 | 51 |
-| 252 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,035 | 84 |
+| 252 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,037 | 84 |
 | 252 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 31 | 490 |
 | 252 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,495 | 70 |
 | 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 314,807 | 3 |
@@ -298,7 +298,7 @@
 | 293 | [Crashlands](games/c/crashlands.md) | 4.66 | 195 | 290 |
 | 293 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.66 | 0 | 546 |
 | 293 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,302 | 138 |
-| 293 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 372 | 234 |
+| 293 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 372 | 235 |
 | 293 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 546 |
 | 293 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 546 |
 | 293 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 190 | 291 |
@@ -438,7 +438,7 @@
 | 430 | [NORCO](games/n/norco.md) | 4.59 | 0 | 546 |
 | 430 | [Returnal™](games/r/returnal™.md) | 4.59 | 92 | 372 |
 | 430 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.59 | 0 | 546 |
-| 430 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 365 | 237 |
+| 430 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 365 | 238 |
 | 430 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,050 | 148 |
 | 430 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 546 |
 | 430 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 721 | 179 |
@@ -536,7 +536,7 @@
 | 523 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 475 |
 | 523 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 520 |
 | 523 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
-| 523 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 367 | 236 |
+| 523 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 367 | 237 |
 | 523 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 386 |
 | 539 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 546 |
 | 539 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,730 | 18 |
@@ -668,7 +668,7 @@
 | 658 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.45 | 0 | 546 |
 | 658 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,285 | 34 |
 | 658 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 37 | 462 |
-| 658 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.45 | 362 | 238 |
+| 658 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.45 | 385 | 233 |
 | 658 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 893 | 159 |
 | 658 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.45 | 0 | 546 |
 | 658 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 291 | 255 |
@@ -830,7 +830,7 @@
 | 821 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 496 |
 | 821 | [Vampyr](games/v/vampyr.md) | 4.32 | 575 | 195 |
 | 830 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 546 |
-| 830 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 370 | 235 |
+| 830 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 370 | 236 |
 | 830 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 546 |
 | 830 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,650 | 67 |
 | 830 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 981 | 153 |
@@ -997,7 +997,7 @@
 | 990 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 4.00 | 0 | 546 |
 | 990 | [The First Tree](games/t/the_first_tree.md) | 4.00 | 0 | 546 |
 | 990 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.00 | 0 | 546 |
-| 998 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 374 | 233 |
+| 998 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 374 | 234 |
 | 998 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,828 | 75 |
 | 998 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 546 |
 | 1,001 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 546 |

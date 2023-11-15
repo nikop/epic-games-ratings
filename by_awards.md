@@ -83,7 +83,7 @@
 | 81 | [God of War](games/g/god_of_war.md) | 4,378 | 4.88 | 17 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,332 | 4.57 | 470 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,146 | 4.51 | 566 |
-| 84 | [Days Gone](games/d/days_gone.md) | 4,035 | 4.68 | 252 |
+| 84 | [Days Gone](games/d/days_gone.md) | 4,037 | 4.68 | 252 |
 | 85 | [Trackmania](games/t/trackmania.md) | 3,931 | 4.66 | 293 |
 | 86 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,849 | 4.27 | 858 |
 | 87 | [Paladins](games/p/paladins.md) | 3,819 | 4.32 | 821 |
@@ -232,12 +232,12 @@
 | 230 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 366 |
 | 231 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 389 | 4.62 | 366 |
 | 232 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 388 | 4.56 | 489 |
-| 233 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 374 | 3.99 | 998 |
-| 234 | [Dungeons 3](games/d/dungeons_3.md) | 372 | 4.66 | 293 |
-| 235 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 370 | 4.31 | 830 |
-| 236 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 367 | 4.54 | 523 |
-| 237 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 365 | 4.59 | 430 |
-| 238 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 362 | 4.45 | 658 |
+| 233 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 385 | 4.45 | 658 |
+| 234 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 374 | 3.99 | 998 |
+| 235 | [Dungeons 3](games/d/dungeons_3.md) | 372 | 4.66 | 293 |
+| 236 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 370 | 4.31 | 830 |
+| 237 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 367 | 4.54 | 523 |
+| 238 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 365 | 4.59 | 430 |
 | 239 | [Inscryption](games/i/inscryption.md) | 345 | 4.86 | 30 |
 | 239 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 345 | 4.72 | 186 |
 | 241 | [The Messenger](games/t/the_messenger.md) | 342 | 4.81 | 78 |
