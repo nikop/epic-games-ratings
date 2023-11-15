@@ -21,10 +21,10 @@
 | Strategist | 5.00% | ~10 |
 | The More the Merrier | 5.00% | ~10 |
 | Harbinger | 5.00% | ~10 |
+| Courier | 5.00% | ~10 |
 | Pilgrimage's End | 5.00% | ~10 |
 | Quartermaster | 4.00% | ~8 |
 | Deputized | 4.00% | ~8 |
-| Courier | 4.00% | ~8 |
 | The Voice of Hereafter | 4.00% | ~8 |
 | Been There | 4.00% | ~8 |
 | Spiritual Journey | 4.00% | ~8 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 197 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 352)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

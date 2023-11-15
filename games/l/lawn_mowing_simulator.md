@@ -1,19 +1,19 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 965)  
+Rating: 4.08 (Ranked 966)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~538,069 |
-| Every story has a beginning | 36.00% | ~245,196 |
-| The first of many | 31.00% | ~211,141 |
-| Positive word of mouth | 18.00% | ~122,598 |
-| Lawn in the U.S.A. | 15.00% | ~102,165 |
-| Blade Runner | 9.00% | ~61,299 |
-| Credible | 7.00% | ~47,677 |
-| Teamwork makes the dream work | 6.00% | ~40,866 |
+| The dream begins | 79.00% | ~538,076 |
+| Every story has a beginning | 36.00% | ~245,199 |
+| The first of many | 31.00% | ~211,144 |
+| Positive word of mouth | 18.00% | ~122,600 |
+| Lawn in the U.S.A. | 15.00% | ~102,166 |
+| Blade Runner | 9.00% | ~61,300 |
+| Credible | 7.00% | ~47,678 |
+| Teamwork makes the dream work | 6.00% | ~40,867 |
 | Where there's muck there's brass | 4.00% | ~27,244 |
 | Bigger and better | 4.00% | ~27,244 |
 | Aggressive expansion | 4.00% | ~27,244 |
@@ -61,8 +61,8 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~681 |
 | Mo mowers, mo problems | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,100 (Ranked 25)  
-Completed: 17 (0.00%) (Ranked 352)  
+Progressed: 681,109 (Ranked 25)  
+Completed: 17 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,11 +270,11 @@ Completed: 17 (0.00%) (Ranked 352)
 | 2023-11-12 | 680,571 | 17 |
 | 2023-11-13 | 680,798 | 17 |
 | 2023-11-14 | 681,001 | 17 |
-| 2023-11-15 | 681,100 | 17 |
+| 2023-11-15 | 681,109 | 17 |
 ## Awards
-Max (Quickly Understood Controls): 182  (Ranked 298)  
+Max (Quickly Understood Controls): 182  (Ranked 299)  
 Sum: 985 (Ranked 262)  
-Diff (max vs sum): 36  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |

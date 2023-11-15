@@ -23,20 +23,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.50% | ~4,484 |
 | Spin Doctor | 0.50% | ~127 |
 | Bushido and Chill | 0.40% | ~3,587 |
+| To Protect and Serve | 0.40% | ~3,587 |
 | Master Crafter | 0.40% | ~3,587 |
+| I Am The Law | 0.40% | ~3,587 |
 | Christmas Tree Attack | 0.40% | ~3,587 |
 | The High Priestess | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
 | Judy vs Night City | 0.40% | ~3,587 |
 | Legend of The Afterlife | 0.40% | ~3,587 |
 | Dirty Deeds | 0.40% | ~102 |
-| To Protect and Serve | 0.30% | ~2,690 |
+| Easy Come, Easy Go | 0.40% | ~102 |
 | The Wandering Fool | 0.30% | ~2,690 |
-| I Am The Law | 0.30% | ~2,690 |
 | The Fool | 0.30% | ~2,690 |
 | Two Heads, One Bullet | 0.30% | ~2,690 |
 | King of Wands | 0.30% | ~76 |
-| Easy Come, Easy Go | 0.30% | ~76 |
 | To Bad Decisions! | 0.20% | ~1,794 |
 | Breathtaking | 0.20% | ~1,794 |
 | The Star | 0.20% | ~1,794 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,777 (Ranked 15)  
+Progressed: 896,783 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 2,778 (0.31%) (Ranked 227)
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
-| 2023-11-15 | 896,777 | 2,778 |
+| 2023-11-15 | 896,783 | 2,778 |
 ## Awards
 Max (Character Customization): 105,471  (Ranked 9)  
-Sum: 353,273 (Ranked 10)  
+Sum: 353,336 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -296,7 +296,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 20,827 |
 | This game is Highly Recommended | 19,988 |
 | This game has Amazing Storytelling | 19,864 |
-| This game is Extremely Fun | 19,622 |
+| This game is Extremely Fun | 19,685 |
 | This game has Amazing Characters | 19,490 |
 | This game is Relaxing | 18,720 |
 | This game has Quickly Understood Controls | 18,675 |
@@ -604,4 +604,4 @@ Diff (max vs sum): -1
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
 | 2023-11-14 | 4.64 | - | 105,471 | 352,694 |
-| 2023-11-15 | 4.64 | - | 105,471 | 353,273 |
+| 2023-11-15 | 4.64 | - | 105,471 | 353,336 |

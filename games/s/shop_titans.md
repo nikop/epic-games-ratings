@@ -10,10 +10,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 4.00% | ~5,597 |
 | Tinkle of Coins | 4.00% | ~5,597 |
 | Titan's First Steps | 4.00% | ~5,597 |
-| Disintermediation | 3.00% | ~4,197 |
-| It's Free Real Estate | 3.00% | ~4,197 |
-| Budding Merchant | 3.00% | ~4,197 |
-| Capitalism Ho! | 3.00% | ~4,197 |
+| Disintermediation | 3.00% | ~4,198 |
+| It's Free Real Estate | 3.00% | ~4,198 |
+| Budding Merchant | 3.00% | ~4,198 |
+| Capitalism Ho! | 3.00% | ~4,198 |
 | The Daily Grind | 2.00% | ~2,798 |
 | One Easy Payment | 2.00% | ~2,798 |
 | Some Assembly Required | 2.00% | ~2,798 |
@@ -99,8 +99,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Treasure Trove | 0.70% | ~979 |
 | Moment of Respite | 0.70% | ~979 |
 | King's Shadow | 0.70% | ~979 |
-| Jackpot! | 0.60% | ~839 |
-| Economy of Scarce | 0.60% | ~839 |
+| Jackpot! | 0.60% | ~840 |
+| Economy of Scarce | 0.60% | ~840 |
 | The Free Encyclopedia | 0.50% | ~700 |
 | Thank You Tom Nook | 0.50% | ~700 |
 | Eternal Crusade | 0.50% | ~700 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,913 (Ranked 79)  
+Progressed: 139,918 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 186 (0.13%) (Ranked 264)
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
 | 2023-11-14 | 139,830 | 186 |
-| 2023-11-15 | 139,913 | 186 |
+| 2023-11-15 | 139,918 | 186 |
 ## Awards
 Max (Great for Beginners): 4,831  (Ranked 74)  
 Sum: 27,552 (Ranked 51)  

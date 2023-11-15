@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1664,
+  "EOS_Progressed": 1665,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.39,
+  "EOS_Completed_Percentage": 4.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -3473,6 +3473,11 @@
       "Time": "2023-11-15T14:05:00.1961748+00:00",
       "NumProgressed": 1664,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-15T16:05:34.4271414+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3484,7 +3489,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -3500,7 +3505,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3516,7 +3521,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_FineEV9",
@@ -3556,7 +3561,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -3571,15 +3576,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1664,
+      "Progressed": 1665,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:06:51.7731933+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:05:34.427141+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:58:39.7985685+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:06:51.7732184+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:57:54.544133+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:05:34.4271705+00:00"
 }

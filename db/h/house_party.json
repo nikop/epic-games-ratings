@@ -377,7 +377,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6461,
+  "EOS_Progressed": 6462,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -6202,6 +6202,11 @@
       "Time": "2023-11-15T06:06:15.9582653+00:00",
       "NumProgressed": 6461,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T16:03:16.172678+00:00",
+      "NumProgressed": 6462,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6469,7 +6474,7 @@
       "Name": "It Smells Like Roses",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Katherine",
@@ -6603,9 +6608,9 @@
       "ID": "Stephanie",
       "SetID": "bmkn7o4",
       "Name": "Stephanie",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "StrikingResemblance",
@@ -6764,21 +6769,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3500,
+      "Progressed": 3501,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6461,
+      "Progressed": 6462,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:03:58.0963813+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:03:16.1726777+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:26.4902996+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:59:56.8375508+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:03:58.0965432+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:58:53.8653293+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:03:16.1728923+00:00"
 }

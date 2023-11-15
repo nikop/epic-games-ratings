@@ -6,7 +6,7 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -1323,9 +1323,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237254,
+  "EOS_Progressed": 237264,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1318,
+  "EOS_NewPlayers": 1325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18648,6 +18648,11 @@
       "Time": "2023-11-15T15:09:20.4914574+00:00",
       "NumProgressed": 237254,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T16:08:31.981968+00:00",
+      "NumProgressed": 237264,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18707,7 +18712,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14235
+      "UsersEstimate": 14236
     },
     {
       "ID": "Chapter2",
@@ -18715,7 +18720,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9490
+      "UsersEstimate": 9491
     },
     {
       "ID": "Chapter3",
@@ -19107,7 +19112,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83039
+      "UsersEstimate": 83042
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19123,7 +19128,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9490
+      "UsersEstimate": 9491
     },
     {
       "ID": "EndCombatOneHp",
@@ -19131,7 +19136,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9490
+      "UsersEstimate": 9491
     },
     {
       "ID": "EndGameCursed",
@@ -19155,7 +19160,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18980
+      "UsersEstimate": 18981
     },
     {
       "ID": "FollowBraztok",
@@ -19307,7 +19312,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9490
+      "UsersEstimate": 9491
     },
     {
       "ID": "SupportCount4",
@@ -19362,21 +19367,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237254,
+      "Progressed": 237264,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237254,
+      "Progressed": 237264,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-14T17:59:08.4109383+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:09:20.491457+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:08:31.9819676+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:00:04.2718133+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:09:20.4915882+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:58:59.3523662+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:08:31.9821574+00:00"
 }

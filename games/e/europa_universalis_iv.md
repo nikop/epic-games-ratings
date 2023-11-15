@@ -10,6 +10,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Hero’s Welcome | 0.10% | ~456 |
 | A Pile of Gold | 0.10% | ~456 |
 | A Protected Market | 0.10% | ~456 |
+| A tale of two Families | 0.10% | ~456 |
 | AAA Credit | 0.10% | ~456 |
 | Absolutely | 0.10% | ~456 |
 | Aggressive Expander | 0.10% | ~456 |
@@ -50,6 +51,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Four For Trade | 0.10% | ~456 |
 | Full House | 0.10% | ~456 |
 | Gentle Persuasion | 0.10% | ~456 |
+| Georgia on my Mind | 0.10% | ~456 |
 | Global Hegemony | 0.10% | ~456 |
 | Gold Rush | 0.10% | ~456 |
 | A Golden Empire | 0.10% | ~456 |
@@ -86,6 +88,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Family to Rule them All | 0.10% | ~456 |
 | One King to Rule! | 0.10% | ~456 |
 | One Night in Paris | 0.10% | ~456 |
+| Parisian Pasha | 0.10% | ~456 |
 | Populists in Government | 0.10% | ~456 |
 | Queen of Conquest | 0.10% | ~456 |
 | Redecorating | 0.10% | ~456 |
@@ -137,7 +140,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Blessed Nation | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
-| A tale of two Families | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
@@ -204,7 +206,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Georgia on my Mind | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
@@ -273,7 +274,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Over a Thousand! | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
-| Parisian Pasha | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Pirate Bay of Janjira | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,110 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 352)  
+Progressed: 456,147 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 456,110 | 1 |
+| 2023-11-15 | 456,147 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 55)  
 Sum: 57,663 (Ranked 24)  

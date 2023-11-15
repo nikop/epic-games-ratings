@@ -3,7 +3,7 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2143,
+  "EOS_Progressed": 2144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4897,6 +4897,11 @@
       "Time": "2023-11-15T15:10:39.0961305+00:00",
       "NumProgressed": 2143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T16:09:35.1332541+00:00",
+      "NumProgressed": 2144,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4909,7 +4914,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4973,7 +4978,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -5213,7 +5218,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5261,7 +5266,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5300,14 +5305,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2143,
+      "Progressed": 2144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:10:39.09613+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:09:35.1332538+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:02:31.4161134+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:10:39.0961786+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:00:48.6484761+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:09:35.1333148+00:00"
 }

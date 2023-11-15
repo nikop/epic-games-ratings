@@ -8,7 +8,7 @@
 | Honor Medal | 23.00% | ~10 |
 | Great Civil War | 19.00% | ~8 |
 | Assassination | 14.00% | ~6 |
-| Princess Crowned | 9.00% | ~4 |
+| Princess Crowned | 12.00% | ~5 |
 | Secret War | 9.00% | ~4 |
 | Investment | 7.00% | ~3 |
 | Tech Breakthrough | 7.00% | ~3 |
@@ -54,7 +54,7 @@
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43 (Ranked 491)  
-Completed: 0 (0.00%) (Ranked 352)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

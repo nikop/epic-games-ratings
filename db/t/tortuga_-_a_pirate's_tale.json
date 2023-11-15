@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,7 +269,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17069,
+  "EOS_Progressed": 17070,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -6569,6 +6569,11 @@
       "Time": "2023-11-14T16:04:42.0178883+00:00",
       "NumProgressed": 17069,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T16:04:38.5883298+00:00",
+      "NumProgressed": 17070,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6588,7 +6593,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14679
+      "UsersEstimate": 14680
     },
     {
       "ID": "ACH0010",
@@ -6652,7 +6657,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH0018",
@@ -6732,7 +6737,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9217
+      "UsersEstimate": 9218
     },
     {
       "ID": "ACH004",
@@ -6740,7 +6745,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14850
+      "UsersEstimate": 14851
     },
     {
       "ID": "ACH005",
@@ -6787,7 +6792,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17069,
+      "Progressed": 17070,
       "Completed": 1
     }
   ],
@@ -6795,8 +6800,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:05:42.3437289+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:04:38.5883294+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.4914759+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:59:50.9146862+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:05:42.3437803+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:58:49.4765285+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:04:38.5883772+00:00"
 }

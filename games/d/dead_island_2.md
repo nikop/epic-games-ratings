@@ -9,9 +9,9 @@ Rating: 4.54 (Ranked 524)
 | Whatever It Takes | 2.00% | ~886 |
 | Pork Chopped | 2.00% | ~886 |
 | Welcome To Hell-A | 1.00% | ~7,188 |
+| Break A Leg | 0.90% | ~6,469 |
 | Hotel California | 0.90% | ~6,469 |
 | Git Gutte! | 0.80% | ~5,750 |
-| Break A Leg | 0.80% | ~5,750 |
 | Coup de Grâce | 0.80% | ~5,750 |
 | Hazardous Materials | 0.80% | ~5,750 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,750 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,755 (Ranked 20)  
+Progressed: 718,777 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,755 | 2,391 |
+| 2023-11-15 | 718,777 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
 Sum: 11,329 (Ranked 84)  

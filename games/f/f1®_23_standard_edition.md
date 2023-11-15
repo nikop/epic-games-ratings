@@ -24,9 +24,9 @@ Rating: 4.69 (Ranked 230)
 | Ups and Downs | 19.00% | ~1,090 |
 | Crucial Combo | 18.00% | ~1,033 |
 | Reuse | 16.00% | ~918 |
+| One for the Book | 16.00% | ~918 |
 | Proving Them Wrong | 16.00% | ~918 |
 | Gathering Dust | 15.00% | ~861 |
-| One for the Book | 15.00% | ~861 |
 | Oil and Water | 13.00% | ~746 |
 | Hitting a Bullseye | 13.00% | ~746 |
 | Eagle Eye | 12.00% | ~688 |
@@ -56,7 +56,7 @@ Rating: 4.69 (Ranked 230)
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,737 (Ranked 181)  
-Completed: 0 (0.00%) (Ranked 352)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

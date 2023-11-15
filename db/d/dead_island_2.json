@@ -6537,9 +6537,9 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718755,
+  "EOS_Progressed": 718777,
   "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3787,
+  "EOS_NewPlayers": 3784,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30422,6 +30422,11 @@
       "Time": "2023-11-15T15:06:26.207808+00:00",
       "NumProgressed": 718755,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-15T16:05:13.6994044+00:00",
+      "NumProgressed": 718777,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30495,9 +30500,9 @@
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5750
+      "UsersEstimate": 6469
     },
     {
       "ID": "ach_contender",
@@ -30840,13 +30845,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718755,
+      "Progressed": 718777,
       "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44297,
+      "Progressed": 44319,
       "Completed": 36542
     }
   ],
@@ -30854,8 +30859,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-15T02:19:50.8573803+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:06:26.2078078+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:05:13.699404+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:58:34.9052158+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:06:26.2079233+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:57:51.1281438+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:05:13.6995781+00:00"
 }

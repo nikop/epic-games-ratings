@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40357,
+  "EOS_Progressed": 40360,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
@@ -23128,6 +23128,11 @@
       "Time": "2023-11-15T15:04:17.1750513+00:00",
       "NumProgressed": 40357,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-15T16:03:31.4587482+00:00",
+      "NumProgressed": 40360,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -23147,7 +23152,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8475
+      "UsersEstimate": 8476
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -23155,7 +23160,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -23291,7 +23296,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -23299,7 +23304,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -23315,7 +23320,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -23323,7 +23328,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -23370,7 +23375,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40357,
+      "Progressed": 40360,
       "Completed": 26
     }
   ],
@@ -23378,8 +23383,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:04:17.175051+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:03:31.4587479+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.0772649+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:00:21.0256288+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:04:17.1751766+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:59:12.3372696+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:03:31.4589328+00:00"
 }

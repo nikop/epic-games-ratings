@@ -6,7 +6,7 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -283,7 +283,7 @@
   "Tags": [],
   "EOS_Progressed": 2168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5956,9 +5956,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1604
     },
     {
       "ID": "A13",
@@ -6309,8 +6309,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:04:42.318317+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:03:51.0519782+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:50.7766719+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:58:17.9910439+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:04:42.318377+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:57:37.5686225+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:03:51.0520594+00:00"
 }

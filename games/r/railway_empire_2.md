@@ -7,8 +7,8 @@ Rating: 4.42 (Ranked 713)
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,648 |
 | A new Journey | 75.00% | ~1,626 |
+| Departure | 74.00% | ~1,604 |
 | From X to Y | 73.00% | ~1,583 |
-| Departure | 73.00% | ~1,583 |
 | Way of Iron | 71.00% | ~1,539 |
 | Mystery Tour | 69.00% | ~1,496 |
 | We brake for nobody | 68.00% | ~1,474 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 713)
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,168 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 352)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

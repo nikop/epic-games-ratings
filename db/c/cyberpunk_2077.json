@@ -15126,10 +15126,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 353273,
       "NumberOfAwardsMax": 105471
+    },
+    {
+      "Time": "2023-11-15T16:00:39.3652644+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 353336,
+      "NumberOfAwardsMax": 105471
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353273,
+  "NumberOfAwards": 353336,
   "NumberOfAwardsMax": 105471,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15197,7 +15203,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 19622
+      "Count": 19685
     },
     {
       "Text": "This game has a Creative Community",
@@ -15206,7 +15212,7 @@
       "Count": 12991
     }
   ],
-  "EOS_Progressed": 896777,
+  "EOS_Progressed": 896783,
   "EOS_Completed": 2778,
   "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 24,
@@ -38906,6 +38912,11 @@
       "Time": "2023-11-15T15:07:55.4223065+00:00",
       "NumProgressed": 896777,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-15T16:06:25.1555154+00:00",
+      "NumProgressed": 896783,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38956,9 +38967,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 3587
     },
     {
       "ID": "Fortuneteller",
@@ -39012,9 +39023,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2690
+      "UsersEstimate": 3587
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -39444,30 +39455,30 @@
       "ID": "EasyComeEasyGo",
       "SetID": "23nboa5",
       "Name": "Easy Come, Easy Go",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896777,
+      "Progressed": 896783,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25400,
+      "Progressed": 25406,
       "Completed": 10224
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-15T13:08:03.9792988+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:07:55.422306+00:00",
+  "LastChanged": "2023-11-15T16:00:39.3652642+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:06:25.155515+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:02:18.3887762+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:07:55.4224346+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:00:39.3652649+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:06:25.1556993+00:00"
 }

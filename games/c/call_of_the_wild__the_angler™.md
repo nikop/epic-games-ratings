@@ -47,8 +47,8 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,522 (Ranked 178)  
-Completed: 0 (0.00%) (Ranked 352)  
+Progressed: 6,523 (Ranked 178)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,17 +256,17 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-12 | 6,504 | 0 |
 | 2023-11-13 | 6,510 | 0 |
 | 2023-11-14 | 6,516 | 0 |
-| 2023-11-15 | 6,522 | 0 |
+| 2023-11-15 | 6,523 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
-Sum: 192 (Ranked 403)  
+Sum: 193 (Ranked 403)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |
 | This game is Highly Recommended | 35 |
+| This game is Great for Beginners | 35 |
 | This game has Amazing Storytelling | 34 |
-| This game is Great for Beginners | 34 |
 | This game is Extremely Fun | 30 |
 | This game has Quickly Understood Controls | 23 |
 ## Ratings History
@@ -361,3 +361,4 @@ Diff (max vs sum): 61
 | 2023-11-07 | 4.18 | - | 36 | 190 |
 | 2023-11-10 | 4.18 | - | 36 | 191 |
 | 2023-11-11 | 4.18 | - | 36 | 192 |
+| 2023-11-15 | 4.18 | - | 36 | 193 |

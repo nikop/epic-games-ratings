@@ -3,7 +3,7 @@
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 467,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -408,9 +408,9 @@
       "ID": "ach21",
       "SetID": "baneh2j",
       "Name": "Delicious",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach22",
@@ -559,8 +559,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:04:40.7998665+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:03:49.8487752+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:59.3118562+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:00:38.3831525+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:04:40.7998911+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:59:25.1547178+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:03:49.8488025+00:00"
 }

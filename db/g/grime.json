@@ -6,7 +6,7 @@
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158361,
+  "EOS_Progressed": 158365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1170,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15751,6 +15751,11 @@
       "Time": "2023-11-15T15:06:33.2720207+00:00",
       "NumProgressed": 158361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T16:05:19.3911829+00:00",
+      "NumProgressed": 158365,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15810,7 +15815,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6334
+      "UsersEstimate": 6335
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15856,9 +15861,9 @@
       "ID": "DEFEAT_FIDUS",
       "SetID": "ccc0dlh",
       "Name": "Shapely",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1584
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -15874,7 +15879,7 @@
       "Name": "Glare",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -16129,21 +16134,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157944,
+      "Progressed": 157948,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158361,
+      "Progressed": 158365,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:06:33.2720203+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:05:19.3911826+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:02:14.4581668+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:06:33.2721096+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:00:36.6432977+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:05:19.391289+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Can\u0027t Be Touched",
   "ProductSlug": "cant-be-touch-7e87e8",
   "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-10T06:56:58.6191116+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:03:41.8214383+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:06:39.6787135+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:03:01.4536958+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:05:24.8489337+00:00"
 }

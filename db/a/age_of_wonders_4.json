@@ -461,7 +461,7 @@
   ],
   "EOS_Progressed": 5394,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7432,9 +7432,9 @@
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "5",
@@ -7536,9 +7536,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "53",
@@ -7623,8 +7623,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:06:30.1891706+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:05:16.8144652+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:58:50.9995301+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:06:30.1892733+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:58:03.0149456+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:05:16.8145411+00:00"
 }

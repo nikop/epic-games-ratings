@@ -6,7 +6,7 @@
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -12099,9 +12099,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456110,
+  "EOS_Progressed": 456147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6272,
+  "EOS_NewPlayers": 6255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36029,6 +36029,11 @@
       "Time": "2023-11-15T15:05:22.5819546+00:00",
       "NumProgressed": 456110,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T16:04:23.0265164+00:00",
+      "NumProgressed": 456147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36110,9 +36115,9 @@
       "ID": "achievement_a_tale_of_two_families",
       "SetID": "67mdiil",
       "Name": "A tale of two Families",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_aaa_credit",
@@ -36966,9 +36971,9 @@
       "ID": "achievement_georgia_on_my_mind",
       "SetID": "8p2n7he",
       "Name": "Georgia on my Mind",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_global_hegemony",
@@ -37806,9 +37811,9 @@
       "ID": "achievement_parisian_pasha",
       "SetID": "8p2n7he",
       "Name": "Parisian Pasha",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_philippine_tiger",
@@ -38943,21 +38948,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456110,
+      "Progressed": 456147,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456110,
+      "Progressed": 456147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-15T11:57:34.9244968+00:00",
-  "LastChanged_Achievements": "2023-11-15T15:05:22.5819543+00:00",
+  "LastChanged_Achievements": "2023-11-15T16:04:23.0265161+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:58:19.0465654+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:05:22.5830063+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:57:38.4271223+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:04:23.027576+00:00"
 }

@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 146)
 | The God Gambit | 0.00% | ~0 |
 | Succession | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,175 (Ranked 68)  
+Progressed: 221,204 (Ranked 68)  
 Completed: 456 (0.21%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 456 (0.21%) (Ranked 246)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,175 | 456 |
+| 2023-11-15 | 221,204 | 456 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 5,012 (Ranked 137)  

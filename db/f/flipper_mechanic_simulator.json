@@ -3,8 +3,8 @@
   "Name": "Flipper Mechanic Simulator",
   "ProductSlug": "flipper-mechanic-simulator-72f107",
   "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T19:59:24.0218844+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:58:38.9731254+00:00",
-  "LastUpdate_Achievements": "2023-11-15T15:08:23.4703491+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:57:53.995042+00:00",
+  "LastUpdate_Achievements": "2023-11-15T16:06:47.0606254+00:00"
 }

@@ -21,9 +21,9 @@ Rating: 4.61 (Ranked 384)
 | Chaos Surge | 0.80% | ~43 |
 | Valley of Wonders | 0.70% | ~38 |
 | In a Liege of Your Own | 0.70% | ~38 |
+| Sehiran Oasis | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
 | Intimidation Tactics | 0.60% | ~32 |
-| Sehiran Oasis | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
@@ -43,11 +43,11 @@ Rating: 4.61 (Ranked 384)
 | The Creator | 0.30% | ~16 |
 | Crimson Caldera | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
+| Pruning for Progress | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
-| Pruning for Progress | 0.20% | ~11 |
 | Duality | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |

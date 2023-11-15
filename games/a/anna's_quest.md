@@ -11,8 +11,8 @@
 | Through the woods | 43.00% | ~29 |
 | Fussy eater | 38.00% | ~26 |
 | Back to the anvil | 37.00% | ~25 |
+| So soothing... | 37.00% | ~25 |
 | Kekekeke... | 37.00% | ~25 |
-| So soothing... | 35.00% | ~24 |
 | Sorry Grandpa | 34.00% | ~23 |
 | Roostwig has entered the building | 34.00% | ~23 |
 | Mystery solved | 32.00% | ~22 |
