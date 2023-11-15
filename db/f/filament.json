@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205348,
+  "EOS_Progressed": 205351,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22718,6 +22718,11 @@
       "Time": "2023-11-15T11:03:41.264923+00:00",
       "NumProgressed": 205348,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-11-15T12:03:56.5115118+00:00",
+      "NumProgressed": 205351,
+      "NumCompleted": 528
     }
   ],
   "TotalAchievements": 29,
@@ -22753,7 +22758,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193027
+      "UsersEstimate": 193030
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22801,7 +22806,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -22809,7 +22814,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10267
+      "UsersEstimate": 10268
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -22889,7 +22894,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10267
+      "UsersEstimate": 10268
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -22897,7 +22902,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -22960,7 +22965,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205348,
+      "Progressed": 205351,
       "Completed": 528
     }
   ],
@@ -22968,8 +22973,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:03:41.2649226+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:03:56.5115113+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:58:57.6091173+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:03:41.265059+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:59:12.8649576+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:03:56.511726+00:00"
 }

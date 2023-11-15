@@ -15114,10 +15114,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 353166,
       "NumberOfAwardsMax": 105471
+    },
+    {
+      "Time": "2023-11-15T12:00:37.3290325+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 353229,
+      "NumberOfAwardsMax": 105471
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353166,
+  "NumberOfAwards": 353229,
   "NumberOfAwardsMax": 105471,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15179,7 +15185,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 19427
+      "Count": 19490
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15194,7 +15200,7 @@
       "Count": 12991
     }
   ],
-  "EOS_Progressed": 896750,
+  "EOS_Progressed": 896755,
   "EOS_Completed": 2778,
   "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 24,
@@ -38874,6 +38880,11 @@
       "Time": "2023-11-15T11:05:39.1404352+00:00",
       "NumProgressed": 896750,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-15T12:06:07.5297675+00:00",
+      "NumProgressed": 896755,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38918,7 +38929,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5380
+      "UsersEstimate": 5381
     },
     {
       "ID": "FollowingTheRiver",
@@ -38972,9 +38983,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 3587
     },
     {
       "ID": "IAmMaxTac",
@@ -39062,7 +39073,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5380
+      "UsersEstimate": 5381
     },
     {
       "ID": "Specialist",
@@ -39214,7 +39225,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26902
+      "UsersEstimate": 26903
     },
     {
       "ID": "YipMan",
@@ -39286,7 +39297,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Kingofcups",
@@ -39406,7 +39417,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "EasyComeEasyGo",
@@ -39421,21 +39432,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896750,
+      "Progressed": 896755,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25373,
+      "Progressed": 25378,
       "Completed": 10224
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-15T11:00:13.077645+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:05:39.1404347+00:00",
+  "LastChanged": "2023-11-15T12:00:37.3290324+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:06:07.5297672+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:00:13.0776455+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:05:39.1405862+00:00"
+  "LastUpdate_Ratings": "2023-11-15T12:00:37.3290334+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:06:07.5299603+00:00"
 }

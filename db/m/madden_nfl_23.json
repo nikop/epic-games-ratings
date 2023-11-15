@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3439,
+  "EOS_Progressed": 3440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5369,6 +5369,11 @@
       "Time": "2023-11-15T11:03:41.2939521+00:00",
       "NumProgressed": 3439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T12:03:56.653649+00:00",
+      "NumProgressed": 3440,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5389,7 +5394,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "achievement_11",
@@ -5397,7 +5402,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "achievement_12",
@@ -5421,7 +5426,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "achievement_15",
@@ -5429,7 +5434,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "achievement_16",
@@ -5437,7 +5442,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "achievement_17",
@@ -5548,7 +5553,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3439,
+      "Progressed": 3440,
       "Completed": 0
     }
   ],
@@ -5556,8 +5561,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:03:41.2939517+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:03:56.6536486+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:00:00.312957+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:03:41.2939827+00:00"
+  "LastUpdate_Ratings": "2023-11-15T12:00:22.6299418+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:03:56.6536822+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -469,9 +469,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2330,
+  "EOS_Progressed": 2331,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7094,6 +7094,11 @@
       "Time": "2023-11-15T09:08:39.3505794+00:00",
       "NumProgressed": 2330,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T12:08:35.3333551+00:00",
+      "NumProgressed": 2331,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7129,7 +7134,7 @@
       "Name": "Arena Challenger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "backgroundstory",
@@ -7137,7 +7142,7 @@
       "Name": "Background Story",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "beastwarmachines",
@@ -7233,7 +7238,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "enchantingskill",
@@ -7281,7 +7286,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "fellowshippower",
@@ -7337,7 +7342,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "herewegoagain",
@@ -7497,7 +7502,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "prestigiousx10",
@@ -7561,7 +7566,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "thealchemist",
@@ -7665,7 +7670,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "warmachinesarmy",
@@ -7697,14 +7702,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2330,
+      "Progressed": 2331,
       "Completed": 2
     }
   ],
@@ -7712,8 +7717,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-12T10:58:26.0075516+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:08:10.2558978+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:08:35.3333546+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:59:47.798189+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:08:10.2559872+00:00"
+  "LastUpdate_Ratings": "2023-11-15T12:00:09.2788296+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:08:35.3334587+00:00"
 }

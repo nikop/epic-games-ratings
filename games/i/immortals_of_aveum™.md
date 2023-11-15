@@ -16,8 +16,8 @@ Rating: 4.06 (Ranked 973)
 | Soldier | 32.00% | ~88 |
 | All the Major Food Groups | 31.00% | ~85 |
 | Beggars Would Ride | 28.00% | ~77 |
+| Control is an Illusion | 27.00% | ~74 |
 | Socialite | 27.00% | ~74 |
-| Control is an Illusion | 26.00% | ~72 |
 | The Means to Save It | 20.00% | ~55 |
 | Resilience to Sin | 19.00% | ~52 |
 | A Familiar Nest | 18.00% | ~50 |

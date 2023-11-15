@@ -44,6 +44,7 @@ Rating: 4.61 (Ranked 384)
 | Crimson Caldera | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
+| The Goddess of Nature | 0.20% | ~11 |
 | Manufactured War | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
@@ -51,7 +52,6 @@ Rating: 4.61 (Ranked 384)
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
-| The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |

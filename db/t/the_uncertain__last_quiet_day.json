@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -813,9 +813,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "ANNOYING",
@@ -989,9 +989,9 @@
       "ID": "PLEASE",
       "SetID": "2iigf77",
       "Name": "Please oh pleeease!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "POOL",
@@ -1078,8 +1078,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:08:24.8153165+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:08:51.336648+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.7035682+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:58:06.3880709+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:08:24.8153383+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:58:14.3501094+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:08:51.3366768+00:00"
 }

@@ -25,15 +25,15 @@ Rating: 4.27 (Ranked 858)
 | The Greedy Ones | 2.00% | ~23 |
 | The Unruly Ones | 2.00% | ~23 |
 | The great fire | 1.00% | ~12 |
+| The Council | 1.00% | ~12 |
 | The Mad | 1.00% | ~12 |
-| The Council | 0.90% | ~10 |
 | Like the dream | 0.90% | ~10 |
 | Charismatic Leader | 0.80% | ~9 |
 | Metropolis | 0.70% | ~8 |
+| Red Tape | 0.60% | ~7 |
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
 | The Great Winter | 0.50% | ~6 |
-| Red Tape | 0.50% | ~6 |
 | It's spreading | 0.30% | ~3 |
 | The Flail | 0.30% | ~3 |
 | The Incarnate | 0.30% | ~3 |

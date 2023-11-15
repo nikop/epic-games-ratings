@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8330,9 +8330,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476062,
+  "EOS_Progressed": 476063,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29625,6 +29625,11 @@
       "Time": "2023-11-15T11:05:48.0837469+00:00",
       "NumProgressed": 476062,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-15T12:06:17.6032442+00:00",
+      "NumProgressed": 476063,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -29820,7 +29825,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238031
+      "UsersEstimate": 238032
     },
     {
       "ID": "achievement_club_world_cup",
@@ -29924,7 +29929,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133297
+      "UsersEstimate": 133298
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -29932,7 +29937,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95212
+      "UsersEstimate": 95213
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -29956,7 +29961,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195185
+      "UsersEstimate": 195186
     },
     {
       "ID": "achievement_head_to_head",
@@ -29980,7 +29985,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 147579
+      "UsersEstimate": 147580
     },
     {
       "ID": "achievement_impervious",
@@ -30076,7 +30081,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95212
+      "UsersEstimate": 95213
     },
     {
       "ID": "achievement_pick_feeder",
@@ -30188,7 +30193,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238031
+      "UsersEstimate": 238032
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -30260,7 +30265,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19042
+      "UsersEstimate": 19043
     },
     {
       "ID": "achievement_won_a_match",
@@ -30268,7 +30273,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238031
+      "UsersEstimate": 238032
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -30324,7 +30329,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57127
+      "UsersEstimate": 57128
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -30332,7 +30337,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 147579
+      "UsersEstimate": 147580
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -30419,15 +30424,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476062,
+      "Progressed": 476063,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-15T10:01:10.5694614+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:05:48.0837465+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:06:17.6032439+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:57.2489615+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:59:53.7353592+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:05:48.0839384+00:00"
+  "LastUpdate_Ratings": "2023-11-15T12:00:15.3746017+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:06:17.6034387+00:00"
 }

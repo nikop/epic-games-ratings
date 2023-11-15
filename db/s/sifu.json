@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7641,9 +7641,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716915,
+  "EOS_Progressed": 716918,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26106,6 +26106,11 @@
       "Time": "2023-11-15T09:06:07.0960762+00:00",
       "NumProgressed": 716915,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-15T12:06:14.8005041+00:00",
+      "NumProgressed": 716918,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26117,7 +26122,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "02_Vengeance_H1",
@@ -26293,7 +26298,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -26596,21 +26601,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26216,
+      "Progressed": 26219,
       "Completed": 10741
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716915,
+      "Progressed": 716918,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-15T04:57:24.3586478+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:05:45.5860404+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:06:14.8005035+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:57:24.5421364+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:05:45.5861674+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:57:25.3003273+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:06:14.8006832+00:00"
 }

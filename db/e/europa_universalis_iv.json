@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 230,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12019,10 +12019,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57635,
       "NumberOfAwardsMax": 7013
+    },
+    {
+      "Time": "2023-11-15T11:57:34.924497+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57663,
+      "NumberOfAwardsMax": 7013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57635,
+  "NumberOfAwards": 57663,
   "NumberOfAwardsMax": 7013,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12042,7 +12048,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6725
+      "Count": 6753
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12093,9 +12099,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455966,
+  "EOS_Progressed": 455992,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6252,
+  "EOS_NewPlayers": 6254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36003,6 +36009,11 @@
       "Time": "2023-11-15T11:03:51.0960207+00:00",
       "NumProgressed": 455966,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T12:04:07.9189135+00:00",
+      "NumProgressed": 455992,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36916,9 +36927,9 @@
       "ID": "achievement_full_house",
       "SetID": "8p2n7he",
       "Name": "Full House",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_ganges_khan",
@@ -37652,9 +37663,9 @@
       "ID": "achievement_no_pirates_in_my_carribean",
       "SetID": "8p2n7he",
       "Name": "No Pirates in my Caribbean",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_no_trail_of_tears",
@@ -38917,21 +38928,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455966,
+      "Progressed": 455992,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455966,
+      "Progressed": 455992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-15T10:57:33.4697993+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:03:51.0960204+00:00",
+  "LastChanged": "2023-11-15T11:57:34.9244968+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:04:07.918913+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:57:33.4697999+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:03:51.0971622+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:57:34.9244974+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:04:07.9199648+00:00"
 }

@@ -21,13 +21,13 @@
 | Hacker | 19.00% | ~110 |
 | He is just a child | 19.00% | ~110 |
 | Uncertain | 18.00% | ~104 |
+| Ace | 17.00% | ~98 |
 | Goody | 17.00% | ~98 |
-| Ace | 16.00% | ~92 |
+| Please oh pleeease! | 17.00% | ~98 |
 | Concrete painting | 16.00% | ~92 |
 | Found it! | 16.00% | ~92 |
 | Hipster | 16.00% | ~92 |
 | Not what it seems | 16.00% | ~92 |
-| Please oh pleeease! | 16.00% | ~92 |
 | That's much better! | 15.00% | ~87 |
 | Not as clumsy or random | 13.00% | ~75 |
 | Blade Runner | 10.00% | ~58 |

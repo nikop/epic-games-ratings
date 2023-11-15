@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4183,10 +4183,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4997,
       "NumberOfAwardsMax": 2206
+    },
+    {
+      "Time": "2023-11-15T12:03:02.3058424+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5012,
+      "NumberOfAwardsMax": 2206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4997,
+  "NumberOfAwards": 5012,
   "NumberOfAwardsMax": 2206,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4242,7 +4248,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 265
+      "Count": 271
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4254,12 +4260,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 300
+      "Count": 309
     }
   ],
-  "EOS_Progressed": 221074,
+  "EOS_Progressed": 221093,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 2282,
+  "EOS_NewPlayers": 2293,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -18167,6 +18173,11 @@
       "Time": "2023-11-15T11:08:00.3580003+00:00",
       "NumProgressed": 221074,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-11-15T12:08:24.395017+00:00",
+      "NumProgressed": 221093,
+      "NumCompleted": 453
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18217,9 +18228,9 @@
       "ID": "Defeat_Corrupted_Ravager",
       "SetID": "bkp3b1a",
       "Name": "Chaos",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Defeat_Cube",
@@ -18393,9 +18404,9 @@
       "ID": "Obtain_Blood_Moon_Item",
       "SetID": "bkp3b1a",
       "Name": "Bad Moon Rising",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -18618,22 +18629,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 221074,
+      "Progressed": 221093,
       "Completed": 453
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 239,
+      "Progressed": 258,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-15T05:03:30.7954891+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:08:00.3579999+00:00",
+  "LastChanged": "2023-11-15T12:03:02.3058422+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:08:24.3950164+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:02:53.6913462+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:08:00.3581022+00:00"
+  "LastUpdate_Ratings": "2023-11-15T12:03:02.3058428+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:08:24.3951181+00:00"
 }

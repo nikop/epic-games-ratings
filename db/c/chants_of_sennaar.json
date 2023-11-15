@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 557,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.39,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2380,6 +2380,11 @@
       "Time": "2023-11-15T05:03:44.5691187+00:00",
       "NumProgressed": 555,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-15T12:03:19.3743745+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2391,7 +2396,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "END_GOOD",
@@ -2399,7 +2404,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "META_ALL_LINK",
@@ -2431,7 +2436,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2477,9 +2482,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 61
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2501,9 +2506,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2527,7 +2532,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2535,7 +2540,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2559,7 +2564,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "PROGRESS_N3",
@@ -2567,7 +2572,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "PROGRESS_N4",
@@ -2583,21 +2588,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 557,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:03:07.5513697+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:03:19.3743741+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:57:51.5921193+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:03:07.5513997+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:57:57.2473162+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:03:19.3744117+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 4.75 (Ranked 145)
 | Am I Seeing This? | 0.10% | ~221 |
 | Ghost in the Machine | 0.10% | ~221 |
 | Only Human | 0.10% | ~221 |
+| Chaos | 0.10% | ~221 |
 | Gleaming the Cube | 0.10% | ~221 |
 | Power Surge | 0.10% | ~221 |
 | The Killing Jar | 0.10% | ~221 |
@@ -28,6 +29,7 @@ Rating: 4.75 (Ranked 145)
 | Duality | 0.10% | ~221 |
 | Top Performer | 0.10% | ~221 |
 | Shhh...It's a Secret | 0.10% | ~221 |
+| Bad Moon Rising | 0.10% | ~221 |
 | Was This Supposed To Happen? | 0.10% | ~221 |
 | Boss'n Up | 0.10% | ~221 |
 | Strapped | 0.10% | ~221 |
@@ -52,16 +54,14 @@ Rating: 4.75 (Ranked 145)
 | Regicide | 0.10% | ~0 |
 | Master of the Dark Arts | 0.10% | ~0 |
 | A Foul Feast | 0.10% | ~0 |
-| Chaos | 0.00% | ~0 |
 | Traitor | 0.00% | ~0 |
 | Forever is a Long Time Coming | 0.00% | ~0 |
 | The God Gambit | 0.00% | ~0 |
-| Bad Moon Rising | 0.00% | ~0 |
 | The Web | 0.00% | ~0 |
 | Succession | 0.00% | ~0 |
 | You Shall Pass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,074 (Ranked 68)  
+Progressed: 221,093 (Ranked 68)  
 Completed: 453 (0.20%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,22 +183,22 @@ Completed: 453 (0.20%) (Ranked 251)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,074 | 453 |
+| 2023-11-15 | 221,093 | 453 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
-Sum: 4,997 (Ranked 137)  
+Sum: 5,012 (Ranked 137)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,206 |
 | This game has Diverse Characters | 323 |
+| This game is Relaxing | 309 |
 | This game is Extremely Fun | 307 |
 | This game has Challenging Combat | 302 |
-| This game is Relaxing | 300 |
 | This game is Highly Recommended | 294 |
 | This game has Amazing Storytelling | 282 |
 | This game has Quickly Understood Controls | 277 |
-| This game has Amazing Characters | 265 |
+| This game has Amazing Characters | 271 |
 | This game has Unique Visuals | 232 |
 | This game has a Creative Community | 209 |
 ## Ratings History
@@ -316,4 +316,4 @@ Diff (max vs sum): -29
 | 2023-11-12 | 4.75 | 2,158 | 4,870 |
 | 2023-11-13 | 4.75 | 2,168 | 4,912 |
 | 2023-11-14 | 4.75 | 2,206 | 4,991 |
-| 2023-11-15 | 4.75 | 2,206 | 4,997 |
+| 2023-11-15 | 4.75 | 2,206 | 5,012 |

@@ -32,7 +32,7 @@ Number of Ratings: 25  (23.09.2022)
 | Asmodeus | 9.00% | ~55 |
 | A Close | 9.00% | ~55 |
 | Luna | 8.00% | ~49 |
-| Lover | 1.00% | ~6 |
+| Lover | 2.00% | ~12 |
 | The Harvester | 1.00% | ~6 |
 | Conclusions | 1.00% | ~6 |
 | Playboy | 0.30% | ~2 |

@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5294,
+  "EOS_Progressed": 5295,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 892,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3300,6 +3300,11 @@
       "Time": "2023-11-15T11:08:32.5215251+00:00",
       "NumProgressed": 5294,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T12:08:59.7823235+00:00",
+      "NumProgressed": 5295,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3352,7 +3357,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Eavesdropper",
@@ -3504,7 +3509,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "TheQuarterback",
@@ -3544,7 +3549,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -3583,7 +3588,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5294,
+      "Progressed": 5295,
       "Completed": 6
     }
   ],
@@ -3591,8 +3596,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:08:32.5215245+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:08:59.7823229+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:59:03.2057119+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:08:32.5215597+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:59:18.8123666+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:08:59.7823732+00:00"
 }

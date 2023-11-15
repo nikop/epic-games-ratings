@@ -5,14 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Found It | 2.00% | ~4 |
-| Break Out | 0.50% | ~1 |
+| Break Out | 1.00% | ~2 |
+| Trinity | 1.00% | ~2 |
+| Find Allies | 0.50% | ~1 |
 | Clear Sight | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
+| Powerful Allies | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
-| Powerful Allies | -0.50% | ~-1 |
 | Calm before the Storm | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
@@ -26,9 +28,8 @@
 | All That Gold | -0.50% | ~-1 |
 | Stone Collection | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
-| Find Allies | -1.10% | ~-2 |
-| Trinity | -1.10% | ~-2 |
 | Adventurer | -1.10% | ~-2 |
+| Essence Blow | -1.10% | ~-2 |
 | Geared Up | -1.10% | ~-2 |
 | Alchemist | -1.10% | ~-2 |
 | A Queen's Tale | -1.10% | ~-2 |
@@ -37,7 +38,6 @@
 | A Taste of Wrath | -1.60% | ~-3 |
 | The Mentor | -1.60% | ~-3 |
 | Airborne | -1.60% | ~-3 |
-| Essence Blow | -1.60% | ~-3 |
 | Miner | -1.60% | ~-3 |
 | The Collector | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)

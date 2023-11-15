@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,902 |
+| V for Vendetta | 3.00% | ~26,903 |
 | Gun Fu | 2.00% | ~17,935 |
 | Relic Ruler | 1.00% | ~254 |
 | Full Body Conversion | 0.70% | ~6,277 |
 | True Soldier | 0.70% | ~6,277 |
-| Right Back At Ya | 0.60% | ~5,380 |
-| Stanislavski's Method | 0.60% | ~5,380 |
+| Right Back At Ya | 0.60% | ~5,381 |
+| Stanislavski's Method | 0.60% | ~5,381 |
 | All the President's Men | 0.60% | ~152 |
 | Arachnophobia | 0.60% | ~152 |
 | The Quick and the Dead | 0.50% | ~4,484 |
@@ -21,17 +21,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.50% | ~4,484 |
 | True Warrior | 0.50% | ~4,484 |
 | Bushido and Chill | 0.40% | ~3,587 |
+| Master Crafter | 0.40% | ~3,587 |
 | Christmas Tree Attack | 0.40% | ~3,587 |
 | Life of the Road | 0.40% | ~3,587 |
 | The High Priestess | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
 | Judy vs Night City | 0.40% | ~3,587 |
 | Legend of The Afterlife | 0.40% | ~3,587 |
-| Spin Doctor | 0.40% | ~101 |
-| Dirty Deeds | 0.40% | ~101 |
+| Spin Doctor | 0.40% | ~102 |
+| Dirty Deeds | 0.40% | ~102 |
 | To Protect and Serve | 0.30% | ~2,690 |
 | The Wandering Fool | 0.30% | ~2,690 |
-| Master Crafter | 0.30% | ~2,690 |
 | I Am The Law | 0.30% | ~2,690 |
 | The Fool | 0.30% | ~2,690 |
 | Two Heads, One Bullet | 0.30% | ~2,690 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,750 (Ranked 15)  
+Progressed: 896,755 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,10 +283,10 @@ Completed: 2,778 (0.31%) (Ranked 227)
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
-| 2023-11-15 | 896,750 | 2,778 |
+| 2023-11-15 | 896,755 | 2,778 |
 ## Awards
 Max (Character Customization): 105,471  (Ranked 9)  
-Sum: 353,166 (Ranked 10)  
+Sum: 353,229 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 19,988 |
 | This game has Amazing Storytelling | 19,864 |
 | This game is Extremely Fun | 19,622 |
-| This game has Amazing Characters | 19,427 |
+| This game has Amazing Characters | 19,490 |
 | This game is Relaxing | 18,676 |
 | This game has Quickly Understood Controls | 18,675 |
 | This game has a Creative Community | 12,991 |
@@ -604,4 +604,4 @@ Diff (max vs sum): -1
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
 | 2023-11-14 | 4.64 | - | 105,471 | 352,694 |
-| 2023-11-15 | 4.64 | - | 105,471 | 353,166 |
+| 2023-11-15 | 4.64 | - | 105,471 | 353,229 |

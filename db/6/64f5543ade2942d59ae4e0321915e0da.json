@@ -240,9 +240,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -360,9 +360,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:05:12.1763464+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:05:37.5766038+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-15T11:00:18.7392067+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:05:12.1763724+00:00"
+  "LastUpdate_Ratings": "2023-11-15T12:00:44.4838159+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:05:37.5766285+00:00"
 }

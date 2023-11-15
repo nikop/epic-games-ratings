@@ -83,7 +83,7 @@ Rating: 4.52 (Ranked 554)
 | Win Quickly | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,280 (Ranked 217)  
+Progressed: 2,280 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |

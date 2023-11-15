@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 128)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,338 |
-| First Class Student | 14.00% | ~42,296 |
-| Troll with the Punches | 14.00% | ~42,296 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,339 |
+| First Class Student | 14.00% | ~42,297 |
+| Troll with the Punches | 14.00% | ~42,297 |
 | A Keen Sense of Spell | 13.00% | ~39,275 |
 | That's a Keeper | 13.00% | ~39,275 |
 | A Talent for Spending | 12.00% | ~36,254 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 128)
 | The Hero of Hogwarts | 10.00% | ~30,212 |
 | Followed the Butterflies | 10.00% | ~30,212 |
 | Rising From the Ashes | 10.00% | ~30,212 |
-| The Spell Master | 9.00% | ~27,190 |
+| The Spell Master | 9.00% | ~27,191 |
 | The Avenging Gazelle | 8.00% | ~24,169 |
 | Beast Friends | 8.00% | ~24,169 |
 | A Sallow Grave | 8.00% | ~24,169 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 128)
 | Room with a View | 4.00% | ~12,085 |
 | The Intrepid Explorer | 4.00% | ~12,085 |
 | The Wise Owl | 4.00% | ~12,085 |
-| Put Down Roots | 3.00% | ~9,063 |
-| The Auror's Apprentice | 3.00% | ~9,063 |
-| Floo Around the World | 3.00% | ~9,063 |
+| Put Down Roots | 3.00% | ~9,064 |
+| The Auror's Apprentice | 3.00% | ~9,064 |
+| Floo Around the World | 3.00% | ~9,064 |
 | The Good Samaritan | 2.00% | ~6,042 |
 | Rise to the Challenges | 2.00% | ~6,042 |
 | Demiguise Dread | 2.00% | ~6,042 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,115 (Ranked 51)  
+Progressed: 302,118 (Ranked 51)  
 Completed: 511 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 511 (0.17%) (Ranked 257)
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
-| 2023-11-15 | 302,115 | 511 |
+| 2023-11-15 | 302,118 | 511 |
 ## Awards
 Max (Character Customization): 24,313  (Ranked 17)  
 Sum: 48,199 (Ranked 30)  

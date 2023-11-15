@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -2166,9 +2166,9 @@
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
@@ -2390,9 +2390,9 @@
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -2495,8 +2495,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:05:34.301022+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:06:02.0270109+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:20.4022429+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:59:31.5177798+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:05:34.3010608+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:59:50.3460134+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:06:02.0270494+00:00"
 }

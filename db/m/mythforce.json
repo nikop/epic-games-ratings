@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4880,
+  "EOS_Progressed": 4881,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9275,6 +9275,11 @@
       "Time": "2023-11-15T11:03:22.8993276+00:00",
       "NumProgressed": 4880,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T12:03:36.6243425+00:00",
+      "NumProgressed": 4881,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9319,7 +9324,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9407,7 +9412,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9439,7 +9444,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9470,15 +9475,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4880,
+      "Progressed": 4881,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:03:22.8993273+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:03:36.6243422+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:58:58.1004986+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:03:22.8993821+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:59:13.4217571+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:03:36.624412+00:00"
 }

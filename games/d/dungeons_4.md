@@ -45,15 +45,15 @@
 | The Finitude Drill | 6.00% | ~16 |
 | My Little Torture Chamber | 5.00% | ~13 |
 | Bonus Evilness | 5.00% | ~13 |
+| Sabotage! | 5.00% | ~13 |
 | Doom Hill | 5.00% | ~13 |
-| Sabotage! | 4.00% | ~11 |
-| Brimstone Shaken, Not Stirred | 4.00% | ~11 |
+| Brimstone Shaken, Not Stirred | 5.00% | ~13 |
+| Rubble and Ashes | 4.00% | ~11 |
 | Gorgu is in the Best of Health | 3.00% | ~8 |
 | Mirror, Mirror | 3.00% | ~8 |
 | Laser Eyes Are So Useless | 3.00% | ~8 |
 | Untouchable | 3.00% | ~8 |
 | Lavalumps on Ice! | 3.00% | ~8 |
-| Rubble and Ashes | 3.00% | ~8 |
 | Raiders of the Lost Stone | 3.00% | ~8 |
 | The Rune Sockets of Finitude (Part 1) | 3.00% | ~8 |
 | To the Max! | 3.00% | ~8 |

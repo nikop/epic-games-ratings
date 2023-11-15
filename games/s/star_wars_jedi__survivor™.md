@@ -5,42 +5,42 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~7,916 |
-| For Saw Gerrera | 98.00% | ~7,836 |
-| Grab Some Seat | 91.00% | ~7,276 |
-| Can You Pet the Bogling? | 87.00% | ~6,957 |
-| The Past Made Present | 82.00% | ~6,557 |
-| Survivors, We Adapt | 78.00% | ~6,237 |
-| Among the Masters | 77.00% | ~6,157 |
-| They Never Saw It Coming | 76.00% | ~6,077 |
-| Who Gives a Puck | 73.00% | ~5,837 |
-| Mirror Match | 64.00% | ~5,117 |
-| For the Path | 64.00% | ~5,117 |
-| Now, This Isn't Podracing | 63.00% | ~5,037 |
-| Skywalker | 61.00% | ~4,878 |
-| Out of Bedlam | 60.00% | ~4,798 |
-| Cleaning Up | 53.00% | ~4,238 |
-| Tanalorr Bound | 52.00% | ~4,158 |
-| Kitted Out | 51.00% | ~4,078 |
-| Tragedy | 49.00% | ~3,918 |
-| Hey, Luke At Us | 49.00% | ~3,918 |
-| At the Precipice | 48.00% | ~3,838 |
-| Into the Abyss | 46.00% | ~3,678 |
-| Riposte | 46.00% | ~3,678 |
-| A Place You Could Call Home | 44.00% | ~3,518 |
-| Greezy Money | 43.00% | ~3,438 |
-| Catch! | 40.00% | ~3,198 |
-| They're Probably Fine | 39.00% | ~3,118 |
-| Han Slowlo | 37.00% | ~2,959 |
-| There Is No Try | 36.00% | ~2,879 |
-| The Jedi Path | 31.00% | ~2,479 |
-| This Is Canon | 28.00% | ~2,239 |
-| It's a Trap | 26.00% | ~2,079 |
-| You've Got A Friend | 22.00% | ~1,759 |
-| King of the World | 16.00% | ~1,279 |
-| Reconnaissance | 15.00% | ~1,199 |
-| Max Capacity | 14.00% | ~1,119 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,119 |
+| Rooftop Duel | 99.00% | ~7,919 |
+| For Saw Gerrera | 98.00% | ~7,839 |
+| Grab Some Seat | 91.00% | ~7,279 |
+| Can You Pet the Bogling? | 87.00% | ~6,959 |
+| The Past Made Present | 82.00% | ~6,559 |
+| Survivors, We Adapt | 78.00% | ~6,239 |
+| Among the Masters | 77.00% | ~6,159 |
+| They Never Saw It Coming | 76.00% | ~6,079 |
+| Who Gives a Puck | 73.00% | ~5,839 |
+| Mirror Match | 64.00% | ~5,119 |
+| For the Path | 64.00% | ~5,119 |
+| Now, This Isn't Podracing | 63.00% | ~5,039 |
+| Skywalker | 61.00% | ~4,879 |
+| Out of Bedlam | 60.00% | ~4,799 |
+| Cleaning Up | 53.00% | ~4,239 |
+| Tanalorr Bound | 52.00% | ~4,159 |
+| Kitted Out | 51.00% | ~4,079 |
+| Tragedy | 49.00% | ~3,920 |
+| Hey, Luke At Us | 49.00% | ~3,920 |
+| At the Precipice | 48.00% | ~3,840 |
+| Into the Abyss | 46.00% | ~3,680 |
+| Riposte | 46.00% | ~3,680 |
+| A Place You Could Call Home | 44.00% | ~3,520 |
+| Greezy Money | 43.00% | ~3,440 |
+| Catch! | 40.00% | ~3,200 |
+| They're Probably Fine | 39.00% | ~3,120 |
+| Han Slowlo | 37.00% | ~2,960 |
+| There Is No Try | 36.00% | ~2,880 |
+| The Jedi Path | 31.00% | ~2,480 |
+| This Is Canon | 28.00% | ~2,240 |
+| It's a Trap | 26.00% | ~2,080 |
+| You've Got A Friend | 22.00% | ~1,760 |
+| King of the World | 16.00% | ~1,280 |
+| Reconnaissance | 15.00% | ~1,200 |
+| Max Capacity | 14.00% | ~1,120 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,120 |
 | Slam Dunk | 12.00% | ~960 |
 | Star Tours | 10.00% | ~800 |
 | Gambler | 10.00% | ~800 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~240 |
 | Pinpoint | 2.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,996 (Ranked 168)  
+Progressed: 7,999 (Ranked 168)  
 Completed: 44 (0.55%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,15 +119,15 @@ Completed: 44 (0.55%) (Ranked 190)
 | 2023-11-12 | 7,858 | 42 |
 | 2023-11-13 | 7,935 | 42 |
 | 2023-11-14 | 7,979 | 44 |
-| 2023-11-15 | 7,996 | 44 |
+| 2023-11-15 | 7,999 | 44 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 95)  
-Sum: 4,904 (Ranked 140)  
+Sum: 4,906 (Ranked 140)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,211 |
-| This game has Amazing Storytelling | 224 |
+| This game has Amazing Storytelling | 226 |
 | This game has Quickly Understood Controls | 206 |
 | This game has Amazing Characters | 202 |
 | This game has Diverse Characters | 198 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -45
 | 2023-11-12 | 4.50 | 3,200 | 4,869 |
 | 2023-11-13 | 4.50 | 3,200 | 4,880 |
 | 2023-11-14 | 4.50 | 3,211 | 4,902 |
-| 2023-11-15 | 4.50 | 3,211 | 4,904 |
+| 2023-11-15 | 4.50 | 3,211 | 4,906 |

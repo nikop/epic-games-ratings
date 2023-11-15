@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -5540,9 +5540,9 @@
       "ID": "achievement_01_07",
       "SetID": "4f1m94d",
       "Name": "Car Workshop",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2853
     },
     {
       "ID": "achievement_01_08",
@@ -5805,8 +5805,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-12T07:00:07.6812412+00:00",
-  "LastChanged_Achievements": "2023-11-15T11:03:59.6285088+00:00",
+  "LastChanged_Achievements": "2023-11-15T12:04:16.9175875+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-15T10:57:19.0748686+00:00",
-  "LastUpdate_Achievements": "2023-11-15T11:03:59.6285597+00:00"
+  "LastUpdate_Ratings": "2023-11-15T11:57:19.074384+00:00",
+  "LastUpdate_Achievements": "2023-11-15T12:04:16.9176422+00:00"
 }
