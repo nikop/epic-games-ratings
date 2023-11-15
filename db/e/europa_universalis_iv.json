@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12037,10 +12037,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57694,
       "NumberOfAwardsMax": 7013
+    },
+    {
+      "Time": "2023-11-15T21:57:43.0779398+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57716,
+      "NumberOfAwardsMax": 7013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57694,
+  "NumberOfAwards": 57716,
   "NumberOfAwardsMax": 7013,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12048,7 +12054,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6712
+      "Count": 6734
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12111,9 +12117,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456373,
+  "EOS_Progressed": 456410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6264,
+  "EOS_NewPlayers": 6277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36071,6 +36077,11 @@
       "Time": "2023-11-15T21:04:18.3772424+00:00",
       "NumProgressed": 456373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T22:04:06.1686891+00:00",
+      "NumProgressed": 456410,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38856,9 +38867,9 @@
       "ID": "achievement_winged_hussars",
       "SetID": "8p2n7he",
       "Name": "Winged Hussars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_with_a_little_help",
@@ -38985,21 +38996,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456373,
+      "Progressed": 456410,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456373,
+      "Progressed": 456410,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-15T18:58:04.4463968+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:04:18.3772419+00:00",
+  "LastChanged": "2023-11-15T21:57:43.0779396+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:04:06.1686886+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:57:54.5691381+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:04:18.3782593+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:57:43.0779402+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:04:06.1696874+00:00"
 }

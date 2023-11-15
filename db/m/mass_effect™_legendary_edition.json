@@ -3,7 +3,7 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -3673,9 +3673,9 @@
       "ID": "achievement_121",
       "SetID": "d252ncf",
       "Name": "Paramour II",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_122",
@@ -4073,9 +4073,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_53",
@@ -4089,9 +4089,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_55",
@@ -4265,17 +4265,17 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_75",
       "SetID": "d252ncf",
       "Name": "Revenge!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_76",
@@ -4377,9 +4377,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_88",
@@ -4501,8 +4501,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:04:52.0260937+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:04:39.5010416+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:03:00.1606046+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:04:52.0262468+00:00"
+  "LastUpdate_Ratings": "2023-11-15T22:02:47.4705448+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:04:39.5012259+00:00"
 }

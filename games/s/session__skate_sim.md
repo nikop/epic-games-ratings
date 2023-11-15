@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,9 +18,9 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 10.00% | ~307 |
 | Upfront shredder | 10.00% | ~307 |
 | Good vibes | 9.00% | ~276 |
+| Fashionista | 8.00% | ~246 |
 | That pinch! | 8.00% | ~246 |
 | Bottom ply killer | 7.00% | ~215 |
-| Fashionista | 7.00% | ~215 |
 | Finally he zips it | 7.00% | ~215 |
 | G'Day Mate! | 7.00% | ~215 |
 | Tight lipslides | 7.00% | ~215 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,070 (Ranked 209)  
-Completed: 2 (0.07%) (Ranked 293)  
+Completed: 2 (0.07%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

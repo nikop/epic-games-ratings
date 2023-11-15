@@ -6,7 +6,7 @@
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
@@ -701,7 +701,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 1811,
+  "EOS_Progressed": 1812,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
@@ -5431,6 +5431,11 @@
       "Time": "2023-11-15T18:08:29.2114927+00:00",
       "NumProgressed": 1811,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-15T22:02:58.5564473+00:00",
+      "NumProgressed": 1812,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -5443,7 +5448,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "achievement_10",
@@ -5451,7 +5456,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "achievement_11",
@@ -5459,7 +5464,7 @@
       "Name": "Betrayed",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "achievement_12",
@@ -5531,7 +5536,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "achievement_20",
@@ -5539,7 +5544,7 @@
       "Name": "Autofire",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "achievement_21",
@@ -5563,7 +5568,7 @@
       "Name": "Pusher",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_24",
@@ -5603,7 +5608,7 @@
       "Name": "Story Teller",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "achievement_29",
@@ -5619,7 +5624,7 @@
       "Name": "All Systems Go",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "achievement_30",
@@ -5635,7 +5640,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "achievement_32",
@@ -5659,7 +5664,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "achievement_35",
@@ -5675,7 +5680,7 @@
       "Name": "Backbreaker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_37",
@@ -5699,7 +5704,7 @@
       "Name": "Z-Baller",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "achievement_4",
@@ -5731,7 +5736,7 @@
       "Name": "Brute Force",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "achievement_43",
@@ -5779,7 +5784,7 @@
       "Name": "True Believer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "achievement_6",
@@ -5818,7 +5823,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1811,
+      "Progressed": 1812,
       "Completed": 9
     }
   ],
@@ -5826,8 +5831,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-15T20:07:54.4194509+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:02:58.5564469+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:57:53.0851619+00:00",
-  "LastUpdate_Achievements": "2023-11-15T20:07:54.4195219+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:57:41.6030446+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:02:58.5565018+00:00"
 }

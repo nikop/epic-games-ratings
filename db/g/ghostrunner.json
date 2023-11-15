@@ -6,7 +6,7 @@
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22614,
+  "EOS_Progressed": 22615,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24145,6 +24145,11 @@
       "Time": "2023-11-15T20:04:14.4731684+00:00",
       "NumProgressed": 22614,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2023-11-15T22:03:39.7262851+00:00",
+      "NumProgressed": 22615,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 45,
@@ -24180,7 +24185,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "CantRunCantHide",
@@ -24244,7 +24249,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10176
+      "UsersEstimate": 10177
     },
     {
       "ID": "ICallItLuck",
@@ -24340,7 +24345,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9950
+      "UsersEstimate": 9951
     },
     {
       "ID": "Perfection",
@@ -24348,7 +24353,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7236
+      "UsersEstimate": 7237
     },
     {
       "ID": "PreempativeStrike",
@@ -24476,7 +24481,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 11985
+      "UsersEstimate": 11986
     },
     {
       "ID": "WaveOfMutilation",
@@ -24515,21 +24520,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22614,
+      "Progressed": 22615,
       "Completed": 55
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22614,
+      "Progressed": 22615,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:03:51.7279949+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:03:39.7262847+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4968471+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:02:46.4524322+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:03:51.728106+00:00"
+  "LastUpdate_Ratings": "2023-11-15T22:02:33.2289749+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:03:39.7264198+00:00"
 }

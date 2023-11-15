@@ -19,9 +19,9 @@ Rating: 3.95 (Ranked 1,005)
 | Dragonslayer | 1.00% | ~912 |
 | Rockay Rex | 1.00% | ~912 |
 | Hidden Sonata | 0.80% | ~729 |
+| True Player | 0.80% | ~729 |
 | Track Star | 0.70% | ~638 |
 | Headhunter | 0.70% | ~638 |
-| True Player | 0.70% | ~638 |
 | I Like Trains | 0.50% | ~456 |
 | Freebooter | 0.50% | ~456 |
 | Moneybags | 0.50% | ~456 |
@@ -48,7 +48,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91,183 (Ranked 91)  
-Completed: 56 (0.06%) (Ranked 295)  
+Completed: 56 (0.06%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

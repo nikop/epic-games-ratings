@@ -37,7 +37,7 @@
 | The Professor | 37.00% | ~469 |
 | Veteran | 36.00% | ~456 |
 | The Archangel | 36.00% | ~456 |
-| Power Full | 35.00% | ~444 |
+| Power Full | 36.00% | ~456 |
 | The Convict | 34.00% | ~431 |
 | Colony Defense | 33.00% | ~418 |
 | The Krogan | 33.00% | ~418 |
@@ -50,14 +50,15 @@
 | Completionist | 30.00% | ~380 |
 | The Assassin | 30.00% | ~380 |
 | The Justicar | 30.00% | ~380 |
+| Battlemaster | 30.00% | ~380 |
+| Catharsis | 30.00% | ~380 |
 | Ghost of the Father | 30.00% | ~380 |
 | Driven | 30.00% | ~380 |
 | Shopaholic | 30.00% | ~380 |
-| Battlemaster | 29.00% | ~368 |
-| Catharsis | 29.00% | ~368 |
 | Fade Away | 29.00% | ~368 |
 | The Cure | 29.00% | ~368 |
 | Big Game Hunter | 29.00% | ~368 |
+| Revenge! | 29.00% | ~368 |
 | Heart of Darkness | 29.00% | ~368 |
 | Bringer of War | 29.00% | ~368 |
 | Focused | 28.00% | ~355 |
@@ -66,7 +67,6 @@
 | Doppelganger | 28.00% | ~355 |
 | Treason | 28.00% | ~355 |
 | Agent | 28.00% | ~355 |
-| Revenge! | 28.00% | ~355 |
 | Digital Exorcist | 28.00% | ~355 |
 | Friend or Foe | 27.00% | ~342 |
 | Mobilizer | 27.00% | ~342 |
@@ -85,17 +85,17 @@
 | Arbiter | 23.00% | ~292 |
 | Liberator | 23.00% | ~292 |
 | Savior | 22.00% | ~279 |
+| Paramour II | 21.00% | ~266 |
 | Lost and Found | 21.00% | ~266 |
-| Paramour II | 20.00% | ~254 |
 | Party Crasher | 20.00% | ~254 |
 | Problem Solver | 20.00% | ~254 |
 | Last Resort | 19.00% | ~241 |
 | Hard Target | 19.00% | ~241 |
+| Saboteur | 19.00% | ~241 |
 | Fact Finder | 19.00% | ~241 |
 | Pyromaniac | 18.00% | ~228 |
 | Under Pressure | 18.00% | ~228 |
 | No One Left Behind | 18.00% | ~228 |
-| Saboteur | 18.00% | ~228 |
 | Last Witness | 18.00% | ~228 |
 | Well Connected | 18.00% | ~228 |
 | Sabotage Specialist | 16.00% | ~203 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,268 (Ranked 243)  
-Completed: 3 (0.24%) (Ranked 240)  
+Completed: 3 (0.24%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

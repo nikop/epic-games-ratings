@@ -1,25 +1,25 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,343 |
-| On the Top Step | 87.00% | ~4,998 |
-| Setting up for Success | 76.00% | ~4,366 |
-| Team Orders | 74.00% | ~4,251 |
-| Engineer | 54.00% | ~3,102 |
-| Familiar Faces | 47.00% | ~2,700 |
-| Sharing the Love | 41.00% | ~2,355 |
-| Going the Extra Mile | 41.00% | ~2,355 |
+| Getting on the Step | 93.00% | ~5,344 |
+| On the Top Step | 87.00% | ~4,999 |
+| Setting up for Success | 76.00% | ~4,367 |
+| Team Orders | 74.00% | ~4,252 |
+| Engineer | 54.00% | ~3,103 |
+| Familiar Faces | 47.00% | ~2,701 |
+| Sharing the Love | 41.00% | ~2,356 |
+| Going the Extra Mile | 41.00% | ~2,356 |
 | Hitting a Season | 35.00% | ~2,011 |
 | A Dozen Pieces | 31.00% | ~1,781 |
 | Challenge Yourself | 31.00% | ~1,781 |
 | Making History | 31.00% | ~1,781 |
 | Network Success | 26.00% | ~1,494 |
 | Writing a new Chapter | 25.00% | ~1,436 |
-| Spring Cleaning | 23.00% | ~1,321 |
+| Spring Cleaning | 23.00% | ~1,322 |
 | Reduce | 20.00% | ~1,149 |
 | Ups and Downs | 19.00% | ~1,092 |
 | Crucial Combo | 18.00% | ~1,034 |
@@ -29,10 +29,10 @@ Rating: 4.69 (Ranked 231)
 | Gathering Dust | 15.00% | ~862 |
 | Oil and Water | 13.00% | ~747 |
 | Hitting a Bullseye | 13.00% | ~747 |
-| Eagle Eye | 12.00% | ~689 |
-| Lightning Round the World | 12.00% | ~689 |
-| Switcheroo | 12.00% | ~689 |
-| Spinning Around | 12.00% | ~689 |
+| Eagle Eye | 12.00% | ~690 |
+| Lightning Round the World | 12.00% | ~690 |
+| Switcheroo | 12.00% | ~690 |
+| Spinning Around | 12.00% | ~690 |
 | All in a Weekend's Work | 11.00% | ~632 |
 | Friendly Competition | 11.00% | ~632 |
 | Recycle | 11.00% | ~632 |
@@ -55,8 +55,8 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,745 (Ranked 181)  
-Completed: 0 (0.00%) (Ranked 351)  
+Progressed: 5,746 (Ranked 181)  
+Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,14 +118,14 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 5,698 | 0 |
 | 2023-11-13 | 5,713 | 0 |
 | 2023-11-14 | 5,732 | 0 |
-| 2023-11-15 | 5,745 | 0 |
+| 2023-11-15 | 5,746 | 0 |
 ## Awards
-Max (Great for Beginners): 31  (Ranked 489)  
-Sum: 71 (Ranked 465)  
-Diff (max vs sum): 24  
+Max (Great for Beginners): 32  (Ranked 484)  
+Sum: 72 (Ranked 463)  
+Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 31 |
+| This game is Great for Beginners | 32 |
 | This game is Great for Quick Sessions | 24 |
 | This game is Highly Recommended | 20 |
 | This game has Diverse Characters | 20 |
@@ -200,4 +200,4 @@ Diff (max vs sum): 24
 | 2023-11-12 | 4.69 | 28 | 72 |
 | 2023-11-13 | 4.69 | 28 | 48 |
 | 2023-11-14 | 4.68 | 31 | 51 |
-| 2023-11-15 | 4.69 | 31 | 71 |
+| 2023-11-15 | 4.69 | 32 | 72 |

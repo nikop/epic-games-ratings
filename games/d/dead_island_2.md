@@ -23,15 +23,15 @@ Rating: 4.54 (Ranked 523)
 | Apex Predator | 0.70% | ~5,032 |
 | Stacking the Deck | 0.70% | ~5,032 |
 | This is My Weapon | 0.70% | ~5,032 |
-| Perks of the Job | 0.60% | ~4,313 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,313 |
-| Slayer Squad | 0.60% | ~4,313 |
-| Can't Handle the Truth | 0.60% | ~4,313 |
-| Like Riding a Bike | 0.60% | ~4,313 |
-| Zombologist | 0.60% | ~4,313 |
-| Ooh, Shiny! | 0.60% | ~4,313 |
-| A Patton Emerges | 0.60% | ~4,313 |
-| Our True Nature | 0.60% | ~4,313 |
+| Perks of the Job | 0.60% | ~4,314 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,314 |
+| Slayer Squad | 0.60% | ~4,314 |
+| Can't Handle the Truth | 0.60% | ~4,314 |
+| Like Riding a Bike | 0.60% | ~4,314 |
+| Zombologist | 0.60% | ~4,314 |
+| Ooh, Shiny! | 0.60% | ~4,314 |
+| A Patton Emerges | 0.60% | ~4,314 |
+| Our True Nature | 0.60% | ~4,314 |
 | Making Your Mark | 0.50% | ~3,595 |
 | Humanity Distilled | 0.50% | ~3,595 |
 | I Am the Resurrection | 0.50% | ~3,595 |
@@ -39,12 +39,12 @@ Rating: 4.54 (Ranked 523)
 | Not Even My Final Form | 0.40% | ~2,876 |
 | Jumbo Keyring | 0.40% | ~2,876 |
 | Down with the Sickness | 0.40% | ~2,876 |
+| Go, Bobcats! | 0.40% | ~2,876 |
 | Rising Star | 0.40% | ~2,876 |
 | Make it So | 0.30% | ~2,157 |
 | On Safari | 0.30% | ~2,157 |
 | Smorgasbord | 0.30% | ~2,157 |
 | Internet Famous | 0.30% | ~2,157 |
-| Go, Bobcats! | 0.30% | ~2,157 |
 | Variety is the Spice of Death | 0.30% | ~2,157 |
 | Top That, Tisha! | 0.30% | ~133 |
 | LA Influential | 0.20% | ~1,438 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,908 (Ranked 20)  
-Completed: 2,393 (0.33%) (Ranked 223)  
+Progressed: 718,925 (Ranked 20)  
+Completed: 2,393 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,10 +266,10 @@ Completed: 2,393 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,908 | 2,393 |
+| 2023-11-15 | 718,925 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 51)  
-Sum: 11,334 (Ranked 84)  
+Sum: 11,343 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 466 |
 | This game is Highly Recommended | 454 |
 | This game is Extremely Fun | 451 |
-| This game has Amazing Characters | 412 |
+| This game has Amazing Characters | 421 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -493,4 +493,4 @@ Diff (max vs sum): -33
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
-| 2023-11-15 | 4.54 | 7,440 | 11,334 |
+| 2023-11-15 | 4.54 | 7,440 | 11,343 |

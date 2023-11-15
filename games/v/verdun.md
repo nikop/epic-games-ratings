@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,649 |
-| Worth it | 63.00% | ~40,101 |
-| Eagle Eye | 55.00% | ~35,009 |
-| Corpseman I | 40.00% | ~25,461 |
-| Blast fishing | 37.00% | ~23,551 |
-| Not alone | 32.00% | ~20,369 |
-| Headhunter I | 26.00% | ~16,550 |
-| Manual Labour I | 25.00% | ~15,913 |
-| Developers, Developers, Developers | 24.00% | ~15,276 |
-| Basic Training | 24.00% | ~15,276 |
+| Setting an example | 78.00% | ~49,652 |
+| Worth it | 63.00% | ~40,104 |
+| Eagle Eye | 55.00% | ~35,011 |
+| Corpseman I | 40.00% | ~25,463 |
+| Blast fishing | 37.00% | ~23,553 |
+| Not alone | 32.00% | ~20,370 |
+| Headhunter I | 26.00% | ~16,551 |
+| Manual Labour I | 25.00% | ~15,914 |
+| Developers, Developers, Developers | 24.00% | ~15,278 |
+| Basic Training | 24.00% | ~15,278 |
 | Furchtlos und Treu | 13.00% | ~8,275 |
-| Gott Mit Uns | 12.00% | ~7,638 |
+| Gott Mit Uns | 12.00% | ~7,639 |
 | This We'll Defend! | 9.00% | ~5,729 |
 | Anker wirf! | 9.00% | ~5,729 |
 | Providentiea Memor | 9.00% | ~5,729 |
 | For King and Country | 9.00% | ~5,729 |
-| Battle hardened | 8.00% | ~5,092 |
+| Battle hardened | 8.00% | ~5,093 |
 | Semper Fidelis! | 7.00% | ~4,456 |
 | Honneur et Patrie | 7.00% | ~4,456 |
 | In Treue Fest | 5.00% | ~3,183 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~637 |
 | Corpseman III | 1.00% | ~637 |
 | Elite Player | 0.80% | ~509 |
-| Manual Labour III | 0.30% | ~191 |
+| Manual Labour III | 0.40% | ~255 |
 | Buddy | 0.30% | ~191 |
 | War is better with friends II | 0.20% | ~127 |
 | Gold Collector | 0.10% | ~64 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,652 (Ranked 104)  
-Completed: 4 (0.01%) (Ranked 330)  
+Progressed: 63,657 (Ranked 104)  
+Completed: 4 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 4 (0.01%) (Ranked 330)
 | 2023-11-12 | 63,324 | 4 |
 | 2023-11-13 | 63,446 | 4 |
 | 2023-11-14 | 63,564 | 4 |
-| 2023-11-15 | 63,652 | 4 |
+| 2023-11-15 | 63,657 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 350)  
 Sum: 911 (Ranked 270)  

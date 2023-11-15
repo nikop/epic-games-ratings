@@ -42,7 +42,7 @@
 | The Mentor | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 188 (Ranked 382)  
-Completed: 1 (0.53%) (Ranked 193)  
+Completed: 1 (0.53%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

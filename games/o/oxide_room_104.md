@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | What's going on here? | 88.00% | ~214 |
 | Brute force | 81.00% | ~197 |
+| Room 104 | 78.00% | ~190 |
 | Nimble fingers | 77.00% | ~187 |
-| Room 104 | 77.00% | ~187 |
 | Face to face | 77.00% | ~187 |
 | Now or never | 74.00% | ~180 |
-| Let's play a game… | 72.00% | ~175 |
+| Let's play a game… | 73.00% | ~177 |
 | Soundtrack | 61.00% | ~148 |
 | First aid | 60.00% | ~146 |
 | Antidote | 53.00% | ~129 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 243 (Ranked 360)  
-Completed: 1 (0.41%) (Ranked 208)  
+Completed: 1 (0.41%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1460,7 +1460,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130836,
+  "EOS_Progressed": 130837,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
@@ -21990,6 +21990,11 @@
       "Time": "2023-11-15T21:05:22.8098737+00:00",
       "NumProgressed": 130836,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-15T22:05:09.4367373+00:00",
+      "NumProgressed": 130837,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22033,7 +22038,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23550
+      "UsersEstimate": 23551
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22320,15 +22325,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130836,
+      "Progressed": 130837,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-15T18:00:47.4293214+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:05:22.8098733+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:05:09.4367367+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:45.7468642+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:05:22.8099715+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:59:34.3151167+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:05:09.4368669+00:00"
 }

@@ -10,8 +10,8 @@
 | Lightbulbs Collector | 79.00% | ~62 |
 | Energy Collector | 76.00% | ~59 |
 | East Street Energy | 53.00% | ~41 |
+| Energy Expert | 46.00% | ~36 |
 | Lightbulbs Expert | 46.00% | ~36 |
-| Energy Expert | 45.00% | ~35 |
 | That's one way to travel | 44.00% | ~34 |
 | The Old Man and the Café | 40.00% | ~31 |
 | South Town Energy | 33.00% | ~26 |
@@ -46,7 +46,7 @@
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 447)  
-Completed: 0 (0.00%) (Ranked 351)  
+Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

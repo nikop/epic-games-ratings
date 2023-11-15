@@ -6,7 +6,7 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -133,7 +133,7 @@
   "Tags": [],
   "EOS_Progressed": 8282,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
@@ -3620,9 +3620,9 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "7opfcp",
       "Name": "Absolutely Elegant",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2899
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -3821,8 +3821,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-12T14:00:10.4470311+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:06:23.3554406+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:06:10.0695508+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:07.5168381+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:58:24.1622009+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:06:23.3554853+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:58:12.3405465+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:06:10.0696013+00:00"
 }

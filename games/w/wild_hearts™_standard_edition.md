@@ -44,8 +44,8 @@
 | Quintessence of Form | 23.00% | ~66 |
 | Karakuri Fortress | 21.00% | ~60 |
 | Volatile Vocation | 20.00% | ~57 |
+| Tender Touch | 20.00% | ~57 |
 | Haven Hunter | 20.00% | ~57 |
-| Tender Touch | 19.00% | ~55 |
 | Superlative View | 18.00% | ~52 |
 | Relentless Kemono Hunter | 15.00% | ~43 |
 | Vanquisher of the Volatile | 15.00% | ~43 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 287 (Ranked 349)  
-Completed: 7 (2.44%) (Ranked 115)  
+Completed: 7 (2.44%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

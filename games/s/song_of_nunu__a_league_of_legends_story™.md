@@ -50,7 +50,7 @@
 | Rock Star | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 700 (Ranked 276)  
-Completed: 6 (0.86%) (Ranked 169)  
+Completed: 6 (0.86%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

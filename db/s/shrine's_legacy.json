@@ -2,10 +2,10 @@
   "ID": "0ea7eefdd7eb470a8ec78c5f3bb28999",
   "Name": "Shrine\u0027s Legacy",
   "ProductSlug": "shrines-legacy-909af2",
-  "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T13:57:18.1317408+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:14.9745157+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:04:38.9897244+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:59:03.6601374+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:04:26.3719408+00:00"
 }

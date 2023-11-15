@@ -19,9 +19,9 @@ Rating: 4.80 (Ranked 86)
 | Happy Family | 36.00% | ~2,982 |
 | ONE PUNCH | 36.00% | ~2,982 |
 | Worthless Speech | 36.00% | ~2,982 |
+| Absolutely Elegant | 35.00% | ~2,899 |
 | FIRST LOVE | 35.00% | ~2,899 |
 | Drama CP: Reel to Real | 35.00% | ~2,899 |
-| Absolutely Elegant | 34.00% | ~2,816 |
 | Still Single | 33.00% | ~2,733 |
 | Go Get Some Fries On The Pier | 31.00% | ~2,567 |
 | Days Of Innocence | 31.00% | ~2,567 |
@@ -49,7 +49,7 @@ Rating: 4.80 (Ranked 86)
 | Limerence | 2.00% | ~166 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,282 (Ranked 167)  
-Completed: 130 (1.57%) (Ranked 134)  
+Completed: 130 (1.57%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

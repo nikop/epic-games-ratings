@@ -6,7 +6,7 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
@@ -4637,7 +4637,7 @@
   ],
   "EOS_Progressed": 91183,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1374,
+  "EOS_NewPlayers": 1370,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25672,9 +25672,9 @@
       "ID": "ACH_0440",
       "SetID": "3kam13l",
       "Name": "True Player",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 638
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH_0450",
@@ -25767,8 +25767,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-15T08:59:15.8485332+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:06:11.4871399+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:05:58.0895398+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:15.2195225+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:06:11.4872569+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:59:03.9091713+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:05:58.0896635+00:00"
 }

@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 504)
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 469 (Ranked 309)  
-Completed: 6 (1.28%) (Ranked 147)  
+Completed: 6 (1.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

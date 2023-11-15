@@ -6,9 +6,9 @@
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3661,
+  "EOS_Progressed": 3662,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5553,6 +5553,11 @@
       "Time": "2023-11-15T20:05:48.4535795+00:00",
       "NumProgressed": 3661,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-15T22:05:04.0686828+00:00",
+      "NumProgressed": 3662,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5564,7 +5569,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "AceDetective_9",
@@ -5604,7 +5609,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "CrowdPleaser",
@@ -5708,7 +5713,7 @@
       "Name": "Magic is a science",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "MasterofAurai_20",
@@ -5748,7 +5753,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5788,7 +5793,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5828,7 +5833,7 @@
       "Name": "The Power of Family",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -5884,7 +5889,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5899,15 +5904,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3661,
+      "Progressed": 3662,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:05:17.4916831+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:05:04.068682+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.5570436+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:49.6032247+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:05:17.4917372+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:59:38.4368212+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:05:04.0687336+00:00"
 }

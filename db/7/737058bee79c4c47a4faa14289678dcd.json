@@ -2,10 +2,10 @@
   "ID": "737058bee79c4c47a4faa14289678dcd",
   "Name": "Monsters of Mican",
   "ProductSlug": "monsters-of-mican-02e3ee",
-  "Ranking_EOS_Progress": 596,
-  "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-27T12:00:00+00:00",
     "PcReleaseDate": "2023-10-27T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
     {
       "Time": "2023-11-11T14:05:01.7131324+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T22:05:42.2957517+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -164,7 +169,7 @@
       "ID": "MagmaAdmirer",
       "SetID": "4j06hlp",
       "Name": "Magma Admirer",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -220,7 +225,7 @@
       "ID": "ThinkLikeARabbit",
       "SetID": "4j06hlp",
       "Name": "Think Like a Rabbit",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -245,14 +250,14 @@
     {
       "ID": "4j06hlp",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T14:02:29.050049+00:00",
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:05:55.6045967+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:05:42.2957512+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:07.6845544+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:58:53.455259+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:05:55.6046093+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:58:41.698284+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:05:42.2957634+00:00"
 }

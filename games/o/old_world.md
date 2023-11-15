@@ -179,6 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
+| Barbarian Horde | 0.20% | ~31 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
@@ -205,7 +206,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.10% | ~15 |
 | Future Regicide | 0.10% | ~15 |
 | Acropolis in Athenai | 0.10% | ~15 |
-| Barbarian Horde | 0.10% | ~15 |
 | The Great Raging Horde | 0.10% | ~15 |
 | United Against The Horde | 0.10% | ~15 |
 | Battle of Opis | 0.10% | ~15 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,335 (Ranked 146)  
-Completed: 5 (0.03%) (Ranked 314)  
+Completed: 5 (0.03%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

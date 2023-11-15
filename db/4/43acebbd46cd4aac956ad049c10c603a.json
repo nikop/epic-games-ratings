@@ -5,8 +5,8 @@
   "Ranking_Rating": 3,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -651,6 +651,11 @@
       "Time": "2023-11-15T21:04:57.8676451+00:00",
       "NumProgressed": 341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T22:04:45.7441285+00:00",
+      "NumProgressed": 342,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -669,9 +674,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "AnthropicHills",
@@ -701,9 +706,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "BreakTheLoop",
@@ -719,7 +724,7 @@
       "Name": "Bridge Builder",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ChasingTheLight",
@@ -743,7 +748,7 @@
       "Name": "Circular Oasis",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DesolateIsland",
@@ -765,9 +770,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "EcstaticTruth",
@@ -807,7 +812,7 @@
       "Name": "Good Citizen",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GrasslandsRing",
@@ -861,9 +866,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 86
     },
     {
       "ID": "Mnemosyne",
@@ -879,7 +884,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "MuseumVisitor",
@@ -887,7 +892,7 @@
       "Name": "Museum Visitor",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "NewBeginning",
@@ -941,9 +946,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1007,7 +1012,7 @@
       "Name": "Team Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "TextAdventurer",
@@ -1023,7 +1028,7 @@
       "Name": "The All-Gifted",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1109,9 +1114,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "WoodedPlateau",
@@ -1134,7 +1139,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 342,
       "Completed": 1
     }
   ],
@@ -1142,8 +1147,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-15T08:59:04.4228442+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:04:57.8676448+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:04:45.7441279+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:05.0511497+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:04:57.8676996+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:58:53.3642141+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:04:45.7441675+00:00"
 }

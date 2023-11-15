@@ -29,8 +29,8 @@ Rating: 3.47 (Ranked 1,037)
 | From the Shadows | 0.80% | ~14 |
 | Harvest’s End | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
+| Silence Is Golden | 0.70% | ~12 |
 | Contingency Plans | 0.60% | ~11 |
-| Silence Is Golden | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |
 | Check, Please! | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
@@ -73,7 +73,7 @@ Rating: 3.47 (Ranked 1,037)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,768 (Ranked 228)  
-Completed: 0 (0.00%) (Ranked 351)  
+Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

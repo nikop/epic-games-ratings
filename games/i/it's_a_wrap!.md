@@ -20,7 +20,7 @@
 | Mise-en-scènester | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 126 (Ranked 405)  
-Completed: 2 (1.59%) (Ranked 133)  
+Completed: 2 (1.59%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

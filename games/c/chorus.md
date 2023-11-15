@@ -28,7 +28,7 @@ Number of Ratings: 58  (23.09.2022)
 | Cult Slayer | 41.00% | ~525 |
 | Origin | 40.00% | ~512 |
 | It Was An Accident | 40.00% | ~512 |
-| Set in Motion | 38.00% | ~486 |
+| Set in Motion | 39.00% | ~499 |
 | In the Eye of the Storm | 38.00% | ~486 |
 | The Crimson Void | 35.00% | ~448 |
 | The Nameless Dread | 34.00% | ~435 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,280 (Ranked 242)  
-Completed: 17 (1.33%) (Ranked 143)  
+Completed: 17 (1.33%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

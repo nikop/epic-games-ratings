@@ -37,6 +37,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Save Our Souls | 0.20% | ~479 |
 | Destroy Your Fears | 0.20% | ~479 |
 | The Bestiary | 0.20% | ~479 |
+| Don't Ignore Me! | 0.20% | ~479 |
 | Heartless | 0.20% | ~479 |
 | What's Yours Is Mine | 0.20% | ~479 |
 | Stop Hitting Yourself | 0.20% | ~479 |
@@ -45,6 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.20% | ~479 |
 | Deflection | 0.20% | ~479 |
 | Stone Touch | 0.20% | ~479 |
+| Doing Time | 0.20% | ~479 |
 | Toxic | 0.20% | ~479 |
 | New Perspectives | 0.20% | ~479 |
 | Sneaky | 0.20% | ~479 |
@@ -88,7 +90,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Clearing The Room | 0.10% | ~240 |
 | Blizzard | 0.10% | ~240 |
 | The Boulder | 0.10% | ~240 |
-| Don't Ignore Me! | 0.10% | ~240 |
 | Overthrown | 0.10% | ~240 |
 | All Consuming | 0.10% | ~240 |
 | Poor Choices | 0.10% | ~240 |
@@ -103,7 +104,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Mercy | 0.10% | ~240 |
 | Good Boys | 0.10% | ~240 |
 | Just Looking Around | 0.10% | ~240 |
-| Doing Time | 0.10% | ~240 |
 | Spreading Plague | 0.10% | ~240 |
 | Acid Bath | 0.10% | ~240 |
 | Need An Antidote? | 0.10% | ~240 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,732 (Ranked 61)  
-Completed: 288 (0.12%) (Ranked 270)  
+Progressed: 239,733 (Ranked 61)  
+Completed: 288 (0.12%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,10 +354,10 @@ Completed: 288 (0.12%) (Ranked 270)
 | 2023-11-12 | 239,608 | 288 |
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
-| 2023-11-15 | 239,732 | 288 |
+| 2023-11-15 | 239,733 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
-Sum: 11,674 (Ranked 83)  
+Sum: 11,675 (Ranked 83)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 1,437 |
 | This game has Challenging Combat | 1,433 |
 | This game is Extremely Fun | 1,411 |
-| This game is Highly Recommended | 1,380 |
+| This game is Highly Recommended | 1,381 |
 | This game has Amazing Storytelling | 1,323 |
 | This game has Amazing Characters | 1,225 |
 | This game has Unique Visuals | 1,220 |
@@ -583,3 +583,4 @@ Diff (max vs sum): 49
 | 2023-11-11 | 4.58 | - | 1,503 | 11,667 |
 | 2023-11-12 | 4.58 | - | 1,503 | 11,672 |
 | 2023-11-13 | 4.58 | - | 1,503 | 11,674 |
+| 2023-11-15 | 4.58 | - | 1,503 | 11,675 |

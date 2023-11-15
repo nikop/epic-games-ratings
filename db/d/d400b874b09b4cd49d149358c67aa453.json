@@ -3,9 +3,9 @@
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -1750,9 +1750,9 @@
       "ID": "ACH_FIX_OUTLETS",
       "SetID": "al4k4nh",
       "Name": "Here comes electricity",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_GET_ALL_MAILS",
@@ -1869,8 +1869,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:08:44.1090822+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:08:18.7938299+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.0318246+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:00:12.718365+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:08:44.1091048+00:00"
+  "LastUpdate_Ratings": "2023-11-15T22:00:01.5993874+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:08:18.7938536+00:00"
 }

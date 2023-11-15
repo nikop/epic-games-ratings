@@ -6,40 +6,40 @@ Rating: 4.60 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 93.00% | ~5,188 |
-| All thumbs | 92.00% | ~5,132 |
-| I will survive! | 92.00% | ~5,132 |
-| Home, sweet home | 91.00% | ~5,076 |
-| Survivalist | 90.00% | ~5,020 |
-| One way ticket | 85.00% | ~4,741 |
-| Last man standing | 80.00% | ~4,462 |
-| Family guy | 77.00% | ~4,295 |
-| Out of the Bag | 76.00% | ~4,239 |
+| All thumbs | 92.00% | ~5,133 |
+| I will survive! | 92.00% | ~5,133 |
+| Home, sweet home | 91.00% | ~5,077 |
+| Survivalist | 90.00% | ~5,021 |
+| One way ticket | 85.00% | ~4,742 |
+| Last man standing | 80.00% | ~4,463 |
+| Family guy | 77.00% | ~4,296 |
+| Out of the Bag | 76.00% | ~4,240 |
 | The Dark Side | 70.00% | ~3,905 |
-| Duck and cover! | 66.00% | ~3,681 |
+| Duck and cover! | 66.00% | ~3,682 |
 | Souper! | 65.00% | ~3,626 |
-| Pacifist | 59.00% | ~3,291 |
-| 2-1-6 | 58.00% | ~3,235 |
-| A gift | 54.00% | ~3,012 |
-| Girl Power | 48.00% | ~2,677 |
-| What goes around... | 44.00% | ~2,454 |
+| Pacifist | 59.00% | ~3,292 |
+| 2-1-6 | 58.00% | ~3,236 |
+| A gift | 54.00% | ~3,013 |
+| Girl Power | 48.00% | ~2,678 |
+| What goes around... | 44.00% | ~2,455 |
 | Be Prepared | 38.00% | ~2,120 |
 | Unbreakable | 37.00% | ~2,064 |
 | Gotta get 'em all | 34.00% | ~1,897 |
 | This is the end | 34.00% | ~1,897 |
-| Atomic drill | 33.00% | ~1,841 |
+| Atomic drill | 32.00% | ~1,785 |
 | Disco Roach | 28.00% | ~1,562 |
 | Dawkins Residence | 22.00% | ~1,227 |
 | New order | 18.00% | ~1,004 |
 | Rescue time! | 18.00% | ~1,004 |
 | New species | 17.00% | ~948 |
-| A New Hope | 16.00% | ~892 |
-| Enigma | 16.00% | ~892 |
+| A New Hope | 16.00% | ~893 |
+| Enigma | 16.00% | ~893 |
 | Challenger | 13.00% | ~725 |
 | No stone unturned | 12.00% | ~669 |
 | Men in Black | 12.00% | ~669 |
 | Unplugged | 8.00% | ~446 |
-| Holidays! | 7.00% | ~390 |
-| Mad Hatter | 7.00% | ~390 |
+| Holidays! | 7.00% | ~391 |
+| Mad Hatter | 7.00% | ~391 |
 | Lumbersexual | 6.00% | ~335 |
 | Yes Man | 6.00% | ~335 |
 | Take that, Brundlefly! | 5.00% | ~279 |
@@ -66,8 +66,8 @@ Rating: 4.60 (Ranked 410)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,578 (Ranked 183)  
-Completed: 1 (0.02%) (Ranked 320)  
+Progressed: 5,579 (Ranked 184)  
+Completed: 1 (0.02%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 1 (0.02%) (Ranked 320)
 | 2023-11-12 | 5,567 | 1 |
 | 2023-11-13 | 5,568 | 1 |
 | 2023-11-14 | 5,574 | 1 |
-| 2023-11-15 | 5,578 | 1 |
+| 2023-11-15 | 5,579 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

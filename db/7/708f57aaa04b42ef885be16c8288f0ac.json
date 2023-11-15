@@ -6,7 +6,7 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
@@ -105,7 +105,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5323,
+  "EOS_Progressed": 5326,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 1,
@@ -3345,6 +3345,11 @@
       "Time": "2023-11-15T20:09:09.2451225+00:00",
       "NumProgressed": 5323,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T22:08:39.7526683+00:00",
+      "NumProgressed": 5326,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3365,7 +3370,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "BeLikeWater",
@@ -3395,9 +3400,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 533
     },
     {
       "ID": "Eavesdropper",
@@ -3429,7 +3434,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3437,7 +3442,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "GarbageMan",
@@ -3509,7 +3514,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3541,7 +3546,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TheOldSchoolWay",
@@ -3557,7 +3562,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ThisIsDharma",
@@ -3628,7 +3633,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5323,
+      "Progressed": 5326,
       "Completed": 6
     }
   ],
@@ -3636,8 +3641,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-15T21:09:05.1341224+00:00",
+  "LastChanged_Achievements": "2023-11-15T22:08:39.7526679+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:22.7100687+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:09:05.1341648+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:59:11.3189278+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:08:39.7527005+00:00"
 }

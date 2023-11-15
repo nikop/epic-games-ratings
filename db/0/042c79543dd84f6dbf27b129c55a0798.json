@@ -2,10 +2,10 @@
   "ID": "042c79543dd84f6dbf27b129c55a0798",
   "Name": "Gearhead Karting Simulator - Mechanic \u0026 Racing",
   "ProductSlug": "gearhead-karting-414429",
-  "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T10:00:00+00:00",
     "PcReleaseDate": "2023-10-31T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-03T22:01:36.1769685+00:00",
   "LastUpdate_AppInfo": "2023-11-15T13:03:31.2715391+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:02:53.4582824+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:08:39.8805958+00:00"
+  "LastUpdate_Ratings": "2023-11-15T22:02:40.3232893+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:08:14.6421367+00:00"
 }

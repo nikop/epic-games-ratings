@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -134,6 +134,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Viva la Revolución! | 0.10% | ~456 |
 | Voltaire's Nightmare | 0.10% | ~456 |
 | We bled for this | 0.10% | ~456 |
+| Winged Hussars | 0.10% | ~456 |
 | Wonderful | 0.10% | ~456 |
 | World Discoverer | 0.10% | ~456 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~456 |
@@ -360,7 +361,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | The White Elephant | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
-| Winged Hussars | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,373 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 351)  
+Progressed: 456,410 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -579,16 +579,16 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 456,373 | 1 |
+| 2023-11-15 | 456,410 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
-Sum: 57,694 (Ranked 24)  
+Sum: 57,716 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,013 |
 | This game has Diverse Characters | 6,753 |
-| This game is Highly Recommended | 6,712 |
+| This game is Highly Recommended | 6,734 |
 | This game has Challenging Combat | 6,629 |
 | This game is Extremely Fun | 6,602 |
 | This game is Relaxing | 6,447 |
@@ -901,4 +901,4 @@ Diff (max vs sum): 30
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
-| 2023-11-15 | 4.69 | - | 7,013 | 57,694 |
+| 2023-11-15 | 4.69 | - | 7,013 | 57,716 |

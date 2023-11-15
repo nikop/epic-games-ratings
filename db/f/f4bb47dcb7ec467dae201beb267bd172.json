@@ -2,10 +2,10 @@
   "ID": "f4bb47dcb7ec467dae201beb267bd172",
   "Name": "Royal Defense - Invisible Threat",
   "ProductSlug": "royal-defense-invisible-threat-b39335",
-  "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-11T21:00:00+00:00",
     "PcReleaseDate": "2014-12-03T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-13T07:58:29.9747389+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:57.2243873+00:00",
-  "LastUpdate_Ratings": "2023-11-15T20:59:08.6506775+00:00",
-  "LastUpdate_Achievements": "2023-11-15T21:04:29.3668151+00:00"
+  "LastUpdate_Ratings": "2023-11-15T21:58:56.8869112+00:00",
+  "LastUpdate_Achievements": "2023-11-15T22:04:16.7937631+00:00"
 }
