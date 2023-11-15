@@ -6,9 +6,9 @@
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6709,10 +6709,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4373,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2023-11-15T09:57:02.4657794+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4375,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4373,
+  "NumberOfAwards": 4375,
   "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6756,7 +6762,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 517
+      "Count": 518
     },
     {
       "Text": "This game is Relaxing",
@@ -6768,7 +6774,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 427
+      "Count": 428
     },
     {
       "Text": "This game has a Creative Community",
@@ -6783,11 +6789,11 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 194013,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 2219,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 194019,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 2214,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:45.6163077+00:00",
@@ -30553,6 +30559,11 @@
       "Time": "2023-11-15T09:09:00.6888604+00:00",
       "NumProgressed": 194013,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-15T10:09:25.1670655+00:00",
+      "NumProgressed": 194019,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -30580,7 +30591,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "Achievement_11",
@@ -30588,7 +30599,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "Achievement_12",
@@ -30596,7 +30607,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31042
+      "UsersEstimate": 31043
     },
     {
       "ID": "Achievement_13",
@@ -30620,7 +30631,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "Achievement_2",
@@ -30644,7 +30655,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48503
+      "UsersEstimate": 48505
     },
     {
       "ID": "Achievement_5",
@@ -30676,7 +30687,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17461
+      "UsersEstimate": 17462
     },
     {
       "ID": "Achievement_9",
@@ -30691,15 +30702,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 194013,
-      "Completed": 9
+      "Progressed": 194019,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-15T07:57:13.3969928+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:09:00.6888596+00:00",
+  "LastChanged": "2023-11-15T09:57:02.4657793+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:09:25.1670643+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:15.0661534+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:57:20.0382282+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:09:00.68899+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:57:02.4657798+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:09:25.1672174+00:00"
 }

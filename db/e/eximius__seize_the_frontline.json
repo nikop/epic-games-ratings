@@ -3,12 +3,12 @@
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
   "Ranking_Rating": 930,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199991,
+  "EOS_Progressed": 199992,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
@@ -22482,6 +22482,11 @@
       "Time": "2023-11-15T09:05:17.3664504+00:00",
       "NumProgressed": 199991,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-15T10:06:15.5864069+00:00",
+      "NumProgressed": 199992,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -22525,7 +22530,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35998
+      "UsersEstimate": 35999
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -22620,7 +22625,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199991,
+      "Progressed": 199992,
       "Completed": 4
     }
   ],
@@ -22628,8 +22633,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:05:17.3664499+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:06:15.5864065+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.4823585+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:03:12.1988147+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:05:17.3665881+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:56:53.5057275+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:06:15.5864917+00:00"
 }

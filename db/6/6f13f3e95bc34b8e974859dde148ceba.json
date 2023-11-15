@@ -3,9 +3,9 @@
   "Name": "Pesterquest",
   "ProductSlug": "pesterquest-de8729",
   "Ranking_EOS_Progress": 745,
-  "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-22T17:00:00+00:00",
     "PcReleaseDate": "2019-09-04T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.2014574+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:00:48.4809579+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:05:03.6805177+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:01:47.4959112+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:05:57.4042803+00:00"
 }

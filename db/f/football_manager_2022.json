@@ -6,9 +6,9 @@
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8250,11 +8250,17 @@
       "Rating": 4.8,
       "NumberOfAwards": 50995,
       "NumberOfAwardsMax": 6465
+    },
+    {
+      "Time": "2023-11-15T10:01:10.5694615+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50996,
+      "NumberOfAwardsMax": 6466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50995,
-  "NumberOfAwardsMax": 6465,
+  "NumberOfAwards": 50996,
+  "NumberOfAwardsMax": 6466,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -8267,7 +8273,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6465
+      "Count": 6466
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8324,9 +8330,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476055,
+  "EOS_Progressed": 476056,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29609,6 +29615,11 @@
       "Time": "2023-11-15T09:06:09.8389001+00:00",
       "NumProgressed": 476055,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-15T10:07:27.4412929+00:00",
+      "NumProgressed": 476056,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -29644,7 +29655,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 176140
+      "UsersEstimate": 176141
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -29676,7 +29687,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123774
+      "UsersEstimate": 123775
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -29700,7 +29711,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 80929
+      "UsersEstimate": 80930
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -29732,7 +29743,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142816
+      "UsersEstimate": 142817
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -29772,7 +29783,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 176140
+      "UsersEstimate": 176141
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -29820,7 +29831,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90450
+      "UsersEstimate": 90451
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -29852,7 +29863,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199943
+      "UsersEstimate": 199944
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -29908,7 +29919,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133295
+      "UsersEstimate": 133296
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -30012,7 +30023,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123774
+      "UsersEstimate": 123775
     },
     {
       "ID": "achievement_mr_delegator",
@@ -30044,7 +30055,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166619
+      "UsersEstimate": 166620
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -30156,7 +30167,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 80929
+      "UsersEstimate": 80930
     },
     {
       "ID": "achievement_sell_player",
@@ -30164,7 +30175,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228506
+      "UsersEstimate": 228507
     },
     {
       "ID": "achievement_signed_a_player",
@@ -30403,15 +30414,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476055,
+      "Progressed": 476056,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-11-15T08:01:11.0268145+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:06:09.8388995+00:00",
+  "LastChanged": "2023-11-15T10:01:10.5694614+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:07:27.4412926+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:57.2489615+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:00:21.5589499+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:06:09.8390626+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:01:10.569462+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:07:27.4414537+00:00"
 }

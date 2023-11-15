@@ -55,6 +55,7 @@ Rating: 4.46 (Ranked 645)
 | Shoot for the Moon | 3.00% | ~116 |
 | If You Go Down To The Woods Today | 3.00% | ~115 |
 | Fight Another Day | 3.00% | ~115 |
+| Shipbreaker | 3.00% | ~115 |
 | Out of Scope | 2.00% | ~77 |
 | Eagle Eyed | 2.00% | ~77 |
 | Up close and personal | 2.00% | ~77 |
@@ -62,7 +63,6 @@ Rating: 4.46 (Ranked 645)
 | Führerious Repetition | 2.00% | ~76 |
 | Reich To The Point | 2.00% | ~76 |
 | Covert Elimination | 2.00% | ~76 |
-| Shipbreaker | 2.00% | ~76 |
 | Sink or Swim | 2.00% | ~76 |
 | Best of the Best | 1.00% | ~39 |
 | Sight Beyond Sights | 1.00% | ~39 |

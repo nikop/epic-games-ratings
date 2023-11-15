@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fashion Victim | 2.00% | ~4 |
 | I Found It | 2.00% | ~4 |
-| Powerful Allies | 1.00% | ~2 |
-| Calm before the Storm | 1.00% | ~2 |
-| Clear Sight | 1.00% | ~2 |
-| Fine Feathers Make Fine Birds | 1.00% | ~2 |
-| Scholar | 1.00% | ~2 |
-| Summiter | 1.00% | ~2 |
-| Break Out | 0.50% | ~1 |
-| Find Allies | 0.50% | ~1 |
-| Trinity | 0.50% | ~1 |
-| Adventurer | 0.50% | ~1 |
-| Tributes of Caladrias | 0.50% | ~1 |
-| Big Bazar | 0.50% | ~1 |
-| Geared Up | 0.50% | ~1 |
-| Stone Collection | 0.50% | ~1 |
-| To Battle | 0.00% | ~0 |
-| Godslayer | 0.00% | ~0 |
-| A Taste of Wrath | 0.00% | ~0 |
-| The Mentor | 0.00% | ~0 |
-| Forgemaster | 0.00% | ~0 |
-| Shardbearer | 0.00% | ~0 |
-| Airborne | 0.00% | ~0 |
-| Essence Blow | 0.00% | ~0 |
+| Clear Sight | 0.50% | ~1 |
+| Fine Feathers Make Fine Birds | 0.50% | ~1 |
+| Summiter | 0.50% | ~1 |
 | Shatterer | 0.00% | ~0 |
-| Shatter Them All | 0.00% | ~0 |
-| Slayer | 0.00% | ~0 |
-| Flawless Victory | 0.00% | ~0 |
-| All There Is | 0.00% | ~0 |
-| False God | 0.00% | ~0 |
-| All That Gold | 0.00% | ~0 |
-| Alchemist | 0.00% | ~0 |
-| Miner | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
-| Feeling Fancy | 0.00% | ~0 |
-| A Queen's Tale | 0.00% | ~0 |
+| Big Bazar | 0.00% | ~0 |
+| Fashion Victim | 0.00% | ~0 |
+| Powerful Allies | -0.50% | ~-1 |
+| Calm before the Storm | -0.50% | ~-1 |
+| Forgemaster | -0.50% | ~-1 |
+| Shardbearer | -0.50% | ~-1 |
+| Tributes of Caladrias | -0.50% | ~-1 |
+| Slayer | -0.50% | ~-1 |
+| Flawless Victory | -0.50% | ~-1 |
+| All There Is | -0.50% | ~-1 |
+| Scholar | -0.50% | ~-1 |
+| False God | -0.50% | ~-1 |
+| All That Gold | -0.50% | ~-1 |
+| Stone Collection | -0.50% | ~-1 |
+| Feeling Fancy | -0.50% | ~-1 |
+| Break Out | -1.10% | ~-2 |
+| Find Allies | -1.10% | ~-2 |
+| Trinity | -1.10% | ~-2 |
+| Adventurer | -1.10% | ~-2 |
+| Shatter Them All | -1.10% | ~-2 |
+| Geared Up | -1.10% | ~-2 |
+| Alchemist | -1.10% | ~-2 |
+| A Queen's Tale | -1.10% | ~-2 |
+| To Battle | -1.60% | ~-3 |
+| Godslayer | -1.60% | ~-3 |
+| A Taste of Wrath | -1.60% | ~-3 |
+| The Mentor | -1.60% | ~-3 |
+| Airborne | -1.60% | ~-3 |
+| Essence Blow | -1.60% | ~-3 |
+| Miner | -1.60% | ~-3 |
+| The Collector | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 381)  
+Progressed: 187 (Ranked 382)  
 Completed: 1 (0.53%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

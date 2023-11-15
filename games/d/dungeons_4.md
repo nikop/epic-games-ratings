@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 85.00% | ~227 |
 | Thalya – Simply Immortal | 85.00% | ~227 |
-| For the Horde! | 78.00% | ~208 |
+| For the Horde! | 79.00% | ~211 |
 | Hammer Time, Round Two | 77.00% | ~206 |
 | The Hellwoods | 71.00% | ~190 |
 | Experienced Thalya | 65.00% | ~174 |
@@ -16,10 +16,10 @@
 | Master of Magic | 58.00% | ~155 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~147 |
 | Magic Accidents | 52.00% | ~139 |
+| Heroes’ Gorge | 52.00% | ~139 |
 | Minions, Minions! | 51.00% | ~136 |
-| Heroes’ Gorge | 51.00% | ~136 |
-| Trap Master | 49.00% | ~131 |
-| YOU SHALL NOT PASS! | 38.00% | ~101 |
+| Trap Master | 50.00% | ~134 |
+| YOU SHALL NOT PASS! | 39.00% | ~104 |
 | The Ascent | 38.00% | ~101 |
 | It's Warm and Cozy at Home | 38.00% | ~101 |
 | Pure Dynamite! | 35.00% | ~93 |

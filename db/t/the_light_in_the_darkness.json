@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2642,
+  "EOS_Progressed": 2643,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.01,
+  "EOS_Completed_Percentage": 9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7181,6 +7181,11 @@
       "Time": "2023-11-15T07:09:20.4936052+00:00",
       "NumProgressed": 2642,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-11-15T10:09:45.7348792+00:00",
+      "NumProgressed": 2643,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 12,
@@ -7200,7 +7205,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Building the Fox",
@@ -7240,7 +7245,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Le Juif et la France",
@@ -7287,7 +7292,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2642,
+      "Progressed": 2643,
       "Completed": 238
     }
   ],
@@ -7295,8 +7300,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:09:16.7555503+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:09:45.734879+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:59:47.312313+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:09:16.7555989+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:00:24.3516068+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:09:45.7349309+00:00"
 }

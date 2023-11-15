@@ -17,8 +17,8 @@ Rating: 4.69 (Ranked 231)
 | A Dozen Pieces | 31.00% | ~1,778 |
 | Challenge Yourself | 31.00% | ~1,778 |
 | Making History | 31.00% | ~1,778 |
-| Network Success | 25.00% | ~1,434 |
-| Writing a new Chapter | 24.00% | ~1,376 |
+| Network Success | 26.00% | ~1,491 |
+| Writing a new Chapter | 25.00% | ~1,434 |
 | Spring Cleaning | 23.00% | ~1,319 |
 | Reduce | 19.00% | ~1,089 |
 | Ups and Downs | 19.00% | ~1,089 |
@@ -56,7 +56,7 @@ Rating: 4.69 (Ranked 231)
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,734 (Ranked 181)  
-Completed: 0 (0.00%) (Ranked 351)  
+Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

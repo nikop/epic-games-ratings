@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1816,6 +1816,11 @@
       "Time": "2023-11-14T12:08:49.281958+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T10:09:42.5867781+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1913,9 +1918,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2274,15 +2279,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:09:14.3169884+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:09:42.5867775+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:22.1954438+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:58:24.8072425+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:09:14.3170281+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:58:32.1853768+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:09:42.5868356+00:00"
 }

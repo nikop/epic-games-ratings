@@ -501,17 +501,17 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_main03demon_completed",
@@ -589,9 +589,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -605,9 +605,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_main07storm_classified",
@@ -964,8 +964,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:04:47.2078531+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:05:35.9438773+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:00:17.2716456+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:04:47.2078977+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:01:04.9706125+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:05:35.9439282+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1427,9 +1427,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6751,
+  "EOS_Progressed": 6752,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12747,6 +12747,11 @@
       "Time": "2023-11-15T09:04:23.9915462+00:00",
       "NumProgressed": 6751,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-15T10:05:04.6735215+00:00",
+      "NumProgressed": 6752,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12758,7 +12763,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12790,7 +12795,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12798,15 +12803,15 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     },
     {
       "ID": "HARVEST_CROP_50",
       "SetID": "5349c2e",
       "Name": "Reap What You Sow",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4929
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12870,7 +12875,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -12886,7 +12891,7 @@
       "Name": "Feast or Famine",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -12894,7 +12899,7 @@
       "Name": "Fit For A King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -12910,7 +12915,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -12918,7 +12923,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -12926,7 +12931,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -12958,7 +12963,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -12966,7 +12971,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12990,7 +12995,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -13005,15 +13010,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6751,
+      "Progressed": 6752,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-14T18:00:09.6823623+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:04:23.9915458+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:05:04.6735213+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:59:49.7979556+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:04:23.991605+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:00:27.7333092+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:05:04.6736028+00:00"
 }

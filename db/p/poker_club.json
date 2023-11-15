@@ -6,9 +6,9 @@
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -931,9 +931,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 537720,
+  "EOS_Progressed": 537721,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1382,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24551,6 +24551,11 @@
       "Time": "2023-11-15T09:03:24.9468014+00:00",
       "NumProgressed": 537720,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T10:03:47.7432239+00:00",
+      "NumProgressed": 537721,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -24562,7 +24567,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145184
+      "UsersEstimate": 145185
     },
     {
       "ID": "Backdoor",
@@ -24714,7 +24719,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 220465
+      "UsersEstimate": 220466
     },
     {
       "ID": "HoldingYourOwn",
@@ -24810,7 +24815,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 408667
+      "UsersEstimate": 408668
     },
     {
       "ID": "ProPlayer",
@@ -24914,14 +24919,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64526
+      "UsersEstimate": 64527
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 537720,
+      "Progressed": 537721,
       "Completed": 2
     }
   ],
@@ -24929,8 +24934,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-12T12:00:48.3525541+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:03:24.9468007+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:03:47.7432236+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:00.8700093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:57:16.334876+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:03:24.9469552+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:56:56.9296707+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:03:47.7433768+00:00"
 }

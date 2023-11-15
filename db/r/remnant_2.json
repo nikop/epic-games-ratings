@@ -4257,9 +4257,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 221036,
+  "EOS_Progressed": 221059,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 2261,
+  "EOS_NewPlayers": 2278,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -18157,6 +18157,11 @@
       "Time": "2023-11-15T09:08:28.4289714+00:00",
       "NumProgressed": 221036,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-11-15T10:08:43.5175502+00:00",
+      "NumProgressed": 221059,
+      "NumCompleted": 453
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18167,9 +18172,9 @@
       "ID": "Craft_Weapon_Mod_A",
       "SetID": "bkp3b1a",
       "Name": "Expanding Horizons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -18295,9 +18300,9 @@
       "ID": "Discover_Blood_Moon_Room",
       "SetID": "bkp3b1a",
       "Name": "Red Room",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -18608,13 +18613,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 221036,
+      "Progressed": 221059,
       "Completed": 453
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 201,
+      "Progressed": 224,
       "Completed": 98
     }
   ],
@@ -18622,8 +18627,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-15T05:03:30.7954891+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:08:28.4289708+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:08:43.5175496+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:02:59.9298858+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:08:28.4290703+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:03:12.8763759+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:08:43.5176602+00:00"
 }

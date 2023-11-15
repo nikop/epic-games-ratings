@@ -3,8 +3,8 @@
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
   "Ranking_Rating": 821,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 57,
@@ -323,7 +323,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19969,
+  "EOS_Progressed": 19970,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 1583,
   "EOS_NewCompleters": 1,
@@ -16458,6 +16458,11 @@
       "Time": "2023-11-15T09:06:37.4437761+00:00",
       "NumProgressed": 19969,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-15T10:08:03.6111388+00:00",
+      "NumProgressed": 19970,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 16,
@@ -16477,7 +16482,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5591
+      "UsersEstimate": 5592
     },
     {
       "ID": "Deadline",
@@ -16523,9 +16528,9 @@
       "ID": "Harvester_Of_Eyes",
       "SetID": "96f13ae",
       "Name": "Harvester Of Eyes",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1198
     },
     {
       "ID": "I_Am_The_Storm",
@@ -16541,7 +16546,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 8187
+      "UsersEstimate": 8188
     },
     {
       "ID": "Mirrors",
@@ -16596,15 +16601,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 19969,
+      "Progressed": 19970,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-13T20:58:09.9654797+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:06:37.4437756+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:08:03.6111385+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:25.585371+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:58:39.7516695+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:06:37.4438688+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:58:52.3912657+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:08:03.6112232+00:00"
 }

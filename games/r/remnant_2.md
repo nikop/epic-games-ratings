@@ -5,6 +5,7 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Expanding Horizons | 0.10% | ~221 |
 | Crafty | 0.10% | ~221 |
 | Am I Seeing This? | 0.10% | ~221 |
 | Ghost in the Machine | 0.10% | ~221 |
@@ -16,6 +17,7 @@ Rating: 4.75 (Ranked 145)
 | Not So Special Now | 0.10% | ~221 |
 | Madman's Paradise | 0.10% | ~221 |
 | Quest for Survival | 0.10% | ~221 |
+| Red Room | 0.10% | ~221 |
 | The Agenda | 0.10% | ~221 |
 | Not a Janitor | 0.10% | ~221 |
 | Familiar Face | 0.10% | ~221 |
@@ -48,12 +50,10 @@ Rating: 4.75 (Ranked 145)
 | Regicide | 0.10% | ~0 |
 | Master of the Dark Arts | 0.10% | ~0 |
 | A Foul Feast | 0.10% | ~0 |
-| Expanding Horizons | 0.00% | ~0 |
 | Chaos | 0.00% | ~0 |
 | Traitor | 0.00% | ~0 |
 | Forever is a Long Time Coming | 0.00% | ~0 |
 | The God Gambit | 0.00% | ~0 |
-| Red Room | 0.00% | ~0 |
 | Equal Measures | 0.00% | ~0 |
 | Bad Moon Rising | 0.00% | ~0 |
 | Was This Supposed To Happen? | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 145)
 | Succession | 0.00% | ~0 |
 | You Shall Pass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,036 (Ranked 68)  
+Progressed: 221,059 (Ranked 68)  
 Completed: 453 (0.20%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 453 (0.20%) (Ranked 251)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,036 | 453 |
+| 2023-11-15 | 221,059 | 453 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 4,997 (Ranked 137)  

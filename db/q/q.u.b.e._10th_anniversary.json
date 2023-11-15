@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_Rating": 688,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 42,
@@ -196,10 +196,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19379,
+  "EOS_Progressed": 19382,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 2314,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 2306,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -3311,6 +3311,11 @@
       "Time": "2023-11-15T09:09:17.1543749+00:00",
       "NumProgressed": 19379,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-11-15T10:09:46.3689939+00:00",
+      "NumProgressed": 19382,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 24,
@@ -3354,7 +3359,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH_Finale",
@@ -3466,7 +3471,7 @@
       "Name": "Sector 3",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH_Sector4",
@@ -3513,7 +3518,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 19379,
+      "Progressed": 19382,
       "Completed": 60
     }
   ],
@@ -3521,8 +3526,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-15T08:03:11.309916+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:09:17.1543743+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:09:46.3689936+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:52.4543892+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:01:13.8517258+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:09:17.154403+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:02:51.8026094+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:09:46.3690295+00:00"
 }

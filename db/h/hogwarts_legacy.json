@@ -10533,9 +10533,9 @@
       "Count": 785
     }
   ],
-  "EOS_Progressed": 302113,
+  "EOS_Progressed": 302114,
   "EOS_Completed": 511,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32983,6 +32983,11 @@
       "Time": "2023-11-15T09:09:23.8025051+00:00",
       "NumProgressed": 302113,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2023-11-15T10:09:55.2571799+00:00",
+      "NumProgressed": 302114,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 45,
@@ -33002,7 +33007,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_11",
@@ -33010,7 +33015,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_12",
@@ -33018,7 +33023,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_13",
@@ -33050,7 +33055,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_17",
@@ -33098,7 +33103,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_22",
@@ -33122,7 +33127,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_25",
@@ -33250,7 +33255,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     },
     {
       "ID": "PFA_4",
@@ -33353,7 +33358,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302113,
+      "Progressed": 302114,
       "Completed": 511
     }
   ],
@@ -33361,8 +33366,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-15T08:57:24.1221509+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:09:23.8025045+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:09:55.2571796+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:57:24.1221514+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:09:23.8026414+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:57:08.349011+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:09:55.2573601+00:00"
 }

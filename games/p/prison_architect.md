@@ -6,13 +6,13 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~48,503 |
-| Get Busy Living | 16.00% | ~31,042 |
-| Samuel Norton | 9.00% | ~17,461 |
+| Stone Walls | 25.00% | ~48,505 |
+| Get Busy Living | 16.00% | ~31,043 |
+| Samuel Norton | 9.00% | ~17,462 |
 | Spare The Rod | 5.00% | ~9,701 |
-| Don't Put Me In The Dark | 3.00% | ~5,820 |
-| Wait and Hope | 3.00% | ~5,820 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,820 |
+| Don't Put Me In The Dark | 3.00% | ~5,821 |
+| Wait and Hope | 3.00% | ~5,821 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,821 |
 | Throw The Book At Them | 2.00% | ~3,880 |
 | Iron Bars | 2.00% | ~3,880 |
 | D.B. Cooper | 1.00% | ~1,940 |
@@ -23,8 +23,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~194 |
 | ... It's What You Can Prove | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194,013 (Ranked 73)  
-Completed: 9 (0.00%) (Ranked 351)  
+Progressed: 194,019 (Ranked 73)  
+Completed: 10 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,22 +232,22 @@ Completed: 9 (0.00%) (Ranked 351)
 | 2023-11-12 | 193,412 | 9 |
 | 2023-11-13 | 193,713 | 9 |
 | 2023-11-14 | 193,941 | 9 |
-| 2023-11-15 | 194,013 | 9 |
+| 2023-11-15 | 194,019 | 10 |
 ## Awards
 Max (Great for Beginners): 563  (Ranked 199)  
-Sum: 4,373 (Ranked 146)  
+Sum: 4,375 (Ranked 146)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 563 |
 | This game is Extremely Fun | 558 |
 | This game is Highly Recommended | 526 |
-| This game has Quickly Understood Controls | 517 |
+| This game has Quickly Understood Controls | 518 |
 | This game is Relaxing | 507 |
 | This game has Diverse Characters | 474 |
 | This game has Amazing Storytelling | 466 |
 | This game is Educational | 459 |
-| This game has Amazing Characters | 427 |
+| This game has Amazing Characters | 428 |
 | This game has a Creative Community | 335 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -549,4 +549,4 @@ Diff (max vs sum): 53
 | 2023-11-12 | 4.61 | - | 561 | 4,364 |
 | 2023-11-13 | 4.61 | - | 563 | 4,369 |
 | 2023-11-14 | 4.61 | - | 563 | 4,372 |
-| 2023-11-15 | 4.61 | - | 563 | 4,373 |
+| 2023-11-15 | 4.61 | - | 563 | 4,375 |

@@ -8,20 +8,20 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~884 |
 | Whatever It Takes | 2.00% | ~884 |
 | Pork Chopped | 2.00% | ~884 |
-| Welcome To Hell-A | 1.00% | ~7,186 |
+| Welcome To Hell-A | 1.00% | ~7,187 |
 | Hotel California | 0.90% | ~6,468 |
 | Git Gutte! | 0.80% | ~5,749 |
 | Break A Leg | 0.80% | ~5,749 |
 | Coup de Grâce | 0.80% | ~5,749 |
 | Hazardous Materials | 0.80% | ~5,749 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,749 |
-| Dr. Reed, I Presume? | 0.70% | ~5,030 |
-| Anger Management | 0.70% | ~5,030 |
-| Bookworm | 0.70% | ~5,030 |
-| Friends Like These | 0.70% | ~5,030 |
-| Apex Predator | 0.70% | ~5,030 |
-| Stacking the Deck | 0.70% | ~5,030 |
-| This is My Weapon | 0.70% | ~5,030 |
+| Dr. Reed, I Presume? | 0.70% | ~5,031 |
+| Anger Management | 0.70% | ~5,031 |
+| Bookworm | 0.70% | ~5,031 |
+| Friends Like These | 0.70% | ~5,031 |
+| Apex Predator | 0.70% | ~5,031 |
+| Stacking the Deck | 0.70% | ~5,031 |
+| This is My Weapon | 0.70% | ~5,031 |
 | Perks of the Job | 0.60% | ~4,312 |
 | But Doctor, I am Butcho | 0.60% | ~4,312 |
 | Slayer Squad | 0.60% | ~4,312 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,642 (Ranked 20)  
+Progressed: 718,662 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,642 | 2,391 |
+| 2023-11-15 | 718,662 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
 Sum: 11,329 (Ranked 84)  

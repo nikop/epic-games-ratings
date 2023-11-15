@@ -3,9 +3,9 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1911,9 +1911,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 574
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -1951,9 +1951,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -2367,9 +2367,9 @@
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
       "SetID": "5fn8ia4",
       "Name": "Expert in the Field",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 129
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -2414,8 +2414,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:06:36.1707666+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:08:02.3089693+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:00:07.5703539+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:06:36.1708457+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:00:51.5062245+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:08:02.3090666+00:00"
 }

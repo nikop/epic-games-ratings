@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -2394,9 +2394,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "5k00jcd",
       "Name": "Eagle eye",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -2426,9 +2426,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 299
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2519,8 +2519,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:04:44.7072358+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:05:32.6492363+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-15T09:01:04.4289149+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:04:44.7072688+00:00"
+  "LastUpdate_Ratings": "2023-11-15T10:02:38.673183+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:05:32.6492794+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1323,9 +1323,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237213,
+  "EOS_Progressed": 237217,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1316,
+  "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18618,6 +18618,11 @@
       "Time": "2023-11-15T09:08:29.7777009+00:00",
       "NumProgressed": 237213,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T10:08:45.3453445+00:00",
+      "NumProgressed": 237217,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18629,7 +18634,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "100Fail",
@@ -18661,7 +18666,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "BookCollection",
@@ -18693,7 +18698,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "Chapter4",
@@ -19077,7 +19082,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83025
+      "UsersEstimate": 83026
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19165,7 +19170,7 @@
       "Name": "We come in peace",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "MinistrelEpic",
@@ -19237,7 +19242,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "QuestPriestess",
@@ -19325,28 +19330,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237213,
+      "Progressed": 237217,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237213,
+      "Progressed": 237217,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-14T17:59:08.4109383+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:08:29.7777004+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:08:45.345344+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:59:02.4777254+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:08:29.7778359+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:59:23.2488057+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:08:45.3454776+00:00"
 }

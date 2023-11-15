@@ -6,9 +6,9 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470864,
+  "EOS_Progressed": 470865,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22453,6 +22453,11 @@
       "Time": "2023-11-15T06:09:10.777077+00:00",
       "NumProgressed": 470864,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-15T10:10:05.7731692+00:00",
+      "NumProgressed": 470865,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22480,7 +22485,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113007
+      "UsersEstimate": 113008
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22552,7 +22557,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310770
+      "UsersEstimate": 310771
     },
     {
       "ID": "achievement_story_landa",
@@ -22600,7 +22605,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32960
+      "UsersEstimate": 32961
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -22608,7 +22613,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32960
+      "UsersEstimate": 32961
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -22704,7 +22709,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32960
+      "UsersEstimate": 32961
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -22888,7 +22893,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207180
+      "UsersEstimate": 207181
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22896,7 +22901,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141259
+      "UsersEstimate": 141260
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23014,9 +23019,9 @@
       "ID": "achievement_unlock_phalanx_battleship",
       "SetID": "7plcbc4",
       "Name": "Soldiers of Fortune",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -23095,21 +23100,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14798,
+      "Progressed": 14799,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470864,
+      "Progressed": 470865,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-15T09:09:32.1830126+00:00",
+  "LastChanged_Achievements": "2023-11-15T10:10:05.7731688+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-15T08:58:23.8226272+00:00",
-  "LastUpdate_Achievements": "2023-11-15T09:09:32.1831718+00:00"
+  "LastUpdate_Ratings": "2023-11-15T09:58:30.8191313+00:00",
+  "LastUpdate_Achievements": "2023-11-15T10:10:05.773334+00:00"
 }
