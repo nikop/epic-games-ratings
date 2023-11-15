@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129819,
+  "EOS_Progressed": 129820,
   "EOS_Completed": 1114,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -24037,6 +24037,11 @@
       "Time": "2023-11-15T07:05:28.0552345+00:00",
       "NumProgressed": 129819,
       "NumCompleted": 1114
+    },
+    {
+      "Time": "2023-11-15T08:06:50.4422525+00:00",
+      "NumProgressed": 129820,
+      "NumCompleted": 1114
     }
   ],
   "TotalAchievements": 34,
@@ -24104,7 +24109,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 103855
+      "UsersEstimate": 103856
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -24128,7 +24133,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36349
+      "UsersEstimate": 36350
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -24224,7 +24229,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36349
+      "UsersEstimate": 36350
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -24232,7 +24237,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23367
+      "UsersEstimate": 23368
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -24304,7 +24309,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 29858
+      "UsersEstimate": 29859
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -24319,7 +24324,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129819,
+      "Progressed": 129820,
       "Completed": 1114
     }
   ],
@@ -24327,8 +24332,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:05:28.0552343+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:06:50.4422517+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.6624381+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:58:22.5100274+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:05:28.0553639+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:58:58.0151548+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:06:50.4423832+00:00"
 }

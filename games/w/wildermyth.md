@@ -31,6 +31,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.20% | ~3 |
 | Another Tale to Tell | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
+| We Emerge Changed | 0.10% | ~1 |
 | Storied Past | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
@@ -49,7 +50,6 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |
-| We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
 | Worldwalker | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |

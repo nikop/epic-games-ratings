@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 574,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1483,6 +1483,11 @@
       "Time": "2023-11-15T06:05:08.35224+00:00",
       "NumProgressed": 572,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T08:06:40.4625144+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1518,7 +1523,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 362
     },
     {
       "ID": "Chapter10",
@@ -1526,7 +1531,7 @@
       "Name": "The Friend",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Chapter2",
@@ -1534,7 +1539,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Chapter3",
@@ -1598,7 +1603,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Collectibles2",
@@ -1644,9 +1649,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 189
     },
     {
       "ID": "GollumChoices",
@@ -1662,7 +1667,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Memories",
@@ -1670,7 +1675,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Murderer",
@@ -1678,7 +1683,7 @@
       "Name": "Murderer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NoDamage",
@@ -1774,21 +1779,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 574,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:05:20.0787704+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:06:40.4625138+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:59:03.6108046+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:05:20.0788011+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:59:53.0932759+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:06:40.4625448+00:00"
 }

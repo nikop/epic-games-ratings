@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.69 (Ranked 231)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.68 (Ranked 252)
 | Hitting a Season | 35.00% | ~2,007 |
 | A Dozen Pieces | 31.00% | ~1,778 |
 | Challenge Yourself | 31.00% | ~1,778 |
-| Making History | 30.00% | ~1,720 |
+| Making History | 31.00% | ~1,778 |
 | Network Success | 25.00% | ~1,434 |
 | Writing a new Chapter | 24.00% | ~1,376 |
 | Spring Cleaning | 23.00% | ~1,319 |
@@ -199,3 +199,4 @@ Diff (max vs sum): 12
 | 2023-11-12 | 4.69 | 28 | 72 |
 | 2023-11-13 | 4.69 | 28 | 48 |
 | 2023-11-14 | 4.68 | 31 | 51 |
+| 2023-11-15 | 4.69 | 31 | 51 |

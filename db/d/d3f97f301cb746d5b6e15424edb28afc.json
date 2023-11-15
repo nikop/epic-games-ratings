@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1754,9 +1754,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 560
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -1906,9 +1906,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 573
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -1922,9 +1922,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 232
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -1938,9 +1938,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 592
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -1962,9 +1962,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 522
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -1994,9 +1994,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 393
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -2010,9 +2010,9 @@
       "ID": "GSS_ACH_34_FLYING_CARS",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s Raining Cars",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "GSS_ACH_35_BROOM_01",
@@ -2138,9 +2138,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 142
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -2409,8 +2409,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:06:29.0020517+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:08:06.4835995+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:59:52.2006817+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:06:29.0021307+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:00:53.0718543+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:08:06.4836987+00:00"
 }

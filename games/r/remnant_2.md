@@ -9,6 +9,7 @@ Rating: 4.75 (Ranked 145)
 | Am I Seeing This? | 0.10% | ~221 |
 | Ghost in the Machine | 0.10% | ~221 |
 | Only Human | 0.10% | ~221 |
+| Gleaming the Cube | 0.10% | ~221 |
 | Power Surge | 0.10% | ~221 |
 | The Killing Jar | 0.10% | ~221 |
 | Dark Designs | 0.10% | ~221 |
@@ -35,18 +36,19 @@ Rating: 4.75 (Ranked 145)
 | Not Your Average Trait | 0.10% | ~221 |
 | All These Traits� | 0.10% | ~221 |
 | Proving Grounds | 0.10% | ~221 |
+| Carnage in C-Minor | 0.10% | ~221 |
 | The Ultimate Weapon | 0.10% | ~221 |
 | Almost There | 0.10% | ~221 |
 | Make Some Room | 0.10% | ~221 |
 | Good, But Could Be Better! | 0.10% | ~221 |
 | No One Should Have All That Power | 0.10% | ~221 |
 | Trait Chaser | 0.10% | ~221 |
+| Maxed Out! | 0.10% | ~221 |
 | Transmutate | 0.10% | ~221 |
 | Regicide | 0.10% | ~0 |
 | Master of the Dark Arts | 0.10% | ~0 |
 | Expanding Horizons | 0.00% | ~0 |
 | Chaos | 0.00% | ~0 |
-| Gleaming the Cube | 0.00% | ~0 |
 | Traitor | 0.00% | ~0 |
 | Forever is a Long Time Coming | 0.00% | ~0 |
 | The God Gambit | 0.00% | ~0 |
@@ -55,13 +57,11 @@ Rating: 4.75 (Ranked 145)
 | Bad Moon Rising | 0.00% | ~0 |
 | Was This Supposed To Happen? | 0.00% | ~0 |
 | The Web | 0.00% | ~0 |
-| Carnage in C-Minor | 0.00% | ~0 |
-| Maxed Out! | 0.00% | ~0 |
 | Succession | 0.00% | ~0 |
 | A Foul Feast | 0.00% | ~0 |
 | You Shall Pass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,994 (Ranked 68)  
+Progressed: 221,020 (Ranked 68)  
 Completed: 453 (0.20%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 453 (0.20%) (Ranked 251)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 220,994 | 453 |
+| 2023-11-15 | 221,020 | 453 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 4,997 (Ranked 137)  

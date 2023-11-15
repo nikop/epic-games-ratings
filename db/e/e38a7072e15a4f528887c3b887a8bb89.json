@@ -134,9 +134,9 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KEEP_RUNNING_ACH",
@@ -150,9 +150,9 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "OPENING_SALVO_ACH",
@@ -204,8 +204,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:04:26.1554891+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:05:32.1486165+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.0936228+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:00:32.6888646+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:04:26.1554962+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:02:36.8547771+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:05:32.1486268+00:00"
 }

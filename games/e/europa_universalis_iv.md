@@ -99,6 +99,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.10% | ~456 |
 | That is mine! | 0.10% | ~456 |
 | The Chrysanthemum Throne | 0.10% | ~456 |
+| The Continuation of Diplomacy | 0.10% | ~456 |
 | The Five Colonies | 0.10% | ~456 |
 | The Grand Armada | 0.10% | ~456 |
 | The pen is mightier than the sword | 0.10% | ~456 |
@@ -326,7 +327,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Bohemians | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
-| The Continuation of Diplomacy | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,885 (Ranked 41)  
+Progressed: 455,898 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 455,885 | 1 |
+| 2023-11-15 | 455,898 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,584 (Ranked 24)  

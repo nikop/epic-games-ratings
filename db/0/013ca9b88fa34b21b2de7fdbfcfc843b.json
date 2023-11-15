@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7788,
+  "EOS_Progressed": 7789,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -6786,6 +6786,11 @@
       "Time": "2023-11-15T07:09:22.1457647+00:00",
       "NumProgressed": 7788,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T08:09:49.5345139+00:00",
+      "NumProgressed": 7789,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6798,7 +6803,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5607
+      "UsersEstimate": 5608
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6806,7 +6811,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5529
+      "UsersEstimate": 5530
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6902,7 +6907,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6974,7 +6979,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7077,22 +7082,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7788,
+      "Progressed": 7789,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 405,
-      "Completed": 405
+      "Progressed": 406,
+      "Completed": 406
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:09:22.1457645+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:09:49.5345133+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:02:45.8296799+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:09:22.14583+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:03:21.3337069+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:09:49.5345682+00:00"
 }

@@ -568,9 +568,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -864,9 +864,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:04:39.9805038+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:05:49.4476207+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:00:01.4741666+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:04:39.9805546+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:01:05.6240733+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:05:49.4476732+00:00"
 }

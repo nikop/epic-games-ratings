@@ -23,6 +23,7 @@ Rating: 4.22 (Ranked 897)
 | Ammunition Collector | 0.20% | ~3 |
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
+| Rune Novice | 0.20% | ~3 |
 | Unwanted | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
@@ -32,7 +33,6 @@ Rating: 4.22 (Ranked 897)
 | Umbral Adept | 0.10% | ~2 |
 | Salvation in Blood | 0.10% | ~2 |
 | Honed to Perfection | 0.10% | ~2 |
-| Rune Novice | 0.10% | ~2 |
 | Rune Master | 0.10% | ~2 |
 | Carving Out Victory | 0.10% | ~2 |
 | Utmost Insight | 0.10% | ~2 |

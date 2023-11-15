@@ -12799,9 +12799,9 @@
       "ID": "HARVEST_CROP_50",
       "SetID": "5349c2e",
       "Name": "Reap What You Sow",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 4860
+      "UsersEstimate": 4928
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -13007,8 +13007,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-14T18:00:09.6823623+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:04:16.5271111+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:05:20.2470641+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:59:32.4640677+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:04:16.5271894+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:00:28.7736748+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:05:20.2471388+00:00"
 }

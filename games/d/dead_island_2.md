@@ -22,6 +22,7 @@ Rating: 4.54 (Ranked 523)
 | Apex Predator | 0.70% | ~5,030 |
 | Stacking the Deck | 0.70% | ~5,030 |
 | This is My Weapon | 0.70% | ~5,030 |
+| Perks of the Job | 0.60% | ~4,312 |
 | But Doctor, I am Butcho | 0.60% | ~4,312 |
 | Slayer Squad | 0.60% | ~4,312 |
 | Can't Handle the Truth | 0.60% | ~4,312 |
@@ -30,14 +31,13 @@ Rating: 4.54 (Ranked 523)
 | A Patton Emerges | 0.60% | ~4,312 |
 | Our True Nature | 0.60% | ~4,312 |
 | Making Your Mark | 0.50% | ~3,593 |
-| Perks of the Job | 0.50% | ~3,593 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,593 |
 | Ooh, Shiny! | 0.50% | ~3,593 |
 | I Am the Resurrection | 0.50% | ~3,593 |
 | Max Headroom | 0.50% | ~3,593 |
-| Not Even My Final Form | 0.40% | ~2,874 |
-| Humanity Distilled | 0.40% | ~2,874 |
-| Down with the Sickness | 0.40% | ~2,874 |
+| Not Even My Final Form | 0.40% | ~2,875 |
+| Humanity Distilled | 0.40% | ~2,875 |
+| Down with the Sickness | 0.40% | ~2,875 |
 | Make it So | 0.30% | ~2,156 |
 | On Safari | 0.30% | ~2,156 |
 | Smorgasbord | 0.30% | ~2,156 |
@@ -46,7 +46,7 @@ Rating: 4.54 (Ranked 523)
 | Go, Bobcats! | 0.30% | ~2,156 |
 | Variety is the Spice of Death | 0.30% | ~2,156 |
 | Rising Star | 0.30% | ~2,156 |
-| Top That, Tisha! | 0.30% | ~132 |
+| Top That, Tisha! | 0.30% | ~133 |
 | LA Influential | 0.20% | ~1,437 |
 | Sole Survivor | 0.20% | ~1,437 |
 | Gore Horse | 0.20% | ~1,437 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,623 (Ranked 20)  
+Progressed: 718,630 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,623 | 2,391 |
+| 2023-11-15 | 718,630 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
 Sum: 11,329 (Ranked 84)  

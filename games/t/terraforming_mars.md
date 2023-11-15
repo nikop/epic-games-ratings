@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,481 |
 | Opportunity | 3.00% | ~2,481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,700 (Ranked 93)  
+Progressed: 82,701 (Ranked 93)  
 Completed: 161 (0.19%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 161 (0.19%) (Ranked 254)
 | 2023-11-12 | 82,478 | 160 |
 | 2023-11-13 | 82,583 | 160 |
 | 2023-11-14 | 82,685 | 161 |
-| 2023-11-15 | 82,700 | 161 |
+| 2023-11-15 | 82,701 | 161 |
 ## Awards
 Max (Relaxing): 525  (Ranked 204)  
 Sum: 3,251 (Ranked 169)  

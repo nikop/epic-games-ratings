@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,090 |
+| New Recruit | 89.00% | ~1,091 |
 | Off to a good start | 67.00% | ~821 |
 | Do... or do not. There is no try | 51.00% | ~625 |
 | A good blaster at your side | 31.00% | ~380 |
 | I suggest a new strategy | 20.00% | ~245 |
-| Scrap collector | 18.00% | ~220 |
+| Scrap collector | 18.00% | ~221 |
 | All right, I'll give it a try | 17.00% | ~208 |
 | Great shot, kid! | 17.00% | ~208 |
 | The power of the Force | 15.00% | ~184 |
 | Together we can rule the galaxy | 15.00% | ~184 |
 | Shoot first | 15.00% | ~184 |
 | Collector | 14.00% | ~172 |
-| Tell Jabba that I've got his money | 10.00% | ~122 |
-| Best star-pilot in the galaxy | 10.00% | ~122 |
-| Survivor | 10.00% | ~122 |
+| Tell Jabba that I've got his money | 10.00% | ~123 |
+| Best star-pilot in the galaxy | 10.00% | ~123 |
+| Survivor | 10.00% | ~123 |
 | Never tell me the odds! | 9.00% | ~110 |
 | What's the cargo? | 8.00% | ~98 |
 | A cunning warrior | 8.00% | ~98 |
@@ -41,12 +41,12 @@
 | City in the Clouds | 3.00% | ~37 |
 | That's no moon | 3.00% | ~37 |
 | What will you become? | 3.00% | ~37 |
-| Hold the line! | 2.00% | ~24 |
-| The Force is strong with this one | 2.00% | ~24 |
-| This is a new day, a new beginning | 2.00% | ~24 |
-| Alternative solution | 2.00% | ~24 |
-| The circle is now complete | 2.00% | ~24 |
-| Disturbed tranquility | 2.00% | ~24 |
+| Hold the line! | 2.00% | ~25 |
+| The Force is strong with this one | 2.00% | ~25 |
+| This is a new day, a new beginning | 2.00% | ~25 |
+| Alternative solution | 2.00% | ~25 |
+| The circle is now complete | 2.00% | ~25 |
+| Disturbed tranquility | 2.00% | ~25 |
 | Playing the objective | 1.00% | ~12 |
 | Ackbar's Elite | 1.00% | ~12 |
 | Do we take prisoners? | 1.00% | ~12 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,225 (Ranked 245)  
+Progressed: 1,226 (Ranked 245)  
 Completed: 1 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.08%) (Ranked 289)
 | 2023-11-12 | 1,196 | 1 |
 | 2023-11-13 | 1,206 | 1 |
 | 2023-11-14 | 1,220 | 1 |
-| 2023-11-15 | 1,225 | 1 |
+| 2023-11-15 | 1,226 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

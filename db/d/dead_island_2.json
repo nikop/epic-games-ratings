@@ -6537,9 +6537,9 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718623,
+  "EOS_Progressed": 718630,
   "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3793,
+  "EOS_NewPlayers": 3786,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30382,6 +30382,11 @@
       "Time": "2023-11-15T07:04:44.0191669+00:00",
       "NumProgressed": 718623,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-15T08:05:54.5974446+00:00",
+      "NumProgressed": 718630,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30439,9 +30444,9 @@
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3593
+      "UsersEstimate": 4312
     },
     {
       "ID": "ach_bookworm",
@@ -30529,7 +30534,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30633,7 +30638,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ach_revival_tour",
@@ -30649,7 +30654,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ach_secrets_of_la",
@@ -30793,20 +30798,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718623,
+      "Progressed": 718630,
       "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44165,
+      "Progressed": 44172,
       "Completed": 36542
     }
   ],
@@ -30814,8 +30819,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-15T02:19:50.8573803+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:04:44.0191667+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:05:54.5974435+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:57:38.3642054+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:04:44.0193736+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:58:00.0771399+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:05:54.5975944+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
@@ -3569,6 +3569,11 @@
       "Time": "2023-11-15T05:10:18.8180464+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T08:10:05.8421934+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3597,7 +3602,7 @@
       "Name": "Hold the line!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_12",
@@ -3629,7 +3634,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_16",
@@ -3685,7 +3690,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_22",
@@ -3773,7 +3778,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_32",
@@ -3797,7 +3802,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_35",
@@ -3805,7 +3810,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "achievement_36",
@@ -3829,7 +3834,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_39",
@@ -3893,7 +3898,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_46",
@@ -4005,7 +4010,7 @@
       "Name": "Alternative solution",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_59",
@@ -4037,7 +4042,7 @@
       "Name": "The circle is now complete",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_62",
@@ -4053,7 +4058,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_7",
@@ -4084,13 +4089,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 1
     }
   ],
@@ -4098,8 +4103,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:09:35.1435299+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:10:05.8421927+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:57:01.0182655+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:09:35.1435953+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:57:10.3970227+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:10:05.8422673+00:00"
 }

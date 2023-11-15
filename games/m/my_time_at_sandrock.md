@@ -1,53 +1,53 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.68 (Ranked 253)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 245.00% | ~835 |
-| Iron Chef | 178.00% | ~607 |
-| Greeno-B-Gone | 118.00% | ~402 |
-| Your Especially Earned Trajectory | 91.00% | ~310 |
-| No Mountain Wide Enough | 64.00% | ~218 |
-| On that Grindset | 62.00% | ~211 |
-| Can We Keep It? | 62.00% | ~211 |
+| Adept Assembler | 244.00% | ~834 |
+| Iron Chef | 177.00% | ~605 |
+| Greeno-B-Gone | 118.00% | ~404 |
+| Your Especially Earned Trajectory | 91.00% | ~311 |
+| No Mountain Wide Enough | 64.00% | ~219 |
+| On that Grindset | 62.00% | ~212 |
+| Can We Keep It? | 62.00% | ~212 |
 | Yakmel Whisperer | 60.00% | ~205 |
-| One of the Cool Kids | 56.00% | ~191 |
+| One of the Cool Kids | 57.00% | ~195 |
 | Diamonds are Forever | 55.00% | ~188 |
-| Pack Mule | 54.00% | ~184 |
-| Unboxing | 52.00% | ~177 |
-| Big Game Hunter | 50.00% | ~170 |
+| Pack Mule | 54.00% | ~185 |
+| Unboxing | 52.00% | ~178 |
+| Big Game Hunter | 50.00% | ~171 |
 | Financially Secure | 48.00% | ~164 |
-| Got Served | 47.00% | ~160 |
+| Got Served | 47.00% | ~161 |
 | Chatterbox | 46.00% | ~157 |
 | Happier-est Place on Earth | 43.00% | ~147 |
-| I Do! | 43.00% | ~147 |
 | You Don't Win Friends With Salad | 43.00% | ~147 |
 | Call Me Fishmael | 43.00% | ~147 |
-| What Plants Crave | 42.00% | ~143 |
-| First Love | 42.00% | ~143 |
-| Mole Masher | 40.00% | ~136 |
+| What Plants Crave | 42.00% | ~144 |
+| First Love | 42.00% | ~144 |
+| I Do! | 42.00% | ~144 |
+| Mole Masher | 40.00% | ~137 |
 | My Time Mansion | 39.00% | ~133 |
-| Knowledge is Power | 38.00% | ~130 |
 | Better Late than Never | 38.00% | ~130 |
 | Anti-Santa | 38.00% | ~130 |
-| Panda-kin | 37.00% | ~126 |
-| Finishing Touches | 37.00% | ~126 |
-| Builder of the Month | 35.00% | ~119 |
+| Knowledge is Power | 37.00% | ~127 |
+| Panda-kin | 37.00% | ~127 |
+| Finishing Touches | 37.00% | ~127 |
+| Builder of the Month | 35.00% | ~120 |
 | Commissions, commissions...! | 34.00% | ~116 |
-| Bridging the Gap | 33.00% | ~113 |
+| Bridging the Gap | 34.00% | ~116 |
 | Officially Official | 33.00% | ~113 |
 | Who Ya Gonna Call...? | 33.00% | ~113 |
 | Waste Not Want Not | 32.00% | ~109 |
-| Martle's Dream | 30.00% | ~102 |
+| Martle's Dream | 30.00% | ~103 |
 | Jewel of the Eufaula | 29.00% | ~99 |
-| Got the Flow Back | 28.00% | ~95 |
+| Got the Flow Back | 28.00% | ~96 |
 | Elementary, My Dear | 27.00% | ~92 |
 | He Can Spin A Yarn... | 26.00% | ~89 |
 | Lifeline Pipeline | 26.00% | ~89 |
-| Newton | 23.00% | ~78 |
+| Newton | 23.00% | ~79 |
 | Kind of a Big Deal | 22.00% | ~75 |
 | Do Your Part | 22.00% | ~75 |
 | Sepia Toned Memories | 21.00% | ~72 |
@@ -55,19 +55,19 @@ Number of Ratings: 892  (23.09.2022)
 | Just What I Always Wanted! | 20.00% | ~68 |
 | Time Flies | 19.00% | ~65 |
 | It Belongs in a Museum! | 19.00% | ~65 |
-| Sandrunning Speedster | 18.00% | ~61 |
+| Sandrunning Speedster | 18.00% | ~62 |
 | Cardistry | 16.00% | ~55 |
 | Pro Gamer | 16.00% | ~55 |
-| It's High Noon... | 9.00% | ~31 |
-| Strong Arms | 9.00% | ~31 |
 | Jack of All Trades | 8.00% | ~27 |
+| It's High Noon... | 8.00% | ~27 |
+| Strong Arms | 8.00% | ~27 |
 | Got the Receipt? | 7.00% | ~24 |
 | Sandrock's Hottest Club | 3.00% | ~10 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 327)  
+Progressed: 342 (Ranked 326)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 325 | 0 |
 | 2023-11-13 | 333 | 0 |
 | 2023-11-14 | 331 | 0 |
-| 2023-11-15 | 341 | 0 |
+| 2023-11-15 | 342 | 0 |
 ## Awards
 Max (Character Customization): 590  (Ranked 194)  
 Sum: 1,346 (Ranked 239)  

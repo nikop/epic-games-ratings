@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 824,
+  "EOS_Progressed": 826,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.8,
+  "EOS_Completed_Percentage": 10.77,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2844,6 +2844,11 @@
       "Time": "2023-11-15T07:09:32.4425273+00:00",
       "NumProgressed": 824,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-11-15T08:10:02.630132+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -2855,7 +2860,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 793
     },
     {
       "ID": "LEVEL_002",
@@ -2863,7 +2868,7 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 669
     },
     {
       "ID": "LEVEL_003",
@@ -2871,15 +2876,15 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 479
     },
     {
       "ID": "LEVEL_005",
@@ -2887,15 +2892,15 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 347
     },
     {
       "ID": "LEVEL_007",
@@ -2909,9 +2914,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 281
     },
     {
       "ID": "LEVEL_009",
@@ -2919,7 +2924,7 @@
       "Name": "Going zig zag",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "LEVEL_010",
@@ -2927,7 +2932,7 @@
       "Name": "Rocks around the island",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LEVEL_011",
@@ -2943,7 +2948,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LEVEL_013",
@@ -2967,7 +2972,7 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_016",
@@ -2999,7 +3004,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_020",
@@ -3007,7 +3012,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_021",
@@ -3039,7 +3044,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_025",
@@ -3047,7 +3052,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_026",
@@ -3055,7 +3060,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_027",
@@ -3094,14 +3099,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 824,
+      "Progressed": 826,
       "Completed": 89
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:09:32.442527+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:10:02.6301315+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:57:19.3553686+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:09:32.4425572+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:57:34.8484394+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:10:02.6301653+00:00"
 }

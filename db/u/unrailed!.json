@@ -2795,9 +2795,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 662643,
+  "EOS_Progressed": 662646,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1932,
+  "EOS_NewPlayers": 1929,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26570,6 +26570,11 @@
       "Time": "2023-11-15T07:09:10.1753309+00:00",
       "NumProgressed": 662643,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-15T08:09:34.4423871+00:00",
+      "NumProgressed": 662646,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26581,7 +26586,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99396
+      "UsersEstimate": 99397
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -26589,7 +26594,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79517
+      "UsersEstimate": 79518
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -26829,7 +26834,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112649
+      "UsersEstimate": 112650
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -26996,15 +27001,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 662643,
+      "Progressed": 662646,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-12T10:00:29.2688318+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:09:10.1753306+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:09:34.4423865+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:58:08.538508+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:09:10.1754641+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:58:38.9151342+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:09:34.4425388+00:00"
 }

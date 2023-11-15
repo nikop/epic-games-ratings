@@ -3,9 +3,9 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 769,
-  "EOS_Completed": 33,
+  "EOS_Completed": 34,
   "EOS_NewPlayers": 315,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 4.29,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1749,6 +1749,11 @@
       "Time": "2023-11-15T05:09:35.4882271+00:00",
       "NumProgressed": 769,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-15T08:09:21.7617394+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1841,13 +1846,13 @@
       "ID": "6f5dahd",
       "IsBase": true,
       "Progressed": 769,
-      "Completed": 33
+      "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:09:00.0189825+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:09:21.7617386+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:59:01.9609703+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:09:00.0189983+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:59:50.8285197+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:09:21.7617544+00:00"
 }

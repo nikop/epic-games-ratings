@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 252,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 181,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -487,6 +487,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 51,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-15T07:58:19.0332493+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -515,7 +521,7 @@
   ],
   "EOS_Progressed": 5734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5910,9 +5916,9 @@
       "ID": "achievement_0045",
       "SetID": "9123ogc",
       "Name": "Making History",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1778
     },
     {
       "ID": "achievement_0046",
@@ -5958,9 +5964,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-14T21:57:44.0726099+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:04:37.5462671+00:00",
+  "LastChanged": "2023-11-15T07:58:19.0332491+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:05:46.6950101+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:57:52.9036916+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:04:37.5463128+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:58:19.0332496+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:05:46.6950707+00:00"
 }

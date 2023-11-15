@@ -34,6 +34,7 @@
 | Potential Unlocked | 3.00% | ~6 |
 | Xevarian Gambit | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
+| Life... Finds a Way | 3.00% | ~6 |
 | Inquisitions of Discord | 3.00% | ~6 |
 | Unseen Patterns | 3.00% | ~6 |
 | Making Contact | 2.00% | ~4 |
@@ -47,7 +48,6 @@
 | Delayed | 2.00% | ~4 |
 | A Real Battle | 2.00% | ~4 |
 | The Darkness Within | 2.00% | ~4 |
-| Life... Finds a Way | 2.00% | ~4 |
 | Merchant Lord | 2.00% | ~4 |
 | Voracity Confronted | 2.00% | ~4 |
 | Insectoid Propagator | 2.00% | ~4 |

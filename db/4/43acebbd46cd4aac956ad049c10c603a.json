@@ -628,9 +628,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "AnthropicHills",
@@ -748,9 +748,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "GnothiSeauton",
@@ -1076,9 +1076,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "YourBiggestFan",
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:04:38.4600792+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:05:47.609843+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:58:45.4929467+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:04:38.46012+00:00"
+  "LastUpdate_Ratings": "2023-11-15T07:59:29.1231381+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:05:47.6098959+00:00"
 }

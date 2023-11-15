@@ -2435,9 +2435,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20719,
+  "EOS_Progressed": 20721,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9335,6 +9335,11 @@
       "Time": "2023-11-15T07:05:51.04771+00:00",
       "NumProgressed": 20719,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T08:07:19.2060532+00:00",
+      "NumProgressed": 20721,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9515,7 +9520,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "Achievement_Trophy23",
@@ -9531,7 +9536,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8702
+      "UsersEstimate": 8703
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9539,7 +9544,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "Achievement_Trophy26",
@@ -9563,7 +9568,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6837
+      "UsersEstimate": 6838
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9587,7 +9592,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6631
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9611,7 +9616,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "Achievement_Trophy35",
@@ -9643,7 +9648,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "Achievement_Trophy39",
@@ -9667,7 +9672,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "Achievement_Trophy42",
@@ -9705,9 +9710,9 @@
       "ID": "Achievement_Trophy46",
       "SetID": "724h0m0",
       "Name": "Grin and bear it",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 414
     },
     {
       "ID": "Achievement_Trophy47",
@@ -9834,7 +9839,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20719,
+      "Progressed": 20721,
       "Completed": 1
     }
   ],
@@ -9842,8 +9847,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T14:59:20.1749081+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:05:51.0477097+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:07:19.2060527+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-15T06:59:47.9294681+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:05:51.0478252+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:00:46.728036+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:07:19.2061442+00:00"
 }

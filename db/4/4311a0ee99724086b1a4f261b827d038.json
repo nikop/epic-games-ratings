@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232415,
+  "EOS_Progressed": 232417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13762,6 +13762,11 @@
       "Time": "2023-11-15T07:09:19.3443376+00:00",
       "NumProgressed": 232415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T08:09:46.0305716+00:00",
+      "NumProgressed": 232417,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -13822,7 +13827,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -13830,7 +13835,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48807
+      "UsersEstimate": 48808
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -13838,7 +13843,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20917
+      "UsersEstimate": 20918
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -13870,7 +13875,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6972
+      "UsersEstimate": 6973
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -13878,7 +13883,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6972
+      "UsersEstimate": 6973
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -13934,7 +13939,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -14006,7 +14011,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -14045,7 +14050,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 232415,
+      "Progressed": 232417,
       "Completed": 0
     }
   ],
@@ -14053,8 +14058,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-14T16:02:55.3405759+00:00",
-  "LastChanged_Achievements": "2023-11-15T07:09:19.3443372+00:00",
+  "LastChanged_Achievements": "2023-11-15T08:09:46.0305711+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.7826275+00:00",
-  "LastUpdate_Ratings": "2023-11-15T07:02:39.3522656+00:00",
-  "LastUpdate_Achievements": "2023-11-15T07:09:19.3444158+00:00"
+  "LastUpdate_Ratings": "2023-11-15T08:03:12.745162+00:00",
+  "LastUpdate_Achievements": "2023-11-15T08:09:46.0306571+00:00"
 }

@@ -9,9 +9,9 @@
 | For the Horde! | 79.00% | ~210 |
 | Hammer Time, Round Two | 77.00% | ~205 |
 | The Hellwoods | 71.00% | ~189 |
+| Experienced Thalya | 65.00% | ~173 |
 | Thalya's Concentrated Fury | 64.00% | ~170 |
 | The Plains of Strothalm | 64.00% | ~170 |
-| Experienced Thalya | 64.00% | ~170 |
 | Master of Magic | 59.00% | ~157 |
 | Bad Elves Go Everywhere | 59.00% | ~157 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~146 |
@@ -47,7 +47,7 @@
 | Bonus Evilness | 5.00% | ~13 |
 | Sabotage! | 5.00% | ~13 |
 | Doom Hill | 5.00% | ~13 |
-| Brimstone Shaken, Not Stirred | 4.00% | ~11 |
+| Brimstone Shaken, Not Stirred | 5.00% | ~13 |
 | Gorgu is in the Best of Health | 3.00% | ~8 |
 | Mirror, Mirror | 3.00% | ~8 |
 | Laser Eyes Are So Useless | 3.00% | ~8 |
