@@ -478,7 +478,7 @@
 | 470 | [IXION](games/i/ixion.md) | 4.57 | 0 | 546 |
 | 470 | [Minit](games/m/minit.md) | 4.57 | 0 | 546 |
 | 470 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,210 | 45 |
-| 470 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,351 | 94 |
+| 470 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,353 | 94 |
 | 470 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 546 |
 | 470 | [Risen](games/r/risen.md) | 4.57 | 0 | 546 |
 | 470 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.57 | 0 | 546 |
@@ -618,22 +618,22 @@
 | 607 | [MythForce](games/m/mythforce.md) | 4.49 | 35 | 467 |
 | 607 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 546 |
 | 607 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.49 | 0 | 546 |
+| 607 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 546 |
 | 607 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.49 | 0 | 546 |
 | 607 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.49 | 8,531 | 44 |
 | 607 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 458 |
-| 622 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 546 |
-| 622 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 546 |
-| 622 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 140 | 323 |
-| 622 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 458 |
-| 622 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.48 | 25 | 517 |
-| 622 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 546 |
-| 622 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 616,185 | 2 |
-| 622 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 546 |
-| 622 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 546 |
-| 622 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 354 |
-| 622 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 546 |
-| 622 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 546 |
-| 622 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 546 |
+| 623 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 546 |
+| 623 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 546 |
+| 623 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 140 | 323 |
+| 623 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 458 |
+| 623 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.48 | 25 | 517 |
+| 623 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 546 |
+| 623 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 616,185 | 2 |
+| 623 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 546 |
+| 623 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 354 |
+| 623 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 546 |
+| 623 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 546 |
+| 623 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 546 |
 | 635 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 423 |
 | 635 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 546 |
 | 635 | [ELEX](games/e/elex.md) | 4.47 | 24 | 520 |
@@ -899,16 +899,16 @@
 | 897 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 186 | 295 |
 | 897 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 151 | 315 |
 | 897 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 546 |
+| 897 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.22 | 58 | 414 |
 | 897 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 220 | 279 |
-| 901 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 126 | 333 |
-| 901 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 546 |
-| 901 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 484 |
-| 901 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 546 |
-| 901 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.21 | 0 | 546 |
-| 901 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,611 | 24 |
-| 901 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 546 |
-| 901 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 58 | 414 |
-| 901 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 388 |
+| 902 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 126 | 333 |
+| 902 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 546 |
+| 902 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 484 |
+| 902 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 546 |
+| 902 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.21 | 0 | 546 |
+| 902 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,611 | 24 |
+| 902 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 546 |
+| 902 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 388 |
 | 910 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 127 | 330 |
 | 910 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 546 |
 | 910 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 546 |
