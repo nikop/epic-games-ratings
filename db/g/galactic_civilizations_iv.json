@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7275,
+  "EOS_Progressed": 7276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8450,6 +8450,11 @@
       "Time": "2023-11-15T08:08:52.9804416+00:00",
       "NumProgressed": 7275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T17:08:51.1054433+00:00",
+      "NumProgressed": 7276,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8525,7 +8530,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8541,7 +8546,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "First_Major_Ally",
@@ -8549,7 +8554,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -8565,7 +8570,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "First_Race_Met",
@@ -8573,7 +8578,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "First_Ship_Designed",
@@ -8581,7 +8586,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "First_Stream_Travel",
@@ -8597,7 +8602,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8805,7 +8810,7 @@
       "Name": "War with the Unknown",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "Win_As_Altarian",
@@ -8973,7 +8978,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "Win_Diplomacy",
@@ -9036,15 +9041,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7275,
+      "Progressed": 7276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:08:35.1201008+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:08:51.1054429+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.8341432+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:57:13.4678271+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:08:35.1202547+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:57:36.7111825+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:08:51.1055457+00:00"
 }

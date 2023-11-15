@@ -424,9 +424,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_FULL_MAP",
@@ -456,9 +456,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:05:54.6706679+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:05:53.1248886+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:00:45.566524+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:05:54.6706939+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:03:00.0770906+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:05:53.1249184+00:00"
 }

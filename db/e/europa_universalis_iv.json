@@ -2,8 +2,8 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 230,
-  "Ranking_Popularity": 55,
+  "Ranking_Rating": 231,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
@@ -12099,9 +12099,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456147,
+  "EOS_Progressed": 456193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6255,
+  "EOS_NewPlayers": 6263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36034,6 +36034,11 @@
       "Time": "2023-11-15T16:04:23.0265164+00:00",
       "NumProgressed": 456147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T17:04:32.2146633+00:00",
+      "NumProgressed": 456193,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38931,9 +38936,9 @@
       "ID": "achievement_truly_good_maaaaaaaaaaaaaaaaaaaaaaaaaatch",
       "SetID": "8p2n7he",
       "Name": "Truly Good Maaaaa-tch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_zoroaustrians",
@@ -38948,21 +38953,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456147,
+      "Progressed": 456193,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456147,
+      "Progressed": 456193,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-15T11:57:34.9244968+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:04:23.0265161+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:04:32.2146631+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:57:38.4271223+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:04:23.027576+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:58:00.0572043+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:04:32.2158309+00:00"
 }

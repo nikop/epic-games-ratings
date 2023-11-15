@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 366,
   "Ranking_Popularity": 163,
-  "Ranking_PopularitySum": 251,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -2020,10 +2020,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1086,
       "NumberOfAwardsMax": 859
+    },
+    {
+      "Time": "2023-11-15T17:00:20.9389533+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1052,
+      "NumberOfAwardsMax": 859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1086,
+  "NumberOfAwards": 1052,
   "NumberOfAwardsMax": 859,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2111,8 +2117,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-11-14T18:59:50.821967+00:00",
+  "LastChanged": "2023-11-15T17:00:20.9389531+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:00.6651925+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:00:23.401786+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:06:15.7270503+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:00:20.9389536+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:06:11.4848499+00:00"
 }

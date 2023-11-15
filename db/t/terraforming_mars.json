@@ -6,7 +6,7 @@
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 93,
-  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
@@ -3133,9 +3133,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82727,
+  "EOS_Progressed": 82728,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26413,6 +26413,11 @@
       "Time": "2023-11-15T16:04:59.8169665+00:00",
       "NumProgressed": 82727,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-11-15T17:05:05.1226363+00:00",
+      "NumProgressed": 82728,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 30,
@@ -26488,7 +26493,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7445
+      "UsersEstimate": 7446
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -26552,7 +26557,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19854
+      "UsersEstimate": 19855
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -26600,7 +26605,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28954
+      "UsersEstimate": 28955
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -26663,15 +26668,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82727,
+      "Progressed": 82728,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-14T14:58:27.4430049+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:04:59.8169662+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:05:05.1226359+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:58:59.0685644+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:04:59.8171306+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:59:07.8466795+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:05:05.1228343+00:00"
 }

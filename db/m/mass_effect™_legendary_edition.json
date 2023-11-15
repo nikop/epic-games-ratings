@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1267,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3868,9 +3868,9 @@
       "ID": "achievement_3",
       "SetID": "b9pe172",
       "Name": "Distinguished Service Medal",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 25,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_30",
@@ -3956,9 +3956,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 646
+      "UsersEstimate": 659
     },
     {
       "ID": "achievement_40",
@@ -3996,9 +3996,9 @@
       "ID": "achievement_44",
       "SetID": "d252ncf",
       "Name": "The Archangel",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_45",
@@ -4084,9 +4084,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 380
     },
     {
       "ID": "achievement_55",
@@ -4380,9 +4380,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_89",
@@ -4496,8 +4496,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:05:00.5656042+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:05:05.9575311+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:03:00.480361+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:05:00.5657557+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:03:20.3670864+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:05:05.9577164+00:00"
 }

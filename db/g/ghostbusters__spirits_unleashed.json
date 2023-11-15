@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3339,7 +3339,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31029,
+  "EOS_Progressed": 31031,
   "EOS_Completed": 68,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 2,
@@ -19319,6 +19319,11 @@
       "Time": "2023-11-15T16:06:12.4926954+00:00",
       "NumProgressed": 31029,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-15T17:06:08.6265027+00:00",
+      "NumProgressed": 31031,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19418,7 +19423,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "Dont_Need_These",
@@ -19658,7 +19663,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "Teamwork",
@@ -19737,7 +19742,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31029,
+      "Progressed": 31031,
       "Completed": 68
     }
   ],
@@ -19745,8 +19750,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-15T03:02:27.7013835+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:06:12.4926945+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:06:08.6265023+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:02:51.898997+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:06:12.4928071+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:03:13.3500263+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:06:08.6266245+00:00"
 }

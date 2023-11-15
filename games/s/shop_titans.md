@@ -14,19 +14,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,198 |
 | Budding Merchant | 3.00% | ~4,198 |
 | Capitalism Ho! | 3.00% | ~4,198 |
-| The Daily Grind | 2.00% | ~2,798 |
-| One Easy Payment | 2.00% | ~2,798 |
-| Some Assembly Required | 2.00% | ~2,798 |
-| Bounty Hunters | 2.00% | ~2,798 |
-| Demand for Supplies | 2.00% | ~2,798 |
-| Flooding the Market | 2.00% | ~2,798 |
-| Where it Hurts | 2.00% | ~2,798 |
-| Another Satisfied Customer | 2.00% | ~2,798 |
-| Pretty Penny | 2.00% | ~2,798 |
-| One-Armed Bandit | 2.00% | ~2,798 |
-| Dungeon Imports | 2.00% | ~2,798 |
-| Through Repetition, Perfection | 2.00% | ~2,798 |
-| Own the Means of Production | 2.00% | ~2,798 |
+| The Daily Grind | 2.00% | ~2,799 |
+| One Easy Payment | 2.00% | ~2,799 |
+| Some Assembly Required | 2.00% | ~2,799 |
+| Bounty Hunters | 2.00% | ~2,799 |
+| Demand for Supplies | 2.00% | ~2,799 |
+| Flooding the Market | 2.00% | ~2,799 |
+| Where it Hurts | 2.00% | ~2,799 |
+| Another Satisfied Customer | 2.00% | ~2,799 |
+| Pretty Penny | 2.00% | ~2,799 |
+| One-Armed Bandit | 2.00% | ~2,799 |
+| Dungeon Imports | 2.00% | ~2,799 |
+| Through Repetition, Perfection | 2.00% | ~2,799 |
+| Own the Means of Production | 2.00% | ~2,799 |
 | On the Path to Greatness | 1.00% | ~1,399 |
 | Ascended | 1.00% | ~1,399 |
 | Tax not Included | 1.00% | ~1,399 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,918 (Ranked 79)  
+Progressed: 139,926 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 186 (0.13%) (Ranked 264)
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
 | 2023-11-14 | 139,830 | 186 |
-| 2023-11-15 | 139,918 | 186 |
+| 2023-11-15 | 139,926 | 186 |
 ## Awards
-Max (Great for Beginners): 4,831  (Ranked 74)  
-Sum: 27,552 (Ranked 51)  
+Max (Great for Beginners): 4,831  (Ranked 73)  
+Sum: 27,552 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |

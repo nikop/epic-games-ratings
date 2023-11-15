@@ -6,20 +6,21 @@
 | ---- | ---------- | ----- |
 | Powerful Allies | 2.00% | ~4 |
 | Calm before the Storm | 2.00% | ~4 |
+| To Battle | 2.00% | ~4 |
+| Godslayer | 2.00% | ~4 |
 | Trinity | 2.00% | ~4 |
 | I Found It | 2.00% | ~4 |
 | Break Out | 1.00% | ~2 |
 | Find Allies | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
-| To Battle | 0.50% | ~1 |
-| Godslayer | 0.50% | ~1 |
 | Clear Sight | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
 | Geared Up | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
+| Adventurer | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
@@ -30,16 +31,15 @@
 | A Taste of Wrath | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
-| Adventurer | -0.50% | ~-1 |
 | Tributes of Caladrias | -0.50% | ~-1 |
 | Alchemist | -0.50% | ~-1 |
 | Stone Collection | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 | Airborne | -1.10% | ~-2 |
+| Miner | -1.10% | ~-2 |
 | The Collector | -1.10% | ~-2 |
 | The Mentor | -1.60% | ~-3 |
-| Miner | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 187 (Ranked 383)  
 Completed: 1 (0.53%) (Ranked 193)  

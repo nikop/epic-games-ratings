@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~886 |
-| Whatever It Takes | 2.00% | ~886 |
-| Pork Chopped | 2.00% | ~886 |
+| One of Us | 2.00% | ~887 |
+| Whatever It Takes | 2.00% | ~887 |
+| Pork Chopped | 2.00% | ~887 |
 | Welcome To Hell-A | 1.00% | ~7,188 |
 | Break A Leg | 0.90% | ~6,469 |
 | Hotel California | 0.90% | ~6,469 |
@@ -15,14 +15,14 @@ Rating: 4.54 (Ranked 524)
 | Coup de Grâce | 0.80% | ~5,750 |
 | Hazardous Materials | 0.80% | ~5,750 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,750 |
-| Dr. Reed, I Presume? | 0.70% | ~5,031 |
-| Anger Management | 0.70% | ~5,031 |
-| Bookworm | 0.70% | ~5,031 |
-| But Doctor, I am Butcho | 0.70% | ~5,031 |
-| Friends Like These | 0.70% | ~5,031 |
-| Apex Predator | 0.70% | ~5,031 |
-| Stacking the Deck | 0.70% | ~5,031 |
-| This is My Weapon | 0.70% | ~5,031 |
+| Dr. Reed, I Presume? | 0.70% | ~5,032 |
+| Anger Management | 0.70% | ~5,032 |
+| Bookworm | 0.70% | ~5,032 |
+| But Doctor, I am Butcho | 0.70% | ~5,032 |
+| Friends Like These | 0.70% | ~5,032 |
+| Apex Predator | 0.70% | ~5,032 |
+| Stacking the Deck | 0.70% | ~5,032 |
+| This is My Weapon | 0.70% | ~5,032 |
 | Perks of the Job | 0.60% | ~4,313 |
 | Slayer Squad | 0.60% | ~4,313 |
 | Can't Handle the Truth | 0.60% | ~4,313 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,777 (Ranked 20)  
-Completed: 2,391 (0.33%) (Ranked 223)  
+Progressed: 718,807 (Ranked 20)  
+Completed: 2,393 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,11 +266,11 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,777 | 2,391 |
+| 2023-11-15 | 718,807 | 2,393 |
 ## Awards
-Max (Great Boss Battles): 7,440  (Ranked 52)  
-Sum: 11,329 (Ranked 84)  
-Diff (max vs sum): -32  
+Max (Great Boss Battles): 7,440  (Ranked 51)  
+Sum: 11,331 (Ranked 84)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,440 |
@@ -280,7 +280,7 @@ Diff (max vs sum): -32
 | This game is Relaxing | 489 |
 | This game has Amazing Storytelling | 466 |
 | This game is Highly Recommended | 454 |
-| This game is Extremely Fun | 449 |
+| This game is Extremely Fun | 451 |
 | This game has Amazing Characters | 412 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -493,4 +493,4 @@ Diff (max vs sum): -32
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
-| 2023-11-15 | 4.54 | 7,440 | 11,329 |
+| 2023-11-15 | 4.54 | 7,440 | 11,331 |

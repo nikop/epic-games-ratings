@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~18,313 |
-| Grim Reaper | 74.00% | ~14,730 |
-| Enemy Attrition | 73.00% | ~14,531 |
-| Heads Down | 72.00% | ~14,332 |
-| Not On My Watch | 69.00% | ~13,734 |
-| Combat Engineer | 53.00% | ~10,550 |
-| Eager Beaver | 47.00% | ~9,355 |
-| Call ’em in! | 42.00% | ~8,360 |
-| Lovely | 38.00% | ~7,564 |
-| Elite | 26.00% | ~5,175 |
-| Store fuglar fanga ingi flugor | 25.00% | ~4,976 |
-| Ou La Mort | 23.00% | ~4,578 |
+| Last Man Standing | 92.00% | ~18,316 |
+| Grim Reaper | 74.00% | ~14,733 |
+| Enemy Attrition | 73.00% | ~14,534 |
+| Heads Down | 72.00% | ~14,334 |
+| Not On My Watch | 69.00% | ~13,737 |
+| Combat Engineer | 53.00% | ~10,552 |
+| Eager Beaver | 47.00% | ~9,357 |
+| Call ’em in! | 42.00% | ~8,362 |
+| Lovely | 38.00% | ~7,565 |
+| Elite | 26.00% | ~5,176 |
+| Store fuglar fanga ingi flugor | 25.00% | ~4,977 |
+| Ou La Mort | 23.00% | ~4,579 |
 | Fender Bender | 16.00% | ~3,185 |
 | Globetrotter | 13.00% | ~2,588 |
 | Jack of All Trades | 12.00% | ~2,389 |
-| Storyteller | 7.00% | ~1,393 |
+| Storyteller | 7.00% | ~1,394 |
 | Death from Above | 4.00% | ~796 |
 | Off-hand | 4.00% | ~796 |
 | Veteran | 1.00% | ~199 |
 | Sins of the Fathers | 0.40% | ~80 |
 | Hoist the Flag | 0.40% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,905 (Ranked 135)  
+Progressed: 19,909 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 19,593 | 0 |
 | 2023-11-13 | 19,709 | 0 |
 | 2023-11-14 | 19,829 | 0 |
-| 2023-11-15 | 19,905 | 0 |
+| 2023-11-15 | 19,909 | 0 |

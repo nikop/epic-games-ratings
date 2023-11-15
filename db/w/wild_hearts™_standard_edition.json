@@ -1369,9 +1369,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_12",
@@ -1743,8 +1743,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:03:39.4603376+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:03:52.9092687+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:00:41.6853525+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:03:39.4603864+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:02:56.6760643+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:03:52.9093312+00:00"
 }

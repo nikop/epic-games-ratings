@@ -8,18 +8,18 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 54.00% | ~4,092 |
 | You Shall Not Pass | 53.00% | ~4,016 |
-| Peak Performance | 52.00% | ~3,940 |
-| Avanti Savoia! | 47.00% | ~3,561 |
-| Mamma Mia! | 37.00% | ~2,803 |
+| Peak Performance | 52.00% | ~3,941 |
+| Avanti Savoia! | 47.00% | ~3,562 |
+| Mamma Mia! | 37.00% | ~2,804 |
 | Conrad von Hotzensocks | 35.00% | ~2,652 |
-| Gabriele D'Annunzio | 33.00% | ~2,500 |
+| Gabriele D'Annunzio | 33.00% | ~2,501 |
 | Silver Lining | 30.00% | ~2,273 |
 | Aurelio Baruzzi | 23.00% | ~1,743 |
 | Decimation | 22.00% | ~1,667 |
 | Donatello | 21.00% | ~1,591 |
 | The Italian Job | 21.00% | ~1,591 |
 | Veni Vidi Vici | 21.00% | ~1,591 |
-| Insubordination | 20.00% | ~1,515 |
+| Insubordination | 20.00% | ~1,516 |
 | Ragazzi del '99 | 18.00% | ~1,364 |
 | The Lion of the Isonzo | 17.00% | ~1,288 |
 | Luigi Cadorna | 15.00% | ~1,137 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~30 |
 | Can I Go Home Now? | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,577 (Ranked 172)  
+Progressed: 7,578 (Ranked 172)  
 Completed: 9 (0.12%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,16 +255,16 @@ Completed: 9 (0.12%) (Ranked 270)
 | 2023-11-12 | 7,353 | 9 |
 | 2023-11-13 | 7,444 | 9 |
 | 2023-11-14 | 7,537 | 9 |
-| 2023-11-15 | 7,577 | 9 |
+| 2023-11-15 | 7,578 | 9 |
 ## Awards
-Max (Highly Recommended): 36  (Ranked 464)  
-Sum: 278 (Ranked 370)  
-Diff (max vs sum): 94  
+Max (Highly Recommended): 36  (Ranked 465)  
+Sum: 279 (Ranked 369)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
+| This game has Diverse Characters | 35 |
 | This game is Extremely Fun | 34 |
-| This game has Diverse Characters | 34 |
 | This game has Realistic Visuals | 34 |
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 30 |
@@ -394,3 +394,4 @@ Diff (max vs sum): 94
 | 2023-11-10 | 4.55 | - | 36 | 275 |
 | 2023-11-11 | 4.55 | - | 36 | 277 |
 | 2023-11-14 | 4.55 | - | 36 | 278 |
+| 2023-11-15 | 4.55 | - | 36 | 279 |

@@ -31,8 +31,8 @@
 | Karakuri Trail | 38.00% | ~109 |
 | Artful Assister | 35.00% | ~100 |
 | Team Hunter | 34.00% | ~98 |
+| Karakuri Isle | 32.00% | ~92 |
 | Reincarnation Cycle Stopper | 32.00% | ~92 |
-| Karakuri Isle | 31.00% | ~89 |
 | Left Arm Leverager | 29.00% | ~83 |
 | Canyon of Karakuri | 28.00% | ~80 |
 | Style Seeker | 26.00% | ~75 |

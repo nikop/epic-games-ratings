@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4881,
+  "EOS_Progressed": 4882,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9280,6 +9280,11 @@
       "Time": "2023-11-15T12:03:36.6243425+00:00",
       "NumProgressed": 4881,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T17:04:02.2963027+00:00",
+      "NumProgressed": 4882,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9316,7 +9321,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -9348,7 +9353,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9380,7 +9385,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9428,7 +9433,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9460,7 +9465,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9475,15 +9480,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4881,
+      "Progressed": 4882,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:03:49.7528322+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:04:02.2963025+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:59:16.0675065+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:03:49.7528829+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:59:24.0173022+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:04:02.2963642+00:00"
 }

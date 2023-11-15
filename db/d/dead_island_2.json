@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 524,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
@@ -6475,10 +6475,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11329,
       "NumberOfAwardsMax": 7440
+    },
+    {
+      "Time": "2023-11-15T16:58:10.2485343+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11331,
+      "NumberOfAwardsMax": 7440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11329,
+  "NumberOfAwards": 11331,
   "NumberOfAwardsMax": 7440,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6522,7 +6528,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 449
+      "Count": 451
     },
     {
       "Text": "This game is Relaxing",
@@ -6537,10 +6543,10 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718777,
-  "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3784,
-  "EOS_NewCompleters": 34,
+  "EOS_Progressed": 718807,
+  "EOS_Completed": 2393,
+  "EOS_NewPlayers": 3783,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30427,6 +30433,11 @@
       "Time": "2023-11-15T16:05:13.6994044+00:00",
       "NumProgressed": 718777,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-15T17:05:16.5485876+00:00",
+      "NumProgressed": 718807,
+      "NumCompleted": 2393
     }
   ],
   "TotalAchievements": 51,
@@ -30438,7 +30449,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30462,7 +30473,7 @@
       "Name": "Anger Management",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -30494,7 +30505,7 @@
       "Name": "Bookworm",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_break_a_leg",
@@ -30526,7 +30537,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_doom_buddies",
@@ -30590,7 +30601,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_hotel_california",
@@ -30638,7 +30649,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_knowledgeable",
@@ -30710,7 +30721,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_star_performance",
@@ -30758,7 +30769,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5031
+      "UsersEstimate": 5032
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -30798,7 +30809,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ach_dark_magic",
@@ -30806,7 +30817,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ach_gardening_tools",
@@ -30822,7 +30833,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30845,22 +30856,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718777,
-      "Completed": 2391
+      "Progressed": 718807,
+      "Completed": 2393
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44319,
+      "Progressed": 44349,
       "Completed": 36542
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-15T02:19:50.8573803+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:05:13.699404+00:00",
+  "LastChanged": "2023-11-15T16:58:10.2485341+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:05:16.5485873+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T15:57:51.1281438+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:05:13.6995781+00:00"
+  "LastUpdate_Ratings": "2023-11-15T16:58:10.2485346+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:05:16.5487695+00:00"
 }

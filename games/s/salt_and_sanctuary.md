@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,796 |
-| The Three | 64.00% | ~344,518 |
-| The Banquet | 40.00% | ~215,324 |
-| Devara's Light | 31.00% | ~166,876 |
+| Find Sanctuary | 83.00% | ~446,799 |
+| The Three | 64.00% | ~344,520 |
+| The Banquet | 40.00% | ~215,325 |
+| Devara's Light | 31.00% | ~166,877 |
 | The Iron Ones | 19.00% | ~102,279 |
 | The Village | 17.00% | ~91,513 |
-| The Forest | 15.00% | ~80,746 |
-| The Keep | 14.00% | ~75,363 |
-| Branded | 13.00% | ~69,980 |
-| The Imposter | 13.00% | ~69,980 |
+| The Forest | 15.00% | ~80,747 |
+| The Keep | 14.00% | ~75,364 |
+| Branded | 13.00% | ~69,981 |
+| The Imposter | 13.00% | ~69,981 |
 | The Castle | 11.00% | ~59,214 |
 | The Dome | 9.00% | ~48,448 |
 | The Red Hall | 9.00% | ~48,448 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,299 |
 | The Lake | 6.00% | ~32,299 |
 | The Ruins | 6.00% | ~32,299 |
-| The Alkymancery | 5.00% | ~26,915 |
-| The Pitchwoods | 5.00% | ~26,915 |
+| The Alkymancery | 5.00% | ~26,916 |
+| The Pitchwoods | 5.00% | ~26,916 |
 | Honed | 4.00% | ~21,532 |
 | The House of Splendor | 4.00% | ~21,532 |
 | The Crypt | 4.00% | ~21,532 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,766 |
 | Fading Fast | 1.00% | ~5,383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,309 (Ranked 33)  
+Progressed: 538,312 (Ranked 33)  
 Completed: 1,614 (0.30%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 1,614 (0.30%) (Ranked 230)
 | 2023-11-12 | 538,053 | 1,612 |
 | 2023-11-13 | 538,150 | 1,612 |
 | 2023-11-14 | 538,251 | 1,613 |
-| 2023-11-15 | 538,309 | 1,614 |
+| 2023-11-15 | 538,312 | 1,614 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 254)  
 Sum: 1,992 (Ranked 211)  

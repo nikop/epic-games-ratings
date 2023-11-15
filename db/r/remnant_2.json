@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 146,
   "Ranking_Popularity": 108,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 43,
@@ -4189,10 +4189,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5012,
       "NumberOfAwardsMax": 2206
+    },
+    {
+      "Time": "2023-11-15T17:03:27.4832348+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5030,
+      "NumberOfAwardsMax": 2206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5012,
+  "NumberOfAwards": 5030,
   "NumberOfAwardsMax": 2206,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4230,7 +4236,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 277
+      "Count": 286
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4254,7 +4260,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 232
+      "Count": 241
     },
     {
       "Text": "This game is Relaxing",
@@ -4263,10 +4269,10 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 221204,
-  "EOS_Completed": 456,
-  "EOS_NewPlayers": 2352,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 221228,
+  "EOS_Completed": 457,
+  "EOS_NewPlayers": 2356,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -18198,6 +18204,11 @@
       "Time": "2023-11-15T16:08:30.5526455+00:00",
       "NumProgressed": 221204,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2023-11-15T17:08:47.0555262+00:00",
+      "NumProgressed": 221228,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18649,22 +18660,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 221204,
-      "Completed": 456
+      "Progressed": 221228,
+      "Completed": 457
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 369,
+      "Progressed": 393,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-15T12:03:02.3058422+00:00",
-  "LastChanged_Achievements": "2023-11-15T16:08:30.5526452+00:00",
+  "LastChanged": "2023-11-15T17:03:27.4832346+00:00",
+  "LastChanged_Achievements": "2023-11-15T17:08:47.0555257+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T16:03:10.1477679+00:00",
-  "LastUpdate_Achievements": "2023-11-15T16:08:30.552764+00:00"
+  "LastUpdate_Ratings": "2023-11-15T17:03:27.483235+00:00",
+  "LastUpdate_Achievements": "2023-11-15T17:08:47.0556424+00:00"
 }
