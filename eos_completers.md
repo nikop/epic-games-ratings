@@ -27,12 +27,12 @@
 | 25 | [Remains](games/r/remains.md) | 14.55% |
 | 26 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 14.29% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 28 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.64% |
+| 28 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.04% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
 | 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.42% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.84% |
-| 33 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
+| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.81% |
+| 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 35 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
@@ -256,9 +256,9 @@
 | 254 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 254 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
 | 256 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
-| 256 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.18% |
-| 258 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
-| 258 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 257 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
+| 257 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 257 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.17% |
 | 260 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 260 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 260 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
@@ -718,6 +718,7 @@
 | 351 | [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 0.00% |
 | 351 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 0.00% |
 | 351 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
+| 351 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 0.00% |
 | 351 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
 | 351 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
 | 351 | [Unspottable](games/u/unspottable.md) | 0.00% |

@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 616,185 | 4.48 | 622 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 314,936 | 4.68 | 252 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 258,600 | 4.68 | 252 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 211,311 | 4.18 | 925 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 211,414 | 4.18 | 925 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 197,529 | 4.88 | 17 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 151,598 | 4.51 | 566 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,549 | 4.69 | 231 |
@@ -16,7 +16,7 @@
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,144 | 4.49 | 607 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,980 | 4.51 | 566 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,180 | 4.64 | 332 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,282 | 4.76 | 127 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,313 | 4.76 | 127 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,730 | 4.53 | 539 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,975 | 4.26 | 868 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,362 | 4.57 | 470 |
@@ -155,8 +155,8 @@
 | 153 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 981 | 4.31 | 830 |
 | 154 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 971 | 4.54 | 523 |
 | 155 | [Sonic Mania](games/s/sonic_mania.md) | 964 | 4.78 | 107 |
-| 156 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 930 | 4.45 | 658 |
-| 156 | [MORDHAU](games/m/mordhau.md) | 930 | 4.39 | 748 |
+| 156 | [MORDHAU](games/m/mordhau.md) | 933 | 4.39 | 748 |
+| 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 930 | 4.45 | 658 |
 | 158 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 920 | 4.56 | 489 |
 | 159 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 893 | 4.45 | 658 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 884 | 4.50 | 588 |
@@ -205,8 +205,8 @@
 | 203 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 532 | 3.95 | 1,005 |
 | 204 | [Terraforming Mars](games/t/terraforming_mars.md) | 525 | 4.53 | 539 |
 | 205 | [Ghostrunner](games/g/ghostrunner.md) | 519 | 4.72 | 187 |
-| 206 | [Surviving Mars](games/s/surviving_mars.md) | 508 | 4.60 | 411 |
-| 207 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 503 | 4.55 | 504 |
+| 206 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 514 | 4.55 | 504 |
+| 207 | [Surviving Mars](games/s/surviving_mars.md) | 508 | 4.60 | 411 |
 | 208 | [Brawlhalla](games/b/brawlhalla.md) | 502 | 4.59 | 430 |
 | 209 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 487 | 4.41 | 720 |
 | 210 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 479 | 4.32 | 821 |

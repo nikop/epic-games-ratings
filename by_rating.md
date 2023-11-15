@@ -130,7 +130,7 @@
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,382 | 91 |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,058 | 147 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,163 | 141 |
-| 127 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,282 | 17 |
+| 127 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,313 | 17 |
 | 127 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,060 | 72 |
 | 127 | [Journey](games/j/journey.md) | 4.76 | 0 | 546 |
 | 127 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 546 |
@@ -424,7 +424,7 @@
 | 411 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 546 |
 | 411 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 733 | 178 |
 | 411 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 79 | 387 |
-| 411 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 508 | 206 |
+| 411 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 508 | 207 |
 | 411 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 51 | 426 |
 | 411 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 532 |
 | 411 | [Warframe](games/w/warframe.md) | 4.60 | 18,383 | 23 |
@@ -519,7 +519,7 @@
 | 504 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 27 | 508 |
 | 504 | [Tails of Iron](games/t/tails_of_iron.md) | 4.55 | 0 | 546 |
 | 504 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 546 |
-| 504 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.55 | 503 | 207 |
+| 504 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.55 | 514 | 206 |
 | 504 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 546 |
 | 504 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,347 | 134 |
 | 523 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 546 |
@@ -661,7 +661,7 @@
 | 658 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 546 |
 | 658 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 546 |
 | 658 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 257 | 268 |
-| 658 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 930 | 156 |
+| 658 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 930 | 157 |
 | 658 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 546 |
 | 658 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 111 | 346 |
 | 658 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.45 | 0 | 546 |
@@ -753,7 +753,7 @@
 | 748 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.39 | 70 | 401 |
 | 748 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 546 |
 | 748 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 597 | 192 |
-| 748 | [MORDHAU](games/m/mordhau.md) | 4.39 | 930 | 156 |
+| 748 | [MORDHAU](games/m/mordhau.md) | 4.39 | 933 | 156 |
 | 748 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,788 | 36 |
 | 748 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 0 | 546 |
 | 748 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 546 |
@@ -927,7 +927,7 @@
 | 925 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.18 | 36 | 464 |
 | 925 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 546 |
 | 925 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,938 | 98 |
-| 925 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,311 | 5 |
+| 925 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,414 | 5 |
 | 925 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 363 |
 | 930 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 546 |
 | 930 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 368 |
