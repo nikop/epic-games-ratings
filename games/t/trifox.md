@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 72.00% | ~74 |
-| Complete Level 1-1 | 64.00% | ~66 |
+| What is this? | 71.00% | ~74 |
+| Complete Level 1-1 | 63.00% | ~66 |
 | Immortal | 55.00% | ~57 |
-| Complete Level 1-2 | 47.00% | ~48 |
+| Complete Level 1-2 | 46.00% | ~48 |
 | Scraping by | 35.00% | ~36 |
 | Engineer-mage hybrid | 34.00% | ~35 |
 | Complete Level 1-3 | 32.00% | ~33 |
@@ -17,13 +17,13 @@
 | Just a sip | 20.00% | ~21 |
 | Complete Level 2-1 | 18.00% | ~19 |
 | Complete Level 2-2 | 18.00% | ~19 |
-| Complete Level 2-3 | 17.00% | ~18 |
-| Defeat the engineer boss | 16.00% | ~16 |
-| Versatile | 16.00% | ~16 |
-| Well-off | 14.00% | ~14 |
-| Too many crates | 14.00% | ~14 |
-| Complete Level 3-1 | 14.00% | ~14 |
-| Engineer-warrior hybrid | 13.00% | ~13 |
+| Complete Level 2-3 | 16.00% | ~17 |
+| Defeat the engineer boss | 15.00% | ~16 |
+| Versatile | 15.00% | ~16 |
+| Well-off | 13.00% | ~14 |
+| Too many crates | 13.00% | ~14 |
+| Complete Level 3-1 | 13.00% | ~14 |
+| Engineer-warrior hybrid | 13.00% | ~14 |
 | Baby steps | 12.00% | ~12 |
 | Complete Level 3-2 | 12.00% | ~12 |
 | Party popper | 11.00% | ~11 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 423)  
-Completed: 1 (0.97%) (Ranked 162)  
+Progressed: 104 (Ranked 423)  
+Completed: 1 (0.96%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 1 (0.97%) (Ranked 162)
 | 2023-10-24 | 101 | 1 |
 | 2023-10-26 | 102 | 1 |
 | 2023-11-12 | 103 | 1 |
+| 2023-11-15 | 104 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

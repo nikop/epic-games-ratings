@@ -33,9 +33,9 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.60% | ~950 |
 | All-Seeing | 0.60% | ~950 |
 | Dream | 0.60% | ~947 |
-| Breath | 0.50% | ~791 |
-| Breathsmith | 0.50% | ~791 |
-| Unwrap the Gift | 0.50% | ~791 |
+| Breath | 0.50% | ~792 |
+| Breathsmith | 0.50% | ~792 |
+| Unwrap the Gift | 0.50% | ~792 |
 | Bloodhunter | 0.40% | ~633 |
 | Passage | 0.40% | ~633 |
 | Zygote | 0.30% | ~474 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,295 (Ranked 76)  
+Progressed: 158,300 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 157,992 | 1 |
 | 2023-11-13 | 158,135 | 1 |
 | 2023-11-14 | 158,274 | 1 |
-| 2023-11-15 | 158,295 | 1 |
+| 2023-11-15 | 158,300 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 364 (Ranked 349)  

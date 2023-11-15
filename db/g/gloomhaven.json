@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2435,9 +2435,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20698,
+  "EOS_Progressed": 20702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1466,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9315,6 +9315,11 @@
       "Time": "2023-11-15T03:05:38.0647803+00:00",
       "NumProgressed": 20698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T04:05:54.1105722+00:00",
+      "NumProgressed": 20702,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9511,7 +9516,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8693
+      "UsersEstimate": 8695
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9527,7 +9532,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7244
+      "UsersEstimate": 7246
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9543,7 +9548,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6830
+      "UsersEstimate": 6832
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9559,7 +9564,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6209
+      "UsersEstimate": 6211
     },
     {
       "ID": "Achievement_Trophy31",
@@ -9567,7 +9572,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6625
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9615,7 +9620,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5176
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9719,7 +9724,7 @@
       "Name": "The Pacifist",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Achievement_Trophy_JOTL_01",
@@ -9807,14 +9812,14 @@
       "Name": "Born Support",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20698,
+      "Progressed": 20702,
       "Completed": 1
     }
   ],
@@ -9822,8 +9827,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T14:59:20.1749081+00:00",
-  "LastChanged_Achievements": "2023-11-15T03:05:38.06478+00:00",
+  "LastChanged_Achievements": "2023-11-15T04:05:54.1105718+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:59:32.1985075+00:00",
-  "LastUpdate_Achievements": "2023-11-15T03:05:38.0648733+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:59:42.8839146+00:00",
+  "LastUpdate_Achievements": "2023-11-15T04:05:54.1106353+00:00"
 }

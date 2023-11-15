@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.38 (Ranked 762)  
+Rating: 4.39 (Ranked 748)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,668 |
-| IT MAKES BOOM! | 6.00% | ~17,800 |
-| EXTRA BOOST | 5.00% | ~14,834 |
-| PROTECTED | 4.00% | ~11,867 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,900 |
-| PRO | 3.00% | ~8,900 |
+| ROOKIE | 10.00% | ~29,672 |
+| IT MAKES BOOM! | 6.00% | ~17,803 |
+| EXTRA BOOST | 5.00% | ~14,836 |
+| PROTECTED | 4.00% | ~11,869 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,902 |
+| PRO | 3.00% | ~8,902 |
 | A TIGER'S FEAR | 2.00% | ~5,934 |
 | AGGRESSIVE RACER | 2.00% | ~5,934 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,967 |
 | ACE SPEEDSTER | 1.00% | ~2,967 |
-| RELEASE THE KRAKEN | 0.80% | ~2,373 |
-| BE OUR GUEST | 0.80% | ~2,373 |
-| LEGENDARY HERO | 0.80% | ~2,373 |
+| RELEASE THE KRAKEN | 0.80% | ~2,374 |
+| BE OUR GUEST | 0.80% | ~2,374 |
+| LEGENDARY HERO | 0.80% | ~2,374 |
 | TRAINING HARD | 0.70% | ~2,077 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,077 |
 | FRIENDLY | 0.70% | ~2,077 |
 | MASTER | 0.70% | ~2,077 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,780 |
-| EXPERIENCED CREW | 0.50% | ~1,483 |
+| EXPERIENCED CREW | 0.50% | ~1,484 |
 | ACE BRAWLER | 0.40% | ~1,187 |
 | ACE DEFENDER | 0.40% | ~1,187 |
 | FRAMED! | 0.30% | ~890 |
 | PERFECTLY POISED | 0.20% | ~593 |
 | ACE TRICKSTER | 0.20% | ~593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,675 (Ranked 52)  
+Progressed: 296,723 (Ranked 52)  
 Completed: 285 (0.10%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,10 +235,10 @@ Completed: 285 (0.10%) (Ranked 276)
 | 2023-11-12 | 294,059 | 281 |
 | 2023-11-13 | 295,317 | 283 |
 | 2023-11-14 | 296,465 | 285 |
-| 2023-11-15 | 296,675 | 285 |
+| 2023-11-15 | 296,723 | 285 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 401)  
-Sum: 545 (Ranked 318)  
+Sum: 546 (Ranked 318)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
@@ -246,7 +246,7 @@ Diff (max vs sum): 83
 | This game has Diverse Characters | 64 |
 | This game is Great for Quick Sessions | 62 |
 | This game has Amazing Characters | 48 |
-| This game has Competitive Players | 42 |
+| This game has Competitive Players | 43 |
 | This game has Playful Visuals | 42 |
 | This game has a Competitive Community | 40 |
 | This game is Highly Recommended | 38 |
@@ -302,3 +302,4 @@ Diff (max vs sum): 83
 | 2023-11-12 | 4.39 | 65 | 524 |
 | 2023-11-13 | 4.39 | 65 | 529 |
 | 2023-11-14 | 4.38 | 70 | 545 |
+| 2023-11-15 | 4.39 | 70 | 546 |

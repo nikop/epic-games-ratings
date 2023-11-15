@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.97,
+  "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -160,6 +160,11 @@
       "Time": "2023-11-12T16:07:51.2557037+00:00",
       "NumProgressed": 103,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T04:04:00.6036315+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -185,7 +190,7 @@
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Well-off",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -217,7 +222,7 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Too many crates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -257,7 +262,7 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
       "UsersEstimate": 74
     },
@@ -321,7 +326,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 66
     },
@@ -329,7 +334,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -369,15 +374,15 @@
       "ID": "ACH_LEVELCOMPLETION_02_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-3",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -385,7 +390,7 @@
       "ID": "ACH_LEVELCOMPLETION_03_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-1",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -435,7 +440,7 @@
       "Name": "Engineer-warrior hybrid",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
@@ -481,7 +486,7 @@
       "ID": "ACH_LEVELCOMPLETION_TRIPLEHYBRID",
       "SetID": "cfld5bl",
       "Name": "Versatile",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -538,7 +543,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 1
     }
   ],
@@ -546,8 +551,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-11-15T03:03:46.7009048+00:00",
+  "LastChanged_Achievements": "2023-11-15T04:04:00.6036311+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:22.6126099+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:57:51.0606393+00:00",
-  "LastUpdate_Achievements": "2023-11-15T03:03:46.7009289+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:58:01.3652423+00:00",
+  "LastUpdate_Achievements": "2023-11-15T04:04:00.603656+00:00"
 }

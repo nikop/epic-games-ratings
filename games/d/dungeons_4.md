@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 85.00% | ~226 |
 | Thalya – Simply Immortal | 85.00% | ~226 |
-| For the Horde! | 78.00% | ~207 |
+| For the Horde! | 79.00% | ~210 |
 | Hammer Time, Round Two | 77.00% | ~205 |
 | The Hellwoods | 70.00% | ~186 |
 | Thalya's Concentrated Fury | 64.00% | ~170 |
@@ -32,8 +32,8 @@
 | The Cathedral of Light | 18.00% | ~48 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 16.00% | ~43 |
 | Hungry, Hungry Gorgu! | 15.00% | ~40 |
+| Tanos' Crusade Against Thalya | 13.00% | ~35 |
 | Unstoppable Horde | 12.00% | ~32 |
-| Tanos' Crusade Against Thalya | 12.00% | ~32 |
 | Forbidden Knowledge | 11.00% | ~29 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~27 |
 | Master of the Undead | 10.00% | ~27 |
@@ -45,8 +45,8 @@
 | The Finitude Drill | 6.00% | ~16 |
 | My Little Torture Chamber | 5.00% | ~13 |
 | Bonus Evilness | 5.00% | ~13 |
+| Sabotage! | 5.00% | ~13 |
 | Doom Hill | 5.00% | ~13 |
-| Sabotage! | 4.00% | ~11 |
 | Brimstone Shaken, Not Stirred | 4.00% | ~11 |
 | Gorgu is in the Best of Health | 3.00% | ~8 |
 | Mirror, Mirror | 3.00% | ~8 |

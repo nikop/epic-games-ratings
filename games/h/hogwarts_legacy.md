@@ -5,19 +5,19 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,336 |
-| First Class Student | 14.00% | ~42,294 |
-| Troll with the Punches | 14.00% | ~42,294 |
-| A Keen Sense of Spell | 13.00% | ~39,273 |
-| That's a Keeper | 13.00% | ~39,273 |
-| A Talent for Spending | 12.00% | ~36,252 |
-| Grappling with a Graphorn | 11.00% | ~33,231 |
-| The One Who Mastered Memories | 11.00% | ~33,231 |
-| The Hallowed Hero | 11.00% | ~33,231 |
-| The Defender of Dragons | 11.00% | ~33,231 |
-| Challenge Accepted | 11.00% | ~33,231 |
-| Loom for Improvement | 11.00% | ~33,231 |
-| Coasting Along | 11.00% | ~33,231 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,337 |
+| First Class Student | 14.00% | ~42,295 |
+| Troll with the Punches | 14.00% | ~42,295 |
+| A Keen Sense of Spell | 13.00% | ~39,274 |
+| That's a Keeper | 13.00% | ~39,274 |
+| A Talent for Spending | 12.00% | ~36,253 |
+| Grappling with a Graphorn | 11.00% | ~33,232 |
+| The One Who Mastered Memories | 11.00% | ~33,232 |
+| The Hallowed Hero | 11.00% | ~33,232 |
+| The Defender of Dragons | 11.00% | ~33,232 |
+| Challenge Accepted | 11.00% | ~33,232 |
+| Loom for Improvement | 11.00% | ~33,232 |
+| Coasting Along | 11.00% | ~33,232 |
 | The Hero of Hogwarts | 10.00% | ~30,210 |
 | Followed the Butterflies | 10.00% | ~30,210 |
 | Rising From the Ashes | 10.00% | ~30,210 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,103 (Ranked 51)  
+Progressed: 302,105 (Ranked 51)  
 Completed: 511 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 511 (0.17%) (Ranked 258)
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
-| 2023-11-15 | 302,103 | 511 |
+| 2023-11-15 | 302,105 | 511 |
 ## Awards
 Max (Character Customization): 24,282  (Ranked 17)  
 Sum: 48,150 (Ranked 30)  

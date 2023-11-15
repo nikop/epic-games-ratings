@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~53 |
-| Something important | 76.00% | ~51 |
-| A piece of the story | 61.00% | ~41 |
+| Wanderer | 79.00% | ~54 |
+| Something important | 75.00% | ~51 |
+| A piece of the story | 60.00% | ~41 |
 | Do what you have to | 43.00% | ~29 |
-| Scraps of love | 42.00% | ~28 |
-| The artist’s impression | 42.00% | ~28 |
+| Scraps of love | 41.00% | ~28 |
+| The artist’s impression | 41.00% | ~28 |
 | It's covered up for a reason | 40.00% | ~27 |
-| Refuse to look | 36.00% | ~24 |
-| Sign of weakness | 36.00% | ~24 |
-| Finished it | 27.00% | ~18 |
+| Refuse to look | 35.00% | ~24 |
+| Sign of weakness | 35.00% | ~24 |
+| Finished it | 28.00% | ~19 |
 | Face your fears | 22.00% | ~15 |
-| Playtime | 15.00% | ~10 |
-| Tough conversation | 15.00% | ~10 |
+| Playtime | 16.00% | ~11 |
+| Tough conversation | 16.00% | ~11 |
+| The tragedy unfolds | 15.00% | ~10 |
 | First steps | 13.00% | ~9 |
-| The tragedy unfolds | 13.00% | ~9 |
+| A new way | 12.00% | ~8 |
 | Breaking free | 12.00% | ~8 |
 | True Reflection | 12.00% | ~8 |
-| A new way | 10.00% | ~7 |
 | A Slice of Life | 10.00% | ~7 |
 | Debut | 10.00% | ~7 |
 | The art of movement | 10.00% | ~7 |
@@ -36,13 +36,14 @@
 | Something to think about | 3.00% | ~2 |
 | Body of Work | 3.00% | ~2 |
 | The Perfect Storm | 3.00% | ~2 |
+| The Big Picture | 1.00% | ~1 |
 | I remember It Like Was Yesterday | 1.00% | ~1 |
 | Dark correspondence | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Se7en Seas | 1.00% | ~1 |
+| The Tree and the Apple | 1.00% | ~1 |
 | A Mosaic of Misery | 1.00% | ~1 |
-| The Big Picture | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
@@ -53,11 +54,10 @@
 | Once Upon a Time | 0.00% | ~0 |
 | Preferred Parent | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
-| The Tree and the Apple | 0.00% | ~0 |
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 458)  
+Progressed: 68 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,3 +85,4 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 65 | 0 |
 | 2023-11-13 | 66 | 0 |
 | 2023-11-14 | 67 | 0 |
+| 2023-11-15 | 68 | 0 |

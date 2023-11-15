@@ -34,7 +34,7 @@
 | Starry: Meadowshire | 58.00% | ~102 |
 | Lieutenant of the Evil | 57.00% | ~100 |
 | Avada Kedavra | 56.00% | ~99 |
-| Brilliant: Tanglewood | 54.00% | ~95 |
+| Brilliant: Tanglewood | 55.00% | ~97 |
 | Starry: Holy Mountain | 53.00% | ~93 |
 | It's a Trap | 53.00% | ~93 |
 | Brilliant: Arcania | 50.00% | ~88 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -469,7 +469,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2322,
+  "EOS_Progressed": 2323,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
@@ -7069,6 +7069,11 @@
       "Time": "2023-11-15T02:31:12.3568317+00:00",
       "NumProgressed": 2322,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T04:08:14.434185+00:00",
+      "NumProgressed": 2323,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7176,7 +7181,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "dragonclicker",
@@ -7214,9 +7219,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 186
     },
     {
       "ID": "enchantingskillx5",
@@ -7264,7 +7269,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "fourleafclover",
@@ -7312,7 +7317,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "herewegoagain",
@@ -7344,7 +7349,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "inspection",
@@ -7400,7 +7405,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "milestonecollector",
@@ -7488,7 +7493,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "sailor",
@@ -7568,7 +7573,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "thepowerofawakening",
@@ -7576,7 +7581,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "theunstoppable",
@@ -7640,7 +7645,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "warmachinesarmy",
@@ -7672,14 +7677,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2322,
+      "Progressed": 2323,
       "Completed": 2
     }
   ],
@@ -7687,8 +7692,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-12T10:58:26.0075516+00:00",
-  "LastChanged_Achievements": "2023-11-15T03:08:14.3465823+00:00",
+  "LastChanged_Achievements": "2023-11-15T04:08:14.4341846+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:59:44.6621821+00:00",
-  "LastUpdate_Achievements": "2023-11-15T03:08:14.3466723+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:59:54.8895842+00:00",
+  "LastUpdate_Achievements": "2023-11-15T04:08:14.4342628+00:00"
 }

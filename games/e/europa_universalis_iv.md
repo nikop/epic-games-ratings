@@ -33,6 +33,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cowardly Tactics | 0.10% | ~456 |
 | Czechs and Balances | 0.10% | ~456 |
 | Defender of the Faith | 0.10% | ~456 |
+| Die Please Die | 0.10% | ~456 |
 | Double the Love | 0.10% | ~456 |
 | Down Under | 0.10% | ~456 |
 | Dracula's Revenge | 0.10% | ~456 |
@@ -174,7 +175,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
 | Definitely the Sultan of Rum | 0.00% | ~0 |
-| Die Please Die | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,827 (Ranked 41)  
+Progressed: 455,843 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 455,827 | 1 |
+| 2023-11-15 | 455,843 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,561 (Ranked 24)  

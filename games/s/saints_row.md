@@ -6,23 +6,23 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,911 |
-| To The Nines | 42.00% | ~32,985 |
-| Optimized | 37.00% | ~29,058 |
+| First F#@!ing Day | 47.00% | ~36,912 |
+| To The Nines | 42.00% | ~32,986 |
+| Optimized | 37.00% | ~29,059 |
 | Performance Review | 36.00% | ~28,273 |
-| Making a Name | 35.00% | ~27,487 |
-| Tune Up | 34.00% | ~26,702 |
+| Making a Name | 35.00% | ~27,488 |
+| Tune Up | 34.00% | ~26,703 |
 | Landlord | 33.00% | ~25,917 |
-| Wet Work | 32.00% | ~25,131 |
+| Wet Work | 32.00% | ~25,132 |
 | The Side Job | 31.00% | ~24,346 |
 | Wrecking Ball | 28.00% | ~21,990 |
 | Food for Thought | 28.00% | ~21,990 |
-| Finders Keepers | 26.00% | ~20,419 |
-| A Young Empire | 26.00% | ~20,419 |
-| Work Ethic | 23.00% | ~18,063 |
+| Finders Keepers | 26.00% | ~20,420 |
+| A Young Empire | 26.00% | ~20,420 |
+| Work Ethic | 23.00% | ~18,064 |
 | Picking Fights | 20.00% | ~15,707 |
 | Power Players | 19.00% | ~14,922 |
-| Quality Time | 18.00% | ~14,136 |
+| Quality Time | 18.00% | ~14,137 |
 | Showdown | 17.00% | ~13,351 |
 | Et tu? | 17.00% | ~13,351 |
 | Took It to The Limit | 17.00% | ~13,351 |
@@ -32,9 +32,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | The Spins | 10.00% | ~7,854 |
 | The Mechanic | 10.00% | ~7,854 |
 | Closet Space | 8.00% | ~6,283 |
-| We could go home, or… | 7.00% | ~5,497 |
-| Challenge Accepted | 7.00% | ~5,497 |
-| A Golden Age | 7.00% | ~5,497 |
+| We could go home, or… | 7.00% | ~5,498 |
+| Challenge Accepted | 7.00% | ~5,498 |
+| A Golden Age | 7.00% | ~5,498 |
 | Producer Credit | 7.00% | ~3,512 |
 | Chaos Tamer | 6.00% | ~4,712 |
 | Face Off | 6.00% | ~3,010 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~157 |
 | Fiesta Time | 0.20% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,535 (Ranked 95)  
+Progressed: 78,537 (Ranked 95)  
 Completed: 51 (0.06%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 51 (0.06%) (Ranked 295)
 | 2023-11-12 | 78,267 | 51 |
 | 2023-11-13 | 78,387 | 51 |
 | 2023-11-14 | 78,510 | 51 |
-| 2023-11-15 | 78,535 | 51 |
+| 2023-11-15 | 78,537 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,732 (Ranked 98)  

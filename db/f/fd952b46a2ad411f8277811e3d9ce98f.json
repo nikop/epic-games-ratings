@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 285472,
+  "EOS_Progressed": 285520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9258,
+  "EOS_NewPlayers": 9181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8542,6 +8542,11 @@
       "Time": "2023-11-15T03:06:26.2757057+00:00",
       "NumProgressed": 285472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T04:06:46.4837918+00:00",
+      "NumProgressed": 285520,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -8554,7 +8559,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "firstKills_1",
@@ -8634,7 +8639,7 @@
       "Name": "Close Combat",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "kar98_wkills_100",
@@ -8642,7 +8647,7 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "kills_1",
@@ -8650,7 +8655,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 157010
+      "UsersEstimate": 157036
     },
     {
       "ID": "kills_100",
@@ -8666,7 +8671,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "lastBulletKills_1",
@@ -8690,7 +8695,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "mru2_wins_1",
@@ -8706,7 +8711,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 28547
+      "UsersEstimate": 28552
     },
     {
       "ID": "revives_25",
@@ -8714,7 +8719,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "silencedKills_25",
@@ -8746,7 +8751,7 @@
       "Name": "Top Toy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "top10_10",
@@ -8754,7 +8759,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -8786,7 +8791,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -8801,13 +8806,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 285472,
+      "Progressed": 285520,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-11-15T03:06:26.2757053+00:00",
+  "LastChanged_Achievements": "2023-11-15T04:06:46.4837912+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:12.1435355+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:57:12.9418327+00:00",
-  "LastUpdate_Achievements": "2023-11-15T03:06:26.2757622+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:57:23.6903304+00:00",
+  "LastUpdate_Achievements": "2023-11-15T04:06:46.4838526+00:00"
 }

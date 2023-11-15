@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 7953,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6532,9 +6532,9 @@
       "ID": "CreditsSpent50000",
       "SetID": "12d07c7",
       "Name": "Spent 50000 Credits",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 636
     },
     {
       "ID": "DHUpgraded1",
@@ -7077,8 +7077,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-15T03:09:07.7746097+00:00",
+  "LastChanged_Achievements": "2023-11-15T04:09:07.7342349+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-15T02:57:54.4416874+00:00",
-  "LastUpdate_Achievements": "2023-11-15T03:09:07.7746877+00:00"
+  "LastUpdate_Ratings": "2023-11-15T03:58:04.9477839+00:00",
+  "LastUpdate_Achievements": "2023-11-15T04:09:07.7343267+00:00"
 }

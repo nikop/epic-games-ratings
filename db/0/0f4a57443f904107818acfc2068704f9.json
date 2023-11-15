@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -342,9 +342,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CompleteChapter10",
@@ -430,9 +430,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteChapter3",
@@ -588,8 +588,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-15T03:06:04.2916523+00:00",
+  "LastChanged_Achievements": "2023-11-15T04:06:23.9966855+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:00:23.6034076+00:00",
-  "LastUpdate_Achievements": "2023-11-15T03:06:04.2916755+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:00:34.1501403+00:00",
+  "LastUpdate_Achievements": "2023-11-15T04:06:23.9967058+00:00"
 }
