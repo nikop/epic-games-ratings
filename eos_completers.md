@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.57% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.55% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -32,7 +32,7 @@
 | 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.42% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.66% |
+| 33 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.63% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 35 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
@@ -134,7 +134,7 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.68% |
 | 133 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
 | 134 | [Five Dates](games/f/five_dates.md) | 1.58% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.57% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.56% |
 | 136 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.52% |
 | 137 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.48% |
 | 137 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -160,7 +160,7 @@
 | 157 | [Infindustry](games/i/infindustry.md) | 1.04% |
 | 159 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.02% |
 | 160 | [Sable](games/s/sable.md) | 1.01% |
-| 160 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
+| 161 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
 | 162 | [Trifox](games/t/trifox.md) | 0.96% |
 | 163 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 164 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
@@ -249,10 +249,10 @@
 | 246 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 246 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.21% |
 | 246 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 246 | [Remnant 2](games/r/remnant_2.md) | 0.21% |
 | 246 | [Scrapnaut](games/s/scrapnaut.md) | 0.21% |
-| 251 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
-| 251 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
-| 251 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
+| 252 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
+| 252 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 254 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 254 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
 | 256 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
@@ -649,6 +649,7 @@
 | 352 | [SIMULACRA 3](games/s/simulacra_3.md) | 0.00% |
 | 352 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 352 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 0.00% |
+| 352 | [Songs of Conquest](games/s/songs_of_conquest.md) | 0.00% |
 | 352 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 0.00% |
 | 352 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 352 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 0.00% |

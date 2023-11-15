@@ -132,6 +132,7 @@
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
+| [Songs of Conquest](../games/s/songs_of_conquest.md) | 54 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
 | [Botanicula](../games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 53 | 1,000 |
 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](../games/9/901880c636ef456e936d376fbe089f11.md) | 53 | 1,000 |
