@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 77.00% | ~539 |
-| I Broke It | 73.00% | ~511 |
-| Better On Ice | 70.00% | ~490 |
-| Notai Notes | 70.00% | ~490 |
-| Blue Dreams | 69.00% | ~483 |
-| He's Famous! | 69.00% | ~483 |
-| Krugmazing | 67.00% | ~469 |
-| Cutie Poro | 67.00% | ~469 |
-| The Fire Below the Mountain | 64.00% | ~448 |
-| Moneyball | 61.00% | ~427 |
-| No Bites | 57.00% | ~399 |
-| Iceborn | 57.00% | ~399 |
-| Boom Things | 54.00% | ~378 |
-| Tear of Freedom | 53.00% | ~371 |
+| Feels Familiar | 77.00% | ~540 |
+| I Broke It | 73.00% | ~512 |
+| Better On Ice | 70.00% | ~491 |
+| Notai Notes | 70.00% | ~491 |
+| Blue Dreams | 69.00% | ~484 |
+| He's Famous! | 69.00% | ~484 |
+| Krugmazing | 67.00% | ~470 |
+| Cutie Poro | 67.00% | ~470 |
+| The Fire Below the Mountain | 64.00% | ~449 |
+| Moneyball | 61.00% | ~428 |
+| No Bites | 57.00% | ~400 |
+| Iceborn | 57.00% | ~400 |
+| Boom Things | 54.00% | ~379 |
+| Tear of Freedom | 53.00% | ~372 |
 | My Darkest Day | 50.00% | ~350 |
 | Rhythm Of Willump | 47.00% | ~329 |
 | The Relentless Storm | 47.00% | ~329 |
@@ -37,7 +37,7 @@
 | It Is Not Over | 34.00% | ~238 |
 | Snowy Poro | 32.00% | ~224 |
 | Never Gets Old | 32.00% | ~224 |
-| Vertical Power | 28.00% | ~196 |
+| Vertical Power | 29.00% | ~203 |
 | One From The Heart | 14.00% | ~98 |
 | Yummy | 11.00% | ~77 |
 | Snowball Fightn't | 11.00% | ~77 |
@@ -49,7 +49,7 @@
 | Sneaky Notai | 2.00% | ~14 |
 | Rock Star | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 276)  
+Progressed: 701 (Ranked 276)  
 Completed: 6 (0.86%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 6 (0.86%) (Ranked 170)
 | 2023-11-12 | 667 | 5 |
 | 2023-11-13 | 681 | 5 |
 | 2023-11-14 | 693 | 5 |
-| 2023-11-15 | 700 | 6 |
+| 2023-11-15 | 701 | 6 |

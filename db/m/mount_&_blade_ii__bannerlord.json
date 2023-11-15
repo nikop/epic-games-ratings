@@ -8814,9 +8814,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65177,
+  "EOS_Progressed": 65180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30829,6 +30829,11 @@
       "Time": "2023-11-15T22:08:52.578345+00:00",
       "NumProgressed": 65177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T23:11:13.1298236+00:00",
+      "NumProgressed": 65180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30848,7 +30853,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10428
+      "UsersEstimate": 10429
     },
     {
       "ID": "Bannerlord",
@@ -30856,7 +30861,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15642
+      "UsersEstimate": 15643
     },
     {
       "ID": "Best served cold",
@@ -31000,7 +31005,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15642
+      "UsersEstimate": 15643
     },
     {
       "ID": "I can do it",
@@ -31008,7 +31013,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10428
+      "UsersEstimate": 10429
     },
     {
       "ID": "I spit on your grave",
@@ -31048,7 +31053,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "Lance-a-lot",
@@ -31064,7 +31069,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21508
+      "UsersEstimate": 21509
     },
     {
       "ID": "Lawbringer",
@@ -31072,7 +31077,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26071
+      "UsersEstimate": 26072
     },
     {
       "ID": "Lawmaker",
@@ -31096,7 +31101,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "Minor Clan",
@@ -31216,7 +31221,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15642
+      "UsersEstimate": 15643
     },
     {
       "ID": "Undercover",
@@ -31247,15 +31252,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65177,
+      "Progressed": 65180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-15T20:00:01.5978078+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:08:52.5783446+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:11:13.1298233+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:59:39.4925414+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:08:52.5784698+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:02:44.8089611+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:11:13.1299699+00:00"
 }

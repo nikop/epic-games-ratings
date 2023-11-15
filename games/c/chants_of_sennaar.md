@@ -25,8 +25,8 @@
 | Alchemists Express | 16.00% | ~90 |
 | Free at last | 13.00% | ~73 |
 | Rascal | 12.00% | ~67 |
+| A great audience | 11.00% | ~62 |
 | A Link to the Past | 11.00% | ~62 |
-| A great audience | 10.00% | ~56 |
 | For its own good | 9.00% | ~50 |
 | Fashion victim | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)

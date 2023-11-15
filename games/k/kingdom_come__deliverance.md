@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,734 |
-| Cavalier | 25.00% | ~202,136 |
-| Fatso | 23.00% | ~185,965 |
-| Awakening | 21.00% | ~169,794 |
+| Blacksmith's Son | 32.00% | ~258,735 |
+| Cavalier | 25.00% | ~202,137 |
+| Fatso | 23.00% | ~185,966 |
+| Awakening | 21.00% | ~169,795 |
 | Ranger | 20.00% | ~161,709 |
 | Scrooge | 20.00% | ~161,709 |
-| Anorectic | 16.00% | ~129,367 |
+| Anorectic | 16.00% | ~129,368 |
 | Bookworm | 15.00% | ~121,282 |
 | Firestarter | 15.00% | ~121,282 |
 | Insomniac | 13.00% | ~105,111 |
-| Buddy | 12.00% | ~97,025 |
-| Thief | 12.00% | ~97,025 |
+| Buddy | 12.00% | ~97,026 |
+| Thief | 12.00% | ~97,026 |
 | Sinner | 11.00% | ~88,940 |
 | Traveller | 11.00% | ~88,940 |
-| Convict | 10.00% | ~80,854 |
+| Convict | 10.00% | ~80,855 |
 | Haggler | 9.00% | ~72,769 |
 | McLovin | 7.00% | ~56,598 |
 | Runt | 7.00% | ~56,598 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~809 |
 | Wingman | 0.10% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,544 (Ranked 17)  
+Progressed: 808,547 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,17 +298,17 @@ Completed: 51 (0.01%) (Ranked 331)
 | 2023-11-12 | 808,198 | 51 |
 | 2023-11-13 | 808,318 | 51 |
 | 2023-11-14 | 808,441 | 51 |
-| 2023-11-15 | 808,544 | 51 |
+| 2023-11-15 | 808,547 | 51 |
 ## Awards
 Max (Character Customization): 7,603  (Ranked 49)  
-Sum: 28,241 (Ranked 48)  
+Sum: 28,242 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,603 |
 | This game has Great Boss Battles | 5,571 |
 | This game has Challenging Combat | 1,773 |
-| This game has Diverse Characters | 1,725 |
+| This game has Diverse Characters | 1,726 |
 | This game has Amazing Storytelling | 1,718 |
 | This game is Highly Recommended | 1,691 |
 | This game is Extremely Fun | 1,690 |
@@ -612,4 +612,4 @@ Diff (max vs sum): 1
 | 2023-11-12 | 4.71 | - | 7,601 | 28,224 |
 | 2023-11-13 | 4.71 | - | 7,601 | 28,229 |
 | 2023-11-14 | 4.71 | - | 7,601 | 28,235 |
-| 2023-11-15 | 4.71 | - | 7,603 | 28,241 |
+| 2023-11-15 | 4.71 | - | 7,603 | 28,242 |

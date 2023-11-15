@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1122,17 +1122,17 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
@@ -1147,8 +1147,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-15T08:59:04.4228442+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:04:45.7441279+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:07:29.370076+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:58:53.3642141+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:04:45.7441675+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:01:38.6574014+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:07:29.3701137+00:00"
 }

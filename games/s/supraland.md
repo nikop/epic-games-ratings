@@ -1,36 +1,36 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,554 |
-| The Blues | 85.00% | ~622,951 |
-| Fast | 66.00% | ~483,703 |
-| Healthbar | 55.00% | ~403,086 |
-| Force Cube | 53.00% | ~388,428 |
-| Double Jump | 48.00% | ~351,784 |
-| Regeneration | 47.00% | ~344,455 |
-| Triple Jump | 43.00% | ~315,140 |
-| Climb the hill | 42.00% | ~307,811 |
-| Through the fire pipe | 39.00% | ~285,824 |
+| Out of bed | 99.00% | ~725,556 |
+| The Blues | 85.00% | ~622,952 |
+| Fast | 66.00% | ~483,704 |
+| Healthbar | 55.00% | ~403,087 |
+| Force Cube | 53.00% | ~388,429 |
+| Double Jump | 48.00% | ~351,785 |
+| Regeneration | 47.00% | ~344,456 |
+| Triple Jump | 43.00% | ~315,141 |
+| Climb the hill | 42.00% | ~307,812 |
+| Through the fire pipe | 39.00% | ~285,825 |
 | MacGuffin | 38.00% | ~278,496 |
 | Just once | 37.00% | ~271,167 |
-| Armor | 30.00% | ~219,865 |
-| True holy spirit | 28.00% | ~205,207 |
-| That's how electronics work obviously | 27.00% | ~197,878 |
+| Armor | 30.00% | ~219,866 |
+| True holy spirit | 28.00% | ~205,208 |
+| That's how electronics work obviously | 27.00% | ~197,879 |
 | Force Cube Catapult | 25.00% | ~183,221 |
-| Holy Sword | 23.00% | ~168,563 |
-| Telefrag | 23.00% | ~168,563 |
-| Freed from prison | 21.00% | ~153,905 |
-| Stomp | 21.00% | ~153,905 |
+| Holy Sword | 23.00% | ~168,564 |
+| Telefrag | 23.00% | ~168,564 |
+| Freed from prison | 21.00% | ~153,906 |
+| Stomp | 21.00% | ~153,906 |
 | Double Health | 19.00% | ~139,248 |
 | Buckle | 17.00% | ~124,590 |
 | Green Keycard | 17.00% | ~124,590 |
-| Rattle Hag | 16.00% | ~117,261 |
-| All Shells | 15.00% | ~109,932 |
+| Rattle Hag | 16.00% | ~117,262 |
+| All Shells | 15.00% | ~109,933 |
 | Beam | 14.00% | ~102,604 |
 | Health Drink | 13.00% | ~95,275 |
 | Helped a star | 13.00% | ~95,275 |
@@ -51,14 +51,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,288 |
 | Translocator | 10.00% | ~73,288 |
 | Yellow Shot Button | 10.00% | ~73,288 |
-| Moon Door | 9.00% | ~65,959 |
-| Momentum | 9.00% | ~65,959 |
-| Through the tiny pipe | 9.00% | ~65,959 |
-| Win! | 9.00% | ~65,959 |
+| Moon Door | 9.00% | ~65,960 |
+| Momentum | 9.00% | ~65,960 |
+| Through the tiny pipe | 9.00% | ~65,960 |
+| Win! | 9.00% | ~65,960 |
 | The real real teleported man | 8.00% | ~58,631 |
 | Well deserved | 6.00% | ~43,973 |
 | Super Sword | 4.00% | ~29,315 |
-| Happiness | 3.00% | ~21,986 |
+| Happiness | 3.00% | ~21,987 |
 | All Chests | 2.00% | ~14,658 |
 | Poor ancestors | 2.00% | ~14,658 |
 | Shelf filled | 2.00% | ~14,658 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,883 (Ranked 19)  
+Progressed: 732,885 (Ranked 19)  
 Completed: 760 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 760 (0.10%) (Ranked 277)
 | 2023-11-12 | 732,613 | 760 |
 | 2023-11-13 | 732,700 | 760 |
 | 2023-11-14 | 732,797 | 760 |
-| 2023-11-15 | 732,883 | 760 |
+| 2023-11-15 | 732,885 | 760 |
 ## Awards
 Max (Challenging Puzzles): 7,726  (Ranked 48)  
 Sum: 10,077 (Ranked 91)  

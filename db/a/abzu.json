@@ -2,7 +2,7 @@
   "ID": "7af7476ff9eb4a8d9cd9d6486224de76",
   "Name": "ABZU",
   "ProductSlug": "abzu",
-  "Ranking_Rating": 384,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 747,
@@ -480,6 +480,6 @@
   "FirstSeen": "2022-07-22T20:29:47.8662447+00:00",
   "LastChanged": "2023-10-24T02:17:57.8633704+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:02.1997146+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:57:18.9178798+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:03:15.099087+00:00"
+  "LastUpdate_Ratings": "2023-11-15T22:59:03.7096178+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:05:27.8409358+00:00"
 }

@@ -10,9 +10,9 @@
 | Budding Conjuror | 77.00% | ~221 |
 | Man-Machine Master | 67.00% | ~192 |
 | Mountain Splitter | 66.00% | ~189 |
+| Charmed by the Hunt | 65.00% | ~187 |
 | Fusion Conjuror | 64.00% | ~184 |
 | Memory Rouser | 64.00% | ~184 |
-| Charmed by the Hunt | 64.00% | ~184 |
 | Subsistence Skills | 63.00% | ~181 |
 | Kemono Hunter | 60.00% | ~172 |
 | Expert Conjuror | 57.00% | ~164 |
@@ -29,7 +29,7 @@
 | Snare Specialist | 40.00% | ~115 |
 | Kemono at Heart | 39.00% | ~112 |
 | Karakuri Trail | 38.00% | ~109 |
-| Artful Assister | 35.00% | ~100 |
+| Artful Assister | 36.00% | ~103 |
 | Team Hunter | 34.00% | ~98 |
 | Karakuri Isle | 32.00% | ~92 |
 | Reincarnation Cycle Stopper | 32.00% | ~92 |

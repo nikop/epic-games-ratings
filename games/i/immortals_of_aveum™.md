@@ -26,15 +26,15 @@ Rating: 4.06 (Ranked 974)
 | A Perfect Cycle | 16.00% | ~44 |
 | Recruit | 15.00% | ~41 |
 | Armsman | 15.00% | ~41 |
+| Good Boy | 11.00% | ~30 |
 | Lights Army | 10.00% | ~28 |
 | Periapt Cerulean | 10.00% | ~28 |
-| Good Boy | 10.00% | ~28 |
 | Shroudfane Explorer | 8.00% | ~22 |
 | Best Dressed | 7.00% | ~19 |
 | Armaments Azure | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |
+| Armaments Gules | 6.00% | ~16 |
 | Scholar | 5.00% | ~14 |
-| Armaments Gules | 5.00% | ~14 |
 | Kitted Out | 4.00% | ~11 |
 | Armaments Vert | 4.00% | ~11 |
 | Veteran | 3.00% | ~8 |

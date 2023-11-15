@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 1.00% | ~153 |
 | Circus Maximus | 1.00% | ~153 |
 | Hagia Sophia | 1.00% | ~153 |
+| Church of the Holy Sepulchre | 1.00% | ~153 |
 | Temple of Solomon | 1.00% | ~153 |
 | Mausoleum | 1.00% | ~153 |
 | Pantheon | 1.00% | ~153 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~153 |
 | The Clergy | 1.00% | ~153 |
 | Ready | 0.90% | ~138 |
-| Church of the Holy Sepulchre | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
 | Assyrian Paganism | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,335 (Ranked 146)  
+Progressed: 15,337 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 5 (0.03%) (Ranked 315)
 | 2023-11-12 | 15,291 | 5 |
 | 2023-11-13 | 15,305 | 5 |
 | 2023-11-14 | 15,324 | 5 |
-| 2023-11-15 | 15,335 | 5 |
+| 2023-11-15 | 15,337 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

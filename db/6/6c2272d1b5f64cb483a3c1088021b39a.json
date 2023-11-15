@@ -4390,9 +4390,9 @@
       "ID": "from_day_to_day_3",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 3",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "glitter_of_gold_1",
@@ -4693,8 +4693,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:09:05.5174186+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:11:31.2552699+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:58:15.0868743+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:09:05.5174855+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:00:42.4416053+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:11:31.2553267+00:00"
 }

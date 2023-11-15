@@ -133,6 +133,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorious! | 0.10% | ~456 |
 | Viva la Revolución! | 0.10% | ~456 |
 | Voltaire's Nightmare | 0.10% | ~456 |
+| Voting Streak | 0.10% | ~456 |
 | We bled for this | 0.10% | ~456 |
 | Winged Hussars | 0.10% | ~456 |
 | Wonderful | 0.10% | ~456 |
@@ -355,7 +356,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ultimate Military | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
-| Voting Streak | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,410 (Ranked 41)  
+Progressed: 456,430 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 456,410 | 1 |
+| 2023-11-15 | 456,430 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,716 (Ranked 24)  

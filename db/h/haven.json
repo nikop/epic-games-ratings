@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520,
+  "EOS_Progressed": 1521,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2098,6 +2098,11 @@
       "Time": "2023-11-15T20:05:19.8139005+00:00",
       "NumProgressed": 1520,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-15T23:07:19.3665052+00:00",
+      "NumProgressed": 1521,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2157,7 +2162,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "16",
@@ -2197,7 +2202,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "20",
@@ -2237,7 +2242,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "25",
@@ -2348,15 +2353,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1520,
+      "Progressed": 1521,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:04:37.9479112+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:07:19.3665048+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:48.6027017+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:57:58.1551548+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:04:37.9479335+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:00:17.5284467+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:07:19.3665319+00:00"
 }

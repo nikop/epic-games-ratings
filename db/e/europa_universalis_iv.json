@@ -12117,9 +12117,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456410,
+  "EOS_Progressed": 456430,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6277,
+  "EOS_NewPlayers": 6269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36082,6 +36082,11 @@
       "Time": "2023-11-15T22:04:06.1686891+00:00",
       "NumProgressed": 456410,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T23:06:36.8008291+00:00",
+      "NumProgressed": 456430,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38811,9 +38816,9 @@
       "ID": "achievement_voting_streak",
       "SetID": "8p2n7he",
       "Name": "Voting Streak",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -38996,21 +39001,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456410,
+      "Progressed": 456430,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456410,
+      "Progressed": 456430,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-15T21:57:43.0779396+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:04:06.1686886+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:06:36.8008287+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T21:57:43.0779402+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:04:06.1696874+00:00"
+  "LastUpdate_Ratings": "2023-11-15T22:59:55.5928942+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:06:36.8018292+00:00"
 }

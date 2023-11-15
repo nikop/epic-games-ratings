@@ -4041,9 +4041,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 78633,
+  "EOS_Progressed": 78635,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 957,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27746,6 +27746,11 @@
       "Time": "2023-11-15T22:08:13.589789+00:00",
       "NumProgressed": 78633,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-15T23:10:21.0903748+00:00",
+      "NumProgressed": 78635,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27853,7 +27858,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 24376
+      "UsersEstimate": 24377
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -27877,7 +27882,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26735
+      "UsersEstimate": 26736
     },
     {
       "ID": "customize_a_weapon",
@@ -27885,7 +27890,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29094
+      "UsersEstimate": 29095
     },
     {
       "ID": "cutting_edge_materials",
@@ -27925,7 +27930,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7863
+      "UsersEstimate": 7864
     },
     {
       "ID": "empire_tier_2",
@@ -27941,7 +27946,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14940
+      "UsersEstimate": 14941
     },
     {
       "ID": "empire_tier_4",
@@ -27965,7 +27970,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25949
+      "UsersEstimate": 25950
     },
     {
       "ID": "fully_complete_a_building",
@@ -27981,7 +27986,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7863
+      "UsersEstimate": 7864
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -28005,7 +28010,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 28308
+      "UsersEstimate": 28309
     },
     {
       "ID": "hit_max_level",
@@ -28013,7 +28018,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12581
+      "UsersEstimate": 12582
     },
     {
       "ID": "infinite_boost_refill",
@@ -28037,7 +28042,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22017
+      "UsersEstimate": 22018
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -28109,7 +28114,7 @@
       "Name": "Food for Thought",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22017
+      "UsersEstimate": 22018
     },
     {
       "ID": "two_thirds_purple",
@@ -28141,7 +28146,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33026
+      "UsersEstimate": 33027
     },
     {
       "ID": "whole_map_purple",
@@ -28180,13 +28185,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 78633,
+      "Progressed": 78635,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 50270,
+      "Progressed": 50272,
       "Completed": 4317
     }
   ],
@@ -28194,8 +28199,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-15T09:02:55.6556234+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:08:13.5897886+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:10:21.0903745+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:06.5148406+00:00",
-  "LastUpdate_Ratings": "2023-11-15T22:02:50.9201995+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:08:13.5899083+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:04:51.874345+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:10:21.0905017+00:00"
 }

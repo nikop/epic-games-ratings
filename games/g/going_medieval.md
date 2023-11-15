@@ -8,7 +8,7 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Having A Field Day | 76.00% | ~5,138 |
 | Get A Room | 75.00% | ~5,070 |
-| Reap What You Sow | 72.00% | ~4,867 |
+| Reap What You Sow | 73.00% | ~4,935 |
 | The First Day | 69.00% | ~4,664 |
 | Green Thumb | 67.00% | ~4,529 |
 | Novice Researcher | 67.00% | ~4,529 |

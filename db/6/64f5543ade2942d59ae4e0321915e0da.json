@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 84,
@@ -245,9 +245,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -405,9 +405,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:05:27.1179784+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:08:24.9503366+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-15T22:02:29.31632+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:05:27.118003+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:03:40.9027376+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:08:24.9503727+00:00"
 }

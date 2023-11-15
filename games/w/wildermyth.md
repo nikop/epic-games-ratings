@@ -18,9 +18,9 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 1.00% | ~15 |
 | Completing the Look | 0.90% | ~13 |
 | Let Me Get My Chisel | 0.80% | ~12 |
+| Who's Counting? | 0.60% | ~9 |
 | Echoes Die | 0.60% | ~9 |
 | A Mythic Menagerie | 0.50% | ~7 |
-| Who's Counting? | 0.50% | ~7 |
 | Pyrrhic Victory | 0.50% | ~7 |
 | Thematic Divergence | 0.40% | ~6 |
 | A Story of Heroes | 0.40% | ~6 |

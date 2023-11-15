@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1657,9 +1657,9 @@
       "ID": "achievement_44",
       "SetID": "2cpn27e",
       "Name": "Artful Assister",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_45",
@@ -1673,9 +1673,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_47",
@@ -1743,8 +1743,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-15T22:03:26.020271+00:00",
+  "LastChanged_Achievements": "2023-11-15T23:05:42.3354365+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-15T22:02:27.3379333+00:00",
-  "LastUpdate_Achievements": "2023-11-15T22:03:26.0203348+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:03:37.9699166+00:00",
+  "LastUpdate_Achievements": "2023-11-15T23:05:42.3354732+00:00"
 }
