@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,035 |
-| Alt+F4 | 8.00% | ~18,979 |
-| Where's that freaking Dwarf? | 7.00% | ~16,607 |
+| Sowwy! | 35.00% | ~83,039 |
+| Alt+F4 | 8.00% | ~18,980 |
+| Where's that freaking Dwarf? | 7.00% | ~16,608 |
 | Déjà vu | 6.00% | ~14,235 |
-| Sock! SOCK! | 5.00% | ~11,862 |
+| Sock! SOCK! | 5.00% | ~11,863 |
 | A beer, two curses, three companions | 4.00% | ~9,490 |
 | GG EZ | 4.00% | ~9,490 |
 | DM intervention | 4.00% | ~9,490 |
 | Speedrun | 4.00% | ~9,490 |
-| Livin' in a dwarven paradise | 3.00% | ~7,117 |
-| Way of the Wimp | 3.00% | ~7,117 |
-| The plot thickens... At the tavern | 3.00% | ~7,117 |
-| Fireproof Wizardess | 3.00% | ~7,117 |
+| Livin' in a dwarven paradise | 3.00% | ~7,118 |
+| Way of the Wimp | 3.00% | ~7,118 |
+| The plot thickens... At the tavern | 3.00% | ~7,118 |
+| Fireproof Wizardess | 3.00% | ~7,118 |
 | Shiny and Crôm | 2.00% | ~4,745 |
 | The demons' feast | 2.00% | ~4,745 |
 | The Great Library | 2.00% | ~4,745 |
@@ -37,18 +37,18 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,745 |
 | Team Building Exercise | 2.00% | ~4,745 |
 | Oh, when I'll be level 10... | 2.00% | ~4,745 |
-| Dwarf Fortress | 1.00% | ~2,372 |
-| %#*!$*! | 1.00% | ~2,372 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,372 |
-| Dead for good | 1.00% | ~2,372 |
-| Gargantua | 1.00% | ~2,372 |
-| Lust and Debauchery | 1.00% | ~2,372 |
-| Material Girl | 1.00% | ~2,372 |
+| Dwarf Fortress | 1.00% | ~2,373 |
+| %#*!$*! | 1.00% | ~2,373 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,373 |
+| Dead for good | 1.00% | ~2,373 |
+| Gargantua | 1.00% | ~2,373 |
+| Lust and Debauchery | 1.00% | ~2,373 |
+| Material Girl | 1.00% | ~2,373 |
 | In Navalu's footsteps | 0.90% | ~2,135 |
 | We come in peace | 0.70% | ~1,661 |
 | Lëgal Legend | 0.70% | ~1,661 |
-| Holistic Adventuring Party | 0.60% | ~1,423 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,423 |
+| Holistic Adventuring Party | 0.60% | ~1,424 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,424 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,186 |
 | Law and Order | 0.50% | ~1,186 |
 | It's been a hard day's night | 0.40% | ~949 |
@@ -56,14 +56,14 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 0.30% | ~712 |
 | The number of the counting shalt be 7 | 0.30% | ~712 |
 | Inception | 0.30% | ~712 |
-| The Blood Countess | 0.20% | ~474 |
-| Free customer service | 0.20% | ~474 |
-| Imposture and Trowels | 0.20% | ~474 |
-| Kudos from your DM | 0.20% | ~474 |
-| Insult to injury | 0.20% | ~474 |
-| 100% satisfaction guarantee | 0.20% | ~474 |
-| Death is for wimps | 0.20% | ~474 |
-| Demisemiquaver | 0.20% | ~474 |
+| The Blood Countess | 0.20% | ~475 |
+| Free customer service | 0.20% | ~475 |
+| Imposture and Trowels | 0.20% | ~475 |
+| Kudos from your DM | 0.20% | ~475 |
+| Insult to injury | 0.20% | ~475 |
+| 100% satisfaction guarantee | 0.20% | ~475 |
+| Death is for wimps | 0.20% | ~475 |
+| Demisemiquaver | 0.20% | ~475 |
 | Cursed die | 0.10% | ~237 |
 | Necrophilia | 0.10% | ~237 |
 | He’s alive! Aliiiive! | 0.10% | ~237 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,243 (Ranked 62)  
+Progressed: 237,254 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 7 (0.00%) (Ranked 352)
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
 | 2023-11-14 | 237,170 | 7 |
-| 2023-11-15 | 237,243 | 7 |
+| 2023-11-15 | 237,254 | 7 |
 ## Awards
 Max (Character Customization): 229  (Ranked 272)  
 Sum: 460 (Ranked 332)  

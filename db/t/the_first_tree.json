@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37909,
+  "EOS_Progressed": 37912,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
@@ -18354,6 +18354,11 @@
       "Time": "2023-11-15T13:10:23.1132178+00:00",
       "NumProgressed": 37909,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2023-11-15T15:04:32.5319659+00:00",
+      "NumProgressed": 37912,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 14,
@@ -18365,7 +18370,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "150stars",
@@ -18381,7 +18386,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9856
+      "UsersEstimate": 9857
     },
     {
       "ID": "allItems",
@@ -18445,7 +18450,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9098
+      "UsersEstimate": 9099
     },
     {
       "ID": "firstItem",
@@ -18453,7 +18458,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29190
+      "UsersEstimate": 29192
     },
     {
       "ID": "roots",
@@ -18476,15 +18481,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37909,
+      "Progressed": 37912,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-10T13:04:10.4343986+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:03:20.3157215+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:04:32.5319655+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.7506613+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:58:20.9623038+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:03:20.3158201+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:59:33.9092515+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:04:32.5320764+00:00"
 }

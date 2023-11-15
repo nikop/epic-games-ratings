@@ -85,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.10% | ~456 |
 | One Family to Rule them All | 0.10% | ~456 |
 | One King to Rule! | 0.10% | ~456 |
+| One Night in Paris | 0.10% | ~456 |
 | Populists in Government | 0.10% | ~456 |
 | Queen of Conquest | 0.10% | ~456 |
 | Redecorating | 0.10% | ~456 |
@@ -269,7 +270,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
-| One Night in Paris | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Over a Thousand! | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,068 (Ranked 41)  
+Progressed: 456,110 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 456,068 | 1 |
+| 2023-11-15 | 456,110 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 55)  
 Sum: 57,663 (Ranked 24)  

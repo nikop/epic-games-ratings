@@ -24,13 +24,13 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Bet On Bots | 3.00% | ~168 |
 | Modular Performance | 3.00% | ~168 |
 | Salesperson | 3.00% | ~168 |
+| Contender | 3.00% | ~168 |
 | Level: Merry-Go-Around | 2.00% | ~112 |
 | Charlies's Circuits: Artist | 2.00% | ~112 |
 | Modular Peak | 2.00% | ~112 |
 | Accountant | 2.00% | ~112 |
 | Data Churn Type III | 2.00% | ~112 |
 | Multi-Millionaire | 2.00% | ~112 |
-| Contender | 2.00% | ~112 |
 | Trophy Collector | 2.00% | ~112 |
 | Module Maniac | 2.00% | ~112 |
 | Overproducer | 2.00% | ~112 |

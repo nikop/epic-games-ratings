@@ -5,13 +5,13 @@ Rating: 4.66 (Ranked 293)
 Number of Ratings: 6,825  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 3,940  (Ranked 85)  
-Sum: 32,342 (Ranked 42)  
+Sum: 32,347 (Ranked 42)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 3,940 |
 | This game is Great for Quick Sessions | 3,920 |
-| This game has Competitive Players | 3,399 |
+| This game has Competitive Players | 3,404 |
 | This game has Quickly Understood Controls | 3,362 |
 | This game is Relaxing | 3,309 |
 | This game is Extremely Fun | 3,138 |
@@ -320,4 +320,4 @@ Diff (max vs sum): 43
 | 2023-11-12 | 4.66 | - | 3,916 | 32,233 |
 | 2023-11-13 | 4.66 | - | 3,921 | 32,278 |
 | 2023-11-14 | 4.66 | - | 3,931 | 32,317 |
-| 2023-11-15 | 4.66 | - | 3,940 | 32,342 |
+| 2023-11-15 | 4.66 | - | 3,940 | 32,347 |

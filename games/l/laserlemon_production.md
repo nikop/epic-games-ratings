@@ -14,15 +14,15 @@
 | Fun and Games Ahead | 23.00% | ~3 |
 | Six's Song | 23.00% | ~3 |
 | Highly Sprung | 23.00% | ~3 |
+| I'm Losing You | 23.00% | ~3 |
 | Kitchen Hand | 23.00% | ~3 |
 | Not Alone | 23.00% | ~3 |
 | So Close | 23.00% | ~3 |
 | The Guest Area | 23.00% | ~3 |
 | The Lady's Quarters | 23.00% | ~3 |
-| I'm Losing You | 15.00% | ~2 |
+| We'll Meet Again | 23.00% | ~3 |
 | Is Anybody Out There? | 15.00% | ~2 |
 | Rascal | 15.00% | ~2 |
-| We'll Meet Again | 15.00% | ~2 |
 | Hard to the Core | 8.00% | ~1 |
 | Little Lost Things | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

@@ -9,35 +9,35 @@
 | For the Horde! | 79.00% | ~212 |
 | Hammer Time, Round Two | 78.00% | ~209 |
 | The Hellwoods | 71.00% | ~190 |
+| The Plains of Strothalm | 65.00% | ~174 |
 | Experienced Thalya | 65.00% | ~174 |
 | Thalya's Concentrated Fury | 64.00% | ~172 |
-| The Plains of Strothalm | 64.00% | ~172 |
 | Bad Elves Go Everywhere | 60.00% | ~161 |
 | Master of Magic | 59.00% | ~158 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~147 |
 | Heroes’ Gorge | 53.00% | ~142 |
 | Magic Accidents | 52.00% | ~139 |
+| Minions, Minions! | 51.00% | ~137 |
 | Trap Master | 50.00% | ~134 |
-| Minions, Minions! | 50.00% | ~134 |
+| The Ascent | 40.00% | ~107 |
+| It's Warm and Cozy at Home | 40.00% | ~107 |
 | YOU SHALL NOT PASS! | 39.00% | ~105 |
-| The Ascent | 39.00% | ~105 |
-| It's Warm and Cozy at Home | 39.00% | ~105 |
+| Pure Dynamite! | 36.00% | ~96 |
 | Hard Work | 35.00% | ~94 |
-| Pure Dynamite! | 35.00% | ~94 |
 | The Big Eaty | 32.00% | ~86 |
 | Mana Cannon | 29.00% | ~78 |
-| “… like son” | 24.00% | ~64 |
+| “… like son” | 25.00% | ~67 |
 | Dungeonlord Gorgu | 21.00% | ~56 |
+| Shame! Shame! Shame! | 20.00% | ~54 |
 | The Cathedral of Light | 19.00% | ~51 |
-| Shame! Shame! Shame! | 19.00% | ~51 |
+| Hungry, Hungry Gorgu! | 16.00% | ~43 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 16.00% | ~43 |
-| Hungry, Hungry Gorgu! | 15.00% | ~40 |
 | Tanos' Crusade Against Thalya | 14.00% | ~38 |
 | Unstoppable Horde | 13.00% | ~35 |
 | Forbidden Knowledge | 11.00% | ~29 |
+| Master of the Undead | 11.00% | ~29 |
 | All’s Well That Ends Evil | 11.00% | ~29 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~27 |
-| Master of the Undead | 10.00% | ~27 |
 | Ghost Pirates? Ghost Heroes! | 9.00% | ~24 |
 | The Duel | 9.00% | ~24 |
 | Stop Tanos! | 8.00% | ~21 |
@@ -58,8 +58,8 @@
 | The Rune Sockets of Finitude (Part 1) | 3.00% | ~8 |
 | To the Max! | 3.00% | ~8 |
 | To Infinity And Beyond! | 3.00% | ~8 |
+| The Rune Sockets of Finitude (Part 2) | 2.00% | ~5 |
 | No Mana, No Cry | 1.00% | ~3 |
-| The Rune Sockets of Finitude (Part 2) | 1.00% | ~3 |
 | The Last Stand - This Time For Real! | 1.00% | ~3 |
 | Evilification | 1.00% | ~3 |
 | Heal Heal Blessing | 0.70% | ~2 |

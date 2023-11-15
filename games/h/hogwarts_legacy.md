@@ -11,13 +11,13 @@ Rating: 4.76 (Ranked 128)
 | A Keen Sense of Spell | 13.00% | ~39,276 |
 | That's a Keeper | 13.00% | ~39,276 |
 | A Talent for Spending | 12.00% | ~36,255 |
-| Grappling with a Graphorn | 11.00% | ~33,233 |
-| The One Who Mastered Memories | 11.00% | ~33,233 |
-| The Hallowed Hero | 11.00% | ~33,233 |
-| The Defender of Dragons | 11.00% | ~33,233 |
-| Challenge Accepted | 11.00% | ~33,233 |
-| Loom for Improvement | 11.00% | ~33,233 |
-| Coasting Along | 11.00% | ~33,233 |
+| Grappling with a Graphorn | 11.00% | ~33,234 |
+| The One Who Mastered Memories | 11.00% | ~33,234 |
+| The Hallowed Hero | 11.00% | ~33,234 |
+| The Defender of Dragons | 11.00% | ~33,234 |
+| Challenge Accepted | 11.00% | ~33,234 |
+| Loom for Improvement | 11.00% | ~33,234 |
+| Coasting Along | 11.00% | ~33,234 |
 | The Hero of Hogwarts | 10.00% | ~30,212 |
 | Followed the Butterflies | 10.00% | ~30,212 |
 | Rising From the Ashes | 10.00% | ~30,212 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,122 (Ranked 51)  
+Progressed: 302,124 (Ranked 51)  
 Completed: 511 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,10 +260,10 @@ Completed: 511 (0.17%) (Ranked 257)
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
-| 2023-11-15 | 302,122 | 511 |
+| 2023-11-15 | 302,124 | 511 |
 ## Awards
 Max (Character Customization): 24,313  (Ranked 17)  
-Sum: 48,208 (Ranked 30)  
+Sum: 48,212 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,227 |
 | This game has Amazing Characters | 1,206 |
 | This game is Highly Recommended | 1,165 |
-| This game has Quickly Understood Controls | 1,107 |
+| This game has Quickly Understood Controls | 1,111 |
 | This game has Beautiful Visuals | 1,024 |
 | This game has a Creative Community | 785 |
 ## Ratings History
@@ -518,4 +518,4 @@ Diff (max vs sum): -13
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
 | 2023-11-13 | 4.76 | 24,259 | 48,072 |
 | 2023-11-14 | 4.76 | 24,282 | 48,150 |
-| 2023-11-15 | 4.76 | 24,313 | 48,208 |
+| 2023-11-15 | 4.76 | 24,313 | 48,212 |

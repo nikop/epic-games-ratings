@@ -5,38 +5,38 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 2.00% | ~4 |
+| Trinity | 2.00% | ~4 |
 | I Found It | 2.00% | ~4 |
 | Break Out | 1.00% | ~2 |
 | Find Allies | 1.00% | ~2 |
-| Trinity | 1.00% | ~2 |
+| Calm before the Storm | 0.50% | ~1 |
 | Clear Sight | 0.50% | ~1 |
+| Essence Blow | 0.50% | ~1 |
+| Shatter Them All | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
+| Geared Up | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
-| Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
-| Shatter Them All | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | Fashion Victim | 0.00% | ~0 |
+| Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| Calm before the Storm | -0.50% | ~-1 |
 | To Battle | -0.50% | ~-1 |
 | Godslayer | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
 | Tributes of Caladrias | -0.50% | ~-1 |
 | Flawless Victory | -0.50% | ~-1 |
-| Scholar | -0.50% | ~-1 |
 | Stone Collection | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
+| A Queen's Tale | -0.50% | ~-1 |
+| A Taste of Wrath | -1.10% | ~-2 |
 | Adventurer | -1.10% | ~-2 |
 | Airborne | -1.10% | ~-2 |
-| Geared Up | -1.10% | ~-2 |
 | Alchemist | -1.10% | ~-2 |
-| A Queen's Tale | -1.10% | ~-2 |
-| A Taste of Wrath | -1.60% | ~-3 |
 | The Mentor | -1.60% | ~-3 |
 | Miner | -1.60% | ~-3 |
 | The Collector | -1.60% | ~-3 |

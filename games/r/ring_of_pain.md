@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.50% | ~6 |
 | First Steps | 0.30% | ~719 |
 | Getting A Glimpse | 0.30% | ~719 |
+| That Was Quick | 0.30% | ~719 |
 | Colorful Corpse | 0.30% | ~719 |
 | Defeat The Dark | 0.30% | ~719 |
 | A Donation | 0.30% | ~719 |
@@ -25,10 +26,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.20% | ~479 |
 | Delving Deeper | 0.20% | ~479 |
 | R.I.P | 0.20% | ~479 |
-| That Was Quick | 0.20% | ~479 |
 | Dig Your Own Grave | 0.20% | ~479 |
+| Well Prepared | 0.20% | ~479 |
 | Who To Trust? | 0.20% | ~479 |
 | Walk It Off | 0.20% | ~479 |
+| Just Chilling | 0.20% | ~479 |
 | Cold Hearted | 0.20% | ~479 |
 | I Am Overburdened | 0.20% | ~479 |
 | Save Our Souls | 0.20% | ~479 |
@@ -65,11 +67,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 0.10% | ~240 |
 | New Game+ | 0.10% | ~240 |
 | Friend of Vermin | 0.10% | ~240 |
-| Well Prepared | 0.10% | ~240 |
 | Hanging On | 0.10% | ~240 |
 | Barbecue | 0.10% | ~240 |
 | Explosive Betrayal | 0.10% | ~240 |
-| Just Chilling | 0.10% | ~240 |
 | A Hard Carry | 0.10% | ~240 |
 | Grave Digger | 0.10% | ~240 |
 | Soul Stash | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,716 (Ranked 61)  
+Progressed: 239,719 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 288 (0.12%) (Ranked 270)
 | 2023-11-12 | 239,608 | 288 |
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
-| 2023-11-15 | 239,716 | 288 |
+| 2023-11-15 | 239,719 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,674 (Ranked 83)  

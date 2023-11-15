@@ -166,9 +166,9 @@
       "ID": "ImLosingYou",
       "SetID": "c36hpcf",
       "Name": "I\u0027m Losing You",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "IsAnybodyOutThere",
@@ -270,9 +270,9 @@
       "ID": "WellMeetAgain",
       "SetID": "c36hpcf",
       "Name": "We\u0027ll Meet Again",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -284,8 +284,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:04:40.5921417+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:06:24.3595021+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:59:23.4939548+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:04:40.5921538+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:01:06.3983104+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:06:24.3595135+00:00"
 }

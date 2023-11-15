@@ -59,16 +59,16 @@
 | The Cure | 29.00% | ~367 |
 | Big Game Hunter | 29.00% | ~367 |
 | Heart of Darkness | 29.00% | ~367 |
+| Bringer of War | 29.00% | ~367 |
 | Focused | 28.00% | ~354 |
 | Archivist | 28.00% | ~354 |
+| Cat's in the Cradle | 28.00% | ~354 |
 | Doppelganger | 28.00% | ~354 |
 | Treason | 28.00% | ~354 |
 | Agent | 28.00% | ~354 |
 | Revenge! | 28.00% | ~354 |
 | Digital Exorcist | 28.00% | ~354 |
-| Bringer of War | 28.00% | ~354 |
 | Friend or Foe | 27.00% | ~342 |
-| Cat's in the Cradle | 27.00% | ~342 |
 | Mobilizer | 27.00% | ~342 |
 | Untouchable | 26.00% | ~329 |
 | Mission Accomplished | 26.00% | ~329 |
@@ -84,7 +84,7 @@
 | Tunnel Rat | 23.00% | ~291 |
 | Arbiter | 23.00% | ~291 |
 | Liberator | 23.00% | ~291 |
-| Savior | 21.00% | ~266 |
+| Savior | 22.00% | ~279 |
 | Lost and Found | 21.00% | ~266 |
 | Paramour II | 20.00% | ~253 |
 | Party Crasher | 20.00% | ~253 |

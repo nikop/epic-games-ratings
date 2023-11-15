@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 19,
+  "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -12099,7 +12099,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456068,
+  "EOS_Progressed": 456110,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 6272,
   "EOS_NewCompleters": 0,
@@ -36024,6 +36024,11 @@
       "Time": "2023-11-15T14:03:56.5263158+00:00",
       "NumProgressed": 456068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T15:05:22.5819546+00:00",
+      "NumProgressed": 456110,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37769,9 +37774,9 @@
       "ID": "achievement_one_night_in_paris",
       "SetID": "67mdiil",
       "Name": "One Night in Paris",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_ostindisk_kompagni_te",
@@ -38938,21 +38943,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456068,
+      "Progressed": 456110,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456068,
+      "Progressed": 456110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-15T11:57:34.9244968+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:03:56.5263154+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:05:22.5819543+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:57:31.4911709+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:03:56.5273461+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:58:19.0465654+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:05:22.5830063+00:00"
 }

@@ -531,9 +531,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5736,
+  "EOS_Progressed": 5737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5576,6 +5576,11 @@
       "Time": "2023-11-15T14:04:36.2729916+00:00",
       "NumProgressed": 5736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T15:06:18.2937219+00:00",
+      "NumProgressed": 5737,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5588,7 +5593,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "achievement_0002",
@@ -5596,7 +5601,7 @@
       "Name": "Gathering Dust",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_0003",
@@ -5620,7 +5625,7 @@
       "Name": "Crucial Combo",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_0006",
@@ -5628,7 +5633,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4360
     },
     {
       "ID": "achievement_0007",
@@ -5636,7 +5641,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5334
+      "UsersEstimate": 5335
     },
     {
       "ID": "achievement_0008",
@@ -5644,7 +5649,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "achievement_0009",
@@ -5660,7 +5665,7 @@
       "Name": "Network Success",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "achievement_0011",
@@ -5844,7 +5849,7 @@
       "Name": "Engineer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "achievement_0034",
@@ -5900,7 +5905,7 @@
       "Name": "One for the Book",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_0041",
@@ -5946,9 +5951,9 @@
       "ID": "achievement_0046",
       "SetID": "9123ogc",
       "Name": "Writing a new Chapter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1434
     },
     {
       "ID": "achievement_0047",
@@ -5979,7 +5984,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5736,
+      "Progressed": 5737,
       "Completed": 0
     }
   ],
@@ -5987,8 +5992,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-15T13:04:50.2965334+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:04:36.2729912+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:06:18.2937215+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:57:54.9697094+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:04:36.2730472+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:58:54.8178921+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:06:18.2937825+00:00"
 }

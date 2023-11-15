@@ -13,11 +13,11 @@
 | Krugmazing | 67.00% | ~466 |
 | Cutie Poro | 67.00% | ~466 |
 | The Fire Below the Mountain | 64.00% | ~445 |
-| Moneyball | 60.00% | ~417 |
+| Moneyball | 61.00% | ~424 |
 | No Bites | 57.00% | ~396 |
 | Iceborn | 57.00% | ~396 |
+| Tear of Freedom | 54.00% | ~375 |
 | Boom Things | 54.00% | ~375 |
-| Tear of Freedom | 53.00% | ~368 |
 | My Darkest Day | 50.00% | ~348 |
 | Rhythm Of Willump | 47.00% | ~327 |
 | The Relentless Storm | 47.00% | ~327 |
@@ -27,10 +27,10 @@
 | True Legends | 41.00% | ~285 |
 | So Close | 40.00% | ~278 |
 | You Get Used To It | 40.00% | ~278 |
+| Boosted! | 38.00% | ~264 |
 | Family | 37.00% | ~257 |
+| Biggest Snowball Ever | 37.00% | ~257 |
 | Bullseye | 37.00% | ~257 |
-| Boosted! | 37.00% | ~257 |
-| Biggest Snowball Ever | 36.00% | ~250 |
 | Freeze The Ice Witch | 36.00% | ~250 |
 | On The Rocks | 36.00% | ~250 |
 | Deadliest and Biggest Snowball Ever! | 36.00% | ~250 |

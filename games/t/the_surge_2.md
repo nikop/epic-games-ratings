@@ -1,31 +1,31 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 882)  
+Rating: 4.24 (Ranked 883)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,762 |
 | Don't I Know You...? | 76.00% | ~1,674 |
-| Jailbreak | 66.00% | ~1,453 |
+| Jailbreak | 66.00% | ~1,454 |
 | Suited and Booted | 39.00% | ~859 |
 | HEADSHOT! | 38.00% | ~837 |
 | Sleeping With The Fishes | 36.00% | ~793 |
 | Overheated | 30.00% | ~661 |
 | High Performance | 30.00% | ~661 |
 | Powered Up | 28.00% | ~617 |
-| Studied The Blade | 25.00% | ~550 |
-| Home Invasion | 23.00% | ~506 |
-| Luminary | 22.00% | ~484 |
-| It's a Trap | 22.00% | ~484 |
-| True Survivor | 21.00% | ~462 |
-| Offensive Defense | 20.00% | ~440 |
-| Shocking | 20.00% | ~440 |
-| Court Martial | 19.00% | ~418 |
-| Clean Cut | 19.00% | ~418 |
-| Unforeseeable Consequences | 19.00% | ~418 |
-| Dead Again | 18.00% | ~396 |
-| Full Arsenal | 17.00% | ~374 |
+| Studied The Blade | 25.00% | ~551 |
+| Home Invasion | 23.00% | ~507 |
+| Luminary | 22.00% | ~485 |
+| It's a Trap | 22.00% | ~485 |
+| True Survivor | 21.00% | ~463 |
+| Offensive Defense | 20.00% | ~441 |
+| Shocking | 20.00% | ~441 |
+| Court Martial | 19.00% | ~419 |
+| Clean Cut | 19.00% | ~419 |
+| Unforeseeable Consequences | 19.00% | ~419 |
+| Dead Again | 18.00% | ~397 |
+| Full Arsenal | 17.00% | ~375 |
 | Can't Trust Banks | 15.00% | ~330 |
 | Mommy Dearest | 14.00% | ~308 |
 | Bad Dog | 13.00% | ~286 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 882)
 | Three Birds With One Stone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,202 (Ranked 219)  
+Progressed: 2,203 (Ranked 219)  
 Completed: 13 (0.59%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 13 (0.59%) (Ranked 182)
 | 2023-11-12 | 2,196 | 13 |
 | 2023-11-13 | 2,198 | 13 |
 | 2023-11-14 | 2,202 | 13 |
+| 2023-11-15 | 2,203 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

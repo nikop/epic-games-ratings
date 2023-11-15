@@ -5,23 +5,23 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~7,919 |
-| For Saw Gerrera | 98.00% | ~7,839 |
-| Grab Some Seat | 91.00% | ~7,279 |
-| Can You Pet the Bogling? | 87.00% | ~6,959 |
-| The Past Made Present | 82.00% | ~6,559 |
-| Survivors, We Adapt | 78.00% | ~6,239 |
-| Among the Masters | 77.00% | ~6,159 |
-| They Never Saw It Coming | 76.00% | ~6,079 |
-| Who Gives a Puck | 73.00% | ~5,839 |
-| Mirror Match | 64.00% | ~5,119 |
-| For the Path | 64.00% | ~5,119 |
-| Now, This Isn't Podracing | 63.00% | ~5,039 |
-| Skywalker | 61.00% | ~4,879 |
-| Out of Bedlam | 60.00% | ~4,799 |
-| Cleaning Up | 53.00% | ~4,239 |
-| Tanalorr Bound | 52.00% | ~4,159 |
-| Kitted Out | 51.00% | ~4,079 |
+| Rooftop Duel | 99.00% | ~7,921 |
+| For Saw Gerrera | 98.00% | ~7,841 |
+| Grab Some Seat | 91.00% | ~7,281 |
+| Can You Pet the Bogling? | 87.00% | ~6,961 |
+| The Past Made Present | 82.00% | ~6,561 |
+| Survivors, We Adapt | 78.00% | ~6,241 |
+| Among the Masters | 77.00% | ~6,161 |
+| They Never Saw It Coming | 76.00% | ~6,081 |
+| Who Gives a Puck | 73.00% | ~5,841 |
+| For the Path | 65.00% | ~5,201 |
+| Mirror Match | 64.00% | ~5,121 |
+| Now, This Isn't Podracing | 63.00% | ~5,041 |
+| Skywalker | 61.00% | ~4,881 |
+| Out of Bedlam | 60.00% | ~4,801 |
+| Cleaning Up | 53.00% | ~4,241 |
+| Tanalorr Bound | 52.00% | ~4,161 |
+| Kitted Out | 51.00% | ~4,081 |
 | Tragedy | 49.00% | ~3,920 |
 | Hey, Luke At Us | 49.00% | ~3,920 |
 | At the Precipice | 48.00% | ~3,840 |
@@ -59,8 +59,8 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~240 |
 | Pinpoint | 2.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,999 (Ranked 168)  
-Completed: 44 (0.55%) (Ranked 190)  
+Progressed: 8,001 (Ranked 168)  
+Completed: 45 (0.56%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,14 +119,14 @@ Completed: 44 (0.55%) (Ranked 190)
 | 2023-11-12 | 7,858 | 42 |
 | 2023-11-13 | 7,935 | 42 |
 | 2023-11-14 | 7,979 | 44 |
-| 2023-11-15 | 7,999 | 44 |
+| 2023-11-15 | 8,001 | 45 |
 ## Awards
-Max (Great Boss Battles): 3,211  (Ranked 95)  
-Sum: 4,906 (Ranked 140)  
-Diff (max vs sum): -45  
+Max (Great Boss Battles): 3,225  (Ranked 95)  
+Sum: 4,920 (Ranked 139)  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,211 |
+| This game has Great Boss Battles | 3,225 |
 | This game has Amazing Storytelling | 226 |
 | This game has Quickly Understood Controls | 206 |
 | This game has Amazing Characters | 202 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -45
 | 2023-11-12 | 4.50 | 3,200 | 4,869 |
 | 2023-11-13 | 4.50 | 3,200 | 4,880 |
 | 2023-11-14 | 4.50 | 3,211 | 4,902 |
-| 2023-11-15 | 4.50 | 3,211 | 4,906 |
+| 2023-11-15 | 4.50 | 3,225 | 4,920 |

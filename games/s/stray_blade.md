@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~101 |
-| Tinkerer | 69.00% | ~81 |
-| Welcome to the Club | 41.00% | ~48 |
+| Self-Defence | 85.00% | ~101 |
+| Tinkerer | 69.00% | ~82 |
+| Welcome to the Club | 40.00% | ~48 |
 | Apprentice | 38.00% | ~45 |
-| A new World ahead | 30.00% | ~35 |
+| A new World ahead | 29.00% | ~35 |
 | Can't touch this | 27.00% | ~32 |
 | Don't Cry Wolf | 25.00% | ~30 |
-| Expert | 19.00% | ~22 |
 | Freezing Cold | 18.00% | ~21 |
+| Expert | 18.00% | ~21 |
 | Searing Heat | 14.00% | ~17 |
-| Locked and Loaded | 14.00% | ~17 |
-| Nothing but the Truth | 14.00% | ~17 |
-| The Power of the Mountains | 14.00% | ~17 |
+| Locked and Loaded | 13.00% | ~15 |
+| Nothing but the Truth | 13.00% | ~15 |
 | The Golden Flash | 13.00% | ~15 |
+| The Power of the Mountains | 13.00% | ~15 |
 | Changing the World | 11.00% | ~13 |
 | Defeat Tezuth | 10.00% | ~12 |
 | The A-Team | 10.00% | ~12 |
 | Witch | 9.00% | ~11 |
-| Craftsmen | 8.00% | ~9 |
-| Defeat Uskol | 8.00% | ~9 |
-| Through Dangers Untold | 8.00% | ~9 |
+| Craftsmen | 8.00% | ~10 |
+| Defeat Uskol | 8.00% | ~10 |
+| Through Dangers Untold | 8.00% | ~10 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
 | A Deceiving Gift | 6.00% | ~7 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 408)  
+Progressed: 119 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-05 | 116 | 0 |
 | 2023-11-08 | 117 | 0 |
 | 2023-11-11 | 118 | 0 |
+| 2023-11-15 | 119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

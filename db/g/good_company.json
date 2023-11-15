@@ -4803,9 +4803,9 @@
       "ID": "ach_many_challenges",
       "SetID": "8cb3id7",
       "Name": "Contender",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_many_trophies",
@@ -4923,8 +4923,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:04:43.6659441+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:06:28.7148083+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:30.2343308+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:57:23.007381+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:04:43.6660299+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:58:06.3879335+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:06:28.7149462+00:00"
 }

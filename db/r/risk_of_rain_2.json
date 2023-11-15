@@ -3,7 +3,7 @@
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 59,
-  "Ranking_Popularity": 267,
+  "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
@@ -2703,18 +2703,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 2513,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-11-15T14:59:47.3972624+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2516,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2513,
-  "NumberOfAwardsMax": 260,
+  "NumberOfAwards": 2516,
+  "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 260
+      "Count": 262
     },
     {
       "Text": "This game is Relaxing",
@@ -2774,7 +2780,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 243
+      "Count": 244
     },
     {
       "Text": "This game has a Creative Community",
@@ -2794,8 +2800,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2023-11-15T03:58:31.7646074+00:00",
+  "LastChanged": "2023-11-15T14:59:47.3972622+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:05.3530236+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:58:29.8785481+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:05:59.6683578+00:00"
+  "LastUpdate_Ratings": "2023-11-15T14:59:47.3972626+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:08:14.8910287+00:00"
 }

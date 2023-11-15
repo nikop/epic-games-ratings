@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 695,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -1314,9 +1314,9 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 375
     },
     {
       "ID": "EV_ACH06",
@@ -1362,9 +1362,9 @@
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 257
     },
     {
       "ID": "EV_ACH12",
@@ -1482,9 +1482,9 @@
       "ID": "EV_ACH26",
       "SetID": "6jeac23",
       "Name": "Moneyball",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 424
     },
     {
       "ID": "EV_ACH27",
@@ -1586,9 +1586,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 264
     },
     {
       "ID": "EV_ACH40",
@@ -1641,8 +1641,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:09:08.9939476+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:10:31.4563365+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:02:43.3236696+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:09:08.9939762+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:03:37.634463+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:10:31.4563672+00:00"
 }

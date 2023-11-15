@@ -469,9 +469,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2331,
+  "EOS_Progressed": 2332,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7099,6 +7099,11 @@
       "Time": "2023-11-15T12:08:35.3333551+00:00",
       "NumProgressed": 2331,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T15:09:32.4619779+00:00",
+      "NumProgressed": 2332,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7190,7 +7195,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "dailyquestcompletionist",
@@ -7206,7 +7211,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "dragonclicker",
@@ -7230,7 +7235,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ebonyjungleliberator",
@@ -7246,7 +7251,7 @@
       "Name": "Enchanting skill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "enchantingskillx5",
@@ -7374,7 +7379,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "inspection",
@@ -7444,9 +7449,9 @@
       "ID": "minerclicker",
       "SetID": "3nl4bcg",
       "Name": "Miner Clicker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 396
     },
     {
       "ID": "missionsdedication",
@@ -7518,7 +7523,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "sailor",
@@ -7606,7 +7611,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "theunstoppable",
@@ -7670,7 +7675,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "warmachinesarmy",
@@ -7686,7 +7691,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "whatliesbehindthebush",
@@ -7702,14 +7707,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2331,
+      "Progressed": 2332,
       "Completed": 2
     }
   ],
@@ -7717,8 +7722,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-12T10:58:26.0075516+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:08:26.8347372+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:09:32.4619771+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:59:46.5176625+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:08:26.8348178+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:01:40.9457384+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:09:32.4620732+00:00"
 }

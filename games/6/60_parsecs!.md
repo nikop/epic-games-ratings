@@ -21,7 +21,7 @@
 | Mutiny in making | 24.00% | ~185 |
 | Eco-Shuttle | 20.00% | ~154 |
 | Et tu, Astrocitizen? | 20.00% | ~154 |
-| Space Explorer | 16.00% | ~124 |
+| Space Explorer | 17.00% | ~131 |
 | Hands Full | 13.00% | ~100 |
 | Gold Medalist | 12.00% | ~93 |
 | Non-Fiction | 12.00% | ~93 |

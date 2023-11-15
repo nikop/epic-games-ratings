@@ -3,7 +3,7 @@
   "Name": "The Crew 2 Standard Edition",
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 272,
-  "Ranking_Popularity": 181,
+  "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 352,
@@ -7318,10 +7318,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4881,
       "NumberOfAwardsMax": 720
+    },
+    {
+      "Time": "2023-11-15T15:00:34.877961+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4883,
+      "NumberOfAwardsMax": 720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4881,
+  "NumberOfAwards": 4883,
   "NumberOfAwardsMax": 720,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7347,7 +7353,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 628
+      "Count": 630
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7397,8 +7403,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-11-15T13:59:02.3454924+00:00",
+  "LastChanged": "2023-11-15T15:00:34.8779608+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.2846015+00:00",
-  "LastUpdate_Ratings": "2023-11-15T13:59:02.3454931+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:05:57.3376967+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:00:34.8779617+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:08:11.4720468+00:00"
 }

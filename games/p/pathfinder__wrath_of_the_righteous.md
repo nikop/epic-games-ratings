@@ -7,7 +7,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 26.00% | ~3,144 |
-| A Spark | 19.00% | ~2,297 |
+| A Spark | 19.00% | ~2,298 |
 | Burning City | 18.00% | ~2,177 |
 | Mythic Choices | 15.00% | ~1,814 |
 | Defender's Heart | 15.00% | ~1,814 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~242 |
 | Your First Big Enemy | 2.00% | ~242 |
 | Truly Important Deed | 2.00% | ~242 |
-| Stay Underground | 2.00% | ~217 |
-| Sarkoris Will Be Green | 2.00% | ~217 |
+| Stay Underground | 2.00% | ~218 |
+| Sarkoris Will Be Green | 2.00% | ~218 |
 | The Final Threshold | 1.00% | ~121 |
 | Path of the Legend | 1.00% | ~121 |
 | Strategic Victory | 1.00% | ~121 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,092 (Ranked 153)  
+Progressed: 12,093 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-12 | 12,075 | 0 |
 | 2023-11-13 | 12,084 | 0 |
 | 2023-11-14 | 12,089 | 0 |
-| 2023-11-15 | 12,092 | 0 |
+| 2023-11-15 | 12,093 | 0 |
 ## Awards
 Max (Character Customization): 1,739  (Ranked 121)  
 Sum: 7,052 (Ranked 120)  

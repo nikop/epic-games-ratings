@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~885 |
-| Whatever It Takes | 2.00% | ~885 |
-| Pork Chopped | 2.00% | ~885 |
-| Welcome To Hell-A | 1.00% | ~7,187 |
+| One of Us | 2.00% | ~886 |
+| Whatever It Takes | 2.00% | ~886 |
+| Pork Chopped | 2.00% | ~886 |
+| Welcome To Hell-A | 1.00% | ~7,188 |
 | Hotel California | 0.90% | ~6,469 |
 | Git Gutte! | 0.80% | ~5,750 |
 | Break A Leg | 0.80% | ~5,750 |
@@ -23,14 +23,14 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.70% | ~5,031 |
 | Stacking the Deck | 0.70% | ~5,031 |
 | This is My Weapon | 0.70% | ~5,031 |
-| Perks of the Job | 0.60% | ~4,312 |
-| Slayer Squad | 0.60% | ~4,312 |
-| Can't Handle the Truth | 0.60% | ~4,312 |
-| Like Riding a Bike | 0.60% | ~4,312 |
-| Zombologist | 0.60% | ~4,312 |
-| Ooh, Shiny! | 0.60% | ~4,312 |
-| A Patton Emerges | 0.60% | ~4,312 |
-| Our True Nature | 0.60% | ~4,312 |
+| Perks of the Job | 0.60% | ~4,313 |
+| Slayer Squad | 0.60% | ~4,313 |
+| Can't Handle the Truth | 0.60% | ~4,313 |
+| Like Riding a Bike | 0.60% | ~4,313 |
+| Zombologist | 0.60% | ~4,313 |
+| Ooh, Shiny! | 0.60% | ~4,313 |
+| A Patton Emerges | 0.60% | ~4,313 |
+| Our True Nature | 0.60% | ~4,313 |
 | Making Your Mark | 0.50% | ~3,594 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,594 |
 | I Am the Resurrection | 0.50% | ~3,594 |
@@ -47,17 +47,17 @@ Rating: 4.54 (Ranked 524)
 | Variety is the Spice of Death | 0.30% | ~2,156 |
 | Rising Star | 0.30% | ~2,156 |
 | Top That, Tisha! | 0.30% | ~133 |
-| LA Influential | 0.20% | ~1,437 |
-| Sole Survivor | 0.20% | ~1,437 |
-| Gore Horse | 0.20% | ~1,437 |
-| Sharpest Tool in the Box | 0.20% | ~1,437 |
+| LA Influential | 0.20% | ~1,438 |
+| Sole Survivor | 0.20% | ~1,438 |
+| Gore Horse | 0.20% | ~1,438 |
+| Sharpest Tool in the Box | 0.20% | ~1,438 |
 | Donk! | 0.10% | ~719 |
 | Survival Skills | 0.10% | ~719 |
 | Bucket List | 0.10% | ~719 |
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,732 (Ranked 20)  
+Progressed: 718,755 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
-| 2023-11-15 | 718,732 | 2,391 |
+| 2023-11-15 | 718,755 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
 Sum: 11,329 (Ranked 84)  

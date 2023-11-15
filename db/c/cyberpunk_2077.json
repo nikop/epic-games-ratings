@@ -15206,7 +15206,7 @@
       "Count": 12991
     }
   ],
-  "EOS_Progressed": 896770,
+  "EOS_Progressed": 896777,
   "EOS_Completed": 2778,
   "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 24,
@@ -38901,6 +38901,11 @@
       "Time": "2023-11-15T14:05:45.8864146+00:00",
       "NumProgressed": 896770,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-15T15:07:55.4223065+00:00",
+      "NumProgressed": 896777,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38985,7 +38990,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17935
+      "UsersEstimate": 17936
     },
     {
       "ID": "Gunslinger",
@@ -39448,21 +39453,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896770,
+      "Progressed": 896777,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25393,
+      "Progressed": 25400,
       "Completed": 10224
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-15T13:08:03.9792988+00:00",
-  "LastChanged_Achievements": "2023-11-15T14:05:45.8864142+00:00",
+  "LastChanged_Achievements": "2023-11-15T15:07:55.422306+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-15T14:00:15.6087349+00:00",
-  "LastUpdate_Achievements": "2023-11-15T14:05:45.886532+00:00"
+  "LastUpdate_Ratings": "2023-11-15T15:02:18.3887762+00:00",
+  "LastUpdate_Achievements": "2023-11-15T15:07:55.4224346+00:00"
 }
