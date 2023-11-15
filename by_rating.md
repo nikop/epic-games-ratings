@@ -24,7 +24,7 @@
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,611 | 33 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 546 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 294 | 253 |
-| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,489 | 133 |
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,492 | 133 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 737 | 177 |
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 546 |
 | 24 | [Rayman Origins](games/r/rayman_origins.md) | 4.87 | 32 | 484 |
@@ -82,19 +82,19 @@
 | 78 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 0 | 546 |
 | 78 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 546 |
 | 78 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 210 | 284 |
-| 78 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 304 | 249 |
 | 78 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.81 | 51 | 426 |
 | 78 | [The Messenger](games/t/the_messenger.md) | 4.81 | 342 | 241 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 546 |
-| 87 | [Aground](games/a/aground.md) | 4.80 | 0 | 546 |
-| 87 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,465 | 60 |
-| 87 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 546 |
-| 87 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.80 | 0 | 546 |
-| 87 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,509 | 103 |
-| 87 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 124 | 336 |
-| 87 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 102 | 356 |
-| 87 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 512 |
-| 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 546 |
+| 86 | [Aground](games/a/aground.md) | 4.80 | 0 | 546 |
+| 86 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,465 | 60 |
+| 86 | [Huntdown](games/h/huntdown.md) | 4.80 | 0 | 546 |
+| 86 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.80 | 0 | 546 |
+| 86 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,509 | 103 |
+| 86 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 124 | 336 |
+| 86 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 304 | 250 |
+| 86 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 102 | 356 |
+| 86 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 512 |
+| 86 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 546 |
 | 96 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.79 | 0 | 546 |
 | 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,567 | 126 |
 | 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 630 | 188 |
@@ -215,7 +215,7 @@
 | 213 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,600 | 79 |
 | 213 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 114 | 343 |
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 116 | 342 |
-| 213 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 450 | 217 |
+| 213 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 451 | 217 |
 | 213 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,933 | 48 |
 | 213 | [For The King](games/f/for_the_king.md) | 4.70 | 407 | 225 |
 | 213 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,340 | 136 |
@@ -359,7 +359,7 @@
 | 349 | [Prey](games/p/prey.md) | 4.63 | 5,771 | 66 |
 | 349 | [Revita](games/r/revita.md) | 4.63 | 0 | 546 |
 | 349 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 186 | 295 |
-| 349 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 248 |
+| 349 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 249 |
 | 349 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,797 | 118 |
 | 349 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,686 | 123 |
 | 349 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 26 | 512 |
@@ -430,7 +430,7 @@
 | 411 | [Warframe](games/w/warframe.md) | 4.60 | 18,383 | 23 |
 | 411 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 558 | 201 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 546 |
-| 430 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 498 | 208 |
+| 430 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 502 | 208 |
 | 430 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 401 |
 | 430 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 63 | 409 |
 | 430 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 714 | 182 |
@@ -447,7 +447,7 @@
 | 444 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 442 |
 | 444 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 546 |
 | 444 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 63,491 | 11 |
-| 444 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 181 | 300 |
+| 444 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 182 | 298 |
 | 444 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 10,050 | 40 |
 | 444 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 265 | 264 |
 | 444 | [GRIME](games/g/grime.md) | 4.58 | 51 | 426 |
@@ -607,7 +607,7 @@
 | 588 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,211 | 95 |
 | 588 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 177 | 301 |
 | 607 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 408 |
-| 607 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,016 | 111 |
+| 607 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,017 | 111 |
 | 607 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 43 | 448 |
 | 607 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,144 | 14 |
 | 607 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 546 |
@@ -627,7 +627,7 @@
 | 622 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 459 |
 | 622 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.48 | 25 | 517 |
 | 622 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 546 |
-| 622 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 615,356 | 2 |
+| 622 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 616,185 | 2 |
 | 622 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 546 |
 | 622 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 546 |
 | 622 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 354 |
@@ -1013,7 +1013,7 @@
 | 1,010 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 546 |
 | 1,010 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.93 | 0 | 546 |
 | 1,013 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.92 | 0 | 546 |
-| 1,014 | [Blazing Sails](games/b/blazing_sails.md) | 3.91 | 304 | 249 |
+| 1,014 | [Blazing Sails](games/b/blazing_sails.md) | 3.91 | 313 | 248 |
 | 1,014 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 354 |
 | 1,016 | [Warface](games/w/warface.md) | 3.90 | 442 | 218 |
 | 1,017 | [Chimeraland](games/c/chimeraland.md) | 3.88 | 30 | 494 |
