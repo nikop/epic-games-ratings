@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.42,
+  "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2375,6 +2375,11 @@
       "Time": "2023-11-15T04:03:05.6777063+00:00",
       "NumProgressed": 554,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-15T05:03:44.5691187+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2416,9 +2421,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "META_HALF_LINK",
@@ -2458,7 +2463,7 @@
       "Name": "A great audience",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2474,7 +2479,7 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2490,23 +2495,23 @@
       "Name": "Rascal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 117
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2520,9 +2525,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 94
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2538,7 +2543,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "PROGRESS_N1",
@@ -2546,7 +2551,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PROGRESS_N2",
@@ -2585,14 +2590,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:03:05.6777059+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:03:44.569118+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:57:47.6685403+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:03:05.6777329+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:58:03.7653558+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:03:44.5691601+00:00"
 }

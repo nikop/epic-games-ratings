@@ -5,32 +5,32 @@ Rating: 4.26 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~139,036 |
-| Dead-ball specialist | 62.00% | ~114,937 |
-| Multitasking | 52.00% | ~96,399 |
-| European Legend | 52.00% | ~96,399 |
-| Balanced Path | 49.00% | ~90,837 |
-| High Grades | 49.00% | ~90,837 |
-| Let the Games Begin | 48.00% | ~88,983 |
-| A Moment of Your Time | 47.00% | ~87,130 |
-| Aiming High | 46.00% | ~85,276 |
-| Tactical Tinkerer | 41.00% | ~76,007 |
-| Intuition and Execution | 40.00% | ~74,153 |
-| Squad Building Connoisseur | 39.00% | ~72,299 |
-| The Winning Formula | 37.00% | ~68,591 |
-| Parking the Bus | 28.00% | ~51,907 |
-| Safe House | 27.00% | ~50,053 |
-| Best of Five | 25.00% | ~46,346 |
-| Football is Everything | 24.00% | ~44,492 |
-| The Chosen One | 22.00% | ~40,784 |
-| Fresh Fit | 21.00% | ~38,930 |
-| Bring it on | 17.00% | ~31,515 |
-| Life-Like | 14.00% | ~25,953 |
+| Power Shot | 75.00% | ~139,040 |
+| Dead-ball specialist | 62.00% | ~114,940 |
+| Multitasking | 52.00% | ~96,401 |
+| European Legend | 52.00% | ~96,401 |
+| Balanced Path | 49.00% | ~90,840 |
+| High Grades | 49.00% | ~90,840 |
+| Let the Games Begin | 48.00% | ~88,986 |
+| A Moment of Your Time | 47.00% | ~87,132 |
+| Aiming High | 46.00% | ~85,278 |
+| Tactical Tinkerer | 41.00% | ~76,009 |
+| Intuition and Execution | 40.00% | ~74,155 |
+| Squad Building Connoisseur | 39.00% | ~72,301 |
+| The Winning Formula | 37.00% | ~68,593 |
+| Parking the Bus | 28.00% | ~51,908 |
+| Safe House | 27.00% | ~50,054 |
+| Best of Five | 25.00% | ~46,347 |
+| Football is Everything | 24.00% | ~44,493 |
+| The Chosen One | 22.00% | ~40,785 |
+| Fresh Fit | 21.00% | ~38,931 |
+| Bring it on | 17.00% | ~31,516 |
+| Life-Like | 14.00% | ~25,954 |
 | Make the Grade | 13.00% | ~24,100 |
-| Specialist | 11.00% | ~20,392 |
-| I Played Them All | 10.00% | ~18,538 |
-| Teamwork works | 9.00% | ~16,684 |
-| First of Many | 9.00% | ~16,684 |
+| Specialist | 11.00% | ~20,393 |
+| I Played Them All | 10.00% | ~18,539 |
+| Teamwork works | 9.00% | ~16,685 |
+| First of Many | 9.00% | ~16,685 |
 | Momentous Achievement | 6.00% | ~11,123 |
 | Shop till you drop | 6.00% | ~11,123 |
 | In Cahoots | 5.00% | ~9,269 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 868)
 | Training Addict | 0.10% | ~185 |
 | Dazzling Personality | 0.10% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,382 (Ranked 74)  
+Progressed: 185,387 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 184,275 | 0 |
 | 2023-11-13 | 184,802 | 0 |
 | 2023-11-14 | 185,297 | 0 |
-| 2023-11-15 | 185,382 | 0 |
+| 2023-11-15 | 185,387 | 0 |
 ## Awards
 Max (Diverse Characters): 20,975  (Ranked 19)  
 Sum: 105,320 (Ranked 14)  

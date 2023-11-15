@@ -8,6 +8,7 @@ Rating: 4.64 (Ranked 332)
 | Satisfied Gus-tomer | 3.00% | ~734 |
 | Sweezy Like Sunday Morning | 3.00% | ~734 |
 | First Bounty Down | 3.00% | ~734 |
+| G3 Graduation | 3.00% | ~734 |
 | Cold-Blooded Driller | 3.00% | ~734 |
 | Creature Feature | 2.00% | ~490 |
 | Are You Packin'? | 2.00% | ~490 |
@@ -15,7 +16,6 @@ Rating: 4.64 (Ranked 332)
 | Lezduit! | 2.00% | ~490 |
 | RIP Davey Glutes | 2.00% | ~490 |
 | We're All Very Impressed, Trust Me | 2.00% | ~490 |
-| G3 Graduation | 2.00% | ~490 |
 | Hardest Battle In The Game | 2.00% | ~490 |
 | Self-Actualization | 2.00% | ~490 |
 | Who's The Boss? | 2.00% | ~490 |

@@ -5,17 +5,17 @@ Rating: 3.82 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~408,650 |
-| Handy | 41.00% | ~220,456 |
-| Cold Caller | 39.00% | ~209,702 |
-| A Bit On The Side | 27.00% | ~145,178 |
-| Backdoor | 25.00% | ~134,424 |
-| Rank Amateur | 21.00% | ~112,916 |
-| Three Way | 19.00% | ~102,162 |
-| Deadly Assassin | 15.00% | ~80,655 |
-| Gutshot | 14.00% | ~75,278 |
-| Risk It For A Biscuit | 14.00% | ~75,278 |
-| Showoff | 13.00% | ~69,901 |
+| Pro Creation | 76.00% | ~408,655 |
+| Handy | 41.00% | ~220,459 |
+| Cold Caller | 39.00% | ~209,705 |
+| A Bit On The Side | 27.00% | ~145,180 |
+| Backdoor | 25.00% | ~134,426 |
+| Rank Amateur | 21.00% | ~112,918 |
+| Three Way | 19.00% | ~102,164 |
+| Deadly Assassin | 15.00% | ~80,656 |
+| Gutshot | 14.00% | ~75,279 |
+| Risk It For A Biscuit | 14.00% | ~75,279 |
+| Showoff | 13.00% | ~69,902 |
 | W.H.I.P. | 12.00% | ~64,524 |
 | Bet Bet Bet | 10.00% | ~53,770 |
 | Blindman's Bluff | 9.00% | ~48,393 |
@@ -37,7 +37,7 @@ Rating: 3.82 (Ranked 1,023)
 | Holding Your Own | 1.00% | ~5,377 |
 | Regular Punter | 0.70% | ~3,764 |
 | How I Roll | 0.60% | ~3,226 |
-| Club Legend | 0.50% | ~2,688 |
+| Club Legend | 0.50% | ~2,689 |
 | Bring It On | 0.20% | ~1,075 |
 | Dress To Impress | 0.20% | ~1,075 |
 | Bounty Hunter | 0.10% | ~538 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,023)
 | Rounder | 0.10% | ~538 |
 | Top Dog | 0.10% | ~538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,697 (Ranked 34)  
+Progressed: 537,704 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,11 +259,11 @@ Completed: 2 (0.00%) (Ranked 351)
 | 2023-11-12 | 537,337 | 2 |
 | 2023-11-13 | 537,511 | 2 |
 | 2023-11-14 | 537,674 | 2 |
-| 2023-11-15 | 537,697 | 2 |
+| 2023-11-15 | 537,704 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 411)  
-Sum: 174 (Ranked 411)  
-Diff (max vs sum): 0  
+Sum: 174 (Ranked 410)  
+Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 59 |

@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2023-11-15T02:29:39.0006538+00:00",
       "NumProgressed": 123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T05:07:30.0996413+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -340,9 +345,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "6",
@@ -388,17 +393,17 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "Remake_005",
@@ -420,7 +425,7 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -452,9 +457,9 @@
       "ID": "Remake_11",
       "SetID": "5pi96jj",
       "Name": "Imma Powder Out",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Remake_12",
@@ -468,7 +473,7 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -549,14 +554,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:06:10.8989975+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:07:30.0996404+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:02:29.5196698+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:06:10.8990129+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:02:57.5633867+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:07:30.0996649+00:00"
 }

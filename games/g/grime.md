@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,300 (Ranked 76)  
+Progressed: 158,304 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 157,992 | 1 |
 | 2023-11-13 | 158,135 | 1 |
 | 2023-11-14 | 158,274 | 1 |
-| 2023-11-15 | 158,300 | 1 |
+| 2023-11-15 | 158,304 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
-Sum: 364 (Ranked 349)  
+Sum: 365 (Ranked 349)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -250,8 +250,8 @@ Diff (max vs sum): 77
 | This game has Quickly Understood Controls | 51 |
 | This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 47 |
+| This game has Challenging Combat | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game has Challenging Combat | 45 |
 | This game has Amazing Characters | 38 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
@@ -398,3 +398,4 @@ Diff (max vs sum): 77
 | 2023-11-12 | 4.59 | - | 51 | 361 |
 | 2023-11-13 | 4.58 | - | 51 | 363 |
 | 2023-11-14 | 4.59 | - | 51 | 364 |
+| 2023-11-15 | 4.58 | - | 51 | 365 |

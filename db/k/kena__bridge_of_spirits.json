@@ -2,12 +2,12 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1445,9 +1445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428987,
+  "EOS_Progressed": 428988,
   "EOS_Completed": 545,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15060,6 +15060,11 @@
       "Time": "2023-11-15T04:03:04.3707613+00:00",
       "NumProgressed": 428987,
       "NumCompleted": 545
+    },
+    {
+      "Time": "2023-11-15T05:03:42.9308443+00:00",
+      "NumProgressed": 428988,
+      "NumCompleted": 545
     }
   ],
   "TotalAchievements": 41,
@@ -15087,7 +15092,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257392
+      "UsersEstimate": 257393
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15095,7 +15100,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124406
+      "UsersEstimate": 124407
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -15151,7 +15156,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257392
+      "UsersEstimate": 257393
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15159,7 +15164,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124406
+      "UsersEstimate": 124407
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -15231,7 +15236,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17159
+      "UsersEstimate": 17160
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -15239,7 +15244,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407538
+      "UsersEstimate": 407539
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15247,7 +15252,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17159
+      "UsersEstimate": 17160
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -15263,7 +15268,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158725
+      "UsersEstimate": 158726
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -15271,7 +15276,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300291
+      "UsersEstimate": 300292
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -15335,7 +15340,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115826
+      "UsersEstimate": 115827
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -15343,7 +15348,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120116
+      "UsersEstimate": 120117
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -15359,7 +15364,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188754
+      "UsersEstimate": 188755
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -15375,7 +15380,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115826
+      "UsersEstimate": 115827
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -15391,22 +15396,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17159
+      "UsersEstimate": 17160
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428987,
+      "Progressed": 428988,
       "Completed": 545
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:03:04.3707608+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:03:42.9308437+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:23.5883235+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:58:09.569316+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:03:04.3708637+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:58:31.8530356+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:03:42.9309873+00:00"
 }

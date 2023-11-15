@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1323,9 +1323,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237199,
+  "EOS_Progressed": 237200,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1323,
+  "EOS_NewPlayers": 1321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18593,6 +18593,11 @@
       "Time": "2023-11-15T04:08:03.2253026+00:00",
       "NumProgressed": 237199,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T05:09:01.4355667+00:00",
+      "NumProgressed": 237200,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19186,9 +19191,9 @@
       "ID": "PriestessEpic",
       "SetID": "50chcgj",
       "Name": "In Navalu\u0027s footsteps",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1898
+      "UsersEstimate": 2135
     },
     {
       "ID": "QuestEmile",
@@ -19307,21 +19312,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237199,
+      "Progressed": 237200,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237199,
+      "Progressed": 237200,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-14T17:59:08.4109383+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:08:03.2253023+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:09:01.4355662+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:58:43.9860007+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:08:03.2254419+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:59:16.3829895+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:09:01.4563107+00:00"
 }

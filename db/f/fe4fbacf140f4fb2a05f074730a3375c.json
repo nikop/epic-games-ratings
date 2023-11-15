@@ -4,8 +4,8 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -254,9 +254,9 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LikeDislike",
@@ -270,17 +270,17 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NewLife",
       "SetID": "bl5ebnd",
       "Name": "New Life for a Blogger",
-      "Percentage": 65,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PersonalHell",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:03:31.4384116+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:04:16.1839719+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.1592689+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:02:40.7642092+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:03:31.4384228+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:03:12.1396016+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:04:16.183987+00:00"
 }

@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16414,
+  "EOS_Progressed": 16415,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -14163,6 +14163,11 @@
       "Time": "2023-11-15T02:30:18.7469652+00:00",
       "NumProgressed": 16414,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-15T05:08:27.4984751+00:00",
+      "NumProgressed": 16415,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14238,7 +14243,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "tpote_achievement_18",
@@ -14246,7 +14251,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "tpote_achievement_19",
@@ -14350,7 +14355,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5253
     },
     {
       "ID": "tpote_achievement_30",
@@ -14358,7 +14363,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "tpote_achievement_31",
@@ -14462,7 +14467,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3939
+      "UsersEstimate": 3940
     },
     {
       "ID": "tpote_achievement_6",
@@ -14501,15 +14506,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16414,
+      "Progressed": 16415,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:06:44.8930853+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:08:27.4984746+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.2386539+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:59:03.2377293+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:06:44.8931713+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:59:40.8209828+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:08:27.4986071+00:00"
 }

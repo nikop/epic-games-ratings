@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 607,
-  "Ranking_Popularity": 468,
+  "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4872,
+  "EOS_Progressed": 4873,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9250,6 +9250,11 @@
       "Time": "2023-11-15T03:03:10.4173854+00:00",
       "NumProgressed": 4872,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-15T05:04:06.0178305+00:00",
+      "NumProgressed": 4873,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9350,7 +9355,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9398,7 +9403,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9430,7 +9435,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9445,15 +9450,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4872,
+      "Progressed": 4873,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:03:22.826258+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:04:06.0178299+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:59:00.435341+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:03:22.8263121+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:59:37.3503201+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:04:06.0179147+00:00"
 }

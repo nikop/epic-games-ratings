@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,372 |
 | Lust and Debauchery | 1.00% | ~2,372 |
 | Material Girl | 1.00% | ~2,372 |
-| In Navalu's footsteps | 0.80% | ~1,898 |
+| In Navalu's footsteps | 0.90% | ~2,135 |
 | We come in peace | 0.70% | ~1,660 |
 | Lëgal Legend | 0.70% | ~1,660 |
 | Holistic Adventuring Party | 0.60% | ~1,423 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,199 (Ranked 62)  
+Progressed: 237,200 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
 | 2023-11-14 | 237,170 | 7 |
-| 2023-11-15 | 237,199 | 7 |
+| 2023-11-15 | 237,200 | 7 |
 ## Awards
 Max (Character Customization): 229  (Ranked 272)  
 Sum: 460 (Ranked 332)  

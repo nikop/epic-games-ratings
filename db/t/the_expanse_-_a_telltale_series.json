@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -11495,9 +11495,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 599
     },
     {
       "ID": "7",
@@ -11582,8 +11582,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:05:54.5327744+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:07:10.2017694+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:02:26.5252106+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:05:54.532842+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:02:54.1149997+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:07:10.2018767+00:00"
 }

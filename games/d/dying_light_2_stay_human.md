@@ -6,37 +6,37 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 37.00% | ~241,321 |
-| Into the Unknown | 34.00% | ~221,755 |
-| First Shot | 34.00% | ~221,755 |
-| Herzlich Wilkommen! | 32.00% | ~208,710 |
-| Good Night & Good Luck | 32.00% | ~208,710 |
-| Sancho Panza | 31.00% | ~202,188 |
-| Oh, So This Is How It Works! | 28.00% | ~182,622 |
-| Flag Burning | 26.00% | ~169,577 |
-| Under Pressure | 24.00% | ~156,533 |
-| It Wasn't That Hard, Was It? | 24.00% | ~156,533 |
-| Can't Touch This! | 24.00% | ~156,533 |
-| On the Trail of the Enemy | 23.00% | ~150,011 |
-| Light in the Darkness | 23.00% | ~150,011 |
-| Get Outta My House! | 23.00% | ~150,011 |
-| Night Hunter | 22.00% | ~143,488 |
-| Being All Social | 21.00% | ~136,966 |
-| After the Fall | 19.00% | ~123,922 |
-| We Will Be Heard! | 18.00% | ~117,400 |
-| Tunnel Entrance | 17.00% | ~110,877 |
-| Known Associate | 16.00% | ~104,355 |
-| Brush with Death | 16.00% | ~104,355 |
-| Debris and Ashes | 15.00% | ~97,833 |
-| Going Down | 15.00% | ~97,833 |
-| Family First | 15.00% | ~97,833 |
-| Your World, Your Rules | 14.00% | ~91,311 |
-| Death From Afar | 14.00% | ~91,311 |
-| Terminal Headache | 14.00% | ~91,311 |
-| Slowpoke! | 12.00% | ~78,266 |
-| Tickets, Please! | 7.00% | ~45,655 |
-| Parkour Master | 6.00% | ~39,133 |
-| Combat Master | 6.00% | ~39,133 |
+| You Never Forget Your First... | 37.00% | ~241,324 |
+| Into the Unknown | 34.00% | ~221,758 |
+| First Shot | 34.00% | ~221,758 |
+| Herzlich Wilkommen! | 32.00% | ~208,713 |
+| Good Night & Good Luck | 32.00% | ~208,713 |
+| Sancho Panza | 31.00% | ~202,191 |
+| Oh, So This Is How It Works! | 28.00% | ~182,624 |
+| Flag Burning | 26.00% | ~169,579 |
+| Under Pressure | 24.00% | ~156,535 |
+| It Wasn't That Hard, Was It? | 24.00% | ~156,535 |
+| Can't Touch This! | 24.00% | ~156,535 |
+| On the Trail of the Enemy | 23.00% | ~150,012 |
+| Light in the Darkness | 23.00% | ~150,012 |
+| Get Outta My House! | 23.00% | ~150,012 |
+| Night Hunter | 22.00% | ~143,490 |
+| Being All Social | 21.00% | ~136,968 |
+| After the Fall | 19.00% | ~123,923 |
+| We Will Be Heard! | 18.00% | ~117,401 |
+| Tunnel Entrance | 17.00% | ~110,879 |
+| Known Associate | 16.00% | ~104,356 |
+| Brush with Death | 16.00% | ~104,356 |
+| Debris and Ashes | 15.00% | ~97,834 |
+| Going Down | 15.00% | ~97,834 |
+| Family First | 15.00% | ~97,834 |
+| Your World, Your Rules | 14.00% | ~91,312 |
+| Death From Afar | 14.00% | ~91,312 |
+| Terminal Headache | 14.00% | ~91,312 |
+| Slowpoke! | 12.00% | ~78,267 |
+| Tickets, Please! | 7.00% | ~45,656 |
+| Parkour Master | 6.00% | ~39,134 |
+| Combat Master | 6.00% | ~39,134 |
 | Municipal Services | 5.00% | ~32,611 |
 | Ban Hammer | 5.00% | ~32,611 |
 | Modder | 5.00% | ~32,611 |
@@ -48,10 +48,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | That's Teamwork! | 3.00% | ~19,567 |
 | Ironheart | 3.00% | ~19,567 |
 | You're Going Down! | 3.00% | ~19,567 |
-| Find Anything Interesting? | 2.00% | ~13,044 |
-| Revenants | 2.00% | ~13,044 |
-| Who Wants To Be a... | 2.00% | ~13,044 |
-| Fit as a Fiddle | 2.00% | ~13,044 |
+| Find Anything Interesting? | 2.00% | ~13,045 |
+| Revenants | 2.00% | ~13,045 |
+| Who Wants To Be a... | 2.00% | ~13,045 |
+| Fit as a Fiddle | 2.00% | ~13,045 |
 | Lightning Reflexes | 1.00% | ~6,522 |
 | Nemesis | 1.00% | ~2,977 |
 | Enter the Hall | 1.00% | ~2,977 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~298 |
 | Connoisseur | 0.10% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 652,220 (Ranked 29)  
+Progressed: 652,228 (Ranked 29)  
 Completed: 68 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 68 (0.01%) (Ranked 330)
 | 2023-11-12 | 651,313 | 67 |
 | 2023-11-13 | 651,775 | 67 |
 | 2023-11-14 | 652,167 | 68 |
-| 2023-11-15 | 652,220 | 68 |
+| 2023-11-15 | 652,228 | 68 |
 ## Awards
 Max (Character Customization): 10,050  (Ranked 40)  
 Sum: 25,354 (Ranked 53)  

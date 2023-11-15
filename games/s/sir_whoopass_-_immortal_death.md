@@ -16,7 +16,7 @@
 | Up and down | 77.00% | ~92 |
 | Rolling, Rolling, Rolling | 75.00% | ~89 |
 | Fire-fighter! | 66.00% | ~79 |
-| Oh, you're up to no gouda! | 63.00% | ~75 |
+| Oh, you're up to no gouda! | 64.00% | ~76 |
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~71 |
 | Meat grinder | 60.00% | ~71 |
 | You're not going to blow me up! | 55.00% | ~65 |
@@ -30,21 +30,21 @@
 | My pants squeak when I walk | 43.00% | ~51 |
 | Surprise!! | 40.00% | ~48 |
 | Haemochromatosis | 39.00% | ~46 |
+| Pasta Bolognese | 35.00% | ~42 |
 | Make America Grate Again | 34.00% | ~40 |
 | Karaoke king | 34.00% | ~40 |
-| Pasta Bolognese | 34.00% | ~40 |
 | You can't stop me, bro! | 33.00% | ~39 |
 | You are no match for me, Billy! | 32.00% | ~38 |
 | Catch the bus with me! | 32.00% | ~38 |
-| Meatballs, coming up! | 29.00% | ~35 |
-| I'm going to get a concussion | 29.00% | ~35 |
+| Meatballs, coming up! | 30.00% | ~36 |
+| I'm going to get a concussion | 30.00% | ~36 |
 | Another one bites the iron | 27.00% | ~32 |
+| Hovering around | 25.00% | ~30 |
 | A Megapint...? | 24.00% | ~29 |
 | Ripe Meat Off The Bone! | 24.00% | ~29 |
-| Hovering around | 24.00% | ~29 |
 | Kleptomaniac | 24.00% | ~29 |
+| You're not so Big anymore, Boi! | 23.00% | ~27 |
 | Your daily dose of Vitamin C. | 23.00% | ~27 |
-| You're not so Big anymore, Boi! | 22.00% | ~26 |
 | I cant stand still! | 21.00% | ~25 |
 | Master Butcher | 18.00% | ~21 |
 | Slimy... yet satisfying | 18.00% | ~21 |

@@ -3,7 +3,7 @@
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 372,
+  "Ranking_Popularity": 373,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 260,
@@ -591,7 +591,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18483,
+  "EOS_Progressed": 18482,
   "EOS_Completed": 30,
   "EOS_NewPlayers": -95,
   "EOS_NewCompleters": -1,
@@ -9496,6 +9496,11 @@
       "Time": "2023-11-15T01:52:26.7209874+00:00",
       "NumProgressed": 18483,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-15T05:06:44.7854496+00:00",
+      "NumProgressed": 18482,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -9515,7 +9520,7 @@
       "Name": "Helper of the People",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 7763
+      "UsersEstimate": 7762
     },
     {
       "ID": "ach.030.deertastic",
@@ -9539,7 +9544,7 @@
       "Name": "Builder",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 16265
+      "UsersEstimate": 16264
     },
     {
       "ID": "ach.060.goingdistance",
@@ -9571,7 +9576,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4620
     },
     {
       "ID": "ach.100.indecisive",
@@ -9579,7 +9584,7 @@
       "Name": "Indecisive",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5729
     },
     {
       "ID": "ach.110.multiverse",
@@ -9603,7 +9608,7 @@
       "Name": "Minimalist",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 17559
+      "UsersEstimate": 17558
     },
     {
       "ID": "ach.140.legacy",
@@ -9611,7 +9616,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 104,
       "XP": 60,
-      "UsersEstimate": 19222
+      "UsersEstimate": 19221
     },
     {
       "ID": "ach.150.pocket",
@@ -9699,7 +9704,7 @@
       "Name": "Before the Downfall",
       "Percentage": 99,
       "XP": 60,
-      "UsersEstimate": 18298
+      "UsersEstimate": 18297
     },
     {
       "ID": "ach.260.investor",
@@ -9763,7 +9768,7 @@
       "Name": "Money like Water",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17929
+      "UsersEstimate": 17928
     },
     {
       "ID": "ach.340.steel",
@@ -9802,7 +9807,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18483,
+      "Progressed": 18482,
       "Completed": 30
     }
   ],
@@ -9810,8 +9815,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:05:33.7345666+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:06:44.7854484+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.3820352+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:00:22.403541+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:05:33.7346226+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:01:23.9083307+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:06:44.7855457+00:00"
 }

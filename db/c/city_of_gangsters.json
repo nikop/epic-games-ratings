@@ -3,12 +3,12 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 850,
-  "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 404,
+  "Ranking_Popularity": 467,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -704,12 +704,18 @@
       "Rating": 4.28,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-11-15T04:57:24.3884954+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
-  "NumberOfAwardsMax": 45,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 144,
+  "NumberOfAwardsMax": 35,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -754,9 +760,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 352404,
+  "EOS_Progressed": 352406,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24434,6 +24440,11 @@
       "Time": "2023-11-15T03:05:43.9672741+00:00",
       "NumProgressed": 352404,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-15T05:07:16.6411198+00:00",
+      "NumProgressed": 352406,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -24461,7 +24472,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42288
+      "UsersEstimate": 42289
     },
     {
       "ID": "ach004",
@@ -24501,7 +24512,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42288
+      "UsersEstimate": 42289
     },
     {
       "ID": "ach009",
@@ -24653,7 +24664,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165630
+      "UsersEstimate": 165631
     },
     {
       "ID": "ach028",
@@ -24669,7 +24680,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38764
+      "UsersEstimate": 38765
     },
     {
       "ID": "ach030",
@@ -24749,7 +24760,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35240
+      "UsersEstimate": 35241
     },
     {
       "ID": "ach040",
@@ -24845,7 +24856,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38764
+      "UsersEstimate": 38765
     },
     {
       "ID": "ach052",
@@ -24909,7 +24920,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35240
+      "UsersEstimate": 35241
     },
     {
       "ID": "ach060",
@@ -25084,16 +25095,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 352404,
+      "Progressed": 352406,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-11-13T20:00:02.1787461+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:05:59.8371724+00:00",
+  "LastChanged": "2023-11-15T04:57:24.3884952+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:07:16.6411191+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.6419748+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:57:17.6588893+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:05:59.837324+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:57:24.3884958+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:07:16.6413949+00:00"
 }

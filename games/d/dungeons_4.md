@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 85.00% | ~226 |
 | For the Horde! | 79.00% | ~210 |
 | Hammer Time, Round Two | 77.00% | ~205 |
-| The Hellwoods | 70.00% | ~186 |
+| The Hellwoods | 71.00% | ~189 |
 | Thalya's Concentrated Fury | 64.00% | ~170 |
 | The Plains of Strothalm | 64.00% | ~170 |
 | Experienced Thalya | 64.00% | ~170 |
@@ -23,7 +23,7 @@
 | The Ascent | 38.00% | ~101 |
 | It's Warm and Cozy at Home | 38.00% | ~101 |
 | Pure Dynamite! | 35.00% | ~93 |
-| Hard Work | 33.00% | ~88 |
+| Hard Work | 34.00% | ~90 |
 | The Big Eaty | 32.00% | ~85 |
 | Mana Cannon | 29.00% | ~77 |
 | “… like son” | 24.00% | ~64 |

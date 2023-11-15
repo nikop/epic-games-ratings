@@ -190,9 +190,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19355,
+  "EOS_Progressed": 19358,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 2329,
+  "EOS_NewPlayers": 2326,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3280,6 +3280,11 @@
       "Time": "2023-11-15T04:08:52.133392+00:00",
       "NumProgressed": 19355,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-11-15T05:10:01.2217023+00:00",
+      "NumProgressed": 19358,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 24,
@@ -3297,9 +3302,9 @@
       "ID": "ACH_CollectAll",
       "SetID": "a3lf366",
       "Name": "The Collector",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 155
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_CrushEnemy",
@@ -3482,7 +3487,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 19355,
+      "Progressed": 19358,
       "Completed": 60
     }
   ],
@@ -3490,8 +3495,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-14T08:02:40.2794676+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:08:52.1333916+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:10:01.2217017+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:52.4543892+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:02:39.1394402+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:08:52.1334235+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:03:09.9871895+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:10:01.2217432+00:00"
 }

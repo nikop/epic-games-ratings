@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235531,
+  "EOS_Progressed": 235532,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
@@ -22257,6 +22257,11 @@
       "Time": "2023-11-15T03:05:31.271573+00:00",
       "NumProgressed": 235531,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-15T05:07:01.3919141+00:00",
+      "NumProgressed": 235532,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22292,7 +22297,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18842
+      "UsersEstimate": 18843
     },
     {
       "ID": "CHALLENGER",
@@ -22300,7 +22305,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25908
+      "UsersEstimate": 25909
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -22332,7 +22337,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18842
+      "UsersEstimate": 18843
     },
     {
       "ID": "FLAWLESS",
@@ -22404,7 +22409,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77725
+      "UsersEstimate": 77726
     },
     {
       "ID": "NOBUNAGA",
@@ -22539,15 +22544,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235531,
+      "Progressed": 235532,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:05:47.3223603+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:07:01.3919135+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:58:55.1382854+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:05:47.3224663+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:59:30.7056791+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:07:01.3921025+00:00"
 }

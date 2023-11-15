@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2629,
+  "EOS_Progressed": 2630,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3958,6 +3958,11 @@
       "Time": "2023-11-14T01:50:37.2544834+00:00",
       "NumProgressed": 2629,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-11-15T05:07:52.0629604+00:00",
+      "NumProgressed": 2630,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 53,
@@ -3967,9 +3972,9 @@
       "ID": "STB_COLISSEUM_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Embrace the darkness",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 368
+      "UsersEstimate": 342
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -4033,7 +4038,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4049,7 +4054,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4073,7 +4078,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -4121,7 +4126,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -4153,7 +4158,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4193,7 +4198,7 @@
       "Name": "Thornbarrow",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -4201,7 +4206,7 @@
       "Name": "Clarion Cove",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -4215,9 +4220,9 @@
       "ID": "STB_MISSION4_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Sacred Woods",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 658
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -4225,7 +4230,7 @@
       "Name": "Glyndemere",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -4273,7 +4278,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4297,7 +4302,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -4305,7 +4310,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -4321,7 +4326,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -4392,7 +4397,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2629,
+      "Progressed": 2630,
       "Completed": 15
     }
   ],
@@ -4400,8 +4405,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:06:32.0203723+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:07:52.0629599+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:10.6745457+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:57:07.8094949+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:06:32.0204236+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:57:12.0533065+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:07:52.0630382+00:00"
 }

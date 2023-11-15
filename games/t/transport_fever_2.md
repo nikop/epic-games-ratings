@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,849 (Ranked 224)  
+Progressed: 1,849 (Ranked 225)  
 Completed: 1 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,9 +266,9 @@ Completed: 1 (0.05%) (Ranked 302)
 | 2023-11-13 | 1,848 | 1 |
 | 2023-11-14 | 1,849 | 1 |
 ## Awards
-Max (Highly Recommended): 43  (Ranked 448)  
+Max (Highly Recommended): 43  (Ranked 447)  
 Sum: 308 (Ranked 358)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 43 |

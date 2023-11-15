@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3388,10 +3388,10 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239700,
+  "EOS_Progressed": 239703,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 352,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 355,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -25033,6 +25033,11 @@
       "Time": "2023-11-15T03:09:08.3541602+00:00",
       "NumProgressed": 239700,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-15T05:10:21.4390929+00:00",
+      "NumProgressed": 239703,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25626,9 +25631,9 @@
       "ID": "MAKEAWISH",
       "SetID": "5l8oe0h",
       "Name": "A Donation",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 719
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -26147,13 +26152,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239700,
+      "Progressed": 239703,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1180,
+      "Progressed": 1183,
       "Completed": 377
     }
   ],
@@ -26161,8 +26166,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-13T01:49:41.6216026+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:09:08.3533167+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:10:21.4390917+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:02:53.5905061+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:09:08.3535541+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:03:28.1718915+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:10:21.439484+00:00"
 }

@@ -2863,9 +2863,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 1074564,
+  "EOS_Progressed": 1074568,
   "EOS_Completed": 484,
-  "EOS_NewPlayers": 2820,
+  "EOS_NewPlayers": 2818,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26648,6 +26648,11 @@
       "Time": "2023-11-15T04:08:36.4672039+00:00",
       "NumProgressed": 1074564,
       "NumCompleted": 484
+    },
+    {
+      "Time": "2023-11-15T05:09:42.0818325+00:00",
+      "NumProgressed": 1074568,
+      "NumCompleted": 484
     }
   ],
   "TotalAchievements": 37,
@@ -26659,7 +26664,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 365352
+      "UsersEstimate": 365353
     },
     {
       "ID": "CompleteAustralia",
@@ -26683,7 +26688,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 75219
+      "UsersEstimate": 75220
     },
     {
       "ID": "CompleteChile",
@@ -26859,7 +26864,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 967108
+      "UsersEstimate": 967111
     },
     {
       "ID": "GetLotsOfScore",
@@ -26891,7 +26896,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 505045
+      "UsersEstimate": 505047
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -26923,7 +26928,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 676975
+      "UsersEstimate": 676978
     },
     {
       "ID": "WinBySmallDifference",
@@ -26954,15 +26959,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1074564,
+      "Progressed": 1074568,
       "Completed": 484
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-15T02:20:13.1871973+00:00",
-  "LastChanged_Achievements": "2023-11-15T04:08:36.4672034+00:00",
+  "LastChanged_Achievements": "2023-11-15T05:09:42.081832+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.6159115+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:57:55.3226934+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:08:36.4673452+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:58:13.6481426+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:09:42.0820213+00:00"
 }

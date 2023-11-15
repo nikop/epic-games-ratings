@@ -12,9 +12,9 @@ Rating: 4.61 (Ranked 384)
 | Walls Cannot Stop Us | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
+| Full Ascension | 0.90% | ~49 |
 | Bone Peddler | 0.90% | ~49 |
 | From Friends to Family | 0.90% | ~49 |
-| Full Ascension | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
 | Stronger Together | 0.70% | ~38 |

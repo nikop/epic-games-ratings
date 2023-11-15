@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 8.00% | ~2,481 |
+| Stylish | 8.00% | ~2,482 |
 | Advancement | 6.00% | ~1,861 |
 | Meticulously Efficient | 6.00% | ~1,861 |
 | Discovery | 5.00% | ~1,551 |
@@ -18,12 +18,12 @@ Rating: 4.50 (Ranked 588)
 | There you are! | 4.00% | ~1,241 |
 | Vaporous Expansion | 4.00% | ~1,241 |
 | Whoopsie | 4.00% | ~1,241 |
-| Animated | 3.00% | ~930 |
-| Cultured | 3.00% | ~930 |
-| Daily Dose | 3.00% | ~930 |
-| Ghostbuster In Training | 3.00% | ~930 |
-| Icing on the Cake | 3.00% | ~930 |
-| Right back at ya | 3.00% | ~930 |
+| Animated | 3.00% | ~931 |
+| Cultured | 3.00% | ~931 |
+| Daily Dose | 3.00% | ~931 |
+| Ghostbuster In Training | 3.00% | ~931 |
+| Icing on the Cake | 3.00% | ~931 |
+| Right back at ya | 3.00% | ~931 |
 | Back Off | 2.00% | ~620 |
 | We have the best insurance | 2.00% | ~620 |
 | Ectoplasmic Entity | 2.00% | ~620 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,015 (Ranked 122)  
+Progressed: 31,019 (Ranked 122)  
 Completed: 68 (0.22%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 68 (0.22%) (Ranked 244)
 | 2023-11-12 | 30,897 | 67 |
 | 2023-11-13 | 30,946 | 68 |
 | 2023-11-14 | 31,007 | 68 |
-| 2023-11-15 | 31,015 | 68 |
+| 2023-11-15 | 31,019 | 68 |
 ## Awards
 Max (Great for Beginners): 315  (Ranked 247)  
 Sum: 2,792 (Ranked 179)  

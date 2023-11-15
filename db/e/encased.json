@@ -4,11 +4,11 @@
   "ProductSlug": "encased",
   "Ranking_Rating": 803,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-07T17:00:00+00:00",
     "PcReleaseDate": "2021-09-07T17:00:00+00:00",
@@ -525,6 +525,6 @@
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
   "LastChanged": "2023-11-14T14:57:22.4598356+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:19.5909842+00:00",
-  "LastUpdate_Ratings": "2023-11-15T03:57:31.5377283+00:00",
-  "LastUpdate_Achievements": "2023-11-15T04:03:12.6790608+00:00"
+  "LastUpdate_Ratings": "2023-11-15T04:57:42.3441638+00:00",
+  "LastUpdate_Achievements": "2023-11-15T05:03:53.4345546+00:00"
 }

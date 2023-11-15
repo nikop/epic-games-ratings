@@ -39,8 +39,8 @@
 | The Archangel | 35.00% | ~442 |
 | Power Full | 35.00% | ~442 |
 | The Convict | 33.00% | ~417 |
+| The Krogan | 33.00% | ~417 |
 | Colony Defense | 32.00% | ~404 |
-| The Krogan | 32.00% | ~404 |
 | Broke, Blind, and Bedlam | 32.00% | ~404 |
 | Ghost Ship | 31.00% | ~392 |
 | The Quarian | 31.00% | ~392 |

@@ -15,6 +15,7 @@
 | Find Allies | 0.50% | ~1 |
 | Trinity | 0.50% | ~1 |
 | Adventurer | 0.50% | ~1 |
+| Tributes of Caladrias | 0.50% | ~1 |
 | Big Bazar | 0.50% | ~1 |
 | Geared Up | 0.50% | ~1 |
 | Stone Collection | 0.50% | ~1 |
@@ -26,7 +27,6 @@
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | Shatter Them All | 0.00% | ~0 |

@@ -8,6 +8,7 @@ Rating: 4.56 (Ranked 489)
 | Oyedang, Kopengs | 8.00% | ~1,198 |
 | The Pit and the Pirates | 4.00% | ~599 |
 | Bosmang | 4.00% | ~599 |
+| Celebrations are in Order | 4.00% | ~599 |
 | Safe Cracker | 4.00% | ~37 |
 | Zen Master | 4.00% | ~37 |
 | Stogie for Fogey | 3.00% | ~449 |
@@ -18,7 +19,6 @@ Rating: 4.56 (Ranked 489)
 | Heal Thy Medic | 3.00% | ~449 |
 | Call it Even | 3.00% | ~449 |
 | Captain Drummer | 3.00% | ~449 |
-| Celebrations are in Order | 3.00% | ~449 |
 | Impossible Objects | 3.00% | ~449 |
 | Keep Arjun in Check | 3.00% | ~28 |
 | Madame Undersecretary | 3.00% | ~28 |

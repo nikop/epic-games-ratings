@@ -26,7 +26,7 @@
 | The Finisher | 42.00% | ~291 |
 | True Legends | 41.00% | ~285 |
 | So Close | 40.00% | ~278 |
-| You Get Used To It | 39.00% | ~271 |
+| You Get Used To It | 40.00% | ~278 |
 | Boosted! | 37.00% | ~257 |
 | Family | 36.00% | ~250 |
 | Biggest Snowball Ever | 36.00% | ~250 |
