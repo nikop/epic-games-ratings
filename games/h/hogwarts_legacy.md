@@ -10,7 +10,7 @@ Rating: 4.76 (Ranked 127)
 | Troll with the Punches | 14.00% | ~42,299 |
 | A Keen Sense of Spell | 13.00% | ~39,278 |
 | That's a Keeper | 13.00% | ~39,278 |
-| A Talent for Spending | 12.00% | ~36,256 |
+| A Talent for Spending | 12.00% | ~36,257 |
 | Grappling with a Graphorn | 11.00% | ~33,235 |
 | The One Who Mastered Memories | 11.00% | ~33,235 |
 | The Hallowed Hero | 11.00% | ~33,235 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 127)
 | The Hero of Hogwarts | 10.00% | ~30,214 |
 | Followed the Butterflies | 10.00% | ~30,214 |
 | Rising From the Ashes | 10.00% | ~30,214 |
-| The Spell Master | 9.00% | ~27,192 |
+| The Spell Master | 9.00% | ~27,193 |
 | The Avenging Gazelle | 8.00% | ~24,171 |
 | Beast Friends | 8.00% | ~24,171 |
 | A Sallow Grave | 8.00% | ~24,171 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 127)
 | The Toast of the Town | 5.00% | ~15,107 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,107 |
 | The Ends Petrify the Means | 5.00% | ~15,107 |
-| Going Through the Potions | 4.00% | ~12,085 |
-| Room with a View | 4.00% | ~12,085 |
-| The Intrepid Explorer | 4.00% | ~12,085 |
-| The Wise Owl | 4.00% | ~12,085 |
+| Going Through the Potions | 4.00% | ~12,086 |
+| Room with a View | 4.00% | ~12,086 |
+| The Intrepid Explorer | 4.00% | ~12,086 |
+| The Wise Owl | 4.00% | ~12,086 |
 | Put Down Roots | 3.00% | ~9,064 |
 | The Auror's Apprentice | 3.00% | ~9,064 |
 | Floo Around the World | 3.00% | ~9,064 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,136 (Ranked 51)  
+Progressed: 302,139 (Ranked 51)  
 Completed: 512 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,10 +260,10 @@ Completed: 512 (0.17%) (Ranked 257)
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
-| 2023-11-15 | 302,136 | 512 |
+| 2023-11-15 | 302,139 | 512 |
 ## Awards
 Max (Character Customization): 24,313  (Ranked 17)  
-Sum: 48,222 (Ranked 30)  
+Sum: 48,227 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,232 |
 | This game is Relaxing | 1,227 |
 | This game has Amazing Characters | 1,209 |
-| This game is Highly Recommended | 1,165 |
+| This game is Highly Recommended | 1,170 |
 | This game has Quickly Understood Controls | 1,111 |
 | This game has Beautiful Visuals | 1,031 |
 | This game has a Creative Community | 785 |
@@ -518,4 +518,4 @@ Diff (max vs sum): -13
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
 | 2023-11-13 | 4.76 | 24,259 | 48,072 |
 | 2023-11-14 | 4.76 | 24,282 | 48,150 |
-| 2023-11-15 | 4.76 | 24,313 | 48,222 |
+| 2023-11-15 | 4.76 | 24,313 | 48,227 |

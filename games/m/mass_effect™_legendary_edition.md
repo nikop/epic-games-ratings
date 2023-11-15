@@ -17,10 +17,10 @@
 | Council Legion of Merit | 52.00% | ~659 |
 | Medal of Honor | 49.00% | ~621 |
 | Meritorious Service Medal | 49.00% | ~621 |
+| Charismatic | 49.00% | ~621 |
 | Soldier | 48.00% | ~609 |
-| Charismatic | 48.00% | ~609 |
+| Soldier Ally | 46.00% | ~583 |
 | Medal of Exploration III | 45.00% | ~571 |
-| Soldier Ally | 45.00% | ~571 |
 | Asari Ally | 45.00% | ~571 |
 | Principled | 44.00% | ~558 |
 | Colonial Savior | 43.00% | ~545 |
@@ -34,13 +34,13 @@
 | Head Hunter | 39.00% | ~495 |
 | Operative | 38.00% | ~482 |
 | Scholar | 38.00% | ~482 |
+| The Professor | 37.00% | ~469 |
 | Veteran | 36.00% | ~456 |
 | The Archangel | 36.00% | ~456 |
-| The Professor | 36.00% | ~456 |
 | Power Full | 35.00% | ~444 |
 | The Convict | 34.00% | ~431 |
+| The Krogan | 33.00% | ~418 |
 | Colony Defense | 32.00% | ~406 |
-| The Krogan | 32.00% | ~406 |
 | Broke, Blind, and Bedlam | 32.00% | ~406 |
 | Ghost Ship | 31.00% | ~393 |
 | The Quarian | 31.00% | ~393 |

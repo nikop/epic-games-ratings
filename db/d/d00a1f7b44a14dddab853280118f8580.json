@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 165,
   "EOS_Completed": 38,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 23.03,
   "EosHistory": [
     {
@@ -929,8 +929,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:04:07.6758035+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:03:49.9483527+00:00",
   "LastUpdate_AppInfo": "2023-11-10T05:57:19.2863168+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:01:35.4095829+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:04:07.675817+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:00:22.6354263+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:03:49.9483707+00:00"
 }

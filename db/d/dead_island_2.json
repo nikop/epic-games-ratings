@@ -6543,9 +6543,9 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718835,
+  "EOS_Progressed": 718864,
   "EOS_Completed": 2393,
-  "EOS_NewPlayers": 3759,
+  "EOS_NewPlayers": 3772,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30443,6 +30443,11 @@
       "Time": "2023-11-15T18:06:06.4170403+00:00",
       "NumProgressed": 718835,
       "NumCompleted": 2393
+    },
+    {
+      "Time": "2023-11-15T19:05:13.8612136+00:00",
+      "NumProgressed": 718864,
+      "NumCompleted": 2393
     }
   ],
   "TotalAchievements": 51,
@@ -30692,9 +30697,9 @@
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 3594
     },
     {
       "ID": "ach_revival_tour",
@@ -30790,15 +30795,15 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7188
+      "UsersEstimate": 7189
     },
     {
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2875
     },
     {
       "ID": "ach_well_trained",
@@ -30861,13 +30866,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718835,
+      "Progressed": 718864,
       "Completed": 2393
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44377,
+      "Progressed": 44406,
       "Completed": 36543
     }
   ],
@@ -30875,8 +30880,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-15T16:58:10.2485341+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:06:06.41704+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:05:13.8612132+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:58:16.7749134+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:06:06.4171952+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:58:14.3979072+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:05:13.8613394+00:00"
 }

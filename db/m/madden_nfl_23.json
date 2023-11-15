@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -799,7 +799,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3440,
+  "EOS_Progressed": 3441,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -5374,6 +5374,11 @@
       "Time": "2023-11-15T12:03:56.653649+00:00",
       "NumProgressed": 3440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T19:04:18.2059204+00:00",
+      "NumProgressed": 3441,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5386,7 +5391,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_10",
@@ -5394,7 +5399,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "achievement_11",
@@ -5410,7 +5415,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "achievement_13",
@@ -5418,7 +5423,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "achievement_14",
@@ -5530,7 +5535,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "achievement_8",
@@ -5538,7 +5543,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_9",
@@ -5553,7 +5558,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3440,
+      "Progressed": 3441,
       "Completed": 0
     }
   ],
@@ -5561,8 +5566,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:04:47.8371851+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:04:18.2059199+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:01:35.042392+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:04:47.8372179+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:00:22.3929075+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:04:18.2059522+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2916,
+  "EOS_Progressed": 2917,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4121,6 +4121,11 @@
       "Time": "2023-11-15T01:51:14.2771226+00:00",
       "NumProgressed": 2916,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T19:04:46.6725431+00:00",
+      "NumProgressed": 2917,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4164,7 +4169,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "REUNION",
@@ -4180,7 +4185,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "SNOW_RUINS",
@@ -4204,7 +4209,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "THE_END",
@@ -4235,7 +4240,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2916,
+      "Progressed": 2917,
       "Completed": 6
     }
   ],
@@ -4243,8 +4248,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:05:28.4824329+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:04:46.6725427+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:19.7535044+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:00:10.0435539+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:05:28.4824617+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:59:26.8984339+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:04:46.6725803+00:00"
 }

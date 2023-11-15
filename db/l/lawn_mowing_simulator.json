@@ -4,11 +4,11 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 966,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2114,10 +2114,16 @@
       "Rating": 4.08,
       "NumberOfAwards": 985,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-11-15T18:59:49.7072417+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 987,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 985,
+  "NumberOfAwards": 987,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2131,7 +2137,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 167
+      "Count": 169
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2182,9 +2188,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 681127,
+  "EOS_Progressed": 681133,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1779,
+  "EOS_NewPlayers": 1773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26057,6 +26063,11 @@
       "Time": "2023-11-15T18:10:11.5347096+00:00",
       "NumProgressed": 681127,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-15T19:09:30.2939011+00:00",
+      "NumProgressed": 681133,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -26068,7 +26079,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 538090
+      "UsersEstimate": 538095
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -26156,7 +26167,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 245206
+      "UsersEstimate": 245208
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -26308,7 +26319,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 211149
+      "UsersEstimate": 211151
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -26372,7 +26383,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102169
+      "UsersEstimate": 102170
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -26468,7 +26479,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 122603
+      "UsersEstimate": 122604
     },
     {
       "ID": "RP_TRUSTED",
@@ -26484,7 +26495,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61301
+      "UsersEstimate": 61302
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -26499,15 +26510,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 681127,
+      "Progressed": 681133,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
-  "LastChanged": "2023-11-14T13:58:49.9393856+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:10:11.5347092+00:00",
+  "LastChanged": "2023-11-15T18:59:49.7072414+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:09:30.2939006+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:37.75216+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:00:44.9266496+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:10:11.5348478+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:59:49.707242+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:09:30.294058+00:00"
 }

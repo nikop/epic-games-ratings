@@ -19,8 +19,8 @@ Rating: 4.57 (Ranked 469)
 | Ferocious wild boars | 38.00% | ~15 |
 | Wise man | 36.00% | ~14 |
 | Family man | 33.00% | ~13 |
+| Beast slayer | 33.00% | ~13 |
 | Idiot | 33.00% | ~13 |
-| Beast slayer | 31.00% | ~12 |
 | The fourth triplet | 31.00% | ~12 |
 | Master detective | 31.00% | ~12 |
 | Ogre friend | 28.00% | ~11 |

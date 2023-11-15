@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Craftsmen | 0.80% | ~1 |
+| Self-Defence | 0.80% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
@@ -14,7 +15,6 @@
 | Defeat Tezuth | 0.00% | ~0 |
 | Defeat Uskol | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
-| Self-Defence | 0.00% | ~0 |
 | Freezing Cold | 0.00% | ~0 |
 | Searing Heat | 0.00% | ~0 |
 | Through Dangers Untold | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Lost and Found | 0.00% | ~0 |
 | Small Setback | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 407)  
+Progressed: 120 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-05 | 116 | 0 |
 | 2023-11-08 | 117 | 0 |
 | 2023-11-11 | 118 | 0 |
-| 2023-11-15 | 119 | 0 |
+| 2023-11-15 | 120 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

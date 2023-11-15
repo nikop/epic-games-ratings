@@ -6,20 +6,20 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~29,420 |
-| Quick Understanding of Block Extrusion | 68.00% | ~26,674 |
-| Nature or Nurture | 52.00% | ~20,398 |
-| Power Glove | 49.00% | ~19,221 |
-| Forgotten Memories | 42.00% | ~16,475 |
-| Cogs in the Machine | 36.00% | ~14,122 |
-| Mission Success | 22.00% | ~8,630 |
-| There's No Place Like Home | 22.00% | ~8,630 |
-| Green Cube Killer | 19.00% | ~7,453 |
-| Infinity Loop | 16.00% | ~6,276 |
-| Path to Salvation | 16.00% | ~6,276 |
-| Descendants | 14.00% | ~5,492 |
-| The Flawed Teacher | 11.00% | ~4,315 |
-| To Infinity and Beyond | 5.00% | ~1,961 |
+| Lost in Space | 75.00% | ~29,428 |
+| Quick Understanding of Block Extrusion | 68.00% | ~26,681 |
+| Nature or Nurture | 52.00% | ~20,403 |
+| Power Glove | 49.00% | ~19,226 |
+| Forgotten Memories | 42.00% | ~16,480 |
+| Cogs in the Machine | 36.00% | ~14,125 |
+| Mission Success | 22.00% | ~8,632 |
+| There's No Place Like Home | 22.00% | ~8,632 |
+| Green Cube Killer | 19.00% | ~7,455 |
+| Infinity Loop | 16.00% | ~6,278 |
+| Path to Salvation | 16.00% | ~6,278 |
+| Descendants | 14.00% | ~5,493 |
+| The Flawed Teacher | 11.00% | ~4,316 |
+| To Infinity and Beyond | 5.00% | ~1,962 |
 | The Truthful Enemy | 4.00% | ~1,569 |
 | Home Stretch | 2.00% | ~785 |
 | Laser Sharp | 2.00% | ~785 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~392 |
 | Expert Collector | 1.00% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,227 (Ranked 118)  
+Progressed: 39,237 (Ranked 118)  
 Completed: 154 (0.39%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 154 (0.39%) (Ranked 211)
 | 2023-11-12 | 38,752 | 146 |
 | 2023-11-13 | 38,915 | 150 |
 | 2023-11-14 | 39,085 | 154 |
-| 2023-11-15 | 39,227 | 154 |
+| 2023-11-15 | 39,237 | 154 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

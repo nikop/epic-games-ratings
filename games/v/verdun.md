@@ -6,34 +6,34 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,634 |
-| Worth it | 63.00% | ~40,089 |
-| Eagle Eye | 55.00% | ~34,998 |
-| Corpseman I | 40.00% | ~25,453 |
-| Blast fishing | 37.00% | ~23,544 |
-| Not alone | 32.00% | ~20,363 |
-| Headhunter I | 26.00% | ~16,545 |
-| Manual Labour I | 25.00% | ~15,908 |
-| Developers, Developers, Developers | 24.00% | ~15,272 |
-| Basic Training | 24.00% | ~15,272 |
-| Furchtlos und Treu | 13.00% | ~8,272 |
-| Gott Mit Uns | 12.00% | ~7,636 |
-| This We'll Defend! | 9.00% | ~5,727 |
-| Anker wirf! | 9.00% | ~5,727 |
-| Providentiea Memor | 9.00% | ~5,727 |
-| For King and Country | 9.00% | ~5,727 |
+| Setting an example | 78.00% | ~49,641 |
+| Worth it | 63.00% | ~40,094 |
+| Eagle Eye | 55.00% | ~35,003 |
+| Corpseman I | 40.00% | ~25,457 |
+| Blast fishing | 37.00% | ~23,548 |
+| Not alone | 32.00% | ~20,365 |
+| Headhunter I | 26.00% | ~16,547 |
+| Manual Labour I | 25.00% | ~15,910 |
+| Developers, Developers, Developers | 24.00% | ~15,274 |
+| Basic Training | 24.00% | ~15,274 |
+| Furchtlos und Treu | 13.00% | ~8,273 |
+| Gott Mit Uns | 12.00% | ~7,637 |
+| This We'll Defend! | 9.00% | ~5,728 |
+| Anker wirf! | 9.00% | ~5,728 |
+| Providentiea Memor | 9.00% | ~5,728 |
+| For King and Country | 9.00% | ~5,728 |
 | Battle hardened | 8.00% | ~5,091 |
-| Semper Fidelis! | 7.00% | ~4,454 |
-| Honneur et Patrie | 7.00% | ~4,454 |
+| Semper Fidelis! | 7.00% | ~4,455 |
+| Honneur et Patrie | 7.00% | ~4,455 |
 | In Treue Fest | 5.00% | ~3,182 |
 | Voor De Koning | 5.00% | ~3,182 |
 | Extreme Headhunter | 5.00% | ~3,182 |
-| Advance Australia | 4.00% | ~2,545 |
-| We Stand on Guard | 4.00% | ~2,545 |
-| Sidi Brahim | 4.00% | ~2,545 |
-| War is better with friends I | 4.00% | ~2,545 |
-| Let them, come to us | 4.00% | ~2,545 |
-| Corpseman II | 4.00% | ~2,545 |
+| Advance Australia | 4.00% | ~2,546 |
+| We Stand on Guard | 4.00% | ~2,546 |
+| Sidi Brahim | 4.00% | ~2,546 |
+| War is better with friends I | 4.00% | ~2,546 |
+| Let them, come to us | 4.00% | ~2,546 |
+| Corpseman II | 4.00% | ~2,546 |
 | Offense is the best defence | 3.00% | ~1,909 |
 | There is no I in team | 3.00% | ~1,909 |
 | Veteran | 3.00% | ~1,909 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,633 (Ranked 104)  
+Progressed: 63,642 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 4 (0.01%) (Ranked 330)
 | 2023-11-12 | 63,324 | 4 |
 | 2023-11-13 | 63,446 | 4 |
 | 2023-11-14 | 63,564 | 4 |
-| 2023-11-15 | 63,633 | 4 |
+| 2023-11-15 | 63,642 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 350)  
 Sum: 911 (Ranked 270)  

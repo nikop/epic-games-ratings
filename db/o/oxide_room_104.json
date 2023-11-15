@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1342,9 +1342,9 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:03:41.5386782+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:03:30.9766978+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:16.3514419+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:01:27.4233368+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:03:41.5387064+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:00:17.463775+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:03:30.9767256+00:00"
 }

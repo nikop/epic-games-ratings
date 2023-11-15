@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -626,17 +626,17 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -955,8 +955,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:03:40.6895162+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:03:30.4533366+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.7507945+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:58:56.3771456+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:03:40.6895453+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:58:39.7894666+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:03:30.4533806+00:00"
 }

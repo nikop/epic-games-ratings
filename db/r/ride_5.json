@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2145,
+  "EOS_Progressed": 2146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4907,6 +4907,11 @@
       "Time": "2023-11-15T17:09:43.6590707+00:00",
       "NumProgressed": 2145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T19:09:31.2417351+00:00",
+      "NumProgressed": 2146,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4919,7 +4924,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5127,7 +5132,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5215,7 +5220,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5310,14 +5315,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2145,
+      "Progressed": 2146,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:10:13.053972+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:09:31.2417346+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:02:44.1498706+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:10:13.0540225+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:02:40.062042+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:09:31.2417996+00:00"
 }

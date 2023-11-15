@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5317,
+  "EOS_Progressed": 5321,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 892,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3335,6 +3335,11 @@
       "Time": "2023-11-15T18:09:37.8380677+00:00",
       "NumProgressed": 5317,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T19:09:05.8988392+00:00",
+      "NumProgressed": 5321,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3355,7 +3360,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "BeLikeWater",
@@ -3403,7 +3408,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "FasterThanLight",
@@ -3419,7 +3424,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3451,7 +3456,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -3563,7 +3568,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "UnResurrected",
@@ -3618,7 +3623,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5317,
+      "Progressed": 5321,
       "Completed": 6
     }
   ],
@@ -3626,8 +3631,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:09:37.8380673+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:09:05.8988388+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:00:13.3090446+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:09:37.8381049+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:59:28.9735623+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:09:05.8988748+00:00"
 }

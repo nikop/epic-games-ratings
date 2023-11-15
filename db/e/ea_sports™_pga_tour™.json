@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 535,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.68,
   "EosHistory": [
@@ -1925,9 +1925,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_3",
@@ -1995,8 +1995,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:09:23.5030659+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:08:55.3474853+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:00:04.4480813+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:09:23.5030908+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:59:23.2071863+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:08:55.3475094+00:00"
 }

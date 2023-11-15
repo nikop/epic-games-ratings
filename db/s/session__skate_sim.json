@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 3069,
+  "EOS_Progressed": 3070,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5739,6 +5739,11 @@
       "Time": "2023-11-15T17:04:37.1243853+00:00",
       "NumProgressed": 3069,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T19:04:34.3561247+00:00",
+      "NumProgressed": 3070,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -5918,7 +5923,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -5934,7 +5939,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -5990,7 +5995,7 @@
       "Name": "Renaissance man",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -6022,7 +6027,7 @@
       "Name": "Tank commander",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -6086,7 +6091,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -6110,7 +6115,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -6126,22 +6131,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3069,
+      "Progressed": 3070,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-14T23:59:21.0037965+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:05:10.9887193+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:04:34.3561243+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:27.8412507+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:59:37.3149257+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:05:10.9887651+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:59:06.0552788+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:04:34.3561945+00:00"
 }

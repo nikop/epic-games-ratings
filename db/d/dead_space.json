@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -703,7 +703,7 @@
   ],
   "EOS_Progressed": 1811,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5689,9 +5689,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_39",
@@ -5753,9 +5753,9 @@
       "ID": "achievement_45",
       "SetID": "222fo9l",
       "Name": "Mindless Prey",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 652
+      "UsersEstimate": 670
     },
     {
       "ID": "achievement_46",
@@ -5826,8 +5826,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:08:29.2114922+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:08:15.9547377+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:57:59.0492637+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:08:29.2115386+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:58:03.0689438+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:08:15.9547874+00:00"
 }

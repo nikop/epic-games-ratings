@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 384)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Secret Technique | 2.00% | ~108 |
 | But this one is mine | 2.00% | ~108 |
 | Realm Estate | 1.00% | ~54 |
 | A Wonderful Discovery | 1.00% | ~54 |
-| Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |

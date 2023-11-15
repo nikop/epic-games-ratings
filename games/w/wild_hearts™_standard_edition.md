@@ -15,7 +15,7 @@
 | Charmed by the Hunt | 64.00% | ~184 |
 | Subsistence Skills | 63.00% | ~181 |
 | Kemono Hunter | 60.00% | ~172 |
-| Expert Conjuror | 56.00% | ~161 |
+| Expert Conjuror | 57.00% | ~164 |
 | Flawless Crystal | 54.00% | ~155 |
 | Distance Devourer | 53.00% | ~152 |
 | Bonds of Enmity | 52.00% | ~149 |

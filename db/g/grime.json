@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158383,
+  "EOS_Progressed": 158391,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15766,6 +15766,11 @@
       "Time": "2023-11-15T18:06:13.3653691+00:00",
       "NumProgressed": 158383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T19:05:19.0339655+00:00",
+      "NumProgressed": 158391,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15825,7 +15830,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15841,7 +15846,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15849,7 +15854,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4752
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -15993,7 +15998,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -16001,7 +16006,7 @@
       "Name": "Predator",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -16049,7 +16054,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4752
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -16144,21 +16149,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157966,
+      "Progressed": 157974,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158383,
+      "Progressed": 158391,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:06:13.3653686+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:05:19.0339651+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:02:30.2020557+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:06:13.3654659+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:00:31.3798421+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:05:19.0340779+00:00"
 }

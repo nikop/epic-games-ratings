@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12031,10 +12031,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57679,
       "NumberOfAwardsMax": 7013
+    },
+    {
+      "Time": "2023-11-15T18:58:04.446397+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57694,
+      "NumberOfAwardsMax": 7013
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57679,
+  "NumberOfAwards": 57694,
   "NumberOfAwardsMax": 7013,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12096,7 +12102,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5399
+      "Count": 5414
     },
     {
       "Text": "This game has Unique Visuals",
@@ -12105,9 +12111,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456238,
+  "EOS_Progressed": 456286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6253,
+  "EOS_NewPlayers": 6262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36050,6 +36056,11 @@
       "Time": "2023-11-15T18:05:04.4209599+00:00",
       "NumProgressed": 456238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T19:04:29.96711+00:00",
+      "NumProgressed": 456286,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38491,9 +38502,9 @@
       "ID": "achievement_the_re_reconquista",
       "SetID": "8p2n7he",
       "Name": "The Re-Reconquista",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_the_rising_sun",
@@ -38964,21 +38975,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456238,
+      "Progressed": 456286,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456238,
+      "Progressed": 456286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-15T17:58:01.2129291+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:05:04.4209596+00:00",
+  "LastChanged": "2023-11-15T18:58:04.4463968+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:04:29.9671097+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:58:01.2129296+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:05:04.4219711+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:58:04.4463975+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:04:29.9682826+00:00"
 }

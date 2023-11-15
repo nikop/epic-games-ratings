@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4201,10 +4201,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5057,
       "NumberOfAwardsMax": 2206
+    },
+    {
+      "Time": "2023-11-15T19:03:23.3592852+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5085,
+      "NumberOfAwardsMax": 2206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5057,
+  "NumberOfAwards": 5085,
   "NumberOfAwardsMax": 2206,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4218,7 +4224,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 294
+      "Count": 311
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4236,7 +4242,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 323
+      "Count": 334
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4275,10 +4281,10 @@
       "Count": 309
     }
   ],
-  "EOS_Progressed": 221267,
+  "EOS_Progressed": 221301,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 2378,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 2403,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -18220,6 +18226,11 @@
       "Time": "2023-11-15T18:08:53.7443953+00:00",
       "NumProgressed": 221267,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-15T19:08:33.4945131+00:00",
+      "NumProgressed": 221301,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18318,9 +18329,9 @@
       "ID": "Defeat_Many_Faces",
       "SetID": "bkp3b1a",
       "Name": "The God Gambit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -18671,22 +18682,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 221267,
+      "Progressed": 221301,
       "Completed": 457
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 432,
+      "Progressed": 466,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-15T18:03:30.4611166+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:08:53.7443948+00:00",
+  "LastChanged": "2023-11-15T19:03:23.3592851+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:08:33.4945128+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:03:30.4611171+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:08:53.7445062+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:03:23.3592855+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:08:33.4946323+00:00"
 }

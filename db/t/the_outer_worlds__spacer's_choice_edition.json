@@ -2,13 +2,13 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -626,8 +626,8 @@
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
   "LastChanged": "2023-11-14T01:42:12.4289853+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:07:55.0338314+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:06:32.0815033+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.8403971+00:00",
-  "LastUpdate_Ratings": "2023-11-15T17:59:11.1512303+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:07:55.0338352+00:00"
+  "LastUpdate_Ratings": "2023-11-15T18:58:49.5146353+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:06:32.0815064+00:00"
 }

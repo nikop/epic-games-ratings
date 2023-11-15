@@ -28,11 +28,11 @@ Rating: 4.64 (Ranked 332)
 | Keeper of the Faith | 39.00% | ~706 |
 | Betrayed | 38.00% | ~688 |
 | Legend Teller | 37.00% | ~670 |
+| Mindless Prey | 37.00% | ~670 |
 | Exodus | 36.00% | ~652 |
 | There's Always Peng! | 36.00% | ~652 |
-| Mindless Prey | 36.00% | ~652 |
+| Front Toward Enemy | 33.00% | ~598 |
 | A Cut Above | 32.00% | ~580 |
-| Front Toward Enemy | 32.00% | ~580 |
 | Whole Again | 28.00% | ~507 |
 | Set A Benchmark | 28.00% | ~507 |
 | Final Regeneration | 25.00% | ~453 |

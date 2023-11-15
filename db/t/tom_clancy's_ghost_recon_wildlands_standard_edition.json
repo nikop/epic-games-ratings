@@ -4,11 +4,11 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 384,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 746,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4458,6 +4458,6 @@
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
   "LastChanged": "2023-11-15T16:00:45.1646737+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.3416273+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:02:39.0886768+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:04:44.8306721+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:02:36.7819632+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:04:16.1796211+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~538,090 |
-| Every story has a beginning | 36.00% | ~245,206 |
-| The first of many | 31.00% | ~211,149 |
-| Positive word of mouth | 18.00% | ~122,603 |
-| Lawn in the U.S.A. | 15.00% | ~102,169 |
-| Blade Runner | 9.00% | ~61,301 |
+| The dream begins | 79.00% | ~538,095 |
+| Every story has a beginning | 36.00% | ~245,208 |
+| The first of many | 31.00% | ~211,151 |
+| Positive word of mouth | 18.00% | ~122,604 |
+| Lawn in the U.S.A. | 15.00% | ~102,170 |
+| Blade Runner | 9.00% | ~61,302 |
 | Credible | 7.00% | ~47,679 |
 | Teamwork makes the dream work | 6.00% | ~40,868 |
 | Where there's muck there's brass | 4.00% | ~27,245 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~681 |
 | Mo mowers, mo problems | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,127 (Ranked 25)  
+Progressed: 681,133 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,16 +270,16 @@ Completed: 17 (0.00%) (Ranked 351)
 | 2023-11-12 | 680,571 | 17 |
 | 2023-11-13 | 680,798 | 17 |
 | 2023-11-14 | 681,001 | 17 |
-| 2023-11-15 | 681,127 | 17 |
+| 2023-11-15 | 681,133 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 299)  
-Sum: 985 (Ranked 262)  
-Diff (max vs sum): 37  
+Sum: 987 (Ranked 261)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |
 | This game is Extremely Fun | 170 |
-| This game is Great for Beginners | 167 |
+| This game is Great for Beginners | 169 |
 | This game is Relaxing | 166 |
 | This game is Highly Recommended | 158 |
 | This game has Amazing Storytelling | 142 |
@@ -381,3 +381,4 @@ Diff (max vs sum): 37
 | 2023-11-07 | 4.08 | - | 182 | 983 |
 | 2023-11-13 | 4.08 | - | 182 | 984 |
 | 2023-11-14 | 4.08 | - | 182 | 985 |
+| 2023-11-15 | 4.08 | - | 182 | 987 |

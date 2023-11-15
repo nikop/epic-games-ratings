@@ -1,33 +1,33 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 411)  
+Rating: 4.60 (Ranked 410)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,689 |
-| A Thorny Situation | 71.00% | ~5,533 |
+| Azoria Beckons | 73.00% | ~5,690 |
+| A Thorny Situation | 71.00% | ~5,534 |
 | ... And Spit Back Out | 61.00% | ~4,754 |
 | Break-Net Speed | 49.00% | ~3,819 |
 | Bramble Breaker | 47.00% | ~3,663 |
 | Miner 49er | 43.00% | ~3,351 |
 | Humble Collector | 42.00% | ~3,273 |
-| Calm Sailing | 37.00% | ~2,883 |
+| Calm Sailing | 37.00% | ~2,884 |
 | Open the Gate! | 34.00% | ~2,650 |
 | Mist Walker | 32.00% | ~2,494 |
 | Lumberjack | 27.00% | ~2,104 |
-| Oui, Chef! | 23.00% | ~1,792 |
+| Oui, Chef! | 23.00% | ~1,793 |
 | Clear the Air | 19.00% | ~1,481 |
 | Botanical Breakthrough | 17.00% | ~1,325 |
 | Search for the Hairy Grell | 14.00% | ~1,091 |
 | Beach Comber | 14.00% | ~1,091 |
 | Higher Tax Bracket | 14.00% | ~1,091 |
 | Skilled | 9.00% | ~701 |
-| Flaming Hot Completos | 8.00% | ~623 |
-| Fae Farmer | 8.00% | ~623 |
-| Got to Catch Them All | 8.00% | ~623 |
-| Rumble in the Jumble | 8.00% | ~623 |
-| Fanatical Farmer | 8.00% | ~623 |
+| Flaming Hot Completos | 8.00% | ~624 |
+| Fae Farmer | 8.00% | ~624 |
+| Got to Catch Them All | 8.00% | ~624 |
+| Rumble in the Jumble | 8.00% | ~624 |
+| Fanatical Farmer | 8.00% | ~624 |
 | Scattered Scroll Scrounger | 6.00% | ~468 |
 | Azorian Anniversary | 6.00% | ~468 |
 | I Now Pronounce You... | 5.00% | ~390 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 411)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,793 (Ranked 170)  
+Progressed: 7,794 (Ranked 170)  
 Completed: 1 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.01%) (Ranked 330)
 | 2023-11-12 | 7,736 | 1 |
 | 2023-11-13 | 7,755 | 1 |
 | 2023-11-14 | 7,783 | 1 |
-| 2023-11-15 | 7,793 | 1 |
+| 2023-11-15 | 7,794 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

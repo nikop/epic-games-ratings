@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 287,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -1721,9 +1721,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_9",
@@ -1743,8 +1743,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-15T18:04:09.2665961+00:00",
+  "LastChanged_Achievements": "2023-11-15T19:03:51.1153537+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-15T18:02:34.2963683+00:00",
-  "LastUpdate_Achievements": "2023-11-15T18:04:09.2666327+00:00"
+  "LastUpdate_Ratings": "2023-11-15T19:00:34.024582+00:00",
+  "LastUpdate_Achievements": "2023-11-15T19:03:51.1153969+00:00"
 }

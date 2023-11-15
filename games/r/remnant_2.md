@@ -16,6 +16,7 @@ Rating: 4.75 (Ranked 146)
 | Forever is a Long Time Coming | 0.10% | ~221 |
 | Power Surge | 0.10% | ~221 |
 | The Killing Jar | 0.10% | ~221 |
+| The God Gambit | 0.10% | ~221 |
 | Dark Designs | 0.10% | ~221 |
 | Not So Special Now | 0.10% | ~221 |
 | Madman's Paradise | 0.10% | ~221 |
@@ -59,9 +60,8 @@ Rating: 4.75 (Ranked 146)
 | Master of the Dark Arts | 0.10% | ~0 |
 | A Foul Feast | 0.10% | ~0 |
 | You Shall Pass | 0.10% | ~0 |
-| The God Gambit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,267 (Ranked 68)  
+Progressed: 221,301 (Ranked 68)  
 Completed: 457 (0.21%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,20 +183,20 @@ Completed: 457 (0.21%) (Ranked 246)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 221,267 | 457 |
+| 2023-11-15 | 221,301 | 457 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
-Sum: 5,057 (Ranked 136)  
+Sum: 5,085 (Ranked 136)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,206 |
-| This game has Diverse Characters | 323 |
+| This game has Diverse Characters | 334 |
+| This game is Highly Recommended | 311 |
 | This game is Relaxing | 309 |
 | This game is Extremely Fun | 307 |
 | This game has Challenging Combat | 302 |
 | This game has Amazing Storytelling | 297 |
-| This game is Highly Recommended | 294 |
 | This game has Quickly Understood Controls | 286 |
 | This game has Amazing Characters | 271 |
 | This game has Unique Visuals | 241 |
@@ -316,4 +316,4 @@ Diff (max vs sum): -28
 | 2023-11-12 | 4.75 | 2,158 | 4,870 |
 | 2023-11-13 | 4.75 | 2,168 | 4,912 |
 | 2023-11-14 | 4.75 | 2,206 | 4,991 |
-| 2023-11-15 | 4.75 | 2,206 | 5,057 |
+| 2023-11-15 | 4.75 | 2,206 | 5,085 |
