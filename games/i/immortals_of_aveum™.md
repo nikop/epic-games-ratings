@@ -6,7 +6,7 @@ Rating: 4.06 (Ranked 973)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 90.00% | ~248 |
-| Battlefields Have Memories | 85.00% | ~234 |
+| Battlefields Have Memories | 86.00% | ~236 |
 | Enlisted | 83.00% | ~228 |
 | Maybe Engage a Little | 79.00% | ~217 |
 | No More Names | 64.00% | ~176 |
@@ -33,8 +33,8 @@ Rating: 4.06 (Ranked 973)
 | Best Dressed | 7.00% | ~19 |
 | Armaments Azure | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |
+| Scholar | 5.00% | ~14 |
 | Armaments Gules | 5.00% | ~14 |
-| Scholar | 4.00% | ~11 |
 | Kitted Out | 4.00% | ~11 |
 | Armaments Vert | 4.00% | ~11 |
 | Veteran | 3.00% | ~8 |

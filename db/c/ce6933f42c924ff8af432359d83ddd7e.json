@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
@@ -1734,6 +1734,11 @@
       "Time": "2023-11-15T01:55:47.0300765+00:00",
       "NumProgressed": 765,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-15T02:31:34.0527347+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1784,9 +1789,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 382
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1794,7 +1799,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1802,7 +1807,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1825,14 +1830,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:55:47.0300761+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:31:34.0527341+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:45:54.586989+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:55:47.0300907+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:21:46.0836848+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:31:34.0527494+00:00"
 }

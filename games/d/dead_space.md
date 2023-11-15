@@ -21,7 +21,7 @@ Rating: 4.64 (Ranked 332)
 | Greenhouse Effect | 51.00% | ~918 |
 | Full Arsenal | 45.00% | ~810 |
 | S.O.S. | 45.00% | ~810 |
-| Get Off My Ship! | 43.00% | ~774 |
+| Get Off My Ship! | 44.00% | ~792 |
 | Strange Transmissions | 43.00% | ~774 |
 | Wreckage | 42.00% | ~756 |
 | Live with the Hot Ones | 41.00% | ~738 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 332)
 | Untouchable | 2.00% | ~36 |
 | One Gun | 2.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 225)  
+Progressed: 1,800 (Ranked 226)  
 Completed: 9 (0.50%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2795,9 +2795,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 662605,
+  "EOS_Progressed": 662609,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1917,
+  "EOS_NewPlayers": 1920,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26540,6 +26540,11 @@
       "Time": "2023-11-15T01:55:56.3720772+00:00",
       "NumProgressed": 662605,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-15T02:31:47.0826296+00:00",
+      "NumProgressed": 662609,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26591,7 +26596,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119269
+      "UsersEstimate": 119270
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -26799,7 +26804,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112643
+      "UsersEstimate": 112644
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -26807,7 +26812,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39756
+      "UsersEstimate": 39757
     },
     {
       "ID": "_03_02_NANUK",
@@ -26966,15 +26971,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 662605,
+      "Progressed": 662609,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-12T10:00:29.2688318+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:55:56.372077+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:31:47.0826291+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:45:02.642579+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:55:56.3721914+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:20:31.3430599+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:31:47.0827856+00:00"
 }

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19837,
+  "EOS_Progressed": 19838,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6578,6 +6578,11 @@
       "Time": "2023-11-15T01:55:54.0741184+00:00",
       "NumProgressed": 19837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T02:31:43.9411663+00:00",
+      "NumProgressed": 19838,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -6606,7 +6611,7 @@
       "Name": "Death from Above",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "achievement_12",
@@ -6622,7 +6627,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 14679
+      "UsersEstimate": 14680
     },
     {
       "ID": "achievement_14",
@@ -6654,7 +6659,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "achievement_18",
@@ -6686,7 +6691,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "achievement_21",
@@ -6718,7 +6723,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "achievement_6",
@@ -6734,7 +6739,7 @@
       "Name": "Off-hand",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "achievement_8",
@@ -6742,7 +6747,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 14481
+      "UsersEstimate": 14482
     },
     {
       "ID": "achievement_9",
@@ -6757,13 +6762,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 19837,
+      "Progressed": 19838,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:55:54.0741182+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:31:43.9411658+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.7937389+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:45:57.5271932+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:55:54.0741646+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:21:50.3557841+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:31:43.9412122+00:00"
 }

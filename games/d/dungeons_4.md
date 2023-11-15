@@ -28,7 +28,7 @@
 | Mana Cannon | 29.00% | ~77 |
 | “… like son” | 24.00% | ~64 |
 | Dungeonlord Gorgu | 20.00% | ~53 |
-| Shame! Shame! Shame! | 18.00% | ~48 |
+| Shame! Shame! Shame! | 19.00% | ~51 |
 | The Cathedral of Light | 17.00% | ~45 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 16.00% | ~43 |
 | Hungry, Hungry Gorgu! | 14.00% | ~37 |
@@ -55,8 +55,8 @@
 | Lavalumps on Ice! | 3.00% | ~8 |
 | Rubble and Ashes | 3.00% | ~8 |
 | Raiders of the Lost Stone | 3.00% | ~8 |
+| The Rune Sockets of Finitude (Part 1) | 3.00% | ~8 |
 | To Infinity And Beyond! | 3.00% | ~8 |
-| The Rune Sockets of Finitude (Part 1) | 2.00% | ~5 |
 | To the Max! | 2.00% | ~5 |
 | The Rune Sockets of Finitude (Part 2) | 2.00% | ~5 |
 | The Last Stand - This Time For Real! | 2.00% | ~5 |

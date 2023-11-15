@@ -6469,10 +6469,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11326,
       "NumberOfAwardsMax": 7440
+    },
+    {
+      "Time": "2023-11-15T02:19:50.8573805+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11329,
+      "NumberOfAwardsMax": 7440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11326,
+  "NumberOfAwards": 11329,
   "NumberOfAwardsMax": 7440,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6492,7 +6498,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 513
+      "Count": 516
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6531,9 +6537,9 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718561,
+  "EOS_Progressed": 718572,
   "EOS_Completed": 2391,
-  "EOS_NewPlayers": 3799,
+  "EOS_NewPlayers": 3801,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30346,6 +30352,11 @@
       "Time": "2023-11-15T01:51:41.5366194+00:00",
       "NumProgressed": 718561,
       "NumCompleted": 2391
+    },
+    {
+      "Time": "2023-11-15T02:27:46.6289113+00:00",
+      "NumProgressed": 718572,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30421,7 +30432,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "ach_contender",
@@ -30477,7 +30488,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30501,7 +30512,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30637,7 +30648,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "ach_survival_expert",
@@ -30764,22 +30775,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718561,
+      "Progressed": 718572,
       "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44103,
+      "Progressed": 44114,
       "Completed": 36541
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-15T01:44:34.3813216+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:51:41.5366192+00:00",
+  "LastChanged": "2023-11-15T02:19:50.8573803+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:27:46.628911+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:44:34.3813224+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:51:41.5367304+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:19:50.8573807+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:27:46.6290387+00:00"
 }

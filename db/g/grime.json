@@ -1465,9 +1465,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158287,
+  "EOS_Progressed": 158290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1159,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15675,6 +15675,11 @@
       "Time": "2023-11-15T01:51:46.8401459+00:00",
       "NumProgressed": 158287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-15T02:27:54.0190584+00:00",
+      "NumProgressed": 158290,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15734,7 +15739,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15764,9 +15769,9 @@
       "ID": "DEFEAT_AMAL2",
       "SetID": "ccc0dlh",
       "Name": "Hunt Down",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 950
+      "UsersEstimate": 1108
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -16053,21 +16058,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157870,
+      "Progressed": 157873,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158287,
+      "Progressed": 158290,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-14T10:01:24.4670559+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:51:46.8401456+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:27:54.019058+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:47:06.8855845+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:51:46.8402205+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:23:34.5230099+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:27:54.0191571+00:00"
 }

@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14971,
+  "EOS_Progressed": 14972,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11262,6 +11262,11 @@
       "Time": "2023-11-15T01:52:46.2163839+00:00",
       "NumProgressed": 14971,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-15T02:29:17.6258377+00:00",
+      "NumProgressed": 14972,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11538,7 +11543,7 @@
       "Name": "Master Negotiator",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "35",
@@ -11553,22 +11558,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14971,
+      "Progressed": 14972,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 925,
-      "Completed": 573
+      "Progressed": 926,
+      "Completed": 574
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:52:46.2163836+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:29:17.6258372+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:47:32.3139847+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:52:46.2164562+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:24:43.368945+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:29:17.6259216+00:00"
 }

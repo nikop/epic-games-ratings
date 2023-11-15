@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5275,
+  "EOS_Progressed": 5277,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3265,6 +3265,11 @@
       "Time": "2023-11-15T01:55:54.299463+00:00",
       "NumProgressed": 5275,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-15T02:31:44.2143017+00:00",
+      "NumProgressed": 5277,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3357,7 +3362,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "GarbageMan",
@@ -3477,7 +3482,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ThisIsDharma",
@@ -3548,7 +3553,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5275,
+      "Progressed": 5277,
       "Completed": 6
     }
   ],
@@ -3556,8 +3561,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:55:54.2994629+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:31:44.2143011+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:45:57.9824964+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:55:54.2994928+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:21:51.0421701+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:31:44.2143428+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
@@ -215,9 +215,9 @@
       "ID": "Finish_P1L3",
       "SetID": "7270ipa",
       "Name": "Back online",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Finish_P1L4",
@@ -432,8 +432,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:55:29.5922464+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:31:10.7378384+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:46.3056449+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:44:19.7853113+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:55:29.5922729+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:19:29.1268914+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:31:10.7378604+00:00"
 }

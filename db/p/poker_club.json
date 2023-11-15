@@ -931,9 +931,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 537689,
+  "EOS_Progressed": 537691,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1394,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24511,6 +24511,11 @@
       "Time": "2023-11-15T01:50:18.6036627+00:00",
       "NumProgressed": 537689,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-15T02:25:51.6361935+00:00",
+      "NumProgressed": 537691,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -24522,7 +24527,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145176
+      "UsersEstimate": 145177
     },
     {
       "ID": "Backdoor",
@@ -24530,7 +24535,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 134422
+      "UsersEstimate": 134423
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -24626,7 +24631,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80653
+      "UsersEstimate": 80654
     },
     {
       "ID": "DogEatDog",
@@ -24666,7 +24671,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75276
+      "UsersEstimate": 75277
     },
     {
       "ID": "Handy",
@@ -24674,7 +24679,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 220452
+      "UsersEstimate": 220453
     },
     {
       "ID": "HoldingYourOwn",
@@ -24770,7 +24775,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 408644
+      "UsersEstimate": 408645
     },
     {
       "ID": "ProPlayer",
@@ -24810,7 +24815,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75276
+      "UsersEstimate": 75277
     },
     {
       "ID": "RockAndHighRoller",
@@ -24881,7 +24886,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 537689,
+      "Progressed": 537691,
       "Completed": 2
     }
   ],
@@ -24889,8 +24894,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-12T12:00:48.3525541+00:00",
-  "LastChanged_Achievements": "2023-11-15T01:50:18.6036623+00:00",
+  "LastChanged_Achievements": "2023-11-15T02:25:51.6361931+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:00.8700093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T01:49:41.232543+00:00",
-  "LastUpdate_Achievements": "2023-11-15T01:50:18.6037673+00:00"
+  "LastUpdate_Ratings": "2023-11-15T02:24:55.1050462+00:00",
+  "LastUpdate_Achievements": "2023-11-15T02:25:51.6363621+00:00"
 }
