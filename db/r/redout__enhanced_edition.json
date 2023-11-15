@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235532,
+  "EOS_Progressed": 235533,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22262,6 +22262,11 @@
       "Time": "2023-11-15T05:07:01.3919141+00:00",
       "NumProgressed": 235532,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-15T06:05:30.4177694+00:00",
+      "NumProgressed": 235533,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22361,7 +22366,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47106
+      "UsersEstimate": 47107
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -22537,22 +22542,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96568
+      "UsersEstimate": 96569
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235532,
+      "Progressed": 235533,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:07:01.3919135+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:05:30.4177691+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:59:30.7056791+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:07:01.3921025+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:58:34.0453031+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:05:30.4178813+00:00"
 }

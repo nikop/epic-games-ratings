@@ -2,9 +2,9 @@
   "ID": "171eb5b083604de697c6d64e243d308b",
   "Name": "The Harvest",
   "ProductSlug": "the-harvest-dc1141",
-  "Ranking_EOS_Progress": 744,
+  "Ranking_EOS_Progress": 745,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T15:57:34.9025419+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:59:31.8379309+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:04:49.7980067+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:58:35.1354694+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:03:53.8442477+00:00"
 }

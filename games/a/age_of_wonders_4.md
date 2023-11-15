@@ -15,9 +15,9 @@ Rating: 4.61 (Ranked 384)
 | Full Ascension | 0.90% | ~49 |
 | Bone Peddler | 0.90% | ~49 |
 | From Friends to Family | 0.90% | ~49 |
+| Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
-| Stronger Together | 0.70% | ~38 |
 | In a Liege of Your Own | 0.70% | ~38 |
 | Chaos Surge | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
@@ -33,6 +33,7 @@ Rating: 4.61 (Ranked 384)
 | Tipping the Scales | 0.50% | ~27 |
 | Seal the Deal | 0.50% | ~27 |
 | Preparation Is Everything | 0.40% | ~22 |
+| Fiery Friend | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
 | Prometheus Avenged | 0.40% | ~22 |
@@ -41,7 +42,6 @@ Rating: 4.61 (Ranked 384)
 | Arch Mage | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
 | Crimson Caldera | 0.30% | ~16 |
-| Fiery Friend | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | Manufactured War | 0.20% | ~11 |

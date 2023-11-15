@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 769,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 4.29,
   "EosHistory": [
@@ -1775,9 +1775,9 @@
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 45,
-      "UsersEstimate": 538
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1799,9 +1799,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 377
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1831,9 +1831,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 415
+      "UsersEstimate": 423
     }
   ],
   "AchievementSets": [
@@ -1846,8 +1846,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:09:35.4882265+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:08:37.8398681+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:59:39.5638672+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:09:35.4882497+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:58:40.7182797+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:08:37.8398825+00:00"
 }

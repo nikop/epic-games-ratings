@@ -7286,9 +7286,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "3",
@@ -7350,9 +7350,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "37",
@@ -7613,8 +7613,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:05:49.7876458+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:04:37.7870408+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:58:07.6364579+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:05:49.7877549+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:57:36.192012+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:04:37.7871163+00:00"
 }

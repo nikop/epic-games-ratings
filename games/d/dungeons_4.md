@@ -56,8 +56,8 @@
 | Rubble and Ashes | 3.00% | ~8 |
 | Raiders of the Lost Stone | 3.00% | ~8 |
 | The Rune Sockets of Finitude (Part 1) | 3.00% | ~8 |
+| To the Max! | 3.00% | ~8 |
 | To Infinity And Beyond! | 3.00% | ~8 |
-| To the Max! | 2.00% | ~5 |
 | The Rune Sockets of Finitude (Part 2) | 2.00% | ~5 |
 | The Last Stand - This Time For Real! | 2.00% | ~5 |
 | No Mana, No Cry | 1.00% | ~3 |

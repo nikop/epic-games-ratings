@@ -2,9 +2,9 @@
   "ID": "6875cef1da484a8ab72dae67d00c350e",
   "Name": "Dead Age",
   "ProductSlug": "dead-age-f46c67",
-  "Ranking_EOS_Progress": 744,
+  "Ranking_EOS_Progress": 745,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.3908125+00:00",
   "LastChanged": "2023-03-31T05:57:20.3908126+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.2989364+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:03:11.5991923+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:08:41.2623138+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:02:42.6058235+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:06:28.1383283+00:00"
 }

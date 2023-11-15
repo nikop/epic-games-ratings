@@ -33,7 +33,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.60% | ~39 |
 | Te Amo Lety | 0.60% | ~39 |
 | I'll Be Back | 0.50% | ~32 |
-| Deck the Balls | 0.50% | ~17 |
+| Deck the Balls | 0.50% | ~18 |
 | Love Conquers All | 0.50% | ~32 |
 | Ashley | 0.40% | ~26 |
 | Benedict Brahrnold | 0.40% | ~26 |
@@ -59,24 +59,24 @@ Number of Ratings: 177  (23.09.2022)
 | Snapped | 0.20% | ~13 |
 | Against All Odds | 0.10% | ~6 |
 | Casabrova | 0.10% | ~6 |
-| Congrats, A Celebrity Hates You | 0.10% | ~3 |
+| Congrats, A Celebrity Hates You | 0.10% | ~4 |
 | D-Club Certified | 0.10% | ~6 |
 | Duck n' Weave | 0.10% | ~6 |
 | Hijinks Averted | 0.10% | ~6 |
 | Host Hijinks | 0.10% | ~6 |
-| Hungry Hungry Hot Tubs | 0.10% | ~3 |
+| Hungry Hungry Hot Tubs | 0.10% | ~4 |
 | Ice Bath | 0.10% | ~6 |
 | Money Shot | 0.10% | ~6 |
 | Notice Me, Sensei | 0.10% | ~6 |
 | Party Pooper | 0.10% | ~6 |
 | Sucker Punch | 0.10% | ~6 |
-| That's a Nice Bush! | 0.10% | ~3 |
+| That's a Nice Bush! | 0.10% | ~4 |
 | The Crush(es) | 0.10% | ~6 |
-| The Most Wonderful Time of the Year | 0.10% | ~3 |
+| The Most Wonderful Time of the Year | 0.10% | ~4 |
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,460 (Ranked 179)  
+Progressed: 6,461 (Ranked 179)  
 Completed: 3 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 3 (0.05%) (Ranked 302)
 | 2023-11-12 | 6,452 | 3 |
 | 2023-11-13 | 6,455 | 3 |
 | 2023-11-14 | 6,457 | 3 |
-| 2023-11-15 | 6,460 | 3 |
+| 2023-11-15 | 6,461 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

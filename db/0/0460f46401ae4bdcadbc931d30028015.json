@@ -591,9 +591,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3590,
+  "EOS_Progressed": 3591,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5121,6 +5121,11 @@
       "Time": "2023-11-15T04:03:35.0213596+00:00",
       "NumProgressed": 3590,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T06:03:32.5990165+00:00",
+      "NumProgressed": 3591,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5157,7 +5162,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "achievement_13",
@@ -5173,7 +5178,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "achievement_15",
@@ -5229,7 +5234,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "achievement_21",
@@ -5300,7 +5305,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3590,
+      "Progressed": 3591,
       "Completed": 0
     }
   ],
@@ -5308,8 +5313,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-13T15:58:51.2109706+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:04:20.6075842+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:03:32.5990162+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:00:25.8966405+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:04:20.6076328+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:59:12.1334378+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:03:32.5990538+00:00"
 }

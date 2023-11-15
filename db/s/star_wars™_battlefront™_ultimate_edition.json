@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -4027,9 +4027,9 @@
       "ID": "achievement_60",
       "SetID": "cemm4l8",
       "Name": "What will you become?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_61",
@@ -4098,8 +4098,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:10:18.8180462+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:09:09.7757432+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
   "LastUpdate_Ratings": "2023-11-15T05:02:59.8687566+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:10:18.8181274+00:00"
+  "LastUpdate_Achievements": "2023-11-15T06:09:09.7758003+00:00"
 }

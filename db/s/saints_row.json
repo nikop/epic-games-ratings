@@ -4035,9 +4035,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 78541,
+  "EOS_Progressed": 78542,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 942,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27655,6 +27655,11 @@
       "Time": "2023-11-15T05:09:09.7729498+00:00",
       "NumProgressed": 78541,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-15T06:08:18.7199097+00:00",
+      "NumProgressed": 78542,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27682,7 +27687,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14137
+      "UsersEstimate": 14138
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -27778,7 +27783,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36914
+      "UsersEstimate": 36915
     },
     {
       "ID": "customize_a_vehicle",
@@ -27794,7 +27799,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29060
+      "UsersEstimate": 29061
     },
     {
       "ID": "cutting_edge_materials",
@@ -27810,7 +27815,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -27882,7 +27887,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18064
+      "UsersEstimate": 18065
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -27946,7 +27951,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21991
+      "UsersEstimate": 21992
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -27962,7 +27967,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27489
+      "UsersEstimate": 27490
     },
     {
       "ID": "one_third_purple",
@@ -28018,7 +28023,7 @@
       "Name": "Food for Thought",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21991
+      "UsersEstimate": 21992
     },
     {
       "ID": "two_thirds_purple",
@@ -28050,7 +28055,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32987
+      "UsersEstimate": 32988
     },
     {
       "ID": "whole_map_purple",
@@ -28066,7 +28071,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -28089,13 +28094,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 78541,
+      "Progressed": 78542,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 50178,
+      "Progressed": 50179,
       "Completed": 4315
     }
   ],
@@ -28103,8 +28108,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-15T01:49:57.235981+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:09:09.7729493+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:08:18.7199087+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:06.5148406+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:03:25.2532462+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:09:09.7731629+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:02:52.586076+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:08:18.7200552+00:00"
 }

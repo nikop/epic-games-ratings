@@ -129,12 +129,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.80% | ~123 |
 | Clerics | 0.80% | ~123 |
 | Egypt | 0.80% | ~123 |
+| Hittite Paganism | 0.80% | ~123 |
 | Turreted Elephant | 0.80% | ~123 |
 | Poetic Leader | 0.80% | ~123 |
 | Noble Difficulty | 0.70% | ~107 |
 | Cao'an | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
-| Hittite Paganism | 0.70% | ~107 |
 | All Nations | 0.70% | ~107 |
 | The Great Mage | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,328 (Ranked 146)  
+Progressed: 15,329 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 5 (0.03%) (Ranked 314)
 | 2023-11-12 | 15,291 | 5 |
 | 2023-11-13 | 15,305 | 5 |
 | 2023-11-14 | 15,324 | 5 |
-| 2023-11-15 | 15,328 | 5 |
+| 2023-11-15 | 15,329 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

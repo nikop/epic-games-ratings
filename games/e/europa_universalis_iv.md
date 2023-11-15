@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Decent Reserve | 0.10% | ~456 |
 | A Hero’s Welcome | 0.10% | ~456 |
 | A Pile of Gold | 0.10% | ~456 |
 | A Protected Market | 0.10% | ~456 |
@@ -84,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One King to Rule! | 0.10% | ~456 |
 | Populists in Government | 0.10% | ~456 |
 | Queen of Conquest | 0.10% | ~456 |
+| Redecorating | 0.10% | ~456 |
 | Respected | 0.10% | ~456 |
 | Royal Authority | 0.10% | ~456 |
 | Ruina Imperii | 0.10% | ~456 |
@@ -121,13 +123,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | We bled for this | 0.10% | ~456 |
 | Wonderful | 0.10% | ~456 |
 | World Discoverer | 0.10% | ~456 |
+| You Get A New Home, And You Get A New Home | 0.10% | ~456 |
 | King of Kings | 0.10% | ~456 |
 | Restore the Pentarchy | 0.10% | ~456 |
 | The Last Crusade | 0.10% | ~456 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
-| A Decent Reserve | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
@@ -285,7 +287,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rags and Riches | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | The Reapers | 0.00% | ~0 |
-| Redecorating | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Relentless Push East | 0.00% | ~0 |
 | Rise of the White Sheep | 0.00% | ~0 |
@@ -362,7 +363,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
-| You Get A New Home, And You Get A New Home | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
 | Legacy of Saint George | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,858 (Ranked 41)  
+Progressed: 455,869 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -579,7 +579,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
-| 2023-11-15 | 455,858 | 1 |
+| 2023-11-15 | 455,869 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,584 (Ranked 24)  

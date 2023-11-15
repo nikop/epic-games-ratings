@@ -9,19 +9,19 @@
 | Haute cuisine | 46.00% | ~72 |
 | Demolition expert | 39.00% | ~61 |
 | I didn't do it! | 39.00% | ~61 |
-| Keep away from children | 37.00% | ~58 |
-| Open up wide | 35.00% | ~55 |
+| Keep away from children | 36.00% | ~57 |
 | Wooooooow! | 35.00% | ~55 |
-| Artistic fool | 33.00% | ~51 |
-| Let the boot talk | 31.00% | ~48 |
-| Shadow on the wall | 28.00% | ~44 |
+| Open up wide | 34.00% | ~53 |
+| Artistic fool | 32.00% | ~50 |
+| Let the boot talk | 31.00% | ~49 |
+| Shadow on the wall | 29.00% | ~46 |
 | Chapter II | 26.00% | ~41 |
 | Handyman | 23.00% | ~36 |
 | Bubblekillerfamily | 23.00% | ~36 |
 | Achoo!! | 23.00% | ~36 |
 | Chapter III | 23.00% | ~36 |
 | Like a moth in the Wind | 23.00% | ~36 |
-| Quite a buggy game | 21.00% | ~33 |
+| Quite a buggy game | 20.00% | ~31 |
 | Mirror mirror on the wall... | 20.00% | ~31 |
 | Pacifist | 19.00% | ~30 |
 | Fastidious Clown | 18.00% | ~28 |
@@ -34,7 +34,7 @@
 | Nothing can stop me | 10.00% | ~16 |
 | Useless but beautiful | 9.00% | ~14 |
 | Mumbo Jumbo | 9.00% | ~14 |
-| Lollipop | 8.00% | ~12 |
+| Lollipop | 8.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~11 |
 | It's nothing personal | 7.00% | ~11 |
 | The hands of a healer | 6.00% | ~9 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 393)  
+Progressed: 157 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-12 | 153 | 0 |
 | 2023-11-13 | 154 | 0 |
 | 2023-11-14 | 156 | 0 |
+| 2023-11-15 | 157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

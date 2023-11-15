@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -370,6 +370,11 @@
       "Time": "2023-11-14T18:07:39.3615679+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-15T06:06:06.4672831+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -387,9 +392,9 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "0000_achv_fallspot",
@@ -403,9 +408,9 @@
       "ID": "0000_achv_findbugs",
       "SetID": "dhn82m5",
       "Name": "Quite a buggy game",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -421,7 +426,7 @@
       "Name": "Let the boot talk",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "0000_achv_noskip",
@@ -477,7 +482,7 @@
       "Name": "Lollipop",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "0000_achv_unstoppable",
@@ -491,9 +496,9 @@
       "ID": "1001_achv_shadowplay",
       "SetID": "dhn82m5",
       "Name": "Shadow on the wall",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "1004_achv_farts",
@@ -507,9 +512,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "1006_achv_chapter1",
@@ -555,9 +560,9 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -748,7 +753,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
@@ -756,8 +761,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:07:51.1310308+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:06:06.4672824+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:49.9744384+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:58:09.4064607+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:07:51.1310773+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:57:37.3505111+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:06:06.4673139+00:00"
 }

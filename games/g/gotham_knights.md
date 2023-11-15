@@ -5,36 +5,36 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,984 |
+| First Step Into the Knight | 51.00% | ~38,985 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,754 |
-| Loose Ends | 34.00% | ~25,989 |
+| Loose Ends | 34.00% | ~25,990 |
 | To the Victor Go the Spoils | 28.00% | ~21,403 |
 | Knighthood | 27.00% | ~20,639 |
 | Get ReQ'd | 25.00% | ~19,110 |
 | Whispered Words | 25.00% | ~19,110 |
 | The Batman Family | 23.00% | ~17,581 |
 | Lock and Key | 22.00% | ~16,817 |
-| Something in the Clay | 21.00% | ~16,052 |
-| Quartzer Life Crisis | 21.00% | ~16,052 |
+| Something in the Clay | 21.00% | ~16,053 |
+| Quartzer Life Crisis | 21.00% | ~16,053 |
 | Working Hard or Harley Working? | 20.00% | ~15,288 |
 | Unstoppable Force | 20.00% | ~15,288 |
 | Bad Apples in Every Orchard | 20.00% | ~15,288 |
-| Snow Problem | 19.00% | ~14,523 |
+| Snow Problem | 19.00% | ~14,524 |
 | The Show Mud Go On | 18.00% | ~13,759 |
 | From Inside Gotham's Walls | 18.00% | ~13,759 |
 | Protector of Gotham | 17.00% | ~12,995 |
-| Universal Health Scare | 16.00% | ~12,230 |
+| Universal Health Scare | 16.00% | ~12,231 |
 | In Your Element | 15.00% | ~11,466 |
 | Voiceless | 15.00% | ~11,466 |
-| Rock and a Hard Place | 14.00% | ~10,701 |
-| Cooldown | 14.00% | ~10,701 |
-| Seeking Asylum | 14.00% | ~10,701 |
+| Rock and a Hard Place | 14.00% | ~10,702 |
+| Cooldown | 14.00% | ~10,702 |
+| Seeking Asylum | 14.00% | ~10,702 |
 | Not On My Watch | 13.00% | ~9,937 |
 | Shock Til They Drop | 13.00% | ~9,937 |
 | End of an Era | 12.00% | ~9,173 |
 | Bulldozed | 12.00% | ~9,173 |
 | Gotham Knight | 12.00% | ~9,173 |
-| Gotham City Confidential | 11.00% | ~8,408 |
+| Gotham City Confidential | 11.00% | ~8,409 |
 | Drone You Out | 10.00% | ~7,644 |
 | Out of Their League | 9.00% | ~6,880 |
 | Solid Alibi | 9.00% | ~6,880 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,439 (Ranked 97)  
+Progressed: 76,441 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 123 (0.16%) (Ranked 260)
 | 2023-11-12 | 76,353 | 123 |
 | 2023-11-13 | 76,394 | 123 |
 | 2023-11-14 | 76,429 | 123 |
-| 2023-11-15 | 76,439 | 123 |
+| 2023-11-15 | 76,441 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,938  (Ranked 98)  
 Sum: 4,985 (Ranked 138)  

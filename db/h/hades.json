@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -5318,10 +5318,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 8208,
       "NumberOfAwardsMax": 3365
+    },
+    {
+      "Time": "2023-11-15T05:57:45.0726847+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 8209,
+      "NumberOfAwardsMax": 3365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8208,
+  "NumberOfAwards": 8209,
   "NumberOfAwardsMax": 3365,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5347,7 +5353,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5416,9 +5422,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 713918,
+  "EOS_Progressed": 713919,
   "EOS_Completed": 6483,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -27956,6 +27962,11 @@
       "Time": "2023-11-15T05:09:39.4843804+00:00",
       "NumProgressed": 713918,
       "NumCompleted": 6483
+    },
+    {
+      "Time": "2023-11-15T06:08:40.7693909+00:00",
+      "NumProgressed": 713919,
+      "NumCompleted": 6483
     }
   ],
   "TotalAchievements": 49,
@@ -28023,7 +28034,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 371237
+      "UsersEstimate": 371238
     },
     {
       "ID": "AchClearAsphodel",
@@ -28031,7 +28042,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 563995
+      "UsersEstimate": 563996
     },
     {
       "ID": "AchClearElysium",
@@ -28039,7 +28050,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 471186
+      "UsersEstimate": 471187
     },
     {
       "ID": "AchClearElysiumEM",
@@ -28071,7 +28082,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 635387
+      "UsersEstimate": 635388
     },
     {
       "ID": "AchCrushedThanatos",
@@ -28079,7 +28090,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 321263
+      "UsersEstimate": 321264
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -28119,7 +28130,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 135644
+      "UsersEstimate": 135645
     },
     {
       "ID": "AchFoundSummon",
@@ -28135,7 +28146,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 478325
+      "UsersEstimate": 478326
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -28183,7 +28194,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 249871
+      "UsersEstimate": 249872
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -28191,7 +28202,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 442629
+      "UsersEstimate": 442630
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -28215,7 +28226,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 57113
+      "UsersEstimate": 57114
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -28239,7 +28250,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 257010
+      "UsersEstimate": 257011
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -28343,7 +28354,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 285567
+      "UsersEstimate": 285568
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -28358,15 +28369,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 713918,
+      "Progressed": 713919,
       "Completed": 6483
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-11-14T21:57:50.0864756+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:09:39.4843799+00:00",
+  "LastChanged": "2023-11-15T05:57:45.0726845+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:08:40.7693906+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:07.9323253+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:58:19.7140523+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:09:39.4845776+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:57:45.0726849+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:08:40.769504+00:00"
 }

@@ -4257,9 +4257,9 @@
       "Count": 300
     }
   ],
-  "EOS_Progressed": 220947,
+  "EOS_Progressed": 220967,
   "EOS_Completed": 453,
-  "EOS_NewPlayers": 2194,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18137,6 +18137,11 @@
       "Time": "2023-11-15T05:08:59.8731862+00:00",
       "NumProgressed": 220947,
       "NumCompleted": 453
+    },
+    {
+      "Time": "2023-11-15T06:06:41.7354097+00:00",
+      "NumProgressed": 220967,
+      "NumCompleted": 453
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18219,9 +18224,9 @@
       "ID": "Defeat_Guardian",
       "SetID": "bkp3b1a",
       "Name": "Power Surge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Defeat_Mantis",
@@ -18243,9 +18248,9 @@
       "ID": "Defeat_Nightweaver",
       "SetID": "bkp3b1a",
       "Name": "Dark Designs",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -18283,25 +18288,25 @@
       "ID": "Discover_Letos_Lab",
       "SetID": "bkp3b1a",
       "Name": "The Agenda",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Meet_Custodian",
       "SetID": "bkp3b1a",
       "Name": "Not a Janitor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Meet_Flautist",
       "SetID": "bkp3b1a",
       "Name": "Familiar Face",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Meet_Meidra",
@@ -18347,9 +18352,9 @@
       "ID": "Obtain_Archetype_Level",
       "SetID": "bkp3b1a",
       "Name": "Top Performer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -18411,9 +18416,9 @@
       "ID": "Obtain_Melee_Weapons_B",
       "SetID": "bkp3b1a",
       "Name": "Cutting Edge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Obtain_Nightweaver_Item",
@@ -18427,9 +18432,9 @@
       "ID": "Obtain_Relics",
       "SetID": "bkp3b1a",
       "Name": "The Collector",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -18451,9 +18456,9 @@
       "ID": "Obtain_Traits_A",
       "SetID": "bkp3b1a",
       "Name": "Not Your Average Trait",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Obtain_Traits_B",
@@ -18499,9 +18504,9 @@
       "ID": "Upgrade_Relic",
       "SetID": "bkp3b1a",
       "Name": "Make Some Room",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -18515,9 +18520,9 @@
       "ID": "Upgrade_Standard_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "No One Should Have All That Power",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -18539,9 +18544,9 @@
       "ID": "Upgrade_Weapon_Mutator",
       "SetID": "bkp3b1a",
       "Name": "Transmutate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 221
     },
     {
       "ID": "DLC1_Defeat_OneTrueKing",
@@ -18588,13 +18593,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 220947,
+      "Progressed": 220967,
       "Completed": 453
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 112,
+      "Progressed": 132,
       "Completed": 98
     }
   ],
@@ -18602,8 +18607,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-15T05:03:30.7954891+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:08:59.8731857+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:06:41.7354095+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-15T05:03:30.7954897+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:08:59.8733534+00:00"
+  "LastUpdate_Ratings": "2023-11-15T06:02:56.5444639+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:06:41.7355081+00:00"
 }

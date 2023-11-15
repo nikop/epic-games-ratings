@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Setting Sail | 85.00% | ~61 |
 | A Small Thirsty Thing | 14.00% | ~10 |
-| Spirit Within | 11.00% | ~8 |
+| Spirit Within | 13.00% | ~9 |
 | Overboard | 8.00% | ~6 |
 | Dousing a Venerable Flame | 8.00% | ~6 |
 | Advanced Armaments | 8.00% | ~6 |
@@ -14,10 +14,10 @@
 | Rain Must Fall | 6.00% | ~4 |
 | Bladesmith | 6.00% | ~4 |
 | The Guardian of Fire | 6.00% | ~4 |
+| Sommelier | 4.00% | ~3 |
 | Explorer | 4.00% | ~3 |
 | Sovereignty of Irons | 4.00% | ~3 |
 | A Sandwyrm's Hoard | 4.00% | ~3 |
-| Sommelier | 3.00% | ~2 |
 | Let Me Solo Them | 3.00% | ~2 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |

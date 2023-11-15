@@ -40,11 +40,11 @@
 | Precision shot | 3.00% | ~37 |
 | City in the Clouds | 3.00% | ~37 |
 | That's no moon | 3.00% | ~37 |
+| What will you become? | 3.00% | ~37 |
 | Hold the line! | 2.00% | ~24 |
 | The Force is strong with this one | 2.00% | ~24 |
 | This is a new day, a new beginning | 2.00% | ~24 |
 | Alternative solution | 2.00% | ~24 |
-| What will you become? | 2.00% | ~24 |
 | The circle is now complete | 2.00% | ~24 |
 | Disturbed tranquility | 2.00% | ~24 |
 | Playing the objective | 1.00% | ~12 |

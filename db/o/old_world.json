@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15328,
+  "EOS_Progressed": 15329,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15990,6 +15990,11 @@
       "Time": "2023-11-15T05:06:59.741903+00:00",
       "NumProgressed": 15328,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-15T06:05:29.4233346+00:00",
+      "NumProgressed": 15329,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17839,9 +17844,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -18736,21 +18741,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15328,
+      "Progressed": 15329,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15328,
+      "Progressed": 15329,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-15T05:06:59.7419019+00:00",
+  "LastChanged_Achievements": "2023-11-15T06:05:29.4233342+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:57:29.7360127+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:06:59.7432912+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:57:10.3769112+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:05:29.4243413+00:00"
 }

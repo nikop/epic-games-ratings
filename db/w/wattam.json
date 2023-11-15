@@ -2,9 +2,9 @@
   "ID": "lupine",
   "Name": "Wattam",
   "ProductSlug": "wattam",
-  "Ranking_EOS_Progress": 744,
+  "Ranking_EOS_Progress": 745,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2019-12-17T11:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.405164+00:00",
   "LastChanged": "2023-03-31T05:58:33.4051641+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:15.7808713+00:00",
-  "LastUpdate_Ratings": "2023-11-15T04:58:16.4559293+00:00",
-  "LastUpdate_Achievements": "2023-11-15T05:04:36.622823+00:00"
+  "LastUpdate_Ratings": "2023-11-15T05:57:43.0816441+00:00",
+  "LastUpdate_Achievements": "2023-11-15T06:03:44.267191+00:00"
 }

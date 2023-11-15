@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~18,903 |
-| Safety in the Storm | 24.00% | ~4,776 |
-| A Better Idea | 24.00% | ~4,776 |
-| Begin the Ceremony | 20.00% | ~3,980 |
-| Mission Accomplished | 19.00% | ~3,781 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,985 |
-| A Starfighter of Your Own | 14.00% | ~2,786 |
-| Asset Secured | 13.00% | ~2,587 |
+| Fracture at Fostar Haven | 95.00% | ~18,911 |
+| Safety in the Storm | 24.00% | ~4,777 |
+| A Better Idea | 24.00% | ~4,777 |
+| Begin the Ceremony | 20.00% | ~3,981 |
+| Mission Accomplished | 19.00% | ~3,782 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,986 |
+| A Starfighter of Your Own | 14.00% | ~2,787 |
+| Asset Secured | 13.00% | ~2,588 |
 | Unkillable | 8.00% | ~1,592 |
 | Together, Vanguard | 7.00% | ~1,393 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,194 |
@@ -34,7 +34,7 @@
 | Against the Current | 0.90% | ~179 |
 | Denied | 0.80% | ~159 |
 | Found Your Place | 0.70% | ~139 |
-| Unstoppable Ace | 0.50% | ~99 |
+| Unstoppable Ace | 0.50% | ~100 |
 | Seasoned Star Pilot | 0.40% | ~80 |
 | The Trap is Set | 0.40% | ~80 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~80 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~20 |
 | The Galaxy's Finest (Ace) | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,898 (Ranked 134)  
+Progressed: 19,906 (Ranked 134)  
 Completed: 1 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.01%) (Ranked 330)
 | 2023-11-12 | 19,415 | 1 |
 | 2023-11-13 | 19,649 | 1 |
 | 2023-11-14 | 19,858 | 1 |
-| 2023-11-15 | 19,898 | 1 |
+| 2023-11-15 | 19,906 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

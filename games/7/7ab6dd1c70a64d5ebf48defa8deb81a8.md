@@ -12,6 +12,7 @@
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
 | Scholar | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
+| Break Out | 0.50% | ~1 |
 | Find Allies | 0.50% | ~1 |
 | Trinity | 0.50% | ~1 |
 | Adventurer | 0.50% | ~1 |
@@ -19,7 +20,6 @@
 | Big Bazar | 0.50% | ~1 |
 | Geared Up | 0.50% | ~1 |
 | Stone Collection | 0.50% | ~1 |
-| Break Out | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |

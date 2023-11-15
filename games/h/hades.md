@@ -6,21 +6,21 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~635,387 |
-| Escaped Asphodel | 79.00% | ~563,995 |
+| Escaped Tartarus | 89.00% | ~635,388 |
+| Escaped Asphodel | 79.00% | ~563,996 |
 | Arms Collector | 70.00% | ~499,743 |
-| Friends in High Places | 67.00% | ~478,325 |
-| Escaped Elysium | 66.00% | ~471,186 |
-| Chthonic Colleagues | 62.00% | ~442,629 |
-| Is There No Escape? | 52.00% | ~371,237 |
-| Death Dealer | 45.00% | ~321,263 |
+| Friends in High Places | 67.00% | ~478,326 |
+| Escaped Elysium | 66.00% | ~471,187 |
+| Chthonic Colleagues | 62.00% | ~442,630 |
+| Is There No Escape? | 52.00% | ~371,238 |
+| Death Dealer | 45.00% | ~321,264 |
 | Skelly Slayer | 42.00% | ~299,846 |
-| Well Stocked | 40.00% | ~285,567 |
+| Well Stocked | 40.00% | ~285,568 |
 | Back to Work | 38.00% | ~271,289 |
 | Day-or-Night Trader | 37.00% | ~264,150 |
 | Blessed by the Gods | 37.00% | ~264,150 |
-| Urge to Sing | 36.00% | ~257,010 |
-| Blood Bound | 35.00% | ~249,871 |
+| Urge to Sing | 36.00% | ~257,011 |
+| Blood Bound | 35.00% | ~249,872 |
 | Three-Headed Boy | 32.00% | ~228,454 |
 | River Denizens | 28.00% | ~199,897 |
 | Grown Close | 28.00% | ~199,897 |
@@ -32,7 +32,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | To Charon's Credit | 22.00% | ~157,062 |
 | Rare Collectible | 22.00% | ~157,062 |
 | Weapon of Fate | 21.00% | ~149,923 |
-| Something From Everyone | 19.00% | ~135,644 |
+| Something From Everyone | 19.00% | ~135,645 |
 | Hold the Onions | 18.00% | ~128,505 |
 | Well Versed | 17.00% | ~121,366 |
 | War-God's Bloodlust | 15.00% | ~107,088 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~64,253 |
 | Thanks, But No Thanks | 9.00% | ~64,253 |
 | Infernal Arms | 9.00% | ~64,253 |
-| Divided by Death | 8.00% | ~57,113 |
+| Divided by Death | 8.00% | ~57,114 |
 | Harsh Conditions | 7.00% | ~49,974 |
 | One for the Ages | 7.00% | ~49,974 |
 | Complete Set | 6.00% | ~42,835 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,557 |
 | Friends Forever | 4.00% | ~28,557 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,918 (Ranked 22)  
+Progressed: 713,919 (Ranked 22)  
 Completed: 6,483 (0.91%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 6,483 (0.91%) (Ranked 165)
 | 2023-11-12 | 713,636 | 6,480 |
 | 2023-11-13 | 713,774 | 6,481 |
 | 2023-11-14 | 713,902 | 6,483 |
-| 2023-11-15 | 713,918 | 6,483 |
+| 2023-11-15 | 713,919 | 6,483 |
 ## Awards
 Max (Character Customization): 3,365  (Ranked 93)  
-Sum: 8,208 (Ranked 102)  
+Sum: 8,209 (Ranked 102)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): -9
 | This game is Extremely Fun | 254 |
 | This game has Diverse Characters | 253 |
 | This game has Quickly Understood Controls | 246 |
-| This game is Relaxing | 242 |
+| This game is Relaxing | 243 |
 | This game has Unique Visuals | 236 |
 | This game has a Creative Community | 174 |
 | This game has Challenging Combat | 170 |
@@ -567,3 +567,4 @@ Diff (max vs sum): -9
 | 2023-11-12 | 4.92 | - | 3,363 | 8,198 |
 | 2023-11-13 | 4.92 | - | 3,364 | 8,201 |
 | 2023-11-14 | 4.92 | - | 3,365 | 8,208 |
+| 2023-11-15 | 4.92 | - | 3,365 | 8,209 |

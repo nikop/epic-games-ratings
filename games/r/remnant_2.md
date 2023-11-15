@@ -8,20 +8,32 @@ Rating: 4.75 (Ranked 145)
 | Crafty | 0.10% | ~221 |
 | Am I Seeing This? | 0.10% | ~221 |
 | Ghost in the Machine | 0.10% | ~221 |
+| Power Surge | 0.10% | ~221 |
 | The Killing Jar | 0.10% | ~221 |
+| Dark Designs | 0.10% | ~221 |
 | Not So Special Now | 0.10% | ~221 |
+| The Agenda | 0.10% | ~221 |
+| Not a Janitor | 0.10% | ~221 |
+| Familiar Face | 0.10% | ~221 |
 | Tall Tales | 0.10% | ~221 |
 | Blue Goddess | 0.10% | ~221 |
 | First of Many | 0.10% | ~221 |
+| Top Performer | 0.10% | ~221 |
 | Shhh...It's a Secret | 0.10% | ~221 |
 | Boss'n Up | 0.10% | ~221 |
 | Edgelord | 0.10% | ~221 |
+| Cutting Edge | 0.10% | ~221 |
+| The Collector | 0.10% | ~221 |
 | Scrap Collector | 0.10% | ~221 |
 | Scrap Hoarder | 0.10% | ~221 |
+| Not Your Average Trait | 0.10% | ~221 |
 | The Ultimate Weapon | 0.10% | ~221 |
 | Almost There | 0.10% | ~221 |
+| Make Some Room | 0.10% | ~221 |
 | Good, But Could Be Better! | 0.10% | ~221 |
+| No One Should Have All That Power | 0.10% | ~221 |
 | Trait Chaser | 0.10% | ~221 |
+| Transmutate | 0.10% | ~221 |
 | Regicide | 0.10% | ~0 |
 | Master of the Dark Arts | 0.10% | ~0 |
 | Expanding Horizons | 0.00% | ~0 |
@@ -30,38 +42,26 @@ Rating: 4.75 (Ranked 145)
 | Gleaming the Cube | 0.00% | ~0 |
 | Traitor | 0.00% | ~0 |
 | Forever is a Long Time Coming | 0.00% | ~0 |
-| Power Surge | 0.00% | ~0 |
 | The God Gambit | 0.00% | ~0 |
-| Dark Designs | 0.00% | ~0 |
 | Madman's Paradise | 0.00% | ~0 |
 | Quest for Survival | 0.00% | ~0 |
 | Red Room | 0.00% | ~0 |
-| The Agenda | 0.00% | ~0 |
-| Not a Janitor | 0.00% | ~0 |
-| Familiar Face | 0.00% | ~0 |
 | Equal Measures | 0.00% | ~0 |
 | Duality | 0.00% | ~0 |
-| Top Performer | 0.00% | ~0 |
 | Bad Moon Rising | 0.00% | ~0 |
 | Was This Supposed To Happen? | 0.00% | ~0 |
 | Strapped | 0.00% | ~0 |
 | The Trigger | 0.00% | ~0 |
-| Cutting Edge | 0.00% | ~0 |
 | The Web | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
-| Not Your Average Trait | 0.00% | ~0 |
 | All These Traits� | 0.00% | ~0 |
 | Proving Grounds | 0.00% | ~0 |
 | Carnage in C-Minor | 0.00% | ~0 |
-| Make Some Room | 0.00% | ~0 |
-| No One Should Have All That Power | 0.00% | ~0 |
 | Maxed Out! | 0.00% | ~0 |
-| Transmutate | 0.00% | ~0 |
 | Succession | 0.00% | ~0 |
 | A Foul Feast | 0.00% | ~0 |
 | You Shall Pass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,947 (Ranked 68)  
+Progressed: 220,967 (Ranked 68)  
 Completed: 453 (0.21%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 453 (0.21%) (Ranked 247)
 | 2023-11-12 | 220,140 | 441 |
 | 2023-11-13 | 220,381 | 444 |
 | 2023-11-14 | 220,814 | 450 |
-| 2023-11-15 | 220,947 | 453 |
+| 2023-11-15 | 220,967 | 453 |
 ## Awards
 Max (Great Boss Battles): 2,206  (Ranked 108)  
 Sum: 4,997 (Ranked 137)  
