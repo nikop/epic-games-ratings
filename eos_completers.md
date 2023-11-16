@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.87% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.83% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -39,7 +39,7 @@
 | 36 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Smelter](games/s/smelter.md) | 9.76% |
-| 40 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.49% |
+| 40 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.40% |
 | 41 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
 | 42 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
@@ -52,7 +52,7 @@
 | 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
-| 53 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.56% |
+| 53 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 54 | [Sonic Origins](games/s/sonic_origins.md) | 7.49% |
 | 55 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 56 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.00% |
@@ -78,8 +78,8 @@
 | 76 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 77 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.53% |
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49% |
-| 79 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.36% |
-| 80 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
+| 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
+| 79 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.35% |
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.14% |
 | 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
@@ -153,7 +153,7 @@
 | 151 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 151 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 153 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 154 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.10% |
+| 154 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.09% |
 | 155 | [Adios](games/a/adios.md) | 1.07% |
 | 156 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
 | 157 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.05% |
@@ -188,9 +188,9 @@
 | 184 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 184 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 188 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 189 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.57% |
-| 190 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
-| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.56% |
+| 189 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.56% |
+| 189 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
+| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.56% |
 | 192 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 193 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.54% |
 | 194 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.53% |
@@ -254,9 +254,9 @@
 | 252 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.20% |
 | 252 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 252 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 255 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.19% |
 | 255 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 257 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 256 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.18% |
+| 256 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 258 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 258 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 258 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.17% |
