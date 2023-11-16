@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -12073,10 +12073,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57806,
       "NumberOfAwardsMax": 7026
+    },
+    {
+      "Time": "2023-11-16T17:58:12.4049724+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57820,
+      "NumberOfAwardsMax": 7026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57806,
+  "NumberOfAwards": 57820,
   "NumberOfAwardsMax": 7026,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12120,7 +12126,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6295
+      "Count": 6309
     },
     {
       "Text": "This game is Relaxing",
@@ -12147,9 +12153,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456831,
+  "EOS_Progressed": 456879,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6291,
+  "EOS_NewPlayers": 6297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36207,6 +36213,11 @@
       "Time": "2023-11-16T17:04:28.4213701+00:00",
       "NumProgressed": 456831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T18:04:46.9816238+00:00",
+      "NumProgressed": 456879,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36488,9 +36499,9 @@
       "ID": "achievement_avar_khaganate",
       "SetID": "8p2n7he",
       "Name": "Avar Khaganate",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_azur_seme_de_lis_or",
@@ -39121,21 +39132,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456831,
+      "Progressed": 456879,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456831,
+      "Progressed": 456879,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-16T13:04:55.338745+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:04:28.4213697+00:00",
+  "LastChanged": "2023-11-16T17:58:12.4049723+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:04:46.9816234+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:14.7504367+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:04:28.4223766+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:58:12.4049728+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:04:46.982672+00:00"
 }

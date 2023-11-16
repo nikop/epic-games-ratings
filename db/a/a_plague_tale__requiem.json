@@ -3,11 +3,11 @@
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 174,
-  "Ranking_Popularity": 223,
+  "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -631,7 +631,7 @@
   ],
   "EOS_Progressed": 13909,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -11602,8 +11602,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-15T13:06:42.858976+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:03:55.3155613+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:04:09.8956908+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:31.2906465+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:59:55.4311598+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:03:55.3156291+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:00:05.3703604+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:04:09.8957577+00:00"
 }

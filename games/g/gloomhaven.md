@@ -6,35 +6,35 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,790 |
-| Overkill | 34.00% | ~7,116 |
-| Vaccine Incoming | 33.00% | ~6,906 |
-| A normal day in Gloomhaven | 32.00% | ~6,697 |
-| Spread the plague | 30.00% | ~6,278 |
-| Get over here! | 25.00% | ~5,232 |
-| Just when I thought I was out... | 19.00% | ~3,976 |
-| Precious! | 17.00% | ~3,558 |
-| Mine... All Mine... | 17.00% | ~3,558 |
-| Grizzled veteran | 15.00% | ~3,139 |
-| Anatomy Lesson | 15.00% | ~3,139 |
-| Light of my life | 14.00% | ~2,930 |
-| You activated my trap card! | 13.00% | ~2,721 |
-| Obstacle race | 13.00% | ~2,721 |
-| Augmented rat | 11.00% | ~2,302 |
-| Doom and gloom | 11.00% | ~2,302 |
-| Who's the Boss? | 10.00% | ~2,093 |
-| Dungeon Veteran | 8.00% | ~1,674 |
-| Pack leader | 8.00% | ~1,674 |
-| Pain is your friend | 8.00% | ~1,674 |
-| Black death | 8.00% | ~1,674 |
-| Play it again, Sam | 8.00% | ~1,674 |
+| I'm not dead yet | 42.00% | ~8,794 |
+| Overkill | 34.00% | ~7,119 |
+| Vaccine Incoming | 33.00% | ~6,910 |
+| A normal day in Gloomhaven | 32.00% | ~6,700 |
+| Spread the plague | 30.00% | ~6,282 |
+| Get over here! | 25.00% | ~5,235 |
+| Just when I thought I was out... | 19.00% | ~3,978 |
+| Precious! | 17.00% | ~3,560 |
+| Mine... All Mine... | 17.00% | ~3,560 |
+| Grizzled veteran | 15.00% | ~3,141 |
+| Anatomy Lesson | 15.00% | ~3,141 |
+| Light of my life | 14.00% | ~2,931 |
+| You activated my trap card! | 13.00% | ~2,722 |
+| Obstacle race | 13.00% | ~2,722 |
+| Augmented rat | 11.00% | ~2,303 |
+| Doom and gloom | 11.00% | ~2,303 |
+| Who's the Boss? | 10.00% | ~2,094 |
+| Dungeon Veteran | 8.00% | ~1,675 |
+| Pack leader | 8.00% | ~1,675 |
+| Pain is your friend | 8.00% | ~1,675 |
+| Black death | 8.00% | ~1,675 |
+| Play it again, Sam | 8.00% | ~1,675 |
 | Quad damage | 6.00% | ~1,256 |
-| Power Up! | 5.00% | ~1,046 |
-| Caught off guard | 5.00% | ~1,046 |
-| The Pro from Dover | 5.00% | ~1,046 |
-| Pretty lights! | 5.00% | ~1,046 |
-| Now you see me... | 5.00% | ~1,046 |
-| Merchant of doom | 4.00% | ~837 |
+| Power Up! | 5.00% | ~1,047 |
+| Caught off guard | 5.00% | ~1,047 |
+| The Pro from Dover | 5.00% | ~1,047 |
+| Pretty lights! | 5.00% | ~1,047 |
+| Now you see me... | 5.00% | ~1,047 |
+| Merchant of doom | 4.00% | ~838 |
 | I hate portals | 3.00% | ~628 |
 | Down the hatch | 3.00% | ~628 |
 | An eye for an eye | 3.00% | ~628 |
@@ -50,7 +50,7 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~209 |
 | New Blood | 1.00% | ~209 |
 | Spoiler police! | 0.90% | ~188 |
-| Betray this | 0.80% | ~167 |
+| Betray this | 0.80% | ~168 |
 | The Pacifist | 0.50% | ~105 |
 | Born Support | 0.50% | ~105 |
 | A tough job | 0.40% | ~84 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~21 |
 | Murder Death Kill | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,928 (Ranked 131)  
+Progressed: 20,939 (Ranked 131)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,16 +132,16 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 20,479 | 1 |
 | 2023-11-14 | 20,669 | 1 |
 | 2023-11-15 | 20,838 | 1 |
-| 2023-11-16 | 20,928 | 1 |
+| 2023-11-16 | 20,939 | 1 |
 ## Awards
 Max (Character Customization): 3,574  (Ranked 90)  
-Sum: 8,357 (Ranked 100)  
+Sum: 8,358 (Ranked 100)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,574 |
 | This game has Diverse Characters | 596 |
-| This game has Challenging Combat | 551 |
+| This game has Challenging Combat | 552 |
 | This game is Extremely Fun | 543 |
 | This game is Highly Recommended | 543 |
 | This game has Amazing Characters | 490 |
@@ -371,4 +371,4 @@ Diff (max vs sum): -10
 | 2023-11-11 | 4.47 | - | 3,571 | 8,347 |
 | 2023-11-12 | 4.47 | - | 3,572 | 8,352 |
 | 2023-11-14 | 4.47 | - | 3,572 | 8,355 |
-| 2023-11-16 | 4.47 | - | 3,574 | 8,357 |
+| 2023-11-16 | 4.47 | - | 3,574 | 8,358 |

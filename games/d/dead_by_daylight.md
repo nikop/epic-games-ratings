@@ -6,120 +6,120 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~81,920 |
-| Zealous | 7.00% | ~71,680 |
-| Skillful | 7.00% | ~71,680 |
-| Not half bad | 6.00% | ~61,440 |
-| Make Some Noise | 6.00% | ~61,440 |
-| Handyman | 5.00% | ~51,200 |
-| Apt Survivor | 5.00% | ~51,200 |
-| Survival Treasures | 5.00% | ~51,200 |
-| Sorted | 5.00% | ~51,200 |
-| The Grand Sacrifice | 4.00% | ~40,960 |
-| No one left behind | 4.00% | ~40,960 |
-| Medic | 4.00% | ~40,960 |
-| Perfect Escape | 4.00% | ~40,960 |
-| Bloody Millionaire | 4.00% | ~40,960 |
-| I | 4.00% | ~40,960 |
-| Healthy Obsession | 4.00% | ~40,960 |
-| Resurgence | 4.00% | ~40,960 |
-| Preemptive Strike | 4.00% | ~40,960 |
-| Humanitarian | 4.00% | ~40,960 |
-| Agonizing Escape | 3.00% | ~30,720 |
-| Backdoor Escape | 3.00% | ~30,720 |
-| I've got your back | 3.00% | ~30,720 |
-| Perfect Killing | 3.00% | ~30,720 |
-| Apt Killer | 3.00% | ~30,720 |
-| Risk it all | 3.00% | ~30,720 |
-| II | 3.00% | ~30,720 |
-| Engineer | 3.00% | ~30,720 |
-| Wounded Healer | 3.00% | ~30,720 |
-| Close Shave | 3.00% | ~30,720 |
-| Blood on your hands | 2.00% | ~20,480 |
-| Escape Artist | 2.00% | ~20,480 |
-| Made it out alive! | 2.00% | ~20,480 |
-| Nerves of steel | 2.00% | ~20,480 |
-| Gifts for the Fog | 2.00% | ~20,480 |
-| Vulture | 2.00% | ~20,480 |
-| III | 2.00% | ~20,480 |
-| III-50 | 2.00% | ~20,480 |
-| All Aboard | 2.00% | ~20,480 |
-| Item of Obsession | 2.00% | ~20,480 |
-| House of Pain | 2.00% | ~20,480 |
-| Holiday Get-Together | 2.00% | ~20,480 |
-| Near-Death Experience | 2.00% | ~20,480 |
-| Cherish your Life | 2.00% | ~20,480 |
-| Unforgettable Getaway | 2.00% | ~20,480 |
-| Cutting Out | 2.00% | ~20,480 |
-| Outrun Evil | 2.00% | ~20,480 |
-| First to the Punch | 2.00% | ~20,480 |
-| Operation: Survival | 2.00% | ~20,480 |
-| Old West Oasis | 2.00% | ~20,480 |
-| Classy Act | 2.00% | ~20,480 |
-| Every Last Drop | 2.00% | ~20,480 |
-| Raccoon City Recruit | 2.00% | ~20,480 |
-| With Scars to Show | 2.00% | ~20,480 |
-| Flight to Freedom | 2.00% | ~20,480 |
-| A Fast Death | 2.00% | ~20,480 |
-| Lifting The Fog | 2.00% | ~20,480 |
-| Chorus of Chaos | 2.00% | ~20,480 |
-| One More Step | 2.00% | ~20,480 |
-| Second Act | 2.00% | ~20,480 |
-| MU/TH/UR Dearest | 2.00% | ~20,480 |
-| A bite for the Entity | 1.00% | ~10,240 |
-| Blood on your face | 1.00% | ~10,240 |
-| Jump Scares | 1.00% | ~10,240 |
-| Hemophobia | 1.00% | ~10,240 |
-| Shock Therapy | 1.00% | ~10,240 |
-| Deep Cleansing | 1.00% | ~10,240 |
-| Leapfrog | 1.00% | ~10,240 |
-| Cottage Owner | 1.00% | ~10,240 |
-| Serial Killer | 1.00% | ~10,240 |
-| Escaping the Nightmare | 1.00% | ~10,240 |
-| Happy Holidays | 1.00% | ~10,240 |
-| Game Over | 1.00% | ~10,240 |
-| Campbell's Chapel Legacy | 1.00% | ~10,240 |
-| Ancestor's Rite | 1.00% | ~10,240 |
-| Devoted Gatekeeping | 1.00% | ~10,240 |
-| Shrine Apparatus | 1.00% | ~10,240 |
-| Broken Bodies | 1.00% | ~10,240 |
-| Grim Pilgrimage | 1.00% | ~10,240 |
-| Selfless Survival | 1.00% | ~10,240 |
-| End of Days | 1.00% | ~10,240 |
-| Insult and Injury | 1.00% | ~10,240 |
-| Outrun the Overlap | 1.00% | ~10,240 |
-| Rebuilding The Borgo | 1.00% | ~10,240 |
-| Complete the Evolution | 1.00% | ~10,240 |
-| Extraterrestrial | 1.00% | ~10,240 |
-| Kitted Out | 1.00% | ~10,240 |
-| Texas BBQ | 0.90% | ~9,216 |
-| Party Crasher | 0.90% | ~9,216 |
-| Outrage | 0.90% | ~9,216 |
-| High Speed Pursuit | 0.90% | ~9,216 |
-| Heavy Burden | 0.80% | ~8,192 |
-| I See You | 0.80% | ~8,192 |
-| Punch Drunk | 0.80% | ~8,192 |
-| Prowler | 0.80% | ~8,192 |
-| Triage | 0.80% | ~8,192 |
-| Blood in your mouth | 0.70% | ~7,168 |
-| Whiffing to Success | 0.70% | ~7,168 |
-| Power Moves | 0.70% | ~7,168 |
-| Looter | 0.60% | ~6,144 |
-| Death of Ignorance | 0.60% | ~6,144 |
-| Mad House | 0.50% | ~5,120 |
-| Denied! | 0.50% | ~5,120 |
-| Viral Video | 0.50% | ~5,120 |
-| Ghost in the Machine | 0.50% | ~5,120 |
-| Hack the Mainframe | 0.50% | ~5,120 |
-| Disarm and Dismember | 0.50% | ~5,120 |
-| A feast for the Entity | 0.40% | ~4,096 |
-| In the void she walks | 0.40% | ~4,096 |
-| Deranged Pursuit | 0.40% | ~4,096 |
-| Dismantle | 0.40% | ~4,096 |
-| Left For Dead | 0.40% | ~4,096 |
-| Bodyguard | 0.40% | ~4,096 |
-| Rescue Mission | 0.40% | ~4,096 |
-| From the Deep | 0.40% | ~4,096 |
+| It wakes | 8.00% | ~81,931 |
+| Zealous | 7.00% | ~71,689 |
+| Skillful | 7.00% | ~71,689 |
+| Not half bad | 6.00% | ~61,448 |
+| Make Some Noise | 6.00% | ~61,448 |
+| Handyman | 5.00% | ~51,207 |
+| Apt Survivor | 5.00% | ~51,207 |
+| Survival Treasures | 5.00% | ~51,207 |
+| Sorted | 5.00% | ~51,207 |
+| The Grand Sacrifice | 4.00% | ~40,965 |
+| No one left behind | 4.00% | ~40,965 |
+| Medic | 4.00% | ~40,965 |
+| Perfect Escape | 4.00% | ~40,965 |
+| Bloody Millionaire | 4.00% | ~40,965 |
+| I | 4.00% | ~40,965 |
+| Healthy Obsession | 4.00% | ~40,965 |
+| Resurgence | 4.00% | ~40,965 |
+| Preemptive Strike | 4.00% | ~40,965 |
+| Humanitarian | 4.00% | ~40,965 |
+| Agonizing Escape | 3.00% | ~30,724 |
+| Backdoor Escape | 3.00% | ~30,724 |
+| I've got your back | 3.00% | ~30,724 |
+| Perfect Killing | 3.00% | ~30,724 |
+| Apt Killer | 3.00% | ~30,724 |
+| Risk it all | 3.00% | ~30,724 |
+| II | 3.00% | ~30,724 |
+| Engineer | 3.00% | ~30,724 |
+| Wounded Healer | 3.00% | ~30,724 |
+| Close Shave | 3.00% | ~30,724 |
+| Blood on your hands | 2.00% | ~20,483 |
+| Escape Artist | 2.00% | ~20,483 |
+| Made it out alive! | 2.00% | ~20,483 |
+| Nerves of steel | 2.00% | ~20,483 |
+| Gifts for the Fog | 2.00% | ~20,483 |
+| Vulture | 2.00% | ~20,483 |
+| III | 2.00% | ~20,483 |
+| III-50 | 2.00% | ~20,483 |
+| All Aboard | 2.00% | ~20,483 |
+| Item of Obsession | 2.00% | ~20,483 |
+| House of Pain | 2.00% | ~20,483 |
+| Holiday Get-Together | 2.00% | ~20,483 |
+| Near-Death Experience | 2.00% | ~20,483 |
+| Cherish your Life | 2.00% | ~20,483 |
+| Unforgettable Getaway | 2.00% | ~20,483 |
+| Cutting Out | 2.00% | ~20,483 |
+| Outrun Evil | 2.00% | ~20,483 |
+| First to the Punch | 2.00% | ~20,483 |
+| Operation: Survival | 2.00% | ~20,483 |
+| Old West Oasis | 2.00% | ~20,483 |
+| Classy Act | 2.00% | ~20,483 |
+| Every Last Drop | 2.00% | ~20,483 |
+| Raccoon City Recruit | 2.00% | ~20,483 |
+| With Scars to Show | 2.00% | ~20,483 |
+| Flight to Freedom | 2.00% | ~20,483 |
+| A Fast Death | 2.00% | ~20,483 |
+| Lifting The Fog | 2.00% | ~20,483 |
+| Chorus of Chaos | 2.00% | ~20,483 |
+| One More Step | 2.00% | ~20,483 |
+| Second Act | 2.00% | ~20,483 |
+| MU/TH/UR Dearest | 2.00% | ~20,483 |
+| A bite for the Entity | 1.00% | ~10,241 |
+| Blood on your face | 1.00% | ~10,241 |
+| Jump Scares | 1.00% | ~10,241 |
+| Hemophobia | 1.00% | ~10,241 |
+| Shock Therapy | 1.00% | ~10,241 |
+| Deep Cleansing | 1.00% | ~10,241 |
+| Leapfrog | 1.00% | ~10,241 |
+| Cottage Owner | 1.00% | ~10,241 |
+| Serial Killer | 1.00% | ~10,241 |
+| Escaping the Nightmare | 1.00% | ~10,241 |
+| Happy Holidays | 1.00% | ~10,241 |
+| Game Over | 1.00% | ~10,241 |
+| Campbell's Chapel Legacy | 1.00% | ~10,241 |
+| Ancestor's Rite | 1.00% | ~10,241 |
+| Devoted Gatekeeping | 1.00% | ~10,241 |
+| Shrine Apparatus | 1.00% | ~10,241 |
+| Broken Bodies | 1.00% | ~10,241 |
+| Grim Pilgrimage | 1.00% | ~10,241 |
+| Selfless Survival | 1.00% | ~10,241 |
+| End of Days | 1.00% | ~10,241 |
+| Insult and Injury | 1.00% | ~10,241 |
+| Outrun the Overlap | 1.00% | ~10,241 |
+| Rebuilding The Borgo | 1.00% | ~10,241 |
+| Complete the Evolution | 1.00% | ~10,241 |
+| Extraterrestrial | 1.00% | ~10,241 |
+| Kitted Out | 1.00% | ~10,241 |
+| Texas BBQ | 0.90% | ~9,217 |
+| Party Crasher | 0.90% | ~9,217 |
+| Outrage | 0.90% | ~9,217 |
+| High Speed Pursuit | 0.90% | ~9,217 |
+| Heavy Burden | 0.80% | ~8,193 |
+| I See You | 0.80% | ~8,193 |
+| Punch Drunk | 0.80% | ~8,193 |
+| Prowler | 0.80% | ~8,193 |
+| Triage | 0.80% | ~8,193 |
+| Blood in your mouth | 0.70% | ~7,169 |
+| Whiffing to Success | 0.70% | ~7,169 |
+| Power Moves | 0.70% | ~7,169 |
+| Looter | 0.60% | ~6,145 |
+| Death of Ignorance | 0.60% | ~6,145 |
+| Mad House | 0.50% | ~5,121 |
+| Denied! | 0.50% | ~5,121 |
+| Viral Video | 0.50% | ~5,121 |
+| Ghost in the Machine | 0.50% | ~5,121 |
+| Hack the Mainframe | 0.50% | ~5,121 |
+| Disarm and Dismember | 0.50% | ~5,121 |
+| A feast for the Entity | 0.40% | ~4,097 |
+| In the void she walks | 0.40% | ~4,097 |
+| Deranged Pursuit | 0.40% | ~4,097 |
+| Dismantle | 0.40% | ~4,097 |
+| Left For Dead | 0.40% | ~4,097 |
+| Bodyguard | 0.40% | ~4,097 |
+| Rescue Mission | 0.40% | ~4,097 |
+| From the Deep | 0.40% | ~4,097 |
 | Milk 'n' Cookies | 0.30% | ~3,072 |
 | Silent Approach | 0.30% | ~3,072 |
 | Bound and Downed | 0.30% | ~3,072 |
@@ -131,6 +131,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | The Key to Escape | 0.20% | ~2,048 |
 | Adept Meg | 0.20% | ~2,048 |
 | Even Punishment | 0.20% | ~2,048 |
+| Swirling Death | 0.20% | ~2,048 |
 | Conniption | 0.20% | ~2,048 |
 | Terminal Illness | 0.20% | ~2,048 |
 | Totally Vulnerable | 0.20% | ~2,048 |
@@ -156,7 +157,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Evil Incarnate | 0.10% | ~1,024 |
 | Adept Shape | 0.10% | ~1,024 |
 | Adept Laurie | 0.10% | ~1,024 |
-| Swirling Death | 0.10% | ~1,024 |
 | Skilled Huntress | 0.10% | ~1,024 |
 | Adept Huntress | 0.10% | ~1,024 |
 | Adept David | 0.10% | ~1,024 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,024 |
 | Adept Ripley | 0.10% | ~1,024 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,024,004 (Ranked 14)  
+Progressed: 1,024,133 (Ranked 14)  
 Completed: 54 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 54 (0.01%) (Ranked 331)
 | 2023-11-13 | 1,018,392 | 54 |
 | 2023-11-14 | 1,020,468 | 54 |
 | 2023-11-15 | 1,022,580 | 54 |
-| 2023-11-16 | 1,024,004 | 54 |
+| 2023-11-16 | 1,024,133 | 54 |
 ## Awards
 Max (Diverse Characters): 36,086  (Ranked 15)  
 Sum: 275,891 (Ranked 13)  

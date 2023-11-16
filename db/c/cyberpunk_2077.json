@@ -6,8 +6,8 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15186,10 +15186,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 354341,
       "NumberOfAwardsMax": 105726
+    },
+    {
+      "Time": "2023-11-16T17:57:32.6642355+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 354422,
+      "NumberOfAwardsMax": 105726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 354341,
+  "NumberOfAwards": 354422,
   "NumberOfAwardsMax": 105726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15209,7 +15215,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20899
+      "Count": 20980
     },
     {
       "Text": "This game is Relaxing",
@@ -15266,10 +15272,10 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896913,
-  "EOS_Completed": 2780,
-  "EOS_NewPlayers": 1016,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 896916,
+  "EOS_Completed": 2781,
+  "EOS_NewPlayers": 1013,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -39091,6 +39097,11 @@
       "Time": "2023-11-16T17:06:14.392099+00:00",
       "NumProgressed": 896913,
       "NumCompleted": 2780
+    },
+    {
+      "Time": "2023-11-16T18:06:43.5580301+00:00",
+      "NumProgressed": 896916,
+      "NumCompleted": 2781
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39133,9 +39144,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5381
+      "UsersEstimate": 6278
     },
     {
       "ID": "FollowingTheRiver",
@@ -39638,21 +39649,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896913,
-      "Completed": 2780
+      "Progressed": 896916,
+      "Completed": 2781
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25536,
+      "Progressed": 25539,
       "Completed": 10226
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-16T16:57:38.9648397+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:06:14.3920985+00:00",
+  "LastChanged": "2023-11-16T17:57:32.664235+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:06:43.5580296+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:57:38.9648404+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:06:14.3923127+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:57:32.6642359+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:06:43.5581875+00:00"
 }

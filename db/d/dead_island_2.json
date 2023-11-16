@@ -6585,9 +6585,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719241,
+  "EOS_Progressed": 719265,
   "EOS_Completed": 2397,
-  "EOS_NewPlayers": 3732,
+  "EOS_NewPlayers": 3728,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30600,6 +30600,11 @@
       "Time": "2023-11-16T17:05:08.6337356+00:00",
       "NumProgressed": 719241,
       "NumCompleted": 2397
+    },
+    {
+      "Time": "2023-11-16T18:05:31.1436214+00:00",
+      "NumProgressed": 719265,
+      "NumCompleted": 2397
     }
   ],
   "TotalAchievements": 51,
@@ -30651,7 +30656,7 @@
       "Name": "LA Influential",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ach_blueprinted",
@@ -30659,7 +30664,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_bookworm",
@@ -30691,7 +30696,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -30707,7 +30712,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_explorer",
@@ -30737,9 +30742,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 5035
     },
     {
       "ID": "ach_good_eyesight",
@@ -30771,7 +30776,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7192
+      "UsersEstimate": 7193
     },
     {
       "ID": "ach_impressive_aim",
@@ -30795,7 +30800,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -30819,7 +30824,7 @@
       "Name": "Zombologist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_legendary",
@@ -30827,7 +30832,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_magnum_opus",
@@ -30835,7 +30840,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ach_metropolitan",
@@ -30843,7 +30848,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30875,7 +30880,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ach_skilled_up",
@@ -30923,7 +30928,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -30947,7 +30952,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7192
+      "UsersEstimate": 7193
     },
     {
       "ID": "ach_well_known_survivor",
@@ -31018,22 +31023,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719241,
+      "Progressed": 719265,
       "Completed": 2397
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44783,
-      "Completed": 36545
+      "Progressed": 44807,
+      "Completed": 36546
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-16T16:58:25.1929187+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:05:08.633735+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:05:31.1436206+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:25.1929195+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:05:08.6338521+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:58:23.8524516+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:05:31.1437884+00:00"
 }

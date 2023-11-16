@@ -20,8 +20,8 @@ Rating: 3.95 (Ranked 1,005)
 | Rockay Rex | 1.00% | ~912 |
 | Hidden Sonata | 0.80% | ~730 |
 | True Player | 0.80% | ~730 |
-| Track Star | 0.70% | ~638 |
-| Headhunter | 0.70% | ~638 |
+| Track Star | 0.70% | ~639 |
+| Headhunter | 0.70% | ~639 |
 | I Like Trains | 0.50% | ~456 |
 | Freebooter | 0.50% | ~456 |
 | Moneybags | 0.50% | ~456 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,212 (Ranked 91)  
+Progressed: 91,216 (Ranked 91)  
 Completed: 56 (0.06%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,15 +257,15 @@ Completed: 56 (0.06%) (Ranked 296)
 | 2023-11-13 | 91,003 | 55 |
 | 2023-11-14 | 91,133 | 55 |
 | 2023-11-15 | 91,185 | 56 |
-| 2023-11-16 | 91,212 | 56 |
+| 2023-11-16 | 91,216 | 56 |
 ## Awards
 Max (Diverse Characters): 535  (Ranked 203)  
-Sum: 3,025 (Ranked 176)  
+Sum: 3,027 (Ranked 176)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 535 |
-| This game is Highly Recommended | 514 |
+| This game is Highly Recommended | 516 |
 | This game has Quickly Understood Controls | 504 |
 | This game has Challenging Combat | 497 |
 | This game is Extremely Fun | 489 |
@@ -504,4 +504,4 @@ Diff (max vs sum): 27
 | 2023-11-13 | 3.95 | 527 | 3,007 |
 | 2023-11-14 | 3.95 | 532 | 3,018 |
 | 2023-11-15 | 3.95 | 532 | 3,020 |
-| 2023-11-16 | 3.95 | 535 | 3,025 |
+| 2023-11-16 | 3.95 | 535 | 3,027 |

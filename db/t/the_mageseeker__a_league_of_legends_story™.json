@@ -3987,9 +3987,9 @@
       "ID": "STB_COLISSEUM_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Embrace the darkness",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 342
+      "UsersEstimate": 368
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -4420,8 +4420,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:07:43.9065839+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:07:52.8540968+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:10.6745457+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:57:57.6208882+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:07:43.9066384+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:57:53.2433651+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:07:52.854141+00:00"
 }

@@ -43,9 +43,9 @@ Rating: 4.82 (Ranked 66)
 | The Central Headquarters | 17.00% | ~447 |
 | My heart and sword always for Demacia | 16.00% | ~421 |
 | Cloven Dell Headquarters | 16.00% | ~421 |
+| Embrace the darkness | 14.00% | ~368 |
 | Whispers in the Woods IV | 14.00% | ~368 |
 | I smell fear | 14.00% | ~368 |
-| Embrace the darkness | 13.00% | ~342 |
 | The end of the experiments | 13.00% | ~342 |
 | The Great City of Demacia | 13.00% | ~342 |
 | Truth is a dark mirror | 13.00% | ~342 |

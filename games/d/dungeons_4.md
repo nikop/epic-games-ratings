@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 86.00% | ~243 |
 | Thalya – Simply Immortal | 86.00% | ~243 |
-| For the Horde! | 80.00% | ~226 |
-| Hammer Time, Round Two | 79.00% | ~224 |
+| For the Horde! | 81.00% | ~229 |
+| Hammer Time, Round Two | 80.00% | ~226 |
 | The Hellwoods | 73.00% | ~207 |
 | Thalya's Concentrated Fury | 66.00% | ~187 |
-| The Plains of Strothalm | 65.00% | ~184 |
-| Experienced Thalya | 64.00% | ~181 |
-| Master of Magic | 61.00% | ~173 |
+| The Plains of Strothalm | 66.00% | ~187 |
+| Experienced Thalya | 65.00% | ~184 |
+| Master of Magic | 62.00% | ~175 |
 | Bad Elves Go Everywhere | 59.00% | ~167 |
 | Magic Accidents | 55.00% | ~156 |
-| Unicorn steaks – fresh off the hoof! | 54.00% | ~153 |
+| Unicorn steaks – fresh off the hoof! | 55.00% | ~156 |
 | Minions, Minions! | 52.00% | ~147 |
 | Heroes’ Gorge | 52.00% | ~147 |
 | Trap Master | 51.00% | ~144 |
@@ -26,17 +26,17 @@
 | The Big Eaty | 36.00% | ~102 |
 | Pure Dynamite! | 35.00% | ~99 |
 | Mana Cannon | 29.00% | ~82 |
-| “… like son” | 27.00% | ~76 |
+| “… like son” | 28.00% | ~79 |
 | Dungeonlord Gorgu | 23.00% | ~65 |
+| The Cathedral of Light | 22.00% | ~62 |
 | Shame! Shame! Shame! | 22.00% | ~62 |
-| The Cathedral of Light | 21.00% | ~59 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 19.00% | ~54 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
 | Tanos' Crusade Against Thalya | 17.00% | ~48 |
 | Unstoppable Horde | 15.00% | ~42 |
 | Master of the Undead | 14.00% | ~40 |
+| Forbidden Knowledge | 13.00% | ~37 |
 | All’s Well That Ends Evil | 13.00% | ~37 |
-| Forbidden Knowledge | 12.00% | ~34 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
 | Sacrificial Pit = Garbage Disposal? | 11.00% | ~31 |
 | Stop Tanos! | 10.00% | ~28 |
@@ -47,8 +47,8 @@
 | Bonus Evilness | 6.00% | ~17 |
 | Sabotage! | 6.00% | ~17 |
 | Doom Hill | 6.00% | ~17 |
+| Brimstone Shaken, Not Stirred | 6.00% | ~17 |
 | Raiders of the Lost Stone | 5.00% | ~14 |
-| Brimstone Shaken, Not Stirred | 5.00% | ~14 |
 | The Rune Sockets of Finitude (Part 1) | 5.00% | ~14 |
 | Mirror, Mirror | 4.00% | ~11 |
 | Laser Eyes Are So Useless | 4.00% | ~11 |

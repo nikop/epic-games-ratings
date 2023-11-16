@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,221 |
-| Exploitative | 4.00% | ~19,377 |
-| Point Shooting | 4.00% | ~19,377 |
-| Wet Feet | 4.00% | ~19,377 |
+| Wallbanger | 5.00% | ~24,222 |
+| Exploitative | 4.00% | ~19,378 |
+| Point Shooting | 4.00% | ~19,378 |
+| Wet Feet | 4.00% | ~19,378 |
 | High Speed Low Drag | 3.00% | ~14,533 |
 | Lucky | 3.00% | ~14,533 |
 | Stylin' | 3.00% | ~14,533 |
 | Turf War | 3.00% | ~14,533 |
-| Banged | 2.00% | ~9,688 |
-| Checkpoint Victory | 2.00% | ~9,688 |
-| First Blood | 2.00% | ~9,688 |
-| Flaccid Paralysis | 2.00% | ~9,688 |
-| Push Victory | 2.00% | ~9,688 |
-| Self-destructive | 2.00% | ~9,688 |
+| Banged | 2.00% | ~9,689 |
+| Checkpoint Victory | 2.00% | ~9,689 |
+| First Blood | 2.00% | ~9,689 |
+| Flaccid Paralysis | 2.00% | ~9,689 |
+| Push Victory | 2.00% | ~9,689 |
+| Self-destructive | 2.00% | ~9,689 |
 | Blindfire | 1.00% | ~4,844 |
 | Ruthless | 1.00% | ~4,844 |
 | Semper Paratus | 1.00% | ~4,844 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,360 |
 | Mount & Gun | 0.90% | ~4,360 |
 | Personal | 0.90% | ~4,360 |
-| Grounded | 0.80% | ~3,875 |
-| Play to Win | 0.80% | ~3,875 |
+| Grounded | 0.80% | ~3,876 |
+| Play to Win | 0.80% | ~3,876 |
 | Special Delivery | 0.70% | ~3,391 |
 | Firefight Victory | 0.60% | ~2,907 |
 | #1 | 0.60% | ~2,907 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~484 |
 | Road Hazard | 0.10% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,423 (Ranked 38)  
+Progressed: 484,444 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 2 (0.00%) (Ranked 352)
 | 2023-11-13 | 483,399 | 2 |
 | 2023-11-14 | 483,800 | 2 |
 | 2023-11-15 | 484,137 | 2 |
-| 2023-11-16 | 484,423 | 2 |
+| 2023-11-16 | 484,444 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 231)  
 Sum: 3,165 (Ranked 171)  

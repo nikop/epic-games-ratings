@@ -14,13 +14,13 @@
 | Booty Call | 28.00% | ~179 |
 | In Contempt of Duvet | 27.00% | ~172 |
 | Planting the Seed | 22.00% | ~140 |
-| Light Sleepers | 15.00% | ~96 |
+| Light Sleepers | 16.00% | ~102 |
 | Smooth Criminal | 9.00% | ~57 |
 | Sore Loser | 8.00% | ~51 |
 | Interrogation | 5.00% | ~32 |
 | Crash and Burn | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 638 (Ranked 285)  
+Progressed: 638 (Ranked 286)  
 Completed: 10 (1.57%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |

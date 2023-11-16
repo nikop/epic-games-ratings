@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -1010,9 +1010,9 @@
       "ID": "Vanilla_DeputiesMaxedOut",
       "SetID": "27kik8p",
       "Name": "Deputized",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -1026,9 +1026,9 @@
       "ID": "Vanilla_DistantFreshNews",
       "SetID": "27kik8p",
       "Name": "Harbinger",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -1571,8 +1571,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:02:55.4338274+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:03:03.9360658+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.6346975+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:59:32.8004696+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:02:55.433921+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:59:40.744905+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:03:03.936184+00:00"
 }

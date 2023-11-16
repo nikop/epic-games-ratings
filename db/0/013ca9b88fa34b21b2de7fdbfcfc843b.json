@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7807,
+  "EOS_Progressed": 7808,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6846,6 +6846,11 @@
       "Time": "2023-11-16T17:08:57.120193+00:00",
       "NumProgressed": 7807,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T18:09:02.8280161+00:00",
+      "NumProgressed": 7808,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6858,7 +6863,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5699
+      "UsersEstimate": 5700
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6866,7 +6871,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5543
+      "UsersEstimate": 5544
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6882,7 +6887,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6890,7 +6895,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6962,7 +6967,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3825
+      "UsersEstimate": 3826
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7010,7 +7015,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7018,7 +7023,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7034,7 +7039,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3669
+      "UsersEstimate": 3670
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7137,22 +7142,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7807,
+      "Progressed": 7808,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 424,
-      "Completed": 424
+      "Progressed": 425,
+      "Completed": 425
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:08:57.1201924+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:09:02.8280158+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:02:43.0062783+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:08:57.120247+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:02:47.7657692+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:09:02.8280647+00:00"
 }

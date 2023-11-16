@@ -17,9 +17,9 @@
 | I did it | 19.00% | ~107 |
 | Cable guy | 19.00% | ~107 |
 | Half the way | 19.00% | ~107 |
+| In this together | 18.00% | ~102 |
 | Peace walker | 18.00% | ~102 |
 | Champollion | 18.00% | ~102 |
-| In this together | 17.00% | ~96 |
 | Open door | 16.00% | ~90 |
 | Feels like springtime | 16.00% | ~90 |
 | Alchemists Express | 16.00% | ~90 |

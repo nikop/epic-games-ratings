@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2177,6 +2177,11 @@
       "Time": "2023-11-16T17:05:01.9676514+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T18:05:23.4842622+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2189,7 +2194,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2237,7 +2242,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2261,7 +2266,7 @@
       "Name": "Drift champ",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -2285,7 +2290,7 @@
       "Name": "Look, Mom! No track!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -2309,7 +2314,7 @@
       "Name": "Stage animal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_17",
@@ -2389,7 +2394,7 @@
       "Name": "The Nitro Bot",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2413,7 +2418,7 @@
       "Name": "\u2026Is half done",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -2421,7 +2426,7 @@
       "Name": "Eagle eye",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -2445,7 +2450,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2493,7 +2498,7 @@
       "Name": "Tools of the trade",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -2517,35 +2522,35 @@
       "Name": "Magic trick",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 559
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1075,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 742,
-      "Completed": 742
+      "Progressed": 743,
+      "Completed": 743
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:05:01.9676509+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:05:23.484262+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:57:20.3959254+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:05:01.967693+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:57:11.8069645+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:05:23.4842939+00:00"
 }

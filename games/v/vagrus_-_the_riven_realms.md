@@ -16,15 +16,15 @@
 | Fight Another Day | 8.00% | ~16 |
 | Taskmaster | 7.00% | ~14 |
 | Scholar | 6.00% | ~12 |
+| Harbinger | 6.00% | ~12 |
 | Acquaintance | 6.00% | ~12 |
 | Tail-wind | 6.00% | ~12 |
 | Strategist | 5.00% | ~10 |
 | The More the Merrier | 5.00% | ~10 |
-| Harbinger | 5.00% | ~10 |
+| Deputized | 5.00% | ~10 |
 | Courier | 5.00% | ~10 |
 | Pilgrimage's End | 5.00% | ~10 |
 | Quartermaster | 4.00% | ~8 |
-| Deputized | 4.00% | ~8 |
 | The Voice of Hereafter | 4.00% | ~8 |
 | Been There | 4.00% | ~8 |
 | Spiritual Journey | 4.00% | ~8 |

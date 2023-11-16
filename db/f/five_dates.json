@@ -2,7 +2,7 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 126,
@@ -1580,9 +1580,9 @@
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "not_alone",
@@ -1653,8 +1653,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:08:43.7700352+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:08:47.4004044+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:45.015416+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:24.1432566+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:08:43.7700521+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:58:22.5919328+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:08:47.4004227+00:00"
 }

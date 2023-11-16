@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3599,9 +3599,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51966,
+  "EOS_Progressed": 51967,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -13729,6 +13729,11 @@
       "Time": "2023-11-16T17:05:50.8271053+00:00",
       "NumProgressed": 51966,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2023-11-16T18:06:17.3296684+00:00",
+      "NumProgressed": 51967,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 45,
@@ -13764,7 +13769,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41053
+      "UsersEstimate": 41054
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13852,7 +13857,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30660
+      "UsersEstimate": 30661
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13980,7 +13985,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30660
+      "UsersEstimate": 30661
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -14004,7 +14009,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50407
+      "UsersEstimate": 50408
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -14099,15 +14104,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51966,
+      "Progressed": 51967,
       "Completed": 248
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-15T01:46:06.4070336+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:05:50.8271048+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:06:17.329668+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:03.8172916+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:59:51.3689601+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:05:50.827189+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:00:00.8423308+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:06:17.3297395+00:00"
 }

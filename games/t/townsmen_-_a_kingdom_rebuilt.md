@@ -11,12 +11,12 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 12.00% | ~521 |
 | Friends from the past | 10.00% | ~434 |
 | I like to build stuff... I | 9.00% | ~391 |
-| Builder I | 8.00% | ~347 |
-| An honorable Governor I | 8.00% | ~347 |
-| Researcher | 8.00% | ~347 |
-| Tax-man II | 8.00% | ~347 |
-| A time consuming game I | 8.00% | ~347 |
-| Time for some trade | 8.00% | ~347 |
+| Builder I | 8.00% | ~348 |
+| An honorable Governor I | 8.00% | ~348 |
+| Researcher | 8.00% | ~348 |
+| Tax-man II | 8.00% | ~348 |
+| A time consuming game I | 8.00% | ~348 |
+| Time for some trade | 8.00% | ~348 |
 | Bread for the people I | 7.00% | ~304 |
 | Completionist I | 7.00% | ~304 |
 | Full-time job I | 7.00% | ~304 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,343 (Ranked 192)  
+Progressed: 4,344 (Ranked 192)  
 Completed: 3 (0.07%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 3 (0.07%) (Ranked 294)
 | 2023-11-12 | 4,339 | 3 |
 | 2023-11-13 | 4,341 | 3 |
 | 2023-11-14 | 4,342 | 3 |
-| 2023-11-16 | 4,343 | 3 |
+| 2023-11-16 | 4,344 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

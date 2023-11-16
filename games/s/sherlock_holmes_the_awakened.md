@@ -14,8 +14,8 @@ Rating: 4.67 (Ranked 272)
 | History Check | 53.00% | ~430 |
 | The New World | 51.00% | ~414 |
 | Open Sesame | 50.00% | ~406 |
+| Sticky Fingers | 50.00% | ~406 |
 | Gaze Into The Abyss | 49.00% | ~398 |
-| Sticky Fingers | 49.00% | ~398 |
 | Knives Out | 49.00% | ~398 |
 | Land, Ho! | 49.00% | ~398 |
 | Lock, Stock, And Barrel | 48.00% | ~390 |
@@ -34,7 +34,7 @@ Rating: 4.67 (Ranked 272)
 | Big Breakthrough | 13.00% | ~106 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812 (Ranked 270)  
+Progressed: 812 (Ranked 271)  
 Completed: 27 (3.33%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |

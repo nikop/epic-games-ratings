@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -325,9 +325,9 @@
       "ID": "id_18",
       "SetID": "bk9jib6",
       "Name": "Defender",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "id_19",
@@ -678,8 +678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:08:31.3534331+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:08:34.2250718+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:24.9853517+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:57:10.71546+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:08:31.3534738+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:57:00.6758897+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:08:34.2251183+00:00"
 }

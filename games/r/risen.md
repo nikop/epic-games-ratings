@@ -28,8 +28,8 @@ Rating: 4.57 (Ranked 470)
 | Death of a legend | 28.00% | ~11 |
 | Archaeologist | 28.00% | ~11 |
 | Little hero | 26.00% | ~10 |
+| Defender | 26.00% | ~10 |
 | Peacekeeper | 26.00% | ~10 |
-| Defender | 23.00% | ~9 |
 | Pandora's box | 23.00% | ~9 |
 | Ghost hunter | 23.00% | ~9 |
 | Sidelined | 23.00% | ~9 |

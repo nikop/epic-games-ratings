@@ -6,7 +6,10 @@
 | ---- | ---------- | ----- |
 | Master trainee | 8.00% | ~3 |
 | You have three wishes left | 8.00% | ~3 |
+| Giant | 5.00% | ~2 |
+| A rival with no options | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
+| The battle of Great Britain | 5.00% | ~2 |
 | A continent with chemistry | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
@@ -14,9 +17,6 @@
 | Bread and bocaua | 3.00% | ~1 |
 | Fanatacism is... poisonous | 3.00% | ~1 |
 | Jung's dream | 3.00% | ~1 |
-| Giant | 3.00% | ~1 |
-| A rival with no options | 3.00% | ~1 |
-| The battle of Great Britain | 3.00% | ~1 |
 | Pulp! Terror Tales in the Night | 3.00% | ~1 |
 | Pulp! Where Monsters Dwell | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |

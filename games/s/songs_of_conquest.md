@@ -6,11 +6,12 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 14.00% | ~8 |
+| Adept | 15.00% | ~9 |
 | Double Kill | 10.00% | ~6 |
-| Sorcerous Spree | 3.00% | ~2 |
-| Veteran | 3.00% | ~2 |
+| Sorcerous Spree | 5.00% | ~3 |
+| Veteran | 5.00% | ~3 |
 | Dressed For Success | 2.00% | ~1 |
+| Critical Hit | 2.00% | ~1 |
 | Don't Touch My Stuff | 2.00% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
@@ -24,7 +25,6 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.00% | ~0 |
 | Fully Charged | 0.00% | ~0 |
 | Coming Through! | 0.00% | ~0 |
-| Critical Hit | 0.00% | ~0 |
 | Deepstrike | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
 | Die by the Staff | 0.00% | ~0 |
@@ -61,13 +61,13 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 468)  
+Progressed: 61 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-15 | 35 | 0 |
-| 2023-11-16 | 59 | 0 |
+| 2023-11-16 | 61 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 507)  
 Sum: 194 (Ranked 403)  

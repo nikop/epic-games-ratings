@@ -6,9 +6,9 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8051,18 +8051,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32489,
       "NumberOfAwardsMax": 5527
+    },
+    {
+      "Time": "2023-11-16T17:58:04.6167225+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32494,
+      "NumberOfAwardsMax": 5532
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32489,
-  "NumberOfAwardsMax": 5527,
+  "NumberOfAwards": 32494,
+  "NumberOfAwardsMax": 5532,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5527
+      "Count": 5532
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8101,9 +8107,9 @@
       "Count": 3519
     }
   ],
-  "EOS_Progressed": 235309,
+  "EOS_Progressed": 235321,
   "EOS_Completed": 2454,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1249,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31641,6 +31647,11 @@
       "Time": "2023-11-16T17:08:43.5444665+00:00",
       "NumProgressed": 235309,
       "NumCompleted": 2454
+    },
+    {
+      "Time": "2023-11-16T18:08:48.0804375+00:00",
+      "NumProgressed": 235321,
+      "NumCompleted": 2454
     }
   ],
   "TotalAchievements": 532,
@@ -35884,7 +35895,7 @@
       "Name": "Tomb of Champions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "objective_completed_1552",
@@ -35907,21 +35918,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201583,
+      "Progressed": 201595,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235309,
+      "Progressed": 235321,
       "Completed": 2454
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-16T16:58:07.6938463+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:08:43.5444661+00:00",
+  "LastChanged": "2023-11-16T17:58:04.6167223+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:08:48.0804374+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:07.6938469+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:08:43.546686+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:58:04.6167243+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:08:48.0826212+00:00"
 }

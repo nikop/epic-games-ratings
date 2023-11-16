@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -79,7 +79,7 @@
   "Tags": [],
   "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -880,9 +880,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "JustOneLap",
@@ -928,9 +928,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "MuseumVisitor",
@@ -992,17 +992,17 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "RenaissanceRobot",
@@ -1193,8 +1193,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-16T08:59:19.8841598+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:05:04.2015992+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:05:26.3374515+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:59:25.3602103+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:05:04.2016384+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:59:31.8694419+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:05:26.3375047+00:00"
 }

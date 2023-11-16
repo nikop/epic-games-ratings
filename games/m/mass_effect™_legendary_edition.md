@@ -37,7 +37,7 @@
 | Veteran | 37.00% | ~473 |
 | The Professor | 37.00% | ~473 |
 | The Archangel | 36.00% | ~460 |
-| Power Full | 35.00% | ~448 |
+| Power Full | 36.00% | ~460 |
 | The Convict | 34.00% | ~435 |
 | Colony Defense | 33.00% | ~422 |
 | The Krogan | 33.00% | ~422 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,279 (Ranked 243)  
+Progressed: 1,279 (Ranked 244)  
 Completed: 3 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |

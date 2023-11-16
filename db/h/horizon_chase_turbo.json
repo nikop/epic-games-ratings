@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2018-05-15T15:00:00+00:00",
@@ -2795,10 +2795,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1517,
       "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-11-16T17:58:40.7130363+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1518,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1517,
+  "NumberOfAwards": 1518,
   "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2872,13 +2878,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 88
+      "Count": 89
     }
   ],
-  "EOS_Progressed": 1075097,
-  "EOS_Completed": 487,
+  "EOS_Progressed": 1075112,
+  "EOS_Completed": 488,
   "EOS_NewPlayers": 2855,
-  "EOS_NewCompleters": 6,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -26845,6 +26851,11 @@
       "Time": "2023-11-16T17:08:38.8708126+00:00",
       "NumProgressed": 1075097,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-11-16T18:08:42.5727297+00:00",
+      "NumProgressed": 1075112,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 37,
@@ -26856,7 +26867,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 365533
+      "UsersEstimate": 365538
     },
     {
       "ID": "CompleteAustralia",
@@ -26880,7 +26891,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 75257
+      "UsersEstimate": 75258
     },
     {
       "ID": "CompleteChile",
@@ -26984,7 +26995,7 @@
       "Name": "Getting Famous",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "FinishEnduranceGoldEasy",
@@ -27048,7 +27059,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118261
+      "UsersEstimate": 118262
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -27056,7 +27067,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 967587
+      "UsersEstimate": 967601
     },
     {
       "ID": "GetLotsOfScore",
@@ -27088,7 +27099,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 505296
+      "UsersEstimate": 505303
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -27096,7 +27107,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193517
+      "UsersEstimate": 193520
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -27120,7 +27131,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 677311
+      "UsersEstimate": 677321
     },
     {
       "ID": "WinBySmallDifference",
@@ -27128,7 +27139,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193517
+      "UsersEstimate": 193520
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -27144,22 +27155,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53755
+      "UsersEstimate": 53756
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1075097,
-      "Completed": 487
+      "Progressed": 1075112,
+      "Completed": 488
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2023-11-16T16:58:39.5373174+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:08:38.870812+00:00",
+  "LastChanged": "2023-11-16T17:58:40.7130361+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:08:42.5727293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.6159115+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:39.5373179+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:08:38.8709532+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:58:40.7130365+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:08:42.5728827+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 748,
@@ -10908,10 +10908,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 17000,
       "NumberOfAwardsMax": 6515
+    },
+    {
+      "Time": "2023-11-16T17:58:54.9607592+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 17008,
+      "NumberOfAwardsMax": 6515
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17000,
+  "NumberOfAwards": 17008,
   "NumberOfAwardsMax": 6515,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10925,7 +10931,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4352
+      "Count": 4360
     },
     {
       "Text": "This game is Educational",
@@ -11011,8 +11017,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-11-16T16:58:52.3056012+00:00",
+  "LastChanged": "2023-11-16T17:58:54.9607591+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.3567446+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:52.305602+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:06:18.6042946+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:58:54.9607596+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:06:47.2042946+00:00"
 }

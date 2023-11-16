@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 46576,
+  "EOS_Progressed": 46577,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24575,6 +24575,11 @@
       "Time": "2023-11-16T17:03:09.1490655+00:00",
       "NumProgressed": 46576,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-16T18:03:18.8281491+00:00",
+      "NumProgressed": 46577,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -24850,7 +24855,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6986
+      "UsersEstimate": 6987
     },
     {
       "ID": "unlockpaz",
@@ -24897,15 +24902,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 46576,
+      "Progressed": 46577,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-09T16:58:19.7879138+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:03:09.1490651+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:03:18.8281486+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.2500678+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:58:00.6810402+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:03:09.1492106+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:57:56.8049856+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:03:18.8283134+00:00"
 }

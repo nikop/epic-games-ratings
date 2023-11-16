@@ -5,9 +5,9 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -552,6 +552,11 @@
     {
       "Time": "2023-11-16T17:05:54.3976571+00:00",
       "NumProgressed": 59,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T18:06:21.3999172+00:00",
+      "NumProgressed": 61,
       "NumCompleted": 0
     }
   ],
@@ -667,9 +672,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Deepstrike",
@@ -843,9 +848,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -891,17 +896,17 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WielderLevel3",
@@ -996,15 +1001,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:05:54.3976564+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:06:21.3999167+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:59:17.4161929+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:05:54.3977044+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:59:22.8348047+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:06:21.3999572+00:00"
 }

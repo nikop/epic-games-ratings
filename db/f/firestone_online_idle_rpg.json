@@ -475,9 +475,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2366,
+  "EOS_Progressed": 2367,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7200,6 +7200,11 @@
       "Time": "2023-11-16T17:08:09.9248242+00:00",
       "NumProgressed": 2366,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T18:08:21.8609337+00:00",
+      "NumProgressed": 2367,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7771,7 +7776,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "warmachinesarmy",
@@ -7803,14 +7808,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2366,
+      "Progressed": 2367,
       "Completed": 2
     }
   ],
@@ -7818,8 +7823,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-16T17:08:09.9248238+00:00",
+  "LastChanged_Achievements": "2023-11-16T18:08:21.8609332+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:00:23.628859+00:00",
-  "LastUpdate_Achievements": "2023-11-16T17:08:09.9249092+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:02:27.2710132+00:00",
+  "LastUpdate_Achievements": "2023-11-16T18:08:21.8610243+00:00"
 }
