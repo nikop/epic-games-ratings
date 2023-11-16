@@ -95,6 +95,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.10% | ~457 |
 | Parisian Pasha | 0.10% | ~457 |
 | Populists in Government | 0.10% | ~457 |
+| Qing of China | 0.10% | ~457 |
 | Queen of Conquest | 0.10% | ~457 |
 | Queen of Mercury | 0.10% | ~457 |
 | Redecorating | 0.10% | ~457 |
@@ -291,7 +292,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Protect the Secret | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Pyramid of Skulls | 0.00% | ~0 |
-| Qing of China | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,519 (Ranked 41)  
+Progressed: 456,538 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,519 | 1 |
+| 2023-11-16 | 456,538 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,733 (Ranked 24)  

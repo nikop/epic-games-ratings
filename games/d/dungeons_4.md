@@ -25,7 +25,7 @@
 | Hard Work | 37.00% | ~101 |
 | Pure Dynamite! | 36.00% | ~99 |
 | The Big Eaty | 35.00% | ~96 |
-| Mana Cannon | 29.00% | ~79 |
+| Mana Cannon | 30.00% | ~82 |
 | “… like son” | 27.00% | ~74 |
 | Dungeonlord Gorgu | 22.00% | ~60 |
 | The Cathedral of Light | 22.00% | ~60 |
@@ -43,10 +43,10 @@
 | The Duel | 9.00% | ~25 |
 | If Looks Could Kill | 8.00% | ~22 |
 | The Finitude Drill | 7.00% | ~19 |
+| Doom Hill | 6.00% | ~16 |
 | My Little Torture Chamber | 5.00% | ~14 |
 | Bonus Evilness | 5.00% | ~14 |
 | Sabotage! | 5.00% | ~14 |
-| Doom Hill | 5.00% | ~14 |
 | Brimstone Shaken, Not Stirred | 5.00% | ~14 |
 | Mirror, Mirror | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |

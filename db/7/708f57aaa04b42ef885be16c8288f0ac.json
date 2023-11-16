@@ -105,7 +105,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5340,
+  "EOS_Progressed": 5341,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 1,
@@ -3375,6 +3375,11 @@
       "Time": "2023-11-16T05:08:48.8293233+00:00",
       "NumProgressed": 5340,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T06:09:10.5562554+00:00",
+      "NumProgressed": 5341,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3425,9 +3430,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 534
     },
     {
       "ID": "Eavesdropper",
@@ -3531,7 +3536,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "NoMoreTotems",
@@ -3658,7 +3663,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5340,
+      "Progressed": 5341,
       "Completed": 6
     }
   ],
@@ -3666,8 +3671,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:08:48.8293227+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:09:10.556255+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:59:14.4800365+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:08:48.829356+00:00"
+  "LastUpdate_Ratings": "2023-11-16T05:59:47.411435+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:09:10.5562904+00:00"
 }

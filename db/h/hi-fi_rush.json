@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7529,9 +7529,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 718
     },
     {
       "ID": "Ach024",
@@ -7936,8 +7936,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:03:51.9388092+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:04:18.32743+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.6846175+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:57:43.6866525+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:03:51.9389066+00:00"
+  "LastUpdate_Ratings": "2023-11-16T05:58:03.1858899+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:04:18.3275187+00:00"
 }

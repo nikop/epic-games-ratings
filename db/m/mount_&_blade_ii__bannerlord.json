@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8734,10 +8734,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15287,
       "NumberOfAwardsMax": 7387
+    },
+    {
+      "Time": "2023-11-16T06:00:17.9774267+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15289,
+      "NumberOfAwardsMax": 7387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15287,
+  "NumberOfAwards": 15289,
   "NumberOfAwardsMax": 7387,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8751,7 +8757,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 924
+      "Count": 926
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8814,9 +8820,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65187,
+  "EOS_Progressed": 65188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30854,6 +30860,11 @@
       "Time": "2023-11-16T04:10:01.1805629+00:00",
       "NumProgressed": 65187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T06:09:24.3931141+00:00",
+      "NumProgressed": 65188,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31249,7 +31260,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "Veni vidi vici",
@@ -31257,7 +31268,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -31272,15 +31283,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65187,
+      "Progressed": 65188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-15T20:00:01.5978078+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:09:01.8419916+00:00",
+  "LastChanged": "2023-11-16T06:00:17.9774265+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:09:24.393113+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:59:42.5127435+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:09:01.8420998+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:00:17.9774273+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:09:24.3932247+00:00"
 }

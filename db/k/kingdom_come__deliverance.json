@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8583,9 +8583,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808560,
+  "EOS_Progressed": 808562,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32113,6 +32113,11 @@
       "Time": "2023-11-16T05:06:19.8540225+00:00",
       "NumProgressed": 808560,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-16T06:06:58.8997761+00:00",
+      "NumProgressed": 808562,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32204,7 +32209,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258739
+      "UsersEstimate": 258740
     },
     {
       "ID": "Bookworm",
@@ -32404,7 +32409,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72770
+      "UsersEstimate": 72771
     },
     {
       "ID": "HardcoreHenry",
@@ -32779,15 +32784,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808560,
+      "Progressed": 808562,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-15T23:04:43.9281639+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:06:19.854022+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:06:58.8997755+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:02:40.0901129+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:06:19.8541688+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:02:57.8059704+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:06:58.8999501+00:00"
 }

@@ -15,17 +15,17 @@
 | A good beginning | 20.00% | ~113 |
 | One last step | 20.00% | ~113 |
 | I did it | 19.00% | ~107 |
+| Cable guy | 19.00% | ~107 |
 | Half the way | 19.00% | ~107 |
 | Peace walker | 18.00% | ~101 |
-| Cable guy | 18.00% | ~101 |
 | Champollion | 18.00% | ~101 |
 | In this together | 17.00% | ~96 |
 | Open door | 16.00% | ~90 |
 | Feels like springtime | 16.00% | ~90 |
 | Alchemists Express | 16.00% | ~90 |
 | Free at last | 13.00% | ~73 |
+| A Link to the Past | 12.00% | ~68 |
 | Rascal | 12.00% | ~68 |
-| A Link to the Past | 11.00% | ~62 |
 | A great audience | 10.00% | ~56 |
 | For its own good | 9.00% | ~51 |
 | Fashion victim | 3.00% | ~17 |

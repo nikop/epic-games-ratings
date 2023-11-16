@@ -5,16 +5,16 @@ Rating: 4.80 (Ranked 86)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,715 |
-| I Challenge You To Save More Money! | 88.00% | ~7,300 |
-| I Love How Tough You Are | 75.00% | ~6,222 |
-| Wanna Come To My Place For Dinner? | 69.00% | ~5,724 |
-| What I Want Is You | 63.00% | ~5,226 |
+| Last Night...Did We... | 93.00% | ~7,716 |
+| I Challenge You To Save More Money! | 88.00% | ~7,301 |
+| I Love How Tough You Are | 75.00% | ~6,223 |
+| Wanna Come To My Place For Dinner? | 69.00% | ~5,725 |
+| What I Want Is You | 63.00% | ~5,227 |
 | To Be Or Not To Be | 60.00% | ~4,978 |
 | Love Actually | 50.00% | ~4,148 |
 | Are You Alright? | 50.00% | ~4,148 |
-| Drama King | 43.00% | ~3,567 |
-| You're Really Something Else | 38.00% | ~3,152 |
+| Drama King | 43.00% | ~3,568 |
+| You're Really Something Else | 38.00% | ~3,153 |
 | Go Clean up In Your Own Way | 37.00% | ~3,070 |
 | Happy Family | 36.00% | ~2,987 |
 | ONE PUNCH | 36.00% | ~2,987 |
@@ -33,9 +33,9 @@ Rating: 4.80 (Ranked 86)
 | SALUTE | 25.00% | ~2,074 |
 | Let Me Be Your Toy Boy | 24.00% | ~1,991 |
 | Off We Sail Tonight | 21.00% | ~1,742 |
-| Love You Three Thousand | 16.00% | ~1,327 |
-| Can You Do This Or Not? | 16.00% | ~1,327 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,161 |
+| Love You Three Thousand | 16.00% | ~1,328 |
+| Can You Do This Or Not? | 16.00% | ~1,328 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,162 |
 | The Flash | 12.00% | ~996 |
 | New Yoga Pose Unlocked | 12.00% | ~996 |
 | My Dear Love! | 9.00% | ~747 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 86)
 | Tall; Grande; Venti | 2.00% | ~166 |
 | Limerence | 2.00% | ~166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,296 (Ranked 166)  
+Progressed: 8,297 (Ranked 166)  
 Completed: 130 (1.57%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 130 (1.57%) (Ranked 135)
 | 2023-11-13 | 8,131 | 126 |
 | 2023-11-14 | 8,207 | 128 |
 | 2023-11-15 | 8,283 | 130 |
-| 2023-11-16 | 8,296 | 130 |
+| 2023-11-16 | 8,297 | 130 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

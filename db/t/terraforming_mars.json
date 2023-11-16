@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3139,9 +3139,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82791,
+  "EOS_Progressed": 82793,
   "EOS_Completed": 162,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26484,6 +26484,11 @@
       "Time": "2023-11-16T05:04:34.8847899+00:00",
       "NumProgressed": 82791,
       "NumCompleted": 162
+    },
+    {
+      "Time": "2023-11-16T06:05:04.9412996+00:00",
+      "NumProgressed": 82793,
+      "NumCompleted": 162
     }
   ],
   "TotalAchievements": 30,
@@ -26527,7 +26532,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14902
+      "UsersEstimate": 14903
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -26567,7 +26572,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15730
+      "UsersEstimate": 15731
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -26583,7 +26588,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23181
+      "UsersEstimate": 23182
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -26591,7 +26596,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26493
+      "UsersEstimate": 26494
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -26615,7 +26620,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15730
+      "UsersEstimate": 15731
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -26639,7 +26644,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15730
+      "UsersEstimate": 15731
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -26647,7 +26652,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17386
+      "UsersEstimate": 17387
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -26671,7 +26676,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28977
+      "UsersEstimate": 28978
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -26679,7 +26684,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14902
+      "UsersEstimate": 14903
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -26719,7 +26724,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15730
+      "UsersEstimate": 15731
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -26734,15 +26739,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82791,
+      "Progressed": 82793,
       "Completed": 162
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-15T20:59:03.0715187+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:04:34.8847893+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:05:04.9412989+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:58:55.1674949+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:04:34.8849146+00:00"
+  "LastUpdate_Ratings": "2023-11-16T05:59:26.2650077+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:05:04.9414453+00:00"
 }

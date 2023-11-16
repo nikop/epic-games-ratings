@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12414,
+  "EOS_Progressed": 12416,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10242,6 +10242,11 @@
       "Time": "2023-11-16T05:08:29.8001043+00:00",
       "NumProgressed": 12414,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-16T06:08:50.1679017+00:00",
+      "NumProgressed": 12416,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10254,7 +10259,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "a_10",
@@ -10302,7 +10307,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "a_19",
@@ -10501,7 +10506,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12414,
+      "Progressed": 12416,
       "Completed": 10
     }
   ],
@@ -10509,8 +10514,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:08:29.8001038+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:08:50.167901+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:00:13.1649114+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:08:29.8001529+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:00:50.9948816+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:08:50.1679839+00:00"
 }

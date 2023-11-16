@@ -23,13 +23,13 @@ Rating: 4.56 (Ranked 489)
 | Keep Arjun in Check | 3.00% | ~29 |
 | Madame Undersecretary | 3.00% | ~29 |
 | Data Archivist | 2.00% | ~300 |
+| Bottoms up! | 2.00% | ~300 |
 | Thorston Mayer | 2.00% | ~300 |
 | Khan's Revenge | 2.00% | ~300 |
 | Master Negotiator | 2.00% | ~19 |
 | Doctor Approved | 1.00% | ~150 |
-| Bottoms up! | 1.00% | ~150 |
+| Data Logger | 1.00% | ~150 |
 | Miraculous Maya | 1.00% | ~150 |
-| Data Logger | 0.90% | ~135 |
 | Data Master | 0.80% | ~120 |
 | Brother's Reaper | 0.60% | ~90 |
 | No Belter Left Behind | 0.60% | ~90 |

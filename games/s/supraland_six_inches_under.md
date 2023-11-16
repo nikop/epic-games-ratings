@@ -46,7 +46,7 @@ Number of Ratings: 209  (23.09.2022)
 | Played with fire | 71.00% | ~1,635 |
 | You feel very sorry | 71.00% | ~1,635 |
 | No Match for you | 66.00% | ~1,520 |
-| Bouncy | 62.00% | ~1,428 |
+| Bouncy | 63.00% | ~1,451 |
 | Plumbster | 61.00% | ~1,405 |
 | Faster | 60.00% | ~1,382 |
 | Much Magic | 58.00% | ~1,336 |

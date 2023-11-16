@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4151,7 +4151,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76483,
+  "EOS_Progressed": 76484,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
@@ -22716,6 +22716,11 @@
       "Time": "2023-11-16T05:05:15.8811224+00:00",
       "NumProgressed": 76483,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-16T06:05:50.1500083+00:00",
+      "NumProgressed": 76484,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22815,7 +22820,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "CHALLENGES_1",
@@ -22831,7 +22836,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16061
+      "UsersEstimate": 16062
     },
     {
       "ID": "CLAYFACE_2",
@@ -22911,7 +22916,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6884
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -22951,7 +22956,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21415
+      "UsersEstimate": 21416
     },
     {
       "ID": "FREEZE_1_5",
@@ -22959,7 +22964,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16061
+      "UsersEstimate": 16062
     },
     {
       "ID": "FREEZE_2",
@@ -23071,7 +23076,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39006
+      "UsersEstimate": 39007
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23087,7 +23092,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -23103,7 +23108,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20650
+      "UsersEstimate": 20651
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23119,7 +23124,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26004
+      "UsersEstimate": 26005
     },
     {
       "ID": "MYSTERY_02",
@@ -23159,7 +23164,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11472
+      "UsersEstimate": 11473
     },
     {
       "ID": "MYSTERY_07",
@@ -23191,7 +23196,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6883
+      "UsersEstimate": 6884
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -23207,20 +23212,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76483,
+      "Progressed": 76484,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46763,
+      "Progressed": 46764,
       "Completed": 2673
     }
   ],
@@ -23228,8 +23233,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-15T23:58:17.9942351+00:00",
-  "LastChanged_Achievements": "2023-11-16T05:05:15.881122+00:00",
+  "LastChanged_Achievements": "2023-11-16T06:05:50.1500078+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:58:27.6785585+00:00",
-  "LastUpdate_Achievements": "2023-11-16T05:05:15.8812521+00:00"
+  "LastUpdate_Ratings": "2023-11-16T05:58:56.5302087+00:00",
+  "LastUpdate_Achievements": "2023-11-16T06:05:50.1501422+00:00"
 }
