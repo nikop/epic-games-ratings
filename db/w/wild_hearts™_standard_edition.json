@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1734,9 +1734,9 @@
       "ID": "achievement_9",
       "SetID": "2cpn27e",
       "Name": "Karakuri Minato",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
@@ -1748,8 +1748,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:04:31.8311439+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:10:36.8194019+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:57:15.5406997+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:04:31.831216+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:03:58.8259891+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:10:36.8194406+00:00"
 }

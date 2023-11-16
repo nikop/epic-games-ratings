@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 0.50% | ~3,585 |
 | A Lady's Blood in the Snow | 0.50% | ~3,585 |
 | Lady Wing Chun | 0.50% | ~3,585 |
+| Stuntmaster | 0.50% | ~3,585 |
 | Street Fighting | 0.50% | ~3,585 |
 | State of constant learning | 0.50% | ~3,585 |
 | Qi Gong: Breath | 0.50% | ~3,585 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.50% | ~131 |
 | Furious Fists | 0.40% | ~2,868 |
 | Kill Nil | 0.40% | ~2,868 |
-| Stuntmaster | 0.40% | ~2,868 |
 | Old Child | 0.40% | ~2,868 |
 | Take damage to save time | 0.40% | ~2,868 |
 | Martial Hub | 0.40% | ~105 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,936 (Ranked 21)  
+Progressed: 716,937 (Ranked 21)  
 Completed: 12,935 (1.80%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,14 +277,14 @@ Completed: 12,935 (1.80%) (Ranked 129)
 | 2023-11-13 | 716,879 | 12,934 |
 | 2023-11-14 | 716,907 | 12,934 |
 | 2023-11-15 | 716,927 | 12,934 |
-| 2023-11-16 | 716,936 | 12,935 |
+| 2023-11-16 | 716,937 | 12,935 |
 ## Awards
-Max (Great Boss Battles): 6,800  (Ranked 55)  
-Sum: 11,881 (Ranked 82)  
+Max (Great Boss Battles): 6,802  (Ranked 55)  
+Sum: 11,883 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,800 |
+| This game has Great Boss Battles | 6,802 |
 | This game has Diverse Characters | 652 |
 | This game has Challenging Combat | 600 |
 | This game has Amazing Storytelling | 586 |
@@ -601,4 +601,4 @@ Diff (max vs sum): -27
 | 2023-11-12 | 4.82 | - | 6,789 | 11,861 |
 | 2023-11-13 | 4.82 | - | 6,795 | 11,869 |
 | 2023-11-15 | 4.82 | - | 6,800 | 11,878 |
-| 2023-11-16 | 4.82 | - | 6,800 | 11,881 |
+| 2023-11-16 | 4.82 | - | 6,802 | 11,883 |

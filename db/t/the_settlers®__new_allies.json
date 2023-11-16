@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
     "PcReleaseDate": "2023-02-17T09:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.81,
+  "Rating": 3.8,
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -1195,6 +1195,12 @@
       "Rating": 3.81,
       "NumberOfAwards": 255,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-11-16T13:03:49.3852959+00:00",
+      "Rating": 3.8,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
@@ -1233,8 +1239,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2023-11-13T13:05:16.5019078+00:00",
+  "LastChanged": "2023-11-16T13:03:49.3852957+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:11.0982116+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:57:01.5159945+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:07:51.6959052+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:03:49.3852961+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:13:02.4182515+00:00"
 }

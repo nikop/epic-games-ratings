@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~893 |
-| Whatever It Takes | 2.00% | ~893 |
-| Pork Chopped | 2.00% | ~893 |
+| One of Us | 2.00% | ~894 |
+| Whatever It Takes | 2.00% | ~894 |
+| Pork Chopped | 2.00% | ~894 |
 | Hotel California | 1.00% | ~7,191 |
 | Welcome To Hell-A | 1.00% | ~7,191 |
 | Break A Leg | 0.90% | ~6,472 |
@@ -36,11 +36,11 @@ Rating: 4.54 (Ranked 524)
 | Humanity Distilled | 0.50% | ~3,596 |
 | I Am the Resurrection | 0.50% | ~3,596 |
 | Max Headroom | 0.50% | ~3,596 |
-| Not Even My Final Form | 0.40% | ~2,876 |
-| Jumbo Keyring | 0.40% | ~2,876 |
-| Down with the Sickness | 0.40% | ~2,876 |
-| Go, Bobcats! | 0.40% | ~2,876 |
-| Rising Star | 0.40% | ~2,876 |
+| Not Even My Final Form | 0.40% | ~2,877 |
+| Jumbo Keyring | 0.40% | ~2,877 |
+| Down with the Sickness | 0.40% | ~2,877 |
+| Go, Bobcats! | 0.40% | ~2,877 |
+| Rising Star | 0.40% | ~2,877 |
 | Make it So | 0.30% | ~2,157 |
 | On Safari | 0.30% | ~2,157 |
 | Smorgasbord | 0.30% | ~2,157 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~45 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,121 (Ranked 20)  
+Progressed: 719,142 (Ranked 20)  
 Completed: 2,394 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 2,394 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,121 | 2,394 |
+| 2023-11-16 | 719,142 | 2,394 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 51)  
 Sum: 11,383 (Ranked 84)  

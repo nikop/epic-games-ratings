@@ -38,8 +38,8 @@
 | Style Seeker | 26.00% | ~75 |
 | Human Believer | 26.00% | ~75 |
 | Unrivaled in Arms | 26.00% | ~75 |
+| Karakuri Minato | 26.00% | ~75 |
 | Threaded Harmony | 25.00% | ~72 |
-| Karakuri Minato | 25.00% | ~72 |
 | Jack of All Trades | 23.00% | ~66 |
 | Quintessence of Form | 23.00% | ~66 |
 | Karakuri Fortress | 21.00% | ~60 |

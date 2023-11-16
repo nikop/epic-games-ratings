@@ -19,9 +19,9 @@
 | Medal of Honor | 49.00% | ~626 |
 | Charismatic | 49.00% | ~626 |
 | Soldier | 48.00% | ~613 |
+| Soldier Ally | 46.00% | ~588 |
 | Asari Ally | 46.00% | ~588 |
 | Medal of Exploration III | 45.00% | ~575 |
-| Soldier Ally | 45.00% | ~575 |
 | Principled | 44.00% | ~562 |
 | Colonial Savior | 43.00% | ~550 |
 | Paramour I | 42.00% | ~537 |
@@ -43,13 +43,13 @@
 | The Krogan | 33.00% | ~422 |
 | Broke, Blind, and Bedlam | 32.00% | ~409 |
 | Ghost Ship | 31.00% | ~396 |
+| The Justicar | 31.00% | ~396 |
 | The Quarian | 31.00% | ~396 |
 | The Prodigal | 31.00% | ~396 |
 | Galactic Explorer | 31.00% | ~396 |
 | A Personal Touch | 30.00% | ~383 |
 | Completionist | 30.00% | ~383 |
 | The Assassin | 30.00% | ~383 |
-| The Justicar | 30.00% | ~383 |
 | Battlemaster | 30.00% | ~383 |
 | Catharsis | 30.00% | ~383 |
 | Ghost of the Father | 30.00% | ~383 |
@@ -74,10 +74,10 @@
 | Mission Accomplished | 26.00% | ~332 |
 | Suicide Mission | 26.00% | ~332 |
 | Against All Odds | 26.00% | ~332 |
+| Eye of the Hurricane | 25.00% | ~320 |
 | Giant Killer | 25.00% | ~320 |
 | First Aid Specialist | 25.00% | ~320 |
 | A House Divided | 25.00% | ~320 |
-| Eye of the Hurricane | 24.00% | ~307 |
 | World Shaker | 24.00% | ~307 |
 | Weapon Specialist | 23.00% | ~294 |
 | Pathfinder | 23.00% | ~294 |

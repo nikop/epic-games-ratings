@@ -4,11 +4,11 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 349,
   "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 520,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -263,10 +263,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-11-16T13:06:43.1153567+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
+  "NumberOfAwards": 46,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -275,11 +281,17 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 26
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 232324,
+  "EOS_Progressed": 232326,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21662,6 +21674,11 @@
       "Time": "2023-11-16T11:08:32.5529598+00:00",
       "NumProgressed": 232324,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-16T13:14:48.021433+00:00",
+      "NumProgressed": 232326,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -21817,7 +21834,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78990
+      "UsersEstimate": 78991
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -21833,7 +21850,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51111
+      "UsersEstimate": 51112
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -21896,16 +21913,16 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232324,
+      "Progressed": 232326,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2023-11-12T16:58:04.2013663+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:08:52.4284122+00:00",
+  "LastChanged": "2023-11-16T13:06:43.1153565+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:14:48.0214325+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:28.0275139+00:00",
-  "LastUpdate_Ratings": "2023-11-16T12:01:08.3957361+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:08:52.4286408+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:06:43.115357+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:14:48.0215362+00:00"
 }

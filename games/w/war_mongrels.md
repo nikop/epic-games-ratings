@@ -24,7 +24,7 @@ Number of Ratings: 34  (23.09.2022)
 | Opportunities | 31.00% | ~187 |
 | The Horror | 29.00% | ~175 |
 | The Difference | 27.00% | ~163 |
-| Vengeance | 25.00% | ~151 |
+| Vengeance | 26.00% | ~157 |
 | Collectibles of Chapter II | 23.00% | ~139 |
 | Broken Hopes | 23.00% | ~139 |
 | It's Just an Accident | 23.00% | ~139 |

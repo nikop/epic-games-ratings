@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,679 |
-| A thief's beginning | 10.00% | ~21,399 |
-| Thorough | 10.00% | ~21,399 |
-| Disguised | 9.00% | ~19,259 |
-| Rollin' | 9.00% | ~19,259 |
-| Tanuki Time | 9.00% | ~19,259 |
-| Rescue Takuma | 8.00% | ~17,119 |
-| Stoned Ox | 8.00% | ~17,119 |
-| Happy Planning | 7.00% | ~14,979 |
-| Ice Ice Yuki | 7.00% | ~14,979 |
-| Jonin | 7.00% | ~14,979 |
-| Yabu | 7.00% | ~14,979 |
-| Chunin | 6.00% | ~12,839 |
-| Flying Rocks | 6.00% | ~12,839 |
-| Mugen Unchained | 6.00% | ~12,839 |
-| Warzone | 6.00% | ~12,839 |
+| Genin | 12.00% | ~25,680 |
+| A thief's beginning | 10.00% | ~21,400 |
+| Thorough | 10.00% | ~21,400 |
+| Disguised | 9.00% | ~19,260 |
+| Rollin' | 9.00% | ~19,260 |
+| Tanuki Time | 9.00% | ~19,260 |
+| Rescue Takuma | 8.00% | ~17,120 |
+| Stoned Ox | 8.00% | ~17,120 |
+| Happy Planning | 7.00% | ~14,980 |
+| Ice Ice Yuki | 7.00% | ~14,980 |
+| Jonin | 7.00% | ~14,980 |
+| Yabu | 7.00% | ~14,980 |
+| Chunin | 6.00% | ~12,840 |
+| Flying Rocks | 6.00% | ~12,840 |
+| Mugen Unchained | 6.00% | ~12,840 |
+| Warzone | 6.00% | ~12,840 |
 | Okkoto | 5.00% | ~10,700 |
 | Prisoners | 5.00% | ~10,700 |
 | Too Early | 5.00% | ~10,700 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,991 (Ranked 70)  
+Progressed: 214,001 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 98 (0.05%) (Ranked 303)
 | 2023-11-13 | 213,621 | 98 |
 | 2023-11-14 | 213,782 | 98 |
 | 2023-11-15 | 213,927 | 98 |
-| 2023-11-16 | 213,991 | 98 |
+| 2023-11-16 | 214,001 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 197)  
-Sum: 4,843 (Ranked 142)  
+Sum: 4,844 (Ranked 142)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): 55
 | This game is Extremely Fun | 534 |
 | This game has Amazing Storytelling | 514 |
 | This game has Amazing Characters | 498 |
-| This game is Highly Recommended | 492 |
+| This game is Highly Recommended | 493 |
 | This game is Relaxing | 492 |
 | This game has Challenging Combat | 491 |
 | This game has Quickly Understood Controls | 457 |
@@ -494,3 +494,4 @@ Diff (max vs sum): 55
 | 2023-11-12 | 4.67 | - | 573 | 4,837 |
 | 2023-11-13 | 4.67 | - | 573 | 4,840 |
 | 2023-11-14 | 4.67 | - | 573 | 4,843 |
+| 2023-11-16 | 4.67 | - | 573 | 4,844 |

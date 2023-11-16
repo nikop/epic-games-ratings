@@ -1,14 +1,14 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 0.70% | ~9 |
 | Not Touching You | 0.50% | ~6 |
-| First Steps | 0.30% | ~719 |
+| First Steps | 0.40% | ~959 |
 | Nothing To Lose | 0.30% | ~719 |
 | Heavy Hitter | 0.30% | ~719 |
 | Getting A Glimpse | 0.30% | ~719 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,756 (Ranked 61)  
-Completed: 288 (0.12%) (Ranked 271)  
+Progressed: 239,759 (Ranked 61)  
+Completed: 288 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,7 +355,7 @@ Completed: 288 (0.12%) (Ranked 271)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,756 | 288 |
+| 2023-11-16 | 239,759 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,675 (Ranked 83)  

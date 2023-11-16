@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 444,
-  "Ranking_Popularity": 426,
+  "Ranking_Rating": 443,
+  "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158472,
+  "EOS_Progressed": 158480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15856,6 +15856,11 @@
       "Time": "2023-11-16T12:06:46.2432728+00:00",
       "NumProgressed": 158472,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T13:12:13.936319+00:00",
+      "NumProgressed": 158480,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15987,7 +15992,7 @@
       "Name": "Host",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -16003,7 +16008,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -16059,7 +16064,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -16067,7 +16072,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -16234,21 +16239,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158055,
+      "Progressed": 158063,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158472,
+      "Progressed": 158480,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:06:46.2432725+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:12:13.9363187+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:57:28.6417962+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:06:46.2434091+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:04:07.6328929+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:12:13.9364089+00:00"
 }

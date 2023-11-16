@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,112 |
-| Off to a good start | 66.00% | ~824 |
-| Do... or do not. There is no try | 51.00% | ~637 |
-| A good blaster at your side | 31.00% | ~387 |
+| New Recruit | 89.00% | ~1,113 |
+| Off to a good start | 67.00% | ~838 |
+| Do... or do not. There is no try | 51.00% | ~638 |
+| A good blaster at your side | 31.00% | ~388 |
 | I suggest a new strategy | 20.00% | ~250 |
 | Scrap collector | 18.00% | ~225 |
-| All right, I'll give it a try | 17.00% | ~212 |
-| Great shot, kid! | 17.00% | ~212 |
-| The power of the Force | 15.00% | ~187 |
-| Together we can rule the galaxy | 15.00% | ~187 |
-| Shoot first | 15.00% | ~187 |
+| All right, I'll give it a try | 17.00% | ~213 |
+| Great shot, kid! | 17.00% | ~213 |
+| The power of the Force | 15.00% | ~188 |
+| Together we can rule the galaxy | 15.00% | ~188 |
+| Shoot first | 15.00% | ~188 |
 | Collector | 14.00% | ~175 |
 | Tell Jabba that I've got his money | 10.00% | ~125 |
 | Best star-pilot in the galaxy | 10.00% | ~125 |
 | Survivor | 10.00% | ~125 |
-| Never tell me the odds! | 9.00% | ~112 |
+| Never tell me the odds! | 9.00% | ~113 |
 | What's the cargo? | 8.00% | ~100 |
 | A cunning warrior | 8.00% | ~100 |
-| Judge me by my size, do you? | 7.00% | ~87 |
+| Judge me by my size, do you? | 7.00% | ~88 |
 | "Gonk? Gonk!" | 6.00% | ~75 |
 | Distinguished | 6.00% | ~75 |
 | A tremor in the Force | 6.00% | ~75 |
@@ -32,13 +32,13 @@
 | Not bad for a little furball | 4.00% | ~50 |
 | Patience you must have | 4.00% | ~50 |
 | Don't underestimate the Force | 4.00% | ~50 |
-| I've been waiting for you | 3.00% | ~37 |
-| When 900 years old you reach... | 3.00% | ~37 |
-| Determined | 3.00% | ~37 |
-| Your journey has only started | 3.00% | ~37 |
-| On the ball | 3.00% | ~37 |
-| Precision shot | 3.00% | ~37 |
-| That's no moon | 3.00% | ~37 |
+| I've been waiting for you | 3.00% | ~38 |
+| When 900 years old you reach... | 3.00% | ~38 |
+| Determined | 3.00% | ~38 |
+| Your journey has only started | 3.00% | ~38 |
+| On the ball | 3.00% | ~38 |
+| Precision shot | 3.00% | ~38 |
+| That's no moon | 3.00% | ~38 |
 | Hold the line! | 2.00% | ~25 |
 | The Force is strong with this one | 2.00% | ~25 |
 | This is a new day, a new beginning | 2.00% | ~25 |
@@ -47,13 +47,13 @@
 | What will you become? | 2.00% | ~25 |
 | The circle is now complete | 2.00% | ~25 |
 | Disturbed tranquility | 2.00% | ~25 |
-| Playing the objective | 1.00% | ~12 |
-| Ackbar's Elite | 1.00% | ~12 |
-| Do we take prisoners? | 1.00% | ~12 |
-| You have your moments | 1.00% | ~12 |
-| When surrounded by war... | 1.00% | ~12 |
-| Stop that Droid | 1.00% | ~12 |
-| Onwards! | 1.00% | ~12 |
+| Playing the objective | 1.00% | ~13 |
+| Ackbar's Elite | 1.00% | ~13 |
+| Do we take prisoners? | 1.00% | ~13 |
+| You have your moments | 1.00% | ~13 |
+| When surrounded by war... | 1.00% | ~13 |
+| Stop that Droid | 1.00% | ~13 |
+| Onwards! | 1.00% | ~13 |
 | No such thing as luck | 0.90% | ~11 |
 | A New Hope | 0.80% | ~10 |
 | Walker defender | 0.70% | ~9 |
@@ -65,10 +65,10 @@
 | in a galaxy far, far away.... | 0.30% | ~4 |
 | Master | 0.30% | ~4 |
 | Stay in attack formation | 0.30% | ~4 |
-| I never doubted you! | 0.20% | ~2 |
+| I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 245)  
+Progressed: 1,251 (Ranked 245)  
 Completed: 1 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.08%) (Ranked 289)
 | 2023-11-13 | 1,206 | 1 |
 | 2023-11-14 | 1,220 | 1 |
 | 2023-11-15 | 1,239 | 1 |
-| 2023-11-16 | 1,249 | 1 |
+| 2023-11-16 | 1,251 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3305,
+  "EOS_Progressed": 3306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5673,6 +5673,11 @@
       "Time": "2023-11-15T21:03:18.4947571+00:00",
       "NumProgressed": 3305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T13:10:16.3625679+00:00",
+      "NumProgressed": 3306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5692,7 +5697,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_BASE_11",
@@ -5772,7 +5777,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH_BASE_22",
@@ -5796,7 +5801,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_BASE_25",
@@ -6139,13 +6144,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1489,
+      "Progressed": 1490,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3305,
+      "Progressed": 3306,
       "Completed": 0
     }
   ],
@@ -6153,8 +6158,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:04:04.2415905+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:10:16.3625675+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.602463+00:00",
-  "LastUpdate_Ratings": "2023-11-16T12:01:38.616829+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:04:04.2417327+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:07:04.509592+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:10:16.3626235+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1642,
+  "EOS_Progressed": 1643,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2363,6 +2363,11 @@
       "Time": "2023-11-14T08:03:00.3975753+00:00",
       "NumProgressed": 1642,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-16T13:10:45.0720461+00:00",
+      "NumProgressed": 1643,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2374,7 +2379,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2406,15 +2411,15 @@
       "Name": "Being a donut...",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENTS_06",
       "SetID": "d4o538a",
       "Name": "Acrobatic Adventurer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -2422,7 +2427,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2430,7 +2435,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2438,7 +2443,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2446,7 +2451,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2486,7 +2491,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2494,7 +2499,7 @@
       "Name": "Sociable",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -2510,7 +2515,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2526,7 +2531,7 @@
       "Name": "Decorative Mind",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2550,7 +2555,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2614,7 +2619,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -2638,7 +2643,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2677,7 +2682,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 10
     }
   ],
@@ -2685,8 +2690,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:04:42.4630071+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:10:45.0720456+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:58.9518626+00:00",
   "LastUpdate_Ratings": "2023-11-16T12:02:38.651995+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:04:42.4630695+00:00"
+  "LastUpdate_Achievements": "2023-11-16T13:10:45.0720805+00:00"
 }

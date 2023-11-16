@@ -5,7 +5,7 @@
   "Ranking_Rating": 588,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 139,
-  "Ranking_EOS_Progress": 168,
+  "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 53,
@@ -5115,9 +5115,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8050,
+  "EOS_Progressed": 8051,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11430,6 +11430,11 @@
       "Time": "2023-11-16T11:08:43.7153138+00:00",
       "NumProgressed": 8050,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-11-16T13:14:59.7515041+00:00",
+      "NumProgressed": 8051,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -11450,7 +11455,7 @@
       "Name": "Tragedy",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "achievement_a11",
@@ -11482,7 +11487,7 @@
       "Name": "Han Slowlo",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "achievement_a15",
@@ -11514,7 +11519,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6118
+      "UsersEstimate": 6119
     },
     {
       "ID": "achievement_a19",
@@ -11530,7 +11535,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "achievement_a20",
@@ -11546,7 +11551,7 @@
       "Name": "Get Down From There",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_a22",
@@ -11562,7 +11567,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "achievement_a24",
@@ -11626,7 +11631,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "achievement_a31",
@@ -11634,7 +11639,7 @@
       "Name": "Cleaning Up",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4266
+      "UsersEstimate": 4267
     },
     {
       "ID": "achievement_a32",
@@ -11650,7 +11655,7 @@
       "Name": "Skywalker",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "achievement_a34",
@@ -11682,7 +11687,7 @@
       "Name": "Caij Match",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_a38",
@@ -11690,7 +11695,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5876
+      "UsersEstimate": 5877
     },
     {
       "ID": "achievement_a39",
@@ -11738,7 +11743,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "achievement_a44",
@@ -11770,7 +11775,7 @@
       "Name": "Growth Spurt",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "achievement_a48",
@@ -11786,7 +11791,7 @@
       "Name": "Intergalactic Geographic",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_a5",
@@ -11834,7 +11839,7 @@
       "Name": "Among the Masters",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6199
     },
     {
       "ID": "achievement_a7",
@@ -11842,7 +11847,7 @@
       "Name": "For the Path",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "achievement_a8",
@@ -11850,7 +11855,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4830
+      "UsersEstimate": 4831
     },
     {
       "ID": "achievement_a9",
@@ -11858,14 +11863,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 8050,
+      "Progressed": 8051,
       "Completed": 45
     }
   ],
@@ -11873,8 +11878,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-16T09:58:49.6338434+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:09:07.6979288+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:14:59.7515037+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:25.3052471+00:00",
-  "LastUpdate_Ratings": "2023-11-16T12:00:06.1580726+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:09:07.6980616+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:05:59.4417354+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:14:59.7515765+00:00"
 }

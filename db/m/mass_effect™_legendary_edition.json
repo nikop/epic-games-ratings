@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1278,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3580,9 +3580,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_108",
@@ -3860,9 +3860,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 588
     },
     {
       "ID": "achievement_25",
@@ -4060,9 +4060,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_48",
@@ -4536,8 +4536,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:06:25.4850334+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:11:57.8567653+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-16T12:03:12.1141652+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:06:25.4852809+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:09:38.146146+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:11:57.8569251+00:00"
 }

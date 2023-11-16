@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 52.00% | ~83 |
-| Fire in the... nevermind | 51.00% | ~81 |
-| Haute cuisine | 47.00% | ~75 |
-| I didn't do it! | 40.00% | ~64 |
+| Chapter I | 51.00% | ~82 |
+| Fire in the... nevermind | 51.00% | ~82 |
+| Haute cuisine | 46.00% | ~74 |
 | Demolition expert | 39.00% | ~62 |
+| I didn't do it! | 39.00% | ~62 |
 | Keep away from children | 37.00% | ~59 |
-| Open up wide | 35.00% | ~56 |
-| Wooooooow! | 35.00% | ~56 |
-| Artistic fool | 33.00% | ~52 |
-| Let the boot talk | 31.00% | ~49 |
+| Open up wide | 34.00% | ~54 |
+| Wooooooow! | 34.00% | ~54 |
+| Artistic fool | 33.00% | ~53 |
+| Let the boot talk | 31.00% | ~50 |
 | Shadow on the wall | 29.00% | ~46 |
-| Chapter II | 26.00% | ~41 |
+| Chapter II | 26.00% | ~42 |
 | Handyman | 23.00% | ~37 |
 | Bubblekillerfamily | 23.00% | ~37 |
 | Achoo!! | 23.00% | ~37 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 392)  
+Progressed: 160 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 154 | 0 |
 | 2023-11-14 | 156 | 0 |
 | 2023-11-15 | 157 | 0 |
-| 2023-11-16 | 159 | 0 |
+| 2023-11-16 | 160 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

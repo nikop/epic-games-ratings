@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~238 |
-| Thalya – Simply Immortal | 86.00% | ~238 |
+| The Last Stand | 86.00% | ~239 |
+| Thalya – Simply Immortal | 86.00% | ~239 |
 | For the Horde! | 80.00% | ~222 |
-| Hammer Time, Round Two | 79.00% | ~219 |
-| The Hellwoods | 73.00% | ~202 |
-| Thalya's Concentrated Fury | 66.00% | ~183 |
-| The Plains of Strothalm | 65.00% | ~180 |
-| Experienced Thalya | 65.00% | ~180 |
-| Master of Magic | 61.00% | ~169 |
-| Bad Elves Go Everywhere | 59.00% | ~163 |
-| Magic Accidents | 55.00% | ~152 |
-| Unicorn steaks – fresh off the hoof! | 55.00% | ~152 |
+| Hammer Time, Round Two | 79.00% | ~220 |
+| The Hellwoods | 73.00% | ~203 |
+| Thalya's Concentrated Fury | 67.00% | ~186 |
+| The Plains of Strothalm | 65.00% | ~181 |
+| Experienced Thalya | 64.00% | ~178 |
+| Master of Magic | 62.00% | ~172 |
+| Bad Elves Go Everywhere | 59.00% | ~164 |
+| Magic Accidents | 55.00% | ~153 |
+| Unicorn steaks – fresh off the hoof! | 55.00% | ~153 |
 | Heroes’ Gorge | 53.00% | ~147 |
-| Trap Master | 52.00% | ~144 |
-| Minions, Minions! | 51.00% | ~141 |
-| The Ascent | 42.00% | ~116 |
-| It's Warm and Cozy at Home | 42.00% | ~116 |
-| YOU SHALL NOT PASS! | 39.00% | ~108 |
-| Hard Work | 37.00% | ~102 |
+| Trap Master | 51.00% | ~142 |
+| Minions, Minions! | 51.00% | ~142 |
+| The Ascent | 41.00% | ~114 |
+| It's Warm and Cozy at Home | 41.00% | ~114 |
+| YOU SHALL NOT PASS! | 38.00% | ~106 |
+| Hard Work | 37.00% | ~103 |
 | Pure Dynamite! | 36.00% | ~100 |
 | The Big Eaty | 35.00% | ~97 |
-| Mana Cannon | 29.00% | ~80 |
+| Mana Cannon | 29.00% | ~81 |
 | “… like son” | 27.00% | ~75 |
 | Dungeonlord Gorgu | 22.00% | ~61 |
 | Shame! Shame! Shame! | 22.00% | ~61 |
@@ -40,12 +40,12 @@
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~33 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~28 |
 | Stop Tanos! | 10.00% | ~28 |
-| The Duel | 9.00% | ~25 |
-| If Looks Could Kill | 8.00% | ~22 |
+| The Duel | 10.00% | ~28 |
+| If Looks Could Kill | 9.00% | ~25 |
 | The Finitude Drill | 7.00% | ~19 |
+| Bonus Evilness | 6.00% | ~17 |
 | Doom Hill | 6.00% | ~17 |
 | My Little Torture Chamber | 5.00% | ~14 |
-| Bonus Evilness | 5.00% | ~14 |
 | Sabotage! | 5.00% | ~14 |
 | Raiders of the Lost Stone | 5.00% | ~14 |
 | Brimstone Shaken, Not Stirred | 5.00% | ~14 |
@@ -66,7 +66,7 @@
 | Hands Off My Stones | 1.00% | ~3 |
 | I Don't Need Any Help | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277 (Ranked 352)  
+Progressed: 278 (Ranked 352)  
 Completed: 1 (0.36%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,4 +78,4 @@ Completed: 1 (0.36%) (Ranked 220)
 | 2023-11-13 | 250 | 1 |
 | 2023-11-14 | 264 | 1 |
 | 2023-11-15 | 272 | 1 |
-| 2023-11-16 | 277 | 1 |
+| 2023-11-16 | 278 | 1 |

@@ -6,7 +6,7 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,128 |
+| I will finish what you started | 29.00% | ~73,129 |
 | Powergamer | 27.00% | ~68,085 |
 | Write that down | 25.00% | ~63,042 |
 | Barely scratched the surface | 25.00% | ~63,042 |
@@ -52,14 +52,14 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~1,009 |
 | LET ME OUT! | 0.40% | ~1,009 |
 | Un-bear-able | 0.40% | ~1,009 |
-| Well-deserved reunion | 0.30% | ~756 |
+| Well-deserved reunion | 0.30% | ~757 |
 | Breaking the chains | 0.20% | ~504 |
 | Aren't you overthinking? | 0.20% | ~504 |
 | Take the red pill | 0.20% | ~504 |
 | This is the way | 0.20% | ~504 |
 | Memory 5 | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,166 (Ranked 57)  
+Progressed: 252,168 (Ranked 57)  
 Completed: 7 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 7 (0.00%) (Ranked 352)
 | 2023-11-13 | 251,984 | 7 |
 | 2023-11-14 | 252,051 | 7 |
 | 2023-11-15 | 252,136 | 7 |
-| 2023-11-16 | 252,166 | 7 |
+| 2023-11-16 | 252,168 | 7 |
 ## Awards
 Max (Character Customization): 90  (Ranked 376)  
 Sum: 90 (Ranked 449)  

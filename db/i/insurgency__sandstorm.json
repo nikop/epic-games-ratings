@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4048,9 +4048,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 484359,
+  "EOS_Progressed": 484366,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3510,
+  "EOS_NewPlayers": 3507,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27993,6 +27993,11 @@
       "Time": "2023-11-16T12:03:44.9551752+00:00",
       "NumProgressed": 484359,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T13:10:01.6652876+00:00",
+      "NumProgressed": 484366,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -28060,7 +28065,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19374
+      "UsersEstimate": 19375
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -28172,7 +28177,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19374
+      "UsersEstimate": 19375
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -28276,22 +28281,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19374
+      "UsersEstimate": 19375
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 484359,
+      "Progressed": 484366,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-11-15T14:59:08.4159021+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:03:44.9551748+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:10:01.6652872+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.866497+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:59:27.5950678+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:03:44.9554658+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:05:32.3715689+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:10:01.665442+00:00"
 }

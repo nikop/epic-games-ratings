@@ -14,9 +14,9 @@ Number of Ratings: 98  (23.09.2022)
 | Spice It Up | 32.00% | ~535 |
 | Agent 47 | 27.00% | ~451 |
 | Bomberman | 27.00% | ~451 |
-| You're Gonna Go Far, Kid | 26.00% | ~434 |
-| Death to the Oppressor! | 19.00% | ~317 |
-| The Gang's All Here | 16.00% | ~267 |
+| You're Gonna Go Far, Kid | 26.00% | ~435 |
+| Death to the Oppressor! | 19.00% | ~318 |
+| The Gang's All Here | 16.00% | ~268 |
 | Your Answer | 15.00% | ~251 |
 | One by One | 14.00% | ~234 |
 | The Big Bertha | 12.00% | ~201 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,671 (Ranked 231)  
-Completed: 2 (0.12%) (Ranked 271)  
+Progressed: 1,672 (Ranked 231)  
+Completed: 2 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 2 (0.12%) (Ranked 271)
 | 2023-11-13 | 1,650 | 1 |
 | 2023-11-14 | 1,659 | 2 |
 | 2023-11-15 | 1,666 | 2 |
-| 2023-11-16 | 1,671 | 2 |
+| 2023-11-16 | 1,672 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

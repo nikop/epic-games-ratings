@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18844,
+  "EOS_Progressed": 18845,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12898,6 +12898,11 @@
       "Time": "2023-11-16T12:07:07.3973296+00:00",
       "NumProgressed": 18844,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T13:12:29.4961678+00:00",
+      "NumProgressed": 18845,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12909,7 +12914,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5653
+      "UsersEstimate": 5654
     },
     {
       "ID": "0002",
@@ -12925,7 +12930,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3203
+      "UsersEstimate": 3204
     },
     {
       "ID": "0004",
@@ -13196,7 +13201,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18844,
+      "Progressed": 18845,
       "Completed": 4
     }
   ],
@@ -13204,8 +13209,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:07:07.3973293+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:12:29.4961672+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:53.213288+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:58:43.1466962+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:07:07.3974701+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:05:00.2009009+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:12:29.4962555+00:00"
 }

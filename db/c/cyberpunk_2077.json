@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15168,10 +15168,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 354008,
       "NumberOfAwardsMax": 105592
+    },
+    {
+      "Time": "2023-11-16T13:04:16.0175854+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 354137,
+      "NumberOfAwardsMax": 105592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 354008,
+  "NumberOfAwards": 354137,
   "NumberOfAwardsMax": 105592,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15197,7 +15203,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 18720
+      "Count": 18796
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15233,7 +15239,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 19490
+      "Count": 19543
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15248,7 +15254,7 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896872,
+  "EOS_Progressed": 896882,
   "EOS_Completed": 2780,
   "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 21,
@@ -39048,6 +39054,11 @@
       "Time": "2023-11-16T12:08:11.8667321+00:00",
       "NumProgressed": 896872,
       "NumCompleted": 2780
+    },
+    {
+      "Time": "2023-11-16T13:13:17.970623+00:00",
+      "NumProgressed": 896882,
+      "NumCompleted": 2780
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39076,7 +39087,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "Cyberjunkie",
@@ -39100,7 +39111,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "Fortuneteller",
@@ -39132,7 +39143,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17937
+      "UsersEstimate": 17938
     },
     {
       "ID": "Gunslinger",
@@ -39148,7 +39159,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "IAmMaxTac",
@@ -39156,7 +39167,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -39180,7 +39191,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "MaxPain",
@@ -39276,7 +39287,7 @@
       "Name": "The Fool",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "TheHermit",
@@ -39292,7 +39303,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "TheLovers",
@@ -39332,7 +39343,7 @@
       "Name": "The World",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "ThisIsPacifica",
@@ -39380,7 +39391,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3588
     },
     {
       "ID": "VForVendetta",
@@ -39460,7 +39471,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Kingofcups",
@@ -39540,7 +39551,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KingOfThePentacles",
@@ -39564,7 +39575,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TheTower",
@@ -39595,21 +39606,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896872,
+      "Progressed": 896882,
       "Completed": 2780
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25495,
+      "Progressed": 25505,
       "Completed": 10226
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-16T11:57:40.6579738+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:08:11.8667317+00:00",
+  "LastChanged": "2023-11-16T13:04:16.0175852+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:13:17.9706226+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:57:40.6579745+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:08:11.8670422+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:04:16.0175859+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:13:17.9707448+00:00"
 }

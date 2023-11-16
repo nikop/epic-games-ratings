@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12067,10 +12067,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57792,
       "NumberOfAwardsMax": 7026
+    },
+    {
+      "Time": "2023-11-16T13:04:55.3387453+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57806,
+      "NumberOfAwardsMax": 7026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57792,
+  "NumberOfAwards": 57806,
   "NumberOfAwardsMax": 7026,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12120,7 +12126,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6447
+      "Count": 6461
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12141,9 +12147,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456670,
+  "EOS_Progressed": 456706,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6304,
+  "EOS_NewPlayers": 6315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36176,6 +36182,11 @@
       "Time": "2023-11-16T12:05:41.2143786+00:00",
       "NumProgressed": 456670,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T13:11:24.2897004+00:00",
+      "NumProgressed": 456706,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37673,9 +37684,9 @@
       "ID": "achievement_mare_nostrum",
       "SetID": "8p2n7he",
       "Name": "Mare Nostrum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_market_control",
@@ -39090,21 +39101,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456670,
+      "Progressed": 456706,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456670,
+      "Progressed": 456706,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-16T11:58:36.5966798+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:05:41.2143783+00:00",
+  "LastChanged": "2023-11-16T13:04:55.338745+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:11:24.2897001+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:58:36.5966805+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:05:41.2160605+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:04:55.3387461+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:11:24.2908315+00:00"
 }

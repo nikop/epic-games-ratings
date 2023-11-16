@@ -13,8 +13,8 @@ Rating: 4.64 (Ranked 332)
 | Cannon Fodder | 61.00% | ~1,112 |
 | Autofire | 58.00% | ~1,057 |
 | Story Teller | 56.00% | ~1,021 |
+| Raise the Stakes | 56.00% | ~1,021 |
 | True Believer | 56.00% | ~1,021 |
-| Raise the Stakes | 55.00% | ~1,003 |
 | Surgeon | 52.00% | ~948 |
 | Freeze | 51.00% | ~930 |
 | Exterminator | 51.00% | ~930 |
@@ -35,9 +35,9 @@ Rating: 4.64 (Ranked 332)
 | A Cut Above | 32.00% | ~583 |
 | Set A Benchmark | 29.00% | ~529 |
 | Whole Again | 28.00% | ~510 |
+| Pack Rat | 26.00% | ~474 |
 | Final Regeneration | 25.00% | ~456 |
 | Full Contact | 25.00% | ~456 |
-| Pack Rat | 25.00% | ~456 |
 | Full Clearance | 24.00% | ~438 |
 | Pusher | 22.00% | ~401 |
 | Z-Baller | 22.00% | ~401 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7585,18 +7585,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11881,
       "NumberOfAwardsMax": 6800
+    },
+    {
+      "Time": "2023-11-16T13:04:45.4228165+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11883,
+      "NumberOfAwardsMax": 6802
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11881,
-  "NumberOfAwardsMax": 6800,
+  "NumberOfAwards": 11883,
+  "NumberOfAwardsMax": 6802,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6800
+      "Count": 6802
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7665,9 +7671,9 @@
       "Count": 421
     }
   ],
-  "EOS_Progressed": 716936,
+  "EOS_Progressed": 716937,
   "EOS_Completed": 12935,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26200,6 +26206,11 @@
       "Time": "2023-11-16T11:06:50.4323842+00:00",
       "NumProgressed": 716936,
       "NumCompleted": 12935
+    },
+    {
+      "Time": "2023-11-16T13:14:25.9241576+00:00",
+      "NumProgressed": 716937,
+      "NumCompleted": 12935
     }
   ],
   "TotalAchievements": 60,
@@ -26361,9 +26372,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2868
+      "UsersEstimate": 3585
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -26690,21 +26701,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26237,
+      "Progressed": 26238,
       "Completed": 10743
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716936,
+      "Progressed": 716937,
       "Completed": 12935
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-11-16T05:57:59.0403661+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:08:22.3826814+00:00",
+  "LastChanged": "2023-11-16T13:04:45.4228163+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:14:25.9241569+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:58:22.9457244+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:08:22.3829126+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:04:45.4228169+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:14:25.9242966+00:00"
 }

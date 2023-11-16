@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -332,9 +332,9 @@
       "ID": "24",
       "SetID": "6bgoh8g",
       "Name": "Just like a police lineup",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "25",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:07:19.6777596+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:12:38.0606331+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:07.18634+00:00",
-  "LastUpdate_Ratings": "2023-11-16T12:00:37.9163648+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:07:19.6777814+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:06:21.4371741+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:12:38.0606526+00:00"
 }

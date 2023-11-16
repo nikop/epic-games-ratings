@@ -85,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~457 |
 | Live Long and Prosper | 0.10% | ~457 |
 | Magellan’s Voyage | 0.10% | ~457 |
+| Mare Nostrum | 0.10% | ~457 |
 | Market Control | 0.10% | ~457 |
 | Marshy March | 0.10% | ~457 |
 | Multiculturalism | 0.10% | ~457 |
@@ -262,7 +263,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Made in Japan | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
-| Mare Nostrum | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,670 (Ranked 41)  
+Progressed: 456,706 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,10 +580,10 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,670 | 1 |
+| 2023-11-16 | 456,706 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
-Sum: 57,792 (Ranked 24)  
+Sum: 57,806 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -592,7 +592,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,734 |
 | This game has Challenging Combat | 6,646 |
 | This game is Extremely Fun | 6,619 |
-| This game is Relaxing | 6,447 |
+| This game is Relaxing | 6,461 |
 | This game has Competitive Players | 6,295 |
 | This game has Amazing Storytelling | 5,842 |
 | This game has Amazing Characters | 5,414 |
@@ -903,4 +903,4 @@ Diff (max vs sum): 30
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
-| 2023-11-16 | 4.69 | - | 7,026 | 57,792 |
+| 2023-11-16 | 4.69 | - | 7,026 | 57,806 |

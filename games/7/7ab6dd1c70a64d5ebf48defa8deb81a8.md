@@ -16,14 +16,15 @@
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
 | Geared Up | 1.00% | ~2 |
+| Fashion Victim | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | Flawless Victory | 0.50% | ~1 |
 | Big Bazar | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
-| Fashion Victim | 0.50% | ~1 |
 | Scholar | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
+| The Collector | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
 | A Taste of Wrath | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |
-| The Collector | 0.00% | ~0 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
 | Alchemist | -0.50% | ~-1 |

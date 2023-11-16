@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24235,
+  "EOS_Progressed": 24238,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -22968,6 +22968,11 @@
       "Time": "2023-11-16T11:06:01.348207+00:00",
       "NumProgressed": 24235,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-11-16T13:12:33.3156701+00:00",
+      "NumProgressed": 24238,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 20,
@@ -23027,7 +23032,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -23035,7 +23040,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -23043,7 +23048,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "FOUND_ERIN",
@@ -23051,7 +23056,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -23091,7 +23096,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "INTRO_FINISHED",
@@ -23099,7 +23104,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18661
+      "UsersEstimate": 18663
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23107,7 +23112,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6543
+      "UsersEstimate": 6544
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23131,22 +23136,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4363
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24235,
+      "Progressed": 24238,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:07:12.8956819+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:12:33.3156695+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:57:37.3718626+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:07:12.8959159+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:04:13.7027746+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:12:33.3157812+00:00"
 }

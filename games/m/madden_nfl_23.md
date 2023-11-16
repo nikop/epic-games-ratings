@@ -91,12 +91,12 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-15 | 3,445 | 0 |
 | 2023-11-16 | 3,457 | 0 |
 ## Awards
-Max (Diverse Characters): 37  (Ranked 461)  
-Sum: 88 (Ranked 451)  
-Diff (max vs sum): 10  
+Max (Diverse Characters): 38  (Ranked 458)  
+Sum: 89 (Ranked 451)  
+Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 37 |
+| This game has Diverse Characters | 38 |
 | This game has a Competitive Community | 29 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
@@ -229,4 +229,4 @@ Diff (max vs sum): 10
 | 2023-11-03 | 4.27 | 35 | 86 |
 | 2023-11-04 | 4.28 | 36 | 87 |
 | 2023-11-11 | 4.28 | 37 | 88 |
-| 2023-11-16 | 4.27 | 37 | 88 |
+| 2023-11-16 | 4.27 | 38 | 89 |

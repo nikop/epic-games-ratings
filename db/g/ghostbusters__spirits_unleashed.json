@@ -3357,9 +3357,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31061,
+  "EOS_Progressed": 31062,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19412,6 +19412,11 @@
       "Time": "2023-11-16T12:07:55.6808153+00:00",
       "NumProgressed": 31061,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-16T13:13:05.4621446+00:00",
+      "NumProgressed": 31062,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19541,9 +19546,9 @@
       "ID": "Escape_Artist",
       "SetID": "819popo",
       "Name": "Escape Artist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 621
     },
     {
       "ID": "Fragile_Panes",
@@ -19830,7 +19835,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31061,
+      "Progressed": 31062,
       "Completed": 68
     }
   ],
@@ -19838,8 +19843,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-16T04:03:09.7996562+00:00",
-  "LastChanged_Achievements": "2023-11-16T12:07:55.680815+00:00",
+  "LastChanged_Achievements": "2023-11-16T13:13:05.4621442+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-16T12:03:00.9506928+00:00",
-  "LastUpdate_Achievements": "2023-11-16T12:07:55.6809696+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:09:30.2336739+00:00",
+  "LastUpdate_Achievements": "2023-11-16T13:13:05.4622617+00:00"
 }
