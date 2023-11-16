@@ -5,7 +5,7 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 489,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 127,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -517,6 +517,11 @@
     {
       "Time": "2023-11-16T10:05:43.4799795+00:00",
       "NumProgressed": 45,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T11:06:22.6128098+00:00",
+      "NumProgressed": 46,
       "NumCompleted": 0
     }
   ],
@@ -672,9 +677,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FlameAttackKillCount",
@@ -792,9 +797,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -961,15 +966,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:05:43.4799791+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:06:22.6128093+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:58:55.7520055+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:05:43.4800172+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:59:21.8311898+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:06:22.6128407+00:00"
 }

@@ -23,7 +23,7 @@ Number of Ratings: 98  (23.09.2022)
 | Game Over | 11.00% | ~184 |
 | Lock, Stock | 8.00% | ~134 |
 | Payback Time | 7.00% | ~117 |
-| No Witness | 5.00% | ~83 |
+| No Witness | 5.00% | ~84 |
 | Strategist | 4.00% | ~67 |
 | Do a Barrel Roll! | 2.00% | ~33 |
 | Unbreakable Wall | 2.00% | ~33 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,669 (Ranked 231)  
+Progressed: 1,670 (Ranked 231)  
 Completed: 2 (0.12%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 2 (0.12%) (Ranked 271)
 | 2023-11-13 | 1,650 | 1 |
 | 2023-11-14 | 1,659 | 2 |
 | 2023-11-15 | 1,666 | 2 |
-| 2023-11-16 | 1,669 | 2 |
+| 2023-11-16 | 1,670 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

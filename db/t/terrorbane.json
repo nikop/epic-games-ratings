@@ -4,7 +4,7 @@
   "ProductSlug": "terrorbane-437dd3",
   "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 433,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "Achievement_05",
       "SetID": "6jd5kdh",
       "Name": "System shocked",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achievement_06",
@@ -257,9 +257,9 @@
       "ID": "Achievement_19",
       "SetID": "6jd5kdh",
       "Name": "Never learn",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_20",
@@ -289,9 +289,9 @@
       "ID": "Achievement_23",
       "SetID": "6jd5kdh",
       "Name": "Armed robbery",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_24",
@@ -314,8 +314,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:05:06.3662972+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:05:45.0237074+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.1291901+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:02:50.008953+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:05:06.3663109+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:03:25.4367345+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:05:45.0237235+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 43.00% | ~260 |
 | Treasure Hunter | 40.00% | ~242 |
 | Sniper Wolf | 40.00% | ~242 |
-| The Motivation | 38.00% | ~230 |
+| The Motivation | 39.00% | ~236 |
 | Heroism | 36.00% | ~217 |
 | Missing in Action | 36.00% | ~217 |
 | Collectibles of Chapter I | 34.00% | ~205 |

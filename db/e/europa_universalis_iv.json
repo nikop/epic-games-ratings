@@ -12055,11 +12055,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 57763,
       "NumberOfAwardsMax": 7013
+    },
+    {
+      "Time": "2023-11-16T10:58:17.2095068+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57776,
+      "NumberOfAwardsMax": 7026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57763,
-  "NumberOfAwardsMax": 7013,
+  "NumberOfAwards": 57776,
+  "NumberOfAwardsMax": 7026,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -12090,7 +12096,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7013
+      "Count": 7026
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12129,9 +12135,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456607,
+  "EOS_Progressed": 456635,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6299,
+  "EOS_NewPlayers": 6297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36154,6 +36160,11 @@
       "Time": "2023-11-16T10:04:18.1035402+00:00",
       "NumProgressed": 456607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T11:04:56.2165992+00:00",
+      "NumProgressed": 456635,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36763,9 +36774,9 @@
       "ID": "achievement_dar_al_islam",
       "SetID": "8p2n7he",
       "Name": "Dar al-Islam",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_david_the_builder",
@@ -39068,21 +39079,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456607,
+      "Progressed": 456635,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456607,
+      "Progressed": 456635,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-16T09:57:52.1239245+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:04:18.1035398+00:00",
+  "LastChanged": "2023-11-16T10:58:17.2095067+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:04:56.2165985+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:57:52.1239251+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:04:18.1045617+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:58:17.2095073+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:04:56.2176122+00:00"
 }

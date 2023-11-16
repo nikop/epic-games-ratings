@@ -4597,10 +4597,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7898,
       "NumberOfAwardsMax": 1062
+    },
+    {
+      "Time": "2023-11-16T10:57:52.4519387+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7900,
+      "NumberOfAwardsMax": 1062
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7898,
+  "NumberOfAwards": 7900,
   "NumberOfAwardsMax": 1062,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4656,7 +4662,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 774
+      "Count": 776
     },
     {
       "Text": "This game has a Creative Community",
@@ -4671,9 +4677,9 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 11678,
+  "EOS_Progressed": 11679,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -18751,6 +18757,11 @@
       "Time": "2023-11-16T10:04:42.21283+00:00",
       "NumProgressed": 11678,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-11-16T11:05:21.0485131+00:00",
+      "NumProgressed": 11679,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 15,
@@ -18770,7 +18781,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "Bestest_Friend",
@@ -18810,7 +18821,7 @@
       "Name": "Duty Bound",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "Gardener",
@@ -18850,7 +18861,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 8058
+      "UsersEstimate": 8059
     },
     {
       "ID": "Renovator",
@@ -18874,23 +18885,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7240
+      "UsersEstimate": 7241
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11678,
+      "Progressed": 11679,
       "Completed": 278
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-16T09:57:27.9218925+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:04:42.2128296+00:00",
+  "LastChanged": "2023-11-16T10:57:52.4519385+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:05:21.0485127+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:02.0110737+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:57:27.9218929+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:04:42.2128954+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:57:52.4519392+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:05:21.0486043+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57825,
+  "EOS_Progressed": 57827,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12586,6 +12586,11 @@
       "Time": "2023-11-16T06:05:29.8493331+00:00",
       "NumProgressed": 57825,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T11:05:48.2807566+00:00",
+      "NumProgressed": 57827,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12605,7 +12610,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "BoomBox",
@@ -12853,7 +12858,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "RhythmStar",
@@ -12893,7 +12898,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "StruckLove",
@@ -12988,7 +12993,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57825,
+      "Progressed": 57827,
       "Completed": 6
     }
   ],
@@ -12996,8 +13001,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:05:09.55089+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:05:48.280756+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:03.684858+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:57:11.7912786+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:05:09.5509685+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:57:36.6739512+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:05:48.280835+00:00"
 }

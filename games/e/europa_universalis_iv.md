@@ -36,6 +36,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Combined Arms | 0.10% | ~457 |
 | Cowardly Tactics | 0.10% | ~457 |
 | Czechs and Balances | 0.10% | ~457 |
+| Dar al-Islam | 0.10% | ~457 |
 | Defender of the Faith | 0.10% | ~457 |
 | Die Please Die | 0.10% | ~457 |
 | Double the Love | 0.10% | ~457 |
@@ -197,7 +198,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
-| Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
 | Definitely the Sultan of Rum | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,607 (Ranked 41)  
+Progressed: 456,635 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,14 +580,14 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,607 | 1 |
+| 2023-11-16 | 456,635 | 1 |
 ## Awards
-Max (Educational): 7,013  (Ranked 54)  
-Sum: 57,763 (Ranked 24)  
+Max (Educational): 7,026  (Ranked 54)  
+Sum: 57,776 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,013 |
+| This game is Educational | 7,026 |
 | This game has Diverse Characters | 6,753 |
 | This game is Highly Recommended | 6,734 |
 | This game has Challenging Combat | 6,646 |
@@ -903,4 +903,4 @@ Diff (max vs sum): 30
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
-| 2023-11-16 | 4.69 | - | 7,013 | 57,763 |
+| 2023-11-16 | 4.69 | - | 7,026 | 57,776 |

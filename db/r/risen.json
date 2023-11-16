@@ -5,9 +5,9 @@
   "Ranking_Rating": 470,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "id_25",
       "SetID": "bk9jib6",
       "Name": "Showdown",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "id_26",
@@ -678,8 +678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-13T23:59:43.760664+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:08:24.2989687+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:09:04.6221291+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:24.9853517+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:02:30.8430231+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:08:24.2990138+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:03:07.4806624+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:09:04.6221674+00:00"
 }

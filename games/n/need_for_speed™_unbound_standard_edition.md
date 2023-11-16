@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~9,334 |
-| Cool Whip | 90.00% | ~9,131 |
-| Fashion Killa | 88.00% | ~8,928 |
-| Drop the Beat | 85.00% | ~8,624 |
+| Throwing up Tags | 92.00% | ~9,335 |
+| Cool Whip | 90.00% | ~9,132 |
+| Fashion Killa | 88.00% | ~8,929 |
+| Drop the Beat | 85.00% | ~8,625 |
 | Hey Lakeshore | 84.00% | ~8,523 |
-| 100 Miles and Runnin' | 83.00% | ~8,421 |
-| Public Enemy | 82.00% | ~8,320 |
+| 100 Miles and Runnin' | 83.00% | ~8,422 |
+| Public Enemy | 82.00% | ~8,321 |
 | Rebel Without a Pause | 67.00% | ~6,798 |
 | Hey Speedie! | 67.00% | ~6,798 |
-| Most Wanted | 63.00% | ~6,392 |
+| Most Wanted | 63.00% | ~6,393 |
 | New Crew | 62.00% | ~6,291 |
-| Escape Artist | 53.00% | ~5,377 |
+| Escape Artist | 53.00% | ~5,378 |
 | Serious Guap | 52.00% | ~5,276 |
 | Style it Out | 52.00% | ~5,276 |
 | Untouchable | 52.00% | ~5,276 |
-| Oh, It's On | 50.00% | ~5,073 |
-| Rydell's Rydes | 48.00% | ~4,870 |
+| Oh, It's On | 50.00% | ~5,074 |
+| Rydell's Rydes | 48.00% | ~4,871 |
 | Cash Money Millionaire | 45.00% | ~4,566 |
 | Lake Better Watch Out | 39.00% | ~3,957 |
-| Access All Areas | 33.00% | ~3,348 |
-| #Blessed | 33.00% | ~3,348 |
-| Found Family | 31.00% | ~3,145 |
-| The Collector | 29.00% | ~2,942 |
-| Kick it | 29.00% | ~2,942 |
+| Access All Areas | 33.00% | ~3,349 |
+| #Blessed | 33.00% | ~3,349 |
+| Found Family | 31.00% | ~3,146 |
+| The Collector | 29.00% | ~2,943 |
+| Kick it | 29.00% | ~2,943 |
 | In the Flow | 28.00% | ~2,841 |
 | Top Billin' | 22.00% | ~2,232 |
 | Teacher's Pet | 20.00% | ~2,029 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~203 |
 | Cleaning Up | 2.00% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,146 (Ranked 159)  
+Progressed: 10,147 (Ranked 159)  
 Completed: 50 (0.49%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,4 +108,4 @@ Completed: 50 (0.49%) (Ranked 199)
 | 2023-11-13 | 9,967 | 50 |
 | 2023-11-14 | 10,046 | 50 |
 | 2023-11-15 | 10,113 | 50 |
-| 2023-11-16 | 10,146 | 50 |
+| 2023-11-16 | 10,147 | 50 |

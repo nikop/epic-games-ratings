@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 489)
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,005 (Ranked 147)  
-Completed: 34 (0.23%) (Ranked 243)  
+Completed: 34 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

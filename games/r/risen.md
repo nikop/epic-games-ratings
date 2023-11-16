@@ -34,10 +34,10 @@ Rating: 4.57 (Ranked 470)
 | Ghost hunter | 23.00% | ~9 |
 | Sidelined | 23.00% | ~9 |
 | Workaholic | 21.00% | ~8 |
+| Showdown | 18.00% | ~7 |
 | Safecracker | 18.00% | ~7 |
 | Fence | 18.00% | ~7 |
 | Freedom fighter | 15.00% | ~6 |
-| Showdown | 15.00% | ~6 |
 | Master thief | 15.00% | ~6 |
 | Titan Lord | 13.00% | ~5 |
 | Moneybags | 13.00% | ~5 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 470)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 501)  
+Progressed: 39 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |

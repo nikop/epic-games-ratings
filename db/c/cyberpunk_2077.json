@@ -15242,9 +15242,9 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896859,
+  "EOS_Progressed": 896867,
   "EOS_Completed": 2780,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39032,6 +39032,11 @@
       "Time": "2023-11-16T10:06:03.2745559+00:00",
       "NumProgressed": 896859,
       "NumCompleted": 2780
+    },
+    {
+      "Time": "2023-11-16T11:06:42.986052+00:00",
+      "NumProgressed": 896867,
+      "NumCompleted": 2780
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39386,9 +39391,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4484
     },
     {
       "ID": "All the President\u0027s Men",
@@ -39579,21 +39584,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896859,
+      "Progressed": 896867,
       "Completed": 2780
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25482,
+      "Progressed": 25490,
       "Completed": 10226
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-16T08:57:31.9689969+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:06:03.2745555+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:06:42.9860516+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:57:15.9694299+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:06:03.2747053+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:57:40.8864681+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:06:42.9861822+00:00"
 }

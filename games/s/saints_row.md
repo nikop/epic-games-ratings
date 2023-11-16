@@ -6,13 +6,13 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,978 |
-| To The Nines | 42.00% | ~33,044 |
-| Optimized | 37.00% | ~29,110 |
+| First F#@!ing Day | 47.00% | ~36,979 |
+| To The Nines | 42.00% | ~33,045 |
+| Optimized | 37.00% | ~29,111 |
 | Performance Review | 36.00% | ~28,324 |
 | Making a Name | 35.00% | ~27,537 |
-| Tune Up | 34.00% | ~26,750 |
-| Landlord | 33.00% | ~25,963 |
+| Tune Up | 34.00% | ~26,751 |
+| Landlord | 33.00% | ~25,964 |
 | Wet Work | 32.00% | ~25,177 |
 | The Side Job | 31.00% | ~24,390 |
 | Wrecking Ball | 28.00% | ~22,030 |
@@ -20,7 +20,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Finders Keepers | 26.00% | ~20,456 |
 | A Young Empire | 26.00% | ~20,456 |
 | Work Ethic | 23.00% | ~18,096 |
-| Picking Fights | 20.00% | ~15,735 |
+| Picking Fights | 20.00% | ~15,736 |
 | Power Players | 19.00% | ~14,949 |
 | Quality Time | 18.00% | ~14,162 |
 | Showdown | 17.00% | ~13,375 |
@@ -28,7 +28,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Took It to The Limit | 16.00% | ~12,588 |
 | Kitted Out | 14.00% | ~11,015 |
 | Masters of Santo Ileso | 12.00% | ~9,441 |
-| Hijacked | 11.00% | ~8,654 |
+| Hijacked | 11.00% | ~8,655 |
 | The Spins | 10.00% | ~7,868 |
 | The Mechanic | 10.00% | ~7,868 |
 | Closet Space | 8.00% | ~6,294 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~157 |
 | Fiesta Time | 0.20% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,677 (Ranked 95)  
+Progressed: 78,678 (Ranked 95)  
 Completed: 51 (0.06%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 51 (0.06%) (Ranked 296)
 | 2023-11-13 | 78,387 | 51 |
 | 2023-11-14 | 78,510 | 51 |
 | 2023-11-15 | 78,635 | 51 |
-| 2023-11-16 | 78,677 | 51 |
+| 2023-11-16 | 78,678 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,733 (Ranked 98)  

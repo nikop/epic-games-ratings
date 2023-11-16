@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 276,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1648,9 +1648,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_9",
@@ -1673,8 +1673,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:08:01.8893954+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:08:41.3842884+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:57:43.6134786+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:08:01.8894302+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:58:08.5287815+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:08:41.3843266+00:00"
 }

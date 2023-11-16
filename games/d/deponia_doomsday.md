@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~409 |
-| And again, and again, and... | 64.00% | ~301 |
-| Burn, Elysium, burn! | 62.00% | ~291 |
+| Huzza, he's back. | 87.00% | ~410 |
+| And again, and again, and... | 63.00% | ~297 |
+| Burn, Elysium, burn! | 62.00% | ~292 |
 | Kuvaq Minigame-Master | 61.00% | ~287 |
 | FunScore | 54.00% | ~254 |
-| Funtime's over | 53.00% | ~249 |
-| Chunky | 50.00% | ~235 |
-| Boat of love, boat of love | 49.00% | ~230 |
+| Funtime's over | 52.00% | ~245 |
+| Chunky | 50.00% | ~236 |
+| Boat of love, boat of love | 49.00% | ~231 |
 | Shall we play a game? | 48.00% | ~226 |
 | School's out | 44.00% | ~207 |
 | Sole Music | 37.00% | ~174 |
 | Scaffolding Expert | 37.00% | ~174 |
 | Elysian Minigame-Master | 37.00% | ~174 |
 | Portals come in packs | 30.00% | ~141 |
-| No man left behind! | 29.00% | ~136 |
+| No man left behind! | 29.00% | ~137 |
 | Photo Friend | 26.00% | ~122 |
 | Brainfreeze | 21.00% | ~99 |
 | And everything comes full circle. | 20.00% | ~94 |
@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 504)
 | Thuna...? | 14.00% | ~66 |
 | Monstrous Harassment | 14.00% | ~66 |
 | Heading the inverter | 14.00% | ~66 |
-| Blast from the Past | 12.00% | ~56 |
+| Blast from the Past | 12.00% | ~57 |
 | Play it again, Ronny | 11.00% | ~52 |
 | Paradox! | 10.00% | ~47 |
 | Weapons 101 | 9.00% | ~42 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 504)
 | Against better judgement | 6.00% | ~28 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 308)  
-Completed: 6 (1.28%) (Ranked 148)  
+Progressed: 471 (Ranked 308)  
+Completed: 6 (1.27%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 6 (1.28%) (Ranked 148)
 | 2023-11-13 | 464 | 6 |
 | 2023-11-14 | 468 | 6 |
 | 2023-11-15 | 469 | 6 |
-| 2023-11-16 | 470 | 6 |
+| 2023-11-16 | 471 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

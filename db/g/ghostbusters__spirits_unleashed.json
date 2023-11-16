@@ -3357,9 +3357,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31058,
+  "EOS_Progressed": 31059,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19402,6 +19402,11 @@
       "Time": "2023-11-16T05:05:38.451985+00:00",
       "NumProgressed": 31058,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-16T11:06:31.6553748+00:00",
+      "NumProgressed": 31059,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19413,7 +19418,7 @@
       "Name": "Advancement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "Animated",
@@ -19525,7 +19530,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "Escape_Artist",
@@ -19731,9 +19736,9 @@
       "ID": "Surprise",
       "SetID": "819popo",
       "Name": "Surprise!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 248
     },
     {
       "ID": "Swift_Removers",
@@ -19820,7 +19825,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31058,
+      "Progressed": 31059,
       "Completed": 68
     }
   ],
@@ -19828,8 +19833,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-16T04:03:09.7996562+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:05:51.8349722+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:06:31.6553744+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:02:36.1790849+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:05:51.8350881+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:03:12.0214018+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:06:31.6554774+00:00"
 }

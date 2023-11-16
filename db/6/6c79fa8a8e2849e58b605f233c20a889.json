@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2886,
+  "EOS_Progressed": 2887,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7384,6 +7384,11 @@
       "Time": "2023-11-16T01:57:03.5837255+00:00",
       "NumProgressed": 2886,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T11:09:15.8547012+00:00",
+      "NumProgressed": 2887,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7475,7 +7480,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "GLOVE_SLAP",
@@ -7570,14 +7575,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2886,
+      "Progressed": 2887,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:08:35.6354151+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:09:15.8547007+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:58.9195982+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:58:32.446008+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:08:35.6354514+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:58:58.3279619+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:09:15.8547464+00:00"
 }

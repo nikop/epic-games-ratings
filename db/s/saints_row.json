@@ -4041,7 +4041,7 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 78677,
+  "EOS_Progressed": 78678,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 0,
@@ -27806,6 +27806,11 @@
       "Time": "2023-11-16T10:08:09.9744487+00:00",
       "NumProgressed": 78677,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-16T11:08:49.5271633+00:00",
+      "NumProgressed": 78678,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27849,7 +27854,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8654
+      "UsersEstimate": 8655
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -27929,7 +27934,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36978
+      "UsersEstimate": 36979
     },
     {
       "ID": "customize_a_vehicle",
@@ -27937,7 +27942,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26750
+      "UsersEstimate": 26751
     },
     {
       "ID": "customize_a_weapon",
@@ -27945,7 +27950,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29110
+      "UsersEstimate": 29111
     },
     {
       "ID": "cutting_edge_materials",
@@ -28025,7 +28030,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25963
+      "UsersEstimate": 25964
     },
     {
       "ID": "fully_complete_a_building",
@@ -28089,7 +28094,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -28201,7 +28206,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33044
+      "UsersEstimate": 33045
     },
     {
       "ID": "whole_map_purple",
@@ -28240,13 +28245,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 78677,
+      "Progressed": 78678,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 50314,
+      "Progressed": 50315,
       "Completed": 4321
     }
   ],
@@ -28254,8 +28259,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-15T09:02:55.6556234+00:00",
-  "LastChanged_Achievements": "2023-11-16T10:08:09.9744484+00:00",
+  "LastChanged_Achievements": "2023-11-16T11:08:49.5271629+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:06.5148406+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:02:47.3715559+00:00",
-  "LastUpdate_Achievements": "2023-11-16T10:08:09.9745602+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:03:22.7659151+00:00",
+  "LastUpdate_Achievements": "2023-11-16T11:08:49.5273168+00:00"
 }
