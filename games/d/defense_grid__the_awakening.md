@@ -6,34 +6,34 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~396,756 |
-| Happy Returns | 78.00% | ~382,061 |
-| Hey! That's mine! | 78.00% | ~382,061 |
-| Field Promotion | 74.00% | ~362,468 |
+| First Blood | 81.00% | ~396,757 |
+| Happy Returns | 78.00% | ~382,062 |
+| Hey! That's mine! | 78.00% | ~382,062 |
+| Field Promotion | 74.00% | ~362,469 |
 | Leadhead | 71.00% | ~347,774 |
 | Eradicator | 67.00% | ~328,181 |
-| Surplus | 65.00% | ~318,384 |
-| I Spy | 64.00% | ~313,486 |
-| Burn Baby Burn | 59.00% | ~288,995 |
-| Yellow Beats Green | 56.00% | ~274,300 |
+| Surplus | 65.00% | ~318,385 |
+| I Spy | 64.00% | ~313,487 |
+| Burn Baby Burn | 59.00% | ~288,996 |
+| Yellow Beats Green | 56.00% | ~274,301 |
 | Salvage Rights | 53.00% | ~259,606 |
-| Close Call | 50.00% | ~244,911 |
-| Pew Pew | 50.00% | ~244,911 |
-| What IS that? | 50.00% | ~244,911 |
+| Close Call | 50.00% | ~244,912 |
+| Pew Pew | 50.00% | ~244,912 |
+| What IS that? | 50.00% | ~244,912 |
 | Penny Pincher | 49.00% | ~240,013 |
-| Arsenal | 46.00% | ~225,318 |
+| Arsenal | 46.00% | ~225,319 |
 | Boot Camp | 45.00% | ~220,420 |
-| Flawless Victory | 42.00% | ~205,725 |
+| Flawless Victory | 42.00% | ~205,726 |
 | Confident | 41.00% | ~200,827 |
 | Exterminator | 36.00% | ~176,336 |
-| Sharpshooter | 34.00% | ~166,539 |
-| Not So Fast | 33.00% | ~161,641 |
+| Sharpshooter | 34.00% | ~166,540 |
+| Not So Fast | 33.00% | ~161,642 |
 | Great Ball of Fire | 32.00% | ~156,743 |
 | No Sale | 31.00% | ~151,845 |
 | Kaboom! | 30.00% | ~146,947 |
-| Liquidator | 29.00% | ~142,048 |
-| High Voltage | 24.00% | ~117,557 |
-| Filthy Rich | 20.00% | ~97,964 |
+| Liquidator | 29.00% | ~142,049 |
+| High Voltage | 24.00% | ~117,558 |
+| Filthy Rich | 20.00% | ~97,965 |
 | Pyrrhic Victory | 18.00% | ~88,168 |
 | The Not-So-Friendly Skies | 18.00% | ~88,168 |
 | Power Builder | 17.00% | ~83,270 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~490 |
 | You Monster | 0.10% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,822 (Ranked 37)  
+Progressed: 489,823 (Ranked 37)  
 Completed: 5 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 5 (0.00%) (Ranked 352)
 | 2023-11-13 | 489,723 | 5 |
 | 2023-11-14 | 489,772 | 5 |
 | 2023-11-15 | 489,822 | 5 |
+| 2023-11-16 | 489,823 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 268)  
 Sum: 1,722 (Ranked 220)  

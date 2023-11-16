@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2412,9 +2412,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 95
+      "UsersEstimate": 101
     },
     {
       "ID": "META_ALL_LINK",
@@ -2611,8 +2611,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:05:32.870165+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:03:05.8747662+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:00:22.2342413+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:05:32.8701875+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:57:56.4763297+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:03:05.8747851+00:00"
 }

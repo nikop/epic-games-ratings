@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -488,7 +488,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92731,
+  "EOS_Progressed": 92733,
   "EOS_Completed": 422,
   "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 7,
@@ -23783,6 +23783,11 @@
       "Time": "2023-11-15T23:06:01.2082727+00:00",
       "NumProgressed": 92731,
       "NumCompleted": 422
+    },
+    {
+      "Time": "2023-11-16T00:03:26.1865097+00:00",
+      "NumProgressed": 92733,
+      "NumCompleted": 422
     }
   ],
   "TotalAchievements": 10,
@@ -23858,7 +23863,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32456
+      "UsersEstimate": 32457
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -23866,22 +23871,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10200
+      "UsersEstimate": 10201
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 92731,
+      "Progressed": 92733,
       "Completed": 422
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:06:01.2082724+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:03:26.1865095+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:49.6004285+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:04:36.7721395+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:06:01.2083668+00:00"
+  "LastUpdate_Ratings": "2023-11-16T00:02:27.6111446+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:03:26.1866933+00:00"
 }

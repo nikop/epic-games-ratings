@@ -4,8 +4,8 @@
   "ProductSlug": "corsairs-legacy-44431c",
   "Ranking_EOS_Progress": 747,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T09:04:31.8677369+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:11:21.0698018+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:08:44.9052828+00:00",
   "LastUpdate_AppInfo": "2023-11-13T22:57:01.5542146+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:02:45.5181064+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:11:21.069805+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:59:31.4913861+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:08:44.9052847+00:00"
 }

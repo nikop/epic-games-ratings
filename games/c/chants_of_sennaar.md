@@ -16,10 +16,10 @@
 | I did it | 19.00% | ~106 |
 | Half the way | 19.00% | ~106 |
 | One last step | 19.00% | ~106 |
+| In this together | 18.00% | ~101 |
 | Peace walker | 18.00% | ~101 |
 | Cable guy | 18.00% | ~101 |
 | Champollion | 18.00% | ~101 |
-| In this together | 17.00% | ~95 |
 | Open door | 16.00% | ~90 |
 | Feels like springtime | 16.00% | ~90 |
 | Alchemists Express | 16.00% | ~90 |

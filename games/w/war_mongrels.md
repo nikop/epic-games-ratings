@@ -6,8 +6,8 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~407 |
-| Cowardice | 61.00% | ~365 |
+| Explorer | 68.00% | ~408 |
+| Cowardice | 61.00% | ~366 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~300 |
 | Eat Lead! | 48.00% | ~288 |
 | The Breaking Point | 45.00% | ~270 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 292)  
+Progressed: 600 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 589 | 0 |
 | 2023-11-14 | 595 | 0 |
 | 2023-11-15 | 599 | 0 |
+| 2023-11-16 | 600 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,12 +5,12 @@ Rating: 4.82 (Ranked 66)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,525 |
-| No more cages! | 92.00% | ~2,420 |
+| For Demacia | 96.00% | ~2,526 |
+| No more cages! | 92.00% | ~2,421 |
 | Everfrost | 79.00% | ~2,078 |
-| Pentakill | 78.00% | ~2,051 |
-| Dark Forest | 78.00% | ~2,051 |
-| The use of petricite | 75.00% | ~1,972 |
+| Pentakill | 78.00% | ~2,052 |
+| Dark Forest | 78.00% | ~2,052 |
+| The use of petricite | 75.00% | ~1,973 |
 | You can pet the dog | 62.00% | ~1,631 |
 | Big Helmet Bro | 39.00% | ~1,026 |
 | Thornbarrow | 39.00% | ~1,026 |
@@ -18,12 +18,12 @@ Rating: 4.82 (Ranked 66)
 | Elemental master | 37.00% | ~973 |
 | Past trauma | 37.00% | ~973 |
 | Ternmoat Headquarters | 36.00% | ~947 |
-| Cypress Glen Headquarters | 34.00% | ~894 |
+| Cypress Glen Headquarters | 34.00% | ~895 |
 | Petricite Burst | 33.00% | ~868 |
-| Old friend | 31.00% | ~815 |
+| Old friend | 31.00% | ~816 |
 | Hijack | 30.00% | ~789 |
 | Devineur | 30.00% | ~789 |
-| Whispers in the Woods I | 28.00% | ~736 |
+| Whispers in the Woods I | 28.00% | ~737 |
 | Ancient power | 27.00% | ~710 |
 | I chose my shackles | 26.00% | ~684 |
 | Sacred Woods | 25.00% | ~658 |
@@ -34,8 +34,8 @@ Rating: 4.82 (Ranked 66)
 | Iffighain Headquarters | 22.00% | ~579 |
 | Whispers in the Woods II | 19.00% | ~500 |
 | Quickmoore Headquarters | 19.00% | ~500 |
-| No more holding back | 18.00% | ~473 |
-| Terbisia | 18.00% | ~473 |
+| No more holding back | 18.00% | ~474 |
+| Terbisia | 18.00% | ~474 |
 | Whispers in the Woods III | 17.00% | ~447 |
 | Friendly fire | 17.00% | ~447 |
 | True power | 17.00% | ~447 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 66)
 | Silverwing nest | 2.00% | ~53 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,630 (Ranked 213)  
+Progressed: 2,631 (Ranked 213)  
 Completed: 16 (0.61%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 16 (0.61%) (Ranked 182)
 | 2023-11-12 | 2,629 | 14 |
 | 2023-11-14 | 2,629 | 15 |
 | 2023-11-15 | 2,630 | 16 |
+| 2023-11-16 | 2,631 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

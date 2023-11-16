@@ -6,7 +6,7 @@ Rating: 4.12 (Ranked 957)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~2,184 |
-| World Map | 78.00% | ~1,831 |
+| World Map | 79.00% | ~1,855 |
 | Temple of Eternals | 57.00% | ~1,338 |
 | Prestigious | 54.00% | ~1,268 |
 | Fellowship Power | 42.00% | ~986 |

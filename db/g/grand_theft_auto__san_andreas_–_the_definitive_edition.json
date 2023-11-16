@@ -1513,9 +1513,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13705,
+  "EOS_Progressed": 13706,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14663,6 +14663,11 @@
       "Time": "2023-11-15T23:10:37.9695284+00:00",
       "NumProgressed": 13705,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-16T00:08:14.2948485+00:00",
+      "NumProgressed": 13706,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14674,7 +14679,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11238
+      "UsersEstimate": 11239
     },
     {
       "ID": "ACH02",
@@ -14754,7 +14759,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH12",
@@ -14850,7 +14855,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "ACH24",
@@ -14953,7 +14958,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13705,
+      "Progressed": 13706,
       "Completed": 53
     }
   ],
@@ -14961,8 +14966,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-15T20:59:02.3076225+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:10:37.969528+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:08:14.2948482+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:01:34.6248724+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:10:37.96961+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:58:43.9861413+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:08:14.2949212+00:00"
 }

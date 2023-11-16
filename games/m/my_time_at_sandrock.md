@@ -35,8 +35,8 @@ Number of Ratings: 892  (23.09.2022)
 | Knowledge is Power | 38.00% | ~130 |
 | Finishing Touches | 38.00% | ~130 |
 | Panda-kin | 37.00% | ~126 |
+| Commissions, commissions...! | 37.00% | ~126 |
 | Builder of the Month | 37.00% | ~126 |
-| Commissions, commissions...! | 36.00% | ~123 |
 | Bridging the Gap | 35.00% | ~119 |
 | Who Ya Gonna Call...? | 34.00% | ~116 |
 | Waste Not Want Not | 34.00% | ~116 |

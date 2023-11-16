@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2435,9 +2435,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20838,
+  "EOS_Progressed": 20841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1482,
+  "EOS_NewPlayers": 1477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9415,6 +9415,11 @@
       "Time": "2023-11-15T23:08:59.4599951+00:00",
       "NumProgressed": 20838,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T00:05:34.0202644+00:00",
+      "NumProgressed": 20841,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9595,7 +9600,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "Achievement_Trophy23",
@@ -9611,7 +9616,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8752
+      "UsersEstimate": 8753
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9625,9 +9630,9 @@
       "ID": "Achievement_Trophy26",
       "SetID": "724h0m0",
       "Name": "Overkill",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7294
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9643,7 +9648,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6877
+      "UsersEstimate": 6878
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9659,7 +9664,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6251
+      "UsersEstimate": 6252
     },
     {
       "ID": "Achievement_Trophy31",
@@ -9667,7 +9672,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9723,7 +9728,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "Achievement_Trophy39",
@@ -9731,7 +9736,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3960
     },
     {
       "ID": "Achievement_Trophy40",
@@ -9763,7 +9768,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2918
     },
     {
       "ID": "Achievement_Trophy44",
@@ -9803,7 +9808,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "Achievement_Trophy49",
@@ -9914,7 +9919,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20838,
+      "Progressed": 20841,
       "Completed": 1
     }
   ],
@@ -9922,8 +9927,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T14:59:20.1749081+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:08:59.4599946+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:05:34.0202641+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:02:52.2401327+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:08:59.460077+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:59:35.9869206+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:05:34.0203493+00:00"
 }

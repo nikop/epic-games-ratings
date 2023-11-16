@@ -5,9 +5,9 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,694 |
-| A Thorny Situation | 71.00% | ~5,538 |
-| ... And Spit Back Out | 61.00% | ~4,758 |
+| Azoria Beckons | 73.00% | ~5,695 |
+| A Thorny Situation | 71.00% | ~5,539 |
+| ... And Spit Back Out | 61.00% | ~4,759 |
 | Break-Net Speed | 49.00% | ~3,822 |
 | Bramble Breaker | 47.00% | ~3,666 |
 | Miner 49er | 43.00% | ~3,354 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 410)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,800 (Ranked 170)  
+Progressed: 7,801 (Ranked 170)  
 Completed: 1 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 1 (0.01%) (Ranked 331)
 | 2023-11-13 | 7,755 | 1 |
 | 2023-11-14 | 7,783 | 1 |
 | 2023-11-15 | 7,800 | 1 |
+| 2023-11-16 | 7,801 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

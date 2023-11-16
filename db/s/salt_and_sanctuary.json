@@ -2778,7 +2778,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538336,
+  "EOS_Progressed": 538340,
   "EOS_Completed": 1614,
   "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 5,
@@ -25843,6 +25843,11 @@
       "Time": "2023-11-15T23:07:31.4317657+00:00",
       "NumProgressed": 538336,
       "NumCompleted": 1614
+    },
+    {
+      "Time": "2023-11-16T00:04:30.553461+00:00",
+      "NumProgressed": 538340,
+      "NumCompleted": 1614
     }
   ],
   "TotalAchievements": 37,
@@ -25870,7 +25875,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 166884
+      "UsersEstimate": 166885
     },
     {
       "ID": "DEVOTED",
@@ -25910,7 +25915,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 446819
+      "UsersEstimate": 446822
     },
     {
       "ID": "HONED",
@@ -25918,7 +25923,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -25926,7 +25931,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -25966,7 +25971,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215334
+      "UsersEstimate": 215336
     },
     {
       "ID": "THE_CASTLE",
@@ -25998,7 +26003,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "THE_DOME",
@@ -26006,7 +26011,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48450
+      "UsersEstimate": 48451
     },
     {
       "ID": "THE_FOREST",
@@ -26014,7 +26019,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80750
+      "UsersEstimate": 80751
     },
     {
       "ID": "THE_IMPOSTER",
@@ -26030,7 +26035,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102284
+      "UsersEstimate": 102285
     },
     {
       "ID": "THE_KEEP",
@@ -26038,7 +26043,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75367
+      "UsersEstimate": 75368
     },
     {
       "ID": "THE_LAKE",
@@ -26062,7 +26067,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21533
+      "UsersEstimate": 21534
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -26078,7 +26083,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48450
+      "UsersEstimate": 48451
     },
     {
       "ID": "THE_RUINS",
@@ -26110,7 +26115,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344535
+      "UsersEstimate": 344538
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -26126,7 +26131,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91517
+      "UsersEstimate": 91518
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -26149,15 +26154,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538336,
+      "Progressed": 538340,
       "Completed": 1614
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-12T05:57:21.5077761+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:07:31.4317653+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:04:30.5534608+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:38.8645377+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:01:44.6635295+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:07:31.4318987+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:58:50.946631+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:04:30.5536204+00:00"
 }

@@ -28,13 +28,13 @@
 | Fashion Victim | 0.00% | ~0 |
 | Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
+| The Collector | 0.00% | ~0 |
 | A Taste of Wrath | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
 | Tributes of Caladrias | -0.50% | ~-1 |
 | Alchemist | -0.50% | ~-1 |
 | Stone Collection | -0.50% | ~-1 |
-| The Collector | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 | Airborne | -1.10% | ~-2 |

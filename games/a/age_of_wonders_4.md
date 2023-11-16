@@ -38,13 +38,13 @@ Rating: 4.61 (Ranked 385)
 | Blood of the Dragon | 0.40% | ~22 |
 | Prometheus Avenged | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
+| I've Got Everything I Need Right Here | 0.30% | ~16 |
 | Return of the Wizard King | 0.30% | ~16 |
 | Arch Mage | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
 | Crimson Caldera | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
 | Pruning for Progress | 0.30% | ~16 |
-| I've Got Everything I Need Right Here | 0.20% | ~11 |
 | God Emperor | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |

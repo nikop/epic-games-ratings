@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 975,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8071,9 +8071,9 @@
       "Count": 3518
     }
   ],
-  "EOS_Progressed": 235196,
+  "EOS_Progressed": 235204,
   "EOS_Completed": 2449,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31521,6 +31521,11 @@
       "Time": "2023-11-15T23:10:47.7437157+00:00",
       "NumProgressed": 235196,
       "NumCompleted": 2449
+    },
+    {
+      "Time": "2023-11-16T00:08:22.1392941+00:00",
+      "NumProgressed": 235204,
+      "NumCompleted": 2449
     }
   ],
   "TotalAchievements": 532,
@@ -35787,21 +35792,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201470,
+      "Progressed": 201478,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235196,
+      "Progressed": 235204,
       "Completed": 2449
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-15T15:57:30.6118422+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:10:47.7437153+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:08:22.1392938+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-15T22:59:40.5431484+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:10:47.7460109+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:57:32.4891733+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:08:22.1415117+00:00"
 }

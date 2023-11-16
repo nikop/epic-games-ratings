@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2026,9 +2026,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213927,
+  "EOS_Progressed": 213929,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1280,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25956,6 +25956,11 @@
       "Time": "2023-11-15T23:07:38.2839639+00:00",
       "NumProgressed": 213927,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-16T00:04:35.5770411+00:00",
+      "NumProgressed": 213929,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26007,7 +26012,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19253
+      "UsersEstimate": 19254
     },
     {
       "ID": "FiveShadows",
@@ -26191,7 +26196,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19253
+      "UsersEstimate": 19254
     },
     {
       "ID": "StillRollin",
@@ -26223,7 +26228,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19253
+      "UsersEstimate": 19254
     },
     {
       "ID": "TheCave",
@@ -26318,15 +26323,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213927,
+      "Progressed": 213929,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-14T13:58:56.1506735+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:07:38.2839634+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:04:35.5770407+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:02:43.8979708+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:07:38.2841042+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:59:30.4315714+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:04:35.57719+00:00"
 }

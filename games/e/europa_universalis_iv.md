@@ -83,6 +83,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.10% | ~456 |
 | My armies are invincible! | 0.10% | ~456 |
 | Narcissism | 0.10% | ~456 |
+| Networking | 0.10% | ~456 |
 | No Pirates in my Caribbean | 0.10% | ~456 |
 | Not just Pizza | 0.10% | ~456 |
 | Not so sad a state... | 0.10% | ~456 |
@@ -267,7 +268,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
-| Networking | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
 | No Country for Old Tercios | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,430 (Ranked 41)  
+Progressed: 456,452 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,6 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
+| 2023-11-16 | 456,452 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,716 (Ranked 24)  

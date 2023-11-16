@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CompleteChapter17",
@@ -628,8 +628,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-15T23:09:31.7086093+00:00",
+  "LastChanged_Achievements": "2023-11-16T00:05:57.5077442+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-15T22:58:58.1634169+00:00",
-  "LastUpdate_Achievements": "2023-11-15T23:09:31.7086287+00:00"
+  "LastUpdate_Ratings": "2023-11-15T23:57:13.9370417+00:00",
+  "LastUpdate_Achievements": "2023-11-16T00:05:57.5077622+00:00"
 }
