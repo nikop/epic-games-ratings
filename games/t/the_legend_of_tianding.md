@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Hero Arrives | 84.00% | ~16 |
 | Eat the Rich | 53.00% | ~10 |
+| Killing Machine | 42.00% | ~8 |
 | Death Battle | 37.00% | ~7 |
 | Phantom Kunoichi | 37.00% | ~7 |
-| Killing Machine | 37.00% | ~7 |
 | Final Showdown | 32.00% | ~6 |
 | Divine Retribution | 32.00% | ~6 |
 | Dispel Rumors | 32.00% | ~6 |
@@ -22,16 +22,16 @@
 | Fight Fire With Fire | 21.00% | ~4 |
 | Big Eater | 16.00% | ~3 |
 | Tour Guide | 16.00% | ~3 |
+| The Real O.G. | 16.00% | ~3 |
 | Demon Slayer | 16.00% | ~3 |
 | Talk to the Fist | 16.00% | ~3 |
-| The Real O.G. | 11.00% | ~2 |
 | The Hero of the People | 11.00% | ~2 |
 | Tomb Raider | 11.00% | ~2 |
 | Collector | 5.00% | ~1 |
 | The Legend | 5.00% | ~1 |
 | Taoist | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 546)  
+Progressed: 19 (Ranked 547)  
 Completed: 1 (5.26%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,786 |
-| Overkill | 34.00% | ~7,112 |
-| Vaccine Incoming | 33.00% | ~6,903 |
-| A normal day in Gloomhaven | 32.00% | ~6,694 |
-| Spread the plague | 30.00% | ~6,275 |
-| Get over here! | 25.00% | ~5,230 |
-| Just when I thought I was out... | 19.00% | ~3,974 |
-| Precious! | 17.00% | ~3,556 |
-| Mine... All Mine... | 17.00% | ~3,556 |
-| Grizzled veteran | 15.00% | ~3,138 |
-| Anatomy Lesson | 15.00% | ~3,138 |
-| Light of my life | 14.00% | ~2,929 |
-| You activated my trap card! | 13.00% | ~2,719 |
-| Obstacle race | 13.00% | ~2,719 |
-| Augmented rat | 11.00% | ~2,301 |
-| Doom and gloom | 11.00% | ~2,301 |
-| Who's the Boss? | 10.00% | ~2,092 |
-| Dungeon Veteran | 8.00% | ~1,673 |
-| Pack leader | 8.00% | ~1,673 |
-| Pain is your friend | 8.00% | ~1,673 |
-| Black death | 8.00% | ~1,673 |
-| Play it again, Sam | 8.00% | ~1,673 |
-| Quad damage | 6.00% | ~1,255 |
+| I'm not dead yet | 42.00% | ~8,790 |
+| Overkill | 34.00% | ~7,116 |
+| Vaccine Incoming | 33.00% | ~6,906 |
+| A normal day in Gloomhaven | 32.00% | ~6,697 |
+| Spread the plague | 30.00% | ~6,278 |
+| Get over here! | 25.00% | ~5,232 |
+| Just when I thought I was out... | 19.00% | ~3,976 |
+| Precious! | 17.00% | ~3,558 |
+| Mine... All Mine... | 17.00% | ~3,558 |
+| Grizzled veteran | 15.00% | ~3,139 |
+| Anatomy Lesson | 15.00% | ~3,139 |
+| Light of my life | 14.00% | ~2,930 |
+| You activated my trap card! | 13.00% | ~2,721 |
+| Obstacle race | 13.00% | ~2,721 |
+| Augmented rat | 11.00% | ~2,302 |
+| Doom and gloom | 11.00% | ~2,302 |
+| Who's the Boss? | 10.00% | ~2,093 |
+| Dungeon Veteran | 8.00% | ~1,674 |
+| Pack leader | 8.00% | ~1,674 |
+| Pain is your friend | 8.00% | ~1,674 |
+| Black death | 8.00% | ~1,674 |
+| Play it again, Sam | 8.00% | ~1,674 |
+| Quad damage | 6.00% | ~1,256 |
 | Power Up! | 5.00% | ~1,046 |
 | Caught off guard | 5.00% | ~1,046 |
 | The Pro from Dover | 5.00% | ~1,046 |
@@ -38,14 +38,14 @@ Number of Ratings: 68  (23.09.2022)
 | I hate portals | 3.00% | ~628 |
 | Down the hatch | 3.00% | ~628 |
 | An eye for an eye | 3.00% | ~628 |
-| From Gloom, only greed and death emerges | 2.00% | ~418 |
-| The Rat King | 2.00% | ~418 |
-| How to train your Drake | 2.00% | ~418 |
-| The Cephalophore | 2.00% | ~418 |
-| Master Assassin | 2.00% | ~418 |
-| The Sniper | 2.00% | ~418 |
-| Grin and bear it | 2.00% | ~418 |
-| An axe to grind | 2.00% | ~418 |
+| From Gloom, only greed and death emerges | 2.00% | ~419 |
+| The Rat King | 2.00% | ~419 |
+| How to train your Drake | 2.00% | ~419 |
+| The Cephalophore | 2.00% | ~419 |
+| Master Assassin | 2.00% | ~419 |
+| The Sniper | 2.00% | ~419 |
+| Grin and bear it | 2.00% | ~419 |
+| An axe to grind | 2.00% | ~419 |
 | Add a bit of colour | 1.00% | ~209 |
 | Captain hooked | 1.00% | ~209 |
 | New Blood | 1.00% | ~209 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~21 |
 | Murder Death Kill | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,918 (Ranked 131)  
+Progressed: 20,928 (Ranked 131)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 20,479 | 1 |
 | 2023-11-14 | 20,669 | 1 |
 | 2023-11-15 | 20,838 | 1 |
-| 2023-11-16 | 20,918 | 1 |
+| 2023-11-16 | 20,928 | 1 |
 ## Awards
 Max (Character Customization): 3,574  (Ranked 90)  
 Sum: 8,357 (Ranked 100)  

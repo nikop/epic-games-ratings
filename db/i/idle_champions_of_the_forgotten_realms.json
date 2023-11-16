@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8045,10 +8045,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32485,
       "NumberOfAwardsMax": 5527
+    },
+    {
+      "Time": "2023-11-16T16:58:07.6938465+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32489,
+      "NumberOfAwardsMax": 5527
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32485,
+  "NumberOfAwards": 32489,
   "NumberOfAwardsMax": 5527,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8068,7 +8074,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4812
+      "Count": 4814
     },
     {
       "Text": "This game is Relaxing",
@@ -8086,7 +8092,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4213
+      "Count": 4215
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8095,10 +8101,10 @@
       "Count": 3519
     }
   ],
-  "EOS_Progressed": 235297,
-  "EOS_Completed": 2453,
-  "EOS_NewPlayers": 1233,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 235309,
+  "EOS_Completed": 2454,
+  "EOS_NewPlayers": 1242,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -31630,6 +31636,11 @@
       "Time": "2023-11-16T16:09:23.4518638+00:00",
       "NumProgressed": 235297,
       "NumCompleted": 2453
+    },
+    {
+      "Time": "2023-11-16T17:08:43.5444665+00:00",
+      "NumProgressed": 235309,
+      "NumCompleted": 2454
     }
   ],
   "TotalAchievements": 532,
@@ -33311,9 +33322,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 706
     },
     {
       "ID": "objective_completed_34",
@@ -35865,7 +35876,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4032
     },
     {
       "ID": "objective_completed_1548",
@@ -35896,21 +35907,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201571,
+      "Progressed": 201583,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235297,
-      "Completed": 2453
+      "Progressed": 235309,
+      "Completed": 2454
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-16T14:58:11.1583297+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:09:23.4518633+00:00",
+  "LastChanged": "2023-11-16T16:58:07.6938463+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:08:43.5444661+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:58:36.6114296+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:09:23.4546944+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:58:07.6938469+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:08:43.546686+00:00"
 }

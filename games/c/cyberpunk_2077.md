@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,908 (Ranked 15)  
+Progressed: 896,913 (Ranked 15)  
 Completed: 2,780 (0.31%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 2,780 (0.31%) (Ranked 230)
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
 | 2023-11-15 | 896,820 | 2,778 |
-| 2023-11-16 | 896,908 | 2,780 |
+| 2023-11-16 | 896,913 | 2,780 |
 ## Awards
-Max (Character Customization): 105,592  (Ranked 9)  
-Sum: 354,207 (Ranked 10)  
+Max (Character Customization): 105,726  (Ranked 9)  
+Sum: 354,341 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 105,592 |
+| This game has Inclusive Character Customization | 105,726 |
 | This game has Great Boss Battles | 76,492 |
 | This game is Great for Beginners | 21,341 |
 | This game has Diverse Characters | 20,899 |
@@ -606,4 +606,4 @@ Diff (max vs sum): -1
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
 | 2023-11-14 | 4.64 | - | 105,471 | 352,694 |
 | 2023-11-15 | 4.64 | - | 105,592 | 353,529 |
-| 2023-11-16 | 4.64 | - | 105,592 | 354,207 |
+| 2023-11-16 | 4.64 | - | 105,726 | 354,341 |

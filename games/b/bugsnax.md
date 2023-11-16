@@ -6,22 +6,22 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,747 |
-| Gone Home | 93.00% | ~26,603 |
-| Wonderfalls | 87.00% | ~24,886 |
-| Got to Catch a Few | 77.00% | ~22,026 |
+| Everybody Gets One | 97.00% | ~27,748 |
+| Gone Home | 93.00% | ~26,604 |
+| Wonderfalls | 87.00% | ~24,887 |
+| Got to Catch a Few | 77.00% | ~22,027 |
 | Double Trapper | 75.00% | ~21,454 |
-| I'm Stuffed | 69.00% | ~19,737 |
-| Got to Catch a Lot | 66.00% | ~18,879 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,449 |
-| In the Arms of the Gramble | 59.00% | ~16,877 |
-| Know Thy Neighbor | 59.00% | ~16,877 |
+| I'm Stuffed | 69.00% | ~19,738 |
+| Got to Catch a Lot | 66.00% | ~18,880 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,450 |
+| In the Arms of the Gramble | 59.00% | ~16,878 |
+| Know Thy Neighbor | 59.00% | ~16,878 |
 | Perf Dirt | 57.00% | ~16,305 |
 | Launch Party | 56.00% | ~16,019 |
 | Vacation's End | 53.00% | ~15,161 |
-| Bossy Bugs | 46.00% | ~13,158 |
-| Survivor | 45.00% | ~12,872 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,300 |
+| Bossy Bugs | 46.00% | ~13,159 |
+| Survivor | 45.00% | ~12,873 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,301 |
 | Sidetracked | 40.00% | ~11,442 |
 | Film Buff | 38.00% | ~10,870 |
 | Combo Meal | 38.00% | ~10,870 |
@@ -34,10 +34,10 @@ Number of Ratings: 425  (23.09.2022)
 | Clothesline | 17.00% | ~4,863 |
 | Say Cheese! | 15.00% | ~4,291 |
 | Sundae Best | 14.00% | ~4,005 |
-| Live Laugh Hut | 9.00% | ~2,574 |
+| Live Laugh Hut | 9.00% | ~2,575 |
 | Dapper Capper | 7.00% | ~2,002 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,605 (Ranked 123)  
+Progressed: 28,606 (Ranked 123)  
 Completed: 1,376 (4.81%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 1,376 (4.81%) (Ranked 72)
 | 2023-11-13 | 28,596 | 1,375 |
 | 2023-11-14 | 28,597 | 1,376 |
 | 2023-11-15 | 28,604 | 1,376 |
-| 2023-11-16 | 28,605 | 1,376 |
+| 2023-11-16 | 28,606 | 1,376 |
 ## Awards
 Max (Amazing Storytelling): 42  (Ranked 449)  
 Sum: 358 (Ranked 351)  

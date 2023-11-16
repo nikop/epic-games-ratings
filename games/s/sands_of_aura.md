@@ -14,10 +14,10 @@
 | Rain Must Fall | 7.00% | ~5 |
 | Bladesmith | 5.00% | ~4 |
 | The Guardian of Fire | 5.00% | ~4 |
+| Sovereignty of Irons | 5.00% | ~4 |
 | Sommelier | 4.00% | ~3 |
 | Let Me Solo Them | 4.00% | ~3 |
 | Explorer | 4.00% | ~3 |
-| Sovereignty of Irons | 4.00% | ~3 |
 | A Sandwyrm's Hoard | 4.00% | ~3 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 451)  
+Progressed: 75 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |

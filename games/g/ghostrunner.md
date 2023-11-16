@@ -6,22 +6,22 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,208 |
+| Longrunner | 76.00% | ~17,209 |
 | Sword Runner | 61.00% | ~13,812 |
 | Running out of breath | 54.00% | ~12,227 |
-| Wallrunner | 53.00% | ~12,000 |
+| Wallrunner | 53.00% | ~12,001 |
 | Homerunner | 45.00% | ~10,189 |
-| Out of order | 44.00% | ~9,962 |
+| Out of order | 44.00% | ~9,963 |
 | I call it luck | 43.00% | ~9,736 |
 | Where are my Keys? | 40.00% | ~9,057 |
 | Back to hell | 37.00% | ~8,378 |
-| Perfection | 32.00% | ~7,245 |
+| Perfection | 32.00% | ~7,246 |
 | Why not both | 30.00% | ~6,793 |
 | Sword to a gunfight | 29.00% | ~6,566 |
 | Upgrades not mandatory | 29.00% | ~6,566 |
 | Artificial selection | 28.00% | ~6,340 |
-| Control freak | 27.00% | ~6,113 |
-| Running Wild | 27.00% | ~6,113 |
+| Control freak | 27.00% | ~6,114 |
+| Running Wild | 27.00% | ~6,114 |
 | Finish line | 26.00% | ~5,887 |
 | Unstoppable force | 22.00% | ~4,981 |
 | Wave of mutilation | 22.00% | ~4,981 |
@@ -45,14 +45,14 @@ Number of Ratings: 1,047  (23.09.2022)
 | One man's trash | 2.00% | ~453 |
 | Hit me if you can | 1.00% | ~226 |
 | Obedient Machine | 0.90% | ~204 |
-| Everyone Needs A Hobby | 0.70% | ~158 |
+| Everyone Needs A Hobby | 0.70% | ~159 |
 | Legacy Drivers | 0.50% | ~113 |
 | A Grade | 0.40% | ~91 |
 | GR Project Complete | 0.40% | ~91 |
 | Sticks And Stones | 0.40% | ~91 |
 | Up Close And Personal | 0.40% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,642 (Ranked 128)  
+Progressed: 22,643 (Ranked 128)  
 Completed: 85 (0.38%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 85 (0.38%) (Ranked 217)
 | 2023-11-13 | 22,528 | 84 |
 | 2023-11-14 | 22,573 | 85 |
 | 2023-11-15 | 22,617 | 85 |
-| 2023-11-16 | 22,642 | 85 |
+| 2023-11-16 | 22,643 | 85 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 206)  
 Sum: 751 (Ranked 286)  

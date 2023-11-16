@@ -34,7 +34,7 @@
 | Convoy list | 0.00% | ~0 |
 | I leave no man behind (no exceptions) | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 404)  
+Progressed: 127 (Ranked 405)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |

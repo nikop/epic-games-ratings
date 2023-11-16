@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158496,
+  "EOS_Progressed": 158503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15876,6 +15876,11 @@
       "Time": "2023-11-16T16:06:08.8365815+00:00",
       "NumProgressed": 158496,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T17:05:13.8649773+00:00",
+      "NumProgressed": 158503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15887,7 +15892,7 @@
       "Name": "Spiral Heart",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACQUIRE_ALLHUNTPOINTS",
@@ -15903,7 +15908,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -15919,7 +15924,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -15943,7 +15948,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -15967,7 +15972,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -16111,7 +16116,7 @@
       "Name": "Predator",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -16119,7 +16124,7 @@
       "Name": "Kinship",
       "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -16167,7 +16172,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -16183,7 +16188,7 @@
       "Name": "Dream",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "QUEST_CODA",
@@ -16215,7 +16220,7 @@
       "Name": "Proportions",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -16254,21 +16259,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158079,
+      "Progressed": 158086,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158496,
+      "Progressed": 158503,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:06:08.8365812+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:13.8649766+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:57:54.9562067+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:06:08.8366947+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:57:31.3854084+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:13.8650778+00:00"
 }

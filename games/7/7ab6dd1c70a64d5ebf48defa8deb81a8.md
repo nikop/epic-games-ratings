@@ -12,12 +12,12 @@
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
+| Scholar | 2.00% | ~4 |
 | Adventurer | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
 | Geared Up | 1.00% | ~2 |
 | Fashion Victim | 1.00% | ~2 |
-| Scholar | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
 | Tributes of Caladrias | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
@@ -41,7 +41,7 @@
 | Miner | -1.10% | ~-2 |
 | The Mentor | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 382)  
+Progressed: 188 (Ranked 383)  
 Completed: 1 (0.53%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

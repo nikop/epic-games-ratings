@@ -5,9 +5,9 @@
   "Ranking_Rating": 1024,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -923,6 +923,11 @@
       "Time": "2023-11-12T17:06:09.7585699+00:00",
       "NumProgressed": 569,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T17:03:31.8101226+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -958,7 +963,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Doors_Closing",
@@ -1022,7 +1027,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Hitman",
@@ -1165,7 +1170,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 6
     }
   ],
@@ -1173,8 +1178,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:04:14.3160376+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:03:31.8101221+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:29.4211501+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:03:29.5774308+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:04:14.3160597+00:00"
+  "LastUpdate_Ratings": "2023-11-16T17:02:51.4321293+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:03:31.8101436+00:00"
 }

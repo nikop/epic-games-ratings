@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550835,
+  "EOS_Progressed": 1550843,
   "EOS_Completed": 728,
-  "EOS_NewPlayers": 1316,
+  "EOS_NewPlayers": 1309,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24397,6 +24397,11 @@
       "Time": "2023-11-16T16:06:41.0131243+00:00",
       "NumProgressed": 1550835,
       "NumCompleted": 728
+    },
+    {
+      "Time": "2023-11-16T17:05:41.9460122+00:00",
+      "NumProgressed": 1550843,
+      "NumCompleted": 728
     }
   ],
   "TotalAchievements": 20,
@@ -24416,7 +24421,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108558
+      "UsersEstimate": 108559
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -24456,7 +24461,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139575
+      "UsersEstimate": 139576
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -24520,7 +24525,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139575
+      "UsersEstimate": 139576
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -24567,15 +24572,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1550835,
+      "Progressed": 1550843,
       "Completed": 728
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:06:41.013124+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:41.9460116+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:30.6974895+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:59:57.8003552+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:06:41.0132931+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:59:18.4062049+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:41.9461867+00:00"
 }

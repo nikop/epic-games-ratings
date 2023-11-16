@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -723,8 +723,8 @@
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:06:49.7100003+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:49.8828317+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:05.5071455+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:58:02.7112432+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:06:49.7100189+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:57:38.3636039+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:49.8828498+00:00"
 }

@@ -69,6 +69,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.10% | ~457 |
 | Imposter Syndrome | 0.10% | ~457 |
 | In the Name of the Father | 0.10% | ~457 |
+| An Industrial Evolution | 0.10% | ~457 |
 | Industrial Powerhouse | 0.10% | ~457 |
 | Isn't this the way to India? | 0.10% | ~457 |
 | Italian Ambition | 0.10% | ~457 |
@@ -241,7 +242,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
-| An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,796 (Ranked 41)  
+Progressed: 456,831 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,796 | 1 |
+| 2023-11-16 | 456,831 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,806 (Ranked 24)  

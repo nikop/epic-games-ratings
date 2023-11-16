@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,220 |
-| Exploitative | 4.00% | ~19,376 |
-| Point Shooting | 4.00% | ~19,376 |
-| Wet Feet | 4.00% | ~19,376 |
-| High Speed Low Drag | 3.00% | ~14,532 |
-| Lucky | 3.00% | ~14,532 |
-| Stylin' | 3.00% | ~14,532 |
-| Turf War | 3.00% | ~14,532 |
+| Wallbanger | 5.00% | ~24,221 |
+| Exploitative | 4.00% | ~19,377 |
+| Point Shooting | 4.00% | ~19,377 |
+| Wet Feet | 4.00% | ~19,377 |
+| High Speed Low Drag | 3.00% | ~14,533 |
+| Lucky | 3.00% | ~14,533 |
+| Stylin' | 3.00% | ~14,533 |
+| Turf War | 3.00% | ~14,533 |
 | Banged | 2.00% | ~9,688 |
 | Checkpoint Victory | 2.00% | ~9,688 |
 | First Blood | 2.00% | ~9,688 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Grounded | 0.80% | ~3,875 |
 | Play to Win | 0.80% | ~3,875 |
 | Special Delivery | 0.70% | ~3,391 |
-| Firefight Victory | 0.60% | ~2,906 |
-| #1 | 0.60% | ~2,906 |
+| Firefight Victory | 0.60% | ~2,907 |
+| #1 | 0.60% | ~2,907 |
 | Cinematic | 0.50% | ~2,422 |
 | Thanks Station! | 0.40% | ~1,938 |
 | Knock Knock | 0.30% | ~1,453 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~484 |
 | Road Hazard | 0.10% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,405 (Ranked 38)  
+Progressed: 484,423 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 2 (0.00%) (Ranked 352)
 | 2023-11-13 | 483,399 | 2 |
 | 2023-11-14 | 483,800 | 2 |
 | 2023-11-15 | 484,137 | 2 |
-| 2023-11-16 | 484,405 | 2 |
+| 2023-11-16 | 484,423 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 231)  
-Sum: 3,164 (Ranked 171)  
+Sum: 3,165 (Ranked 171)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 365 |
 | This game has Competitive Players | 363 |
 | This game is Highly Recommended | 351 |
-| This game has Amazing Characters | 337 |
+| This game has Amazing Characters | 338 |
 | This game has Realistic Visuals | 336 |
 | This game has Amazing Storytelling | 331 |
 | This game has a Competitive Community | 300 |
@@ -556,4 +556,4 @@ Diff (max vs sum): 60
 | 2023-11-12 | 4.62 | - | 396 | 3,155 |
 | 2023-11-14 | 4.62 | - | 396 | 3,160 |
 | 2023-11-15 | 4.62 | - | 396 | 3,163 |
-| 2023-11-16 | 4.62 | - | 396 | 3,164 |
+| 2023-11-16 | 4.62 | - | 396 | 3,165 |

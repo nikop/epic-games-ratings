@@ -2,9 +2,9 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13627,
+  "EOS_Progressed": 13628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14504,6 +14504,11 @@
       "Time": "2023-11-16T16:06:39.7432981+00:00",
       "NumProgressed": 13627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T17:05:40.776131+00:00",
+      "NumProgressed": 13628,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14683,7 +14688,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -14714,14 +14719,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13627,
+      "Progressed": 13628,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:06:39.7432977+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:40.7761305+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:59:11.6750092+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:06:39.7434011+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:58:38.2047384+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:40.7762337+00:00"
 }

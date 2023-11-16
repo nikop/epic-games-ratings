@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1817,9 +1817,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 63709,
+  "EOS_Progressed": 63710,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 810,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24892,6 +24892,11 @@
       "Time": "2023-11-16T16:05:20.3501327+00:00",
       "NumProgressed": 63709,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T17:04:30.3148379+00:00",
+      "NumProgressed": 63710,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -24943,7 +24948,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -24959,7 +24964,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -25127,7 +25132,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -25135,7 +25140,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16564
+      "UsersEstimate": 16565
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -25247,7 +25252,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15927
+      "UsersEstimate": 15928
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -25271,7 +25276,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 49693
+      "UsersEstimate": 49694
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -25367,22 +25372,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23572
+      "UsersEstimate": 23573
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 63709,
+      "Progressed": 63710,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-12T14:57:20.6392865+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:05:20.3501322+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:04:30.3148374+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:37.3607719+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:00:09.9286857+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:05:20.350322+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:59:28.4308704+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:04:30.3149904+00:00"
 }

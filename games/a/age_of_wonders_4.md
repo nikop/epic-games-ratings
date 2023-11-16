@@ -15,11 +15,11 @@ Rating: 4.61 (Ranked 385)
 | From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
+| Chaos Surge | 0.90% | ~49 |
 | Valley of Wonders | 0.80% | ~43 |
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
-| Chaos Surge | 0.80% | ~43 |
 | Spoils of War | 0.80% | ~43 |
 | In a Liege of Your Own | 0.70% | ~38 |
 | Intimidation Tactics | 0.70% | ~38 |
@@ -34,6 +34,7 @@ Rating: 4.61 (Ranked 385)
 | Tipping the Scales | 0.50% | ~27 |
 | Mighty Hoard | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
+| Arch Mage | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
 | Preparation Is Everything | 0.40% | ~22 |
 | Fiery Friend | 0.40% | ~22 |
@@ -41,7 +42,6 @@ Rating: 4.61 (Ranked 385)
 | Prometheus Avenged | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
-| Arch Mage | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
 | Pruning for Progress | 0.30% | ~16 |

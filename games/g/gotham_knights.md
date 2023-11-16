@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,014 |
+| First Step Into the Knight | 51.00% | ~39,015 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,775 |
 | Loose Ends | 34.00% | ~26,010 |
 | To the Victor Go the Spoils | 28.00% | ~21,420 |
@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 925)
 | Icebreaker | 0.80% | ~374 |
 | History Major | 0.80% | ~612 |
 | A Sophisticated Mallet | 0.80% | ~374 |
-| Read Owl About It | 0.70% | ~535 |
+| Read Owl About It | 0.70% | ~536 |
 | Gotham's Greatest Depths | 0.60% | ~281 |
 | Don't Mecha Big Deal About It | 0.60% | ~281 |
 | Confronting Your Demon | 0.60% | ~281 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,499 (Ranked 97)  
+Progressed: 76,500 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 123 (0.16%) (Ranked 261)
 | 2023-11-13 | 76,394 | 123 |
 | 2023-11-14 | 76,429 | 123 |
 | 2023-11-15 | 76,468 | 123 |
-| 2023-11-16 | 76,499 | 123 |
+| 2023-11-16 | 76,500 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,944  (Ranked 98)  
 Sum: 4,994 (Ranked 138)  

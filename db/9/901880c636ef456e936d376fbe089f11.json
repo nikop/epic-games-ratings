@@ -2,7 +2,7 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 126,
@@ -660,9 +660,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -708,9 +708,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:03:31.9730644+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:02:54.0223656+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8766102+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:57:27.89015+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:03:31.9731313+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:57:09.209745+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:02:54.0224038+00:00"
 }

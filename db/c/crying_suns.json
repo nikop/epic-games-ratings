@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470918,
+  "EOS_Progressed": 470920,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
@@ -22583,6 +22583,11 @@
       "Time": "2023-11-16T16:09:51.4788152+00:00",
       "NumProgressed": 470918,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-16T17:09:09.5147887+00:00",
+      "NumProgressed": 470920,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22610,7 +22615,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113020
+      "UsersEstimate": 113021
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22642,7 +22647,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37673
+      "UsersEstimate": 37674
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -22682,7 +22687,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310806
+      "UsersEstimate": 310807
     },
     {
       "ID": "achievement_story_landa",
@@ -22706,7 +22711,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37673
+      "UsersEstimate": 37674
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -22754,7 +22759,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37673
+      "UsersEstimate": 37674
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -22778,7 +22783,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160112
+      "UsersEstimate": 160113
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22786,7 +22791,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37673
+      "UsersEstimate": 37674
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -23018,7 +23023,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207204
+      "UsersEstimate": 207205
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23026,7 +23031,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141275
+      "UsersEstimate": 141276
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23050,7 +23055,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183658
+      "UsersEstimate": 183659
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23098,7 +23103,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37673
+      "UsersEstimate": 37674
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -23225,21 +23230,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14852,
+      "Progressed": 14854,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470918,
+      "Progressed": 470920,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:09:51.4788148+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:09:09.5147882+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:59:24.4445543+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:09:51.479011+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:58:49.1152425+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:09:09.5149384+00:00"
 }

@@ -42,7 +42,7 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 13.00% | ~78 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 601 (Ranked 292)  
+Progressed: 601 (Ranked 293)  
 Completed: 45 (7.49%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 6.00% | ~2 |
-| You have three wishes left | 6.00% | ~2 |
-| The adventurer | 6.00% | ~2 |
-| A continent with chemistry | 6.00% | ~2 |
-| You have two wishes left | 6.00% | ~2 |
+| Master trainee | 8.00% | ~3 |
+| You have three wishes left | 8.00% | ~3 |
+| The adventurer | 5.00% | ~2 |
+| A continent with chemistry | 5.00% | ~2 |
+| You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
 | Bread and bocaua | 3.00% | ~1 |
@@ -52,7 +52,7 @@
 | Ambition is... blind | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 508)  
+Progressed: 37 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,3 +76,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-01 | 34 | 0 |
 | 2023-11-11 | 35 | 0 |
 | 2023-11-14 | 36 | 0 |
+| 2023-11-16 | 37 | 0 |

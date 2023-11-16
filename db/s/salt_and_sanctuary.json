@@ -2778,9 +2778,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538397,
+  "EOS_Progressed": 538398,
   "EOS_Completed": 1614,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -25928,6 +25928,11 @@
       "Time": "2023-11-16T16:05:59.0213738+00:00",
       "NumProgressed": 538397,
       "NumCompleted": 1614
+    },
+    {
+      "Time": "2023-11-16T17:05:04.7122614+00:00",
+      "NumProgressed": 538398,
+      "NumCompleted": 1614
     }
   ],
   "TotalAchievements": 37,
@@ -26115,7 +26120,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 102295
+      "UsersEstimate": 102296
     },
     {
       "ID": "THE_KEEP",
@@ -26195,7 +26200,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344574
+      "UsersEstimate": 344575
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -26211,7 +26216,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91527
+      "UsersEstimate": 91528
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -26234,15 +26239,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538397,
+      "Progressed": 538398,
       "Completed": 1614
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-12T05:57:21.5077761+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:05:59.021373+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:04.712261+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:38.8645377+00:00",
-  "LastUpdate_Ratings": "2023-11-16T16:00:11.0066002+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:05:59.0215065+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:59:29.3059502+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:04.7123619+00:00"
 }

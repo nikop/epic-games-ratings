@@ -2,8 +2,8 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -21,11 +21,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 94,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -341,6 +341,11 @@
       "Time": "2023-11-16T15:07:45.5917729+00:00",
       "NumProgressed": 92,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T17:07:39.3695691+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -359,7 +364,7 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -409,7 +414,7 @@
       "Name": "Pathfinder",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CompleteChapter10",
@@ -495,7 +500,7 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -503,7 +508,7 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -513,13 +518,13 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -527,9 +532,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter7",
@@ -575,7 +580,7 @@
       "ID": "CompleteConquestNoLivesLost",
       "SetID": "52ail55",
       "Name": "Realm of Beasts Tamed",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 60,
       "UsersEstimate": 6
     },
@@ -601,7 +606,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Win100OnlineMatched",
@@ -623,7 +628,7 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -648,13 +653,13 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 94,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:08:23.3565542+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:07:39.3695685+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:58:14.0044425+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:08:23.3565775+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:57:48.0217112+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:07:39.3695947+00:00"
 }

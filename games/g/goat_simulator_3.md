@@ -5,26 +5,26 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~228,294 |
-| Private Club | 74.00% | ~185,645 |
-| Rogue Guild | 65.00% | ~163,067 |
-| I Watched the Intro | 57.00% | ~142,997 |
-| Covert Consortium | 55.00% | ~137,980 |
-| Goat Queen | 53.00% | ~132,962 |
-| Reach the Stratosphere | 50.00% | ~125,436 |
-| Synchronization Complete | 47.00% | ~117,910 |
-| Secret Society | 45.00% | ~112,892 |
-| Shadow Syndicate | 38.00% | ~95,331 |
+| Forgotten Sorority | 91.00% | ~228,295 |
+| Private Club | 74.00% | ~185,647 |
+| Rogue Guild | 65.00% | ~163,068 |
+| I Watched the Intro | 57.00% | ~142,998 |
+| Covert Consortium | 55.00% | ~137,981 |
+| Goat Queen | 53.00% | ~132,963 |
+| Reach the Stratosphere | 50.00% | ~125,437 |
+| Synchronization Complete | 47.00% | ~117,911 |
+| Secret Society | 45.00% | ~112,893 |
+| Shadow Syndicate | 38.00% | ~95,332 |
 | What a Waste of Money | 33.00% | ~82,788 |
 | New Goat Order | 30.00% | ~75,262 |
-| Don't touch the servers | 28.00% | ~70,244 |
-| San Angora: Become Human | 27.00% | ~67,735 |
-| Real Buoy | 27.00% | ~67,735 |
+| Don't touch the servers | 28.00% | ~70,245 |
+| San Angora: Become Human | 27.00% | ~67,736 |
+| Real Buoy | 27.00% | ~67,736 |
 | Raider of the Lost Parking Garage | 26.00% | ~65,227 |
 | Welcome to Earth | 25.00% | ~62,718 |
 | Into the Matrix | 19.00% | ~47,666 |
 | Egg Simulator | 18.00% | ~45,157 |
-| Where is It? | 17.00% | ~42,648 |
+| Where is It? | 17.00% | ~42,649 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,631 |
 | 401(K.O.) | 15.00% | ~37,631 |
 | Black Market | 14.00% | ~35,122 |
@@ -45,8 +45,8 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,505 |
 | G.O.A.T | 0.30% | ~753 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,872 (Ranked 59)  
-Completed: 877 (0.35%) (Ranked 222)  
+Progressed: 250,874 (Ranked 59)  
+Completed: 877 (0.35%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 877 (0.35%) (Ranked 222)
 | 2023-11-13 | 250,695 | 875 |
 | 2023-11-14 | 250,753 | 877 |
 | 2023-11-15 | 250,822 | 877 |
-| 2023-11-16 | 250,872 | 877 |
+| 2023-11-16 | 250,874 | 877 |
 ## Awards
 Max (Great for Beginners): 459  (Ranked 214)  
 Sum: 3,823 (Ranked 158)  

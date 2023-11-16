@@ -6,10 +6,10 @@ Rating: 4.55 (Ranked 504)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~410 |
-| And again, and again, and... | 63.00% | ~297 |
+| And again, and again, and... | 64.00% | ~301 |
 | Burn, Elysium, burn! | 62.00% | ~292 |
 | Kuvaq Minigame-Master | 61.00% | ~287 |
-| FunScore | 54.00% | ~254 |
+| FunScore | 55.00% | ~259 |
 | Funtime's over | 52.00% | ~245 |
 | Chunky | 50.00% | ~236 |
 | Boat of love, boat of love | 49.00% | ~231 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 504)
 | Against better judgement | 6.00% | ~28 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471 (Ranked 308)  
+Progressed: 471 (Ranked 309)  
 Completed: 6 (1.27%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4157,7 +4157,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76499,
+  "EOS_Progressed": 76500,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -22767,6 +22767,11 @@
       "Time": "2023-11-16T16:06:37.980293+00:00",
       "NumProgressed": 76499,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-16T17:05:39.4377851+00:00",
+      "NumProgressed": 76500,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -23058,7 +23063,7 @@
       "Name": "Read Owl About It",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "GOTHAM_HISTORICAL_PLATES",
@@ -23122,7 +23127,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39014
+      "UsersEstimate": 39015
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23265,13 +23270,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76499,
+      "Progressed": 76500,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46779,
+      "Progressed": 46780,
       "Completed": 2673
     }
   ],
@@ -23279,8 +23284,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-16T06:58:40.3350045+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:06:37.9802926+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:39.4377847+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:59:31.4884031+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:06:37.9804401+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:58:55.1353142+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:39.437952+00:00"
 }

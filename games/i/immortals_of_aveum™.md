@@ -9,13 +9,13 @@ Rating: 4.06 (Ranked 975)
 | Battlefields Have Memories | 86.00% | ~239 |
 | Enlisted | 83.00% | ~231 |
 | Maybe Engage a Little | 79.00% | ~220 |
-| No More Names | 65.00% | ~181 |
+| No More Names | 66.00% | ~183 |
 | Initiate | 54.00% | ~150 |
 | Thrada-Kul | 49.00% | ~136 |
 | Gravity-Challenged Rocks | 38.00% | ~106 |
 | Soldier | 32.00% | ~89 |
 | All the Major Food Groups | 32.00% | ~89 |
-| Beggars Would Ride | 28.00% | ~78 |
+| Beggars Would Ride | 29.00% | ~81 |
 | Control is an Illusion | 27.00% | ~75 |
 | Socialite | 27.00% | ~75 |
 | The Means to Save It | 22.00% | ~61 |
@@ -53,7 +53,7 @@ Rating: 4.06 (Ranked 975)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278 (Ranked 353)  
+Progressed: 278 (Ranked 354)  
 Completed: 1 (0.36%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |

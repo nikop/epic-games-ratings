@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewPlayers": 34,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6517,10 +6517,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11388,
       "NumberOfAwardsMax": 7466
+    },
+    {
+      "Time": "2023-11-16T16:58:25.1929189+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11392,
+      "NumberOfAwardsMax": 7466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11388,
+  "NumberOfAwards": 11392,
   "NumberOfAwardsMax": 7466,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6552,7 +6558,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 454
+      "Count": 458
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6579,10 +6585,10 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719210,
+  "EOS_Progressed": 719241,
   "EOS_Completed": 2397,
-  "EOS_NewPlayers": 3720,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 3732,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30589,6 +30595,11 @@
       "Time": "2023-11-16T16:06:03.2085482+00:00",
       "NumProgressed": 719210,
       "NumCompleted": 2397
+    },
+    {
+      "Time": "2023-11-16T17:05:08.6337356+00:00",
+      "NumProgressed": 719241,
+      "NumCompleted": 2397
     }
   ],
   "TotalAchievements": 51,
@@ -30624,7 +30635,7 @@
       "Name": "Anger Management",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -30688,7 +30699,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ach_doom_buddies",
@@ -30712,7 +30723,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ach_finisher",
@@ -30872,7 +30883,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ach_star_performance",
@@ -30920,7 +30931,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -30960,7 +30971,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ach_dark_magic",
@@ -30968,7 +30979,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ach_gardening_tools",
@@ -30984,7 +30995,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31007,22 +31018,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719210,
+      "Progressed": 719241,
       "Completed": 2397
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44752,
+      "Progressed": 44783,
       "Completed": 36545
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-16T15:58:56.2817318+00:00",
-  "LastChanged_Achievements": "2023-11-16T16:06:03.208548+00:00",
+  "LastChanged": "2023-11-16T16:58:25.1929187+00:00",
+  "LastChanged_Achievements": "2023-11-16T17:05:08.633735+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:58:56.2817324+00:00",
-  "LastUpdate_Achievements": "2023-11-16T16:06:03.2087178+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:58:25.1929195+00:00",
+  "LastUpdate_Achievements": "2023-11-16T17:05:08.6338521+00:00"
 }
