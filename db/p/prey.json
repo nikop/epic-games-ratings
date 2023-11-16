@@ -2,7 +2,7 @@
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
   "ProductSlug": "prey",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 748,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "NumberOfRatings": 13217,
   "RatingHistory": [
     {
@@ -3990,6 +3990,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 7824,
       "NumberOfAwardsMax": 5773
+    },
+    {
+      "Time": "2023-11-16T04:59:59.0676988+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7824,
+      "NumberOfAwardsMax": 5773
     }
   ],
   "ReviewsDisabled": false,
@@ -4069,8 +4075,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
-  "LastChanged": "2023-11-15T05:00:48.4591518+00:00",
+  "LastChanged": "2023-11-16T04:59:59.0676986+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:54.4302324+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:01:30.4082886+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:03:58.3400577+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:59:59.0676993+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:03:09.8027655+00:00"
 }

@@ -91,12 +91,12 @@
 | Problem Solver | 20.00% | ~254 |
 | Last Resort | 19.00% | ~241 |
 | Hard Target | 19.00% | ~241 |
+| Saboteur | 19.00% | ~241 |
 | Last Witness | 19.00% | ~241 |
 | Fact Finder | 19.00% | ~241 |
 | Pyromaniac | 18.00% | ~229 |
 | Under Pressure | 18.00% | ~229 |
 | No One Left Behind | 18.00% | ~229 |
-| Saboteur | 18.00% | ~229 |
 | Well Connected | 18.00% | ~229 |
 | Executioner | 16.00% | ~203 |
 | Patriot | 16.00% | ~203 |

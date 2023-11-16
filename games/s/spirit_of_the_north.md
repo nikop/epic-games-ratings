@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~50,511 |
-| INFUSED WITH LIGHT | 53.00% | ~39,369 |
-| FOXIN' AROUND | 29.00% | ~21,541 |
-| FETCH | 28.00% | ~20,799 |
-| BLOOMS OF LIGHT | 26.00% | ~19,313 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~50,513 |
+| INFUSED WITH LIGHT | 53.00% | ~39,371 |
+| FOXIN' AROUND | 29.00% | ~21,542 |
+| FETCH | 28.00% | ~20,800 |
+| BLOOMS OF LIGHT | 26.00% | ~19,314 |
 | AWAKEN | 22.00% | ~16,342 |
 | BEST FRIENDS | 22.00% | ~16,342 |
-| ERADICATE | 21.00% | ~15,599 |
-| SPIRIT BARK | 21.00% | ~15,599 |
+| ERADICATE | 21.00% | ~15,600 |
+| SPIRIT BARK | 21.00% | ~15,600 |
 | GARDEN OF LIGHT | 18.00% | ~13,371 |
 | SPIRIT FORM | 17.00% | ~12,628 |
 | WRITTEN IN STONE | 16.00% | ~11,885 |
-| UPROOTING DARKNESS | 15.00% | ~11,142 |
+| UPROOTING DARKNESS | 15.00% | ~11,143 |
 | WEIGHTLESS | 12.00% | ~8,914 |
 | SPIRIT DASH | 11.00% | ~8,171 |
-| OLD COMPANION | 9.00% | ~6,685 |
-| MATCH MAKER | 8.00% | ~5,942 |
-| NORTHERN LIGHTS | 8.00% | ~5,942 |
-| PLAGUE DOCTOR | 8.00% | ~5,942 |
-| SPIRITED AWAY | 8.00% | ~5,942 |
+| OLD COMPANION | 9.00% | ~6,686 |
+| MATCH MAKER | 8.00% | ~5,943 |
+| NORTHERN LIGHTS | 8.00% | ~5,943 |
+| PLAGUE DOCTOR | 8.00% | ~5,943 |
+| SPIRITED AWAY | 8.00% | ~5,943 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,971 |
-| ANCIENT HISTORY | 3.00% | ~2,228 |
+| ANCIENT HISTORY | 3.00% | ~2,229 |
 | NONE FORGOTTEN | 2.00% | ~1,486 |
 | KINDRED SPIRITS | 0.60% | ~446 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,281 (Ranked 99)  
+Progressed: 74,284 (Ranked 99)  
 Completed: 393 (0.53%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 393 (0.53%) (Ranked 194)
 | 2023-11-13 | 74,157 | 393 |
 | 2023-11-14 | 74,213 | 393 |
 | 2023-11-15 | 74,270 | 393 |
-| 2023-11-16 | 74,281 | 393 |
+| 2023-11-16 | 74,284 | 393 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 512)  
 Sum: 115 (Ranked 434)  

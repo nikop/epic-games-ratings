@@ -9,8 +9,8 @@
 | For the Horde! | 80.00% | ~219 |
 | Hammer Time, Round Two | 79.00% | ~216 |
 | The Hellwoods | 73.00% | ~200 |
+| The Plains of Strothalm | 66.00% | ~181 |
 | Thalya's Concentrated Fury | 65.00% | ~178 |
-| The Plains of Strothalm | 65.00% | ~178 |
 | Experienced Thalya | 65.00% | ~178 |
 | Master of Magic | 61.00% | ~167 |
 | Bad Elves Go Everywhere | 60.00% | ~164 |
@@ -32,9 +32,9 @@
 | Shame! Shame! Shame! | 22.00% | ~60 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 19.00% | ~52 |
 | Hungry, Hungry Gorgu! | 17.00% | ~47 |
-| Tanos' Crusade Against Thalya | 16.00% | ~44 |
+| Tanos' Crusade Against Thalya | 17.00% | ~47 |
 | Unstoppable Horde | 15.00% | ~41 |
-| Master of the Undead | 13.00% | ~36 |
+| Master of the Undead | 14.00% | ~38 |
 | Forbidden Knowledge | 12.00% | ~33 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~33 |
 | All’s Well That Ends Evil | 12.00% | ~33 |

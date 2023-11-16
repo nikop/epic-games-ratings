@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 894,
+  "EOS_Progressed": 895,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.96,
+  "EOS_Completed_Percentage": 9.94,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2944,6 +2944,11 @@
       "Time": "2023-11-16T04:10:13.0790619+00:00",
       "NumProgressed": 894,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-11-16T05:09:10.6942705+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -2955,7 +2960,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "LEVEL_002",
@@ -2963,7 +2968,7 @@
       "Name": "Promising crop",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "LEVEL_003",
@@ -2971,7 +2976,7 @@
       "Name": "A horse in the country",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "LEVEL_004",
@@ -2987,7 +2992,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "LEVEL_006",
@@ -3019,7 +3024,7 @@
       "Name": "Going zig zag",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "LEVEL_010",
@@ -3123,7 +3128,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_023",
@@ -3131,15 +3136,15 @@
       "Name": "Flowing from high ground",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_025",
@@ -3147,7 +3152,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_026",
@@ -3155,7 +3160,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_027",
@@ -3163,7 +3168,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_028",
@@ -3194,14 +3199,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 894,
+      "Progressed": 895,
       "Completed": 89
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:10:13.0790616+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:09:10.6942697+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:58:11.5155105+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:10:13.079095+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:57:41.9684499+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:09:10.6943033+00:00"
 }

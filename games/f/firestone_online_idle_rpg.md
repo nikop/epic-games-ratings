@@ -5,16 +5,16 @@ Rating: 4.12 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,185 |
+| Victor | 93.00% | ~2,186 |
 | World Map | 79.00% | ~1,856 |
 | Temple of Eternals | 57.00% | ~1,339 |
-| Prestigious | 54.00% | ~1,268 |
+| Prestigious | 54.00% | ~1,269 |
 | Fellowship Power | 42.00% | ~987 |
-| Guild Power | 25.00% | ~587 |
+| Guild Power | 25.00% | ~588 |
 | Prestigious x10 | 22.00% | ~517 |
 | The game is on | 20.00% | ~470 |
 | Exotic Merchant | 18.00% | ~423 |
-| Dragon Clicker | 17.00% | ~399 |
+| Dragon Clicker | 17.00% | ~400 |
 | Full Party | 16.00% | ~376 |
 | Inspection | 16.00% | ~376 |
 | Miner Clicker | 16.00% | ~376 |
@@ -22,11 +22,11 @@ Rating: 4.12 (Ranked 957)
 | Enlightenment | 15.00% | ~352 |
 | Hero inspection | 15.00% | ~352 |
 | Lieutenant | 14.00% | ~329 |
-| Milestone collector | 13.00% | ~305 |
-| Mysterious Rock | 13.00% | ~305 |
-| Natural Talent | 13.00% | ~305 |
-| Superior | 13.00% | ~305 |
-| The Unstoppable | 13.00% | ~305 |
+| Milestone collector | 13.00% | ~306 |
+| Mysterious Rock | 13.00% | ~306 |
+| Natural Talent | 13.00% | ~306 |
+| Superior | 13.00% | ~306 |
+| The Unstoppable | 13.00% | ~306 |
 | Scientist | 12.00% | ~282 |
 | Doing My Part | 11.00% | ~258 |
 | Hunter | 11.00% | ~258 |
@@ -39,28 +39,28 @@ Rating: 4.12 (Ranked 957)
 | Moving Up The Ladder | 10.00% | ~235 |
 | Relic Of The Past | 10.00% | ~235 |
 | Scroll Master | 10.00% | ~235 |
-| Here We Go Again | 9.00% | ~211 |
-| Master Enchanter | 9.00% | ~211 |
-| The father of Dragons | 9.00% | ~211 |
-| Trader | 9.00% | ~211 |
+| Here We Go Again | 9.00% | ~212 |
+| Master Enchanter | 9.00% | ~212 |
+| The father of Dragons | 9.00% | ~212 |
+| Trader | 9.00% | ~212 |
 | Crystal Mining | 8.00% | ~188 |
 | Dragon Slayer | 8.00% | ~188 |
-| Blueprint Upgrades | 7.00% | ~164 |
-| Enchanting skill | 7.00% | ~164 |
-| Engineer Mastery | 7.00% | ~164 |
-| Lock And Load | 7.00% | ~164 |
-| Sailor | 7.00% | ~164 |
-| The Expeditioner | 7.00% | ~164 |
-| Weekly Quest Completionist | 7.00% | ~164 |
+| Blueprint Upgrades | 7.00% | ~165 |
+| Enchanting skill | 7.00% | ~165 |
+| Engineer Mastery | 7.00% | ~165 |
+| Lock And Load | 7.00% | ~165 |
+| Sailor | 7.00% | ~165 |
+| The Expeditioner | 7.00% | ~165 |
+| Weekly Quest Completionist | 7.00% | ~165 |
 | Active Member | 6.00% | ~141 |
 | Ancient Knowledge | 6.00% | ~141 |
 | How Do You Turn This On? | 6.00% | ~141 |
 | Legendary | 6.00% | ~141 |
 | Missions Dedication | 6.00% | ~141 |
 | The Alchemist | 6.00% | ~141 |
-| Arena Challenger | 5.00% | ~117 |
-| Background Story | 5.00% | ~117 |
-| Ebony Jungle Liberator | 5.00% | ~117 |
+| Arena Challenger | 5.00% | ~118 |
+| Background Story | 5.00% | ~118 |
+| Ebony Jungle Liberator | 5.00% | ~118 |
 | Mythic Power | 4.00% | ~94 |
 | Gear Enchanting | 3.00% | ~70 |
 | Guardian Master | 3.00% | ~70 |
@@ -69,19 +69,19 @@ Rating: 4.12 (Ranked 957)
 | Enchanting skill x5 | 2.00% | ~47 |
 | Pokerface | 2.00% | ~47 |
 | Titan Power | 2.00% | ~47 |
-| Angel Power | 1.00% | ~23 |
-| Conqueror | 1.00% | ~23 |
-| Enhanced War Machines | 1.00% | ~23 |
-| Training makes a Pro player | 1.00% | ~23 |
-| Transmute | 1.00% | ~23 |
-| Tree of Life | 1.00% | ~23 |
+| Angel Power | 1.00% | ~24 |
+| Conqueror | 1.00% | ~24 |
+| Enhanced War Machines | 1.00% | ~24 |
+| Training makes a Pro player | 1.00% | ~24 |
+| Transmute | 1.00% | ~24 |
+| Tree of Life | 1.00% | ~24 |
 | Beast War Machines | 0.90% | ~21 |
 | Silverwood liberator | 0.80% | ~19 |
 | Ultimate War Machines | 0.70% | ~16 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 215)  
+Progressed: 2,350 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2 (0.09%) (Ranked 282)
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
-| 2023-11-16 | 2,349 | 2 |
+| 2023-11-16 | 2,350 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

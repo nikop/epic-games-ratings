@@ -35,8 +35,8 @@
     }
   ],
   "AchievementsAdded": "2023-07-20T19:03:41.9563264+00:00",
-  "TotalAchievements": 32,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1100,
   "Achievements": [
     {
       "ID": "100_PERCENT_STANDARD",
@@ -50,9 +50,9 @@
       "ID": "BULLET_DANCING",
       "SetID": "71i70nl",
       "Name": "Bullet Dancing",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "EARTHBENDING",
@@ -186,9 +186,9 @@
       "ID": "NEED_WEAPON",
       "SetID": "71i70nl",
       "Name": "I Need a Weapon",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "NO_SIGNS_LIFE",
@@ -293,6 +293,22 @@
       "Percentage": 0,
       "XP": 5,
       "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLS_EYE",
+      "SetID": "4njilpd",
+      "Name": "All\u0027s Eye See is a Dead God",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MODE",
+      "SetID": "4njilpd",
+      "Name": "Legendary",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -310,8 +326,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-26T14:01:46.6937732+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:03:48.8011657+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:03:03.0243851+00:00",
   "LastUpdate_AppInfo": "2023-11-09T08:56:57.7625525+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:59:52.670042+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:03:48.8011922+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:58:51.0593783+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:03:03.0244084+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Double Kill | 3.00% | ~1 |
-| Adept | 3.00% | ~1 |
+| Double Kill | 5.00% | ~2 |
+| Adept | 5.00% | ~2 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
 | Death To Diplomacy | 0.00% | ~0 |

@@ -12,13 +12,13 @@ Rating: 4.54 (Ranked 523)
 | Welcome To Hell-A | 1.00% | ~7,190 |
 | Break A Leg | 0.90% | ~6,471 |
 | Git Gutte! | 0.80% | ~5,752 |
+| Bookworm | 0.80% | ~5,752 |
 | Coup de Grâce | 0.80% | ~5,752 |
 | Hazardous Materials | 0.80% | ~5,752 |
 | Friends Like These | 0.80% | ~5,752 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,752 |
 | Dr. Reed, I Presume? | 0.70% | ~5,033 |
 | Anger Management | 0.70% | ~5,033 |
-| Bookworm | 0.70% | ~5,033 |
 | But Doctor, I am Butcho | 0.70% | ~5,033 |
 | Can't Handle the Truth | 0.70% | ~5,033 |
 | Apex Predator | 0.70% | ~5,033 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~45 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,012 (Ranked 20)  
+Progressed: 719,019 (Ranked 20)  
 Completed: 2,393 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 2,393 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,012 | 2,393 |
+| 2023-11-16 | 719,019 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 51)  
 Sum: 11,380 (Ranked 84)  

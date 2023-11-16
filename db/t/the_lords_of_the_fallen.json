@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -513,9 +513,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 1600,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2388,6 +2388,11 @@
       "Time": "2023-11-15T21:06:30.0469022+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T05:06:11.8488215+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2646,9 +2651,9 @@
       "ID": "TLOTF_ACHIEVEMENT_032",
       "SetID": "87e61g",
       "Name": "Unbroken to the End",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_033",
@@ -2903,7 +2908,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1600,
+      "Progressed": 1601,
       "Completed": 1
     }
   ],
@@ -2911,8 +2916,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-15T20:59:13.0628337+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:08:26.011501+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:06:11.8488209+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.5758609+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:00:12.9340754+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:08:26.0115537+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:59:05.1815742+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:06:11.8488688+00:00"
 }

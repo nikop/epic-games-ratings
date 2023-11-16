@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664672,
+  "EOS_Progressed": 664673,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20799,6 +20799,11 @@
       "Time": "2023-11-16T04:04:03.4830981+00:00",
       "NumProgressed": 664672,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-16T05:03:13.6082496+00:00",
+      "NumProgressed": 664673,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20810,7 +20815,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478564
+      "UsersEstimate": 478565
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -21090,7 +21095,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59820
+      "UsersEstimate": 59821
     },
     {
       "ID": "Achievement_37_Champion",
@@ -21193,15 +21198,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664672,
+      "Progressed": 664673,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:04:03.4830976+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:03:13.6082492+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:12.8499735+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:58:42.929997+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:04:03.4832231+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:58:03.2504227+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:03:13.6083481+00:00"
 }

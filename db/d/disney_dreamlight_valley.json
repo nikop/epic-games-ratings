@@ -4665,7 +4665,7 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 11672,
+  "EOS_Progressed": 11673,
   "EOS_Completed": 278,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 6,
@@ -18725,6 +18725,11 @@
       "Time": "2023-11-16T02:27:44.2216049+00:00",
       "NumProgressed": 11672,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-11-16T05:04:30.336481+00:00",
+      "NumProgressed": 11673,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 15,
@@ -18774,9 +18779,9 @@
       "ID": "Constructor",
       "SetID": "chapdi4",
       "Name": "Constructor",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 5953
+      "UsersEstimate": 6070
     },
     {
       "ID": "Duty_Bound",
@@ -18792,7 +18797,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "Generous",
@@ -18808,7 +18813,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8170
+      "UsersEstimate": 8171
     },
     {
       "ID": "Miner",
@@ -18855,7 +18860,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11672,
+      "Progressed": 11673,
       "Completed": 278
     }
   ],
@@ -18863,8 +18868,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-15T17:57:25.7259514+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:05:48.737219+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:04:30.3364805+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:02.0110737+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:57:47.0980342+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:05:48.7372895+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:57:24.4206401+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:04:30.336553+00:00"
 }

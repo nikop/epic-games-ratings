@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5336,
+  "EOS_Progressed": 5340,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3370,6 +3370,11 @@
       "Time": "2023-11-16T02:31:37.2019489+00:00",
       "NumProgressed": 5336,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T05:08:48.8293233+00:00",
+      "NumProgressed": 5340,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3390,7 +3395,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "BeLikeWater",
@@ -3420,9 +3425,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 481
     },
     {
       "ID": "Eavesdropper",
@@ -3454,7 +3459,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3574,7 +3579,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "TheQuarterback",
@@ -3582,7 +3587,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ThisIsDharma",
@@ -3614,7 +3619,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -3638,7 +3643,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "k01101110",
@@ -3646,14 +3651,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5336,
+      "Progressed": 5340,
       "Completed": 6
     }
   ],
@@ -3661,8 +3666,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:09:44.1484134+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:08:48.8293227+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:00:26.2906193+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:09:44.1484477+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:59:14.4800365+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:08:48.829356+00:00"
 }

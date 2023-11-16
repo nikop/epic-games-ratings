@@ -503,9 +503,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 99247,
+  "EOS_Progressed": 99250,
   "EOS_Completed": 1001,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -24423,6 +24423,11 @@
       "Time": "2023-11-16T04:09:40.4830095+00:00",
       "NumProgressed": 99247,
       "NumCompleted": 1001
+    },
+    {
+      "Time": "2023-11-16T05:08:46.0837589+00:00",
+      "NumProgressed": 99250,
+      "NumCompleted": 1001
     }
   ],
   "TotalAchievements": 56,
@@ -24434,7 +24439,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 31759
+      "UsersEstimate": 31760
     },
     {
       "ID": "ach_001_game_complete",
@@ -24450,7 +24455,7 @@
       "Name": "Chum Expert",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "ach_003_complete_ancient_race",
@@ -24466,7 +24471,7 @@
       "Name": "Amateur Historian",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach_005_machinist_mask",
@@ -24482,7 +24487,7 @@
       "Name": "The Beetle Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach_007_climbers_mask",
@@ -24506,7 +24511,7 @@
       "Name": "The Guard Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach_010_scrapper_mask",
@@ -24586,7 +24591,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10917
+      "UsersEstimate": 10918
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -24610,7 +24615,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14887
+      "UsersEstimate": 14888
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -24618,7 +24623,7 @@
       "Name": "Gastric Bypass",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "ach_024_destroy_nimoor_plant",
@@ -24674,7 +24679,7 @@
       "Name": "Smoked Out",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach_031_enter_hercules_beetle_nest",
@@ -24690,7 +24695,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -24706,7 +24711,7 @@
       "Name": "A Hard Place",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ach_035_collect_bike_parts_1",
@@ -24746,7 +24751,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33744
+      "UsersEstimate": 33745
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -24762,7 +24767,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23819
+      "UsersEstimate": 23820
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -24786,7 +24791,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17864
+      "UsersEstimate": 17865
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -24834,7 +24839,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21834
+      "UsersEstimate": 21835
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -24858,7 +24863,7 @@
       "Name": "The Angler Mask",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "ach_054_first_fish_caught",
@@ -24881,15 +24886,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 99247,
+      "Progressed": 99250,
       "Completed": 1001
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-14T13:02:09.920914+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:09:40.483009+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:08:46.0837585+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:44.8321264+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:58:34.8092291+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:09:40.4831591+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:57:57.6668777+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:08:46.0839526+00:00"
 }

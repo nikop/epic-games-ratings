@@ -4,10 +4,10 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1005,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 177,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4573,11 +4573,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 3020,
       "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2023-11-16T04:59:07.4658411+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3023,
+      "NumberOfAwardsMax": 535
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3020,
-  "NumberOfAwardsMax": 532,
+  "NumberOfAwards": 3023,
+  "NumberOfAwardsMax": 535,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4590,7 +4596,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 532
+      "Count": 535
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4635,9 +4641,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 91192,
+  "EOS_Progressed": 91193,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1336,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25440,6 +25446,11 @@
       "Time": "2023-11-16T04:07:41.1866038+00:00",
       "NumProgressed": 91192,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-16T05:05:53.3582859+00:00",
+      "NumProgressed": 91193,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 41,
@@ -25778,22 +25789,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91192,
+      "Progressed": 91193,
       "Completed": 56
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19539,
+      "Progressed": 19540,
       "Completed": 15570
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-15T08:59:15.8485332+00:00",
-  "LastChanged_Achievements": "2023-11-16T04:07:41.1866034+00:00",
+  "LastChanged": "2023-11-16T04:59:07.4658409+00:00",
+  "LastChanged_Achievements": "2023-11-16T05:05:53.3582854+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-16T04:00:16.0146731+00:00",
-  "LastUpdate_Achievements": "2023-11-16T04:07:41.1867195+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:59:07.4658418+00:00",
+  "LastUpdate_Achievements": "2023-11-16T05:05:53.3584046+00:00"
 }

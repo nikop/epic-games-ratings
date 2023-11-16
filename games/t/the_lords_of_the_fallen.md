@@ -18,7 +18,6 @@ Rating: 4.21 (Ranked 900)
 | Together in Death | 0.30% | ~5 |
 | Burying the Past | 0.30% | ~5 |
 | Unwanted | 0.30% | ~5 |
-| Unbroken to the End | 0.30% | ~5 |
 | A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
@@ -26,6 +25,7 @@ Rating: 4.21 (Ranked 900)
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
 | Rune Novice | 0.20% | ~3 |
+| Unbroken to the End | 0.20% | ~3 |
 | Moving On | 0.20% | ~3 |
 | Seasoned | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 900)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,600 (Ranked 234)  
+Progressed: 1,601 (Ranked 234)  
 Completed: 1 (0.06%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 1 (0.06%) (Ranked 296)
 | 2023-11-13 | 1,572 | 1 |
 | 2023-11-14 | 1,592 | 1 |
 | 2023-11-15 | 1,600 | 1 |
+| 2023-11-16 | 1,601 | 1 |
 ## Awards
 Max (Character Customization): 153  (Ranked 315)  
 Sum: 268 (Ranked 375)  

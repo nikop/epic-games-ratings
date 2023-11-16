@@ -1,7 +1,7 @@
 # Prey
 [Store](https://store.epicgames.com/en-US/p/prey)  
 [View Rawdata](../../db/p/prey.json)  
-Rating: 4.63 (Ranked 349)  
+Rating: 4.62 (Ranked 365)  
 Number of Ratings: 13,217  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 5,773  (Ranked 65)  
@@ -263,3 +263,4 @@ Diff (max vs sum): -43
 | 2023-11-13 | 4.63 | - | 5,771 | 7,821 |
 | 2023-11-14 | 4.63 | - | 5,771 | 7,822 |
 | 2023-11-15 | 4.63 | - | 5,773 | 7,824 |
+| 2023-11-16 | 4.62 | - | 5,773 | 7,824 |
