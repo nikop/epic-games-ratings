@@ -6,10 +6,10 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~967,395 |
-| I Need a Bigger Garage | 63.00% | ~677,176 |
-| Pump my Ride | 47.00% | ~505,195 |
-| Ghostbuster | 34.00% | ~365,460 |
+| The First of Many | 90.00% | ~967,397 |
+| I Need a Bigger Garage | 63.00% | ~677,178 |
+| Pump my Ride | 47.00% | ~505,196 |
+| Ghostbuster | 34.00% | ~365,461 |
 | Call Roadside Assistance | 18.00% | ~193,479 |
 | That Was Close | 18.00% | ~193,479 |
 | Quickie | 11.00% | ~118,237 |
@@ -17,10 +17,10 @@ Number of Ratings: 1,343  (23.09.2022)
 | Can't Touch This | 5.00% | ~53,744 |
 | Carménère Taster | 4.00% | ~42,995 |
 | Comeback | 4.00% | ~42,995 |
-| Driver from Ipanema | 3.00% | ~32,246 |
-| Supersonic | 3.00% | ~32,246 |
-| Marathonist | 3.00% | ~32,246 |
-| Living Legend | 3.00% | ~32,246 |
+| Driver from Ipanema | 3.00% | ~32,247 |
+| Supersonic | 3.00% | ~32,247 |
+| Marathonist | 3.00% | ~32,247 |
+| Living Legend | 3.00% | ~32,247 |
 | God of Roads | 2.00% | ~21,498 |
 | Pathfinder | 2.00% | ~21,498 |
 | Go-Kart Champion | 2.00% | ~21,498 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,075 |
 | Look Mom, No Hands! | 0.10% | ~1,075 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074,883 (Ranked 13)  
+Progressed: 1,074,886 (Ranked 13)  
 Completed: 487 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 487 (0.05%) (Ranked 303)
 | 2023-11-13 | 1,074,152 | 484 |
 | 2023-11-14 | 1,074,502 | 484 |
 | 2023-11-15 | 1,074,848 | 487 |
-| 2023-11-16 | 1,074,883 | 487 |
+| 2023-11-16 | 1,074,886 | 487 |
 ## Awards
 Max (Great for Beginners): 165  (Ranked 309)  
 Sum: 1,515 (Ranked 234)  

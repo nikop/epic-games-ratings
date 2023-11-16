@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -3233,9 +3233,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 416305,
+  "EOS_Progressed": 416306,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 1983,
+  "EOS_NewPlayers": 1982,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18453,6 +18453,11 @@
       "Time": "2023-11-16T01:56:18.1765861+00:00",
       "NumProgressed": 416305,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-16T02:30:52.9869532+00:00",
+      "NumProgressed": 416306,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 89,
@@ -18576,7 +18581,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 108239
+      "UsersEstimate": 108240
     },
     {
       "ID": "AchievementCriticalCare",
@@ -18584,7 +18589,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 108239
+      "UsersEstimate": 108240
     },
     {
       "ID": "AchievementDealmaker",
@@ -18648,7 +18653,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 253946
+      "UsersEstimate": 253947
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -18664,7 +18669,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 116565
+      "UsersEstimate": 116566
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -18688,7 +18693,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 195663
+      "UsersEstimate": 195664
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -18696,7 +18701,7 @@
       "Name": "Industrial Age",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37467
+      "UsersEstimate": 37468
     },
     {
       "ID": "AchievementInformationAge_NAME",
@@ -18840,7 +18845,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 187337
+      "UsersEstimate": 187338
     },
     {
       "ID": "AchievementOneWay",
@@ -18848,7 +18853,7 @@
       "Name": "One way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 41630
+      "UsersEstimate": 41631
     },
     {
       "ID": "AchievementOuroboros",
@@ -18896,7 +18901,7 @@
       "Name": "Relocation",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 41630
+      "UsersEstimate": 41631
     },
     {
       "ID": "AchievementSabotage",
@@ -19175,21 +19180,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 415646,
+      "Progressed": 415647,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 416305,
+      "Progressed": 416306,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-11-15T20:00:01.4645331+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:56:18.1765858+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:30:52.9869529+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:20.3507002+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:48:07.0038458+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:56:18.1767233+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:22:50.5482636+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:30:52.987102+00:00"
 }

@@ -10,26 +10,26 @@
 | Floor Galore | 42.00% | ~147 |
 | Dinner Dash | 42.00% | ~147 |
 | Campaign Launch | 41.00% | ~144 |
+| It's Technical | 39.00% | ~137 |
 | Need a Consult | 38.00% | ~133 |
-| It's Technical | 38.00% | ~133 |
 | Upgrade Unlock | 37.00% | ~130 |
 | Delegate Maintenance | 35.00% | ~123 |
 | Proper Walls | 33.00% | ~116 |
 | Destination Destiny | 32.00% | ~112 |
 | Happy Tenants | 27.00% | ~95 |
-| Potent Potables | 26.00% | ~91 |
+| Potent Potables | 27.00% | ~95 |
 | Smooth Service | 26.00% | ~91 |
 | Your Prestige is Rising | 25.00% | ~88 |
 | Retail Revenue | 25.00% | ~88 |
 | Don't Feel a Loan | 23.00% | ~81 |
-| People Mover | 22.00% | ~77 |
+| People Mover | 23.00% | ~81 |
+| Leveled Up Shops | 22.00% | ~77 |
 | Lux Living | 21.00% | ~74 |
 | Artfully Done | 21.00% | ~74 |
 | Emporium Empire | 21.00% | ~74 |
-| Leveled Up Shops | 21.00% | ~74 |
 | Get Electrified | 21.00% | ~74 |
+| Tasty Profits | 20.00% | ~70 |
 | Rehab Expert | 19.00% | ~67 |
-| Tasty Profits | 19.00% | ~67 |
 | We Don't Need No Education | 19.00% | ~67 |
 | Established Fame | 18.00% | ~63 |
 | Under One Roof | 17.00% | ~60 |
@@ -44,9 +44,9 @@
 | 28 Days Later | 11.00% | ~39 |
 | Master of Puppets | 10.00% | ~35 |
 | Refined Palates | 10.00% | ~35 |
+| First 100 Days | 9.00% | ~32 |
 | Plaza Plan | 9.00% | ~32 |
 | Phoning It In | 9.00% | ~32 |
-| First 100 Days | 8.00% | ~28 |
 | Water Features | 8.00% | ~28 |
 | Careful Constructor | 7.00% | ~25 |
 | Meet Me at HQ | 7.00% | ~25 |

@@ -1685,9 +1685,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 225
     },
     {
       "ID": "Memories",
@@ -1812,8 +1812,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:53:49.9979739+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:28:37.8874842+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:47:34.5986605+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:53:49.9979997+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:22:18.1161629+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:28:37.8875079+00:00"
 }

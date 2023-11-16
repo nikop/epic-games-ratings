@@ -6923,10 +6923,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 21164,
       "NumberOfAwardsMax": 9503
+    },
+    {
+      "Time": "2023-11-16T02:20:29.9989294+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21167,
+      "NumberOfAwardsMax": 9503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21164,
+  "NumberOfAwards": 21167,
   "NumberOfAwardsMax": 9503,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6988,7 +6994,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1014
+      "Count": 1017
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6997,9 +7003,9 @@
       "Count": 1310
     }
   ],
-  "EOS_Progressed": 1774798,
+  "EOS_Progressed": 1774810,
   "EOS_Completed": 694,
-  "EOS_NewPlayers": 7409,
+  "EOS_NewPlayers": 7400,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -25847,6 +25853,11 @@
       "Time": "2023-11-16T01:57:36.0411792+00:00",
       "NumProgressed": 1774798,
       "NumCompleted": 694
+    },
+    {
+      "Time": "2023-11-16T02:32:09.2475824+00:00",
+      "NumProgressed": 1774810,
+      "NumCompleted": 694
     }
   ],
   "TotalAchievements": 1328,
@@ -27058,7 +27069,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 177480
+      "UsersEstimate": 177481
     },
     {
       "ID": "brooklyn_2",
@@ -27282,7 +27293,7 @@
       "Name": "Virus",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106488
+      "UsersEstimate": 106489
     },
     {
       "ID": "cac_29",
@@ -30474,7 +30485,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106488
+      "UsersEstimate": 106489
     },
     {
       "ID": "halloween_1",
@@ -30610,7 +30621,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 106488
+      "UsersEstimate": 106489
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -31570,7 +31581,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 141984
+      "UsersEstimate": 141985
     },
     {
       "ID": "no_turning_back",
@@ -31578,7 +31589,7 @@
       "Name": "No Turning Back",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 141984
+      "UsersEstimate": 141985
     },
     {
       "ID": "orange_1",
@@ -36466,7 +36477,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 141984
+      "UsersEstimate": 141985
     },
     {
       "ID": "you_shall_not_pass",
@@ -36481,22 +36492,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1774798,
+      "Progressed": 1774810,
       "Completed": 694
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1774798,
+      "Progressed": 1774810,
       "Completed": 111
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2023-11-15T20:57:40.8679496+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:57:36.0411787+00:00",
+  "LastChanged": "2023-11-16T02:20:29.9989285+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:32:09.247582+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.2182153+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:45:45.4588623+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:57:36.0531792+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:20:29.9989301+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:32:09.2596172+00:00"
 }

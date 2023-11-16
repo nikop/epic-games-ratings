@@ -14,9 +14,9 @@
 | Onk Boga III | 52.00% | ~146 |
 | Danka, Lagga, Wonwon | 45.00% | ~126 |
 | Onk Boga IV | 45.00% | ~126 |
-| Blunga 10 | 43.00% | ~121 |
+| Blunga 10 | 44.00% | ~124 |
 | BumBum | 43.00% | ~121 |
-| Onk Boga V | 39.00% | ~110 |
+| Onk Boga V | 40.00% | ~112 |
 | Onk Boga VI | 37.00% | ~104 |
 | IQ62 | 37.00% | ~104 |
 | 1978 | 36.00% | ~101 |

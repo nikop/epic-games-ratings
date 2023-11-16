@@ -5757,9 +5757,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1557377,
+  "EOS_Progressed": 1557378,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 3767,
+  "EOS_NewPlayers": 3760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29697,6 +29697,11 @@
       "Time": "2023-11-16T01:52:30.53074+00:00",
       "NumProgressed": 1557377,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-16T02:27:20.6950856+00:00",
+      "NumProgressed": 1557378,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 38,
@@ -29788,7 +29793,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 311475
+      "UsersEstimate": 311476
     },
     {
       "ID": "Highlander",
@@ -29940,7 +29945,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 669672
+      "UsersEstimate": 669673
     },
     {
       "ID": "ToughNut",
@@ -30011,7 +30016,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1557377,
+      "Progressed": 1557378,
       "Completed": 68
     }
   ],
@@ -30019,8 +30024,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-16T01:47:04.5561315+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:52:30.5307396+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:27:20.6950852+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.2747632+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:47:04.5561319+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:52:30.5308679+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:21:47.6994478+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:27:20.6951933+00:00"
 }

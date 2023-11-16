@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 687,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 67,
@@ -924,7 +924,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227238,
+  "EOS_Progressed": 227239,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
@@ -23839,6 +23839,11 @@
       "Time": "2023-11-16T01:57:17.3098577+00:00",
       "NumProgressed": 227238,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-16T02:31:50.7992355+00:00",
+      "NumProgressed": 227239,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -23890,7 +23895,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20451
+      "UsersEstimate": 20452
     },
     {
       "ID": "ACH_BASE_16",
@@ -23906,7 +23911,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20451
+      "UsersEstimate": 20452
     },
     {
       "ID": "ACH_BASE_18",
@@ -23914,7 +23919,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20451
+      "UsersEstimate": 20452
     },
     {
       "ID": "ACH_BASE_19",
@@ -24114,14 +24119,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20451
+      "UsersEstimate": 20452
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227238,
+      "Progressed": 227239,
       "Completed": 5
     }
   ],
@@ -24129,8 +24134,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:57:17.3098574+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:31:50.7992353+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:28.6379322+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:46:37.2901311+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:57:17.3099744+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:21:21.3089368+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:31:50.7993538+00:00"
 }

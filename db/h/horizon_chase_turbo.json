@@ -2863,9 +2863,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 1074883,
+  "EOS_Progressed": 1074886,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 2837,
+  "EOS_NewPlayers": 2836,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26753,6 +26753,11 @@
       "Time": "2023-11-16T01:57:00.4584799+00:00",
       "NumProgressed": 1074883,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-11-16T02:31:34.4684805+00:00",
+      "NumProgressed": 1074886,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 37,
@@ -26764,7 +26769,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 365460
+      "UsersEstimate": 365461
     },
     {
       "ID": "CompleteAustralia",
@@ -26780,7 +26785,7 @@
       "Name": "Driver from Ipanema",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "CompleteCalifornia",
@@ -26964,7 +26969,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 967395
+      "UsersEstimate": 967397
     },
     {
       "ID": "GetLotsOfScore",
@@ -26980,7 +26985,7 @@
       "Name": "Supersonic",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "InstallAllUpgrades",
@@ -26996,7 +27001,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 505195
+      "UsersEstimate": 505196
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -27020,7 +27025,7 @@
       "Name": "Marathonist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "UnlockCar",
@@ -27028,7 +27033,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 677176
+      "UsersEstimate": 677178
     },
     {
       "ID": "WinBySmallDifference",
@@ -27044,7 +27049,7 @@
       "Name": "Living Legend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "WinRaceWithoutColliding",
@@ -27059,15 +27064,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1074883,
+      "Progressed": 1074886,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-15T02:20:13.1871973+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:57:00.4584793+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:31:34.46848+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.6159115+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:46:27.4026901+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:57:00.4585998+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:21:11.683896+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:31:34.4685915+00:00"
 }

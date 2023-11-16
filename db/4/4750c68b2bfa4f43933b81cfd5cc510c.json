@@ -1701,9 +1701,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 52880,
+  "EOS_Progressed": 52881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8216,6 +8216,11 @@
       "Time": "2023-11-16T01:53:15.8005122+00:00",
       "NumProgressed": 52880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T02:28:04.9864111+00:00",
+      "NumProgressed": 52881,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -8260,7 +8265,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 28026
+      "UsersEstimate": 28027
     },
     {
       "ID": "achievement_14",
@@ -8276,7 +8281,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 25911
+      "UsersEstimate": 25912
     },
     {
       "ID": "achievement_16",
@@ -8284,7 +8289,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 22738
+      "UsersEstimate": 22739
     },
     {
       "ID": "achievement_17",
@@ -8292,7 +8297,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 31728
+      "UsersEstimate": 31729
     },
     {
       "ID": "achievement_18",
@@ -8332,7 +8337,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 44419
+      "UsersEstimate": 44420
     },
     {
       "ID": "achievement_22",
@@ -8340,7 +8345,7 @@
       "Name": "Level Up!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 28555
+      "UsersEstimate": 28556
     },
     {
       "ID": "achievement_23",
@@ -8348,7 +8353,7 @@
       "Name": "Graduation Day",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 25911
+      "UsersEstimate": 25912
     },
     {
       "ID": "achievement_24",
@@ -8516,7 +8521,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 31199
+      "UsersEstimate": 31200
     },
     {
       "ID": "achievement_7",
@@ -8532,7 +8537,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 39131
+      "UsersEstimate": 39132
     },
     {
       "ID": "achievement_9",
@@ -8547,7 +8552,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 52880,
+      "Progressed": 52881,
       "Completed": 0
     }
   ],
@@ -8555,8 +8560,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-15T19:59:16.0039953+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:53:15.8005118+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:28:04.9864106+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.8674427+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:47:21.8887573+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:53:15.8005632+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:22:05.320723+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:28:04.9864566+00:00"
 }

@@ -7,16 +7,16 @@ Number of Ratings: 87  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Dealmaker | 73.00% | ~303,903 |
-| Full garage | 61.00% | ~253,946 |
+| Full garage | 61.00% | ~253,947 |
 | To the eyeballs! | 51.00% | ~212,316 |
-| Individual delivery | 47.00% | ~195,663 |
-| Non-Stop | 45.00% | ~187,337 |
+| Individual delivery | 47.00% | ~195,664 |
+| Non-Stop | 45.00% | ~187,338 |
 | Juggler | 36.00% | ~149,870 |
 | Forgot something | 35.00% | ~145,707 |
 | Close call! | 30.00% | ~124,892 |
-| Get out my way | 28.00% | ~116,565 |
-| Common cause | 26.00% | ~108,239 |
-| Critical care | 26.00% | ~108,239 |
+| Get out my way | 28.00% | ~116,566 |
+| Common cause | 26.00% | ~108,240 |
+| Critical care | 26.00% | ~108,240 |
 | Mega-railroad | 23.00% | ~95,750 |
 | Upgrade complete | 23.00% | ~95,750 |
 | Just in time! | 18.00% | ~74,935 |
@@ -29,9 +29,9 @@ Number of Ratings: 87  (23.09.2022)
 | The Tortoise | 12.00% | ~49,957 |
 | Beginner | 11.00% | ~45,794 |
 | Without a lunch break | 11.00% | ~45,794 |
-| One way | 10.00% | ~41,630 |
-| Relocation | 10.00% | ~41,630 |
-| Industrial Age | 9.00% | ~37,467 |
+| One way | 10.00% | ~41,631 |
+| Relocation | 10.00% | ~41,631 |
+| Industrial Age | 9.00% | ~37,468 |
 | Just One More Valley | 9.00% | ~37,408 |
 | Prick of conscience | 8.00% | ~33,304 |
 | Missed it! | 7.00% | ~29,141 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~416 |
 | World Zapper | 0.10% | ~416 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,305 (Ranked 44)  
+Progressed: 416,306 (Ranked 44)  
 Completed: 22 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 22 (0.01%) (Ranked 331)
 | 2023-11-13 | 415,819 | 21 |
 | 2023-11-14 | 416,040 | 21 |
 | 2023-11-15 | 416,289 | 22 |
-| 2023-11-16 | 416,305 | 22 |
+| 2023-11-16 | 416,306 | 22 |
 ## Awards
 Max (Challenging Puzzles): 884  (Ranked 161)  
 Sum: 1,776 (Ranked 218)  

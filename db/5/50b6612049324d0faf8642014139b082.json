@@ -563,9 +563,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_11",
@@ -770,8 +770,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:57:17.5110301+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:31:51.1482128+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:48:19.1438142+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:57:17.5110487+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:23:02.7475631+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:31:51.1482289+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5335,
+  "EOS_Progressed": 5336,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3365,6 +3365,11 @@
       "Time": "2023-11-16T01:57:03.2359569+00:00",
       "NumProgressed": 5335,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T02:31:37.2019489+00:00",
+      "NumProgressed": 5336,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3585,7 +3590,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -3617,7 +3622,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -3648,7 +3653,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5335,
+      "Progressed": 5336,
       "Completed": 6
     }
   ],
@@ -3656,8 +3661,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:57:03.2359567+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:31:37.2019486+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:47:36.525984+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:57:03.2360108+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:22:20.2930582+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:31:37.2019873+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9494,
+  "EOS_Progressed": 9501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1349,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5479,6 +5479,11 @@
       "Time": "2023-11-16T01:51:46.5270759+00:00",
       "NumProgressed": 9494,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T02:26:37.1057609+00:00",
+      "NumProgressed": 9501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -5507,7 +5512,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LEVEL188",
@@ -5547,7 +5552,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -5555,7 +5560,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -5563,7 +5568,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_THEEND",
@@ -5587,7 +5592,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2470
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -5595,7 +5600,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -5603,7 +5608,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -5682,14 +5687,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 9494,
+      "Progressed": 9501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:51:46.5270753+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:26:37.1057604+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:19.8590325+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:47:49.8679162+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:51:46.5271224+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:22:33.459704+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:26:37.1058046+00:00"
 }

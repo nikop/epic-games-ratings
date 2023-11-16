@@ -1445,9 +1445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428995,
+  "EOS_Progressed": 428996,
   "EOS_Completed": 545,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15100,6 +15100,11 @@
       "Time": "2023-11-15T21:03:29.8766354+00:00",
       "NumProgressed": 428995,
       "NumCompleted": 545
+    },
+    {
+      "Time": "2023-11-16T02:26:24.9897944+00:00",
+      "NumProgressed": 428996,
+      "NumCompleted": 545
     }
   ],
   "TotalAchievements": 41,
@@ -15127,7 +15132,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257397
+      "UsersEstimate": 257398
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15167,7 +15172,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128698
+      "UsersEstimate": 128699
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -15191,7 +15196,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257397
+      "UsersEstimate": 257398
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15223,7 +15228,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132988
+      "UsersEstimate": 132989
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -15279,7 +15284,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407545
+      "UsersEstimate": 407546
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15295,7 +15300,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308876
+      "UsersEstimate": 308877
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15303,7 +15308,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158728
+      "UsersEstimate": 158729
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -15311,7 +15316,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300296
+      "UsersEstimate": 300297
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -15327,7 +15332,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343196
+      "UsersEstimate": 343197
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15367,7 +15372,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141568
+      "UsersEstimate": 141569
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -15391,7 +15396,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240237
+      "UsersEstimate": 240238
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15407,7 +15412,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145858
+      "UsersEstimate": 145859
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -15423,7 +15428,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132988
+      "UsersEstimate": 132989
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -15438,15 +15443,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428995,
+      "Progressed": 428996,
       "Completed": 545
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:51:34.2565887+00:00",
+  "LastChanged_Achievements": "2023-11-16T02:26:24.989794+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:23.5883235+00:00",
-  "LastUpdate_Ratings": "2023-11-16T01:46:41.5724069+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:51:34.2566584+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:21:25.4240076+00:00",
+  "LastUpdate_Achievements": "2023-11-16T02:26:24.9898702+00:00"
 }
