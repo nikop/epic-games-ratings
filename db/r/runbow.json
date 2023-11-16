@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251318,
+  "EOS_Progressed": 251320,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19092,6 +19092,11 @@
       "Time": "2023-11-16T13:15:30.0215254+00:00",
       "NumProgressed": 251318,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T14:08:46.0630851+00:00",
+      "NumProgressed": 251320,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19199,7 +19204,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45237
+      "UsersEstimate": 45238
     },
     {
       "ID": "curator",
@@ -19279,7 +19284,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133199
+      "UsersEstimate": 133200
     },
     {
       "ID": "indegestible",
@@ -19319,7 +19324,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20105
+      "UsersEstimate": 20106
     },
     {
       "ID": "lockupLockdown",
@@ -19343,7 +19348,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125659
+      "UsersEstimate": 125660
     },
     {
       "ID": "notScared",
@@ -19423,7 +19428,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32671
+      "UsersEstimate": 32672
     },
     {
       "ID": "treeMedalist",
@@ -19470,7 +19475,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251318,
+      "Progressed": 251320,
       "Completed": 6
     }
   ],
@@ -19478,8 +19483,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:15:30.0215251+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:08:46.0630847+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:06:07.7404652+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:15:30.0216272+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:59:08.0220369+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:08:46.0632019+00:00"
 }

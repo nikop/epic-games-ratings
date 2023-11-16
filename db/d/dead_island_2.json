@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewPlayers": 33,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6573,10 +6573,10 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 719142,
+  "EOS_Progressed": 719159,
   "EOS_Completed": 2394,
-  "EOS_NewPlayers": 3735,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 3725,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30568,6 +30568,11 @@
       "Time": "2023-11-16T13:12:08.3913452+00:00",
       "NumProgressed": 719142,
       "NumCompleted": 2394
+    },
+    {
+      "Time": "2023-11-16T14:05:05.4405479+00:00",
+      "NumProgressed": 719159,
+      "NumCompleted": 2394
     }
   ],
   "TotalAchievements": 51,
@@ -30739,7 +30744,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     },
     {
       "ID": "ach_impressive_aim",
@@ -30915,7 +30920,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7191
+      "UsersEstimate": 7192
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30953,9 +30958,9 @@
       "ID": "ach_gardening_tools",
       "SetID": "344c43k",
       "Name": "Lawn and Order",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_pork_chops",
@@ -30986,13 +30991,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719142,
+      "Progressed": 719159,
       "Completed": 2394
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44684,
+      "Progressed": 44701,
       "Completed": 36544
     }
   ],
@@ -31000,8 +31005,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-16T08:58:18.7571572+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:12:08.3913447+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:05:05.4405476+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:05:07.2083159+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:12:08.391474+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:58:14.0256472+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:05:05.4406698+00:00"
 }

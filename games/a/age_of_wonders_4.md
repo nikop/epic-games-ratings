@@ -24,16 +24,17 @@ Rating: 4.61 (Ranked 385)
 | In a Liege of Your Own | 0.70% | ~38 |
 | Intimidation Tactics | 0.70% | ~38 |
 | Sehiran Oasis | 0.70% | ~38 |
+| Digging for Treasure | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
-| Digging for Treasure | 0.50% | ~27 |
 | My Final Form | 0.50% | ~27 |
 | Impenetrable Fortress | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
 | Tipping the Scales | 0.50% | ~27 |
 | Mighty Hoard | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
+| Crimson Caldera | 0.40% | ~22 |
 | Preparation Is Everything | 0.40% | ~22 |
 | Fiery Friend | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
@@ -42,7 +43,6 @@ Rating: 4.61 (Ranked 385)
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | Arch Mage | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
-| Crimson Caldera | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
 | Pruning for Progress | 0.30% | ~16 |
 | God Emperor | 0.20% | ~11 |

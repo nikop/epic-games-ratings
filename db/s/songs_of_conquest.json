@@ -5,7 +5,7 @@
   "Ranking_Rating": 231,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 126,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -532,6 +532,11 @@
     {
       "Time": "2023-11-16T13:12:56.3162626+00:00",
       "NumProgressed": 52,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T14:05:49.9828124+00:00",
+      "NumProgressed": 54,
       "NumCompleted": 0
     }
   ],
@@ -687,9 +692,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FlameAttackKillCount",
@@ -823,9 +828,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -871,9 +876,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WielderLevel2",
@@ -976,15 +981,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:12:56.3162623+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:05:49.9828122+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:06:06.2538746+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:12:56.3162947+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:59:06.611236+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:05:49.9828427+00:00"
 }

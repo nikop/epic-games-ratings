@@ -15,10 +15,10 @@
 | Bladesmith | 5.00% | ~4 |
 | The Guardian of Fire | 5.00% | ~4 |
 | Sommelier | 4.00% | ~3 |
+| Let Me Solo Them | 4.00% | ~3 |
 | Explorer | 4.00% | ~3 |
 | Sovereignty of Irons | 4.00% | ~3 |
 | A Sandwyrm's Hoard | 4.00% | ~3 |
-| Let Me Solo Them | 3.00% | ~2 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |

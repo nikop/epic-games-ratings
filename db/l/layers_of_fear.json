@@ -465,9 +465,9 @@
       "ID": "dial_911",
       "SetID": "f2im8d",
       "Name": "It was worth a try",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "do_not_look",
@@ -777,9 +777,9 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:12:29.897556+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:05:25.5439409+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:06:35.7686324+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:12:29.8975896+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:59:33.0642289+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:05:25.5439791+00:00"
 }

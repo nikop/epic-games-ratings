@@ -2364,9 +2364,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43866,
+  "EOS_Progressed": 43867,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8749,6 +8749,11 @@
       "Time": "2023-11-16T13:12:05.7008656+00:00",
       "NumProgressed": 43866,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-16T14:05:03.2469276+00:00",
+      "NumProgressed": 43867,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8760,7 +8765,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27197
+      "UsersEstimate": 27198
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8816,7 +8821,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12282
+      "UsersEstimate": 12283
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -8968,7 +8973,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14914
+      "UsersEstimate": 14915
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9008,7 +9013,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21494
+      "UsersEstimate": 21495
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9024,7 +9029,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13598
+      "UsersEstimate": 13599
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -9048,7 +9053,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16230
+      "UsersEstimate": 16231
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9080,7 +9085,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16230
+      "UsersEstimate": 16231
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9200,7 +9205,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14914
+      "UsersEstimate": 14915
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -9287,15 +9292,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43866,
+      "Progressed": 43867,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-15T01:46:36.0216284+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:12:05.7008652+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:05:03.2469272+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:07:14.4596808+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:12:05.7009368+00:00"
+  "LastUpdate_Ratings": "2023-11-16T14:00:07.5641167+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:05:03.2469916+00:00"
 }

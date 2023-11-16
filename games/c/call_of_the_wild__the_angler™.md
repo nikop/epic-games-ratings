@@ -23,13 +23,13 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.20% | ~13 |
 | Marathon | 0.20% | ~13 |
 | Diamond in the Rough | 0.20% | ~13 |
+| No Fin left to give | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~7 |
 | Hook, Line and Sinker | 0.10% | ~7 |
 | Head for Heights | 0.10% | ~7 |
 | The Beetles | 0.10% | ~7 |
 | Lake Me up Before You Go Go | 0.10% | ~7 |
-| No Fin left to give | 0.10% | ~7 |
 | Taylor Made | 0.10% | ~7 |
 | Big Fish Small Pond | 0.10% | ~7 |
 | Golden Ridge Ranger | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,538 (Ranked 179)  
+Progressed: 6,539 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 6,510 | 0 |
 | 2023-11-14 | 6,516 | 0 |
 | 2023-11-15 | 6,530 | 0 |
-| 2023-11-16 | 6,538 | 0 |
+| 2023-11-16 | 6,539 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 462)  
 Sum: 195 (Ranked 401)  

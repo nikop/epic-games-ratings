@@ -1,11 +1,11 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.35 (Ranked 1,038)  
+Rating: 3.35 (Ranked 1,039)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~513 |
+| It's Good to have Allies | 28.00% | ~514 |
 | Defenses Online | 25.00% | ~458 |
 | Facility Online | 21.00% | ~385 |
 | Corporal | 15.00% | ~275 |
@@ -44,7 +44,7 @@ Rating: 3.35 (Ranked 1,038)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,833 (Ranked 226)  
+Progressed: 1,834 (Ranked 226)  
 Completed: 1 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1 (0.05%) (Ranked 303)
 | 2023-11-13 | 1,822 | 1 |
 | 2023-11-14 | 1,830 | 1 |
 | 2023-11-15 | 1,831 | 1 |
-| 2023-11-16 | 1,833 | 1 |
+| 2023-11-16 | 1,834 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

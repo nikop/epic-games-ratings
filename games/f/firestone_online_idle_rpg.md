@@ -5,14 +5,14 @@ Rating: 4.12 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,192 |
-| World Map | 79.00% | ~1,862 |
-| Temple of Eternals | 57.00% | ~1,343 |
+| Victor | 93.00% | ~2,193 |
+| World Map | 79.00% | ~1,863 |
+| Temple of Eternals | 57.00% | ~1,344 |
 | Prestigious | 54.00% | ~1,273 |
 | Fellowship Power | 42.00% | ~990 |
-| Guild Power | 25.00% | ~589 |
+| Guild Power | 25.00% | ~590 |
 | Prestigious x10 | 22.00% | ~519 |
-| The game is on | 20.00% | ~471 |
+| The game is on | 20.00% | ~472 |
 | Exotic Merchant | 18.00% | ~424 |
 | Dragon Clicker | 17.00% | ~401 |
 | Full Party | 16.00% | ~377 |
@@ -22,11 +22,11 @@ Rating: 4.12 (Ranked 957)
 | Enlightenment | 15.00% | ~354 |
 | Hero inspection | 15.00% | ~354 |
 | Lieutenant | 14.00% | ~330 |
-| Milestone collector | 13.00% | ~306 |
-| Mysterious Rock | 13.00% | ~306 |
-| Natural Talent | 13.00% | ~306 |
-| Superior | 13.00% | ~306 |
-| The Unstoppable | 13.00% | ~306 |
+| Milestone collector | 13.00% | ~307 |
+| Mysterious Rock | 13.00% | ~307 |
+| Natural Talent | 13.00% | ~307 |
+| Superior | 13.00% | ~307 |
+| The Unstoppable | 13.00% | ~307 |
 | Scientist | 12.00% | ~283 |
 | Doing My Part | 11.00% | ~259 |
 | Hunter | 11.00% | ~259 |
@@ -77,11 +77,11 @@ Rating: 4.12 (Ranked 957)
 | Tree of Life | 1.00% | ~24 |
 | Beast War Machines | 0.80% | ~19 |
 | Silverwood liberator | 0.80% | ~19 |
-| Ultimate War Machines | 0.70% | ~16 |
+| Ultimate War Machines | 0.70% | ~17 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,357 (Ranked 215)  
+Progressed: 2,358 (Ranked 215)  
 Completed: 2 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2 (0.08%) (Ranked 289)
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
-| 2023-11-16 | 2,357 | 2 |
+| 2023-11-16 | 2,358 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

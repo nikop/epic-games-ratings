@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158480,
+  "EOS_Progressed": 158486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15861,6 +15861,11 @@
       "Time": "2023-11-16T13:12:13.936319+00:00",
       "NumProgressed": 158480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T14:05:10.2118852+00:00",
+      "NumProgressed": 158486,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15944,7 +15949,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -16118,9 +16123,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 951
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -16239,21 +16244,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158063,
+      "Progressed": 158069,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158480,
+      "Progressed": 158486,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:12:13.9363187+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:05:10.2118849+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:04:07.6328929+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:12:13.9364089+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:57:21.4573991+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:05:10.2119693+00:00"
 }

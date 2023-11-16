@@ -25,11 +25,11 @@
 | A Slice of Life | 10.00% | ~7 |
 | Debut | 10.00% | ~7 |
 | The art of movement | 10.00% | ~7 |
+| Whispers long forgotten | 9.00% | ~6 |
 | Another perspective | 7.00% | ~5 |
 | Sound Bite | 7.00% | ~5 |
 | Heavy Burden | 7.00% | ~5 |
 | Lights! Camera! Action! | 7.00% | ~5 |
-| Whispers long forgotten | 7.00% | ~5 |
 | Casting Finished | 6.00% | ~4 |
 | We Are Not Alone | 6.00% | ~4 |
 | Fisherman | 4.00% | ~3 |
@@ -39,13 +39,13 @@
 | The Big Picture | 1.00% | ~1 |
 | I remember It Like Was Yesterday | 1.00% | ~1 |
 | Dark correspondence | 1.00% | ~1 |
+| It was worth a try | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Se7en Seas | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |
 | A Mosaic of Misery | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
-| It was worth a try | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | Immortalized in my heart | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |

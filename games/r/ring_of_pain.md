@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.30% | ~719 |
 | Goodbye, Frog Friend | 0.30% | ~719 |
 | A Donation | 0.30% | ~719 |
+| Deflection | 0.30% | ~719 |
 | A Quick Escape | 0.30% | ~719 |
 | Uncharted Territory | 0.30% | ~719 |
 | Explorer | 0.30% | ~719 |
@@ -45,7 +46,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spine Breaker | 0.20% | ~480 |
 | Shootout | 0.20% | ~480 |
 | C-C-Combo | 0.20% | ~480 |
-| Deflection | 0.20% | ~480 |
 | Stone Touch | 0.20% | ~480 |
 | Doing Time | 0.20% | ~480 |
 | Toxic | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,759 (Ranked 61)  
+Progressed: 239,761 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 288 (0.12%) (Ranked 272)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,759 | 288 |
+| 2023-11-16 | 239,761 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,675 (Ranked 83)  

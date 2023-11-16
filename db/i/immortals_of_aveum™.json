@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1278,6 +1278,11 @@
       "Time": "2023-11-16T04:08:58.1943068+00:00",
       "NumProgressed": 276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T14:08:15.546834+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1290,7 +1295,7 @@
       "Name": "Unforeseen",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_10",
@@ -1314,7 +1319,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_13",
@@ -1322,7 +1327,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_14",
@@ -1352,9 +1357,9 @@
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_18",
@@ -1378,7 +1383,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_20",
@@ -1434,15 +1439,15 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_37",
@@ -1456,9 +1461,9 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_4",
@@ -1466,7 +1471,7 @@
       "Name": "No More Names",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_41",
@@ -1506,7 +1511,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_46",
@@ -1522,7 +1527,7 @@
       "Name": "Enlisted",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_49",
@@ -1530,7 +1535,7 @@
       "Name": "Soldier",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_5",
@@ -1538,7 +1543,7 @@
       "Name": "Initiate",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_50",
@@ -1586,7 +1591,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_60",
@@ -1632,9 +1637,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_7",
@@ -1650,7 +1655,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_9",
@@ -1665,7 +1670,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 1
     }
   ],
@@ -1673,8 +1678,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:14:57.0922967+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:08:15.5468336+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:04:45.6648331+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:14:57.0923355+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:57:55.6737458+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:08:15.5468741+00:00"
 }

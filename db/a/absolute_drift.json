@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 719,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 8,
@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550808,
+  "EOS_Progressed": 1550816,
   "EOS_Completed": 728,
-  "EOS_NewPlayers": 1311,
+  "EOS_NewPlayers": 1312,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24382,6 +24382,11 @@
       "Time": "2023-11-16T13:12:43.4110786+00:00",
       "NumProgressed": 1550808,
       "NumCompleted": 728
+    },
+    {
+      "Time": "2023-11-16T14:05:38.0855905+00:00",
+      "NumProgressed": 1550816,
+      "NumCompleted": 728
     }
   ],
   "TotalAchievements": 20,
@@ -24489,7 +24494,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155081
+      "UsersEstimate": 155082
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -24537,7 +24542,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77540
+      "UsersEstimate": 77541
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -24552,15 +24557,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1550808,
+      "Progressed": 1550816,
       "Completed": 728
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-16T13:12:43.4110781+00:00",
+  "LastChanged_Achievements": "2023-11-16T14:05:38.0855899+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:30.6974895+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:06:07.3288378+00:00",
-  "LastUpdate_Achievements": "2023-11-16T13:12:43.4111862+00:00"
+  "LastUpdate_Ratings": "2023-11-16T13:59:07.5944905+00:00",
+  "LastUpdate_Achievements": "2023-11-16T14:05:38.0857639+00:00"
 }

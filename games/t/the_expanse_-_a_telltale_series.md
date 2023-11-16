@@ -13,6 +13,7 @@ Rating: 4.56 (Ranked 489)
 | Impossible Objects | 4.00% | ~600 |
 | Safe Cracker | 4.00% | ~38 |
 | Zen Master | 4.00% | ~38 |
+| Madame Undersecretary | 4.00% | ~38 |
 | Stogie for Fogey | 3.00% | ~450 |
 | Drug Gifter | 3.00% | ~450 |
 | Spore Taste | 3.00% | ~450 |
@@ -21,7 +22,6 @@ Rating: 4.56 (Ranked 489)
 | Call it Even | 3.00% | ~450 |
 | Captain Drummer | 3.00% | ~450 |
 | Keep Arjun in Check | 3.00% | ~29 |
-| Madame Undersecretary | 3.00% | ~29 |
 | Data Archivist | 2.00% | ~300 |
 | Bottoms up! | 2.00% | ~300 |
 | Thorston Mayer | 2.00% | ~300 |
