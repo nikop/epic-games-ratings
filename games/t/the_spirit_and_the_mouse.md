@@ -10,8 +10,8 @@
 | Lightbulbs Collector | 79.00% | ~62 |
 | Energy Collector | 76.00% | ~59 |
 | East Street Energy | 53.00% | ~41 |
+| Lightbulbs Expert | 47.00% | ~37 |
 | Energy Expert | 46.00% | ~36 |
-| Lightbulbs Expert | 46.00% | ~36 |
 | That's one way to travel | 44.00% | ~34 |
 | The Old Man and the Café | 40.00% | ~31 |
 | South Town Energy | 33.00% | ~26 |
@@ -24,7 +24,7 @@
 | Cartographer | 22.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~15 |
-| The Ghost and the Lamps | 18.00% | ~14 |
+| The Ghost and the Lamps | 19.00% | ~15 |
 | The Woman and the Pizzeria | 18.00% | ~14 |
 | West Residence Energy | 17.00% | ~13 |
 | West Residence Lightbulbs | 15.00% | ~12 |

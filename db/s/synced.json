@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1077,9 +1077,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66748,
+  "EOS_Progressed": 66751,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9347,6 +9347,11 @@
       "Time": "2023-11-16T15:03:26.8634368+00:00",
       "NumProgressed": 66748,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-16T16:03:50.2504155+00:00",
+      "NumProgressed": 66751,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9359,7 +9364,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22694
+      "UsersEstimate": 22695
     },
     {
       "ID": "10",
@@ -9367,7 +9372,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "11",
@@ -9375,7 +9380,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "12",
@@ -9383,7 +9388,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "13",
@@ -9423,7 +9428,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11347
+      "UsersEstimate": 11348
     },
     {
       "ID": "3",
@@ -9431,7 +9436,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8677
+      "UsersEstimate": 8678
     },
     {
       "ID": "4",
@@ -9486,7 +9491,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66748,
+      "Progressed": 66751,
       "Completed": 34
     }
   ],
@@ -9494,8 +9499,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-15T21:57:50.578004+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:03:26.8634365+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:03:50.250415+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:58:25.5518439+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:03:26.8634916+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:58:52.8856331+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:03:50.2504827+00:00"
 }

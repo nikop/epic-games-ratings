@@ -10,7 +10,7 @@
 | Recruit | 67.00% | ~856 |
 | Search and Rescue | 66.00% | ~843 |
 | Quarian Ally | 62.00% | ~792 |
-| Medal of Heroism | 58.00% | ~741 |
+| Medal of Heroism | 59.00% | ~754 |
 | Honorarium of Corporate Service | 58.00% | ~741 |
 | Medal of Exploration II | 52.00% | ~665 |
 | Turian Ally | 52.00% | ~665 |

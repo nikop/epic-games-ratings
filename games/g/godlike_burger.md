@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~165,396 |
-| FIRST BLOOD | 40.00% | ~147,019 |
-| KEVIN! | 30.00% | ~110,264 |
-| JACK OF ALL TRADES | 23.00% | ~84,536 |
-| CRIMINAL | 20.00% | ~73,509 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~40,430 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~33,079 |
-| HONORS STUDENT | 8.00% | ~29,404 |
-| BUTCHER | 6.00% | ~22,053 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,377 |
-| RAMBO | 5.00% | ~18,377 |
-| HELL'S KITCHEN | 4.00% | ~14,702 |
-| CELEBRITY | 3.00% | ~11,026 |
-| MARTYR | 3.00% | ~11,026 |
-| GRATITUDE | 2.00% | ~7,351 |
-| PATTY-KILLER | 2.00% | ~7,351 |
-| EXPERIMENTALIST | 1.00% | ~3,675 |
-| GOURMET | 1.00% | ~3,675 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,675 |
-| PRUDENT | 1.00% | ~3,675 |
+| MASTER CHEF | 45.00% | ~165,411 |
+| FIRST BLOOD | 40.00% | ~147,032 |
+| KEVIN! | 30.00% | ~110,274 |
+| JACK OF ALL TRADES | 23.00% | ~84,543 |
+| CRIMINAL | 20.00% | ~73,516 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~40,434 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~33,082 |
+| HONORS STUDENT | 8.00% | ~29,406 |
+| BUTCHER | 6.00% | ~22,055 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,379 |
+| RAMBO | 5.00% | ~18,379 |
+| HELL'S KITCHEN | 4.00% | ~14,703 |
+| CELEBRITY | 3.00% | ~11,027 |
+| MARTYR | 3.00% | ~11,027 |
+| GRATITUDE | 2.00% | ~7,352 |
+| PATTY-KILLER | 2.00% | ~7,352 |
+| EXPERIMENTALIST | 1.00% | ~3,676 |
+| GOURMET | 1.00% | ~3,676 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,676 |
+| PRUDENT | 1.00% | ~3,676 |
 | SCATTERBRAIN | 0.70% | ~2,573 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,205 |
 | TASTE UNTASTY | 0.50% | ~1,838 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 567)
 | MISTER ALL THUMBS | 0.10% | ~368 |
 | TRAVELER | 0.10% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367,547 (Ranked 45)  
+Progressed: 367,580 (Ranked 45)  
 Completed: 36 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 36 (0.01%) (Ranked 331)
 | 2023-11-13 | 365,850 | 36 |
 | 2023-11-14 | 366,458 | 36 |
 | 2023-11-15 | 367,125 | 36 |
-| 2023-11-16 | 367,547 | 36 |
+| 2023-11-16 | 367,580 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

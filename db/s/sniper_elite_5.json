@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -589,9 +589,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 3869,
+  "EOS_Progressed": 3871,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7924,6 +7924,11 @@
       "Time": "2023-11-16T11:05:18.9057345+00:00",
       "NumProgressed": 3869,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-16T16:05:41.729136+00:00",
+      "NumProgressed": 3871,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7973,9 +7978,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 542
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8015,7 +8020,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8063,7 +8068,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8071,7 +8076,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8079,7 +8084,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8103,7 +8108,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8151,7 +8156,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8239,7 +8244,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -8247,7 +8252,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8255,7 +8260,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -8271,7 +8276,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8287,7 +8292,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -8295,7 +8300,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -8303,7 +8308,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8311,7 +8316,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8343,7 +8348,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8399,7 +8404,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8502,13 +8507,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3820,
+      "Progressed": 3822,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3869,
+      "Progressed": 3871,
       "Completed": 11
     }
   ],
@@ -8516,8 +8521,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-15T20:58:34.9390123+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:05.2534836+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:05:41.7291356+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:58:58.903742+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:05.2535672+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:59:31.066613+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:05:41.7292345+00:00"
 }

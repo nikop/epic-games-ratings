@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 657,
   "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 276,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -587,10 +587,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 867,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-11-16T15:57:42.9124708+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 878,
+      "NumberOfAwardsMax": 410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 867,
+  "NumberOfAwards": 878,
   "NumberOfAwardsMax": 410,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -616,7 +622,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 37
+      "Count": 41
     },
     {
       "Text": "This game has Diverse Characters",
@@ -634,7 +640,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 44
     },
     {
       "Text": "This game has a Kind Community",
@@ -679,8 +685,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-16T14:57:25.3953041+00:00",
+  "LastChanged": "2023-11-16T15:57:42.9124706+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:57.3999056+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:57:25.3953045+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:06:03.7516005+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:57:42.9124711+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:06:47.2758239+00:00"
 }

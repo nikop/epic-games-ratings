@@ -15,13 +15,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.60% | ~5,381 |
 | All the President's Men | 0.60% | ~153 |
 | Arachnophobia | 0.60% | ~153 |
-| The Quick and the Dead | 0.50% | ~4,484 |
-| Life of the Road | 0.50% | ~4,484 |
-| The Hermit | 0.50% | ~4,484 |
-| The Lovers | 0.50% | ~4,484 |
-| The Wheel of Fortune | 0.50% | ~4,484 |
-| True Warrior | 0.50% | ~4,484 |
-| Legend of The Afterlife | 0.50% | ~4,484 |
+| The Quick and the Dead | 0.50% | ~4,485 |
+| Life of the Road | 0.50% | ~4,485 |
+| The Hermit | 0.50% | ~4,485 |
+| The Lovers | 0.50% | ~4,485 |
+| The Wheel of Fortune | 0.50% | ~4,485 |
+| True Warrior | 0.50% | ~4,485 |
+| Legend of The Afterlife | 0.50% | ~4,485 |
 | Spin Doctor | 0.50% | ~128 |
 | Bushido and Chill | 0.40% | ~3,588 |
 | To Protect and Serve | 0.40% | ~3,588 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,900 (Ranked 15)  
+Progressed: 896,908 (Ranked 15)  
 Completed: 2,780 (0.31%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,10 +284,10 @@ Completed: 2,780 (0.31%) (Ranked 230)
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
 | 2023-11-15 | 896,820 | 2,778 |
-| 2023-11-16 | 896,900 | 2,780 |
+| 2023-11-16 | 896,908 | 2,780 |
 ## Awards
 Max (Character Customization): 105,592  (Ranked 9)  
-Sum: 354,137 (Ranked 10)  
+Sum: 354,207 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 20,899 |
 | This game is Highly Recommended | 20,055 |
 | This game has Amazing Storytelling | 19,945 |
-| This game is Extremely Fun | 19,685 |
+| This game is Extremely Fun | 19,755 |
 | This game has Amazing Characters | 19,543 |
 | This game is Relaxing | 18,796 |
 | This game has Quickly Understood Controls | 18,748 |
@@ -606,4 +606,4 @@ Diff (max vs sum): -1
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
 | 2023-11-14 | 4.64 | - | 105,471 | 352,694 |
 | 2023-11-15 | 4.64 | - | 105,592 | 353,529 |
-| 2023-11-16 | 4.64 | - | 105,592 | 354,137 |
+| 2023-11-16 | 4.64 | - | 105,592 | 354,207 |

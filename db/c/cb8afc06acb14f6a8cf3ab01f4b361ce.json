@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -341,9 +341,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 311803,
+  "EOS_Progressed": 311838,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5530,
+  "EOS_NewPlayers": 5526,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6191,6 +6191,11 @@
       "Time": "2023-11-16T15:05:57.1710755+00:00",
       "NumProgressed": 311803,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T16:06:40.2917145+00:00",
+      "NumProgressed": 311838,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6427,7 +6432,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "S30_DIAMOND",
@@ -6522,7 +6527,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 311803,
+      "Progressed": 311838,
       "Completed": 4
     }
   ],
@@ -6530,8 +6535,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-15T21:00:32.0735516+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:57.1710751+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:06:40.291714+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:57:25.1476544+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:57.1711276+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:57:42.597949+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:06:40.2917856+00:00"
 }

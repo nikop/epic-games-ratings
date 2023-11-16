@@ -1,12 +1,12 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 524)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,069 |
-| Greasy Palms | 42.00% | ~4,628 |
+| Legal Counsel | 46.00% | ~5,070 |
+| Greasy Palms | 42.00% | ~4,629 |
 | South American Connection | 26.00% | ~2,865 |
 | Life of the Party | 21.00% | ~2,314 |
 | Tommy Two-Wheels | 16.00% | ~1,763 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 524)
 | Done it All | 1.00% | ~110 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,020 (Ranked 155)  
+Progressed: 11,021 (Ranked 155)  
 Completed: 65 (0.59%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 65 (0.59%) (Ranked 184)
 | 2023-11-13 | 11,010 | 65 |
 | 2023-11-14 | 11,016 | 65 |
 | 2023-11-15 | 11,020 | 65 |
+| 2023-11-16 | 11,021 | 65 |
 ## Awards
 Max (Great Boss Battles): 105  (Ranked 351)  
 Sum: 105 (Ranked 439)  

@@ -51,8 +51,8 @@
 | Deal with it | 17.00% | ~21 |
 | Slimy... yet satisfying | 17.00% | ~21 |
 | Yeehaw!!! | 14.00% | ~17 |
+| Ancient Ruins of Dirty Feet | 13.00% | ~16 |
 | You're looking mozzare-hella good! | 12.00% | ~15 |
-| Ancient Ruins of Dirty Feet | 12.00% | ~15 |
 | Timber! | 11.00% | ~13 |
 | Free Of Chains | 11.00% | ~13 |
 | Grumpy Immortal | 10.00% | ~12 |

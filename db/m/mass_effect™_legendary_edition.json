@@ -3820,9 +3820,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 741
+      "UsersEstimate": 754
     },
     {
       "ID": "achievement_20",
@@ -4536,8 +4536,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:15.0248757+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:05:52.9630802+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:02:51.6032212+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:15.0250243+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:03:19.5804599+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:05:52.9632438+00:00"
 }

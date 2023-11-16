@@ -42,7 +42,7 @@
 | Dynamite, Treason and Coconuts | 0.00% | ~0 |
 | Save a Friend | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 610)  
+Progressed: 7 (Ranked 611)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |

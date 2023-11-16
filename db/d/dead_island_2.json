@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
@@ -6511,10 +6511,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11383,
       "NumberOfAwardsMax": 7466
+    },
+    {
+      "Time": "2023-11-16T15:58:56.281732+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11388,
+      "NumberOfAwardsMax": 7466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11383,
+  "NumberOfAwards": 11388,
   "NumberOfAwardsMax": 7466,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6570,13 +6576,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 466
+      "Count": 471
     }
   ],
-  "EOS_Progressed": 719184,
-  "EOS_Completed": 2395,
-  "EOS_NewPlayers": 3729,
-  "EOS_NewCompleters": 31,
+  "EOS_Progressed": 719210,
+  "EOS_Completed": 2397,
+  "EOS_NewPlayers": 3720,
+  "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30578,6 +30584,11 @@
       "Time": "2023-11-16T15:05:24.6782696+00:00",
       "NumProgressed": 719184,
       "NumCompleted": 2395
+    },
+    {
+      "Time": "2023-11-16T16:06:03.2085482+00:00",
+      "NumProgressed": 719210,
+      "NumCompleted": 2397
     }
   ],
   "TotalAchievements": 51,
@@ -30589,7 +30600,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30605,7 +30616,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_anger_management",
@@ -30645,7 +30656,7 @@
       "Name": "Bookworm",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_break_a_leg",
@@ -30709,7 +30720,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30733,7 +30744,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30741,7 +30752,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_hotel_california",
@@ -30789,7 +30800,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_knowledgeable",
@@ -30869,7 +30880,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "ach_survival_expert",
@@ -30965,7 +30976,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_pork_chops",
@@ -30996,22 +31007,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719184,
-      "Completed": 2395
+      "Progressed": 719210,
+      "Completed": 2397
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44726,
-      "Completed": 36544
+      "Progressed": 44752,
+      "Completed": 36545
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-16T08:58:18.7571572+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:24.6782693+00:00",
+  "LastChanged": "2023-11-16T15:58:56.2817318+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:06:03.208548+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:58:28.5749789+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:24.6784078+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:58:56.2817324+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:06:03.2087178+00:00"
 }

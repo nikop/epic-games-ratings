@@ -14,8 +14,8 @@
 | Cutie Poro | 67.00% | ~473 |
 | The Fire Below the Mountain | 64.00% | ~452 |
 | Moneyball | 61.00% | ~431 |
+| Iceborn | 58.00% | ~409 |
 | No Bites | 57.00% | ~402 |
-| Iceborn | 57.00% | ~402 |
 | Tear of Freedom | 54.00% | ~381 |
 | Boom Things | 54.00% | ~381 |
 | My Darkest Day | 50.00% | ~353 |

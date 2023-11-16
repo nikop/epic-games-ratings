@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 252,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 186,
@@ -2364,9 +2364,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43868,
+  "EOS_Progressed": 43869,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8759,6 +8759,11 @@
       "Time": "2023-11-16T15:05:22.3857936+00:00",
       "NumProgressed": 43868,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-16T16:06:00.8672253+00:00",
+      "NumProgressed": 43869,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8770,7 +8775,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27198
+      "UsersEstimate": 27199
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8794,7 +8799,7 @@
       "Name": "Plane sailing",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
@@ -9018,7 +9023,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21495
+      "UsersEstimate": 21496
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9026,7 +9031,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15792
+      "UsersEstimate": 15793
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -9058,7 +9063,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16231
+      "UsersEstimate": 16232
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9090,7 +9095,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16231
+      "UsersEstimate": 16232
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9098,7 +9103,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30269
+      "UsersEstimate": 30270
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9114,7 +9119,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13160
+      "UsersEstimate": 13161
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9146,7 +9151,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15792
+      "UsersEstimate": 15793
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -9154,7 +9159,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11844
+      "UsersEstimate": 11845
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -9170,7 +9175,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28953
+      "UsersEstimate": 28954
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9178,7 +9183,7 @@
       "Name": "I can do anything I want. I got guns",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "SE_MASTER_A_WEAPON",
@@ -9202,7 +9207,7 @@
       "Name": "Send me an angel",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "SE_PERFORM_X_TAKEDOWNS",
@@ -9226,7 +9231,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28953
+      "UsersEstimate": 28954
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9234,7 +9239,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10528
+      "UsersEstimate": 10529
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -9290,22 +9295,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15792
+      "UsersEstimate": 15793
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43868,
+      "Progressed": 43869,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-15T01:46:36.0216284+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:22.3857932+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:06:00.8672248+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:00:23.4247049+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:22.3858708+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:02:48.6091048+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:06:00.8673802+00:00"
 }

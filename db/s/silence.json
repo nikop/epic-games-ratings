@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -543,9 +543,9 @@
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "1006_achv_dropball",
@@ -776,8 +776,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:03:04.6415013+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:03:36.8556104+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:49.9744384+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:58:40.2395926+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:03:04.6415914+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:59:09.516802+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:03:36.8556515+00:00"
 }

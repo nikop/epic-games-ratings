@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1073,7 +1073,7 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 8285,
+  "EOS_Progressed": 8286,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -5263,6 +5263,11 @@
       "Time": "2023-11-16T05:03:30.4667077+00:00",
       "NumProgressed": 8285,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-16T16:04:33.059095+00:00",
+      "NumProgressed": 8286,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5274,7 +5279,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "Chatterbox",
@@ -5330,7 +5335,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -5370,7 +5375,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "LeoniasFall_2",
@@ -5402,7 +5407,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5302
+      "UsersEstimate": 5303
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5434,7 +5439,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7705
+      "UsersEstimate": 7706
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5450,7 +5455,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "WhattoBuy",
@@ -5458,22 +5463,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6959
+      "UsersEstimate": 6960
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8285,
+      "Progressed": 8286,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-11T19:01:14.1486538+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:04:04.8687562+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:04:33.0590946+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:05.3337042+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:58:54.2291283+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:04:04.8687894+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:59:25.7102653+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:04:33.0591338+00:00"
 }

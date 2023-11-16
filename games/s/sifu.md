@@ -26,13 +26,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Furious Fists | 0.40% | ~2,868 |
 | Kill Nil | 0.40% | ~2,868 |
 | Old Child | 0.40% | ~2,868 |
+| Kung-Fu Tussle | 0.40% | ~2,868 |
 | Take damage to save time | 0.40% | ~2,868 |
 | Martial Hub | 0.40% | ~105 |
 | Scareless | 0.30% | ~2,151 |
 | Dance of the Praying Mantis | 0.30% | ~2,151 |
 | Qi Gong: Mind | 0.30% | ~2,151 |
 | I know Kung-Fu | 0.30% | ~2,151 |
-| Kung-Fu Tussle | 0.30% | ~2,151 |
 | Bloody Sport | 0.30% | ~79 |
 | Muk Yan Master | 0.20% | ~1,434 |
 | Tiger on Fire | 0.20% | ~1,434 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,938 (Ranked 21)  
+Progressed: 716,939 (Ranked 21)  
 Completed: 12,935 (1.80%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 12,935 (1.80%) (Ranked 129)
 | 2023-11-13 | 716,879 | 12,934 |
 | 2023-11-14 | 716,907 | 12,934 |
 | 2023-11-15 | 716,927 | 12,934 |
-| 2023-11-16 | 716,938 | 12,935 |
+| 2023-11-16 | 716,939 | 12,935 |
 ## Awards
 Max (Great Boss Battles): 6,802  (Ranked 55)  
 Sum: 11,883 (Ranked 82)  

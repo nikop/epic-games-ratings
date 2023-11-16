@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -375,6 +375,11 @@
       "Time": "2023-11-16T09:06:30.9487709+00:00",
       "NumProgressed": 74,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T16:07:06.5705519+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -537,7 +542,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -787,7 +792,7 @@
       "Name": "Setting Sail",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -850,7 +855,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
@@ -858,8 +863,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:06:20.8188658+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:07:06.5705515+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.5635294+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:02:40.2722103+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:06:20.8189101+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:03:06.0882174+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:07:06.5705883+00:00"
 }

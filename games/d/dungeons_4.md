@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 86.00% | ~241 |
 | Thalya – Simply Immortal | 86.00% | ~241 |
-| For the Horde! | 80.00% | ~224 |
-| Hammer Time, Round Two | 79.00% | ~221 |
+| For the Horde! | 81.00% | ~227 |
+| Hammer Time, Round Two | 80.00% | ~224 |
 | The Hellwoods | 74.00% | ~207 |
 | Thalya's Concentrated Fury | 66.00% | ~185 |
 | The Plains of Strothalm | 66.00% | ~185 |
@@ -26,9 +26,9 @@
 | Pure Dynamite! | 36.00% | ~101 |
 | The Big Eaty | 36.00% | ~101 |
 | Mana Cannon | 29.00% | ~81 |
-| “… like son” | 27.00% | ~76 |
+| “… like son” | 28.00% | ~78 |
 | Dungeonlord Gorgu | 23.00% | ~64 |
-| Shame! Shame! Shame! | 22.00% | ~62 |
+| Shame! Shame! Shame! | 23.00% | ~64 |
 | The Cathedral of Light | 21.00% | ~59 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 19.00% | ~53 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
@@ -37,8 +37,8 @@
 | Master of the Undead | 14.00% | ~39 |
 | Forbidden Knowledge | 13.00% | ~36 |
 | All’s Well That Ends Evil | 13.00% | ~36 |
+| Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
 | Sacrificial Pit = Garbage Disposal? | 11.00% | ~31 |
-| Ghost Pirates? Ghost Heroes! | 11.00% | ~31 |
 | Stop Tanos! | 10.00% | ~28 |
 | The Duel | 10.00% | ~28 |
 | If Looks Could Kill | 9.00% | ~25 |
@@ -54,11 +54,11 @@
 | Laser Eyes Are So Useless | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |
 | To Infinity And Beyond! | 4.00% | ~11 |
+| The Rune Sockets of Finitude (Part 2) | 4.00% | ~11 |
 | Gorgu is in the Best of Health | 3.00% | ~8 |
 | Untouchable | 3.00% | ~8 |
 | Lavalumps on Ice! | 3.00% | ~8 |
 | To the Max! | 3.00% | ~8 |
-| The Rune Sockets of Finitude (Part 2) | 3.00% | ~8 |
 | The Last Stand - This Time For Real! | 3.00% | ~8 |
 | Evilification | 2.00% | ~6 |
 | No Mana, No Cry | 1.00% | ~3 |

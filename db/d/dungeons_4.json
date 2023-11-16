@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -553,17 +553,17 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 224
     },
     {
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "ach_main02horde_traps",
@@ -729,9 +729,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -769,9 +769,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -785,9 +785,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -969,9 +969,9 @@
       "ID": "ach_main19war_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 2)",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_main19war_heal",
@@ -1024,8 +1024,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:21.4556457+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:05:59.7328776+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:57:19.7755986+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:21.4556912+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:57:37.128422+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:05:59.732916+00:00"
 }

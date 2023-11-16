@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -79,7 +79,7 @@
   "Tags": [],
   "EOS_Progressed": 350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -768,9 +768,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 224
     },
     {
       "ID": "ChasingTheLight",
@@ -888,9 +888,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "LordOfTheFiles",
@@ -1024,9 +1024,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "SingleRod",
@@ -1193,8 +1193,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-16T08:59:19.8841598+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:05:19.9501208+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:05:58.3311465+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:59:28.9847633+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:05:19.9501594+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:00:06.0865668+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:05:58.3311866+00:00"
 }

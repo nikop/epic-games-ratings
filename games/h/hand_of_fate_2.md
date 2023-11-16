@@ -6,21 +6,21 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,570 |
-| Apprentice | 58.00% | ~385,515 |
-| Close Shave | 25.00% | ~166,170 |
+| The Fool | 72.00% | ~478,572 |
+| Apprentice | 58.00% | ~385,517 |
+| Close Shave | 25.00% | ~166,171 |
 | Mercenary | 23.00% | ~152,877 |
 | Ninja | 23.00% | ~152,877 |
 | Northern Scourge | 17.00% | ~112,996 |
-| Thief Bane | 14.00% | ~93,055 |
+| Thief Bane | 14.00% | ~93,056 |
 | Master of Arms | 12.00% | ~79,762 |
 | Gambler | 10.00% | ~66,468 |
 | Dice Master | 10.00% | ~66,468 |
-| Swordsman | 9.00% | ~59,821 |
-| Knight | 8.00% | ~53,174 |
-| Cure for Corruption | 8.00% | ~53,174 |
-| Focused | 8.00% | ~53,174 |
-| Flurry of Fury | 8.00% | ~53,174 |
+| Swordsman | 9.00% | ~59,822 |
+| Knight | 8.00% | ~53,175 |
+| Cure for Corruption | 8.00% | ~53,175 |
+| Focused | 8.00% | ~53,175 |
+| Flurry of Fury | 8.00% | ~53,175 |
 | Long Shot | 7.00% | ~46,528 |
 | Devil Dice | 7.00% | ~46,528 |
 | Broken Heart | 7.00% | ~46,528 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,881 |
 | Jack of all Trades | 5.00% | ~33,234 |
 | Smithy | 5.00% | ~33,234 |
-| Leap of Faith | 3.00% | ~19,940 |
-| Combat Ready | 3.00% | ~19,940 |
-| Stuffed Potato | 3.00% | ~19,940 |
+| Leap of Faith | 3.00% | ~19,941 |
+| Combat Ready | 3.00% | ~19,941 |
+| Stuffed Potato | 3.00% | ~19,941 |
 | Card Sharp | 2.00% | ~13,294 |
 | Magician | 2.00% | ~13,294 |
 | Draknar's Bane | 2.00% | ~13,294 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,681 (Ranked 26)  
+Progressed: 664,684 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,16 +265,16 @@ Completed: 171 (0.03%) (Ranked 315)
 | 2023-11-13 | 664,595 | 171 |
 | 2023-11-14 | 664,625 | 171 |
 | 2023-11-15 | 664,667 | 171 |
-| 2023-11-16 | 664,681 | 171 |
+| 2023-11-16 | 664,684 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 467)  
-Sum: 189 (Ranked 404)  
+Sum: 190 (Ranked 404)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
 | This game has Amazing Storytelling | 35 |
-| This game is Highly Recommended | 30 |
+| This game is Highly Recommended | 31 |
 | This game has Amazing Characters | 29 |
 | This game is Great for Beginners | 26 |
 | This game has Quickly Understood Controls | 25 |
@@ -382,3 +382,4 @@ Diff (max vs sum): 63
 | 2023-10-21 | 4.55 | - | 35 | 187 |
 | 2023-10-22 | 4.55 | - | 35 | 188 |
 | 2023-10-31 | 4.55 | - | 35 | 189 |
+| 2023-11-16 | 4.55 | - | 35 | 190 |

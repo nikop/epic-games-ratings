@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,759 (Ranked 41)  
+Progressed: 456,796 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,759 | 1 |
+| 2023-11-16 | 456,796 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,806 (Ranked 24)  

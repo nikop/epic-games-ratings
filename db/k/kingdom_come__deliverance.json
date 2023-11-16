@@ -8497,18 +8497,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28242,
       "NumberOfAwardsMax": 7603
+    },
+    {
+      "Time": "2023-11-16T16:03:16.7552724+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28245,
+      "NumberOfAwardsMax": 7606
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28242,
-  "NumberOfAwardsMax": 7603,
+  "NumberOfAwards": 28245,
+  "NumberOfAwardsMax": 7606,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7603
+      "Count": 7606
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8583,9 +8589,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808598,
+  "EOS_Progressed": 808600,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 906,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32158,6 +32164,11 @@
       "Time": "2023-11-16T15:07:53.5303287+00:00",
       "NumProgressed": 808598,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-16T16:08:32.5234566+00:00",
+      "NumProgressed": 808600,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32249,7 +32260,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258751
+      "UsersEstimate": 258752
     },
     {
       "ID": "Bookworm",
@@ -32824,15 +32835,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808598,
+      "Progressed": 808600,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-15T23:04:43.9281639+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:07:53.5303281+00:00",
+  "LastChanged": "2023-11-16T16:03:16.7552722+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:08:32.5234564+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:02:49.3718395+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:07:53.5305403+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:03:16.7552729+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:08:32.5236561+00:00"
 }

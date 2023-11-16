@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 959,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1957,6 +1957,11 @@
       "Time": "2023-11-16T12:08:25.9927381+00:00",
       "NumProgressed": 958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T16:08:16.4718224+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1984,7 +1989,7 @@
       "Name": "Act III Complete",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -1992,7 +1997,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2040,7 +2045,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -2048,7 +2053,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2080,7 +2085,7 @@
       "Name": "Fire and Brimstone",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -2102,9 +2107,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2126,9 +2131,9 @@
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2152,7 +2157,7 @@
       "Name": "See you Space Cowboy",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
@@ -2168,22 +2173,22 @@
       "Name": "The Weight of the World",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 460
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 0
     }
   ],
@@ -2191,8 +2196,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-16T15:06:38.9647414+00:00",
+  "LastChanged_Achievements": "2023-11-16T16:08:16.471822+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:14.2113932+00:00",
-  "LastUpdate_Ratings": "2023-11-16T15:00:16.0371594+00:00",
-  "LastUpdate_Achievements": "2023-11-16T15:06:38.9647695+00:00"
+  "LastUpdate_Ratings": "2023-11-16T16:01:00.7389192+00:00",
+  "LastUpdate_Achievements": "2023-11-16T16:08:16.4718456+00:00"
 }
