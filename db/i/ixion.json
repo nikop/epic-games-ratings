@@ -5,10 +5,10 @@
   "Ranking_Rating": 469,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3308,
+  "EOS_Progressed": 3309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5688,6 +5688,11 @@
       "Time": "2023-11-16T17:03:24.0568997+00:00",
       "NumProgressed": 3308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T22:03:50.2229043+00:00",
+      "NumProgressed": 3309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5761,9 +5766,9 @@
       "ID": "ACH_BASE_18",
       "SetID": "92iocjf",
       "Name": "Infinite Growth...",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 827
     },
     {
       "ID": "ACH_BASE_19",
@@ -5787,7 +5792,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "ACH_BASE_22",
@@ -5803,7 +5808,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_BASE_24",
@@ -5851,7 +5856,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_BASE_3",
@@ -5899,7 +5904,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_BASE_35",
@@ -5915,7 +5920,7 @@
       "Name": "Access Granted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_BASE_37",
@@ -6043,7 +6048,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_BASE_56",
@@ -6154,13 +6159,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1492,
+      "Progressed": 1493,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3308,
+      "Progressed": 3309,
       "Completed": 0
     }
   ],
@@ -6168,8 +6173,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:03:42.5662763+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:03:50.2229038+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.602463+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:00:16.4705039+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:03:42.5663426+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:00:38.7345976+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:03:50.2229741+00:00"
 }

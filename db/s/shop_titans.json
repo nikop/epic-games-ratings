@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7081,9 +7081,9 @@
       "Count": 3782
     }
   ],
-  "EOS_Progressed": 140063,
+  "EOS_Progressed": 140073,
   "EOS_Completed": 186,
-  "EOS_NewPlayers": 1221,
+  "EOS_NewPlayers": 1222,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28671,6 +28671,11 @@
       "Time": "2023-11-16T21:03:53.0462266+00:00",
       "NumProgressed": 140063,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2023-11-16T22:04:01.6914999+00:00",
+      "NumProgressed": 140073,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 112,
@@ -28714,7 +28719,7 @@
       "Name": "Top of the World",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "argon_a",
@@ -28746,7 +28751,7 @@
       "Name": "Constellated",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ashley_a",
@@ -28802,7 +28807,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "bookentry",
@@ -28850,7 +28855,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7003
+      "UsersEstimate": 7004
     },
     {
       "ID": "chest02",
@@ -28866,7 +28871,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "collection01",
@@ -28890,7 +28895,7 @@
       "Name": "Archivist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "collection04",
@@ -28938,7 +28943,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "craft01",
@@ -28970,7 +28975,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "craft05",
@@ -29082,7 +29087,7 @@
       "Name": "Ritualist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "furniture01",
@@ -29130,7 +29135,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "fuseuncommon",
@@ -29258,7 +29263,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "level01",
@@ -29322,7 +29327,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "loot04",
@@ -29362,7 +29367,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "master05",
@@ -29434,7 +29439,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "rareres03",
@@ -29450,7 +29455,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "sell01",
@@ -29482,7 +29487,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "transmuter",
@@ -29498,7 +29503,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7003
+      "UsersEstimate": 7004
     },
     {
       "ID": "twinenchant01",
@@ -29538,7 +29543,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "workers01",
@@ -29577,15 +29582,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140063,
+      "Progressed": 140073,
       "Completed": 186
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-16T18:59:15.8080513+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:03:53.0462262+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:04:01.6914993+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:59:02.4709659+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:03:53.0464102+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:59:15.9639176+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:04:01.6916996+00:00"
 }

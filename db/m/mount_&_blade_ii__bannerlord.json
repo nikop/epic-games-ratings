@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8758,10 +8758,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15298,
       "NumberOfAwardsMax": 7391
+    },
+    {
+      "Time": "2023-11-16T22:00:40.1053073+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15300,
+      "NumberOfAwardsMax": 7391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15298,
+  "NumberOfAwards": 15300,
   "NumberOfAwardsMax": 7391,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8799,7 +8805,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 860
+      "Count": 862
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8838,9 +8844,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65236,
+  "EOS_Progressed": 65239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30953,6 +30959,11 @@
       "Time": "2023-11-16T21:09:18.3516769+00:00",
       "NumProgressed": 65236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T22:09:22.6671178+00:00",
+      "NumProgressed": 65239,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31004,7 +31015,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5871
+      "UsersEstimate": 5872
     },
     {
       "ID": "Catch",
@@ -31156,7 +31167,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11742
+      "UsersEstimate": 11743
     },
     {
       "ID": "Kingslayer",
@@ -31188,7 +31199,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21528
+      "UsersEstimate": 21529
     },
     {
       "ID": "Lawbringer",
@@ -31196,7 +31207,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26094
+      "UsersEstimate": 26096
     },
     {
       "ID": "Lawmaker",
@@ -31356,7 +31367,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -31371,15 +31382,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65236,
+      "Progressed": 65239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-16T21:00:17.7278473+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:09:18.3516764+00:00",
+  "LastChanged": "2023-11-16T22:00:40.1053071+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:09:22.6671174+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:00:17.7278478+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:09:18.3518195+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:00:40.1053077+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:09:22.6672369+00:00"
 }

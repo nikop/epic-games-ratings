@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8107,9 +8107,9 @@
       "Count": 3519
     }
   ],
-  "EOS_Progressed": 235343,
+  "EOS_Progressed": 235355,
   "EOS_Completed": 2455,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31667,6 +31667,11 @@
       "Time": "2023-11-16T21:09:06.3169788+00:00",
       "NumProgressed": 235343,
       "NumCompleted": 2455
+    },
+    {
+      "Time": "2023-11-16T22:09:10.3021113+00:00",
+      "NumProgressed": 235355,
+      "NumCompleted": 2455
     }
   ],
   "TotalAchievements": 532,
@@ -35902,7 +35907,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "objective_completed_1548",
@@ -35933,21 +35938,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201617,
+      "Progressed": 201629,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235343,
+      "Progressed": 235355,
       "Completed": 2455
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-16T17:58:04.6167223+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:09:06.3169785+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:09:10.3021107+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:58:13.5094037+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:09:06.3192156+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:58:21.6001898+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:09:10.3042687+00:00"
 }

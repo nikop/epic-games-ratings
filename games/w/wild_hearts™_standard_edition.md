@@ -16,8 +16,8 @@
 | Subsistence Skills | 64.00% | ~186 |
 | Kemono Hunter | 60.00% | ~174 |
 | Expert Conjuror | 57.00% | ~165 |
-| Distance Devourer | 53.00% | ~154 |
-| Flawless Crystal | 53.00% | ~154 |
+| Distance Devourer | 54.00% | ~157 |
+| Flawless Crystal | 54.00% | ~157 |
 | Bonds of Enmity | 52.00% | ~151 |
 | Helpful Heart | 52.00% | ~151 |
 | Master of the Skies | 51.00% | ~148 |
@@ -35,9 +35,9 @@
 | Reincarnation Cycle Stopper | 32.00% | ~93 |
 | Left Arm Leverager | 29.00% | ~84 |
 | Canyon of Karakuri | 27.00% | ~78 |
+| Unrivaled in Arms | 27.00% | ~78 |
 | Style Seeker | 26.00% | ~75 |
 | Human Believer | 26.00% | ~75 |
-| Unrivaled in Arms | 26.00% | ~75 |
 | Karakuri Minato | 26.00% | ~75 |
 | Threaded Harmony | 24.00% | ~70 |
 | Quintessence of Form | 23.00% | ~67 |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1282,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3651,9 +3651,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_114",
@@ -3795,9 +3795,9 @@
       "ID": "achievement_15",
       "SetID": "b9pe172",
       "Name": "Sabotage Specialist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_16",
@@ -3971,9 +3971,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 125,
-      "UsersEstimate": 333
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_36",
@@ -4027,9 +4027,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_42",
@@ -4551,8 +4551,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:05:22.1256679+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:05:35.9502175+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:02:55.2443573+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:05:22.1258227+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:02:58.0012312+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:05:35.9503799+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2370,9 +2370,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43871,
+  "EOS_Progressed": 43872,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8775,6 +8775,11 @@
       "Time": "2023-11-16T17:05:06.492948+00:00",
       "NumProgressed": 43871,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-16T22:05:44.2061032+00:00",
+      "NumProgressed": 43872,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8786,7 +8791,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27200
+      "UsersEstimate": 27201
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8858,7 +8863,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17987
+      "UsersEstimate": 17988
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -9002,7 +9007,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19303
+      "UsersEstimate": 19304
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9026,7 +9031,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8335
+      "UsersEstimate": 8336
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -9058,7 +9063,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -9074,7 +9079,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16232
+      "UsersEstimate": 16233
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9090,7 +9095,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22374
+      "UsersEstimate": 22375
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -9106,7 +9111,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16232
+      "UsersEstimate": 16233
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9114,7 +9119,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30271
+      "UsersEstimate": 30272
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9130,7 +9135,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13161
+      "UsersEstimate": 13162
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9138,7 +9143,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20619
+      "UsersEstimate": 20620
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -9146,7 +9151,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25006
+      "UsersEstimate": 25007
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -9154,7 +9159,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20619
+      "UsersEstimate": 20620
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -9186,7 +9191,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28955
+      "UsersEstimate": 28956
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9242,7 +9247,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28955
+      "UsersEstimate": 28956
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9282,7 +9287,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -9313,15 +9318,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43871,
+      "Progressed": 43872,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-16T21:00:23.1288724+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:05:29.4297804+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:05:44.2061027+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
   "LastUpdate_Ratings": "2023-11-16T21:00:23.1288729+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:05:29.4298454+00:00"
+  "LastUpdate_Achievements": "2023-11-16T22:05:44.2061717+00:00"
 }

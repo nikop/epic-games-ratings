@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12085,10 +12085,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57833,
       "NumberOfAwardsMax": 7026
+    },
+    {
+      "Time": "2023-11-16T21:58:29.4316265+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57847,
+      "NumberOfAwardsMax": 7026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57833,
+  "NumberOfAwards": 57847,
   "NumberOfAwardsMax": 7026,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12096,7 +12102,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6734
+      "Count": 6748
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12159,9 +12165,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456997,
+  "EOS_Progressed": 457024,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6264,
+  "EOS_NewPlayers": 6249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36239,6 +36245,11 @@
       "Time": "2023-11-16T21:04:50.7713813+00:00",
       "NumProgressed": 456997,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T22:05:02.8291291+00:00",
+      "NumProgressed": 457024,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36384,9 +36395,9 @@
       "ID": "achievement_albania_or_iberia",
       "SetID": "8p2n7he",
       "Name": "Albania or Iberia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_all_belongs_to_mother_russia",
@@ -39112,9 +39123,9 @@
       "ID": "achievement_mets_hayk",
       "SetID": "8p2n7he",
       "Name": "Mets Hayk",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_restore_the_pentarchy",
@@ -39153,21 +39164,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456997,
+      "Progressed": 457024,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456997,
+      "Progressed": 457024,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-16T18:58:34.3992729+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:04:50.771381+00:00",
+  "LastChanged": "2023-11-16T21:58:29.4316264+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:05:02.8291287+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:58:20.5969518+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:04:50.7724142+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:58:29.4316269+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:05:02.8301535+00:00"
 }

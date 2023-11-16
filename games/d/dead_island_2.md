@@ -8,8 +8,8 @@ Rating: 4.54 (Ranked 522)
 | One of Us | 2.00% | ~898 |
 | Whatever It Takes | 2.00% | ~898 |
 | Pork Chopped | 2.00% | ~898 |
-| Hotel California | 1.00% | ~7,193 |
-| Welcome To Hell-A | 1.00% | ~7,193 |
+| Hotel California | 1.00% | ~7,194 |
+| Welcome To Hell-A | 1.00% | ~7,194 |
 | Break A Leg | 0.90% | ~6,474 |
 | Coup de Grâce | 0.90% | ~6,474 |
 | Dr. Reed, I Presume? | 0.80% | ~5,755 |
@@ -20,11 +20,11 @@ Rating: 4.54 (Ranked 522)
 | Apex Predator | 0.80% | ~5,755 |
 | Stacking the Deck | 0.80% | ~5,755 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,755 |
-| Anger Management | 0.70% | ~5,035 |
-| But Doctor, I am Butcho | 0.70% | ~5,035 |
-| Can't Handle the Truth | 0.70% | ~5,035 |
-| Like Riding a Bike | 0.70% | ~5,035 |
-| This is My Weapon | 0.70% | ~5,035 |
+| Anger Management | 0.70% | ~5,036 |
+| But Doctor, I am Butcho | 0.70% | ~5,036 |
+| Can't Handle the Truth | 0.70% | ~5,036 |
+| Like Riding a Bike | 0.70% | ~5,036 |
+| This is My Weapon | 0.70% | ~5,036 |
 | Perks of the Job | 0.60% | ~4,316 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,316 |
 | Slayer Squad | 0.60% | ~4,316 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,349 (Ranked 20)  
+Progressed: 719,369 (Ranked 20)  
 Completed: 2,399 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,21 +267,21 @@ Completed: 2,399 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,349 | 2,399 |
+| 2023-11-16 | 719,369 | 2,399 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 52)  
-Sum: 11,392 (Ranked 84)  
+Sum: 11,398 (Ranked 84)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,466 |
-| This game is Great for Beginners | 566 |
+| This game is Great for Beginners | 569 |
 | This game has Diverse Characters | 546 |
 | This game has Quickly Understood Controls | 519 |
 | This game is Relaxing | 494 |
 | This game has Amazing Storytelling | 471 |
 | This game is Highly Recommended | 458 |
-| This game is Extremely Fun | 451 |
+| This game is Extremely Fun | 454 |
 | This game has Amazing Characters | 421 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -495,4 +495,4 @@ Diff (max vs sum): -32
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
-| 2023-11-16 | 4.54 | 7,466 | 11,392 |
+| 2023-11-16 | 4.54 | 7,466 | 11,398 |

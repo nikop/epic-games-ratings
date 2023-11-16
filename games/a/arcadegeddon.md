@@ -6,21 +6,21 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,470 |
-| Photogenic | 84.00% | ~8,085 |
-| Plug It In | 81.00% | ~7,796 |
-| Surge Gauntlet Jockey | 81.00% | ~7,796 |
-| Adventure Time | 77.00% | ~7,411 |
-| Playing With Power | 74.00% | ~7,122 |
-| Coup d'Etat | 57.00% | ~5,486 |
+| Let's Get This Party Started | 88.00% | ~8,471 |
+| Photogenic | 84.00% | ~8,086 |
+| Plug It In | 81.00% | ~7,797 |
+| Surge Gauntlet Jockey | 81.00% | ~7,797 |
+| Adventure Time | 77.00% | ~7,412 |
+| Playing With Power | 74.00% | ~7,123 |
+| Coup d'Etat | 57.00% | ~5,487 |
 | You're Fired | 55.00% | ~5,294 |
 | Get Furious | 54.00% | ~5,198 |
 | Hacks In Stacks | 54.00% | ~5,198 |
-| Gunplay And Cosplay | 53.00% | ~5,101 |
+| Gunplay And Cosplay | 53.00% | ~5,102 |
 | Meching Enemies | 47.00% | ~4,524 |
 | Ticket Toddler | 43.00% | ~4,139 |
 | Booty Bashing | 38.00% | ~3,658 |
-| Field Medic | 37.00% | ~3,561 |
+| Field Medic | 37.00% | ~3,562 |
 | Here Comes a New Challenger | 36.00% | ~3,465 |
 | Rapid Response | 32.00% | ~3,080 |
 | Surge Ahead | 30.00% | ~2,888 |
@@ -34,7 +34,7 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,251 |
 | Light My Fire | 11.00% | ~1,059 |
 | Seasoned Adventurer | 11.00% | ~1,059 |
-| 1.21 Gigawatts | 10.00% | ~962 |
+| 1.21 Gigawatts | 10.00% | ~963 |
 | Get In The Ring! | 9.00% | ~866 |
 | This Is My Boomstick! | 9.00% | ~866 |
 | Rescue Ranger | 8.00% | ~770 |
@@ -48,16 +48,16 @@ Number of Ratings: 801  (23.09.2022)
 | Team Player | 4.00% | ~385 |
 | Event Horizon | 3.00% | ~289 |
 | Treasure Hunting | 3.00% | ~289 |
-| Nexuwizard | 2.00% | ~192 |
+| Nexuwizard | 2.00% | ~193 |
 | Everybody Freeze | 1.00% | ~96 |
 | Nature Is Lit | 0.90% | ~87 |
 | The Collector | 0.90% | ~87 |
 | I'm The Pluggernaut | 0.60% | ~58 |
 | Shield and Shred | 0.60% | ~58 |
-| Infinite Adventures! | 0.40% | ~38 |
+| Infinite Adventures! | 0.40% | ~39 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,625 (Ranked 162)  
+Progressed: 9,626 (Ranked 162)  
 Completed: 1 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 1 (0.01%) (Ranked 331)
 | 2023-11-13 | 9,611 | 1 |
 | 2023-11-14 | 9,615 | 1 |
 | 2023-11-15 | 9,619 | 1 |
-| 2023-11-16 | 9,625 | 1 |
+| 2023-11-16 | 9,626 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 408)  
 Sum: 463 (Ranked 330)  

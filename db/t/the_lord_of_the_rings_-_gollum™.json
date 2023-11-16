@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1523,6 +1523,11 @@
       "Time": "2023-11-16T15:05:59.3155262+00:00",
       "NumProgressed": 581,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T22:06:25.0015199+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1534,7 +1539,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "BreakLegs",
@@ -1558,7 +1563,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Chapter10",
@@ -1566,7 +1571,7 @@
       "Name": "The Friend",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Chapter2",
@@ -1590,7 +1595,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Chapter5",
@@ -1638,7 +1643,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Collectibles2",
@@ -1708,9 +1713,9 @@
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 157
     },
     {
       "ID": "Murderer",
@@ -1821,14 +1826,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:06:07.1071315+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:06:25.0015191+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:59:47.3656329+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:06:07.1071614+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:00:05.9742276+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:06:25.0015525+00:00"
 }

@@ -49,6 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.20% | ~480 |
 | Stone Touch | 0.20% | ~480 |
 | Doing Time | 0.20% | ~480 |
+| Spreading Plague | 0.20% | ~480 |
 | Toxic | 0.20% | ~480 |
 | Acid Bath | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
@@ -105,7 +106,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Mercy | 0.10% | ~240 |
 | Good Boys | 0.10% | ~240 |
 | Just Looking Around | 0.10% | ~240 |
-| Spreading Plague | 0.10% | ~240 |
 | Need An Antidote? | 0.10% | ~240 |
 | Antivenom | 0.10% | ~240 |
 | Decisions, Decisions | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,771 (Ranked 61)  
+Progressed: 239,772 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,10 +355,10 @@ Completed: 288 (0.12%) (Ranked 272)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,771 | 288 |
+| 2023-11-16 | 239,772 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
-Sum: 11,675 (Ranked 83)  
+Sum: 11,676 (Ranked 83)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +369,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 1,411 |
 | This game is Highly Recommended | 1,381 |
 | This game has Amazing Storytelling | 1,323 |
-| This game has Amazing Characters | 1,225 |
+| This game has Amazing Characters | 1,226 |
 | This game has Unique Visuals | 1,220 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 742 |
@@ -585,3 +585,4 @@ Diff (max vs sum): 49
 | 2023-11-12 | 4.58 | - | 1,503 | 11,672 |
 | 2023-11-13 | 4.58 | - | 1,503 | 11,674 |
 | 2023-11-15 | 4.58 | - | 1,503 | 11,675 |
+| 2023-11-16 | 4.58 | - | 1,503 | 11,676 |

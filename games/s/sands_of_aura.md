@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 85.00% | ~64 |
+| Setting Sail | 84.00% | ~64 |
 | A Small Thirsty Thing | 13.00% | ~10 |
 | Spirit Within | 12.00% | ~9 |
 | Leisis Bless You | 9.00% | ~7 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 452)  
+Progressed: 76 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 69 | 0 |
 | 2023-11-14 | 72 | 0 |
 | 2023-11-15 | 73 | 0 |
-| 2023-11-16 | 75 | 0 |
+| 2023-11-16 | 76 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

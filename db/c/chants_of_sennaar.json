@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.3,
+  "EOS_Completed_Percentage": 5.29,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2420,6 +2420,11 @@
       "Time": "2023-11-16T20:04:15.2477007+00:00",
       "NumProgressed": 566,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-16T22:04:02.9237101+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2599,7 +2604,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PROGRESS_N3",
@@ -2630,14 +2635,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:03:54.2899315+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:04:02.9237096+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:58:39.1105377+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:03:54.2899541+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:58:49.8528539+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:04:02.9237378+00:00"
 }

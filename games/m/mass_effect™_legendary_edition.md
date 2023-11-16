@@ -68,12 +68,12 @@
 | Agent | 28.00% | ~359 |
 | Digital Exorcist | 28.00% | ~359 |
 | Bringer of War | 28.00% | ~359 |
+| Mission Accomplished | 27.00% | ~346 |
+| Against All Odds | 27.00% | ~346 |
 | Friend or Foe | 27.00% | ~346 |
 | Mobilizer | 27.00% | ~346 |
 | Untouchable | 26.00% | ~333 |
-| Mission Accomplished | 26.00% | ~333 |
 | Suicide Mission | 26.00% | ~333 |
-| Against All Odds | 26.00% | ~333 |
 | Eye of the Hurricane | 25.00% | ~320 |
 | Giant Killer | 25.00% | ~320 |
 | First Aid Specialist | 25.00% | ~320 |
@@ -89,21 +89,21 @@
 | Lost and Found | 21.00% | ~269 |
 | Party Crasher | 20.00% | ~256 |
 | Problem Solver | 20.00% | ~256 |
+| Under Pressure | 19.00% | ~244 |
 | Last Resort | 19.00% | ~244 |
 | Hard Target | 19.00% | ~244 |
 | Saboteur | 19.00% | ~244 |
 | Last Witness | 19.00% | ~244 |
 | Fact Finder | 19.00% | ~244 |
 | Pyromaniac | 18.00% | ~231 |
-| Under Pressure | 18.00% | ~231 |
 | No One Left Behind | 18.00% | ~231 |
 | Well Connected | 18.00% | ~231 |
+| Sabotage Specialist | 16.00% | ~205 |
 | Executioner | 16.00% | ~205 |
 | Patriot | 16.00% | ~205 |
 | Legend | 16.00% | ~205 |
 | Master and Commander | 16.00% | ~205 |
 | Electronics Specialist | 15.00% | ~192 |
-| Sabotage Specialist | 15.00% | ~192 |
 | Throw Mastery | 15.00% | ~192 |
 | Long Service Medal | 14.00% | ~179 |
 | Mail Slot | 13.00% | ~167 |

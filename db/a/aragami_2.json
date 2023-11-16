@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43895,
+  "EOS_Progressed": 43896,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17594,6 +17594,11 @@
       "Time": "2023-11-16T21:05:17.4728781+00:00",
       "NumProgressed": 43895,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-16T22:05:31.2717483+00:00",
+      "NumProgressed": 43896,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17605,7 +17610,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17613,7 +17618,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13607
+      "UsersEstimate": 13608
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17645,7 +17650,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -17725,7 +17730,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35116
+      "UsersEstimate": 35117
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17733,7 +17738,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4828
+      "UsersEstimate": 4829
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -17797,7 +17802,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16241
+      "UsersEstimate": 16242
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -17829,7 +17834,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24142
+      "UsersEstimate": 24143
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -17837,7 +17842,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14046
+      "UsersEstimate": 14047
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -17869,7 +17874,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26337
+      "UsersEstimate": 26338
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17941,7 +17946,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40822
+      "UsersEstimate": 40823
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17949,14 +17954,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22825
+      "UsersEstimate": 22826
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43895,
+      "Progressed": 43896,
       "Completed": 240
     }
   ],
@@ -17964,8 +17969,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:05:17.4728779+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:05:31.2717479+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.948951+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:59:03.2303967+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:05:17.4729945+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:59:16.8060347+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:05:31.2718438+00:00"
 }

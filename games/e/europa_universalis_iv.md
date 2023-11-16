@@ -16,6 +16,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | AAA Credit | 0.10% | ~457 |
 | Absolutely | 0.10% | ~457 |
 | Aggressive Expander | 0.10% | ~457 |
+| Albania or Iberia | 0.10% | ~457 |
 | All belongs to Mother Russia | 0.10% | ~457 |
 | All That's Thine Shall Be Mine | 0.10% | ~457 |
 | All Your Trade Are Belong to Us | 0.10% | ~457 |
@@ -161,6 +162,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Discoverer | 0.10% | ~457 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~457 |
 | King of Kings | 0.10% | ~457 |
+| Mets Hayk | 0.10% | ~457 |
 | Restore the Pentarchy | 0.10% | ~457 |
 | The Last Crusade | 0.10% | ~457 |
 | Truly Good Maaaaa-tch | 0.10% | ~457 |
@@ -171,7 +173,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
-| Albania or Iberia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
@@ -367,10 +368,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Breadbasket of the World | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
 | Legacy of Saint George | 0.00% | ~0 |
-| Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,997 (Ranked 41)  
+Progressed: 457,024 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,16 +580,16 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,997 | 1 |
+| 2023-11-16 | 457,024 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
-Sum: 57,833 (Ranked 24)  
+Sum: 57,847 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,026 |
 | This game has Diverse Characters | 6,769 |
-| This game is Highly Recommended | 6,734 |
+| This game is Highly Recommended | 6,748 |
 | This game has Challenging Combat | 6,646 |
 | This game is Extremely Fun | 6,619 |
 | This game is Relaxing | 6,461 |
@@ -903,4 +903,4 @@ Diff (max vs sum): 30
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
-| 2023-11-16 | 4.69 | - | 7,026 | 57,833 |
+| 2023-11-16 | 4.69 | - | 7,026 | 57,847 |

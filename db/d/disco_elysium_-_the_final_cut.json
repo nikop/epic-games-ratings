@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1374,10 +1374,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1119,
       "NumberOfAwardsMax": 737
+    },
+    {
+      "Time": "2023-11-16T22:00:34.473032+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1120,
+      "NumberOfAwardsMax": 737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1119,
+  "NumberOfAwards": 1120,
   "NumberOfAwardsMax": 737,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1433,7 +1439,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1460,7 +1466,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130878,
+  "EOS_Progressed": 130879,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -22090,6 +22096,11 @@
       "Time": "2023-11-16T21:05:51.240884+00:00",
       "NumProgressed": 130878,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-16T22:06:07.6114387+00:00",
+      "NumProgressed": 130879,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22205,7 +22216,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20940
+      "UsersEstimate": 20941
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22213,7 +22224,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27484
+      "UsersEstimate": 27485
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22237,7 +22248,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20940
+      "UsersEstimate": 20941
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22420,15 +22431,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130878,
+      "Progressed": 130879,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-11-15T18:00:47.4293214+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:05:51.2408834+00:00",
+  "LastChanged": "2023-11-16T22:00:34.4730313+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:06:07.6114382+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:00:12.729297+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:05:51.2410039+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:00:34.4730327+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:06:07.611571+00:00"
 }

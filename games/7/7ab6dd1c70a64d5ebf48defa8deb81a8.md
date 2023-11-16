@@ -14,18 +14,18 @@
 | Godslayer | 2.00% | ~4 |
 | Scholar | 2.00% | ~4 |
 | Adventurer | 1.00% | ~2 |
+| Tributes of Caladrias | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
+| Big Bazar | 1.00% | ~2 |
 | Geared Up | 1.00% | ~2 |
 | Fashion Victim | 1.00% | ~2 |
+| The Collector | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
-| Tributes of Caladrias | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | Flawless Victory | 0.50% | ~1 |
-| Big Bazar | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
-| The Collector | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
 | A Taste of Wrath | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
@@ -34,14 +34,14 @@
 | Stone Collection | 0.00% | ~0 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
+| Airborne | -0.50% | ~-1 |
 | Alchemist | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
-| Airborne | -1.10% | ~-2 |
 | Miner | -1.10% | ~-2 |
 | The Mentor | -1.60% | ~-3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 383)  
+Progressed: 188 (Ranked 384)  
 Completed: 1 (0.53%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |

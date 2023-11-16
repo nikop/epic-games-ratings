@@ -20,7 +20,7 @@ Rating: 4.45 (Ranked 658)
 | Mad Scientist | 24.00% | ~771 |
 | Dog Person | 20.00% | ~643 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,213 (Ranked 208)  
+Progressed: 3,213 (Ranked 209)  
 Completed: 134 (4.17%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |

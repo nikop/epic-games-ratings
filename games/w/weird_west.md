@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,757 |
-| Self-Improvement | 71.00% | ~1,418 |
-| Perky | 65.00% | ~1,298 |
-| Let’s Ride | 60.00% | ~1,198 |
-| Welcome to the Weird West | 56.00% | ~1,118 |
-| Dead or Alive | 55.00% | ~1,098 |
+| Unforgiven | 88.00% | ~1,758 |
+| Self-Improvement | 71.00% | ~1,419 |
+| Perky | 65.00% | ~1,299 |
+| Let’s Ride | 60.00% | ~1,199 |
+| Welcome to the Weird West | 56.00% | ~1,119 |
+| Dead or Alive | 55.00% | ~1,099 |
 | Full House | 37.00% | ~739 |
 | Off the Trail | 34.00% | ~679 |
 | Justice Served | 30.00% | ~599 |
 | Chain Reaction | 27.00% | ~539 |
 | Through Their Eyes | 26.00% | ~519 |
-| Dishonored | 25.00% | ~499 |
-| Rain of Death | 25.00% | ~499 |
-| Scholar | 25.00% | ~499 |
-| The Great Escape | 23.00% | ~459 |
-| That’s All, Folks | 19.00% | ~379 |
+| Dishonored | 25.00% | ~500 |
+| Rain of Death | 25.00% | ~500 |
+| Scholar | 25.00% | ~500 |
+| The Great Escape | 23.00% | ~460 |
+| That’s All, Folks | 19.00% | ~380 |
 | Fallen Star | 16.00% | ~320 |
 | For Balance | 16.00% | ~320 |
 | Here Comes Santa Claus | 16.00% | ~320 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,997 (Ranked 223)  
+Progressed: 1,998 (Ranked 223)  
 Completed: 7 (0.35%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 7 (0.35%) (Ranked 221)
 | 2023-11-11 | 1,991 | 7 |
 | 2023-11-12 | 1,994 | 7 |
 | 2023-11-13 | 1,997 | 7 |
+| 2023-11-16 | 1,998 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 501)  
 Sum: 28 (Ranked 516)  

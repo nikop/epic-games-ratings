@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4013,
+  "EOS_Progressed": 4014,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -9844,6 +9844,11 @@
       "Time": "2023-11-16T20:08:09.1619627+00:00",
       "NumProgressed": 4013,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-16T22:08:24.9542053+00:00",
+      "NumProgressed": 4014,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9853,9 +9858,9 @@
       "ID": "ach_10_easy_pictures",
       "SetID": "3h4khpo",
       "Name": "Colored 10 easy pictures.",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 602
+      "UsersEstimate": 562
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -9887,7 +9892,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ach_architecture_completed",
@@ -9903,7 +9908,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ach_bomb",
@@ -9982,14 +9987,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4013,
+      "Progressed": 4014,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:08:23.5960023+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:08:24.9542048+00:00",
   "LastUpdate_AppInfo": "2023-11-10T19:57:16.0222462+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:00:19.8017963+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:08:23.5960673+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:00:42.3701355+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:08:24.9542552+00:00"
 }

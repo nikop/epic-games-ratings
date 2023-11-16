@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3320,10 +3320,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11675,
       "NumberOfAwardsMax": 1503
+    },
+    {
+      "Time": "2023-11-16T21:57:46.3097613+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11676,
+      "NumberOfAwardsMax": 1503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11675,
+  "NumberOfAwards": 11676,
   "NumberOfAwardsMax": 1503,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3337,7 +3343,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1225
+      "Count": 1226
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3394,9 +3400,9 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239771,
+  "EOS_Progressed": 239772,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25199,6 +25205,11 @@
       "Time": "2023-11-16T21:09:31.1275991+00:00",
       "NumProgressed": 239771,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-16T22:09:36.8067226+00:00",
+      "NumProgressed": 239772,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25880,9 +25891,9 @@
       "ID": "POISON300",
       "SetID": "5l8oe0h",
       "Name": "Spreading Plague",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "POISON30TIMES",
@@ -26313,22 +26324,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239771,
+      "Progressed": 239772,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1251,
+      "Progressed": 1252,
       "Completed": 380
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-11-15T21:57:04.5956472+00:00",
-  "LastChanged_Achievements": "2023-11-16T21:09:31.1275987+00:00",
+  "LastChanged": "2023-11-16T21:57:46.3097612+00:00",
+  "LastChanged_Achievements": "2023-11-16T22:09:36.8067221+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:57:41.3478287+00:00",
-  "LastUpdate_Achievements": "2023-11-16T21:09:31.1278396+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:57:46.3097617+00:00",
+  "LastUpdate_Achievements": "2023-11-16T22:09:36.8069823+00:00"
 }

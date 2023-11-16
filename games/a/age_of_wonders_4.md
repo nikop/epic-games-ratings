@@ -33,13 +33,13 @@ Rating: 4.61 (Ranked 385)
 | Enchanted Archipelago | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
 | Mighty Hoard | 0.50% | ~27 |
+| Prometheus Avenged | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
 | Arch Mage | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
 | Preparation Is Everything | 0.40% | ~22 |
 | Fiery Friend | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
-| Prometheus Avenged | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,398 (Ranked 185)  
+Progressed: 5,398 (Ranked 187)  
 Completed: 7 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
