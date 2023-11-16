@@ -2661,9 +2661,9 @@
       "Count": 360
     }
   ],
-  "EOS_Progressed": 8562,
+  "EOS_Progressed": 8563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8211,6 +8211,11 @@
       "Time": "2023-11-16T13:10:44.4134718+00:00",
       "NumProgressed": 8562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T15:04:06.1002183+00:00",
+      "NumProgressed": 8563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8231,7 +8236,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach03",
@@ -8239,7 +8244,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ach04",
@@ -8279,7 +8284,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3510
+      "UsersEstimate": 3511
     },
     {
       "ID": "ach09",
@@ -8319,7 +8324,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ach14",
@@ -8327,7 +8332,7 @@
       "Name": "Puppet Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ach15",
@@ -8335,7 +8340,7 @@
       "Name": "Give A Koin",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "ach16",
@@ -8375,7 +8380,7 @@
       "Name": "Buddy System",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ach21",
@@ -8391,7 +8396,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ach23",
@@ -8407,7 +8412,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "ach25",
@@ -8431,7 +8436,7 @@
       "Name": "So Krafty",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "ach28",
@@ -8447,7 +8452,7 @@
       "Name": "Unstoppable",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach30",
@@ -8463,7 +8468,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "ach32",
@@ -8477,9 +8482,9 @@
       "ID": "ach33",
       "SetID": "47in8n6",
       "Name": "Vanquished",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 685
     },
     {
       "ID": "ach34",
@@ -8487,7 +8492,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "ach35",
@@ -8511,7 +8516,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "ach38",
@@ -8527,7 +8532,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3510
+      "UsersEstimate": 3511
     },
     {
       "ID": "ach40",
@@ -8551,7 +8556,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3767
+      "UsersEstimate": 3768
     },
     {
       "ID": "ach43",
@@ -8575,7 +8580,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ach46",
@@ -8622,7 +8627,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8562,
+      "Progressed": 8563,
       "Completed": 0
     }
   ],
@@ -8630,8 +8635,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-16T13:05:33.4431186+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:03:48.3260658+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:04:06.100218+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:58:36.9742621+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:03:48.3261274+00:00"
+  "LastUpdate_Ratings": "2023-11-16T14:58:51.7858632+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:04:06.1002723+00:00"
 }

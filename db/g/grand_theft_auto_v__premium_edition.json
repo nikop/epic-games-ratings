@@ -2,7 +2,7 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 253,
+  "Ranking_Rating": 252,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 748,
@@ -9479,10 +9479,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1775152,
       "NumberOfAwardsMax": 259476
+    },
+    {
+      "Time": "2023-11-16T15:02:32.0655304+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1776946,
+      "NumberOfAwardsMax": 259476
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1775152,
+  "NumberOfAwards": 1776946,
   "NumberOfAwardsMax": 259476,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9490,13 +9496,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 225235
+      "Count": 225589
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 210703
+      "Count": 211054
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9508,13 +9514,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 209405
+      "Count": 209752
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 211426
+      "Count": 211792
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9526,7 +9532,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 217143
+      "Count": 217519
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9558,8 +9564,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-11-16T12:02:36.229836+00:00",
+  "LastChanged": "2023-11-16T15:02:32.0655293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:54.0481602+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:00:15.5390945+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:04:00.3186991+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:02:32.0655308+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:04:17.9102026+00:00"
 }

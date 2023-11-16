@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752157,
+  "EOS_Progressed": 752168,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1929,
+  "EOS_NewPlayers": 1924,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24329,6 +24329,11 @@
       "Time": "2023-11-16T14:03:27.3652393+00:00",
       "NumProgressed": 752157,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T15:03:45.3577501+00:00",
+      "NumProgressed": 752168,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -24364,7 +24369,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45129
+      "UsersEstimate": 45130
     },
     {
       "ID": "ach_build_bridge",
@@ -24380,7 +24385,7 @@
       "Name": "Excavator",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "ach_car_prototype",
@@ -24404,7 +24409,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278298
+      "UsersEstimate": 278302
     },
     {
       "ID": "ach_demolish_trees",
@@ -24412,7 +24417,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 127867
+      "UsersEstimate": 127869
     },
     {
       "ID": "ach_free_cam_mode",
@@ -24428,7 +24433,7 @@
       "Name": "Loan Ranger",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "ach_max_profit",
@@ -24436,7 +24441,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45129
+      "UsersEstimate": 45130
     },
     {
       "ID": "ach_max_truck_distance",
@@ -24444,7 +24449,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 90259
+      "UsersEstimate": 90260
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -24468,7 +24473,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361035
+      "UsersEstimate": 361041
     },
     {
       "ID": "ach_produced",
@@ -24476,7 +24481,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97780
+      "UsersEstimate": 97782
     },
     {
       "ID": "ach_products_moved",
@@ -24484,7 +24489,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 120345
+      "UsersEstimate": 120347
     },
     {
       "ID": "ach_raise_money",
@@ -24508,7 +24513,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97780
+      "UsersEstimate": 97782
     },
     {
       "ID": "ach_setup_route_boat",
@@ -24540,7 +24545,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90259
+      "UsersEstimate": 90260
     },
     {
       "ID": "ach_warehouse_clients",
@@ -24548,14 +24553,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 142910
+      "UsersEstimate": 142912
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 752157,
+      "Progressed": 752168,
       "Completed": 4
     }
   ],
@@ -24563,8 +24568,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:03:27.365239+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:03:45.3577497+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:32.7691301+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:58:38.0164393+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:03:27.3653425+00:00"
+  "LastUpdate_Ratings": "2023-11-16T14:58:52.663631+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:03:45.3579082+00:00"
 }

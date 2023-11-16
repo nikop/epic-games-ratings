@@ -107,6 +107,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Redecorating | 0.10% | ~457 |
 | Relentless Push East | 0.10% | ~457 |
 | Respected | 0.10% | ~457 |
+| Rise of the White Sheep | 0.10% | ~457 |
 | Royal Authority | 0.10% | ~457 |
 | Ruina Imperii | 0.10% | ~457 |
 | Sakoku Law | 0.10% | ~457 |
@@ -118,6 +119,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Spice Must Flow | 0.10% | ~457 |
 | Strait Talk | 0.10% | ~457 |
 | Subsidize my Love | 0.10% | ~457 |
+| Switzerlake | 0.10% | ~457 |
 | Tear Down This Wall | 0.10% | ~457 |
 | That is mine! | 0.10% | ~457 |
 | The Chrysanthemum Throne | 0.10% | ~457 |
@@ -128,6 +130,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Power of Three | 0.10% | ~457 |
 | The Princess is in this Castle | 0.10% | ~457 |
 | The Re-Reconquista | 0.10% | ~457 |
+| The White Company | 0.10% | ~457 |
 | This is fine | 0.10% | ~457 |
 | This is My Faith | 0.10% | ~457 |
 | This is Persia! | 0.10% | ~457 |
@@ -298,7 +301,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | The Reapers | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Rise of the White Sheep | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
@@ -323,7 +325,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sweden is not overpowered! | 0.00% | ~0 |
 | Sweet Harmony | 0.00% | ~0 |
 | Sweet Home Qaraqorum | 0.00% | ~0 |
-| Switzerlake | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
@@ -343,7 +344,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | The Uncommonwealth | 0.00% | ~0 |
-| The White Company | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,723 (Ranked 41)  
+Progressed: 456,759 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,723 | 1 |
+| 2023-11-16 | 456,759 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,806 (Ranked 24)  

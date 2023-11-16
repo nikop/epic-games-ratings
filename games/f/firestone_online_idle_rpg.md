@@ -5,19 +5,19 @@ Rating: 4.12 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,193 |
-| World Map | 79.00% | ~1,863 |
-| Temple of Eternals | 57.00% | ~1,344 |
-| Prestigious | 54.00% | ~1,273 |
-| Fellowship Power | 42.00% | ~990 |
+| Victor | 93.00% | ~2,195 |
+| World Map | 79.00% | ~1,864 |
+| Temple of Eternals | 57.00% | ~1,345 |
+| Prestigious | 54.00% | ~1,274 |
+| Fellowship Power | 42.00% | ~991 |
 | Guild Power | 25.00% | ~590 |
 | Prestigious x10 | 22.00% | ~519 |
 | The game is on | 20.00% | ~472 |
-| Exotic Merchant | 18.00% | ~424 |
+| Exotic Merchant | 18.00% | ~425 |
 | Dragon Clicker | 17.00% | ~401 |
-| Full Party | 16.00% | ~377 |
-| Inspection | 16.00% | ~377 |
-| Miner Clicker | 16.00% | ~377 |
+| Full Party | 16.00% | ~378 |
+| Inspection | 16.00% | ~378 |
+| Miner Clicker | 16.00% | ~378 |
 | Dragon Master | 15.00% | ~354 |
 | Enlightenment | 15.00% | ~354 |
 | Hero inspection | 15.00% | ~354 |
@@ -28,9 +28,9 @@ Rating: 4.12 (Ranked 957)
 | Superior | 13.00% | ~307 |
 | The Unstoppable | 13.00% | ~307 |
 | Scientist | 12.00% | ~283 |
-| Doing My Part | 11.00% | ~259 |
-| Hunter | 11.00% | ~259 |
-| The power of Awakening | 11.00% | ~259 |
+| Doing My Part | 11.00% | ~260 |
+| Hunter | 11.00% | ~260 |
+| The power of Awakening | 11.00% | ~260 |
 | Challenger | 10.00% | ~236 |
 | Daily Quest Completionist | 10.00% | ~236 |
 | Four Leaf Clover | 10.00% | ~236 |
@@ -52,12 +52,12 @@ Rating: 4.12 (Ranked 957)
 | Sailor | 7.00% | ~165 |
 | The Expeditioner | 7.00% | ~165 |
 | Weekly Quest Completionist | 7.00% | ~165 |
-| Active Member | 6.00% | ~141 |
-| Ancient Knowledge | 6.00% | ~141 |
-| How Do You Turn This On? | 6.00% | ~141 |
-| Legendary | 6.00% | ~141 |
-| Missions Dedication | 6.00% | ~141 |
-| The Alchemist | 6.00% | ~141 |
+| Active Member | 6.00% | ~142 |
+| Ancient Knowledge | 6.00% | ~142 |
+| How Do You Turn This On? | 6.00% | ~142 |
+| Legendary | 6.00% | ~142 |
+| Missions Dedication | 6.00% | ~142 |
+| The Alchemist | 6.00% | ~142 |
 | Arena Challenger | 5.00% | ~118 |
 | Background Story | 5.00% | ~118 |
 | Ebony Jungle Liberator | 5.00% | ~118 |
@@ -69,11 +69,11 @@ Rating: 4.12 (Ranked 957)
 | Enchanting skill x5 | 2.00% | ~47 |
 | Pokerface | 2.00% | ~47 |
 | Titan Power | 2.00% | ~47 |
+| Transmute | 2.00% | ~47 |
 | Angel Power | 1.00% | ~24 |
 | Conqueror | 1.00% | ~24 |
 | Enhanced War Machines | 1.00% | ~24 |
 | Training makes a Pro player | 1.00% | ~24 |
-| Transmute | 1.00% | ~24 |
 | Tree of Life | 1.00% | ~24 |
 | Beast War Machines | 0.80% | ~19 |
 | Silverwood liberator | 0.80% | ~19 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 957)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,358 (Ranked 215)  
+Progressed: 2,360 (Ranked 215)  
 Completed: 2 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2 (0.08%) (Ranked 289)
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
-| 2023-11-16 | 2,358 | 2 |
+| 2023-11-16 | 2,360 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

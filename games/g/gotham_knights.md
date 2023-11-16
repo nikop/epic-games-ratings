@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,012 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,773 |
-| Loose Ends | 34.00% | ~26,008 |
+| First Step Into the Knight | 51.00% | ~39,013 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,774 |
+| Loose Ends | 34.00% | ~26,009 |
 | To the Victor Go the Spoils | 28.00% | ~21,419 |
 | Knighthood | 27.00% | ~20,654 |
 | Get ReQ'd | 25.00% | ~19,124 |
@@ -23,18 +23,18 @@ Rating: 4.18 (Ranked 925)
 | The Show Mud Go On | 18.00% | ~13,769 |
 | From Inside Gotham's Walls | 18.00% | ~13,769 |
 | Protector of Gotham | 17.00% | ~13,004 |
-| Universal Health Scare | 16.00% | ~12,239 |
-| In Your Element | 15.00% | ~11,474 |
-| Voiceless | 15.00% | ~11,474 |
-| Rock and a Hard Place | 14.00% | ~10,709 |
-| Cooldown | 14.00% | ~10,709 |
-| Seeking Asylum | 14.00% | ~10,709 |
-| Not On My Watch | 13.00% | ~9,944 |
-| Shock Til They Drop | 13.00% | ~9,944 |
-| End of an Era | 12.00% | ~9,179 |
-| Bulldozed | 12.00% | ~9,179 |
-| Gotham Knight | 12.00% | ~9,179 |
-| Gotham City Confidential | 11.00% | ~8,414 |
+| Universal Health Scare | 16.00% | ~12,240 |
+| In Your Element | 15.00% | ~11,475 |
+| Voiceless | 15.00% | ~11,475 |
+| Rock and a Hard Place | 14.00% | ~10,710 |
+| Cooldown | 14.00% | ~10,710 |
+| Seeking Asylum | 14.00% | ~10,710 |
+| Not On My Watch | 13.00% | ~9,945 |
+| Shock Til They Drop | 13.00% | ~9,945 |
+| End of an Era | 12.00% | ~9,180 |
+| Bulldozed | 12.00% | ~9,180 |
+| Gotham Knight | 12.00% | ~9,180 |
+| Gotham City Confidential | 11.00% | ~8,415 |
 | Drone You Out | 10.00% | ~7,650 |
 | Out of Their League | 9.00% | ~6,885 |
 | Solid Alibi | 9.00% | ~6,885 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,495 (Ranked 97)  
+Progressed: 76,497 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 123 (0.16%) (Ranked 261)
 | 2023-11-13 | 76,394 | 123 |
 | 2023-11-14 | 76,429 | 123 |
 | 2023-11-15 | 76,468 | 123 |
-| 2023-11-16 | 76,495 | 123 |
+| 2023-11-16 | 76,497 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,944  (Ranked 98)  
 Sum: 4,994 (Ranked 138)  

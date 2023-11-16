@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -3450,9 +3450,9 @@
       "ID": "ACHV_31",
       "SetID": "8p5mlmc",
       "Name": "Where It All Began",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHV_32",
@@ -3675,8 +3675,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-11T23:57:43.5779533+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:05:38.3548375+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:05:58.2109282+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:21.1827287+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:00:02.2073153+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:05:38.3548848+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:00:18.1551429+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:05:58.2109935+00:00"
 }

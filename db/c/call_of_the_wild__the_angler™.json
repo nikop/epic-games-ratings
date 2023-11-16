@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -909,7 +909,7 @@
   ],
   "EOS_Progressed": 6539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10049,9 +10049,9 @@
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -10376,8 +10376,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-15T16:59:57.0776448+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:08:54.2877681+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:08:43.6430374+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.5392217+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:00:00.6703703+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:08:54.2878428+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:00:16.2818028+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:08:43.643101+00:00"
 }

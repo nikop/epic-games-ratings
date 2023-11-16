@@ -30,9 +30,9 @@ Rating: 4.06 (Ranked 975)
 | Periapt Cerulean | 10.00% | ~28 |
 | Good Boy | 10.00% | ~28 |
 | Shroudfane Explorer | 8.00% | ~22 |
+| Best Dressed | 7.00% | ~19 |
 | Armaments Azure | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |
-| Best Dressed | 6.00% | ~17 |
 | Armaments Gules | 6.00% | ~17 |
 | Scholar | 5.00% | ~14 |
 | Kitted Out | 4.00% | ~11 |
@@ -40,12 +40,12 @@ Rating: 4.06 (Ranked 975)
 | Veteran | 4.00% | ~11 |
 | Master of Carmine | 2.00% | ~6 |
 | Shroudfane Surveyor | 2.00% | ~6 |
+| Tip of the Spear | 2.00% | ~6 |
 | Backtracker | 2.00% | ~6 |
 | Grand Magnus | 1.00% | ~3 |
 | Petite Bourgeoisie | 1.00% | ~3 |
 | Master of Ultramarine | 1.00% | ~3 |
 | Master of Malachite | 1.00% | ~3 |
-| Tip of the Spear | 1.00% | ~3 |
 | Treasure Hunter | 1.00% | ~3 |
 | Family Business | 0.70% | ~2 |
 | Diplomat | 0.70% | ~2 |

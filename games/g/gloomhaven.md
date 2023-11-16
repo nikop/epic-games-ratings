@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,783 |
-| Overkill | 34.00% | ~7,110 |
-| Vaccine Incoming | 33.00% | ~6,901 |
-| A normal day in Gloomhaven | 32.00% | ~6,692 |
-| Spread the plague | 30.00% | ~6,274 |
-| Get over here! | 25.00% | ~5,228 |
-| Just when I thought I was out... | 19.00% | ~3,973 |
-| Precious! | 17.00% | ~3,555 |
-| Mine... All Mine... | 17.00% | ~3,555 |
+| I'm not dead yet | 42.00% | ~8,785 |
+| Overkill | 34.00% | ~7,111 |
+| Vaccine Incoming | 33.00% | ~6,902 |
+| A normal day in Gloomhaven | 32.00% | ~6,693 |
+| Spread the plague | 30.00% | ~6,275 |
+| Get over here! | 25.00% | ~5,229 |
+| Just when I thought I was out... | 19.00% | ~3,974 |
+| Precious! | 17.00% | ~3,556 |
+| Mine... All Mine... | 17.00% | ~3,556 |
 | Grizzled veteran | 15.00% | ~3,137 |
 | Anatomy Lesson | 15.00% | ~3,137 |
 | Light of my life | 14.00% | ~2,928 |
 | You activated my trap card! | 13.00% | ~2,719 |
 | Obstacle race | 13.00% | ~2,719 |
-| Augmented rat | 12.00% | ~2,510 |
-| Doom and gloom | 11.00% | ~2,300 |
-| Who's the Boss? | 10.00% | ~2,091 |
+| Augmented rat | 11.00% | ~2,301 |
+| Doom and gloom | 11.00% | ~2,301 |
+| Who's the Boss? | 10.00% | ~2,092 |
 | Dungeon Veteran | 8.00% | ~1,673 |
 | Pack leader | 8.00% | ~1,673 |
 | Pain is your friend | 8.00% | ~1,673 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~21 |
 | Murder Death Kill | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,913 (Ranked 131)  
+Progressed: 20,916 (Ranked 131)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 20,479 | 1 |
 | 2023-11-14 | 20,669 | 1 |
 | 2023-11-15 | 20,838 | 1 |
-| 2023-11-16 | 20,913 | 1 |
+| 2023-11-16 | 20,916 | 1 |
 ## Awards
 Max (Character Customization): 3,574  (Ranked 90)  
 Sum: 8,357 (Ranked 100)  

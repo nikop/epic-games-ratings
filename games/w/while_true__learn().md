@@ -6,21 +6,21 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~567,868 |
-| Error: Stack Overflow | 66.00% | ~403,003 |
-| We need more gold | 61.00% | ~372,473 |
-| The dawn of civilization | 53.00% | ~323,624 |
-| More FPS for the FPS god! | 50.00% | ~305,306 |
-| Beauty and harmony | 48.00% | ~293,093 |
-| One more! | 44.00% | ~268,669 |
-| Overmind | 24.00% | ~146,547 |
-| RNG is my best friend now | 18.00% | ~109,910 |
-| Cosplay | 13.00% | ~79,379 |
-| Evolution in progress... | 13.00% | ~79,379 |
+| First.. Bit? | 93.00% | ~567,874 |
+| Error: Stack Overflow | 66.00% | ~403,007 |
+| We need more gold | 61.00% | ~372,476 |
+| The dawn of civilization | 53.00% | ~323,627 |
+| More FPS for the FPS god! | 50.00% | ~305,308 |
+| Beauty and harmony | 48.00% | ~293,096 |
+| One more! | 44.00% | ~268,671 |
+| Overmind | 24.00% | ~146,548 |
+| RNG is my best friend now | 18.00% | ~109,911 |
+| Cosplay | 13.00% | ~79,380 |
+| Evolution in progress... | 13.00% | ~79,380 |
 | Step by step | 8.00% | ~48,849 |
-| README reader | 3.00% | ~18,318 |
-| Data scientist | 3.00% | ~18,318 |
-| One small step for a man... | 3.00% | ~18,318 |
+| README reader | 3.00% | ~18,319 |
+| Data scientist | 3.00% | ~18,319 |
+| One small step for a man... | 3.00% | ~18,319 |
 | To see it all, to learn it all | 2.00% | ~12,212 |
 | Evolution complete | 2.00% | ~12,212 |
 | Best deal on the market | 2.00% | ~12,212 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,832 |
 | The Scrooge | 0.10% | ~611 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610,611 (Ranked 30)  
+Progressed: 610,617 (Ranked 30)  
 Completed: 544 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 544 (0.09%) (Ranked 282)
 | 2023-11-13 | 610,387 | 544 |
 | 2023-11-14 | 610,471 | 544 |
 | 2023-11-15 | 610,560 | 544 |
-| 2023-11-16 | 610,611 | 544 |
+| 2023-11-16 | 610,617 | 544 |
 ## Awards
 Max (Challenging Puzzles): 137  (Ranked 325)  
 Sum: 137 (Ranked 426)  

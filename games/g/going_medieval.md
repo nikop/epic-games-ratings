@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,142 |
-| Get A Room | 75.00% | ~5,074 |
+| Having A Field Day | 76.00% | ~5,143 |
+| Get A Room | 75.00% | ~5,075 |
 | Reap What You Sow | 72.00% | ~4,872 |
 | The First Day | 69.00% | ~4,669 |
-| Green Thumb | 67.00% | ~4,533 |
-| Novice Researcher | 67.00% | ~4,533 |
+| Green Thumb | 67.00% | ~4,534 |
+| Novice Researcher | 67.00% | ~4,534 |
 | Home Cooked Meal | 60.00% | ~4,060 |
 | Onward | 57.00% | ~3,857 |
-| The First Week | 55.00% | ~3,721 |
-| Beam Me Up | 52.00% | ~3,518 |
-| Studious Researcher | 52.00% | ~3,518 |
-| Putting Food on the Table | 49.00% | ~3,315 |
+| The First Week | 55.00% | ~3,722 |
+| Beam Me Up | 52.00% | ~3,519 |
+| Studious Researcher | 52.00% | ~3,519 |
+| Putting Food on the Table | 49.00% | ~3,316 |
 | Adept Researcher | 45.00% | ~3,045 |
 | Retribution | 42.00% | ~2,842 |
 | ...And Don’t Come Back! | 42.00% | ~2,842 |
-| Feast or Famine | 40.00% | ~2,706 |
-| Heating Up | 31.00% | ~2,097 |
-| Luminary Researcher | 31.00% | ~2,097 |
+| Feast or Famine | 40.00% | ~2,707 |
+| Heating Up | 31.00% | ~2,098 |
+| Luminary Researcher | 31.00% | ~2,098 |
 | Fit For A King | 30.00% | ~2,030 |
-| Winter Is Coming | 28.00% | ~1,894 |
+| Winter Is Coming | 28.00% | ~1,895 |
 | Winter Is Here | 25.00% | ~1,692 |
 | Disassembled | 22.00% | ~1,489 |
 | Oh Deer! | 22.00% | ~1,489 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~135 |
 | Wabbit Season | 0.50% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,766 (Ranked 178)  
+Progressed: 6,767 (Ranked 178)  
 Completed: 14 (0.21%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 14 (0.21%) (Ranked 247)
 | 2023-11-13 | 6,737 | 14 |
 | 2023-11-14 | 6,749 | 14 |
 | 2023-11-15 | 6,760 | 14 |
-| 2023-11-16 | 6,766 | 14 |
+| 2023-11-16 | 6,767 | 14 |
 ## Awards
 Max (Great for Beginners): 124  (Ranked 337)  
 Sum: 1,010 (Ranked 259)  

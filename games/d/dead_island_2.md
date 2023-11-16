@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~894 |
-| Whatever It Takes | 2.00% | ~894 |
-| Pork Chopped | 2.00% | ~894 |
+| One of Us | 2.00% | ~895 |
+| Whatever It Takes | 2.00% | ~895 |
+| Pork Chopped | 2.00% | ~895 |
 | Hotel California | 1.00% | ~7,192 |
 | Welcome To Hell-A | 1.00% | ~7,192 |
-| Break A Leg | 0.90% | ~6,472 |
+| Break A Leg | 0.90% | ~6,473 |
 | Dr. Reed, I Presume? | 0.80% | ~5,753 |
 | Git Gutte! | 0.80% | ~5,753 |
 | Bookworm | 0.80% | ~5,753 |
@@ -41,11 +41,11 @@ Rating: 4.54 (Ranked 524)
 | Down with the Sickness | 0.40% | ~2,877 |
 | Go, Bobcats! | 0.40% | ~2,877 |
 | Rising Star | 0.40% | ~2,877 |
-| Make it So | 0.30% | ~2,157 |
-| On Safari | 0.30% | ~2,157 |
-| Smorgasbord | 0.30% | ~2,157 |
-| Internet Famous | 0.30% | ~2,157 |
-| Variety is the Spice of Death | 0.30% | ~2,157 |
+| Make it So | 0.30% | ~2,158 |
+| On Safari | 0.30% | ~2,158 |
+| Smorgasbord | 0.30% | ~2,158 |
+| Internet Famous | 0.30% | ~2,158 |
+| Variety is the Spice of Death | 0.30% | ~2,158 |
 | Top That, Tisha! | 0.30% | ~134 |
 | LA Influential | 0.20% | ~1,438 |
 | Sole Survivor | 0.20% | ~1,438 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,159 (Ranked 20)  
-Completed: 2,394 (0.33%) (Ranked 224)  
+Progressed: 719,184 (Ranked 20)  
+Completed: 2,395 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,7 +267,7 @@ Completed: 2,394 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,159 | 2,394 |
+| 2023-11-16 | 719,184 | 2,395 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 51)  
 Sum: 11,383 (Ranked 84)  

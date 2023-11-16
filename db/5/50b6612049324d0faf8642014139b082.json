@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 249,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -605,9 +605,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_15",
@@ -780,8 +780,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:09:03.520116+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:08:53.2665339+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-16T14:00:10.4233002+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:09:03.5201389+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:02:26.2470139+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:08:53.2665544+00:00"
 }

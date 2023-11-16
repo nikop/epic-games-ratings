@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13623,
+  "EOS_Progressed": 13626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14494,6 +14494,11 @@
       "Time": "2023-11-16T14:05:37.121363+00:00",
       "NumProgressed": 13623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T15:05:56.8013181+00:00",
+      "NumProgressed": 13626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14577,7 +14582,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -14593,7 +14598,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -14689,7 +14694,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -14697,21 +14702,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13623,
+      "Progressed": 13626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:05:37.1213625+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:05:56.8013178+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:58:27.4149466+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:05:37.1214594+00:00"
+  "LastUpdate_Ratings": "2023-11-16T14:58:42.0256182+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:05:56.801402+00:00"
 }

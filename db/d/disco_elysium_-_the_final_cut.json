@@ -1460,9 +1460,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130863,
+  "EOS_Progressed": 130866,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22060,6 +22060,11 @@
       "Time": "2023-11-16T14:05:24.307828+00:00",
       "NumProgressed": 130863,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-16T15:05:44.087515+00:00",
+      "NumProgressed": 130866,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22103,7 +22108,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23555
+      "UsersEstimate": 23556
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22127,7 +22132,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31407
+      "UsersEstimate": 31408
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22175,7 +22180,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22183,7 +22188,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27481
+      "UsersEstimate": 27482
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22199,7 +22204,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17012
+      "UsersEstimate": 17013
     },
     {
       "ID": "ACH_COP_STAR",
@@ -22207,7 +22212,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22231,7 +22236,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13086
+      "UsersEstimate": 13087
     },
     {
       "ID": "ACH_GLUTEN",
@@ -22390,15 +22395,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130863,
+      "Progressed": 130866,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-15T18:00:47.4293214+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:05:24.3078275+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:05:44.0875147+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:59:55.0568922+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:05:24.3079267+00:00"
+  "LastUpdate_Ratings": "2023-11-16T15:00:10.6703893+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:05:44.0876769+00:00"
 }

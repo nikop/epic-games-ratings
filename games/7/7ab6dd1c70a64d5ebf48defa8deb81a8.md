@@ -19,6 +19,7 @@
 | Fashion Victim | 1.00% | ~2 |
 | Scholar | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
+| Tributes of Caladrias | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | Flawless Victory | 0.50% | ~1 |
 | Big Bazar | 0.50% | ~1 |
@@ -27,7 +28,6 @@
 | The Collector | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
 | A Taste of Wrath | 0.00% | ~0 |
-| Tributes of Caladrias | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

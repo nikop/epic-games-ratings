@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18846,
+  "EOS_Progressed": 18847,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12908,6 +12908,11 @@
       "Time": "2023-11-16T14:05:25.3147155+00:00",
       "NumProgressed": 18846,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T15:05:44.8570574+00:00",
+      "NumProgressed": 18847,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13007,7 +13012,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "0013",
@@ -13023,7 +13028,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "0015",
@@ -13206,7 +13211,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18846,
+      "Progressed": 18847,
       "Completed": 4
     }
   ],
@@ -13214,8 +13219,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-16T14:05:25.3147147+00:00",
+  "LastChanged_Achievements": "2023-11-16T15:05:44.857057+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:53.213288+00:00",
-  "LastUpdate_Ratings": "2023-11-16T13:58:08.132741+00:00",
-  "LastUpdate_Achievements": "2023-11-16T14:05:25.3147896+00:00"
+  "LastUpdate_Ratings": "2023-11-16T14:58:22.492801+00:00",
+  "LastUpdate_Achievements": "2023-11-16T15:05:44.8571611+00:00"
 }

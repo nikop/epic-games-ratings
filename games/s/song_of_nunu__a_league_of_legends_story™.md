@@ -9,9 +9,9 @@
 | Better On Ice | 70.00% | ~494 |
 | Notai Notes | 70.00% | ~494 |
 | Blue Dreams | 69.00% | ~487 |
-| He's Famous! | 68.00% | ~480 |
+| He's Famous! | 69.00% | ~487 |
+| Krugmazing | 67.00% | ~473 |
 | Cutie Poro | 67.00% | ~473 |
-| Krugmazing | 66.00% | ~466 |
 | The Fire Below the Mountain | 64.00% | ~452 |
 | Moneyball | 61.00% | ~431 |
 | No Bites | 57.00% | ~402 |
@@ -37,13 +37,13 @@
 | It Is Not Over | 34.00% | ~240 |
 | Snowy Poro | 32.00% | ~226 |
 | Never Gets Old | 32.00% | ~226 |
-| Vertical Power | 28.00% | ~198 |
+| Vertical Power | 29.00% | ~205 |
 | One From The Heart | 14.00% | ~99 |
 | Yummy | 11.00% | ~78 |
-| Snowball Fightn't | 10.00% | ~71 |
+| Snowball Fightn't | 11.00% | ~78 |
 | It Was Him | 8.00% | ~56 |
+| The Pied Piper Of Freljord | 7.00% | ~49 |
 | Handy Yeti | 7.00% | ~49 |
-| The Pied Piper Of Freljord | 6.00% | ~42 |
 | Braum's Poro Ranch | 4.00% | ~28 |
 | We Are Speed | 3.00% | ~21 |
 | Sneaky Notai | 2.00% | ~14 |
