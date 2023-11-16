@@ -10,7 +10,7 @@ Rating: 4.64 (Ranked 332)
 | Lab Rat | 75.00% | ~1,367 |
 | All Systems Go | 66.00% | ~1,203 |
 | Brute Force | 65.00% | ~1,185 |
-| Cannon Fodder | 60.00% | ~1,094 |
+| Cannon Fodder | 61.00% | ~1,112 |
 | Autofire | 58.00% | ~1,057 |
 | Story Teller | 56.00% | ~1,021 |
 | True Believer | 56.00% | ~1,021 |

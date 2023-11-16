@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
@@ -6573,10 +6573,10 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 719098,
-  "EOS_Completed": 2393,
-  "EOS_NewPlayers": 3728,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 719121,
+  "EOS_Completed": 2394,
+  "EOS_NewPlayers": 3736,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30558,6 +30558,11 @@
       "Time": "2023-11-16T11:05:38.1579041+00:00",
       "NumProgressed": 719098,
       "NumCompleted": 2393
+    },
+    {
+      "Time": "2023-11-16T12:06:39.2037393+00:00",
+      "NumProgressed": 719121,
+      "NumCompleted": 2394
     }
   ],
   "TotalAchievements": 51,
@@ -30567,9 +30572,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5753
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30577,7 +30582,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ach_ammo_ran",
@@ -30809,7 +30814,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ach_revival_tour",
@@ -30817,7 +30822,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ach_salvation",
@@ -30865,7 +30870,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3596
     },
     {
       "ID": "ach_the_vcla",
@@ -30976,13 +30981,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719098,
-      "Completed": 2393
+      "Progressed": 719121,
+      "Completed": 2394
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44640,
+      "Progressed": 44663,
       "Completed": 36544
     }
   ],
@@ -30990,8 +30995,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-16T08:58:18.7571572+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:05:38.1579037+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:06:39.2037388+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:58:27.8332688+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:05:38.1580446+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:58:52.8207855+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:06:39.2039796+00:00"
 }

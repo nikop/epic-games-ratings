@@ -12061,10 +12061,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57776,
       "NumberOfAwardsMax": 7026
+    },
+    {
+      "Time": "2023-11-16T11:58:36.59668+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57792,
+      "NumberOfAwardsMax": 7026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57776,
+  "NumberOfAwards": 57792,
   "NumberOfAwardsMax": 7026,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12084,7 +12090,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6753
+      "Count": 6769
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12135,9 +12141,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456635,
+  "EOS_Progressed": 456670,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6297,
+  "EOS_NewPlayers": 6304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36165,6 +36171,11 @@
       "Time": "2023-11-16T11:04:56.2165992+00:00",
       "NumProgressed": 456635,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T12:05:41.2143786+00:00",
+      "NumProgressed": 456670,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37230,9 +37241,9 @@
       "ID": "achievement_guaranteer_of_peace",
       "SetID": "8p2n7he",
       "Name": "Guarantor of Peace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_hannukah_mutapa",
@@ -38022,9 +38033,9 @@
       "ID": "achievement_pyramid_of_skulls",
       "SetID": "8p2n7he",
       "Name": "Pyramid of Skulls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_qing_of_china",
@@ -39079,21 +39090,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456635,
+      "Progressed": 456670,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456635,
+      "Progressed": 456670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-16T10:58:17.2095067+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:04:56.2165985+00:00",
+  "LastChanged": "2023-11-16T11:58:36.5966798+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:05:41.2143783+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:58:17.2095073+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:04:56.2176122+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:58:36.5966805+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:05:41.2160605+00:00"
 }

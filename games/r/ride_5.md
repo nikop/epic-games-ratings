@@ -5,31 +5,31 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 45.00% | ~968 |
-| First Love | 43.00% | ~924 |
+| First Love | 43.00% | ~925 |
 | Clean Race | 41.00% | ~882 |
-| Hear That Roar! | 39.00% | ~838 |
+| Hear That Roar! | 39.00% | ~839 |
 | Rivals to the End | 29.00% | ~624 |
-| Bitter Rivalry | 27.00% | ~580 |
+| Bitter Rivalry | 27.00% | ~581 |
 | We're Going to Need a Bigger Garage | 25.00% | ~538 |
 | Champagne Spray | 25.00% | ~538 |
 | Legendary!!! | 20.00% | ~430 |
-| Restored and Ready | 19.00% | ~408 |
-| I Want One Too! | 19.00% | ~408 |
-| Quick Pit Stop | 19.00% | ~408 |
+| Restored and Ready | 19.00% | ~409 |
+| I Want One Too! | 19.00% | ~409 |
+| Quick Pit Stop | 19.00% | ~409 |
 | Go-Faster Stripes | 18.00% | ~387 |
 | I'm Here Too! | 17.00% | ~366 |
-| We've Just Begun | 11.00% | ~236 |
+| We've Just Begun | 11.00% | ~237 |
 | Stamina Star | 9.00% | ~194 |
 | Is It the Right Size? | 8.00% | ~172 |
 | Evangelist | 6.00% | ~129 |
 | Make It Your Own! | 5.00% | ~108 |
 | Cherry Blossom and Temples | 4.00% | ~86 |
 | I Make the Rules! | 4.00% | ~86 |
-| Spoilt for Choice | 3.00% | ~64 |
-| La Dolce Vita | 3.00% | ~64 |
-| The Road to Liberty | 3.00% | ~64 |
-| Romantic Races | 3.00% | ~64 |
-| Rounding Off | 3.00% | ~64 |
+| Spoilt for Choice | 3.00% | ~65 |
+| La Dolce Vita | 3.00% | ~65 |
+| The Road to Liberty | 3.00% | ~65 |
+| Romantic Races | 3.00% | ~65 |
+| Rounding Off | 3.00% | ~65 |
 | Iconic! | 2.00% | ~43 |
 | Back in Blighty | 2.00% | ~43 |
 | Still Here | 2.00% | ~43 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,150 (Ranked 221)  
+Progressed: 2,151 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,4 +130,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 2,128 | 0 |
 | 2023-11-14 | 2,140 | 0 |
 | 2023-11-15 | 2,148 | 0 |
-| 2023-11-16 | 2,150 | 0 |
+| 2023-11-16 | 2,151 | 0 |

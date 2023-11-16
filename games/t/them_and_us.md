@@ -10,7 +10,7 @@
 | Safe...For now? | 35.00% | ~107 |
 | Open Sesame | 29.00% | ~88 |
 | What have I done!? | 19.00% | ~58 |
-| Them and Us | 17.00% | ~52 |
+| Them and Us | 18.00% | ~55 |
 | OUTRAGE | 17.00% | ~52 |
 | This Coffin Has Your Name On It! | 15.00% | ~46 |
 | Alone In The Dark | 14.00% | ~43 |

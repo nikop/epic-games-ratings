@@ -64,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.10% | ~457 |
 | Grand Duchy | 0.10% | ~457 |
 | That's a Grand Navy | 0.10% | ~457 |
+| Guarantor of Peace | 0.10% | ~457 |
 | Hard Bargaining | 0.10% | ~457 |
 | Imperio español | 0.10% | ~457 |
 | Imposter Syndrome | 0.10% | ~457 |
@@ -98,6 +99,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.10% | ~457 |
 | Parisian Pasha | 0.10% | ~457 |
 | Populists in Government | 0.10% | ~457 |
+| Pyramid of Skulls | 0.10% | ~457 |
 | Qing of China | 0.10% | ~457 |
 | Queen of Conquest | 0.10% | ~457 |
 | Queen of Mercury | 0.10% | ~457 |
@@ -227,7 +229,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
-| Guarantor of Peace | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
@@ -292,7 +293,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
-| Pyramid of Skulls | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,635 (Ranked 41)  
+Progressed: 456,670 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,15 +580,15 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,635 | 1 |
+| 2023-11-16 | 456,670 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
-Sum: 57,776 (Ranked 24)  
+Sum: 57,792 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,026 |
-| This game has Diverse Characters | 6,753 |
+| This game has Diverse Characters | 6,769 |
 | This game is Highly Recommended | 6,734 |
 | This game has Challenging Combat | 6,646 |
 | This game is Extremely Fun | 6,619 |
@@ -903,4 +903,4 @@ Diff (max vs sum): 30
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
-| 2023-11-16 | 4.69 | - | 7,026 | 57,776 |
+| 2023-11-16 | 4.69 | - | 7,026 | 57,792 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 957,
+  "EOS_Progressed": 958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1952,6 +1952,11 @@
       "Time": "2023-11-15T17:06:30.1414881+00:00",
       "NumProgressed": 957,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T12:08:25.9927381+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2099,7 +2104,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2115,7 +2120,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2131,7 +2136,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2139,7 +2144,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2155,7 +2160,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2178,7 +2183,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 957,
+      "Progressed": 958,
       "Completed": 0
     }
   ],
@@ -2186,8 +2191,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:06:52.9978498+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:08:25.9927377+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:14.2113932+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:00:17.4261869+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:06:52.9978723+00:00"
+  "LastUpdate_Ratings": "2023-11-16T12:01:41.6535364+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:08:25.9927624+00:00"
 }

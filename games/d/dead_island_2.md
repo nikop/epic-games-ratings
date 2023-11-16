@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 524)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,6 +11,7 @@ Rating: 4.54 (Ranked 523)
 | Hotel California | 1.00% | ~7,191 |
 | Welcome To Hell-A | 1.00% | ~7,191 |
 | Break A Leg | 0.90% | ~6,472 |
+| Dr. Reed, I Presume? | 0.80% | ~5,753 |
 | Git Gutte! | 0.80% | ~5,753 |
 | Bookworm | 0.80% | ~5,753 |
 | Coup de Grâce | 0.80% | ~5,753 |
@@ -18,7 +19,6 @@ Rating: 4.54 (Ranked 523)
 | Friends Like These | 0.80% | ~5,753 |
 | Apex Predator | 0.80% | ~5,753 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,753 |
-| Dr. Reed, I Presume? | 0.70% | ~5,034 |
 | Anger Management | 0.70% | ~5,034 |
 | But Doctor, I am Butcho | 0.70% | ~5,034 |
 | Can't Handle the Truth | 0.70% | ~5,034 |
@@ -32,10 +32,10 @@ Rating: 4.54 (Ranked 523)
 | Ooh, Shiny! | 0.60% | ~4,315 |
 | A Patton Emerges | 0.60% | ~4,315 |
 | Our True Nature | 0.60% | ~4,315 |
-| Making Your Mark | 0.50% | ~3,595 |
-| Humanity Distilled | 0.50% | ~3,595 |
-| I Am the Resurrection | 0.50% | ~3,595 |
-| Max Headroom | 0.50% | ~3,595 |
+| Making Your Mark | 0.50% | ~3,596 |
+| Humanity Distilled | 0.50% | ~3,596 |
+| I Am the Resurrection | 0.50% | ~3,596 |
+| Max Headroom | 0.50% | ~3,596 |
 | Not Even My Final Form | 0.40% | ~2,876 |
 | Jumbo Keyring | 0.40% | ~2,876 |
 | Down with the Sickness | 0.40% | ~2,876 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~45 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,098 (Ranked 20)  
-Completed: 2,393 (0.33%) (Ranked 224)  
+Progressed: 719,121 (Ranked 20)  
+Completed: 2,394 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,7 +267,7 @@ Completed: 2,393 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,098 | 2,393 |
+| 2023-11-16 | 719,121 | 2,394 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 51)  
 Sum: 11,383 (Ranked 84)  

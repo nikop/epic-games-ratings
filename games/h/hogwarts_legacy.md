@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 127)
 | The Hero of Hogwarts | 10.00% | ~30,217 |
 | Followed the Butterflies | 10.00% | ~30,217 |
 | Rising From the Ashes | 10.00% | ~30,217 |
-| The Spell Master | 9.00% | ~27,195 |
+| The Spell Master | 9.00% | ~27,196 |
 | The Avenging Gazelle | 8.00% | ~24,174 |
 | Beast Friends | 8.00% | ~24,174 |
 | A Sallow Grave | 8.00% | ~24,174 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,172 (Ranked 51)  
+Progressed: 302,173 (Ranked 51)  
 Completed: 512 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 512 (0.17%) (Ranked 258)
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
 | 2023-11-15 | 302,152 | 512 |
-| 2023-11-16 | 302,172 | 512 |
+| 2023-11-16 | 302,173 | 512 |
 ## Awards
 Max (Character Customization): 24,339  (Ranked 17)  
 Sum: 48,279 (Ranked 30)  

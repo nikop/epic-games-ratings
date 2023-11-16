@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322610,
+  "EOS_Progressed": 322618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2520,
+  "EOS_NewPlayers": 2522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10326,6 +10326,11 @@
       "Time": "2023-11-16T11:05:05.8789779+00:00",
       "NumProgressed": 322610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T12:05:53.5962747+00:00",
+      "NumProgressed": 322618,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -10362,7 +10367,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 141948
+      "UsersEstimate": 141952
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -10370,7 +10375,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 103235
+      "UsersEstimate": 103238
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -10378,7 +10383,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 67748
+      "UsersEstimate": 67750
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -10386,7 +10391,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 48392
+      "UsersEstimate": 48393
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -10394,7 +10399,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 38713
+      "UsersEstimate": 38714
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -10402,7 +10407,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 32261
+      "UsersEstimate": 32262
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -10410,7 +10415,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29035
+      "UsersEstimate": 29036
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -10418,7 +10423,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29035
+      "UsersEstimate": 29036
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -10714,20 +10719,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 164531
+      "UsersEstimate": 164535
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 322610,
+      "Progressed": 322618,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 322599,
+      "Progressed": 322607,
       "Completed": 0
     }
   ],
@@ -10735,8 +10740,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-11-11T17:58:21.8800999+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:05:05.8789774+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:05:53.5962742+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:18.128339+00:00",
-  "LastUpdate_Ratings": "2023-11-16T11:00:21.3153782+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:05:05.879062+00:00"
+  "LastUpdate_Ratings": "2023-11-16T12:01:47.1170185+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:05:53.5964224+00:00"
 }

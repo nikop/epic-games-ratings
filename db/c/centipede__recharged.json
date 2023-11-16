@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20168,
+  "EOS_Progressed": 20169,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1758,
+  "EOS_NewPlayers": 1757,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -16588,6 +16588,11 @@
       "Time": "2023-11-16T11:08:26.717337+00:00",
       "NumProgressed": 20168,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-16T12:08:44.1816428+00:00",
+      "NumProgressed": 20169,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 16,
@@ -16607,7 +16612,7 @@
       "Name": "Burning For You",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5445
+      "UsersEstimate": 5446
     },
     {
       "ID": "Deadline",
@@ -16623,7 +16628,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "Eyes_On_Fire",
@@ -16695,7 +16700,7 @@
       "Name": "Shooting Shark",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "Sole_Survivor",
@@ -16703,7 +16708,7 @@
       "Name": "Sole Survivor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7260
+      "UsersEstimate": 7261
     },
     {
       "ID": "Still_Burning",
@@ -16726,15 +16731,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 20168,
+      "Progressed": 20169,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-13T20:58:09.9654797+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:08:26.7173364+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:08:44.1816423+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:25.585371+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:59:07.9116403+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:08:26.7174122+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:59:54.5092669+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:08:44.1818227+00:00"
 }

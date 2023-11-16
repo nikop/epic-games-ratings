@@ -2,12 +2,12 @@
   "ID": "253d451b16364a22907dd01b7e928fb6",
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
@@ -2863,9 +2863,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 1074987,
+  "EOS_Progressed": 1075002,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 2852,
+  "EOS_NewPlayers": 2847,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26803,6 +26803,11 @@
       "Time": "2023-11-16T11:09:12.5207985+00:00",
       "NumProgressed": 1074987,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-11-16T12:09:48.18848+00:00",
+      "NumProgressed": 1075002,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 37,
@@ -26814,7 +26819,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 365496
+      "UsersEstimate": 365501
     },
     {
       "ID": "CompleteAustralia",
@@ -26838,7 +26843,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 75249
+      "UsersEstimate": 75250
     },
     {
       "ID": "CompleteChile",
@@ -26846,7 +26851,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42999
+      "UsersEstimate": 43000
     },
     {
       "ID": "CompleteChina",
@@ -27006,7 +27011,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118249
+      "UsersEstimate": 118250
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -27014,7 +27019,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 967488
+      "UsersEstimate": 967502
     },
     {
       "ID": "GetLotsOfScore",
@@ -27046,7 +27051,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 505244
+      "UsersEstimate": 505251
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -27054,7 +27059,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193498
+      "UsersEstimate": 193500
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -27062,7 +27067,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42999
+      "UsersEstimate": 43000
     },
     {
       "ID": "RunLotsOfMiles",
@@ -27078,7 +27083,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 677242
+      "UsersEstimate": 677251
     },
     {
       "ID": "WinBySmallDifference",
@@ -27086,7 +27091,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193498
+      "UsersEstimate": 193500
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -27102,22 +27107,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53749
+      "UsersEstimate": 53750
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1074987,
+      "Progressed": 1075002,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-15T02:20:13.1871973+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:09:12.520798+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:09:48.1884792+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.6159115+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:58:42.8549171+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:09:12.5209112+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:59:16.0887001+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:09:48.1887363+00:00"
 }

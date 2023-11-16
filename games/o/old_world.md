@@ -143,11 +143,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.60% | ~92 |
 | Adur Burzen-Mihr | 0.60% | ~92 |
 | Learn to Play 5 | 0.60% | ~92 |
+| Old World Order | 0.60% | ~92 |
 | Cataphract Archer | 0.60% | ~92 |
 | Kush | 0.60% | ~92 |
 | Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~77 |
-| Old World Order | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
 | No Undo | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~61 |

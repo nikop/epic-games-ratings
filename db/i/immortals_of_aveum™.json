@@ -5,7 +5,7 @@
   "Ranking_Rating": 975,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 127,
@@ -1656,9 +1656,9 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
@@ -1673,8 +1673,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-16T11:08:41.3842884+00:00",
+  "LastChanged_Achievements": "2023-11-16T12:09:04.4594883+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-16T10:58:08.5287815+00:00",
-  "LastUpdate_Achievements": "2023-11-16T11:08:41.3843266+00:00"
+  "LastUpdate_Ratings": "2023-11-16T11:58:23.2998137+00:00",
+  "LastUpdate_Achievements": "2023-11-16T12:09:04.4595448+00:00"
 }

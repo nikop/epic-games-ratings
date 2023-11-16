@@ -11,8 +11,8 @@
 | Replace Fuse | 66.00% | ~96 |
 | Alarm | 65.00% | ~94 |
 | Air Filtration | 61.00% | ~88 |
-| Broken | 59.00% | ~86 |
-| Radiation | 58.00% | ~84 |
+| Broken | 60.00% | ~87 |
+| Radiation | 59.00% | ~86 |
 | Descent | 57.00% | ~83 |
 | Sam | 57.00% | ~83 |
 | Awakenings | 56.00% | ~81 |
