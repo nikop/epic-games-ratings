@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 70,
@@ -2032,9 +2032,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 214069,
+  "EOS_Progressed": 214073,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26067,6 +26067,11 @@
       "Time": "2023-11-16T20:06:00.9902821+00:00",
       "NumProgressed": 214069,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-16T21:05:33.2231632+00:00",
+      "NumProgressed": 214073,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26118,7 +26123,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19266
+      "UsersEstimate": 19267
     },
     {
       "ID": "FiveShadows",
@@ -26150,7 +26155,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25688
+      "UsersEstimate": 25689
     },
     {
       "ID": "HappyLittleAccidents",
@@ -26254,7 +26259,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "OldMan",
@@ -26278,7 +26283,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ReleaseTheKraken",
@@ -26302,7 +26307,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19266
+      "UsersEstimate": 19267
     },
     {
       "ID": "StillRollin",
@@ -26334,7 +26339,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19266
+      "UsersEstimate": 19267
     },
     {
       "ID": "TheCave",
@@ -26390,7 +26395,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "Warzone",
@@ -26429,15 +26434,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 214069,
+      "Progressed": 214073,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-16T13:07:05.1239531+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:06:00.9902818+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:05:33.2231628+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:00:40.9142422+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:06:00.9903866+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:00:17.0930998+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:05:33.2233078+00:00"
 }

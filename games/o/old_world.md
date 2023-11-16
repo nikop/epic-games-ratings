@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 312)  
+Rating: 4.65 (Ranked 313)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,345 (Ranked 147)  
+Progressed: 15,346 (Ranked 147)  
 Completed: 5 (0.03%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 5 (0.03%) (Ranked 315)
 | 2023-11-13 | 15,305 | 5 |
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
-| 2023-11-16 | 15,345 | 5 |
+| 2023-11-16 | 15,346 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -5251,9 +5251,9 @@
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 941
+      "UsersEstimate": 977
     },
     {
       "ID": "achievement_13",
@@ -5404,8 +5404,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-16T03:01:04.4465976+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:04:44.9636747+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:04:22.1105965+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:00:41.8722567+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:04:44.9637106+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:00:17.9791187+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:04:22.1106328+00:00"
 }

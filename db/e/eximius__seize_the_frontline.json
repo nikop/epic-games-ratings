@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200052,
+  "EOS_Progressed": 200056,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
@@ -22622,6 +22622,11 @@
       "Time": "2023-11-16T20:06:25.289043+00:00",
       "NumProgressed": 200052,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T21:05:55.9133294+00:00",
+      "NumProgressed": 200056,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -22641,7 +22646,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142037
+      "UsersEstimate": 142040
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -22665,7 +22670,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36009
+      "UsersEstimate": 36010
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -22760,7 +22765,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200052,
+      "Progressed": 200056,
       "Completed": 4
     }
   ],
@@ -22768,8 +22773,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:06:25.2890424+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:05:55.9133289+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.4823585+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:58:01.407982+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:06:25.2891288+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:53.9000228+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:05:55.9134468+00:00"
 }

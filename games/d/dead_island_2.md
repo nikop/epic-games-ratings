@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~897 |
-| Whatever It Takes | 2.00% | ~897 |
-| Pork Chopped | 2.00% | ~897 |
+| One of Us | 2.00% | ~898 |
+| Whatever It Takes | 2.00% | ~898 |
+| Pork Chopped | 2.00% | ~898 |
 | Hotel California | 1.00% | ~7,193 |
 | Welcome To Hell-A | 1.00% | ~7,193 |
 | Break A Leg | 0.90% | ~6,474 |
+| Coup de Grâce | 0.90% | ~6,474 |
 | Dr. Reed, I Presume? | 0.80% | ~5,755 |
 | Git Gutte! | 0.80% | ~5,755 |
 | Bookworm | 0.80% | ~5,755 |
-| Coup de Grâce | 0.80% | ~5,755 |
 | Hazardous Materials | 0.80% | ~5,755 |
 | Friends Like These | 0.80% | ~5,755 |
 | Apex Predator | 0.80% | ~5,755 |
+| Stacking the Deck | 0.80% | ~5,755 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,755 |
 | Anger Management | 0.70% | ~5,035 |
 | But Doctor, I am Butcho | 0.70% | ~5,035 |
 | Can't Handle the Truth | 0.70% | ~5,035 |
 | Like Riding a Bike | 0.70% | ~5,035 |
-| Stacking the Deck | 0.70% | ~5,035 |
 | This is My Weapon | 0.70% | ~5,035 |
 | Perks of the Job | 0.60% | ~4,316 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,316 |
@@ -33,10 +33,10 @@ Rating: 4.54 (Ranked 522)
 | A Patton Emerges | 0.60% | ~4,316 |
 | Our True Nature | 0.60% | ~4,316 |
 | Making Your Mark | 0.50% | ~3,597 |
+| Not Even My Final Form | 0.50% | ~3,597 |
 | Humanity Distilled | 0.50% | ~3,597 |
 | I Am the Resurrection | 0.50% | ~3,597 |
 | Max Headroom | 0.50% | ~3,597 |
-| Not Even My Final Form | 0.40% | ~2,877 |
 | Jumbo Keyring | 0.40% | ~2,877 |
 | Down with the Sickness | 0.40% | ~2,877 |
 | Go, Bobcats! | 0.40% | ~2,877 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,320 (Ranked 20)  
+Progressed: 719,349 (Ranked 20)  
 Completed: 2,399 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 2,399 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,320 | 2,399 |
+| 2023-11-16 | 719,349 | 2,399 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 52)  
 Sum: 11,392 (Ranked 84)  

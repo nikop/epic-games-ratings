@@ -4,8 +4,8 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -476,9 +476,9 @@
       "ID": "ACH_BAD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Bad Review",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BLOODISH_RED",
@@ -524,9 +524,9 @@
       "ID": "ACH_COLD_SHOULDERS",
       "SetID": "8h8m55b",
       "Name": "Cold Shoulders",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COMFORTABLE_WITH_YOU",
@@ -556,17 +556,17 @@
       "ID": "ACH_FESTINA_LENTE",
       "SetID": "8h8m55b",
       "Name": "Festina Lente",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -580,17 +580,17 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_GHOSTED",
       "SetID": "8h8m55b",
       "Name": "Ghosted",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_GOOD_REVIEW",
@@ -676,17 +676,17 @@
       "ID": "ACH_NOTHING_TO_SHOW",
       "SetID": "8h8m55b",
       "Name": "Nothing to show\u2026",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NOT_SO_HOT_BUSINESS",
       "SetID": "8h8m55b",
       "Name": "Not So Hot Business",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_OVERFLOWING_WARMTH",
@@ -700,9 +700,9 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_SAVED100",
@@ -716,9 +716,9 @@
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
       "SetID": "8h8m55b",
       "Name": "Star-Crossed Siblings",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TENDER_SOUL",
@@ -732,9 +732,9 @@
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
       "SetID": "8h8m55b",
       "Name": "The Hibiscus \u0026 The Butterfly",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_TIME_SPENT_LATTEART",
@@ -812,9 +812,9 @@
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
       "SetID": "8h8m55b",
       "Name": "Immutable Immortal",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WHAT_THIS",
@@ -836,17 +836,17 @@
       "ID": "ACH_WORK_WOES",
       "SetID": "8h8m55b",
       "Name": "Work Woes",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:03:29.4811859+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:03:11.3530204+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8766102+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:57:17.3509869+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:03:29.4812257+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:13.7108611+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:03:11.353069+00:00"
 }

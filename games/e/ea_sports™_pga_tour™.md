@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Star Power | 85.00% | ~457 |
+| Makin' the Cut | 66.00% | ~355 |
 | From Way Downtown | 65.00% | ~350 |
-| Makin' the Cut | 65.00% | ~350 |
 | Clean Sheet | 62.00% | ~334 |
 | Winner's Circle | 56.00% | ~301 |
 | Holey Moley | 54.00% | ~291 |
@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 15.00% | ~81 |
 | Victory Lap | 9.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538 (Ranked 300)  
+Progressed: 538 (Ranked 301)  
 Completed: 9 (1.67%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |

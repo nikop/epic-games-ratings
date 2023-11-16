@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3986,10 +3986,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3165,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-11-16T20:58:53.420944+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3167,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3165,
+  "NumberOfAwards": 3167,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4009,7 +4015,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4033,7 +4039,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 336
+      "Count": 337
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4060,9 +4066,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 484477,
+  "EOS_Progressed": 484497,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3456,
+  "EOS_NewPlayers": 3447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28045,6 +28051,11 @@
       "Time": "2023-11-16T20:03:46.3229686+00:00",
       "NumProgressed": 484477,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T21:03:27.723567+00:00",
+      "NumProgressed": 484497,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -28112,7 +28123,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19379
+      "UsersEstimate": 19380
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -28160,7 +28171,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "ACH_JR_50",
@@ -28184,7 +28195,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -28224,7 +28235,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19379
+      "UsersEstimate": 19380
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -28288,7 +28299,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -28312,7 +28323,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14534
+      "UsersEstimate": 14535
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -28320,7 +28331,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24224
+      "UsersEstimate": 24225
     },
     {
       "ID": "ACH_WET_FEET",
@@ -28328,22 +28339,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19379
+      "UsersEstimate": 19380
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 484477,
+      "Progressed": 484497,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-11-16T16:58:46.9341831+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:03:46.3229681+00:00",
+  "LastChanged": "2023-11-16T20:58:53.4209438+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:03:27.7235665+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.866497+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:59:07.5973995+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:03:46.3230851+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:58:53.4209443+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:03:27.7237198+00:00"
 }

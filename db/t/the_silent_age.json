@@ -2,13 +2,13 @@
   "ID": "46d340566781448ebdc2cb576f91d3b6",
   "Name": "The Silent Age",
   "ProductSlug": "the-silent-age-eb6972",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 792,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-02T16:00:00+00:00",
     "PcReleaseDate": "2015-05-29T00:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 29,
   "RatingHistory": [
     {
@@ -328,6 +328,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-16T20:57:51.6486694+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -346,8 +352,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:31.9753367+00:00",
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
-  "LastChanged": "2023-10-08T18:58:40.5352666+00:00",
+  "LastChanged": "2023-11-16T20:57:51.6486693+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:19.0011032+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:57:58.7793241+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:03:33.0896395+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:51.6486698+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:03:14.8461963+00:00"
 }

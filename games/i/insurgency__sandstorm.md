@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,224 |
-| Exploitative | 4.00% | ~19,379 |
-| Point Shooting | 4.00% | ~19,379 |
-| Wet Feet | 4.00% | ~19,379 |
-| High Speed Low Drag | 3.00% | ~14,534 |
-| Lucky | 3.00% | ~14,534 |
-| Stylin' | 3.00% | ~14,534 |
-| Turf War | 3.00% | ~14,534 |
+| Wallbanger | 5.00% | ~24,225 |
+| Exploitative | 4.00% | ~19,380 |
+| Point Shooting | 4.00% | ~19,380 |
+| Wet Feet | 4.00% | ~19,380 |
+| High Speed Low Drag | 3.00% | ~14,535 |
+| Lucky | 3.00% | ~14,535 |
+| Stylin' | 3.00% | ~14,535 |
+| Turf War | 3.00% | ~14,535 |
 | Banged | 2.00% | ~9,690 |
 | Checkpoint Victory | 2.00% | ~9,690 |
 | First Blood | 2.00% | ~9,690 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~484 |
 | Road Hazard | 0.10% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,477 (Ranked 38)  
+Progressed: 484,497 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,20 +252,20 @@ Completed: 2 (0.00%) (Ranked 352)
 | 2023-11-13 | 483,399 | 2 |
 | 2023-11-14 | 483,800 | 2 |
 | 2023-11-15 | 484,137 | 2 |
-| 2023-11-16 | 484,477 | 2 |
+| 2023-11-16 | 484,497 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 231)  
-Sum: 3,165 (Ranked 171)  
+Sum: 3,167 (Ranked 171)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 396 |
 | This game has Challenging Combat | 385 |
 | This game is Extremely Fun | 365 |
-| This game has Competitive Players | 363 |
+| This game has Competitive Players | 364 |
 | This game is Highly Recommended | 351 |
 | This game has Amazing Characters | 338 |
-| This game has Realistic Visuals | 336 |
+| This game has Realistic Visuals | 337 |
 | This game has Amazing Storytelling | 331 |
 | This game has a Competitive Community | 300 |
 | This game has Obsessive Gameplay | 156 |
@@ -556,4 +556,4 @@ Diff (max vs sum): 60
 | 2023-11-12 | 4.62 | - | 396 | 3,155 |
 | 2023-11-14 | 4.62 | - | 396 | 3,160 |
 | 2023-11-15 | 4.62 | - | 396 | 3,163 |
-| 2023-11-16 | 4.62 | - | 396 | 3,165 |
+| 2023-11-16 | 4.62 | - | 396 | 3,167 |

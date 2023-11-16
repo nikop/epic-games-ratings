@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1263,
+  "EOS_Progressed": 1266,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3679,6 +3679,11 @@
       "Time": "2023-11-16T20:09:48.7564243+00:00",
       "NumProgressed": 1263,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T21:09:29.5719453+00:00",
+      "NumProgressed": 1266,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3763,7 +3768,7 @@
       "Name": "The power of the Force",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_19",
@@ -3795,7 +3800,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_22",
@@ -3883,7 +3888,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_32",
@@ -3907,7 +3912,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_35",
@@ -3915,7 +3920,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1127
     },
     {
       "ID": "achievement_36",
@@ -3929,9 +3934,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 836
     },
     {
       "ID": "achievement_38",
@@ -3939,7 +3944,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_39",
@@ -3963,7 +3968,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 646
     },
     {
       "ID": "achievement_41",
@@ -3971,7 +3976,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_42",
@@ -4033,9 +4038,9 @@
       "ID": "achievement_49",
       "SetID": "cemm4l8",
       "Name": "Do we take prisoners?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_5",
@@ -4043,7 +4048,7 @@
       "Name": "Shoot first",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_50",
@@ -4194,13 +4199,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1263,
+      "Progressed": 1266,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1263,
+      "Progressed": 1266,
       "Completed": 1
     }
   ],
@@ -4208,8 +4213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:09:48.7564241+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:09:29.571945+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:58:05.0851424+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:09:48.7564797+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:57.0233575+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:09:29.5720016+00:00"
 }

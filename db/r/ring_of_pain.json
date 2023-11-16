@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3394,7 +3394,7 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239770,
+  "EOS_Progressed": 239771,
   "EOS_Completed": 288,
   "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
@@ -25194,6 +25194,11 @@
       "Time": "2023-11-16T20:09:50.4236391+00:00",
       "NumProgressed": 239770,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-16T21:09:31.1275991+00:00",
+      "NumProgressed": 239771,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -26189,7 +26194,7 @@
       "Name": "Who Needs Luck?",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -26308,13 +26313,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239770,
+      "Progressed": 239771,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 380
     }
   ],
@@ -26322,8 +26327,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-15T21:57:04.5956472+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:09:50.4236389+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:09:31.1275987+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:57:47.6956613+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:09:50.4238648+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:41.3478287+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:09:31.1278396+00:00"
 }

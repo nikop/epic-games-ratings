@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2613,9 +2613,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_031",
@@ -2926,8 +2926,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-11-12T22:59:39.7154363+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:06:54.7328344+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:06:23.3185988+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:21.5385782+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:58:17.2914313+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:06:54.7328997+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:58:07.9625469+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:06:23.3186524+00:00"
 }

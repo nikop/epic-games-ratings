@@ -5,10 +5,10 @@ Rating: 4.74 (Ranked 157)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 66.00% | ~543 |
+| A New Journey | 66.00% | ~544 |
 | The Adventure Begins | 52.00% | ~428 |
 | Swabbie | 42.00% | ~346 |
-| With Great Power… | 41.00% | ~337 |
+| With Great Power… | 41.00% | ~338 |
 | This Belongs in a Museum | 37.00% | ~305 |
 | The Gambit Has Begun | 34.00% | ~280 |
 | Powder Monkey | 31.00% | ~255 |
@@ -32,7 +32,7 @@ Rating: 4.74 (Ranked 157)
 | Marauder | 4.00% | ~33 |
 | Welcome Back Jester | 4.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 823 (Ranked 270)  
+Progressed: 824 (Ranked 270)  
 Completed: 29 (3.52%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,6 +131,7 @@ Completed: 29 (3.52%) (Ranked 88)
 | 2023-11-12 | 819 | 28 |
 | 2023-11-13 | 821 | 28 |
 | 2023-11-14 | 823 | 29 |
+| 2023-11-16 | 824 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

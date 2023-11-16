@@ -35,6 +35,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Chop Chop | 0.10% | ~457 |
 | City of Cities | 0.10% | ~457 |
 | Cold War | 0.10% | ~457 |
+| Colonial Management | 0.10% | ~457 |
 | Combined Arms | 0.10% | ~457 |
 | Cowardly Tactics | 0.10% | ~457 |
 | Czechs and Balances | 0.10% | ~457 |
@@ -200,7 +201,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cherrypicking | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
-| Colonial Management | 0.00% | ~0 |
 | Consulate of the Sea | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,962 (Ranked 41)  
+Progressed: 456,997 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,962 | 1 |
+| 2023-11-16 | 456,997 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,833 (Ranked 24)  

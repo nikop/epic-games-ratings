@@ -15272,9 +15272,9 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896926,
+  "EOS_Progressed": 896932,
   "EOS_Completed": 2781,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39112,6 +39112,11 @@
       "Time": "2023-11-16T20:07:41.0948982+00:00",
       "NumProgressed": 896926,
       "NumCompleted": 2781
+    },
+    {
+      "Time": "2023-11-16T21:06:38.1801913+00:00",
+      "NumProgressed": 896932,
+      "NumCompleted": 2781
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39156,7 +39161,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6278
+      "UsersEstimate": 6279
     },
     {
       "ID": "FollowingTheRiver",
@@ -39420,7 +39425,7 @@
       "Name": "True Soldier",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6278
+      "UsersEstimate": 6279
     },
     {
       "ID": "TrueWarrior",
@@ -39564,7 +39569,7 @@
       "Name": "Relic Ruler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "UltimateSurvivor",
@@ -39659,21 +39664,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896926,
+      "Progressed": 896932,
       "Completed": 2781
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25549,
+      "Progressed": 25555,
       "Completed": 10227
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-16T17:57:32.664235+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:07:41.0948975+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:06:38.1801909+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:57:51.4179628+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:07:41.0950168+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:44.8858913+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:06:38.1803227+00:00"
 }

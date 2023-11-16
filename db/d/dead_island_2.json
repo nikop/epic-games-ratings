@@ -6585,10 +6585,10 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719320,
+  "EOS_Progressed": 719349,
   "EOS_Completed": 2399,
-  "EOS_NewPlayers": 3726,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 3733,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30615,6 +30615,11 @@
       "Time": "2023-11-16T20:05:58.7937247+00:00",
       "NumProgressed": 719320,
       "NumCompleted": 2399
+    },
+    {
+      "Time": "2023-11-16T21:05:31.2030099+00:00",
+      "NumProgressed": 719349,
+      "NumCompleted": 2399
     }
   ],
   "TotalAchievements": 51,
@@ -30744,9 +30749,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 6474
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30760,9 +30765,9 @@
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2877
+      "UsersEstimate": 3597
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30896,9 +30901,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5755
     },
     {
       "ID": "ach_star_performance",
@@ -30986,7 +30991,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ach_dark_magic",
@@ -30994,7 +30999,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ach_gardening_tools",
@@ -31010,7 +31015,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31033,22 +31038,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719320,
+      "Progressed": 719349,
       "Completed": 2399
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44862,
-      "Completed": 36547
+      "Progressed": 44891,
+      "Completed": 36548
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-16T16:58:25.1929187+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:05:58.793724+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:05:31.2030095+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:58:42.6029914+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:05:58.7938372+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:58:30.8616611+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:05:31.2031689+00:00"
 }

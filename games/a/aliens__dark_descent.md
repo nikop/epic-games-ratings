@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,958 |
-| Snatched Out | 74.00% | ~2,702 |
-| Keep 'Em Coming | 73.00% | ~2,666 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,447 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,959 |
+| Snatched Out | 74.00% | ~2,703 |
+| Keep 'Em Coming | 73.00% | ~2,667 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,448 |
 | Call Me Snake | 63.00% | ~2,301 |
 | Something Lurks Under The Hills | 61.00% | ~2,228 |
 | This Was No Papercut | 59.00% | ~2,155 |
@@ -18,11 +18,11 @@ Rating: 4.50 (Ranked 588)
 | First Steps Into Madness | 53.00% | ~1,936 |
 | Colonial Barrels | 51.00% | ~1,863 |
 | Harper's Hell | 46.00% | ~1,680 |
-| Making a Stand | 45.00% | ~1,643 |
+| Making a Stand | 45.00% | ~1,644 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,534 |
-| Where It All Begun | 41.00% | ~1,497 |
-| Recouped Investment | 39.00% | ~1,424 |
-| The More The Merrier | 35.00% | ~1,278 |
+| Where It All Begun | 41.00% | ~1,498 |
+| Recouped Investment | 39.00% | ~1,425 |
+| The More The Merrier | 35.00% | ~1,279 |
 | Omelette Du Fromage | 34.00% | ~1,242 |
 | Living Nightmare | 34.00% | ~1,242 |
 | The Darwin Era Was Here | 31.00% | ~1,132 |
@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 588)
 | El Riesgo Siempre Vive | 25.00% | ~913 |
 | Stuff Of Nightmares | 23.00% | ~840 |
 | Excavating The Truth | 23.00% | ~840 |
-| Abysmal Horrors | 22.00% | ~803 |
+| Abysmal Horrors | 22.00% | ~804 |
 | One For Every Occasion | 21.00% | ~767 |
 | Frontliner | 21.00% | ~767 |
 | The Cable Guy | 21.00% | ~767 |
@@ -51,7 +51,7 @@ Rating: 4.50 (Ranked 588)
 | This Ain't No Picnic | 0.70% | ~26 |
 | Chalk It Up To Experience | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,652 (Ranked 200)  
+Progressed: 3,653 (Ranked 200)  
 Completed: 3 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 3 (0.08%) (Ranked 289)
 | 2023-11-13 | 3,646 | 3 |
 | 2023-11-14 | 3,648 | 3 |
 | 2023-11-15 | 3,650 | 3 |
-| 2023-11-16 | 3,652 | 3 |
+| 2023-11-16 | 3,653 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 467)  
 Sum: 35 (Ranked 499)  

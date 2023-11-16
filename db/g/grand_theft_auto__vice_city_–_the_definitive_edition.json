@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 522,
   "Ranking_Popularity": 350,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11022,
+  "EOS_Progressed": 11023,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12934,6 +12934,11 @@
       "Time": "2023-11-16T19:08:15.7260812+00:00",
       "NumProgressed": 11022,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-16T21:08:19.4100351+00:00",
+      "NumProgressed": 11023,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13025,7 +13030,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH12",
@@ -13049,7 +13054,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "ACH15",
@@ -13105,7 +13110,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "ACH22",
@@ -13216,7 +13221,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11022,
+      "Progressed": 11023,
       "Completed": 65
     }
   ],
@@ -13224,8 +13229,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:08:04.9458758+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:08:19.4100349+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:57:30.0630813+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:08:04.9459558+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:57:25.3578211+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:08:19.4101007+00:00"
 }

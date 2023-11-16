@@ -6,13 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 15.00% | ~10 |
-| Double Kill | 9.00% | ~6 |
-| Sorcerous Spree | 5.00% | ~3 |
-| Veteran | 5.00% | ~3 |
-| Dressed For Success | 2.00% | ~1 |
-| Critical Hit | 2.00% | ~1 |
-| Don't Touch My Stuff | 2.00% | ~1 |
+| Adept | 18.00% | ~12 |
+| Double Kill | 12.00% | ~8 |
+| Sorcerous Spree | 6.00% | ~4 |
+| Veteran | 4.00% | ~3 |
+| Dressed For Success | 1.00% | ~1 |
+| Critical Hit | 1.00% | ~1 |
+| Don't Touch My Stuff | 1.00% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
 | Death To Diplomacy | 0.00% | ~0 |
@@ -61,13 +61,13 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 463)  
+Progressed: 68 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-15 | 35 | 0 |
-| 2023-11-16 | 65 | 0 |
+| 2023-11-16 | 68 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 507)  
 Sum: 194 (Ranked 403)  

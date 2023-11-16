@@ -56,7 +56,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.20% | ~480 |
 | Flesh Wound | 0.20% | ~480 |
 | Shapeshifting | 0.20% | ~480 |
-| Who Needs Luck? | 0.20% | ~2 |
+| Who Needs Luck? | 0.20% | ~3 |
 | Thank You, Friend | 0.10% | ~240 |
 | Achievement Hunter | 0.10% | ~240 |
 | Quick Descent | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,770 (Ranked 61)  
+Progressed: 239,771 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 288 (0.12%) (Ranked 272)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,770 | 288 |
+| 2023-11-16 | 239,771 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,675 (Ranked 83)  

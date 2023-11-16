@@ -2,13 +2,13 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 293,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-04-29T18:06:30+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, VN"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 431,
   "RatingHistory": [
     {
@@ -2448,10 +2448,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1497,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2023-11-16T20:58:14.9913998+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1498,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1497,
+  "NumberOfAwards": 1498,
   "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2465,7 +2471,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2533,8 +2539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-11-16T14:58:12.8989512+00:00",
+  "LastChanged": "2023-11-16T20:58:14.9913997+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.0377227+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:58:24.8927476+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:08:47.8382816+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:58:14.9914001+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:08:31.5277558+00:00"
 }

@@ -25,12 +25,12 @@ Rating: 4.61 (Ranked 385)
 | Intimidation Tactics | 0.80% | ~43 |
 | Sehiran Oasis | 0.70% | ~38 |
 | Digging for Treasure | 0.60% | ~32 |
+| My Final Form | 0.60% | ~32 |
+| Impenetrable Fortress | 0.60% | ~32 |
 | Tipping the Scales | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
-| My Final Form | 0.50% | ~27 |
-| Impenetrable Fortress | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
 | Mighty Hoard | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |

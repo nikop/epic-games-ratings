@@ -2,13 +2,13 @@
   "ID": "bd6437617fc841df8c43800901211059",
   "Name": "Battle Chasers: Nightwar",
   "ProductSlug": "battle-chasers-nightwar",
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 313,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-03T16:00:00+00:00",
@@ -178,6 +178,6 @@
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
   "LastChanged": "2023-07-17T16:00:12.8288969+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:40.129297+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:00:36.3602642+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:07:00.3017234+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:00:12.970639+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:06:28.5861258+00:00"
 }

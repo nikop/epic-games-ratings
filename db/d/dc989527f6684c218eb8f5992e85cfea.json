@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13629,
+  "EOS_Progressed": 13630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14514,6 +14514,11 @@
       "Time": "2023-11-16T20:06:33.6067532+00:00",
       "NumProgressed": 13629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T21:06:03.9528964+00:00",
+      "NumProgressed": 13630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14525,7 +14530,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -14549,7 +14554,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -14724,14 +14729,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13629,
+      "Progressed": 13630,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:06:33.6067528+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:06:03.9528959+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-16T19:58:57.8963093+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:06:33.6068201+00:00"
+  "LastUpdate_Ratings": "2023-11-16T20:58:44.6347557+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:06:03.9529701+00:00"
 }

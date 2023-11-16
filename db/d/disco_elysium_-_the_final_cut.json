@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1460,7 +1460,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130876,
+  "EOS_Progressed": 130878,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -22085,6 +22085,11 @@
       "Time": "2023-11-16T20:06:20.1393241+00:00",
       "NumProgressed": 130876,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-16T21:05:51.240884+00:00",
+      "NumProgressed": 130878,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22152,7 +22157,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31410
+      "UsersEstimate": 31411
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22176,7 +22181,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36645
+      "UsersEstimate": 36646
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22240,7 +22245,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "ACH_CUNO",
@@ -22415,15 +22420,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130876,
+      "Progressed": 130878,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-15T18:00:47.4293214+00:00",
-  "LastChanged_Achievements": "2023-11-16T20:06:20.1393238+00:00",
+  "LastChanged_Achievements": "2023-11-16T21:05:51.2408834+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-16T20:00:36.0770869+00:00",
-  "LastUpdate_Achievements": "2023-11-16T20:06:20.139421+00:00"
+  "LastUpdate_Ratings": "2023-11-16T21:00:12.729297+00:00",
+  "LastUpdate_Achievements": "2023-11-16T21:05:51.2410039+00:00"
 }
