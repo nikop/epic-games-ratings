@@ -2863,9 +2863,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 1074928,
+  "EOS_Progressed": 1074934,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 2824,
+  "EOS_NewPlayers": 2822,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26783,6 +26783,11 @@
       "Time": "2023-11-16T07:08:46.7128103+00:00",
       "NumProgressed": 1074928,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-11-16T08:09:11.9378556+00:00",
+      "NumProgressed": 1074934,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 37,
@@ -26794,7 +26799,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 365476
+      "UsersEstimate": 365478
     },
     {
       "ID": "CompleteAustralia",
@@ -26986,7 +26991,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 118242
+      "UsersEstimate": 118243
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -26994,7 +26999,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 967435
+      "UsersEstimate": 967441
     },
     {
       "ID": "GetLotsOfScore",
@@ -27026,7 +27031,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 505216
+      "UsersEstimate": 505219
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -27034,7 +27039,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193487
+      "UsersEstimate": 193488
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -27058,7 +27063,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 677205
+      "UsersEstimate": 677208
     },
     {
       "ID": "WinBySmallDifference",
@@ -27066,7 +27071,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 193487
+      "UsersEstimate": 193488
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -27082,22 +27087,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53746
+      "UsersEstimate": 53747
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1074928,
+      "Progressed": 1074934,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-11-15T02:20:13.1871973+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:08:46.7128098+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:09:11.9378552+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.6159115+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:58:22.6928892+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:08:46.7129969+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:58:39.780635+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:09:11.9379858+00:00"
 }

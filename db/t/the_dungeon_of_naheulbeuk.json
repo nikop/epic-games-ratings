@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1329,9 +1329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237386,
+  "EOS_Progressed": 237390,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1353,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18734,6 +18734,11 @@
       "Time": "2023-11-16T07:08:16.7416435+00:00",
       "NumProgressed": 237386,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-16T08:08:43.9875408+00:00",
+      "NumProgressed": 237390,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18801,7 +18806,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9495
+      "UsersEstimate": 9496
     },
     {
       "ID": "Chapter3",
@@ -19177,7 +19182,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11869
+      "UsersEstimate": 11870
     },
     {
       "ID": "ElfEpic",
@@ -19193,7 +19198,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83085
+      "UsersEstimate": 83086
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19209,7 +19214,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9495
+      "UsersEstimate": 9496
     },
     {
       "ID": "EndCombatOneHp",
@@ -19217,7 +19222,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9495
+      "UsersEstimate": 9496
     },
     {
       "ID": "EndGameCursed",
@@ -19329,7 +19334,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "QuestEmile",
@@ -19393,7 +19398,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9495
+      "UsersEstimate": 9496
     },
     {
       "ID": "SupportCount4",
@@ -19448,21 +19453,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237386,
+      "Progressed": 237390,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237386,
+      "Progressed": 237390,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T01:47:15.3446866+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:08:16.7416423+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:08:43.9875404+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:59:11.5522695+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:08:16.7418205+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:59:22.7455055+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:08:43.9876795+00:00"
 }

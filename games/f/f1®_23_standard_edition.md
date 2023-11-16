@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,350 |
-| On the Top Step | 87.00% | ~5,005 |
-| Setting up for Success | 76.00% | ~4,372 |
-| Team Orders | 74.00% | ~4,257 |
+| Getting on the Step | 93.00% | ~5,351 |
+| On the Top Step | 87.00% | ~5,006 |
+| Setting up for Success | 76.00% | ~4,373 |
+| Team Orders | 74.00% | ~4,258 |
 | Engineer | 54.00% | ~3,107 |
 | Familiar Faces | 47.00% | ~2,704 |
 | Sharing the Love | 41.00% | ~2,359 |
 | Going the Extra Mile | 41.00% | ~2,359 |
 | Hitting a Season | 35.00% | ~2,014 |
-| A Dozen Pieces | 31.00% | ~1,783 |
-| Challenge Yourself | 31.00% | ~1,783 |
-| Making History | 31.00% | ~1,783 |
+| A Dozen Pieces | 31.00% | ~1,784 |
+| Challenge Yourself | 31.00% | ~1,784 |
+| Making History | 31.00% | ~1,784 |
 | Network Success | 26.00% | ~1,496 |
 | Writing a new Chapter | 25.00% | ~1,438 |
 | Spring Cleaning | 23.00% | ~1,323 |
 | Reduce | 20.00% | ~1,151 |
 | Ups and Downs | 19.00% | ~1,093 |
 | Crucial Combo | 18.00% | ~1,036 |
-| Reuse | 16.00% | ~920 |
-| One for the Book | 16.00% | ~920 |
-| Proving Them Wrong | 16.00% | ~920 |
+| Reuse | 16.00% | ~921 |
+| One for the Book | 16.00% | ~921 |
+| Proving Them Wrong | 16.00% | ~921 |
 | Gathering Dust | 15.00% | ~863 |
 | Oil and Water | 13.00% | ~748 |
 | Hitting a Bullseye | 13.00% | ~748 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,753 (Ranked 182)  
+Progressed: 5,754 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 5,713 | 0 |
 | 2023-11-14 | 5,732 | 0 |
 | 2023-11-15 | 5,748 | 0 |
-| 2023-11-16 | 5,753 | 0 |
+| 2023-11-16 | 5,754 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 72 (Ranked 463)  

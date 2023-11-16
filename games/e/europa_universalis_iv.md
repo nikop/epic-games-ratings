@@ -45,6 +45,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.10% | ~457 |
 | Electable! | 0.10% | ~457 |
 | The Emperors new clothes | 0.10% | ~457 |
+| Even Better than Piet Heyn | 0.10% | ~457 |
 | Everything's Coming Up Mulhouse | 0.10% | ~457 |
 | Factionalism | 0.10% | ~457 |
 | Fine Financials | 0.10% | ~457 |
@@ -99,6 +100,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.10% | ~457 |
 | Queen of Mercury | 0.10% | ~457 |
 | Redecorating | 0.10% | ~457 |
+| Relentless Push East | 0.10% | ~457 |
 | Respected | 0.10% | ~457 |
 | Royal Authority | 0.10% | ~457 |
 | Ruina Imperii | 0.10% | ~457 |
@@ -203,7 +205,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
-| Even Better than Piet Heyn | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
@@ -297,7 +298,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | The Reapers | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Relentless Push East | 0.00% | ~0 |
 | Rise of the White Sheep | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,554 (Ranked 41)  
+Progressed: 456,563 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,554 | 1 |
+| 2023-11-16 | 456,563 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,733 (Ranked 24)  

@@ -49,6 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.20% | ~479 |
 | Doing Time | 0.20% | ~479 |
 | Toxic | 0.20% | ~479 |
+| Acid Bath | 0.20% | ~479 |
 | New Perspectives | 0.20% | ~479 |
 | Sneaky | 0.20% | ~479 |
 | Shadow Walker | 0.20% | ~479 |
@@ -105,7 +106,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Good Boys | 0.10% | ~240 |
 | Just Looking Around | 0.10% | ~240 |
 | Spreading Plague | 0.10% | ~240 |
-| Acid Bath | 0.10% | ~240 |
 | Need An Antidote? | 0.10% | ~240 |
 | Antivenom | 0.10% | ~240 |
 | Decisions, Decisions | 0.10% | ~240 |

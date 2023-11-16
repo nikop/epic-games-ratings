@@ -3396,7 +3396,7 @@
   ],
   "EOS_Progressed": 239748,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25841,9 +25841,9 @@
       "ID": "POISONEDTWICEIN1TURN",
       "SetID": "5l8oe0h",
       "Name": "Acid Bath",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "POISONSELF20",
@@ -26272,8 +26272,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-15T21:57:04.5956472+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:09:18.9727836+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:09:41.0212854+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:57:12.1847087+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:09:18.9730754+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:57:36.6208044+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:09:41.0215684+00:00"
 }

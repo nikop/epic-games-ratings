@@ -15150,10 +15150,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 353660,
       "NumberOfAwardsMax": 105592
+    },
+    {
+      "Time": "2023-11-16T07:57:39.8055555+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 353860,
+      "NumberOfAwardsMax": 105592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353660,
+  "NumberOfAwards": 353860,
   "NumberOfAwardsMax": 105592,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15167,7 +15173,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 76365
+      "Count": 76492
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15209,7 +15215,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 18675
+      "Count": 18748
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15230,9 +15236,9 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896847,
+  "EOS_Progressed": 896851,
   "EOS_Completed": 2779,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39005,6 +39011,11 @@
       "Time": "2023-11-16T07:06:16.6337739+00:00",
       "NumProgressed": 896847,
       "NumCompleted": 2779
+    },
+    {
+      "Time": "2023-11-16T08:06:17.5973649+00:00",
+      "NumProgressed": 896851,
+      "NumCompleted": 2779
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39345,7 +39356,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26905
+      "UsersEstimate": 26906
     },
     {
       "ID": "YipMan",
@@ -39552,21 +39563,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896847,
+      "Progressed": 896851,
       "Completed": 2779
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25470,
+      "Progressed": 25474,
       "Completed": 10226
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-16T06:57:15.7772535+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:06:16.6337735+00:00",
+  "LastChanged": "2023-11-16T07:57:39.8055554+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:06:17.5973644+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:57:15.7772541+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:06:16.6339176+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:57:39.805556+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:06:17.5975261+00:00"
 }

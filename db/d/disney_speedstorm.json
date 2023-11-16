@@ -1185,9 +1185,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 297961,
+  "EOS_Progressed": 297981,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 11109,
+  "EOS_NewPlayers": 11103,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12225,6 +12225,11 @@
       "Time": "2023-11-16T07:03:00.5026729+00:00",
       "NumProgressed": 297961,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-16T08:03:14.2970434+00:00",
+      "NumProgressed": 297981,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 24,
@@ -12244,7 +12249,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14898
+      "UsersEstimate": 14899
     },
     {
       "ID": "11",
@@ -12276,7 +12281,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17878
+      "UsersEstimate": 17879
     },
     {
       "ID": "15",
@@ -12332,7 +12337,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11918
+      "UsersEstimate": 11919
     },
     {
       "ID": "21",
@@ -12356,7 +12361,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "24",
@@ -12380,7 +12385,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "5",
@@ -12388,7 +12393,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29796
+      "UsersEstimate": 29798
     },
     {
       "ID": "6",
@@ -12427,7 +12432,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 297961,
+      "Progressed": 297981,
       "Completed": 286
     }
   ],
@@ -12435,8 +12440,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-16T04:58:43.2178203+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:03:00.5026725+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:03:14.2970433+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:24.0449621+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:58:57.5484281+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:03:00.5027356+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:59:10.5718118+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:03:14.2971145+00:00"
 }

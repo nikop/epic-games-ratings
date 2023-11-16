@@ -4041,9 +4041,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 78670,
+  "EOS_Progressed": 78671,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 957,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -27791,6 +27791,11 @@
       "Time": "2023-11-16T07:08:21.3129129+00:00",
       "NumProgressed": 78670,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-16T08:08:48.5272196+00:00",
+      "NumProgressed": 78671,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27906,7 +27911,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 25174
+      "UsersEstimate": 25175
     },
     {
       "ID": "complete_mission_1",
@@ -27994,7 +27999,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9440
+      "UsersEstimate": 9441
     },
     {
       "ID": "empire_tier_5",
@@ -28050,7 +28055,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 28321
+      "UsersEstimate": 28322
     },
     {
       "ID": "hit_max_level",
@@ -28098,7 +28103,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27534
+      "UsersEstimate": 27535
     },
     {
       "ID": "one_third_purple",
@@ -28186,7 +28191,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33041
+      "UsersEstimate": 33042
     },
     {
       "ID": "whole_map_purple",
@@ -28202,7 +28207,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -28225,13 +28230,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 78670,
+      "Progressed": 78671,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 50307,
+      "Progressed": 50308,
       "Completed": 4321
     }
   ],
@@ -28239,8 +28244,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-15T09:02:55.6556234+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:08:21.3129124+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:08:48.5272193+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:06.5148406+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:02:50.7073438+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:08:21.3130761+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:03:04.5231807+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:08:48.5273416+00:00"
 }

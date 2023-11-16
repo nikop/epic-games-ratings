@@ -7691,9 +7691,9 @@
       "Count": 1161
     }
   ],
-  "EOS_Progressed": 839964,
+  "EOS_Progressed": 839974,
   "EOS_Completed": 198,
-  "EOS_NewPlayers": 4913,
+  "EOS_NewPlayers": 4914,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28211,6 +28211,11 @@
       "Time": "2023-11-16T07:04:21.1880516+00:00",
       "NumProgressed": 839964,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-11-16T08:04:29.6696179+00:00",
+      "NumProgressed": 839974,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 75,
@@ -28222,7 +28227,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 209991
+      "UsersEstimate": 209994
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -28446,7 +28451,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41998
+      "UsersEstimate": 41999
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -28630,7 +28635,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 41998
+      "UsersEstimate": 41999
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -28774,7 +28779,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41998
+      "UsersEstimate": 41999
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -28821,13 +28826,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 839964,
+      "Progressed": 839974,
       "Completed": 241
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 839964,
+      "Progressed": 839974,
       "Completed": 198
     }
   ],
@@ -28835,8 +28840,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-16T06:57:02.0185772+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:04:21.1880512+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:04:29.6696175+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:54.9763449+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:57:02.0185779+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:04:21.1882085+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:57:27.3779922+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:04:29.6697699+00:00"
 }

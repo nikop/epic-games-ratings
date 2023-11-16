@@ -12123,9 +12123,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456554,
+  "EOS_Progressed": 456563,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6295,
+  "EOS_NewPlayers": 6291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36133,6 +36133,11 @@
       "Time": "2023-11-16T07:04:22.6557716+00:00",
       "NumProgressed": 456554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T08:04:31.3599688+00:00",
+      "NumProgressed": 456563,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36886,9 +36891,9 @@
       "ID": "achievement_even_better_than_piet_heyn",
       "SetID": "8p2n7he",
       "Name": "Even Better than Piet Heyn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_everythings_coming_up_mulhouse",
@@ -38070,9 +38075,9 @@
       "ID": "achievement_relentless_push_east",
       "SetID": "8p2n7he",
       "Name": "Relentless Push East",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_respected",
@@ -39047,21 +39052,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456554,
+      "Progressed": 456563,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456554,
+      "Progressed": 456563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-16T03:58:21.0881827+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:04:22.6557712+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:04:31.3599683+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:57:54.9849822+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:04:22.6567732+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:58:14.2942566+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:04:31.3609892+00:00"
 }

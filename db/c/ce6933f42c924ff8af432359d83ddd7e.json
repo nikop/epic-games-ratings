@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 4.2,
+  "EOS_Completed_Percentage": 4.19,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1844,6 +1844,11 @@
       "Time": "2023-11-16T07:08:40.1024402+00:00",
       "NumProgressed": 810,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-16T08:09:06.3539895+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1870,9 +1875,9 @@
       "ID": "ACH_DONUTS",
       "SetID": "6f5dahd",
       "Name": "Sweet tooth",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 567
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1888,7 +1893,7 @@
       "Name": "Get back to work",
       "Percentage": 5,
       "XP": 185,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_PENTAGRAM",
@@ -1912,7 +1917,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1928,21 +1933,21 @@
       "Name": "Exit",
       "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:08:40.1024398+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:09:06.353989+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:59:29.5739317+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:08:40.1024577+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:59:38.5333249+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:09:06.3540063+00:00"
 }

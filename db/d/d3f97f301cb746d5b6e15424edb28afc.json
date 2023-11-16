@@ -2094,9 +2094,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 420
+      "UsersEstimate": 427
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -2206,9 +2206,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 504
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -2446,9 +2446,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 392
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -2509,8 +2509,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:06:46.9967146+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:08:26.1434292+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:00:15.112586+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:06:46.9967927+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:00:20.004733+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:08:26.1435523+00:00"
 }

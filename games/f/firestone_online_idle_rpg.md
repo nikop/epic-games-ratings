@@ -6,9 +6,9 @@ Rating: 4.12 (Ranked 957)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~2,186 |
-| World Map | 79.00% | ~1,856 |
-| Temple of Eternals | 57.00% | ~1,339 |
-| Prestigious | 54.00% | ~1,269 |
+| World Map | 79.00% | ~1,857 |
+| Temple of Eternals | 57.00% | ~1,340 |
+| Prestigious | 54.00% | ~1,270 |
 | Fellowship Power | 42.00% | ~987 |
 | Guild Power | 25.00% | ~588 |
 | Prestigious x10 | 22.00% | ~517 |
@@ -18,9 +18,9 @@ Rating: 4.12 (Ranked 957)
 | Full Party | 16.00% | ~376 |
 | Inspection | 16.00% | ~376 |
 | Miner Clicker | 16.00% | ~376 |
-| Dragon Master | 15.00% | ~352 |
-| Enlightenment | 15.00% | ~352 |
-| Hero inspection | 15.00% | ~352 |
+| Dragon Master | 15.00% | ~353 |
+| Enlightenment | 15.00% | ~353 |
+| Hero inspection | 15.00% | ~353 |
 | Lieutenant | 14.00% | ~329 |
 | Milestone collector | 13.00% | ~306 |
 | Mysterious Rock | 13.00% | ~306 |
@@ -28,9 +28,9 @@ Rating: 4.12 (Ranked 957)
 | Superior | 13.00% | ~306 |
 | The Unstoppable | 13.00% | ~306 |
 | Scientist | 12.00% | ~282 |
-| Doing My Part | 11.00% | ~258 |
-| Hunter | 11.00% | ~258 |
-| The power of Awakening | 11.00% | ~258 |
+| Doing My Part | 11.00% | ~259 |
+| Hunter | 11.00% | ~259 |
+| The power of Awakening | 11.00% | ~259 |
 | Challenger | 10.00% | ~235 |
 | Daily Quest Completionist | 10.00% | ~235 |
 | Four Leaf Clover | 10.00% | ~235 |
@@ -62,9 +62,9 @@ Rating: 4.12 (Ranked 957)
 | Background Story | 5.00% | ~118 |
 | Ebony Jungle Liberator | 5.00% | ~118 |
 | Mythic Power | 4.00% | ~94 |
-| Gear Enchanting | 3.00% | ~70 |
-| Guardian Master | 3.00% | ~70 |
-| What lies behind the bush | 3.00% | ~70 |
+| Gear Enchanting | 3.00% | ~71 |
+| Guardian Master | 3.00% | ~71 |
+| What lies behind the bush | 3.00% | ~71 |
 | Cauldron Liberator | 2.00% | ~47 |
 | Enchanting skill x5 | 2.00% | ~47 |
 | Pokerface | 2.00% | ~47 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 957)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,350 (Ranked 215)  
+Progressed: 2,351 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2 (0.09%) (Ranked 282)
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
-| 2023-11-16 | 2,350 | 2 |
+| 2023-11-16 | 2,351 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

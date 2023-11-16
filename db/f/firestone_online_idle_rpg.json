@@ -475,9 +475,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2350,
+  "EOS_Progressed": 2351,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7155,6 +7155,11 @@
       "Time": "2023-11-16T05:08:26.7969197+00:00",
       "NumProgressed": 2350,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T08:08:52.5462392+00:00",
+      "NumProgressed": 2351,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7262,7 +7267,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "dragonclicker",
@@ -7278,7 +7283,7 @@
       "Name": "Dragon Master",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "dragonslayer",
@@ -7334,7 +7339,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "exoticmerchant",
@@ -7382,7 +7387,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "guardianmaster",
@@ -7390,7 +7395,7 @@
       "Name": "Guardian Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "guildpower",
@@ -7414,7 +7419,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "howdoyouturnthison",
@@ -7430,7 +7435,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "inspection",
@@ -7558,7 +7563,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "prestigiousx10",
@@ -7622,7 +7627,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "thealchemist",
@@ -7662,7 +7667,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "theunstoppable",
@@ -7750,7 +7755,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "worldmap",
@@ -7758,14 +7763,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2350,
+      "Progressed": 2351,
       "Completed": 2
     }
   ],
@@ -7773,8 +7778,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-16T07:08:25.3515278+00:00",
+  "LastChanged_Achievements": "2023-11-16T08:08:52.5462389+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:00:22.5169278+00:00",
-  "LastUpdate_Achievements": "2023-11-16T07:08:25.3516035+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:00:29.9716062+00:00",
+  "LastUpdate_Achievements": "2023-11-16T08:08:52.5463248+00:00"
 }

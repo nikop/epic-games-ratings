@@ -26,7 +26,7 @@
 | Free at last | 13.00% | ~73 |
 | A Link to the Past | 12.00% | ~68 |
 | Rascal | 12.00% | ~68 |
-| A great audience | 10.00% | ~56 |
+| A great audience | 11.00% | ~62 |
 | For its own good | 9.00% | ~51 |
 | Fashion victim | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)

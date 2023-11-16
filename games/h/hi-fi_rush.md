@@ -5,11 +5,11 @@ Rating: 4.86 (Ranked 30)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 17.00% | ~718 |
 | Start with a bang! | 16.00% | ~676 |
-| Feeling the beat! | 16.00% | ~676 |
 | You can pet the cat! | 15.00% | ~634 |
+| Cream of the Crop | 14.00% | ~592 |
 | Who put gears in there? | 14.00% | ~592 |
-| Cream of the Crop | 13.00% | ~549 |
 | Thanks for the free chip, Peppermint! | 13.00% | ~549 |
 | You got this, Peppermint? | 13.00% | ~549 |
 | Perfect Parry | 12.00% | ~507 |
