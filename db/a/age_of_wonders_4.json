@@ -461,7 +461,7 @@
   ],
   "EOS_Progressed": 5398,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7375,9 +7375,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "37",
@@ -7519,17 +7519,17 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "50",
@@ -7551,9 +7551,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "53",
@@ -7638,8 +7638,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:05:50.6170773+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:05:23.5821348+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:58:52.724509+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:05:50.6171655+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:58:49.2671158+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:05:23.5821992+00:00"
 }

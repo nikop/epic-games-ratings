@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~153 |
 | Points Victory | 1.00% | ~153 |
 | The Clergy | 1.00% | ~153 |
+| Devout | 0.90% | ~138 |
 | Ready | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
 | Assyrian Paganism | 0.90% | ~138 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
 | Bad Heir Day | 0.80% | ~123 |
-| Devout | 0.80% | ~123 |
 | Clerics | 0.80% | ~123 |
 | Egypt | 0.80% | ~123 |
 | Hittite Paganism | 0.80% | ~123 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,346 (Ranked 147)  
+Progressed: 15,349 (Ranked 147)  
 Completed: 5 (0.03%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 5 (0.03%) (Ranked 316)
 | 2023-11-13 | 15,305 | 5 |
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
-| 2023-11-16 | 15,346 | 5 |
+| 2023-11-16 | 15,349 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -577,6 +577,11 @@
       "Time": "2023-11-10T23:06:35.8551326+00:00",
       "NumProgressed": 682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T23:04:55.1932238+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -596,7 +601,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Arm_Wrestling",
@@ -628,7 +633,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Combine",
@@ -676,7 +681,7 @@
       "Name": "I just love stuff!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "I_think_its_broke",
@@ -700,7 +705,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Lady_Luck",
@@ -756,7 +761,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -764,7 +769,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "The Traveler",
@@ -844,7 +849,7 @@
       "Name": "You are the One",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "manhole",
@@ -852,7 +857,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "posters",
@@ -875,7 +880,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 0
     }
   ],
@@ -883,8 +888,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:05:17.851267+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:04:55.1932232+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:20.3403451+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:58:26.7636588+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:05:17.8512887+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:58:26.3899681+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:04:55.1932494+00:00"
 }

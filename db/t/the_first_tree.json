@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37959,
+  "EOS_Progressed": 37960,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -18485,6 +18485,11 @@
       "Time": "2023-11-16T22:04:14.0671898+00:00",
       "NumProgressed": 37959,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-16T23:03:56.7357964+00:00",
+      "NumProgressed": 37960,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -18512,7 +18517,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9869
+      "UsersEstimate": 9870
     },
     {
       "ID": "allItems",
@@ -18584,7 +18589,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29228
+      "UsersEstimate": 29229
     },
     {
       "ID": "roots",
@@ -18607,15 +18612,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37959,
+      "Progressed": 37960,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:04:14.0671894+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:03:56.7357961+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.7506613+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:59:24.7028011+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:04:14.067309+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:59:17.5840305+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:03:56.7358972+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "17",
       "SetID": "39djiaj",
       "Name": "True Story!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "18",
@@ -612,9 +612,9 @@
       "ID": "26",
       "SetID": "39djiaj",
       "Name": "Living Room Secret Spot",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "27",
@@ -764,9 +764,9 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "8",
@@ -795,8 +795,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:08:32.2062777+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:08:03.9105275+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:05.1891285+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:59:34.580364+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:08:32.2063124+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:59:26.2413734+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:08:03.9105558+00:00"
 }

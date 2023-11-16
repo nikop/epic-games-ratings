@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 935)  
+Rating: 4.16 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.16 (Ranked 935)
 | Realized Potential | 0.70% | ~299 |
 | Awakening | 0.60% | ~256 |
 | Explorer: Trailblazer | 0.60% | ~256 |
-| Through the Eyes of Another: Seer | 0.50% | ~213 |
+| Through the Eyes of Another: Seer | 0.50% | ~214 |
 | Archivist | 0.30% | ~128 |
 | Craftsperson | 0.30% | ~128 |
 | Tit for Tat | 0.30% | ~128 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 935)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,697 (Ranked 115)  
+Progressed: 42,702 (Ranked 116)  
 Completed: 3 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 3 (0.01%) (Ranked 331)
 | 2023-11-13 | 42,624 | 3 |
 | 2023-11-14 | 42,648 | 3 |
 | 2023-11-15 | 42,675 | 3 |
-| 2023-11-16 | 42,697 | 3 |
+| 2023-11-16 | 42,702 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 495)  
 Sum: 29 (Ranked 511)  

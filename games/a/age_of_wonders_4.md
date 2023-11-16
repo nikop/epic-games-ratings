@@ -23,23 +23,23 @@ Rating: 4.61 (Ranked 385)
 | Seat of Power | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
 | Intimidation Tactics | 0.80% | ~43 |
-| Sehiran Oasis | 0.70% | ~38 |
+| Sehiran Oasis | 0.80% | ~43 |
 | Digging for Treasure | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Impenetrable Fortress | 0.60% | ~32 |
 | Tipping the Scales | 0.60% | ~32 |
+| Mighty Hoard | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
+| Fiery Friend | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
-| Mighty Hoard | 0.50% | ~27 |
+| Blood of the Dragon | 0.50% | ~27 |
 | Prometheus Avenged | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
 | Arch Mage | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
 | Preparation Is Everything | 0.40% | ~22 |
-| Fiery Friend | 0.40% | ~22 |
-| Blood of the Dragon | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |

@@ -35,8 +35,8 @@
 | Reincarnation Cycle Stopper | 32.00% | ~93 |
 | Left Arm Leverager | 29.00% | ~84 |
 | Canyon of Karakuri | 27.00% | ~78 |
+| Style Seeker | 27.00% | ~78 |
 | Unrivaled in Arms | 27.00% | ~78 |
-| Style Seeker | 26.00% | ~75 |
 | Human Believer | 26.00% | ~75 |
 | Karakuri Minato | 26.00% | ~75 |
 | Threaded Harmony | 24.00% | ~70 |

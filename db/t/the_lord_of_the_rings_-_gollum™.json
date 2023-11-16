@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1528,6 +1528,11 @@
       "Time": "2023-11-16T22:06:25.0015199+00:00",
       "NumProgressed": 582,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T23:05:54.2717252+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1611,15 +1616,15 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "Chapter8",
@@ -1819,21 +1824,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:06:25.0015191+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:05:54.2717247+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:00:05.9742276+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:06:25.0015525+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:59:54.054176+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:05:54.2717555+00:00"
 }

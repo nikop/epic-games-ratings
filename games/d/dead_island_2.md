@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~898 |
-| Whatever It Takes | 2.00% | ~898 |
-| Pork Chopped | 2.00% | ~898 |
+| One of Us | 2.00% | ~899 |
+| Whatever It Takes | 2.00% | ~899 |
+| Pork Chopped | 2.00% | ~899 |
 | Hotel California | 1.00% | ~7,194 |
 | Welcome To Hell-A | 1.00% | ~7,194 |
 | Break A Leg | 0.90% | ~6,474 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 522)
 | Humanity Distilled | 0.50% | ~3,597 |
 | I Am the Resurrection | 0.50% | ~3,597 |
 | Max Headroom | 0.50% | ~3,597 |
-| Jumbo Keyring | 0.40% | ~2,877 |
-| Down with the Sickness | 0.40% | ~2,877 |
-| Go, Bobcats! | 0.40% | ~2,877 |
-| Rising Star | 0.40% | ~2,877 |
+| Jumbo Keyring | 0.40% | ~2,878 |
+| Down with the Sickness | 0.40% | ~2,878 |
+| Go, Bobcats! | 0.40% | ~2,878 |
+| Rising Star | 0.40% | ~2,878 |
 | Make it So | 0.30% | ~2,158 |
 | On Safari | 0.30% | ~2,158 |
 | Smorgasbord | 0.30% | ~2,158 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,369 (Ranked 20)  
+Progressed: 719,387 (Ranked 20)  
 Completed: 2,399 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,14 +267,14 @@ Completed: 2,399 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,369 | 2,399 |
+| 2023-11-16 | 719,387 | 2,399 |
 ## Awards
-Max (Great Boss Battles): 7,466  (Ranked 52)  
-Sum: 11,398 (Ranked 84)  
-Diff (max vs sum): -32  
+Max (Great Boss Battles): 7,498  (Ranked 51)  
+Sum: 11,430 (Ranked 84)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,466 |
+| This game has Great Boss Battles | 7,498 |
 | This game is Great for Beginners | 569 |
 | This game has Diverse Characters | 546 |
 | This game has Quickly Understood Controls | 519 |
@@ -495,4 +495,4 @@ Diff (max vs sum): -32
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
-| 2023-11-16 | 4.54 | 7,466 | 11,398 |
+| 2023-11-16 | 4.54 | 7,498 | 11,430 |

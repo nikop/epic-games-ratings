@@ -6,23 +6,23 @@ Rating: 3.82 (Ranked 1,024)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 51.00% | ~291 |
-| A Friend in Need... | 46.00% | ~262 |
+| A Friend in Need... | 46.00% | ~263 |
 | Bosom Buddies | 31.00% | ~177 |
 | Beat the Heat | 24.00% | ~137 |
 | A Familiar Face | 16.00% | ~91 |
 | Unexpected Consequences | 14.00% | ~80 |
 | Mind the Gap | 13.00% | ~74 |
 | Does Not Compute | 13.00% | ~74 |
-| Identity Theft | 12.00% | ~68 |
-| F is for Feline | 12.00% | ~68 |
-| A Trip to Remember | 12.00% | ~68 |
+| Identity Theft | 12.00% | ~69 |
+| F is for Feline | 12.00% | ~69 |
+| A Trip to Remember | 12.00% | ~69 |
 | U Mad Bro? | 11.00% | ~63 |
 | Short Circuit | 11.00% | ~63 |
 | A Stealthy Outlook | 7.00% | ~40 |
 | Catch You Later | 7.00% | ~40 |
-| Between the Covers | 5.00% | ~28 |
-| Antisocial Club | 5.00% | ~28 |
-| Den Mother | 5.00% | ~28 |
+| Between the Covers | 5.00% | ~29 |
+| Antisocial Club | 5.00% | ~29 |
+| Den Mother | 5.00% | ~29 |
 | Everything Must Go! | 4.00% | ~23 |
 | You Had One Job... | 4.00% | ~23 |
 | Smart cookie | 4.00% | ~23 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 1,024)
 | Marvellous Toys | 2.00% | ~11 |
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570 (Ranked 296)  
+Progressed: 571 (Ranked 296)  
 Completed: 6 (1.05%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 6 (1.05%) (Ranked 158)
 | 2023-11-05 | 566 | 6 |
 | 2023-11-10 | 567 | 6 |
 | 2023-11-12 | 569 | 6 |
-| 2023-11-16 | 570 | 6 |
+| 2023-11-16 | 571 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

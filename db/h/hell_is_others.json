@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1163,10 +1163,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-11-16T22:57:12.9990756+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343,
+  "NumberOfAwards": 344,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1216,7 +1222,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1231,9 +1237,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258450,
+  "EOS_Progressed": 258451,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21626,6 +21632,11 @@
       "Time": "2023-11-16T20:05:16.8278302+00:00",
       "NumProgressed": 258450,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-16T23:04:42.0892271+00:00",
+      "NumProgressed": 258451,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -21653,7 +21664,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "Act4",
@@ -21693,7 +21704,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12922
+      "UsersEstimate": 12923
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -21765,7 +21776,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12922
+      "UsersEstimate": 12923
     },
     {
       "ID": "CreedsInBank2",
@@ -21773,7 +21784,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "CreedsInBank3",
@@ -21805,7 +21816,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "FullHomeExpansion",
@@ -21829,7 +21840,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "GrowPlants1",
@@ -21845,7 +21856,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "GrowPlants3",
@@ -21989,7 +22000,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     },
     {
       "ID": "OldCoinCollected",
@@ -22077,23 +22088,23 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2584
+      "UsersEstimate": 2585
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258450,
+      "Progressed": 258451,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-11-16T15:00:23.0709592+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:05:03.9740355+00:00",
+  "LastChanged": "2023-11-16T22:57:12.9990754+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:04:42.0892266+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.1027511+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:00:22.9394933+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:05:03.9741452+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:57:12.9990761+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:04:42.0893367+00:00"
 }

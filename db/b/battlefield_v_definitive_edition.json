@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20026,
+  "EOS_Progressed": 20030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1184,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6798,6 +6798,11 @@
       "Time": "2023-11-16T22:09:06.3602627+00:00",
       "NumProgressed": 20026,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T23:08:34.8525198+00:00",
+      "NumProgressed": 20030,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -6818,7 +6823,7 @@
       "Name": "Globetrotter",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "achievement_11",
@@ -6834,7 +6839,7 @@
       "Name": "Fender Bender",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "achievement_13",
@@ -6842,7 +6847,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 14819
+      "UsersEstimate": 14822
     },
     {
       "ID": "achievement_14",
@@ -6850,7 +6855,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 8411
+      "UsersEstimate": 8413
     },
     {
       "ID": "achievement_15",
@@ -6858,7 +6863,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 10614
+      "UsersEstimate": 10616
     },
     {
       "ID": "achievement_16",
@@ -6866,7 +6871,7 @@
       "Name": "Heads Down",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 14619
+      "UsersEstimate": 14622
     },
     {
       "ID": "achievement_17",
@@ -6874,7 +6879,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "achievement_18",
@@ -6882,7 +6887,7 @@
       "Name": "Eager Beaver",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 9412
+      "UsersEstimate": 9414
     },
     {
       "ID": "achievement_19",
@@ -6890,7 +6895,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "achievement_2",
@@ -6906,7 +6911,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 18424
+      "UsersEstimate": 18428
     },
     {
       "ID": "achievement_21",
@@ -6914,7 +6919,7 @@
       "Name": "Not On My Watch",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 13818
+      "UsersEstimate": 13821
     },
     {
       "ID": "achievement_3",
@@ -6930,7 +6935,7 @@
       "Name": "Lovely",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 7610
+      "UsersEstimate": 7611
     },
     {
       "ID": "achievement_5",
@@ -6938,7 +6943,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5008
     },
     {
       "ID": "achievement_6",
@@ -6946,7 +6951,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "achievement_7",
@@ -6962,7 +6967,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 14619
+      "UsersEstimate": 14622
     },
     {
       "ID": "achievement_9",
@@ -6977,13 +6982,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 20026,
+      "Progressed": 20030,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:09:06.3602622+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:08:34.8525194+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.7937389+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:00:07.5058598+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:09:06.3603067+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:59:55.3148311+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:08:34.8525656+00:00"
 }

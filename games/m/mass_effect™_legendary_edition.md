@@ -62,6 +62,7 @@
 | Heart of Darkness | 29.00% | ~372 |
 | Focused | 28.00% | ~359 |
 | Archivist | 28.00% | ~359 |
+| Friend or Foe | 28.00% | ~359 |
 | Cat's in the Cradle | 28.00% | ~359 |
 | Doppelganger | 28.00% | ~359 |
 | Treason | 28.00% | ~359 |
@@ -69,16 +70,15 @@
 | Digital Exorcist | 28.00% | ~359 |
 | Bringer of War | 28.00% | ~359 |
 | Mission Accomplished | 27.00% | ~346 |
+| Suicide Mission | 27.00% | ~346 |
 | Against All Odds | 27.00% | ~346 |
-| Friend or Foe | 27.00% | ~346 |
 | Mobilizer | 27.00% | ~346 |
 | Untouchable | 26.00% | ~333 |
-| Suicide Mission | 26.00% | ~333 |
 | Eye of the Hurricane | 25.00% | ~320 |
 | Giant Killer | 25.00% | ~320 |
 | First Aid Specialist | 25.00% | ~320 |
 | A House Divided | 25.00% | ~320 |
-| World Shaker | 24.00% | ~308 |
+| World Shaker | 25.00% | ~320 |
 | Weapon Specialist | 23.00% | ~295 |
 | Pathfinder | 23.00% | ~295 |
 | Tunnel Rat | 23.00% | ~295 |
@@ -86,8 +86,8 @@
 | Savior | 22.00% | ~282 |
 | Arbiter | 22.00% | ~282 |
 | Paramour II | 21.00% | ~269 |
+| Party Crasher | 21.00% | ~269 |
 | Lost and Found | 21.00% | ~269 |
-| Party Crasher | 20.00% | ~256 |
 | Problem Solver | 20.00% | ~256 |
 | Under Pressure | 19.00% | ~244 |
 | Last Resort | 19.00% | ~244 |

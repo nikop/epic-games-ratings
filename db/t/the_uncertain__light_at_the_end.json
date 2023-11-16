@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -928,6 +928,11 @@
       "Time": "2023-11-16T17:03:31.8101226+00:00",
       "NumProgressed": 570,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T23:03:43.048301+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -947,7 +952,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Butterfly",
@@ -987,7 +992,7 @@
       "Name": "Between the Covers",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Gamer",
@@ -1043,7 +1048,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Investigative",
@@ -1059,7 +1064,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Leisurely_Strol",
@@ -1067,7 +1072,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MISSING_DATA",
@@ -1083,7 +1088,7 @@
       "Name": "Antisocial Club",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Missing_Shot",
@@ -1099,7 +1104,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Ninja",
@@ -1170,7 +1175,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 6
     }
   ],
@@ -1178,8 +1183,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:03:58.887374+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:03:43.0483007+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:29.4211501+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:03:07.2710172+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:03:58.8873929+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:02:55.8623143+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:03:43.0483216+00:00"
 }

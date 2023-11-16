@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 84.00% | ~64 |
+| Setting Sail | 86.00% | ~65 |
 | A Small Thirsty Thing | 13.00% | ~10 |
 | Spirit Within | 12.00% | ~9 |
 | Leisis Bless You | 9.00% | ~7 |
@@ -15,10 +15,10 @@
 | Bladesmith | 5.00% | ~4 |
 | The Guardian of Fire | 5.00% | ~4 |
 | Sovereignty of Irons | 5.00% | ~4 |
+| A Sandwyrm's Hoard | 5.00% | ~4 |
 | Sommelier | 4.00% | ~3 |
 | Let Me Solo Them | 4.00% | ~3 |
 | Explorer | 4.00% | ~3 |
-| A Sandwyrm's Hoard | 4.00% | ~3 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |

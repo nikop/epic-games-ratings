@@ -1,7 +1,7 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 935)  
+Rating: 4.16 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 935)
 | Runs for Your Money | 0.30% | ~200 |
 | Past Master | 0.30% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,770 (Ranked 102)  
+Progressed: 66,772 (Ranked 102)  
 Completed: 34 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 34 (0.05%) (Ranked 303)
 | 2023-11-13 | 66,569 | 33 |
 | 2023-11-14 | 66,648 | 33 |
 | 2023-11-15 | 66,715 | 34 |
-| 2023-11-16 | 66,770 | 34 |
+| 2023-11-16 | 66,772 | 34 |
 ## Awards
 Max (Great for Beginners): 93  (Ranked 370)  
 Sum: 373 (Ranked 344)  

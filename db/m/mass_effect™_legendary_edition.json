@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1282,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -4019,9 +4019,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_41",
@@ -4043,9 +4043,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_44",
@@ -4387,9 +4387,9 @@
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_83",
@@ -4411,9 +4411,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_86",
@@ -4551,8 +4551,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:05:35.9502175+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:05:11.1731558+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:02:58.0012312+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:05:35.9503799+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:02:47.7470056+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:05:11.1733057+00:00"
 }

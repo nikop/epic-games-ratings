@@ -14,8 +14,8 @@
 | Experienced Thalya | 67.00% | ~190 |
 | Master of Magic | 62.00% | ~176 |
 | Bad Elves Go Everywhere | 61.00% | ~173 |
+| Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
 | Magic Accidents | 56.00% | ~159 |
-| Unicorn steaks – fresh off the hoof! | 56.00% | ~159 |
 | Minions, Minions! | 54.00% | ~153 |
 | Heroes’ Gorge | 53.00% | ~151 |
 | Trap Master | 51.00% | ~145 |
@@ -33,7 +33,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
 | Tanos' Crusade Against Thalya | 18.00% | ~51 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
-| Unstoppable Horde | 15.00% | ~43 |
+| Unstoppable Horde | 16.00% | ~45 |
 | Master of the Undead | 15.00% | ~43 |
 | All’s Well That Ends Evil | 15.00% | ~43 |
 | Forbidden Knowledge | 14.00% | ~40 |

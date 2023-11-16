@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68337,
+  "EOS_Progressed": 68338,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15223,6 +15223,11 @@
       "Time": "2023-11-16T22:08:15.5596197+00:00",
       "NumProgressed": 68337,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-16T23:07:48.8569417+00:00",
+      "NumProgressed": 68338,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -15242,7 +15247,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -15370,7 +15375,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -15393,7 +15398,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68337,
+      "Progressed": 68338,
       "Completed": 18
     }
   ],
@@ -15401,8 +15406,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:08:15.5596194+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:07:48.8569413+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.1374878+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:02:42.6479424+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:08:15.5596916+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:02:34.4008053+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:07:48.8570049+00:00"
 }

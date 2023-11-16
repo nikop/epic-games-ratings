@@ -2,10 +2,10 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 511,
-  "Ranking_EOS_Progress": 115,
+  "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 127,
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42697,
+  "EOS_Progressed": 42702,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12587,6 +12587,11 @@
       "Time": "2023-11-16T22:04:11.2190746+00:00",
       "NumProgressed": 42697,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-16T23:03:54.2362936+00:00",
+      "NumProgressed": 42702,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12638,7 +12643,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -13021,22 +13026,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42697,
+      "Progressed": 42702,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7534,
-      "Completed": 7534
+      "Progressed": 7539,
+      "Completed": 7539
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:04:11.2190743+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:03:54.2362929+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:16.2717277+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:57:31.6601562+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:04:11.2191717+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:57:37.2496906+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:03:54.2363882+00:00"
 }

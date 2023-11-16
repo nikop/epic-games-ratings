@@ -1483,9 +1483,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 158556,
+  "EOS_Progressed": 158567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15918,6 +15918,11 @@
       "Time": "2023-11-16T22:05:52.334547+00:00",
       "NumProgressed": 158556,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T23:05:25.0618896+00:00",
+      "NumProgressed": 158567,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15953,7 +15958,7 @@
       "Name": "Assimilation",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -15977,7 +15982,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -16033,7 +16038,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -16041,7 +16046,7 @@
       "Name": "Glare",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -16089,7 +16094,7 @@
       "Name": "Celebration",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -16201,7 +16206,7 @@
       "Name": "Ravenous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -16296,21 +16301,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158139,
+      "Progressed": 158150,
       "Completed": 1205
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158556,
+      "Progressed": 158567,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-16T20:57:37.2299485+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:05:52.3345465+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:05:25.061889+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:57:41.8223044+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:05:52.3346522+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:57:46.1479198+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:05:25.0620157+00:00"
 }

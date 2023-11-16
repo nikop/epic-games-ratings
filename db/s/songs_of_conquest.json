@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 127,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -577,6 +577,11 @@
     {
       "Time": "2023-11-16T22:06:36.7681399+00:00",
       "NumProgressed": 69,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T23:06:04.9736689+00:00",
+      "NumProgressed": 71,
       "NumCompleted": 0
     }
   ],
@@ -732,7 +737,7 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -916,7 +921,7 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -1021,15 +1026,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:06:36.7681394+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:06:04.9736681+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:59:39.6470319+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:06:36.7681709+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:59:30.8104004+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:06:04.9737079+00:00"
 }

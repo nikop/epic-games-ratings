@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -859,7 +859,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11023,
+  "EOS_Progressed": 11024,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
@@ -12939,6 +12939,11 @@
       "Time": "2023-11-16T21:08:19.4100351+00:00",
       "NumProgressed": 11023,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-16T23:07:53.5561809+00:00",
+      "NumProgressed": 11024,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13134,7 +13139,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACH25",
@@ -13142,7 +13147,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACH26",
@@ -13221,7 +13226,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11023,
+      "Progressed": 11024,
       "Completed": 65
     }
   ],
@@ -13229,8 +13234,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:08:20.566901+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:07:53.5561804+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:57:28.8907887+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:08:20.5670118+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:57:34.8253963+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:07:53.5562589+00:00"
 }

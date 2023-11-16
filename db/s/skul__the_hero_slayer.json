@@ -2,12 +2,12 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 186,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1073,9 +1073,9 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 8287,
+  "EOS_Progressed": 8288,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5273,6 +5273,11 @@
       "Time": "2023-11-16T17:03:48.5986661+00:00",
       "NumProgressed": 8287,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-16T23:03:59.8403938+00:00",
+      "NumProgressed": 8288,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5348,7 +5353,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -5364,7 +5369,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "HeroSlayer",
@@ -5404,7 +5409,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "SavedElderEnt",
@@ -5420,7 +5425,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "SkeletonKing",
@@ -5436,7 +5441,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "TheLegendBegins",
@@ -5444,7 +5449,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7707
+      "UsersEstimate": 7708
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5468,22 +5473,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6961
+      "UsersEstimate": 6962
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8287,
+      "Progressed": 8288,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-11T19:01:14.1486538+00:00",
-  "LastChanged_Achievements": "2023-11-16T22:04:17.4048262+00:00",
+  "LastChanged_Achievements": "2023-11-16T23:03:59.8403935+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:05.3337042+00:00",
-  "LastUpdate_Ratings": "2023-11-16T21:59:09.4576621+00:00",
-  "LastUpdate_Achievements": "2023-11-16T22:04:17.4048542+00:00"
+  "LastUpdate_Ratings": "2023-11-16T22:59:04.1134751+00:00",
+  "LastUpdate_Achievements": "2023-11-16T23:03:59.8404299+00:00"
 }

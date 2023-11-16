@@ -12,8 +12,8 @@ Rating: 4.38 (Ranked 763)
 | The Wait | 7.00% | ~18,092 |
 | Green thumb I | 6.00% | ~15,507 |
 | Cleaning Company | 6.00% | ~15,507 |
-| Well-oiled machine | 5.00% | ~12,922 |
-| Saver I | 5.00% | ~12,922 |
+| Well-oiled machine | 5.00% | ~12,923 |
+| Saver I | 5.00% | ~12,923 |
 | The Ascent | 4.00% | ~10,338 |
 | Pacifist | 4.00% | ~10,338 |
 | Vandalism | 4.00% | ~10,338 |
@@ -28,13 +28,13 @@ Rating: 4.38 (Ranked 763)
 | Truffle Dog | 2.00% | ~5,169 |
 | Don't try this at home | 2.00% | ~5,169 |
 | A month in Century City | 2.00% | ~5,169 |
-| The Strengthening | 1.00% | ~2,584 |
-| Saver II | 1.00% | ~2,584 |
-| It's the last one, I swear | 1.00% | ~2,584 |
-| Botanist | 1.00% | ~2,584 |
-| Green thumb II | 1.00% | ~2,584 |
-| Bricklayer | 1.00% | ~2,584 |
-| Run the Economy | 1.00% | ~2,584 |
+| The Strengthening | 1.00% | ~2,585 |
+| Saver II | 1.00% | ~2,585 |
+| It's the last one, I swear | 1.00% | ~2,585 |
+| Botanist | 1.00% | ~2,585 |
+| Green thumb II | 1.00% | ~2,585 |
+| Bricklayer | 1.00% | ~2,585 |
+| Run the Economy | 1.00% | ~2,585 |
 | Committed Relationship | 0.80% | ~2,068 |
 | Number 1 | 0.80% | ~2,068 |
 | Interior designer | 0.60% | ~1,551 |
@@ -62,7 +62,7 @@ Rating: 4.38 (Ranked 763)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,450 (Ranked 55)  
+Progressed: 258,451 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,10 @@ Completed: 3 (0.00%) (Ranked 352)
 | 2023-11-13 | 258,367 | 3 |
 | 2023-11-14 | 258,393 | 3 |
 | 2023-11-15 | 258,416 | 3 |
-| 2023-11-16 | 258,450 | 3 |
+| 2023-11-16 | 258,451 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 434)  
-Sum: 343 (Ranked 353)  
+Sum: 344 (Ranked 353)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -286,8 +286,8 @@ Diff (max vs sum): 81
 | This game has Amazing Storytelling | 35 |
 | This game is Highly Recommended | 34 |
 | This game has a Competitive Community | 31 |
+| This game has Competitive Players | 29 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Competitive Players | 28 |
 | This game is Extremely Fun | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -456,4 +456,4 @@ Diff (max vs sum): 81
 | 2023-11-11 | 4.38 | 48 | 340 |
 | 2023-11-13 | 4.38 | 49 | 341 |
 | 2023-11-15 | 4.38 | 49 | 342 |
-| 2023-11-16 | 4.38 | 49 | 343 |
+| 2023-11-16 | 4.38 | 49 | 344 |
