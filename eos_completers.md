@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.11% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.10% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -33,10 +33,10 @@
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
-| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.01% |
-| 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
-| 35 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
-| 35 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
+| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.00% |
+| 34 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
+| 34 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
+| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 38 | [Smelter](games/s/smelter.md) | 9.76% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 40 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
@@ -218,9 +218,9 @@
 | 212 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.39% |
 | 217 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 217 | [Train Valley](games/t/train_valley.md) | 0.38% |
-| 219 | [Dungeons 4](games/d/dungeons_4.md) | 0.37% |
 | 219 | [The Surge](games/t/the_surge.md) | 0.37% |
-| 221 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.36% |
+| 220 | [Dungeons 4](games/d/dungeons_4.md) | 0.36% |
+| 220 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.36% |
 | 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 222 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 224 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
@@ -228,14 +228,14 @@
 | 224 | [Them and Us](games/t/them_and_us.md) | 0.33% |
 | 227 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
 | 227 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.32% |
-| 229 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
-| 229 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 231 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 227 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
+| 230 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 231 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 231 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
-| 234 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
-| 234 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.29% |
-| 234 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
+| 233 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 233 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
+| 233 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.29% |
+| 233 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 237 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 238 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 238 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.27% |
