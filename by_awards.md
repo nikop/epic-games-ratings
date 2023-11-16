@@ -31,7 +31,7 @@
 | 29 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,636 | 4.43 | 688 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 13,147 | 4.86 | 30 |
 | 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,765 | 4.36 | 781 |
-| 32 | [Satisfactory](games/s/satisfactory.md) | 12,671 | 4.88 | 17 |
+| 32 | [Satisfactory](games/s/satisfactory.md) | 12,735 | 4.88 | 17 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,314 | 4.45 | 657 |
 | 34 | [SnowRunner](games/s/snowrunner.md) | 12,208 | 4.76 | 127 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,788 | 4.39 | 747 |
@@ -66,7 +66,7 @@
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,963 | 4.66 | 293 |
 | 65 | [Prey](games/p/prey.md) | 5,773 | 4.63 | 349 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,653 | 4.31 | 829 |
-| 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,618 | 4.85 | 44 |
+| 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,620 | 4.85 | 44 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,527 | 4.06 | 975 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,511 | 4.68 | 252 |
 | 70 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,463 | 4.69 | 232 |
@@ -207,7 +207,7 @@
 | 205 | [Ghostrunner](games/g/ghostrunner.md) | 519 | 4.72 | 187 |
 | 206 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 514 | 4.54 | 523 |
 | 207 | [Surviving Mars](games/s/surviving_mars.md) | 508 | 4.60 | 410 |
-| 208 | [Brawlhalla](games/b/brawlhalla.md) | 502 | 4.59 | 430 |
+| 208 | [Brawlhalla](games/b/brawlhalla.md) | 505 | 4.59 | 430 |
 | 209 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 489 | 4.32 | 821 |
 | 210 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 488 | 4.41 | 720 |
 | 211 | [Loop Hero](games/l/loop_hero.md) | 477 | 4.67 | 272 |
@@ -225,14 +225,14 @@
 | 223 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 430 | 4.73 | 174 |
 | 224 | [Slime Rancher](games/s/slime_rancher.md) | 424 | 4.82 | 66 |
 | 225 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 415 | 4.43 | 688 |
-| 226 | [For The King](games/f/for_the_king.md) | 407 | 4.70 | 212 |
-| 226 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 407 | 4.75 | 146 |
-| 228 | [Nuclear Throne](games/n/nuclear_throne.md) | 400 | 4.79 | 96 |
-| 228 | [Severed Steel](games/s/severed_steel.md) | 400 | 4.69 | 232 |
-| 230 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 366 |
-| 231 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 391 | 4.56 | 489 |
-| 232 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 389 | 4.62 | 366 |
-| 233 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 385 | 4.45 | 657 |
+| 226 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 410 | 4.45 | 657 |
+| 227 | [For The King](games/f/for_the_king.md) | 407 | 4.70 | 212 |
+| 227 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 407 | 4.75 | 146 |
+| 229 | [Nuclear Throne](games/n/nuclear_throne.md) | 400 | 4.79 | 96 |
+| 229 | [Severed Steel](games/s/severed_steel.md) | 400 | 4.69 | 232 |
+| 231 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 366 |
+| 232 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 391 | 4.56 | 489 |
+| 233 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 389 | 4.62 | 366 |
 | 234 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 375 | 3.99 | 998 |
 | 235 | [Dungeons 3](games/d/dungeons_3.md) | 372 | 4.66 | 293 |
 | 236 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 370 | 4.31 | 829 |
@@ -451,8 +451,8 @@
 | 449 | [Bugsnax](games/b/bugsnax.md) | 42 | 4.86 | 30 |
 | 449 | [Coromon](games/c/coromon.md) | 42 | 4.67 | 272 |
 | 449 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 42 | 4.79 | 96 |
-| 452 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 127 |
-| 452 | [Witchfire](games/w/witchfire.md) | 41 | 4.62 | 366 |
+| 449 | [Witchfire](games/w/witchfire.md) | 42 | 4.62 | 366 |
+| 453 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 127 |
 | 454 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 40 | 4.62 | 366 |
 | 455 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 39 | 4.58 | 444 |
 | 455 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 187 |
@@ -508,13 +508,13 @@
 | 501 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 567 |
 | 507 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 803 |
 | 507 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 489 |
+| 507 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 27 | 4.16 | 933 |
 | 507 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 504 |
 | 507 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 232 |
-| 511 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 26 | 4.16 | 933 |
-| 511 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 781 |
-| 511 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 86 |
-| 511 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 26 | 4.63 | 349 |
-| 511 | [Tunche](games/t/tunche.md) | 26 | 4.46 | 645 |
+| 512 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 781 |
+| 512 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 86 |
+| 512 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 26 | 4.63 | 349 |
+| 512 | [Tunche](games/t/tunche.md) | 26 | 4.46 | 645 |
 | 516 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.54 | 523 |
 | 516 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 25 | 4.48 | 623 |
 | 516 | [Sable](games/s/sable.md) | 25 | 4.53 | 539 |
