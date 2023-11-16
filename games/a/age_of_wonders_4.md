@@ -7,6 +7,7 @@ Rating: 4.61 (Ranked 385)
 | ---- | ---------- | ----- |
 | Secret Technique | 2.00% | ~108 |
 | But this one is mine | 2.00% | ~108 |
+| Full Ascension | 1.00% | ~54 |
 | Realm Estate | 1.00% | ~54 |
 | A Wonderful Discovery | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
@@ -14,7 +15,6 @@ Rating: 4.61 (Ranked 385)
 | From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
-| Full Ascension | 0.90% | ~49 |
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |

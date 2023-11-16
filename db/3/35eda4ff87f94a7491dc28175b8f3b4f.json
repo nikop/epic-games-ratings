@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4151,
+  "EOS_Progressed": 4164,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4145,
+  "EOS_NewPlayers": 4158,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -881,6 +881,11 @@
       "Time": "2023-11-16T06:03:43.7034992+00:00",
       "NumProgressed": 4151,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-16T07:03:32.5172392+00:00",
+      "NumProgressed": 4164,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -925,7 +930,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -941,7 +946,7 @@
       "Name": "Rescuer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -972,7 +977,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 4151,
+      "Progressed": 4164,
       "Completed": 8
     }
   ],
@@ -980,8 +985,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-14T09:59:16.8662846+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:03:43.7034986+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:03:32.5172388+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:33.6452734+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:59:28.7175852+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:03:43.7035125+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:59:13.6326583+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:03:32.5172503+00:00"
 }

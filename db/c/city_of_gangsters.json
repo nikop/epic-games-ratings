@@ -766,9 +766,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 352543,
+  "EOS_Progressed": 352544,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24571,6 +24571,11 @@
       "Time": "2023-11-16T06:06:30.263857+00:00",
       "NumProgressed": 352543,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-16T07:06:20.3854741+00:00",
+      "NumProgressed": 352544,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -24670,7 +24675,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28203
+      "UsersEstimate": 28204
     },
     {
       "ID": "ach013",
@@ -24686,7 +24691,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52881
+      "UsersEstimate": 52882
     },
     {
       "ID": "ach015",
@@ -24718,7 +24723,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28203
+      "UsersEstimate": 28204
     },
     {
       "ID": "ach019",
@@ -24790,7 +24795,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165695
+      "UsersEstimate": 165696
     },
     {
       "ID": "ach028",
@@ -25221,7 +25226,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 352543,
+      "Progressed": 352544,
       "Completed": 7
     }
   ],
@@ -25229,8 +25234,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-15T20:57:45.7972691+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:06:30.2638565+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:06:20.3854738+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.6419748+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:57:59.0448119+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:06:30.2642059+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:57:45.4564253+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:06:20.3856269+00:00"
 }

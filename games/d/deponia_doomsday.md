@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~408 |
-| And again, and again, and... | 64.00% | ~300 |
+| Huzza, he's back. | 87.00% | ~409 |
+| And again, and again, and... | 63.00% | ~296 |
 | Burn, Elysium, burn! | 62.00% | ~291 |
-| Kuvaq Minigame-Master | 61.00% | ~286 |
-| FunScore | 55.00% | ~258 |
+| Kuvaq Minigame-Master | 61.00% | ~287 |
+| FunScore | 54.00% | ~254 |
 | Funtime's over | 53.00% | ~249 |
-| Chunky | 50.00% | ~234 |
+| Chunky | 50.00% | ~235 |
 | Boat of love, boat of love | 49.00% | ~230 |
-| Shall we play a game? | 48.00% | ~225 |
-| School's out | 44.00% | ~206 |
+| Shall we play a game? | 47.00% | ~221 |
+| School's out | 44.00% | ~207 |
+| Sole Music | 37.00% | ~174 |
 | Scaffolding Expert | 37.00% | ~174 |
 | Elysian Minigame-Master | 37.00% | ~174 |
-| Sole Music | 36.00% | ~169 |
 | Portals come in packs | 30.00% | ~141 |
 | No man left behind! | 29.00% | ~136 |
 | Photo Friend | 26.00% | ~122 |
@@ -35,14 +35,14 @@ Rating: 4.55 (Ranked 504)
 | Goat Team | 9.00% | ~42 |
 | Sadist | 7.00% | ~33 |
 | The customer is always right | 7.00% | ~33 |
+| Distraction | 6.00% | ~28 |
 | Every man for himself! | 6.00% | ~28 |
 | Pacifist | 6.00% | ~28 |
 | Apoca...huh? | 6.00% | ~28 |
 | Against better judgement | 6.00% | ~28 |
-| Distraction | 5.00% | ~23 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469 (Ranked 309)  
+Progressed: 470 (Ranked 308)  
 Completed: 6 (1.28%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 6 (1.28%) (Ranked 148)
 | 2023-11-13 | 464 | 6 |
 | 2023-11-14 | 468 | 6 |
 | 2023-11-15 | 469 | 6 |
+| 2023-11-16 | 470 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

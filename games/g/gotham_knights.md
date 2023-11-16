@@ -6,14 +6,14 @@ Rating: 4.18 (Ranked 925)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 51.00% | ~39,007 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,769 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,770 |
 | Loose Ends | 34.00% | ~26,005 |
 | To the Victor Go the Spoils | 28.00% | ~21,416 |
 | Knighthood | 27.00% | ~20,651 |
 | Get ReQ'd | 25.00% | ~19,121 |
 | Whispered Words | 25.00% | ~19,121 |
-| The Batman Family | 23.00% | ~17,591 |
-| Lock and Key | 22.00% | ~16,826 |
+| The Batman Family | 23.00% | ~17,592 |
+| Lock and Key | 22.00% | ~16,827 |
 | Something in the Clay | 21.00% | ~16,062 |
 | Quartzer Life Crisis | 21.00% | ~16,062 |
 | Working Hard or Harley Working? | 20.00% | ~15,297 |
@@ -23,7 +23,7 @@ Rating: 4.18 (Ranked 925)
 | The Show Mud Go On | 18.00% | ~13,767 |
 | From Inside Gotham's Walls | 18.00% | ~13,767 |
 | Protector of Gotham | 17.00% | ~13,002 |
-| Universal Health Scare | 16.00% | ~12,237 |
+| Universal Health Scare | 16.00% | ~12,238 |
 | In Your Element | 15.00% | ~11,473 |
 | Voiceless | 15.00% | ~11,473 |
 | Rock and a Hard Place | 14.00% | ~10,708 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,484 (Ranked 97)  
+Progressed: 76,485 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,10 +277,10 @@ Completed: 123 (0.16%) (Ranked 261)
 | 2023-11-13 | 76,394 | 123 |
 | 2023-11-14 | 76,429 | 123 |
 | 2023-11-15 | 76,468 | 123 |
-| 2023-11-16 | 76,484 | 123 |
+| 2023-11-16 | 76,485 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,944  (Ranked 98)  
-Sum: 4,993 (Ranked 138)  
+Sum: 4,994 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): -40
 | This game is Extremely Fun | 261 |
 | This game has Quickly Understood Controls | 259 |
 | This game is Relaxing | 258 |
-| This game is Great for Beginners | 254 |
+| This game is Great for Beginners | 255 |
 | This game has Amazing Characters | 253 |
 | This game has Amazing Storytelling | 251 |
 | This game is Highly Recommended | 251 |
@@ -561,3 +561,4 @@ Diff (max vs sum): -40
 | 2023-11-13 | 4.18 | 2,935 | 4,979 |
 | 2023-11-14 | 4.18 | 2,938 | 4,985 |
 | 2023-11-15 | 4.18 | 2,944 | 4,993 |
+| 2023-11-16 | 4.18 | 2,944 | 4,994 |

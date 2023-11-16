@@ -1460,7 +1460,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130849,
+  "EOS_Progressed": 130850,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -22025,6 +22025,11 @@
       "Time": "2023-11-16T05:05:05.6088618+00:00",
       "NumProgressed": 130849,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-16T07:05:28.0125328+00:00",
+      "NumProgressed": 130850,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22060,7 +22065,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "ACH_COP_ART",
@@ -22180,7 +22185,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14393
+      "UsersEstimate": 14394
     },
     {
       "ID": "ACH_CUNO",
@@ -22260,7 +22265,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3925
+      "UsersEstimate": 3926
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -22355,15 +22360,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130849,
+      "Progressed": 130850,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-15T18:00:47.4293214+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:05:39.0578169+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:05:28.0125322+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:00:12.6715507+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:05:39.0579693+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:59:59.2629529+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:05:28.0126845+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,347 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,348 |
 | First Class Student | 14.00% | ~42,304 |
 | Troll with the Punches | 14.00% | ~42,304 |
 | A Keen Sense of Spell | 13.00% | ~39,282 |
 | That's a Keeper | 13.00% | ~39,282 |
-| A Talent for Spending | 12.00% | ~36,260 |
+| A Talent for Spending | 12.00% | ~36,261 |
 | Grappling with a Graphorn | 11.00% | ~33,239 |
 | The One Who Mastered Memories | 11.00% | ~33,239 |
 | The Hallowed Hero | 11.00% | ~33,239 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 127)
 | The Root of the Problem | 6.00% | ~18,130 |
 | Third Time's a Charm | 6.00% | ~18,130 |
 | Raising Expectations | 6.00% | ~18,130 |
-| The Toast of the Town | 5.00% | ~15,108 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,108 |
-| The Ends Petrify the Means | 5.00% | ~15,108 |
+| The Toast of the Town | 5.00% | ~15,109 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,109 |
+| The Ends Petrify the Means | 5.00% | ~15,109 |
 | Going Through the Potions | 4.00% | ~12,087 |
 | Room with a View | 4.00% | ~12,087 |
 | The Intrepid Explorer | 4.00% | ~12,087 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,115 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,170 (Ranked 51)  
+Progressed: 302,172 (Ranked 51)  
 Completed: 512 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 512 (0.17%) (Ranked 258)
 | 2023-11-13 | 302,030 | 510 |
 | 2023-11-14 | 302,089 | 511 |
 | 2023-11-15 | 302,152 | 512 |
-| 2023-11-16 | 302,170 | 512 |
+| 2023-11-16 | 302,172 | 512 |
 ## Awards
 Max (Character Customization): 24,339  (Ranked 17)  
 Sum: 48,261 (Ranked 30)  

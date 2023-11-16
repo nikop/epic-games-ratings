@@ -2876,9 +2876,9 @@
       "ID": "ID_27_SOUND_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Sound Savant",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "ID_28_ART_MANIA",
@@ -2956,8 +2956,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:09:36.1164202+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:09:16.282129+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6615499+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:58:22.1061003+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:09:36.1164553+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:58:03.9990196+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:09:16.2821599+00:00"
 }

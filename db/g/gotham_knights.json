@@ -4083,10 +4083,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4993,
       "NumberOfAwardsMax": 2944
+    },
+    {
+      "Time": "2023-11-16T06:58:40.3350047+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4994,
+      "NumberOfAwardsMax": 2944
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4993,
+  "NumberOfAwards": 4994,
   "NumberOfAwardsMax": 2944,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4112,7 +4118,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4151,7 +4157,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76484,
+  "EOS_Progressed": 76485,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
@@ -22721,6 +22727,11 @@
       "Time": "2023-11-16T06:05:50.1500083+00:00",
       "NumProgressed": 76484,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-16T07:05:39.6331057+00:00",
+      "NumProgressed": 76485,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22780,7 +22791,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17591
+      "UsersEstimate": 17592
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -23036,7 +23047,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26769
+      "UsersEstimate": 26770
     },
     {
       "ID": "HARLEY_2",
@@ -23060,7 +23071,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12237
+      "UsersEstimate": 12238
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23140,7 +23151,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16826
+      "UsersEstimate": 16827
     },
     {
       "ID": "MYSTERY_04",
@@ -23219,22 +23230,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76484,
+      "Progressed": 76485,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46764,
+      "Progressed": 46765,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-15T23:58:17.9942351+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:05:50.1500078+00:00",
+  "LastChanged": "2023-11-16T06:58:40.3350045+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:05:39.6331053+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:58:56.5302087+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:05:50.1501422+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:58:40.3350051+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:05:39.6332187+00:00"
 }

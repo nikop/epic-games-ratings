@@ -2,7 +2,7 @@
   "ID": "ca05bd340e84436ebea4a0c0ca55befa",
   "Name": "Golden Light",
   "ProductSlug": "golden-light-f543b3",
-  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 127,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6916,
+  "EOS_Progressed": 7033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6789,
+  "EOS_NewPlayers": 6906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-11-16T06:06:01.6368753+00:00",
       "NumProgressed": 6916,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T07:05:51.2859726+00:00",
+      "NumProgressed": 7033,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -226,7 +231,7 @@
       "Name": "Unfortunate Plumber",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 899
+      "UsersEstimate": 914
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -234,7 +239,7 @@
       "Name": "An Old Timer",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1266
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -242,7 +247,7 @@
       "Name": "Can i be more unfortunate?",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -250,7 +255,7 @@
       "Name": "Don\u0027t play with fire, kids",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1899
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -258,15 +263,15 @@
       "Name": "First fall",
       "Percentage": 35,
       "XP": 170,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2462
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "h261mm",
       "Name": "Now you see",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -274,7 +279,7 @@
       "Name": "Golden fingers",
       "Percentage": 5,
       "XP": 185,
-      "UsersEstimate": 346
+      "UsersEstimate": 352
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -282,7 +287,7 @@
       "Name": "Golden tongue",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -298,7 +303,7 @@
       "Name": "Fire safety",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3804
+      "UsersEstimate": 3868
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -322,7 +327,7 @@
       "Name": "Boot for an eye",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 692
+      "UsersEstimate": 703
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -338,7 +343,7 @@
       "Name": "Merchant",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -354,7 +359,7 @@
       "Name": "Spiky chin",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -362,7 +367,7 @@
       "Name": "Hands up!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1055
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -378,7 +383,7 @@
       "Name": "Groovy!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -386,7 +391,7 @@
       "Name": "Infinite pleasure",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -394,7 +399,7 @@
       "Name": "I\u0027ll give this one a 0 star rating",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1196
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -402,7 +407,7 @@
       "Name": "1.000.000 Scovilles",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1266
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -410,7 +415,7 @@
       "Name": "Don\u0027t interrupt my research!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 844
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -426,7 +431,7 @@
       "Name": "Gentle hugs",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -434,7 +439,7 @@
       "Name": "First steps",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1829
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_11",
@@ -442,7 +447,7 @@
       "Name": "I Think I\u0027m Lost",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_12",
@@ -450,7 +455,7 @@
       "Name": "Smothered in Meat",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_13",
@@ -466,7 +471,7 @@
       "Name": "No Love",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_16",
@@ -474,7 +479,7 @@
       "Name": "Uh, Which Key is the Right One?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 422
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_17",
@@ -482,7 +487,7 @@
       "Name": "Vampire Killer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_18",
@@ -514,7 +519,7 @@
       "Name": "Meat Machine",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_23",
@@ -530,7 +535,7 @@
       "Name": "Where are those diamonds?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_25",
@@ -538,7 +543,7 @@
       "Name": "Mmm, tasty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_26",
@@ -546,7 +551,7 @@
       "Name": "Feeling Better",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1055
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_27",
@@ -554,7 +559,7 @@
       "Name": "Body Building",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_29",
@@ -562,7 +567,7 @@
       "Name": "Stranger in the Elevator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_30",
@@ -570,7 +575,7 @@
       "Name": "A Good Read",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 774
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_31",
@@ -602,7 +607,7 @@
       "Name": "Untouchable",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -610,7 +615,7 @@
       "Name": "Blue Valentine",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -634,15 +639,15 @@
       "Name": "Good Murder",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_1",
       "SetID": "h261mm",
       "Name": "Hate Me",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_10",
@@ -706,7 +711,7 @@
       "Name": "Pacifist Run",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 422
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_4",
@@ -714,7 +719,7 @@
       "Name": "OMG I FOUND A BUG",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_5",
@@ -761,14 +766,14 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 6916,
+      "Progressed": 7033,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-15T21:59:09.4936341+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:06:01.6368748+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:05:51.2859723+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.7731465+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:00:11.8215343+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:06:01.6369389+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:59:58.3169408+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:05:51.2860248+00:00"
 }

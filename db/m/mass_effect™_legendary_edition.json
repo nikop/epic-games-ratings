@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1273,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3872,9 +3872,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_29",
@@ -4516,8 +4516,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:05:07.3249053+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:04:57.0008049+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:03:00.0519652+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:05:07.3250567+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:02:46.952832+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:04:57.0009521+00:00"
 }

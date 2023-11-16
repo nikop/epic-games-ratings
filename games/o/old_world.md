@@ -6,15 +6,16 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 6.00% | ~920 |
+| Settler | 6.00% | ~921 |
+| Play a Single Player Game | 6.00% | ~921 |
 | Explorer | 5.00% | ~767 |
-| Settler | 5.00% | ~767 |
 | Friendly Family | 5.00% | ~767 |
 | Able | 4.00% | ~614 |
 | Architect | 4.00% | ~614 |
 | Intrepid | 4.00% | ~614 |
 | Mason | 4.00% | ~614 |
 | Strong | 4.00% | ~614 |
+| Hanging Gardens | 4.00% | ~614 |
 | Ambitious | 3.00% | ~460 |
 | Enlightened | 3.00% | ~460 |
 | Glorious | 3.00% | ~460 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 3.00% | ~460 |
 | Developing Cities | 3.00% | ~460 |
 | Strong Cities | 3.00% | ~460 |
-| Hanging Gardens | 3.00% | ~460 |
 | Ishtar Gate | 3.00% | ~460 |
 | Lighthouse | 3.00% | ~460 |
 | Oracle | 3.00% | ~460 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,341 (Ranked 146)  
+Progressed: 15,342 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 5 (0.03%) (Ranked 315)
 | 2023-11-13 | 15,305 | 5 |
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
-| 2023-11-16 | 15,341 | 5 |
+| 2023-11-16 | 15,342 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217903,
+  "EOS_Progressed": 217904,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24288,6 +24288,11 @@
       "Time": "2023-11-16T06:03:49.4938964+00:00",
       "NumProgressed": 217903,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T07:03:38.4879961+00:00",
+      "NumProgressed": 217904,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -24299,7 +24304,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 102414
+      "UsersEstimate": 102415
     },
     {
       "ID": "AlekhinesGun",
@@ -24371,7 +24376,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 152532
+      "UsersEstimate": 152533
     },
     {
       "ID": "DoubleCheck",
@@ -24475,7 +24480,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28327
+      "UsersEstimate": 28328
     },
     {
       "ID": "Octopus",
@@ -24483,7 +24488,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 28327
+      "UsersEstimate": 28328
     },
     {
       "ID": "PieceCollector",
@@ -24602,7 +24607,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 217903,
+      "Progressed": 217904,
       "Completed": 2
     }
   ],
@@ -24610,8 +24615,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-14T13:07:38.4889289+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:03:49.4938959+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:03:38.4879957+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:29.355352+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:02:56.8759217+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:03:49.4940792+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:02:43.7245872+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:03:38.4881476+00:00"
 }

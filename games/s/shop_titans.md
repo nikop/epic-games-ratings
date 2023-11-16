@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 5.00% | ~6,999 |
 | Titan's First Steps | 5.00% | ~6,999 |
-| Basic in Bulk | 4.00% | ~5,599 |
-| Tinkle of Coins | 4.00% | ~5,599 |
+| Basic in Bulk | 4.00% | ~5,600 |
+| Tinkle of Coins | 4.00% | ~5,600 |
 | Disintermediation | 3.00% | ~4,200 |
 | It's Free Real Estate | 3.00% | ~4,200 |
 | Budding Merchant | 3.00% | ~4,200 |
@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.90% | ~1,260 |
 | Complete Monopoly | 0.90% | ~1,260 |
 | Cream of the Crop | 0.80% | ~1,120 |
+| Proud Paladin | 0.80% | ~1,120 |
 | Above the Norm | 0.80% | ~1,120 |
 | A Ronin Reborn | 0.80% | ~1,120 |
 | Omae wa Mou Shindeiru | 0.80% | ~1,120 |
@@ -84,7 +85,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.80% | ~1,120 |
 | King's Blade | 0.80% | ~1,120 |
 | Top of the World | 0.70% | ~980 |
-| Proud Paladin | 0.70% | ~980 |
 | Constellated | 0.70% | ~980 |
 | Thirst for Knowledge | 0.70% | ~980 |
 | Booty by the Boatload | 0.70% | ~980 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,986 (Ranked 79)  
+Progressed: 139,989 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 186 (0.13%) (Ranked 265)
 | 2023-11-13 | 139,733 | 181 |
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
-| 2023-11-16 | 139,986 | 186 |
+| 2023-11-16 | 139,989 | 186 |
 ## Awards
 Max (Great for Beginners): 4,831  (Ranked 73)  
 Sum: 27,553 (Ranked 50)  

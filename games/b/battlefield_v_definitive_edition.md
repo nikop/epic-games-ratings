@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 92.00% | ~18,356 |
-| Grim Reaper | 74.00% | ~14,764 |
-| Enemy Attrition | 73.00% | ~14,565 |
-| Heads Down | 72.00% | ~14,365 |
-| Not On My Watch | 69.00% | ~13,767 |
+| Last Man Standing | 92.00% | ~18,357 |
+| Grim Reaper | 74.00% | ~14,765 |
+| Enemy Attrition | 73.00% | ~14,566 |
+| Heads Down | 72.00% | ~14,366 |
+| Not On My Watch | 69.00% | ~13,768 |
 | Combat Engineer | 53.00% | ~10,575 |
-| Eager Beaver | 47.00% | ~9,377 |
+| Eager Beaver | 47.00% | ~9,378 |
 | Call ’em in! | 42.00% | ~8,380 |
 | Lovely | 38.00% | ~7,582 |
 | Elite | 26.00% | ~5,188 |
@@ -26,7 +26,7 @@
 | Sins of the Fathers | 0.40% | ~80 |
 | Hoist the Flag | 0.40% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,952 (Ranked 135)  
+Progressed: 19,953 (Ranked 135)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 19,709 | 0 |
 | 2023-11-14 | 19,829 | 0 |
 | 2023-11-15 | 19,931 | 0 |
-| 2023-11-16 | 19,952 | 0 |
+| 2023-11-16 | 19,953 | 0 |

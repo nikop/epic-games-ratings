@@ -9,7 +9,7 @@ Rating: 4.06 (Ranked 975)
 | Battlefields Have Memories | 86.00% | ~237 |
 | Enlisted | 83.00% | ~229 |
 | Maybe Engage a Little | 80.00% | ~221 |
-| No More Names | 65.00% | ~179 |
+| No More Names | 66.00% | ~182 |
 | Initiate | 54.00% | ~149 |
 | Thrada-Kul | 49.00% | ~135 |
 | Gravity-Challenged Rocks | 38.00% | ~105 |
@@ -24,10 +24,10 @@ Rating: 4.06 (Ranked 975)
 | Periapt Alizarin | 19.00% | ~52 |
 | Geas Aristeya | 18.00% | ~50 |
 | A Perfect Cycle | 16.00% | ~44 |
-| Recruit | 15.00% | ~41 |
+| Recruit | 16.00% | ~44 |
 | Armsman | 15.00% | ~41 |
+| Lights Army | 11.00% | ~30 |
 | Good Boy | 11.00% | ~30 |
-| Lights Army | 10.00% | ~28 |
 | Periapt Cerulean | 10.00% | ~28 |
 | Shroudfane Explorer | 8.00% | ~22 |
 | Best Dressed | 7.00% | ~19 |

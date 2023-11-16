@@ -2377,9 +2377,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "5k00jcd",
       "Name": "The Nitro Bot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -2401,9 +2401,9 @@
       "ID": "ML_ACHIEVEMENT_29",
       "SetID": "5k00jcd",
       "Name": "\u2026Is half done",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -2534,8 +2534,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:05:11.0083027+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:05:00.5956598+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
   "LastUpdate_Ratings": "2023-11-16T06:02:48.2200174+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:05:11.0083448+00:00"
+  "LastUpdate_Achievements": "2023-11-16T07:05:00.5957004+00:00"
 }

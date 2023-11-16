@@ -1329,9 +1329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237383,
+  "EOS_Progressed": 237386,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18729,6 +18729,11 @@
       "Time": "2023-11-16T06:08:38.1464232+00:00",
       "NumProgressed": 237383,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-16T07:08:16.7416435+00:00",
+      "NumProgressed": 237386,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18740,7 +18745,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "100Fail",
@@ -18772,7 +18777,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "BookCollection",
@@ -18804,7 +18809,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "Chapter4",
@@ -19188,7 +19193,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83084
+      "UsersEstimate": 83085
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19436,28 +19441,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237383,
+      "Progressed": 237386,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237383,
+      "Progressed": 237386,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T01:47:15.3446866+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:08:38.1464227+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:08:16.7416423+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:59:26.5894868+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:08:38.1466102+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:59:11.5522695+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:08:16.7418205+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20145,
+  "EOS_Progressed": 20148,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2026,
+  "EOS_NewPlayers": 2021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6769,6 +6769,11 @@
       "Time": "2023-11-16T06:09:36.8256351+00:00",
       "NumProgressed": 20145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T07:09:17.0612115+00:00",
+      "NumProgressed": 20148,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -6829,7 +6834,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "achievement_16",
@@ -7005,7 +7010,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 19138
+      "UsersEstimate": 19141
     },
     {
       "ID": "achievement_36",
@@ -7037,7 +7042,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "achievement_4",
@@ -7125,7 +7130,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "achievement_7",
@@ -7141,7 +7146,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "achievement_9",
@@ -7156,7 +7161,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 20145,
+      "Progressed": 20148,
       "Completed": 1
     }
   ],
@@ -7164,8 +7169,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:09:36.8256347+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:09:17.061211+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:13.2904344+00:00",
-  "LastUpdate_Ratings": "2023-11-16T06:03:03.7528985+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:09:36.8257305+00:00"
+  "LastUpdate_Ratings": "2023-11-16T07:02:50.5659107+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:09:17.061281+00:00"
 }

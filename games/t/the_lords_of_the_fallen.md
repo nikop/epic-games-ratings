@@ -18,6 +18,7 @@ Rating: 4.21 (Ranked 900)
 | Together in Death | 0.30% | ~5 |
 | Burying the Past | 0.30% | ~5 |
 | Unwanted | 0.30% | ~5 |
+| Unbroken to the End | 0.30% | ~5 |
 | A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
@@ -25,7 +26,6 @@ Rating: 4.21 (Ranked 900)
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
 | Rune Novice | 0.20% | ~3 |
-| Unbroken to the End | 0.20% | ~3 |
 | Moving On | 0.20% | ~3 |
 | Seasoned | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |

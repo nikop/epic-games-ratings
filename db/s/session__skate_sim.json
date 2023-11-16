@@ -2,12 +2,12 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -6145,8 +6145,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-14T23:59:21.0037965+00:00",
-  "LastChanged_Achievements": "2023-11-16T06:04:35.4714015+00:00",
+  "LastChanged_Achievements": "2023-11-16T07:04:25.1323945+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:27.8412507+00:00",
-  "LastUpdate_Ratings": "2023-11-16T05:59:21.5209345+00:00",
-  "LastUpdate_Achievements": "2023-11-16T06:04:35.4714576+00:00"
+  "LastUpdate_Ratings": "2023-11-16T06:59:06.2181331+00:00",
+  "LastUpdate_Achievements": "2023-11-16T07:04:25.1324374+00:00"
 }
