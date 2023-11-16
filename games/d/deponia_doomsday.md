@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 504)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~409 |
-| And again, and again, and... | 63.00% | ~296 |
+| And again, and again, and... | 64.00% | ~301 |
 | Burn, Elysium, burn! | 62.00% | ~291 |
 | Kuvaq Minigame-Master | 61.00% | ~287 |
 | FunScore | 54.00% | ~254 |
@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 504)
 | Portals come in packs | 30.00% | ~141 |
 | No man left behind! | 29.00% | ~136 |
 | Photo Friend | 26.00% | ~122 |
-| Brainfreeze | 20.00% | ~94 |
+| Brainfreeze | 21.00% | ~99 |
 | And everything comes full circle. | 20.00% | ~94 |
 | Masseltov | 19.00% | ~89 |
 | Quickdraw | 16.00% | ~75 |

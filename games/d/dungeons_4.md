@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 85.00% | ~234 |
-| Thalya – Simply Immortal | 85.00% | ~234 |
+| The Last Stand | 86.00% | ~236 |
+| Thalya – Simply Immortal | 86.00% | ~236 |
 | For the Horde! | 80.00% | ~220 |
 | Hammer Time, Round Two | 79.00% | ~217 |
-| The Hellwoods | 72.00% | ~198 |
+| The Hellwoods | 73.00% | ~201 |
 | Thalya's Concentrated Fury | 66.00% | ~182 |
 | The Plains of Strothalm | 65.00% | ~179 |
 | Experienced Thalya | 64.00% | ~176 |
 | Master of Magic | 61.00% | ~168 |
 | Bad Elves Go Everywhere | 60.00% | ~165 |
+| Magic Accidents | 55.00% | ~151 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~151 |
-| Magic Accidents | 54.00% | ~148 |
 | Heroes’ Gorge | 53.00% | ~146 |
 | Trap Master | 51.00% | ~140 |
 | Minions, Minions! | 51.00% | ~140 |
@@ -34,7 +34,7 @@
 | Hungry, Hungry Gorgu! | 17.00% | ~47 |
 | Tanos' Crusade Against Thalya | 17.00% | ~47 |
 | Unstoppable Horde | 15.00% | ~41 |
-| Master of the Undead | 13.00% | ~36 |
+| Master of the Undead | 14.00% | ~39 |
 | Forbidden Knowledge | 12.00% | ~33 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~33 |
 | All’s Well That Ends Evil | 12.00% | ~33 |

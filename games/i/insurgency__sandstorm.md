@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~14,530 |
 | Stylin' | 3.00% | ~14,530 |
 | Turf War | 3.00% | ~14,530 |
-| Banged | 2.00% | ~9,686 |
-| Checkpoint Victory | 2.00% | ~9,686 |
-| First Blood | 2.00% | ~9,686 |
-| Flaccid Paralysis | 2.00% | ~9,686 |
-| Push Victory | 2.00% | ~9,686 |
-| Self-destructive | 2.00% | ~9,686 |
+| Banged | 2.00% | ~9,687 |
+| Checkpoint Victory | 2.00% | ~9,687 |
+| First Blood | 2.00% | ~9,687 |
+| Flaccid Paralysis | 2.00% | ~9,687 |
+| Push Victory | 2.00% | ~9,687 |
+| Self-destructive | 2.00% | ~9,687 |
 | Blindfire | 1.00% | ~4,843 |
 | Ruthless | 1.00% | ~4,843 |
 | Semper Paratus | 1.00% | ~4,843 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~484 |
 | Road Hazard | 0.10% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 484,322 (Ranked 38)  
+Progressed: 484,328 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 2 (0.00%) (Ranked 352)
 | 2023-11-13 | 483,399 | 2 |
 | 2023-11-14 | 483,800 | 2 |
 | 2023-11-15 | 484,137 | 2 |
-| 2023-11-16 | 484,322 | 2 |
+| 2023-11-16 | 484,328 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 231)  
 Sum: 3,163 (Ranked 171)  

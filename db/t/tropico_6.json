@@ -1365,9 +1365,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6018,
+  "EOS_Progressed": 6020,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12960,6 +12960,11 @@
       "Time": "2023-11-16T04:10:15.2372569+00:00",
       "NumProgressed": 6018,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T09:09:48.0625008+00:00",
+      "NumProgressed": 6020,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12987,7 +12992,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -13067,7 +13072,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13091,7 +13096,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -13099,7 +13104,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -13131,7 +13136,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13155,7 +13160,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -13227,7 +13232,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -13290,15 +13295,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6018,
+      "Progressed": 6020,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-14T04:59:03.2386082+00:00",
-  "LastChanged_Achievements": "2023-11-16T08:09:38.4823076+00:00",
+  "LastChanged_Achievements": "2023-11-16T09:09:48.0625001+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:00:15.7701628+00:00",
-  "LastUpdate_Achievements": "2023-11-16T08:09:38.4823867+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:00:12.0669171+00:00",
+  "LastUpdate_Achievements": "2023-11-16T09:09:48.0625805+00:00"
 }

@@ -21,18 +21,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~866 |
 | A Real Challenge | 5.00% | ~866 |
 | Trade Baron | 5.00% | ~866 |
-| Homesick | 4.00% | ~692 |
-| Against All Odds | 4.00% | ~692 |
-| Ruined Armory | 4.00% | ~692 |
-| Bandit Camp | 4.00% | ~692 |
-| Barren Lands | 4.00% | ~692 |
-| Haunted Forest | 4.00% | ~692 |
-| Levitating Monument | 4.00% | ~692 |
-| Flooded Mines | 4.00% | ~692 |
-| Monastery of the Holy Flame | 4.00% | ~692 |
-| Statue of the Forefathers | 4.00% | ~692 |
-| Corrosive Torrent | 4.00% | ~692 |
-| Cursed Lands | 4.00% | ~692 |
+| Homesick | 4.00% | ~693 |
+| Against All Odds | 4.00% | ~693 |
+| Ruined Armory | 4.00% | ~693 |
+| Bandit Camp | 4.00% | ~693 |
+| Barren Lands | 4.00% | ~693 |
+| Haunted Forest | 4.00% | ~693 |
+| Levitating Monument | 4.00% | ~693 |
+| Flooded Mines | 4.00% | ~693 |
+| Monastery of the Holy Flame | 4.00% | ~693 |
+| Statue of the Forefathers | 4.00% | ~693 |
+| Corrosive Torrent | 4.00% | ~693 |
+| Cursed Lands | 4.00% | ~693 |
 | Serving Ale | 3.00% | ~519 |
 | Refinery | 3.00% | ~519 |
 | Dangerous Lands | 3.00% | ~519 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,312 (Ranked 141)  
+Progressed: 17,313 (Ranked 141)  
 Completed: 55 (0.32%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 55 (0.32%) (Ranked 227)
 | 2023-11-13 | 17,304 | 53 |
 | 2023-11-14 | 17,309 | 55 |
 | 2023-11-15 | 17,312 | 55 |
+| 2023-11-16 | 17,313 | 55 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 219)  
 Sum: 3,215 (Ranked 170)  

@@ -5,9 +5,9 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Neophyte Ninja | 3.00% | ~2,736 |
 | First One’s Free | 3.00% | ~2,736 |
 | Downed but Not Outed | 3.00% | ~2,736 |
-| Neophyte Ninja | 2.00% | ~1,824 |
 | Too Old for This | 2.00% | ~1,824 |
 | Fancy Pants | 2.00% | ~1,824 |
 | Underworld Initiate | 1.00% | ~912 |

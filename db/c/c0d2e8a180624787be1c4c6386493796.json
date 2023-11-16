@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -509,9 +509,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -892,8 +892,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-16T08:05:58.7067277+00:00",
+  "LastChanged_Achievements": "2023-11-16T09:06:20.7612246+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.9496444+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:59:11.1587084+00:00",
-  "LastUpdate_Achievements": "2023-11-16T08:05:58.7067951+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:59:05.9903861+00:00",
+  "LastUpdate_Achievements": "2023-11-16T09:06:20.761287+00:00"
 }

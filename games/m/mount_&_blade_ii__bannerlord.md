@@ -6,13 +6,13 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,077 |
-| Landlord | 33.00% | ~21,513 |
-| Bannerlord | 24.00% | ~15,646 |
-| Horde breaker | 24.00% | ~15,646 |
-| Trained | 24.00% | ~15,646 |
-| Lawmaker | 23.00% | ~14,994 |
-| The king is pleased | 19.00% | ~12,386 |
+| Lawbringer | 40.00% | ~26,078 |
+| Landlord | 33.00% | ~21,514 |
+| Bannerlord | 24.00% | ~15,647 |
+| Horde breaker | 24.00% | ~15,647 |
+| Trained | 24.00% | ~15,647 |
+| Lawmaker | 23.00% | ~14,995 |
+| The king is pleased | 19.00% | ~12,387 |
 | King Solomon | 18.00% | ~11,735 |
 | Apple of my eye | 16.00% | ~10,431 |
 | I can do it | 16.00% | ~10,431 |
@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,519 |
 | What have the Romans ever done for us? | 10.00% | ~6,519 |
 | Butterlord | 9.00% | ~5,867 |
-| Know your enemy | 7.00% | ~4,563 |
-| Mastery | 7.00% | ~4,563 |
+| Know your enemy | 7.00% | ~4,564 |
+| Mastery | 7.00% | ~4,564 |
 | Crowdfunded | 5.00% | ~3,260 |
 | Crush your enemies | 5.00% | ~3,260 |
 | My way | 5.00% | ~3,260 |
@@ -37,7 +37,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 2.00% | ~1,304 |
 | Entrepreneur | 1.00% | ~652 |
 | Crackshot | 0.90% | ~587 |
-| Undercover | 0.80% | ~522 |
+| Undercover | 0.90% | ~587 |
 | Fat Cat | 0.70% | ~456 |
 | Catch | 0.60% | ~391 |
 | Slice 'n dice | 0.50% | ~326 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,192 (Ranked 103)  
+Progressed: 65,194 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 65,066 | 0 |
 | 2023-11-14 | 65,107 | 0 |
 | 2023-11-15 | 65,180 | 0 |
-| 2023-11-16 | 65,192 | 0 |
+| 2023-11-16 | 65,194 | 0 |
 ## Awards
 Max (Character Customization): 7,387  (Ranked 53)  
 Sum: 15,289 (Ranked 68)  

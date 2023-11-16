@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 76.00% | ~52 |
-| Book Worm | 53.00% | ~36 |
-| Ooh, it's shiny! | 50.00% | ~34 |
-| My lost nightingale | 44.00% | ~30 |
-| Through the woods | 43.00% | ~29 |
+| Escape artist | 77.00% | ~53 |
+| Book Worm | 52.00% | ~36 |
+| Ooh, it's shiny! | 49.00% | ~34 |
+| My lost nightingale | 43.00% | ~30 |
+| Through the woods | 42.00% | ~29 |
 | Fussy eater | 38.00% | ~26 |
-| Back to the anvil | 37.00% | ~25 |
-| So soothing... | 37.00% | ~25 |
-| Kekekeke... | 37.00% | ~25 |
-| Mystery solved | 34.00% | ~23 |
-| Sorry Grandpa | 34.00% | ~23 |
-| Roostwig has entered the building | 34.00% | ~23 |
+| Back to the anvil | 36.00% | ~25 |
+| So soothing... | 36.00% | ~25 |
+| Kekekeke... | 36.00% | ~25 |
+| Mystery solved | 33.00% | ~23 |
+| Sorry Grandpa | 33.00% | ~23 |
+| Roostwig has entered the building | 33.00% | ~23 |
 | Honey, honey, honey… | 32.00% | ~22 |
 | Far away from home | 32.00% | ~22 |
 | NOW GO AWAY! | 32.00% | ~22 |
-| Game Over! | 31.00% | ~21 |
-| A very special drink | 31.00% | ~21 |
+| Game Over! | 30.00% | ~21 |
+| A very special drink | 30.00% | ~21 |
 | Shattered | 29.00% | ~20 |
 | Little genius | 29.00% | ~20 |
 | Show me your true self | 28.00% | ~19 |
@@ -31,21 +31,21 @@
 | Memories | 26.00% | ~18 |
 | Pain in the hands | 26.00% | ~18 |
 | Mischief maker | 26.00% | ~18 |
-| Close the deal | 24.00% | ~16 |
-| Turn the last page | 24.00% | ~16 |
-| Ring-a-ding-ding | 24.00% | ~16 |
+| Close the deal | 23.00% | ~16 |
+| Turn the last page | 23.00% | ~16 |
+| Ring-a-ding-ding | 23.00% | ~16 |
 | Kill it! KILL IT! | 22.00% | ~15 |
-| Makeover | 21.00% | ~14 |
-| Singstar | 21.00% | ~14 |
+| Makeover | 20.00% | ~14 |
+| Singstar | 20.00% | ~14 |
 | Bahahahaha... | 19.00% | ~13 |
-| Guilty conscience | 18.00% | ~12 |
+| Guilty conscience | 17.00% | ~12 |
 | Cameodalic | 16.00% | ~11 |
 | Clever reference #451 | 13.00% | ~9 |
 | What a mess | 12.00% | ~8 |
 | Posterboy! | 10.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 457)  
-Completed: 6 (8.82%) (Ranked 46)  
+Progressed: 69 (Ranked 454)  
+Completed: 6 (8.70%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 6 (8.82%) (Ranked 46)
 | 2023-11-11 | 65 | 6 |
 | 2023-11-12 | 66 | 6 |
 | 2023-11-13 | 68 | 6 |
+| 2023-11-16 | 69 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

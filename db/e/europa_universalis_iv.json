@@ -12123,9 +12123,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456563,
+  "EOS_Progressed": 456588,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6291,
+  "EOS_NewPlayers": 6299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36138,6 +36138,11 @@
       "Time": "2023-11-16T08:04:31.3599688+00:00",
       "NumProgressed": 456563,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T09:04:53.6789571+00:00",
+      "NumProgressed": 456588,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37523,9 +37528,9 @@
       "ID": "achievement_laughingstock",
       "SetID": "8p2n7he",
       "Name": "Laughingstock",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_lazarus",
@@ -39052,21 +39057,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456563,
+      "Progressed": 456588,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456563,
+      "Progressed": 456588,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-16T03:58:21.0881827+00:00",
-  "LastChanged_Achievements": "2023-11-16T08:04:31.3599683+00:00",
+  "LastChanged_Achievements": "2023-11-16T09:04:53.6789567+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:58:14.2942566+00:00",
-  "LastUpdate_Achievements": "2023-11-16T08:04:31.3609892+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:58:08.3192705+00:00",
+  "LastUpdate_Achievements": "2023-11-16T09:04:53.6799947+00:00"
 }

@@ -78,6 +78,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Keep the Flame Burning | 0.10% | ~457 |
 | Kingdom of God | 0.10% | ~457 |
 | Krabater | 0.10% | ~457 |
+| Laughingstock | 0.10% | ~457 |
 | Lazarus | 0.10% | ~457 |
 | Liberty or Death | 0.10% | ~457 |
 | Live Long and Prosper | 0.10% | ~457 |
@@ -251,7 +252,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Land of Eastern Jade | 0.00% | ~0 |
-| Laughingstock | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | The Levant Turnabout | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,563 (Ranked 41)  
+Progressed: 456,588 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,563 | 1 |
+| 2023-11-16 | 456,588 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,733 (Ranked 24)  

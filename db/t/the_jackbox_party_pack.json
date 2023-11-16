@@ -2,7 +2,7 @@
   "ID": "feverfew",
   "Name": "The Jackbox Party Pack",
   "ProductSlug": "jackbox-party-pack-1",
-  "Ranking_Rating": 4,
+  "Ranking_Rating": 3,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 748,
@@ -61,6 +61,6 @@
   "FirstSeenRating": "2022-11-04T09:34:14.0083626+00:00",
   "LastChanged": "2023-11-06T06:57:06.6656535+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:35.0296642+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:58:28.7304089+00:00",
-  "LastUpdate_Achievements": "2023-11-16T08:04:41.253816+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:58:22.9047619+00:00",
+  "LastUpdate_Achievements": "2023-11-16T09:05:03.2508241+00:00"
 }

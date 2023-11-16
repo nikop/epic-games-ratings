@@ -11,7 +11,7 @@
 | Scraps of love | 42.00% | ~29 |
 | The artist’s impression | 42.00% | ~29 |
 | It's covered up for a reason | 41.00% | ~28 |
-| Refuse to look | 36.00% | ~25 |
+| Refuse to look | 38.00% | ~26 |
 | Sign of weakness | 36.00% | ~25 |
 | Finished it | 28.00% | ~19 |
 | Face your fears | 23.00% | ~16 |

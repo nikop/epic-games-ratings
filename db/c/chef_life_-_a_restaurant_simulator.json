@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -2987,6 +2987,11 @@
       "Time": "2023-11-14T04:05:19.5237676+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T09:05:28.6867701+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3046,7 +3051,7 @@
       "Name": "French Flair",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3174,7 +3179,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Packing20",
@@ -3222,7 +3227,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ServiceMaxClient",
@@ -3254,7 +3259,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "TrattoriaSet",
@@ -3317,7 +3322,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 0
     }
   ],
@@ -3325,8 +3330,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-16T08:05:06.391766+00:00",
+  "LastChanged_Achievements": "2023-11-16T09:05:28.6867698+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:51.4511106+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:58:12.9533027+00:00",
-  "LastUpdate_Achievements": "2023-11-16T08:05:06.3918042+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:58:06.9411875+00:00",
+  "LastUpdate_Achievements": "2023-11-16T09:05:28.6868099+00:00"
 }

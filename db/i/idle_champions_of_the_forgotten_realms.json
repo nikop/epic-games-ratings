@@ -6,9 +6,9 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8077,10 +8077,10 @@
       "Count": 3518
     }
   ],
-  "EOS_Progressed": 235247,
-  "EOS_Completed": 2450,
-  "EOS_NewPlayers": 1227,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 235253,
+  "EOS_Completed": 2451,
+  "EOS_NewPlayers": 1230,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -31572,6 +31572,11 @@
       "Time": "2023-11-16T08:09:12.1027445+00:00",
       "NumProgressed": 235247,
       "NumCompleted": 2450
+    },
+    {
+      "Time": "2023-11-16T09:09:21.8707337+00:00",
+      "NumProgressed": 235253,
+      "NumCompleted": 2451
     }
   ],
   "TotalAchievements": 532,
@@ -31583,7 +31588,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "objective_completed_10",
@@ -31951,7 +31956,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "objective_completed_110",
@@ -33255,7 +33260,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "objective_completed_34",
@@ -34727,7 +34732,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "objective_completed_70",
@@ -35838,21 +35843,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201521,
+      "Progressed": 201527,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235247,
-      "Completed": 2450
+      "Progressed": 235253,
+      "Completed": 2451
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-16T04:57:41.4939064+00:00",
-  "LastChanged_Achievements": "2023-11-16T08:09:12.102744+00:00",
+  "LastChanged_Achievements": "2023-11-16T09:09:21.8707334+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-16T07:58:07.504689+00:00",
-  "LastUpdate_Achievements": "2023-11-16T08:09:12.1063214+00:00"
+  "LastUpdate_Ratings": "2023-11-16T08:58:01.1754475+00:00",
+  "LastUpdate_Achievements": "2023-11-16T09:09:21.9070433+00:00"
 }

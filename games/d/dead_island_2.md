@@ -11,13 +11,13 @@ Rating: 4.54 (Ranked 523)
 | Hotel California | 1.00% | ~7,191 |
 | Welcome To Hell-A | 1.00% | ~7,191 |
 | Break A Leg | 0.90% | ~6,472 |
-| Git Gutte! | 0.80% | ~5,752 |
-| Bookworm | 0.80% | ~5,752 |
-| Coup de Grâce | 0.80% | ~5,752 |
-| Hazardous Materials | 0.80% | ~5,752 |
-| Friends Like These | 0.80% | ~5,752 |
-| Apex Predator | 0.80% | ~5,752 |
-| Personal Assistant Personally Assisted | 0.80% | ~5,752 |
+| Git Gutte! | 0.80% | ~5,753 |
+| Bookworm | 0.80% | ~5,753 |
+| Coup de Grâce | 0.80% | ~5,753 |
+| Hazardous Materials | 0.80% | ~5,753 |
+| Friends Like These | 0.80% | ~5,753 |
+| Apex Predator | 0.80% | ~5,753 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,753 |
 | Dr. Reed, I Presume? | 0.70% | ~5,033 |
 | Anger Management | 0.70% | ~5,033 |
 | But Doctor, I am Butcho | 0.70% | ~5,033 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~45 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,056 (Ranked 20)  
+Progressed: 719,065 (Ranked 20)  
 Completed: 2,393 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,17 +267,17 @@ Completed: 2,393 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,056 | 2,393 |
+| 2023-11-16 | 719,065 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 51)  
-Sum: 11,380 (Ranked 84)  
+Sum: 11,383 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,466 |
 | This game is Great for Beginners | 566 |
 | This game has Diverse Characters | 546 |
-| This game has Quickly Understood Controls | 516 |
+| This game has Quickly Understood Controls | 519 |
 | This game is Relaxing | 494 |
 | This game has Amazing Storytelling | 466 |
 | This game is Highly Recommended | 454 |
@@ -495,4 +495,4 @@ Diff (max vs sum): -33
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
-| 2023-11-16 | 4.54 | 7,466 | 11,380 |
+| 2023-11-16 | 4.54 | 7,466 | 11,383 |

@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 539)  
+Rating: 4.53 (Ranked 540)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,9 +20,9 @@ Number of Ratings: 2,731  (23.09.2022)
 | Master | 19.00% | ~15,731 |
 | No Longer Red | 18.00% | ~14,903 |
 | Self-sufficient | 18.00% | ~14,903 |
-| Money money | 15.00% | ~12,419 |
-| Biggest Reward | 14.00% | ~11,591 |
-| First Journey | 13.00% | ~10,763 |
+| Money money | 15.00% | ~12,420 |
+| Biggest Reward | 14.00% | ~11,592 |
+| First Journey | 13.00% | ~10,764 |
 | Acquired knowledge | 12.00% | ~9,936 |
 | Hellenic Elysium | 12.00% | ~9,936 |
 | Landlord | 11.00% | ~9,108 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,484 |
 | Opportunity | 3.00% | ~2,484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,796 (Ranked 93)  
+Progressed: 82,797 (Ranked 93)  
 Completed: 162 (0.20%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 162 (0.20%) (Ranked 252)
 | 2023-11-13 | 82,583 | 160 |
 | 2023-11-14 | 82,685 | 161 |
 | 2023-11-15 | 82,772 | 162 |
-| 2023-11-16 | 82,796 | 162 |
+| 2023-11-16 | 82,797 | 162 |
 ## Awards
 Max (Relaxing): 525  (Ranked 204)  
 Sum: 3,252 (Ranked 169)  
