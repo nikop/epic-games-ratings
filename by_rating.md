@@ -131,7 +131,7 @@
 | 127 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,384 | 91 |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,060 | 147 |
 | 127 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,170 | 141 |
-| 127 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,313 | 17 |
+| 127 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,339 | 17 |
 | 127 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 5,066 | 71 |
 | 127 | [Journey](games/j/journey.md) | 4.76 | 0 | 546 |
 | 127 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 546 |
@@ -477,7 +477,7 @@
 | 469 | [Hob](games/h/hob.md) | 4.57 | 0 | 546 |
 | 469 | [IXION](games/i/ixion.md) | 4.57 | 0 | 546 |
 | 469 | [Minit](games/m/minit.md) | 4.57 | 0 | 546 |
-| 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,210 | 44 |
+| 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,215 | 44 |
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,353 | 94 |
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 546 |
 | 469 | [Risen](games/r/risen.md) | 4.57 | 0 | 546 |
@@ -927,7 +927,7 @@
 | 925 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.18 | 37 | 461 |
 | 925 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 546 |
 | 925 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,944 | 98 |
-| 925 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,414 | 5 |
+| 925 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,537 | 5 |
 | 925 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 363 |
 | 930 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 546 |
 | 930 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 368 |
@@ -988,7 +988,7 @@
 | 986 | [Lake](games/l/lake.md) | 4.03 | 0 | 546 |
 | 986 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.03 | 0 | 546 |
 | 986 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 546 |
-| 989 | [The Front](games/t/the_front.md) | 4.01 | 0 | 546 |
+| 989 | [The Front](games/t/the_front.md) | 4.02 | 0 | 546 |
 | 990 | [Astria Ascending](games/a/astria_ascending.md) | 4.00 | 0 | 546 |
 | 990 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.00 | 0 | 546 |
 | 990 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.00 | 0 | 546 |
