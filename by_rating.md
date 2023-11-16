@@ -216,7 +216,6 @@
 | 212 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 116 | 342 |
 | 212 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 451 | 217 |
 | 212 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,943 | 47 |
-| 212 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.70 | 0 | 546 |
 | 212 | [For The King](games/f/for_the_king.md) | 4.70 | 407 | 227 |
 | 212 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,340 | 136 |
 | 212 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 147 | 318 |
@@ -231,26 +230,27 @@
 | 212 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 43 | 447 |
 | 212 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 546 |
 | 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 546 |
-| 232 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 546 |
-| 232 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 120,612 | 8 |
-| 232 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 546 |
-| 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 7,013 | 54 |
-| 232 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.69 | 32 | 484 |
-| 232 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 5,463 | 70 |
-| 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.69 | 0 | 546 |
-| 232 | [House Flipper](games/h/house_flipper.md) | 4.69 | 320 | 246 |
-| 232 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 546 |
-| 232 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,218 | 140 |
-| 232 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 546 |
-| 232 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 546 |
-| 232 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,609 | 36 |
-| 232 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 57 | 415 |
-| 232 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 400 | 229 |
-| 232 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 507 |
-| 232 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 546 |
-| 232 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 546 |
-| 232 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 546 |
-| 232 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,028 | 151 |
+| 231 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 546 |
+| 231 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 120,612 | 8 |
+| 231 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 546 |
+| 231 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 7,013 | 54 |
+| 231 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.69 | 32 | 484 |
+| 231 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 5,482 | 70 |
+| 231 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.69 | 0 | 546 |
+| 231 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.69 | 0 | 546 |
+| 231 | [House Flipper](games/h/house_flipper.md) | 4.69 | 320 | 246 |
+| 231 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 546 |
+| 231 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,218 | 140 |
+| 231 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 546 |
+| 231 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 546 |
+| 231 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,609 | 36 |
+| 231 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 57 | 415 |
+| 231 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 400 | 229 |
+| 231 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 507 |
+| 231 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 546 |
+| 231 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 546 |
+| 231 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 546 |
+| 231 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,028 | 151 |
 | 252 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,381 | 92 |
 | 252 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,818 | 88 |
 | 252 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 401 |

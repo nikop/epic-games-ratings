@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.02% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.01% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -36,7 +36,7 @@
 | 34 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
-| 37 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.90% |
+| 37 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.88% |
 | 38 | [Smelter](games/s/smelter.md) | 9.76% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 40 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
@@ -47,7 +47,7 @@
 | 45 | [Anna's Quest](games/a/anna's_quest.md) | 8.82% |
 | 46 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
-| 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
+| 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
 | 49 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 49 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 7.69% |
 | 49 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
@@ -197,15 +197,15 @@
 | 194 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 194 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 197 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.52% |
-| 198 | [Dead Space](games/d/dead_space.md) | 0.50% |
 | 198 | [Eternights](games/e/eternights.md) | 0.50% |
-| 200 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
-| 200 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.49% |
+| 199 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
+| 199 | [Dead Space](games/d/dead_space.md) | 0.49% |
+| 199 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.49% |
 | 202 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 202 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
-| 204 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 205 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
-| 205 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
+| 204 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 204 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
+| 204 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 207 | [Tchia](games/t/tchia.md) | 0.44% |
 | 208 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
 | 209 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.41% |
@@ -746,4 +746,4 @@
 | 352 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 352 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 352 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,562 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,565 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
