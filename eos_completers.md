@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.92% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.89% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -39,7 +39,7 @@
 | 36 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Smelter](games/s/smelter.md) | 9.76% |
-| 40 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.55% |
+| 40 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.53% |
 | 41 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
 | 42 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
@@ -153,7 +153,7 @@
 | 151 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 151 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 153 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 154 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.11% |
+| 154 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.10% |
 | 155 | [Adios](games/a/adios.md) | 1.07% |
 | 156 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
 | 157 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.05% |
@@ -268,14 +268,14 @@
 | 265 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
 | 265 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
 | 265 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
+| 265 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.13% |
 | 265 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 265 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
-| 271 | [Isonzo](games/i/isonzo.md) | 0.12% |
-| 271 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
-| 271 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 274 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
-| 274 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.11% |
-| 274 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 272 | [Isonzo](games/i/isonzo.md) | 0.12% |
+| 272 | [Partisans 1941](games/p/partisans_1941.md) | 0.12% |
+| 272 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 275 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
+| 275 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 277 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 277 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
 | 277 | [House Flipper](games/h/house_flipper.md) | 0.10% |
