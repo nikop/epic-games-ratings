@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.18% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.16% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -33,7 +33,7 @@
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
-| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.16% |
+| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.14% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 35 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 35 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
@@ -46,25 +46,25 @@
 | 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 45 | [Anna's Quest](games/a/anna's_quest.md) | 8.82% |
 | 46 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.11% |
-| 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
-| 49 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 49 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
-| 51 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
-| 52 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
-| 53 | [Sonic Origins](games/s/sonic_origins.md) | 7.50% |
-| 54 | [Time Loader](games/t/time_loader.md) | 7.03% |
-| 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.00% |
-| 56 | [Scorn](games/s/scorn.md) | 6.91% |
-| 57 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
-| 58 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
-| 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 59 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
-| 59 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.25% |
-| 62 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.24% |
-| 63 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 63 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 5.88% |
-| 63 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
+| 47 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 8.57% |
+| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.11% |
+| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
+| 50 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 50 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 52 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
+| 53 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
+| 54 | [Sonic Origins](games/s/sonic_origins.md) | 7.50% |
+| 55 | [Time Loader](games/t/time_loader.md) | 7.03% |
+| 56 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.00% |
+| 57 | [Scorn](games/s/scorn.md) | 6.91% |
+| 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
+| 59 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
+| 60 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 60 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
+| 60 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.25% |
+| 63 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.24% |
+| 64 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 64 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 66 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.69% |
 | 67 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.49% |
