@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 252150,
+  "EOS_Progressed": 252153,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23958,6 +23958,11 @@
       "Time": "2023-11-16T03:05:18.391703+00:00",
       "NumProgressed": 252150,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-16T04:05:24.1982175+00:00",
+      "NumProgressed": 252153,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23969,7 +23974,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68080
+      "UsersEstimate": 68081
     },
     {
       "ID": "ACH_AON",
@@ -24041,7 +24046,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7564
+      "UsersEstimate": 7565
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -24089,7 +24094,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7564
+      "UsersEstimate": 7565
     },
     {
       "ID": "ACH_IRONDEC",
@@ -24241,7 +24246,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17650
+      "UsersEstimate": 17651
     },
     {
       "ID": "ACH_MEMESMART",
@@ -24265,7 +24270,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7564
+      "UsersEstimate": 7565
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -24384,7 +24389,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 252150,
+      "Progressed": 252153,
       "Completed": 7
     }
   ],
@@ -24392,8 +24397,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:05:18.3917028+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:05:24.1982167+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:24.9494369+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:59:21.5371144+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:05:18.3918231+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:59:29.9933362+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:05:24.1983294+00:00"
 }

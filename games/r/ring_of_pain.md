@@ -27,6 +27,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.20% | ~479 |
 | Delving Deeper | 0.20% | ~479 |
 | R.I.P | 0.20% | ~479 |
+| To The Death! | 0.20% | ~479 |
 | Dig Your Own Grave | 0.20% | ~479 |
 | Well Prepared | 0.20% | ~479 |
 | Who To Trust? | 0.20% | ~479 |
@@ -66,7 +67,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Hydrophobe | 0.10% | ~240 |
 | Disposal | 0.10% | ~240 |
 | Dead Revels | 0.10% | ~240 |
-| To The Death! | 0.10% | ~240 |
 | New Game+ | 0.10% | ~240 |
 | Friend of Vermin | 0.10% | ~240 |
 | Hanging On | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,746 (Ranked 61)  
+Progressed: 239,747 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 288 (0.12%) (Ranked 271)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,746 | 288 |
+| 2023-11-16 | 239,747 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,675 (Ranked 83)  

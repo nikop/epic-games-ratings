@@ -2,9 +2,9 @@
   "ID": "9988387f73f14d97bd3f8a6ae7aa42a4",
   "Name": "Vertical Third Tech Demo",
   "ProductSlug": "vertical-third-tech-demo-ccfff7",
-  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-07T18:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.4915868+00:00",
   "LastChanged": "2023-03-31T05:58:31.4915869+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:19.9809787+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:59:34.0952872+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:04:39.5665299+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:59:41.8703629+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:04:46.2625387+00:00"
 }

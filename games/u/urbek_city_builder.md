@@ -31,6 +31,10 @@
 | ¡Muy feliz! | 0.30% | ~1 |
 | Farming Frenzy | 0.30% | ~1 |
 | Farming Frenzy Plus | 0.30% | ~1 |
+| Little Mayor | 0.30% | ~1 |
+| Town planner | 0.30% | ~1 |
+| Restorer | 0.30% | ~1 |
+| Restorer Plus | 0.30% | ~1 |
 | Temperate builder | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
@@ -62,14 +66,10 @@
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | I don't feel well, I have to drink a coffe | 0.00% | ~0 |
-| Little Mayor | 0.00% | ~0 |
-| Town planner | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
 | Metropolurbek Plus | 0.00% | ~0 |
 | City in flames | 0.00% | ~0 |
 | Full restorer | 0.00% | ~0 |
-| Restorer | 0.00% | ~0 |
-| Restorer Plus | 0.00% | ~0 |
 | Restorer master | 0.00% | ~0 |
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |

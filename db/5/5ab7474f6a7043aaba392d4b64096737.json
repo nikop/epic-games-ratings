@@ -2,9 +2,9 @@
   "ID": "5ab7474f6a7043aaba392d4b64096737",
   "Name": "Blood Flowers",
   "ProductSlug": "blood-flowers-a1e6e9",
-  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-11-16T04:07:20.302596+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-11-10T05:03:53.9508625+00:00",
   "TotalAchievements": 20,
   "TotalAchievementsXP": 1000,
@@ -197,13 +203,13 @@
     {
       "ID": "5nk939k",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-08T07:03:10.4658756+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:07:17.5852067+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:07:20.3025955+00:00",
   "LastUpdate_AppInfo": "2023-11-15T07:57:07.5670201+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:57:15.0321514+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:07:17.5852179+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:57:28.7386986+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:07:20.3026065+00:00"
 }

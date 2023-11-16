@@ -2,9 +2,9 @@
   "ID": "4fa3748b581f41c6b1638d59ba95664e",
   "Name": "Elemental Wizards TCG",
   "ProductSlug": "elemental-wizards-tcg-4208fb",
-  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-18T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T22:57:17.0339171+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:59:30.3091053+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:07:33.4277125+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:59:38.3292239+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:07:35.8380153+00:00"
 }

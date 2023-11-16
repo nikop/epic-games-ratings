@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,783 |
-| IT MAKES BOOM! | 6.00% | ~17,870 |
-| EXTRA BOOST | 5.00% | ~14,892 |
-| PROTECTED | 4.00% | ~11,913 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,935 |
-| PRO | 3.00% | ~8,935 |
+| ROOKIE | 10.00% | ~29,787 |
+| IT MAKES BOOM! | 6.00% | ~17,872 |
+| EXTRA BOOST | 5.00% | ~14,894 |
+| PROTECTED | 4.00% | ~11,915 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,936 |
+| PRO | 3.00% | ~8,936 |
 | A TIGER'S FEAR | 2.00% | ~5,957 |
 | AGGRESSIVE RACER | 2.00% | ~5,957 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,978 |
-| ACE SPEEDSTER | 1.00% | ~2,978 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,979 |
+| ACE SPEEDSTER | 1.00% | ~2,979 |
 | RELEASE THE KRAKEN | 0.80% | ~2,383 |
 | BE OUR GUEST | 0.80% | ~2,383 |
 | LEGENDARY HERO | 0.80% | ~2,383 |
@@ -26,11 +26,11 @@ Rating: 4.39 (Ranked 747)
 | EXPERIENCED CREW | 0.50% | ~1,489 |
 | ACE BRAWLER | 0.40% | ~1,191 |
 | ACE DEFENDER | 0.40% | ~1,191 |
-| FRAMED! | 0.30% | ~893 |
+| FRAMED! | 0.30% | ~894 |
 | PERFECTLY POISED | 0.20% | ~596 |
 | ACE TRICKSTER | 0.20% | ~596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,832 (Ranked 52)  
+Progressed: 297,873 (Ranked 52)  
 Completed: 285 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,16 +236,16 @@ Completed: 285 (0.10%) (Ranked 277)
 | 2023-11-13 | 295,317 | 283 |
 | 2023-11-14 | 296,465 | 285 |
 | 2023-11-15 | 297,597 | 285 |
-| 2023-11-16 | 297,832 | 285 |
+| 2023-11-16 | 297,873 | 285 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 401)  
-Sum: 550 (Ranked 316)  
+Sum: 551 (Ranked 316)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 70 |
 | This game has Diverse Characters | 66 |
-| This game is Great for Quick Sessions | 62 |
+| This game is Great for Quick Sessions | 63 |
 | This game has Amazing Characters | 48 |
 | This game has Competitive Players | 43 |
 | This game has Playful Visuals | 42 |
@@ -304,3 +304,4 @@ Diff (max vs sum): 85
 | 2023-11-13 | 4.39 | 65 | 529 |
 | 2023-11-14 | 4.38 | 70 | 545 |
 | 2023-11-15 | 4.39 | 70 | 550 |
+| 2023-11-16 | 4.39 | 70 | 551 |

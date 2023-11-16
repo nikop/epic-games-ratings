@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3196,
+  "EOS_Progressed": 3198,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 977,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-11-16T03:07:56.4477594+00:00",
       "NumProgressed": 3196,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-16T04:08:17.9661345+00:00",
+      "NumProgressed": 3198,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -1866,7 +1871,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -1874,7 +1879,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -1914,15 +1919,15 @@
       "Name": "Turn on the TV",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
       "SetID": "4d50jip",
       "Name": "Wrong passcode",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -1993,14 +1998,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 3196,
+      "Progressed": 3198,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:07:56.4477589+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:08:17.9661336+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:13.7479812+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:00:43.9461581+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:07:56.4477783+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:00:48.4437866+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:08:17.9661536+00:00"
 }

@@ -6,18 +6,18 @@ Rating: 4.06 (Ranked 975)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 90.00% | ~248 |
-| Battlefields Have Memories | 86.00% | ~236 |
-| Enlisted | 83.00% | ~228 |
-| Maybe Engage a Little | 80.00% | ~220 |
+| Battlefields Have Memories | 86.00% | ~237 |
+| Enlisted | 83.00% | ~229 |
+| Maybe Engage a Little | 79.00% | ~218 |
 | No More Names | 65.00% | ~179 |
-| Initiate | 54.00% | ~148 |
+| Initiate | 54.00% | ~149 |
 | Thrada-Kul | 49.00% | ~135 |
-| Gravity-Challenged Rocks | 38.00% | ~104 |
+| Gravity-Challenged Rocks | 38.00% | ~105 |
 | Soldier | 32.00% | ~88 |
-| All the Major Food Groups | 31.00% | ~85 |
+| All the Major Food Groups | 31.00% | ~86 |
 | Beggars Would Ride | 28.00% | ~77 |
-| Control is an Illusion | 27.00% | ~74 |
-| Socialite | 27.00% | ~74 |
+| Socialite | 27.00% | ~75 |
+| Control is an Illusion | 26.00% | ~72 |
 | The Means to Save It | 21.00% | ~58 |
 | Resilience to Sin | 19.00% | ~52 |
 | A Familiar Nest | 19.00% | ~52 |
@@ -33,7 +33,7 @@ Rating: 4.06 (Ranked 975)
 | Best Dressed | 7.00% | ~19 |
 | Armaments Azure | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |
-| Armaments Gules | 6.00% | ~16 |
+| Armaments Gules | 6.00% | ~17 |
 | Scholar | 5.00% | ~14 |
 | Kitted Out | 4.00% | ~11 |
 | Armaments Vert | 4.00% | ~11 |
@@ -53,7 +53,7 @@ Rating: 4.06 (Ranked 975)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275 (Ranked 352)  
+Progressed: 276 (Ranked 352)  
 Completed: 1 (0.36%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 1 (0.36%) (Ranked 220)
 | 2023-11-13 | 272 | 1 |
 | 2023-11-14 | 274 | 1 |
 | 2023-11-15 | 275 | 1 |
+| 2023-11-16 | 276 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

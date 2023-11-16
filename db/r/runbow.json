@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251308,
+  "EOS_Progressed": 251309,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19057,6 +19057,11 @@
       "Time": "2023-11-16T03:09:19.9417938+00:00",
       "NumProgressed": 251308,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T04:09:39.2807344+00:00",
+      "NumProgressed": 251309,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19116,7 +19121,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15078
+      "UsersEstimate": 15079
     },
     {
       "ID": "canYouDigIt",
@@ -19124,7 +19129,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42722
+      "UsersEstimate": 42723
     },
     {
       "ID": "cantBeKeptDown",
@@ -19164,7 +19169,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45235
+      "UsersEstimate": 45236
     },
     {
       "ID": "curator",
@@ -19244,7 +19249,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133193
+      "UsersEstimate": 133194
     },
     {
       "ID": "indegestible",
@@ -19435,7 +19440,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251308,
+      "Progressed": 251309,
       "Completed": 6
     }
   ],
@@ -19443,8 +19448,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:09:19.9417933+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:09:39.280734+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:59:45.2055034+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:09:19.9419454+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:59:52.3120726+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:09:39.2808907+00:00"
 }

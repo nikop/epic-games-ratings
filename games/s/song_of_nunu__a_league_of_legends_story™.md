@@ -16,8 +16,8 @@
 | Moneyball | 61.00% | ~428 |
 | No Bites | 57.00% | ~400 |
 | Iceborn | 57.00% | ~400 |
+| Tear of Freedom | 54.00% | ~379 |
 | Boom Things | 54.00% | ~379 |
-| Tear of Freedom | 53.00% | ~372 |
 | My Darkest Day | 50.00% | ~350 |
 | Rhythm Of Willump | 47.00% | ~329 |
 | The Relentless Storm | 47.00% | ~329 |

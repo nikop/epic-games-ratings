@@ -1,13 +1,13 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 842)  
+Rating: 4.29 (Ranked 841)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I will finish what you started | 29.00% | ~73,124 |
-| Powergamer | 27.00% | ~68,080 |
+| Powergamer | 27.00% | ~68,081 |
 | Write that down | 25.00% | ~63,038 |
 | Barely scratched the surface | 25.00% | ~63,038 |
 | Guns, lots of guns | 13.00% | ~32,780 |
@@ -16,7 +16,7 @@ Number of Ratings: 33  (23.09.2022)
 | Griever | 8.00% | ~20,172 |
 | Pumpkin Jack | 8.00% | ~20,172 |
 | Wake up! | 8.00% | ~20,172 |
-| It's honest work | 7.00% | ~17,650 |
+| It's honest work | 7.00% | ~17,651 |
 | Me smart | 6.00% | ~15,129 |
 | Trash compactor | 6.00% | ~15,129 |
 | Good listener | 5.00% | ~12,608 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,086 |
 | Ka-ching! | 4.00% | ~10,086 |
 | So you like to read? | 4.00% | ~10,086 |
-| Hoarder | 3.00% | ~7,564 |
-| I like to sniff around | 3.00% | ~7,564 |
-| Mind reader | 3.00% | ~7,564 |
+| Hoarder | 3.00% | ~7,565 |
+| I like to sniff around | 3.00% | ~7,565 |
+| Mind reader | 3.00% | ~7,565 |
 | Catnip | 2.00% | ~5,043 |
 | Gentleman's classic | 2.00% | ~5,043 |
 | Is that a rift? | 2.00% | ~5,043 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~504 |
 | Memory 5 | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,150 (Ranked 57)  
+Progressed: 252,153 (Ranked 57)  
 Completed: 7 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 7 (0.00%) (Ranked 352)
 | 2023-11-13 | 251,984 | 7 |
 | 2023-11-14 | 252,051 | 7 |
 | 2023-11-15 | 252,136 | 7 |
-| 2023-11-16 | 252,150 | 7 |
+| 2023-11-16 | 252,153 | 7 |
 ## Awards
 Max (Character Customization): 90  (Ranked 376)  
 Sum: 90 (Ranked 449)  

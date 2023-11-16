@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 105,
@@ -12721,9 +12721,9 @@
       "ID": "GimmieMyPresentBack",
       "SetID": "8gem5jc",
       "Name": "Gimme My Presents Back!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 463
     },
     {
       "ID": "HFZGoober",
@@ -12986,8 +12986,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:06:20.5257849+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:06:25.3562854+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:03.684858+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:57:11.7115507+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:06:20.5258729+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:57:25.5590252+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:06:25.3563744+00:00"
 }

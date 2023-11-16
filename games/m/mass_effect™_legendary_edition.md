@@ -10,7 +10,7 @@
 | Recruit | 67.00% | ~852 |
 | Search and Rescue | 66.00% | ~839 |
 | Quarian Ally | 62.00% | ~788 |
-| Medal of Heroism | 58.00% | ~737 |
+| Medal of Heroism | 59.00% | ~750 |
 | Honorarium of Corporate Service | 58.00% | ~737 |
 | Medal of Exploration II | 52.00% | ~661 |
 | Turian Ally | 52.00% | ~661 |
@@ -91,12 +91,12 @@
 | Problem Solver | 20.00% | ~254 |
 | Last Resort | 19.00% | ~241 |
 | Hard Target | 19.00% | ~241 |
+| Last Witness | 19.00% | ~241 |
 | Fact Finder | 19.00% | ~241 |
 | Pyromaniac | 18.00% | ~229 |
 | Under Pressure | 18.00% | ~229 |
 | No One Left Behind | 18.00% | ~229 |
 | Saboteur | 18.00% | ~229 |
-| Last Witness | 18.00% | ~229 |
 | Well Connected | 18.00% | ~229 |
 | Executioner | 16.00% | ~203 |
 | Patriot | 16.00% | ~203 |

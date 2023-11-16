@@ -2,9 +2,9 @@
   "ID": "69fe287fe2804b2282c65addfec65aa7",
   "Name": "SkateNationXL",
   "ProductSlug": "skatenationxl-a94ba3",
-  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T09:57:04.5425522+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:01:35.9553901+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:06:39.6052606+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:01:37.7644701+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:06:43.6195838+00:00"
 }

@@ -8,12 +8,12 @@
 | Thalya – Simply Immortal | 85.00% | ~233 |
 | For the Horde! | 80.00% | ~219 |
 | Hammer Time, Round Two | 79.00% | ~216 |
-| The Hellwoods | 72.00% | ~197 |
+| The Hellwoods | 73.00% | ~200 |
 | Thalya's Concentrated Fury | 65.00% | ~178 |
 | The Plains of Strothalm | 65.00% | ~178 |
 | Experienced Thalya | 65.00% | ~178 |
 | Master of Magic | 61.00% | ~167 |
-| Bad Elves Go Everywhere | 59.00% | ~162 |
+| Bad Elves Go Everywhere | 60.00% | ~164 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~151 |
 | Magic Accidents | 54.00% | ~148 |
 | Heroes’ Gorge | 53.00% | ~145 |
@@ -26,7 +26,7 @@
 | Pure Dynamite! | 36.00% | ~99 |
 | The Big Eaty | 35.00% | ~96 |
 | Mana Cannon | 29.00% | ~79 |
-| “… like son” | 26.00% | ~71 |
+| “… like son” | 27.00% | ~74 |
 | Dungeonlord Gorgu | 22.00% | ~60 |
 | The Cathedral of Light | 22.00% | ~60 |
 | Shame! Shame! Shame! | 22.00% | ~60 |
@@ -36,9 +36,9 @@
 | Unstoppable Horde | 15.00% | ~41 |
 | Master of the Undead | 13.00% | ~36 |
 | Forbidden Knowledge | 12.00% | ~33 |
+| Ghost Pirates? Ghost Heroes! | 12.00% | ~33 |
 | All’s Well That Ends Evil | 12.00% | ~33 |
 | Sacrificial Pit = Garbage Disposal? | 11.00% | ~30 |
-| Ghost Pirates? Ghost Heroes! | 11.00% | ~30 |
 | Stop Tanos! | 9.00% | ~25 |
 | The Duel | 9.00% | ~25 |
 | If Looks Could Kill | 8.00% | ~22 |

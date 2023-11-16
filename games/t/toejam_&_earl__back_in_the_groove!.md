@@ -1,7 +1,7 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.33 (Ranked 813)  
+Rating: 4.33 (Ranked 812)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.33 (Ranked 813)
 | Fool Me Twice | 1.00% | ~578 |
 | Old School Jammin' | 1.00% | ~578 |
 | Wakey Wakey | 1.00% | ~578 |
+| Gimme My Presents Back! | 0.80% | ~463 |
 | Level Diver | 0.80% | ~463 |
-| Gimme My Presents Back! | 0.70% | ~405 |
 | Cleaning Out Santa's Sack | 0.70% | ~405 |
 | Teamwork Rules | 0.70% | ~405 |
 | Beaten By A Little Girl | 0.60% | ~347 |

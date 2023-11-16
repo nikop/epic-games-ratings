@@ -2,9 +2,9 @@
   "ID": "5b14619578434ff7b6cde619be141d38",
   "Name": "Kugle",
   "ProductSlug": "kugle-e7e6b3",
-  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-30T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-31T13:02:16.6738348+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.8323923+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:57:22.8655145+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:06:23.0629025+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:57:36.1022709+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:06:27.8321328+00:00"
 }

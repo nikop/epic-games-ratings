@@ -12,9 +12,9 @@ Rating: 4.64 (Ranked 332)
 | Brute Force | 65.00% | ~1,180 |
 | Cannon Fodder | 60.00% | ~1,090 |
 | Autofire | 58.00% | ~1,053 |
+| Story Teller | 56.00% | ~1,017 |
 | Raise the Stakes | 56.00% | ~1,017 |
 | True Believer | 56.00% | ~1,017 |
-| Story Teller | 55.00% | ~999 |
 | Surgeon | 52.00% | ~944 |
 | Freeze | 51.00% | ~926 |
 | Exterminator | 51.00% | ~926 |

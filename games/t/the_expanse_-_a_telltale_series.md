@@ -23,11 +23,11 @@ Rating: 4.56 (Ranked 489)
 | Keep Arjun in Check | 3.00% | ~29 |
 | Madame Undersecretary | 3.00% | ~29 |
 | Data Archivist | 2.00% | ~300 |
-| Bottoms up! | 2.00% | ~300 |
 | Thorston Mayer | 2.00% | ~300 |
 | Khan's Revenge | 2.00% | ~300 |
 | Master Negotiator | 2.00% | ~19 |
 | Doctor Approved | 1.00% | ~150 |
+| Bottoms up! | 1.00% | ~150 |
 | Miraculous Maya | 1.00% | ~150 |
 | Data Logger | 0.90% | ~135 |
 | Data Master | 0.80% | ~120 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,000 (Ranked 147)  
+Progressed: 15,003 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 34 (0.23%) (Ranked 243)
 | 2023-11-13 | 14,936 | 34 |
 | 2023-11-14 | 14,967 | 34 |
 | 2023-11-15 | 14,993 | 34 |
-| 2023-11-16 | 15,000 | 34 |
+| 2023-11-16 | 15,003 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

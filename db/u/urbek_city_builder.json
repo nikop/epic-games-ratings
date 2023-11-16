@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1707,17 +1707,17 @@
       "ID": "POINTS_10K",
       "SetID": "44dlcg0",
       "Name": "Little Mayor",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "POINTS_20K",
       "SetID": "44dlcg0",
       "Name": "Town planner",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "POINTS_30K",
@@ -1779,17 +1779,17 @@
       "ID": "RUINAS_1",
       "SetID": "44dlcg0",
       "Name": "Restorer",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RUINAS_2",
       "SetID": "44dlcg0",
       "Name": "Restorer Plus",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RUINAS_3",
@@ -1940,8 +1940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:09:58.995091+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:10:16.9613631+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:04.3445021+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:59:34.6684889+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:09:58.9951538+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:59:42.3954398+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:10:16.9614402+00:00"
 }

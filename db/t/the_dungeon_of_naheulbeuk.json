@@ -1329,9 +1329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237368,
+  "EOS_Progressed": 237372,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1348,
+  "EOS_NewPlayers": 1349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18714,6 +18714,11 @@
       "Time": "2023-11-16T03:08:43.2534113+00:00",
       "NumProgressed": 237368,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-16T04:09:03.0193267+00:00",
+      "NumProgressed": 237372,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19157,7 +19162,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11868
+      "UsersEstimate": 11869
     },
     {
       "ID": "ElfEpic",
@@ -19173,7 +19178,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83079
+      "UsersEstimate": 83080
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19221,7 +19226,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18989
+      "UsersEstimate": 18990
     },
     {
       "ID": "FollowBraztok",
@@ -19428,21 +19433,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237368,
+      "Progressed": 237372,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237368,
+      "Progressed": 237372,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T01:47:15.3446866+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:08:43.2534111+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:09:03.0193264+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:59:52.37585+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:08:43.2535639+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:59:59.0797527+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:09:03.0194758+00:00"
 }

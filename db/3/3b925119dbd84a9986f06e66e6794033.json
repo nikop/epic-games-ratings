@@ -683,17 +683,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -786,8 +786,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:09:12.013616+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:09:31.2949092+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:01:41.1372527+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:09:12.0136314+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:01:42.741723+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:09:31.2949297+00:00"
 }

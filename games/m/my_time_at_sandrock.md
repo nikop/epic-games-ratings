@@ -17,7 +17,7 @@ Number of Ratings: 892  (23.09.2022)
 | One of the Cool Kids | 61.00% | ~207 |
 | Diamonds are Forever | 58.00% | ~197 |
 | Pack Mule | 57.00% | ~193 |
-| Unboxing | 54.00% | ~183 |
+| Unboxing | 55.00% | ~186 |
 | Big Game Hunter | 53.00% | ~180 |
 | Financially Secure | 50.00% | ~170 |
 | Got Served | 49.00% | ~166 |
@@ -29,14 +29,14 @@ Number of Ratings: 892  (23.09.2022)
 | Happier-est Place on Earth | 44.00% | ~149 |
 | What Plants Crave | 43.00% | ~146 |
 | Mole Masher | 42.00% | ~142 |
+| Anti-Santa | 41.00% | ~139 |
 | My Time Mansion | 40.00% | ~136 |
-| Anti-Santa | 40.00% | ~136 |
 | Finishing Touches | 39.00% | ~132 |
 | Better Late than Never | 39.00% | ~132 |
 | Knowledge is Power | 38.00% | ~129 |
 | Panda-kin | 38.00% | ~129 |
+| Builder of the Month | 38.00% | ~129 |
 | Commissions, commissions...! | 37.00% | ~125 |
-| Builder of the Month | 37.00% | ~125 |
 | Bridging the Gap | 36.00% | ~122 |
 | Officially Official | 34.00% | ~115 |
 | Who Ya Gonna Call...? | 34.00% | ~115 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1508,6 +1508,11 @@
       "Time": "2023-11-15T21:05:37.1730758+00:00",
       "NumProgressed": 578,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T04:06:56.3542888+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1543,7 +1548,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "Chapter10",
@@ -1687,7 +1692,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Memories",
@@ -1799,21 +1804,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:06:52.863113+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:06:56.3542884+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-16T03:00:18.5962548+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:06:52.8631376+00:00"
+  "LastUpdate_Ratings": "2023-11-16T04:00:23.7299402+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:06:56.3543143+00:00"
 }

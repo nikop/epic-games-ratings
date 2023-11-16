@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -315,9 +315,9 @@
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Patience",
@@ -339,9 +339,9 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "Sparkly",
@@ -380,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-11-16T03:06:21.4207395+00:00",
+  "LastChanged_Achievements": "2023-11-16T04:06:26.2750313+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:10.2880981+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:57:13.1557993+00:00",
-  "LastUpdate_Achievements": "2023-11-16T03:06:21.4207519+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:57:26.9493507+00:00",
+  "LastUpdate_Achievements": "2023-11-16T04:06:26.2750449+00:00"
 }

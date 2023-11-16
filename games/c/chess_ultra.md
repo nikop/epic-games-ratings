@@ -1,25 +1,25 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.29 (Ranked 842)  
+Rating: 4.29 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~152,524 |
-| Doubled Pawn | 57.00% | ~124,198 |
-| Check | 55.00% | ~119,841 |
-| Absolute pin | 47.00% | ~102,409 |
+| Chop Wood | 70.00% | ~152,526 |
+| Doubled Pawn | 57.00% | ~124,200 |
+| Check | 55.00% | ~119,842 |
+| Absolute pin | 47.00% | ~102,410 |
 | Promotion | 31.00% | ~67,547 |
 | Checkmate | 30.00% | ~65,368 |
-| O-O | 24.00% | ~52,294 |
-| Spanish Bishop | 21.00% | ~45,757 |
-| Queen Sacrifice | 20.00% | ~43,578 |
+| O-O | 24.00% | ~52,295 |
+| Spanish Bishop | 21.00% | ~45,758 |
+| Queen Sacrifice | 20.00% | ~43,579 |
 | Stalemate | 18.00% | ~39,221 |
 | O-O-O | 13.00% | ~28,326 |
 | Octopus | 13.00% | ~28,326 |
 | Stranger Danger | 12.00% | ~26,147 |
 | En Passant | 9.00% | ~19,610 |
-| Double Check | 7.00% | ~15,252 |
+| Double Check | 7.00% | ~15,253 |
 | Piece Collector | 6.00% | ~13,074 |
 | ELO | 5.00% | ~10,895 |
 | Family Fork | 5.00% | ~10,895 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 842)
 | Tournament Master | 0.10% | ~218 |
 | Tournament Pro | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,892 (Ranked 69)  
+Progressed: 217,894 (Ranked 69)  
 Completed: 2 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 2 (0.00%) (Ranked 352)
 | 2023-11-13 | 217,615 | 2 |
 | 2023-11-14 | 217,735 | 2 |
 | 2023-11-15 | 217,867 | 2 |
-| 2023-11-16 | 217,892 | 2 |
+| 2023-11-16 | 217,894 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
