@@ -2364,7 +2364,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43863,
+  "EOS_Progressed": 43864,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -8734,6 +8734,11 @@
       "Time": "2023-11-15T23:07:31.8546613+00:00",
       "NumProgressed": 43863,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-16T03:06:02.0151936+00:00",
+      "NumProgressed": 43864,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8745,7 +8750,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27195
+      "UsersEstimate": 27196
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8953,7 +8958,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14913
+      "UsersEstimate": 14914
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9017,7 +9022,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10088
+      "UsersEstimate": 10089
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -9033,7 +9038,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16229
+      "UsersEstimate": 16230
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -9041,7 +9046,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18422
+      "UsersEstimate": 18423
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -9049,7 +9054,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22370
+      "UsersEstimate": 22371
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -9065,7 +9070,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16229
+      "UsersEstimate": 16230
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -9073,7 +9078,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30265
+      "UsersEstimate": 30266
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9137,7 +9142,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19738
+      "UsersEstimate": 19739
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9185,7 +9190,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14913
+      "UsersEstimate": 14914
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -9241,7 +9246,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10088
+      "UsersEstimate": 10089
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -9249,7 +9254,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6579
+      "UsersEstimate": 6580
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -9257,7 +9262,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7895
+      "UsersEstimate": 7896
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -9272,15 +9277,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43863,
+      "Progressed": 43864,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-15T01:46:36.0216284+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:27:59.4313177+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:06:02.0151931+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:22:59.2590909+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:27:59.431388+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:01:15.7131631+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:06:02.015308+00:00"
 }

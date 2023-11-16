@@ -15138,10 +15138,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 353529,
       "NumberOfAwardsMax": 105592
+    },
+    {
+      "Time": "2023-11-16T02:57:17.4758473+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 353610,
+      "NumberOfAwardsMax": 105592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353529,
+  "NumberOfAwards": 353610,
   "NumberOfAwardsMax": 105592,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15173,7 +15179,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 19864
+      "Count": 19945
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15218,9 +15224,9 @@
       "Count": 12991
     }
   ],
-  "EOS_Progressed": 896827,
+  "EOS_Progressed": 896829,
   "EOS_Completed": 2778,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38968,6 +38974,11 @@
       "Time": "2023-11-16T01:54:22.8779937+00:00",
       "NumProgressed": 896827,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-16T03:07:34.3075501+00:00",
+      "NumProgressed": 896829,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39420,7 +39431,7 @@
       "Name": "Relic Ruler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "UltimateSurvivor",
@@ -39515,21 +39526,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896827,
+      "Progressed": 896829,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25450,
+      "Progressed": 25452,
       "Completed": 10225
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-15T17:57:08.8021782+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:29:10.189139+00:00",
+  "LastChanged": "2023-11-16T02:57:17.4758471+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:07:34.3075498+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:20:05.8748626+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:29:10.1892791+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:57:17.4758476+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:07:34.3077242+00:00"
 }

@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~201 |
 | Time Out | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,220 (Ranked 64)  
+Progressed: 235,221 (Ranked 64)  
 Completed: 2,450 (1.04%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -749,7 +749,7 @@ Completed: 2,450 (1.04%) (Ranked 158)
 | 2023-11-13 | 234,919 | 2,446 |
 | 2023-11-14 | 235,048 | 2,448 |
 | 2023-11-15 | 235,196 | 2,449 |
-| 2023-11-16 | 235,220 | 2,450 |
+| 2023-11-16 | 235,221 | 2,450 |
 ## Awards
 Max (Great for Beginners): 5,527  (Ranked 68)  
 Sum: 32,481 (Ranked 40)  

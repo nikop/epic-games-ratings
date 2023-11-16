@@ -3351,9 +3351,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31053,
+  "EOS_Progressed": 31056,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19381,6 +19381,11 @@
       "Time": "2023-11-16T02:28:57.9605+00:00",
       "NumProgressed": 31053,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-16T03:07:19.183651+00:00",
+      "NumProgressed": 31056,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19520,7 +19525,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Fully_Upgraded",
@@ -19568,7 +19573,7 @@
       "Name": "Liability",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Line_Em_Up",
@@ -19712,7 +19717,7 @@
       "Name": "Surprise!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Swift_Removers",
@@ -19799,7 +19804,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31053,
+      "Progressed": 31056,
       "Completed": 68
     }
   ],
@@ -19807,8 +19812,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-16T01:50:49.0070976+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:28:57.9604997+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:07:19.1836506+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:25:40.1918549+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:28:57.9605966+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:03:00.2056337+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:07:19.1837718+00:00"
 }

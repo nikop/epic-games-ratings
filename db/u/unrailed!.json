@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2801,9 +2801,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 662864,
+  "EOS_Progressed": 662867,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1977,
+  "EOS_NewPlayers": 1972,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26671,6 +26671,11 @@
       "Time": "2023-11-16T02:31:39.2670587+00:00",
       "NumProgressed": 662864,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-16T03:09:27.5065476+00:00",
+      "NumProgressed": 662867,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26730,7 +26735,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86172
+      "UsersEstimate": 86173
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -27002,7 +27007,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106058
+      "UsersEstimate": 106059
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -27097,15 +27102,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 662864,
+      "Progressed": 662867,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-15T13:58:08.592917+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:31:39.2670584+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:09:27.5065472+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:21:23.8842323+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:31:39.2672034+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:59:04.1448921+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:09:27.5066761+00:00"
 }

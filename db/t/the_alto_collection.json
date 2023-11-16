@@ -820,9 +820,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 46498,
+  "EOS_Progressed": 46502,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24500,6 +24500,11 @@
       "Time": "2023-11-16T01:54:49.1012807+00:00",
       "NumProgressed": 46498,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-16T03:03:26.8515424+00:00",
+      "NumProgressed": 46502,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -24551,7 +24556,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12554
+      "UsersEstimate": 12556
     },
     {
       "ID": "goals180",
@@ -24607,7 +24612,7 @@
       "Name": "Life Aquatic",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "master",
@@ -24615,7 +24620,7 @@
       "Name": "Master Of The Sands",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "mylittlefriend",
@@ -24647,7 +24652,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "playerIzel",
@@ -24687,7 +24692,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "playerWingsuit",
@@ -24719,7 +24724,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12089
+      "UsersEstimate": 12091
     },
     {
       "ID": "sandboarder",
@@ -24743,7 +24748,7 @@
       "Name": "The Ultimate Challenge",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "unlockfelipe",
@@ -24815,22 +24820,22 @@
       "Name": "Windswept",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 46498,
+      "Progressed": 46502,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-09T16:58:19.7879138+00:00",
-  "LastChanged_Achievements": "2023-11-16T01:54:49.1012803+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:03:26.8515418+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.2500678+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:20:28.9903234+00:00",
-  "LastUpdate_Achievements": "2023-11-16T01:54:49.1014152+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:57:48.8448304+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:03:26.8517135+00:00"
 }

@@ -7,15 +7,15 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 54.00% | ~4,120 |
-| You Shall Not Pass | 53.00% | ~4,043 |
-| Peak Performance | 52.00% | ~3,967 |
+| You Shall Not Pass | 53.00% | ~4,044 |
+| Peak Performance | 52.00% | ~3,968 |
 | Avanti Savoia! | 47.00% | ~3,586 |
 | Mamma Mia! | 37.00% | ~2,823 |
 | Conrad von Hotzensocks | 35.00% | ~2,670 |
 | Gabriele D'Annunzio | 33.00% | ~2,518 |
-| Silver Lining | 29.00% | ~2,212 |
+| Silver Lining | 29.00% | ~2,213 |
 | Aurelio Baruzzi | 23.00% | ~1,755 |
-| Decimation | 22.00% | ~1,678 |
+| Decimation | 22.00% | ~1,679 |
 | Donatello | 21.00% | ~1,602 |
 | The Italian Job | 21.00% | ~1,602 |
 | Veni Vidi Vici | 21.00% | ~1,602 |
@@ -27,9 +27,9 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 13.00% | ~992 |
 | Dirty Dozen | 13.00% | ~992 |
 | Shaken, Not Stirred | 13.00% | ~992 |
-| Machiavelli | 12.00% | ~915 |
-| The Devil's Paintbrush | 12.00% | ~915 |
-| Thus With A Kiss | 12.00% | ~915 |
+| Machiavelli | 12.00% | ~916 |
+| The Devil's Paintbrush | 12.00% | ~916 |
+| Thus With A Kiss | 12.00% | ~916 |
 | Dante's Inferno | 10.00% | ~763 |
 | I Have the High Ground | 10.00% | ~763 |
 | Millenial | 10.00% | ~763 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 7.00% | ~534 |
 | Cercatore d'Oro | 6.00% | ~458 |
 | The Enlightment | 6.00% | ~458 |
-| Generalissimo | 5.00% | ~381 |
+| Generalissimo | 5.00% | ~382 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~305 |
 | Seeing Red | 4.00% | ~305 |
 | Farewell to Arms | 3.00% | ~229 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~31 |
 | Can I Go Home Now? | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,629 (Ranked 172)  
+Progressed: 7,630 (Ranked 172)  
 Completed: 9 (0.12%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 9 (0.12%) (Ranked 271)
 | 2023-11-13 | 7,444 | 9 |
 | 2023-11-14 | 7,537 | 9 |
 | 2023-11-15 | 7,626 | 9 |
-| 2023-11-16 | 7,629 | 9 |
+| 2023-11-16 | 7,630 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 465)  
 Sum: 279 (Ranked 369)  

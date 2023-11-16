@@ -1077,9 +1077,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66722,
+  "EOS_Progressed": 66723,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9287,6 +9287,11 @@
       "Time": "2023-11-16T02:25:59.5793501+00:00",
       "NumProgressed": 66722,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-16T03:03:28.2180005+00:00",
+      "NumProgressed": 66723,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9299,7 +9304,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22685
+      "UsersEstimate": 22686
     },
     {
       "ID": "10",
@@ -9403,7 +9408,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "8",
@@ -9426,7 +9431,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66722,
+      "Progressed": 66723,
       "Completed": 34
     }
   ],
@@ -9434,8 +9439,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-15T21:57:50.578004+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:25:59.5793498+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:03:28.218+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:20:52.3761407+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:25:59.5794668+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:58:20.788691+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:03:28.2180493+00:00"
 }

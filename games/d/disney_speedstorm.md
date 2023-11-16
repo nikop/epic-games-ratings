@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,781 |
-| IT MAKES BOOM! | 6.00% | ~17,869 |
-| EXTRA BOOST | 5.00% | ~14,890 |
-| PROTECTED | 4.00% | ~11,912 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,934 |
-| PRO | 3.00% | ~8,934 |
-| A TIGER'S FEAR | 2.00% | ~5,956 |
-| AGGRESSIVE RACER | 2.00% | ~5,956 |
+| ROOKIE | 10.00% | ~29,783 |
+| IT MAKES BOOM! | 6.00% | ~17,870 |
+| EXTRA BOOST | 5.00% | ~14,892 |
+| PROTECTED | 4.00% | ~11,913 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,935 |
+| PRO | 3.00% | ~8,935 |
+| A TIGER'S FEAR | 2.00% | ~5,957 |
+| AGGRESSIVE RACER | 2.00% | ~5,957 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,978 |
 | ACE SPEEDSTER | 1.00% | ~2,978 |
-| RELEASE THE KRAKEN | 0.80% | ~2,382 |
-| BE OUR GUEST | 0.80% | ~2,382 |
-| LEGENDARY HERO | 0.80% | ~2,382 |
+| RELEASE THE KRAKEN | 0.80% | ~2,383 |
+| BE OUR GUEST | 0.80% | ~2,383 |
+| LEGENDARY HERO | 0.80% | ~2,383 |
 | TRAINING HARD | 0.70% | ~2,085 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,085 |
 | FRIENDLY | 0.70% | ~2,085 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 747)
 | PERFECTLY POISED | 0.20% | ~596 |
 | ACE TRICKSTER | 0.20% | ~596 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,809 (Ranked 52)  
+Progressed: 297,832 (Ranked 52)  
 Completed: 285 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 285 (0.10%) (Ranked 277)
 | 2023-11-13 | 295,317 | 283 |
 | 2023-11-14 | 296,465 | 285 |
 | 2023-11-15 | 297,597 | 285 |
-| 2023-11-16 | 297,809 | 285 |
+| 2023-11-16 | 297,832 | 285 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 401)  
 Sum: 550 (Ranked 316)  

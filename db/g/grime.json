@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158437,
+  "EOS_Progressed": 158440,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1184,
+  "EOS_NewPlayers": 1183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15806,6 +15806,11 @@
       "Time": "2023-11-16T02:28:07.4951487+00:00",
       "NumProgressed": 158437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T03:06:12.9993852+00:00",
+      "NumProgressed": 158440,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15841,7 +15846,7 @@
       "Name": "Assimilation",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -15865,7 +15870,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15977,7 +15982,7 @@
       "Name": "Celebration",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -16184,21 +16189,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158020,
+      "Progressed": 158023,
       "Completed": 1204
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158437,
+      "Progressed": 158440,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-15T05:01:20.114047+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:28:07.4951483+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:06:12.9993849+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:19:57.8723301+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:28:07.4952327+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:57:06.2795844+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:06:12.9994679+00:00"
 }

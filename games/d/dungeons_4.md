@@ -7,7 +7,7 @@
 | The Last Stand | 85.00% | ~233 |
 | Thalya – Simply Immortal | 85.00% | ~233 |
 | For the Horde! | 80.00% | ~219 |
-| Hammer Time, Round Two | 78.00% | ~214 |
+| Hammer Time, Round Two | 79.00% | ~216 |
 | The Hellwoods | 72.00% | ~197 |
 | Thalya's Concentrated Fury | 65.00% | ~178 |
 | The Plains of Strothalm | 65.00% | ~178 |

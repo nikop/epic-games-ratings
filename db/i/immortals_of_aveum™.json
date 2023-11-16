@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1531,9 +1531,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_50",
@@ -1668,8 +1668,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:31:00.2432358+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:08:38.2555426+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:20:35.2355405+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:31:00.2432662+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:57:57.4993072+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:08:38.2555852+00:00"
 }

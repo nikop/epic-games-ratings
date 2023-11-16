@@ -6,30 +6,30 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~624,549 |
-| Death From Above | 45.00% | ~610,972 |
-| Master of the Household | 38.00% | ~515,932 |
-| Death of the Party | 35.00% | ~475,200 |
-| NEXUS-47 | 32.00% | ~434,469 |
-| The Last Tango | 31.00% | ~420,892 |
-| Nightmare Fuel | 30.00% | ~407,314 |
-| The Result of Previous Training | 28.00% | ~380,160 |
-| Tools of the Trade | 28.00% | ~380,160 |
-| Cleared for Field Duty | 27.00% | ~366,583 |
-| Seizing the Opportunity | 26.00% | ~353,006 |
-| Bullet Train | 21.00% | ~285,120 |
-| Stylish Assassin | 20.00% | ~271,543 |
-| Silent Assassin | 14.00% | ~190,080 |
-| Rise Up | 12.00% | ~162,926 |
+| Unseen Assassin | 46.00% | ~624,552 |
+| Death From Above | 45.00% | ~610,975 |
+| Master of the Household | 38.00% | ~515,934 |
+| Death of the Party | 35.00% | ~475,203 |
+| NEXUS-47 | 32.00% | ~434,471 |
+| The Last Tango | 31.00% | ~420,894 |
+| Nightmare Fuel | 30.00% | ~407,317 |
+| The Result of Previous Training | 28.00% | ~380,162 |
+| Tools of the Trade | 28.00% | ~380,162 |
+| Cleared for Field Duty | 27.00% | ~366,585 |
+| Seizing the Opportunity | 26.00% | ~353,008 |
+| Bullet Train | 21.00% | ~285,122 |
+| Stylish Assassin | 20.00% | ~271,544 |
+| Silent Assassin | 14.00% | ~190,081 |
+| Rise Up | 12.00% | ~162,927 |
 | Evil Wine Club | 11.00% | ~149,349 |
 | Console Cowboy | 10.00% | ~135,772 |
 | Last Stop | 10.00% | ~135,772 |
-| A New Profile | 9.00% | ~122,194 |
-| Full House | 9.00% | ~122,194 |
-| Dune Raider | 8.00% | ~108,617 |
-| No Stone Unturned | 8.00% | ~108,617 |
-| Train Surfing | 8.00% | ~108,617 |
-| Icebreaker | 7.00% | ~95,040 |
+| A New Profile | 9.00% | ~122,195 |
+| Full House | 9.00% | ~122,195 |
+| Dune Raider | 8.00% | ~108,618 |
+| No Stone Unturned | 8.00% | ~108,618 |
+| Train Surfing | 8.00% | ~108,618 |
+| Icebreaker | 7.00% | ~95,041 |
 | Family Feud | 6.00% | ~81,463 |
 | Count Down From 47 | 6.00% | ~81,463 |
 | Shortcut Killer | 5.00% | ~67,886 |
@@ -42,19 +42,19 @@ Number of Ratings: 21,082  (23.09.2022)
 | The Great Outdoors | 4.00% | ~54,309 |
 | Partied Out | 4.00% | ~54,309 |
 | Surveillance Master | 4.00% | ~54,309 |
-| Training Escalated | 3.00% | ~40,731 |
-| Keep Your Eyes Peeled | 3.00% | ~40,731 |
-| Warehouse Veteran | 3.00% | ~40,731 |
-| Future Shock | 3.00% | ~40,731 |
-| Hack the Planet | 3.00% | ~40,731 |
-| Master the Terroir | 3.00% | ~40,731 |
-| Vineyard Virtuoso | 3.00% | ~40,731 |
+| Training Escalated | 3.00% | ~40,732 |
+| Keep Your Eyes Peeled | 3.00% | ~40,732 |
+| Warehouse Veteran | 3.00% | ~40,732 |
+| Future Shock | 3.00% | ~40,732 |
+| Hack the Planet | 3.00% | ~40,732 |
+| Master the Terroir | 3.00% | ~40,732 |
+| Vineyard Virtuoso | 3.00% | ~40,732 |
 | Bird Art | 2.00% | ~27,154 |
 | Top of the Class | 1.00% | ~13,577 |
 | Ripe for the Picking | 1.00% | ~13,577 |
 | The Creative Assassin | 0.70% | ~9,504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357,715 (Ranked 9)  
+Progressed: 1,357,722 (Ranked 9)  
 Completed: 2,181 (0.16%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,15 +264,15 @@ Completed: 2,181 (0.16%) (Ranked 261)
 | 2023-11-13 | 1,357,062 | 2,178 |
 | 2023-11-14 | 1,357,362 | 2,179 |
 | 2023-11-15 | 1,357,677 | 2,181 |
-| 2023-11-16 | 1,357,715 | 2,181 |
+| 2023-11-16 | 1,357,722 | 2,181 |
 ## Awards
 Max (Diverse Characters): 10,695  (Ranked 37)  
-Sum: 73,773 (Ranked 22)  
+Sum: 73,782 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 10,695 |
-| This game is Highly Recommended | 9,678 |
+| This game is Highly Recommended | 9,687 |
 | This game is Extremely Fun | 9,383 |
 | This game has Amazing Storytelling | 9,226 |
 | This game has Amazing Characters | 9,069 |
@@ -606,3 +606,4 @@ Diff (max vs sum): 15
 | 2023-11-13 | 4.78 | - | 10,672 | 73,688 |
 | 2023-11-14 | 4.78 | - | 10,680 | 73,729 |
 | 2023-11-15 | 4.78 | - | 10,695 | 73,773 |
+| 2023-11-16 | 4.78 | - | 10,695 | 73,782 |

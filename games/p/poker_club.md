@@ -5,27 +5,27 @@ Rating: 3.82 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~408,759 |
-| Handy | 41.00% | ~220,515 |
-| Cold Caller | 39.00% | ~209,758 |
-| A Bit On The Side | 27.00% | ~145,217 |
-| Backdoor | 25.00% | ~134,460 |
+| Pro Creation | 76.00% | ~408,762 |
+| Handy | 41.00% | ~220,516 |
+| Cold Caller | 39.00% | ~209,760 |
+| A Bit On The Side | 27.00% | ~145,218 |
+| Backdoor | 25.00% | ~134,461 |
 | Rank Amateur | 21.00% | ~112,947 |
-| Three Way | 19.00% | ~102,190 |
-| Deadly Assassin | 15.00% | ~80,676 |
+| Three Way | 19.00% | ~102,191 |
+| Deadly Assassin | 15.00% | ~80,677 |
 | Gutshot | 14.00% | ~75,298 |
 | Risk It For A Biscuit | 14.00% | ~75,298 |
-| Showoff | 13.00% | ~69,919 |
+| Showoff | 13.00% | ~69,920 |
 | W.H.I.P. | 12.00% | ~64,541 |
 | Bet Bet Bet | 10.00% | ~53,784 |
 | Blindman's Bluff | 9.00% | ~48,406 |
 | Poker Joker | 9.00% | ~48,406 |
-| Never Give Up | 8.00% | ~43,027 |
-| The Bigger They Are | 8.00% | ~43,027 |
-| Total Knock Out | 8.00% | ~43,027 |
+| Never Give Up | 8.00% | ~43,028 |
+| The Bigger They Are | 8.00% | ~43,028 |
+| Total Knock Out | 8.00% | ~43,028 |
 | Dog Eat Dog | 7.00% | ~37,649 |
 | Quack Quack | 7.00% | ~37,649 |
-| Give Your Regards To Broadway | 6.00% | ~32,270 |
+| Give Your Regards To Broadway | 6.00% | ~32,271 |
 | Check Yourself | 4.00% | ~21,514 |
 | Moneymaker | 4.00% | ~21,514 |
 | In The Gang | 3.00% | ~16,135 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,023)
 | Rounder | 0.10% | ~538 |
 | Top Dog | 0.10% | ~538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,841 (Ranked 34)  
+Progressed: 537,845 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 2 (0.00%) (Ranked 352)
 | 2023-11-13 | 537,511 | 2 |
 | 2023-11-14 | 537,674 | 2 |
 | 2023-11-15 | 537,822 | 2 |
-| 2023-11-16 | 537,841 | 2 |
+| 2023-11-16 | 537,845 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 411)  
 Sum: 175 (Ranked 409)  

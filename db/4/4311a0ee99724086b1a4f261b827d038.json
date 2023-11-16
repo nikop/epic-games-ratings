@@ -557,9 +557,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232522,
+  "EOS_Progressed": 232523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13847,6 +13847,11 @@
       "Time": "2023-11-16T01:57:15.4766329+00:00",
       "NumProgressed": 232522,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T03:09:39.5007149+00:00",
+      "NumProgressed": 232523,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -14115,7 +14120,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58130
+      "UsersEstimate": 58131
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -14130,7 +14135,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 232522,
+      "Progressed": 232523,
       "Completed": 0
     }
   ],
@@ -14138,8 +14143,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-14T16:02:55.3405759+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:31:48.9161342+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:09:39.5007145+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.7826275+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:20:16.027715+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:31:48.9162214+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:57:31.0112329+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:09:39.5008112+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1817,9 +1817,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 63675,
+  "EOS_Progressed": 63676,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24832,6 +24832,11 @@
       "Time": "2023-11-16T02:27:21.6990981+00:00",
       "NumProgressed": 63675,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T03:05:13.8000026+00:00",
+      "NumProgressed": 63676,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -24843,7 +24848,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 35021
+      "UsersEstimate": 35022
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -25131,7 +25136,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 40115
+      "UsersEstimate": 40116
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -25211,7 +25216,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 49666
+      "UsersEstimate": 49667
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -25314,15 +25319,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 63675,
+      "Progressed": 63676,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-12T14:57:20.6392865+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:27:21.6990978+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:05:13.800002+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:37.3607719+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:22:03.908233+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:27:21.69922+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:59:59.4799624+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:05:13.8001269+00:00"
 }

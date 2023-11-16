@@ -17,10 +17,10 @@ Rating: 4.27 (Ranked 857)
 | Hidden Secrets | 5.00% | ~58 |
 | The Stranded King | 5.00% | ~58 |
 | Accepting the Prophecy | 5.00% | ~58 |
-| Just Chilling | 4.00% | ~46 |
-| Ascended | 4.00% | ~46 |
-| Incredible Strength | 4.00% | ~46 |
-| Prophecy Fulfilled | 4.00% | ~46 |
+| Just Chilling | 4.00% | ~47 |
+| Ascended | 4.00% | ~47 |
+| Incredible Strength | 4.00% | ~47 |
+| Prophecy Fulfilled | 4.00% | ~47 |
 | The First King | 2.00% | ~23 |
 | The Greedy Ones | 2.00% | ~23 |
 | The Unruly Ones | 2.00% | ~23 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 857)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,162 (Ranked 248)  
+Progressed: 1,163 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 1,160 | 0 |
 | 2023-11-14 | 1,161 | 0 |
 | 2023-11-15 | 1,162 | 0 |
+| 2023-11-16 | 1,163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

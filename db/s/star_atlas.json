@@ -3,11 +3,11 @@
   "Name": "Star Atlas",
   "ProductSlug": "star-atlas-bead34",
   "Ranking_Rating": 86,
-  "Ranking_Popularity": 511,
+  "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 747,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -213,6 +213,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.8564198+00:00",
   "LastChanged": "2023-09-28T17:58:48.0218716+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:39.6718173+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:20:44.819618+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:31:17.8410029+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:58:10.7275794+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:09:00.8135838+00:00"
 }

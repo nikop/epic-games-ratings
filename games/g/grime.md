@@ -8,7 +8,7 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 5.00% | ~7,922 |
 | Imprint | 5.00% | ~7,922 |
-| The Hunt | 4.00% | ~6,337 |
+| The Hunt | 4.00% | ~6,338 |
 | Weeper | 3.00% | ~4,753 |
 | Ravenous | 3.00% | ~4,753 |
 | Harmless | 2.00% | ~3,169 |
@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 1.00% | ~1,584 |
 | Glare | 0.90% | ~1,422 |
 | Predator | 0.90% | ~1,426 |
-| Assimilation | 0.80% | ~1,267 |
+| Assimilation | 0.80% | ~1,268 |
 | Host | 0.80% | ~1,264 |
-| Celebration | 0.80% | ~1,267 |
+| Celebration | 0.80% | ~1,268 |
 | Hunt Down | 0.70% | ~1,109 |
 | Artisan | 0.60% | ~951 |
 | Hush | 0.60% | ~951 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,437 (Ranked 76)  
+Progressed: 158,440 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 158,135 | 1 |
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
-| 2023-11-16 | 158,437 | 1 |
+| 2023-11-16 | 158,440 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 365 (Ranked 349)  

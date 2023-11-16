@@ -7,11 +7,11 @@
 | Trinity | 3.00% | ~6 |
 | I Found It | 3.00% | ~6 |
 | Break Out | 2.00% | ~4 |
+| Find Allies | 2.00% | ~4 |
 | Powerful Allies | 2.00% | ~4 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
-| Find Allies | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
 | Geared Up | 1.00% | ~2 |
@@ -19,6 +19,7 @@
 | Adventurer | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | Flawless Victory | 0.50% | ~1 |
+| Big Bazar | 0.50% | ~1 |
 | Fine Feathers Make Fine Birds | 0.50% | ~1 |
 | Fashion Victim | 0.50% | ~1 |
 | Scholar | 0.50% | ~1 |
@@ -27,7 +28,6 @@
 | A Taste of Wrath | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |

@@ -528,9 +528,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 216
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:27:58.4854927+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:06:00.8543769+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:23:09.7045334+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:27:58.4855326+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:01:30.3668391+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:06:00.8544158+00:00"
 }

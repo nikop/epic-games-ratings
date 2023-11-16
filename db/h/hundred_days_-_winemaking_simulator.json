@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12403,
+  "EOS_Progressed": 12407,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 863,
+  "EOS_NewPlayers": 864,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10227,6 +10227,11 @@
       "Time": "2023-11-16T02:31:16.3762565+00:00",
       "NumProgressed": 12403,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-16T03:08:58.9294183+00:00",
+      "NumProgressed": 12407,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10239,7 +10244,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "a_10",
@@ -10287,7 +10292,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5087
     },
     {
       "ID": "a_19",
@@ -10486,7 +10491,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12403,
+      "Progressed": 12407,
       "Completed": 10
     }
   ],
@@ -10494,8 +10499,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:31:16.3762562+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:08:58.9294179+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:25:26.7186897+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:31:16.3763128+00:00"
+  "LastUpdate_Ratings": "2023-11-16T03:02:41.6645788+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:08:58.92949+00:00"
 }

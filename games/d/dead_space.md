@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 332)
 | Final Regeneration | 25.00% | ~454 |
 | Full Contact | 25.00% | ~454 |
 | Pack Rat | 25.00% | ~454 |
-| Full Clearance | 23.00% | ~418 |
+| Full Clearance | 24.00% | ~436 |
 | Pusher | 22.00% | ~400 |
 | Z-Baller | 22.00% | ~400 |
 | Marked | 20.00% | ~363 |

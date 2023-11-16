@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~165,244 |
-| FIRST BLOOD | 40.00% | ~146,884 |
-| KEVIN! | 30.00% | ~110,163 |
-| JACK OF ALL TRADES | 23.00% | ~84,458 |
-| CRIMINAL | 20.00% | ~73,442 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~40,393 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~33,049 |
-| HONORS STUDENT | 8.00% | ~29,377 |
+| MASTER CHEF | 45.00% | ~165,251 |
+| FIRST BLOOD | 40.00% | ~146,890 |
+| KEVIN! | 30.00% | ~110,167 |
+| JACK OF ALL TRADES | 23.00% | ~84,462 |
+| CRIMINAL | 20.00% | ~73,445 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~40,395 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~33,050 |
+| HONORS STUDENT | 8.00% | ~29,378 |
 | BUTCHER | 6.00% | ~22,033 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,360 |
-| RAMBO | 5.00% | ~18,360 |
-| HELL'S KITCHEN | 4.00% | ~14,688 |
-| CELEBRITY | 3.00% | ~11,016 |
-| MARTYR | 3.00% | ~11,016 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,361 |
+| RAMBO | 5.00% | ~18,361 |
+| HELL'S KITCHEN | 4.00% | ~14,689 |
+| CELEBRITY | 3.00% | ~11,017 |
+| MARTYR | 3.00% | ~11,017 |
 | GRATITUDE | 2.00% | ~7,344 |
 | PATTY-KILLER | 2.00% | ~7,344 |
 | EXPERIMENTALIST | 1.00% | ~3,672 |
 | GOURMET | 1.00% | ~3,672 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,672 |
 | PRUDENT | 1.00% | ~3,672 |
-| SCATTERBRAIN | 0.70% | ~2,570 |
+| SCATTERBRAIN | 0.70% | ~2,571 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,203 |
 | TASTE UNTASTY | 0.50% | ~1,836 |
 | DEBTOR | 0.20% | ~734 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 567)
 | MISTER ALL THUMBS | 0.10% | ~367 |
 | TRAVELER | 0.10% | ~367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 367,209 (Ranked 45)  
+Progressed: 367,224 (Ranked 45)  
 Completed: 36 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 36 (0.01%) (Ranked 331)
 | 2023-11-13 | 365,850 | 36 |
 | 2023-11-14 | 366,458 | 36 |
 | 2023-11-15 | 367,125 | 36 |
-| 2023-11-16 | 367,209 | 36 |
+| 2023-11-16 | 367,224 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

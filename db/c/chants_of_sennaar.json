@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.35,
+  "EOS_Completed_Percentage": 5.34,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2400,6 +2400,11 @@
       "Time": "2023-11-16T01:51:34.6619775+00:00",
       "NumProgressed": 561,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-16T03:04:01.6131649+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2419,7 +2424,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "META_ALL_LINK",
@@ -2481,9 +2486,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2491,7 +2496,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2563,7 +2568,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "PROGRESS_N1",
@@ -2610,14 +2615,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-16T02:26:25.4006636+00:00",
+  "LastChanged_Achievements": "2023-11-16T03:04:01.6131647+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-16T02:21:04.3501719+00:00",
-  "LastUpdate_Achievements": "2023-11-16T02:26:25.4006888+00:00"
+  "LastUpdate_Ratings": "2023-11-16T02:58:36.9322466+00:00",
+  "LastUpdate_Achievements": "2023-11-16T03:04:01.6131858+00:00"
 }
