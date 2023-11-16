@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.80% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.78% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -40,7 +40,7 @@
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Smelter](games/s/smelter.md) | 9.76% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 41 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.36% |
+| 41 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.28% |
 | 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
 | 42 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 42 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
@@ -82,7 +82,7 @@
 | 79 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.35% |
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
+| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.06% |
 | 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
 | 85 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 86 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
@@ -153,9 +153,9 @@
 | 151 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 151 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 153 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 154 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.09% |
-| 155 | [Adios](games/a/adios.md) | 1.07% |
-| 156 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
+| 154 | [Adios](games/a/adios.md) | 1.07% |
+| 155 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
+| 155 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.06% |
 | 157 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.05% |
 | 157 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 159 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
@@ -219,10 +219,10 @@
 | 217 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 217 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 219 | [The Surge](games/t/the_surge.md) | 0.37% |
-| 220 | [Dungeons 4](games/d/dungeons_4.md) | 0.36% |
 | 220 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.36% |
-| 222 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 222 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
+| 221 | [Dungeons 4](games/d/dungeons_4.md) | 0.35% |
+| 221 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 221 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 224 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 224 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 224 | [Them and Us](games/t/them_and_us.md) | 0.33% |
@@ -317,19 +317,19 @@
 | 315 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 315 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 315 | [Old World](games/o/old_world.md) | 0.03% |
+| 315 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.03% |
 | 315 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
 | 315 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 315 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 321 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 321 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 321 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 321 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 321 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
-| 321 | [Good Company](games/g/good_company.md) | 0.02% |
-| 321 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 321 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.02% |
-| 321 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 321 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.02% |
+| 322 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 322 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 322 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 322 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 322 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
+| 322 | [Good Company](games/g/good_company.md) | 0.02% |
+| 322 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 322 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 322 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.02% |
 | 331 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.01% |
 | 331 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
 | 331 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
