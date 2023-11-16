@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37938,
+  "EOS_Progressed": 37940,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 2,
@@ -18429,6 +18429,11 @@
       "Time": "2023-11-16T09:04:14.3394617+00:00",
       "NumProgressed": 37938,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-16T10:03:38.3733418+00:00",
+      "NumProgressed": 37940,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -18488,7 +18493,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "completionist",
@@ -18520,7 +18525,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9105
+      "UsersEstimate": 9106
     },
     {
       "ID": "firstItem",
@@ -18528,7 +18533,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29212
+      "UsersEstimate": 29214
     },
     {
       "ID": "roots",
@@ -18536,7 +18541,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "secretItem",
@@ -18551,15 +18556,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37938,
+      "Progressed": 37940,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-10T13:04:10.4343986+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:04:14.3394612+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:03:38.3733414+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.7506613+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:58:58.416884+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:04:14.3395528+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:58:41.9804555+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:03:38.3734306+00:00"
 }

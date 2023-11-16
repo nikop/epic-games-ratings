@@ -4,10 +4,10 @@
   "ProductSlug": "subnautica-below-zero",
   "Ranking_Rating": 115,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 246,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-05-14T00:00:00+00:00",
@@ -1738,6 +1738,6 @@
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
   "LastChanged": "2023-11-13T20:02:51.4193629+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:31.9939678+00:00",
-  "LastUpdate_Ratings": "2023-11-16T09:03:24.937348+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:05:20.1983246+00:00"
+  "LastUpdate_Ratings": "2023-11-16T10:02:47.3717467+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:04:44.3365771+00:00"
 }

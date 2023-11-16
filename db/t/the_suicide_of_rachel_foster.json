@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1671,
+  "EOS_Progressed": 1672,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.37,
   "EosHistory": [
@@ -3488,6 +3488,11 @@
       "Time": "2023-11-15T19:05:32.0085381+00:00",
       "NumProgressed": 1671,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-16T10:05:17.1918718+00:00",
+      "NumProgressed": 1672,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3499,7 +3504,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -3515,7 +3520,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3545,9 +3550,9 @@
       "ID": "ACH_FineGioco",
       "SetID": "7a9m7mj",
       "Name": "All together, again",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 568
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3563,7 +3568,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3571,7 +3576,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -3579,22 +3584,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1671,
+      "Progressed": 1672,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:05:52.8689834+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:05:17.1918714+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:58:21.9469197+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:05:52.8690144+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:58:05.8394679+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:05:17.1918948+00:00"
 }

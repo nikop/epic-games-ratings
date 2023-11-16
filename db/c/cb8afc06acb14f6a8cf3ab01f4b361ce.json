@@ -341,9 +341,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 311633,
+  "EOS_Progressed": 311652,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5562,
+  "EOS_NewPlayers": 5551,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6161,6 +6161,11 @@
       "Time": "2023-11-16T09:06:07.0277627+00:00",
       "NumProgressed": 311633,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-16T10:05:31.107412+00:00",
+      "NumProgressed": 311652,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6181,7 +6186,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "S03_OTWA",
@@ -6309,7 +6314,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "S19_CHALLENGES",
@@ -6492,7 +6497,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 311633,
+      "Progressed": 311652,
       "Completed": 4
     }
   ],
@@ -6500,8 +6505,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-15T21:00:32.0735516+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:06:07.0277624+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:05:31.1074116+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:57:13.8119355+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:06:07.0278148+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:56:58.2065526+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:05:31.1074533+00:00"
 }

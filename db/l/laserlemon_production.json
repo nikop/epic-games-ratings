@@ -2,8 +2,8 @@
   "ID": "4f0c540d1d15442a964e199cf1f6e620",
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": null,
@@ -18,10 +18,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 13,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 15.38,
   "EosHistory": [
     {
       "Time": "2023-08-02T10:03:33.724882+00:00",
@@ -92,6 +92,11 @@
       "Time": "2023-10-19T07:08:39.5194012+00:00",
       "NumProgressed": 13,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T10:04:57.9344564+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-02T10:03:33.7248854+00:00",
@@ -150,9 +155,9 @@
       "ID": "HardToTheCore",
       "SetID": "c36hpcf",
       "Name": "Hard to the Core",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HighlySprung",
@@ -280,12 +285,12 @@
       "ID": "c36hpcf",
       "IsBase": true,
       "Progressed": 13,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:05:33.8067959+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:04:57.934456+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:59:59.1173148+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:05:33.8068097+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:59:42.5436827+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:04:57.9344676+00:00"
 }

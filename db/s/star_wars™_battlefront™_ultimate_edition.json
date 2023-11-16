@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1246,
+  "EOS_Progressed": 1249,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3634,6 +3634,11 @@
       "Time": "2023-11-16T09:09:49.0949011+00:00",
       "NumProgressed": 1246,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T10:09:00.4004349+00:00",
+      "NumProgressed": 1249,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3742,7 +3747,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_21",
@@ -3838,7 +3843,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_32",
@@ -3870,7 +3875,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1112
     },
     {
       "ID": "achievement_36",
@@ -3886,7 +3891,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 824
     },
     {
       "ID": "achievement_38",
@@ -3910,7 +3915,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_40",
@@ -3918,7 +3923,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 637
     },
     {
       "ID": "achievement_41",
@@ -3950,7 +3955,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_45",
@@ -4149,13 +4154,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1246,
+      "Progressed": 1249,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1246,
+      "Progressed": 1249,
       "Completed": 1
     }
   ],
@@ -4163,8 +4168,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:09:49.0949008+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:09:00.4004346+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:57:44.316188+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:09:49.0949571+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:57:28.6967498+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:09:00.4005072+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 312,
+  "Ranking_Rating": 293,
   "Ranking_Popularity": 291,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-05-20T18:00:30.4536489+00:00",
@@ -3019,10 +3019,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1071,
       "NumberOfAwardsMax": 191
+    },
+    {
+      "Time": "2023-11-16T09:57:31.0618974+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1074,
+      "NumberOfAwardsMax": 191
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1071,
+  "NumberOfAwards": 1074,
   "NumberOfAwardsMax": 191,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3030,7 +3036,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 145
+      "Count": 148
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3099,8 +3105,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-11-15T17:57:30.1975021+00:00",
+  "LastChanged": "2023-11-16T09:57:31.0618973+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:23.6658511+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:57:46.8269488+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:05:30.2026566+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:57:31.0618977+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:04:54.2233218+00:00"
 }

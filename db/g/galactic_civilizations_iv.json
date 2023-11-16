@@ -8681,9 +8681,9 @@
       "ID": "Have_Many_TradeRoutes",
       "SetID": "4h07amh",
       "Name": "Trading Partner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 655
     },
     {
       "ID": "Level_5_Ship",
@@ -9073,8 +9073,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:08:56.9261481+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:08:08.1549266+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.8341432+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:57:45.7352307+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:08:56.9262621+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:57:30.058054+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:08:08.1550328+00:00"
 }

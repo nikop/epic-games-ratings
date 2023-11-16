@@ -23,11 +23,11 @@
 | The Guest Area | 23.00% | ~3 |
 | The Lady's Quarters | 23.00% | ~3 |
 | We'll Meet Again | 23.00% | ~3 |
+| Hard to the Core | 15.00% | ~2 |
 | Little Lost Things | 15.00% | ~2 |
-| Hard to the Core | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 576)  
-Completed: 1 (7.69%) (Ranked 50)  
+Completed: 2 (15.38%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,3 +42,4 @@ Completed: 1 (7.69%) (Ranked 50)
 | 2023-10-17 | 12 | 0 |
 | 2023-10-18 | 12 | 1 |
 | 2023-10-19 | 13 | 1 |
+| 2023-11-16 | 13 | 2 |

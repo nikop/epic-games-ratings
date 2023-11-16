@@ -27,6 +27,7 @@ Rating: 4.21 (Ranked 900)
 | Gesture Collector | 0.20% | ~3 |
 | Rune Novice | 0.20% | ~3 |
 | Moving On | 0.20% | ~3 |
+| Essence of Death | 0.20% | ~3 |
 | Seasoned | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
@@ -64,7 +65,6 @@ Rating: 4.21 (Ranked 900)
 | In Light we Walk | 0.10% | ~2 |
 | Back to the Void | 0.10% | ~2 |
 | A Shadow Dispelled | 0.10% | ~2 |
-| Essence of Death | 0.10% | ~2 |
 | Lord of the Fallen | 0.10% | ~2 |
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |

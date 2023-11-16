@@ -589,9 +589,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 3867,
+  "EOS_Progressed": 3868,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7914,6 +7914,11 @@
       "Time": "2023-11-15T11:04:16.5803997+00:00",
       "NumProgressed": 3867,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-16T10:04:40.1763337+00:00",
+      "NumProgressed": 3868,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7933,7 +7938,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7949,7 +7954,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7957,7 +7962,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7973,7 +7978,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7981,7 +7986,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7989,7 +7994,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8093,7 +8098,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8157,7 +8162,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8165,7 +8170,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8293,7 +8298,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8492,13 +8497,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3818,
+      "Progressed": 3819,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3867,
+      "Progressed": 3868,
       "Completed": 11
     }
   ],
@@ -8506,8 +8511,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-15T20:58:34.9390123+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:05:15.8861756+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:04:40.176333+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:58:49.7215387+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:05:15.8862494+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:58:33.2114299+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:04:40.1764186+00:00"
 }

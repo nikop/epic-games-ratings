@@ -23,38 +23,38 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~4 |
 | What Doesn't Kill You | 0.30% | ~4 |
-| Ambitious Intent | 0.20% | ~479 |
-| Consecutive Curses | 0.20% | ~479 |
-| Delving Deeper | 0.20% | ~479 |
-| R.I.P | 0.20% | ~479 |
-| To The Death! | 0.20% | ~479 |
-| Dig Your Own Grave | 0.20% | ~479 |
-| Well Prepared | 0.20% | ~479 |
-| Who To Trust? | 0.20% | ~479 |
-| Walk It Off | 0.20% | ~479 |
-| Just Chilling | 0.20% | ~479 |
-| Cold Hearted | 0.20% | ~479 |
-| I Am Overburdened | 0.20% | ~479 |
-| Save Our Souls | 0.20% | ~479 |
-| Destroy Your Fears | 0.20% | ~479 |
-| The Bestiary | 0.20% | ~479 |
-| Don't Ignore Me! | 0.20% | ~479 |
-| Heartless | 0.20% | ~479 |
-| What's Yours Is Mine | 0.20% | ~479 |
-| Stop Hitting Yourself | 0.20% | ~479 |
-| Spine Breaker | 0.20% | ~479 |
-| Shootout | 0.20% | ~479 |
-| C-C-Combo | 0.20% | ~479 |
-| Deflection | 0.20% | ~479 |
-| Stone Touch | 0.20% | ~479 |
-| Doing Time | 0.20% | ~479 |
-| Toxic | 0.20% | ~479 |
-| Acid Bath | 0.20% | ~479 |
-| New Perspectives | 0.20% | ~479 |
-| Sneaky | 0.20% | ~479 |
-| Shadow Walker | 0.20% | ~479 |
-| Flesh Wound | 0.20% | ~479 |
-| Shapeshifting | 0.20% | ~479 |
+| Ambitious Intent | 0.20% | ~480 |
+| Consecutive Curses | 0.20% | ~480 |
+| Delving Deeper | 0.20% | ~480 |
+| R.I.P | 0.20% | ~480 |
+| To The Death! | 0.20% | ~480 |
+| Dig Your Own Grave | 0.20% | ~480 |
+| Well Prepared | 0.20% | ~480 |
+| Who To Trust? | 0.20% | ~480 |
+| Walk It Off | 0.20% | ~480 |
+| Just Chilling | 0.20% | ~480 |
+| Cold Hearted | 0.20% | ~480 |
+| I Am Overburdened | 0.20% | ~480 |
+| Save Our Souls | 0.20% | ~480 |
+| Destroy Your Fears | 0.20% | ~480 |
+| The Bestiary | 0.20% | ~480 |
+| Don't Ignore Me! | 0.20% | ~480 |
+| Heartless | 0.20% | ~480 |
+| What's Yours Is Mine | 0.20% | ~480 |
+| Stop Hitting Yourself | 0.20% | ~480 |
+| Spine Breaker | 0.20% | ~480 |
+| Shootout | 0.20% | ~480 |
+| C-C-Combo | 0.20% | ~480 |
+| Deflection | 0.20% | ~480 |
+| Stone Touch | 0.20% | ~480 |
+| Doing Time | 0.20% | ~480 |
+| Toxic | 0.20% | ~480 |
+| Acid Bath | 0.20% | ~480 |
+| New Perspectives | 0.20% | ~480 |
+| Sneaky | 0.20% | ~480 |
+| Shadow Walker | 0.20% | ~480 |
+| Flesh Wound | 0.20% | ~480 |
+| Shapeshifting | 0.20% | ~480 |
 | Who Needs Luck? | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~240 |
 | Achievement Hunter | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,749 (Ranked 61)  
+Progressed: 239,750 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 288 (0.12%) (Ranked 271)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,749 | 288 |
+| 2023-11-16 | 239,750 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,675 (Ranked 83)  

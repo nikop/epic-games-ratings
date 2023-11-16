@@ -1,30 +1,30 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 312)  
+Rating: 4.65 (Ranked 313)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~14,890 |
-| Student | 21.00% | ~11,168 |
-| Knower | 16.00% | ~8,509 |
-| Aspen Tree | 14.00% | ~7,445 |
-| Healer | 14.00% | ~7,445 |
-| Listener | 14.00% | ~7,445 |
+| Initiation | 28.00% | ~14,892 |
+| Student | 21.00% | ~11,169 |
+| Knower | 16.00% | ~8,510 |
+| Aspen Tree | 14.00% | ~7,446 |
+| Healer | 14.00% | ~7,446 |
+| Listener | 14.00% | ~7,446 |
 | Soldier | 12.00% | ~6,382 |
 | Scientist | 11.00% | ~5,850 |
 | Cow Level | 10.00% | ~5,318 |
 | Water | 10.00% | ~5,318 |
-| Old Friend | 9.00% | ~4,786 |
-| Herbalist | 9.00% | ~4,786 |
-| New Spirits | 9.00% | ~4,786 |
-| Voipel | 9.00% | ~4,786 |
-| Black Mage | 9.00% | ~4,786 |
-| Card Player | 8.00% | ~4,254 |
-| Pine Tree | 8.00% | ~4,254 |
-| Collector | 8.00% | ~4,254 |
-| Wolf | 8.00% | ~4,254 |
+| Old Friend | 9.00% | ~4,787 |
+| Herbalist | 9.00% | ~4,787 |
+| New Spirits | 9.00% | ~4,787 |
+| Voipel | 9.00% | ~4,787 |
+| Black Mage | 9.00% | ~4,787 |
+| Card Player | 8.00% | ~4,255 |
+| Pine Tree | 8.00% | ~4,255 |
+| Collector | 8.00% | ~4,255 |
+| Wolf | 8.00% | ~4,255 |
 | Worthy | 7.00% | ~3,723 |
 | Black Book | 7.00% | ~3,723 |
 | Black Sorcerer | 7.00% | ~3,723 |
@@ -45,11 +45,11 @@ Number of Ratings: 96  (23.09.2022)
 | Traveller | 5.00% | ~2,659 |
 | Righteous | 4.00% | ~2,127 |
 | Musician | 4.00% | ~2,127 |
-| Black Sorceress | 3.00% | ~1,595 |
-| Cheater | 3.00% | ~1,595 |
-| Diplomat | 3.00% | ~1,595 |
-| White Head | 3.00% | ~1,595 |
-| Koldun | 3.00% | ~1,595 |
+| Black Sorceress | 3.00% | ~1,596 |
+| Cheater | 3.00% | ~1,596 |
+| Diplomat | 3.00% | ~1,596 |
+| White Head | 3.00% | ~1,596 |
+| Koldun | 3.00% | ~1,596 |
 | Revelation | 2.00% | ~1,064 |
 | Mistress of Hell | 2.00% | ~1,064 |
 | Detective | 2.00% | ~1,064 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,064 |
 | Word Master | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,180 (Ranked 107)  
+Progressed: 53,185 (Ranked 107)  
 Completed: 50 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 50 (0.09%) (Ranked 282)
 | 2023-11-13 | 52,728 | 48 |
 | 2023-11-14 | 52,917 | 49 |
 | 2023-11-15 | 53,117 | 50 |
-| 2023-11-16 | 53,180 | 50 |
+| 2023-11-16 | 53,185 | 50 |
 ## Awards
 Max (Character Customization): 87  (Ranked 378)  
 Sum: 87 (Ranked 452)  

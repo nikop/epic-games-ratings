@@ -7063,9 +7063,9 @@
       "Count": 3782
     }
   ],
-  "EOS_Progressed": 139998,
+  "EOS_Progressed": 140005,
   "EOS_Completed": 186,
-  "EOS_NewPlayers": 1179,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28593,6 +28593,11 @@
       "Time": "2023-11-16T09:04:01.921746+00:00",
       "NumProgressed": 139998,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2023-11-16T10:03:26.0501203+00:00",
+      "NumProgressed": 140005,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 112,
@@ -28642,9 +28647,9 @@
       "ID": "argon_a",
       "SetID": "anfd17p",
       "Name": "Proud Paladin",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 980
     },
     {
       "ID": "ascend01",
@@ -29499,15 +29504,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139998,
+      "Progressed": 140005,
       "Completed": 186
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-15T20:58:35.9578657+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:04:01.9217456+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:03:26.0501199+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:58:50.72586+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:04:01.9219274+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:58:34.2008414+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:03:26.0503194+00:00"
 }

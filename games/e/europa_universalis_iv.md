@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,588 (Ranked 41)  
+Progressed: 456,607 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,21 +580,21 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,588 | 1 |
+| 2023-11-16 | 456,607 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
-Sum: 57,733 (Ranked 24)  
+Sum: 57,763 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,013 |
 | This game has Diverse Characters | 6,753 |
 | This game is Highly Recommended | 6,734 |
-| This game has Challenging Combat | 6,629 |
+| This game has Challenging Combat | 6,646 |
 | This game is Extremely Fun | 6,619 |
 | This game is Relaxing | 6,447 |
 | This game has Competitive Players | 6,295 |
-| This game has Amazing Storytelling | 5,829 |
+| This game has Amazing Storytelling | 5,842 |
 | This game has Amazing Characters | 5,414 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -903,4 +903,4 @@ Diff (max vs sum): 30
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
-| 2023-11-16 | 4.69 | - | 7,013 | 57,733 |
+| 2023-11-16 | 4.69 | - | 7,013 | 57,763 |

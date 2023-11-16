@@ -7611,10 +7611,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 15858,
       "NumberOfAwardsMax": 5482
+    },
+    {
+      "Time": "2023-11-16T09:57:03.0421688+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 15863,
+      "NumberOfAwardsMax": 5482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15858,
+  "NumberOfAwards": 15863,
   "NumberOfAwardsMax": 5482,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7682,7 +7688,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 723
+      "Count": 728
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7691,9 +7697,9 @@
       "Count": 1161
     }
   ],
-  "EOS_Progressed": 839992,
+  "EOS_Progressed": 840008,
   "EOS_Completed": 198,
-  "EOS_NewPlayers": 4913,
+  "EOS_NewPlayers": 4915,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28221,6 +28227,11 @@
       "Time": "2023-11-16T09:04:51.5824419+00:00",
       "NumProgressed": 839992,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2023-11-16T10:04:15.8469958+00:00",
+      "NumProgressed": 840008,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 75,
@@ -28232,7 +28243,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 209998
+      "UsersEstimate": 210002
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -28831,22 +28842,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 839992,
+      "Progressed": 840008,
       "Completed": 241
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 839992,
+      "Progressed": 840008,
       "Completed": 198
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-11-16T06:57:02.0185772+00:00",
-  "LastChanged_Achievements": "2023-11-16T09:04:51.5824416+00:00",
+  "LastChanged": "2023-11-16T09:57:03.0421686+00:00",
+  "LastChanged_Achievements": "2023-11-16T10:04:15.8469955+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:54.9763449+00:00",
-  "LastUpdate_Ratings": "2023-11-16T08:57:18.8105615+00:00",
-  "LastUpdate_Achievements": "2023-11-16T09:04:51.5825852+00:00"
+  "LastUpdate_Ratings": "2023-11-16T09:57:03.0421691+00:00",
+  "LastUpdate_Achievements": "2023-11-16T10:04:15.8471315+00:00"
 }
