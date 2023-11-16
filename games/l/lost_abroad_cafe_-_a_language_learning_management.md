@@ -11,10 +11,10 @@
 | Tea Master | 12.00% | ~67 |
 | Brew Master | 7.00% | ~39 |
 | Tea Guru | 5.00% | ~28 |
-| Countertop Champion | 0.90% | ~5 |
+| Countertop Champion | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 562 (Ranked 299)  
-Completed: 5 (0.89%) (Ranked 167)  
+Completed: 6 (1.07%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,4 +179,4 @@ Completed: 5 (0.89%) (Ranked 167)
 | 2023-11-13 | 557 | 4 |
 | 2023-11-14 | 558 | 5 |
 | 2023-11-15 | 560 | 5 |
-| 2023-11-16 | 562 | 5 |
+| 2023-11-16 | 562 | 6 |

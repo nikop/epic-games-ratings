@@ -47,22 +47,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,401 |
 | Magical Harmony | 1.00% | ~1,401 |
 | Arcane Industries | 1.00% | ~1,401 |
-| A Notch Above the Rest | 0.90% | ~1,260 |
-| The King's Caprice | 0.90% | ~1,260 |
-| Big Game Hunting | 0.90% | ~1,260 |
-| For the Hoard! | 0.90% | ~1,260 |
-| Scrapbooker | 0.90% | ~1,260 |
-| Locally Sourced | 0.90% | ~1,260 |
-| Flying off the Shelves | 0.90% | ~1,260 |
-| This Power Level...! | 0.90% | ~1,260 |
-| Hidden Potential | 0.90% | ~1,260 |
-| Expansion in Session | 0.90% | ~1,260 |
-| Mammonite | 0.90% | ~1,260 |
-| Miracle Alchemist | 0.90% | ~1,260 |
-| Seasoned Journeyman | 0.90% | ~1,260 |
-| Black Friday Special | 0.90% | ~1,260 |
-| Special Ingredient | 0.90% | ~1,260 |
-| Complete Monopoly | 0.90% | ~1,260 |
+| A Notch Above the Rest | 0.90% | ~1,261 |
+| The King's Caprice | 0.90% | ~1,261 |
+| Big Game Hunting | 0.90% | ~1,261 |
+| For the Hoard! | 0.90% | ~1,261 |
+| Scrapbooker | 0.90% | ~1,261 |
+| Locally Sourced | 0.90% | ~1,261 |
+| Flying off the Shelves | 0.90% | ~1,261 |
+| This Power Level...! | 0.90% | ~1,261 |
+| Hidden Potential | 0.90% | ~1,261 |
+| Expansion in Session | 0.90% | ~1,261 |
+| Mammonite | 0.90% | ~1,261 |
+| Miracle Alchemist | 0.90% | ~1,261 |
+| Seasoned Journeyman | 0.90% | ~1,261 |
+| Black Friday Special | 0.90% | ~1,261 |
+| Special Ingredient | 0.90% | ~1,261 |
+| Complete Monopoly | 0.90% | ~1,261 |
 | Cream of the Crop | 0.80% | ~1,120 |
 | Proud Paladin | 0.80% | ~1,120 |
 | Above the Norm | 0.80% | ~1,120 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,051 (Ranked 79)  
+Progressed: 140,058 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 186 (0.13%) (Ranked 265)
 | 2023-11-13 | 139,733 | 181 |
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
-| 2023-11-16 | 140,051 | 186 |
+| 2023-11-16 | 140,058 | 186 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,556 (Ranked 50)  

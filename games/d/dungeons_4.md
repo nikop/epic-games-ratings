@@ -11,7 +11,7 @@
 | The Hellwoods | 74.00% | ~209 |
 | The Plains of Strothalm | 67.00% | ~190 |
 | Thalya's Concentrated Fury | 66.00% | ~187 |
-| Experienced Thalya | 65.00% | ~184 |
+| Experienced Thalya | 66.00% | ~187 |
 | Master of Magic | 62.00% | ~175 |
 | Bad Elves Go Everywhere | 60.00% | ~170 |
 | Magic Accidents | 56.00% | ~158 |
@@ -28,12 +28,12 @@
 | Mana Cannon | 29.00% | ~82 |
 | “… like son” | 28.00% | ~79 |
 | Dungeonlord Gorgu | 23.00% | ~65 |
+| Shame! Shame! Shame! | 23.00% | ~65 |
 | The Cathedral of Light | 22.00% | ~62 |
-| Shame! Shame! Shame! | 22.00% | ~62 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
 | Tanos' Crusade Against Thalya | 18.00% | ~51 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
-| Unstoppable Horde | 15.00% | ~42 |
+| Unstoppable Horde | 16.00% | ~45 |
 | Master of the Undead | 14.00% | ~40 |
 | All’s Well That Ends Evil | 14.00% | ~40 |
 | Forbidden Knowledge | 13.00% | ~37 |
@@ -48,9 +48,9 @@
 | Sabotage! | 6.00% | ~17 |
 | Doom Hill | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
+| Mirror, Mirror | 5.00% | ~14 |
 | Raiders of the Lost Stone | 5.00% | ~14 |
 | The Rune Sockets of Finitude (Part 1) | 5.00% | ~14 |
-| Mirror, Mirror | 4.00% | ~11 |
 | Laser Eyes Are So Useless | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |
 | To Infinity And Beyond! | 4.00% | ~11 |
@@ -60,10 +60,10 @@
 | Lavalumps on Ice! | 3.00% | ~8 |
 | To the Max! | 3.00% | ~8 |
 | The Last Stand - This Time For Real! | 3.00% | ~8 |
+| Heal Heal Blessing | 2.00% | ~6 |
+| Hands Off My Stones | 2.00% | ~6 |
 | Evilification | 2.00% | ~6 |
 | No Mana, No Cry | 1.00% | ~3 |
-| Heal Heal Blessing | 1.00% | ~3 |
-| Hands Off My Stones | 1.00% | ~3 |
 | I Don't Need Any Help | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 283 (Ranked 351)  

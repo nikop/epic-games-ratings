@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12159,9 +12159,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 456916,
+  "EOS_Progressed": 456962,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6271,
+  "EOS_NewPlayers": 6273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36229,6 +36229,11 @@
       "Time": "2023-11-16T19:04:48.9053163+00:00",
       "NumProgressed": 456916,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T20:05:14.8340898+00:00",
+      "NumProgressed": 456962,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36862,9 +36867,9 @@
       "ID": "achievement_definitely_the_sultan_of_rum",
       "SetID": "67mdiil",
       "Name": "Definitely the Sultan of Rum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_die_please_die",
@@ -39143,21 +39148,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 456916,
+      "Progressed": 456962,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 456916,
+      "Progressed": 456962,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-16T18:58:34.3992729+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:04:48.9053158+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:05:14.8340896+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:34.3992735+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:04:48.906338+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:31.0062093+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:05:14.8350808+00:00"
 }

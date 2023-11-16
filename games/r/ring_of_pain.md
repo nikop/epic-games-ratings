@@ -40,6 +40,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 0.20% | ~480 |
 | The Bestiary | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
+| All Consuming | 0.20% | ~480 |
 | Heartless | 0.20% | ~480 |
 | What's Yours Is Mine | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
@@ -92,7 +93,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Blizzard | 0.10% | ~240 |
 | The Boulder | 0.10% | ~240 |
 | Overthrown | 0.10% | ~240 |
-| All Consuming | 0.10% | ~240 |
 | Poor Choices | 0.10% | ~240 |
 | Not What I Meant | 0.10% | ~240 |
 | A Rock And A Hard Place | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,769 (Ranked 61)  
+Progressed: 239,770 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 288 (0.12%) (Ranked 272)
 | 2023-11-13 | 239,662 | 288 |
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
-| 2023-11-16 | 239,769 | 288 |
+| 2023-11-16 | 239,770 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,675 (Ranked 83)  

@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -562,6 +562,11 @@
     {
       "Time": "2023-11-16T19:06:12.5767993+00:00",
       "NumProgressed": 63,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T20:06:49.0471578+00:00",
+      "NumProgressed": 65,
       "NumCompleted": 0
     }
   ],
@@ -717,7 +722,7 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -901,7 +906,7 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -1006,15 +1011,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:06:12.5767988+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:06:49.0471575+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:59:37.2240595+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:06:12.5768313+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:59:41.8150956+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:06:49.04719+00:00"
 }

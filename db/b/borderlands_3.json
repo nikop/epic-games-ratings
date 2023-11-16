@@ -2,13 +2,13 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 232,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -14783,18 +14783,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 363047,
       "NumberOfAwardsMax": 120612
+    },
+    {
+      "Time": "2023-11-16T19:58:01.8345012+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 363115,
+      "NumberOfAwardsMax": 120668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 363047,
-  "NumberOfAwardsMax": 120612,
+  "NumberOfAwards": 363115,
+  "NumberOfAwardsMax": 120668,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 120612
+      "Count": 120668
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14806,7 +14812,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27464
+      "Count": 27476
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14868,8 +14874,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-11-16T16:57:48.2736693+00:00",
+  "LastChanged": "2023-11-16T19:58:01.834501+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.9372281+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:09.0359861+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:04:57.6009224+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:01.8345016+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:05:24.166658+00:00"
 }

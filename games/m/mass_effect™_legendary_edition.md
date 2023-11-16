@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~1,203 |
-| Spectre Inductee | 79.00% | ~1,011 |
+| Spectre Inductee | 80.00% | ~1,024 |
 | Medal of Exploration I | 70.00% | ~896 |
 | Recruit | 67.00% | ~858 |
 | Search and Rescue | 66.00% | ~845 |
-| Quarian Ally | 62.00% | ~794 |
+| Quarian Ally | 63.00% | ~806 |
 | Medal of Heroism | 59.00% | ~755 |
 | Honorarium of Corporate Service | 58.00% | ~742 |
 | Medal of Exploration II | 52.00% | ~666 |
@@ -62,13 +62,13 @@
 | Heart of Darkness | 29.00% | ~371 |
 | Focused | 28.00% | ~358 |
 | Archivist | 28.00% | ~358 |
+| Friend or Foe | 28.00% | ~358 |
 | Cat's in the Cradle | 28.00% | ~358 |
 | Doppelganger | 28.00% | ~358 |
 | Treason | 28.00% | ~358 |
 | Agent | 28.00% | ~358 |
 | Digital Exorcist | 28.00% | ~358 |
 | Bringer of War | 28.00% | ~358 |
-| Friend or Foe | 27.00% | ~346 |
 | Mobilizer | 27.00% | ~346 |
 | Untouchable | 26.00% | ~333 |
 | Mission Accomplished | 26.00% | ~333 |

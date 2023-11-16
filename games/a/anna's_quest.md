@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 77.00% | ~53 |
-| Book Worm | 52.00% | ~36 |
+| Escape artist | 77.00% | ~54 |
+| Book Worm | 51.00% | ~36 |
 | Ooh, it's shiny! | 49.00% | ~34 |
 | My lost nightingale | 43.00% | ~30 |
-| Through the woods | 42.00% | ~29 |
-| Fussy eater | 38.00% | ~26 |
+| Through the woods | 41.00% | ~29 |
+| Fussy eater | 37.00% | ~26 |
 | Back to the anvil | 36.00% | ~25 |
 | So soothing... | 36.00% | ~25 |
 | Kekekeke... | 36.00% | ~25 |
 | Mystery solved | 33.00% | ~23 |
 | Sorry Grandpa | 33.00% | ~23 |
 | Roostwig has entered the building | 33.00% | ~23 |
-| Honey, honey, honey… | 32.00% | ~22 |
-| Far away from home | 32.00% | ~22 |
-| NOW GO AWAY! | 32.00% | ~22 |
+| Honey, honey, honey… | 31.00% | ~22 |
+| Far away from home | 31.00% | ~22 |
+| NOW GO AWAY! | 31.00% | ~22 |
 | Game Over! | 30.00% | ~21 |
 | A very special drink | 30.00% | ~21 |
 | Shattered | 29.00% | ~20 |
 | Little genius | 29.00% | ~20 |
-| Show me your true self | 28.00% | ~19 |
-| GG | 28.00% | ~19 |
-| Beekeeper | 28.00% | ~19 |
-| No posters allowed | 28.00% | ~19 |
+| Show me your true self | 27.00% | ~19 |
+| GG | 27.00% | ~19 |
+| Beekeeper | 27.00% | ~19 |
+| No posters allowed | 27.00% | ~19 |
 | You've got mail! | 26.00% | ~18 |
 | Memories | 26.00% | ~18 |
 | Pain in the hands | 26.00% | ~18 |
@@ -34,18 +34,18 @@
 | Close the deal | 23.00% | ~16 |
 | Turn the last page | 23.00% | ~16 |
 | Ring-a-ding-ding | 23.00% | ~16 |
-| Kill it! KILL IT! | 22.00% | ~15 |
+| Kill it! KILL IT! | 21.00% | ~15 |
 | Makeover | 20.00% | ~14 |
 | Singstar | 20.00% | ~14 |
 | Bahahahaha... | 19.00% | ~13 |
 | Guilty conscience | 17.00% | ~12 |
 | Cameodalic | 16.00% | ~11 |
 | Clever reference #451 | 13.00% | ~9 |
-| What a mess | 12.00% | ~8 |
+| What a mess | 11.00% | ~8 |
 | Posterboy! | 10.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 456)  
-Completed: 6 (8.70%) (Ranked 47)  
+Progressed: 70 (Ranked 455)  
+Completed: 6 (8.57%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 6 (8.70%) (Ranked 47)
 | 2023-11-11 | 65 | 6 |
 | 2023-11-12 | 66 | 6 |
 | 2023-11-13 | 68 | 6 |
-| 2023-11-16 | 69 | 6 |
+| 2023-11-16 | 70 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

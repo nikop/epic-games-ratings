@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -853,9 +853,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -892,8 +892,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:06:14.4060607+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:06:50.8390986+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:59:31.2375309+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:06:14.4061225+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:59:35.365517+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:06:50.8391649+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4836,
+  "EOS_Progressed": 4837,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3226,6 +3226,11 @@
       "Time": "2023-11-14T13:10:40.3419387+00:00",
       "NumProgressed": 4836,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-16T20:07:55.2960703+00:00",
+      "NumProgressed": 4837,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3293,7 +3298,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3309,7 +3314,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3325,7 +3330,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3525,7 +3530,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -3557,7 +3562,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -3772,15 +3777,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4836,
+      "Progressed": 4837,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:06:46.0439076+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:07:55.2960701+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:29.1986368+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:59:20.5605695+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:06:46.0439836+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:59:23.2580183+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:07:55.2961449+00:00"
 }

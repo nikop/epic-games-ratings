@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1261,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3674,6 +3674,11 @@
       "Time": "2023-11-16T19:09:22.4039538+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T20:09:48.7564243+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3828,9 +3833,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_27",
@@ -3862,7 +3867,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_30",
@@ -3884,9 +3889,9 @@
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_33",
@@ -3894,7 +3899,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_34",
@@ -3910,7 +3915,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1124
     },
     {
       "ID": "achievement_36",
@@ -3924,9 +3929,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 846
     },
     {
       "ID": "achievement_38",
@@ -3950,7 +3955,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_40",
@@ -3958,7 +3963,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "achievement_41",
@@ -3974,7 +3979,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_43",
@@ -3990,7 +3995,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "achievement_45",
@@ -4006,7 +4011,7 @@
       "Name": "Patience you must have",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_47",
@@ -4126,7 +4131,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_60",
@@ -4174,7 +4179,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_9",
@@ -4189,13 +4194,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1261,
+      "Progressed": 1263,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1261,
+      "Progressed": 1263,
       "Completed": 1
     }
   ],
@@ -4203,8 +4208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:09:22.4039533+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:09:48.7564241+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:11.7777751+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:09:22.4040389+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:05.0851424+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:09:48.7564797+00:00"
 }

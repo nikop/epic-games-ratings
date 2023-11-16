@@ -4,11 +4,11 @@
   "ProductSlug": "rayman-legends",
   "Ranking_Rating": 86,
   "Ranking_Popularity": 249,
-  "Ranking_PopularitySum": 359,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2019-11-29T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -1042,10 +1042,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 307
+    },
+    {
+      "Time": "2023-11-16T19:59:42.9078475+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 327,
+      "NumberOfAwardsMax": 307
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 307,
+  "NumberOfAwards": 327,
   "NumberOfAwardsMax": 307,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1054,6 +1060,12 @@
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
       "Count": 307
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1067,8 +1079,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2023-11-15T16:59:03.0367223+00:00",
+  "LastChanged": "2023-11-16T19:59:42.9078473+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.9468845+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:59:38.2216785+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:04:59.4416443+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:59:42.9078477+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:05:26.2203647+00:00"
 }

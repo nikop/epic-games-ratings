@@ -2,13 +2,13 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
-  "Ranking_Rating": 719,
+  "Ranking_Rating": 720,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2015-10-20T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -870,10 +870,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-11-16T19:58:52.5086674+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 204,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -893,7 +899,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",
@@ -931,8 +937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2023-10-13T18:57:21.4846272+00:00",
+  "LastChanged": "2023-11-16T19:58:52.5086672+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.9724288+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:53.2843084+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:05:15.6603991+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:52.5086677+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:05:44.7535095+00:00"
 }

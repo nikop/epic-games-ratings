@@ -26,7 +26,7 @@ Number of Ratings: 180  (23.09.2022)
 | Now what? | 46.00% | ~852 |
 | First ship arrived | 45.00% | ~834 |
 | Exemplary student | 43.00% | ~797 |
-| High speed | 42.00% | ~778 |
+| High speed | 43.00% | ~797 |
 | First aircraft arrived | 41.00% | ~760 |
 | Transport shark | 40.00% | ~741 |
 | Mass production | 35.00% | ~649 |
@@ -269,8 +269,8 @@ Completed: 1 (0.05%) (Ranked 303)
 | 2023-11-16 | 1,853 | 1 |
 ## Awards
 Max (Highly Recommended): 43  (Ranked 447)  
-Sum: 308 (Ranked 358)  
-Diff (max vs sum): 89  
+Sum: 308 (Ranked 359)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 43 |

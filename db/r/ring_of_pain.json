@@ -3394,9 +3394,9 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239769,
+  "EOS_Progressed": 239770,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25189,6 +25189,11 @@
       "Time": "2023-11-16T18:09:16.5776828+00:00",
       "NumProgressed": 239769,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-16T20:09:50.4236391+00:00",
+      "NumProgressed": 239770,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25670,9 +25675,9 @@
       "ID": "KILLCOMPULSION",
       "SetID": "5l8oe0h",
       "Name": "All Consuming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -26303,13 +26308,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239769,
+      "Progressed": 239770,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1249,
+      "Progressed": 1250,
       "Completed": 380
     }
   ],
@@ -26317,8 +26322,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-15T21:57:04.5956472+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:09:24.1524494+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:09:50.4236389+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:57:56.2557707+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:09:24.1526945+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:57:47.6956613+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:09:50.4238648+00:00"
 }

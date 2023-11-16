@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -925,7 +925,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664693,
+  "EOS_Progressed": 664695,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -20850,6 +20850,11 @@
       "Time": "2023-11-16T19:03:49.9296968+00:00",
       "NumProgressed": 664693,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-16T20:04:10.3408297+00:00",
+      "NumProgressed": 664695,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20861,7 +20866,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478579
+      "UsersEstimate": 478580
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20869,7 +20874,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385522
+      "UsersEstimate": 385523
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -20877,7 +20882,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152879
+      "UsersEstimate": 152880
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -20901,7 +20906,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 53175
+      "UsersEstimate": 53176
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -20925,7 +20930,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66469
+      "UsersEstimate": 66470
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -20957,7 +20962,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66469
+      "UsersEstimate": 66470
     },
     {
       "ID": "Achievement_14_Magician",
@@ -20997,7 +21002,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152879
+      "UsersEstimate": 152880
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -21029,7 +21034,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53175
+      "UsersEstimate": 53176
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -21085,7 +21090,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 53175
+      "UsersEstimate": 53176
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -21125,7 +21130,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166173
+      "UsersEstimate": 166174
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -21141,7 +21146,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59822
+      "UsersEstimate": 59823
     },
     {
       "ID": "Achievement_37_Champion",
@@ -21157,7 +21162,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53175
+      "UsersEstimate": 53176
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -21244,15 +21249,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664693,
+      "Progressed": 664695,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-16T15:59:02.0377741+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:03:49.9296964+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:04:10.3408293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:12.8499735+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:49.8378652+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:03:49.9298384+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:48.6012689+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:04:10.3409267+00:00"
 }

@@ -1,22 +1,22 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 719)  
+Rating: 4.41 (Ranked 720)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~155,087 |
-| Good Skills | 9.00% | ~139,578 |
-| Multiplier Master | 9.00% | ~139,578 |
-| Maverick | 7.00% | ~108,561 |
+| Midnight Drifter | 10.00% | ~155,089 |
+| Good Skills | 9.00% | ~139,580 |
+| Multiplier Master | 9.00% | ~139,580 |
+| Maverick | 7.00% | ~108,562 |
 | The Long Drift | 5.00% | ~77,544 |
-| Drift Line Apprentice | 3.00% | ~46,526 |
-| Mad Skills | 3.00% | ~46,526 |
-| Bring the Cubic Ruckus | 2.00% | ~31,017 |
-| Jelly Donuts | 2.00% | ~31,017 |
-| Master Drifter | 2.00% | ~31,017 |
-| Spin Doctor | 2.00% | ~31,017 |
+| Drift Line Apprentice | 3.00% | ~46,527 |
+| Mad Skills | 3.00% | ~46,527 |
+| Bring the Cubic Ruckus | 2.00% | ~31,018 |
+| Jelly Donuts | 2.00% | ~31,018 |
+| Master Drifter | 2.00% | ~31,018 |
+| Spin Doctor | 2.00% | ~31,018 |
 | Hoon Airlines | 1.00% | ~15,509 |
 | Midnight Master | 1.00% | ~15,509 |
 | Sake Bombs | 1.00% | ~15,509 |
@@ -24,10 +24,10 @@ Number of Ratings: 216  (23.09.2022)
 | Insane Skills | 0.70% | ~10,856 |
 | Bacon Donuts | 0.60% | ~9,305 |
 | Double Rainbow | 0.50% | ~7,754 |
-| Washing Machine | 0.40% | ~6,203 |
+| Washing Machine | 0.40% | ~6,204 |
 | The Completionist | 0.10% | ~1,551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550,872 (Ranked 8)  
+Progressed: 1,550,887 (Ranked 8)  
 Completed: 728 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 728 (0.05%) (Ranked 303)
 | 2023-11-13 | 1,550,405 | 725 |
 | 2023-11-14 | 1,550,571 | 727 |
 | 2023-11-15 | 1,550,713 | 727 |
-| 2023-11-16 | 1,550,872 | 728 |
+| 2023-11-16 | 1,550,887 | 728 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,38 +1,38 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 635)  
+Rating: 4.47 (Ranked 636)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,003 |
-| Now You're Talking | 62.00% | ~329,488 |
-| Steel Yourself | 62.00% | ~329,488 |
-| Window Dressing | 50.00% | ~265,716 |
-| Trigger Happy | 46.00% | ~244,459 |
-| Riverborn | 45.00% | ~239,145 |
-| Starry Eyed | 34.00% | ~180,687 |
-| Poking Around | 34.00% | ~180,687 |
-| Talk of the Town | 24.00% | ~127,544 |
-| AAARR! | 23.00% | ~122,230 |
-| Hello Darkness | 23.00% | ~122,230 |
-| Wind At Our Backs | 22.00% | ~116,915 |
-| To the Beat | 20.00% | ~106,287 |
+| First Step | 70.00% | ~372,007 |
+| Now You're Talking | 62.00% | ~329,492 |
+| Steel Yourself | 62.00% | ~329,492 |
+| Window Dressing | 50.00% | ~265,719 |
+| Trigger Happy | 46.00% | ~244,461 |
+| Riverborn | 45.00% | ~239,147 |
+| Starry Eyed | 34.00% | ~180,689 |
+| Poking Around | 34.00% | ~180,689 |
+| Talk of the Town | 24.00% | ~127,545 |
+| AAARR! | 23.00% | ~122,231 |
+| Hello Darkness | 23.00% | ~122,231 |
+| Wind At Our Backs | 22.00% | ~116,916 |
+| To the Beat | 20.00% | ~106,288 |
 | Sunny Shores | 17.00% | ~90,344 |
-| Sunday Best | 16.00% | ~85,029 |
-| To Victory! | 15.00% | ~79,715 |
+| Sunday Best | 16.00% | ~85,030 |
+| To Victory! | 15.00% | ~79,716 |
 | Two of a Kind | 14.00% | ~74,401 |
-| Keep On Trucking | 13.00% | ~69,086 |
+| Keep On Trucking | 13.00% | ~69,087 |
 | Going on an Adventure | 11.00% | ~58,458 |
 | Make Peace, Not War | 11.00% | ~58,458 |
-| Walking The Line | 10.00% | ~53,143 |
-| Not So Cute Anymore | 10.00% | ~53,143 |
+| Walking The Line | 10.00% | ~53,144 |
+| Not So Cute Anymore | 10.00% | ~53,144 |
 | Road Less Travelled | 9.00% | ~47,829 |
 | Lost and Found | 9.00% | ~47,829 |
 | Under the Radar | 8.00% | ~42,515 |
-| Partner in Crime | 7.00% | ~37,200 |
-| Hard to Hear | 7.00% | ~37,200 |
+| Partner in Crime | 7.00% | ~37,201 |
+| Hard to Hear | 7.00% | ~37,201 |
 | Moving On Up | 6.00% | ~31,886 |
 | Owl Knows Best | 6.00% | ~31,886 |
 | Mind the Moose | 6.00% | ~31,886 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,572 |
 | Rising Star | 5.00% | ~26,572 |
 | Slime Slayer | 5.00% | ~26,572 |
-| Privacy, Please! | 4.00% | ~21,257 |
-| Silky Smooth | 4.00% | ~21,257 |
-| Hash It Over | 4.00% | ~21,257 |
-| Biting Tongue | 4.00% | ~21,257 |
-| What a Catch! | 4.00% | ~21,257 |
-| Hit the Spot | 4.00% | ~21,257 |
+| Privacy, Please! | 4.00% | ~21,258 |
+| Silky Smooth | 4.00% | ~21,258 |
+| Hash It Over | 4.00% | ~21,258 |
+| Biting Tongue | 4.00% | ~21,258 |
+| What a Catch! | 4.00% | ~21,258 |
+| Hit the Spot | 4.00% | ~21,258 |
 | Talk the Talk | 3.00% | ~15,943 |
 | Skin in the Game | 3.00% | ~15,943 |
 | Caving In | 3.00% | ~15,943 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,594 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,433 (Ranked 35)  
+Progressed: 531,438 (Ranked 35)  
 Completed: 499 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 499 (0.09%) (Ranked 282)
 | 2023-11-13 | 531,270 | 498 |
 | 2023-11-14 | 531,325 | 498 |
 | 2023-11-15 | 531,384 | 499 |
-| 2023-11-16 | 531,433 | 499 |
+| 2023-11-16 | 531,438 | 499 |
 ## Awards
 Max (Relaxing): 20  (Ranked 541)  
 Sum: 20 (Ranked 542)  

@@ -2,13 +2,13 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 130,
+  "Ranking_Rating": 622,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-09-20T09:57:46.6053491+00:00",
@@ -2593,18 +2593,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 4809,
       "NumberOfAwardsMax": 1511
+    },
+    {
+      "Time": "2023-11-16T19:59:08.6855765+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 4818,
+      "NumberOfAwardsMax": 1520
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4809,
-  "NumberOfAwardsMax": 1511,
+  "NumberOfAwards": 4818,
+  "NumberOfAwardsMax": 1520,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1511
+      "Count": 1520
     },
     {
       "Text": "This game has a Competitive Community",
@@ -8552,9 +8558,9 @@
       "ID": "ach39",
       "SetID": "47in8n6",
       "Name": "Make Way, I\u0027m Koming Through",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3597
     },
     {
       "ID": "ach40",
@@ -8656,9 +8662,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-16T18:59:07.2899928+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:04:09.6931802+00:00",
+  "LastChanged": "2023-11-16T19:59:08.6855764+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:04:31.4320882+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:59:07.2899934+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:04:09.6932413+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:59:08.6855768+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:04:31.4321364+00:00"
 }

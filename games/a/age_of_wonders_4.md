@@ -22,7 +22,7 @@ Rating: 4.61 (Ranked 385)
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
-| Intimidation Tactics | 0.70% | ~38 |
+| Intimidation Tactics | 0.80% | ~43 |
 | Sehiran Oasis | 0.70% | ~38 |
 | Digging for Treasure | 0.60% | ~32 |
 | Tipping the Scales | 0.60% | ~32 |

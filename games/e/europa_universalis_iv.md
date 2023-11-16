@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 232)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -40,6 +40,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Czechs and Balances | 0.10% | ~457 |
 | Dar al-Islam | 0.10% | ~457 |
 | Defender of the Faith | 0.10% | ~457 |
+| Definitely the Sultan of Rum | 0.10% | ~457 |
 | Die Please Die | 0.10% | ~457 |
 | Double the Love | 0.10% | ~457 |
 | Down Under | 0.10% | ~457 |
@@ -206,7 +207,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cotton Kandy | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
-| Definitely the Sultan of Rum | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,916 (Ranked 41)  
+Progressed: 456,962 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,916 | 1 |
+| 2023-11-16 | 456,962 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,833 (Ranked 24)  

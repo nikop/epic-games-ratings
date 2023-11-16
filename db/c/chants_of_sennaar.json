@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.31,
+  "EOS_Completed_Percentage": 5.3,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2415,6 +2415,11 @@
       "Time": "2023-11-16T11:04:06.1880287+00:00",
       "NumProgressed": 565,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-16T20:04:15.2477007+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2426,15 +2431,15 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 102
+      "UsersEstimate": 96
     },
     {
       "ID": "META_ALL_LINK",
@@ -2450,7 +2455,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2466,7 +2471,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2474,7 +2479,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2482,7 +2487,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2490,7 +2495,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2512,9 +2517,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2522,15 +2527,15 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2570,7 +2575,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2578,7 +2583,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PROGRESS_N1",
@@ -2625,14 +2630,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-16T19:03:54.6210734+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:04:15.2477004+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:52.6476143+00:00",
-  "LastUpdate_Achievements": "2023-11-16T19:03:54.6211063+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:51.8145334+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:04:15.2477263+00:00"
 }

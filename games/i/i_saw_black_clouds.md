@@ -7,7 +7,7 @@
 | Believer | 55.00% | ~182 |
 | Origin | 49.00% | ~162 |
 | End | 48.00% | ~158 |
-| Nonconsensual | 32.00% | ~106 |
+| Nonconsensual | 33.00% | ~109 |
 | Realist | 28.00% | ~92 |
 | Escape | 20.00% | ~66 |
 | Wrong | 18.00% | ~59 |

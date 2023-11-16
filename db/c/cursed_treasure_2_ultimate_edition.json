@@ -294,9 +294,9 @@
       "ID": "BADGE_BOSS_5_KILL",
       "SetID": "ak6pfjk",
       "Name": "Deposition",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "BADGE_BOSS_6_KILL",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:07:58.8103958+00:00",
+  "LastChanged_Achievements": "2023-11-16T20:03:25.6263643+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:45.1148952+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:58:58.5209025+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:07:58.8104264+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:58:58.5693966+00:00",
+  "LastUpdate_Achievements": "2023-11-16T20:03:25.6264195+00:00"
 }
