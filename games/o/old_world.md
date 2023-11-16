@@ -168,6 +168,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.40% | ~61 |
 | Rmt n Kmt Buhen | 0.40% | ~61 |
 | Greater Kmt Unified | 0.40% | ~61 |
+| Prosperous Kmt | 0.40% | ~61 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
@@ -178,7 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.30% | ~46 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
-| Prosperous Kmt | 0.30% | ~46 |
+| Randomized Leaders | 0.30% | ~46 |
 | Barbarian Horde | 0.20% | ~31 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
@@ -194,7 +195,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Macedonian Wars | 0.20% | ~31 |
 | Medo-Babylonian Conquest | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
-| Randomized Leaders | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
 | Akhenaten's Legacy | 0.20% | ~31 |

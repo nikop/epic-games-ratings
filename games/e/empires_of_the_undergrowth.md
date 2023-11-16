@@ -4,22 +4,22 @@
 Rating: 4.73 (Ranked 174)  
 Number of Ratings: 212  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 45  (Ranked 442)  
-Sum: 411 (Ranked 335)  
-Diff (max vs sum): 107  
+Max (Competitive Players): 46  (Ranked 440)  
+Sum: 426 (Ranked 335)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 45 |
-| This game is Great for Beginners | 42 |
-| This game is Extremely Fun | 42 |
+| This game has Competitive Players | 46 |
+| This game is Great for Beginners | 45 |
+| This game is Extremely Fun | 43 |
 | This game has Amazing Storytelling | 42 |
-| This game is Relaxing | 39 |
-| This game has Quickly Understood Controls | 38 |
-| This game has a Creative Community | 35 |
-| This game has Amazing Characters | 34 |
-| This game is Educational | 34 |
-| This game is Highly Recommended | 32 |
-| This game has Diverse Characters | 28 |
+| This game has Quickly Understood Controls | 40 |
+| This game is Relaxing | 40 |
+| This game has a Creative Community | 36 |
+| This game has Amazing Characters | 35 |
+| This game is Educational | 35 |
+| This game is Highly Recommended | 34 |
+| This game has Diverse Characters | 30 |
 | This game has Obsessive Gameplay | 25 |
 | This game has Challenging Combat | 20 |
 ## Ratings History
@@ -148,3 +148,4 @@ Diff (max vs sum): 107
 | 2023-09-16 | 4.74 | - | 45 | 410 |
 | 2023-09-17 | 4.73 | - | 45 | 410 |
 | 2023-09-22 | 4.73 | - | 45 | 411 |
+| 2023-11-16 | 4.73 | - | 46 | 426 |

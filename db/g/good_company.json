@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5587,
+  "EOS_Progressed": 5588,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4308,6 +4308,11 @@
       "Time": "2023-11-15T20:05:35.4107906+00:00",
       "NumProgressed": 5587,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T01:53:15.0491392+00:00",
+      "NumProgressed": 5588,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4575,7 +4580,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ach_campaign_special6",
@@ -4663,7 +4668,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ach_frp_high_networth",
@@ -4679,7 +4684,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -4911,7 +4916,7 @@
       "Name": "Speedy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ach_trait_overload",
@@ -4926,15 +4931,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5587,
+      "Progressed": 5588,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:04:35.515371+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:53:15.0491389+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:30.2343308+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:31.1801479+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:04:35.5154497+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:45:50.9098309+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:53:15.0492095+00:00"
 }

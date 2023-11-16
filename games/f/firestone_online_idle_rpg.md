@@ -5,11 +5,11 @@ Rating: 4.12 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,184 |
-| World Map | 79.00% | ~1,855 |
-| Temple of Eternals | 57.00% | ~1,338 |
+| Victor | 93.00% | ~2,185 |
+| World Map | 79.00% | ~1,856 |
+| Temple of Eternals | 57.00% | ~1,339 |
 | Prestigious | 54.00% | ~1,268 |
-| Fellowship Power | 42.00% | ~986 |
+| Fellowship Power | 42.00% | ~987 |
 | Guild Power | 25.00% | ~587 |
 | Prestigious x10 | 22.00% | ~517 |
 | The game is on | 20.00% | ~470 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 957)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,348 (Ranked 215)  
+Progressed: 2,349 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,16 +286,17 @@ Completed: 2 (0.09%) (Ranked 282)
 | 2023-11-13 | 2,290 | 2 |
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
+| 2023-11-16 | 2,349 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
-Sum: 80 (Ranked 456)  
+Sum: 81 (Ranked 456)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |
 | This game is Great for Quick Sessions | 27 |
+| This game has Playful Visuals | 23 |
 | This game has Diverse Characters | 22 |
-| This game has Playful Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -356,3 +357,4 @@ Diff (max vs sum): 34
 | 2023-11-03 | 4.10 | 30 | 57 |
 | 2023-11-11 | 4.10 | 31 | 58 |
 | 2023-11-12 | 4.12 | 31 | 80 |
+| 2023-11-16 | 4.12 | 31 | 81 |

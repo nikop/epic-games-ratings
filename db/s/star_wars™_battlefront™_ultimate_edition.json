@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1243,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3619,6 +3619,11 @@
       "Time": "2023-11-16T00:08:51.8130095+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T01:57:31.2356652+00:00",
+      "NumProgressed": 1243,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3695,7 +3700,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_18",
@@ -3743,7 +3748,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_23",
@@ -3767,7 +3772,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_26",
@@ -3823,7 +3828,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_32",
@@ -3855,7 +3860,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1106
     },
     {
       "ID": "achievement_36",
@@ -3863,15 +3868,15 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 820
     },
     {
       "ID": "achievement_38",
@@ -3895,7 +3900,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_40",
@@ -3903,7 +3908,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_41",
@@ -4039,7 +4044,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_57",
@@ -4134,13 +4139,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1243,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1241,
+      "Progressed": 1243,
       "Completed": 1
     }
   ],
@@ -4148,8 +4153,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:08:51.8130093+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:57:31.235665+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:17.2011345+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:08:51.8130653+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:45:34.7019469+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:57:31.235746+00:00"
 }

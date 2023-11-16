@@ -15218,10 +15218,10 @@
       "Count": 12991
     }
   ],
-  "EOS_Progressed": 896823,
+  "EOS_Progressed": 896827,
   "EOS_Completed": 2778,
   "EOS_NewPlayers": 1001,
-  "EOS_NewCompleters": 21,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38963,6 +38963,11 @@
       "Time": "2023-11-16T00:05:35.5125596+00:00",
       "NumProgressed": 896823,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-16T01:54:22.8779937+00:00",
+      "NumProgressed": 896827,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39047,7 +39052,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17936
+      "UsersEstimate": 17937
     },
     {
       "ID": "Gunslinger",
@@ -39189,9 +39194,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 3587
     },
     {
       "ID": "TheHermit",
@@ -39349,9 +39354,9 @@
       "ID": "DogtownLaw",
       "SetID": "23nboa5",
       "Name": "The APB is Not Enough",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 51
     },
     {
       "ID": "Easycomeeasygo",
@@ -39510,21 +39515,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896823,
+      "Progressed": 896827,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25446,
+      "Progressed": 25450,
       "Completed": 10225
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-15T17:57:08.8021782+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:05:35.5125594+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:54:22.8779932+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:05.4228912+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:05:35.5126811+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:45:21.2967941+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:54:22.8781348+00:00"
 }

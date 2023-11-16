@@ -1,33 +1,33 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 851)  
+Rating: 4.27 (Ranked 857)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,896 |
-| MVP | 54.00% | ~1,861 |
-| Big Spender | 53.00% | ~1,827 |
-| Stud Finder | 41.00% | ~1,413 |
-| Dealmaker | 39.00% | ~1,344 |
-| ROTY | 32.00% | ~1,103 |
-| Roster Reshuffle | 31.00% | ~1,069 |
-| Future of the Franchise | 19.00% | ~655 |
-| Throwin’ Dots | 17.00% | ~586 |
-| Already in Progress | 17.00% | ~586 |
-| Change of Scenery | 17.00% | ~586 |
+| Bragging Rights | 55.00% | ~1,898 |
+| MVP | 54.00% | ~1,864 |
+| Big Spender | 53.00% | ~1,829 |
+| Stud Finder | 41.00% | ~1,415 |
+| Dealmaker | 39.00% | ~1,346 |
+| ROTY | 32.00% | ~1,104 |
+| Roster Reshuffle | 31.00% | ~1,070 |
+| Future of the Franchise | 19.00% | ~656 |
+| Throwin’ Dots | 17.00% | ~587 |
+| Already in Progress | 17.00% | ~587 |
+| Change of Scenery | 17.00% | ~587 |
 | Primetime | 16.00% | ~552 |
 | Pro Bowler | 16.00% | ~552 |
-| Unblockable | 9.00% | ~310 |
-| Pocket Ace | 5.00% | ~172 |
-| Lockdown Corner | 5.00% | ~172 |
-| Head-to-Head | 5.00% | ~172 |
-| Gain Train | 1.00% | ~34 |
+| Unblockable | 9.00% | ~311 |
+| Pocket Ace | 5.00% | ~173 |
+| Lockdown Corner | 5.00% | ~173 |
+| Head-to-Head | 5.00% | ~173 |
+| Gain Train | 1.00% | ~35 |
 | Ol' Reliable | 0.70% | ~24 |
 | Lockdown Leader | 0.50% | ~17 |
 | The Fortress | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,447 (Ranked 203)  
+Progressed: 3,451 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 3,422 | 0 |
 | 2023-11-14 | 3,431 | 0 |
 | 2023-11-15 | 3,445 | 0 |
-| 2023-11-16 | 3,447 | 0 |
+| 2023-11-16 | 3,451 | 0 |
 ## Awards
 Max (Diverse Characters): 37  (Ranked 461)  
 Sum: 88 (Ranked 451)  
@@ -229,3 +229,4 @@ Diff (max vs sum): 10
 | 2023-11-03 | 4.27 | 35 | 86 |
 | 2023-11-04 | 4.28 | 36 | 87 |
 | 2023-11-11 | 4.28 | 37 | 88 |
+| 2023-11-16 | 4.27 | 37 | 88 |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The gateway to the underworld | 46.00% | ~259 |
-| Is it merely a dream? | 44.00% | ~248 |
+| The gateway to the underworld | 46.00% | ~260 |
+| Is it merely a dream? | 44.00% | ~249 |
 | The path to enlightenment | 29.00% | ~164 |
 | Our efforts are finally yielding progress | 26.00% | ~147 |
 | This looks really bad | 23.00% | ~130 |
@@ -13,13 +13,13 @@
 | Unveiling the Magnitude of Sin | 12.00% | ~68 |
 | The court | 9.00% | ~51 |
 | Holy Nails | 8.00% | ~45 |
-| The crucifixion | 7.00% | ~39 |
-| Flagellation | 7.00% | ~39 |
+| The crucifixion | 7.00% | ~40 |
+| Flagellation | 7.00% | ~40 |
 | The choice | 5.00% | ~28 |
 | Hubris | 3.00% | ~17 |
 | Humility | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564 (Ranked 296)  
+Progressed: 565 (Ranked 296)  
 Completed: 6 (1.06%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,3 +139,4 @@ Completed: 6 (1.06%) (Ranked 156)
 | 2023-11-12 | 560 | 5 |
 | 2023-11-14 | 563 | 6 |
 | 2023-11-15 | 564 | 6 |
+| 2023-11-16 | 565 | 6 |

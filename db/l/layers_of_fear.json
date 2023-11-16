@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -473,17 +473,17 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "earn_all_trophies",
@@ -521,9 +521,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "find_one_photo",
@@ -697,9 +697,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "something_important",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:04:52.6936446+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:53:34.1144501+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:59:04.928979+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:04:52.6936747+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:47:37.740992+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:53:34.1144821+00:00"
 }

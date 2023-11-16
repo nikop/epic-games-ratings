@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,071 |
-| Alt+F4 | 8.00% | ~18,988 |
-| Where's that freaking Dwarf? | 7.00% | ~16,614 |
-| Déjà vu | 6.00% | ~14,241 |
-| Sock! SOCK! | 5.00% | ~11,867 |
+| Sowwy! | 35.00% | ~83,076 |
+| Alt+F4 | 8.00% | ~18,989 |
+| Where's that freaking Dwarf? | 7.00% | ~16,615 |
+| Déjà vu | 6.00% | ~14,242 |
+| Sock! SOCK! | 5.00% | ~11,868 |
 | A beer, two curses, three companions | 4.00% | ~9,494 |
 | GG EZ | 4.00% | ~9,494 |
 | DM intervention | 4.00% | ~9,494 |
 | Speedrun | 4.00% | ~9,494 |
-| Livin' in a dwarven paradise | 3.00% | ~7,120 |
-| Way of the Wimp | 3.00% | ~7,120 |
-| The plot thickens... At the tavern | 3.00% | ~7,120 |
-| Fireproof Wizardess | 3.00% | ~7,120 |
+| Livin' in a dwarven paradise | 3.00% | ~7,121 |
+| Way of the Wimp | 3.00% | ~7,121 |
+| The plot thickens... At the tavern | 3.00% | ~7,121 |
+| Fireproof Wizardess | 3.00% | ~7,121 |
 | Shiny and Crôm | 2.00% | ~4,747 |
 | The demons' feast | 2.00% | ~4,747 |
 | The Great Library | 2.00% | ~4,747 |
@@ -37,16 +37,16 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,747 |
 | Team Building Exercise | 2.00% | ~4,747 |
 | Oh, when I'll be level 10... | 2.00% | ~4,747 |
-| Dwarf Fortress | 1.00% | ~2,373 |
-| %#*!$*! | 1.00% | ~2,373 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,373 |
-| Dead for good | 1.00% | ~2,373 |
-| Gargantua | 1.00% | ~2,373 |
-| Lust and Debauchery | 1.00% | ~2,373 |
-| Material Girl | 1.00% | ~2,373 |
+| Dwarf Fortress | 1.00% | ~2,374 |
+| %#*!$*! | 1.00% | ~2,374 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,374 |
+| Dead for good | 1.00% | ~2,374 |
+| Gargantua | 1.00% | ~2,374 |
+| Lust and Debauchery | 1.00% | ~2,374 |
+| Material Girl | 1.00% | ~2,374 |
 | In Navalu's footsteps | 0.90% | ~2,136 |
-| We come in peace | 0.70% | ~1,661 |
-| Lëgal Legend | 0.70% | ~1,661 |
+| We come in peace | 0.70% | ~1,662 |
+| Lëgal Legend | 0.70% | ~1,662 |
 | Holistic Adventuring Party | 0.60% | ~1,424 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,424 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,187 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,345 (Ranked 62)  
+Progressed: 237,360 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,14 +264,14 @@ Completed: 7 (0.00%) (Ranked 352)
 | 2023-11-13 | 237,012 | 7 |
 | 2023-11-14 | 237,170 | 7 |
 | 2023-11-15 | 237,338 | 7 |
-| 2023-11-16 | 237,345 | 7 |
+| 2023-11-16 | 237,360 | 7 |
 ## Awards
-Max (Character Customization): 229  (Ranked 272)  
-Sum: 460 (Ranked 331)  
+Max (Character Customization): 230  (Ranked 272)  
+Sum: 461 (Ranked 331)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 229 |
+| This game has Inclusive Character Customization | 230 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
@@ -460,3 +460,4 @@ Diff (max vs sum): -59
 | 2023-11-11 | 4.58 | - | 228 | 457 |
 | 2023-11-12 | 4.58 | - | 228 | 458 |
 | 2023-11-14 | 4.58 | - | 229 | 460 |
+| 2023-11-16 | 4.58 | - | 230 | 461 |

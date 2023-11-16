@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2012,7 +2012,7 @@
   ],
   "EOS_Progressed": 15339,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18228,9 +18228,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
       "SetID": "9201eeb",
       "Name": "Randomized Leaders",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
@@ -18492,9 +18492,9 @@
       "ID": "ACHIEVEMENT_EGYPT2_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Prosperous Kmt",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_PHARAOH_MAJOR_VICTORY",
@@ -18794,8 +18794,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:05:29.8730522+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:54:16.7153957+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:34.4784279+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:05:29.8739558+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:45:54.7217388+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:54:16.7163985+00:00"
 }

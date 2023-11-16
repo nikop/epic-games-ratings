@@ -39,7 +39,7 @@
 | Never Gets Old | 32.00% | ~224 |
 | Vertical Power | 29.00% | ~203 |
 | One From The Heart | 14.00% | ~98 |
-| Yummy | 11.00% | ~77 |
+| Yummy | 12.00% | ~84 |
 | Snowball Fightn't | 11.00% | ~77 |
 | It Was Him | 8.00% | ~56 |
 | Handy Yeti | 7.00% | ~49 |

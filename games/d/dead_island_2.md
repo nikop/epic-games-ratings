@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~890 |
-| Whatever It Takes | 2.00% | ~890 |
-| Pork Chopped | 2.00% | ~890 |
+| One of Us | 2.00% | ~891 |
+| Whatever It Takes | 2.00% | ~891 |
+| Pork Chopped | 2.00% | ~891 |
+| Hotel California | 1.00% | ~7,190 |
 | Welcome To Hell-A | 1.00% | ~7,190 |
 | Break A Leg | 0.90% | ~6,471 |
-| Hotel California | 0.90% | ~6,471 |
 | Git Gutte! | 0.80% | ~5,752 |
 | Coup de Grâce | 0.80% | ~5,752 |
 | Hazardous Materials | 0.80% | ~5,752 |
@@ -46,7 +46,7 @@ Rating: 4.54 (Ranked 523)
 | Smorgasbord | 0.30% | ~2,157 |
 | Internet Famous | 0.30% | ~2,157 |
 | Variety is the Spice of Death | 0.30% | ~2,157 |
-| Top That, Tisha! | 0.30% | ~133 |
+| Top That, Tisha! | 0.30% | ~134 |
 | LA Influential | 0.20% | ~1,438 |
 | Sole Survivor | 0.20% | ~1,438 |
 | Gore Horse | 0.20% | ~1,438 |
@@ -54,10 +54,10 @@ Rating: 4.54 (Ranked 523)
 | Donk! | 0.10% | ~719 |
 | Survival Skills | 0.10% | ~719 |
 | Bucket List | 0.10% | ~719 |
-| Lawn and Order | 0.10% | ~44 |
-| Wilhelm | 0.10% | ~44 |
+| Lawn and Order | 0.10% | ~45 |
+| Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,955 (Ranked 20)  
+Progressed: 718,985 (Ranked 20)  
 Completed: 2,393 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 2,393 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 718,955 | 2,393 |
+| 2023-11-16 | 718,985 | 2,393 |
 ## Awards
 Max (Great Boss Battles): 7,466  (Ranked 51)  
 Sum: 11,375 (Ranked 84)  

@@ -7063,9 +7063,9 @@
       "Count": 3782
     }
   ],
-  "EOS_Progressed": 139969,
+  "EOS_Progressed": 139974,
   "EOS_Completed": 186,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1169,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28548,6 +28548,11 @@
       "Time": "2023-11-16T00:03:03.3945131+00:00",
       "NumProgressed": 139969,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2023-11-16T01:51:31.1143203+00:00",
+      "NumProgressed": 139974,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 112,
@@ -28727,7 +28732,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6998
+      "UsersEstimate": 6999
     },
     {
       "ID": "chest02",
@@ -29375,7 +29380,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6998
+      "UsersEstimate": 6999
     },
     {
       "ID": "twinenchant01",
@@ -29413,9 +29418,9 @@
       "ID": "uncommonres03",
       "SetID": "anfd17p",
       "Name": "Economy of Scarce",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 980
     },
     {
       "ID": "workers01",
@@ -29454,15 +29459,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139969,
+      "Progressed": 139974,
       "Completed": 186
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-15T20:58:35.9578657+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:03:03.3945125+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:51:31.1143199+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:58:18.6143893+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:03:03.3947178+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:46:45.3863622+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:51:31.1145614+00:00"
 }

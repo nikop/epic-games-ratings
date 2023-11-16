@@ -437,10 +437,16 @@
       "Rating": 4.12,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-16T01:48:24.1991613+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
+  "NumberOfAwards": 81,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -466,12 +472,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 22
+      "Count": 23
     }
   ],
-  "EOS_Progressed": 2348,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7139,6 +7145,11 @@
       "Time": "2023-11-15T23:10:26.1384369+00:00",
       "NumProgressed": 2348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-16T01:56:39.1566798+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7334,7 +7345,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "fourleafclover",
@@ -7606,7 +7617,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "thealchemist",
@@ -7710,7 +7721,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "warmachinesarmy",
@@ -7742,23 +7753,23 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2348,
+      "Progressed": 2349,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-11-12T10:58:26.0075516+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:08:05.8775384+00:00",
+  "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:56:39.1566795+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:59:46.1293761+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:08:05.877637+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:48:24.1991616+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:56:39.1567715+00:00"
 }

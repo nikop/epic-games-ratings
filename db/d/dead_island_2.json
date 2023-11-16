@@ -6561,10 +6561,10 @@
       "Count": 466
     }
   ],
-  "EOS_Progressed": 718955,
+  "EOS_Progressed": 718985,
   "EOS_Completed": 2393,
-  "EOS_NewPlayers": 3744,
-  "EOS_NewCompleters": 34,
+  "EOS_NewPlayers": 3739,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30491,6 +30491,11 @@
       "Time": "2023-11-16T00:04:33.5823651+00:00",
       "NumProgressed": 718955,
       "NumCompleted": 2393
+    },
+    {
+      "Time": "2023-11-16T01:53:12.9800835+00:00",
+      "NumProgressed": 718985,
+      "NumCompleted": 2393
     }
   ],
   "TotalAchievements": 51,
@@ -30660,9 +30665,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6471
+      "UsersEstimate": 7190
     },
     {
       "ID": "ach_impressive_aim",
@@ -30862,7 +30867,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ach_dark_magic",
@@ -30870,7 +30875,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ach_gardening_tools",
@@ -30878,7 +30883,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_pork_chops",
@@ -30886,7 +30891,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30894,7 +30899,7 @@
       "Name": "Wilhelm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_zombie_predator",
@@ -30902,20 +30907,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718955,
+      "Progressed": 718985,
       "Completed": 2393
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44497,
+      "Progressed": 44527,
       "Completed": 36544
     }
   ],
@@ -30923,8 +30928,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-15T23:00:10.7296049+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:04:33.5823649+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:53:12.980083+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:49.0294799+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:04:33.5824817+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:46:11.2685911+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:53:12.9802346+00:00"
 }

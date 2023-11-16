@@ -3,11 +3,11 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 174,
-  "Ranking_Popularity": 442,
+  "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 747,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -854,18 +854,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 411,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-11-16T01:46:39.771137+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 426,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 411,
-  "NumberOfAwardsMax": 45,
+  "NumberOfAwards": 426,
+  "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 45
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -877,25 +883,25 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -907,25 +913,25 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Challenging Combat",
@@ -937,7 +943,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 30
     }
   ],
   "EOS_Progressed": 0,
@@ -951,8 +957,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-09-22T22:02:16.5831543+00:00",
+  "LastChanged": "2023-11-16T01:46:39.7711368+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:28.0428243+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:58:13.8267309+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:05:47.1342499+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:46:39.7711373+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:54:35.608858+00:00"
 }

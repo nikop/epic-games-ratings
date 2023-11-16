@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 3.00% | ~26,905 |
-| Gun Fu | 2.00% | ~17,936 |
+| Gun Fu | 2.00% | ~17,937 |
 | Relic Ruler | 1.00% | ~254 |
 | Full Body Conversion | 0.80% | ~7,175 |
 | True Soldier | 0.70% | ~6,278 |
@@ -27,6 +27,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.40% | ~3,587 |
 | I Am The Law | 0.40% | ~3,587 |
 | Christmas Tree Attack | 0.40% | ~3,587 |
+| The Fool | 0.40% | ~3,587 |
 | The High Priestess | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
 | Judy vs Night City | 0.40% | ~3,587 |
@@ -34,7 +35,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.40% | ~102 |
 | Easy Come, Easy Go | 0.40% | ~102 |
 | The Wandering Fool | 0.30% | ~2,690 |
-| The Fool | 0.30% | ~2,690 |
 | Two Heads, One Bullet | 0.30% | ~2,690 |
 | King of Wands | 0.30% | ~76 |
 | To Bad Decisions! | 0.20% | ~1,794 |
@@ -42,6 +42,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.20% | ~1,794 |
 | The Star | 0.20% | ~1,794 |
 | The Sun | 0.20% | ~1,794 |
+| The APB is Not Enough | 0.20% | ~51 |
 | Judgement Day | 0.20% | ~51 |
 | King of Pentacles | 0.20% | ~51 |
 | King of Swords | 0.20% | ~51 |
@@ -61,7 +62,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.10% | ~897 |
 | The Jungle | 0.10% | ~897 |
 | It's Elementary | 0.10% | ~897 |
-| The APB is Not Enough | 0.10% | ~25 |
 | King of Cups | 0.10% | ~25 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,823 (Ranked 15)  
+Progressed: 896,827 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2,778 (0.31%) (Ranked 229)
 | 2023-11-13 | 896,596 | 2,776 |
 | 2023-11-14 | 896,716 | 2,778 |
 | 2023-11-15 | 896,820 | 2,778 |
-| 2023-11-16 | 896,823 | 2,778 |
+| 2023-11-16 | 896,827 | 2,778 |
 ## Awards
 Max (Character Customization): 105,592  (Ranked 9)  
 Sum: 353,529 (Ranked 10)  

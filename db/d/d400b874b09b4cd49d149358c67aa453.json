@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -1838,9 +1838,9 @@
       "ID": "ACH_START_CAR",
       "SetID": "al4k4nh",
       "Name": "That\u2019s not very ecological",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_UNSCREW",
@@ -1869,8 +1869,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:08:07.3580295+00:00",
-  "LastUpdate_AppInfo": "2023-11-09T01:41:41.0318246+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:59:52.3426344+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:08:07.358061+00:00"
+  "LastChanged_Achievements": "2023-11-16T01:56:40.6710392+00:00",
+  "LastUpdate_AppInfo": "2023-11-16T01:45:09.1783707+00:00",
+  "LastUpdate_Ratings": "2023-11-16T01:48:31.3584363+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:56:40.6710604+00:00"
 }

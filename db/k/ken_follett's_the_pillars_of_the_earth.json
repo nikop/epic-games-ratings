@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16426,
+  "EOS_Progressed": 16427,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
@@ -14203,6 +14203,11 @@
       "Time": "2023-11-15T22:02:57.8559277+00:00",
       "NumProgressed": 16426,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-16T01:51:11.0818191+00:00",
+      "NumProgressed": 16427,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14278,7 +14283,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "tpote_achievement_18",
@@ -14358,7 +14363,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "tpote_achievement_27",
@@ -14390,7 +14395,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "tpote_achievement_30",
@@ -14478,7 +14483,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6570
+      "UsersEstimate": 6571
     },
     {
       "ID": "tpote_achievement_40",
@@ -14526,7 +14531,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "tpote_achievement_9",
@@ -14541,15 +14546,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16426,
+      "Progressed": 16427,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:02:45.4106631+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:51:11.0818187+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.2386539+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:59:01.6609518+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:02:45.4107472+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:47:34.0979675+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:51:11.0819165+00:00"
 }

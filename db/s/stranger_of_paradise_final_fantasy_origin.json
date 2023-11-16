@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -1753,10 +1753,10 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79942,
-  "EOS_Completed": 2189,
+  "EOS_Progressed": 79943,
+  "EOS_Completed": 2190,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 0,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
@@ -9598,6 +9598,11 @@
       "Time": "2023-11-15T16:06:51.2650287+00:00",
       "NumProgressed": 79942,
       "NumCompleted": 2189
+    },
+    {
+      "Time": "2023-11-16T01:54:47.8323587+00:00",
+      "NumProgressed": 79943,
+      "NumCompleted": 2190
     }
   ],
   "TotalAchievements": 46,
@@ -9617,7 +9622,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65552
+      "UsersEstimate": 65553
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -9625,7 +9630,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 59157
+      "UsersEstimate": 59158
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -9641,7 +9646,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50363
+      "UsersEstimate": 50364
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -9649,7 +9654,7 @@
       "Name": "A Landscape of Memory",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46367
     },
     {
       "ID": "006_TROPHY_MISSION_WIND_MEMORIES",
@@ -9729,7 +9734,7 @@
       "Name": "Led by the Nose",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 27180
+      "UsersEstimate": 27181
     },
     {
       "ID": "016_TROPHY_MISSION_FRAUGHT_JOURNEY",
@@ -9745,7 +9750,7 @@
       "Name": "Origin of True Chaos",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 15988
+      "UsersEstimate": 15989
     },
     {
       "ID": "018_TROPHY_CLEAR_LEVEL200_ON_CHAOS",
@@ -9777,7 +9782,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77544
+      "UsersEstimate": 77545
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -9793,7 +9798,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68750
+      "UsersEstimate": 68751
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -9801,7 +9806,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 62355
+      "UsersEstimate": 62356
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -9809,7 +9814,7 @@
       "Name": "Seeker of Power",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 67951
+      "UsersEstimate": 67952
     },
     {
       "ID": "026_TROPHY_FIRST_ANIMA_CRYSTAL",
@@ -9857,7 +9862,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 49564
+      "UsersEstimate": 49565
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -9881,7 +9886,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 56759
+      "UsersEstimate": 56760
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -9921,7 +9926,7 @@
       "Name": "Path of the Assassin",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25581
+      "UsersEstimate": 25582
     },
     {
       "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
@@ -9945,7 +9950,7 @@
       "Name": "Path of the Void Knight",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 27180
+      "UsersEstimate": 27181
     },
     {
       "ID": "043_TROPHY_UNLOCKED_TYRANT",
@@ -9976,15 +9981,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79942,
-      "Completed": 2189
+      "Progressed": 79943,
+      "Completed": 2190
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-11-12T03:56:57.2826882+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:05:58.5133909+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:54:47.8323583+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:37.7284732+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:58:42.101238+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:05:58.5134647+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:47:12.0589943+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:54:47.8324274+00:00"
 }

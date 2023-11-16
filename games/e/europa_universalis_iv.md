@@ -8,6 +8,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Decent Reserve | 0.10% | ~456 |
 | A Hero’s Welcome | 0.10% | ~456 |
+| A Manchurian Candidate | 0.10% | ~456 |
 | A Pile of Gold | 0.10% | ~456 |
 | A Protected Market | 0.10% | ~456 |
 | A tale of two Families | 0.10% | ~456 |
@@ -78,6 +79,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Lazarus | 0.10% | ~456 |
 | Liberty or Death | 0.10% | ~456 |
 | Live Long and Prosper | 0.10% | ~456 |
+| Magellan’s Voyage | 0.10% | ~456 |
 | Market Control | 0.10% | ~456 |
 | Marshy March | 0.10% | ~456 |
 | Multiculturalism | 0.10% | ~456 |
@@ -104,6 +106,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sleepless in Seattle | 0.10% | ~456 |
 | Spain is the Emperor | 0.10% | ~456 |
 | Spice Girls | 0.10% | ~456 |
+| The Spice Must Flow | 0.10% | ~456 |
 | Strait Talk | 0.10% | ~456 |
 | Subsidize my Love | 0.10% | ~456 |
 | Tear Down This Wall | 0.10% | ~456 |
@@ -147,7 +150,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
-| A Manchurian Candidate | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
@@ -255,7 +257,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
-| Magellan’s Voyage | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mare Nostrum | 0.00% | ~0 |
@@ -309,7 +310,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sons of Carthage | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Spanish Fly | 0.00% | ~0 |
-| The Spice Must Flow | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,452 (Ranked 41)  
+Progressed: 456,480 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,7 +580,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,452 | 1 |
+| 2023-11-16 | 456,480 | 1 |
 ## Awards
 Max (Educational): 7,013  (Ranked 54)  
 Sum: 57,716 (Ranked 24)  

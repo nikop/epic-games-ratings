@@ -4,7 +4,7 @@
   "ProductSlug": "the-outbound-ghost-113ccc",
   "Ranking_EOS_Progress": 747,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-20T16:00:00+00:00",
@@ -300,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:15.4326938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.5003214+00:00",
   "LastChanged": "2023-03-31T05:58:15.4326939+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:07:47.708209+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:56:17.9313431+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:12.2152284+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:04.0293831+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:07:47.7082255+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:45:19.5235765+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:56:17.9313577+00:00"
 }

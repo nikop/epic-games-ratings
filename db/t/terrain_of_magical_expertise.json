@@ -4,7 +4,7 @@
   "ProductSlug": "terrain-of-magical-expertise",
   "Ranking_EOS_Progress": 747,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-09T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.5750741+00:00",
   "LastChanged": "2023-03-31T05:57:54.5750743+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:39.2122505+00:00",
-  "LastUpdate_Ratings": "2023-11-16T00:02:33.0081113+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:05:50.0823492+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:50:55.0384066+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:54:38.916279+00:00"
 }

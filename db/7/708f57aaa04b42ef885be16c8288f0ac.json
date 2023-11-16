@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -105,7 +105,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5332,
+  "EOS_Progressed": 5335,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 1,
@@ -3360,6 +3360,11 @@
       "Time": "2023-11-16T00:08:27.4794581+00:00",
       "NumProgressed": 5332,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-16T01:57:03.2359569+00:00",
+      "NumProgressed": 5335,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3380,7 +3385,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "BeLikeWater",
@@ -3412,7 +3417,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Eavesdropper",
@@ -3643,7 +3648,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5332,
+      "Progressed": 5335,
       "Completed": 6
     }
   ],
@@ -3651,8 +3656,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:08:27.479458+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:57:03.2359567+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:59:03.9254982+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:08:27.4795023+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:47:36.525984+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:57:03.2360108+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 701,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -1483,9 +1483,9 @@
       "ID": "EV_ACH23",
       "SetID": "6jeac23",
       "Name": "Yummy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 84
     },
     {
       "ID": "EV_ACH24",
@@ -1666,8 +1666,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:08:46.6311591+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:57:25.3527897+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:57:04.1306582+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:08:46.6311862+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:45:19.6587672+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:57:25.352823+00:00"
 }

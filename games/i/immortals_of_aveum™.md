@@ -37,7 +37,7 @@ Rating: 4.06 (Ranked 975)
 | Scholar | 5.00% | ~14 |
 | Kitted Out | 4.00% | ~11 |
 | Armaments Vert | 4.00% | ~11 |
-| Veteran | 3.00% | ~8 |
+| Veteran | 4.00% | ~11 |
 | Master of Carmine | 2.00% | ~6 |
 | Shroudfane Surveyor | 2.00% | ~6 |
 | Backtracker | 2.00% | ~6 |

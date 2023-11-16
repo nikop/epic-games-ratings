@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1831,
+  "EOS_Progressed": 1833,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6876,6 +6876,11 @@
       "Time": "2023-11-15T19:03:37.9216067+00:00",
       "NumProgressed": 1831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T01:51:27.0905624+00:00",
+      "NumProgressed": 1833,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6903,7 +6908,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6951,7 +6956,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -7023,7 +7028,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -7093,9 +7098,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7125,9 +7130,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7135,7 +7140,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -7190,7 +7195,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1831,
+      "Progressed": 1833,
       "Completed": 1
     }
   ],
@@ -7198,8 +7203,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-15T21:00:03.3726924+00:00",
-  "LastChanged_Achievements": "2023-11-16T00:03:00.0687931+00:00",
+  "LastChanged_Achievements": "2023-11-16T01:51:27.090562+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-15T23:59:43.458114+00:00",
-  "LastUpdate_Achievements": "2023-11-16T00:03:00.0688674+00:00"
+  "LastUpdate_Ratings": "2023-11-16T01:48:21.0928067+00:00",
+  "LastUpdate_Achievements": "2023-11-16T01:51:27.0906163+00:00"
 }
