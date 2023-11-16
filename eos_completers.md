@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.01% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 34.00% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -33,24 +33,24 @@
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
-| 34 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
-| 34 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
-| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
-| 37 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.88% |
-| 38 | [Smelter](games/s/smelter.md) | 9.76% |
-| 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 40 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
-| 40 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
-| 40 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
-| 40 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
-| 45 | [Anna's Quest](games/a/anna's_quest.md) | 8.82% |
-| 46 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
-| 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
-| 49 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 49 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 7.69% |
-| 49 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 34 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 10.26% |
+| 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
+| 35 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
+| 35 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
+| 38 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.83% |
+| 39 | [Smelter](games/s/smelter.md) | 9.76% |
+| 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
+| 41 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
+| 41 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
+| 41 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
+| 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
+| 46 | [Anna's Quest](games/a/anna's_quest.md) | 8.82% |
+| 47 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
+| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
+| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 50 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 50 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
 | 53 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
 | 54 | [Sonic Origins](games/s/sonic_origins.md) | 7.49% |
@@ -80,7 +80,7 @@
 | 78 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49% |
 | 79 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.37% |
 | 80 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
+| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.19% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 83 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
@@ -156,10 +156,10 @@
 | 154 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.12% |
 | 155 | [Adios](games/a/adios.md) | 1.07% |
 | 156 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
+| 157 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.05% |
 | 157 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
-| 158 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.04% |
-| 158 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
-| 158 | [Infindustry](games/i/infindustry.md) | 1.04% |
+| 159 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 159 | [Infindustry](games/i/infindustry.md) | 1.04% |
 | 161 | [Sable](games/s/sable.md) | 1.01% |
 | 162 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
 | 163 | [Trifox](games/t/trifox.md) | 0.96% |
