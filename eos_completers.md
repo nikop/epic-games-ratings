@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.83% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.80% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -31,7 +31,7 @@
 | 29 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.04% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
 | 31 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.41% |
-| 32 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 11.90% |
+| 32 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 11.63% |
 | 33 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 34 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 35 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
@@ -39,8 +39,8 @@
 | 36 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 39 | [Smelter](games/s/smelter.md) | 9.76% |
-| 40 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.40% |
-| 41 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
+| 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
+| 41 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 9.36% |
 | 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.09% |
 | 42 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 42 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
@@ -49,7 +49,7 @@
 | 47 | [Anna's Quest](games/a/anna's_quest.md) | 8.70% |
 | 48 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
-| 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
 | 53 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
@@ -82,7 +82,7 @@
 | 79 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.35% |
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
+| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
 | 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.90% |
 | 85 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 86 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
@@ -115,8 +115,8 @@
 | 113 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.59% |
 | 114 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 115 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 116 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.43% |
-| 117 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 116 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 116 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.42% |
 | 118 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 120 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
@@ -746,4 +746,4 @@
 | 352 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 352 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 352 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,566 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,567 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
