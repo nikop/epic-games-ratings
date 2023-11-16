@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 70.00% | ~770 |
+| Leap Before You Look | 70.00% | ~771 |
 | Getting the Hang of It | 42.00% | ~462 |
 | Hoarder | 32.00% | ~352 |
 | Blobmeister | 27.00% | ~297 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100 (Ranked 254)  
+Progressed: 1,101 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-13 | 1,090 | 0 |
 | 2023-11-14 | 1,094 | 0 |
 | 2023-11-15 | 1,098 | 0 |
-| 2023-11-16 | 1,100 | 0 |
+| 2023-11-16 | 1,101 | 0 |

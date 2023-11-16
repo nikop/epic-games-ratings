@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Blessed Nation | 0.10% | ~457 |
 | A Decent Reserve | 0.10% | ~457 |
 | A Hero’s Welcome | 0.10% | ~457 |
 | A Manchurian Candidate | 0.10% | ~457 |
@@ -163,7 +164,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~457 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
-| A Blessed Nation | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456,879 (Ranked 41)  
+Progressed: 456,916 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -580,10 +580,10 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 455,066 | 1 |
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
-| 2023-11-16 | 456,879 | 1 |
+| 2023-11-16 | 456,916 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
-Sum: 57,820 (Ranked 24)  
+Sum: 57,833 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -595,7 +595,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 6,461 |
 | This game has Competitive Players | 6,309 |
 | This game has Amazing Storytelling | 5,842 |
-| This game has Amazing Characters | 5,414 |
+| This game has Amazing Characters | 5,427 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -903,4 +903,4 @@ Diff (max vs sum): 30
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
-| 2023-11-16 | 4.69 | - | 7,026 | 57,820 |
+| 2023-11-16 | 4.69 | - | 7,026 | 57,833 |

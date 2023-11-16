@@ -33,13 +33,13 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~184 |
 | Squad goals | 6.00% | ~184 |
 | Sup widdit big dog! | 6.00% | ~184 |
+| Cops called! | 5.00% | ~154 |
 | Lines for days | 5.00% | ~154 |
 | Manny Destroys All | 5.00% | ~154 |
 | Renaissance man | 5.00% | ~154 |
 | Tank commander | 5.00% | ~154 |
 | Trick shot marksman | 5.00% | ~154 |
 | We get it, you're good | 5.00% | ~154 |
-| Cops called! | 4.00% | ~123 |
 | G.O.A.T. status | 4.00% | ~123 |
 | Hoarder | 4.00% | ~123 |
 | Pew-Pew | 4.00% | ~123 |

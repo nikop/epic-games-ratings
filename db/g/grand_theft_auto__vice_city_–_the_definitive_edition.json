@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 523,
-  "Ranking_Popularity": 351,
+  "Ranking_Rating": 522,
+  "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -839,21 +839,27 @@
       "Rating": 4.54,
       "NumberOfAwards": 105,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-11-16T18:57:40.8979648+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 106,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 105,
-  "NumberOfAwardsMax": 105,
+  "NumberOfAwards": 106,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 105
+      "Count": 106
     }
   ],
-  "EOS_Progressed": 11021,
+  "EOS_Progressed": 11022,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
@@ -12923,6 +12929,11 @@
       "Time": "2023-11-16T16:08:35.3262751+00:00",
       "NumProgressed": 11021,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-16T19:08:15.7260812+00:00",
+      "NumProgressed": 11022,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13006,7 +13017,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ACH11",
@@ -13102,7 +13113,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "ACH23",
@@ -13110,7 +13121,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ACH24",
@@ -13134,7 +13145,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "ACH27",
@@ -13150,7 +13161,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ACH29",
@@ -13205,16 +13216,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11021,
+      "Progressed": 11022,
       "Completed": 65
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-11-16T08:57:12.374317+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:07:59.3645624+00:00",
+  "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
+  "LastChanged_Achievements": "2023-11-16T19:08:15.7260807+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:57:11.398568+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:07:59.3646513+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:57:40.8979651+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:08:15.7262338+00:00"
 }

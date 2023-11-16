@@ -1,23 +1,23 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~5,070 |
 | Greasy Palms | 42.00% | ~4,629 |
-| South American Connection | 26.00% | ~2,865 |
-| Life of the Party | 21.00% | ~2,314 |
-| Tommy Two-Wheels | 16.00% | ~1,763 |
+| South American Connection | 26.00% | ~2,866 |
+| Life of the Party | 21.00% | ~2,315 |
+| Tommy Two-Wheels | 16.00% | ~1,764 |
 | Big Heat from Little Havana | 15.00% | ~1,653 |
 | Chauffeur | 15.00% | ~1,653 |
 | Salutations My Little Friend | 11.00% | ~1,212 |
 | Iron-y | 10.00% | ~1,102 |
 | Gun for Hire | 9.00% | ~992 |
 | Mischief Managed | 9.00% | ~992 |
-| Vice City Mogul | 7.00% | ~771 |
-| Bloodstained Hands | 7.00% | ~771 |
+| Vice City Mogul | 7.00% | ~772 |
+| Bloodstained Hands | 7.00% | ~772 |
 | Catch Me if You Can | 6.00% | ~661 |
 | Not my First Time | 5.00% | ~551 |
 | Grand Theft Auto | 5.00% | ~551 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 523)
 | Done it All | 1.00% | ~110 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,021 (Ranked 156)  
+Progressed: 11,022 (Ranked 156)  
 Completed: 65 (0.59%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,14 +250,14 @@ Completed: 65 (0.59%) (Ranked 184)
 | 2023-11-13 | 11,010 | 65 |
 | 2023-11-14 | 11,016 | 65 |
 | 2023-11-15 | 11,020 | 65 |
-| 2023-11-16 | 11,021 | 65 |
+| 2023-11-16 | 11,022 | 65 |
 ## Awards
-Max (Great Boss Battles): 105  (Ranked 351)  
-Sum: 105 (Ranked 439)  
-Diff (max vs sum): -88  
+Max (Great Boss Battles): 106  (Ranked 350)  
+Sum: 106 (Ranked 439)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 105 |
+| This game has Great Boss Battles | 106 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -394,4 +394,4 @@ Diff (max vs sum): -88
 | 2023-11-09 | 4.53 | 103 | 103 |
 | 2023-11-14 | 4.53 | 104 | 104 |
 | 2023-11-15 | 4.53 | 105 | 105 |
-| 2023-11-16 | 4.54 | 105 | 105 |
+| 2023-11-16 | 4.54 | 106 | 106 |

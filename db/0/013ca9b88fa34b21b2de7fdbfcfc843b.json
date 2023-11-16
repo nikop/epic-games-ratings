@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7808,
+  "EOS_Progressed": 7809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6851,6 +6851,11 @@
       "Time": "2023-11-16T18:09:02.8280161+00:00",
       "NumProgressed": 7808,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-16T19:09:11.8493392+00:00",
+      "NumProgressed": 7809,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6863,7 +6868,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5700
+      "UsersEstimate": 5701
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6959,7 +6964,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6999,7 +7004,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7007,7 +7012,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -7087,7 +7092,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -7095,7 +7100,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -7142,22 +7147,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7808,
+      "Progressed": 7809,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 425,
-      "Completed": 425
+      "Progressed": 426,
+      "Completed": 426
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:09:02.8280158+00:00",
+  "LastChanged_Achievements": "2023-11-16T19:09:11.8493388+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-16T18:02:47.7657692+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:09:02.8280647+00:00"
+  "LastUpdate_Ratings": "2023-11-16T19:02:59.5976934+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:09:11.8494194+00:00"
 }

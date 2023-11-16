@@ -1,16 +1,16 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.59 (Ranked 430)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taste | 5.00% | ~7,926 |
 | Imprint | 5.00% | ~7,926 |
-| The Hunt | 4.00% | ~6,340 |
-| Ravenous | 4.00% | ~6,340 |
-| Weeper | 3.00% | ~4,755 |
+| The Hunt | 4.00% | ~6,341 |
+| Ravenous | 4.00% | ~6,341 |
+| Weeper | 3.00% | ~4,756 |
 | Harmless | 2.00% | ~3,170 |
 | Silenced Whispers | 2.00% | ~3,170 |
 | Devourer | 2.00% | ~3,170 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,511 (Ranked 76)  
+Progressed: 158,518 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-13 | 158,135 | 1 |
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
-| 2023-11-16 | 158,511 | 1 |
+| 2023-11-16 | 158,518 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 427)  
-Sum: 365 (Ranked 349)  
+Sum: 366 (Ranked 349)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 78
 | This game is Extremely Fun | 47 |
 | This game has Challenging Combat | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game has Amazing Characters | 38 |
+| This game has Amazing Characters | 39 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -400,3 +400,4 @@ Diff (max vs sum): 78
 | 2023-11-13 | 4.58 | - | 51 | 363 |
 | 2023-11-14 | 4.59 | - | 51 | 364 |
 | 2023-11-15 | 4.58 | - | 51 | 365 |
+| 2023-11-16 | 4.59 | - | 51 | 366 |

@@ -2,8 +2,8 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
-  "Ranking_Popularity": 51,
+  "Ranking_Rating": 522,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 224,
@@ -6585,9 +6585,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719265,
-  "EOS_Completed": 2397,
-  "EOS_NewPlayers": 3728,
+  "EOS_Progressed": 719291,
+  "EOS_Completed": 2398,
+  "EOS_NewPlayers": 3717,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30605,6 +30605,11 @@
       "Time": "2023-11-16T18:05:31.1436214+00:00",
       "NumProgressed": 719265,
       "NumCompleted": 2397
+    },
+    {
+      "Time": "2023-11-16T19:05:28.174969+00:00",
+      "NumProgressed": 719291,
+      "NumCompleted": 2398
     }
   ],
   "TotalAchievements": 51,
@@ -30680,7 +30685,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6473
+      "UsersEstimate": 6474
     },
     {
       "ID": "ach_contender",
@@ -30976,7 +30981,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ach_dark_magic",
@@ -30984,7 +30989,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ach_gardening_tools",
@@ -31000,7 +31005,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31023,22 +31028,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719265,
-      "Completed": 2397
+      "Progressed": 719291,
+      "Completed": 2398
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44807,
-      "Completed": 36546
+      "Progressed": 44833,
+      "Completed": 36547
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-16T16:58:25.1929187+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:05:31.1436206+00:00",
+  "LastChanged_Achievements": "2023-11-16T19:05:28.1749686+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:58:23.8524516+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:05:31.1437884+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:58:44.8497763+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:05:28.175204+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-11-13T23:02:56.1071313+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-16T19:04:23.9738029+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -82,7 +87,7 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 145,
       "UsersEstimate": 3
     },
@@ -92,13 +97,13 @@
       "Name": "Blabber",
       "Percentage": 100,
       "XP": 145,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach3",
       "SetID": "796kfpa",
       "Name": "Blue Bean",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 145,
       "UsersEstimate": 2
     },
@@ -106,7 +111,7 @@
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 140,
       "UsersEstimate": 3
     },
@@ -114,7 +119,7 @@
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 140,
       "UsersEstimate": 2
     },
@@ -122,7 +127,7 @@
       "ID": "ach6",
       "SetID": "796kfpa",
       "Name": "Creature Maker",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 140,
       "UsersEstimate": 2
     },
@@ -130,7 +135,7 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 145,
       "UsersEstimate": 2
     }
@@ -139,13 +144,13 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:04:19.8139719+00:00",
+  "LastChanged_Achievements": "2023-11-16T19:04:23.9738025+00:00",
   "LastUpdate_AppInfo": "2023-11-15T16:57:23.7235053+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:58:13.7862572+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:04:19.813979+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:58:35.6276368+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:04:23.9738099+00:00"
 }

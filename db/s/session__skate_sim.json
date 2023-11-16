@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -5785,9 +5785,9 @@
       "ID": "ACH_COPS-CALLED",
       "SetID": "72olkc5",
       "Name": "Cops called!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -6145,8 +6145,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-14T23:59:21.0037965+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:04:46.0637367+00:00",
+  "LastChanged_Achievements": "2023-11-16T19:04:47.8715985+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:27.8412507+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:59:24.5328638+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:04:46.0637874+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:59:38.701618+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:04:47.8716413+00:00"
 }

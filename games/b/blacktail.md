@@ -16,13 +16,13 @@ Rating: 4.68 (Ranked 252)
 | Gold rush | 7.00% | ~53 |
 | Liar Liar | 6.00% | ~45 |
 | A friend in need... | 6.00% | ~45 |
+| Extensive retelling | 5.00% | ~38 |
 | Sneak peek | 5.00% | ~38 |
 | Fishing fanatic | 5.00% | ~38 |
 | The word around is... | 5.00% | ~38 |
 | The cycle acknowledged | 5.00% | ~38 |
 | Queen | 5.00% | ~38 |
 | Baba Yaga | 5.00% | ~38 |
-| Extensive retelling | 4.00% | ~30 |
 | Favorite | 4.00% | ~30 |
 | Goal! | 3.00% | ~23 |
 | Both sides | 3.00% | ~23 |

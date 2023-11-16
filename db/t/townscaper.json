@@ -2,7 +2,7 @@
   "ID": "fabd66e7d1764eec954cc99172bd13d8",
   "Name": "Townscaper",
   "ProductSlug": "townscaper",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 186,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 748,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.72,
   "NumberOfRatings": 41,
   "RatingHistory": [
     {
@@ -194,6 +194,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-16T18:59:51.3654308+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -211,8 +217,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.2258639+00:00",
-  "LastChanged": "2023-11-07T18:59:40.5077668+00:00",
+  "LastChanged": "2023-11-16T18:59:51.3654305+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:10.0152958+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:59:38.9403019+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:09:05.7994647+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:59:51.3654314+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:09:14.4087633+00:00"
 }

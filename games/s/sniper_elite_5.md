@@ -5,15 +5,15 @@ Rating: 4.45 (Ranked 657)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,781 |
+| Meeting Resistance | 46.00% | ~1,782 |
 | Confirming Suspicions | 41.00% | ~1,588 |
 | The Kraken Wakes | 37.00% | ~1,433 |
-| It's Starting to Crack | 34.00% | ~1,316 |
-| Change the Channel | 31.00% | ~1,200 |
+| It's Starting to Crack | 34.00% | ~1,317 |
+| Change the Channel | 31.00% | ~1,201 |
 | Lord of War | 30.00% | ~1,162 |
 | Taking it back | 29.00% | ~1,123 |
-| Resourceful | 27.00% | ~1,045 |
-| Target America | 27.00% | ~1,045 |
+| Resourceful | 27.00% | ~1,046 |
+| Target America | 27.00% | ~1,046 |
 | The Kraken Sleeps | 25.00% | ~968 |
 | Liberté | 23.00% | ~891 |
 | Organ Grinder | 23.00% | ~891 |
@@ -21,9 +21,9 @@ Rating: 4.45 (Ranked 657)
 | Sharpshooter | 22.00% | ~852 |
 | Gunslinger | 19.00% | ~736 |
 | Explosive Efficiency | 19.00% | ~736 |
-| Climbing the Ladder | 17.00% | ~658 |
 | Just a Flesh Wound | 17.00% | ~658 |
 | Der Geist | 17.00% | ~658 |
+| Climbing the Ladder | 16.00% | ~620 |
 | Close Quarters | 16.00% | ~620 |
 | Snake in the Grass | 16.00% | ~620 |
 | Skirmisher | 15.00% | ~581 |
@@ -36,7 +36,7 @@ Rating: 4.45 (Ranked 657)
 | Set Europe Ablaze | 13.00% | ~503 |
 | Precision Is Key | 10.00% | ~387 |
 | My Little Friend | 10.00% | ~387 |
-| Rigged to Blow | 9.00% | ~348 |
+| Rigged to Blow | 9.00% | ~349 |
 | Herr Today, Gone Tomorrow | 7.00% | ~268 |
 | Operation Foxley | 6.00% | ~229 |
 | The Long Game | 5.00% | ~194 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 657)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,872 (Ranked 195)  
-Completed: 11 (0.28%) (Ranked 237)  
+Progressed: 3,873 (Ranked 195)  
+Completed: 11 (0.28%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,7 +285,7 @@ Completed: 11 (0.28%) (Ranked 237)
 | 2023-11-13 | 3,862 | 11 |
 | 2023-11-14 | 3,864 | 11 |
 | 2023-11-15 | 3,867 | 11 |
-| 2023-11-16 | 3,872 | 11 |
+| 2023-11-16 | 3,873 | 11 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 519)  
 Sum: 24 (Ranked 524)  

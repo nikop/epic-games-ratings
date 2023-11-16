@@ -15272,9 +15272,9 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896916,
+  "EOS_Progressed": 896923,
   "EOS_Completed": 2781,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39102,6 +39102,11 @@
       "Time": "2023-11-16T18:06:43.5580301+00:00",
       "NumProgressed": 896916,
       "NumCompleted": 2781
+    },
+    {
+      "Time": "2023-11-16T19:06:32.6160215+00:00",
+      "NumProgressed": 896923,
+      "NumCompleted": 2781
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39232,9 +39237,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 4485
     },
     {
       "ID": "MaxPain",
@@ -39290,7 +39295,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5382
     },
     {
       "ID": "Specialist",
@@ -39442,7 +39447,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26907
+      "UsersEstimate": 26908
     },
     {
       "ID": "YipMan",
@@ -39649,21 +39654,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896916,
+      "Progressed": 896923,
       "Completed": 2781
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25539,
+      "Progressed": 25546,
       "Completed": 10226
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-16T17:57:32.664235+00:00",
-  "LastChanged_Achievements": "2023-11-16T18:06:43.5580296+00:00",
+  "LastChanged_Achievements": "2023-11-16T19:06:32.6160212+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-16T17:57:32.6642359+00:00",
-  "LastUpdate_Achievements": "2023-11-16T18:06:43.5581875+00:00"
+  "LastUpdate_Ratings": "2023-11-16T18:57:59.7497633+00:00",
+  "LastUpdate_Achievements": "2023-11-16T19:06:32.6161659+00:00"
 }

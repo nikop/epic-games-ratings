@@ -8,39 +8,39 @@
 | Thalya – Simply Immortal | 86.00% | ~243 |
 | For the Horde! | 81.00% | ~229 |
 | Hammer Time, Round Two | 80.00% | ~226 |
-| The Hellwoods | 73.00% | ~207 |
+| The Hellwoods | 74.00% | ~209 |
+| The Plains of Strothalm | 67.00% | ~190 |
 | Thalya's Concentrated Fury | 66.00% | ~187 |
-| The Plains of Strothalm | 66.00% | ~187 |
 | Experienced Thalya | 65.00% | ~184 |
 | Master of Magic | 62.00% | ~175 |
-| Bad Elves Go Everywhere | 59.00% | ~167 |
-| Magic Accidents | 55.00% | ~156 |
+| Bad Elves Go Everywhere | 60.00% | ~170 |
+| Magic Accidents | 56.00% | ~158 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~156 |
-| Minions, Minions! | 52.00% | ~147 |
-| Heroes’ Gorge | 52.00% | ~147 |
+| Minions, Minions! | 53.00% | ~150 |
+| Heroes’ Gorge | 53.00% | ~150 |
 | Trap Master | 51.00% | ~144 |
 | The Ascent | 41.00% | ~116 |
 | It's Warm and Cozy at Home | 41.00% | ~116 |
-| YOU SHALL NOT PASS! | 38.00% | ~108 |
+| YOU SHALL NOT PASS! | 39.00% | ~110 |
+| The Big Eaty | 37.00% | ~105 |
 | Hard Work | 36.00% | ~102 |
-| The Big Eaty | 36.00% | ~102 |
 | Pure Dynamite! | 35.00% | ~99 |
 | Mana Cannon | 29.00% | ~82 |
 | “… like son” | 28.00% | ~79 |
 | Dungeonlord Gorgu | 23.00% | ~65 |
 | The Cathedral of Light | 22.00% | ~62 |
 | Shame! Shame! Shame! | 22.00% | ~62 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 19.00% | ~54 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
+| Tanos' Crusade Against Thalya | 18.00% | ~51 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
-| Tanos' Crusade Against Thalya | 17.00% | ~48 |
 | Unstoppable Horde | 15.00% | ~42 |
 | Master of the Undead | 14.00% | ~40 |
+| All’s Well That Ends Evil | 14.00% | ~40 |
 | Forbidden Knowledge | 13.00% | ~37 |
-| All’s Well That Ends Evil | 13.00% | ~37 |
+| Sacrificial Pit = Garbage Disposal? | 12.00% | ~34 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
-| Sacrificial Pit = Garbage Disposal? | 11.00% | ~31 |
-| Stop Tanos! | 10.00% | ~28 |
-| The Duel | 10.00% | ~28 |
+| Stop Tanos! | 11.00% | ~31 |
+| The Duel | 11.00% | ~31 |
 | If Looks Could Kill | 9.00% | ~25 |
 | The Finitude Drill | 7.00% | ~20 |
 | My Little Torture Chamber | 6.00% | ~17 |
@@ -56,10 +56,10 @@
 | To Infinity And Beyond! | 4.00% | ~11 |
 | The Rune Sockets of Finitude (Part 2) | 4.00% | ~11 |
 | Gorgu is in the Best of Health | 3.00% | ~8 |
+| Untouchable | 3.00% | ~8 |
 | Lavalumps on Ice! | 3.00% | ~8 |
 | To the Max! | 3.00% | ~8 |
 | The Last Stand - This Time For Real! | 3.00% | ~8 |
-| Untouchable | 2.00% | ~6 |
 | Evilification | 2.00% | ~6 |
 | No Mana, No Cry | 1.00% | ~3 |
 | Heal Heal Blessing | 1.00% | ~3 |

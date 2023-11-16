@@ -29,6 +29,7 @@
 | Berkanan Borgia | 9.00% | ~3 |
 | Stronger than Gellian steel | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
+| Punish the Punisher | 9.00% | ~3 |
 | The End | 9.00% | ~3 |
 | Nothing is settled | 9.00% | ~3 |
 | The best apprentice | 6.00% | ~2 |
@@ -36,7 +37,6 @@
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
-| Punish the Punisher | 6.00% | ~2 |
 | Cunning plan | 6.00% | ~2 |
 | All's fair in love and war | 6.00% | ~2 |
 | Defeat the bear | 3.00% | ~1 |

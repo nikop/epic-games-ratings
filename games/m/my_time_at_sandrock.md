@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 254.00% | ~864 |
+| Adept Assembler | 255.00% | ~867 |
 | Iron Chef | 184.00% | ~626 |
 | Greeno-B-Gone | 124.00% | ~422 |
 | Your Especially Earned Trajectory | 96.00% | ~326 |
@@ -15,14 +15,14 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 65.00% | ~221 |
 | Yakmel Whisperer | 64.00% | ~218 |
 | One of the Cool Kids | 63.00% | ~214 |
-| Diamonds are Forever | 60.00% | ~204 |
+| Diamonds are Forever | 61.00% | ~207 |
 | Pack Mule | 58.00% | ~197 |
 | Unboxing | 56.00% | ~190 |
 | Big Game Hunter | 53.00% | ~180 |
 | Financially Secure | 51.00% | ~173 |
+| Got Served | 50.00% | ~170 |
 | Chatterbox | 49.00% | ~167 |
-| Got Served | 49.00% | ~167 |
-| First Love | 47.00% | ~160 |
+| First Love | 48.00% | ~163 |
 | Happier-est Place on Earth | 46.00% | ~156 |
 | You Don't Win Friends With Salad | 46.00% | ~156 |
 | I Do! | 45.00% | ~153 |
@@ -34,10 +34,10 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 40.00% | ~136 |
 | Finishing Touches | 40.00% | ~136 |
 | Panda-kin | 39.00% | ~133 |
+| Commissions, commissions...! | 39.00% | ~133 |
 | Better Late than Never | 39.00% | ~133 |
 | Knowledge is Power | 38.00% | ~129 |
-| Commissions, commissions...! | 38.00% | ~129 |
-| Bridging the Gap | 36.00% | ~122 |
+| Bridging the Gap | 37.00% | ~126 |
 | Who Ya Gonna Call...? | 35.00% | ~119 |
 | Waste Not Want Not | 35.00% | ~119 |
 | Martle's Dream | 34.00% | ~116 |
@@ -48,13 +48,13 @@ Number of Ratings: 892  (23.09.2022)
 | Lifeline Pipeline | 29.00% | ~99 |
 | He Can Spin A Yarn... | 28.00% | ~95 |
 | Sepia Toned Memories | 25.00% | ~85 |
+| Kind of a Big Deal | 24.00% | ~82 |
 | Do Your Part | 24.00% | ~82 |
 | Newton | 24.00% | ~82 |
-| Kind of a Big Deal | 23.00% | ~78 |
 | Just What I Always Wanted! | 23.00% | ~78 |
 | Time Flies | 22.00% | ~75 |
 | Santa In Training | 22.00% | ~75 |
-| Sandrunning Speedster | 20.00% | ~68 |
+| Sandrunning Speedster | 21.00% | ~71 |
 | It Belongs in a Museum! | 20.00% | ~68 |
 | Cardistry | 19.00% | ~65 |
 | Pro Gamer | 18.00% | ~61 |

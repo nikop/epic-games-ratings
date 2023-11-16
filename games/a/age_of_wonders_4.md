@@ -21,17 +21,17 @@ Rating: 4.61 (Ranked 385)
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
 | Seat of Power | 0.80% | ~43 |
-| In a Liege of Your Own | 0.70% | ~38 |
+| In a Liege of Your Own | 0.80% | ~43 |
 | Intimidation Tactics | 0.70% | ~38 |
 | Sehiran Oasis | 0.70% | ~38 |
 | Digging for Treasure | 0.60% | ~32 |
+| Tipping the Scales | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Enchanted Archipelago | 0.50% | ~27 |
 | My Final Form | 0.50% | ~27 |
 | Impenetrable Fortress | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
-| Tipping the Scales | 0.50% | ~27 |
 | Mighty Hoard | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
 | Arch Mage | 0.40% | ~22 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,396 (Ranked 185)  
+Progressed: 5,398 (Ranked 185)  
 Completed: 7 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 7 (0.13%) (Ranked 265)
 | 2023-11-13 | 5,387 | 7 |
 | 2023-11-14 | 5,391 | 7 |
 | 2023-11-15 | 5,395 | 7 |
-| 2023-11-16 | 5,396 | 7 |
+| 2023-11-16 | 5,398 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 54 (Ranked 474)  

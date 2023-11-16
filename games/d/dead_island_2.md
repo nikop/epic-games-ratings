@@ -1,16 +1,16 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~896 |
-| Whatever It Takes | 2.00% | ~896 |
-| Pork Chopped | 2.00% | ~896 |
+| One of Us | 2.00% | ~897 |
+| Whatever It Takes | 2.00% | ~897 |
+| Pork Chopped | 2.00% | ~897 |
 | Hotel California | 1.00% | ~7,193 |
 | Welcome To Hell-A | 1.00% | ~7,193 |
-| Break A Leg | 0.90% | ~6,473 |
+| Break A Leg | 0.90% | ~6,474 |
 | Dr. Reed, I Presume? | 0.80% | ~5,754 |
 | Git Gutte! | 0.80% | ~5,754 |
 | Bookworm | 0.80% | ~5,754 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,265 (Ranked 20)  
-Completed: 2,397 (0.33%) (Ranked 224)  
+Progressed: 719,291 (Ranked 20)  
+Completed: 2,398 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,11 +267,11 @@ Completed: 2,397 (0.33%) (Ranked 224)
 | 2023-11-13 | 718,089 | 2,387 |
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
-| 2023-11-16 | 719,265 | 2,397 |
+| 2023-11-16 | 719,291 | 2,398 |
 ## Awards
-Max (Great Boss Battles): 7,466  (Ranked 51)  
+Max (Great Boss Battles): 7,466  (Ranked 52)  
 Sum: 11,392 (Ranked 84)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,466 |
