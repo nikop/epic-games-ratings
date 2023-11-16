@@ -2,10 +2,10 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 546 |
 | 2 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 546 |
-| 3 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.94 | 0 | 546 |
-| 4 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 546 |
-| 5 | [Celeste](games/c/celeste.md) | 4.92 | 1,692 | 123 |
-| 5 | [Hades](games/h/hades.md) | 4.92 | 3,365 | 93 |
+| 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 546 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,693 | 123 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,365 | 93 |
+| 4 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.92 | 0 | 546 |
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 546 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 546 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 546 |
@@ -478,7 +478,7 @@
 | 469 | [IXION](games/i/ixion.md) | 4.57 | 0 | 546 |
 | 469 | [Minit](games/m/minit.md) | 4.57 | 0 | 546 |
 | 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,215 | 44 |
-| 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,353 | 94 |
+| 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,356 | 94 |
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 546 |
 | 469 | [Risen](games/r/risen.md) | 4.57 | 0 | 546 |
 | 469 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.57 | 0 | 546 |
@@ -492,7 +492,7 @@
 | 489 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 437 |
 | 489 | [Aztez](games/a/aztez.md) | 4.56 | 20 | 541 |
 | 489 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 52 | 423 |
-| 489 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 920 | 158 |
+| 489 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 922 | 158 |
 | 489 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 507 |
 | 489 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 546 |
 | 489 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 391 | 232 |
@@ -529,6 +529,7 @@
 | 523 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 546 |
 | 523 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,466 | 51 |
 | 523 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 465 |
+| 523 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 105 | 351 |
 | 523 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 546 |
 | 523 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 165 | 309 |
 | 523 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 546 |
@@ -538,21 +539,20 @@
 | 523 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
 | 523 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 525 | 204 |
 | 523 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 386 |
-| 539 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 546 |
-| 539 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,758 | 18 |
-| 539 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 528 |
-| 539 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 467 |
-| 539 | [Everything](games/e/everything.md) | 4.53 | 0 | 546 |
-| 539 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,352 | 134 |
-| 539 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 105 | 351 |
-| 539 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 107 | 349 |
-| 539 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,513 | 129 |
-| 539 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 546 |
-| 539 | [Sable](games/s/sable.md) | 4.53 | 25 | 516 |
-| 539 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 546 |
-| 539 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 525 | 204 |
-| 539 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 546 |
-| 539 | [Verdun](games/v/verdun.md) | 4.53 | 106 | 350 |
+| 540 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 546 |
+| 540 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,758 | 18 |
+| 540 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 528 |
+| 540 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 467 |
+| 540 | [Everything](games/e/everything.md) | 4.53 | 0 | 546 |
+| 540 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,352 | 134 |
+| 540 | [Just Die Already](games/j/just_die_already.md) | 4.53 | 107 | 349 |
+| 540 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,513 | 129 |
+| 540 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 546 |
+| 540 | [Sable](games/s/sable.md) | 4.53 | 25 | 516 |
+| 540 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 546 |
+| 540 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 525 | 204 |
+| 540 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 546 |
+| 540 | [Verdun](games/v/verdun.md) | 4.53 | 106 | 350 |
 | 554 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.52 | 0 | 546 |
 | 554 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 839 | 165 |
 | 554 | [Duskers](games/d/duskers.md) | 4.52 | 0 | 546 |
