@@ -1,7 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [EndlessRunner](games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 2023-12-31 | - |  | - | - |
-| [SkyMatch](games/c/c1d3e4bfa6144a7095d16a8ce487cf74.md) | 2099-01-01 | - |  | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2024-09-30 | - |  | - | - |
 | [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | - |  | - | 0 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
