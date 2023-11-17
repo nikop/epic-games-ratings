@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.70% | ~981 |
 | Economy of Scarce | 0.70% | ~981 |
 | Jackpot! | 0.60% | ~841 |
-| The Free Encyclopedia | 0.50% | ~700 |
-| Thank You Tom Nook | 0.50% | ~700 |
-| Eternal Crusade | 0.50% | ~700 |
-| All Accounted For | 0.50% | ~700 |
+| The Free Encyclopedia | 0.50% | ~701 |
+| Thank You Tom Nook | 0.50% | ~701 |
+| Eternal Crusade | 0.50% | ~701 |
+| All Accounted For | 0.50% | ~701 |
 | All or Nothing! | 0.40% | ~560 |
 | Unleashed Potential | 0.30% | ~420 |
 | JACKPOT!!! | 0.30% | ~420 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,092 (Ranked 79)  
+Progressed: 140,104 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 265)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,092 | 187 |
+| 2023-11-17 | 140,104 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,556 (Ranked 50)  

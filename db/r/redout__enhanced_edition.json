@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235624,
+  "EOS_Progressed": 235629,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22452,6 +22452,11 @@
       "Time": "2023-11-17T00:06:19.9705927+00:00",
       "NumProgressed": 235624,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-17T01:55:52.0161488+00:00",
+      "NumProgressed": 235629,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22479,7 +22484,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65975
+      "UsersEstimate": 65976
     },
     {
       "ID": "CENTAUR",
@@ -22511,7 +22516,7 @@
       "Name": "DRAGOON",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ENLIGHTENED",
@@ -22535,7 +22540,7 @@
       "Name": "FLAWLESS",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "GILA",
@@ -22551,7 +22556,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47125
+      "UsersEstimate": 47126
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -22599,7 +22604,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77756
+      "UsersEstimate": 77758
     },
     {
       "ID": "NOBUNAGA",
@@ -22623,7 +22628,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21206
+      "UsersEstimate": 21207
     },
     {
       "ID": "PHOTOFINISH",
@@ -22647,7 +22652,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "QAREEN",
@@ -22663,7 +22668,7 @@
       "Name": "RESPWND",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "SHINYSHINYGOLD",
@@ -22671,7 +22676,7 @@
       "Name": "SHINY SHINY GOLD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "SHOWOFF",
@@ -22687,7 +22692,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51837
+      "UsersEstimate": 51838
     },
     {
       "ID": "TACTICIAN",
@@ -22711,7 +22716,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51837
+      "UsersEstimate": 51838
     },
     {
       "ID": "TUNINGMANIAC",
@@ -22727,22 +22732,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96606
+      "UsersEstimate": 96608
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235624,
+      "Progressed": 235629,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:06:19.9705923+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:55:52.0161483+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:59:44.2623094+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:06:19.9707034+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:48:50.081988+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:55:52.0162925+00:00"
 }

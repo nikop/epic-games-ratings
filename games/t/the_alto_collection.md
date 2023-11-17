@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,586 |
-| Finding Your Footing | 26.00% | ~12,120 |
-| Nomad | 17.00% | ~7,925 |
-| Picking Up Speed | 16.00% | ~7,459 |
-| Welcome Maya | 14.00% | ~6,526 |
-| Scout | 11.00% | ~5,128 |
-| Sightseer | 11.00% | ~5,128 |
+| Rookie | 27.00% | ~12,588 |
+| Finding Your Footing | 26.00% | ~12,122 |
+| Nomad | 17.00% | ~7,926 |
+| Picking Up Speed | 16.00% | ~7,460 |
+| Welcome Maya | 14.00% | ~6,527 |
+| Scout | 11.00% | ~5,129 |
+| Sightseer | 11.00% | ~5,129 |
 | Amateur | 10.00% | ~4,662 |
-| Unlock Maya | 8.00% | ~3,729 |
-| Wanderer | 8.00% | ~3,729 |
-| Enter Paz | 7.00% | ~3,263 |
+| Unlock Maya | 8.00% | ~3,730 |
+| Wanderer | 8.00% | ~3,730 |
+| Enter Paz | 7.00% | ~3,264 |
 | Aviator | 6.00% | ~2,797 |
 | My Little Friend | 5.00% | ~2,331 |
 | One With The Board | 5.00% | ~2,331 |
 | Voyager | 5.00% | ~2,331 |
 | Izel Has Arrived | 4.00% | ~1,865 |
-| Junkie | 3.00% | ~1,398 |
-| Traveler | 3.00% | ~1,398 |
-| Unlock Paz | 3.00% | ~1,398 |
-| Human Flight | 3.00% | ~1,398 |
-| Sandboarder | 3.00% | ~1,398 |
+| Junkie | 3.00% | ~1,399 |
+| Traveler | 3.00% | ~1,399 |
+| Unlock Paz | 3.00% | ~1,399 |
+| Human Flight | 3.00% | ~1,399 |
+| Sandboarder | 3.00% | ~1,399 |
 | Explorer | 2.00% | ~932 |
 | Pro | 2.00% | ~932 |
 | Journeyer | 2.00% | ~932 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,616 (Ranked 112)  
+Progressed: 46,624 (Ranked 112)  
 Completed: 5 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 5 (0.01%) (Ranked 331)
 | 2023-11-14 | 46,389 | 5 |
 | 2023-11-15 | 46,490 | 5 |
 | 2023-11-16 | 46,614 | 5 |
-| 2023-11-17 | 46,616 | 5 |
+| 2023-11-17 | 46,624 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 437)  
 Sum: 372 (Ranked 345)  

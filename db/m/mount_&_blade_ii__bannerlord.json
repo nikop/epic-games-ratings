@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8764,10 +8764,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15300,
       "NumberOfAwardsMax": 7391
+    },
+    {
+      "Time": "2023-11-17T01:50:18.3933853+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15303,
+      "NumberOfAwardsMax": 7391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15300,
+  "NumberOfAwards": 15303,
   "NumberOfAwardsMax": 7391,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8787,7 +8793,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 871
+      "Count": 874
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8844,9 +8850,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65241,
+  "EOS_Progressed": 65242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30969,6 +30975,11 @@
       "Time": "2023-11-16T23:08:50.8369929+00:00",
       "NumProgressed": 65241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T01:57:48.3506978+00:00",
+      "NumProgressed": 65242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31172,7 +31183,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11743
+      "UsersEstimate": 11744
     },
     {
       "ID": "Kingslayer",
@@ -31212,7 +31223,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26096
+      "UsersEstimate": 26097
     },
     {
       "ID": "Lawmaker",
@@ -31387,15 +31398,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65241,
+      "Progressed": 65242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-16T22:00:40.1053071+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:09:04.0885543+00:00",
+  "LastChanged": "2023-11-17T01:50:18.3933852+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:57:48.3506975+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T00:00:21.8711513+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:09:04.088688+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:50:18.3933858+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:57:48.3508459+00:00"
 }

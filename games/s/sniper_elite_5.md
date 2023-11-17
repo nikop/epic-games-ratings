@@ -21,8 +21,8 @@ Rating: 4.45 (Ranked 658)
 | Sharpshooter | 22.00% | ~852 |
 | Gunslinger | 19.00% | ~736 |
 | Explosive Efficiency | 19.00% | ~736 |
-| Just a Flesh Wound | 17.00% | ~658 |
-| Der Geist | 17.00% | ~658 |
+| Just a Flesh Wound | 17.00% | ~659 |
+| Der Geist | 17.00% | ~659 |
 | Climbing the Ladder | 16.00% | ~620 |
 | Close Quarters | 16.00% | ~620 |
 | Snake in the Grass | 16.00% | ~620 |
@@ -33,12 +33,12 @@ Rating: 4.45 (Ranked 658)
 | Opposing Force | 14.00% | ~542 |
 | Enemy at the Gates | 14.00% | ~542 |
 | Fields of Glory | 14.00% | ~542 |
-| Set Europe Ablaze | 13.00% | ~503 |
+| Set Europe Ablaze | 13.00% | ~504 |
 | Precision Is Key | 10.00% | ~387 |
 | My Little Friend | 10.00% | ~387 |
 | Rigged to Blow | 9.00% | ~349 |
 | Herr Today, Gone Tomorrow | 7.00% | ~268 |
-| Operation Foxley | 6.00% | ~229 |
+| Operation Foxley | 6.00% | ~230 |
 | The Long Game | 5.00% | ~194 |
 | Tinkerer | 5.00% | ~194 |
 | It'll Buff Right Out | 5.00% | ~194 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 658)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,873 (Ranked 196)  
+Progressed: 3,874 (Ranked 196)  
 Completed: 11 (0.28%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,6 +286,7 @@ Completed: 11 (0.28%) (Ranked 236)
 | 2023-11-14 | 3,864 | 11 |
 | 2023-11-15 | 3,867 | 11 |
 | 2023-11-16 | 3,873 | 11 |
+| 2023-11-17 | 3,874 | 11 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 516)  
 Sum: 25 (Ranked 523)  

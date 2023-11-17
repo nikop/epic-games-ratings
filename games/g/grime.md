@@ -10,10 +10,10 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 5.00% | ~7,929 |
 | The Hunt | 4.00% | ~6,343 |
 | Ravenous | 4.00% | ~6,343 |
-| Weeper | 3.00% | ~4,757 |
-| Harmless | 2.00% | ~3,171 |
-| Silenced Whispers | 2.00% | ~3,171 |
-| Devourer | 2.00% | ~3,171 |
+| Weeper | 3.00% | ~4,758 |
+| Harmless | 2.00% | ~3,172 |
+| Silenced Whispers | 2.00% | ~3,172 |
+| Devourer | 2.00% | ~3,172 |
 | Shapely | 1.00% | ~1,586 |
 | Scion | 1.00% | ~1,582 |
 | Glare | 1.00% | ~1,582 |
@@ -28,20 +28,20 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.80% | ~1,265 |
 | Celebration | 0.80% | ~1,269 |
 | Hunt Down | 0.70% | ~1,110 |
-| Artisan | 0.60% | ~951 |
-| Hush | 0.60% | ~951 |
-| Inevitable | 0.60% | ~951 |
-| All-Seeing | 0.60% | ~951 |
-| Breathsmith | 0.60% | ~951 |
+| Artisan | 0.60% | ~952 |
+| Hush | 0.60% | ~952 |
+| Inevitable | 0.60% | ~952 |
+| All-Seeing | 0.60% | ~952 |
+| Breathsmith | 0.60% | ~952 |
 | Dream | 0.60% | ~949 |
 | Breath | 0.50% | ~793 |
 | Unwrap the Gift | 0.50% | ~793 |
 | Bloodhunter | 0.40% | ~634 |
 | Passage | 0.40% | ~634 |
-| Zygote | 0.30% | ~474 |
+| Zygote | 0.30% | ~475 |
 | Kinship | 0.30% | ~476 |
-| Kin | 0.30% | ~474 |
-| Listen | 0.30% | ~474 |
+| Kin | 0.30% | ~475 |
+| Listen | 0.30% | ~475 |
 | Proportions | 0.30% | ~476 |
 | Weakness | 0.20% | ~317 |
 | Generous | 0.20% | ~317 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,572 (Ranked 77)  
+Progressed: 158,587 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
 | 2023-11-16 | 158,567 | 1 |
-| 2023-11-17 | 158,572 | 1 |
+| 2023-11-17 | 158,587 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 423)  
 Sum: 368 (Ranked 349)  

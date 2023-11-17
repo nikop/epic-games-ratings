@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8515,10 +8515,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28250,
       "NumberOfAwardsMax": 7606
+    },
+    {
+      "Time": "2023-11-17T01:50:46.9847196+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28251,
+      "NumberOfAwardsMax": 7606
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28250,
+  "NumberOfAwards": 28251,
   "NumberOfAwardsMax": 7606,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8538,7 +8544,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1691
+      "Count": 1692
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8601,9 +8607,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808648,
+  "EOS_Progressed": 808649,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32221,6 +32227,11 @@
       "Time": "2023-11-17T00:06:46.1686015+00:00",
       "NumProgressed": 808648,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-17T01:56:28.3040512+00:00",
+      "NumProgressed": 808649,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32312,7 +32323,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258767
+      "UsersEstimate": 258768
     },
     {
       "ID": "Bookworm",
@@ -32887,15 +32898,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808648,
+      "Progressed": 808649,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-16T19:02:57.8010119+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:06:46.1686013+00:00",
+  "LastChanged": "2023-11-17T01:50:46.9847194+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:56:28.3040508+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-17T00:02:41.9904797+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:06:46.1687688+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:50:46.9847201+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:56:28.3042345+00:00"
 }

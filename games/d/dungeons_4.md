@@ -25,11 +25,11 @@
 | Hard Work | 37.00% | ~105 |
 | The Big Eaty | 37.00% | ~105 |
 | Pure Dynamite! | 36.00% | ~102 |
-| Mana Cannon | 29.00% | ~82 |
+| Mana Cannon | 30.00% | ~85 |
 | “… like son” | 29.00% | ~82 |
 | Dungeonlord Gorgu | 24.00% | ~68 |
+| The Cathedral of Light | 23.00% | ~65 |
 | Shame! Shame! Shame! | 23.00% | ~65 |
-| The Cathedral of Light | 22.00% | ~62 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
 | Tanos' Crusade Against Thalya | 18.00% | ~51 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
@@ -39,12 +39,12 @@
 | Forbidden Knowledge | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~37 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
+| Stop Tanos! | 12.00% | ~34 |
 | The Duel | 12.00% | ~34 |
-| Stop Tanos! | 11.00% | ~31 |
 | If Looks Could Kill | 10.00% | ~28 |
+| Bonus Evilness | 7.00% | ~20 |
 | The Finitude Drill | 7.00% | ~20 |
 | My Little Torture Chamber | 6.00% | ~17 |
-| Bonus Evilness | 6.00% | ~17 |
 | Sabotage! | 6.00% | ~17 |
 | Doom Hill | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |

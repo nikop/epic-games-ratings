@@ -5,13 +5,13 @@ Rating: 4.28 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,746 |
-| Copacetic Coordination | 16.00% | ~56,424 |
+| Corner Clout | 47.00% | ~165,747 |
+| Copacetic Coordination | 16.00% | ~56,425 |
 | Fronting the Money | 15.00% | ~52,898 |
-| The Dawn of Automation | 14.00% | ~49,371 |
-| Extraordinary Logistics | 14.00% | ~49,371 |
-| Dirty Money | 13.00% | ~45,844 |
-| Family First | 13.00% | ~45,844 |
+| The Dawn of Automation | 14.00% | ~49,372 |
+| Extraordinary Logistics | 14.00% | ~49,372 |
+| Dirty Money | 13.00% | ~45,845 |
+| Family First | 13.00% | ~45,845 |
 | Cleaning House | 12.00% | ~42,318 |
 | Room in the Back | 12.00% | ~42,318 |
 | Beating the Heat | 11.00% | ~38,792 |
@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 851)
 | Wise Head | 6.00% | ~21,159 |
 | Show ‘em the Sugar | 6.00% | ~21,159 |
 | Killing Them Softly | 6.00% | ~21,159 |
-| Street Knowledge | 5.00% | ~17,632 |
-| Oh Captain | 5.00% | ~17,632 |
-| Branching Out | 5.00% | ~17,632 |
-| Improvement Missions | 5.00% | ~17,632 |
-| Opportunity Knocked | 5.00% | ~17,632 |
-| City of Big Shoulders | 5.00% | ~17,632 |
-| Mission Mastery | 5.00% | ~17,632 |
+| Street Knowledge | 5.00% | ~17,633 |
+| Oh Captain | 5.00% | ~17,633 |
+| Branching Out | 5.00% | ~17,633 |
+| Improvement Missions | 5.00% | ~17,633 |
+| Opportunity Knocked | 5.00% | ~17,633 |
+| City of Big Shoulders | 5.00% | ~17,633 |
+| Mission Mastery | 5.00% | ~17,633 |
 | Considerable Clams | 4.00% | ~14,106 |
 | Gin Joint | 4.00% | ~14,106 |
 | An Affront to the Enemy | 4.00% | ~14,106 |
@@ -53,13 +53,13 @@ Rating: 4.28 (Ranked 851)
 | Dropping the Dime | 2.00% | ~7,053 |
 | Spiffy Speakeasies | 2.00% | ~7,053 |
 | Keeping Your Word | 2.00% | ~7,053 |
-| Boxing Them In | 1.00% | ~3,526 |
-| Backroom Empire | 1.00% | ~3,526 |
-| Corner Control | 1.00% | ~3,526 |
-| Full House | 1.00% | ~3,526 |
-| The Rubber Meets the Road | 1.00% | ~3,526 |
-| Cat’s Meow Clubs | 1.00% | ~3,526 |
-| Stepping It Up | 1.00% | ~3,526 |
+| Boxing Them In | 1.00% | ~3,527 |
+| Backroom Empire | 1.00% | ~3,527 |
+| Corner Control | 1.00% | ~3,527 |
+| Full House | 1.00% | ~3,527 |
+| The Rubber Meets the Road | 1.00% | ~3,527 |
+| Cat’s Meow Clubs | 1.00% | ~3,527 |
+| Stepping It Up | 1.00% | ~3,527 |
 | Crossing Over | 0.90% | ~3,174 |
 | Determined Deliveries | 0.90% | ~3,174 |
 | Boots in the Ground | 0.80% | ~2,821 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 851)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,650 (Ranked 47)  
+Progressed: 352,654 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 7 (0.00%) (Ranked 352)
 | 2023-11-14 | 352,392 | 7 |
 | 2023-11-15 | 352,513 | 7 |
 | 2023-11-16 | 352,647 | 7 |
-| 2023-11-17 | 352,650 | 7 |
+| 2023-11-17 | 352,654 | 7 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 467)  
+Max (Highly Recommended): 35  (Ranked 468)  
 Sum: 145 (Ranked 423)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 45 |

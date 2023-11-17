@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2017,9 +2017,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 280159,
+  "EOS_Progressed": 280163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26102,6 +26102,11 @@
       "Time": "2023-11-17T00:06:22.0857085+00:00",
       "NumProgressed": 280159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T01:55:55.0366693+00:00",
+      "NumProgressed": 280163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -26233,7 +26238,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11206
+      "UsersEstimate": 11207
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -26273,7 +26278,7 @@
       "Name": "I Found it!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30817
+      "UsersEstimate": 30818
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -26337,7 +26342,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 229730
+      "UsersEstimate": 229734
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26345,22 +26350,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95254
+      "UsersEstimate": 95255
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 280159,
+      "Progressed": 280163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-16T22:03:04.6369866+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:06:22.0857081+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:55:55.0366689+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.8193083+00:00",
-  "LastUpdate_Ratings": "2023-11-17T00:02:50.2138998+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:06:22.0858305+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:50:59.6266225+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:55:55.0367701+00:00"
 }

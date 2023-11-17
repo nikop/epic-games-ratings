@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3873,
+  "EOS_Progressed": 3874,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7945,6 +7945,11 @@
       "Time": "2023-11-16T19:05:09.3317718+00:00",
       "NumProgressed": 3873,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-17T01:54:05.462908+00:00",
+      "NumProgressed": 3874,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8012,7 +8017,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8108,7 +8113,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8188,7 +8193,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8428,7 +8433,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8523,13 +8528,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3824,
+      "Progressed": 3825,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3873,
+      "Progressed": 3874,
       "Completed": 11
     }
   ],
@@ -8537,8 +8542,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:05:02.8696816+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:54:05.4629078+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:59:04.1768502+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:05:02.8697738+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:47:50.6873974+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:54:05.462998+00:00"
 }

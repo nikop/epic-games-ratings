@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6541,10 +6541,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11435,
       "NumberOfAwardsMax": 7498
+    },
+    {
+      "Time": "2023-11-17T01:47:03.9538475+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11438,
+      "NumberOfAwardsMax": 7498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11435,
+  "NumberOfAwards": 11438,
   "NumberOfAwardsMax": 7498,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6582,7 +6588,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 421
+      "Count": 424
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6603,10 +6609,10 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719410,
+  "EOS_Progressed": 719432,
   "EOS_Completed": 2399,
-  "EOS_NewPlayers": 3740,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 3741,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30653,6 +30659,11 @@
       "Time": "2023-11-17T00:05:22.6716436+00:00",
       "NumProgressed": 719410,
       "NumCompleted": 2399
+    },
+    {
+      "Time": "2023-11-17T01:54:31.6928091+00:00",
+      "NumProgressed": 719432,
+      "NumCompleted": 2399
     }
   ],
   "TotalAchievements": 51,
@@ -30712,7 +30723,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_bookworm",
@@ -30744,7 +30755,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -30760,7 +30771,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_explorer",
@@ -30872,7 +30883,7 @@
       "Name": "Zombologist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_legendary",
@@ -30880,7 +30891,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_magnum_opus",
@@ -30894,9 +30905,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 5036
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30958,9 +30969,9 @@
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3597
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_the_vcla",
@@ -30976,7 +30987,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -31071,22 +31082,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719410,
+      "Progressed": 719432,
       "Completed": 2399
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44952,
+      "Progressed": 44974,
       "Completed": 36548
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-16T23:58:34.0128311+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:05:22.6716433+00:00",
+  "LastChanged": "2023-11-17T01:47:03.9538473+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:54:31.6928088+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:58:34.0128316+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:05:22.6718144+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:47:03.9538481+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:54:31.6929529+00:00"
 }

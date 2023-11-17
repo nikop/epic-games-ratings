@@ -16,28 +16,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 4.00% | ~614 |
 | Strong | 4.00% | ~614 |
 | Hanging Gardens | 4.00% | ~614 |
-| Ambitious | 3.00% | ~460 |
-| Enlightened | 3.00% | ~460 |
-| Glorious | 3.00% | ~460 |
-| Good | 3.00% | ~460 |
-| Just | 3.00% | ~460 |
-| Keystone | 3.00% | ~460 |
-| Learned | 3.00% | ~460 |
-| Noble | 3.00% | ~460 |
-| Pioneer | 3.00% | ~460 |
-| Warrior | 3.00% | ~460 |
-| Developing Cities | 3.00% | ~460 |
-| Strong Cities | 3.00% | ~460 |
-| Ishtar Gate | 3.00% | ~460 |
-| Lighthouse | 3.00% | ~460 |
-| Oracle | 3.00% | ~460 |
-| Pyramids | 3.00% | ~460 |
-| Christianity | 3.00% | ~460 |
-| Judaism | 3.00% | ~460 |
-| Babylonian Paganism | 3.00% | ~460 |
-| Greek Paganism | 3.00% | ~460 |
-| Naming Landmarks | 3.00% | ~460 |
-| Trade Caravan | 3.00% | ~460 |
+| Ambitious | 3.00% | ~461 |
+| Enlightened | 3.00% | ~461 |
+| Glorious | 3.00% | ~461 |
+| Good | 3.00% | ~461 |
+| Just | 3.00% | ~461 |
+| Keystone | 3.00% | ~461 |
+| Learned | 3.00% | ~461 |
+| Noble | 3.00% | ~461 |
+| Pioneer | 3.00% | ~461 |
+| Warrior | 3.00% | ~461 |
+| Developing Cities | 3.00% | ~461 |
+| Strong Cities | 3.00% | ~461 |
+| Ishtar Gate | 3.00% | ~461 |
+| Lighthouse | 3.00% | ~461 |
+| Oracle | 3.00% | ~461 |
+| Pyramids | 3.00% | ~461 |
+| Christianity | 3.00% | ~461 |
+| Judaism | 3.00% | ~461 |
+| Babylonian Paganism | 3.00% | ~461 |
+| Greek Paganism | 3.00% | ~461 |
+| Naming Landmarks | 3.00% | ~461 |
+| Trade Caravan | 3.00% | ~461 |
 | Regicide | 2.00% | ~307 |
 | Drillmaster | 2.00% | ~307 |
 | Brilliant | 2.00% | ~307 |
@@ -134,6 +134,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.80% | ~123 |
 | Noble Difficulty | 0.70% | ~107 |
 | Cao'an | 0.70% | ~107 |
+| Adur Burzen-Mihr | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | All Nations | 0.70% | ~107 |
 | The Great Mage | 0.70% | ~107 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.60% | ~92 |
 | Carthage - Ox Hide | 0.60% | ~92 |
 | Peacemaker | 0.60% | ~92 |
-| Adur Burzen-Mihr | 0.60% | ~92 |
 | Learn to Play 5 | 0.60% | ~92 |
 | Old World Order | 0.60% | ~92 |
 | Cataphract Archer | 0.60% | ~92 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,350 (Ranked 147)  
+Progressed: 15,351 (Ranked 147)  
 Completed: 5 (0.03%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 5 (0.03%) (Ranked 316)
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
-| 2023-11-17 | 15,350 | 5 |
+| 2023-11-17 | 15,351 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

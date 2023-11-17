@@ -24,19 +24,19 @@ Rating: 4.54 (Ranked 522)
 | But Doctor, I am Butcho | 0.70% | ~5,036 |
 | Can't Handle the Truth | 0.70% | ~5,036 |
 | Like Riding a Bike | 0.70% | ~5,036 |
+| A Patton Emerges | 0.70% | ~5,036 |
 | This is My Weapon | 0.70% | ~5,036 |
-| Perks of the Job | 0.60% | ~4,316 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,316 |
-| Slayer Squad | 0.60% | ~4,316 |
-| Zombologist | 0.60% | ~4,316 |
-| Ooh, Shiny! | 0.60% | ~4,316 |
-| A Patton Emerges | 0.60% | ~4,316 |
-| Our True Nature | 0.60% | ~4,316 |
+| Perks of the Job | 0.60% | ~4,317 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,317 |
+| Slayer Squad | 0.60% | ~4,317 |
+| Zombologist | 0.60% | ~4,317 |
+| Ooh, Shiny! | 0.60% | ~4,317 |
+| Max Headroom | 0.60% | ~4,317 |
+| Our True Nature | 0.60% | ~4,317 |
 | Making Your Mark | 0.50% | ~3,597 |
 | Not Even My Final Form | 0.50% | ~3,597 |
 | Humanity Distilled | 0.50% | ~3,597 |
 | I Am the Resurrection | 0.50% | ~3,597 |
-| Max Headroom | 0.50% | ~3,597 |
 | Jumbo Keyring | 0.40% | ~2,878 |
 | Down with the Sickness | 0.40% | ~2,878 |
 | Go, Bobcats! | 0.40% | ~2,878 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,410 (Ranked 20)  
+Progressed: 719,432 (Ranked 20)  
 Completed: 2,399 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 2,399 (0.33%) (Ranked 224)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,410 | 2,399 |
+| 2023-11-17 | 719,432 | 2,399 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 51)  
-Sum: 11,435 (Ranked 84)  
+Sum: 11,438 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 471 |
 | This game is Highly Recommended | 458 |
 | This game is Extremely Fun | 454 |
-| This game has Amazing Characters | 421 |
+| This game has Amazing Characters | 424 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -497,3 +497,4 @@ Diff (max vs sum): -33
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
+| 2023-11-17 | 4.54 | 7,498 | 11,438 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,767 |
+| Blacksmith's Son | 32.00% | ~258,768 |
 | Cavalier | 25.00% | ~202,162 |
 | Fatso | 23.00% | ~185,989 |
 | Awakening | 21.00% | ~169,816 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~809 |
 | Wingman | 0.10% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,648 (Ranked 17)  
+Progressed: 808,649 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 51 (0.01%) (Ranked 331)
 | 2023-11-14 | 808,441 | 51 |
 | 2023-11-15 | 808,547 | 51 |
 | 2023-11-16 | 808,645 | 51 |
-| 2023-11-17 | 808,648 | 51 |
+| 2023-11-17 | 808,649 | 51 |
 ## Awards
 Max (Character Customization): 7,606  (Ranked 49)  
-Sum: 28,250 (Ranked 48)  
+Sum: 28,251 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +312,7 @@ Diff (max vs sum): 1
 | This game has Challenging Combat | 1,773 |
 | This game has Diverse Characters | 1,726 |
 | This game has Amazing Storytelling | 1,719 |
-| This game is Highly Recommended | 1,691 |
+| This game is Highly Recommended | 1,692 |
 | This game is Extremely Fun | 1,690 |
 | This game has Realistic Visuals | 1,666 |
 | This game has Amazing Characters | 1,663 |
@@ -616,3 +616,4 @@ Diff (max vs sum): 1
 | 2023-11-14 | 4.71 | - | 7,601 | 28,235 |
 | 2023-11-15 | 4.71 | - | 7,603 | 28,242 |
 | 2023-11-16 | 4.71 | - | 7,606 | 28,250 |
+| 2023-11-17 | 4.71 | - | 7,606 | 28,251 |

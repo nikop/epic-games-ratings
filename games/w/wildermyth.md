@@ -17,7 +17,7 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
 | Completing the Look | 0.90% | ~13 |
-| Let Me Get My Chisel | 0.80% | ~12 |
+| Let Me Get My Chisel | 0.70% | ~10 |
 | A Mythic Menagerie | 0.60% | ~9 |
 | Who's Counting? | 0.60% | ~9 |
 | Echoes Die | 0.60% | ~9 |
@@ -33,6 +33,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Storied Past | 0.10% | ~1 |
+| Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
@@ -51,7 +52,6 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
-| Worldwalker | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,466 (Ranked 239)  
+Progressed: 1,467 (Ranked 239)  
 Completed: 6 (0.41%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 6 (0.41%) (Ranked 208)
 | 2023-11-13 | 1,462 | 6 |
 | 2023-11-14 | 1,465 | 6 |
 | 2023-11-15 | 1,466 | 6 |
+| 2023-11-17 | 1,467 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 495)  
 Sum: 29 (Ranked 511)  

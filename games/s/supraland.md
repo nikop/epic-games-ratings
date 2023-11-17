@@ -6,27 +6,27 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,662 |
-| The Blues | 85.00% | ~623,043 |
-| Fast | 66.00% | ~483,775 |
-| Healthbar | 55.00% | ~403,146 |
-| Force Cube | 53.00% | ~388,486 |
-| Double Jump | 48.00% | ~351,836 |
-| Regeneration | 47.00% | ~344,506 |
-| Triple Jump | 43.00% | ~315,187 |
-| Climb the hill | 42.00% | ~307,857 |
-| Through the fire pipe | 39.00% | ~285,867 |
-| MacGuffin | 38.00% | ~278,537 |
-| Just once | 37.00% | ~271,207 |
+| Out of bed | 99.00% | ~725,665 |
+| The Blues | 85.00% | ~623,046 |
+| Fast | 66.00% | ~483,777 |
+| Healthbar | 55.00% | ~403,147 |
+| Force Cube | 53.00% | ~388,487 |
+| Double Jump | 48.00% | ~351,838 |
+| Regeneration | 47.00% | ~344,508 |
+| Triple Jump | 43.00% | ~315,188 |
+| Climb the hill | 42.00% | ~307,858 |
+| Through the fire pipe | 39.00% | ~285,868 |
+| MacGuffin | 38.00% | ~278,538 |
+| Just once | 37.00% | ~271,208 |
 | Armor | 30.00% | ~219,898 |
-| True holy spirit | 28.00% | ~205,238 |
-| That's how electronics work obviously | 27.00% | ~197,908 |
-| Force Cube Catapult | 25.00% | ~183,248 |
-| Holy Sword | 23.00% | ~168,588 |
-| Telefrag | 23.00% | ~168,588 |
-| Freed from prison | 21.00% | ~153,928 |
-| Stomp | 21.00% | ~153,928 |
-| Double Health | 19.00% | ~139,268 |
+| True holy spirit | 28.00% | ~205,239 |
+| That's how electronics work obviously | 27.00% | ~197,909 |
+| Force Cube Catapult | 25.00% | ~183,249 |
+| Holy Sword | 23.00% | ~168,589 |
+| Telefrag | 23.00% | ~168,589 |
+| Freed from prison | 21.00% | ~153,929 |
+| Stomp | 21.00% | ~153,929 |
+| Double Health | 19.00% | ~139,269 |
 | Buckle | 17.00% | ~124,609 |
 | Green Keycard | 17.00% | ~124,609 |
 | Rattle Hag | 16.00% | ~117,279 |
@@ -44,18 +44,18 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~80,629 |
 | Infiltrated | 11.00% | ~80,629 |
 | Robbed | 11.00% | ~80,629 |
-| Fire Flies | 10.00% | ~73,299 |
-| Cave Flies | 10.00% | ~73,299 |
-| Gold Scam | 10.00% | ~73,299 |
-| Gold Scam Uncovered | 10.00% | ~73,299 |
-| Panic Lights | 10.00% | ~73,299 |
-| Translocator | 10.00% | ~73,299 |
-| Yellow Shot Button | 10.00% | ~73,299 |
-| Moon Door | 9.00% | ~65,969 |
-| Momentum | 9.00% | ~65,969 |
-| Through the tiny pipe | 9.00% | ~65,969 |
-| Win! | 9.00% | ~65,969 |
-| The real real teleported man | 8.00% | ~58,639 |
+| Fire Flies | 10.00% | ~73,300 |
+| Cave Flies | 10.00% | ~73,300 |
+| Gold Scam | 10.00% | ~73,300 |
+| Gold Scam Uncovered | 10.00% | ~73,300 |
+| Panic Lights | 10.00% | ~73,300 |
+| Translocator | 10.00% | ~73,300 |
+| Yellow Shot Button | 10.00% | ~73,300 |
+| Moon Door | 9.00% | ~65,970 |
+| Momentum | 9.00% | ~65,970 |
+| Through the tiny pipe | 9.00% | ~65,970 |
+| Win! | 9.00% | ~65,970 |
+| The real real teleported man | 8.00% | ~58,640 |
 | Well deserved | 6.00% | ~43,980 |
 | Super Sword | 4.00% | ~29,320 |
 | Happiness | 3.00% | ~21,990 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,992 (Ranked 19)  
+Progressed: 732,995 (Ranked 19)  
 Completed: 761 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,14 +316,14 @@ Completed: 761 (0.10%) (Ranked 277)
 | 2023-11-14 | 732,797 | 760 |
 | 2023-11-15 | 732,885 | 760 |
 | 2023-11-16 | 732,988 | 761 |
-| 2023-11-17 | 732,992 | 761 |
+| 2023-11-17 | 732,995 | 761 |
 ## Awards
-Max (Challenging Puzzles): 7,726  (Ranked 48)  
-Sum: 10,077 (Ranked 91)  
+Max (Challenging Puzzles): 7,729  (Ranked 48)  
+Sum: 10,080 (Ranked 91)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,726 |
+| This game features Challenging Puzzles | 7,729 |
 | This game is Educational | 283 |
 | This game has Amazing Storytelling | 280 |
 | This game is Relaxing | 278 |
@@ -526,3 +526,4 @@ Diff (max vs sum): -43
 | 2023-11-12 | 4.61 | - | 7,723 | 10,073 |
 | 2023-11-14 | 4.61 | - | 7,723 | 10,074 |
 | 2023-11-15 | 4.61 | - | 7,726 | 10,077 |
+| 2023-11-17 | 4.61 | - | 7,729 | 10,080 |

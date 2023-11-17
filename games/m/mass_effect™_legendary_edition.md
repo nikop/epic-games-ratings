@@ -25,9 +25,9 @@
 | Principled | 44.00% | ~564 |
 | Colonial Savior | 43.00% | ~551 |
 | Paramour I | 42.00% | ~538 |
+| Missing in Action | 42.00% | ~538 |
 | Scientist | 42.00% | ~538 |
 | Krogan Ally | 41.00% | ~526 |
-| Missing in Action | 41.00% | ~526 |
 | Merciless | 41.00% | ~526 |
 | Very Elusive | 40.00% | ~513 |
 | Sentinel Ally | 39.00% | ~500 |

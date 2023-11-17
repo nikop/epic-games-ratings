@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 360,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -732,6 +732,11 @@
       "Time": "2023-11-17T00:05:18.8475976+00:00",
       "NumProgressed": 359,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T01:54:26.661375+00:00",
+      "NumProgressed": 360,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -832,7 +837,7 @@
       "Name": "Desolate Island",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Discovery",
@@ -848,7 +853,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "EcstaticTruth",
@@ -894,9 +899,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "HighPlain",
@@ -944,7 +949,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Mnemosyne",
@@ -1046,9 +1051,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "Signatory",
@@ -1056,7 +1061,7 @@
       "Name": "Signatory",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "SingleRod",
@@ -1102,9 +1107,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1118,9 +1123,9 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "TheHardWay",
@@ -1150,17 +1155,17 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 263
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "TrevorsBiographer",
@@ -1200,7 +1205,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "YourBiggestFan",
@@ -1215,7 +1220,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 360,
       "Completed": 1
     }
   ],
@@ -1223,8 +1228,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-16T08:59:19.8841598+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:05:18.8475972+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:54:26.6613746+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:59:35.0804344+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:05:18.8476572+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:48:36.9318889+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:54:26.6614156+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
   "Ranking_Rating": 385,
-  "Ranking_Popularity": 100,
+  "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-16T15:00:00+00:00",
     "PcReleaseDate": "2013-10-23T15:00:00+00:00",
@@ -5759,10 +5759,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 9461,
       "NumberOfAwardsMax": 2682
+    },
+    {
+      "Time": "2023-11-17T01:48:30.3210799+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9462,
+      "NumberOfAwardsMax": 2682
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9461,
+  "NumberOfAwards": 9462,
   "NumberOfAwardsMax": 2682,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5824,7 +5830,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 657
+      "Count": 658
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5856,8 +5862,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-11-16T16:00:01.2309737+00:00",
+  "LastChanged": "2023-11-17T01:48:30.3210798+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:01.0502466+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:59:30.4332024+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:03:52.1891203+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:48:30.3210803+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:52:28.8882411+00:00"
 }

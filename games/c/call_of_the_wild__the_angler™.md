@@ -25,6 +25,8 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 0.20% | ~13 |
 | No Fin left to give | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |
+| Aguas Claras Conquistador | 0.20% | ~12 |
+| All Good Kings Must Come to an End | 0.20% | ~12 |
 | More than a Tourist | 0.10% | ~7 |
 | Hook, Line and Sinker | 0.10% | ~7 |
 | Head for Heights | 0.10% | ~7 |
@@ -39,8 +41,6 @@ Number of Ratings: 281  (23.09.2022)
 | Fish upon a Star | 0.10% | ~6 |
 | Cache and Carry | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
-| Aguas Claras Conquistador | 0.10% | ~6 |
-| All Good Kings Must Come to an End | 0.10% | ~6 |
 | Three Square Meals | 0.10% | ~6 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |

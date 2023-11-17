@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 935,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,7 +427,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42703,
+  "EOS_Progressed": 42706,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
@@ -12597,6 +12597,11 @@
       "Time": "2023-11-17T00:03:53.3723217+00:00",
       "NumProgressed": 42703,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-17T01:52:30.5569959+00:00",
+      "NumProgressed": 42706,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12656,7 +12661,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -12944,7 +12949,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3843
+      "UsersEstimate": 3844
     },
     {
       "ID": "SPRING_ALL",
@@ -13031,22 +13036,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42703,
+      "Progressed": 42706,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7540,
-      "Completed": 7540
+      "Progressed": 7543,
+      "Completed": 7543
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-17T00:03:53.3723214+00:00",
+  "LastChanged_Achievements": "2023-11-17T01:52:30.5569955+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:16.2717277+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:57:29.7482018+00:00",
-  "LastUpdate_Achievements": "2023-11-17T00:03:53.3723948+00:00"
+  "LastUpdate_Ratings": "2023-11-17T01:45:27.6898645+00:00",
+  "LastUpdate_Achievements": "2023-11-17T01:52:30.5571036+00:00"
 }

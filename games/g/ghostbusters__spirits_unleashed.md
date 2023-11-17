@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 588)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,486 |
-| Advancement | 6.00% | ~1,864 |
-| Meticulously Efficient | 6.00% | ~1,864 |
+| Advancement | 6.00% | ~1,865 |
+| Meticulously Efficient | 6.00% | ~1,865 |
 | Discovery | 5.00% | ~1,554 |
 | Solo Capture | 5.00% | ~1,554 |
 | Swift Rift Removers | 5.00% | ~1,554 |
@@ -25,19 +25,19 @@ Rating: 4.50 (Ranked 588)
 | Ghostbuster In Training | 3.00% | ~932 |
 | Icing on the Cake | 3.00% | ~932 |
 | Right back at ya | 3.00% | ~932 |
-| Back Off | 2.00% | ~621 |
-| We have the best insurance | 2.00% | ~621 |
-| Collector | 2.00% | ~621 |
-| Escape Artist | 2.00% | ~621 |
-| Legions | 2.00% | ~621 |
-| Pesky Jerks | 2.00% | ~621 |
-| Rift Destroyer | 2.00% | ~621 |
-| Seasoned | 2.00% | ~621 |
-| Side Hustle | 2.00% | ~621 |
-| Skilled | 2.00% | ~621 |
-| Stunner | 2.00% | ~621 |
-| Summoner | 2.00% | ~621 |
-| Welcome to the Crew | 2.00% | ~621 |
+| Back Off | 2.00% | ~622 |
+| We have the best insurance | 2.00% | ~622 |
+| Collector | 2.00% | ~622 |
+| Escape Artist | 2.00% | ~622 |
+| Legions | 2.00% | ~622 |
+| Pesky Jerks | 2.00% | ~622 |
+| Rift Destroyer | 2.00% | ~622 |
+| Seasoned | 2.00% | ~622 |
+| Side Hustle | 2.00% | ~622 |
+| Skilled | 2.00% | ~622 |
+| Stunner | 2.00% | ~622 |
+| Summoner | 2.00% | ~622 |
+| Welcome to the Crew | 2.00% | ~622 |
 | Diabolical | 1.00% | ~311 |
 | Reckless | 1.00% | ~311 |
 | Rivalry | 1.00% | ~311 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,073 (Ranked 123)  
+Progressed: 31,077 (Ranked 123)  
 Completed: 68 (0.22%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,15 +268,16 @@ Completed: 68 (0.22%) (Ranked 245)
 | 2023-11-14 | 31,007 | 68 |
 | 2023-11-15 | 31,043 | 68 |
 | 2023-11-16 | 31,073 | 68 |
+| 2023-11-17 | 31,077 | 68 |
 ## Awards
 Max (Great for Beginners): 315  (Ranked 248)  
-Sum: 2,801 (Ranked 178)  
+Sum: 2,806 (Ranked 178)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 315 |
 | This game is Great for Quick Sessions | 309 |
-| This game has Diverse Characters | 289 |
+| This game has Diverse Characters | 294 |
 | This game has Amazing Storytelling | 278 |
 | This game has Competitive Players | 278 |
 | This game is Highly Recommended | 277 |
@@ -503,3 +504,4 @@ Diff (max vs sum): 70
 | 2023-11-14 | 4.50 | 315 | 2,790 |
 | 2023-11-15 | 4.50 | 315 | 2,794 |
 | 2023-11-16 | 4.50 | 315 | 2,801 |
+| 2023-11-17 | 4.50 | 315 | 2,806 |

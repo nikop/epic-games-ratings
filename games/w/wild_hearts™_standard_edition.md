@@ -23,14 +23,14 @@
 | Master of the Skies | 51.00% | ~148 |
 | Counter Specialist | 49.00% | ~142 |
 | Axer of Auspice | 46.00% | ~133 |
-| Mighty Marmelizer | 42.00% | ~122 |
+| Mighty Marmelizer | 43.00% | ~125 |
 | Fair Means or Foul | 41.00% | ~119 |
 | Single Minded | 40.00% | ~116 |
 | Snare Specialist | 40.00% | ~116 |
 | Kemono at Heart | 40.00% | ~116 |
 | Karakuri Trail | 38.00% | ~110 |
 | Artful Assister | 35.00% | ~102 |
-| Team Hunter | 33.00% | ~96 |
+| Team Hunter | 34.00% | ~99 |
 | Karakuri Isle | 32.00% | ~93 |
 | Reincarnation Cycle Stopper | 32.00% | ~93 |
 | Left Arm Leverager | 30.00% | ~87 |
