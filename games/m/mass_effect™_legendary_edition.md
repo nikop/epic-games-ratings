@@ -15,8 +15,8 @@
 | Medal of Exploration II | 52.00% | ~667 |
 | Turian Ally | 52.00% | ~667 |
 | Council Legion of Merit | 52.00% | ~667 |
+| Medal of Honor | 50.00% | ~642 |
 | Meritorious Service Medal | 50.00% | ~642 |
-| Medal of Honor | 49.00% | ~629 |
 | Charismatic | 49.00% | ~629 |
 | Soldier | 48.00% | ~616 |
 | Soldier Ally | 46.00% | ~590 |
@@ -74,10 +74,10 @@
 | Against All Odds | 27.00% | ~346 |
 | Mobilizer | 27.00% | ~346 |
 | Untouchable | 26.00% | ~334 |
+| A House Divided | 26.00% | ~334 |
 | Eye of the Hurricane | 25.00% | ~321 |
 | Giant Killer | 25.00% | ~321 |
 | First Aid Specialist | 25.00% | ~321 |
-| A House Divided | 25.00% | ~321 |
 | World Shaker | 25.00% | ~321 |
 | Weapon Specialist | 23.00% | ~295 |
 | Pathfinder | 23.00% | ~295 |
@@ -86,8 +86,8 @@
 | Savior | 22.00% | ~282 |
 | Arbiter | 22.00% | ~282 |
 | Paramour II | 21.00% | ~269 |
+| Party Crasher | 21.00% | ~269 |
 | Lost and Found | 21.00% | ~269 |
-| Party Crasher | 20.00% | ~257 |
 | Problem Solver | 20.00% | ~257 |
 | Under Pressure | 19.00% | ~244 |
 | Last Resort | 19.00% | ~244 |

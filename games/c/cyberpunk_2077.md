@@ -14,7 +14,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.70% | ~6,279 |
 | All the President's Men | 0.70% | ~179 |
 | Stanislavski's Method | 0.60% | ~5,382 |
-| Arachnophobia | 0.60% | ~153 |
+| Arachnophobia | 0.60% | ~154 |
 | Christmas Tree Attack | 0.50% | ~4,485 |
 | The Quick and the Dead | 0.50% | ~4,485 |
 | Life of the Road | 0.50% | ~4,485 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,960 (Ranked 15)  
+Progressed: 896,964 (Ranked 15)  
 Completed: 2,782 (0.31%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 2,782 (0.31%) (Ranked 229)
 | 2023-11-14 | 896,716 | 2,778 |
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
-| 2023-11-17 | 896,960 | 2,782 |
+| 2023-11-17 | 896,964 | 2,782 |
 ## Awards
 Max (Character Customization): 105,726  (Ranked 9)  
 Sum: 354,498 (Ranked 10)  

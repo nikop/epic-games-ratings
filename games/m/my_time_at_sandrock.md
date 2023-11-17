@@ -6,21 +6,21 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 262.00% | ~870 |
-| Iron Chef | 190.00% | ~631 |
+| Adept Assembler | 261.00% | ~867 |
+| Iron Chef | 189.00% | ~627 |
 | Greeno-B-Gone | 127.00% | ~422 |
 | Your Especially Earned Trajectory | 99.00% | ~329 |
-| No Mountain Wide Enough | 72.00% | ~239 |
+| No Mountain Wide Enough | 71.00% | ~236 |
 | Can We Keep It? | 68.00% | ~226 |
-| On that Grindset | 67.00% | ~222 |
-| Yakmel Whisperer | 67.00% | ~222 |
+| On that Grindset | 66.00% | ~219 |
 | One of the Cool Kids | 66.00% | ~219 |
-| Diamonds are Forever | 63.00% | ~209 |
+| Yakmel Whisperer | 66.00% | ~219 |
+| Diamonds are Forever | 62.00% | ~206 |
 | Pack Mule | 60.00% | ~199 |
 | Unboxing | 59.00% | ~196 |
 | Big Game Hunter | 55.00% | ~183 |
 | Financially Secure | 52.00% | ~173 |
-| Chatterbox | 52.00% | ~173 |
+| Chatterbox | 51.00% | ~169 |
 | Got Served | 51.00% | ~169 |
 | First Love | 50.00% | ~166 |
 | I Do! | 48.00% | ~159 |
@@ -28,13 +28,13 @@ Number of Ratings: 892  (23.09.2022)
 | Happier-est Place on Earth | 47.00% | ~156 |
 | Call Me Fishmael | 47.00% | ~156 |
 | What Plants Crave | 45.00% | ~149 |
-| Anti-Santa | 44.00% | ~146 |
-| Mole Masher | 44.00% | ~146 |
+| Anti-Santa | 43.00% | ~143 |
+| Mole Masher | 43.00% | ~143 |
 | Builder of the Month | 42.00% | ~139 |
 | Panda-kin | 41.00% | ~136 |
 | My Time Mansion | 41.00% | ~136 |
-| Finishing Touches | 41.00% | ~136 |
 | Commissions, commissions...! | 40.00% | ~133 |
+| Finishing Touches | 40.00% | ~133 |
 | Better Late than Never | 40.00% | ~133 |
 | Knowledge is Power | 39.00% | ~129 |
 | Bridging the Gap | 39.00% | ~129 |
@@ -49,17 +49,17 @@ Number of Ratings: 892  (23.09.2022)
 | He Can Spin A Yarn... | 29.00% | ~96 |
 | Sepia Toned Memories | 27.00% | ~90 |
 | Newton | 26.00% | ~86 |
+| Time Flies | 24.00% | ~80 |
 | Kind of a Big Deal | 24.00% | ~80 |
 | Do Your Part | 24.00% | ~80 |
-| Time Flies | 23.00% | ~76 |
 | Santa In Training | 23.00% | ~76 |
 | Just What I Always Wanted! | 23.00% | ~76 |
 | Sandrunning Speedster | 22.00% | ~73 |
 | It Belongs in a Museum! | 22.00% | ~73 |
-| Cardistry | 20.00% | ~66 |
+| Cardistry | 19.00% | ~63 |
 | Pro Gamer | 19.00% | ~63 |
-| Strong Arms | 11.00% | ~37 |
 | It's High Noon... | 10.00% | ~33 |
+| Strong Arms | 10.00% | ~33 |
 | Got the Receipt? | 10.00% | ~33 |
 | Jack of All Trades | 9.00% | ~30 |
 | Sandrock's Hottest Club | 4.00% | ~13 |

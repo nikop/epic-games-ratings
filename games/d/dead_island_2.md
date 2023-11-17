@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~719 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,470 (Ranked 20)  
+Progressed: 719,477 (Ranked 20)  
 Completed: 2,400 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 2,400 (0.33%) (Ranked 224)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,470 | 2,400 |
+| 2023-11-17 | 719,477 | 2,400 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 51)  
-Sum: 11,438 (Ranked 84)  
+Sum: 11,441 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 569 |
 | This game has Diverse Characters | 551 |
 | This game has Quickly Understood Controls | 519 |
-| This game is Relaxing | 494 |
+| This game is Relaxing | 497 |
 | This game has Amazing Storytelling | 471 |
 | This game is Highly Recommended | 458 |
 | This game is Extremely Fun | 454 |
@@ -497,4 +497,4 @@ Diff (max vs sum): -33
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
-| 2023-11-17 | 4.54 | 7,498 | 11,438 |
+| 2023-11-17 | 4.54 | 7,498 | 11,441 |

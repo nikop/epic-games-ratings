@@ -5,26 +5,26 @@ Rating: 4.55 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~410 |
-| And again, and again, and... | 64.00% | ~301 |
-| Kuvaq Minigame-Master | 62.00% | ~292 |
-| Burn, Elysium, burn! | 62.00% | ~292 |
-| FunScore | 55.00% | ~259 |
+| Huzza, he's back. | 86.00% | ~406 |
+| And again, and again, and... | 64.00% | ~302 |
+| Kuvaq Minigame-Master | 62.00% | ~293 |
+| Burn, Elysium, burn! | 62.00% | ~293 |
+| FunScore | 54.00% | ~255 |
 | Funtime's over | 53.00% | ~250 |
 | Chunky | 50.00% | ~236 |
 | Boat of love, boat of love | 49.00% | ~231 |
-| Shall we play a game? | 48.00% | ~226 |
-| School's out | 44.00% | ~207 |
-| Sole Music | 37.00% | ~174 |
-| Scaffolding Expert | 37.00% | ~174 |
-| Elysian Minigame-Master | 37.00% | ~174 |
-| Portals come in packs | 30.00% | ~141 |
+| Shall we play a game? | 48.00% | ~227 |
+| School's out | 43.00% | ~203 |
+| Scaffolding Expert | 37.00% | ~175 |
+| Elysian Minigame-Master | 37.00% | ~175 |
+| Sole Music | 36.00% | ~170 |
+| Portals come in packs | 30.00% | ~142 |
 | No man left behind! | 29.00% | ~137 |
-| Photo Friend | 26.00% | ~122 |
+| Photo Friend | 26.00% | ~123 |
 | Brainfreeze | 21.00% | ~99 |
 | And everything comes full circle. | 20.00% | ~94 |
-| Masseltov | 19.00% | ~89 |
-| Quickdraw | 16.00% | ~75 |
+| Masseltov | 19.00% | ~90 |
+| Quickdraw | 16.00% | ~76 |
 | Thuna...? | 14.00% | ~66 |
 | Monstrous Harassment | 14.00% | ~66 |
 | Heading the inverter | 14.00% | ~66 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 503)
 | Against better judgement | 6.00% | ~28 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471 (Ranked 309)  
+Progressed: 472 (Ranked 309)  
 Completed: 6 (1.27%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 6 (1.27%) (Ranked 148)
 | 2023-11-14 | 468 | 6 |
 | 2023-11-15 | 469 | 6 |
 | 2023-11-16 | 471 | 6 |
+| 2023-11-17 | 472 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

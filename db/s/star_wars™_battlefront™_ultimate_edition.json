@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1272,
+  "EOS_Progressed": 1273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2023-11-17T01:58:03.4846934+00:00",
       "NumProgressed": 1272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T06:10:19.332192+00:00",
+      "NumProgressed": 1273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3845,9 +3850,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_26",
@@ -3887,7 +3892,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_30",
@@ -3935,7 +3940,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "achievement_36",
@@ -3975,7 +3980,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_40",
@@ -4015,7 +4020,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_45",
@@ -4214,13 +4219,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1272,
+      "Progressed": 1273,
       "Completed": 1
     }
   ],
@@ -4228,8 +4233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:09:45.4855634+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:10:19.3321915+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-17T04:58:27.20179+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:09:45.4856219+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:58:47.6068253+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:10:19.3322487+00:00"
 }

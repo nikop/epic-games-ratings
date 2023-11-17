@@ -15278,7 +15278,7 @@
       "Count": 13041
     }
   ],
-  "EOS_Progressed": 896960,
+  "EOS_Progressed": 896964,
   "EOS_Completed": 2782,
   "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 22,
@@ -39158,6 +39158,11 @@
       "Time": "2023-11-17T05:07:54.5421164+00:00",
       "NumProgressed": 896960,
       "NumCompleted": 2782
+    },
+    {
+      "Time": "2023-11-17T06:08:27.1813999+00:00",
+      "NumProgressed": 896964,
+      "NumCompleted": 2782
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39642,7 +39647,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "KingOfTheCups",
@@ -39705,21 +39710,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896960,
+      "Progressed": 896964,
       "Completed": 2782
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25583,
-      "Completed": 10228
+      "Progressed": 25587,
+      "Completed": 10229
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-17T03:57:49.3932281+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:07:54.542116+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:08:27.1813995+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-17T04:58:09.1706202+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:07:54.5422665+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:58:29.4185284+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:08:27.1815304+00:00"
 }

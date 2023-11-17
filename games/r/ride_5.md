@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 45.00% | ~971 |
+| Eat My Dust | 45.00% | ~972 |
 | First Love | 43.00% | ~928 |
 | Clean Race | 41.00% | ~885 |
 | Hear That Roar! | 39.00% | ~842 |
@@ -16,12 +16,12 @@
 | Restored and Ready | 19.00% | ~410 |
 | I Want One Too! | 19.00% | ~410 |
 | Quick Pit Stop | 19.00% | ~410 |
-| Go-Faster Stripes | 18.00% | ~388 |
+| Go-Faster Stripes | 18.00% | ~389 |
 | I'm Here Too! | 17.00% | ~367 |
 | We've Just Begun | 11.00% | ~237 |
 | Stamina Star | 9.00% | ~194 |
 | Is It the Right Size? | 8.00% | ~173 |
-| Evangelist | 6.00% | ~129 |
+| Evangelist | 6.00% | ~130 |
 | Make It Your Own! | 5.00% | ~108 |
 | Cherry Blossom and Temples | 4.00% | ~86 |
 | I Make the Rules! | 4.00% | ~86 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,158 (Ranked 222)  
+Progressed: 2,159 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-14 | 2,140 | 0 |
 | 2023-11-15 | 2,148 | 0 |
 | 2023-11-16 | 2,156 | 0 |
-| 2023-11-17 | 2,158 | 0 |
+| 2023-11-17 | 2,159 | 0 |

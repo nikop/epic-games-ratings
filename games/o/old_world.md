@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~461 |
 | Trade Caravan | 3.00% | ~461 |
 | Regicide | 2.00% | ~307 |
+| Beloved | 2.00% | ~307 |
 | Drillmaster | 2.00% | ~307 |
 | Brilliant | 2.00% | ~307 |
 | Fountainhead | 2.00% | ~307 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 2.00% | ~307 |
 | Kushite Paganism | 2.00% | ~307 |
 | Hanging Gardens in Babylon | 1.00% | ~154 |
-| Beloved | 1.00% | ~154 |
 | Capable | 1.00% | ~154 |
 | Conqueror | 1.00% | ~154 |
 | Invincible | 1.00% | ~154 |
@@ -120,15 +120,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 1.00% | ~154 |
 | Devout | 0.90% | ~138 |
 | Ready | 0.90% | ~138 |
+| Clerics | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
+| Egypt | 0.90% | ~138 |
 | Assyrian Paganism | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
 | Enlightenment | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
 | Bad Heir Day | 0.80% | ~123 |
-| Clerics | 0.80% | ~123 |
-| Egypt | 0.80% | ~123 |
 | Hittite Paganism | 0.80% | ~123 |
 | Turreted Elephant | 0.80% | ~123 |
 | Poetic Leader | 0.80% | ~123 |

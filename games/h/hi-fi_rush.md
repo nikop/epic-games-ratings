@@ -51,7 +51,7 @@ Rating: 4.86 (Ranked 30)
 | New bad guys? No problem! | 1.00% | ~27 |
 | OK, well THEY came after ME! | 0.80% | ~34 |
 | Easy Listening | 0.60% | ~25 |
-| Choose your own adventure | 0.50% | ~14 |
+| Choose your own adventure | 0.60% | ~16 |
 | Problem solved... wait, what? | 0.40% | ~17 |
 | Now this is how you fight like a team! | 0.40% | ~17 |
 | With our powers combined…and to the rhythm… | 0.40% | ~17 |

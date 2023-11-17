@@ -5,25 +5,25 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,029 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,784 |
-| Loose Ends | 34.00% | ~26,019 |
+| First Step Into the Knight | 51.00% | ~39,030 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,785 |
+| Loose Ends | 34.00% | ~26,020 |
 | To the Victor Go the Spoils | 28.00% | ~21,428 |
-| Knighthood | 27.00% | ~20,662 |
+| Knighthood | 27.00% | ~20,663 |
 | Get ReQ'd | 25.00% | ~19,132 |
 | Whispered Words | 25.00% | ~19,132 |
-| The Batman Family | 23.00% | ~17,601 |
+| The Batman Family | 23.00% | ~17,602 |
 | Lock and Key | 22.00% | ~16,836 |
 | Something in the Clay | 21.00% | ~16,071 |
 | Quartzer Life Crisis | 21.00% | ~16,071 |
-| Working Hard or Harley Working? | 20.00% | ~15,305 |
-| Unstoppable Force | 20.00% | ~15,305 |
-| Bad Apples in Every Orchard | 20.00% | ~15,305 |
-| Snow Problem | 19.00% | ~14,540 |
+| Working Hard or Harley Working? | 20.00% | ~15,306 |
+| Unstoppable Force | 20.00% | ~15,306 |
+| Bad Apples in Every Orchard | 20.00% | ~15,306 |
+| Snow Problem | 19.00% | ~14,541 |
 | The Show Mud Go On | 18.00% | ~13,775 |
 | From Inside Gotham's Walls | 18.00% | ~13,775 |
 | Protector of Gotham | 17.00% | ~13,010 |
-| Universal Health Scare | 16.00% | ~12,244 |
+| Universal Health Scare | 16.00% | ~12,245 |
 | In Your Element | 15.00% | ~11,479 |
 | Voiceless | 15.00% | ~11,479 |
 | Rock and a Hard Place | 14.00% | ~10,714 |
@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 925)
 | Gotham Knight | 12.00% | ~9,183 |
 | Gotham City Confidential | 11.00% | ~8,418 |
 | Drone You Out | 10.00% | ~7,653 |
-| Out of Their League | 9.00% | ~6,887 |
-| Solid Alibi | 9.00% | ~6,887 |
+| Out of Their League | 9.00% | ~6,888 |
+| Solid Alibi | 9.00% | ~6,888 |
 | Fusion Expert | 7.00% | ~5,357 |
 | Expert Crime Fighter | 6.00% | ~4,592 |
 | Family Meeting | 6.00% | ~4,592 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,527 (Ranked 97)  
+Progressed: 76,529 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 123 (0.16%) (Ranked 261)
 | 2023-11-14 | 76,429 | 123 |
 | 2023-11-15 | 76,468 | 123 |
 | 2023-11-16 | 76,514 | 123 |
-| 2023-11-17 | 76,527 | 123 |
+| 2023-11-17 | 76,529 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,946  (Ranked 98)  
 Sum: 4,997 (Ranked 138)  

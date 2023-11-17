@@ -626,9 +626,9 @@
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -730,9 +730,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -955,8 +955,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:04:03.2098168+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:04:34.8689384+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.7507945+00:00",
-  "LastUpdate_Ratings": "2023-11-17T04:59:57.3538908+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:04:03.209846+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:00:17.5563714+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:04:34.8689724+00:00"
 }

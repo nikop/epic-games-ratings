@@ -3151,9 +3151,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82896,
+  "EOS_Progressed": 82897,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 835,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26611,6 +26611,11 @@
       "Time": "2023-11-17T05:06:10.0065712+00:00",
       "NumProgressed": 82896,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-11-17T06:06:43.1278319+00:00",
+      "NumProgressed": 82897,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 30,
@@ -26622,7 +26627,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10776
+      "UsersEstimate": 10777
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -26670,7 +26675,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11605
+      "UsersEstimate": 11606
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -26790,7 +26795,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12434
+      "UsersEstimate": 12435
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -26861,15 +26866,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82896,
+      "Progressed": 82897,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-16T14:59:27.0951795+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:06:10.0065708+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:06:43.1278317+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:00:44.9686103+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:06:10.0067207+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:01:05.6511578+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:06:43.1279285+00:00"
 }

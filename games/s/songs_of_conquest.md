@@ -6,13 +6,18 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 18.00% | ~13 |
+| Adept | 19.00% | ~14 |
 | Double Kill | 13.00% | ~9 |
 | Sorcerous Spree | 6.00% | ~4 |
 | Veteran | 4.00% | ~3 |
-| Dressed For Success | 1.00% | ~1 |
-| Critical Hit | 1.00% | ~1 |
+| Dressed For Success | 3.00% | ~2 |
+| Critical Hit | 3.00% | ~2 |
+| Infernal Influence | 1.00% | ~1 |
 | Don't Touch My Stuff | 1.00% | ~1 |
+| Such A Fungi | 1.00% | ~1 |
+| Humiliation | 1.00% | ~1 |
+| Expert Essence Employment | 1.00% | ~1 |
+| Venisti, Vidisti, Perdidisti | 1.00% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
 | Death To Diplomacy | 0.00% | ~0 |
@@ -32,7 +37,6 @@ Number of Ratings: 292  (23.09.2022)
 | Barbecue | 0.00% | ~0 |
 | In The Thick of It | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
-| Infernal Influence | 0.00% | ~0 |
 | Killing Spree | 0.00% | ~0 |
 | Together For Her | 0.00% | ~0 |
 | An Empress's Hope | 0.00% | ~0 |
@@ -43,7 +47,6 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 0.00% | ~0 |
 | From the Ashes | 0.00% | ~0 |
 | The Marsh Expands | 0.00% | ~0 |
-| Such A Fungi | 0.00% | ~0 |
 | Get Over Here! | 0.00% | ~0 |
 | Cleave | 0.00% | ~0 |
 | Landlord Extraordinaire | 0.00% | ~0 |
@@ -51,11 +54,8 @@ Number of Ratings: 292  (23.09.2022)
 | Ultra Kill | 0.00% | ~0 |
 | Master | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
-| Humiliation | 0.00% | ~0 |
 | Pyrrhic Victory | 0.00% | ~0 |
-| Expert Essence Employment | 0.00% | ~0 |
 | Veni, Vidi, Vici | 0.00% | ~0 |
-| Venisti, Vidisti, Perdidisti | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |

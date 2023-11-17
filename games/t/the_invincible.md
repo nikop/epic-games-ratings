@@ -12,16 +12,16 @@
 | The City | 7.00% | ~10 |
 | Survivors | 7.00% | ~10 |
 | The Teleprobe | 6.00% | ~8 |
+| On her own | 4.00% | ~5 |
 | Peacemaker | 4.00% | ~5 |
 | The Alliance | 4.00% | ~5 |
+| Flying Objects Operator | 4.00% | ~5 |
 | Beyond divisions | 4.00% | ~5 |
-| On her own | 3.00% | ~4 |
 | Evacuation | 3.00% | ~4 |
 | I remember everything! | 2.00% | ~3 |
 | The Invincible | 2.00% | ~3 |
 | Volcanologist | 2.00% | ~3 |
 | Innate curiosity | 2.00% | ~3 |
-| Flying Objects Operator | 2.00% | ~3 |
 | Fierce fight | 1.00% | ~1 |
 | Violent solution | 1.00% | ~1 |
 | Another giant | 1.00% | ~1 |

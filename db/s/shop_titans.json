@@ -7025,10 +7025,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27556,
       "NumberOfAwardsMax": 4832
+    },
+    {
+      "Time": "2023-11-17T06:00:24.7517885+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27557,
+      "NumberOfAwardsMax": 4832
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27556,
+  "NumberOfAwards": 27557,
   "NumberOfAwardsMax": 4832,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7078,12 +7084,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3782
+      "Count": 3783
     }
   ],
-  "EOS_Progressed": 140137,
+  "EOS_Progressed": 140147,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1191,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28711,6 +28717,11 @@
       "Time": "2023-11-17T05:04:21.1928218+00:00",
       "NumProgressed": 140137,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-17T06:04:53.1689451+00:00",
+      "NumProgressed": 140147,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -28954,7 +28965,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "commonres02",
@@ -29194,7 +29205,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "gold02",
@@ -29617,15 +29628,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140137,
+      "Progressed": 140147,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-16T18:59:15.8080513+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:04:21.1928215+00:00",
+  "LastChanged": "2023-11-17T06:00:24.7517883+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:04:53.1689447+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:00:04.5931988+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:04:21.1930197+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:00:24.7517892+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:04:53.1691923+00:00"
 }

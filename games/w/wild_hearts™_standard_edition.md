@@ -40,8 +40,8 @@
 | Human Believer | 26.00% | ~76 |
 | Karakuri Minato | 26.00% | ~76 |
 | Threaded Harmony | 24.00% | ~70 |
+| Jack of All Trades | 23.00% | ~67 |
 | Quintessence of Form | 23.00% | ~67 |
-| Jack of All Trades | 22.00% | ~64 |
 | Karakuri Fortress | 21.00% | ~61 |
 | Volatile Vocation | 20.00% | ~58 |
 | Tender Touch | 20.00% | ~58 |

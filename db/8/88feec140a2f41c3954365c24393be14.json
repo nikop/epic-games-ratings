@@ -173,10 +173,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101261,
-  "EOS_Completed": 4554,
-  "EOS_NewPlayers": 777,
-  "EOS_NewCompleters": 90,
+  "EOS_Progressed": 101262,
+  "EOS_Completed": 4555,
+  "EOS_NewPlayers": 778,
+  "EOS_NewCompleters": 91,
   "EOS_Completed_Percentage": 4.5,
   "EosHistory": [
     {
@@ -7593,6 +7593,11 @@
       "Time": "2023-11-17T05:05:59.2510061+00:00",
       "NumProgressed": 101261,
       "NumCompleted": 4554
+    },
+    {
+      "Time": "2023-11-17T06:06:31.9007432+00:00",
+      "NumProgressed": 101262,
+      "NumCompleted": 4555
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -7605,7 +7610,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 63794
+      "UsersEstimate": 63795
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -7621,7 +7626,7 @@
       "Name": "Gold Pact",
       "Percentage": 17,
       "XP": 125,
-      "UsersEstimate": 17214
+      "UsersEstimate": 17215
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -7645,7 +7650,7 @@
       "Name": "Ship Dip!",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 51643
+      "UsersEstimate": 51644
     },
     {
       "ID": "TheArtOfParley",
@@ -7669,7 +7674,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 59744
+      "UsersEstimate": 59745
     },
     {
       "ID": "WeCanDoBetter",
@@ -7677,7 +7682,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 77971
+      "UsersEstimate": 77972
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -7700,16 +7705,16 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 101261,
-      "Completed": 4554
+      "Progressed": 101262,
+      "Completed": 4555
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-05T20:03:00.4569456+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:05:59.2510057+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:06:31.9007425+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:02.959945+00:00",
-  "LastUpdate_Ratings": "2023-11-17T04:58:16.5660904+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:05:59.251052+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:58:36.8104628+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:06:31.9007909+00:00"
 }

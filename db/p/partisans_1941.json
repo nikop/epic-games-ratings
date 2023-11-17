@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -4074,9 +4074,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 727
     },
     {
       "ID": "We_were_not_here",
@@ -4106,8 +4106,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:05:06.9040426+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:05:39.5370756+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-17T04:59:59.7061269+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:05:06.904074+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:00:19.8805977+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:05:39.5371081+00:00"
 }

@@ -1513,9 +1513,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13708,
+  "EOS_Progressed": 13709,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14678,6 +14678,11 @@
       "Time": "2023-11-17T01:57:08.7271403+00:00",
       "NumProgressed": 13708,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-17T06:09:27.6053128+00:00",
+      "NumProgressed": 13709,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14745,7 +14750,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6991
+      "UsersEstimate": 6992
     },
     {
       "ID": "ACH09",
@@ -14809,7 +14814,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH17",
@@ -14825,7 +14830,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACH19",
@@ -14968,7 +14973,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13708,
+      "Progressed": 13709,
       "Completed": 53
     }
   ],
@@ -14976,8 +14981,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-15T20:59:02.3076225+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:08:53.8386631+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:09:27.6053124+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:00:44.1963532+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:08:53.8387546+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:01:04.8288785+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:09:27.605439+00:00"
 }

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1283,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3528,9 +3528,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 125,
-      "UsersEstimate": 629
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_10",
@@ -4120,9 +4120,9 @@
       "ID": "achievement_51",
       "SetID": "d252ncf",
       "Name": "A House Divided",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_52",
@@ -4416,9 +4416,9 @@
       "ID": "achievement_85",
       "SetID": "d252ncf",
       "Name": "Party Crasher",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_86",
@@ -4556,8 +4556,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:06:16.0279996+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:06:49.3087411+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:02:53.230446+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:06:16.0281525+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:03:22.2889068+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:06:49.3088915+00:00"
 }

@@ -8607,9 +8607,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808659,
+  "EOS_Progressed": 808660,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 893,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32252,6 +32252,11 @@
       "Time": "2023-11-17T05:08:15.5654594+00:00",
       "NumProgressed": 808659,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-17T06:08:48.731103+00:00",
+      "NumProgressed": 808660,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32287,7 +32292,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129385
+      "UsersEstimate": 129386
     },
     {
       "ID": "Awakening",
@@ -32295,7 +32300,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169818
+      "UsersEstimate": 169819
     },
     {
       "ID": "BadGirl",
@@ -32799,7 +32804,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88952
+      "UsersEstimate": 88953
     },
     {
       "ID": "Sniper",
@@ -32871,7 +32876,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88952
+      "UsersEstimate": 88953
     },
     {
       "ID": "TrialAndError",
@@ -32918,15 +32923,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808659,
+      "Progressed": 808660,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-17T01:50:46.9847194+00:00",
-  "LastChanged_Achievements": "2023-11-17T05:08:15.565459+00:00",
+  "LastChanged_Achievements": "2023-11-17T06:08:48.7311024+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:02:49.8177714+00:00",
-  "LastUpdate_Achievements": "2023-11-17T05:08:15.5656359+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:03:18.9302127+00:00",
+  "LastUpdate_Achievements": "2023-11-17T06:08:48.7312538+00:00"
 }
