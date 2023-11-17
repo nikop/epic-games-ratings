@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -2449,6 +2449,11 @@
       "Time": "2023-11-16T04:04:11.9729038+00:00",
       "NumProgressed": 566,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T02:27:00.4848523+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2458,9 +2463,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 266
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2571,14 +2576,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:52:22.0521255+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:27:00.4848519+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.3644935+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:48:44.1311126+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:52:22.0521485+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:22:41.9905014+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:27:00.4848741+00:00"
 }

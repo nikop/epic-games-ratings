@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -1901,9 +1901,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 176
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -1972,8 +1972,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:54:09.4522039+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:21.6336256+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:30.974659+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:54:09.4522289+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:24.1683629+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:21.6336527+00:00"
 }

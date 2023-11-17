@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Condor | 7.00% | ~9 |
-| The End | 7.00% | ~9 |
-| The Necroevolution | 6.00% | ~8 |
-| The field base | 6.00% | ~8 |
+| The Condor | 8.00% | ~11 |
+| The End | 8.00% | ~11 |
+| The Necroevolution | 7.00% | ~10 |
+| The field base | 7.00% | ~10 |
+| Survivors | 7.00% | ~10 |
 | The Camp | 6.00% | ~8 |
 | The City | 6.00% | ~8 |
-| Survivors | 6.00% | ~8 |
 | The Teleprobe | 5.00% | ~7 |
 | Peacemaker | 4.00% | ~5 |
 | The Alliance | 4.00% | ~5 |
+| Beyond divisions | 4.00% | ~5 |
 | On her own | 3.00% | ~4 |
-| Beyond divisions | 3.00% | ~4 |
+| Evacuation | 3.00% | ~4 |
 | I remember everything! | 2.00% | ~3 |
 | The Invincible | 2.00% | ~3 |
-| Evacuation | 2.00% | ~3 |
 | Volcanologist | 2.00% | ~3 |
 | Innate curiosity | 2.00% | ~3 |
 | Flying Objects Operator | 2.00% | ~3 |
@@ -34,7 +34,7 @@
 | I leave no man behind (no exceptions) | 0.00% | ~0 |
 | Strong objection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134 (Ranked 401)  
+Progressed: 136 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-09 | 117 | 0 |
 | 2023-11-10 | 127 | 0 |
 | 2023-11-16 | 132 | 0 |
-| 2023-11-17 | 134 | 0 |
+| 2023-11-17 | 136 | 0 |

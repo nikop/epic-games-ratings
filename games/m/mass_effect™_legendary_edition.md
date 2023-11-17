@@ -45,6 +45,7 @@
 | Ghost Ship | 31.00% | ~397 |
 | The Justicar | 31.00% | ~397 |
 | The Quarian | 31.00% | ~397 |
+| Ghost of the Father | 31.00% | ~397 |
 | The Prodigal | 31.00% | ~397 |
 | Galactic Explorer | 31.00% | ~397 |
 | A Personal Touch | 30.00% | ~385 |
@@ -52,7 +53,6 @@
 | The Assassin | 30.00% | ~385 |
 | Battlemaster | 30.00% | ~385 |
 | Catharsis | 30.00% | ~385 |
-| Ghost of the Father | 30.00% | ~385 |
 | The Cure | 30.00% | ~385 |
 | Driven | 30.00% | ~385 |
 | Shopaholic | 30.00% | ~385 |

@@ -31,7 +31,7 @@
 | The Cathedral of Light | 23.00% | ~65 |
 | Shame! Shame! Shame! | 23.00% | ~65 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
-| Tanos' Crusade Against Thalya | 18.00% | ~51 |
+| Tanos' Crusade Against Thalya | 19.00% | ~54 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
 | Unstoppable Horde | 16.00% | ~45 |
 | Master of the Undead | 15.00% | ~43 |
@@ -42,8 +42,8 @@
 | Stop Tanos! | 12.00% | ~34 |
 | The Duel | 12.00% | ~34 |
 | If Looks Could Kill | 10.00% | ~28 |
+| The Finitude Drill | 8.00% | ~23 |
 | Bonus Evilness | 7.00% | ~20 |
-| The Finitude Drill | 7.00% | ~20 |
 | My Little Torture Chamber | 6.00% | ~17 |
 | Sabotage! | 6.00% | ~17 |
 | Doom Hill | 6.00% | ~17 |

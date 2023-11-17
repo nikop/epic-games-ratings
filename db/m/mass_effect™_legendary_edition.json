@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4163,9 +4163,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 397
     },
     {
       "ID": "achievement_58",
@@ -4551,8 +4551,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:54:19.7203353+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:29.444659+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:50:50.7016+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:54:19.7204857+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:25:50.7636387+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:29.4448289+00:00"
 }

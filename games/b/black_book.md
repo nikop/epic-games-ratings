@@ -9,18 +9,18 @@ Number of Ratings: 96  (23.09.2022)
 | Initiation | 28.00% | ~14,941 |
 | Student | 21.00% | ~11,206 |
 | Knower | 16.00% | ~8,538 |
-| Aspen Tree | 14.00% | ~7,470 |
-| Healer | 14.00% | ~7,470 |
-| Listener | 14.00% | ~7,470 |
+| Aspen Tree | 14.00% | ~7,471 |
+| Healer | 14.00% | ~7,471 |
+| Listener | 14.00% | ~7,471 |
 | Soldier | 12.00% | ~6,403 |
 | Scientist | 11.00% | ~5,870 |
 | Cow Level | 10.00% | ~5,336 |
 | Water | 10.00% | ~5,336 |
-| Old Friend | 9.00% | ~4,802 |
-| Herbalist | 9.00% | ~4,802 |
-| New Spirits | 9.00% | ~4,802 |
-| Voipel | 9.00% | ~4,802 |
-| Black Mage | 9.00% | ~4,802 |
+| Old Friend | 9.00% | ~4,803 |
+| Herbalist | 9.00% | ~4,803 |
+| New Spirits | 9.00% | ~4,803 |
+| Voipel | 9.00% | ~4,803 |
+| Black Mage | 9.00% | ~4,803 |
 | Card Player | 8.00% | ~4,269 |
 | Pine Tree | 8.00% | ~4,269 |
 | Collector | 8.00% | ~4,269 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,067 |
 | Word Master | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,360 (Ranked 108)  
+Progressed: 53,362 (Ranked 108)  
 Completed: 50 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,14 +140,14 @@ Completed: 50 (0.09%) (Ranked 282)
 | 2023-11-14 | 52,917 | 49 |
 | 2023-11-15 | 53,117 | 50 |
 | 2023-11-16 | 53,331 | 50 |
-| 2023-11-17 | 53,360 | 50 |
+| 2023-11-17 | 53,362 | 50 |
 ## Awards
-Max (Character Customization): 87  (Ranked 379)  
-Sum: 87 (Ranked 452)  
-Diff (max vs sum): -73  
+Max (Character Customization): 88  (Ranked 377)  
+Sum: 88 (Ranked 452)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 87 |
+| This game has Inclusive Character Customization | 88 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -249,3 +249,4 @@ Diff (max vs sum): -73
 | 2023-11-09 | 4.66 | - | 86 | 86 |
 | 2023-11-11 | 4.65 | - | 86 | 86 |
 | 2023-11-14 | 4.65 | - | 87 | 87 |
+| 2023-11-17 | 4.65 | - | 88 | 88 |

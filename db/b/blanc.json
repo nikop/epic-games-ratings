@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2918,
+  "EOS_Progressed": 2919,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4131,6 +4131,11 @@
       "Time": "2023-11-16T18:05:00.5738703+00:00",
       "NumProgressed": 2918,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T02:28:09.1395231+00:00",
+      "NumProgressed": 2919,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4182,7 +4187,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "SLIDERS",
@@ -4238,14 +4243,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2918,
+      "Progressed": 2919,
       "Completed": 6
     }
   ],
@@ -4253,8 +4258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:53:52.9608538+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:09.1395228+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:19.7535044+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:49:01.2807776+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:53:52.9608861+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:22:54.2770857+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:09.1395549+00:00"
 }

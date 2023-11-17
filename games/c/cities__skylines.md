@@ -6,28 +6,28 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~839,007 |
-| Green Energy | 60.00% | ~709,020 |
-| Foggy Weather | 59.00% | ~697,203 |
-| Singing In The- | 59.00% | ~697,203 |
-| Unpopular Mayor | 40.00% | ~472,680 |
-| Power at Your Fingertips | 33.00% | ~389,961 |
-| City Planner | 23.00% | ~271,791 |
-| Rolling in Dough | 20.00% | ~236,340 |
-| Does My Bum Look Big In This? | 17.00% | ~200,889 |
-| Climbing the Social Ladder | 16.00% | ~189,072 |
-| Safe City | 14.00% | ~165,438 |
-| Quay-King | 11.00% | ~129,987 |
-| Lawmaker | 10.00% | ~118,170 |
-| With Canals You Can! | 10.00% | ~118,170 |
-| Nomen Est Omen | 7.00% | ~82,719 |
-| Well Informed | 6.00% | ~70,902 |
-| Fire Watch | 5.00% | ~59,085 |
-| Greenest City | 4.00% | ~47,268 |
-| Heavenly City | 3.00% | ~35,451 |
-| Reporting! | 3.00% | ~35,451 |
-| SIMulated City | 3.00% | ~35,451 |
-| The Safest Town | 3.00% | ~35,451 |
+| Pioneer | 71.00% | ~839,024 |
+| Green Energy | 60.00% | ~709,034 |
+| Foggy Weather | 59.00% | ~697,217 |
+| Singing In The- | 59.00% | ~697,217 |
+| Unpopular Mayor | 40.00% | ~472,690 |
+| Power at Your Fingertips | 33.00% | ~389,969 |
+| City Planner | 23.00% | ~271,797 |
+| Rolling in Dough | 20.00% | ~236,345 |
+| Does My Bum Look Big In This? | 17.00% | ~200,893 |
+| Climbing the Social Ladder | 16.00% | ~189,076 |
+| Safe City | 14.00% | ~165,441 |
+| Quay-King | 11.00% | ~129,990 |
+| Lawmaker | 10.00% | ~118,172 |
+| With Canals You Can! | 10.00% | ~118,172 |
+| Nomen Est Omen | 7.00% | ~82,721 |
+| Well Informed | 6.00% | ~70,903 |
+| Fire Watch | 5.00% | ~59,086 |
+| Greenest City | 4.00% | ~47,269 |
+| Heavenly City | 3.00% | ~35,452 |
+| Reporting! | 3.00% | ~35,452 |
+| SIMulated City | 3.00% | ~35,452 |
+| The Safest Town | 3.00% | ~35,452 |
 | Professional Dumper | 2.00% | ~23,634 |
 | City in Motion | 1.00% | ~11,817 |
 | Earthloving City | 1.00% | ~11,817 |
@@ -36,13 +36,13 @@ Number of Ratings: 25,248  (23.09.2022)
 | Beam Me Up | 0.70% | ~8,272 |
 | Full Capacity | 0.60% | ~7,090 |
 | Terraformer | 0.60% | ~7,090 |
-| Decorator | 0.50% | ~5,908 |
-| Drop the Base | 0.50% | ~5,908 |
-| It's heading right for us! | 0.50% | ~5,908 |
-| Shake It Up! | 0.50% | ~5,908 |
-| Speed up! | 0.50% | ~5,908 |
-| The Waters of Our Lives | 0.50% | ~5,908 |
-| Twist and shout | 0.50% | ~5,908 |
+| Decorator | 0.50% | ~5,909 |
+| Drop the Base | 0.50% | ~5,909 |
+| It's heading right for us! | 0.50% | ~5,909 |
+| Shake It Up! | 0.50% | ~5,909 |
+| Speed up! | 0.50% | ~5,909 |
+| The Waters of Our Lives | 0.50% | ~5,909 |
+| Twist and shout | 0.50% | ~5,909 |
 | Airfield Expertise | 0.40% | ~4,727 |
 | Get Your Snowshoes Ready! | 0.40% | ~4,727 |
 | Happy Town | 0.40% | ~4,727 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,182 |
 | Z00 | 0.10% | ~1,182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,181,700 (Ranked 11)  
+Progressed: 1,181,724 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,17 +337,17 @@ Completed: 10 (0.00%) (Ranked 352)
 | 2023-11-14 | 1,178,538 | 10 |
 | 2023-11-15 | 1,180,063 | 10 |
 | 2023-11-16 | 1,181,574 | 10 |
-| 2023-11-17 | 1,181,700 | 10 |
+| 2023-11-17 | 1,181,724 | 10 |
 ## Awards
 Max (Great for Beginners): 6,199  (Ranked 60)  
-Sum: 46,075 (Ranked 31)  
+Sum: 46,081 (Ranked 31)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,199 |
 | This game is Relaxing | 6,065 |
 | This game is Educational | 5,774 |
-| This game has Quickly Understood Controls | 5,635 |
+| This game has Quickly Understood Controls | 5,641 |
 | This game is Extremely Fun | 5,293 |
 | This game is Highly Recommended | 5,160 |
 | This game has Amazing Storytelling | 4,248 |
@@ -652,4 +652,4 @@ Diff (max vs sum): 29
 | 2023-11-14 | 4.66 | - | 6,175 | 45,962 |
 | 2023-11-15 | 4.66 | - | 6,189 | 46,014 |
 | 2023-11-16 | 4.66 | - | 6,199 | 46,068 |
-| 2023-11-17 | 4.66 | - | 6,199 | 46,075 |
+| 2023-11-17 | 4.66 | - | 6,199 | 46,081 |

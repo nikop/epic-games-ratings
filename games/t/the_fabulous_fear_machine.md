@@ -6,21 +6,22 @@
 | ---- | ---------- | ----- |
 | Master trainee | 8.00% | ~3 |
 | You have three wishes left | 8.00% | ~3 |
+| Bread and bocaua | 5.00% | ~2 |
+| Fanatacism is... poisonous | 5.00% | ~2 |
 | Giant | 5.00% | ~2 |
 | A rival with no options | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
 | The battle of Great Britain | 5.00% | ~2 |
 | A continent with chemistry | 5.00% | ~2 |
+| ECO mode | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
-| Bread and bocaua | 3.00% | ~1 |
-| Fanatacism is... poisonous | 3.00% | ~1 |
 | Jung's dream | 3.00% | ~1 |
+| The scholar | 3.00% | ~1 |
 | Pulp! Terror Tales in the Night | 3.00% | ~1 |
 | Pulp! Where Monsters Dwell | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
-| ECO mode | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -29,7 +30,6 @@
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
-| The scholar | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |

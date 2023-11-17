@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2605,10 +2605,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 4825,
       "NumberOfAwardsMax": 1520
+    },
+    {
+      "Time": "2023-11-17T02:21:56.1068823+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 4828,
+      "NumberOfAwardsMax": 1520
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4825,
+  "NumberOfAwards": 4828,
   "NumberOfAwardsMax": 1520,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2682,12 +2688,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 360
+      "Count": 363
     }
   ],
   "EOS_Progressed": 8569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8683,9 +8689,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-16T21:59:06.6997033+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:52:40.3899618+00:00",
+  "LastChanged": "2023-11-17T02:21:56.1068822+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:27:14.258531+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:47:39.6201409+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:52:40.390017+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:21:56.1068826+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:27:14.2585798+00:00"
 }

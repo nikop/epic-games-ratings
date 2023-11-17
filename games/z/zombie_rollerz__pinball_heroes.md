@@ -5,15 +5,15 @@ Rating: 4.30 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~169 |
-| Bullseye! | 84.00% | ~161 |
+| Level Up! | 88.00% | ~170 |
+| Bullseye! | 84.00% | ~162 |
 | Graduation! | 79.00% | ~152 |
-| Villfir Forest | 73.00% | ~140 |
-| Right in the kisser! | 58.00% | ~111 |
-| The Thrower | 46.00% | ~88 |
-| Duscot Steamcity | 46.00% | ~88 |
-| The Penguin | 44.00% | ~84 |
-| The Shaman | 44.00% | ~84 |
+| Villfir Forest | 74.00% | ~143 |
+| Right in the kisser! | 58.00% | ~112 |
+| Duscot Steamcity | 47.00% | ~91 |
+| The Thrower | 46.00% | ~89 |
+| The Shaman | 45.00% | ~87 |
+| The Penguin | 44.00% | ~85 |
 | The Magician | 39.00% | ~75 |
 | The Tunneler | 39.00% | ~75 |
 | Level Up!! | 36.00% | ~69 |
@@ -22,27 +22,27 @@ Rating: 4.30 (Ranked 835)
 | Topped up | 28.00% | ~54 |
 | The Bird | 27.00% | ~52 |
 | The Ninja | 26.00% | ~50 |
-| The Idol | 24.00% | ~46 |
+| The Idol | 25.00% | ~48 |
 | Inferno Ruins | 24.00% | ~46 |
 | I'm Rich | 22.00% | ~42 |
-| 1 is all I need | 21.00% | ~40 |
-| The Slime | 21.00% | ~40 |
-| Untouchable | 19.00% | ~36 |
+| 1 is all I need | 21.00% | ~41 |
+| The Slime | 21.00% | ~41 |
+| Untouchable | 19.00% | ~37 |
 | The Flower | 17.00% | ~33 |
 | The Giant | 17.00% | ~33 |
 | The Blacksmith | 16.00% | ~31 |
 | Out of the Frying Pan... | 16.00% | ~31 |
 | Ember | 16.00% | ~31 |
 | The Ooze | 15.00% | ~29 |
-| The Assistant | 14.00% | ~27 |
 | Turquoise | 14.00% | ~27 |
-| The Steampunk | 13.00% | ~25 |
+| The Assistant | 13.00% | ~25 |
+| The Steampunk | 12.00% | ~23 |
 | The Droid | 10.00% | ~19 |
 | Verse | 10.00% | ~19 |
 | Iron | 10.00% | ~19 |
 | The Bomber | 8.00% | ~15 |
 | Tested | 8.00% | ~15 |
-| Highway to Hell | 7.00% | ~13 |
+| Highway to Hell | 7.00% | ~14 |
 | Power Overwhelming | 6.00% | ~12 |
 | The Astronaut | 6.00% | ~12 |
 | Mithril | 6.00% | ~12 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 835)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 380)  
+Progressed: 193 (Ranked 380)  
 Completed: 1 (0.52%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 1 (0.52%) (Ranked 197)
 | 2023-11-14 | 189 | 1 |
 | 2023-11-15 | 191 | 1 |
 | 2023-11-16 | 192 | 1 |
+| 2023-11-17 | 193 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

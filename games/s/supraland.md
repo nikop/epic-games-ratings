@@ -6,19 +6,19 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,665 |
-| The Blues | 85.00% | ~623,046 |
+| Out of bed | 99.00% | ~725,666 |
+| The Blues | 85.00% | ~623,047 |
 | Fast | 66.00% | ~483,777 |
-| Healthbar | 55.00% | ~403,147 |
-| Force Cube | 53.00% | ~388,487 |
+| Healthbar | 55.00% | ~403,148 |
+| Force Cube | 53.00% | ~388,488 |
 | Double Jump | 48.00% | ~351,838 |
 | Regeneration | 47.00% | ~344,508 |
 | Triple Jump | 43.00% | ~315,188 |
 | Climb the hill | 42.00% | ~307,858 |
 | Through the fire pipe | 39.00% | ~285,868 |
 | MacGuffin | 38.00% | ~278,538 |
-| Just once | 37.00% | ~271,208 |
-| Armor | 30.00% | ~219,898 |
+| Just once | 37.00% | ~271,209 |
+| Armor | 30.00% | ~219,899 |
 | True holy spirit | 28.00% | ~205,239 |
 | That's how electronics work obviously | 27.00% | ~197,909 |
 | Force Cube Catapult | 25.00% | ~183,249 |
@@ -37,13 +37,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~95,289 |
 | Purple Cube | 13.00% | ~95,289 |
 | Supraball Noob | 13.00% | ~95,289 |
-| Strong | 12.00% | ~87,959 |
-| Blue King's lair | 11.00% | ~80,629 |
-| Payback | 11.00% | ~80,629 |
-| Got the coins back | 11.00% | ~80,629 |
-| Got the gun back | 11.00% | ~80,629 |
-| Infiltrated | 11.00% | ~80,629 |
-| Robbed | 11.00% | ~80,629 |
+| Strong | 12.00% | ~87,960 |
+| Blue King's lair | 11.00% | ~80,630 |
+| Payback | 11.00% | ~80,630 |
+| Got the coins back | 11.00% | ~80,630 |
+| Got the gun back | 11.00% | ~80,630 |
+| Infiltrated | 11.00% | ~80,630 |
+| Robbed | 11.00% | ~80,630 |
 | Fire Flies | 10.00% | ~73,300 |
 | Cave Flies | 10.00% | ~73,300 |
 | Gold Scam | 10.00% | ~73,300 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,995 (Ranked 19)  
+Progressed: 732,996 (Ranked 19)  
 Completed: 761 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 761 (0.10%) (Ranked 277)
 | 2023-11-14 | 732,797 | 760 |
 | 2023-11-15 | 732,885 | 760 |
 | 2023-11-16 | 732,988 | 761 |
-| 2023-11-17 | 732,995 | 761 |
+| 2023-11-17 | 732,996 | 761 |
 ## Awards
 Max (Challenging Puzzles): 7,729  (Ranked 48)  
 Sum: 10,080 (Ranked 91)  

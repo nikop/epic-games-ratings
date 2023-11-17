@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322824,
+  "EOS_Progressed": 322828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2516,
+  "EOS_NewPlayers": 2509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10396,6 +10396,11 @@
       "Time": "2023-11-17T01:53:46.2975312+00:00",
       "NumProgressed": 322824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T02:28:03.9664534+00:00",
+      "NumProgressed": 322828,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -10432,7 +10437,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 142043
+      "UsersEstimate": 142044
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -10440,7 +10445,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 103304
+      "UsersEstimate": 103305
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -10448,7 +10453,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 67793
+      "UsersEstimate": 67794
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -10472,7 +10477,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 32282
+      "UsersEstimate": 32283
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -10480,7 +10485,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29054
+      "UsersEstimate": 29055
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -10488,7 +10493,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29054
+      "UsersEstimate": 29055
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -10528,7 +10533,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 19369
+      "UsersEstimate": 19370
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -10784,20 +10789,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 164640
+      "UsersEstimate": 164642
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 322824,
+      "Progressed": 322828,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 322813,
+      "Progressed": 322817,
       "Completed": 0
     }
   ],
@@ -10805,8 +10810,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-11-11T17:58:21.8800999+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:53:46.2975309+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:03.9664531+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:00.4299629+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:02.5282427+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:53:46.2975935+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:03.7883508+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:03.9665263+00:00"
 }

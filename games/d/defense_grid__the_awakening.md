@@ -7,13 +7,13 @@ Number of Ratings: 1,225  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~396,796 |
-| Happy Returns | 78.00% | ~382,099 |
-| Hey! That's mine! | 78.00% | ~382,099 |
+| Happy Returns | 78.00% | ~382,100 |
+| Hey! That's mine! | 78.00% | ~382,100 |
 | Field Promotion | 74.00% | ~362,505 |
-| Leadhead | 71.00% | ~347,808 |
+| Leadhead | 71.00% | ~347,809 |
 | Eradicator | 67.00% | ~328,214 |
-| Surplus | 65.00% | ~318,416 |
-| I Spy | 64.00% | ~313,517 |
+| Surplus | 65.00% | ~318,417 |
+| I Spy | 64.00% | ~313,518 |
 | Burn Baby Burn | 59.00% | ~289,024 |
 | Yellow Beats Green | 56.00% | ~274,328 |
 | Salvage Rights | 53.00% | ~259,632 |
@@ -24,21 +24,21 @@ Number of Ratings: 1,225  (23.09.2022)
 | Arsenal | 46.00% | ~225,341 |
 | Boot Camp | 45.00% | ~220,442 |
 | Flawless Victory | 42.00% | ~205,746 |
-| Confident | 41.00% | ~200,847 |
+| Confident | 41.00% | ~200,848 |
 | Exterminator | 36.00% | ~176,354 |
 | Sharpshooter | 34.00% | ~166,556 |
-| Not So Fast | 33.00% | ~161,657 |
+| Not So Fast | 33.00% | ~161,658 |
 | Great Ball of Fire | 32.00% | ~156,759 |
 | No Sale | 31.00% | ~151,860 |
-| Kaboom! | 30.00% | ~146,961 |
+| Kaboom! | 30.00% | ~146,962 |
 | Liquidator | 29.00% | ~142,063 |
 | High Voltage | 24.00% | ~117,569 |
 | Filthy Rich | 20.00% | ~97,974 |
 | Pyrrhic Victory | 18.00% | ~88,177 |
 | The Not-So-Friendly Skies | 18.00% | ~88,177 |
 | Power Builder | 17.00% | ~83,278 |
-| Death From Above | 16.00% | ~78,379 |
-| Retry | 16.00% | ~78,379 |
+| Death From Above | 16.00% | ~78,380 |
+| Retry | 16.00% | ~78,380 |
 | Head Trauma | 12.00% | ~58,785 |
 | Full Defense | 10.00% | ~48,987 |
 | Overseer | 9.00% | ~44,088 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~490 |
 | You Monster | 0.10% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,871 (Ranked 37)  
+Progressed: 489,872 (Ranked 37)  
 Completed: 5 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 5 (0.00%) (Ranked 352)
 | 2023-11-14 | 489,772 | 5 |
 | 2023-11-15 | 489,822 | 5 |
 | 2023-11-16 | 489,868 | 5 |
-| 2023-11-17 | 489,871 | 5 |
+| 2023-11-17 | 489,872 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 268)  
 Sum: 1,722 (Ranked 220)  

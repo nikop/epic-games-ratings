@@ -3,11 +3,11 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 313,
-  "Ranking_Popularity": 379,
+  "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -631,23 +631,29 @@
       "Rating": 4.65,
       "NumberOfAwards": 87,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-11-17T02:20:19.7818306+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 87,
-  "NumberOfAwardsMax": 87,
+  "NumberOfAwards": 88,
+  "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 87
+      "Count": 88
     }
   ],
-  "EOS_Progressed": 53360,
+  "EOS_Progressed": 53362,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1784,
+  "EOS_NewPlayers": 1781,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9905,6 +9911,11 @@
       "Time": "2023-11-17T01:54:36.7207712+00:00",
       "NumProgressed": 53360,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-17T02:28:42.1906911+00:00",
+      "NumProgressed": 53362,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -9941,7 +9952,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "BAD_END",
@@ -10021,7 +10032,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -10093,7 +10104,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "HERBS_2",
@@ -10101,7 +10112,7 @@
       "Name": "Herbalist",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "HERBS_3",
@@ -10157,7 +10168,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -10205,7 +10216,7 @@
       "Name": "Voipel",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "SAVVY",
@@ -10237,7 +10248,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "TALES_2",
@@ -10301,7 +10312,7 @@
       "Name": "Black Mage",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "ZNATKOST_3",
@@ -10316,15 +10327,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 53360,
+      "Progressed": 53362,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
-  "LastChanged": "2023-11-14T18:01:56.7236017+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:54:36.7207708+00:00",
+  "LastChanged": "2023-11-17T02:20:19.7818304+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:42.1906906+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:23.8903688+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:24.9579597+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:54:36.7208427+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:19.7818308+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:42.1907681+00:00"
 }

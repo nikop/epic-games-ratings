@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42706,
+  "EOS_Progressed": 42708,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12602,6 +12602,11 @@
       "Time": "2023-11-17T01:52:30.5569959+00:00",
       "NumProgressed": 42706,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-17T02:27:06.832734+00:00",
+      "NumProgressed": 42708,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12765,7 +12770,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "CUFF_ATTACK",
@@ -12853,7 +12858,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -13036,22 +13041,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42706,
+      "Progressed": 42708,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7543,
-      "Completed": 7543
+      "Progressed": 7545,
+      "Completed": 7545
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:52:30.5569955+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:27:06.8327335+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:16.2717277+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:27.6898645+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:52:30.5571036+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:21.828453+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:27:06.8328103+00:00"
 }

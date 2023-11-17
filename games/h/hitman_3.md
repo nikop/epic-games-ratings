@@ -6,24 +6,24 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~624,701 |
-| Death From Above | 45.00% | ~611,120 |
-| Master of the Household | 38.00% | ~516,057 |
-| Death of the Party | 35.00% | ~475,316 |
-| NEXUS-47 | 32.00% | ~434,574 |
-| The Last Tango | 31.00% | ~420,994 |
+| Unseen Assassin | 46.00% | ~624,702 |
+| Death From Above | 45.00% | ~611,122 |
+| Master of the Household | 38.00% | ~516,058 |
+| Death of the Party | 35.00% | ~475,317 |
+| NEXUS-47 | 32.00% | ~434,575 |
+| The Last Tango | 31.00% | ~420,995 |
 | Nightmare Fuel | 30.00% | ~407,414 |
 | The Result of Previous Training | 28.00% | ~380,253 |
 | Tools of the Trade | 28.00% | ~380,253 |
-| Cleared for Field Duty | 27.00% | ~366,672 |
+| Cleared for Field Duty | 27.00% | ~366,673 |
 | Seizing the Opportunity | 26.00% | ~353,092 |
-| Bullet Train | 21.00% | ~285,189 |
-| Stylish Assassin | 20.00% | ~271,609 |
-| Silent Assassin | 14.00% | ~190,126 |
-| Rise Up | 12.00% | ~162,965 |
+| Bullet Train | 21.00% | ~285,190 |
+| Stylish Assassin | 20.00% | ~271,610 |
+| Silent Assassin | 14.00% | ~190,127 |
+| Rise Up | 12.00% | ~162,966 |
 | Evil Wine Club | 11.00% | ~149,385 |
-| Console Cowboy | 10.00% | ~135,804 |
-| Last Stop | 10.00% | ~135,804 |
+| Console Cowboy | 10.00% | ~135,805 |
+| Last Stop | 10.00% | ~135,805 |
 | A New Profile | 9.00% | ~122,224 |
 | Full House | 9.00% | ~122,224 |
 | Dune Raider | 8.00% | ~108,644 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,580 |
 | The Creative Assassin | 0.70% | ~9,506 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,358,045 (Ranked 9)  
+Progressed: 1,358,048 (Ranked 9)  
 Completed: 2,183 (0.16%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,14 +265,14 @@ Completed: 2,183 (0.16%) (Ranked 261)
 | 2023-11-14 | 1,357,362 | 2,179 |
 | 2023-11-15 | 1,357,677 | 2,181 |
 | 2023-11-16 | 1,358,008 | 2,182 |
-| 2023-11-17 | 1,358,045 | 2,183 |
+| 2023-11-17 | 1,358,048 | 2,183 |
 ## Awards
-Max (Diverse Characters): 10,695  (Ranked 37)  
-Sum: 73,818 (Ranked 22)  
+Max (Diverse Characters): 10,707  (Ranked 37)  
+Sum: 73,830 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 10,695 |
+| This game has Diverse Characters | 10,707 |
 | This game is Highly Recommended | 9,687 |
 | This game is Extremely Fun | 9,392 |
 | This game has Amazing Storytelling | 9,234 |
@@ -608,3 +608,4 @@ Diff (max vs sum): 15
 | 2023-11-14 | 4.78 | - | 10,680 | 73,729 |
 | 2023-11-15 | 4.78 | - | 10,695 | 73,773 |
 | 2023-11-16 | 4.78 | - | 10,695 | 73,818 |
+| 2023-11-17 | 4.78 | - | 10,707 | 73,830 |

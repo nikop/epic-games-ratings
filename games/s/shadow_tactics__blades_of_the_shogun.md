@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,927 |
 | High Five the Moon | 0.80% | ~1,713 |
 | The Cave | 0.80% | ~1,713 |
-| Merciful | 0.50% | ~1,070 |
-| Time Paradox | 0.50% | ~1,070 |
+| Merciful | 0.50% | ~1,071 |
+| Time Paradox | 0.50% | ~1,071 |
 | Five Shadows | 0.40% | ~856 |
 | Complete Mastery | 0.20% | ~428 |
 | Praise the Shogun | 0.20% | ~428 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,100 (Ranked 70)  
+Progressed: 214,102 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 98 (0.05%) (Ranked 303)
 | 2023-11-14 | 213,782 | 98 |
 | 2023-11-15 | 213,927 | 98 |
 | 2023-11-16 | 214,084 | 98 |
-| 2023-11-17 | 214,100 | 98 |
+| 2023-11-17 | 214,102 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 197)  
 Sum: 4,844 (Ranked 142)  

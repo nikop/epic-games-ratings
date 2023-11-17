@@ -6609,9 +6609,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719432,
+  "EOS_Progressed": 719437,
   "EOS_Completed": 2399,
-  "EOS_NewPlayers": 3741,
+  "EOS_NewPlayers": 3739,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30664,6 +30664,11 @@
       "Time": "2023-11-17T01:54:31.6928091+00:00",
       "NumProgressed": 719432,
       "NumCompleted": 2399
+    },
+    {
+      "Time": "2023-11-17T02:28:38.6130547+00:00",
+      "NumProgressed": 719437,
+      "NumCompleted": 2399
     }
   ],
   "TotalAchievements": 51,
@@ -30817,9 +30822,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 6475
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -31035,7 +31040,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ach_dark_magic",
@@ -31043,7 +31048,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ach_gardening_tools",
@@ -31059,7 +31064,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31082,13 +31087,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719432,
+      "Progressed": 719437,
       "Completed": 2399
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44974,
+      "Progressed": 44979,
       "Completed": 36548
     }
   ],
@@ -31096,8 +31101,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-17T01:47:03.9538473+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:54:31.6928088+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:38.6130543+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:47:03.9538481+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:54:31.6929529+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:21:30.5137712+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:38.6131982+00:00"
 }

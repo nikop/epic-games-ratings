@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-11-16T01:51:40.1718762+00:00",
       "NumProgressed": 192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T02:27:05.8459205+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -765,7 +770,7 @@
       "Name": "Untouchable",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
@@ -773,7 +778,7 @@
       "Name": "1 is all I need",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -781,7 +786,7 @@
       "Name": "Right in the kisser!",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -789,7 +794,7 @@
       "Name": "Bullseye!",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -813,7 +818,7 @@
       "Name": "Level Up!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -845,15 +850,15 @@
       "Name": "The Penguin",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -875,9 +880,9 @@
       "ID": "CLG_UNLOCK_10006",
       "SetID": "89cjc9l",
       "Name": "The Assistant",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "CLG_UNLOCK_10007",
@@ -899,9 +904,9 @@
       "ID": "CLG_UNLOCK_10009",
       "SetID": "89cjc9l",
       "Name": "The Steampunk",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "CLG_UNLOCK_10010",
@@ -971,9 +976,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -1013,7 +1018,7 @@
       "Name": "The Slime",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PRG_BOSS_THROWER",
@@ -1021,7 +1026,7 @@
       "Name": "The Thrower",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -1035,17 +1040,17 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1245,7 +1250,7 @@
       "Name": "Highway to Hell",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PRG_NORMAL_10001",
@@ -1348,7 +1353,7 @@
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 1
     }
   ],
@@ -1356,8 +1361,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:52:29.2654902+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:27:05.8459201+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:22.009342+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:02.1163833+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:52:29.2655453+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:03.507507+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:27:05.8459745+00:00"
 }

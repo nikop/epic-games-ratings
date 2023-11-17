@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -787,9 +787,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -883,9 +883,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -1034,8 +1034,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:54:28.2671972+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:28:35.9768083+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:18.6134122+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:54:28.2672366+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:15.168097+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:28:35.9768489+00:00"
 }

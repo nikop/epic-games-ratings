@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1859,9 +1859,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -2091,17 +2091,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 661
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 661
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -2139,9 +2139,9 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 676
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
@@ -2203,9 +2203,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 683
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -2435,9 +2435,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 473
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -2515,9 +2515,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 315
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -2594,8 +2594,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:56:26.396324+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:31:04.7651945+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:45:12.0978239+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:56:26.3964057+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:20:10.6697297+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:31:04.7652702+00:00"
 }

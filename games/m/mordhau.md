@@ -5,17 +5,17 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~763,335 |
-| The ABCs | 43.00% | ~669,866 |
-| Home Run | 41.00% | ~638,709 |
-| Keeps Coming Off | 41.00% | ~638,709 |
-| Guts | 20.00% | ~311,565 |
-| Meat Grinder | 19.00% | ~295,987 |
-| Burning Man | 16.00% | ~249,252 |
-| Lived to Tell the Tale | 12.00% | ~186,939 |
-| Highlander | 10.00% | ~155,783 |
-| Unstoppable | 10.00% | ~155,783 |
-| Just a Scratch | 9.00% | ~140,204 |
+| Justice from the Grave | 49.00% | ~763,340 |
+| The ABCs | 43.00% | ~669,870 |
+| Home Run | 41.00% | ~638,713 |
+| Keeps Coming Off | 41.00% | ~638,713 |
+| Guts | 20.00% | ~311,567 |
+| Meat Grinder | 19.00% | ~295,989 |
+| Burning Man | 16.00% | ~249,254 |
+| Lived to Tell the Tale | 12.00% | ~186,940 |
+| Highlander | 10.00% | ~155,784 |
+| Unstoppable | 10.00% | ~155,784 |
+| Just a Scratch | 9.00% | ~140,205 |
 | Tough Nut to Crack | 6.00% | ~93,470 |
 | Yoink | 6.00% | ~93,470 |
 | Long List of Names | 4.00% | ~62,313 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 747)
 | You’re Welcome | 2.00% | ~31,157 |
 | Chambermaid | 1.00% | ~15,578 |
 | Coming Through | 1.00% | ~15,578 |
-| Training Accident | 0.90% | ~14,020 |
+| Training Accident | 0.90% | ~14,021 |
 | Boxer | 0.80% | ~12,463 |
 | Flyswatter | 0.80% | ~12,463 |
 | Friend Indeed | 0.70% | ~10,905 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 747)
 | That’s No Ordinary Cold | 0.10% | ~1,558 |
 | Stairway to Hell | 0.10% | ~1,558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,557,827 (Ranked 7)  
+Progressed: 1,557,837 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 68 (0.00%) (Ranked 352)
 | 2023-11-14 | 1,556,906 | 68 |
 | 2023-11-15 | 1,557,348 | 68 |
 | 2023-11-16 | 1,557,789 | 68 |
-| 2023-11-17 | 1,557,827 | 68 |
+| 2023-11-17 | 1,557,837 | 68 |
 ## Awards
 Max (Diverse Characters): 936  (Ranked 157)  
 Sum: 4,338 (Ranked 147)  

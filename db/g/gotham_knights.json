@@ -4169,9 +4169,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76520,
+  "EOS_Progressed": 76522,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22819,6 +22819,11 @@
       "Time": "2023-11-17T01:55:15.8107009+00:00",
       "NumProgressed": 76520,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-17T02:29:11.3550244+00:00",
+      "NumProgressed": 76522,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22910,7 +22915,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "APPLY_STATUS",
@@ -22926,7 +22931,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13008
+      "UsersEstimate": 13009
     },
     {
       "ID": "CLAYFACE_1",
@@ -22934,7 +22939,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16069
+      "UsersEstimate": 16070
     },
     {
       "ID": "CLAYFACE_2",
@@ -22974,7 +22979,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5356
+      "UsersEstimate": 5357
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -23006,7 +23011,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -23030,7 +23035,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5356
+      "UsersEstimate": 5357
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -23062,7 +23067,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16069
+      "UsersEstimate": 16070
     },
     {
       "ID": "FREEZE_2",
@@ -23134,7 +23139,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26782
+      "UsersEstimate": 26783
     },
     {
       "ID": "HARLEY_2",
@@ -23158,7 +23163,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12243
+      "UsersEstimate": 12244
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23174,7 +23179,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39025
+      "UsersEstimate": 39026
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23206,7 +23211,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20660
+      "UsersEstimate": 20661
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23238,7 +23243,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16834
+      "UsersEstimate": 16835
     },
     {
       "ID": "MYSTERY_04",
@@ -23278,7 +23283,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9182
+      "UsersEstimate": 9183
     },
     {
       "ID": "SECRET_CACHE",
@@ -23317,13 +23322,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76520,
+      "Progressed": 76522,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46800,
+      "Progressed": 46802,
       "Completed": 2673
     }
   ],
@@ -23331,8 +23336,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-16T22:59:09.2838644+00:00",
-  "LastChanged_Achievements": "2023-11-17T01:55:15.8107005+00:00",
+  "LastChanged_Achievements": "2023-11-17T02:29:11.3550229+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-17T01:47:51.2555374+00:00",
-  "LastUpdate_Achievements": "2023-11-17T01:55:15.8108093+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:22:04.1698495+00:00",
+  "LastUpdate_Achievements": "2023-11-17T02:29:11.3551351+00:00"
 }
