@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2160,
+  "EOS_Progressed": 2161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4972,6 +4972,11 @@
       "Time": "2023-11-17T09:09:21.4801522+00:00",
       "NumProgressed": 2160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T12:10:29.8563176+00:00",
+      "NumProgressed": 2161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4992,7 +4997,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5016,7 +5021,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5040,7 +5045,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5088,7 +5093,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5278,17 +5283,17 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 950
+      "UsersEstimate": 972
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 540
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5336,7 +5341,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5375,14 +5380,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2160,
+      "Progressed": 2161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:09:08.7409399+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:10:29.8563174+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:57:53.5644453+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:09:08.7409861+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:58:19.7057937+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:10:29.8563608+00:00"
 }

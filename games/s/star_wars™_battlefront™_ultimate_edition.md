@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,134 |
-| Off to a good start | 66.00% | ~841 |
+| New Recruit | 89.00% | ~1,135 |
+| Off to a good start | 66.00% | ~842 |
 | Do... or do not. There is no try | 51.00% | ~650 |
 | A good blaster at your side | 31.00% | ~395 |
 | I suggest a new strategy | 20.00% | ~255 |
-| Scrap collector | 18.00% | ~229 |
+| Scrap collector | 18.00% | ~230 |
 | All right, I'll give it a try | 17.00% | ~217 |
 | Great shot, kid! | 17.00% | ~217 |
 | The power of the Force | 15.00% | ~191 |
 | Shoot first | 15.00% | ~191 |
-| Collector | 14.00% | ~178 |
-| Together we can rule the galaxy | 14.00% | ~178 |
-| Tell Jabba that I've got his money | 10.00% | ~127 |
-| Best star-pilot in the galaxy | 10.00% | ~127 |
-| Survivor | 10.00% | ~127 |
+| Collector | 14.00% | ~179 |
+| Together we can rule the galaxy | 14.00% | ~179 |
+| Tell Jabba that I've got his money | 10.00% | ~128 |
+| Best star-pilot in the galaxy | 10.00% | ~128 |
+| Survivor | 10.00% | ~128 |
 | Never tell me the odds! | 9.00% | ~115 |
 | A cunning warrior | 8.00% | ~102 |
 | What's the cargo? | 7.00% | ~89 |
@@ -39,14 +39,14 @@
 | On the ball | 3.00% | ~38 |
 | Precision shot | 3.00% | ~38 |
 | That's no moon | 3.00% | ~38 |
-| Hold the line! | 2.00% | ~25 |
-| The Force is strong with this one | 2.00% | ~25 |
-| This is a new day, a new beginning | 2.00% | ~25 |
-| City in the Clouds | 2.00% | ~25 |
-| Alternative solution | 2.00% | ~25 |
-| What will you become? | 2.00% | ~25 |
-| The circle is now complete | 2.00% | ~25 |
-| Disturbed tranquility | 2.00% | ~25 |
+| Hold the line! | 2.00% | ~26 |
+| The Force is strong with this one | 2.00% | ~26 |
+| This is a new day, a new beginning | 2.00% | ~26 |
+| City in the Clouds | 2.00% | ~26 |
+| Alternative solution | 2.00% | ~26 |
+| What will you become? | 2.00% | ~26 |
+| The circle is now complete | 2.00% | ~26 |
+| Disturbed tranquility | 2.00% | ~26 |
 | Playing the objective | 1.00% | ~13 |
 | Ackbar's Elite | 1.00% | ~13 |
 | You have your moments | 1.00% | ~13 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,274 (Ranked 245)  
+Progressed: 1,275 (Ranked 245)  
 Completed: 1 (0.08%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.08%) (Ranked 289)
 | 2023-11-14 | 1,220 | 1 |
 | 2023-11-15 | 1,239 | 1 |
 | 2023-11-16 | 1,270 | 1 |
-| 2023-11-17 | 1,274 | 1 |
+| 2023-11-17 | 1,275 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

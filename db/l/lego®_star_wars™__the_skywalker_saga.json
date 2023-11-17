@@ -14092,9 +14092,9 @@
       "ID": "TRUE_JEDI_ALL_LEVELS",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027Now I am the Master\u0027\u0027",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1559
     },
     {
       "ID": "TRUE_JEDI_ONE_LEVEL",
@@ -14116,8 +14116,8 @@
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-15T01:46:06.4070336+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:06:28.1310916+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:08:03.5582365+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:03.8172916+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:00:32.2738847+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:06:28.1311632+00:00"
+  "LastUpdate_Ratings": "2023-11-17T12:01:52.0111781+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:08:03.5583123+00:00"
 }

@@ -12103,11 +12103,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 57884,
       "NumberOfAwardsMax": 7026
+    },
+    {
+      "Time": "2023-11-17T11:59:24.9716015+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57901,
+      "NumberOfAwardsMax": 7043
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57884,
-  "NumberOfAwardsMax": 7026,
+  "NumberOfAwards": 57901,
+  "NumberOfAwardsMax": 7043,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -12138,7 +12144,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7026
+      "Count": 7043
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12177,9 +12183,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457267,
+  "EOS_Progressed": 457314,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6229,
+  "EOS_NewPlayers": 6234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36327,6 +36333,11 @@
       "Time": "2023-11-17T11:05:03.4018932+00:00",
       "NumProgressed": 457267,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T12:06:13.9823219+00:00",
+      "NumProgressed": 457314,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38488,9 +38499,9 @@
       "ID": "achievement_sudanese_expedition",
       "SetID": "8p2n7he",
       "Name": "The Sudanese Expedition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_sun_invasion",
@@ -39241,21 +39252,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457267,
+      "Progressed": 457314,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457267,
+      "Progressed": 457314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-17T09:58:45.0064745+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:05:03.4018927+00:00",
+  "LastChanged": "2023-11-17T11:59:24.9716012+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:06:13.9823214+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:58:41.9100229+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:05:03.4028853+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:59:24.9716019+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:06:13.9833175+00:00"
 }

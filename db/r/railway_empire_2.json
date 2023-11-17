@@ -283,7 +283,7 @@
   "Tags": [],
   "EOS_Progressed": 2172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6168,9 +6168,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1542
     },
     {
       "ID": "A37",
@@ -6329,8 +6329,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:04:22.3692905+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:05:20.8635227+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:50.7766719+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:58:41.06544+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:04:22.369345+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:59:24.0187857+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:05:20.8635748+00:00"
 }

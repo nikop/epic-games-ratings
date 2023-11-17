@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -365,6 +365,11 @@
       "Time": "2023-11-17T11:07:56.1669689+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T12:08:57.7168851+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -375,25 +380,25 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AchvBattleScore",
@@ -471,9 +476,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "AchvLava",
@@ -503,17 +508,17 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AchvNoHoles",
@@ -543,33 +548,33 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvSurvivors",
@@ -591,9 +596,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvUnity",
@@ -608,14 +613,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:07:56.166968+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:08:57.7168847+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.9018108+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:59:55.5629479+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:07:56.1669929+00:00"
+  "LastUpdate_Ratings": "2023-11-17T12:01:03.0350782+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:08:57.7169034+00:00"
 }

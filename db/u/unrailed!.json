@@ -2813,9 +2813,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 663124,
+  "EOS_Progressed": 663130,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1948,
+  "EOS_NewPlayers": 1949,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26848,6 +26848,11 @@
       "Time": "2023-11-17T11:08:40.9038015+00:00",
       "NumProgressed": 663124,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-17T12:09:57.8577926+00:00",
+      "NumProgressed": 663130,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26859,7 +26864,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99469
+      "UsersEstimate": 99470
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -26867,7 +26872,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79575
+      "UsersEstimate": 79576
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -26883,7 +26888,7 @@
       "Name": "Wayfarer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "_01_04_DISTANCE_2000_EASY",
@@ -26899,7 +26904,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119362
+      "UsersEstimate": 119363
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -26907,7 +26912,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86206
+      "UsersEstimate": 86207
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -26923,7 +26928,7 @@
       "Name": "Advanced Wayfarer",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "_01_09_DISTANCE_2000_MEDIUM",
@@ -26947,7 +26952,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13262
+      "UsersEstimate": 13263
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -26979,7 +26984,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 92837
+      "UsersEstimate": 92838
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -27107,7 +27112,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112731
+      "UsersEstimate": 112732
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -27115,7 +27120,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39787
+      "UsersEstimate": 39788
     },
     {
       "ID": "_03_02_NANUK",
@@ -27171,7 +27176,7 @@
       "Name": "Lost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13262
+      "UsersEstimate": 13263
     },
     {
       "ID": "_11_00_CLIMATE_CHANGE",
@@ -27179,7 +27184,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106100
+      "UsersEstimate": 106101
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -27235,7 +27240,7 @@
       "Name": "Tough Nut!",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "_13_00_BLAST_FISHING",
@@ -27274,15 +27279,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 663124,
+      "Progressed": 663130,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-16T21:59:10.4103667+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:08:40.9038012+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:09:57.8577923+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:59:23.8986513+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:08:40.9039229+00:00"
+  "LastUpdate_Ratings": "2023-11-17T12:00:20.8463845+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:09:57.8579102+00:00"
 }

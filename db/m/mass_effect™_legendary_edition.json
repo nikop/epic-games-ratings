@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -3864,9 +3864,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_23",
@@ -3992,9 +3992,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 526
     },
     {
       "ID": "achievement_38",
@@ -4556,8 +4556,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:05:33.8063235+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:06:54.2837174+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:02:47.1528476+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:05:33.8064876+00:00"
+  "LastUpdate_Ratings": "2023-11-17T12:03:17.6713635+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:06:54.2839302+00:00"
 }

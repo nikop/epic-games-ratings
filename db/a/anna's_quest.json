@@ -2,9 +2,9 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.57,
+  "EOS_Completed_Percentage": 8.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -296,6 +296,11 @@
       "Time": "2023-11-16T20:09:46.2705888+00:00",
       "NumProgressed": 70,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T12:10:26.1715538+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -307,13 +312,13 @@
       "Name": "Escape artist",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -361,7 +366,7 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -377,7 +382,7 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -385,7 +390,7 @@
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 55,
       "UsersEstimate": 18
     },
@@ -465,7 +470,7 @@
       "ID": "aq_achievement_28",
       "SetID": "7jh86ne",
       "Name": "Cameodalic",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -473,7 +478,7 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -481,7 +486,7 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -489,7 +494,7 @@
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 18
     },
@@ -497,7 +502,7 @@
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -529,7 +534,7 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
       "UsersEstimate": 34
     },
@@ -553,7 +558,7 @@
       "ID": "aq_achievement_38",
       "SetID": "7jh86ne",
       "Name": "Little genius",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -569,7 +574,7 @@
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -577,7 +582,7 @@
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -585,7 +590,7 @@
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -601,7 +606,7 @@
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -609,7 +614,7 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 23
     }
@@ -618,7 +623,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 6
     }
   ],
@@ -626,8 +631,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:09:05.5019846+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:10:26.1715534+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:34.8018097+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:57:04.913675+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:09:05.5020101+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:57:14.376416+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:10:26.1715807+00:00"
 }

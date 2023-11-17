@@ -60,9 +60,9 @@
       "ID": "BLOCKPARTY",
       "SetID": "51l0gl8",
       "Name": "Block Party",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FISHSCALES",
@@ -172,9 +172,9 @@
       "ID": "WINGMAN",
       "SetID": "51l0gl8",
       "Name": "Wingman",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -186,8 +186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:08:10.7443375+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:09:18.9326843+00:00",
   "LastUpdate_AppInfo": "2023-11-15T13:03:30.1216975+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:58:45.3376762+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:08:10.7443461+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:59:29.943038+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:09:18.9326913+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 4,
+  "Ranking_Rating": 6,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 325,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.92,
+  "Rating": 4.91,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -71,6 +71,12 @@
       "Rating": 4.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-17T12:01:11.783307+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -79,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -1050,9 +1056,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 200
     },
     {
       "ID": "RenaissanceRobot",
@@ -1178,9 +1184,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "TrevorsBiographer",
@@ -1242,9 +1248,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-16T08:59:19.8841598+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:05:38.4497679+00:00",
+  "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:07:00.3938592+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:00:02.0012019+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:05:38.4498058+00:00"
+  "LastUpdate_Ratings": "2023-11-17T12:01:11.783308+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:07:00.393907+00:00"
 }

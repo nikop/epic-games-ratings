@@ -12,7 +12,7 @@
 | Quarian Ally | 63.00% | ~808 |
 | Medal of Heroism | 59.00% | ~757 |
 | Honorarium of Corporate Service | 58.00% | ~744 |
-| Medal of Exploration II | 52.00% | ~667 |
+| Medal of Exploration II | 53.00% | ~680 |
 | Turian Ally | 52.00% | ~667 |
 | Council Legion of Merit | 52.00% | ~667 |
 | Medal of Honor | 50.00% | ~642 |
@@ -28,8 +28,8 @@
 | Missing in Action | 42.00% | ~539 |
 | Scientist | 42.00% | ~539 |
 | Krogan Ally | 41.00% | ~526 |
+| Very Elusive | 41.00% | ~526 |
 | Merciless | 41.00% | ~526 |
-| Very Elusive | 40.00% | ~513 |
 | Sentinel Ally | 39.00% | ~500 |
 | Head Hunter | 39.00% | ~500 |
 | Operative | 38.00% | ~488 |

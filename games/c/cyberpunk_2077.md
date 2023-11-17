@@ -13,8 +13,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.80% | ~7,176 |
 | Right Back At Ya | 0.70% | ~6,279 |
 | All the President's Men | 0.70% | ~179 |
+| Arachnophobia | 0.70% | ~179 |
 | Stanislavski's Method | 0.60% | ~5,382 |
-| Arachnophobia | 0.60% | ~154 |
 | Christmas Tree Attack | 0.50% | ~4,485 |
 | The Quick and the Dead | 0.50% | ~4,485 |
 | Life of the Road | 0.50% | ~4,485 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,990 (Ranked 15)  
+Progressed: 896,995 (Ranked 15)  
 Completed: 2,782 (0.31%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,16 +285,16 @@ Completed: 2,782 (0.31%) (Ranked 230)
 | 2023-11-14 | 896,716 | 2,778 |
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
-| 2023-11-17 | 896,990 | 2,782 |
+| 2023-11-17 | 896,995 | 2,782 |
 ## Awards
 Max (Character Customization): 105,726  (Ranked 9)  
-Sum: 354,826 (Ranked 10)  
+Sum: 354,917 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 105,726 |
 | This game has Great Boss Battles | 76,641 |
-| This game is Great for Beginners | 21,341 |
+| This game is Great for Beginners | 21,432 |
 | This game has Diverse Characters | 20,980 |
 | This game is Highly Recommended | 20,119 |
 | This game has Amazing Storytelling | 20,021 |
@@ -608,4 +608,4 @@ Diff (max vs sum): -1
 | 2023-11-14 | 4.64 | - | 105,471 | 352,694 |
 | 2023-11-15 | 4.64 | - | 105,592 | 353,529 |
 | 2023-11-16 | 4.64 | - | 105,726 | 354,422 |
-| 2023-11-17 | 4.64 | - | 105,726 | 354,826 |
+| 2023-11-17 | 4.64 | - | 105,726 | 354,917 |

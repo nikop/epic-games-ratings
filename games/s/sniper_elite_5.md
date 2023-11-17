@@ -21,9 +21,9 @@ Rating: 4.45 (Ranked 659)
 | Sharpshooter | 22.00% | ~852 |
 | Gunslinger | 19.00% | ~736 |
 | Explosive Efficiency | 19.00% | ~736 |
+| Climbing the Ladder | 17.00% | ~659 |
 | Just a Flesh Wound | 17.00% | ~659 |
 | Der Geist | 17.00% | ~659 |
-| Climbing the Ladder | 16.00% | ~620 |
 | Close Quarters | 16.00% | ~620 |
 | Snake in the Grass | 16.00% | ~620 |
 | Skirmisher | 15.00% | ~581 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8107,10 +8107,10 @@
       "Count": 3519
     }
   ],
-  "EOS_Progressed": 235467,
+  "EOS_Progressed": 235479,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 1223,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1227,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -31737,6 +31737,11 @@
       "Time": "2023-11-17T11:08:47.7213167+00:00",
       "NumProgressed": 235467,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-11-17T12:10:06.6176328+00:00",
+      "NumProgressed": 235479,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 532,
@@ -31746,9 +31751,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1648
     },
     {
       "ID": "objective_completed_10",
@@ -35212,7 +35217,7 @@
       "Name": "Reya Reborn",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "objective_completed_847",
@@ -35980,7 +35985,7 @@
       "Name": "Tomb of Champions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "objective_completed_1552",
@@ -36003,21 +36008,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201741,
+      "Progressed": 201753,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235467,
+      "Progressed": 235479,
       "Completed": 2456
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-16T17:58:04.6167223+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:08:47.7213164+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:10:06.6176324+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:58:34.0069242+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:08:47.7235526+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:59:14.474856+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:10:06.6198178+00:00"
 }

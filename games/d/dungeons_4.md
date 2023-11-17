@@ -33,16 +33,16 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
 | Tanos' Crusade Against Thalya | 19.00% | ~54 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
-| Unstoppable Horde | 16.00% | ~46 |
+| Unstoppable Horde | 17.00% | ~48 |
+| Master of the Undead | 16.00% | ~46 |
 | All’s Well That Ends Evil | 16.00% | ~46 |
-| Master of the Undead | 15.00% | ~43 |
 | Forbidden Knowledge | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~37 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
 | Stop Tanos! | 12.00% | ~34 |
 | The Duel | 12.00% | ~34 |
 | If Looks Could Kill | 11.00% | ~31 |
-| The Finitude Drill | 8.00% | ~23 |
+| The Finitude Drill | 9.00% | ~26 |
 | My Little Torture Chamber | 7.00% | ~20 |
 | Bonus Evilness | 7.00% | ~20 |
 | Sabotage! | 7.00% | ~20 |

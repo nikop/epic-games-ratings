@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10213,
+  "EOS_Progressed": 10214,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -6853,6 +6853,11 @@
       "Time": "2023-11-17T10:06:43.268292+00:00",
       "NumProgressed": 10213,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-17T12:08:26.4875041+00:00",
+      "NumProgressed": 10214,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -6953,7 +6958,7 @@
       "Name": "Most Wanted",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 6434
+      "UsersEstimate": 6435
     },
     {
       "ID": "achievement_20",
@@ -6969,7 +6974,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "achievement_22",
@@ -7001,7 +7006,7 @@
       "Name": "Access All Areas",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "achievement_26",
@@ -7009,7 +7014,7 @@
       "Name": "Full House",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "achievement_27",
@@ -7041,7 +7046,7 @@
       "Name": "New Crew",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "achievement_30",
@@ -7049,7 +7054,7 @@
       "Name": "Superstar",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "achievement_31",
@@ -7073,7 +7078,7 @@
       "Name": "#Blessed",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "achievement_34",
@@ -7097,7 +7102,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 8477
+      "UsersEstimate": 8478
     },
     {
       "ID": "achievement_37",
@@ -7105,7 +7110,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 9396
+      "UsersEstimate": 9397
     },
     {
       "ID": "achievement_38",
@@ -7113,7 +7118,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8987
+      "UsersEstimate": 8988
     },
     {
       "ID": "achievement_39",
@@ -7121,7 +7126,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 9192
+      "UsersEstimate": 9193
     },
     {
       "ID": "achievement_4",
@@ -7129,7 +7134,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "achievement_40",
@@ -7145,7 +7150,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8783
+      "UsersEstimate": 8784
     },
     {
       "ID": "achievement_5",
@@ -7169,7 +7174,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 8579
+      "UsersEstimate": 8580
     },
     {
       "ID": "achievement_8",
@@ -7192,13 +7197,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 10213,
+      "Progressed": 10214,
       "Completed": 50
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:06:46.2924529+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:08:26.4875037+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:17.9046216+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:57:56.5180022+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:06:46.2925031+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:58:23.7031867+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:08:26.48756+00:00"
 }

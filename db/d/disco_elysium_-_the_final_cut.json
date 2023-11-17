@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1466,9 +1466,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130890,
+  "EOS_Progressed": 130892,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22141,6 +22141,11 @@
       "Time": "2023-11-17T11:06:03.6336873+00:00",
       "NumProgressed": 130890,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-17T12:07:32.4717292+00:00",
+      "NumProgressed": 130892,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22184,7 +22189,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23560
+      "UsersEstimate": 23561
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22232,7 +22237,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36649
+      "UsersEstimate": 36650
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22256,7 +22261,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20942
+      "UsersEstimate": 20943
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22288,7 +22293,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20942
+      "UsersEstimate": 20943
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22344,7 +22349,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7853
+      "UsersEstimate": 7854
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -22471,15 +22476,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130890,
+      "Progressed": 130892,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-16T22:00:34.4730313+00:00",
-  "LastChanged_Achievements": "2023-11-17T11:06:03.6336866+00:00",
+  "LastChanged_Achievements": "2023-11-17T12:07:32.4717289+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:02:26.6200902+00:00",
-  "LastUpdate_Achievements": "2023-11-17T11:06:03.6337923+00:00"
+  "LastUpdate_Ratings": "2023-11-17T12:02:49.2403795+00:00",
+  "LastUpdate_Achievements": "2023-11-17T12:07:32.4718522+00:00"
 }

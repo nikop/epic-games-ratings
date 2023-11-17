@@ -13,8 +13,8 @@
 | Let's play a game… | 73.00% | ~178 |
 | Soundtrack | 61.00% | ~149 |
 | First aid | 60.00% | ~146 |
-| Antidote | 53.00% | ~129 |
-| Pick the right door | 25.00% | ~61 |
+| Antidote | 54.00% | ~132 |
+| Pick the right door | 26.00% | ~63 |
 | The third floor | 19.00% | ~46 |
 | One-way | 17.00% | ~41 |
 | On the right path | 16.00% | ~39 |

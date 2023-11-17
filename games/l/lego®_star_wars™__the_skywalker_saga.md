@@ -33,6 +33,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,559 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,559 |
 | The Slice | 3.00% | ~1,559 |
+| ''Now I am the Master'' | 3.00% | ~1,559 |
 | ''Hello there!'' | 2.00% | ~1,039 |
 | Unknown Regions | 2.00% | ~1,039 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,039 |
@@ -48,7 +49,6 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Power! Unlimited power!'' | 2.00% | ~1,039 |
 | ''No more training, do you require'' | 2.00% | ~1,039 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,039 |
-| ''Now I am the Master'' | 2.00% | ~1,039 |
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)

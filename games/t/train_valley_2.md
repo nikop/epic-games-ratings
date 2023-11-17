@@ -6,35 +6,35 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~304,117 |
-| Full garage | 61.00% | ~254,125 |
-| To the eyeballs! | 51.00% | ~212,465 |
-| Individual delivery | 47.00% | ~195,801 |
-| Non-Stop | 45.00% | ~187,469 |
-| Juggler | 36.00% | ~149,975 |
-| Forgot something | 35.00% | ~145,809 |
-| Close call! | 30.00% | ~124,979 |
-| Get out my way | 28.00% | ~116,647 |
-| Common cause | 26.00% | ~108,315 |
-| Critical care | 26.00% | ~108,315 |
-| Mega-railroad | 23.00% | ~95,818 |
-| Upgrade complete | 23.00% | ~95,818 |
-| Just in time! | 18.00% | ~74,988 |
-| Builder | 17.00% | ~70,822 |
-| Long Haul | 17.00% | ~70,710 |
-| Steam Age | 16.00% | ~66,656 |
-| Multilevel road | 15.00% | ~62,490 |
-| Bridgemania | 14.00% | ~58,324 |
-| Need to think | 14.00% | ~58,324 |
-| The Tortoise | 12.00% | ~49,992 |
-| Beginner | 11.00% | ~45,826 |
-| Without a lunch break | 11.00% | ~45,826 |
-| One way | 10.00% | ~41,660 |
-| Relocation | 10.00% | ~41,660 |
-| Industrial Age | 9.00% | ~37,494 |
+| Dealmaker | 73.00% | ~304,124 |
+| Full garage | 61.00% | ~254,131 |
+| To the eyeballs! | 51.00% | ~212,470 |
+| Individual delivery | 47.00% | ~195,806 |
+| Non-Stop | 45.00% | ~187,474 |
+| Juggler | 36.00% | ~149,979 |
+| Forgot something | 35.00% | ~145,813 |
+| Close call! | 30.00% | ~124,982 |
+| Get out my way | 28.00% | ~116,650 |
+| Common cause | 26.00% | ~108,318 |
+| Critical care | 26.00% | ~108,318 |
+| Mega-railroad | 23.00% | ~95,820 |
+| Upgrade complete | 23.00% | ~95,820 |
+| Just in time! | 18.00% | ~74,989 |
+| Builder | 17.00% | ~70,823 |
+| Long Haul | 17.00% | ~70,711 |
+| Steam Age | 16.00% | ~66,657 |
+| Multilevel road | 15.00% | ~62,491 |
+| Bridgemania | 14.00% | ~58,325 |
+| Need to think | 14.00% | ~58,325 |
+| The Tortoise | 12.00% | ~49,993 |
+| Beginner | 11.00% | ~45,827 |
+| Without a lunch break | 11.00% | ~45,827 |
+| One way | 10.00% | ~41,661 |
+| Relocation | 10.00% | ~41,661 |
+| Industrial Age | 9.00% | ~37,495 |
 | Just One More Valley | 9.00% | ~37,435 |
-| Prick of conscience | 8.00% | ~33,328 |
-| Missed it! | 7.00% | ~29,162 |
+| Prick of conscience | 8.00% | ~33,329 |
+| Missed it! | 7.00% | ~29,163 |
 | At the last moment! | 6.00% | ~24,996 |
 | Overseer | 6.00% | ~24,996 |
 | Highlander | 5.00% | ~20,830 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~416 |
 | World Zapper | 0.10% | ~416 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416,598 (Ranked 44)  
+Progressed: 416,608 (Ranked 44)  
 Completed: 22 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 22 (0.01%) (Ranked 331)
 | 2023-11-14 | 416,040 | 21 |
 | 2023-11-15 | 416,289 | 22 |
 | 2023-11-16 | 416,499 | 22 |
-| 2023-11-17 | 416,598 | 22 |
+| 2023-11-17 | 416,608 | 22 |
 ## Awards
 Max (Challenging Puzzles): 888  (Ranked 160)  
 Sum: 1,788 (Ranked 218)  

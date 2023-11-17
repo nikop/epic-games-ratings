@@ -134,6 +134,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Spice Must Flow | 0.10% | ~457 |
 | Strait Talk | 0.10% | ~457 |
 | Subsidize my Love | 0.10% | ~457 |
+| The Sudanese Expedition | 0.10% | ~457 |
 | Switzerlake | 0.10% | ~457 |
 | Tear Down This Wall | 0.10% | ~457 |
 | That is mine! | 0.10% | ~457 |
@@ -318,7 +319,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
-| The Sudanese Expedition | 0.00% | ~0 |
 | Sun Invasion | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sunset Invasion | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,267 (Ranked 41)  
+Progressed: 457,314 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,14 +581,14 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,267 | 1 |
+| 2023-11-17 | 457,314 | 1 |
 ## Awards
-Max (Educational): 7,026  (Ranked 54)  
-Sum: 57,884 (Ranked 24)  
+Max (Educational): 7,043  (Ranked 54)  
+Sum: 57,901 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,026 |
+| This game is Educational | 7,043 |
 | This game has Diverse Characters | 6,769 |
 | This game is Highly Recommended | 6,748 |
 | This game has Challenging Combat | 6,665 |
@@ -905,4 +905,4 @@ Diff (max vs sum): 30
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
-| 2023-11-17 | 4.69 | - | 7,026 | 57,884 |
+| 2023-11-17 | 4.69 | - | 7,043 | 57,901 |
