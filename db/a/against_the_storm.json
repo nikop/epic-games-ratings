@@ -2,12 +2,12 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 79,
+  "Ranking_Rating": 78,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3233,9 +3233,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17324,
+  "EOS_Progressed": 17325,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13628,6 +13628,11 @@
       "Time": "2023-11-17T11:06:38.2402254+00:00",
       "NumProgressed": 17324,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-17T14:06:38.7238047+00:00",
+      "NumProgressed": 17325,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 50,
@@ -13735,7 +13740,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "WinImpossible",
@@ -13799,7 +13804,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "WinNearFishmen",
@@ -13903,7 +13908,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "WinOnCursed",
@@ -13927,7 +13932,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "WinPrestige10",
@@ -14038,15 +14043,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17324,
+      "Progressed": 17325,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-17T02:22:40.3600725+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:13:23.3697486+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:06:38.7238042+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:36.8089567+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:06:40.693153+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:13:23.3698331+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:00:03.395302+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:06:38.7238758+00:00"
 }

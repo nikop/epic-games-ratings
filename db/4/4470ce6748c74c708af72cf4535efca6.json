@@ -3,9 +3,9 @@
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "32",
       "SetID": "5e3maia",
       "Name": "Lionheart",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "33",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:12:44.9695021+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:06:00.8646837+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.3147394+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:04:10.6065205+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:12:44.9695597+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:57:39.23354+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:06:00.8647315+00:00"
 }

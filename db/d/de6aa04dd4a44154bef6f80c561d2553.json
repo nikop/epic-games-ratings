@@ -3,9 +3,9 @@
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -140,9 +140,9 @@
       "ID": "BloodForBlood",
       "SetID": "c8fdd59",
       "Name": "Blood For Blood",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BuyLowSellHigh",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:16:00.2438183+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:09:23.1388787+00:00",
   "LastUpdate_AppInfo": "2023-11-13T13:57:11.9101247+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:04:51.0949086+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:16:00.2438484+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:58:18.3645903+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:09:23.1389042+00:00"
 }

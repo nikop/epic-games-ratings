@@ -6,9 +6,9 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8113,9 +8113,9 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235489,
+  "EOS_Progressed": 235497,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1211,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31753,6 +31753,11 @@
       "Time": "2023-11-17T13:15:48.6003488+00:00",
       "NumProgressed": 235489,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-11-17T14:09:12.4676429+00:00",
+      "NumProgressed": 235497,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 532,
@@ -31994,9 +31999,9 @@
       "ID": "objective_completed_1077",
       "SetID": "415jc5c",
       "Name": "A Lesson in Classes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 404
     },
     {
       "ID": "objective_completed_1080",
@@ -36019,21 +36024,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201763,
+      "Progressed": 201771,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235489,
+      "Progressed": 235497,
       "Completed": 2456
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-17T13:05:16.2009083+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:15:48.6003484+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:09:12.4676425+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:05:16.200909+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:15:48.6025592+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:58:43.2399174+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:09:12.4700374+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 882,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 3.86,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1969,6 +1969,11 @@
       "Time": "2023-11-17T13:15:31.0697835+00:00",
       "NumProgressed": 881,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-17T14:08:54.5989016+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1981,7 +1986,7 @@
       "Name": "Time traveller",
       "Percentage": 19,
       "XP": 140,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_CUBES",
@@ -1989,7 +1994,7 @@
       "Name": "Brain-teaser",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_DONUTS",
@@ -1997,7 +2002,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2021,7 +2026,7 @@
       "Name": "Evil plan",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2029,7 +2034,7 @@
       "Name": "Good listener",
       "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2037,7 +2042,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2060,14 +2065,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 882,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:15:31.0697827+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:08:54.5989013+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:06:52.4132405+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:15:31.0698028+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:00:14.4264525+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:08:54.5989242+00:00"
 }

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 41.00% | ~28 |
-| Purification Pioneer | 39.00% | ~27 |
+| Meissa's Savior | 42.00% | ~29 |
+| Purification Pioneer | 41.00% | ~28 |
+| Mechanical Buddy | 38.00% | ~26 |
 | Dicesmithing Time! | 36.00% | ~25 |
 | Endless Tricks | 36.00% | ~25 |
-| Mechanical Buddy | 36.00% | ~25 |
 | Noctuan Champion | 36.00% | ~25 |
 | Sanctuary Guardian | 33.00% | ~23 |
 | Wild's Keeper | 33.00% | ~23 |
@@ -104,7 +104,7 @@
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 69 (Ranked 458)  
-Completed: 0 (0.00%) (Ranked 352)  
+Completed: 0 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

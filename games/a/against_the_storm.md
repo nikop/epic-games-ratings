@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 79)  
+Rating: 4.81 (Ranked 78)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,10 +10,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 7.00% | ~1,213 |
 | Taking Action | 7.00% | ~1,213 |
 | No Deaths | 7.00% | ~1,213 |
-| Overcoming Difficulty | 6.00% | ~1,039 |
-| Fertile Meadows | 6.00% | ~1,039 |
-| Coral Forest | 6.00% | ~1,039 |
-| The Scarlet Orchard | 6.00% | ~1,039 |
+| Overcoming Difficulty | 6.00% | ~1,040 |
+| Fertile Meadows | 6.00% | ~1,040 |
+| Coral Forest | 6.00% | ~1,040 |
+| The Scarlet Orchard | 6.00% | ~1,040 |
 | Ancient Battleground | 5.00% | ~866 |
 | Sparkdew Crystals | 5.00% | ~866 |
 | Royal Outpost | 5.00% | ~866 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,324 (Ranked 142)  
-Completed: 55 (0.32%) (Ranked 228)  
+Progressed: 17,325 (Ranked 142)  
+Completed: 55 (0.32%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 55 (0.32%) (Ranked 228)
 | 2023-11-14 | 17,309 | 55 |
 | 2023-11-15 | 17,312 | 55 |
 | 2023-11-16 | 17,320 | 55 |
-| 2023-11-17 | 17,324 | 55 |
+| 2023-11-17 | 17,325 | 55 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 219)  
 Sum: 3,217 (Ranked 171)  

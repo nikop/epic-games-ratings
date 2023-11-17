@@ -44,7 +44,7 @@
 | Merely Inquisitive | 21.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 532)  
-Completed: 5 (20.83%) (Ranked 18)  
+Completed: 5 (20.83%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

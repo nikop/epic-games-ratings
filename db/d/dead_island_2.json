@@ -2,11 +2,11 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -6615,9 +6615,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719561,
+  "EOS_Progressed": 719578,
   "EOS_Completed": 2401,
-  "EOS_NewPlayers": 3683,
+  "EOS_NewPlayers": 3667,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30730,6 +30730,11 @@
       "Time": "2023-11-17T13:12:30.284635+00:00",
       "NumProgressed": 719561,
       "NumCompleted": 2401
+    },
+    {
+      "Time": "2023-11-17T14:05:47.0930765+00:00",
+      "NumProgressed": 719578,
+      "NumCompleted": 2401
     }
   ],
   "TotalAchievements": 51,
@@ -30741,7 +30746,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30757,7 +30762,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_anger_management",
@@ -30765,7 +30770,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -30797,7 +30802,7 @@
       "Name": "Bookworm",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_break_a_leg",
@@ -30893,7 +30898,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_hotel_california",
@@ -30941,7 +30946,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_knowledgeable",
@@ -31013,7 +31018,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_star_performance",
@@ -31061,7 +31066,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5756
+      "UsersEstimate": 5757
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31148,13 +31153,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719561,
+      "Progressed": 719578,
       "Completed": 2401
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45103,
+      "Progressed": 45120,
       "Completed": 36550
     }
   ],
@@ -31162,8 +31167,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-17T05:59:38.0383453+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:12:30.2846344+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:05:47.0930759+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:05:35.0946489+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:12:30.2847501+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:59:00.5705242+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:05:47.0932114+00:00"
 }

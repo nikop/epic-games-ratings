@@ -3,9 +3,9 @@
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
   "Ranking_EOS_Progress": 513,
-  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
     "PcReleaseDate": "2018-04-23T22:00:00+00:00",
@@ -292,8 +292,8 @@
   ],
   "FirstSeen": "2023-06-10T10:59:21.1089045+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:12:39.1469784+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:05:55.3544403+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.8542589+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:06:02.7336378+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:12:39.1469878+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:59:26.8769746+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:05:55.3544486+00:00"
 }

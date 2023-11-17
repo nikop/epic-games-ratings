@@ -72,8 +72,8 @@ Rating: 3.47 (Ranked 1,039)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,768 (Ranked 229)  
-Completed: 0 (0.00%) (Ranked 352)  
+Progressed: 1,769 (Ranked 229)  
+Completed: 0 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,6 +178,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-10-28 | 1,765 | 0 |
 | 2023-11-03 | 1,766 | 0 |
 | 2023-11-12 | 1,768 | 0 |
+| 2023-11-17 | 1,769 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

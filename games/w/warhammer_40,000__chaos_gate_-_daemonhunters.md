@@ -52,12 +52,12 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.30% | ~10 |
 | True Mastery | 0.30% | ~10 |
 | Abomination | 0.30% | ~10 |
+| Killing Rampage | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Clean Slate | 0.20% | ~7 |
 | Unstable Immaterium | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
-| Killing Rampage | 0.20% | ~7 |
 | Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,307 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 352)  
+Completed: 0 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

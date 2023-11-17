@@ -113,6 +113,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.10% | ~457 |
 | Over a Thousand! | 0.10% | ~457 |
 | Parisian Pasha | 0.10% | ~457 |
+| Pirate Bay of Janjira | 0.10% | ~457 |
 | Poland can into space | 0.10% | ~457 |
 | Populists in Government | 0.10% | ~457 |
 | Pyramid of Skulls | 0.10% | ~457 |
@@ -295,7 +296,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pandya Empire | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
-| Pirate Bay of Janjira | 0.00% | ~0 |
 | Prester John | 0.00% | ~0 |
 | The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,362 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 352)  
+Progressed: 457,403 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -581,10 +581,10 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,362 | 1 |
+| 2023-11-17 | 457,403 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
-Sum: 57,928 (Ranked 24)  
+Sum: 57,945 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -593,7 +593,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,748 |
 | This game has Challenging Combat | 6,665 |
 | This game is Extremely Fun | 6,637 |
-| This game is Relaxing | 6,461 |
+| This game is Relaxing | 6,478 |
 | This game has Competitive Players | 6,309 |
 | This game has Amazing Storytelling | 5,854 |
 | This game has Amazing Characters | 5,427 |
@@ -905,4 +905,4 @@ Diff (max vs sum): 30
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
-| 2023-11-17 | 4.69 | - | 7,043 | 57,928 |
+| 2023-11-17 | 4.69 | - | 7,043 | 57,945 |

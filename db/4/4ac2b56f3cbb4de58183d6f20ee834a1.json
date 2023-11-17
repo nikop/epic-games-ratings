@@ -3,9 +3,9 @@
   "Name": "Spiral",
   "ProductSlug": "spiral-1b3617",
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-16T23:57:00.9797546+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:05:28.9018448+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:10:24.1141396+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:58:54.7876591+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:03:43.0413069+00:00"
 }

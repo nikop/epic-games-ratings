@@ -23,8 +23,8 @@
 | The Curse Is Real | 10.00% | ~30 |
 | Rest In Peace | 9.00% | ~27 |
 | What A Mansion | 8.00% | ~24 |
+| I Am The Gate Keeper! | 7.00% | ~21 |
 | Researcher | 6.00% | ~18 |
-| I Am The Gate Keeper! | 6.00% | ~18 |
 | This Mansion Is Clean | 5.00% | ~15 |
 | Armed To The Teeth | 4.00% | ~12 |
 | The bus stop | 3.00% | ~9 |
@@ -46,7 +46,7 @@
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 305 (Ranked 339)  
-Completed: 1 (0.33%) (Ranked 224)  
+Completed: 1 (0.33%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

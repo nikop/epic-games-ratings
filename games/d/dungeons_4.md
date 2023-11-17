@@ -10,8 +10,8 @@
 | Hammer Time, Round Two | 80.00% | ~228 |
 | The Hellwoods | 75.00% | ~214 |
 | The Plains of Strothalm | 68.00% | ~194 |
+| Experienced Thalya | 68.00% | ~194 |
 | Thalya's Concentrated Fury | 67.00% | ~191 |
-| Experienced Thalya | 67.00% | ~191 |
 | Master of Magic | 62.00% | ~177 |
 | Bad Elves Go Everywhere | 62.00% | ~177 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
@@ -26,7 +26,7 @@
 | The Big Eaty | 38.00% | ~108 |
 | Pure Dynamite! | 36.00% | ~103 |
 | Mana Cannon | 31.00% | ~88 |
-| “… like son” | 30.00% | ~86 |
+| “… like son” | 31.00% | ~88 |
 | Dungeonlord Gorgu | 25.00% | ~71 |
 | The Cathedral of Light | 23.00% | ~66 |
 | Shame! Shame! Shame! | 23.00% | ~66 |
@@ -46,7 +46,7 @@
 | My Little Torture Chamber | 7.00% | ~20 |
 | Bonus Evilness | 7.00% | ~20 |
 | Sabotage! | 7.00% | ~20 |
-| Doom Hill | 6.00% | ~17 |
+| Doom Hill | 7.00% | ~20 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
 | Mirror, Mirror | 5.00% | ~14 |
 | Raiders of the Lost Stone | 5.00% | ~14 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 285 (Ranked 351)  
-Completed: 1 (0.35%) (Ranked 221)  
+Completed: 1 (0.35%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

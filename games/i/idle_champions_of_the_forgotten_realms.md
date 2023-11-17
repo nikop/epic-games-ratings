@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.60% | ~1,211 |
 | See You on the Flipside | 0.50% | ~1,009 |
 | The Cursed Farmer | 0.30% | ~706 |
+| A Lesson in Classes | 0.20% | ~404 |
 | Beast Intentions | 0.20% | ~471 |
 | The Mad Wizard | 0.20% | ~471 |
 | Reya Reborn | 0.20% | ~404 |
@@ -43,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Always Watching | 0.10% | ~202 |
 | The Fall of Ythryn | 0.10% | ~202 |
 | Icequake | 0.10% | ~202 |
-| A Lesson in Classes | 0.10% | ~202 |
 | The Prince of a Thousand Enemies | 0.10% | ~202 |
 | Uncommon Allies | 0.10% | ~202 |
 | The Birds | 0.10% | ~202 |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~202 |
 | Time Out | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,489 (Ranked 64)  
-Completed: 2,456 (1.04%) (Ranked 159)  
+Progressed: 235,497 (Ranked 64)  
+Completed: 2,456 (1.04%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -750,7 +750,7 @@ Completed: 2,456 (1.04%) (Ranked 159)
 | 2023-11-14 | 235,048 | 2,448 |
 | 2023-11-15 | 235,196 | 2,449 |
 | 2023-11-16 | 235,368 | 2,455 |
-| 2023-11-17 | 235,489 | 2,456 |
+| 2023-11-17 | 235,497 | 2,456 |
 ## Awards
 Max (Great for Beginners): 5,532  (Ranked 68)  
 Sum: 32,503 (Ranked 40)  

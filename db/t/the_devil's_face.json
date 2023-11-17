@@ -3,7 +3,7 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -2543,9 +2543,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 74
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2582,8 +2582,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:10:56.4321747+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:04:14.9811008+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.3644935+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:06:41.9640884+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:10:56.4321969+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:00:04.596761+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:04:14.9811201+00:00"
 }

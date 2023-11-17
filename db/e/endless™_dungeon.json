@@ -3,9 +3,9 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-11-17T07:09:04.2859837+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T14:05:31.5453434+00:00",
+      "NumProgressed": 1105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1777,7 +1782,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -1817,7 +1822,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1841,7 +1846,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -1879,9 +1884,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1945,7 +1950,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1976,14 +1981,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:12:14.4744013+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:05:31.5453428+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:04:32.0537684+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:12:14.4744264+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:57:59.9825847+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:05:31.5453632+00:00"
 }

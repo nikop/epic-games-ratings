@@ -2,13 +2,13 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -817,9 +817,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3476,
+  "EOS_Progressed": 3477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5492,6 +5492,11 @@
       "Time": "2023-11-17T08:05:12.3360214+00:00",
       "NumProgressed": 3476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T14:04:48.0557874+00:00",
+      "NumProgressed": 3477,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5520,7 +5525,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_12",
@@ -5528,7 +5533,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "achievement_13",
@@ -5536,7 +5541,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "achievement_14",
@@ -5552,7 +5557,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "achievement_16",
@@ -5560,7 +5565,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "achievement_17",
@@ -5671,7 +5676,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3476,
+      "Progressed": 3477,
       "Completed": 0
     }
   ],
@@ -5679,8 +5684,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-17T05:58:08.8219337+00:00",
-  "LastChanged_Achievements": "2023-11-17T13:11:30.8187845+00:00",
+  "LastChanged_Achievements": "2023-11-17T14:04:48.0557868+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:04:32.7482089+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:11:30.8188123+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:58:00.6843808+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:04:48.0558215+00:00"
 }

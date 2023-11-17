@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,14 +14,14 @@ Rating: 4.54 (Ranked 522)
 | Coup de Grâce | 0.90% | ~6,476 |
 | Hazardous Materials | 0.90% | ~6,476 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,476 |
-| Dr. Reed, I Presume? | 0.80% | ~5,756 |
-| Git Gutte! | 0.80% | ~5,756 |
-| Anger Management | 0.80% | ~5,756 |
-| Bookworm | 0.80% | ~5,756 |
-| Friends Like These | 0.80% | ~5,756 |
-| Apex Predator | 0.80% | ~5,756 |
-| Stacking the Deck | 0.80% | ~5,756 |
-| This is My Weapon | 0.80% | ~5,756 |
+| Dr. Reed, I Presume? | 0.80% | ~5,757 |
+| Git Gutte! | 0.80% | ~5,757 |
+| Anger Management | 0.80% | ~5,757 |
+| Bookworm | 0.80% | ~5,757 |
+| Friends Like These | 0.80% | ~5,757 |
+| Apex Predator | 0.80% | ~5,757 |
+| Stacking the Deck | 0.80% | ~5,757 |
+| This is My Weapon | 0.80% | ~5,757 |
 | But Doctor, I am Butcho | 0.70% | ~5,037 |
 | Can't Handle the Truth | 0.70% | ~5,037 |
 | Like Riding a Bike | 0.70% | ~5,037 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,561 (Ranked 20)  
-Completed: 2,401 (0.33%) (Ranked 224)  
+Progressed: 719,578 (Ranked 20)  
+Completed: 2,401 (0.33%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 2,401 (0.33%) (Ranked 224)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,561 | 2,401 |
+| 2023-11-17 | 719,578 | 2,401 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 51)  
 Sum: 11,441 (Ranked 84)  

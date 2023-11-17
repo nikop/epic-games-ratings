@@ -2,13 +2,13 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 67,
+  "Ranking_Rating": 78,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 352,
+  "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.81,
   "NumberOfRatings": 4392,
   "RatingHistory": [
     {
@@ -10473,10 +10473,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 14219,
       "NumberOfAwardsMax": 1834
+    },
+    {
+      "Time": "2023-11-17T13:57:44.3156995+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 14221,
+      "NumberOfAwardsMax": 1834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14219,
+  "NumberOfAwards": 14221,
   "NumberOfAwardsMax": 1834,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -10484,7 +10490,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1715
+      "Count": 1717
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10558,8 +10564,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-11-17T06:59:55.9988952+00:00",
+  "LastChanged": "2023-11-17T13:57:44.3156993+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:09.1178258+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:04:15.805737+00:00",
-  "LastUpdate_Achievements": "2023-11-17T13:10:11.7895687+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:57:44.3157002+00:00",
+  "LastUpdate_Achievements": "2023-11-17T14:03:31.0526311+00:00"
 }
