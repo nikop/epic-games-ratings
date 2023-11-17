@@ -12133,10 +12133,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57973,
       "NumberOfAwardsMax": 7043
+    },
+    {
+      "Time": "2023-11-17T22:59:33.0160062+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58000,
+      "NumberOfAwardsMax": 7043
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57973,
+  "NumberOfAwards": 58000,
   "NumberOfAwardsMax": 7043,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12144,7 +12150,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6748
+      "Count": 6775
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12207,9 +12213,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457776,
+  "EOS_Progressed": 457804,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6063,
+  "EOS_NewPlayers": 6059,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36412,6 +36418,11 @@
       "Time": "2023-11-17T22:06:24.2122792+00:00",
       "NumProgressed": 457776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T23:08:13.5107933+00:00",
+      "NumProgressed": 457804,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38725,9 +38736,9 @@
       "ID": "achievement_the_bohemians",
       "SetID": "8p2n7he",
       "Name": "The Bohemians",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_the_burgundian_inheritance",
@@ -39326,21 +39337,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457776,
+      "Progressed": 457804,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457776,
+      "Progressed": 457804,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-17T20:58:47.1618525+00:00",
-  "LastChanged_Achievements": "2023-11-17T22:06:24.2122788+00:00",
+  "LastChanged": "2023-11-17T22:59:33.016006+00:00",
+  "LastChanged_Achievements": "2023-11-17T23:08:13.5107931+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:59:36.1757946+00:00",
-  "LastUpdate_Achievements": "2023-11-17T22:06:24.2135754+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:59:33.0160066+00:00",
+  "LastUpdate_Achievements": "2023-11-17T23:08:13.5118223+00:00"
 }

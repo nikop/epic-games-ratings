@@ -5,27 +5,27 @@ Rating: 4.80 (Ranked 86)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,850 |
-| I Challenge You To Save More Money! | 88.00% | ~7,428 |
-| I Love How Tough You Are | 75.00% | ~6,331 |
-| Wanna Come To My Place For Dinner? | 69.00% | ~5,824 |
+| Last Night...Did We... | 93.00% | ~7,851 |
+| I Challenge You To Save More Money! | 88.00% | ~7,429 |
+| I Love How Tough You Are | 75.00% | ~6,332 |
+| Wanna Come To My Place For Dinner? | 69.00% | ~5,825 |
 | What I Want Is You | 63.00% | ~5,318 |
 | To Be Or Not To Be | 60.00% | ~5,065 |
 | Love Actually | 51.00% | ~4,305 |
 | Are You Alright? | 51.00% | ~4,305 |
 | Drama King | 44.00% | ~3,714 |
 | You're Really Something Else | 39.00% | ~3,292 |
-| Happy Family | 37.00% | ~3,123 |
-| Go Clean up In Your Own Way | 37.00% | ~3,123 |
+| Happy Family | 37.00% | ~3,124 |
+| Go Clean up In Your Own Way | 37.00% | ~3,124 |
 | ONE PUNCH | 36.00% | ~3,039 |
 | FIRST LOVE | 36.00% | ~3,039 |
 | Worthless Speech | 36.00% | ~3,039 |
-| Drama CP: Reel to Real | 35.00% | ~2,954 |
+| Drama CP: Reel to Real | 35.00% | ~2,955 |
 | Absolutely Elegant | 34.00% | ~2,870 |
 | Still Single | 33.00% | ~2,786 |
 | Go Get Some Fries On The Pier | 31.00% | ~2,617 |
 | Days Of Innocence | 31.00% | ~2,617 |
-| David | 30.00% | ~2,532 |
+| David | 30.00% | ~2,533 |
 | All I Have Is Money | 26.00% | ~2,195 |
 | A Slap In The Face! | 26.00% | ~2,195 |
 | Lover In Dark Alley | 25.00% | ~2,110 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 86)
 | Tall; Grande; Venti | 2.00% | ~169 |
 | Limerence | 2.00% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,441 (Ranked 167)  
+Progressed: 8,442 (Ranked 167)  
 Completed: 133 (1.58%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 133 (1.58%) (Ranked 138)
 | 2023-11-14 | 8,207 | 128 |
 | 2023-11-15 | 8,283 | 130 |
 | 2023-11-16 | 8,354 | 130 |
-| 2023-11-17 | 8,441 | 133 |
+| 2023-11-17 | 8,442 | 133 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

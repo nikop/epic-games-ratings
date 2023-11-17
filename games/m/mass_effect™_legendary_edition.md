@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,208 |
-| Spectre Inductee | 79.00% | ~1,026 |
-| Medal of Exploration I | 71.00% | ~922 |
-| Recruit | 67.00% | ~870 |
-| Search and Rescue | 67.00% | ~870 |
-| Quarian Ally | 63.00% | ~818 |
-| Medal of Heroism | 59.00% | ~766 |
-| Honorarium of Corporate Service | 58.00% | ~753 |
-| Medal of Exploration II | 53.00% | ~688 |
-| Turian Ally | 53.00% | ~688 |
-| Council Legion of Merit | 53.00% | ~688 |
+| Distinguished Service Medal | 93.00% | ~1,209 |
+| Spectre Inductee | 79.00% | ~1,027 |
+| Medal of Exploration I | 71.00% | ~923 |
+| Recruit | 67.00% | ~871 |
+| Search and Rescue | 67.00% | ~871 |
+| Quarian Ally | 63.00% | ~819 |
+| Medal of Heroism | 59.00% | ~767 |
+| Honorarium of Corporate Service | 58.00% | ~754 |
+| Medal of Exploration II | 53.00% | ~689 |
+| Turian Ally | 53.00% | ~689 |
+| Council Legion of Merit | 53.00% | ~689 |
 | Medal of Honor | 50.00% | ~650 |
 | Meritorious Service Medal | 50.00% | ~650 |
 | Charismatic | 49.00% | ~637 |
@@ -35,8 +35,8 @@
 | Operative | 38.00% | ~494 |
 | Scholar | 38.00% | ~494 |
 | Veteran | 37.00% | ~481 |
+| The Professor | 37.00% | ~481 |
 | The Archangel | 36.00% | ~468 |
-| The Professor | 36.00% | ~468 |
 | Power Full | 35.00% | ~455 |
 | The Convict | 34.00% | ~442 |
 | Colony Defense | 33.00% | ~429 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,299 (Ranked 243)  
+Progressed: 1,300 (Ranked 243)  
 Completed: 3 (0.23%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,4 +195,4 @@ Completed: 3 (0.23%) (Ranked 244)
 | 2023-11-14 | 1,260 | 3 |
 | 2023-11-15 | 1,270 | 3 |
 | 2023-11-16 | 1,282 | 3 |
-| 2023-11-17 | 1,299 | 3 |
+| 2023-11-17 | 1,300 | 3 |

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -417,6 +417,11 @@
       "Time": "2023-11-17T22:08:43.0687694+00:00",
       "NumProgressed": 140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T23:10:22.1835941+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -461,7 +466,7 @@
       "Name": "Liberator",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -475,17 +480,17 @@
       "ID": "CompleteCampaignWarrior",
       "SetID": "52ail55",
       "Name": "Knight-Vexillor",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "CompleteChapter10",
@@ -493,15 +498,15 @@
       "Name": "You da Boss, Now",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter12",
@@ -509,7 +514,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteChapter13",
@@ -523,9 +528,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter15",
@@ -547,17 +552,17 @@
       "ID": "CompleteChapter17",
       "SetID": "52ail55",
       "Name": "Fool\u0027s Errand",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "CompleteChapter18",
@@ -571,17 +576,17 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteChapter4",
@@ -589,7 +594,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteChapter5",
@@ -621,7 +626,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CompleteChapter9",
@@ -629,7 +634,7 @@
       "Name": "Ingredients List",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -661,7 +666,7 @@
       "Name": "Order",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteConquestTzeentch",
@@ -701,7 +706,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Win50ConquestBattles",
@@ -724,14 +729,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 143,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-17T22:08:43.0687692+00:00",
+  "LastChanged_Achievements": "2023-11-17T23:10:22.1835936+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:58:56.4639747+00:00",
-  "LastUpdate_Achievements": "2023-11-17T22:08:43.0687916+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:58:56.83788+00:00",
+  "LastUpdate_Achievements": "2023-11-17T23:10:22.183621+00:00"
 }

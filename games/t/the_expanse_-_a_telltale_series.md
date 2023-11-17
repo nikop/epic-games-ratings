@@ -7,8 +7,10 @@ Rating: 4.56 (Ranked 488)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 8.00% | ~1,205 |
 | The Pit and the Pirates | 4.00% | ~602 |
+| Martian Music | 4.00% | ~602 |
 | Drone Dodger | 4.00% | ~602 |
 | Bosmang | 4.00% | ~602 |
+| Captain Drummer | 4.00% | ~602 |
 | Celebrations are in Order | 4.00% | ~602 |
 | Impossible Objects | 4.00% | ~602 |
 | Safe Cracker | 4.00% | ~41 |
@@ -17,10 +19,8 @@ Rating: 4.56 (Ranked 488)
 | Stogie for Fogey | 3.00% | ~452 |
 | Drug Gifter | 3.00% | ~452 |
 | Spore Taste | 3.00% | ~452 |
-| Martian Music | 3.00% | ~452 |
 | Heal Thy Medic | 3.00% | ~452 |
 | Call it Even | 3.00% | ~452 |
-| Captain Drummer | 3.00% | ~452 |
 | Keep Arjun in Check | 3.00% | ~30 |
 | Data Archivist | 2.00% | ~301 |
 | Bottoms up! | 2.00% | ~301 |
@@ -30,7 +30,7 @@ Rating: 4.56 (Ranked 488)
 | Doctor Approved | 1.00% | ~151 |
 | Data Logger | 1.00% | ~151 |
 | Miraculous Maya | 1.00% | ~151 |
-| Data Master | 0.80% | ~120 |
+| Data Master | 0.90% | ~136 |
 | Brother's Reaper | 0.70% | ~105 |
 | No Belter Left Behind | 0.70% | ~105 |
 | Debris Spree | 0.60% | ~90 |

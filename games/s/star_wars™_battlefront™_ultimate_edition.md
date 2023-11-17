@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,143 |
-| Off to a good start | 66.00% | ~847 |
-| Do... or do not. There is no try | 51.00% | ~655 |
-| A good blaster at your side | 31.00% | ~398 |
-| I suggest a new strategy | 19.00% | ~244 |
+| New Recruit | 89.00% | ~1,145 |
+| Off to a good start | 66.00% | ~849 |
+| Do... or do not. There is no try | 51.00% | ~656 |
+| A good blaster at your side | 31.00% | ~399 |
+| I suggest a new strategy | 20.00% | ~257 |
 | Scrap collector | 18.00% | ~231 |
-| All right, I'll give it a try | 17.00% | ~218 |
-| Great shot, kid! | 17.00% | ~218 |
+| All right, I'll give it a try | 17.00% | ~219 |
+| Great shot, kid! | 17.00% | ~219 |
 | The power of the Force | 15.00% | ~193 |
+| Shoot first | 15.00% | ~193 |
 | Collector | 14.00% | ~180 |
 | Together we can rule the galaxy | 14.00% | ~180 |
-| Shoot first | 14.00% | ~180 |
-| Tell Jabba that I've got his money | 10.00% | ~128 |
-| Best star-pilot in the galaxy | 10.00% | ~128 |
-| Survivor | 10.00% | ~128 |
+| Tell Jabba that I've got his money | 10.00% | ~129 |
+| Best star-pilot in the galaxy | 10.00% | ~129 |
+| Survivor | 10.00% | ~129 |
 | Never tell me the odds! | 9.00% | ~116 |
+| What's the cargo? | 8.00% | ~103 |
 | A cunning warrior | 8.00% | ~103 |
-| What's the cargo? | 7.00% | ~90 |
+| Judge me by my size, do you? | 7.00% | ~90 |
 | "Gonk? Gonk!" | 6.00% | ~77 |
 | Distinguished | 6.00% | ~77 |
 | Impressive. Most impressive. | 6.00% | ~77 |
-| Judge me by my size, do you? | 6.00% | ~77 |
 | Support the troops | 6.00% | ~77 |
 | A tremor in the Force | 5.00% | ~64 |
 | Safety ain't the point of a joyride | 4.00% | ~51 |
@@ -56,19 +56,19 @@
 | No such thing as luck | 0.90% | ~12 |
 | Do we take prisoners? | 0.90% | ~12 |
 | A New Hope | 0.80% | ~10 |
-| Walker defender | 0.70% | ~9 |
+| Walker defender | 0.80% | ~10 |
 | I’ll take that bet | 0.70% | ~9 |
 | Stay on target | 0.50% | ~6 |
 | Greed can be a very powerful ally | 0.50% | ~6 |
 | Don't get cocky | 0.40% | ~5 |
+| Master | 0.40% | ~5 |
 | That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
-| Master | 0.30% | ~4 |
 | Stay in attack formation | 0.30% | ~4 |
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,284 (Ranked 244)  
+Progressed: 1,286 (Ranked 244)  
 Completed: 1 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.08%) (Ranked 291)
 | 2023-11-14 | 1,220 | 1 |
 | 2023-11-15 | 1,239 | 1 |
 | 2023-11-16 | 1,270 | 1 |
-| 2023-11-17 | 1,284 | 1 |
+| 2023-11-17 | 1,286 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

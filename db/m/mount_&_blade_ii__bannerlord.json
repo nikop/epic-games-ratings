@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8788,10 +8788,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15313,
       "NumberOfAwardsMax": 7397
+    },
+    {
+      "Time": "2023-11-17T22:57:36.5262839+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15314,
+      "NumberOfAwardsMax": 7397
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15313,
+  "NumberOfAwards": 15314,
   "NumberOfAwardsMax": 7397,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8859,7 +8865,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 637
+      "Count": 638
     },
     {
       "Text": "This game has Competitive Players",
@@ -8868,9 +8874,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65301,
+  "EOS_Progressed": 65302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31083,6 +31089,11 @@
       "Time": "2023-11-17T22:10:08.3249787+00:00",
       "NumProgressed": 65301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T23:11:40.4477765+00:00",
+      "NumProgressed": 65302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31318,7 +31329,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21549
+      "UsersEstimate": 21550
     },
     {
       "ID": "Lawbringer",
@@ -31326,7 +31337,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26120
+      "UsersEstimate": 26121
     },
     {
       "ID": "Lawmaker",
@@ -31501,15 +31512,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65301,
+      "Progressed": 65302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-17T17:57:08.1233985+00:00",
-  "LastChanged_Achievements": "2023-11-17T22:10:08.3249781+00:00",
+  "LastChanged": "2023-11-17T22:57:36.5262837+00:00",
+  "LastChanged_Achievements": "2023-11-17T23:11:40.4477761+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:57:29.7316056+00:00",
-  "LastUpdate_Achievements": "2023-11-17T22:10:08.3251294+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:57:36.5262843+00:00",
+  "LastUpdate_Achievements": "2023-11-17T23:11:40.4478981+00:00"
 }

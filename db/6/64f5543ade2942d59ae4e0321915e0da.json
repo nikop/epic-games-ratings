@@ -285,9 +285,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_BOSS_04",
@@ -461,9 +461,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-17T22:08:06.0456294+00:00",
+  "LastChanged_Achievements": "2023-11-17T23:09:48.0833381+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:57:34.5559466+00:00",
-  "LastUpdate_Achievements": "2023-11-17T22:08:06.0456574+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:57:41.2412982+00:00",
+  "LastUpdate_Achievements": "2023-11-17T23:09:48.0833689+00:00"
 }

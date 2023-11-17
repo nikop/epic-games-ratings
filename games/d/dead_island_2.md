@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,792 (Ranked 20)  
+Progressed: 719,812 (Ranked 20)  
 Completed: 2,402 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2,402 (0.33%) (Ranked 226)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,792 | 2,402 |
+| 2023-11-17 | 719,812 | 2,402 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 52)  
 Sum: 11,445 (Ranked 84)  

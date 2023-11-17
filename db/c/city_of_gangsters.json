@@ -766,9 +766,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 352797,
+  "EOS_Progressed": 352809,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1053,
+  "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24766,6 +24766,11 @@
       "Time": "2023-11-17T22:03:43.6677379+00:00",
       "NumProgressed": 352797,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T23:05:46.1412994+00:00",
+      "NumProgressed": 352809,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -24793,7 +24798,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42336
+      "UsersEstimate": 42337
     },
     {
       "ID": "ach004",
@@ -24833,7 +24838,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42336
+      "UsersEstimate": 42337
     },
     {
       "ID": "ach009",
@@ -24865,7 +24870,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28224
+      "UsersEstimate": 28225
     },
     {
       "ID": "ach013",
@@ -24881,7 +24886,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52920
+      "UsersEstimate": 52921
     },
     {
       "ID": "ach015",
@@ -24905,7 +24910,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45864
+      "UsersEstimate": 45865
     },
     {
       "ID": "ach018",
@@ -24913,7 +24918,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28224
+      "UsersEstimate": 28225
     },
     {
       "ID": "ach019",
@@ -24985,7 +24990,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165815
+      "UsersEstimate": 165820
     },
     {
       "ID": "ach028",
@@ -25001,7 +25006,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38808
+      "UsersEstimate": 38809
     },
     {
       "ID": "ach030",
@@ -25081,7 +25086,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35280
+      "UsersEstimate": 35281
     },
     {
       "ID": "ach040",
@@ -25113,7 +25118,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24696
+      "UsersEstimate": 24697
     },
     {
       "ID": "ach044",
@@ -25129,7 +25134,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45864
+      "UsersEstimate": 45865
     },
     {
       "ID": "ach046",
@@ -25137,7 +25142,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24696
+      "UsersEstimate": 24697
     },
     {
       "ID": "ach047",
@@ -25177,7 +25182,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38808
+      "UsersEstimate": 38809
     },
     {
       "ID": "ach052",
@@ -25185,7 +25190,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "ach053",
@@ -25241,7 +25246,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35280
+      "UsersEstimate": 35281
     },
     {
       "ID": "ach060",
@@ -25249,7 +25254,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "ach061",
@@ -25273,7 +25278,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "ach065",
@@ -25289,7 +25294,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49392
+      "UsersEstimate": 49393
     },
     {
       "ID": "ach067",
@@ -25305,7 +25310,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56448
+      "UsersEstimate": 56449
     },
     {
       "ID": "ach069",
@@ -25313,7 +25318,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49392
+      "UsersEstimate": 49393
     },
     {
       "ID": "ach070",
@@ -25337,7 +25342,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "ach073",
@@ -25345,7 +25350,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "ach074",
@@ -25361,7 +25366,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "ach076",
@@ -25385,7 +25390,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24696
+      "UsersEstimate": 24697
     },
     {
       "ID": "ach079",
@@ -25416,7 +25421,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 352797,
+      "Progressed": 352809,
       "Completed": 7
     }
   ],
@@ -25424,8 +25429,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-15T20:57:45.7972691+00:00",
-  "LastChanged_Achievements": "2023-11-17T22:03:43.6677376+00:00",
+  "LastChanged_Achievements": "2023-11-17T23:05:46.141299+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.6419748+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:59:23.0265578+00:00",
-  "LastUpdate_Achievements": "2023-11-17T22:03:43.667907+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:59:20.9648367+00:00",
+  "LastUpdate_Achievements": "2023-11-17T23:05:46.1414889+00:00"
 }

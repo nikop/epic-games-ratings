@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,015 |
-| Titan's First Steps | 5.00% | ~7,015 |
-| Basic in Bulk | 4.00% | ~5,612 |
-| Tinkle of Coins | 4.00% | ~5,612 |
+| Sponsored by Argon | 5.00% | ~7,016 |
+| Titan's First Steps | 5.00% | ~7,016 |
+| Basic in Bulk | 4.00% | ~5,613 |
+| Tinkle of Coins | 4.00% | ~5,613 |
 | Disintermediation | 3.00% | ~4,209 |
 | It's Free Real Estate | 3.00% | ~4,209 |
 | Budding Merchant | 3.00% | ~4,209 |
@@ -64,26 +64,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,263 |
 | Special Ingredient | 0.90% | ~1,263 |
 | Complete Monopoly | 0.90% | ~1,263 |
-| Cream of the Crop | 0.80% | ~1,122 |
-| Proud Paladin | 0.80% | ~1,122 |
-| Above the Norm | 0.80% | ~1,122 |
-| A Ronin Reborn | 0.80% | ~1,122 |
-| Omae wa Mou Shindeiru | 0.80% | ~1,122 |
-| Master of Transmutation | 0.80% | ~1,122 |
-| Supercharged | 0.80% | ~1,122 |
-| Cranked up to 11 | 0.80% | ~1,122 |
-| Fit for a King | 0.80% | ~1,122 |
-| By Your Powers Combined... | 0.80% | ~1,122 |
-| Wealth Beyond Measure | 0.80% | ~1,122 |
-| Fat Cat Tag Team | 0.80% | ~1,122 |
-| Necromancer Queen | 0.80% | ~1,122 |
-| Master Merchant | 0.80% | ~1,122 |
-| Scourge of the Seas | 0.80% | ~1,122 |
-| Attrition Mission | 0.80% | ~1,122 |
-| Glittering Collection | 0.80% | ~1,122 |
-| Master Recycler | 0.80% | ~1,122 |
-| Exotic Commodities | 0.80% | ~1,122 |
-| King's Blade | 0.80% | ~1,122 |
+| Cream of the Crop | 0.80% | ~1,123 |
+| Proud Paladin | 0.80% | ~1,123 |
+| Above the Norm | 0.80% | ~1,123 |
+| A Ronin Reborn | 0.80% | ~1,123 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,123 |
+| Master of Transmutation | 0.80% | ~1,123 |
+| Supercharged | 0.80% | ~1,123 |
+| Cranked up to 11 | 0.80% | ~1,123 |
+| Fit for a King | 0.80% | ~1,123 |
+| By Your Powers Combined... | 0.80% | ~1,123 |
+| Wealth Beyond Measure | 0.80% | ~1,123 |
+| Fat Cat Tag Team | 0.80% | ~1,123 |
+| Necromancer Queen | 0.80% | ~1,123 |
+| Master Merchant | 0.80% | ~1,123 |
+| Scourge of the Seas | 0.80% | ~1,123 |
+| Attrition Mission | 0.80% | ~1,123 |
+| Glittering Collection | 0.80% | ~1,123 |
+| Master Recycler | 0.80% | ~1,123 |
+| Exotic Commodities | 0.80% | ~1,123 |
+| King's Blade | 0.80% | ~1,123 |
 | Top of the World | 0.70% | ~982 |
 | Constellated | 0.70% | ~982 |
 | Thirst for Knowledge | 0.70% | ~982 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,308 (Ranked 80)  
+Progressed: 140,316 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,308 | 187 |
+| 2023-11-17 | 140,316 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,561 (Ranked 50)  

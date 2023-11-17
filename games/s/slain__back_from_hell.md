@@ -21,21 +21,21 @@ Rating: 4.29 (Ranked 841)
 | Death Becomes Her | 0.80% | ~324 |
 | The Sky Is Falling | 0.80% | ~324 |
 | Schadenfreude | 0.80% | ~324 |
-| Hail the Great Horned Metal God! | 0.70% | ~283 |
-| That'll Come In Handy... | 0.70% | ~283 |
+| Hail the Great Horned Metal God! | 0.70% | ~284 |
+| That'll Come In Handy... | 0.70% | ~284 |
 | Start As You Mean To Go On | 0.60% | ~243 |
-| Four Legged Friend | 0.50% | ~202 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~202 |
+| Four Legged Friend | 0.50% | ~203 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~203 |
 | Ice To See You | 0.40% | ~162 |
 | Smack My Imp Up | 0.40% | ~162 |
 | Vroll With It | 0.30% | ~122 |
 | Swift of Foot, Keen of Blade | 0.30% | ~122 |
 | Flame Retardant | 0.20% | ~81 |
-| Too Metal For Magic | 0.10% | ~40 |
-| Heart Of Steel | 0.10% | ~40 |
-| Death or Glory | 0.10% | ~40 |
+| Too Metal For Magic | 0.10% | ~41 |
+| Heart Of Steel | 0.10% | ~41 |
+| Death or Glory | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,500 (Ranked 118)  
+Progressed: 40,502 (Ranked 118)  
 Completed: 26 (0.06%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 26 (0.06%) (Ranked 298)
 | 2023-11-14 | 40,325 | 26 |
 | 2023-11-15 | 40,377 | 26 |
 | 2023-11-16 | 40,433 | 26 |
-| 2023-11-17 | 40,500 | 26 |
+| 2023-11-17 | 40,502 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 331)  
 Sum: 127 (Ranked 429)  

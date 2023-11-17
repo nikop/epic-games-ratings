@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 77.00% | ~554 |
 | I Broke It | 73.00% | ~525 |
-| Better On Ice | 70.00% | ~503 |
+| Better On Ice | 71.00% | ~510 |
 | Notai Notes | 70.00% | ~503 |
 | Blue Dreams | 69.00% | ~496 |
 | He's Famous! | 69.00% | ~496 |
@@ -22,7 +22,7 @@
 | Rhythm Of Willump | 48.00% | ~345 |
 | The Relentless Storm | 47.00% | ~338 |
 | A Tragic Reminder | 45.00% | ~324 |
-| 3000 Year Blackout | 44.00% | ~316 |
+| 3000 Year Blackout | 45.00% | ~324 |
 | The Finisher | 43.00% | ~309 |
 | So Close | 41.00% | ~295 |
 | True Legends | 41.00% | ~295 |

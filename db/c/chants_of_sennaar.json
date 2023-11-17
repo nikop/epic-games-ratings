@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 580,
-  "EOS_Completed": 31,
+  "EOS_Completed": 32,
   "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 5.52,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2480,6 +2480,11 @@
       "Time": "2023-11-17T20:04:17.797177+00:00",
       "NumProgressed": 580,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-17T23:06:55.5399074+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2601,9 +2606,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 128
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2691,13 +2696,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 580,
-      "Completed": 31
+      "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-17T22:04:59.0227953+00:00",
+  "LastChanged_Achievements": "2023-11-17T23:06:55.5399071+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:00:03.7261072+00:00",
-  "LastUpdate_Achievements": "2023-11-17T22:04:59.0228217+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:59:58.3460329+00:00",
+  "LastUpdate_Achievements": "2023-11-17T23:06:55.5399286+00:00"
 }

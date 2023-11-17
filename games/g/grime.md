@@ -15,8 +15,8 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 2.00% | ~3,175 |
 | Devourer | 2.00% | ~3,175 |
 | Shapely | 1.00% | ~1,588 |
-| Scion | 1.00% | ~1,583 |
-| Glare | 1.00% | ~1,583 |
+| Scion | 1.00% | ~1,584 |
+| Glare | 1.00% | ~1,584 |
 | Jawcrab | 1.00% | ~1,588 |
 | Jawstag | 1.00% | ~1,588 |
 | Feast | 1.00% | ~1,588 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,763 (Ranked 77)  
+Progressed: 158,769 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
 | 2023-11-16 | 158,567 | 1 |
-| 2023-11-17 | 158,763 | 1 |
+| 2023-11-17 | 158,769 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 423)  
 Sum: 369 (Ranked 349)  

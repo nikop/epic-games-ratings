@@ -6,17 +6,17 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,391 |
-| Incurious | 17.00% | ~112,759 |
-| Climate Change | 16.00% | ~106,126 |
-| Stroller | 15.00% | ~99,493 |
-| Toy Train | 14.00% | ~92,860 |
-| Advanced Hiker | 13.00% | ~86,227 |
-| Hiker | 12.00% | ~79,594 |
-| Mojave Courier | 6.00% | ~39,797 |
-| Saved by Nausicaä | 5.00% | ~33,164 |
-| Advanced Voyager | 4.00% | ~26,531 |
-| Expert Stroller | 4.00% | ~26,531 |
+| Advanced Stroller | 18.00% | ~119,395 |
+| Incurious | 17.00% | ~112,762 |
+| Climate Change | 16.00% | ~106,129 |
+| Stroller | 15.00% | ~99,496 |
+| Toy Train | 14.00% | ~92,863 |
+| Advanced Hiker | 13.00% | ~86,230 |
+| Hiker | 12.00% | ~79,597 |
+| Mojave Courier | 6.00% | ~39,798 |
+| Saved by Nausicaä | 5.00% | ~33,165 |
+| Advanced Voyager | 4.00% | ~26,532 |
+| Expert Stroller | 4.00% | ~26,532 |
 | Voyager | 3.00% | ~19,899 |
 | Orient Express | 3.00% | ~19,899 |
 | Marathon | 3.00% | ~19,899 |
@@ -28,8 +28,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Shopaholic | 0.70% | ~4,643 |
 | Dynamite Fishing | 0.70% | ~4,643 |
 | Nanuk | 0.60% | ~3,980 |
-| Scrooge | 0.50% | ~3,316 |
-| Terminal Station | 0.50% | ~3,316 |
+| Scrooge | 0.50% | ~3,317 |
+| Terminal Station | 0.50% | ~3,317 |
 | Wayfarer | 0.40% | ~2,653 |
 | Advanced Wayfarer | 0.40% | ~2,653 |
 | Tough Nut! | 0.40% | ~2,653 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~663 |
 | 20 Miles under the Sea | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,286 (Ranked 28)  
+Progressed: 663,305 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 12 (0.00%) (Ranked 354)
 | 2023-11-14 | 662,583 | 12 |
 | 2023-11-15 | 662,835 | 12 |
 | 2023-11-16 | 663,040 | 12 |
-| 2023-11-17 | 663,286 | 12 |
+| 2023-11-17 | 663,305 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 288)  
 Sum: 1,597 (Ranked 230)  

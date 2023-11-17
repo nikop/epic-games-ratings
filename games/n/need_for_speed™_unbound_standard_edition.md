@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~9,443 |
+| Throwing up Tags | 92.00% | ~9,444 |
 | Cool Whip | 90.00% | ~9,238 |
-| Fashion Killa | 88.00% | ~9,032 |
-| Drop the Beat | 86.00% | ~8,827 |
-| Hey Lakeshore | 84.00% | ~8,622 |
-| 100 Miles and Runnin' | 83.00% | ~8,519 |
-| Public Enemy | 82.00% | ~8,416 |
-| Rebel Without a Pause | 67.00% | ~6,877 |
-| Hey Speedie! | 67.00% | ~6,877 |
-| Most Wanted | 63.00% | ~6,466 |
+| Fashion Killa | 88.00% | ~9,033 |
+| Drop the Beat | 86.00% | ~8,828 |
+| Hey Lakeshore | 84.00% | ~8,623 |
+| 100 Miles and Runnin' | 83.00% | ~8,520 |
+| Public Enemy | 82.00% | ~8,417 |
+| Rebel Without a Pause | 67.00% | ~6,878 |
+| Hey Speedie! | 67.00% | ~6,878 |
+| Most Wanted | 63.00% | ~6,467 |
 | New Crew | 62.00% | ~6,364 |
 | Escape Artist | 53.00% | ~5,440 |
-| Serious Guap | 52.00% | ~5,337 |
-| Style it Out | 52.00% | ~5,337 |
-| Untouchable | 52.00% | ~5,337 |
+| Serious Guap | 52.00% | ~5,338 |
+| Style it Out | 52.00% | ~5,338 |
+| Untouchable | 52.00% | ~5,338 |
 | Oh, It's On | 50.00% | ~5,132 |
 | Rydell's Rydes | 48.00% | ~4,927 |
 | Cash Money Millionaire | 45.00% | ~4,619 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~205 |
 | Cleaning Up | 2.00% | ~205 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,264 (Ranked 161)  
+Progressed: 10,265 (Ranked 161)  
 Completed: 50 (0.49%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 50 (0.49%) (Ranked 202)
 | 2023-11-14 | 10,046 | 50 |
 | 2023-11-15 | 10,113 | 50 |
 | 2023-11-16 | 10,190 | 50 |
-| 2023-11-17 | 10,264 | 50 |
+| 2023-11-17 | 10,265 | 50 |

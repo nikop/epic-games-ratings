@@ -8,9 +8,9 @@
 | The Camp | 17.00% | ~26 |
 | The Teleprobe | 16.00% | ~24 |
 | The field base | 16.00% | ~24 |
-| Survivors | 12.00% | ~18 |
+| Survivors | 13.00% | ~20 |
+| The Condor | 12.00% | ~18 |
 | The Necroevolution | 10.00% | ~15 |
-| The Condor | 10.00% | ~15 |
 | The End | 10.00% | ~15 |
 | The Alliance | 9.00% | ~14 |
 | On her own | 8.00% | ~12 |
@@ -21,7 +21,7 @@
 | Volcanologist | 5.00% | ~8 |
 | Flying Objects Operator | 5.00% | ~8 |
 | Beyond divisions | 5.00% | ~8 |
-| Fierce fight | 3.00% | ~5 |
+| Fierce fight | 4.00% | ~6 |
 | Violent solution | 3.00% | ~5 |
 | The Invincible | 3.00% | ~5 |
 | Innate curiosity | 3.00% | ~5 |

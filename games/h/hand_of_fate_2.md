@@ -6,28 +6,28 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,605 |
-| Apprentice | 58.00% | ~385,543 |
-| Close Shave | 25.00% | ~166,182 |
+| The Fool | 72.00% | ~478,607 |
+| Apprentice | 58.00% | ~385,545 |
+| Close Shave | 25.00% | ~166,183 |
 | Mercenary | 23.00% | ~152,888 |
 | Ninja | 23.00% | ~152,888 |
 | Northern Scourge | 17.00% | ~113,004 |
 | Thief Bane | 14.00% | ~93,062 |
-| Master of Arms | 12.00% | ~79,767 |
+| Master of Arms | 12.00% | ~79,768 |
 | Gambler | 10.00% | ~66,473 |
 | Dice Master | 10.00% | ~66,473 |
 | Swordsman | 9.00% | ~59,826 |
-| Knight | 8.00% | ~53,178 |
-| Cure for Corruption | 8.00% | ~53,178 |
-| Focused | 8.00% | ~53,178 |
-| Flurry of Fury | 8.00% | ~53,178 |
+| Knight | 8.00% | ~53,179 |
+| Cure for Corruption | 8.00% | ~53,179 |
+| Focused | 8.00% | ~53,179 |
+| Flurry of Fury | 8.00% | ~53,179 |
 | Long Shot | 7.00% | ~46,531 |
 | Devil Dice | 7.00% | ~46,531 |
 | Broken Heart | 7.00% | ~46,531 |
 | Adventurer | 6.00% | ~39,884 |
 | Empire's Bane | 6.00% | ~39,884 |
-| Jack of all Trades | 5.00% | ~33,236 |
-| Smithy | 5.00% | ~33,236 |
+| Jack of all Trades | 5.00% | ~33,237 |
+| Smithy | 5.00% | ~33,237 |
 | Leap of Faith | 3.00% | ~19,942 |
 | Combat Ready | 3.00% | ~19,942 |
 | Stuffed Potato | 3.00% | ~19,942 |
@@ -55,8 +55,8 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,729 (Ranked 27)  
-Completed: 171 (0.03%) (Ranked 317)  
+Progressed: 664,732 (Ranked 27)  
+Completed: 171 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,7 +266,7 @@ Completed: 171 (0.03%) (Ranked 317)
 | 2023-11-14 | 664,625 | 171 |
 | 2023-11-15 | 664,667 | 171 |
 | 2023-11-16 | 664,697 | 171 |
-| 2023-11-17 | 664,729 | 171 |
+| 2023-11-17 | 664,732 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 468)  
 Sum: 190 (Ranked 404)  
