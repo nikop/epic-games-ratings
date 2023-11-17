@@ -574,7 +574,7 @@
 | 566 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 151,670 | 7 |
 | 566 | [Far Cry](games/f/far_cry.md) | 4.51 | 0 | 546 |
 | 566 | [Godlike Burger](games/g/godlike_burger.md) | 4.51 | 0 | 546 |
-| 566 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 3,009 | 97 |
+| 566 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 3,013 | 97 |
 | 566 | [Industries of Titan](games/i/industries_of_titan.md) | 4.51 | 0 | 546 |
 | 566 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 155 | 313 |
 | 566 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 330 | 244 |
@@ -802,7 +802,7 @@
 | 792 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.35 | 3,212 | 96 |
 | 792 | [The Silent Age](games/t/the_silent_age.md) | 4.35 | 0 | 546 |
 | 802 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 507 |
-| 802 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 105 | 352 |
+| 802 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 106 | 350 |
 | 802 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.34 | 0 | 546 |
 | 802 | [Encased](games/e/encased.md) | 4.34 | 152 | 316 |
 | 802 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.34 | 0 | 546 |
