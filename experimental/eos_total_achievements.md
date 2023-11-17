@@ -526,6 +526,7 @@
 | [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
 | [Tri6 Infinite](../games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 24 | 1,000 |
 | [Undead Horde](../games/u/undead_horde.md) | 24 | 1,000 |
+| [Worldless](../games/c/c0a02ff2b624425c8111868dec76ac7b.md) | 24 | 1,000 |
 | [Arkanoid - Eternal Battle](../games/a/arkanoid_-_eternal_battle.md) | 23 | 1,000 |
 | [Candle Knight](../games/9/909c6e888c164c78a1811afccedbc3a7.md) | 23 | 1,000 |
 | [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
