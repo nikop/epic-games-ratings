@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~204 |
 | Cleaning Up | 2.00% | ~204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,201 (Ranked 159)  
+Progressed: 10,201 (Ranked 160)  
 Completed: 50 (0.49%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

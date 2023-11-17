@@ -172,6 +172,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
+| Holy | 0.30% | ~46 |
 | Great Difficulty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
@@ -185,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
-| Holy | 0.20% | ~31 |
 | Event Level High | 0.20% | ~31 |
 | Get the Hellas Out | 0.20% | ~31 |
 | The Turning Point | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,351 (Ranked 147)  
+Progressed: 15,352 (Ranked 147)  
 Completed: 5 (0.03%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 5 (0.03%) (Ranked 316)
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
-| 2023-11-17 | 15,351 | 5 |
+| 2023-11-17 | 15,352 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

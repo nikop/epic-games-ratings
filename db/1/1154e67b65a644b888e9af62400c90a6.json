@@ -3,11 +3,11 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 658,
-  "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 272,
+  "Ranking_Popularity": 219,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -605,18 +605,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 890,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2023-11-17T03:57:32.328607+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 924,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 890,
-  "NumberOfAwardsMax": 410,
+  "NumberOfAwards": 924,
+  "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 410
+      "Count": 439
     },
     {
       "Text": "This game is Relaxing",
@@ -664,7 +670,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 39
+      "Count": 44
     },
     {
       "Text": "This game has Easy Combat",
@@ -697,8 +703,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-16T21:57:30.6832101+00:00",
+  "LastChanged": "2023-11-17T03:57:32.3286066+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:57.3999056+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:57:50.007144+00:00",
-  "LastUpdate_Achievements": "2023-11-17T03:07:45.107678+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:57:32.3286073+00:00",
+  "LastUpdate_Achievements": "2023-11-17T04:05:52.8328071+00:00"
 }

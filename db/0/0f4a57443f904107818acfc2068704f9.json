@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -533,9 +533,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteChapter4",
@@ -565,9 +565,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CompleteChapter8",
@@ -629,9 +629,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Win100OnlineMatched",
@@ -683,8 +683,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-17T03:08:34.9510986+00:00",
+  "LastChanged_Achievements": "2023-11-17T04:07:37.7121653+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:58:30.4873515+00:00",
-  "LastUpdate_Achievements": "2023-11-17T03:08:34.9511193+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:57:58.2873974+00:00",
+  "LastUpdate_Achievements": "2023-11-17T04:07:37.7121875+00:00"
 }

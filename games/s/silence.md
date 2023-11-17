@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 51.00% | ~83 |
-| Fire in the... nevermind | 51.00% | ~83 |
-| Haute cuisine | 45.00% | ~73 |
-| Demolition expert | 40.00% | ~65 |
+| Chapter I | 51.00% | ~84 |
+| Fire in the... nevermind | 51.00% | ~84 |
+| Haute cuisine | 45.00% | ~74 |
+| Demolition expert | 40.00% | ~66 |
 | I didn't do it! | 39.00% | ~64 |
 | Keep away from children | 36.00% | ~59 |
 | Open up wide | 35.00% | ~57 |
-| Wooooooow! | 34.00% | ~55 |
-| Artistic fool | 33.00% | ~54 |
+| Wooooooow! | 34.00% | ~56 |
+| Artistic fool | 32.00% | ~52 |
 | Let the boot talk | 30.00% | ~49 |
 | Shadow on the wall | 30.00% | ~49 |
 | Chapter II | 25.00% | ~41 |
@@ -37,10 +37,10 @@
 | Lollipop | 8.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~11 |
 | It's nothing personal | 7.00% | ~11 |
-| Fartjokes! | 6.00% | ~10 |
-| The hands of a healer | 6.00% | ~10 |
 | Artistic master | 5.00% | ~8 |
 | Sadist | 5.00% | ~8 |
+| Fartjokes! | 5.00% | ~8 |
+| The hands of a healer | 5.00% | ~8 |
 | Shut up clown! | 4.00% | ~7 |
 | Fine Listener | 2.00% | ~3 |
 | The Green, the Fat, the Ugly | 2.00% | ~3 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 390)  
+Progressed: 164 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-14 | 156 | 0 |
 | 2023-11-15 | 157 | 0 |
 | 2023-11-16 | 163 | 0 |
+| 2023-11-17 | 164 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

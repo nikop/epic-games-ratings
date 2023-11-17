@@ -475,9 +475,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2381,
+  "EOS_Progressed": 2382,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7250,6 +7250,11 @@
       "Time": "2023-11-17T03:09:12.3105848+00:00",
       "NumProgressed": 2381,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T04:08:03.1111462+00:00",
+      "NumProgressed": 2382,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7341,7 +7346,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dailyquestcompletionist",
@@ -7371,9 +7376,9 @@
       "ID": "dragonmaster",
       "SetID": "3nl4bcg",
       "Name": "Dragon Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 357
     },
     {
       "ID": "dragonslayer",
@@ -7381,7 +7386,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ebonyjungleliberator",
@@ -7493,7 +7498,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "herewegoagain",
@@ -7717,7 +7722,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "thealchemist",
@@ -7821,7 +7826,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "warmachinesarmy",
@@ -7853,14 +7858,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2381,
+      "Progressed": 2382,
       "Completed": 2
     }
   ],
@@ -7868,8 +7873,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-17T03:09:12.3105841+00:00",
+  "LastChanged_Achievements": "2023-11-17T04:08:03.1111459+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:02:52.1318267+00:00",
-  "LastUpdate_Achievements": "2023-11-17T03:09:12.3107053+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:02:30.2875264+00:00",
+  "LastUpdate_Achievements": "2023-11-17T04:08:03.1112199+00:00"
 }

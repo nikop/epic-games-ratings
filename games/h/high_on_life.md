@@ -16,6 +16,7 @@ Rating: 4.64 (Ranked 332)
 | Lezduit! | 2.00% | ~490 |
 | RIP Davey Glutes | 2.00% | ~490 |
 | We're All Very Impressed, Trust Me | 2.00% | ~490 |
+| Legendary Bounty Hunter | 2.00% | ~490 |
 | Hardest Battle In The Game | 2.00% | ~490 |
 | Self-Actualization | 2.00% | ~490 |
 | Who's The Boss? | 2.00% | ~490 |
@@ -24,7 +25,6 @@ Rating: 4.64 (Ranked 332)
 | Spent 15 Hours At The Alien Strip Club | 2.00% | ~490 |
 | Eatin' Good in the Neighborhood | 1.00% | ~245 |
 | Eye Scream, You Scream | 1.00% | ~245 |
-| Legendary Bounty Hunter | 1.00% | ~245 |
 | Series Wrap on Suit-O | 1.00% | ~245 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~18 |
 | Bathe With A Giant Nude Alien | 1.00% | ~18 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 332)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,487 (Ranked 126)  
+Progressed: 24,488 (Ranked 126)  
 Completed: 13 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 13 (0.05%) (Ranked 303)
 | 2023-11-14 | 24,480 | 13 |
 | 2023-11-15 | 24,482 | 13 |
 | 2023-11-16 | 24,486 | 13 |
-| 2023-11-17 | 24,487 | 13 |
+| 2023-11-17 | 24,488 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

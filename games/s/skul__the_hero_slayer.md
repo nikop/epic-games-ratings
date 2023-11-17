@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,708 |
-| What should I buy? | 84.00% | ~6,962 |
-| Rescued Elder Ent | 64.00% | ~5,304 |
-| Focus! | 63.00% | ~5,221 |
-| The End of the Gold Mane Knights | 49.00% | ~4,061 |
+| The Legend Begins | 93.00% | ~7,709 |
+| What should I buy? | 84.00% | ~6,963 |
+| Rescued Elder Ent | 64.00% | ~5,305 |
+| Focus! | 63.00% | ~5,222 |
+| The End of the Gold Mane Knights | 49.00% | ~4,062 |
 | False Goddess, Disappear | 41.00% | ~3,398 |
 | Rules of Etiquette | 41.00% | ~3,398 |
 | Quick Movements | 35.00% | ~2,901 |
 | Inventory Management | 35.00% | ~2,901 |
 | The Fall of the Leonia Order | 32.00% | ~2,652 |
-| The Hero Killer | 30.00% | ~2,486 |
+| The Hero Killer | 30.00% | ~2,487 |
 | Go Home... | 29.00% | ~2,404 |
 | The Final Battle of the First Hero | 28.00% | ~2,321 |
 | Brain at Full Throttle | 24.00% | ~1,989 |
 | Rookies Welcome | 20.00% | ~1,658 |
 | Deadly Power | 17.00% | ~1,409 |
 | Castle Restoration Plans | 15.00% | ~1,243 |
-| The Dwarven Chandelier | 13.00% | ~1,077 |
+| The Dwarven Chandelier | 13.00% | ~1,078 |
 | Master of Speed | 10.00% | ~829 |
 | The Levitator | 7.00% | ~580 |
 | The God of Battle | 3.00% | ~249 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~166 |
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,288 (Ranked 168)  
+Progressed: 8,289 (Ranked 168)  
 Completed: 14 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,11 @@ Completed: 14 (0.17%) (Ranked 258)
 | 2023-11-14 | 8,281 | 14 |
 | 2023-11-15 | 8,284 | 14 |
 | 2023-11-16 | 8,288 | 14 |
+| 2023-11-17 | 8,289 | 14 |
 ## Awards
 Max (Great for Beginners): 131  (Ranked 327)  
-Sum: 923 (Ranked 269)  
-Diff (max vs sum): 58  
+Sum: 923 (Ranked 270)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 131 |

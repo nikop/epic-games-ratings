@@ -15,8 +15,8 @@
 | Medal of Exploration II | 52.00% | ~667 |
 | Turian Ally | 52.00% | ~667 |
 | Council Legion of Merit | 52.00% | ~667 |
+| Medal of Honor | 50.00% | ~641 |
 | Meritorious Service Medal | 50.00% | ~641 |
-| Medal of Honor | 49.00% | ~628 |
 | Charismatic | 49.00% | ~628 |
 | Soldier | 48.00% | ~615 |
 | Soldier Ally | 46.00% | ~590 |
@@ -98,9 +98,9 @@
 | Pyromaniac | 18.00% | ~231 |
 | No One Left Behind | 18.00% | ~231 |
 | Well Connected | 18.00% | ~231 |
+| Executioner | 17.00% | ~218 |
 | Master and Commander | 17.00% | ~218 |
 | Sabotage Specialist | 16.00% | ~205 |
-| Executioner | 16.00% | ~205 |
 | Patriot | 16.00% | ~205 |
 | Legend | 16.00% | ~205 |
 | Electronics Specialist | 15.00% | ~192 |

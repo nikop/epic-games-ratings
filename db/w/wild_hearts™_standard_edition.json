@@ -2,9 +2,9 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -1363,6 +1363,11 @@
       "Time": "2023-11-17T02:27:07.3589298+00:00",
       "NumProgressed": 291,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T04:03:54.4828071+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -1375,7 +1380,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_10",
@@ -1413,9 +1418,9 @@
       "ID": "achievement_14",
       "SetID": "2cpn27e",
       "Name": "Fusion Conjuror",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_15",
@@ -1423,7 +1428,7 @@
       "Name": "Memory Rouser",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_16",
@@ -1431,7 +1436,7 @@
       "Name": "Distance Devourer",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_17",
@@ -1439,7 +1444,7 @@
       "Name": "Master of the Skies",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_18",
@@ -1447,7 +1452,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_19",
@@ -1463,7 +1468,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_20",
@@ -1471,15 +1476,15 @@
       "Name": "Subsistence Skills",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_22",
@@ -1501,9 +1506,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_25",
@@ -1527,7 +1532,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_28",
@@ -1535,15 +1540,15 @@
       "Name": "Flawless Crystal",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_3",
@@ -1551,7 +1556,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_30",
@@ -1567,7 +1572,7 @@
       "Name": "Snare Specialist",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_32",
@@ -1591,7 +1596,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_35",
@@ -1613,9 +1618,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 245
     },
     {
       "ID": "achievement_38",
@@ -1623,7 +1628,7 @@
       "Name": "Superlative View",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_39",
@@ -1685,9 +1690,9 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_46",
@@ -1695,7 +1700,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_47",
@@ -1727,7 +1732,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_7",
@@ -1735,7 +1740,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_8",
@@ -1758,13 +1763,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-17T03:04:54.8559827+00:00",
+  "LastChanged_Achievements": "2023-11-17T04:03:54.4828068+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:57:52.8788291+00:00",
-  "LastUpdate_Achievements": "2023-11-17T03:04:54.8560251+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:57:34.2352691+00:00",
+  "LastUpdate_Achievements": "2023-11-17T04:03:54.4828455+00:00"
 }

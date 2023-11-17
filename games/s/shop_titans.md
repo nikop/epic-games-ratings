@@ -14,19 +14,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,204 |
 | Budding Merchant | 3.00% | ~4,204 |
 | Capitalism Ho! | 3.00% | ~4,204 |
-| The Daily Grind | 2.00% | ~2,802 |
-| One Easy Payment | 2.00% | ~2,802 |
-| Some Assembly Required | 2.00% | ~2,802 |
-| Bounty Hunters | 2.00% | ~2,802 |
-| Demand for Supplies | 2.00% | ~2,802 |
-| Flooding the Market | 2.00% | ~2,802 |
-| Where it Hurts | 2.00% | ~2,802 |
-| Another Satisfied Customer | 2.00% | ~2,802 |
-| Pretty Penny | 2.00% | ~2,802 |
-| One-Armed Bandit | 2.00% | ~2,802 |
-| Dungeon Imports | 2.00% | ~2,802 |
-| Through Repetition, Perfection | 2.00% | ~2,802 |
-| Own the Means of Production | 2.00% | ~2,802 |
+| The Daily Grind | 2.00% | ~2,803 |
+| One Easy Payment | 2.00% | ~2,803 |
+| Some Assembly Required | 2.00% | ~2,803 |
+| Bounty Hunters | 2.00% | ~2,803 |
+| Demand for Supplies | 2.00% | ~2,803 |
+| Flooding the Market | 2.00% | ~2,803 |
+| Where it Hurts | 2.00% | ~2,803 |
+| Another Satisfied Customer | 2.00% | ~2,803 |
+| Pretty Penny | 2.00% | ~2,803 |
+| One-Armed Bandit | 2.00% | ~2,803 |
+| Dungeon Imports | 2.00% | ~2,803 |
+| Through Repetition, Perfection | 2.00% | ~2,803 |
+| Own the Means of Production | 2.00% | ~2,803 |
 | On the Path to Greatness | 1.00% | ~1,401 |
 | Ascended | 1.00% | ~1,401 |
 | Tax not Included | 1.00% | ~1,401 |
@@ -105,7 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thank You Tom Nook | 0.50% | ~701 |
 | Eternal Crusade | 0.50% | ~701 |
 | All Accounted For | 0.50% | ~701 |
-| All or Nothing! | 0.40% | ~560 |
+| All or Nothing! | 0.40% | ~561 |
 | Unleashed Potential | 0.30% | ~420 |
 | JACKPOT!!! | 0.30% | ~420 |
 | Anything not Nailed Down | 0.30% | ~420 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,117 (Ranked 79)  
+Progressed: 140,129 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 265)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,117 | 187 |
+| 2023-11-17 | 140,129 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,556 (Ranked 50)  

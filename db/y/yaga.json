@@ -4,7 +4,7 @@
   "ProductSlug": "yaga",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2019-11-12T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.2733253+00:00",
   "LastChanged": "2023-03-31T05:57:20.2733254+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:27.3527535+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:00:20.791128+00:00",
-  "LastUpdate_Achievements": "2023-11-17T03:03:34.2765224+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:59:09.0310863+00:00",
+  "LastUpdate_Achievements": "2023-11-17T04:02:57.4562628+00:00"
 }

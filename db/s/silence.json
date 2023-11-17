@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -395,6 +395,11 @@
       "Time": "2023-11-16T17:02:57.7856767+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T04:03:10.595749+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -412,9 +417,9 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "0000_achv_fallspot",
@@ -524,9 +529,9 @@
       "ID": "1004_achv_farts",
       "SetID": "dhn82m5",
       "Name": "Fartjokes!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "1004_achv_wormtooth",
@@ -542,7 +547,7 @@
       "Name": "Chapter I",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "1006_achv_demoliton",
@@ -550,7 +555,7 @@
       "Name": "Demolition expert",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "1006_achv_dropball",
@@ -558,7 +563,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -606,7 +611,7 @@
       "Name": "Haute cuisine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "2004_achv_abyss",
@@ -614,15 +619,15 @@
       "Name": "Wooooooow!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "2004_achv_hitkyra",
       "SetID": "dhn82m5",
       "Name": "The hands of a healer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "2005n_achv_chapter2",
@@ -773,7 +778,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
@@ -781,8 +786,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-17T03:03:53.1624568+00:00",
+  "LastChanged_Achievements": "2023-11-17T04:03:10.5957486+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:49.9744384+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:59:44.4274211+00:00",
-  "LastUpdate_Achievements": "2023-11-17T03:03:53.1624925+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:58:45.0737126+00:00",
+  "LastUpdate_Achievements": "2023-11-17T04:03:10.595796+00:00"
 }

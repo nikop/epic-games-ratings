@@ -43,8 +43,8 @@
 | The Duel | 12.00% | ~34 |
 | If Looks Could Kill | 10.00% | ~28 |
 | The Finitude Drill | 8.00% | ~23 |
+| My Little Torture Chamber | 7.00% | ~20 |
 | Bonus Evilness | 7.00% | ~20 |
-| My Little Torture Chamber | 6.00% | ~17 |
 | Sabotage! | 6.00% | ~17 |
 | Doom Hill | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
