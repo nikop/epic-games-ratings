@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.40% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.34% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 33.32% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -31,7 +31,7 @@
 | 29 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.04% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
 | 31 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.41% |
-| 32 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.24% |
+| 32 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.00% |
 | 33 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 34 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 35 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
@@ -45,7 +45,7 @@
 | 41 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
-| 46 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 8.66% |
+| 46 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 8.61% |
 | 47 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 48 | [Anna's Quest](games/a/anna's_quest.md) | 8.57% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
@@ -83,8 +83,8 @@
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 4.14% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
-| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.89% |
-| 85 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
+| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.88% |
+| 84 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 86 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
 | 87 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
 | 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.52% |
@@ -110,8 +110,8 @@
 | 108 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
 | 109 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 110 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.65% |
-| 111 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.63% |
-| 112 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
+| 111 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
+| 112 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.60% |
 | 113 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.59% |
 | 114 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 115 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -161,7 +161,7 @@
 | 159 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 159 | [Infindustry](games/i/infindustry.md) | 1.04% |
 | 161 | [Sable](games/s/sable.md) | 1.01% |
-| 161 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.01% |
+| 162 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
 | 163 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.98% |
 | 164 | [Trifox](games/t/trifox.md) | 0.96% |
 | 165 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
@@ -227,9 +227,9 @@
 | 224 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 224 | [Them and Us](games/t/them_and_us.md) | 0.33% |
 | 227 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
+| 227 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.32% |
 | 227 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
-| 229 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
-| 229 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.31% |
+| 230 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 231 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 232 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 232 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
@@ -314,13 +314,13 @@
 | 303 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.05% |
 | 313 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 313 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 313 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.04% |
-| 316 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
-| 316 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
-| 316 | [Old World](games/o/old_world.md) | 0.03% |
-| 316 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
-| 316 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
-| 316 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
+| 315 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
+| 315 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 315 | [Old World](games/o/old_world.md) | 0.03% |
+| 315 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.03% |
+| 315 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
+| 315 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
+| 315 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
 | 322 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
 | 322 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
 | 322 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
