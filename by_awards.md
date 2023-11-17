@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 259,476 | 4.68 | 252 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 211,723 | 4.18 | 925 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 198,189 | 4.88 | 17 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 151,670 | 4.51 | 566 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 151,751 | 4.51 | 566 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,668 | 4.69 | 232 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 105,726 | 4.64 | 332 |
 | 10 | [VALORANT](games/v/valorant.md) | 81,859 | 4.52 | 554 |
@@ -69,7 +69,7 @@
 | 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,620 | 4.85 | 44 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,532 | 4.06 | 975 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,517 | 4.68 | 252 |
-| 70 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,482 | 4.69 | 232 |
+| 70 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,512 | 4.69 | 232 |
 | 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,076 | 4.76 | 128 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,903 | 4.60 | 410 |
 | 73 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,836 | 4.56 | 488 |
@@ -174,7 +174,7 @@
 | 172 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 772 | 4.24 | 883 |
 | 173 | [Core](games/c/core.md) | 765 | 4.36 | 780 |
 | 174 | [Neverwinter](games/n/neverwinter.md) | 762 | 4.29 | 841 |
-| 175 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 744 | 4.74 | 157 |
+| 175 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 745 | 4.74 | 157 |
 | 176 | [Subnautica](games/s/subnautica.md) | 741 | 4.85 | 44 |
 | 177 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 738 | 4.60 | 410 |
 | 178 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 737 | 4.87 | 24 |
@@ -202,9 +202,9 @@
 | 200 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 564 | 4.60 | 410 |
 | 201 | [Godfall Ultimate Edition](games/g/godfall.md) | 561 | 4.07 | 972 |
 | 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 539 | 4.86 | 30 |
-| 203 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 535 | 3.95 | 1,004 |
-| 204 | [Terraforming Mars](games/t/terraforming_mars.md) | 525 | 4.53 | 540 |
-| 204 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 525 | 4.54 | 522 |
+| 203 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 536 | 4.54 | 522 |
+| 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 535 | 3.95 | 1,004 |
+| 205 | [Terraforming Mars](games/t/terraforming_mars.md) | 525 | 4.53 | 540 |
 | 206 | [Ghostrunner](games/g/ghostrunner.md) | 519 | 4.72 | 185 |
 | 207 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 516 | 4.32 | 820 |
 | 208 | [Surviving Mars](games/s/surviving_mars.md) | 509 | 4.60 | 410 |
@@ -235,8 +235,8 @@
 | 233 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 389 | 4.62 | 366 |
 | 234 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 375 | 3.99 | 997 |
 | 235 | [Dungeons 3](games/d/dungeons_3.md) | 372 | 4.66 | 293 |
-| 236 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 370 | 4.31 | 828 |
-| 236 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 370 | 4.59 | 430 |
+| 236 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 371 | 4.59 | 430 |
+| 237 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 370 | 4.31 | 828 |
 | 238 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 369 | 4.55 | 503 |
 | 239 | [Inscryption](games/i/inscryption.md) | 346 | 4.86 | 30 |
 | 239 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 346 | 4.72 | 185 |

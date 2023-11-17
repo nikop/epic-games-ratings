@@ -161,7 +161,7 @@
 | 157 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 546 |
 | 157 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 834 | 167 |
 | 157 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 20,337 | 21 |
-| 157 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 744 | 175 |
+| 157 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 745 | 175 |
 | 157 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,391 | 53 |
 | 157 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.74 | 0 | 546 |
 | 157 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.74 | 0 | 546 |
@@ -235,7 +235,7 @@
 | 232 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 120,668 | 8 |
 | 232 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 546 |
 | 232 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 7,026 | 54 |
-| 232 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 5,482 | 70 |
+| 232 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 5,512 | 70 |
 | 232 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.69 | 0 | 546 |
 | 232 | [House Flipper](games/h/house_flipper.md) | 4.69 | 320 | 247 |
 | 232 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 546 |
@@ -437,7 +437,7 @@
 | 430 | [NORCO](games/n/norco.md) | 4.59 | 0 | 546 |
 | 430 | [Returnal™](games/r/returnal™.md) | 4.59 | 93 | 370 |
 | 430 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 79 | 388 |
-| 430 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 370 | 236 |
+| 430 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 371 | 236 |
 | 430 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,051 | 148 |
 | 430 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 546 |
 | 430 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 721 | 182 |
@@ -537,7 +537,7 @@
 | 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 476 |
 | 522 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 520 |
 | 522 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
-| 522 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 525 | 204 |
+| 522 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.54 | 536 | 203 |
 | 522 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 386 |
 | 540 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.53 | 0 | 546 |
 | 540 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 546 |
@@ -550,7 +550,7 @@
 | 540 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 546 |
 | 540 | [Sable](games/s/sable.md) | 4.53 | 25 | 516 |
 | 540 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 546 |
-| 540 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 525 | 204 |
+| 540 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 525 | 205 |
 | 540 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 546 |
 | 540 | [Verdun](games/v/verdun.md) | 4.53 | 106 | 350 |
 | 554 | [Duskers](games/d/duskers.md) | 4.52 | 0 | 546 |
@@ -571,7 +571,7 @@
 | 566 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,148 | 83 |
 | 566 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 546 |
 | 566 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 36,086 | 15 |
-| 566 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 151,670 | 7 |
+| 566 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 151,751 | 7 |
 | 566 | [Far Cry](games/f/far_cry.md) | 4.51 | 0 | 546 |
 | 566 | [Godlike Burger](games/g/godlike_burger.md) | 4.51 | 0 | 546 |
 | 566 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 3,013 | 97 |
@@ -828,7 +828,7 @@
 | 820 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 495 |
 | 820 | [Vampyr](games/v/vampyr.md) | 4.32 | 575 | 195 |
 | 828 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 546 |
-| 828 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 370 | 236 |
+| 828 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 370 | 237 |
 | 828 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.31 | 67 | 406 |
 | 828 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 546 |
 | 828 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,659 | 66 |
@@ -1004,7 +1004,7 @@
 | 1,000 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 546 |
 | 1,000 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,716 | 76 |
 | 1,004 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 443 |
-| 1,004 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 535 | 203 |
+| 1,004 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 535 | 204 |
 | 1,004 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 546 |
 | 1,004 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 3.95 | 0 | 546 |
 | 1,008 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 546 |
