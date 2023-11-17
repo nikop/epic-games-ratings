@@ -31,7 +31,7 @@ Rating: 4.56 (Ranked 488)
 | Data Logger | 1.00% | ~150 |
 | Miraculous Maya | 1.00% | ~150 |
 | Data Master | 0.80% | ~120 |
-| Brother's Reaper | 0.60% | ~90 |
+| Brother's Reaper | 0.70% | ~105 |
 | No Belter Left Behind | 0.60% | ~90 |
 | Debris Spree | 0.50% | ~75 |
 | Data Recoverer | 0.50% | ~75 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3387,9 +3387,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31083,
+  "EOS_Progressed": 31085,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19497,6 +19497,11 @@
       "Time": "2023-11-17T06:08:13.9568901+00:00",
       "NumProgressed": 31083,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-17T08:07:36.8245669+00:00",
+      "NumProgressed": 31085,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19516,7 +19521,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Back_Off",
@@ -19572,7 +19577,7 @@
       "Name": "Cultured",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Daily_Dose",
@@ -19580,7 +19585,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Diabolical",
@@ -19612,7 +19617,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Efficient",
@@ -19652,7 +19657,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Ghost_Expert",
@@ -19668,7 +19673,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Legions",
@@ -19756,7 +19761,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "Rivalry",
@@ -19860,7 +19865,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "There_You_Are",
@@ -19915,7 +19920,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31083,
+      "Progressed": 31085,
       "Completed": 68
     }
   ],
@@ -19923,8 +19928,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-17T04:02:40.3669783+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:10:39.510335+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:07:36.8245664+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:05:43.2748645+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:10:39.510427+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:02:54.1541223+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:07:36.8246734+00:00"
 }

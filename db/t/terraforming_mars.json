@@ -3,7 +3,7 @@
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 540,
-  "Ranking_Popularity": 204,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 252,
@@ -3151,9 +3151,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82899,
+  "EOS_Progressed": 82902,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 834,
+  "EOS_NewPlayers": 835,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26621,6 +26621,11 @@
       "Time": "2023-11-17T07:09:08.1556937+00:00",
       "NumProgressed": 82899,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-11-17T08:06:10.2594562+00:00",
+      "NumProgressed": 82902,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 30,
@@ -26712,7 +26717,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30673
+      "UsersEstimate": 30674
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -26720,7 +26725,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23212
+      "UsersEstimate": 23213
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -26728,7 +26733,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26528
+      "UsersEstimate": 26529
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -26768,7 +26773,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21554
+      "UsersEstimate": 21555
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -26808,7 +26813,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29015
+      "UsersEstimate": 29016
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -26871,15 +26876,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82899,
+      "Progressed": 82902,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-16T14:59:27.0951795+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:09:08.1556933+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:06:10.2594558+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:03:16.1595638+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:09:08.1558167+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:00:22.8341126+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:06:10.2595766+00:00"
 }

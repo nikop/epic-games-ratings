@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~82,014 |
-| Zealous | 7.00% | ~71,763 |
-| Skillful | 7.00% | ~71,763 |
-| Not half bad | 6.00% | ~61,511 |
-| Make Some Noise | 6.00% | ~61,511 |
-| Handyman | 5.00% | ~51,259 |
-| Apt Survivor | 5.00% | ~51,259 |
-| Survival Treasures | 5.00% | ~51,259 |
-| Sorted | 5.00% | ~51,259 |
-| The Grand Sacrifice | 4.00% | ~41,007 |
-| No one left behind | 4.00% | ~41,007 |
-| Medic | 4.00% | ~41,007 |
-| Perfect Escape | 4.00% | ~41,007 |
-| Bloody Millionaire | 4.00% | ~41,007 |
-| I | 4.00% | ~41,007 |
-| Healthy Obsession | 4.00% | ~41,007 |
-| Resurgence | 4.00% | ~41,007 |
-| Preemptive Strike | 4.00% | ~41,007 |
-| Humanitarian | 4.00% | ~41,007 |
-| Agonizing Escape | 3.00% | ~30,755 |
-| Backdoor Escape | 3.00% | ~30,755 |
-| I've got your back | 3.00% | ~30,755 |
-| Perfect Killing | 3.00% | ~30,755 |
-| Apt Killer | 3.00% | ~30,755 |
-| Risk it all | 3.00% | ~30,755 |
-| II | 3.00% | ~30,755 |
-| Engineer | 3.00% | ~30,755 |
-| Wounded Healer | 3.00% | ~30,755 |
-| Close Shave | 3.00% | ~30,755 |
+| It wakes | 8.00% | ~82,017 |
+| Zealous | 7.00% | ~71,765 |
+| Skillful | 7.00% | ~71,765 |
+| Not half bad | 6.00% | ~61,513 |
+| Make Some Noise | 6.00% | ~61,513 |
+| Handyman | 5.00% | ~51,261 |
+| Apt Survivor | 5.00% | ~51,261 |
+| Survival Treasures | 5.00% | ~51,261 |
+| Sorted | 5.00% | ~51,261 |
+| The Grand Sacrifice | 4.00% | ~41,008 |
+| No one left behind | 4.00% | ~41,008 |
+| Medic | 4.00% | ~41,008 |
+| Perfect Escape | 4.00% | ~41,008 |
+| Bloody Millionaire | 4.00% | ~41,008 |
+| I | 4.00% | ~41,008 |
+| Healthy Obsession | 4.00% | ~41,008 |
+| Resurgence | 4.00% | ~41,008 |
+| Preemptive Strike | 4.00% | ~41,008 |
+| Humanitarian | 4.00% | ~41,008 |
+| Agonizing Escape | 3.00% | ~30,756 |
+| Backdoor Escape | 3.00% | ~30,756 |
+| I've got your back | 3.00% | ~30,756 |
+| Perfect Killing | 3.00% | ~30,756 |
+| Apt Killer | 3.00% | ~30,756 |
+| Risk it all | 3.00% | ~30,756 |
+| II | 3.00% | ~30,756 |
+| Engineer | 3.00% | ~30,756 |
+| Wounded Healer | 3.00% | ~30,756 |
+| Close Shave | 3.00% | ~30,756 |
 | Blood on your hands | 2.00% | ~20,504 |
 | Escape Artist | 2.00% | ~20,504 |
 | Made it out alive! | 2.00% | ~20,504 |
@@ -97,10 +97,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrage | 0.90% | ~9,227 |
 | I See You | 0.90% | ~9,227 |
 | High Speed Pursuit | 0.90% | ~9,227 |
-| Heavy Burden | 0.80% | ~8,201 |
-| Punch Drunk | 0.80% | ~8,201 |
-| Prowler | 0.80% | ~8,201 |
-| Triage | 0.80% | ~8,201 |
+| Heavy Burden | 0.80% | ~8,202 |
+| Punch Drunk | 0.80% | ~8,202 |
+| Prowler | 0.80% | ~8,202 |
+| Triage | 0.80% | ~8,202 |
 | Blood in your mouth | 0.70% | ~7,176 |
 | Whiffing to Success | 0.70% | ~7,176 |
 | Power Moves | 0.70% | ~7,176 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,025 |
 | Adept Ripley | 0.10% | ~1,025 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,025,180 (Ranked 14)  
+Progressed: 1,025,211 (Ranked 14)  
 Completed: 54 (0.01%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -447,7 +447,7 @@ Completed: 54 (0.01%) (Ranked 331)
 | 2023-11-14 | 1,020,468 | 54 |
 | 2023-11-15 | 1,022,580 | 54 |
 | 2023-11-16 | 1,024,674 | 54 |
-| 2023-11-17 | 1,025,180 | 54 |
+| 2023-11-17 | 1,025,211 | 54 |
 ## Awards
 Max (Diverse Characters): 36,086  (Ranked 15)  
 Sum: 275,944 (Ranked 13)  

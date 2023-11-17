@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235635,
+  "EOS_Progressed": 235636,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -22477,6 +22477,11 @@
       "Time": "2023-11-17T06:08:16.1433698+00:00",
       "NumProgressed": 235635,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-17T08:07:38.6103171+00:00",
+      "NumProgressed": 235636,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22528,7 +22533,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "DRAGOON",
@@ -22656,7 +22661,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -22752,22 +22757,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96610
+      "UsersEstimate": 96611
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235635,
+      "Progressed": 235636,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:10:41.5829604+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:07:38.6103167+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.8893785+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:03:31.8465341+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:10:41.5830619+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:00:37.265599+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:07:38.6104146+00:00"
 }

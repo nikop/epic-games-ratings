@@ -8,10 +8,10 @@
 | The End | 9.00% | ~12 |
 | The Camp | 8.00% | ~11 |
 | Survivors | 8.00% | ~11 |
+| The Teleprobe | 7.00% | ~10 |
 | The Necroevolution | 7.00% | ~10 |
 | The field base | 7.00% | ~10 |
 | The City | 7.00% | ~10 |
-| The Teleprobe | 6.00% | ~8 |
 | Peacemaker | 5.00% | ~7 |
 | On her own | 4.00% | ~5 |
 | The Alliance | 4.00% | ~5 |

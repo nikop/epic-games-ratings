@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5410,
+  "EOS_Progressed": 5416,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3485,6 +3485,11 @@
       "Time": "2023-11-17T05:09:12.0866718+00:00",
       "NumProgressed": 5410,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T08:09:23.7672456+00:00",
+      "NumProgressed": 5416,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3505,7 +3510,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "BeLikeWater",
@@ -3569,7 +3574,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3641,7 +3646,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "NoMoreTotems",
@@ -3721,7 +3726,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -3753,7 +3758,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "k01101110",
@@ -3761,14 +3766,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5410,
+      "Progressed": 5416,
       "Completed": 7
     }
   ],
@@ -3776,8 +3781,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:12:11.1976708+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:09:23.7672451+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:03:45.2334514+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:12:11.1977024+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:00:49.7927994+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:09:23.7672908+00:00"
 }

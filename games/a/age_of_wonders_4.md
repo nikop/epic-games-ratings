@@ -28,12 +28,12 @@ Rating: 4.61 (Ranked 385)
 | Digging for Treasure | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Impenetrable Fortress | 0.60% | ~32 |
+| Here be Dragons | 0.60% | ~32 |
 | Tipping the Scales | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Fiery Friend | 0.50% | ~27 |
-| Here be Dragons | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
 | Prometheus Avenged | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
@@ -44,11 +44,11 @@ Rating: 4.61 (Ranked 385)
 | A Conqueror's Cohort | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
+| The Eternal Court | 0.30% | ~16 |
 | Pruning for Progress | 0.30% | ~16 |
 | God Emperor | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
-| The Eternal Court | 0.20% | ~11 |
 | Duality | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |

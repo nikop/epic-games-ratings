@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19691,
+  "EOS_Progressed": 19694,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17058,6 +17058,11 @@
       "Time": "2023-11-17T06:06:11.1805986+00:00",
       "NumProgressed": 19691,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-17T08:05:40.2621001+00:00",
+      "NumProgressed": 19694,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -17069,7 +17074,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15359
+      "UsersEstimate": 15361
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -17101,7 +17106,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -17117,7 +17122,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -17125,7 +17130,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10436
+      "UsersEstimate": 10438
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -17157,7 +17162,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -17180,15 +17185,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19691,
+      "Progressed": 19694,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:08:36.8819762+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:05:40.2620999+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:00.2780442+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:05:29.0230243+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:08:36.8820659+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:02:40.1706915+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:05:40.2621717+00:00"
 }

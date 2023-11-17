@@ -7031,10 +7031,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27557,
       "NumberOfAwardsMax": 4832
+    },
+    {
+      "Time": "2023-11-17T07:59:45.9033458+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27558,
+      "NumberOfAwardsMax": 4832
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27557,
+  "NumberOfAwards": 27558,
   "NumberOfAwardsMax": 4832,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7072,7 +7078,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4041
+      "Count": 4042
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7087,9 +7093,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140151,
+  "EOS_Progressed": 140159,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1187,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28727,6 +28733,11 @@
       "Time": "2023-11-17T07:07:19.4601096+00:00",
       "NumProgressed": 140151,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-17T08:04:26.8696023+00:00",
+      "NumProgressed": 140159,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -29633,15 +29644,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140151,
+      "Progressed": 140159,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-17T06:00:24.7517883+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:07:19.4601079+00:00",
+  "LastChanged": "2023-11-17T07:59:45.9033456+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:04:26.869602+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:02:35.9528404+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:07:19.4603127+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:59:45.9033461+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:04:26.8698401+00:00"
 }

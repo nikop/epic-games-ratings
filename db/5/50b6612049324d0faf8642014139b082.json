@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_11",
@@ -805,8 +805,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:12:28.4670467+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:09:39.9326338+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:59:40.9622386+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:12:28.4670623+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:57:05.9071294+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:09:39.9326599+00:00"
 }

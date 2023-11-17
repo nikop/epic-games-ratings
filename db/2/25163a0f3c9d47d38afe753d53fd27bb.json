@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1031,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.75,
+  "EOS_Completed_Percentage": 8.73,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3079,6 +3079,11 @@
       "Time": "2023-11-17T07:12:40.6265202+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-11-17T08:09:51.2541248+00:00",
+      "NumProgressed": 1031,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 30,
@@ -3090,7 +3095,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "LEVEL_002",
@@ -3098,15 +3103,15 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 701
     },
     {
       "ID": "LEVEL_004",
@@ -3114,7 +3119,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "LEVEL_005",
@@ -3122,7 +3127,7 @@
       "Name": "Small village",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "LEVEL_006",
@@ -3130,7 +3135,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "LEVEL_007",
@@ -3138,7 +3143,7 @@
       "Name": "Animals in the farm",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "LEVEL_008",
@@ -3146,7 +3151,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "LEVEL_009",
@@ -3170,7 +3175,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_012",
@@ -3210,7 +3215,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_017",
@@ -3234,7 +3239,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_020",
@@ -3242,7 +3247,7 @@
       "Name": "Go round and round",
       "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_021",
@@ -3329,14 +3334,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1031,
       "Completed": 90
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:12:40.6265198+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:09:51.2541245+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:01:23.8460026+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:12:40.6265485+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:58:40.2229917+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:09:51.2541492+00:00"
 }

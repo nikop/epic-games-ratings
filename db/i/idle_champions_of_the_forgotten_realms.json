@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8107,10 +8107,10 @@
       "Count": 3519
     }
   ],
-  "EOS_Progressed": 235444,
-  "EOS_Completed": 2455,
-  "EOS_NewPlayers": 1230,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 235452,
+  "EOS_Completed": 2456,
+  "EOS_NewPlayers": 1235,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -31717,6 +31717,11 @@
       "Time": "2023-11-17T07:12:19.4884422+00:00",
       "NumProgressed": 235444,
       "NumCompleted": 2455
+    },
+    {
+      "Time": "2023-11-17T08:09:31.8867044+00:00",
+      "NumProgressed": 235452,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 532,
@@ -35952,7 +35957,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "objective_completed_1548",
@@ -35983,21 +35988,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201718,
+      "Progressed": 201726,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235444,
-      "Completed": 2455
+      "Progressed": 235452,
+      "Completed": 2456
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-16T17:58:04.6167223+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:12:19.4884417+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:09:31.886704+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:01:23.2836058+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:12:19.4906163+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:58:39.8796319+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:09:31.8890271+00:00"
 }

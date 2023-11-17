@@ -33,6 +33,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blockader | 0.10% | ~457 |
 | Bright Spark | 0.10% | ~457 |
 | Brothers in Arms | 0.10% | ~457 |
+| Center of Attention | 0.10% | ~457 |
 | Chop Chop | 0.10% | ~457 |
 | City of Cities | 0.10% | ~457 |
 | Cold War | 0.10% | ~457 |
@@ -200,7 +201,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
-| Center of Attention | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,170 (Ranked 41)  
+Progressed: 457,185 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,170 | 1 |
+| 2023-11-17 | 457,185 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,865 (Ranked 24)  

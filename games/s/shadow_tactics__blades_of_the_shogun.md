@@ -14,10 +14,10 @@ Number of Ratings: 495  (23.09.2022)
 | Tanuki Time | 9.00% | ~19,272 |
 | Rescue Takuma | 8.00% | ~17,131 |
 | Stoned Ox | 8.00% | ~17,131 |
-| Happy Planning | 7.00% | ~14,989 |
-| Ice Ice Yuki | 7.00% | ~14,989 |
-| Jonin | 7.00% | ~14,989 |
-| Yabu | 7.00% | ~14,989 |
+| Happy Planning | 7.00% | ~14,990 |
+| Ice Ice Yuki | 7.00% | ~14,990 |
+| Jonin | 7.00% | ~14,990 |
+| Yabu | 7.00% | ~14,990 |
 | Chunin | 6.00% | ~12,848 |
 | Flying Rocks | 6.00% | ~12,848 |
 | Mugen Unchained | 6.00% | ~12,848 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,135 (Ranked 70)  
+Progressed: 214,136 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,16 +262,16 @@ Completed: 98 (0.05%) (Ranked 303)
 | 2023-11-14 | 213,782 | 98 |
 | 2023-11-15 | 213,927 | 98 |
 | 2023-11-16 | 214,084 | 98 |
-| 2023-11-17 | 214,135 | 98 |
+| 2023-11-17 | 214,136 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 197)  
-Sum: 4,844 (Ranked 142)  
+Sum: 4,845 (Ranked 142)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 573 |
 | This game has Diverse Characters | 540 |
-| This game is Extremely Fun | 534 |
+| This game is Extremely Fun | 535 |
 | This game has Amazing Storytelling | 514 |
 | This game has Amazing Characters | 498 |
 | This game is Highly Recommended | 493 |
@@ -496,3 +496,4 @@ Diff (max vs sum): 55
 | 2023-11-13 | 4.67 | - | 573 | 4,840 |
 | 2023-11-14 | 4.67 | - | 573 | 4,843 |
 | 2023-11-16 | 4.67 | - | 573 | 4,844 |
+| 2023-11-17 | 4.67 | - | 573 | 4,845 |

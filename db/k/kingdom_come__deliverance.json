@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8607,9 +8607,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808663,
+  "EOS_Progressed": 808664,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32262,6 +32262,11 @@
       "Time": "2023-11-17T07:11:14.4785582+00:00",
       "NumProgressed": 808663,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-17T08:08:29.8506566+00:00",
+      "NumProgressed": 808664,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32361,7 +32366,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121299
+      "UsersEstimate": 121300
     },
     {
       "ID": "Buddy",
@@ -32473,7 +32478,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185992
+      "UsersEstimate": 185993
     },
     {
       "ID": "Fighter",
@@ -32489,7 +32494,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121299
+      "UsersEstimate": 121300
     },
     {
       "ID": "Freud",
@@ -32928,15 +32933,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808663,
+      "Progressed": 808664,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-17T01:50:46.9847194+00:00",
-  "LastChanged_Achievements": "2023-11-17T07:11:14.4785577+00:00",
+  "LastChanged_Achievements": "2023-11-17T08:08:29.8506561+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:05:48.0128689+00:00",
-  "LastUpdate_Achievements": "2023-11-17T07:11:14.4787171+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:02:58.6343563+00:00",
+  "LastUpdate_Achievements": "2023-11-17T08:08:29.8507885+00:00"
 }
