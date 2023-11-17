@@ -8069,10 +8069,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32505,
       "NumberOfAwardsMax": 5532
+    },
+    {
+      "Time": "2023-11-17T17:58:26.8683301+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32508,
+      "NumberOfAwardsMax": 5532
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32505,
+  "NumberOfAwards": 32508,
   "NumberOfAwardsMax": 5532,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8092,7 +8098,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4814
+      "Count": 4817
     },
     {
       "Text": "This game is Relaxing",
@@ -8119,9 +8125,9 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235531,
+  "EOS_Progressed": 235541,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1209,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31779,6 +31785,11 @@
       "Time": "2023-11-17T17:08:57.8822843+00:00",
       "NumProgressed": 235531,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-11-17T18:09:07.437438+00:00",
+      "NumProgressed": 235541,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 532,
@@ -36030,7 +36041,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "objective_completed_1553",
@@ -36045,21 +36056,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201805,
+      "Progressed": 201815,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235531,
+      "Progressed": 235541,
       "Completed": 2456
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-17T15:59:27.5003774+00:00",
-  "LastChanged_Achievements": "2023-11-17T17:08:57.8822839+00:00",
+  "LastChanged": "2023-11-17T17:58:26.8683298+00:00",
+  "LastChanged_Achievements": "2023-11-17T18:09:07.4374375+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:58:47.7904184+00:00",
-  "LastUpdate_Achievements": "2023-11-17T17:08:57.8844639+00:00"
+  "LastUpdate_Ratings": "2023-11-17T17:58:26.8683305+00:00",
+  "LastUpdate_Achievements": "2023-11-17T18:09:07.4396216+00:00"
 }

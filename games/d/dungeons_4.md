@@ -21,25 +21,25 @@
 | Trap Master | 51.00% | ~147 |
 | The Ascent | 43.00% | ~124 |
 | It's Warm and Cozy at Home | 43.00% | ~124 |
-| YOU SHALL NOT PASS! | 40.00% | ~115 |
+| YOU SHALL NOT PASS! | 41.00% | ~118 |
 | Hard Work | 38.00% | ~109 |
 | The Big Eaty | 38.00% | ~109 |
 | Pure Dynamite! | 36.00% | ~104 |
 | Mana Cannon | 31.00% | ~89 |
 | “… like son” | 31.00% | ~89 |
 | Dungeonlord Gorgu | 25.00% | ~72 |
+| The Cathedral of Light | 24.00% | ~69 |
 | Shame! Shame! Shame! | 24.00% | ~69 |
-| The Cathedral of Light | 23.00% | ~66 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~58 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~60 |
 | Tanos' Crusade Against Thalya | 20.00% | ~58 |
 | Hungry, Hungry Gorgu! | 17.00% | ~49 |
 | Unstoppable Horde | 17.00% | ~49 |
 | Master of the Undead | 16.00% | ~46 |
 | All’s Well That Ends Evil | 16.00% | ~46 |
-| Forbidden Knowledge | 14.00% | ~40 |
+| Forbidden Knowledge | 15.00% | ~43 |
+| The Duel | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~37 |
 | Ghost Pirates? Ghost Heroes! | 13.00% | ~37 |
-| The Duel | 13.00% | ~37 |
 | Stop Tanos! | 12.00% | ~35 |
 | If Looks Could Kill | 10.00% | ~29 |
 | The Finitude Drill | 9.00% | ~26 |
@@ -50,10 +50,10 @@
 | Raiders of the Lost Stone | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
 | Mirror, Mirror | 5.00% | ~14 |
+| Untouchable | 5.00% | ~14 |
 | The Rune Sockets of Finitude (Part 1) | 5.00% | ~14 |
 | Gorgu is in the Best of Health | 4.00% | ~12 |
 | Laser Eyes Are So Useless | 4.00% | ~12 |
-| Untouchable | 4.00% | ~12 |
 | Rubble and Ashes | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
 | The Rune Sockets of Finitude (Part 2) | 4.00% | ~12 |

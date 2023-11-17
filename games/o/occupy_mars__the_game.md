@@ -12,8 +12,8 @@ Rating: 4.03 (Ranked 987)
 | Bob The Builder | 30.00% | ~515 |
 | I am the greatest botanist on this planet. | 29.00% | ~498 |
 | Occupy Mars! | 29.00% | ~498 |
-| Gardener | 26.00% | ~446 |
-| Miner | 26.00% | ~446 |
+| Gardener | 26.00% | ~447 |
+| Miner | 26.00% | ~447 |
 | Houston we have a problem | 22.00% | ~378 |
 | Detective | 19.00% | ~326 |
 | The Collector | 18.00% | ~309 |
@@ -54,7 +54,7 @@ Rating: 4.03 (Ranked 987)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,717 (Ranked 230)  
+Progressed: 1,718 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 0 (0.00%) (Ranked 353)
 | 2023-11-14 | 1,709 | 0 |
 | 2023-11-15 | 1,713 | 0 |
 | 2023-11-16 | 1,715 | 0 |
-| 2023-11-17 | 1,717 | 0 |
+| 2023-11-17 | 1,718 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

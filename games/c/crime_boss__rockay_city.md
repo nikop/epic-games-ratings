@@ -5,19 +5,19 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 3.00% | ~2,737 |
-| First One’s Free | 3.00% | ~2,737 |
-| Downed but Not Outed | 3.00% | ~2,737 |
+| Neophyte Ninja | 3.00% | ~2,738 |
+| First One’s Free | 3.00% | ~2,738 |
+| Downed but Not Outed | 3.00% | ~2,738 |
 | Underworld Initiate | 2.00% | ~1,825 |
 | Too Old for This | 2.00% | ~1,825 |
 | Fancy Pants | 2.00% | ~1,825 |
-| Roid Ranger | 1.00% | ~912 |
-| Case Closed | 1.00% | ~912 |
-| King of the Hill | 1.00% | ~912 |
-| Off the Rocks | 1.00% | ~912 |
-| Raider’s Ruin | 1.00% | ~912 |
-| Dragonslayer | 1.00% | ~912 |
-| Rockay Rex | 1.00% | ~912 |
+| Roid Ranger | 1.00% | ~913 |
+| Case Closed | 1.00% | ~913 |
+| King of the Hill | 1.00% | ~913 |
+| Off the Rocks | 1.00% | ~913 |
+| Raider’s Ruin | 1.00% | ~913 |
+| Dragonslayer | 1.00% | ~913 |
+| Rockay Rex | 1.00% | ~913 |
 | Hidden Sonata | 0.80% | ~730 |
 | True Player | 0.80% | ~730 |
 | Track Star | 0.70% | ~639 |
@@ -33,21 +33,21 @@ Rating: 3.95 (Ranked 1,005)
 | Ding Dong | 0.40% | ~365 |
 | Rockay Raider | 0.30% | ~274 |
 | All that Glitters | 0.30% | ~59 |
-| Rockay Knight | 0.20% | ~182 |
-| Privateer | 0.20% | ~182 |
-| Talent Scout | 0.20% | ~182 |
-| Groundhog Days | 0.20% | ~182 |
-| Cracked the Jack | 0.20% | ~182 |
-| Red Star | 0.20% | ~182 |
-| Classy Joint | 0.20% | ~182 |
-| Impossible Dreamer | 0.20% | ~182 |
+| Rockay Knight | 0.20% | ~183 |
+| Privateer | 0.20% | ~183 |
+| Talent Scout | 0.20% | ~183 |
+| Groundhog Days | 0.20% | ~183 |
+| Cracked the Jack | 0.20% | ~183 |
+| Red Star | 0.20% | ~183 |
+| Classy Joint | 0.20% | ~183 |
+| Impossible Dreamer | 0.20% | ~183 |
 | All for One | 0.20% | ~39 |
 | One for All | 0.20% | ~39 |
 | Now You See Me | 0.20% | ~39 |
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,249 (Ranked 92)  
+Progressed: 91,251 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 57 (0.06%) (Ranked 297)
 | 2023-11-14 | 91,133 | 55 |
 | 2023-11-15 | 91,185 | 56 |
 | 2023-11-16 | 91,224 | 56 |
-| 2023-11-17 | 91,249 | 57 |
+| 2023-11-17 | 91,251 | 57 |
 ## Awards
 Max (Diverse Characters): 535  (Ranked 204)  
 Sum: 3,035 (Ranked 176)  

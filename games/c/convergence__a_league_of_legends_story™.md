@@ -18,10 +18,10 @@ Rating: 4.62 (Ranked 364)
 | No, Thanks! | 21.00% | ~193 |
 | Breaking Down Barriers | 21.00% | ~193 |
 | The Wicked Twins | 21.00% | ~193 |
+| Honest Mistake | 21.00% | ~193 |
 | Fast Learner | 21.00% | ~193 |
 | Immaculate Aim | 21.00% | ~193 |
 | The Betrayer | 20.00% | ~184 |
-| Honest Mistake | 20.00% | ~184 |
 | Like Clockwork | 19.00% | ~175 |
 | Golem Chaser | 19.00% | ~175 |
 | Check Your Pulse | 19.00% | ~175 |

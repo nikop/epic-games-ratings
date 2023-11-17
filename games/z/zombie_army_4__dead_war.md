@@ -6,35 +6,35 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,279 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,280 |
 | Say goodbye, creep! | 66.00% | ~28,963 |
 | Blood splattered | 66.00% | ~28,963 |
-| Choo choo! | 63.00% | ~27,646 |
-| Groovy | 62.00% | ~27,207 |
-| Cleanup on aisle 4! | 57.00% | ~25,013 |
-| Gold | 51.00% | ~22,380 |
+| Choo choo! | 63.00% | ~27,647 |
+| Groovy | 62.00% | ~27,208 |
+| Cleanup on aisle 4! | 57.00% | ~25,014 |
+| Gold | 51.00% | ~22,381 |
 | The boat can leave now...tell the crew | 49.00% | ~21,503 |
 | Give me something to shoot! | 47.00% | ~20,625 |
 | Stand back boy! | 47.00% | ~20,625 |
-| Chain reaction | 45.00% | ~19,747 |
+| Chain reaction | 45.00% | ~19,748 |
 | Weird science | 44.00% | ~19,309 |
 | What did you say, Blain? | 42.00% | ~18,431 |
 | Look mummy! A shark! | 41.00% | ~17,992 |
-| In the dark dark woods... | 39.00% | ~17,114 |
+| In the dark dark woods... | 39.00% | ~17,115 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,676 |
 | Double tap | 37.00% | ~16,237 |
 | Cranial blowout! | 37.00% | ~16,237 |
 | All of this has happened before… | 36.00% | ~15,798 |
 | Zombie killin' machine | 36.00% | ~15,798 |
 | Every bullet counts | 36.00% | ~15,798 |
-| All roads lead to Rome | 34.00% | ~14,920 |
-| You've got red on you | 34.00% | ~14,920 |
+| All roads lead to Rome | 34.00% | ~14,921 |
+| You've got red on you | 34.00% | ~14,921 |
 | You're all going to die down here | 32.00% | ~14,043 |
 | He did Nazi that coming | 32.00% | ~14,043 |
 | Kill of the week | 31.00% | ~13,604 |
 | I never liked them anyway | 30.00% | ~13,165 |
-| Is it over? | 28.00% | ~12,287 |
-| Got your back | 27.00% | ~11,848 |
+| Is it over? | 28.00% | ~12,288 |
+| Got your back | 27.00% | ~11,849 |
 | Gore soaked | 24.00% | ~10,532 |
 | Shock therapy | 23.00% | ~10,093 |
 | Leave the limbs you've lost | 23.00% | ~10,093 |
@@ -42,11 +42,11 @@ Number of Ratings: 743  (23.09.2022)
 | Take them down screaming | 18.00% | ~7,899 |
 | Bad Blood | 17.00% | ~7,460 |
 | Weapons expert | 17.00% | ~7,460 |
-| The bigger they are... | 15.00% | ~6,582 |
+| The bigger they are... | 15.00% | ~6,583 |
 | I'm going deeper underground | 14.00% | ~6,144 |
 | Well equipped | 13.00% | ~5,705 |
 | Into the deep | 12.00% | ~5,266 |
-| Damnedbusters | 9.00% | ~3,949 |
+| Damnedbusters | 9.00% | ~3,950 |
 | Plane sailing | 8.00% | ~3,511 |
 | I can do anything I want. I got guns | 8.00% | ~3,511 |
 | Send me an angel | 8.00% | ~3,511 |
@@ -66,14 +66,14 @@ Number of Ratings: 743  (23.09.2022)
 | They're coming to get you Barbara | 4.00% | ~1,755 |
 | Total protonic reversal | 4.00% | ~1,755 |
 | A friend in need | 4.00% | ~1,755 |
-| People don't change. We go round in circles | 3.00% | ~1,316 |
-| The blighters got through a second time. | 3.00% | ~1,316 |
-| I'm a survivor! | 3.00% | ~1,316 |
+| People don't change. We go round in circles | 3.00% | ~1,317 |
+| The blighters got through a second time. | 3.00% | ~1,317 |
+| I'm a survivor! | 3.00% | ~1,317 |
 | That's a lot of them, and only 4 of us | 2.00% | ~878 |
 | Just me and my trusty sidearm | 1.00% | ~439 |
 | None more hard | 0.50% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,883 (Ranked 115)  
+Progressed: 43,884 (Ranked 115)  
 Completed: 25 (0.06%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,14 +284,14 @@ Completed: 25 (0.06%) (Ranked 297)
 | 2023-11-14 | 43,847 | 25 |
 | 2023-11-15 | 43,863 | 25 |
 | 2023-11-16 | 43,875 | 25 |
-| 2023-11-17 | 43,883 | 25 |
+| 2023-11-17 | 43,884 | 25 |
 ## Awards
-Max (Great Boss Battles): 850  (Ranked 164)  
-Sum: 2,557 (Ranked 189)  
+Max (Great Boss Battles): 851  (Ranked 164)  
+Sum: 2,558 (Ranked 189)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 850 |
+| This game has Great Boss Battles | 851 |
 | This game is Great for Beginners | 266 |
 | This game is Highly Recommended | 219 |
 | This game has Diverse Characters | 218 |
@@ -520,3 +520,4 @@ Diff (max vs sum): -25
 | 2023-11-13 | 4.68 | - | 850 | 2,555 |
 | 2023-11-15 | 4.68 | - | 850 | 2,556 |
 | 2023-11-16 | 4.68 | - | 850 | 2,557 |
+| 2023-11-17 | 4.68 | - | 851 | 2,558 |

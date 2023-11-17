@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1717,
+  "EOS_Progressed": 1718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4246,6 +4246,11 @@
       "Time": "2023-11-17T14:05:09.5265802+00:00",
       "NumProgressed": 1717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T18:05:01.7824632+00:00",
+      "NumProgressed": 1718,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4449,7 +4454,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4505,7 +4510,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4640,7 +4645,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1717,
+      "Progressed": 1718,
       "Completed": 0
     }
   ],
@@ -4648,8 +4653,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-17T17:05:18.1003301+00:00",
+  "LastChanged_Achievements": "2023-11-17T18:05:01.7824629+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9996626+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:59:44.3230416+00:00",
-  "LastUpdate_Achievements": "2023-11-17T17:05:18.1003874+00:00"
+  "LastUpdate_Ratings": "2023-11-17T17:59:18.7685054+00:00",
+  "LastUpdate_Achievements": "2023-11-17T18:05:01.7825035+00:00"
 }

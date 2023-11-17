@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1466,7 +1466,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130902,
+  "EOS_Progressed": 130903,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -22166,6 +22166,11 @@
       "Time": "2023-11-17T16:07:36.3502424+00:00",
       "NumProgressed": 130902,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-17T18:06:01.6760303+00:00",
+      "NumProgressed": 130903,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22209,7 +22214,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23562
+      "UsersEstimate": 23563
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22233,7 +22238,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31416
+      "UsersEstimate": 31417
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22289,7 +22294,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27489
+      "UsersEstimate": 27490
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22496,15 +22501,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130902,
+      "Progressed": 130903,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-16T22:00:34.4730313+00:00",
-  "LastChanged_Achievements": "2023-11-17T17:06:22.0732022+00:00",
+  "LastChanged_Achievements": "2023-11-17T18:06:01.67603+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:57:09.8609125+00:00",
-  "LastUpdate_Achievements": "2023-11-17T17:06:22.0733274+00:00"
+  "LastUpdate_Ratings": "2023-11-17T17:56:58.0525691+00:00",
+  "LastUpdate_Achievements": "2023-11-17T18:06:01.6761369+00:00"
 }

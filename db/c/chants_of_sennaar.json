@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 577,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.38,
+  "EOS_Completed_Percentage": 5.37,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2465,6 +2465,11 @@
       "Time": "2023-11-17T17:04:14.4738406+00:00",
       "NumProgressed": 576,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-17T18:04:04.0954128+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 25,
@@ -2476,7 +2481,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "END_GOOD",
@@ -2492,7 +2497,7 @@
       "Name": "Peace walker",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2500,7 +2505,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2516,7 +2521,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2572,7 +2577,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2620,7 +2625,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2675,14 +2680,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 577,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-17T17:04:14.4738402+00:00",
+  "LastChanged_Achievements": "2023-11-17T18:04:04.0954124+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:59:16.69225+00:00",
-  "LastUpdate_Achievements": "2023-11-17T17:04:14.4738686+00:00"
+  "LastUpdate_Ratings": "2023-11-17T17:58:52.8136932+00:00",
+  "LastUpdate_Achievements": "2023-11-17T18:04:04.095443+00:00"
 }

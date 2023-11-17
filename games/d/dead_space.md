@@ -6,7 +6,7 @@ Rating: 4.64 (Ranked 332)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 94.00% | ~1,731 |
-| Welcome Aboard | 84.00% | ~1,546 |
+| Welcome Aboard | 85.00% | ~1,565 |
 | Lab Rat | 75.00% | ~1,381 |
 | All Systems Go | 66.00% | ~1,215 |
 | Brute Force | 65.00% | ~1,197 |
@@ -27,8 +27,8 @@ Rating: 4.64 (Ranked 332)
 | Live with the Hot Ones | 41.00% | ~755 |
 | Keeper of the Faith | 40.00% | ~736 |
 | Betrayed | 39.00% | ~718 |
+| Legend Teller | 38.00% | ~700 |
 | Exodus | 37.00% | ~681 |
-| Legend Teller | 37.00% | ~681 |
 | There's Always Peng! | 37.00% | ~681 |
 | Mindless Prey | 37.00% | ~681 |
 | Front Toward Enemy | 33.00% | ~608 |

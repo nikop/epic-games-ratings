@@ -22,11 +22,11 @@ Number of Ratings: 111  (23.09.2022)
 | That pinch! | 8.00% | ~246 |
 | Bottom ply killer | 7.00% | ~215 |
 | Finally he zips it | 7.00% | ~215 |
+| Fulfilled the dream | 7.00% | ~215 |
 | G'Day Mate! | 7.00% | ~215 |
 | Tight lipslides | 7.00% | ~215 |
 | Commence the Hijinx! | 6.00% | ~184 |
 | DIY Boss | 6.00% | ~184 |
-| Fulfilled the dream | 6.00% | ~184 |
 | Globetrotter | 6.00% | ~184 |
 | Laid back | 6.00% | ~184 |
 | NAHELL! | 6.00% | ~184 |
@@ -36,6 +36,7 @@ Number of Ratings: 111  (23.09.2022)
 | Cops called! | 5.00% | ~154 |
 | Lines for days | 5.00% | ~154 |
 | Manny Destroys All | 5.00% | ~154 |
+| Prince of Philly | 5.00% | ~154 |
 | Renaissance man | 5.00% | ~154 |
 | Tank commander | 5.00% | ~154 |
 | Trick shot marksman | 5.00% | ~154 |
@@ -43,7 +44,6 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~123 |
 | Hoarder | 4.00% | ~123 |
 | Pew-Pew | 4.00% | ~123 |
-| Prince of Philly | 4.00% | ~123 |
 | Many plys later... | 3.00% | ~92 |
 | Cross lock country | 2.00% | ~61 |
 | That was wheelie fun | 2.00% | ~61 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3874,
+  "EOS_Progressed": 3875,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7950,6 +7950,11 @@
       "Time": "2023-11-17T01:54:05.462908+00:00",
       "NumProgressed": 3874,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-17T18:05:22.3274312+00:00",
+      "NumProgressed": 3875,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8121,7 +8126,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -8129,7 +8134,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8137,7 +8142,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -8153,7 +8158,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -8209,7 +8214,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8257,7 +8262,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -8273,7 +8278,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8305,7 +8310,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -8329,7 +8334,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8369,7 +8374,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8377,7 +8382,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -8385,7 +8390,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -8393,7 +8398,7 @@
       "Name": "Reich To The Point",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -8409,7 +8414,7 @@
       "Name": "Covert Elimination",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -8513,7 +8518,7 @@
       "Name": "Sink or Swim",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -8528,13 +8533,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3825,
+      "Progressed": 3826,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3874,
+      "Progressed": 3875,
       "Completed": 11
     }
   ],
@@ -8542,8 +8547,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-17T17:05:39.7027657+00:00",
+  "LastChanged_Achievements": "2023-11-17T18:05:22.3274308+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:59:41.7739827+00:00",
-  "LastUpdate_Achievements": "2023-11-17T17:05:39.7028498+00:00"
+  "LastUpdate_Ratings": "2023-11-17T17:59:16.4254185+00:00",
+  "LastUpdate_Achievements": "2023-11-17T18:05:22.3275287+00:00"
 }

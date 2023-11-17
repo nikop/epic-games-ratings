@@ -49,6 +49,8 @@ Rating: 4.61 (Ranked 384)
 | God Emperor | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
+| Grexolis | 0.20% | ~11 |
+| One for All, All for One | 0.20% | ~11 |
 | Duality | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
@@ -56,8 +58,6 @@ Rating: 4.61 (Ranked 384)
 | I Want to Break Free | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
-| Grexolis | 0.10% | ~5 |
-| One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |

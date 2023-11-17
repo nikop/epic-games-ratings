@@ -5,35 +5,35 @@ Rating: 4.38 (Ranked 765)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~858 |
-| And so it begins | 73.00% | ~824 |
-| No pressure | 70.00% | ~790 |
-| Memento | 62.00% | ~700 |
-| Let there be light | 60.00% | ~677 |
-| I think you dropped this | 55.00% | ~621 |
+| Good start | 76.00% | ~859 |
+| And so it begins | 73.00% | ~825 |
+| No pressure | 70.00% | ~791 |
+| Memento | 62.00% | ~701 |
+| Let there be light | 59.00% | ~667 |
+| I think you dropped this | 55.00% | ~622 |
 | Soulmate? | 54.00% | ~610 |
-| Excellent service | 49.00% | ~553 |
+| Excellent service | 49.00% | ~554 |
 | Roll with it | 47.00% | ~531 |
 | Humble beginnings | 45.00% | ~508 |
 | Love is in the air | 44.00% | ~497 |
-| Fine, I'll do it myself | 43.00% | ~485 |
-| Moving up | 42.00% | ~474 |
+| Fine, I'll do it myself | 43.00% | ~486 |
+| Moving up | 42.00% | ~475 |
 | No need to call anyone | 40.00% | ~452 |
 | Big fortune | 33.00% | ~373 |
 | Still more work ahead | 30.00% | ~339 |
-| Aesop's fable | 29.00% | ~327 |
 | Kaboom | 28.00% | ~316 |
+| Aesop's fable | 28.00% | ~316 |
 | Hotel sleuthing | 28.00% | ~316 |
 | Nearly there | 26.00% | ~294 |
 | Broken heart | 24.00% | ~271 |
-| Island boy | 22.00% | ~248 |
+| Island boy | 22.00% | ~249 |
 | You're a star | 21.00% | ~237 |
 | Unstoppable | 19.00% | ~215 |
 | Reunited | 19.00% | ~215 |
 | King of hospitality | 11.00% | ~124 |
 | Top spot in town | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,129 (Ranked 251)  
+Progressed: 1,130 (Ranked 250)  
 Completed: 16 (1.42%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 16 (1.42%) (Ranked 141)
 | 2023-11-12 | 1,126 | 16 |
 | 2023-11-13 | 1,127 | 16 |
 | 2023-11-15 | 1,129 | 16 |
+| 2023-11-17 | 1,130 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

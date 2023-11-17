@@ -1,23 +1,23 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 747)  
+Rating: 4.39 (Ranked 746)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,999 |
-| IT MAKES BOOM! | 6.00% | ~17,999 |
-| EXTRA BOOST | 5.00% | ~14,999 |
-| PROTECTED | 4.00% | ~11,999 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,000 |
-| PRO | 3.00% | ~9,000 |
-| A TIGER'S FEAR | 2.00% | ~6,000 |
-| AGGRESSIVE RACER | 2.00% | ~6,000 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,000 |
-| ACE SPEEDSTER | 1.00% | ~3,000 |
-| RELEASE THE KRAKEN | 0.80% | ~2,400 |
-| BE OUR GUEST | 0.80% | ~2,400 |
-| LEGENDARY HERO | 0.80% | ~2,400 |
+| ROOKIE | 10.00% | ~30,007 |
+| IT MAKES BOOM! | 6.00% | ~18,004 |
+| EXTRA BOOST | 5.00% | ~15,003 |
+| PROTECTED | 4.00% | ~12,003 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,002 |
+| PRO | 3.00% | ~9,002 |
+| A TIGER'S FEAR | 2.00% | ~6,001 |
+| AGGRESSIVE RACER | 2.00% | ~6,001 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,001 |
+| ACE SPEEDSTER | 1.00% | ~3,001 |
+| RELEASE THE KRAKEN | 0.80% | ~2,401 |
+| BE OUR GUEST | 0.80% | ~2,401 |
+| LEGENDARY HERO | 0.80% | ~2,401 |
 | TRAINING HARD | 0.70% | ~2,100 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,100 |
 | FRIENDLY | 0.70% | ~2,100 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 747)
 | PERFECTLY POISED | 0.20% | ~600 |
 | ACE TRICKSTER | 0.20% | ~600 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,986 (Ranked 52)  
-Completed: 292 (0.10%) (Ranked 278)  
+Progressed: 300,067 (Ranked 52)  
+Completed: 293 (0.10%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,7 +237,7 @@ Completed: 292 (0.10%) (Ranked 278)
 | 2023-11-14 | 296,465 | 285 |
 | 2023-11-15 | 297,597 | 285 |
 | 2023-11-16 | 298,870 | 286 |
-| 2023-11-17 | 299,986 | 292 |
+| 2023-11-17 | 300,067 | 293 |
 ## Awards
 Max (Great for Beginners): 72  (Ranked 399)  
 Sum: 559 (Ranked 316)  

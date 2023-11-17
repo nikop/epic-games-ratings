@@ -34,6 +34,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Black Jack | 0.10% | ~458 |
 | Bleed Them Dry | 0.10% | ~458 |
 | Blockader | 0.10% | ~458 |
+| Brick by Brick | 0.10% | ~458 |
 | Bright Spark | 0.10% | ~458 |
 | Brothers in Arms | 0.10% | ~458 |
 | Center of Attention | 0.10% | ~458 |
@@ -206,7 +207,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
-| Brick by Brick | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,551 (Ranked 41)  
+Progressed: 457,585 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,10 +581,10 @@ Completed: 1 (0.00%) (Ranked 353)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,551 | 1 |
+| 2023-11-17 | 457,585 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
-Sum: 57,945 (Ranked 24)  
+Sum: 57,961 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -594,7 +594,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,665 |
 | This game is Extremely Fun | 6,637 |
 | This game is Relaxing | 6,478 |
-| This game has Competitive Players | 6,309 |
+| This game has Competitive Players | 6,325 |
 | This game has Amazing Storytelling | 5,854 |
 | This game has Amazing Characters | 5,427 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -905,4 +905,4 @@ Diff (max vs sum): 30
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
-| 2023-11-17 | 4.69 | - | 7,043 | 57,945 |
+| 2023-11-17 | 4.69 | - | 7,043 | 57,961 |

@@ -884,9 +884,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 28608,
+  "EOS_Progressed": 28609,
   "EOS_Completed": 1377,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.81,
   "EosHistory": [
@@ -6799,6 +6799,11 @@
       "Time": "2023-11-17T13:15:03.3088504+00:00",
       "NumProgressed": 28608,
       "NumCompleted": 1377
+    },
+    {
+      "Time": "2023-11-17T18:08:30.4697647+00:00",
+      "NumProgressed": 28609,
+      "NumCompleted": 1377
     }
   ],
   "TotalAchievements": 30,
@@ -6834,7 +6839,7 @@
       "Name": "Clothesline",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4863
+      "UsersEstimate": 4864
     },
     {
       "ID": "ACH_BOSSES",
@@ -6866,7 +6871,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18881
+      "UsersEstimate": 18882
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -6874,7 +6879,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 22028
+      "UsersEstimate": 22029
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -6906,7 +6911,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27750
+      "UsersEstimate": 27751
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -6954,7 +6959,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16020
+      "UsersEstimate": 16021
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -6962,7 +6967,7 @@
       "Name": "Vacation\u0027s End",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 15162
+      "UsersEstimate": 15163
     },
     {
       "ID": "ACH_PUZZLE",
@@ -6970,7 +6975,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12301
+      "UsersEstimate": 12302
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -6986,7 +6991,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11443
+      "UsersEstimate": 11444
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -7002,7 +7007,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26605
+      "UsersEstimate": 26606
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -7034,7 +7039,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21456
+      "UsersEstimate": 21457
     },
     {
       "ID": "ACH_WATERFALL",
@@ -7042,22 +7047,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24889
+      "UsersEstimate": 24890
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28608,
+      "Progressed": 28609,
       "Completed": 1377
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-11-15T01:45:55.3749924+00:00",
-  "LastChanged_Achievements": "2023-11-17T17:08:17.4950577+00:00",
+  "LastChanged_Achievements": "2023-11-17T18:08:30.4697642+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:19.5640971+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:00:32.5606707+00:00",
-  "LastUpdate_Achievements": "2023-11-17T17:08:17.4951043+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:00:02.5036111+00:00",
+  "LastUpdate_Achievements": "2023-11-17T18:08:30.4698177+00:00"
 }
