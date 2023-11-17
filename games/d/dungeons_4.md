@@ -12,44 +12,44 @@
 | The Plains of Strothalm | 68.00% | ~194 |
 | Experienced Thalya | 68.00% | ~194 |
 | Thalya's Concentrated Fury | 67.00% | ~191 |
+| Bad Elves Go Everywhere | 63.00% | ~180 |
 | Master of Magic | 62.00% | ~177 |
-| Bad Elves Go Everywhere | 62.00% | ~177 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
 | Magic Accidents | 56.00% | ~160 |
+| Heroes’ Gorge | 55.00% | ~157 |
 | Minions, Minions! | 54.00% | ~154 |
-| Heroes’ Gorge | 54.00% | ~154 |
 | Trap Master | 52.00% | ~148 |
 | The Ascent | 42.00% | ~120 |
 | It's Warm and Cozy at Home | 42.00% | ~120 |
-| YOU SHALL NOT PASS! | 40.00% | ~114 |
+| YOU SHALL NOT PASS! | 41.00% | ~117 |
 | Hard Work | 38.00% | ~108 |
 | The Big Eaty | 38.00% | ~108 |
 | Pure Dynamite! | 36.00% | ~103 |
-| Mana Cannon | 31.00% | ~88 |
+| Mana Cannon | 32.00% | ~91 |
 | “… like son” | 31.00% | ~88 |
 | Dungeonlord Gorgu | 25.00% | ~71 |
-| The Cathedral of Light | 23.00% | ~66 |
-| Shame! Shame! Shame! | 23.00% | ~66 |
+| The Cathedral of Light | 24.00% | ~68 |
+| Shame! Shame! Shame! | 24.00% | ~68 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
 | Tanos' Crusade Against Thalya | 19.00% | ~54 |
-| Hungry, Hungry Gorgu! | 17.00% | ~48 |
+| Hungry, Hungry Gorgu! | 18.00% | ~51 |
 | Unstoppable Horde | 17.00% | ~48 |
 | Master of the Undead | 16.00% | ~46 |
 | All’s Well That Ends Evil | 16.00% | ~46 |
 | Forbidden Knowledge | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~37 |
+| The Duel | 13.00% | ~37 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
 | Stop Tanos! | 12.00% | ~34 |
-| The Duel | 12.00% | ~34 |
 | If Looks Could Kill | 11.00% | ~31 |
 | The Finitude Drill | 9.00% | ~26 |
 | My Little Torture Chamber | 7.00% | ~20 |
 | Bonus Evilness | 7.00% | ~20 |
 | Sabotage! | 7.00% | ~20 |
 | Doom Hill | 7.00% | ~20 |
+| Raiders of the Lost Stone | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
 | Mirror, Mirror | 5.00% | ~14 |
-| Raiders of the Lost Stone | 5.00% | ~14 |
 | The Rune Sockets of Finitude (Part 1) | 5.00% | ~14 |
 | Gorgu is in the Best of Health | 4.00% | ~11 |
 | Laser Eyes Are So Useless | 4.00% | ~11 |

@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 304,
-  "EOS_Completed": 78,
+  "EOS_Completed": 79,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 25.66,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 25.99,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1614,6 +1614,11 @@
       "Time": "2023-11-13T00:03:27.2983268+00:00",
       "NumProgressed": 304,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-17T15:04:48.793724+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1640,9 +1645,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "FallDeath",
@@ -1704,9 +1709,9 @@
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "Screwdriver",
@@ -1738,13 +1743,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 304,
-      "Completed": 78
+      "Completed": 79
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:04:57.5757677+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:04:48.7937233+00:00",
   "LastUpdate_AppInfo": "2023-11-14T23:57:15.4405482+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:58:15.2958003+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:04:57.5757853+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:58:09.3301339+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:04:48.79374+00:00"
 }

@@ -11,10 +11,10 @@ Number of Ratings: 1,396  (23.09.2022)
 | Valley's Helper | 62.00% | ~7,253 |
 | Constructor | 51.00% | ~5,966 |
 | Renovator | 51.00% | ~5,966 |
-| Bestest Friend | 47.00% | ~5,498 |
-| Banker | 39.00% | ~4,562 |
-| Gardener | 31.00% | ~3,626 |
-| Generous | 25.00% | ~2,924 |
+| Bestest Friend | 47.00% | ~5,499 |
+| Banker | 39.00% | ~4,563 |
+| Gardener | 31.00% | ~3,627 |
+| Generous | 25.00% | ~2,925 |
 | Chef Cook | 18.00% | ~2,106 |
 | Miner | 10.00% | ~1,170 |
 | Duty Bound | 7.00% | ~819 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Angler | 5.00% | ~585 |
 | Chit Chatter | 3.00% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,698 (Ranked 156)  
+Progressed: 11,699 (Ranked 156)  
 Completed: 278 (2.38%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,17 +184,17 @@ Completed: 278 (2.38%) (Ranked 118)
 | 2023-11-14 | 11,656 | 277 |
 | 2023-11-15 | 11,670 | 278 |
 | 2023-11-16 | 11,689 | 278 |
-| 2023-11-17 | 11,698 | 278 |
+| 2023-11-17 | 11,699 | 278 |
 ## Awards
 Max (Great for Beginners): 1,064  (Ranked 147)  
-Sum: 7,905 (Ranked 107)  
+Sum: 7,906 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,064 |
 | This game has Diverse Characters | 894 |
 | This game is Highly Recommended | 823 |
-| This game has Amazing Characters | 819 |
+| This game has Amazing Characters | 820 |
 | This game is Relaxing | 812 |
 | This game has Amazing Storytelling | 776 |
 | This game is Extremely Fun | 764 |
@@ -452,4 +452,4 @@ Diff (max vs sum): 40
 | 2023-11-14 | 4.76 | - | 1,058 | 7,887 |
 | 2023-11-15 | 4.76 | - | 1,060 | 7,895 |
 | 2023-11-16 | 4.76 | - | 1,062 | 7,903 |
-| 2023-11-17 | 4.76 | - | 1,064 | 7,905 |
+| 2023-11-17 | 4.76 | - | 1,064 | 7,906 |

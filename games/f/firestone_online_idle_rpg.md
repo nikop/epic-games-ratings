@@ -5,11 +5,11 @@ Rating: 4.12 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,230 |
-| World Map | 79.00% | ~1,894 |
-| Temple of Eternals | 57.00% | ~1,367 |
-| Prestigious | 53.00% | ~1,271 |
-| Fellowship Power | 42.00% | ~1,007 |
+| Victor | 93.00% | ~2,232 |
+| World Map | 79.00% | ~1,896 |
+| Temple of Eternals | 57.00% | ~1,368 |
+| Prestigious | 54.00% | ~1,296 |
+| Fellowship Power | 42.00% | ~1,008 |
 | Guild Power | 25.00% | ~600 |
 | Prestigious x10 | 22.00% | ~528 |
 | The game is on | 20.00% | ~480 |
@@ -27,14 +27,14 @@ Rating: 4.12 (Ranked 958)
 | Superior | 13.00% | ~312 |
 | The Unstoppable | 13.00% | ~312 |
 | Milestone collector | 12.00% | ~288 |
-| Scientist | 11.00% | ~264 |
+| Scientist | 12.00% | ~288 |
+| Hunter | 11.00% | ~264 |
 | The power of Awakening | 11.00% | ~264 |
 | Challenger | 10.00% | ~240 |
 | Daily Quest Completionist | 10.00% | ~240 |
 | Doing My Part | 10.00% | ~240 |
 | Four Leaf Clover | 10.00% | ~240 |
 | Frostfire Liberator | 10.00% | ~240 |
-| Hunter | 10.00% | ~240 |
 | Mastery | 10.00% | ~240 |
 | Moving Up The Ladder | 10.00% | ~240 |
 | Relic Of The Past | 10.00% | ~240 |
@@ -75,13 +75,13 @@ Rating: 4.12 (Ranked 958)
 | Enhanced War Machines | 1.00% | ~24 |
 | Training makes a Pro player | 1.00% | ~24 |
 | Tree of Life | 1.00% | ~24 |
+| Silverwood liberator | 0.90% | ~22 |
 | Beast War Machines | 0.80% | ~19 |
-| Silverwood liberator | 0.80% | ~19 |
 | Ultimate War Machines | 0.70% | ~17 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,398 (Ranked 216)  
+Progressed: 2,400 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.08%) (Ranked 290)
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
 | 2023-11-16 | 2,376 | 2 |
-| 2023-11-17 | 2,398 | 2 |
+| 2023-11-17 | 2,400 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

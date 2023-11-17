@@ -10,23 +10,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 5.00% | ~7,011 |
 | Basic in Bulk | 4.00% | ~5,609 |
 | Tinkle of Coins | 4.00% | ~5,609 |
-| Disintermediation | 3.00% | ~4,206 |
-| It's Free Real Estate | 3.00% | ~4,206 |
-| Budding Merchant | 3.00% | ~4,206 |
-| Capitalism Ho! | 3.00% | ~4,206 |
-| The Daily Grind | 2.00% | ~2,804 |
-| One Easy Payment | 2.00% | ~2,804 |
-| Some Assembly Required | 2.00% | ~2,804 |
-| Bounty Hunters | 2.00% | ~2,804 |
-| Demand for Supplies | 2.00% | ~2,804 |
-| Flooding the Market | 2.00% | ~2,804 |
-| Where it Hurts | 2.00% | ~2,804 |
-| Another Satisfied Customer | 2.00% | ~2,804 |
-| Pretty Penny | 2.00% | ~2,804 |
-| One-Armed Bandit | 2.00% | ~2,804 |
-| Dungeon Imports | 2.00% | ~2,804 |
-| Through Repetition, Perfection | 2.00% | ~2,804 |
-| Own the Means of Production | 2.00% | ~2,804 |
+| Disintermediation | 3.00% | ~4,207 |
+| It's Free Real Estate | 3.00% | ~4,207 |
+| Budding Merchant | 3.00% | ~4,207 |
+| Capitalism Ho! | 3.00% | ~4,207 |
+| The Daily Grind | 2.00% | ~2,805 |
+| One Easy Payment | 2.00% | ~2,805 |
+| Some Assembly Required | 2.00% | ~2,805 |
+| Bounty Hunters | 2.00% | ~2,805 |
+| Demand for Supplies | 2.00% | ~2,805 |
+| Flooding the Market | 2.00% | ~2,805 |
+| Where it Hurts | 2.00% | ~2,805 |
+| Another Satisfied Customer | 2.00% | ~2,805 |
+| Pretty Penny | 2.00% | ~2,805 |
+| One-Armed Bandit | 2.00% | ~2,805 |
+| Dungeon Imports | 2.00% | ~2,805 |
+| Through Repetition, Perfection | 2.00% | ~2,805 |
+| Own the Means of Production | 2.00% | ~2,805 |
 | On the Path to Greatness | 1.00% | ~1,402 |
 | Ascended | 1.00% | ~1,402 |
 | Tax not Included | 1.00% | ~1,402 |
@@ -84,22 +84,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.80% | ~1,122 |
 | Exotic Commodities | 0.80% | ~1,122 |
 | King's Blade | 0.80% | ~1,122 |
-| Top of the World | 0.70% | ~981 |
-| Constellated | 0.70% | ~981 |
-| Thirst for Knowledge | 0.70% | ~981 |
-| Booty by the Boatload | 0.70% | ~981 |
-| Archivist | 0.70% | ~981 |
-| Fillin' the Bin | 0.70% | ~981 |
-| Industrial Evolution | 0.70% | ~981 |
-| Ritualist | 0.70% | ~981 |
-| A Legend is Born | 0.70% | ~981 |
-| Item of Renown | 0.70% | ~981 |
-| Bountiful Harvest | 0.70% | ~981 |
-| Precision Engineering | 0.70% | ~981 |
-| Treasure Trove | 0.70% | ~981 |
-| Moment of Respite | 0.70% | ~981 |
-| King's Shadow | 0.70% | ~981 |
-| Economy of Scarce | 0.70% | ~981 |
+| Top of the World | 0.70% | ~982 |
+| Constellated | 0.70% | ~982 |
+| Thirst for Knowledge | 0.70% | ~982 |
+| Booty by the Boatload | 0.70% | ~982 |
+| Archivist | 0.70% | ~982 |
+| Fillin' the Bin | 0.70% | ~982 |
+| Industrial Evolution | 0.70% | ~982 |
+| Ritualist | 0.70% | ~982 |
+| A Legend is Born | 0.70% | ~982 |
+| Item of Renown | 0.70% | ~982 |
+| Bountiful Harvest | 0.70% | ~982 |
+| Precision Engineering | 0.70% | ~982 |
+| Treasure Trove | 0.70% | ~982 |
+| Moment of Respite | 0.70% | ~982 |
+| King's Shadow | 0.70% | ~982 |
+| Economy of Scarce | 0.70% | ~982 |
 | Jackpot! | 0.60% | ~841 |
 | The Free Encyclopedia | 0.50% | ~701 |
 | Thank You Tom Nook | 0.50% | ~701 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,213 (Ranked 79)  
+Progressed: 140,226 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 266)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,213 | 187 |
+| 2023-11-17 | 140,226 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,561 (Ranked 50)  

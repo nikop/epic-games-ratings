@@ -7,9 +7,9 @@
 | Feels Familiar | 77.00% | ~552 |
 | I Broke It | 73.00% | ~523 |
 | Better On Ice | 70.00% | ~502 |
+| Notai Notes | 70.00% | ~502 |
 | Blue Dreams | 69.00% | ~495 |
 | He's Famous! | 69.00% | ~495 |
-| Notai Notes | 69.00% | ~495 |
 | Cutie Poro | 68.00% | ~488 |
 | Krugmazing | 67.00% | ~480 |
 | The Fire Below the Mountain | 64.00% | ~459 |
@@ -28,13 +28,13 @@
 | True Legends | 41.00% | ~294 |
 | You Get Used To It | 40.00% | ~287 |
 | Boosted! | 38.00% | ~272 |
+| Family | 37.00% | ~265 |
+| Biggest Snowball Ever | 37.00% | ~265 |
+| Freeze The Ice Witch | 37.00% | ~265 |
 | On The Rocks | 37.00% | ~265 |
 | Bullseye | 37.00% | ~265 |
-| Family | 36.00% | ~258 |
-| Biggest Snowball Ever | 36.00% | ~258 |
-| Freeze The Ice Witch | 36.00% | ~258 |
 | Deadliest and Biggest Snowball Ever! | 36.00% | ~258 |
-| It Is Not Over | 34.00% | ~244 |
+| It Is Not Over | 35.00% | ~251 |
 | Never Gets Old | 33.00% | ~237 |
 | Snowy Poro | 32.00% | ~229 |
 | Vertical Power | 29.00% | ~208 |
@@ -50,7 +50,7 @@
 | Sneaky Notai | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 717 (Ranked 277)  
-Completed: 6 (0.84%) (Ranked 173)  
+Completed: 7 (0.98%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,4 +77,4 @@ Completed: 6 (0.84%) (Ranked 173)
 | 2023-11-14 | 693 | 5 |
 | 2023-11-15 | 701 | 6 |
 | 2023-11-16 | 714 | 6 |
-| 2023-11-17 | 717 | 6 |
+| 2023-11-17 | 717 | 7 |

@@ -2,7 +2,7 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 37,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 11.76,
+  "EOS_Completed_Percentage": 11.54,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -254,6 +254,11 @@
       "Time": "2023-11-17T14:09:22.3245756+00:00",
       "NumProgressed": 51,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T15:09:05.1524035+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -266,7 +271,7 @@
       "Name": "First tower built",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
@@ -274,39 +279,39 @@
       "Name": "Hanoi beginner",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
@@ -328,7 +333,7 @@
       "ID": "09_ACHIEVEMENT_Complete_Master",
       "SetID": "6opd2eg",
       "Name": "Hanoi Master",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 7
     },
@@ -344,7 +349,7 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 8
     }
@@ -353,14 +358,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:09:22.3245751+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:09:05.1524019+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:59:58.854762+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:09:22.3245848+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:59:55.8416393+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:09:05.1524158+00:00"
 }

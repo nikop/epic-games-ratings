@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,173 |
-| Alt+F4 | 8.00% | ~19,011 |
-| Where's that freaking Dwarf? | 7.00% | ~16,635 |
-| Déjà vu | 6.00% | ~14,258 |
-| Sock! SOCK! | 5.00% | ~11,882 |
-| A beer, two curses, three companions | 4.00% | ~9,505 |
-| GG EZ | 4.00% | ~9,505 |
-| DM intervention | 4.00% | ~9,505 |
-| Speedrun | 4.00% | ~9,505 |
-| Livin' in a dwarven paradise | 3.00% | ~7,129 |
-| Way of the Wimp | 3.00% | ~7,129 |
-| The plot thickens... At the tavern | 3.00% | ~7,129 |
-| Fireproof Wizardess | 3.00% | ~7,129 |
+| Sowwy! | 35.00% | ~83,179 |
+| Alt+F4 | 8.00% | ~19,012 |
+| Where's that freaking Dwarf? | 7.00% | ~16,636 |
+| Déjà vu | 6.00% | ~14,259 |
+| Sock! SOCK! | 5.00% | ~11,883 |
+| A beer, two curses, three companions | 4.00% | ~9,506 |
+| GG EZ | 4.00% | ~9,506 |
+| DM intervention | 4.00% | ~9,506 |
+| Speedrun | 4.00% | ~9,506 |
+| Livin' in a dwarven paradise | 3.00% | ~7,130 |
+| Way of the Wimp | 3.00% | ~7,130 |
+| The plot thickens... At the tavern | 3.00% | ~7,130 |
+| Fireproof Wizardess | 3.00% | ~7,130 |
 | Shiny and Crôm | 2.00% | ~4,753 |
 | The demons' feast | 2.00% | ~4,753 |
 | The Great Library | 2.00% | ~4,753 |
@@ -37,16 +37,16 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,753 |
 | Team Building Exercise | 2.00% | ~4,753 |
 | Oh, when I'll be level 10... | 2.00% | ~4,753 |
-| Dwarf Fortress | 1.00% | ~2,376 |
-| %#*!$*! | 1.00% | ~2,376 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,376 |
-| Dead for good | 1.00% | ~2,376 |
-| Gargantua | 1.00% | ~2,376 |
-| Lust and Debauchery | 1.00% | ~2,376 |
-| Material Girl | 1.00% | ~2,376 |
+| Dwarf Fortress | 1.00% | ~2,377 |
+| %#*!$*! | 1.00% | ~2,377 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,377 |
+| Dead for good | 1.00% | ~2,377 |
+| Gargantua | 1.00% | ~2,377 |
+| Lust and Debauchery | 1.00% | ~2,377 |
+| Material Girl | 1.00% | ~2,377 |
 | In Navalu's footsteps | 0.90% | ~2,139 |
 | Lëgal Legend | 0.80% | ~1,901 |
-| We come in peace | 0.70% | ~1,663 |
+| We come in peace | 0.70% | ~1,664 |
 | Holistic Adventuring Party | 0.60% | ~1,426 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,426 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,188 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,637 (Ranked 62)  
+Progressed: 237,653 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 7 (0.00%) (Ranked 353)
 | 2023-11-14 | 237,170 | 7 |
 | 2023-11-15 | 237,338 | 7 |
 | 2023-11-16 | 237,548 | 7 |
-| 2023-11-17 | 237,637 | 7 |
+| 2023-11-17 | 237,653 | 7 |
 ## Awards
 Max (Character Customization): 230  (Ranked 272)  
 Sum: 463 (Ranked 331)  

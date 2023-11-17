@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2042,6 +2042,11 @@
       "Time": "2023-11-17T14:09:02.5252593+00:00",
       "NumProgressed": 614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T15:08:44.6268097+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2155,17 +2160,17 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2173,7 +2178,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2213,7 +2218,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -2285,7 +2290,7 @@
       "Name": "The Breaking Point",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2293,7 +2298,7 @@
       "Name": "The Motivation",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2309,7 +2314,7 @@
       "Name": "Consequences",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2317,7 +2322,7 @@
       "Name": "Opportunities",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2509,7 +2514,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_NOMOON",
@@ -2524,15 +2529,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:09:02.5252589+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:08:44.6268095+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:58:48.3801826+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:09:02.5253236+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:58:43.4467829+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:08:44.6268872+00:00"
 }

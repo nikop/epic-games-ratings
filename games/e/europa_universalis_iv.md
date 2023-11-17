@@ -105,6 +105,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Narcissism | 0.10% | ~457 |
 | Networking | 0.10% | ~457 |
 | No Pirates in my Caribbean | 0.10% | ~457 |
+| Nobody wants to die | 0.10% | ~457 |
 | Not just Pizza | 0.10% | ~457 |
 | Not so sad a state... | 0.10% | ~457 |
 | On the Rhodes Again | 0.10% | ~457 |
@@ -287,7 +288,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | New, New Deli | 0.00% | ~0 |
 | No Country for Old Tercios | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
-| Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,403 (Ranked 41)  
+Progressed: 457,463 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 353)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,403 | 1 |
+| 2023-11-17 | 457,463 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 57,945 (Ranked 24)  

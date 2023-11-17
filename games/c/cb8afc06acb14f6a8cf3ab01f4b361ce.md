@@ -9,8 +9,8 @@ Rating: 4.21 (Ranked 902)
 | The touch of Chaos | 1.00% | ~3,125 |
 | A powerful aura was here | 0.80% | ~2,500 |
 | Let's raise the stakes!! | 0.40% | ~1,250 |
-| Rumors are true | 0.30% | ~937 |
-| Your wounds… They are healing so fast! | 0.30% | ~937 |
+| Rumors are true | 0.30% | ~938 |
+| Your wounds… They are healing so fast! | 0.30% | ~938 |
 | We'll be careful | 0.20% | ~625 |
 | Back to your senses | 0.20% | ~625 |
 | They tricked me | 0.20% | ~625 |
@@ -18,35 +18,35 @@ Rating: 4.21 (Ranked 902)
 | They won't last long | 0.20% | ~625 |
 | Pride is a sin, young Knight | 0.20% | ~625 |
 | Bring it on! | 0.20% | ~625 |
-| I feel drawn to it | 0.10% | ~312 |
-| Here to stay | 0.10% | ~312 |
-| Counting on you | 0.10% | ~312 |
-| This is the end | 0.10% | ~312 |
-| We can choose to fight | 0.10% | ~312 |
-| No damsels in distress | 0.10% | ~312 |
-| The immortal is bound to reborn | 0.10% | ~312 |
-| A legend among Chimeras | 0.10% | ~312 |
-| It's only pain | 0.10% | ~312 |
-| I know how to handle it | 0.10% | ~312 |
-| Settle this once and for all | 0.10% | ~312 |
-| The Ashen Knight | 0.10% | ~312 |
-| The Shade | 0.10% | ~312 |
-| Through the Veil | 0.10% | ~312 |
-| Call this the Judge's mercy | 0.10% | ~312 |
-| There's too many of them! | 0.10% | ~312 |
-| Their fate is sealed | 0.10% | ~312 |
-| Not even from this world | 0.10% | ~312 |
-| I've been waiting for this! | 0.10% | ~312 |
-| You want more? I've got more! | 0.10% | ~312 |
-| I'm just warming up | 0.10% | ~312 |
-| We learned it the hard way | 0.10% | ~312 |
-| We strike as one | 0.10% | ~312 |
-| Chaos be damned! | 0.10% | ~312 |
-| I took a risk | 0.10% | ~312 |
+| I feel drawn to it | 0.10% | ~313 |
+| Here to stay | 0.10% | ~313 |
+| Counting on you | 0.10% | ~313 |
+| This is the end | 0.10% | ~313 |
+| We can choose to fight | 0.10% | ~313 |
+| No damsels in distress | 0.10% | ~313 |
+| The immortal is bound to reborn | 0.10% | ~313 |
+| A legend among Chimeras | 0.10% | ~313 |
+| It's only pain | 0.10% | ~313 |
+| I know how to handle it | 0.10% | ~313 |
+| Settle this once and for all | 0.10% | ~313 |
+| The Ashen Knight | 0.10% | ~313 |
+| The Shade | 0.10% | ~313 |
+| Through the Veil | 0.10% | ~313 |
+| Call this the Judge's mercy | 0.10% | ~313 |
+| There's too many of them! | 0.10% | ~313 |
+| Their fate is sealed | 0.10% | ~313 |
+| Not even from this world | 0.10% | ~313 |
+| I've been waiting for this! | 0.10% | ~313 |
+| You want more? I've got more! | 0.10% | ~313 |
+| I'm just warming up | 0.10% | ~313 |
+| We learned it the hard way | 0.10% | ~313 |
+| We strike as one | 0.10% | ~313 |
+| Chaos be damned! | 0.10% | ~313 |
+| I took a risk | 0.10% | ~313 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,493 (Ranked 49)  
+Progressed: 312,532 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 4 (0.00%) (Ranked 353)
 | 2023-11-14 | 310,789 | 4 |
 | 2023-11-15 | 311,439 | 4 |
 | 2023-11-16 | 312,090 | 4 |
-| 2023-11-17 | 312,493 | 4 |
+| 2023-11-17 | 312,532 | 4 |
 ## Awards
 Max (Great Boss Battles): 60  (Ranked 412)  
 Sum: 60 (Ranked 472)  

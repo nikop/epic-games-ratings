@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -673,6 +673,11 @@
       "Time": "2023-11-14T08:03:46.4619896+00:00",
       "NumProgressed": 692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T15:05:09.7955544+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -732,7 +737,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "AhoyTrophy",
@@ -740,7 +745,7 @@
       "Name": "Ahoy Hoy",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AlienTrophy",
@@ -828,7 +833,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Ext4Trophy",
@@ -836,7 +841,7 @@
       "Name": "New Kid on the Block",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "FatTrophy",
@@ -964,7 +969,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "MaxPriceTrophy",
@@ -972,7 +977,7 @@
       "Name": "Jimmy Goldman Would be Proud",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MergeBallsTrophy",
@@ -1050,9 +1055,9 @@
       "ID": "SwishTrophy",
       "SetID": "32aeje8",
       "Name": "Swish",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 388
     },
     {
       "ID": "TerrorTrophy",
@@ -1115,7 +1120,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 0
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:05:19.0599299+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:05:09.795554+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.5106113+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:57:26.7557176+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:05:19.0599644+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:57:19.3801075+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:05:09.7955937+00:00"
 }

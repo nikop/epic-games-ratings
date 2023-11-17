@@ -4,7 +4,7 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 385,
   "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 178,
@@ -439,10 +439,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-11-17T14:59:06.4451112+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 56,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
+  "NumberOfAwards": 56,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -456,7 +462,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 24
     }
   ],
   "EOS_Progressed": 5399,
@@ -7642,9 +7648,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:05:51.3091333+00:00",
+  "LastChanged": "2023-11-17T14:59:06.445111+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:05:42.5287783+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:59:10.7188739+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:05:51.3092134+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:59:06.4451114+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:05:42.52884+00:00"
 }

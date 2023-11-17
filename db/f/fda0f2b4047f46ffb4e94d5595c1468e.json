@@ -2703,9 +2703,9 @@
       "Count": 363
     }
   ],
-  "EOS_Progressed": 8576,
+  "EOS_Progressed": 8577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8303,6 +8303,11 @@
       "Time": "2023-11-17T13:11:09.6974866+00:00",
       "NumProgressed": 8576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T15:04:18.2182826+00:00",
+      "NumProgressed": 8577,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8339,7 +8344,7 @@
       "Name": "What Just Happened??",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "ach05",
@@ -8355,15 +8360,15 @@
       "Name": "Titan",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6518
+      "UsersEstimate": 6519
     },
     {
       "ID": "ach07",
       "SetID": "47in8n6",
       "Name": "Beaten And Broken",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4888
+      "UsersEstimate": 4803
     },
     {
       "ID": "ach08",
@@ -8371,7 +8376,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "ach09",
@@ -8427,7 +8432,7 @@
       "Name": "Give A Koin",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "ach16",
@@ -8443,7 +8448,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "ach18",
@@ -8603,7 +8608,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "ach38",
@@ -8611,7 +8616,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "ach39",
@@ -8643,7 +8648,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3773
+      "UsersEstimate": 3774
     },
     {
       "ID": "ach43",
@@ -8651,7 +8656,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "ach44",
@@ -8683,7 +8688,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "ach48",
@@ -8707,14 +8712,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8576,
+      "Progressed": 8577,
       "Completed": 0
     }
   ],
@@ -8722,8 +8727,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-17T06:00:12.519384+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:04:27.865145+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:04:18.2182822+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:59:23.2255031+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:04:27.8651961+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:59:19.375728+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:04:18.2183362+00:00"
 }

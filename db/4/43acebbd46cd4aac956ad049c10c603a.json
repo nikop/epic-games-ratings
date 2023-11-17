@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -856,9 +856,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "Discovery",
@@ -880,9 +880,9 @@
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "Excellent",
@@ -1249,8 +1249,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:05:43.9470733+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:05:35.0314689+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:59:59.8490702+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:05:43.9471135+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:59:56.845376+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:05:35.0315072+00:00"
 }

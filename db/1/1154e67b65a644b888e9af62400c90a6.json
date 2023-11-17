@@ -4,7 +4,7 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 645,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 422,
@@ -617,10 +617,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 927,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2023-11-17T14:57:50.4546241+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 934,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 927,
+  "NumberOfAwards": 934,
   "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -640,7 +646,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 60
+      "Count": 67
     },
     {
       "Text": "This game has Playful Visuals",
@@ -709,8 +715,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-17T10:57:42.7604556+00:00",
+  "LastChanged": "2023-11-17T14:57:50.4546237+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:57.3999056+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:57:57.0527131+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:06:25.0058823+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:57:50.4546244+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:06:17.2098059+00:00"
 }

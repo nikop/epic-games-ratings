@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4169,9 +4169,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76538,
+  "EOS_Progressed": 76539,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22859,6 +22859,11 @@
       "Time": "2023-11-17T13:13:02.0807798+00:00",
       "NumProgressed": 76538,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-17T15:06:09.9703312+00:00",
+      "NumProgressed": 76539,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22966,7 +22971,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13011
+      "UsersEstimate": 13012
     },
     {
       "ID": "CLAYFACE_1",
@@ -23054,7 +23059,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6888
+      "UsersEstimate": 6889
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -23174,7 +23179,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26788
+      "UsersEstimate": 26789
     },
     {
       "ID": "HARLEY_2",
@@ -23182,7 +23187,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19134
+      "UsersEstimate": 19135
     },
     {
       "ID": "HARLEY_3",
@@ -23214,7 +23219,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39034
+      "UsersEstimate": 39035
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23246,7 +23251,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20665
+      "UsersEstimate": 20666
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23270,7 +23275,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19134
+      "UsersEstimate": 19135
     },
     {
       "ID": "MYSTERY_03",
@@ -23278,7 +23283,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     },
     {
       "ID": "MYSTERY_04",
@@ -23334,7 +23339,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6888
+      "UsersEstimate": 6889
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -23357,13 +23362,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76538,
+      "Progressed": 76539,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46818,
+      "Progressed": 46819,
       "Completed": 2673
     }
   ],
@@ -23371,8 +23376,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-16T22:59:09.2838644+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:06:17.6028751+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:06:09.9703309+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:59:30.7105332+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:06:17.6029891+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:59:26.9876612+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:06:09.9704856+00:00"
 }

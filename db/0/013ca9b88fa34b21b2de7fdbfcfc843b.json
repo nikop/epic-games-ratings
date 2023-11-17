@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7815,
+  "EOS_Progressed": 7816,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6881,6 +6881,11 @@
       "Time": "2023-11-17T10:09:15.9299215+00:00",
       "NumProgressed": 7815,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T15:09:00.4989385+00:00",
+      "NumProgressed": 7816,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6893,7 +6898,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6989,7 +6994,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3360
+      "UsersEstimate": 3361
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6997,7 +7002,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7029,7 +7034,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7045,7 +7050,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7069,7 +7074,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7109,7 +7114,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -7172,22 +7177,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7815,
+      "Progressed": 7816,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 432,
-      "Completed": 432
+      "Progressed": 433,
+      "Completed": 433
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:09:17.8511355+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:09:00.4989384+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:03:02.1225703+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:09:17.8511789+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:02:49.7966112+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:09:00.498985+00:00"
 }

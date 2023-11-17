@@ -7,25 +7,25 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~410 |
-| Close call! | 72.00% | ~378 |
-| Builder | 53.00% | ~278 |
-| Pangs of conscience | 46.00% | ~242 |
-| Living it large! | 45.00% | ~236 |
+| Close call! | 72.00% | ~379 |
+| Builder | 52.00% | ~274 |
+| Pangs of conscience | 45.00% | ~237 |
+| Living it large! | 45.00% | ~237 |
 | Collector | 43.00% | ~226 |
-| Need to think | 42.00% | ~220 |
-| Completely nuts! | 41.00% | ~215 |
-| Just in time! | 34.00% | ~178 |
+| Need to think | 42.00% | ~221 |
+| Completely nuts! | 41.00% | ~216 |
+| Just in time! | 33.00% | ~174 |
 | Europe | 32.00% | ~168 |
 | Madness! | 31.00% | ~163 |
 | It's no coincidence. | 30.00% | ~158 |
 | Let's roll! | 27.00% | ~142 |
-| Philatelist | 26.00% | ~136 |
-| Ouroboros | 25.00% | ~131 |
+| Philatelist | 26.00% | ~137 |
+| Ouroboros | 25.00% | ~132 |
 | Non Stop! | 24.00% | ~126 |
-| Foreman | 22.00% | ~116 |
+| Foreman | 21.00% | ~110 |
 | Russia | 20.00% | ~105 |
 | Missed it! | 19.00% | ~100 |
-| America | 18.00% | ~94 |
+| America | 18.00% | ~95 |
 | Sabotage | 17.00% | ~89 |
 | Achtung! | 12.00% | ~63 |
 | Japan | 11.00% | ~58 |
@@ -38,7 +38,7 @@ Number of Ratings: 28  (23.09.2022)
 | Сhancellor | 4.00% | ~21 |
 | Peacemaker | 4.00% | ~21 |
 | Forgotten | 3.00% | ~16 |
-| Lucky vandal | 2.00% | ~10 |
+| Lucky vandal | 2.00% | ~11 |
 | Salesman | 0.80% | ~4 |
 | BBQ | 0.60% | ~3 |
 | Vandal | 0.40% | ~2 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 304)  
+Progressed: 526 (Ranked 304)  
 Completed: 2 (0.38%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 2 (0.38%) (Ranked 217)
 | 2023-11-10 | 522 | 2 |
 | 2023-11-11 | 523 | 2 |
 | 2023-11-14 | 525 | 2 |
+| 2023-11-17 | 526 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

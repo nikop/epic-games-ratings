@@ -3,9 +3,9 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -23,10 +23,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 717,
-  "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.84,
+  "EOS_Completed": 7,
+  "EOS_NewPlayers": 94,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -1362,6 +1362,11 @@
       "Time": "2023-11-17T13:16:00.5226766+00:00",
       "NumProgressed": 717,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T15:09:06.2758318+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -1444,33 +1449,33 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 244
+      "UsersEstimate": 251
     },
     {
       "ID": "EV_ACH14",
@@ -1628,9 +1633,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 502
     },
     {
       "ID": "EV_ACH34",
@@ -1726,13 +1731,13 @@
       "ID": "6jeac23",
       "IsBase": true,
       "Progressed": 717,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:09:23.3641991+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:09:06.2758314+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:58:12.9112216+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:09:23.3642342+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:58:06.8408029+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:09:06.2758702+00:00"
 }

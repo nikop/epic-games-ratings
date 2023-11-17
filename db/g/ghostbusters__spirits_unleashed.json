@@ -3399,9 +3399,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31098,
+  "EOS_Progressed": 31100,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19539,6 +19539,11 @@
       "Time": "2023-11-17T14:06:41.1141261+00:00",
       "NumProgressed": 31098,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-17T15:07:43.3044944+00:00",
+      "NumProgressed": 31100,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19790,7 +19795,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Right_Back",
@@ -19957,7 +19962,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31098,
+      "Progressed": 31100,
       "Completed": 68
     }
   ],
@@ -19965,8 +19970,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-17T11:02:41.1218888+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:06:41.1141255+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:07:43.3044943+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:02:57.1054616+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:06:41.114229+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:02:44.7917789+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:07:43.3045815+00:00"
 }

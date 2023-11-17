@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5435,
+  "EOS_Progressed": 5437,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3520,6 +3520,11 @@
       "Time": "2023-11-17T14:09:03.4804024+00:00",
       "NumProgressed": 5435,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T15:08:46.2470566+00:00",
+      "NumProgressed": 5437,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3732,7 +3737,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ThisIsDharma",
@@ -3740,7 +3745,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -3772,7 +3777,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -3803,7 +3808,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5435,
+      "Progressed": 5437,
       "Completed": 7
     }
   ],
@@ -3811,8 +3816,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:09:03.4804018+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:08:46.2470565+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:00:16.966535+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:09:03.4804418+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:00:14.9505964+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:08:46.2470903+00:00"
 }

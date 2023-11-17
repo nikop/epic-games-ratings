@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4627,10 +4627,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7905,
       "NumberOfAwardsMax": 1064
+    },
+    {
+      "Time": "2023-11-17T14:58:20.5412589+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7906,
+      "NumberOfAwardsMax": 1064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7905,
+  "NumberOfAwards": 7906,
   "NumberOfAwardsMax": 1064,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4668,7 +4674,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 819
+      "Count": 820
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4701,9 +4707,9 @@
       "Count": 526
     }
   ],
-  "EOS_Progressed": 11698,
+  "EOS_Progressed": 11699,
   "EOS_Completed": 278,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -18851,6 +18857,11 @@
       "Time": "2023-11-17T13:12:12.6250522+00:00",
       "NumProgressed": 11698,
       "NumCompleted": 278
+    },
+    {
+      "Time": "2023-11-17T15:05:20.5171467+00:00",
+      "NumProgressed": 11699,
+      "NumCompleted": 278
     }
   ],
   "TotalAchievements": 15,
@@ -18870,7 +18881,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "Bestest_Friend",
@@ -18878,7 +18889,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "Chef_Cook",
@@ -18918,7 +18929,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "Generous",
@@ -18926,7 +18937,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2925
     },
     {
       "ID": "Goofys_Investor",
@@ -18981,16 +18992,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11698,
+      "Progressed": 11699,
       "Completed": 278
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-17T13:04:58.5654085+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:05:29.7453605+00:00",
+  "LastChanged": "2023-11-17T14:58:20.5412588+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:05:20.5171464+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:02.0110737+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:58:25.7289032+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:05:29.7454408+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:58:20.5412592+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:05:20.5172324+00:00"
 }

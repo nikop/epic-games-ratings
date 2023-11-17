@@ -19,13 +19,13 @@
 | Shatter Them All | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
 | Big Bazar | 1.00% | ~2 |
+| Fine Feathers Make Fine Birds | 1.00% | ~2 |
 | Geared Up | 1.00% | ~2 |
 | Fashion Victim | 1.00% | ~2 |
 | The Collector | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
 | Airborne | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
-| Fine Feathers Make Fine Birds | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
 | A Taste of Wrath | 0.00% | ~0 |

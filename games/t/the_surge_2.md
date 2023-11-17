@@ -13,7 +13,7 @@ Rating: 4.24 (Ranked 883)
 | Sleeping With The Fishes | 36.00% | ~794 |
 | Overheated | 30.00% | ~662 |
 | High Performance | 30.00% | ~662 |
-| Powered Up | 28.00% | ~617 |
+| Powered Up | 29.00% | ~639 |
 | Studied The Blade | 25.00% | ~551 |
 | Home Invasion | 23.00% | ~507 |
 | Luminary | 23.00% | ~507 |

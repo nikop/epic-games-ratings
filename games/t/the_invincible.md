@@ -15,13 +15,13 @@
 | On her own | 7.00% | ~10 |
 | Peacemaker | 7.00% | ~10 |
 | The Alliance | 6.00% | ~8 |
+| Evacuation | 5.00% | ~7 |
 | Flying Objects Operator | 5.00% | ~7 |
 | I remember everything! | 4.00% | ~6 |
 | Fierce fight | 4.00% | ~6 |
-| Evacuation | 4.00% | ~6 |
+| Violent solution | 4.00% | ~6 |
 | Krauta is alive | 4.00% | ~6 |
 | Beyond divisions | 4.00% | ~6 |
-| Violent solution | 3.00% | ~4 |
 | The Invincible | 3.00% | ~4 |
 | Volcanologist | 3.00% | ~4 |
 | Innate curiosity | 3.00% | ~4 |

@@ -268,9 +268,9 @@
       "ID": "Chapter14_MissedOpportunity",
       "SetID": "c8fdd59",
       "Name": "Missed Opportunity",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter15_TheComeback",
@@ -316,9 +316,9 @@
       "ID": "FaithfulAudience",
       "SetID": "c8fdd59",
       "Name": "Seen It All",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FirstBuildingInElysium",
@@ -404,9 +404,9 @@
       "ID": "SecretBase",
       "SetID": "c8fdd59",
       "Name": "Secret Base",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SlayerOfMonsters",
@@ -444,9 +444,9 @@
       "ID": "UltimateWeapon",
       "SetID": "c8fdd59",
       "Name": "Ultimate Weapon",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UnexpectedSurprise",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:09:23.1388787+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:09:06.0228507+00:00",
   "LastUpdate_AppInfo": "2023-11-13T13:57:11.9101247+00:00",
-  "LastUpdate_Ratings": "2023-11-17T13:58:18.3645903+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:09:23.1389042+00:00"
+  "LastUpdate_Ratings": "2023-11-17T14:58:13.1295275+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:09:06.0228814+00:00"
 }

@@ -32,9 +32,9 @@
 | Mermaid Killer | 28.00% | ~31 |
 | Face Slapper | 28.00% | ~31 |
 | Cave Master | 26.00% | ~29 |
-| Master Cook | 20.00% | ~22 |
+| Master Cook | 21.00% | ~24 |
+| Berserker Slayer | 14.00% | ~16 |
 | Boss challenge | 13.00% | ~15 |
-| Berserker Slayer | 13.00% | ~15 |
 | Warden Slayer | 13.00% | ~15 |
 | Giantess Slayer | 12.00% | ~13 |
 | Silver Moon Wolf King Challenge | 6.00% | ~7 |

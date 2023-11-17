@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531464,
+  "EOS_Progressed": 531466,
   "EOS_Completed": 499,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22927,6 +22927,11 @@
       "Time": "2023-11-17T14:08:25.8745798+00:00",
       "NumProgressed": 531464,
       "NumCompleted": 499
+    },
+    {
+      "Time": "2023-11-17T15:08:07.3415859+00:00",
+      "NumProgressed": 531466,
+      "NumCompleted": 499
     }
   ],
   "TotalAchievements": 57,
@@ -22946,7 +22951,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239159
+      "UsersEstimate": 239160
     },
     {
       "ID": "11",
@@ -22954,7 +22959,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372025
+      "UsersEstimate": 372026
     },
     {
       "ID": "12",
@@ -22962,7 +22967,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116922
+      "UsersEstimate": 116923
     },
     {
       "ID": "13",
@@ -22970,7 +22975,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69090
+      "UsersEstimate": 69091
     },
     {
       "ID": "14",
@@ -22986,7 +22991,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53146
+      "UsersEstimate": 53147
     },
     {
       "ID": "16",
@@ -23018,7 +23023,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329508
+      "UsersEstimate": 329509
     },
     {
       "ID": "2",
@@ -23026,7 +23031,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53146
+      "UsersEstimate": 53147
     },
     {
       "ID": "20",
@@ -23034,7 +23039,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127551
+      "UsersEstimate": 127552
     },
     {
       "ID": "21",
@@ -23058,7 +23063,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37202
+      "UsersEstimate": 37203
     },
     {
       "ID": "24",
@@ -23138,7 +23143,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 37202
+      "UsersEstimate": 37203
     },
     {
       "ID": "33",
@@ -23162,7 +23167,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265732
+      "UsersEstimate": 265733
     },
     {
       "ID": "36",
@@ -23170,7 +23175,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85034
+      "UsersEstimate": 85035
     },
     {
       "ID": "37",
@@ -23266,7 +23271,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329508
+      "UsersEstimate": 329509
     },
     {
       "ID": "48",
@@ -23314,7 +23319,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244473
+      "UsersEstimate": 244474
     },
     {
       "ID": "53",
@@ -23393,15 +23398,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531464,
+      "Progressed": 531466,
       "Completed": 499
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-17T14:08:25.8745793+00:00",
+  "LastChanged_Achievements": "2023-11-17T15:08:07.3415856+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.8210185+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:02:51.6887112+00:00",
-  "LastUpdate_Achievements": "2023-11-17T14:08:25.8747082+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:02:39.2951576+00:00",
+  "LastUpdate_Achievements": "2023-11-17T15:08:07.3417419+00:00"
 }
