@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ASAP | 97.00% | ~224 |
-| Life matters | 38.00% | ~88 |
-| Medal of honor | 37.00% | ~85 |
-| Safety first | 33.00% | ~76 |
-| Professional team! | 25.00% | ~58 |
-| Resource manager | 14.00% | ~32 |
+| ASAP | 97.00% | ~226 |
+| Medal of honor | 37.00% | ~86 |
+| Life matters | 37.00% | ~86 |
+| Safety first | 33.00% | ~77 |
+| Professional team! | 24.00% | ~56 |
+| Resource manager | 14.00% | ~33 |
 | Dawn of Victory | 13.00% | ~30 |
 | Team assemble | 12.00% | ~28 |
 | Give me a hand | 6.00% | ~14 |
@@ -23,8 +23,8 @@
 | The song of water and fire | 0.00% | ~0 |
 | Working carefully | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231 (Ranked 367)  
-Completed: 7 (3.03%) (Ranked 101)  
+Progressed: 233 (Ranked 366)  
+Completed: 7 (3.00%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 7 (3.03%) (Ranked 101)
 | 2023-11-10 | 229 | 7 |
 | 2023-11-12 | 230 | 7 |
 | 2023-11-16 | 231 | 7 |
+| 2023-11-17 | 233 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

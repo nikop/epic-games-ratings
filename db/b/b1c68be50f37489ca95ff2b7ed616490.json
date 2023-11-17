@@ -273,9 +273,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "18",
@@ -337,9 +337,9 @@
       "ID": "24",
       "SetID": "6bgoh8g",
       "Name": "Just like a police lineup",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "25",
@@ -432,8 +432,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:06:07.3056413+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:07:48.7320868+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:07.18634+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:00:03.2484163+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:06:07.3056541+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:01:34.2965555+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:07:48.7321033+00:00"
 }

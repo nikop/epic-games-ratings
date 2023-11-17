@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~211 |
+| In the Black | 61.00% | ~214 |
 | Starting Skyward | 55.00% | ~193 |
 | Grime is Not Good | 49.00% | ~172 |
 | Floor Galore | 42.00% | ~147 |

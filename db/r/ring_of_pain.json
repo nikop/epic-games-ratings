@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3412,9 +3412,9 @@
       "Count": 744
     }
   ],
-  "EOS_Progressed": 239808,
+  "EOS_Progressed": 239812,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25297,6 +25297,11 @@
       "Time": "2023-11-17T15:09:12.424776+00:00",
       "NumProgressed": 239808,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-17T16:10:25.994586+00:00",
+      "NumProgressed": 239812,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25402,9 +25407,9 @@
       "ID": "DEPTH12",
       "SetID": "5l8oe0h",
       "Name": "Delving Deeper",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 719
     },
     {
       "ID": "DEPTH12HARD",
@@ -25810,9 +25815,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 719
     },
     {
       "ID": "KILLREFLECT10",
@@ -26411,13 +26416,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239808,
+      "Progressed": 239812,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1288,
+      "Progressed": 1292,
       "Completed": 381
     }
   ],
@@ -26425,8 +26430,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-17T07:57:55.8583112+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:09:12.4247757+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:10:25.9945856+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:58:04.9622651+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:09:12.4249998+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:58:39.0840676+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:10:25.9949098+00:00"
 }

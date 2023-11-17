@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 717,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
@@ -1705,9 +1705,9 @@
       "ID": "EV_ACH42",
       "SetID": "6jeac23",
       "Name": "Deadliest and Biggest Snowball Ever!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "EV_ACH43",
@@ -1736,8 +1736,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:09:06.2758314+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:10:18.3493517+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:58:06.8408029+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:09:06.2758702+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:58:41.9655512+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:10:18.3493815+00:00"
 }

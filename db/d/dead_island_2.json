@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -6621,10 +6621,10 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719601,
+  "EOS_Progressed": 719626,
   "EOS_Completed": 2401,
-  "EOS_NewPlayers": 3667,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 3665,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30746,6 +30746,11 @@
       "Time": "2023-11-17T15:05:38.3319814+00:00",
       "NumProgressed": 719601,
       "NumCompleted": 2401
+    },
+    {
+      "Time": "2023-11-17T16:07:08.1715566+00:00",
+      "NumProgressed": 719626,
+      "NumCompleted": 2401
     }
   ],
   "TotalAchievements": 51,
@@ -30771,9 +30776,9 @@
       "ID": "ach_ammo_ran",
       "SetID": "7km39fm",
       "Name": "Git Gutte!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5757
+      "UsersEstimate": 6477
     },
     {
       "ID": "ach_anger_management",
@@ -30821,7 +30826,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6476
+      "UsersEstimate": 6477
     },
     {
       "ID": "ach_contender",
@@ -30877,7 +30882,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6476
+      "UsersEstimate": 6477
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30901,7 +30906,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6476
+      "UsersEstimate": 6477
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30949,7 +30954,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ach_knock_down",
@@ -31003,9 +31008,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3598
+      "UsersEstimate": 4318
     },
     {
       "ID": "ach_salvation",
@@ -31037,7 +31042,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6476
+      "UsersEstimate": 6477
     },
     {
       "ID": "ach_survival_expert",
@@ -31061,7 +31066,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ach_thesacrifice",
@@ -31101,7 +31106,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ach_well_trained",
@@ -31157,20 +31162,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719601,
+      "Progressed": 719626,
       "Completed": 2401
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45143,
+      "Progressed": 45168,
       "Completed": 36550
     }
   ],
@@ -31178,8 +31183,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-17T14:58:56.0204031+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:05:38.3319811+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:07:08.1715564+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:58:56.0204036+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:05:38.3321693+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:59:54.164691+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:07:08.1716826+00:00"
 }

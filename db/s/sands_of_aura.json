@@ -395,9 +395,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -868,8 +868,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:07:45.9430423+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:08:27.380863+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.5635294+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:57:22.4344256+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:07:45.9430791+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:57:35.9641724+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:08:27.3809002+00:00"
 }

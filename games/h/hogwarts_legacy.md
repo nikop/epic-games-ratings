@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 128)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,357 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,358 |
 | First Class Student | 14.00% | ~42,313 |
 | Troll with the Punches | 14.00% | ~42,313 |
-| A Keen Sense of Spell | 13.00% | ~39,290 |
-| That's a Keeper | 13.00% | ~39,290 |
+| A Keen Sense of Spell | 13.00% | ~39,291 |
+| That's a Keeper | 13.00% | ~39,291 |
 | A Talent for Spending | 12.00% | ~36,268 |
 | Grappling with a Graphorn | 11.00% | ~33,246 |
 | The One Who Mastered Memories | 11.00% | ~33,246 |
@@ -18,9 +18,9 @@ Rating: 4.76 (Ranked 128)
 | Challenge Accepted | 11.00% | ~33,246 |
 | Loom for Improvement | 11.00% | ~33,246 |
 | Coasting Along | 11.00% | ~33,246 |
-| The Hero of Hogwarts | 10.00% | ~30,223 |
-| Followed the Butterflies | 10.00% | ~30,223 |
-| Rising From the Ashes | 10.00% | ~30,223 |
+| The Hero of Hogwarts | 10.00% | ~30,224 |
+| Followed the Butterflies | 10.00% | ~30,224 |
+| Rising From the Ashes | 10.00% | ~30,224 |
 | The Spell Master | 9.00% | ~27,201 |
 | The Avenging Gazelle | 8.00% | ~24,179 |
 | Beast Friends | 8.00% | ~24,179 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,116 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,234 (Ranked 51)  
+Progressed: 302,236 (Ranked 51)  
 Completed: 512 (0.17%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 512 (0.17%) (Ranked 259)
 | 2023-11-14 | 302,089 | 511 |
 | 2023-11-15 | 302,152 | 512 |
 | 2023-11-16 | 302,204 | 512 |
-| 2023-11-17 | 302,234 | 512 |
+| 2023-11-17 | 302,236 | 512 |
 ## Awards
 Max (Character Customization): 24,370  (Ranked 17)  
-Sum: 48,373 (Ranked 30)  
+Sum: 48,378 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -275,10 +275,10 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 1,262 |
 | This game has Diverse Characters | 1,255 |
 | This game is Extremely Fun | 1,238 |
-| This game is Relaxing | 1,230 |
+| This game is Relaxing | 1,232 |
 | This game has Amazing Characters | 1,212 |
 | This game is Highly Recommended | 1,177 |
-| This game has Quickly Understood Controls | 1,116 |
+| This game has Quickly Understood Controls | 1,119 |
 | This game has Beautiful Visuals | 1,035 |
 | This game has a Creative Community | 788 |
 ## Ratings History
@@ -522,4 +522,4 @@ Diff (max vs sum): -13
 | 2023-11-14 | 4.76 | 24,282 | 48,150 |
 | 2023-11-15 | 4.76 | 24,313 | 48,235 |
 | 2023-11-16 | 4.76 | 24,339 | 48,302 |
-| 2023-11-17 | 4.76 | 24,370 | 48,373 |
+| 2023-11-17 | 4.76 | 24,370 | 48,378 |

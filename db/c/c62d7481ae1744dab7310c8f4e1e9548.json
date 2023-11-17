@@ -618,9 +618,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KrabiPyramida",
@@ -730,9 +730,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Stonozka",
@@ -754,9 +754,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Truhlice",
@@ -786,9 +786,9 @@
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -801,8 +801,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:03:04.9669616+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:03:35.9601804+00:00",
   "LastUpdate_AppInfo": "2023-11-11T02:44:31.1099938+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:57:29.270481+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:03:04.9669832+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:57:46.173266+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:03:35.9602024+00:00"
 }

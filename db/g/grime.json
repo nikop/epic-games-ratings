@@ -1495,9 +1495,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 158691,
+  "EOS_Progressed": 158702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16015,6 +16015,11 @@
       "Time": "2023-11-17T15:05:44.1006923+00:00",
       "NumProgressed": 158691,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T16:07:15.9089458+00:00",
+      "NumProgressed": 158702,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16082,7 +16087,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -16306,7 +16311,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -16393,21 +16398,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158274,
+      "Progressed": 158285,
       "Completed": 1205
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158691,
+      "Progressed": 158702,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T03:57:42.0740057+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:05:44.1006919+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:07:15.9089455+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:58:00.5816095+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:05:44.1008363+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:58:32.7396249+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:07:15.9090466+00:00"
 }

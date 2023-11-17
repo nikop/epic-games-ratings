@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,011 |
-| Titan's First Steps | 5.00% | ~7,011 |
+| Sponsored by Argon | 5.00% | ~7,012 |
+| Titan's First Steps | 5.00% | ~7,012 |
 | Basic in Bulk | 4.00% | ~5,609 |
 | Tinkle of Coins | 4.00% | ~5,609 |
 | Disintermediation | 3.00% | ~4,207 |
@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 1.00% | ~1,402 |
 | Vanity, Verily | 1.00% | ~1,402 |
 | Fated Encounters | 1.00% | ~1,402 |
+| For the Hoard! | 1.00% | ~1,402 |
 | Blank Page Syndrome | 1.00% | ~1,402 |
 | Power of Love | 1.00% | ~1,402 |
 | Efficient Floor Space | 1.00% | ~1,402 |
@@ -50,7 +51,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Notch Above the Rest | 0.90% | ~1,262 |
 | The King's Caprice | 0.90% | ~1,262 |
 | Big Game Hunting | 0.90% | ~1,262 |
-| For the Hoard! | 0.90% | ~1,262 |
 | Scrapbooker | 0.90% | ~1,262 |
 | Locally Sourced | 0.90% | ~1,262 |
 | Flying off the Shelves | 0.90% | ~1,262 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,226 (Ranked 79)  
+Progressed: 140,237 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 266)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,226 | 187 |
+| 2023-11-17 | 140,237 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,561 (Ranked 50)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -465,7 +465,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3216,
+  "EOS_Progressed": 3217,
   "EOS_Completed": 134,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
@@ -4750,6 +4750,11 @@
       "Time": "2023-11-17T13:12:54.084728+00:00",
       "NumProgressed": 3216,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-11-17T16:07:41.1382465+00:00",
+      "NumProgressed": 3217,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 14,
@@ -4809,7 +4814,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -4865,14 +4870,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3216,
+      "Progressed": 3217,
       "Completed": 134
     }
   ],
@@ -4880,8 +4885,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-04T12:59:35.7337599+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:06:01.7999316+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:07:41.1382461+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.7484236+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:59:50.9951121+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:06:01.7999602+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:01:16.5068072+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:07:41.1382801+00:00"
 }

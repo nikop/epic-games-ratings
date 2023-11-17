@@ -16,8 +16,8 @@
 | The Old Man and the Café | 40.00% | ~31 |
 | South Town Energy | 33.00% | ~26 |
 | Photogenic | 31.00% | ~24 |
+| North Town Energy | 29.00% | ~23 |
 | The Girl and the Homework | 29.00% | ~23 |
-| North Town Energy | 28.00% | ~22 |
 | OK, I heard you!! | 28.00% | ~22 |
 | Lightbulb Detective | 27.00% | ~21 |
 | Unlimited Power!! | 24.00% | ~19 |

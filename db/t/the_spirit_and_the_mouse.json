@@ -241,9 +241,9 @@
       "ID": "neighenergy.north",
       "SetID": "bbgli2k",
       "Name": "North Town Energy",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "neighenergy.south",
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:05:12.6311769+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:06:32.2064315+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.3505484+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:59:03.7366209+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:05:12.6312001+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:00:05.3678794+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:06:32.2064547+00:00"
 }

@@ -4,47 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~245 |
-| Thalya – Simply Immortal | 86.00% | ~245 |
-| For the Horde! | 81.00% | ~231 |
-| Hammer Time, Round Two | 80.00% | ~228 |
-| The Hellwoods | 75.00% | ~214 |
-| The Plains of Strothalm | 68.00% | ~194 |
-| Experienced Thalya | 68.00% | ~194 |
-| Thalya's Concentrated Fury | 67.00% | ~191 |
-| Bad Elves Go Everywhere | 63.00% | ~180 |
-| Master of Magic | 62.00% | ~177 |
-| Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
-| Magic Accidents | 56.00% | ~160 |
-| Heroes’ Gorge | 55.00% | ~157 |
-| Minions, Minions! | 54.00% | ~154 |
-| Trap Master | 52.00% | ~148 |
-| The Ascent | 42.00% | ~120 |
-| It's Warm and Cozy at Home | 42.00% | ~120 |
-| YOU SHALL NOT PASS! | 41.00% | ~117 |
-| Hard Work | 38.00% | ~108 |
-| The Big Eaty | 38.00% | ~108 |
+| The Last Stand | 86.00% | ~247 |
+| Thalya – Simply Immortal | 86.00% | ~247 |
+| For the Horde! | 80.00% | ~230 |
+| Hammer Time, Round Two | 79.00% | ~227 |
+| The Hellwoods | 74.00% | ~212 |
+| The Plains of Strothalm | 68.00% | ~195 |
+| Thalya's Concentrated Fury | 67.00% | ~192 |
+| Experienced Thalya | 67.00% | ~192 |
+| Master of Magic | 62.00% | ~178 |
+| Bad Elves Go Everywhere | 62.00% | ~178 |
+| Unicorn steaks – fresh off the hoof! | 57.00% | ~164 |
+| Magic Accidents | 56.00% | ~161 |
+| Heroes’ Gorge | 55.00% | ~158 |
+| Minions, Minions! | 54.00% | ~155 |
+| Trap Master | 51.00% | ~146 |
+| The Ascent | 43.00% | ~123 |
+| It's Warm and Cozy at Home | 43.00% | ~123 |
+| YOU SHALL NOT PASS! | 40.00% | ~115 |
+| Hard Work | 38.00% | ~109 |
+| The Big Eaty | 38.00% | ~109 |
 | Pure Dynamite! | 36.00% | ~103 |
-| Mana Cannon | 32.00% | ~91 |
-| “… like son” | 31.00% | ~88 |
-| Dungeonlord Gorgu | 25.00% | ~71 |
-| The Cathedral of Light | 24.00% | ~68 |
-| Shame! Shame! Shame! | 24.00% | ~68 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
-| Tanos' Crusade Against Thalya | 19.00% | ~54 |
-| Hungry, Hungry Gorgu! | 18.00% | ~51 |
-| Unstoppable Horde | 17.00% | ~48 |
+| Mana Cannon | 31.00% | ~89 |
+| “… like son” | 30.00% | ~86 |
+| Dungeonlord Gorgu | 25.00% | ~72 |
+| Shame! Shame! Shame! | 24.00% | ~69 |
+| The Cathedral of Light | 23.00% | ~66 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~60 |
+| Tanos' Crusade Against Thalya | 20.00% | ~57 |
+| Hungry, Hungry Gorgu! | 17.00% | ~49 |
+| Unstoppable Horde | 17.00% | ~49 |
 | Master of the Undead | 16.00% | ~46 |
 | All’s Well That Ends Evil | 16.00% | ~46 |
 | Forbidden Knowledge | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~37 |
+| Ghost Pirates? Ghost Heroes! | 13.00% | ~37 |
 | The Duel | 13.00% | ~37 |
-| Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
 | Stop Tanos! | 12.00% | ~34 |
-| If Looks Could Kill | 11.00% | ~31 |
+| If Looks Could Kill | 10.00% | ~29 |
 | The Finitude Drill | 9.00% | ~26 |
+| Bonus Evilness | 8.00% | ~23 |
 | My Little Torture Chamber | 7.00% | ~20 |
-| Bonus Evilness | 7.00% | ~20 |
 | Sabotage! | 7.00% | ~20 |
 | Doom Hill | 7.00% | ~20 |
 | Raiders of the Lost Stone | 6.00% | ~17 |
@@ -54,19 +54,19 @@
 | Gorgu is in the Best of Health | 4.00% | ~11 |
 | Laser Eyes Are So Useless | 4.00% | ~11 |
 | Untouchable | 4.00% | ~11 |
-| Lavalumps on Ice! | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |
 | To Infinity And Beyond! | 4.00% | ~11 |
 | The Rune Sockets of Finitude (Part 2) | 4.00% | ~11 |
-| The Last Stand - This Time For Real! | 4.00% | ~11 |
+| Lavalumps on Ice! | 3.00% | ~9 |
 | To the Max! | 3.00% | ~9 |
+| The Last Stand - This Time For Real! | 3.00% | ~9 |
 | Evilification | 3.00% | ~9 |
 | Heal Heal Blessing | 2.00% | ~6 |
 | Hands Off My Stones | 2.00% | ~6 |
 | No Mana, No Cry | 1.00% | ~3 |
 | I Don't Need Any Help | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 351)  
+Progressed: 287 (Ranked 351)  
 Completed: 1 (0.35%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 1 (0.35%) (Ranked 222)
 | 2023-11-14 | 264 | 1 |
 | 2023-11-15 | 272 | 1 |
 | 2023-11-16 | 284 | 1 |
-| 2023-11-17 | 285 | 1 |
+| 2023-11-17 | 287 | 1 |

@@ -276,9 +276,9 @@
       "ID": "Chapter15_TheComeback",
       "SetID": "c8fdd59",
       "Name": "The Comeback",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter16_ToEndItAll",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:09:06.0228507+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:10:17.9776432+00:00",
   "LastUpdate_AppInfo": "2023-11-13T13:57:11.9101247+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:58:13.1295275+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:09:06.0228814+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:58:50.5547863+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:10:17.977671+00:00"
 }

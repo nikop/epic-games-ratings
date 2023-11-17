@@ -1433,9 +1433,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "ach_profit_1",
@@ -1682,8 +1682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:05:00.8330942+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:06:15.7370297+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.1750209+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:02:41.2614769+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:05:00.8331673+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:02:59.1109033+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:06:15.7371186+00:00"
 }

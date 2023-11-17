@@ -22,12 +22,12 @@ Rating: 4.56 (Ranked 488)
 | They Can’t Stop All of Us | 5.00% | ~686 |
 | Rescue a Kitten Too? | 5.00% | ~686 |
 | What are the Odds | 4.00% | ~548 |
+| I’ll Have Two Number 9s | 3.00% | ~411 |
 | Bike or Biker | 3.00% | ~411 |
 | What the City Needs | 3.00% | ~411 |
 | Yes I Speak English | 3.00% | ~411 |
 | Public Enemy No. 1 | 3.00% | ~411 |
 | A Legitimate Business | 2.00% | ~274 |
-| I’ll Have Two Number 9s | 2.00% | ~274 |
 | Who Needs Directions? | 2.00% | ~274 |
 | Swiss Army Strife | 2.00% | ~274 |
 | Double or Nothin' | 2.00% | ~274 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,712 (Ranked 151)  
+Progressed: 13,712 (Ranked 152)  
 Completed: 53 (0.39%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

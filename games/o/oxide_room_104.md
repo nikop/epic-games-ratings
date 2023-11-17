@@ -25,7 +25,7 @@
 | Good choice | 12.00% | ~29 |
 | Take the long way round | 12.00% | ~29 |
 | He who seeks, finds! | 12.00% | ~29 |
-| Nightmare in the kitchen | 10.00% | ~24 |
+| Nightmare in the kitchen | 11.00% | ~27 |
 | Born again | 7.00% | ~17 |
 | 373 | 6.00% | ~15 |
 | The experiment | 6.00% | ~15 |

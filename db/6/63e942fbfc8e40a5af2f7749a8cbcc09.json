@@ -208,17 +208,17 @@
       "ID": "ClearD02",
       "SetID": "94lmepd",
       "Name": "The High Priestess",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearD02END",
       "SetID": "94lmepd",
       "Name": "The Star",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearE01",
@@ -280,9 +280,9 @@
       "ID": "ClearH01",
       "SetID": "94lmepd",
       "Name": "The Hierophant",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearI01",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:07:50.7829428+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:08:34.0760877+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:02.6724466+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:57:55.6768569+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:07:50.7829652+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:58:25.35278+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:08:34.0761085+00:00"
 }

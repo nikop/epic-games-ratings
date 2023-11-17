@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-11-08T08:07:23.567232+00:00",
@@ -758,6 +758,11 @@
       "Time": "2023-11-17T09:05:17.1141781+00:00",
       "NumProgressed": 363,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T16:07:03.762681+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -778,7 +783,7 @@
       "Name": "Ab Initio",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "AnthropicHills",
@@ -792,9 +797,9 @@
       "ID": "Archaeologist",
       "SetID": "1n308hc",
       "Name": "Archaeologist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "Balance",
@@ -810,7 +815,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "BreakTheLoop",
@@ -824,9 +829,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 234
     },
     {
       "ID": "ChasingTheLight",
@@ -834,7 +839,7 @@
       "Name": "Chasing the Light",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Chicken",
@@ -850,7 +855,7 @@
       "Name": "Circular Oasis",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DesolateIsland",
@@ -866,7 +871,7 @@
       "Name": "Discovery",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EasternWetlands",
@@ -914,7 +919,7 @@
       "Name": "Good Citizen",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "GrasslandsRing",
@@ -938,7 +943,7 @@
       "Name": "Into the Machine",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "JustOneLap",
@@ -946,15 +951,15 @@
       "Name": "Just One Lap",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     },
     {
       "ID": "LostMarshes",
@@ -970,7 +975,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Mnemosyne",
@@ -986,7 +991,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "MuseumVisitor",
@@ -1026,7 +1031,7 @@
       "Name": "Overload",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Persistent",
@@ -1034,7 +1039,7 @@
       "Name": "Persistent",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "PrometheusUnbound",
@@ -1058,7 +1063,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "RenaissanceRobot",
@@ -1106,7 +1111,7 @@
       "Name": "Southern Coast",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TeamSpirit",
@@ -1114,7 +1119,7 @@
       "Name": "Team Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "TextAdventurer",
@@ -1130,7 +1135,7 @@
       "Name": "The All-Gifted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1160,9 +1165,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 142
     },
     {
       "ID": "TheThiefOfFire",
@@ -1170,7 +1175,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "TheWordEndures",
@@ -1178,7 +1183,7 @@
       "Name": "The Word Endures",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "TouchGrass",
@@ -1186,7 +1191,7 @@
       "Name": "Touch Grass",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TrevorsBiographer",
@@ -1241,7 +1246,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 365,
       "Completed": 1
     }
   ],
@@ -1249,8 +1254,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:05:35.0314689+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:07:03.7626806+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:59:56.845376+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:05:35.0315072+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:01:25.0503785+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:07:03.7627203+00:00"
 }

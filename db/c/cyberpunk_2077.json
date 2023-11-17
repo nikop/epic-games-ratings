@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15222,10 +15222,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 355070,
       "NumberOfAwardsMax": 105726
+    },
+    {
+      "Time": "2023-11-17T15:58:43.9163384+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 355133,
+      "NumberOfAwardsMax": 105726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 355070,
+  "NumberOfAwards": 355133,
   "NumberOfAwardsMax": 105726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15293,7 +15299,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 19755
+      "Count": 19818
     },
     {
       "Text": "This game has a Creative Community",
@@ -15302,9 +15308,9 @@
       "Count": 13097
     }
   ],
-  "EOS_Progressed": 897015,
+  "EOS_Progressed": 897025,
   "EOS_Completed": 2783,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39227,6 +39233,11 @@
       "Time": "2023-11-17T15:03:02.0946643+00:00",
       "NumProgressed": 897015,
       "NumCompleted": 2783
+    },
+    {
+      "Time": "2023-11-17T16:03:32.2793526+00:00",
+      "NumProgressed": 897025,
+      "NumCompleted": 2783
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39567,7 +39578,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26910
+      "UsersEstimate": 26911
     },
     {
       "ID": "YipMan",
@@ -39695,7 +39706,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "HydraIsDead",
@@ -39711,7 +39722,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "KingOfTheCups",
@@ -39774,21 +39785,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897015,
+      "Progressed": 897025,
       "Completed": 2783
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25638,
+      "Progressed": 25648,
       "Completed": 10230
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-17T13:04:46.7755727+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:03:02.094664+00:00",
+  "LastChanged": "2023-11-17T15:58:43.9163382+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:03:32.2793522+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:58:08.2635521+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:03:02.0948103+00:00"
+  "LastUpdate_Ratings": "2023-11-17T15:58:43.9163389+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:03:32.2794889+00:00"
 }

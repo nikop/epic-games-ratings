@@ -5,50 +5,49 @@ Rating: 4.12 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,232 |
-| World Map | 79.00% | ~1,896 |
-| Temple of Eternals | 57.00% | ~1,368 |
-| Prestigious | 54.00% | ~1,296 |
-| Fellowship Power | 42.00% | ~1,008 |
-| Guild Power | 25.00% | ~600 |
-| Prestigious x10 | 22.00% | ~528 |
-| The game is on | 20.00% | ~480 |
-| Exotic Merchant | 18.00% | ~432 |
-| Dragon Clicker | 17.00% | ~408 |
-| Full Party | 16.00% | ~384 |
-| Inspection | 16.00% | ~384 |
-| Miner Clicker | 16.00% | ~384 |
-| Enlightenment | 15.00% | ~360 |
-| Hero inspection | 15.00% | ~360 |
-| Dragon Master | 14.00% | ~336 |
-| Lieutenant | 14.00% | ~336 |
-| Mysterious Rock | 13.00% | ~312 |
-| Natural Talent | 13.00% | ~312 |
-| Superior | 13.00% | ~312 |
-| The Unstoppable | 13.00% | ~312 |
-| Milestone collector | 12.00% | ~288 |
-| Scientist | 12.00% | ~288 |
-| Hunter | 11.00% | ~264 |
-| The power of Awakening | 11.00% | ~264 |
-| Challenger | 10.00% | ~240 |
-| Daily Quest Completionist | 10.00% | ~240 |
-| Doing My Part | 10.00% | ~240 |
-| Four Leaf Clover | 10.00% | ~240 |
-| Frostfire Liberator | 10.00% | ~240 |
-| Mastery | 10.00% | ~240 |
-| Moving Up The Ladder | 10.00% | ~240 |
-| Relic Of The Past | 10.00% | ~240 |
-| Scroll Master | 10.00% | ~240 |
-| Master Enchanter | 9.00% | ~216 |
-| The father of Dragons | 9.00% | ~216 |
-| Trader | 9.00% | ~216 |
-| Crystal Mining | 8.00% | ~192 |
-| Dragon Slayer | 8.00% | ~192 |
-| Here We Go Again | 8.00% | ~192 |
+| Victor | 93.00% | ~2,239 |
+| World Map | 78.00% | ~1,877 |
+| Temple of Eternals | 57.00% | ~1,372 |
+| Prestigious | 54.00% | ~1,300 |
+| Fellowship Power | 42.00% | ~1,011 |
+| Guild Power | 25.00% | ~602 |
+| Prestigious x10 | 22.00% | ~530 |
+| The game is on | 20.00% | ~481 |
+| Exotic Merchant | 18.00% | ~433 |
+| Dragon Clicker | 17.00% | ~409 |
+| Full Party | 16.00% | ~385 |
+| Inspection | 16.00% | ~385 |
+| Miner Clicker | 16.00% | ~385 |
+| Enlightenment | 15.00% | ~361 |
+| Hero inspection | 15.00% | ~361 |
+| Dragon Master | 14.00% | ~337 |
+| Lieutenant | 14.00% | ~337 |
+| Mysterious Rock | 13.00% | ~313 |
+| Natural Talent | 13.00% | ~313 |
+| Superior | 13.00% | ~313 |
+| The Unstoppable | 13.00% | ~313 |
+| Milestone collector | 12.00% | ~289 |
+| Scientist | 11.00% | ~265 |
+| The power of Awakening | 11.00% | ~265 |
+| Challenger | 10.00% | ~241 |
+| Daily Quest Completionist | 10.00% | ~241 |
+| Doing My Part | 10.00% | ~241 |
+| Four Leaf Clover | 10.00% | ~241 |
+| Frostfire Liberator | 10.00% | ~241 |
+| Hunter | 10.00% | ~241 |
+| Mastery | 10.00% | ~241 |
+| Moving Up The Ladder | 10.00% | ~241 |
+| Relic Of The Past | 10.00% | ~241 |
+| Scroll Master | 10.00% | ~241 |
+| Master Enchanter | 9.00% | ~217 |
+| The father of Dragons | 9.00% | ~217 |
+| Crystal Mining | 8.00% | ~193 |
+| Dragon Slayer | 8.00% | ~193 |
+| Here We Go Again | 8.00% | ~193 |
+| Trader | 8.00% | ~193 |
 | Blueprint Upgrades | 7.00% | ~168 |
 | Enchanting skill | 7.00% | ~168 |
 | Engineer Mastery | 7.00% | ~168 |
-| Lock And Load | 7.00% | ~168 |
 | Sailor | 7.00% | ~168 |
 | The Expeditioner | 7.00% | ~168 |
 | Weekly Quest Completionist | 7.00% | ~168 |
@@ -56,6 +55,7 @@ Rating: 4.12 (Ranked 958)
 | Ancient Knowledge | 6.00% | ~144 |
 | How Do You Turn This On? | 6.00% | ~144 |
 | Legendary | 6.00% | ~144 |
+| Lock And Load | 6.00% | ~144 |
 | Missions Dedication | 6.00% | ~144 |
 | The Alchemist | 6.00% | ~144 |
 | Arena Challenger | 5.00% | ~120 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 958)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 216)  
+Progressed: 2,407 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2 (0.08%) (Ranked 290)
 | 2023-11-14 | 2,320 | 2 |
 | 2023-11-15 | 2,348 | 2 |
 | 2023-11-16 | 2,376 | 2 |
-| 2023-11-17 | 2,400 | 2 |
+| 2023-11-17 | 2,407 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

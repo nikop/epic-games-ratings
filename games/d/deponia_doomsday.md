@@ -14,12 +14,12 @@ Rating: 4.55 (Ranked 503)
 | Chunky | 50.00% | ~236 |
 | Boat of love, boat of love | 49.00% | ~231 |
 | Shall we play a game? | 48.00% | ~227 |
-| School's out | 43.00% | ~203 |
+| School's out | 44.00% | ~208 |
 | Scaffolding Expert | 37.00% | ~175 |
 | Elysian Minigame-Master | 37.00% | ~175 |
 | Sole Music | 36.00% | ~170 |
+| No man left behind! | 30.00% | ~142 |
 | Portals come in packs | 30.00% | ~142 |
-| No man left behind! | 29.00% | ~137 |
 | Photo Friend | 26.00% | ~123 |
 | Brainfreeze | 21.00% | ~99 |
 | And everything comes full circle. | 20.00% | ~94 |

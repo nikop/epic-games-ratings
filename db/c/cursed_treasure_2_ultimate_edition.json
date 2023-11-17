@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
       "SetID": "ak6pfjk",
       "Name": "It\u0027s a Trap",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "BADGE_ENEMIES_WITH_GEM_KILL",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-17T15:03:18.2100977+00:00",
+  "LastChanged_Achievements": "2023-11-17T16:03:54.1949432+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:45.1148952+00:00",
-  "LastUpdate_Ratings": "2023-11-17T14:59:10.1094276+00:00",
-  "LastUpdate_Achievements": "2023-11-17T15:03:18.2101306+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:00:15.2707986+00:00",
+  "LastUpdate_Achievements": "2023-11-17T16:03:54.194972+00:00"
 }

@@ -11,11 +11,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.40% | ~959 |
 | Nothing To Lose | 0.30% | ~719 |
 | Heavy Hitter | 0.30% | ~719 |
+| Delving Deeper | 0.30% | ~719 |
 | Getting A Glimpse | 0.30% | ~719 |
 | That Was Quick | 0.30% | ~719 |
 | Colorful Corpse | 0.30% | ~719 |
 | Defeat The Dark | 0.30% | ~719 |
 | Goodbye, Frog Friend | 0.30% | ~719 |
+| What's Yours Is Mine | 0.30% | ~719 |
 | A Donation | 0.30% | ~719 |
 | C-C-Combo | 0.30% | ~719 |
 | Deflection | 0.30% | ~719 |
@@ -28,7 +30,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ambitious Intent | 0.20% | ~480 |
 | Consecutive Curses | 0.20% | ~480 |
 | Shadow Spreads | 0.20% | ~480 |
-| Delving Deeper | 0.20% | ~480 |
 | R.I.P | 0.20% | ~480 |
 | To The Death! | 0.20% | ~480 |
 | Dig Your Own Grave | 0.20% | ~480 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
 | Heartless | 0.20% | ~480 |
-| What's Yours Is Mine | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
 | Spine Breaker | 0.20% | ~480 |
 | Shootout | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,808 (Ranked 61)  
+Progressed: 239,812 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 288 (0.12%) (Ranked 273)
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
-| 2023-11-17 | 239,808 | 288 |
+| 2023-11-17 | 239,812 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,679 (Ranked 83)  
