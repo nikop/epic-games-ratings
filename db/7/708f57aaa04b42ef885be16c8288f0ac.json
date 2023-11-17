@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5422,
+  "EOS_Progressed": 5426,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3495,6 +3495,11 @@
       "Time": "2023-11-17T09:08:55.5603161+00:00",
       "NumProgressed": 5422,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T10:09:01.7207458+00:00",
+      "NumProgressed": 5426,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3515,7 +3520,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "BeLikeWater",
@@ -3587,7 +3592,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "GarbageMan",
@@ -3601,9 +3606,9 @@
       "ID": "Godrunner",
       "SetID": "acc6ea0",
       "Name": "Godrunner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "HalfManHalfMachine",
@@ -3651,7 +3656,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "NoMoreTotems",
@@ -3659,7 +3664,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3691,7 +3696,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TheOldSchoolWay",
@@ -3707,7 +3712,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ThisIsDharma",
@@ -3778,7 +3783,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5422,
+      "Progressed": 5426,
       "Completed": 7
     }
   ],
@@ -3786,8 +3791,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:08:55.5603158+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:09:01.7207453+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:59:48.525558+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:08:55.5603703+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:00:12.0768449+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:09:01.7207823+00:00"
 }

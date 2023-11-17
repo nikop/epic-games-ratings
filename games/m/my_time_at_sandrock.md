@@ -6,55 +6,55 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 255.00% | ~875 |
-| Iron Chef | 184.00% | ~631 |
-| Greeno-B-Gone | 124.00% | ~425 |
-| Your Especially Earned Trajectory | 96.00% | ~329 |
-| No Mountain Wide Enough | 70.00% | ~240 |
+| Adept Assembler | 254.00% | ~874 |
+| Iron Chef | 184.00% | ~633 |
+| Greeno-B-Gone | 123.00% | ~423 |
+| Your Especially Earned Trajectory | 96.00% | ~330 |
+| No Mountain Wide Enough | 69.00% | ~237 |
 | Can We Keep It? | 67.00% | ~230 |
-| On that Grindset | 65.00% | ~223 |
-| Yakmel Whisperer | 65.00% | ~223 |
+| On that Grindset | 65.00% | ~224 |
+| Yakmel Whisperer | 65.00% | ~224 |
 | One of the Cool Kids | 64.00% | ~220 |
-| Diamonds are Forever | 61.00% | ~209 |
-| Pack Mule | 58.00% | ~199 |
-| Unboxing | 58.00% | ~199 |
+| Diamonds are Forever | 61.00% | ~210 |
+| Pack Mule | 58.00% | ~200 |
+| Unboxing | 58.00% | ~200 |
 | Big Game Hunter | 53.00% | ~182 |
 | Financially Secure | 51.00% | ~175 |
 | Chatterbox | 51.00% | ~175 |
-| Got Served | 50.00% | ~172 |
-| First Love | 49.00% | ~168 |
+| Got Served | 49.00% | ~169 |
+| First Love | 49.00% | ~169 |
 | Happier-est Place on Earth | 46.00% | ~158 |
 | I Do! | 46.00% | ~158 |
 | You Don't Win Friends With Salad | 46.00% | ~158 |
 | Call Me Fishmael | 46.00% | ~158 |
-| What Plants Crave | 43.00% | ~147 |
-| Anti-Santa | 43.00% | ~147 |
-| Mole Masher | 43.00% | ~147 |
+| What Plants Crave | 44.00% | ~151 |
+| Anti-Santa | 43.00% | ~148 |
+| Mole Masher | 43.00% | ~148 |
 | Builder of the Month | 41.00% | ~141 |
-| Panda-kin | 40.00% | ~137 |
-| My Time Mansion | 40.00% | ~137 |
-| Finishing Touches | 40.00% | ~137 |
+| Panda-kin | 40.00% | ~138 |
+| My Time Mansion | 40.00% | ~138 |
+| Finishing Touches | 40.00% | ~138 |
 | Commissions, commissions...! | 39.00% | ~134 |
 | Bridging the Gap | 39.00% | ~134 |
 | Better Late than Never | 39.00% | ~134 |
-| Knowledge is Power | 38.00% | ~130 |
+| Knowledge is Power | 38.00% | ~131 |
 | Martle's Dream | 35.00% | ~120 |
 | Who Ya Gonna Call...? | 35.00% | ~120 |
 | Waste Not Want Not | 35.00% | ~120 |
 | Officially Official | 34.00% | ~117 |
-| Got the Flow Back | 33.00% | ~113 |
+| Got the Flow Back | 33.00% | ~114 |
 | Jewel of the Eufaula | 32.00% | ~110 |
 | Elementary, My Dear | 32.00% | ~110 |
-| He Can Spin A Yarn... | 29.00% | ~99 |
-| Lifeline Pipeline | 29.00% | ~99 |
+| He Can Spin A Yarn... | 29.00% | ~100 |
+| Lifeline Pipeline | 29.00% | ~100 |
 | Sepia Toned Memories | 27.00% | ~93 |
 | Newton | 25.00% | ~86 |
-| Do Your Part | 24.00% | ~82 |
-| Time Flies | 23.00% | ~79 |
+| Time Flies | 24.00% | ~83 |
+| Do Your Part | 24.00% | ~83 |
 | Kind of a Big Deal | 23.00% | ~79 |
 | Just What I Always Wanted! | 23.00% | ~79 |
-| Santa In Training | 22.00% | ~75 |
-| Sandrunning Speedster | 22.00% | ~75 |
+| Santa In Training | 22.00% | ~76 |
+| Sandrunning Speedster | 22.00% | ~76 |
 | It Belongs in a Museum! | 21.00% | ~72 |
 | Cardistry | 19.00% | ~65 |
 | Pro Gamer | 19.00% | ~65 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 328)  
+Progressed: 344 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-14 | 331 | 0 |
 | 2023-11-15 | 342 | 0 |
 | 2023-11-16 | 344 | 0 |
-| 2023-11-17 | 343 | 0 |
+| 2023-11-17 | 344 | 0 |
 ## Awards
 Max (Character Customization): 591  (Ranked 194)  
 Sum: 1,356 (Ranked 238)  

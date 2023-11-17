@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Leap Before You Look | 70.00% | ~773 |
 | Getting the Hang of It | 42.00% | ~464 |
-| Hoarder | 32.00% | ~353 |
+| Hoarder | 33.00% | ~364 |
 | Blobmeister | 27.00% | ~298 |
 | Exhaustive Explorer | 27.00% | ~298 |
 | Pest Control | 26.00% | ~287 |
 | How Low Can We Go? | 24.00% | ~265 |
 | Team Builder | 20.00% | ~221 |
+| Long Live Rock | 16.00% | ~177 |
 | Aggressive Antivirus | 15.00% | ~166 |
-| Long Live Rock | 15.00% | ~166 |
 | Effective Efficiency | 14.00% | ~155 |
 | Unblurred Lines | 12.00% | ~132 |
 | Obsessively Thorough | 12.00% | ~132 |

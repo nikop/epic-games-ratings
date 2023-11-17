@@ -5,9 +5,9 @@
   "Ranking_Rating": 540,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 93,
+  "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3151,9 +3151,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82908,
+  "EOS_Progressed": 82909,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26631,6 +26631,11 @@
       "Time": "2023-11-17T09:05:08.1856683+00:00",
       "NumProgressed": 82908,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-11-17T10:05:33.3625442+00:00",
+      "NumProgressed": 82909,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 30,
@@ -26674,7 +26679,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -26730,7 +26735,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23214
+      "UsersEstimate": 23215
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -26826,7 +26831,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -26881,15 +26886,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82908,
+      "Progressed": 82909,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-16T14:59:27.0951795+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:05:08.1856681+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:05:33.3625438+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:59:29.2923832+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:05:08.1857799+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:52.5351266+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:05:33.3627052+00:00"
 }

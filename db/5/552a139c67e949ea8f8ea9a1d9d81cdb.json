@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -2563,9 +2563,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 573
     }
   ],
   "AchievementSets": [
@@ -2584,8 +2584,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:05:14.2618914+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:05:39.409155+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:57:30.9326873+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:05:14.2619294+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:57:50.8781208+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:05:39.4091937+00:00"
 }

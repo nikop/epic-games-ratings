@@ -2,13 +2,13 @@
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
   "ProductSlug": "thecycle",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
     "PcReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -7112,6 +7112,6 @@
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
   "LastChanged": "2023-10-07T23:58:38.3129285+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:28.3902392+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:58:56.0917044+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:03:32.8354147+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:18.68028+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:03:56.6782881+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4268,17 +4268,17 @@
       "ID": "catacombs_raid_2",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 2",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "catacombs_raid_3",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 3",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "collector_1",
@@ -4524,25 +4524,25 @@
       "ID": "nimble_thief_1",
       "SetID": "53c1p3k",
       "Name": "Nimble Thief 1",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "nimble_thief_2",
       "SetID": "53c1p3k",
       "Name": "Nimble Thief 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "nimble_thief_3",
       "SetID": "53c1p3k",
       "Name": "Nimble Thief 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "obsessed_carver_1",
@@ -4723,8 +4723,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:09:21.226843+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:09:26.4828387+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:58:54.1325365+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:09:21.2269086+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:16.7369947+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:09:26.4829055+00:00"
 }

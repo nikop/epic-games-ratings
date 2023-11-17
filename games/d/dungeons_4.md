@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 86.00% | ~245 |
 | For the Horde! | 81.00% | ~231 |
 | Hammer Time, Round Two | 80.00% | ~228 |
-| The Hellwoods | 73.00% | ~208 |
+| The Hellwoods | 75.00% | ~214 |
 | The Plains of Strothalm | 68.00% | ~194 |
 | Thalya's Concentrated Fury | 67.00% | ~191 |
 | Experienced Thalya | 67.00% | ~191 |
@@ -28,8 +28,8 @@
 | Mana Cannon | 30.00% | ~86 |
 | “… like son” | 30.00% | ~86 |
 | Dungeonlord Gorgu | 25.00% | ~71 |
+| The Cathedral of Light | 23.00% | ~66 |
 | Shame! Shame! Shame! | 23.00% | ~66 |
-| The Cathedral of Light | 22.00% | ~63 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 20.00% | ~57 |
 | Tanos' Crusade Against Thalya | 19.00% | ~54 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
@@ -41,7 +41,7 @@
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |
 | Stop Tanos! | 12.00% | ~34 |
 | The Duel | 12.00% | ~34 |
-| If Looks Could Kill | 10.00% | ~28 |
+| If Looks Could Kill | 11.00% | ~31 |
 | The Finitude Drill | 8.00% | ~23 |
 | My Little Torture Chamber | 7.00% | ~20 |
 | Bonus Evilness | 7.00% | ~20 |
@@ -51,12 +51,12 @@
 | Mirror, Mirror | 5.00% | ~14 |
 | Raiders of the Lost Stone | 5.00% | ~14 |
 | The Rune Sockets of Finitude (Part 1) | 5.00% | ~14 |
+| Gorgu is in the Best of Health | 4.00% | ~11 |
 | Laser Eyes Are So Useless | 4.00% | ~11 |
+| Untouchable | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |
 | To Infinity And Beyond! | 4.00% | ~11 |
 | The Rune Sockets of Finitude (Part 2) | 4.00% | ~11 |
-| Gorgu is in the Best of Health | 3.00% | ~9 |
-| Untouchable | 3.00% | ~9 |
 | Lavalumps on Ice! | 3.00% | ~9 |
 | To the Max! | 3.00% | ~9 |
 | The Last Stand - This Time For Real! | 3.00% | ~9 |

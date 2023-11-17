@@ -1513,9 +1513,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13709,
+  "EOS_Progressed": 13710,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14683,6 +14683,11 @@
       "Time": "2023-11-17T06:09:27.6053128+00:00",
       "NumProgressed": 13709,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-17T10:08:48.1291659+00:00",
+      "NumProgressed": 13710,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14694,7 +14699,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11241
+      "UsersEstimate": 11242
     },
     {
       "ID": "ACH02",
@@ -14806,7 +14811,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH16",
@@ -14838,7 +14843,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH20",
@@ -14862,7 +14867,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "ACH23",
@@ -14870,7 +14875,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "ACH24",
@@ -14918,7 +14923,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "ACH30",
@@ -14973,7 +14978,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13709,
+      "Progressed": 13710,
       "Completed": 53
     }
   ],
@@ -14981,8 +14986,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-15T20:59:02.3076225+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:08:42.7268635+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:08:48.1291655+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:59:28.791429+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:08:42.7269389+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:52.0220996+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:08:48.1292574+00:00"
 }

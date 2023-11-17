@@ -1,11 +1,11 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.55 (Ranked 1,037)  
+Rating: 3.55 (Ranked 1,038)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,276 |
+| Be Seeing You | 22.00% | ~17,277 |
 | Master, Commander | 21.00% | ~16,491 |
 | Hard Worker | 20.00% | ~15,706 |
 | Mechanic | 19.00% | ~14,921 |
@@ -31,7 +31,7 @@ Rating: 3.55 (Ranked 1,037)
 | Audiophile | 2.00% | ~1,571 |
 | Tape Head | 2.00% | ~1,571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,529 (Ranked 97)  
+Progressed: 78,530 (Ranked 97)  
 Completed: 842 (1.07%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 842 (1.07%) (Ranked 154)
 | 2023-11-14 | 78,366 | 842 |
 | 2023-11-15 | 78,442 | 842 |
 | 2023-11-16 | 78,501 | 842 |
-| 2023-11-17 | 78,529 | 842 |
+| 2023-11-17 | 78,530 | 842 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

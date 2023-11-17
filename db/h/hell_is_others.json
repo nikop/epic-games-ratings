@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 764,
-  "Ranking_Popularity": 434,
+  "Ranking_Rating": 747,
+  "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1169,18 +1169,24 @@
       "Rating": 4.38,
       "NumberOfAwards": 344,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-11-17T09:57:28.6534339+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 346,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 344,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 346,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game has Unique Visuals",
@@ -22127,9 +22133,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-11-16T22:57:12.9990754+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:04:44.0294646+00:00",
+  "LastChanged": "2023-11-17T09:57:28.6534337+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:05:08.9802843+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.1027511+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:57:09.5056694+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:04:44.0295713+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:57:28.6534342+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:05:08.9804209+00:00"
 }

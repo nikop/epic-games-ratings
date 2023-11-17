@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,322 |
-| Flanked! | 76.00% | ~2,869 |
-| Economics 101 | 60.00% | ~2,265 |
-| Get Rich Quick | 43.00% | ~1,623 |
-| Do the Splits | 38.00% | ~1,434 |
+| You and what Army? | 88.00% | ~3,323 |
+| Flanked! | 76.00% | ~2,870 |
+| Economics 101 | 60.00% | ~2,266 |
+| Get Rich Quick | 43.00% | ~1,624 |
+| Do the Splits | 38.00% | ~1,435 |
 | Maestro | 26.00% | ~982 |
 | Full Employment | 18.00% | ~680 |
 | Clay Fighter | 16.00% | ~604 |
@@ -22,8 +22,8 @@
 | Leave Them no Cake | 7.00% | ~264 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~264 |
 | Master of the Brawl | 7.00% | ~264 |
-| Your Biggest Fans | 6.00% | ~226 |
-| A Secret Recipe | 6.00% | ~226 |
+| Your Biggest Fans | 6.00% | ~227 |
+| A Secret Recipe | 6.00% | ~227 |
 | An Ally in Need | 5.00% | ~189 |
 | For the Queen | 5.00% | ~189 |
 | Not a Drop Wasted | 5.00% | ~189 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~38 |
 | All Geared Up | 0.90% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,775 (Ranked 197)  
+Progressed: 3,776 (Ranked 197)  
 Completed: 11 (0.29%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 11 (0.29%) (Ranked 232)
 | 2023-11-12 | 3,768 | 11 |
 | 2023-11-15 | 3,769 | 11 |
 | 2023-11-16 | 3,774 | 11 |
-| 2023-11-17 | 3,775 | 11 |
+| 2023-11-17 | 3,776 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

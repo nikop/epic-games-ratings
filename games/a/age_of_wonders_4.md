@@ -5,10 +5,10 @@ Rating: 4.61 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Realm Estate | 2.00% | ~108 |
 | Secret Technique | 2.00% | ~108 |
 | But this one is mine | 2.00% | ~108 |
 | Full Ascension | 1.00% | ~54 |
-| Realm Estate | 1.00% | ~54 |
 | A Wonderful Discovery | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |

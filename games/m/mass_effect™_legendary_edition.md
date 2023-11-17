@@ -8,7 +8,7 @@
 | Spectre Inductee | 80.00% | ~1,026 |
 | Medal of Exploration I | 71.00% | ~911 |
 | Recruit | 67.00% | ~860 |
-| Search and Rescue | 66.00% | ~847 |
+| Search and Rescue | 67.00% | ~860 |
 | Quarian Ally | 63.00% | ~808 |
 | Medal of Heroism | 59.00% | ~757 |
 | Honorarium of Corporate Service | 58.00% | ~744 |

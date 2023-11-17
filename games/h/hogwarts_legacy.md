@@ -11,13 +11,13 @@ Rating: 4.76 (Ranked 128)
 | A Keen Sense of Spell | 13.00% | ~39,289 |
 | That's a Keeper | 13.00% | ~39,289 |
 | A Talent for Spending | 12.00% | ~36,267 |
-| Grappling with a Graphorn | 11.00% | ~33,244 |
-| The One Who Mastered Memories | 11.00% | ~33,244 |
-| The Hallowed Hero | 11.00% | ~33,244 |
-| The Defender of Dragons | 11.00% | ~33,244 |
-| Challenge Accepted | 11.00% | ~33,244 |
-| Loom for Improvement | 11.00% | ~33,244 |
-| Coasting Along | 11.00% | ~33,244 |
+| Grappling with a Graphorn | 11.00% | ~33,245 |
+| The One Who Mastered Memories | 11.00% | ~33,245 |
+| The Hallowed Hero | 11.00% | ~33,245 |
+| The Defender of Dragons | 11.00% | ~33,245 |
+| Challenge Accepted | 11.00% | ~33,245 |
+| Loom for Improvement | 11.00% | ~33,245 |
+| Coasting Along | 11.00% | ~33,245 |
 | The Hero of Hogwarts | 10.00% | ~30,222 |
 | Followed the Butterflies | 10.00% | ~30,222 |
 | Rising From the Ashes | 10.00% | ~30,222 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,116 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,222 (Ranked 51)  
+Progressed: 302,223 (Ranked 51)  
 Completed: 512 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 512 (0.17%) (Ranked 258)
 | 2023-11-14 | 302,089 | 511 |
 | 2023-11-15 | 302,152 | 512 |
 | 2023-11-16 | 302,204 | 512 |
-| 2023-11-17 | 302,222 | 512 |
+| 2023-11-17 | 302,223 | 512 |
 ## Awards
 Max (Character Customization): 24,370  (Ranked 17)  
-Sum: 48,345 (Ranked 30)  
+Sum: 48,348 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,255 |
 | This game is Extremely Fun | 1,238 |
 | This game is Relaxing | 1,230 |
-| This game has Amazing Characters | 1,209 |
+| This game has Amazing Characters | 1,212 |
 | This game is Highly Recommended | 1,170 |
 | This game has Quickly Understood Controls | 1,116 |
 | This game has Beautiful Visuals | 1,035 |
@@ -522,4 +522,4 @@ Diff (max vs sum): -13
 | 2023-11-14 | 4.76 | 24,282 | 48,150 |
 | 2023-11-15 | 4.76 | 24,313 | 48,235 |
 | 2023-11-16 | 4.76 | 24,339 | 48,302 |
-| 2023-11-17 | 4.76 | 24,370 | 48,345 |
+| 2023-11-17 | 4.76 | 24,370 | 48,348 |

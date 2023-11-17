@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1283,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3960,9 +3960,9 @@
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 847
+      "UsersEstimate": 860
     },
     {
       "ID": "achievement_34",
@@ -4556,8 +4556,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:05:12.7151196+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:05:38.2641801+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:02:50.5159089+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:05:12.7152726+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:02:52.2287282+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:05:38.2643314+00:00"
 }

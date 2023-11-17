@@ -5151,9 +5151,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 8103,
+  "EOS_Progressed": 8104,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -11561,6 +11561,11 @@
       "Time": "2023-11-17T09:08:25.9469542+00:00",
       "NumProgressed": 8103,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-11-17T10:08:31.383587+00:00",
+      "NumProgressed": 8104,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -11573,7 +11578,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 8022
+      "UsersEstimate": 8023
     },
     {
       "ID": "achievement_a10",
@@ -11589,7 +11594,7 @@
       "Name": "At the Precipice",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3889
+      "UsersEstimate": 3890
     },
     {
       "ID": "achievement_a12",
@@ -11597,7 +11602,7 @@
       "Name": "Into the Abyss",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "achievement_a13",
@@ -11605,7 +11610,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3566
     },
     {
       "ID": "achievement_a14",
@@ -11637,7 +11642,7 @@
       "Name": "Catch!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     },
     {
       "ID": "achievement_a18",
@@ -11645,7 +11650,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6240
     },
     {
       "ID": "achievement_a19",
@@ -11661,7 +11666,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 7941
+      "UsersEstimate": 7942
     },
     {
       "ID": "achievement_a20",
@@ -11693,7 +11698,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5186
+      "UsersEstimate": 5187
     },
     {
       "ID": "achievement_a24",
@@ -11717,7 +11722,7 @@
       "Name": "Riposte",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "achievement_a27",
@@ -11733,7 +11738,7 @@
       "Name": "King of the World",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achievement_a29",
@@ -11749,7 +11754,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 7374
+      "UsersEstimate": 7375
     },
     {
       "ID": "achievement_a30",
@@ -11757,7 +11762,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5186
+      "UsersEstimate": 5187
     },
     {
       "ID": "achievement_a31",
@@ -11773,7 +11778,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "achievement_a33",
@@ -11797,7 +11802,7 @@
       "Name": "Max Capacity",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achievement_a36",
@@ -11821,7 +11826,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5915
+      "UsersEstimate": 5916
     },
     {
       "ID": "achievement_a39",
@@ -11837,7 +11842,7 @@
       "Name": "The Past Made Present",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6725
+      "UsersEstimate": 6726
     },
     {
       "ID": "achievement_a40",
@@ -11845,7 +11850,7 @@
       "Name": "Greezy Money",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "achievement_a41",
@@ -11861,7 +11866,7 @@
       "Name": "A Presence I\u0027ve Not Felt Since...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achievement_a43",
@@ -11869,7 +11874,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3970
+      "UsersEstimate": 3971
     },
     {
       "ID": "achievement_a44",
@@ -11925,7 +11930,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 6401
+      "UsersEstimate": 6402
     },
     {
       "ID": "achievement_a50",
@@ -11933,7 +11938,7 @@
       "Name": "Reconnaissance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_a51",
@@ -11965,7 +11970,7 @@
       "Name": "Among the Masters",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 6239
+      "UsersEstimate": 6240
     },
     {
       "ID": "achievement_a7",
@@ -11973,7 +11978,7 @@
       "Name": "For the Path",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "achievement_a8",
@@ -11996,7 +12001,7 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 8103,
+      "Progressed": 8104,
       "Completed": 45
     }
   ],
@@ -12004,8 +12009,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-17T05:00:26.7887664+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:08:25.9469538+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:08:31.3835866+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:25.3052471+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:59:17.7538344+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:08:25.9470163+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:40.7624929+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:08:31.3836692+00:00"
 }

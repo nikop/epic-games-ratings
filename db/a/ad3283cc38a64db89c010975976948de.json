@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "LEVEL_240_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 240 pieces",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_375_001",
@@ -409,8 +409,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:03:50.3789279+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:04:14.6078024+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:09.3606302+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:57:16.5280814+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:03:50.3789464+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:57:36.7148703+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:04:14.6078223+00:00"
 }

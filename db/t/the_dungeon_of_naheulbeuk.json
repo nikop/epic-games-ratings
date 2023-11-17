@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1335,9 +1335,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237598,
+  "EOS_Progressed": 237606,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1393,
+  "EOS_NewPlayers": 1395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18870,6 +18870,11 @@
       "Time": "2023-11-17T09:08:27.2786221+00:00",
       "NumProgressed": 237598,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T10:08:32.6362743+00:00",
+      "NumProgressed": 237606,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19329,7 +19334,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83159
+      "UsersEstimate": 83162
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19487,9 +19492,9 @@
       "ID": "QuestPaladine",
       "SetID": "50chcgj",
       "Name": "L\u00EBgal Legend",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1663
     },
     {
       "ID": "QuestPriestess",
@@ -19584,21 +19589,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237598,
+      "Progressed": 237606,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237598,
+      "Progressed": 237606,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T16:00:04.3647712+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:08:27.2786217+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:08:32.6362738+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:59:29.6562299+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:08:27.2787562+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:52.9036695+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:08:32.6364359+00:00"
 }

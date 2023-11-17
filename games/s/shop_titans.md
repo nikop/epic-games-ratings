@@ -1,13 +1,13 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 997)  
+Rating: 3.99 (Ranked 998)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,008 |
-| Titan's First Steps | 5.00% | ~7,008 |
+| Sponsored by Argon | 5.00% | ~7,009 |
+| Titan's First Steps | 5.00% | ~7,009 |
 | Basic in Bulk | 4.00% | ~5,607 |
 | Tinkle of Coins | 4.00% | ~5,607 |
 | Disintermediation | 3.00% | ~4,205 |
@@ -47,22 +47,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,402 |
 | Magical Harmony | 1.00% | ~1,402 |
 | Arcane Industries | 1.00% | ~1,402 |
-| A Notch Above the Rest | 0.90% | ~1,261 |
-| The King's Caprice | 0.90% | ~1,261 |
-| Big Game Hunting | 0.90% | ~1,261 |
-| For the Hoard! | 0.90% | ~1,261 |
-| Scrapbooker | 0.90% | ~1,261 |
-| Locally Sourced | 0.90% | ~1,261 |
-| Flying off the Shelves | 0.90% | ~1,261 |
-| This Power Level...! | 0.90% | ~1,261 |
-| Hidden Potential | 0.90% | ~1,261 |
-| Expansion in Session | 0.90% | ~1,261 |
-| Mammonite | 0.90% | ~1,261 |
-| Miracle Alchemist | 0.90% | ~1,261 |
-| Seasoned Journeyman | 0.90% | ~1,261 |
-| Black Friday Special | 0.90% | ~1,261 |
-| Special Ingredient | 0.90% | ~1,261 |
-| Complete Monopoly | 0.90% | ~1,261 |
+| A Notch Above the Rest | 0.90% | ~1,262 |
+| The King's Caprice | 0.90% | ~1,262 |
+| Big Game Hunting | 0.90% | ~1,262 |
+| For the Hoard! | 0.90% | ~1,262 |
+| Scrapbooker | 0.90% | ~1,262 |
+| Locally Sourced | 0.90% | ~1,262 |
+| Flying off the Shelves | 0.90% | ~1,262 |
+| This Power Level...! | 0.90% | ~1,262 |
+| Hidden Potential | 0.90% | ~1,262 |
+| Expansion in Session | 0.90% | ~1,262 |
+| Mammonite | 0.90% | ~1,262 |
+| Miracle Alchemist | 0.90% | ~1,262 |
+| Seasoned Journeyman | 0.90% | ~1,262 |
+| Black Friday Special | 0.90% | ~1,262 |
+| Special Ingredient | 0.90% | ~1,262 |
+| Complete Monopoly | 0.90% | ~1,262 |
 | Cream of the Crop | 0.80% | ~1,121 |
 | Proud Paladin | 0.80% | ~1,121 |
 | Above the Norm | 0.80% | ~1,121 |
@@ -106,11 +106,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.50% | ~701 |
 | All Accounted For | 0.50% | ~701 |
 | All or Nothing! | 0.40% | ~561 |
-| Unleashed Potential | 0.30% | ~420 |
-| JACKPOT!!! | 0.30% | ~420 |
-| Anything not Nailed Down | 0.30% | ~420 |
-| The Greatest Grind | 0.30% | ~420 |
-| Marvels from the World Over | 0.30% | ~420 |
+| Unleashed Potential | 0.30% | ~421 |
+| JACKPOT!!! | 0.30% | ~421 |
+| Anything not Nailed Down | 0.30% | ~421 |
+| The Greatest Grind | 0.30% | ~421 |
+| Marvels from the World Over | 0.30% | ~421 |
 | Bane of Legends | 0.20% | ~280 |
 | Ultimate Collector | 0.20% | ~280 |
 | Oligarch Monarch | 0.20% | ~280 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,164 (Ranked 79)  
+Progressed: 140,173 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 265)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,164 | 187 |
+| 2023-11-17 | 140,173 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,558 (Ranked 50)  

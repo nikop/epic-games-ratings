@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 997,
+  "Ranking_Rating": 998,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
@@ -7093,9 +7093,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140164,
+  "EOS_Progressed": 140173,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1185,
+  "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28743,6 +28743,11 @@
       "Time": "2023-11-17T09:03:51.7513873+00:00",
       "NumProgressed": 140164,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-17T10:04:16.0180694+00:00",
+      "NumProgressed": 140173,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -28770,7 +28775,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "advlevel04",
@@ -28850,7 +28855,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "blueprint01",
@@ -28898,7 +28903,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "boss03",
@@ -28922,7 +28927,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7008
+      "UsersEstimate": 7009
     },
     {
       "ID": "chest02",
@@ -28930,7 +28935,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "chest03",
@@ -28954,7 +28959,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "collection03",
@@ -29002,7 +29007,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "commonres04",
@@ -29034,7 +29039,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "craft04",
@@ -29066,7 +29071,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "damage03",
@@ -29090,7 +29095,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "enchant02",
@@ -29098,7 +29103,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "energy01",
@@ -29138,7 +29143,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "expansion03",
@@ -29258,7 +29263,7 @@
       "Name": "Mammonite",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "gold06",
@@ -29322,7 +29327,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "legenchant01",
@@ -29370,7 +29375,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "loot01",
@@ -29402,7 +29407,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "master01",
@@ -29426,7 +29431,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "master04",
@@ -29442,7 +29447,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "masterpiece",
@@ -29514,7 +29519,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "rudo_a",
@@ -29538,7 +29543,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "sell03",
@@ -29570,7 +29575,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7008
+      "UsersEstimate": 7009
     },
     {
       "ID": "twinenchant01",
@@ -29594,7 +29599,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "uncommonres02",
@@ -29634,7 +29639,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "yami_a",
@@ -29649,15 +29654,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140164,
+      "Progressed": 140173,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-17T07:59:45.9033456+00:00",
-  "LastChanged_Achievements": "2023-11-17T09:03:51.7513869+00:00",
+  "LastChanged_Achievements": "2023-11-17T10:04:16.0180689+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:59:03.4848035+00:00",
-  "LastUpdate_Achievements": "2023-11-17T09:03:51.75157+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:59:26.1853519+00:00",
+  "LastUpdate_Achievements": "2023-11-17T10:04:16.0182539+00:00"
 }
