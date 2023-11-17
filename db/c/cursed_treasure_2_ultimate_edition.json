@@ -286,9 +286,9 @@
       "ID": "BADGE_BOSS_4_KILL",
       "SetID": "ak6pfjk",
       "Name": "Avada Kedavra",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BADGE_BOSS_5_KILL",
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:03:33.9251968+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:03:13.605496+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:45.1148952+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:59:09.032242+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:03:33.9252636+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:59:09.7719197+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:03:13.6055287+00:00"
 }

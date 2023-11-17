@@ -1455,9 +1455,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_19",
@@ -1773,8 +1773,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:04:24.0114071+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:04:10.1035191+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:57:53.8531183+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:04:24.0114452+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:57:44.8355835+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:04:10.1035533+00:00"
 }

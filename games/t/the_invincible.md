@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The field base | 9.00% | ~13 |
 | The Camp | 9.00% | ~13 |
 | The Condor | 9.00% | ~13 |
 | Survivors | 9.00% | ~13 |
 | The End | 9.00% | ~13 |
-| The field base | 8.00% | ~11 |
-| The Teleprobe | 7.00% | ~10 |
+| The Teleprobe | 8.00% | ~11 |
+| The City | 8.00% | ~11 |
 | The Necroevolution | 7.00% | ~10 |
-| The City | 7.00% | ~10 |
 | Peacemaker | 6.00% | ~8 |
-| The Alliance | 5.00% | ~7 |
-| On her own | 4.00% | ~6 |
+| The Alliance | 6.00% | ~8 |
+| On her own | 5.00% | ~7 |
 | Evacuation | 4.00% | ~6 |
 | Flying Objects Operator | 4.00% | ~6 |
 | Beyond divisions | 4.00% | ~6 |
@@ -34,7 +34,7 @@
 | I leave no man behind (no exceptions) | 0.00% | ~0 |
 | Strong objection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 401)  
+Progressed: 140 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-09 | 117 | 0 |
 | 2023-11-10 | 127 | 0 |
 | 2023-11-16 | 132 | 0 |
-| 2023-11-17 | 139 | 0 |
+| 2023-11-17 | 140 | 0 |

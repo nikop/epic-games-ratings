@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3313,10 +3313,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2811,
       "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2023-11-17T11:02:41.1218889+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2813,
+      "NumberOfAwardsMax": 316
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2811,
+  "NumberOfAwards": 2813,
   "NumberOfAwardsMax": 316,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3366,7 +3372,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 278
+      "Count": 280
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3393,9 +3399,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31087,
+  "EOS_Progressed": 31088,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19513,6 +19519,11 @@
       "Time": "2023-11-17T10:06:38.321861+00:00",
       "NumProgressed": 31087,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-17T11:06:40.7839381+00:00",
+      "NumProgressed": 31088,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19564,7 +19575,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "Collect_Spores",
@@ -19572,7 +19583,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "Collector",
@@ -19660,7 +19671,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "GB_In_Training",
@@ -19860,7 +19871,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "Terrifying",
@@ -19884,7 +19895,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "Tobins_Prodigy",
@@ -19908,7 +19919,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "Welcome_Crew",
@@ -19924,23 +19935,23 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31087,
+      "Progressed": 31088,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-17T09:02:44.9678784+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:06:38.3218606+00:00",
+  "LastChanged": "2023-11-17T11:02:41.1218888+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:06:40.7839375+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-17T10:02:46.7965575+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:06:38.3219676+00:00"
+  "LastUpdate_Ratings": "2023-11-17T11:02:41.1218893+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:06:40.7840319+00:00"
 }

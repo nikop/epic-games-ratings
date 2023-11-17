@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
@@ -580,6 +580,11 @@
       "Time": "2023-11-17T05:09:29.5410962+00:00",
       "NumProgressed": 254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T11:08:52.9806528+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -600,7 +605,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_11",
@@ -718,9 +723,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_25",
@@ -799,14 +804,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:09:14.0871026+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:08:52.9806525+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:57:28.9701668+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:09:14.0871201+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:57:17.3074794+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:08:52.9806679+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 992,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2452,6 +2452,11 @@
       "Time": "2023-11-16T22:06:35.2158707+00:00",
       "NumProgressed": 538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T11:06:30.30529+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2487,7 +2492,7 @@
       "Name": "From the Pages of History",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -2558,7 +2563,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 0
     }
   ],
@@ -2566,8 +2571,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-02T22:00:31.3526393+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:06:28.4473044+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:06:30.3052896+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:37.6353967+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:57:59.8130229+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:06:28.4473271+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:57:51.2142737+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:06:30.3053088+00:00"
 }

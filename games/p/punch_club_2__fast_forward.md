@@ -71,8 +71,8 @@
 | Better cooking at home | 31.00% | ~106 |
 | The only right decision | 31.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 329)  
-Completed: 9 (2.62%) (Ranked 112)  
+Progressed: 343 (Ranked 328)  
+Completed: 9 (2.62%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

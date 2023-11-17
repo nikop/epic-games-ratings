@@ -17,14 +17,14 @@
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
 | Magic Accidents | 56.00% | ~160 |
 | Minions, Minions! | 54.00% | ~154 |
-| Heroes’ Gorge | 53.00% | ~151 |
+| Heroes’ Gorge | 54.00% | ~154 |
 | Trap Master | 52.00% | ~148 |
 | The Ascent | 42.00% | ~120 |
 | It's Warm and Cozy at Home | 42.00% | ~120 |
-| YOU SHALL NOT PASS! | 39.00% | ~111 |
+| YOU SHALL NOT PASS! | 40.00% | ~114 |
+| Hard Work | 38.00% | ~108 |
 | The Big Eaty | 38.00% | ~108 |
-| Hard Work | 37.00% | ~105 |
-| Pure Dynamite! | 35.00% | ~100 |
+| Pure Dynamite! | 36.00% | ~103 |
 | Mana Cannon | 30.00% | ~86 |
 | “… like son” | 30.00% | ~86 |
 | Dungeonlord Gorgu | 25.00% | ~71 |

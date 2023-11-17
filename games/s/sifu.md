@@ -43,6 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.20% | ~1,434 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,434 |
 | Sword Stained With Blood | 0.20% | ~1,434 |
+| Deadly Venom | 0.20% | ~53 |
 | The best strikes are the ones we avoid | 0.20% | ~53 |
 | Beatmaker | 0.20% | ~53 |
 | Drunken Fighter | 0.10% | ~717 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.10% | ~717 |
 | Warriors from the Mountain | 0.10% | ~717 |
 | Come Snap With Me | 0.10% | ~717 |
-| Deadly Venom | 0.10% | ~26 |
 | Secure, Protect, Leave | 0.10% | ~26 |
 | A Touch of Acumen | 0.10% | ~26 |
 | Crouching Tiger | 0.10% | ~26 |

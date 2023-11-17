@@ -8,7 +8,7 @@
 | Hidden History | 84.00% | ~246 |
 | Commencing of Quests | 77.00% | ~226 |
 | Budding Conjuror | 77.00% | ~226 |
-| Man-Machine Master | 67.00% | ~196 |
+| Man-Machine Master | 68.00% | ~199 |
 | Mountain Splitter | 66.00% | ~193 |
 | Charmed by the Hunt | 65.00% | ~190 |
 | Fusion Conjuror | 64.00% | ~188 |

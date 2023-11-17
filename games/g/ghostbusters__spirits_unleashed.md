@@ -11,13 +11,13 @@ Rating: 4.50 (Ranked 588)
 | Discovery | 5.00% | ~1,554 |
 | Solo Capture | 5.00% | ~1,554 |
 | Swift Rift Removers | 5.00% | ~1,554 |
-| Clutch Capture | 4.00% | ~1,243 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,243 |
-| Fully Upgraded | 4.00% | ~1,243 |
-| Teamwork | 4.00% | ~1,243 |
-| There you are! | 4.00% | ~1,243 |
-| Vaporous Expansion | 4.00% | ~1,243 |
-| Whoopsie | 4.00% | ~1,243 |
+| Clutch Capture | 4.00% | ~1,244 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,244 |
+| Fully Upgraded | 4.00% | ~1,244 |
+| Teamwork | 4.00% | ~1,244 |
+| There you are! | 4.00% | ~1,244 |
+| Vaporous Expansion | 4.00% | ~1,244 |
+| Whoopsie | 4.00% | ~1,244 |
 | Animated | 3.00% | ~933 |
 | Cultured | 3.00% | ~933 |
 | Daily Dose | 3.00% | ~933 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,087 (Ranked 123)  
+Progressed: 31,088 (Ranked 123)  
 Completed: 68 (0.22%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,17 +268,17 @@ Completed: 68 (0.22%) (Ranked 245)
 | 2023-11-14 | 31,007 | 68 |
 | 2023-11-15 | 31,043 | 68 |
 | 2023-11-16 | 31,073 | 68 |
-| 2023-11-17 | 31,087 | 68 |
+| 2023-11-17 | 31,088 | 68 |
 ## Awards
 Max (Great for Beginners): 316  (Ranked 248)  
-Sum: 2,811 (Ranked 178)  
+Sum: 2,813 (Ranked 178)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 316 |
 | This game is Great for Quick Sessions | 309 |
 | This game has Diverse Characters | 294 |
-| This game has Amazing Storytelling | 278 |
+| This game has Amazing Storytelling | 280 |
 | This game has Competitive Players | 278 |
 | This game is Highly Recommended | 277 |
 | This game is Extremely Fun | 270 |
@@ -504,4 +504,4 @@ Diff (max vs sum): 70
 | 2023-11-14 | 4.50 | 315 | 2,790 |
 | 2023-11-15 | 4.50 | 315 | 2,794 |
 | 2023-11-16 | 4.50 | 315 | 2,801 |
-| 2023-11-17 | 4.50 | 316 | 2,811 |
+| 2023-11-17 | 4.50 | 316 | 2,813 |

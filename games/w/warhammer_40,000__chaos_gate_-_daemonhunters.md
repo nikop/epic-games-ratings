@@ -23,12 +23,12 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 3.00% | ~99 |
 | Hold Your Ground | 2.00% | ~66 |
 | Corruption Cleanser | 2.00% | ~66 |
+| Efficient Killer | 2.00% | ~66 |
 | Just a Scratch | 2.00% | ~66 |
 | Hive Exterminator | 2.00% | ~66 |
 | Daemonkeeper | 1.00% | ~33 |
 | Exterminator | 1.00% | ~33 |
 | Mind Like a Fortress | 1.00% | ~33 |
-| Efficient Killer | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
 | Junk Banishment | 1.00% | ~33 |
 | A Gift Spurned | 1.00% | ~33 |

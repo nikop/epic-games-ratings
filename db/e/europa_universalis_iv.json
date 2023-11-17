@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12177,9 +12177,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457229,
+  "EOS_Progressed": 457267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6220,
+  "EOS_NewPlayers": 6229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36322,6 +36322,11 @@
       "Time": "2023-11-17T10:05:10.6247566+00:00",
       "NumProgressed": 457229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T11:05:03.4018932+00:00",
+      "NumProgressed": 457267,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36531,9 +36536,9 @@
       "ID": "achievement_anglophile",
       "SetID": "8p2n7he",
       "Name": "Anglophile",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_animal_kingdom",
@@ -37427,9 +37432,9 @@
       "ID": "achievement_holiest_roman_empire",
       "SetID": "8p2n7he",
       "Name": "Holiest Roman Empire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_holy_horder",
@@ -37859,9 +37864,9 @@
       "ID": "achievement_master_of_india",
       "SetID": "8p2n7he",
       "Name": "Master of India",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_mehmet_ambition",
@@ -38083,9 +38088,9 @@
       "ID": "achievement_over_a_thousand",
       "SetID": "8p2n7he",
       "Name": "Over a Thousand!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_pandya_empire",
@@ -38131,9 +38136,9 @@
       "ID": "achievement_poland_can_into_space",
       "SetID": "8p2n7he",
       "Name": "Poland can into space",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_populists_in_government",
@@ -38619,9 +38624,9 @@
       "ID": "achievement_thats_a_silk_road",
       "SetID": "67mdiil",
       "Name": "That\u0027s a Silk Road",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_thats_no_mon",
@@ -39236,21 +39241,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457229,
+      "Progressed": 457267,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457229,
+      "Progressed": 457267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-17T09:58:45.0064745+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:05:10.6247563+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:05:03.4018927+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:58:45.006475+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:05:10.6260016+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:58:41.9100229+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:05:03.4028853+00:00"
 }

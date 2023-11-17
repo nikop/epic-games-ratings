@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1482,9 +1482,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23512,
+  "EOS_Progressed": 23513,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9607,6 +9607,11 @@
       "Time": "2023-11-17T10:08:41.1437589+00:00",
       "NumProgressed": 23512,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-17T11:08:16.6863096+00:00",
+      "NumProgressed": 23513,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9698,7 +9703,7 @@
       "Name": "Spells and Swords",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -9929,21 +9934,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23512,
+      "Progressed": 23513,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2442,
+      "Progressed": 2443,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-06T15:02:21.8983987+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:08:41.1437586+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:08:16.6863093+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:18.340476+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:58:17.8706093+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:08:41.1438293+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:58:11.4059636+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:08:16.6863699+00:00"
 }

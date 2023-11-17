@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,951 |
-| IT MAKES BOOM! | 6.00% | ~17,971 |
-| EXTRA BOOST | 5.00% | ~14,976 |
-| PROTECTED | 4.00% | ~11,981 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,985 |
-| PRO | 3.00% | ~8,985 |
-| A TIGER'S FEAR | 2.00% | ~5,990 |
-| AGGRESSIVE RACER | 2.00% | ~5,990 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,995 |
-| ACE SPEEDSTER | 1.00% | ~2,995 |
+| ROOKIE | 10.00% | ~29,955 |
+| IT MAKES BOOM! | 6.00% | ~17,973 |
+| EXTRA BOOST | 5.00% | ~14,978 |
+| PROTECTED | 4.00% | ~11,982 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,987 |
+| PRO | 3.00% | ~8,987 |
+| A TIGER'S FEAR | 2.00% | ~5,991 |
+| AGGRESSIVE RACER | 2.00% | ~5,991 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,996 |
+| ACE SPEEDSTER | 1.00% | ~2,996 |
 | RELEASE THE KRAKEN | 0.80% | ~2,396 |
 | BE OUR GUEST | 0.80% | ~2,396 |
 | LEGENDARY HERO | 0.80% | ~2,396 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 747)
 | PERFECTLY POISED | 0.20% | ~599 |
 | ACE TRICKSTER | 0.20% | ~599 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,513 (Ranked 52)  
+Progressed: 299,552 (Ranked 52)  
 Completed: 290 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 290 (0.10%) (Ranked 277)
 | 2023-11-14 | 296,465 | 285 |
 | 2023-11-15 | 297,597 | 285 |
 | 2023-11-16 | 298,870 | 286 |
-| 2023-11-17 | 299,513 | 290 |
+| 2023-11-17 | 299,552 | 290 |
 ## Awards
 Max (Great for Beginners): 72  (Ranked 399)  
-Sum: 558 (Ranked 316)  
+Sum: 559 (Ranked 316)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
@@ -249,7 +249,7 @@ Diff (max vs sum): 83
 | This game is Great for Quick Sessions | 63 |
 | This game has Amazing Characters | 48 |
 | This game has Competitive Players | 43 |
-| This game has Playful Visuals | 42 |
+| This game has Playful Visuals | 43 |
 | This game is Highly Recommended | 41 |
 | This game has a Competitive Community | 40 |
 | This game is Extremely Fun | 38 |
@@ -306,4 +306,4 @@ Diff (max vs sum): 83
 | 2023-11-14 | 4.38 | 70 | 545 |
 | 2023-11-15 | 4.39 | 70 | 550 |
 | 2023-11-16 | 4.39 | 72 | 555 |
-| 2023-11-17 | 4.39 | 72 | 558 |
+| 2023-11-17 | 4.39 | 72 | 559 |

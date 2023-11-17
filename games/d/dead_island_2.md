@@ -21,11 +21,11 @@ Rating: 4.54 (Ranked 522)
 | Friends Like These | 0.80% | ~5,756 |
 | Apex Predator | 0.80% | ~5,756 |
 | Stacking the Deck | 0.80% | ~5,756 |
+| This is My Weapon | 0.80% | ~5,756 |
 | But Doctor, I am Butcho | 0.70% | ~5,037 |
 | Can't Handle the Truth | 0.70% | ~5,037 |
 | Like Riding a Bike | 0.70% | ~5,037 |
 | A Patton Emerges | 0.70% | ~5,037 |
-| This is My Weapon | 0.70% | ~5,037 |
 | Perks of the Job | 0.60% | ~4,317 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,317 |
 | Slayer Squad | 0.60% | ~4,317 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,516 (Ranked 20)  
-Completed: 2,400 (0.33%) (Ranked 224)  
+Progressed: 719,531 (Ranked 20)  
+Completed: 2,401 (0.33%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 2,400 (0.33%) (Ranked 224)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,516 | 2,400 |
+| 2023-11-17 | 719,531 | 2,401 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 51)  
 Sum: 11,441 (Ranked 84)  

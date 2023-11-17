@@ -21,6 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All That's Thine Shall Be Mine | 0.10% | ~457 |
 | All Your Trade Are Belong to Us | 0.10% | ~457 |
 | An early Reich | 0.10% | ~457 |
+| Anglophile | 0.10% | ~457 |
 | Arabian Coffee | 0.10% | ~457 |
 | At every continent | 0.10% | ~457 |
 | Avar Khaganate | 0.10% | ~457 |
@@ -73,6 +74,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 0.10% | ~457 |
 | Guarantor of Peace | 0.10% | ~457 |
 | Hard Bargaining | 0.10% | ~457 |
+| Holiest Roman Empire | 0.10% | ~457 |
 | Imperio español | 0.10% | ~457 |
 | Imposter Syndrome | 0.10% | ~457 |
 | In the Name of the Father | 0.10% | ~457 |
@@ -97,6 +99,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mare Nostrum | 0.10% | ~457 |
 | Market Control | 0.10% | ~457 |
 | Marshy March | 0.10% | ~457 |
+| Master of India | 0.10% | ~457 |
 | Multiculturalism | 0.10% | ~457 |
 | My armies are invincible! | 0.10% | ~457 |
 | Narcissism | 0.10% | ~457 |
@@ -108,7 +111,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Family to Rule them All | 0.10% | ~457 |
 | One King to Rule! | 0.10% | ~457 |
 | One Night in Paris | 0.10% | ~457 |
+| Over a Thousand! | 0.10% | ~457 |
 | Parisian Pasha | 0.10% | ~457 |
+| Poland can into space | 0.10% | ~457 |
 | Populists in Government | 0.10% | ~457 |
 | Pyramid of Skulls | 0.10% | ~457 |
 | Qing of China | 0.10% | ~457 |
@@ -132,6 +137,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Switzerlake | 0.10% | ~457 |
 | Tear Down This Wall | 0.10% | ~457 |
 | That is mine! | 0.10% | ~457 |
+| That's a Silk Road | 0.10% | ~457 |
 | The Chrysanthemum Throne | 0.10% | ~457 |
 | The Continuation of Diplomacy | 0.10% | ~457 |
 | The Five Colonies | 0.10% | ~457 |
@@ -181,7 +187,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
-| Anglophile | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
@@ -241,7 +246,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Holiest Roman Empire | 0.00% | ~0 |
 | Holy Horder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
@@ -271,7 +275,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mansa Musa | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
-| Master of India | 0.00% | ~0 |
 | Mehmet's Ambition | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
@@ -288,12 +291,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Faith | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
-| Over a Thousand! | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Pirate Bay of Janjira | 0.00% | ~0 |
-| Poland can into space | 0.00% | ~0 |
 | Prester John | 0.00% | ~0 |
 | The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
@@ -331,7 +332,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
-| That's a Silk Road | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,229 (Ranked 41)  
+Progressed: 457,267 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,229 | 1 |
+| 2023-11-17 | 457,267 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,884 (Ranked 24)  

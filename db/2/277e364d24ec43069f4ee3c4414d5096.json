@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114327,
+  "EOS_Progressed": 114331,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
@@ -18174,6 +18174,11 @@
       "Time": "2023-11-17T08:09:06.7085947+00:00",
       "NumProgressed": 114327,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-17T11:08:25.0124784+00:00",
+      "NumProgressed": 114331,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18193,7 +18198,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88032
+      "UsersEstimate": 88035
     },
     {
       "ID": "EAwards_10",
@@ -18209,7 +18214,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29725
+      "UsersEstimate": 29726
     },
     {
       "ID": "EAwards_12",
@@ -18217,7 +18222,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17149
+      "UsersEstimate": 17150
     },
     {
       "ID": "EAwards_13",
@@ -18257,7 +18262,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42301
+      "UsersEstimate": 42302
     },
     {
       "ID": "EAwards_18",
@@ -18265,7 +18270,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "EAwards_19",
@@ -18281,7 +18286,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54877
+      "UsersEstimate": 54879
     },
     {
       "ID": "EAwards_20",
@@ -18329,7 +18334,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21722
+      "UsersEstimate": 21723
     },
     {
       "ID": "EAwards_26",
@@ -18369,7 +18374,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22865
+      "UsersEstimate": 22866
     },
     {
       "ID": "EAwards_30",
@@ -18545,7 +18550,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "EAwards_7",
@@ -18553,7 +18558,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13719
+      "UsersEstimate": 13720
     },
     {
       "ID": "EAwards_8",
@@ -18561,7 +18566,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13719
+      "UsersEstimate": 13720
     },
     {
       "ID": "EAwards_9",
@@ -18576,7 +18581,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114327,
+      "Progressed": 114331,
       "Completed": 50
     }
   ],
@@ -18584,8 +18589,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:08:48.6029417+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:08:25.012478+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:59:44.4101169+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:08:48.6030911+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:59:50.6346715+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:08:25.0125842+00:00"
 }

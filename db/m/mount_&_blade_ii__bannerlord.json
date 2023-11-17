@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8776,10 +8776,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15305,
       "NumberOfAwardsMax": 7391
+    },
+    {
+      "Time": "2023-11-17T10:57:08.11524+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15306,
+      "NumberOfAwardsMax": 7391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15305,
+  "NumberOfAwards": 15306,
   "NumberOfAwardsMax": 7391,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8841,7 +8847,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 853
+      "Count": 854
     },
     {
       "Text": "This game has a Creative Community",
@@ -8856,9 +8862,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65260,
+  "EOS_Progressed": 65264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31011,6 +31017,11 @@
       "Time": "2023-11-17T10:09:15.6960999+00:00",
       "NumProgressed": 65260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T11:08:55.6328912+00:00",
+      "NumProgressed": 65264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31038,7 +31049,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15662
+      "UsersEstimate": 15663
     },
     {
       "ID": "Best served cold",
@@ -31062,7 +31073,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5873
+      "UsersEstimate": 5874
     },
     {
       "ID": "Catch",
@@ -31182,7 +31193,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15662
+      "UsersEstimate": 15663
     },
     {
       "ID": "I can do it",
@@ -31214,7 +31225,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11747
+      "UsersEstimate": 11748
     },
     {
       "ID": "Kingslayer",
@@ -31246,7 +31257,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21536
+      "UsersEstimate": 21537
     },
     {
       "ID": "Lawbringer",
@@ -31254,7 +31265,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26104
+      "UsersEstimate": 26106
     },
     {
       "ID": "Lawmaker",
@@ -31262,7 +31273,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15662
+      "UsersEstimate": 15663
     },
     {
       "ID": "Long live the Empire",
@@ -31374,7 +31385,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12399
+      "UsersEstimate": 12400
     },
     {
       "ID": "This Is Our Land",
@@ -31398,7 +31409,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15662
+      "UsersEstimate": 15663
     },
     {
       "ID": "Undercover",
@@ -31414,7 +31425,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -31429,15 +31440,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65260,
+      "Progressed": 65264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-17T06:59:29.5514153+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:09:15.6960995+00:00",
+  "LastChanged": "2023-11-17T10:57:08.1152398+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:08:55.6328907+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:57:21.4077468+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:09:15.6962281+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:57:08.1152405+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:08:55.6330435+00:00"
 }

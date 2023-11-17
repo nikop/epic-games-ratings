@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1073,9 +1073,9 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 8291,
+  "EOS_Progressed": 8292,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5293,6 +5293,11 @@
       "Time": "2023-11-17T10:04:28.3976538+00:00",
       "NumProgressed": 8291,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-17T11:04:15.0062503+00:00",
+      "NumProgressed": 8292,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5328,7 +5333,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5223
+      "UsersEstimate": 5224
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5352,7 +5357,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -5360,7 +5365,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -5368,7 +5373,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -5384,7 +5389,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "HeroSlayer",
@@ -5392,7 +5397,7 @@
       "Name": "The Hero Killer",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "LeoniasFall",
@@ -5416,7 +5421,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "RookieWelcome",
@@ -5432,7 +5437,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5464,7 +5469,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7711
+      "UsersEstimate": 7712
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5488,22 +5493,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6964
+      "UsersEstimate": 6965
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8291,
+      "Progressed": 8292,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-11T19:01:14.1486538+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:04:28.3976533+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:04:15.0062499+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:05.3337042+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:59:20.3356968+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:04:28.3976849+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:59:22.7874928+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:04:15.0062913+00:00"
 }

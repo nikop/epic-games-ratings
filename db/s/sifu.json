@@ -7691,7 +7691,7 @@
   ],
   "EOS_Progressed": 716954,
   "EOS_Completed": 12935,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26676,9 +26676,9 @@
       "ID": "47_Arena_GoldManhunt",
       "SetID": "14c2oii",
       "Name": "Deadly Venom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 53
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -26802,8 +26802,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-17T05:59:09.3369198+00:00",
-  "LastChanged_Achievements": "2023-11-17T10:03:26.2390399+00:00",
+  "LastChanged_Achievements": "2023-11-17T11:03:04.8156315+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-17T09:58:36.3776308+00:00",
-  "LastUpdate_Achievements": "2023-11-17T10:03:26.2391754+00:00"
+  "LastUpdate_Ratings": "2023-11-17T10:58:32.002149+00:00",
+  "LastUpdate_Achievements": "2023-11-17T11:03:04.8157891+00:00"
 }
