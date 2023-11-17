@@ -1371,9 +1371,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6034,
+  "EOS_Progressed": 6036,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13031,6 +13031,11 @@
       "Time": "2023-11-17T19:09:34.451665+00:00",
       "NumProgressed": 6034,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T20:09:22.9699712+00:00",
+      "NumProgressed": 6036,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13066,7 +13071,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -13138,7 +13143,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13146,7 +13151,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -13162,7 +13167,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -13202,7 +13207,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4526
+      "UsersEstimate": 4527
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13226,7 +13231,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -13234,7 +13239,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_MYWAYS",
@@ -13298,7 +13303,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -13322,7 +13327,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -13346,7 +13351,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -13361,15 +13366,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6034,
+      "Progressed": 6036,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-16T12:01:49.6436652+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:09:34.4516646+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:09:22.9699708+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:57:25.3413283+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:09:34.4517532+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:57:13.8056243+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:09:22.9700563+00:00"
 }

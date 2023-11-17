@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251357,
+  "EOS_Progressed": 251358,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19192,6 +19192,11 @@
       "Time": "2023-11-17T19:08:47.5724437+00:00",
       "NumProgressed": 251357,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T20:08:52.7967465+00:00",
+      "NumProgressed": 251358,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19307,7 +19312,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50271
+      "UsersEstimate": 50272
     },
     {
       "ID": "didYourTime",
@@ -19379,7 +19384,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133219
+      "UsersEstimate": 133220
     },
     {
       "ID": "indegestible",
@@ -19443,7 +19448,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125678
+      "UsersEstimate": 125679
     },
     {
       "ID": "notScared",
@@ -19523,7 +19528,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32676
+      "UsersEstimate": 32677
     },
     {
       "ID": "treeMedalist",
@@ -19570,7 +19575,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251357,
+      "Progressed": 251358,
       "Completed": 6
     }
   ],
@@ -19578,8 +19583,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:08:47.5724433+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:08:52.796746+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:59:58.637448+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:08:47.5725702+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:00:05.5926924+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:08:52.7968682+00:00"
 }

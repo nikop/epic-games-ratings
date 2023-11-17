@@ -3,10 +3,10 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 51,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -6627,9 +6627,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719708,
+  "EOS_Progressed": 719733,
   "EOS_Completed": 2402,
-  "EOS_NewPlayers": 3635,
+  "EOS_NewPlayers": 3660,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30772,6 +30772,11 @@
       "Time": "2023-11-17T19:06:00.7625144+00:00",
       "NumProgressed": 719708,
       "NumCompleted": 2402
+    },
+    {
+      "Time": "2023-11-17T20:06:04.527282+00:00",
+      "NumProgressed": 719733,
+      "NumCompleted": 2402
     }
   ],
   "TotalAchievements": 51,
@@ -30799,7 +30804,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "ach_anger_management",
@@ -30847,7 +30852,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "ach_contender",
@@ -30903,7 +30908,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30927,7 +30932,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -31063,7 +31068,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "ach_survival_expert",
@@ -31093,9 +31098,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4318
+      "UsersEstimate": 5038
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -31143,7 +31148,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ach_dark_magic",
@@ -31151,7 +31156,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ach_gardening_tools",
@@ -31159,7 +31164,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_pork_chops",
@@ -31167,7 +31172,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31190,13 +31195,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719708,
+      "Progressed": 719733,
       "Completed": 2402
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45250,
+      "Progressed": 45275,
       "Completed": 36552
     }
   ],
@@ -31204,8 +31209,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-17T18:59:05.608575+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:06:00.7625141+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:06:04.5272816+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:59:05.6085765+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:06:00.7626395+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:59:05.6604169+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:06:04.5274563+00:00"
 }

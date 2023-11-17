@@ -2723,7 +2723,7 @@
   ],
   "EOS_Progressed": 8587,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8612,9 +8612,9 @@
       "ID": "ach33",
       "SetID": "47in8n6",
       "Name": "Vanquished",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 687
     },
     {
       "ID": "ach34",
@@ -8765,8 +8765,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-17T17:59:09.0284186+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:04:42.4723452+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:04:34.6320265+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:59:28.3603782+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:04:42.4723996+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:59:31.880695+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:04:34.6320762+00:00"
 }

@@ -15320,9 +15320,9 @@
       "Count": 13097
     }
   ],
-  "EOS_Progressed": 897050,
+  "EOS_Progressed": 897056,
   "EOS_Completed": 2783,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39265,6 +39265,11 @@
       "Time": "2023-11-17T19:03:27.2648029+00:00",
       "NumProgressed": 897050,
       "NumCompleted": 2783
+    },
+    {
+      "Time": "2023-11-17T20:03:12.6730529+00:00",
+      "NumProgressed": 897056,
+      "NumCompleted": 2783
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39403,9 +39408,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4485
+      "UsersEstimate": 5382
     },
     {
       "ID": "MustBeTheRats",
@@ -39507,9 +39512,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 4485
     },
     {
       "ID": "TheLovers",
@@ -39812,21 +39817,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897050,
+      "Progressed": 897056,
       "Completed": 2783
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25673,
+      "Progressed": 25679,
       "Completed": 10230
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-17T18:58:20.053074+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:03:27.2648026+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:03:12.6730525+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:20.0530746+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:03:27.2649444+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:58:13.578841+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:03:12.6731942+00:00"
 }

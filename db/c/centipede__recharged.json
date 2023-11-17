@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20391,
+  "EOS_Progressed": 20399,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1499,
+  "EOS_NewPlayers": 1487,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -16748,6 +16748,11 @@
       "Time": "2023-11-17T19:07:49.4532798+00:00",
       "NumProgressed": 20391,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-17T20:07:59.7851906+00:00",
+      "NumProgressed": 20399,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 16,
@@ -16759,7 +16764,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5100
     },
     {
       "ID": "Burning_For_You",
@@ -16767,7 +16772,7 @@
       "Name": "Burning For You",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5508
     },
     {
       "ID": "Deadline",
@@ -16775,7 +16780,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -16783,7 +16788,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "Eyes_On_Fire",
@@ -16791,7 +16796,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "Feel_The_Thunder",
@@ -16799,7 +16804,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "Fireworks",
@@ -16807,7 +16812,7 @@
       "Name": "Fireworks",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6324
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -16815,7 +16820,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "I_Am_The_Storm",
@@ -16823,7 +16828,7 @@
       "Name": "I Am The Storm",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3468
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -16831,7 +16836,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8160
     },
     {
       "ID": "Mirrors",
@@ -16855,7 +16860,7 @@
       "Name": "Shooting Shark",
       "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 9992
+      "UsersEstimate": 9996
     },
     {
       "ID": "Sole_Survivor",
@@ -16863,7 +16868,7 @@
       "Name": "Sole Survivor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7344
     },
     {
       "ID": "Still_Burning",
@@ -16871,7 +16876,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3468
     },
     {
       "ID": "The_Reaper",
@@ -16879,22 +16884,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 20391,
+      "Progressed": 20399,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-11-13T20:58:09.9654797+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:07:49.4532794+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:07:59.7851902+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:25.585371+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:59:43.9295295+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:07:49.453357+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:59:48.9700599+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:07:59.7852861+00:00"
 }

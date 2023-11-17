@@ -20,8 +20,8 @@ Rating: 4.80 (Ranked 86)
 | ONE PUNCH | 36.00% | ~3,038 |
 | FIRST LOVE | 36.00% | ~3,038 |
 | Worthless Speech | 36.00% | ~3,038 |
+| Absolutely Elegant | 35.00% | ~2,954 |
 | Drama CP: Reel to Real | 35.00% | ~2,954 |
-| Absolutely Elegant | 34.00% | ~2,870 |
 | Still Single | 33.00% | ~2,785 |
 | Go Get Some Fries On The Pier | 31.00% | ~2,616 |
 | Days Of Innocence | 31.00% | ~2,616 |

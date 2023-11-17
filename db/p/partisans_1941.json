@@ -5,9 +5,9 @@
   "Ranking_Rating": 364,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1714,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3899,6 +3899,11 @@
       "Time": "2023-11-17T19:05:01.3538333+00:00",
       "NumProgressed": 1714,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T20:04:58.3902884+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -3910,7 +3915,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Auditor",
@@ -3942,7 +3947,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 430
     },
     {
       "ID": "Commandos",
@@ -3982,7 +3987,7 @@
       "Name": "Lock, Stock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "E1M1",
@@ -3990,7 +3995,7 @@
       "Name": "E1M1",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 739
     },
     {
       "ID": "Everyone_is_here",
@@ -3998,7 +4003,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Experienced_strategist",
@@ -4022,7 +4027,7 @@
       "Name": "Grenadier",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 722
     },
     {
       "ID": "Hard_Serpent",
@@ -4038,7 +4043,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 653
     },
     {
       "ID": "High_noon",
@@ -4062,7 +4067,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 550
     },
     {
       "ID": "KillAllM2",
@@ -4086,15 +4091,15 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 447
     },
     {
       "ID": "MoskitoBite",
@@ -4102,7 +4107,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 619
     },
     {
       "ID": "Scout",
@@ -4126,7 +4131,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 722
     },
     {
       "ID": "We_were_not_here",
@@ -4140,24 +4145,24 @@
       "ID": "Your_turn",
       "SetID": "85nb4h3",
       "Name": "Your Answer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 241
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1714,
+      "Progressed": 1719,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:05:01.3538329+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:04:58.390288+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:59:33.294614+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:05:01.353869+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:59:37.534889+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:04:58.3903239+00:00"
 }

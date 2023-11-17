@@ -14,22 +14,22 @@ Rating: 4.56 (Ranked 488)
 | Safe Cracker | 4.00% | ~40 |
 | Zen Master | 4.00% | ~40 |
 | Madame Undersecretary | 4.00% | ~40 |
-| Stogie for Fogey | 3.00% | ~451 |
-| Drug Gifter | 3.00% | ~451 |
-| Spore Taste | 3.00% | ~451 |
-| Martian Music | 3.00% | ~451 |
-| Heal Thy Medic | 3.00% | ~451 |
-| Call it Even | 3.00% | ~451 |
-| Captain Drummer | 3.00% | ~451 |
+| Stogie for Fogey | 3.00% | ~452 |
+| Drug Gifter | 3.00% | ~452 |
+| Spore Taste | 3.00% | ~452 |
+| Martian Music | 3.00% | ~452 |
+| Heal Thy Medic | 3.00% | ~452 |
+| Call it Even | 3.00% | ~452 |
+| Captain Drummer | 3.00% | ~452 |
 | Keep Arjun in Check | 3.00% | ~30 |
 | Data Archivist | 2.00% | ~301 |
 | Bottoms up! | 2.00% | ~301 |
 | Thorston Mayer | 2.00% | ~301 |
 | Khan's Revenge | 2.00% | ~301 |
 | Master Negotiator | 2.00% | ~20 |
-| Doctor Approved | 1.00% | ~150 |
-| Data Logger | 1.00% | ~150 |
-| Miraculous Maya | 1.00% | ~150 |
+| Doctor Approved | 1.00% | ~151 |
+| Data Logger | 1.00% | ~151 |
+| Miraculous Maya | 1.00% | ~151 |
 | Data Master | 0.80% | ~120 |
 | Brother's Reaper | 0.70% | ~105 |
 | No Belter Left Behind | 0.70% | ~105 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,047 (Ranked 149)  
+Progressed: 15,052 (Ranked 149)  
 Completed: 34 (0.23%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 34 (0.23%) (Ranked 244)
 | 2023-11-14 | 14,967 | 34 |
 | 2023-11-15 | 14,993 | 34 |
 | 2023-11-16 | 15,021 | 34 |
-| 2023-11-17 | 15,047 | 34 |
+| 2023-11-17 | 15,052 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8075,10 +8075,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32508,
       "NumberOfAwardsMax": 5532
+    },
+    {
+      "Time": "2023-11-17T19:58:45.4928913+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32510,
+      "NumberOfAwardsMax": 5532
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32508,
+  "NumberOfAwards": 32510,
   "NumberOfAwardsMax": 5532,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8116,7 +8122,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4215
+      "Count": 4217
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8125,9 +8131,9 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235546,
+  "EOS_Progressed": 235554,
   "EOS_Completed": 2456,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1199,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31795,6 +31801,11 @@
       "Time": "2023-11-17T19:09:22.0429746+00:00",
       "NumProgressed": 235546,
       "NumCompleted": 2456
+    },
+    {
+      "Time": "2023-11-17T20:09:09.1911017+00:00",
+      "NumProgressed": 235554,
+      "NumCompleted": 2456
     }
   ],
   "TotalAchievements": 532,
@@ -36030,7 +36041,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "objective_completed_1548",
@@ -36061,21 +36072,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201820,
+      "Progressed": 201828,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235546,
+      "Progressed": 235554,
       "Completed": 2456
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-17T17:58:26.8683298+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:09:22.0429741+00:00",
+  "LastChanged": "2023-11-17T19:58:45.4928911+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:09:09.1911013+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:47.9222762+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:09:22.0451213+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:58:45.4928917+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:09:09.193285+00:00"
 }

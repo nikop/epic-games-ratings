@@ -6,22 +6,22 @@
 | ---- | ---------- | ----- |
 | First success | 97.00% | ~32 |
 | Suicide squad | 58.00% | ~19 |
+| Train hard, fight easy | 30.00% | ~10 |
+| Under cover | 30.00% | ~10 |
 | First blood | 30.00% | ~10 |
-| Train hard, fight easy | 27.00% | ~9 |
-| Under cover | 27.00% | ~9 |
 | All for one! | 24.00% | ~8 |
+| Royal blessing | 24.00% | ~8 |
 | A hidden snake | 24.00% | ~8 |
 | Blood and sand | 24.00% | ~8 |
-| Royal blessing | 21.00% | ~7 |
 | Vene, vidi, vici | 18.00% | ~6 |
 | Crimson rivers | 15.00% | ~5 |
 | Power of Inquisition | 15.00% | ~5 |
+| Surpass the teacher | 15.00% | ~5 |
 | Help of the Gell | 15.00% | ~5 |
 | Trial by cold | 15.00% | ~5 |
 | She-Wolf | 15.00% | ~5 |
 | For the greater good | 12.00% | ~4 |
 | The champion of the arena | 12.00% | ~4 |
-| Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
 | Collector | 9.00% | ~3 |

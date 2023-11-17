@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 86.00% | ~65 |
-| A Small Thirsty Thing | 13.00% | ~10 |
+| A Small Thirsty Thing | 14.00% | ~11 |
 | Spirit Within | 12.00% | ~9 |
 | Rain Must Fall | 9.00% | ~7 |
 | Overboard | 9.00% | ~7 |

@@ -703,7 +703,7 @@
   ],
   "EOS_Progressed": 1842,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -5787,9 +5787,9 @@
       "ID": "achievement_34",
       "SetID": "222fo9l",
       "Name": "Raise the Stakes",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1032
     },
     {
       "ID": "achievement_35",
@@ -5956,8 +5956,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:04:07.2129751+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:03:56.2637938+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:53.3110511+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:04:07.2130214+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:58:51.6190389+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:03:56.2638472+00:00"
 }

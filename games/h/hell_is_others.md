@@ -7,8 +7,8 @@ Rating: 4.39 (Ranked 746)
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~80,127 |
 | Predator I | 23.00% | ~59,449 |
-| Fixer I | 10.00% | ~25,847 |
-| A week in Century City | 10.00% | ~25,847 |
+| Fixer I | 10.00% | ~25,848 |
+| A week in Century City | 10.00% | ~25,848 |
 | The Wait | 7.00% | ~18,093 |
 | Green thumb I | 6.00% | ~15,508 |
 | Cleaning Company | 6.00% | ~15,508 |
@@ -20,14 +20,14 @@ Rating: 4.39 (Ranked 746)
 | Capitalist I | 4.00% | ~10,339 |
 | Fixer II | 3.00% | ~7,754 |
 | Adrenaline | 3.00% | ~7,754 |
-| By a hair | 2.00% | ~5,169 |
-| It took a while | 2.00% | ~5,169 |
-| Samurai | 2.00% | ~5,169 |
-| I Left You a Present | 2.00% | ~5,169 |
-| Predator II | 2.00% | ~5,169 |
-| Truffle Dog | 2.00% | ~5,169 |
-| Don't try this at home | 2.00% | ~5,169 |
-| A month in Century City | 2.00% | ~5,169 |
+| By a hair | 2.00% | ~5,170 |
+| It took a while | 2.00% | ~5,170 |
+| Samurai | 2.00% | ~5,170 |
+| I Left You a Present | 2.00% | ~5,170 |
+| Predator II | 2.00% | ~5,170 |
+| Truffle Dog | 2.00% | ~5,170 |
+| Don't try this at home | 2.00% | ~5,170 |
+| A month in Century City | 2.00% | ~5,170 |
 | The Strengthening | 1.00% | ~2,585 |
 | Saver II | 1.00% | ~2,585 |
 | It's the last one, I swear | 1.00% | ~2,585 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 746)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,474 (Ranked 55)  
+Progressed: 258,475 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,11 +273,11 @@ Completed: 3 (0.00%) (Ranked 354)
 | 2023-11-14 | 258,393 | 3 |
 | 2023-11-15 | 258,416 | 3 |
 | 2023-11-16 | 258,451 | 3 |
-| 2023-11-17 | 258,474 | 3 |
+| 2023-11-17 | 258,475 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 51  (Ranked 428)  
+Max (Great for Quick Sessions): 51  (Ranked 429)  
 Sum: 347 (Ranked 353)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 51 |

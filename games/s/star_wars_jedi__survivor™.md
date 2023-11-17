@@ -5,42 +5,42 @@ Rating: 4.50 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,050 |
-| For Saw Gerrera | 98.00% | ~7,968 |
-| Grab Some Seat | 91.00% | ~7,399 |
-| Can You Pet the Bogling? | 87.00% | ~7,074 |
-| The Past Made Present | 83.00% | ~6,749 |
-| Survivors, We Adapt | 79.00% | ~6,423 |
-| They Never Saw It Coming | 77.00% | ~6,261 |
-| Among the Masters | 77.00% | ~6,261 |
-| Who Gives a Puck | 73.00% | ~5,936 |
-| For the Path | 65.00% | ~5,285 |
-| Mirror Match | 64.00% | ~5,204 |
-| Now, This Isn't Podracing | 64.00% | ~5,204 |
-| Skywalker | 61.00% | ~4,960 |
-| Out of Bedlam | 60.00% | ~4,879 |
-| Cleaning Up | 54.00% | ~4,391 |
-| Tanalorr Bound | 52.00% | ~4,228 |
-| Kitted Out | 51.00% | ~4,147 |
+| Rooftop Duel | 99.00% | ~8,052 |
+| For Saw Gerrera | 98.00% | ~7,970 |
+| Grab Some Seat | 91.00% | ~7,401 |
+| Can You Pet the Bogling? | 87.00% | ~7,076 |
+| The Past Made Present | 83.00% | ~6,750 |
+| Survivors, We Adapt | 79.00% | ~6,425 |
+| They Never Saw It Coming | 77.00% | ~6,262 |
+| Among the Masters | 77.00% | ~6,262 |
+| Who Gives a Puck | 73.00% | ~5,937 |
+| For the Path | 65.00% | ~5,286 |
+| Mirror Match | 64.00% | ~5,205 |
+| Now, This Isn't Podracing | 64.00% | ~5,205 |
+| Skywalker | 61.00% | ~4,961 |
+| Out of Bedlam | 60.00% | ~4,880 |
+| Cleaning Up | 54.00% | ~4,392 |
+| Tanalorr Bound | 52.00% | ~4,229 |
+| Kitted Out | 51.00% | ~4,148 |
 | Tragedy | 50.00% | ~4,066 |
-| Hey, Luke At Us | 49.00% | ~3,984 |
-| At the Precipice | 48.00% | ~3,903 |
-| Into the Abyss | 47.00% | ~3,822 |
-| Riposte | 46.00% | ~3,740 |
-| A Place You Could Call Home | 44.00% | ~3,578 |
-| Greezy Money | 43.00% | ~3,496 |
-| Catch! | 40.00% | ~3,252 |
-| They're Probably Fine | 40.00% | ~3,252 |
-| Han Slowlo | 37.00% | ~3,008 |
-| There Is No Try | 36.00% | ~2,927 |
-| The Jedi Path | 32.00% | ~2,602 |
+| Hey, Luke At Us | 49.00% | ~3,985 |
+| At the Precipice | 48.00% | ~3,904 |
+| Into the Abyss | 47.00% | ~3,823 |
+| Riposte | 46.00% | ~3,741 |
+| A Place You Could Call Home | 44.00% | ~3,579 |
+| Greezy Money | 44.00% | ~3,579 |
+| Catch! | 40.00% | ~3,253 |
+| They're Probably Fine | 40.00% | ~3,253 |
+| Han Slowlo | 38.00% | ~3,091 |
+| There Is No Try | 36.00% | ~2,928 |
+| The Jedi Path | 32.00% | ~2,603 |
 | This Is Canon | 28.00% | ~2,277 |
-| It's a Trap | 26.00% | ~2,114 |
+| It's a Trap | 26.00% | ~2,115 |
 | You've Got A Friend | 22.00% | ~1,789 |
 | King of the World | 16.00% | ~1,301 |
 | Reconnaissance | 15.00% | ~1,220 |
-| Max Capacity | 14.00% | ~1,138 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,138 |
+| Max Capacity | 14.00% | ~1,139 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,139 |
 | Slam Dunk | 12.00% | ~976 |
 | Star Tours | 10.00% | ~813 |
 | Caij Match | 10.00% | ~813 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 587)
 | Blood, Sweat, and Tears | 3.00% | ~244 |
 | Pinpoint | 2.00% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,131 (Ranked 170)  
+Progressed: 8,133 (Ranked 170)  
 Completed: 45 (0.55%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,21 +121,21 @@ Completed: 45 (0.55%) (Ranked 193)
 | 2023-11-14 | 7,979 | 44 |
 | 2023-11-15 | 8,022 | 45 |
 | 2023-11-16 | 8,080 | 45 |
-| 2023-11-17 | 8,131 | 45 |
+| 2023-11-17 | 8,133 | 45 |
 ## Awards
-Max (Great Boss Battles): 3,232  (Ranked 95)  
-Sum: 4,947 (Ranked 139)  
+Max (Great Boss Battles): 3,241  (Ranked 95)  
+Sum: 4,960 (Ranked 139)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,232 |
+| This game has Great Boss Battles | 3,241 |
 | This game has Amazing Storytelling | 227 |
 | This game has Quickly Understood Controls | 207 |
 | This game has Amazing Characters | 205 |
 | This game has Diverse Characters | 199 |
 | This game is Relaxing | 193 |
+| This game is Extremely Fun | 192 |
 | This game is Highly Recommended | 188 |
-| This game is Extremely Fun | 188 |
 | This game has Challenging Combat | 181 |
 | This game has a Creative Community | 127 |
 ## Ratings History
@@ -342,4 +342,4 @@ Diff (max vs sum): -44
 | 2023-11-14 | 4.50 | 3,211 | 4,902 |
 | 2023-11-15 | 4.50 | 3,225 | 4,922 |
 | 2023-11-16 | 4.50 | 3,232 | 4,939 |
-| 2023-11-17 | 4.50 | 3,232 | 4,947 |
+| 2023-11-17 | 4.50 | 3,241 | 4,960 |

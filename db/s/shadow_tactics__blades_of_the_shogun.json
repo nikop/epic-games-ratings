@@ -2044,9 +2044,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 214250,
+  "EOS_Progressed": 214255,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26194,6 +26194,11 @@
       "Time": "2023-11-17T19:06:03.1475164+00:00",
       "NumProgressed": 214250,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-17T20:06:06.8749989+00:00",
+      "NumProgressed": 214255,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26205,7 +26210,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21425
+      "UsersEstimate": 21426
     },
     {
       "ID": "AtheistOx",
@@ -26237,7 +26242,7 @@
       "Name": "Complete Mastery",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Disguised",
@@ -26245,7 +26250,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19282
+      "UsersEstimate": 19283
     },
     {
       "ID": "FiveShadows",
@@ -26277,7 +26282,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25710
+      "UsersEstimate": 25711
     },
     {
       "ID": "HappyLittleAccidents",
@@ -26341,7 +26346,7 @@
       "Name": "Meticulous",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "Mimimi",
@@ -26381,7 +26386,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10712
+      "UsersEstimate": 10713
     },
     {
       "ID": "OldMan",
@@ -26397,7 +26402,7 @@
       "Name": "Praise the Shogun",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Prisoners",
@@ -26405,7 +26410,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10712
+      "UsersEstimate": 10713
     },
     {
       "ID": "ReleaseTheKraken",
@@ -26429,7 +26434,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19282
+      "UsersEstimate": 19283
     },
     {
       "ID": "StillRollin",
@@ -26461,7 +26466,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19282
+      "UsersEstimate": 19283
     },
     {
       "ID": "TheCave",
@@ -26477,7 +26482,7 @@
       "Name": "The End",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "TheOldWay",
@@ -26493,7 +26498,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21425
+      "UsersEstimate": 21426
     },
     {
       "ID": "TimeParadox",
@@ -26509,7 +26514,7 @@
       "Name": "Undeserved Honor",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "WarriorBarrel",
@@ -26517,7 +26522,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10712
+      "UsersEstimate": 10713
     },
     {
       "ID": "Warzone",
@@ -26556,15 +26561,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 214250,
+      "Progressed": 214255,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-17T13:03:56.1584459+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:06:03.147516+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:06:06.8749985+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:57:30.3682604+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:06:03.1476314+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:57:19.2269723+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:06:06.8751421+00:00"
 }

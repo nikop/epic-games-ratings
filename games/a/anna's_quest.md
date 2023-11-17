@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 78.00% | ~56 |
-| Book Worm | 50.00% | ~36 |
-| Ooh, it's shiny! | 49.00% | ~35 |
-| My lost nightingale | 42.00% | ~30 |
+| Escape artist | 78.00% | ~57 |
+| Book Worm | 49.00% | ~36 |
+| Ooh, it's shiny! | 48.00% | ~35 |
+| My lost nightingale | 41.00% | ~30 |
 | Through the woods | 40.00% | ~29 |
 | Fussy eater | 36.00% | ~26 |
-| Back to the anvil | 35.00% | ~25 |
-| So soothing... | 35.00% | ~25 |
-| Kekekeke... | 35.00% | ~25 |
+| Back to the anvil | 34.00% | ~25 |
+| So soothing... | 34.00% | ~25 |
+| Kekekeke... | 34.00% | ~25 |
 | Mystery solved | 32.00% | ~23 |
 | Sorry Grandpa | 32.00% | ~23 |
 | Roostwig has entered the building | 32.00% | ~23 |
-| Honey, honey, honey… | 31.00% | ~22 |
-| Far away from home | 31.00% | ~22 |
-| NOW GO AWAY! | 31.00% | ~22 |
+| Honey, honey, honey… | 30.00% | ~22 |
+| Far away from home | 30.00% | ~22 |
+| NOW GO AWAY! | 30.00% | ~22 |
 | Game Over! | 29.00% | ~21 |
 | A very special drink | 29.00% | ~21 |
-| Shattered | 28.00% | ~20 |
-| Little genius | 28.00% | ~20 |
+| Shattered | 27.00% | ~20 |
+| Little genius | 27.00% | ~20 |
 | Show me your true self | 26.00% | ~19 |
 | GG | 26.00% | ~19 |
 | Beekeeper | 26.00% | ~19 |
@@ -38,14 +38,14 @@
 | Makeover | 19.00% | ~14 |
 | Singstar | 19.00% | ~14 |
 | Bahahahaha... | 18.00% | ~13 |
-| Guilty conscience | 17.00% | ~12 |
+| Guilty conscience | 16.00% | ~12 |
 | Cameodalic | 15.00% | ~11 |
-| Clever reference #451 | 13.00% | ~9 |
+| Clever reference #451 | 12.00% | ~9 |
 | What a mess | 11.00% | ~8 |
 | Posterboy! | 10.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 454)  
-Completed: 6 (8.33%) (Ranked 49)  
+Progressed: 73 (Ranked 454)  
+Completed: 6 (8.22%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 6 (8.33%) (Ranked 49)
 | 2023-11-12 | 66 | 6 |
 | 2023-11-13 | 68 | 6 |
 | 2023-11-16 | 70 | 6 |
-| 2023-11-17 | 72 | 6 |
+| 2023-11-17 | 73 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

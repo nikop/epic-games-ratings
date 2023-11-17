@@ -617,7 +617,7 @@
   ],
   "EOS_Progressed": 3636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5330,9 +5330,9 @@
       "ID": "achievement_14",
       "SetID": "aiin7da",
       "Name": "ROTY",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_15",
@@ -5467,8 +5467,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-17T01:50:18.752262+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:04:54.7002512+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:04:48.8203672+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:57:31.4022853+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:04:54.7002869+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:57:20.3321293+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:04:48.8204024+00:00"
 }

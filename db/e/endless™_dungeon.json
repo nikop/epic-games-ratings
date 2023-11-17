@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1106,
+  "EOS_Progressed": 1108,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2023-11-17T17:05:42.5453804+00:00",
       "NumProgressed": 1106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T20:05:47.4483091+00:00",
+      "NumProgressed": 1108,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1811,7 +1816,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1827,7 +1832,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 776
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1859,7 +1864,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1891,7 +1896,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1986,14 +1991,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1106,
+      "Progressed": 1108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:05:44.4357159+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:05:47.4483087+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:05.7719165+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:05:44.4357369+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:57:57.4814612+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:05:47.4483357+00:00"
 }

@@ -10,7 +10,7 @@
 | Budding Conjuror | 77.00% | ~226 |
 | Man-Machine Master | 68.00% | ~200 |
 | Mountain Splitter | 66.00% | ~194 |
-| Charmed by the Hunt | 65.00% | ~191 |
+| Charmed by the Hunt | 66.00% | ~194 |
 | Fusion Conjuror | 64.00% | ~188 |
 | Memory Rouser | 64.00% | ~188 |
 | Subsistence Skills | 64.00% | ~188 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4226,
+  "EOS_Progressed": 4227,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7354,6 +7354,11 @@
       "Time": "2023-11-17T00:04:23.4354261+00:00",
       "NumProgressed": 4226,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-17T20:05:02.8102785+00:00",
+      "NumProgressed": 4227,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7477,7 +7482,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "Ach016",
@@ -7541,7 +7546,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Ach024",
@@ -7557,7 +7562,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "Ach026",
@@ -7932,13 +7937,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4226,
+      "Progressed": 4227,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2747,
+      "Progressed": 2748,
       "Completed": 1930
     }
   ],
@@ -7946,8 +7951,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:05:05.2225522+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:05:02.8102781+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.6846175+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:50.1657958+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:05:05.2226369+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:58:47.9991712+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:05:02.8103666+00:00"
 }

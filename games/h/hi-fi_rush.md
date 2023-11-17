@@ -5,13 +5,13 @@ Rating: 4.86 (Ranked 30)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 17.00% | ~718 |
+| Feeling the beat! | 17.00% | ~719 |
 | Start with a bang! | 16.00% | ~676 |
 | You can pet the cat! | 15.00% | ~634 |
 | Cream of the Crop | 14.00% | ~592 |
 | Who put gears in there? | 14.00% | ~592 |
-| Thanks for the free chip, Peppermint! | 13.00% | ~549 |
-| You got this, Peppermint? | 13.00% | ~549 |
+| Thanks for the free chip, Peppermint! | 13.00% | ~550 |
+| You got this, Peppermint? | 13.00% | ~550 |
 | Perfect Parry | 12.00% | ~507 |
 | Alright, that felt AWESOME! | 12.00% | ~507 |
 | This will cost you big time | 11.00% | ~465 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,226 (Ranked 194)  
+Progressed: 4,227 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 8 (0.19%) (Ranked 257)
 | 2023-11-14 | 4,221 | 8 |
 | 2023-11-15 | 4,223 | 8 |
 | 2023-11-16 | 4,225 | 8 |
-| 2023-11-17 | 4,226 | 8 |
+| 2023-11-17 | 4,227 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

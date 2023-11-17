@@ -12201,9 +12201,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457629,
+  "EOS_Progressed": 457678,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6112,
+  "EOS_NewPlayers": 6098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36391,6 +36391,11 @@
       "Time": "2023-11-17T19:05:26.2486474+00:00",
       "NumProgressed": 457629,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T20:05:26.2123284+00:00",
+      "NumProgressed": 457678,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37936,9 +37941,9 @@
       "ID": "achievement_mehmet_ambition",
       "SetID": "8p2n7he",
       "Name": "Mehmet\u0027s Ambition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_meissner_porcelain",
@@ -39232,9 +39237,9 @@
       "ID": "achievement_breadbasket_of_the_world",
       "SetID": "8p2n7he",
       "Name": "Breadbasket of the World",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_desert_power",
@@ -39305,21 +39310,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457629,
+      "Progressed": 457678,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457629,
+      "Progressed": 457678,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-17T17:58:34.172851+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:05:26.2486471+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:05:26.212328+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:54.930292+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:05:26.2496515+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:58:53.5789118+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:05:26.2133757+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Stubbs the Zombie in Rebel Without a Pulse",
   "ProductSlug": "stubbs-the-zombie-in-rebel-without-a-pulse",
   "Ranking_Rating": 781,
-  "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 480,
+  "Ranking_Popularity": 423,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -504,18 +504,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 51,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-17T19:57:21.714882+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51,
-  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 52,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 51
+      "Count": 52
     }
   ],
   "EOS_Progressed": 0,
@@ -529,8 +535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
-  "LastChanged": "2023-11-15T15:01:14.8435372+00:00",
+  "LastChanged": "2023-11-17T19:57:21.7148817+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:42.1802258+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:57:32.6389501+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:03:37.5458732+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:57:21.7148824+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:03:24.238859+00:00"
 }

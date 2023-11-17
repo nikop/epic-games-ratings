@@ -8,25 +8,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 5.00% | ~7,014 |
 | Titan's First Steps | 5.00% | ~7,014 |
-| Basic in Bulk | 4.00% | ~5,611 |
-| Tinkle of Coins | 4.00% | ~5,611 |
-| Disintermediation | 3.00% | ~4,208 |
-| It's Free Real Estate | 3.00% | ~4,208 |
-| Budding Merchant | 3.00% | ~4,208 |
-| Capitalism Ho! | 3.00% | ~4,208 |
-| The Daily Grind | 2.00% | ~2,805 |
-| One Easy Payment | 2.00% | ~2,805 |
-| Some Assembly Required | 2.00% | ~2,805 |
-| Bounty Hunters | 2.00% | ~2,805 |
-| Demand for Supplies | 2.00% | ~2,805 |
-| Flooding the Market | 2.00% | ~2,805 |
-| Where it Hurts | 2.00% | ~2,805 |
-| Another Satisfied Customer | 2.00% | ~2,805 |
-| Pretty Penny | 2.00% | ~2,805 |
-| One-Armed Bandit | 2.00% | ~2,805 |
-| Dungeon Imports | 2.00% | ~2,805 |
-| Through Repetition, Perfection | 2.00% | ~2,805 |
-| Own the Means of Production | 2.00% | ~2,805 |
+| Basic in Bulk | 4.00% | ~5,612 |
+| Tinkle of Coins | 4.00% | ~5,612 |
+| Disintermediation | 3.00% | ~4,209 |
+| It's Free Real Estate | 3.00% | ~4,209 |
+| Budding Merchant | 3.00% | ~4,209 |
+| Capitalism Ho! | 3.00% | ~4,209 |
+| The Daily Grind | 2.00% | ~2,806 |
+| One Easy Payment | 2.00% | ~2,806 |
+| Some Assembly Required | 2.00% | ~2,806 |
+| Bounty Hunters | 2.00% | ~2,806 |
+| Demand for Supplies | 2.00% | ~2,806 |
+| Flooding the Market | 2.00% | ~2,806 |
+| Where it Hurts | 2.00% | ~2,806 |
+| Another Satisfied Customer | 2.00% | ~2,806 |
+| Pretty Penny | 2.00% | ~2,806 |
+| One-Armed Bandit | 2.00% | ~2,806 |
+| Dungeon Imports | 2.00% | ~2,806 |
+| Through Repetition, Perfection | 2.00% | ~2,806 |
+| Own the Means of Production | 2.00% | ~2,806 |
 | On the Path to Greatness | 1.00% | ~1,403 |
 | Ascended | 1.00% | ~1,403 |
 | Tax not Included | 1.00% | ~1,403 |
@@ -48,22 +48,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,403 |
 | Magical Harmony | 1.00% | ~1,403 |
 | Arcane Industries | 1.00% | ~1,403 |
-| A Notch Above the Rest | 0.90% | ~1,262 |
-| The King's Caprice | 0.90% | ~1,262 |
-| Big Game Hunting | 0.90% | ~1,262 |
-| Scrapbooker | 0.90% | ~1,262 |
-| Locally Sourced | 0.90% | ~1,262 |
-| Flying off the Shelves | 0.90% | ~1,262 |
-| This Power Level...! | 0.90% | ~1,262 |
-| Hidden Potential | 0.90% | ~1,262 |
-| Expansion in Session | 0.90% | ~1,262 |
-| Mammonite | 0.90% | ~1,262 |
-| Miracle Alchemist | 0.90% | ~1,262 |
-| Laden with Loot | 0.90% | ~1,262 |
-| Seasoned Journeyman | 0.90% | ~1,262 |
-| Black Friday Special | 0.90% | ~1,262 |
-| Special Ingredient | 0.90% | ~1,262 |
-| Complete Monopoly | 0.90% | ~1,262 |
+| A Notch Above the Rest | 0.90% | ~1,263 |
+| The King's Caprice | 0.90% | ~1,263 |
+| Big Game Hunting | 0.90% | ~1,263 |
+| Scrapbooker | 0.90% | ~1,263 |
+| Locally Sourced | 0.90% | ~1,263 |
+| Flying off the Shelves | 0.90% | ~1,263 |
+| This Power Level...! | 0.90% | ~1,263 |
+| Hidden Potential | 0.90% | ~1,263 |
+| Expansion in Session | 0.90% | ~1,263 |
+| Mammonite | 0.90% | ~1,263 |
+| Miracle Alchemist | 0.90% | ~1,263 |
+| Laden with Loot | 0.90% | ~1,263 |
+| Seasoned Journeyman | 0.90% | ~1,263 |
+| Black Friday Special | 0.90% | ~1,263 |
+| Special Ingredient | 0.90% | ~1,263 |
+| Complete Monopoly | 0.90% | ~1,263 |
 | Cream of the Crop | 0.80% | ~1,122 |
 | Proud Paladin | 0.80% | ~1,122 |
 | Above the Norm | 0.80% | ~1,122 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,273 (Ranked 79)  
+Progressed: 140,288 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,273 | 187 |
+| 2023-11-17 | 140,288 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,561 (Ranked 50)  

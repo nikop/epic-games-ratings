@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 367,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -919,9 +919,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "GoodCitizen",
@@ -1264,8 +1264,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:05:57.579044+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:06:01.2303612+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:00:04.9886489+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:05:57.5790836+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:00:12.6585512+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:06:01.230417+00:00"
 }

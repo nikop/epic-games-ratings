@@ -347,9 +347,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 312719,
+  "EOS_Progressed": 312751,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5530,
+  "EOS_NewPlayers": 5516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6337,6 +6337,11 @@
       "Time": "2023-11-17T19:06:32.7926995+00:00",
       "NumProgressed": 312719,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-17T20:06:40.2735955+00:00",
+      "NumProgressed": 312751,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6349,7 +6354,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "S02_BRDA",
@@ -6373,7 +6378,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S05_SWRA",
@@ -6381,7 +6386,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S06_LWTC",
@@ -6389,7 +6394,7 @@
       "Name": "They tricked me",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S07_INWA",
@@ -6397,7 +6402,7 @@
       "Name": "We need to talk",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S08_MNSA",
@@ -6485,7 +6490,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "S19_CHALLENGES",
@@ -6517,7 +6522,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S23_ETHEREAL",
@@ -6541,7 +6546,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S26_CRTA",
@@ -6581,7 +6586,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -6668,7 +6673,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 312719,
+      "Progressed": 312751,
       "Completed": 4
     }
   ],
@@ -6676,8 +6681,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-16T23:57:28.5098553+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:06:32.7926991+00:00",
+  "LastChanged_Achievements": "2023-11-17T20:06:40.2735952+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:58:02.3033302+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:06:32.7927468+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:57:53.7677282+00:00",
+  "LastUpdate_Achievements": "2023-11-17T20:06:40.2736585+00:00"
 }
