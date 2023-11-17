@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 1.00% | ~154 |
 | Learn to Play 3 | 1.00% | ~154 |
 | Learn to Play 4 | 1.00% | ~154 |
+| Babylonia | 1.00% | ~154 |
 | Carthage | 1.00% | ~154 |
 | Greece | 1.00% | ~154 |
 | One True Faith | 1.00% | ~154 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.90% | ~138 |
 | Ready | 0.90% | ~138 |
 | Clerics | 0.90% | ~138 |
-| Babylonia | 0.90% | ~138 |
 | Egypt | 0.90% | ~138 |
 | Assyrian Paganism | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
@@ -177,6 +177,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
 | A Good Start | 0.30% | ~46 |
+| Tell the Spartans | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
@@ -190,7 +191,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Get the Hellas Out | 0.20% | ~31 |
 | The Turning Point | 0.20% | ~31 |
 | Like a Lion | 0.20% | ~31 |
-| Tell the Spartans | 0.20% | ~31 |
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
 | Medo-Babylonian Conquest | 0.20% | ~31 |

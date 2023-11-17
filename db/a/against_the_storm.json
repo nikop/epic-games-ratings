@@ -3,12 +3,12 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 78,
-  "Ranking_Popularity": 219,
+  "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3233,9 +3233,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17325,
+  "EOS_Progressed": 17326,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13638,6 +13638,11 @@
       "Time": "2023-11-17T16:08:20.2400734+00:00",
       "NumProgressed": 17325,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-17T17:07:36.2026402+00:00",
+      "NumProgressed": 17326,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -13657,7 +13662,7 @@
       "Name": "Feeding The People",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "AllNeeds",
@@ -13713,7 +13718,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MetalChain",
@@ -13993,7 +13998,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "WinWithRuins",
@@ -14048,15 +14053,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17325,
+      "Progressed": 17326,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-17T02:22:40.3600725+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:08:20.2400728+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:07:36.2026397+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:36.8089567+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:01:30.4518036+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:08:20.2401565+00:00"
+  "LastUpdate_Ratings": "2023-11-17T17:00:19.3955479+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:07:36.2027132+00:00"
 }

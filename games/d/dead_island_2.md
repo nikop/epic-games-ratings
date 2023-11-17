@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~903 |
-| Whatever It Takes | 2.00% | ~903 |
-| Pork Chopped | 2.00% | ~903 |
-| Hotel California | 1.00% | ~7,196 |
-| Welcome To Hell-A | 1.00% | ~7,196 |
+| One of Us | 2.00% | ~904 |
+| Whatever It Takes | 2.00% | ~904 |
+| Pork Chopped | 2.00% | ~904 |
+| Hotel California | 1.00% | ~7,197 |
+| Welcome To Hell-A | 1.00% | ~7,197 |
 | Git Gutte! | 0.90% | ~6,477 |
 | Break A Leg | 0.90% | ~6,477 |
 | Coup de Grâce | 0.90% | ~6,477 |
@@ -22,10 +22,10 @@ Rating: 4.54 (Ranked 523)
 | Apex Predator | 0.80% | ~5,757 |
 | Stacking the Deck | 0.80% | ~5,757 |
 | This is My Weapon | 0.80% | ~5,757 |
-| But Doctor, I am Butcho | 0.70% | ~5,037 |
-| Can't Handle the Truth | 0.70% | ~5,037 |
-| Like Riding a Bike | 0.70% | ~5,037 |
-| A Patton Emerges | 0.70% | ~5,037 |
+| But Doctor, I am Butcho | 0.70% | ~5,038 |
+| Can't Handle the Truth | 0.70% | ~5,038 |
+| Like Riding a Bike | 0.70% | ~5,038 |
+| A Patton Emerges | 0.70% | ~5,038 |
 | Perks of the Job | 0.60% | ~4,318 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,318 |
 | Slayer Squad | 0.60% | ~4,318 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,626 (Ranked 20)  
+Progressed: 719,652 (Ranked 20)  
 Completed: 2,401 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2,401 (0.33%) (Ranked 226)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,626 | 2,401 |
+| 2023-11-17 | 719,652 | 2,401 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 51)  
 Sum: 11,442 (Ranked 84)  

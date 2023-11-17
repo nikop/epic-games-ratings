@@ -7,8 +7,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 3.00% | ~26,911 |
-| Gun Fu | 2.00% | ~17,940 |
-| Relic Ruler | 1.00% | ~256 |
+| Gun Fu | 2.00% | ~17,941 |
+| Relic Ruler | 1.00% | ~257 |
 | Full Body Conversion | 0.80% | ~7,176 |
 | True Soldier | 0.80% | ~7,176 |
 | Right Back At Ya | 0.70% | ~6,279 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,025 (Ranked 15)  
+Progressed: 897,033 (Ranked 15)  
 Completed: 2,783 (0.31%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,14 +285,14 @@ Completed: 2,783 (0.31%) (Ranked 231)
 | 2023-11-14 | 896,716 | 2,778 |
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
-| 2023-11-17 | 897,025 | 2,783 |
+| 2023-11-17 | 897,033 | 2,783 |
 ## Awards
-Max (Character Customization): 105,726  (Ranked 9)  
-Sum: 355,133 (Ranked 10)  
+Max (Character Customization): 105,891  (Ranked 9)  
+Sum: 355,298 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 105,726 |
+| This game has Inclusive Character Customization | 105,891 |
 | This game has Great Boss Battles | 76,641 |
 | This game is Great for Beginners | 21,432 |
 | This game has Diverse Characters | 20,980 |
@@ -608,4 +608,4 @@ Diff (max vs sum): -1
 | 2023-11-14 | 4.64 | - | 105,471 | 352,694 |
 | 2023-11-15 | 4.64 | - | 105,592 | 353,529 |
 | 2023-11-16 | 4.64 | - | 105,726 | 354,422 |
-| 2023-11-17 | 4.64 | - | 105,726 | 355,133 |
+| 2023-11-17 | 4.64 | - | 105,891 | 355,298 |

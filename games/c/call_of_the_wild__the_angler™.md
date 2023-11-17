@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.18 (Ranked 926)  
+Rating: 4.19 (Ranked 918)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 1.00% | ~65 |
 | Fish Out of Water | 1.00% | ~65 |
 | Things that go Splash in the Night | 1.00% | ~65 |
+| School's Out for Summer | 0.90% | ~59 |
 | Goldfish? | 0.80% | ~52 |
-| School's Out for Summer | 0.80% | ~52 |
 | License to Gill | 0.70% | ~46 |
 | Going for Gold | 0.70% | ~46 |
 | I'm Hooked! | 0.50% | ~33 |
@@ -364,3 +364,4 @@ Diff (max vs sum): 61
 | 2023-11-10 | 4.18 | - | 36 | 191 |
 | 2023-11-11 | 4.18 | - | 36 | 192 |
 | 2023-11-15 | 4.18 | - | 37 | 195 |
+| 2023-11-17 | 4.19 | - | 37 | 195 |

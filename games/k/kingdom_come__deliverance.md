@@ -6,18 +6,18 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,787 |
+| Blacksmith's Son | 32.00% | ~258,788 |
 | Cavalier | 25.00% | ~202,178 |
-| Fatso | 23.00% | ~186,003 |
-| Awakening | 21.00% | ~169,829 |
-| Ranger | 20.00% | ~161,742 |
-| Scrooge | 20.00% | ~161,742 |
+| Fatso | 23.00% | ~186,004 |
+| Awakening | 21.00% | ~169,830 |
+| Ranger | 20.00% | ~161,743 |
+| Scrooge | 20.00% | ~161,743 |
 | Anorectic | 16.00% | ~129,394 |
-| Bookworm | 15.00% | ~121,306 |
-| Firestarter | 15.00% | ~121,306 |
-| Insomniac | 13.00% | ~105,132 |
-| Buddy | 12.00% | ~97,045 |
-| Thief | 12.00% | ~97,045 |
+| Bookworm | 15.00% | ~121,307 |
+| Firestarter | 15.00% | ~121,307 |
+| Insomniac | 13.00% | ~105,133 |
+| Buddy | 12.00% | ~97,046 |
+| Thief | 12.00% | ~97,046 |
 | Sinner | 11.00% | ~88,958 |
 | Traveller | 11.00% | ~88,958 |
 | Convict | 10.00% | ~80,871 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~40,436 |
 | Monk | 5.00% | ~40,436 |
 | Serial Killer | 5.00% | ~40,436 |
-| Bastard | 4.00% | ~32,348 |
-| Hunter | 4.00% | ~32,348 |
-| Plague Doctor | 4.00% | ~32,348 |
+| Bastard | 4.00% | ~32,349 |
+| Hunter | 4.00% | ~32,349 |
+| Plague Doctor | 4.00% | ~32,349 |
 | Bard | 3.00% | ~24,261 |
 | Conqueror | 3.00% | ~24,261 |
 | Ginger in a Pickle | 3.00% | ~24,261 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~809 |
 | Wingman | 0.10% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,710 (Ranked 17)  
+Progressed: 808,713 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 51 (0.01%) (Ranked 332)
 | 2023-11-14 | 808,441 | 51 |
 | 2023-11-15 | 808,547 | 51 |
 | 2023-11-16 | 808,645 | 51 |
-| 2023-11-17 | 808,710 | 51 |
+| 2023-11-17 | 808,713 | 51 |
 ## Awards
 Max (Character Customization): 7,606  (Ranked 49)  
 Sum: 28,253 (Ranked 48)  

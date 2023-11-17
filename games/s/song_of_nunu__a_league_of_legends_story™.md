@@ -25,8 +25,8 @@
 | 3000 Year Blackout | 44.00% | ~315 |
 | The Finisher | 43.00% | ~308 |
 | So Close | 41.00% | ~294 |
+| You Get Used To It | 41.00% | ~294 |
 | True Legends | 41.00% | ~294 |
-| You Get Used To It | 40.00% | ~287 |
 | Boosted! | 38.00% | ~272 |
 | Family | 37.00% | ~265 |
 | Biggest Snowball Ever | 37.00% | ~265 |

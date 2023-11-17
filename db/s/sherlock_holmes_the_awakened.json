@@ -6,8 +6,8 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -3107,6 +3107,11 @@
       "Time": "2023-11-15T23:10:12.0186878+00:00",
       "NumProgressed": 812,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-17T17:03:23.8962897+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 28,
@@ -3118,7 +3123,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "MQ01_2",
@@ -3126,7 +3131,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "MQ02_1",
@@ -3134,7 +3139,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "MQ02_2",
@@ -3150,7 +3155,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "MQ02_4",
@@ -3158,7 +3163,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "MQ03_1",
@@ -3182,7 +3187,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "MQ03_4",
@@ -3198,7 +3203,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "MQ04_1",
@@ -3222,7 +3227,7 @@
       "Name": "The New World",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "MQ05_1",
@@ -3244,9 +3249,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 398
     },
     {
       "ID": "MQ05_4",
@@ -3262,7 +3267,7 @@
       "Name": "Brain Food",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MQ06_2",
@@ -3270,7 +3275,7 @@
       "Name": "Bookworm",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MQ06_3",
@@ -3310,7 +3315,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "MQ08_2",
@@ -3318,7 +3323,7 @@
       "Name": "Up In Flames",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "MQ08_3",
@@ -3334,14 +3339,14 @@
       "Name": "Reawakened",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 27
     }
   ],
@@ -3349,8 +3354,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-13T10:59:05.7589745+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:03:52.5340866+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:03:23.8962893+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:10.4254324+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:57:58.4902535+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:03:52.5341171+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:57:41.681581+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:03:23.8963206+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "big-pharma",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-12-15T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.713618+00:00",
   "LastChanged": "2023-03-31T05:57:10.713618+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:57.625286+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:00:27.3377945+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:05:31.0671308+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:59:32.621049+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:04:42.6064032+00:00"
 }

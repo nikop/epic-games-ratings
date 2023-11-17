@@ -42,9 +42,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~520 |
 | Defying the Crown | 3.00% | ~520 |
 | Into the Forest | 3.00% | ~520 |
-| Feeding The People | 2.00% | ~346 |
-| Efficient Explorer | 2.00% | ~346 |
-| Victory through Prosperity | 2.00% | ~346 |
+| Feeding The People | 2.00% | ~347 |
+| Efficient Explorer | 2.00% | ~347 |
+| Victory through Prosperity | 2.00% | ~347 |
 | Prestigious Expedition | 1.00% | ~173 |
 | Blood Flower Farmer | 1.00% | ~173 |
 | Human Utopia | 0.90% | ~156 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,325 (Ranked 142)  
+Progressed: 17,326 (Ranked 142)  
 Completed: 56 (0.32%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,11 +268,11 @@ Completed: 56 (0.32%) (Ranked 229)
 | 2023-11-14 | 17,309 | 55 |
 | 2023-11-15 | 17,312 | 55 |
 | 2023-11-16 | 17,320 | 55 |
-| 2023-11-17 | 17,325 | 56 |
+| 2023-11-17 | 17,326 | 56 |
 ## Awards
-Max (Quickly Understood Controls): 439  (Ranked 219)  
+Max (Quickly Understood Controls): 439  (Ranked 220)  
 Sum: 3,217 (Ranked 171)  
-Diff (max vs sum): 48  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 439 |

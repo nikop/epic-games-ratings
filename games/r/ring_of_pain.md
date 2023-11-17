@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Colorful Corpse | 0.30% | ~719 |
 | Defeat The Dark | 0.30% | ~719 |
 | Goodbye, Frog Friend | 0.30% | ~719 |
+| Heartless | 0.30% | ~719 |
 | What's Yours Is Mine | 0.30% | ~719 |
 | A Donation | 0.30% | ~719 |
 | C-C-Combo | 0.30% | ~719 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Bestiary | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
-| Heartless | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
 | Spine Breaker | 0.20% | ~480 |
 | Shootout | 0.20% | ~480 |

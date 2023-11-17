@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1994,
+  "EOS_Progressed": 1995,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3062,6 +3062,11 @@
       "Time": "2023-11-17T10:03:32.3020399+00:00",
       "NumProgressed": 1994,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-17T17:03:23.0132581+00:00",
+      "NumProgressed": 1995,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3081,7 +3086,7 @@
       "Name": "Collect Gold",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "Collect20Iron",
@@ -3089,7 +3094,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "Collect50MonsterParts",
@@ -3097,7 +3102,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "CollectAllStatues",
@@ -3105,7 +3110,7 @@
       "Name": "Return the Statues",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -3137,7 +3142,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "CompleteElderFaction",
@@ -3145,7 +3150,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "CompleteGuardFaction",
@@ -3153,7 +3158,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3201,7 +3206,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -3209,7 +3214,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "GetRangedWeapon",
@@ -3217,7 +3222,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "GetTHWeapon",
@@ -3241,7 +3246,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "Kill25Mozi",
@@ -3249,7 +3254,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "MeetTheMoles",
@@ -3273,7 +3278,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "RepairSmith",
@@ -3281,7 +3286,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "RepairThroneRoom",
@@ -3312,22 +3317,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1994,
+      "Progressed": 1995,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 635,
-      "Completed": 635
+      "Progressed": 636,
+      "Completed": 636
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:03:51.407662+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:03:23.0132577+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:18.544703+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:58:52.9791881+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:03:51.4076872+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:58:21.960004+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:03:23.0132995+00:00"
 }

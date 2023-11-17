@@ -21,7 +21,7 @@
 | Achoo!! | 22.00% | ~36 |
 | Chapter III | 22.00% | ~36 |
 | Like a moth in the Wind | 22.00% | ~36 |
-| Quite a buggy game | 19.00% | ~31 |
+| Quite a buggy game | 20.00% | ~33 |
 | Pacifist | 19.00% | ~31 |
 | Mirror mirror on the wall... | 19.00% | ~31 |
 | Fastidious Clown | 17.00% | ~28 |

@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 61.00% | ~375 |
 | NO LIFE IS WORTH SAVING... | 49.00% | ~301 |
 | Eat Lead! | 47.00% | ~289 |
-| The Breaking Point | 44.00% | ~271 |
+| The Breaking Point | 45.00% | ~277 |
 | Here Comes the Boom | 43.00% | ~264 |
 | Prospector | 42.00% | ~258 |
 | Sniper Wolf | 40.00% | ~246 |
@@ -32,8 +32,8 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 20.00% | ~123 |
 | Food Massacre | 19.00% | ~117 |
 | Atonement | 18.00% | ~111 |
+| Helping Hand | 16.00% | ~98 |
 | Collectibles of Chapter III | 15.00% | ~92 |
-| Helping Hand | 15.00% | ~92 |
 | Without a Second Thought | 15.00% | ~92 |
 | Collectibles of Chapter IV | 14.00% | ~86 |
 | Collectibles of Chapter V | 10.00% | ~62 |

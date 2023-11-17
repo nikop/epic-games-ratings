@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15228,18 +15228,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 355133,
       "NumberOfAwardsMax": 105726
+    },
+    {
+      "Time": "2023-11-17T16:58:15.5663488+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 355298,
+      "NumberOfAwardsMax": 105891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 355133,
-  "NumberOfAwardsMax": 105726,
+  "NumberOfAwards": 355298,
+  "NumberOfAwardsMax": 105891,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 105726
+      "Count": 105891
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15308,9 +15314,9 @@
       "Count": 13097
     }
   ],
-  "EOS_Progressed": 897025,
+  "EOS_Progressed": 897033,
   "EOS_Completed": 2783,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39238,6 +39244,11 @@
       "Time": "2023-11-17T16:03:32.2793526+00:00",
       "NumProgressed": 897025,
       "NumCompleted": 2783
+    },
+    {
+      "Time": "2023-11-17T17:03:07.9790302+00:00",
+      "NumProgressed": 897033,
+      "NumCompleted": 2783
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39322,7 +39333,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17940
+      "UsersEstimate": 17941
     },
     {
       "ID": "Gunslinger",
@@ -39690,7 +39701,7 @@
       "Name": "Relic Ruler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "UltimateSurvivor",
@@ -39785,21 +39796,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897025,
+      "Progressed": 897033,
       "Completed": 2783
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25648,
+      "Progressed": 25656,
       "Completed": 10230
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-17T15:58:43.9163382+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:03:32.2793522+00:00",
+  "LastChanged": "2023-11-17T16:58:15.5663486+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:03:07.9790299+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:58:43.9163389+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:03:32.2794889+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:58:15.5663492+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:03:07.9792349+00:00"
 }

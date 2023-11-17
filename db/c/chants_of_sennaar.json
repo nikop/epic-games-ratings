@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.39,
+  "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2460,6 +2460,11 @@
       "Time": "2023-11-17T16:04:55.5073316+00:00",
       "NumProgressed": 575,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-17T17:04:14.4738406+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 25,
@@ -2613,9 +2618,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 184
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2623,7 +2628,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "PROGRESS_N1",
@@ -2631,7 +2636,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "PROGRESS_N2",
@@ -2639,7 +2644,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "PROGRESS_N3",
@@ -2670,14 +2675,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:04:55.5073312+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:04:14.4738402+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:00:05.7487981+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:04:55.5073538+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:59:16.69225+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:04:14.4738686+00:00"
 }

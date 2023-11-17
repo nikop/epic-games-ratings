@@ -20,6 +20,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All belongs to Mother Russia | 0.10% | ~458 |
 | All That's Thine Shall Be Mine | 0.10% | ~458 |
 | All Your Trade Are Belong to Us | 0.10% | ~458 |
+| Almost Prussian Blue | 0.10% | ~458 |
 | An early Reich | 0.10% | ~458 |
 | Anglophile | 0.10% | ~458 |
 | Arabian Coffee | 0.10% | ~458 |
@@ -188,7 +189,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
-| Almost Prussian Blue | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,504 (Ranked 41)  
+Progressed: 457,551 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 353)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,504 | 1 |
+| 2023-11-17 | 457,551 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 57,945 (Ranked 24)  

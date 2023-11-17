@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 33.00% | ~190 |
-| Welcome to the Tower | 31.00% | ~178 |
-| The great escape | 27.00% | ~155 |
+| That's the spirit | 32.00% | ~184 |
+| Welcome to the Tower | 31.00% | ~179 |
+| The great escape | 27.00% | ~156 |
 | The Preacher's fate | 26.00% | ~150 |
 | A new dawn | 24.00% | ~138 |
-| Scholar | 22.00% | ~126 |
+| Scholar | 22.00% | ~127 |
 | True G3M4R | 21.00% | ~121 |
 | The darkness | 21.00% | ~121 |
 | A good beginning | 20.00% | ~115 |
@@ -30,8 +30,8 @@
 | For its own good | 9.00% | ~52 |
 | Fashion victim | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575 (Ranked 296)  
-Completed: 31 (5.39%) (Ranked 69)  
+Progressed: 576 (Ranked 296)  
+Completed: 31 (5.38%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,4 +148,4 @@ Completed: 31 (5.39%) (Ranked 69)
 | 2023-11-14 | 551 | 30 |
 | 2023-11-15 | 560 | 30 |
 | 2023-11-16 | 567 | 31 |
-| 2023-11-17 | 575 | 31 |
+| 2023-11-17 | 576 | 31 |

@@ -2288,9 +2288,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2392,9 +2392,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -2536,8 +2536,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:09:48.2865587+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:08:45.6713463+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:59:35.5813306+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:09:48.2866117+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:58:54.0793492+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:08:45.6714213+00:00"
 }

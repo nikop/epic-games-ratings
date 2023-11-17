@@ -7207,9 +7207,9 @@
       "ID": "TowerKills11",
       "SetID": "12d07c7",
       "Name": "Destroyed 11 Towers",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 240
     },
     {
       "ID": "WCUpgraded1",
@@ -7232,8 +7232,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:10:25.8945383+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:09:15.8487717+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-17T16:00:29.0603067+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:10:25.8946114+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:59:33.9078561+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:09:15.8488509+00:00"
 }

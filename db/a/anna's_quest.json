@@ -3,8 +3,8 @@
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.45,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -301,6 +301,11 @@
       "Time": "2023-11-17T12:10:26.1715538+00:00",
       "NumProgressed": 71,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T17:09:11.5896206+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -310,9 +315,9 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "aq_achievement_10",
@@ -326,7 +331,7 @@
       "ID": "aq_achievement_11",
       "SetID": "7jh86ne",
       "Name": "Close the deal",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 16
     },
@@ -334,7 +339,7 @@
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -350,7 +355,7 @@
       "ID": "aq_achievement_14",
       "SetID": "7jh86ne",
       "Name": "Show me your true self",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -358,7 +363,7 @@
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -374,7 +379,7 @@
       "ID": "aq_achievement_17",
       "SetID": "7jh86ne",
       "Name": "GG",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -398,7 +403,7 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -406,7 +411,7 @@
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -414,7 +419,7 @@
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 55,
       "UsersEstimate": 16
     },
@@ -422,7 +427,7 @@
       "ID": "aq_achievement_22",
       "SetID": "7jh86ne",
       "Name": "Makeover",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
       "UsersEstimate": 14
     },
@@ -430,7 +435,7 @@
       "ID": "aq_achievement_23",
       "SetID": "7jh86ne",
       "Name": "Fussy eater",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -438,7 +443,7 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -446,7 +451,7 @@
       "ID": "aq_achievement_25",
       "SetID": "7jh86ne",
       "Name": "Singstar",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -462,7 +467,7 @@
       "ID": "aq_achievement_27",
       "SetID": "7jh86ne",
       "Name": "Ring-a-ding-ding",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -518,7 +523,7 @@
       "ID": "aq_achievement_33",
       "SetID": "7jh86ne",
       "Name": "No posters allowed",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -534,7 +539,7 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 35,
       "UsersEstimate": 34
     },
@@ -623,7 +628,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 6
     }
   ],
@@ -631,8 +636,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:10:20.826003+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:09:11.5896203+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:34.8018097+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:57:26.2262074+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:10:20.8260279+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:57:17.6547164+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:09:11.5896426+00:00"
 }

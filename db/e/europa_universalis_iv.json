@@ -12195,9 +12195,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457504,
+  "EOS_Progressed": 457551,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6194,
+  "EOS_NewPlayers": 6162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36370,6 +36370,11 @@
       "Time": "2023-11-17T16:06:18.5805314+00:00",
       "NumProgressed": 457504,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T17:05:21.3645427+00:00",
+      "NumProgressed": 457551,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36555,9 +36560,9 @@
       "ID": "achievement_almost_prussian_blue",
       "SetID": "8p2n7he",
       "Name": "Almost Prussian Blue",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_an_early_reich",
@@ -39284,21 +39289,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457504,
+      "Progressed": 457551,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457504,
+      "Progressed": 457551,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-17T13:58:50.0881125+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:06:18.5805294+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:05:21.3645423+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:59:38.4535054+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:06:18.5816542+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:58:56.0455645+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:05:21.3655588+00:00"
 }

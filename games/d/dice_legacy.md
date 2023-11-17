@@ -1,11 +1,11 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.27 (Ranked 857)  
+Rating: 4.27 (Ranked 858)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 40.00% | ~465 |
+| We made it | 41.00% | ~477 |
 | Manipulating Fate | 10.00% | ~116 |
 | The City | 10.00% | ~116 |
 | Full house | 7.00% | ~81 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 857)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,163 (Ranked 249)  
+Progressed: 1,164 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 0 (0.00%) (Ranked 353)
 | 2023-11-14 | 1,161 | 0 |
 | 2023-11-15 | 1,162 | 0 |
 | 2023-11-16 | 1,163 | 0 |
+| 2023-11-17 | 1,164 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

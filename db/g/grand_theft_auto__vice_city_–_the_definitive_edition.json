@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11032,
+  "EOS_Progressed": 11033,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12979,6 +12979,11 @@
       "Time": "2023-11-17T15:08:04.0879102+00:00",
       "NumProgressed": 11032,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-17T17:08:02.0305469+00:00",
+      "NumProgressed": 11033,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13094,7 +13099,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4633
+      "UsersEstimate": 4634
     },
     {
       "ID": "ACH15",
@@ -13166,7 +13171,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ACH24",
@@ -13261,7 +13266,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11032,
+      "Progressed": 11033,
       "Completed": 65
     }
   ],
@@ -13269,8 +13274,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:08:53.0572846+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:08:02.0305466+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:58:15.0016289+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:08:53.057351+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:57:54.0397511+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:08:02.0306193+00:00"
 }

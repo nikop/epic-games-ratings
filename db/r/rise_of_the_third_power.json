@@ -323,9 +323,9 @@
       "ID": "Patience",
       "SetID": "4nce15l",
       "Name": "Patience",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ReadyToRock",
@@ -380,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-11-17T16:07:23.7977238+00:00",
+  "LastChanged_Achievements": "2023-11-17T17:06:12.463336+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:10.2880981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T15:58:39.4925176+00:00",
-  "LastUpdate_Achievements": "2023-11-17T16:07:23.7977368+00:00"
+  "LastUpdate_Ratings": "2023-11-17T16:58:12.1556422+00:00",
+  "LastUpdate_Achievements": "2023-11-17T17:06:12.4633522+00:00"
 }
