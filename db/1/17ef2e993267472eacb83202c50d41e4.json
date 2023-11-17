@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8006,
+  "EOS_Progressed": 8009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6621,6 +6621,11 @@
       "Time": "2023-11-17T14:09:29.4289872+00:00",
       "NumProgressed": 8006,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T19:09:37.4215301+00:00",
+      "NumProgressed": 8009,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6689,7 +6694,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "DHUpgraded1",
@@ -6753,7 +6758,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "GamesPlayed10",
@@ -6777,7 +6782,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "GamesWon10",
@@ -6841,7 +6846,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "HSPurchased1",
@@ -6921,7 +6926,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "LaserUpgraded1",
@@ -6945,7 +6950,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "MaxDamageDone30000",
@@ -6993,7 +6998,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "MaxTowersKilled3",
@@ -7017,7 +7022,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "MinionKills2000",
@@ -7057,7 +7062,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "PlayerKills10",
@@ -7089,7 +7094,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "QAUpgraded1",
@@ -7105,7 +7110,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "RAPurchased1",
@@ -7145,7 +7150,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "SOVUpgraded1",
@@ -7161,7 +7166,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -7177,7 +7182,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "TGPurchased1",
@@ -7193,7 +7198,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "TSUPurchased1",
@@ -7224,7 +7229,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8006,
+      "Progressed": 8009,
       "Completed": 1
     }
   ],
@@ -7232,8 +7237,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:09:23.7551484+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:09:37.4215298+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:09.1496705+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:09:23.7552211+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:59:28.4756804+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:09:37.4216086+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8868,9 +8868,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65291,
+  "EOS_Progressed": 65292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31063,6 +31063,11 @@
       "Time": "2023-11-17T18:09:11.8040312+00:00",
       "NumProgressed": 65291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T19:09:25.8493787+00:00",
+      "NumProgressed": 65292,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31266,7 +31271,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11752
+      "UsersEstimate": 11753
     },
     {
       "ID": "Kingslayer",
@@ -31306,15 +31311,15 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26116
+      "UsersEstimate": 26117
     },
     {
       "ID": "Lawmaker",
       "SetID": "den0lp1",
       "Name": "Lawmaker",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15017
+      "UsersEstimate": 15670
     },
     {
       "ID": "Long live the Empire",
@@ -31481,15 +31486,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65291,
+      "Progressed": 65292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-17T17:57:08.1233985+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:09:11.8040308+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:09:25.8493782+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:57:08.1233992+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:09:11.8041917+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:57:31.0349137+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:09:25.8494858+00:00"
 }

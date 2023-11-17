@@ -6,9 +6,9 @@
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227340,
+  "EOS_Progressed": 227348,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24009,6 +24009,11 @@
       "Time": "2023-11-17T18:09:09.7535203+00:00",
       "NumProgressed": 227340,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-17T19:09:23.7588191+00:00",
+      "NumProgressed": 227348,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -24020,7 +24025,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43195
+      "UsersEstimate": 43196
     },
     {
       "ID": "ACH_BASE_10",
@@ -24028,7 +24033,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59108
+      "UsersEstimate": 59110
     },
     {
       "ID": "ACH_BASE_11",
@@ -24068,7 +24073,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22734
+      "UsersEstimate": 22735
     },
     {
       "ID": "ACH_BASE_17",
@@ -24100,7 +24105,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13640
+      "UsersEstimate": 13641
     },
     {
       "ID": "ACH_BASE_20",
@@ -24268,7 +24273,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27281
+      "UsersEstimate": 27282
     },
     {
       "ID": "ACH_BASE_8",
@@ -24291,7 +24296,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227340,
+      "Progressed": 227348,
       "Completed": 5
     }
   ],
@@ -24299,8 +24304,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:09:09.753519+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:09:23.7588186+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:28.6379322+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:09.7974384+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:09:09.7536458+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:59:29.1267863+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:09:23.7589239+00:00"
 }

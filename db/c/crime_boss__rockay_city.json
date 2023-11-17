@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1005,
-  "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 176,
+  "Ranking_Popularity": 205,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4609,10 +4609,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3035,
       "NumberOfAwardsMax": 535
+    },
+    {
+      "Time": "2023-11-17T19:00:15.5361343+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3037,
+      "NumberOfAwardsMax": 535
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3035,
+  "NumberOfAwards": 3037,
   "NumberOfAwardsMax": 535,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4656,7 +4662,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 516
+      "Count": 518
     },
     {
       "Text": "This game has a Silly Community",
@@ -4671,9 +4677,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 91251,
+  "EOS_Progressed": 91253,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25616,6 +25622,11 @@
       "Time": "2023-11-17T18:03:08.3648734+00:00",
       "NumProgressed": 91251,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-17T19:03:32.5903443+00:00",
+      "NumProgressed": 91253,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -25954,22 +25965,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91251,
+      "Progressed": 91253,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19598,
+      "Progressed": 19600,
       "Completed": 15571
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-17T17:00:27.3541156+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:03:08.364873+00:00",
+  "LastChanged": "2023-11-17T19:00:15.5361342+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:03:32.5903439+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:57.6804253+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:03:08.3650208+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:00:15.5361345+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:03:32.5904487+00:00"
 }

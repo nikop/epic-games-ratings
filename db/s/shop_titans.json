@@ -6,7 +6,7 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -7099,9 +7099,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140267,
+  "EOS_Progressed": 140273,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1159,
+  "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28794,6 +28794,11 @@
       "Time": "2023-11-17T18:04:05.0354337+00:00",
       "NumProgressed": 140267,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-17T19:04:28.0944437+00:00",
+      "NumProgressed": 140273,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -28973,7 +28978,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "chest02",
@@ -29621,7 +29626,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "twinenchant01",
@@ -29700,15 +29705,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140267,
+      "Progressed": 140273,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-17T13:06:07.3304406+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:04:05.0354334+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:04:28.0944432+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:17.4766363+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:04:05.0356265+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:59:36.6338384+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:04:28.094637+00:00"
 }

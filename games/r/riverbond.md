@@ -1,36 +1,36 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 636)  
+Rating: 4.47 (Ranked 635)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,045 |
-| Now You're Talking | 62.00% | ~329,526 |
-| Steel Yourself | 62.00% | ~329,526 |
-| Window Dressing | 50.00% | ~265,746 |
-| Trigger Happy | 46.00% | ~244,487 |
-| Riverborn | 45.00% | ~239,172 |
-| Starry Eyed | 34.00% | ~180,708 |
-| Poking Around | 34.00% | ~180,708 |
-| Talk of the Town | 24.00% | ~127,558 |
-| AAARR! | 23.00% | ~122,243 |
-| Hello Darkness | 23.00% | ~122,243 |
-| Wind At Our Backs | 22.00% | ~116,928 |
-| To the Beat | 20.00% | ~106,299 |
-| Sunny Shores | 17.00% | ~90,354 |
-| Sunday Best | 16.00% | ~85,039 |
-| To Victory! | 15.00% | ~79,724 |
-| Two of a Kind | 14.00% | ~74,409 |
-| Keep On Trucking | 13.00% | ~69,094 |
-| Going on an Adventure | 11.00% | ~58,464 |
-| Make Peace, Not War | 11.00% | ~58,464 |
-| Walking The Line | 10.00% | ~53,149 |
-| Not So Cute Anymore | 10.00% | ~53,149 |
-| Road Less Travelled | 9.00% | ~47,834 |
-| Lost and Found | 9.00% | ~47,834 |
-| Under the Radar | 8.00% | ~42,519 |
+| First Step | 70.00% | ~372,052 |
+| Now You're Talking | 62.00% | ~329,532 |
+| Steel Yourself | 62.00% | ~329,532 |
+| Window Dressing | 50.00% | ~265,752 |
+| Trigger Happy | 46.00% | ~244,491 |
+| Riverborn | 45.00% | ~239,176 |
+| Starry Eyed | 34.00% | ~180,711 |
+| Poking Around | 34.00% | ~180,711 |
+| Talk of the Town | 24.00% | ~127,561 |
+| AAARR! | 23.00% | ~122,246 |
+| Hello Darkness | 23.00% | ~122,246 |
+| Wind At Our Backs | 22.00% | ~116,931 |
+| To the Beat | 20.00% | ~106,301 |
+| Sunny Shores | 17.00% | ~90,356 |
+| Sunday Best | 16.00% | ~85,040 |
+| To Victory! | 15.00% | ~79,725 |
+| Two of a Kind | 14.00% | ~74,410 |
+| Keep On Trucking | 13.00% | ~69,095 |
+| Going on an Adventure | 11.00% | ~58,465 |
+| Make Peace, Not War | 11.00% | ~58,465 |
+| Walking The Line | 10.00% | ~53,150 |
+| Not So Cute Anymore | 10.00% | ~53,150 |
+| Road Less Travelled | 9.00% | ~47,835 |
+| Lost and Found | 9.00% | ~47,835 |
+| Under the Radar | 8.00% | ~42,520 |
 | Partner in Crime | 7.00% | ~37,205 |
 | Hard to Hear | 7.00% | ~37,205 |
 | Moving On Up | 6.00% | ~31,890 |
@@ -61,11 +61,11 @@ Number of Ratings: 617  (23.09.2022)
 | Written in the Stars | 1.00% | ~5,315 |
 | Don't Care | 1.00% | ~5,315 |
 | Don’t Get Crabby | 1.00% | ~5,315 |
-| Boss of All Bosses | 0.30% | ~1,594 |
+| Boss of All Bosses | 0.30% | ~1,595 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,493 (Ranked 35)  
-Completed: 499 (0.09%) (Ranked 283)  
+Progressed: 531,503 (Ranked 35)  
+Completed: 499 (0.09%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 499 (0.09%) (Ranked 283)
 | 2023-11-14 | 531,325 | 498 |
 | 2023-11-15 | 531,384 | 499 |
 | 2023-11-16 | 531,440 | 499 |
-| 2023-11-17 | 531,493 | 499 |
+| 2023-11-17 | 531,503 | 499 |
 ## Awards
 Max (Relaxing): 20  (Ranked 541)  
 Sum: 20 (Ranked 542)  

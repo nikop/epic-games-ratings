@@ -26,7 +26,7 @@
 | Stocking Up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53 (Ranked 481)  
-Completed: 0 (0.00%) (Ranked 353)  
+Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 539,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-03-12T08:56:56.6667632+00:00",
@@ -219,6 +219,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-17T19:00:10.4063995+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -227,7 +233,7 @@
   "Tags": [],
   "EOS_Progressed": 5591,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7222,9 +7228,9 @@
       "ID": "ACH_GOOD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "Rescue time!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_HARD",
@@ -7462,9 +7468,9 @@
   "FirstSeen": "2022-12-15T05:57:00.0275207+00:00",
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
-  "LastChanged": "2023-11-16T18:59:50.6065242+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:05:46.7846843+00:00",
+  "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:06:06.3235471+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:08.9352695+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:52.5492027+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:05:46.7847546+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:00:10.4063999+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:06:06.3236076+00:00"
 }

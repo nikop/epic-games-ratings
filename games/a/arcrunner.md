@@ -21,11 +21,11 @@
 | Nanonic III | 8.00% | ~64 |
 | The Bigger They Are | 7.00% | ~56 |
 | Rookie | 7.00% | ~56 |
+| Eden Heights | 6.00% | ~48 |
 | Up Close And Personal | 6.00% | ~48 |
-| Eden Heights | 5.00% | ~40 |
+| Outer Core | 5.00% | ~40 |
 | Inner Core | 4.00% | ~32 |
-| Outer Core | 4.00% | ~32 |
-| Integration | 3.00% | ~24 |
+| Integration | 4.00% | ~32 |
 | Trickshot | 1.00% | ~8 |
 | Destruction | 0.90% | ~7 |
 | Ripperdoc | 0.50% | ~4 |
@@ -35,7 +35,7 @@
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 800 (Ranked 272)  
-Completed: 0 (0.00%) (Ranked 353)  
+Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.53 (Ranked 539)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,8 +29,8 @@ Rating: 4.54 (Ranked 523)
 | Atomic drill | 32.00% | ~1,789 |
 | Disco Roach | 28.00% | ~1,565 |
 | Dawkins Residence | 22.00% | ~1,230 |
+| Rescue time! | 19.00% | ~1,062 |
 | New order | 18.00% | ~1,006 |
-| Rescue time! | 18.00% | ~1,006 |
 | New species | 17.00% | ~950 |
 | A New Hope | 16.00% | ~895 |
 | Enigma | 16.00% | ~895 |
@@ -67,7 +67,7 @@ Rating: 4.54 (Ranked 523)
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,591 (Ranked 185)  
-Completed: 1 (0.02%) (Ranked 323)  
+Completed: 1 (0.02%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,3 +315,4 @@ Completed: 1 (0.02%) (Ranked 323)
 | 2023-11-06 | 4.61 | 0 | 0 |
 | 2023-11-15 | 4.60 | 0 | 0 |
 | 2023-11-16 | 4.54 | 0 | 0 |
+| 2023-11-17 | 4.53 | 0 | 0 |

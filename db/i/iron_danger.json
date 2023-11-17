@@ -2,10 +2,10 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 306,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.32,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -744,6 +744,11 @@
       "Time": "2023-11-17T17:04:12.9194793+00:00",
       "NumProgressed": 304,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-17T19:04:25.6635827+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -817,9 +822,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -875,7 +880,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 249
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_SHARD_2",
@@ -883,7 +888,7 @@
       "Name": "Second Shard",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_SHARD_3",
@@ -938,7 +943,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 306,
       "Completed": 4
     }
   ],
@@ -946,8 +951,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:04:02.6672466+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:04:25.6635822+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:23.6977955+00:00",
   "LastUpdate_Ratings": "2023-11-17T18:00:07.3282089+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:04:02.6672654+00:00"
+  "LastUpdate_Achievements": "2023-11-17T19:04:25.6636008+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2650,
+  "EOS_Progressed": 2651,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.06,
+  "EOS_Completed_Percentage": 9.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7221,6 +7221,11 @@
       "Time": "2023-11-17T14:09:14.6734254+00:00",
       "NumProgressed": 2650,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-17T19:09:22.7994994+00:00",
+      "NumProgressed": 2651,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 12,
@@ -7240,7 +7245,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Building the Fox",
@@ -7264,7 +7269,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "Jakob",
@@ -7280,7 +7285,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Le Juif et la France",
@@ -7296,7 +7301,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -7304,7 +7309,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Nazis in Paris",
@@ -7327,7 +7332,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2650,
+      "Progressed": 2651,
       "Completed": 240
     }
   ],
@@ -7335,8 +7340,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:09:08.7931583+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:09:22.7994989+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:57:05.731597+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:09:08.7932021+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:57:28.6347104+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:09:22.7995453+00:00"
 }

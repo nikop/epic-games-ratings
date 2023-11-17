@@ -21,12 +21,12 @@ Rating: 4.86 (Ranked 30)
 | Kissing the sky! | 10.00% | ~423 |
 | The Negotiator | 9.00% | ~380 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~380 |
+| Out in a puff of smoke | 9.00% | ~380 |
 | I look cool. But I can look COOLER. | 9.00% | ~380 |
 | Headliner | 8.00% | ~338 |
 | Time to pay up! | 8.00% | ~338 |
 | Who's the boss now? | 8.00% | ~338 |
 | You must like calling me in, Chai | 8.00% | ~338 |
-| Out in a puff of smoke | 8.00% | ~338 |
 | Does that say weakpoint? | 8.00% | ~338 |
 | NOW we got a kickass hideout! | 8.00% | ~220 |
 | I have to read these things? | 7.00% | ~296 |
@@ -78,7 +78,7 @@ Rating: 4.86 (Ranked 30)
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,226 (Ranked 194)  
-Completed: 8 (0.19%) (Ranked 256)  
+Completed: 8 (0.19%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

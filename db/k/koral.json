@@ -3,9 +3,9 @@
   "Name": "KORAL",
   "ProductSlug": "koral-63ea73",
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-06-29T22:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.3153231+00:00",
   "LastChanged": "2023-03-31T05:58:35.3153232+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:34.0342227+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:10.387204+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:05:59.6900485+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:32.444555+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:06:18.2937097+00:00"
 }

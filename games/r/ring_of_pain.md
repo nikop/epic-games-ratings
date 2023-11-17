@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 0.70% | ~9 |
+| Matching | 0.80% | ~10 |
 | Not Touching You | 0.50% | ~6 |
 | First Steps | 0.40% | ~959 |
 | Nothing To Lose | 0.30% | ~719 |
@@ -19,6 +19,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.30% | ~719 |
 | Heartless | 0.30% | ~719 |
 | What's Yours Is Mine | 0.30% | ~719 |
+| Spine Breaker | 0.30% | ~719 |
 | A Donation | 0.30% | ~719 |
 | C-C-Combo | 0.30% | ~719 |
 | Deflection | 0.30% | ~719 |
@@ -46,7 +47,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
-| Spine Breaker | 0.20% | ~480 |
 | Shootout | 0.20% | ~480 |
 | Illuminate, Eliminate | 0.20% | ~480 |
 | Stone Touch | 0.20% | ~480 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,814 (Ranked 61)  
-Completed: 288 (0.12%) (Ranked 273)  
+Progressed: 239,815 (Ranked 61)  
+Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -356,7 +356,7 @@ Completed: 288 (0.12%) (Ranked 273)
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
-| 2023-11-17 | 239,814 | 288 |
+| 2023-11-17 | 239,815 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,679 (Ranked 83)  

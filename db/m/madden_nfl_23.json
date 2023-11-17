@@ -6,9 +6,9 @@
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -817,9 +817,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3477,
+  "EOS_Progressed": 3479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5497,6 +5497,11 @@
       "Time": "2023-11-17T14:04:48.0557874+00:00",
       "NumProgressed": 3477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T19:05:02.5531804+00:00",
+      "NumProgressed": 3479,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5509,7 +5514,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_10",
@@ -5517,7 +5522,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "achievement_11",
@@ -5541,7 +5546,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "achievement_14",
@@ -5549,7 +5554,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "achievement_15",
@@ -5557,7 +5562,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "achievement_16",
@@ -5661,7 +5666,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_9",
@@ -5676,7 +5681,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3477,
+      "Progressed": 3479,
       "Completed": 0
     }
   ],
@@ -5684,8 +5689,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-17T05:58:08.8219337+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:04:40.6181804+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:05:02.5531799+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:57:43.9389055+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:04:40.6182104+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:06.4832219+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:05:02.5532148+00:00"
 }

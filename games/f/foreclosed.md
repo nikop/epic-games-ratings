@@ -12,7 +12,7 @@
 | The Red Herring | 34.00% | ~37 |
 | Telekinesis | 30.00% | ~32 |
 | Sapper | 24.00% | ~26 |
-| Tough Decision | 21.00% | ~23 |
+| Tough Decision | 22.00% | ~24 |
 | Veteran Sniper | 19.00% | ~21 |
 | The Neuro-connector | 19.00% | ~21 |
 | Flatline | 19.00% | ~21 |
@@ -30,7 +30,7 @@
 | A Voice in the Dark | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 108 (Ranked 421)  
-Completed: 3 (2.78%) (Ranked 109)  
+Completed: 3 (2.78%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

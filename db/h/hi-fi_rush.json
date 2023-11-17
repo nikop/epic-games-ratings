@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7587,9 +7587,9 @@
       "ID": "Ach029",
       "SetID": "12n4k20",
       "Name": "Out in a puff of smoke",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 380
     },
     {
       "ID": "Ach030",
@@ -7946,8 +7946,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:04:43.2875073+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:05:05.2225522+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.6846175+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:29.230534+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:04:43.2875974+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:50.1657958+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:05:05.2226369+00:00"
 }

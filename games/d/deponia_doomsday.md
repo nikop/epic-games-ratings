@@ -15,8 +15,8 @@ Rating: 4.55 (Ranked 503)
 | Boat of love, boat of love | 49.00% | ~231 |
 | Shall we play a game? | 48.00% | ~227 |
 | School's out | 44.00% | ~208 |
+| Elysian Minigame-Master | 38.00% | ~179 |
 | Scaffolding Expert | 37.00% | ~175 |
-| Elysian Minigame-Master | 37.00% | ~175 |
 | Sole Music | 36.00% | ~170 |
 | No man left behind! | 30.00% | ~142 |
 | Portals come in packs | 30.00% | ~142 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 503)
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 472 (Ranked 309)  
-Completed: 6 (1.27%) (Ranked 149)  
+Completed: 6 (1.27%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

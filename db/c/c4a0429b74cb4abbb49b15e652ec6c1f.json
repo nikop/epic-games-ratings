@@ -3,9 +3,9 @@
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2024-02-29T02:00:00+00:00",
     "PcReleaseDate": "2024-02-29T02:00:00+00:00",
@@ -2118,8 +2118,8 @@
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:09:18.8790385+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:09:32.6355368+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:03.6638031+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:34.4731461+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:09:18.87906+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:55.3085638+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:09:32.6355545+00:00"
 }

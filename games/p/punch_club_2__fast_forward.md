@@ -23,9 +23,9 @@
 | Pal of your father? | 68.00% | ~233 |
 | Spirit of the past | 66.00% | ~226 |
 | Employee of the month | 66.00% | ~226 |
+| Workout professional | 62.00% | ~213 |
 | Law student | 62.00% | ~213 |
-| Workout professional | 61.00% | ~209 |
-| Handyman | 60.00% | ~206 |
+| Handyman | 61.00% | ~209 |
 | Champion – starter pack | 60.00% | ~206 |
 | It's good to be alive | 60.00% | ~206 |
 | Own four walls | 60.00% | ~206 |
@@ -72,7 +72,7 @@
 | The only right decision | 31.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 343 (Ranked 328)  
-Completed: 9 (2.62%) (Ranked 112)  
+Completed: 9 (2.62%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

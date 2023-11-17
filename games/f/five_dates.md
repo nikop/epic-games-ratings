@@ -21,7 +21,7 @@
 | Crash and Burn | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 642 (Ranked 286)  
-Completed: 11 (1.71%) (Ranked 132)  
+Completed: 11 (1.71%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

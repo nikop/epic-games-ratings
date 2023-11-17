@@ -2,13 +2,13 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12196,6 +12196,6 @@
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
   "LastChanged": "2023-11-17T16:59:33.4826669+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:57.1079956+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:08.7629349+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:06:17.1402203+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:59:28.1251853+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:06:34.5751035+00:00"
 }

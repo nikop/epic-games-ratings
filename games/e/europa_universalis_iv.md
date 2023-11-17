@@ -61,6 +61,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 0.10% | ~458 |
 | Fine Financials | 0.10% | ~458 |
 | A Fine Goosestep | 0.10% | ~458 |
+| For the Emperor! | 0.10% | ~458 |
 | Foul Mouthed | 0.10% | ~458 |
 | Four For Trade | 0.10% | ~458 |
 | Full House | 0.10% | ~458 |
@@ -139,6 +140,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Strait Talk | 0.10% | ~458 |
 | Subsidize my Love | 0.10% | ~458 |
 | The Sudanese Expedition | 0.10% | ~458 |
+| Surfing USA | 0.10% | ~458 |
+| Sweet Harmony | 0.10% | ~458 |
 | Switzerlake | 0.10% | ~458 |
 | Tear Down This Wall | 0.10% | ~458 |
 | That is mine! | 0.10% | ~458 |
@@ -230,7 +233,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
-| For the Emperor! | 0.00% | ~0 |
 | For the Glory | 0.00% | ~0 |
 | Forever Golden | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
@@ -323,10 +325,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sunset Invasion | 0.00% | ~0 |
 | Super Trooper | 0.00% | ~0 |
-| Surfing USA | 0.00% | ~0 |
 | Swahili Persuasion | 0.00% | ~0 |
 | Sweden is not overpowered! | 0.00% | ~0 |
-| Sweet Harmony | 0.00% | ~0 |
 | Sweet Home Qaraqorum | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,585 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 353)  
+Progressed: 457,629 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 353)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,585 | 1 |
+| 2023-11-17 | 457,629 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 57,961 (Ranked 24)  

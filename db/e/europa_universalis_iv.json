@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12201,9 +12201,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457585,
+  "EOS_Progressed": 457629,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6144,
+  "EOS_NewPlayers": 6112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36386,6 +36386,11 @@
       "Time": "2023-11-17T18:05:05.215018+00:00",
       "NumProgressed": 457585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T19:05:26.2486474+00:00",
+      "NumProgressed": 457629,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37219,9 +37224,9 @@
       "ID": "achievement_for_the_emperor",
       "SetID": "8p2n7he",
       "Name": "For the Emperor!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_for_the_glory",
@@ -38587,9 +38592,9 @@
       "ID": "achievement_surfin_USA",
       "SetID": "8p2n7he",
       "Name": "Surfing USA",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_swahili_persuasion",
@@ -38611,9 +38616,9 @@
       "ID": "achievement_sweet_harmony",
       "SetID": "8p2n7he",
       "Name": "Sweet Harmony",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_sweet_home_qaraqorum",
@@ -39300,21 +39305,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457585,
+      "Progressed": 457629,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457585,
+      "Progressed": 457629,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-17T17:58:34.172851+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:05:05.2150177+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:05:26.2486471+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:34.1728516+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:05:05.2160456+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:54.930292+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:05:26.2496515+00:00"
 }

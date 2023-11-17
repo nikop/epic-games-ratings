@@ -3,9 +3,9 @@
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 497,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -204,17 +204,17 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -236,9 +236,9 @@
       "ID": "TINGWD_BUTTON_PLAY",
       "SetID": "c0imaa6",
       "Name": "I want to PLAY!!",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -260,9 +260,9 @@
       "ID": "TINGWD_CARMACK",
       "SetID": "c0imaa6",
       "Name": "Carmack junior",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TINGWD_CHAP_END_01",
@@ -300,9 +300,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -332,9 +332,9 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -356,9 +356,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TINGWD_HONEY",
@@ -380,9 +380,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -460,9 +460,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 120,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:03:31.7616051+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:03:55.8309529+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:28.6153242+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:03:31.7616316+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:49.5193023+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:03:55.8309749+00:00"
 }

@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.46 (Ranked 644)  
+Rating: 4.46 (Ranked 643)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,281 (Ranked 244)  
-Completed: 17 (1.33%) (Ranked 145)  
+Completed: 17 (1.33%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

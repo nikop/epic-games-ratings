@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 83.00% | ~10 |
-| A Loyal Friend | 17.00% | ~2 |
+| My Papyrus! | 77.00% | ~10 |
+| A Loyal Friend | 15.00% | ~2 |
 | Abandon Ship! | 8.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |
@@ -42,12 +42,12 @@
 | Dynamite, Treason and Coconuts | 0.00% | ~0 |
 | Save a Friend | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 584)  
-Completed: 0 (0.00%) (Ranked 353)  
+Progressed: 13 (Ranked 577)  
+Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-13 | 2 | 0 |
 | 2023-11-14 | 6 | 0 |
 | 2023-11-16 | 8 | 0 |
-| 2023-11-17 | 12 | 0 |
+| 2023-11-17 | 13 | 0 |

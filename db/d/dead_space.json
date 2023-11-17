@@ -6,9 +6,9 @@
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -701,11 +701,11 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 1841,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 167,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.49,
+  "EOS_Progressed": 1842,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 165,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -5556,6 +5556,11 @@
       "Time": "2023-11-17T17:03:52.0483968+00:00",
       "NumProgressed": 1841,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-17T19:04:07.2129754+00:00",
+      "NumProgressed": 1842,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -5568,7 +5573,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "achievement_10",
@@ -5576,7 +5581,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "achievement_11",
@@ -5592,7 +5597,7 @@
       "Name": "Exodus",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_13",
@@ -5640,7 +5645,7 @@
       "Name": "Full Arsenal",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "achievement_19",
@@ -5656,7 +5661,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_20",
@@ -5728,7 +5733,7 @@
       "Name": "Story Teller",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "achievement_29",
@@ -5744,7 +5749,7 @@
       "Name": "All Systems Go",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_30",
@@ -5768,7 +5773,7 @@
       "Name": "Surgeon",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achievement_33",
@@ -5798,9 +5803,9 @@
       "ID": "achievement_36",
       "SetID": "222fo9l",
       "Name": "Backbreaker",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_37",
@@ -5824,7 +5829,7 @@
       "Name": "Z-Baller",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_4",
@@ -5832,7 +5837,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "achievement_40",
@@ -5840,7 +5845,7 @@
       "Name": "There\u0027s Always Peng!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_41",
@@ -5880,7 +5885,7 @@
       "Name": "Mindless Prey",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_46",
@@ -5904,7 +5909,7 @@
       "Name": "True Believer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "achievement_6",
@@ -5934,25 +5939,25 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 773
+      "UsersEstimate": 792
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1841,
-      "Completed": 9
+      "Progressed": 1842,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:03:43.3798328+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:04:07.2129751+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:32.4857939+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:03:43.3798837+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:53.3110511+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:04:07.2130214+00:00"
 }

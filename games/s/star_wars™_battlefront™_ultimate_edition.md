@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,137 |
-| Off to a good start | 67.00% | ~856 |
-| Do... or do not. There is no try | 51.00% | ~651 |
+| New Recruit | 89.00% | ~1,138 |
+| Off to a good start | 67.00% | ~857 |
+| Do... or do not. There is no try | 51.00% | ~652 |
 | A good blaster at your side | 31.00% | ~396 |
 | I suggest a new strategy | 19.00% | ~243 |
 | Scrap collector | 18.00% | ~230 |
@@ -21,7 +21,7 @@
 | Survivor | 10.00% | ~128 |
 | Never tell me the odds! | 9.00% | ~115 |
 | A cunning warrior | 8.00% | ~102 |
-| What's the cargo? | 7.00% | ~89 |
+| What's the cargo? | 7.00% | ~90 |
 | "Gonk? Gonk!" | 6.00% | ~77 |
 | Distinguished | 6.00% | ~77 |
 | Impressive. Most impressive. | 6.00% | ~77 |
@@ -53,8 +53,8 @@
 | When surrounded by war... | 1.00% | ~13 |
 | Stop that Droid | 1.00% | ~13 |
 | Onwards! | 1.00% | ~13 |
-| No such thing as luck | 0.90% | ~11 |
-| Do we take prisoners? | 0.90% | ~11 |
+| No such thing as luck | 0.90% | ~12 |
+| Do we take prisoners? | 0.90% | ~12 |
 | A New Hope | 0.80% | ~10 |
 | Walker defender | 0.70% | ~9 |
 | I’ll take that bet | 0.70% | ~9 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,277 (Ranked 245)  
-Completed: 1 (0.08%) (Ranked 290)  
+Progressed: 1,279 (Ranked 245)  
+Completed: 1 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,7 +130,7 @@ Completed: 1 (0.08%) (Ranked 290)
 | 2023-11-14 | 1,220 | 1 |
 | 2023-11-15 | 1,239 | 1 |
 | 2023-11-16 | 1,270 | 1 |
-| 2023-11-17 | 1,277 | 1 |
+| 2023-11-17 | 1,279 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

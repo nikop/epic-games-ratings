@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Escape artist | 78.00% | ~56 |
 | Book Worm | 50.00% | ~36 |
-| Ooh, it's shiny! | 47.00% | ~34 |
+| Ooh, it's shiny! | 49.00% | ~35 |
 | My lost nightingale | 42.00% | ~30 |
 | Through the woods | 40.00% | ~29 |
 | Fussy eater | 36.00% | ~26 |
@@ -45,7 +45,7 @@
 | Posterboy! | 10.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 72 (Ranked 454)  
-Completed: 6 (8.33%) (Ranked 48)  
+Completed: 6 (8.33%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

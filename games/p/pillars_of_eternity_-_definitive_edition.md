@@ -1,7 +1,7 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.66 (Ranked 295)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,089 (Ranked 256)  
-Completed: 2 (0.18%) (Ranked 257)  
+Progressed: 1,089 (Ranked 257)  
+Completed: 2 (0.18%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,8 +100,8 @@ Completed: 2 (0.18%) (Ranked 257)
 | 2023-11-12 | 1,089 | 2 |
 ## Awards
 Max (Character Customization): 1,940  (Ranked 113)  
-Sum: 4,764 (Ranked 144)  
-Diff (max vs sum): -31  
+Sum: 4,764 (Ranked 145)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,940 |

@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 411)  
+Rating: 4.60 (Ranked 412)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 31.00% | ~2,102 |
 | Luminary Researcher | 31.00% | ~2,102 |
 | Fit For A King | 30.00% | ~2,034 |
-| Winter Is Coming | 28.00% | ~1,899 |
+| Winter Is Coming | 29.00% | ~1,966 |
 | Winter Is Here | 25.00% | ~1,695 |
 | Disassembled | 22.00% | ~1,492 |
 | A Party Now | 22.00% | ~1,492 |
@@ -39,7 +39,7 @@ Number of Ratings: 706  (23.09.2022)
 | Wabbit Season | 0.50% | ~34 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,781 (Ranked 179)  
-Completed: 14 (0.21%) (Ranked 248)  
+Completed: 14 (0.21%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

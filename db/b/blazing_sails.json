@@ -3,12 +3,12 @@
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1016,
-  "Ranking_Popularity": 245,
+  "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -1335,11 +1335,17 @@
       "Rating": 3.91,
       "NumberOfAwards": 2330,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2023-11-17T19:02:27.5865476+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 2338,
+      "NumberOfAwardsMax": 337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2330,
-  "NumberOfAwardsMax": 329,
+  "NumberOfAwards": 2338,
+  "NumberOfAwardsMax": 337,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1358,7 +1364,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 329
+      "Count": 337
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1415,8 +1421,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-11-17T18:00:10.2514391+00:00",
+  "LastChanged": "2023-11-17T19:02:27.5865473+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:26.0371725+00:00",
-  "LastUpdate_Ratings": "2023-11-17T18:00:10.2514396+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:08:37.5876958+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:02:27.5865479+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:08:32.8776177+00:00"
 }

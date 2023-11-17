@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 411)  
+Rating: 4.60 (Ranked 412)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 411)
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,818 (Ranked 172)  
-Completed: 1 (0.01%) (Ranked 332)  
+Completed: 1 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

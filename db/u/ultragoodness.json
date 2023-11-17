@@ -3,9 +3,9 @@
   "Name": "UltraGoodness",
   "ProductSlug": "ultragoodness-a391d4",
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-11T04:00:00+00:00",
     "PcReleaseDate": "2017-06-02T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.0760964+00:00",
   "LastChanged": "2023-03-31T05:58:16.0760965+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:32.0431362+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:02:27.2446104+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:04:56.7408368+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:57:14.3520959+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:05:18.0643311+00:00"
 }

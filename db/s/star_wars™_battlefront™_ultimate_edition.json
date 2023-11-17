@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1277,
+  "EOS_Progressed": 1279,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
@@ -3719,6 +3719,11 @@
       "Time": "2023-11-17T16:10:24.3501593+00:00",
       "NumProgressed": 1277,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T19:09:36.073307+00:00",
+      "NumProgressed": 1279,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3763,7 +3768,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_14",
@@ -3955,7 +3960,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "achievement_36",
@@ -3971,7 +3976,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "achievement_38",
@@ -4003,7 +4008,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "achievement_41",
@@ -4067,7 +4072,7 @@
       "Name": "No such thing as luck",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_49",
@@ -4075,7 +4080,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_5",
@@ -4234,13 +4239,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1277,
+      "Progressed": 1279,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1277,
+      "Progressed": 1279,
       "Completed": 1
     }
   ],
@@ -4248,8 +4253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:09:22.3876089+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:09:36.0733065+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:58:10.1536857+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:09:22.3876795+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:58:31.9317097+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:09:36.073383+00:00"
 }

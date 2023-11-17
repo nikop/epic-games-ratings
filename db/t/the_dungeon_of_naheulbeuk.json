@@ -6,9 +6,9 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 353,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1335,9 +1335,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237689,
+  "EOS_Progressed": 237708,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1411,
+  "EOS_NewPlayers": 1421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18915,6 +18915,11 @@
       "Time": "2023-11-17T18:08:27.1001434+00:00",
       "NumProgressed": 237689,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T19:08:22.7464872+00:00",
+      "NumProgressed": 237708,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18966,7 +18971,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "Chapter1",
@@ -18974,7 +18979,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14261
+      "UsersEstimate": 14262
     },
     {
       "ID": "Chapter2",
@@ -19326,7 +19331,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16640
     },
     {
       "ID": "DwarfElf15Support",
@@ -19358,7 +19363,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11884
+      "UsersEstimate": 11885
     },
     {
       "ID": "ElfEpic",
@@ -19374,7 +19379,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83191
+      "UsersEstimate": 83198
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19422,7 +19427,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19015
+      "UsersEstimate": 19017
     },
     {
       "ID": "FollowBraztok",
@@ -19494,7 +19499,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "Poster",
@@ -19629,21 +19634,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237689,
+      "Progressed": 237708,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237689,
+      "Progressed": 237708,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T16:00:04.3647712+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:08:27.1001431+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:08:22.7464869+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:45.6301299+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:08:27.1002744+00:00"
+  "LastUpdate_Ratings": "2023-11-17T19:00:03.6716079+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:08:22.7466378+00:00"
 }

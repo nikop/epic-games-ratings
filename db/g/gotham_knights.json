@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4175,7 +4175,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76551,
+  "EOS_Progressed": 76552,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
@@ -22885,6 +22885,11 @@
       "Time": "2023-11-17T18:06:13.524973+00:00",
       "NumProgressed": 76551,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-17T19:06:31.4770977+00:00",
+      "NumProgressed": 76552,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -23120,7 +23125,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21434
+      "UsersEstimate": 21435
     },
     {
       "ID": "FREEZE_1_5",
@@ -23240,7 +23245,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39041
+      "UsersEstimate": 39042
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23288,7 +23293,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26027
+      "UsersEstimate": 26028
     },
     {
       "ID": "MYSTERY_02",
@@ -23383,13 +23388,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76551,
+      "Progressed": 76552,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46831,
+      "Progressed": 46832,
       "Completed": 2673
     }
   ],
@@ -23397,8 +23402,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-17T16:00:40.4666233+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:06:13.5249726+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:06:31.4770974+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:59:16.6885881+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:06:13.5251642+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:59:35.882191+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:06:31.4772079+00:00"
 }

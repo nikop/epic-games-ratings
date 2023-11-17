@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 412,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -13034,9 +13034,9 @@
       "ID": "SURVIVE_FIRST_AUTUMN",
       "SetID": "5349c2e",
       "Name": "Winter Is Coming",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1966
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -13138,8 +13138,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-15T20:59:44.2878317+00:00",
-  "LastChanged_Achievements": "2023-11-17T18:05:13.5265918+00:00",
+  "LastChanged_Achievements": "2023-11-17T19:05:33.7967844+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T17:57:00.3976848+00:00",
-  "LastUpdate_Achievements": "2023-11-17T18:05:13.5266653+00:00"
+  "LastUpdate_Ratings": "2023-11-17T18:57:23.6071608+00:00",
+  "LastUpdate_Achievements": "2023-11-17T19:05:33.7968421+00:00"
 }
