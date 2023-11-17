@@ -8770,10 +8770,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15303,
       "NumberOfAwardsMax": 7391
+    },
+    {
+      "Time": "2023-11-17T06:59:29.5514155+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15305,
+      "NumberOfAwardsMax": 7391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15303,
+  "NumberOfAwards": 15305,
   "NumberOfAwardsMax": 7391,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8805,7 +8811,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1059
+      "Count": 1061
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8850,7 +8856,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65245,
+  "EOS_Progressed": 65246,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
@@ -30985,6 +30991,11 @@
       "Time": "2023-11-17T06:10:05.5536062+00:00",
       "NumProgressed": 65245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T07:12:30.7182716+00:00",
+      "NumProgressed": 65246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31076,7 +31087,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "Dynasty",
@@ -31084,7 +31095,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "Entrepreneur",
@@ -31172,7 +31183,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "Jack of All Trades",
@@ -31340,7 +31351,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "The king is pleased",
@@ -31396,22 +31407,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65245,
+      "Progressed": 65246,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-17T01:50:18.3933852+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:10:05.5536056+00:00",
+  "LastChanged": "2023-11-17T06:59:29.5514153+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:12:30.7182712+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:57:16.2902285+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:10:05.5537382+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:59:29.5514159+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:12:30.7183879+00:00"
 }

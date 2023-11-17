@@ -34,8 +34,8 @@
 | Tanos' Crusade Against Thalya | 19.00% | ~54 |
 | Hungry, Hungry Gorgu! | 17.00% | ~48 |
 | Unstoppable Horde | 16.00% | ~46 |
+| All’s Well That Ends Evil | 16.00% | ~46 |
 | Master of the Undead | 15.00% | ~43 |
-| All’s Well That Ends Evil | 15.00% | ~43 |
 | Forbidden Knowledge | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~37 |
 | Ghost Pirates? Ghost Heroes! | 12.00% | ~34 |

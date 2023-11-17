@@ -4,10 +4,10 @@
   "ProductSlug": "marvels-spider-man-miles-morales",
   "Ranking_Rating": 115,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -3153,6 +3153,6 @@
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
   "LastChanged": "2023-11-17T05:59:43.753251+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:54.2517601+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:59:43.7532515+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:04:31.7802083+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:01:55.2976559+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:06:58.190417+00:00"
 }

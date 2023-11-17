@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4174,6 +4174,11 @@
       "Time": "2023-11-16T22:09:35.7353061+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T07:12:45.1985956+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4223,9 +4228,9 @@
       "ID": "archmage_3",
       "SetID": "53c1p3k",
       "Name": "Archmage 3",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "call_of_mana_1",
@@ -4263,9 +4268,9 @@
       "ID": "catacombs_raid_2",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 2",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "catacombs_raid_3",
@@ -4367,9 +4372,9 @@
       "ID": "elemental_stones_3",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 3",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "elite_deck_1",
@@ -4415,9 +4420,9 @@
       "ID": "from_day_to_day_3",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 3",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "glitter_of_gold_1",
@@ -4471,17 +4476,17 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 36
     },
     {
       "ID": "invincible_2",
       "SetID": "53c1p3k",
       "Name": "Invincible 2",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "invincible_3",
@@ -4631,9 +4636,9 @@
       "ID": "soul_shards_3",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 3",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "stronghold_1",
@@ -4712,14 +4717,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:10:20.8948548+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:12:45.198595+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:00:10.6048603+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:10:20.8949148+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:02:21.6253767+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:12:45.1986871+00:00"
 }

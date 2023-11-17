@@ -4040,9 +4040,9 @@
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 231
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_43",
@@ -4556,8 +4556,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:06:49.3087411+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:09:14.355246+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:03:22.2889068+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:06:49.3088915+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:05:51.3597105+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:09:14.3554166+00:00"
 }

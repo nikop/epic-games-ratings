@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -350,6 +350,11 @@
       "Time": "2023-11-17T02:31:08.4531019+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T07:11:16.585091+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -384,17 +389,17 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "AchvBombing",
@@ -440,9 +445,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AchvInvShip",
@@ -536,9 +541,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvReachCity",
@@ -552,17 +557,17 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -576,9 +581,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AchvUnity",
@@ -593,14 +598,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:08:50.9478332+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:11:16.5850903+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.9018108+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:00:59.436622+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:08:50.9478495+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:03:10.1845768+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:11:16.5851105+00:00"
 }

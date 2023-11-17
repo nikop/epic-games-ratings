@@ -1495,9 +1495,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 158622,
+  "EOS_Progressed": 158630,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1177,
+  "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15970,6 +15970,11 @@
       "Time": "2023-11-17T06:07:08.1097045+00:00",
       "NumProgressed": 158622,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T07:09:33.0985327+00:00",
+      "NumProgressed": 158630,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15989,7 +15994,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -16045,7 +16050,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7931
+      "UsersEstimate": 7932
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -16117,7 +16122,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -16173,7 +16178,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -16181,7 +16186,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -16197,7 +16202,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7931
+      "UsersEstimate": 7932
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -16269,7 +16274,7 @@
       "Name": "Passage",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "QUEST_CHILD",
@@ -16348,21 +16353,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158205,
+      "Progressed": 158213,
       "Completed": 1205
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158622,
+      "Progressed": 158630,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T03:57:42.0740057+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:07:08.1097042+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:09:33.0985322+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:58:18.3501026+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:07:08.1097974+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:00:29.3301386+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:09:33.0986312+00:00"
 }

@@ -1,15 +1,15 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 272)  
+Rating: 4.68 (Ranked 252)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,360 |
-| On the Top Step | 87.00% | ~5,014 |
-| Setting up for Success | 76.00% | ~4,380 |
+| Getting on the Step | 93.00% | ~5,361 |
+| On the Top Step | 87.00% | ~5,015 |
+| Setting up for Success | 76.00% | ~4,381 |
 | Team Orders | 74.00% | ~4,265 |
-| Engineer | 54.00% | ~3,112 |
+| Engineer | 54.00% | ~3,113 |
 | Familiar Faces | 47.00% | ~2,709 |
 | Sharing the Love | 41.00% | ~2,363 |
 | Going the Extra Mile | 41.00% | ~2,363 |
@@ -17,16 +17,16 @@ Rating: 4.67 (Ranked 272)
 | A Dozen Pieces | 31.00% | ~1,787 |
 | Challenge Yourself | 31.00% | ~1,787 |
 | Making History | 31.00% | ~1,787 |
-| Network Success | 26.00% | ~1,498 |
+| Network Success | 26.00% | ~1,499 |
 | Writing a new Chapter | 25.00% | ~1,441 |
-| Spring Cleaning | 23.00% | ~1,325 |
+| Spring Cleaning | 23.00% | ~1,326 |
 | Reduce | 20.00% | ~1,153 |
 | Ups and Downs | 19.00% | ~1,095 |
-| Crucial Combo | 18.00% | ~1,037 |
+| Crucial Combo | 18.00% | ~1,038 |
 | Reuse | 16.00% | ~922 |
 | One for the Book | 16.00% | ~922 |
 | Proving Them Wrong | 16.00% | ~922 |
-| Gathering Dust | 15.00% | ~864 |
+| Gathering Dust | 15.00% | ~865 |
 | Oil and Water | 14.00% | ~807 |
 | Hitting a Bullseye | 13.00% | ~749 |
 | Spinning Around | 13.00% | ~749 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 272)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,763 (Ranked 184)  
+Progressed: 5,764 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-14 | 5,732 | 0 |
 | 2023-11-15 | 5,748 | 0 |
 | 2023-11-16 | 5,758 | 0 |
-| 2023-11-17 | 5,763 | 0 |
+| 2023-11-17 | 5,764 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 72 (Ranked 463)  
@@ -204,3 +204,4 @@ Diff (max vs sum): 21
 | 2023-11-14 | 4.68 | 31 | 51 |
 | 2023-11-15 | 4.69 | 32 | 72 |
 | 2023-11-16 | 4.68 | 32 | 72 |
+| 2023-11-17 | 4.68 | 32 | 72 |

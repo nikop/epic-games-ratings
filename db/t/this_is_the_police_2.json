@@ -2,12 +2,12 @@
   "ID": "c0f696a36d1d49f9a6a96a732a83acfc",
   "Name": "This Is The Police 2",
   "ProductSlug": "this-is-the-police-2",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-24T17:00:00+00:00",
@@ -219,6 +219,6 @@
   "FirstSeen": "2022-07-22T20:23:15.818188+00:00",
   "LastChanged": "2023-10-20T10:00:59.528954+00:00",
   "LastUpdate_AppInfo": "2023-11-11T11:57:10.2294023+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:01:55.4833676+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:08:57.9191389+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:04:06.1530521+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:11:23.627372+00:00"
 }

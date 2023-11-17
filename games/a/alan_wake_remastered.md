@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 20.00% | ~18,758 |
 | Heavy Metal | 19.00% | ~17,820 |
 | Perchance to Dream | 19.00% | ~17,820 |
-| It's Not Just a Typewriter Brand | 18.00% | ~16,882 |
-| Thunder and Lightning | 18.00% | ~16,882 |
-| Gatekeeper | 17.00% | ~15,944 |
-| Two For the Price of One | 17.00% | ~15,944 |
+| It's Not Just a Typewriter Brand | 18.00% | ~16,883 |
+| Thunder and Lightning | 18.00% | ~16,883 |
+| Gatekeeper | 17.00% | ~15,945 |
+| Two For the Price of One | 17.00% | ~15,945 |
 | The Lady of the Light | 16.00% | ~15,007 |
 | Energized! | 16.00% | ~15,007 |
 | Right of Way | 14.00% | ~13,131 |
@@ -44,7 +44,7 @@ Number of Ratings: 524  (23.09.2022)
 | If It Flies, It Burns | 7.00% | ~6,565 |
 | KBF-FM | 7.00% | ~6,565 |
 | A Friend Indeed | 7.00% | ~4,008 |
-| Boob Tube | 6.00% | ~5,627 |
+| Boob Tube | 6.00% | ~5,628 |
 | Ding! | 6.00% | ~3,436 |
 | Carny | 4.00% | ~3,752 |
 | Kill Your Darlings | 4.00% | ~2,290 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~115 |
 | Licensed Properties | 0.20% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,791 (Ranked 89)  
+Progressed: 93,792 (Ranked 89)  
 Completed: 96 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 96 (0.10%) (Ranked 277)
 | 2023-11-14 | 93,242 | 94 |
 | 2023-11-15 | 93,475 | 95 |
 | 2023-11-16 | 93,724 | 96 |
-| 2023-11-17 | 93,791 | 96 |
+| 2023-11-17 | 93,792 | 96 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,154 (Ranked 41)  
+Progressed: 457,170 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,10 +581,10 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,154 | 1 |
+| 2023-11-17 | 457,170 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
-Sum: 57,847 (Ranked 24)  
+Sum: 57,865 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -592,7 +592,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 6,769 |
 | This game is Highly Recommended | 6,748 |
 | This game has Challenging Combat | 6,646 |
-| This game is Extremely Fun | 6,619 |
+| This game is Extremely Fun | 6,637 |
 | This game is Relaxing | 6,461 |
 | This game has Competitive Players | 6,309 |
 | This game has Amazing Storytelling | 5,842 |
@@ -905,3 +905,4 @@ Diff (max vs sum): 30
 | 2023-11-14 | 4.69 | - | 6,999 | 57,546 |
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
+| 2023-11-17 | 4.69 | - | 7,026 | 57,865 |

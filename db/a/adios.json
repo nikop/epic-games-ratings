@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78521,
+  "EOS_Progressed": 78522,
   "EOS_Completed": 842,
   "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 9,
@@ -23662,6 +23662,11 @@
       "Time": "2023-11-17T06:04:21.7953948+00:00",
       "NumProgressed": 78521,
       "NumCompleted": 842
+    },
+    {
+      "Time": "2023-11-17T07:06:48.626367+00:00",
+      "NumProgressed": 78522,
+      "NumCompleted": 842
     }
   ],
   "TotalAchievements": 25,
@@ -23777,7 +23782,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16489
+      "UsersEstimate": 16490
     },
     {
       "ID": "Meaty",
@@ -23801,7 +23806,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12563
+      "UsersEstimate": 12564
     },
     {
       "ID": "Nothing Left to Say",
@@ -23809,7 +23814,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Piano Man",
@@ -23833,7 +23838,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5496
+      "UsersEstimate": 5497
     },
     {
       "ID": "Spicy",
@@ -23872,7 +23877,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78521,
+      "Progressed": 78522,
       "Completed": 842
     }
   ],
@@ -23880,8 +23885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:04:21.7953943+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:06:48.6263667+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.731419+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:57:26.0704381+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:04:21.7955115+00:00"
+  "LastUpdate_Ratings": "2023-11-17T06:59:38.9643602+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:06:48.6264668+00:00"
 }

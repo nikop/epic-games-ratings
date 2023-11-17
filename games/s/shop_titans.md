@@ -1,19 +1,19 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 998)  
+Rating: 3.99 (Ranked 997)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,007 |
-| Titan's First Steps | 5.00% | ~7,007 |
+| Sponsored by Argon | 5.00% | ~7,008 |
+| Titan's First Steps | 5.00% | ~7,008 |
 | Basic in Bulk | 4.00% | ~5,606 |
 | Tinkle of Coins | 4.00% | ~5,606 |
-| Disintermediation | 3.00% | ~4,204 |
-| It's Free Real Estate | 3.00% | ~4,204 |
-| Budding Merchant | 3.00% | ~4,204 |
-| Capitalism Ho! | 3.00% | ~4,204 |
+| Disintermediation | 3.00% | ~4,205 |
+| It's Free Real Estate | 3.00% | ~4,205 |
+| Budding Merchant | 3.00% | ~4,205 |
+| Capitalism Ho! | 3.00% | ~4,205 |
 | The Daily Grind | 2.00% | ~2,803 |
 | One Easy Payment | 2.00% | ~2,803 |
 | Some Assembly Required | 2.00% | ~2,803 |
@@ -27,26 +27,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 2.00% | ~2,803 |
 | Through Repetition, Perfection | 2.00% | ~2,803 |
 | Own the Means of Production | 2.00% | ~2,803 |
-| On the Path to Greatness | 1.00% | ~1,401 |
-| Ascended | 1.00% | ~1,401 |
-| Tax not Included | 1.00% | ~1,401 |
-| Research & Development | 1.00% | ~1,401 |
-| Vanity, Verily | 1.00% | ~1,401 |
-| Fated Encounters | 1.00% | ~1,401 |
-| Blank Page Syndrome | 1.00% | ~1,401 |
-| Power of Love | 1.00% | ~1,401 |
-| Efficient Floor Space | 1.00% | ~1,401 |
-| Flawless Fusion | 1.00% | ~1,401 |
-| Trash to Treasure | 1.00% | ~1,401 |
-| Gem Expert | 1.00% | ~1,401 |
-| Gild-Gotten Goods | 1.00% | ~1,401 |
-| Royal Ransom | 1.00% | ~1,401 |
-| Helping Hand | 1.00% | ~1,401 |
-| Accomplished Merchant | 1.00% | ~1,401 |
-| Natural 20 | 1.00% | ~1,401 |
-| Did we pack lunch? | 1.00% | ~1,401 |
-| Magical Harmony | 1.00% | ~1,401 |
-| Arcane Industries | 1.00% | ~1,401 |
+| On the Path to Greatness | 1.00% | ~1,402 |
+| Ascended | 1.00% | ~1,402 |
+| Tax not Included | 1.00% | ~1,402 |
+| Research & Development | 1.00% | ~1,402 |
+| Vanity, Verily | 1.00% | ~1,402 |
+| Fated Encounters | 1.00% | ~1,402 |
+| Blank Page Syndrome | 1.00% | ~1,402 |
+| Power of Love | 1.00% | ~1,402 |
+| Efficient Floor Space | 1.00% | ~1,402 |
+| Flawless Fusion | 1.00% | ~1,402 |
+| Trash to Treasure | 1.00% | ~1,402 |
+| Gem Expert | 1.00% | ~1,402 |
+| Gild-Gotten Goods | 1.00% | ~1,402 |
+| Royal Ransom | 1.00% | ~1,402 |
+| Helping Hand | 1.00% | ~1,402 |
+| Accomplished Merchant | 1.00% | ~1,402 |
+| Natural 20 | 1.00% | ~1,402 |
+| Did we pack lunch? | 1.00% | ~1,402 |
+| Magical Harmony | 1.00% | ~1,402 |
+| Arcane Industries | 1.00% | ~1,402 |
 | A Notch Above the Rest | 0.90% | ~1,261 |
 | The King's Caprice | 0.90% | ~1,261 |
 | Big Game Hunting | 0.90% | ~1,261 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,147 (Ranked 79)  
+Progressed: 140,151 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 265)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,147 | 187 |
+| 2023-11-17 | 140,151 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,557 (Ranked 50)  

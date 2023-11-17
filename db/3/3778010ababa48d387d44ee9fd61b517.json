@@ -178,9 +178,9 @@
       "ID": "A_COMP_NORMAL",
       "SetID": "324h56e",
       "Name": "Vanguard",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_DAVID",
@@ -266,9 +266,9 @@
       "ID": "A_LEGIONNAIRES",
       "SetID": "324h56e",
       "Name": "We Are All You Need",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A_LEVEL",
@@ -306,9 +306,9 @@
       "ID": "A_NOFISH",
       "SetID": "324h56e",
       "Name": "Fish Lover",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_ORB",
@@ -370,9 +370,9 @@
       "ID": "A_SUN",
       "SetID": "324h56e",
       "Name": "The Age of Discovery",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_SUNKEN",
@@ -433,8 +433,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:05:44.293897+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:08:10.0095432+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:08.5505648+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:02:57.2853473+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:05:44.2939161+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:05:26.5024576+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:08:10.0095648+00:00"
 }

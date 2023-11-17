@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,154 |
+| Sowwy! | 35.00% | ~83,155 |
 | Alt+F4 | 8.00% | ~19,007 |
 | Where's that freaking Dwarf? | 7.00% | ~16,631 |
 | Déjà vu | 6.00% | ~14,255 |
@@ -15,10 +15,10 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 4.00% | ~9,503 |
 | DM intervention | 4.00% | ~9,503 |
 | Speedrun | 4.00% | ~9,503 |
-| Livin' in a dwarven paradise | 3.00% | ~7,127 |
-| Way of the Wimp | 3.00% | ~7,127 |
-| The plot thickens... At the tavern | 3.00% | ~7,127 |
-| Fireproof Wizardess | 3.00% | ~7,127 |
+| Livin' in a dwarven paradise | 3.00% | ~7,128 |
+| Way of the Wimp | 3.00% | ~7,128 |
+| The plot thickens... At the tavern | 3.00% | ~7,128 |
+| Fireproof Wizardess | 3.00% | ~7,128 |
 | Shiny and Crôm | 2.00% | ~4,752 |
 | The demons' feast | 2.00% | ~4,752 |
 | The Great Library | 2.00% | ~4,752 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.90% | ~2,138 |
 | We come in peace | 0.70% | ~1,663 |
 | Lëgal Legend | 0.70% | ~1,663 |
-| Holistic Adventuring Party | 0.60% | ~1,425 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,425 |
+| Holistic Adventuring Party | 0.60% | ~1,426 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,426 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,188 |
 | Law and Order | 0.50% | ~1,188 |
 | It's been a hard day's night | 0.40% | ~950 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,582 (Ranked 62)  
+Progressed: 237,587 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 7 (0.00%) (Ranked 352)
 | 2023-11-14 | 237,170 | 7 |
 | 2023-11-15 | 237,338 | 7 |
 | 2023-11-16 | 237,548 | 7 |
-| 2023-11-17 | 237,582 | 7 |
+| 2023-11-17 | 237,587 | 7 |
 ## Awards
 Max (Character Customization): 230  (Ranked 272)  
 Sum: 463 (Ranked 331)  

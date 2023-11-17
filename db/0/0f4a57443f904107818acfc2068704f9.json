@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -371,6 +371,11 @@
       "Time": "2023-11-17T00:06:39.4630763+00:00",
       "NumProgressed": 100,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T07:11:05.0020464+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -437,7 +442,7 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -525,7 +530,7 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 34
     },
@@ -629,7 +634,7 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -653,7 +658,7 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 33
     },
@@ -678,13 +683,13 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 102,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:08:39.4629084+00:00",
-  "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-17T05:58:42.9109223+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:08:39.4629338+00:00"
+  "LastChanged_Achievements": "2023-11-17T07:11:05.002046+00:00",
+  "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
+  "LastUpdate_Ratings": "2023-11-17T07:00:54.0486388+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:11:05.0020669+00:00"
 }

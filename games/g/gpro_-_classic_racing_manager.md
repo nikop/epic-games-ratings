@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 76.00% | ~357 |
-| Photo shoot | 15.00% | ~70 |
+| Newbie | 76.00% | ~358 |
+| Photo shoot | 15.00% | ~71 |
 | No brakes | 13.00% | ~61 |
 | Wannabe | 10.00% | ~47 |
 | First taste | 7.00% | ~33 |
@@ -21,8 +21,8 @@
 | Mr. Whiting | 1.00% | ~5 |
 | No brakes Amateur | 1.00% | ~5 |
 | Amateur photo shoot | 1.00% | ~5 |
-| Addict | 0.90% | ~4 |
-| Untouchable | 0.90% | ~4 |
+| Addict | 0.80% | ~4 |
+| Untouchable | 0.80% | ~4 |
 | Monster Amateur car | 0.60% | ~3 |
 | Pro hitchhiker | 0.60% | ~3 |
 | Amateur wannabe | 0.60% | ~3 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470 (Ranked 310)  
+Progressed: 471 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,3 +287,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-11-11 | 463 | 0 |
 | 2023-11-13 | 464 | 0 |
 | 2023-11-14 | 470 | 0 |
+| 2023-11-17 | 471 | 0 |

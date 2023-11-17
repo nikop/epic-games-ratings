@@ -79,7 +79,7 @@
   "Tags": [],
   "EOS_Progressed": 362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -797,9 +797,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 217
     },
     {
       "ID": "BreakTheLoop",
@@ -1037,9 +1037,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1213,9 +1213,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "YourBiggestFan",
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-16T08:59:19.8841598+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:06:55.8387972+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:09:20.5977106+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:01:08.4781464+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:06:55.8388362+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:03:19.0141841+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:09:20.5977501+00:00"
 }

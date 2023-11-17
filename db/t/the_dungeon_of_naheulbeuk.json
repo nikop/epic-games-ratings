@@ -1335,9 +1335,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237582,
+  "EOS_Progressed": 237587,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1388,
+  "EOS_NewPlayers": 1390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18855,6 +18855,11 @@
       "Time": "2023-11-17T06:09:04.9415035+00:00",
       "NumProgressed": 237582,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T07:11:30.9812674+00:00",
+      "NumProgressed": 237587,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18866,7 +18871,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7127
+      "UsersEstimate": 7128
     },
     {
       "ID": "100Fail",
@@ -18882,7 +18887,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "BarbarianEpic",
@@ -18898,7 +18903,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7127
+      "UsersEstimate": 7128
     },
     {
       "ID": "BookCollection",
@@ -18930,7 +18935,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7127
+      "UsersEstimate": 7128
     },
     {
       "ID": "Chapter4",
@@ -19314,7 +19319,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83154
+      "UsersEstimate": 83155
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19378,7 +19383,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "InsultLoose",
@@ -19562,28 +19567,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7127
+      "UsersEstimate": 7128
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237582,
+      "Progressed": 237587,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237582,
+      "Progressed": 237587,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T16:00:04.3647712+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:09:04.9415031+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:11:30.981267+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:01:06.0888578+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:09:04.9416766+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:03:16.5506539+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:11:30.981416+00:00"
 }

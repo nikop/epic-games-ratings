@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 93791,
+  "EOS_Progressed": 93792,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1913,
+  "EOS_NewPlayers": 1909,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -22048,6 +22048,11 @@
       "Time": "2023-11-17T06:10:20.5840933+00:00",
       "NumProgressed": 93791,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-17T07:12:45.002383+00:00",
+      "NumProgressed": 93792,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 67,
@@ -22083,7 +22088,7 @@
       "Name": "Boob Tube",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5628
     },
     {
       "ID": "05",
@@ -22163,7 +22168,7 @@
       "Name": "Gatekeeper",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15944
+      "UsersEstimate": 15945
     },
     {
       "ID": "15",
@@ -22243,7 +22248,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 16882
+      "UsersEstimate": 16883
     },
     {
       "ID": "25",
@@ -22259,7 +22264,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 16882
+      "UsersEstimate": 16883
     },
     {
       "ID": "27",
@@ -22291,7 +22296,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 15944
+      "UsersEstimate": 15945
     },
     {
       "ID": "31",
@@ -22594,21 +22599,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 93791,
+      "Progressed": 93792,
       "Completed": 96
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 57259,
+      "Progressed": 57260,
       "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-16T22:00:18.4553313+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:10:20.5840928+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:12:45.0023825+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:04.1494547+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:01:48.160131+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:10:20.5842354+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:03:58.9335708+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:12:45.0025349+00:00"
 }

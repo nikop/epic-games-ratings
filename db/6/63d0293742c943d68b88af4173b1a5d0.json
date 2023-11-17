@@ -463,17 +463,17 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "Remake_005",
@@ -630,8 +630,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-17T06:03:55.6280749+00:00",
+  "LastChanged_Achievements": "2023-11-17T07:06:22.6716888+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-17T06:03:09.97095+00:00",
-  "LastUpdate_Achievements": "2023-11-17T06:03:55.6280946+00:00"
+  "LastUpdate_Ratings": "2023-11-17T07:05:39.1581244+00:00",
+  "LastUpdate_Achievements": "2023-11-17T07:06:22.6717085+00:00"
 }

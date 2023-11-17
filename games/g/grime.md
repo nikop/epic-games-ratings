@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,931 |
-| Imprint | 5.00% | ~7,931 |
+| Taste | 5.00% | ~7,932 |
+| Imprint | 5.00% | ~7,932 |
 | The Hunt | 4.00% | ~6,345 |
 | Ravenous | 4.00% | ~6,345 |
 | Weeper | 3.00% | ~4,759 |
-| Harmless | 2.00% | ~3,172 |
-| Silenced Whispers | 2.00% | ~3,172 |
-| Devourer | 2.00% | ~3,172 |
+| Harmless | 2.00% | ~3,173 |
+| Silenced Whispers | 2.00% | ~3,173 |
+| Devourer | 2.00% | ~3,173 |
 | Shapely | 1.00% | ~1,586 |
 | Scion | 1.00% | ~1,582 |
 | Glare | 1.00% | ~1,582 |
@@ -36,8 +36,8 @@ Number of Ratings: 46  (23.09.2022)
 | Dream | 0.60% | ~949 |
 | Breath | 0.50% | ~793 |
 | Unwrap the Gift | 0.50% | ~793 |
-| Bloodhunter | 0.40% | ~634 |
-| Passage | 0.40% | ~634 |
+| Bloodhunter | 0.40% | ~635 |
+| Passage | 0.40% | ~635 |
 | Zygote | 0.30% | ~475 |
 | Kinship | 0.30% | ~476 |
 | Kin | 0.30% | ~475 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,622 (Ranked 77)  
+Progressed: 158,630 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
 | 2023-11-16 | 158,567 | 1 |
-| 2023-11-17 | 158,622 | 1 |
+| 2023-11-17 | 158,630 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 423)  
 Sum: 369 (Ranked 349)  
