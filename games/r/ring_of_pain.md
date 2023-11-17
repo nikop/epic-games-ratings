@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 0.80% | ~10 |
-| Not Touching You | 0.50% | ~6 |
+| Not Touching You | 0.50% | ~7 |
 | First Steps | 0.40% | ~959 |
 | Nothing To Lose | 0.30% | ~719 |
 | Heavy Hitter | 0.30% | ~719 |
@@ -26,6 +26,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.30% | ~719 |
 | Uncharted Territory | 0.30% | ~719 |
 | Explorer | 0.30% | ~719 |
+| Sneaky | 0.30% | ~719 |
 | An Offering | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~4 |
 | What Doesn't Kill You | 0.30% | ~4 |
@@ -55,7 +56,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.20% | ~480 |
 | Acid Bath | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
-| Sneaky | 0.20% | ~480 |
 | Shadow Walker | 0.20% | ~480 |
 | Flesh Wound | 0.20% | ~480 |
 | Shapeshifting | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,820 (Ranked 61)  
+Progressed: 239,821 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-14 | 239,696 | 288 |
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
-| 2023-11-17 | 239,820 | 288 |
+| 2023-11-17 | 239,821 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,679 (Ranked 83)  

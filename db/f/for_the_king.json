@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3655,18 +3655,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 3022,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2023-11-17T22:00:43.7608484+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3025,
+      "NumberOfAwardsMax": 408
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3022,
-  "NumberOfAwardsMax": 407,
+  "NumberOfAwards": 3025,
+  "NumberOfAwardsMax": 408,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 407
+      "Count": 408
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3678,7 +3684,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 296
+      "Count": 297
     },
     {
       "Text": "This game is Relaxing",
@@ -3714,7 +3720,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 329
+      "Count": 330
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3734,8 +3740,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-11-16T06:58:44.106034+00:00",
+  "LastChanged": "2023-11-17T22:00:43.7608483+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:14.2304799+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:59:30.8057753+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:04:53.009555+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:00:43.7608488+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:06:06.5383737+00:00"
 }

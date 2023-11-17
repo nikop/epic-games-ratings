@@ -41,7 +41,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.10% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 384)  
+Progressed: 189 (Ranked 384)  
 Completed: 1 (0.53%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,3 +80,4 @@ Completed: 1 (0.53%) (Ranked 197)
 | 2023-11-13 | 185 | 1 |
 | 2023-11-14 | 186 | 1 |
 | 2023-11-15 | 188 | 1 |
+| 2023-11-17 | 189 | 1 |

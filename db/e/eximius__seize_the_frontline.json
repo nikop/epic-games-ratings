@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200106,
+  "EOS_Progressed": 200107,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
@@ -22742,6 +22742,11 @@
       "Time": "2023-11-17T21:06:02.3624768+00:00",
       "NumProgressed": 200106,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-17T22:07:46.6710991+00:00",
+      "NumProgressed": 200107,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -22753,7 +22758,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16008
+      "UsersEstimate": 16009
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -22761,7 +22766,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142075
+      "UsersEstimate": 142076
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -22880,7 +22885,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200106,
+      "Progressed": 200107,
       "Completed": 4
     }
   ],
@@ -22888,8 +22893,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:06:02.3624765+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:07:46.6710988+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.4823585+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:58:20.5243173+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:06:02.3625859+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:58:55.9444547+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:07:46.6711851+00:00"
 }

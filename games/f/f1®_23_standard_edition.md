@@ -5,12 +5,12 @@ Rating: 4.67 (Ranked 272)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,373 |
-| On the Top Step | 87.00% | ~5,026 |
+| Getting on the Step | 93.00% | ~5,374 |
+| On the Top Step | 87.00% | ~5,027 |
 | Setting up for Success | 76.00% | ~4,391 |
-| Team Orders | 75.00% | ~4,333 |
+| Team Orders | 75.00% | ~4,334 |
 | Engineer | 54.00% | ~3,120 |
-| Familiar Faces | 47.00% | ~2,715 |
+| Familiar Faces | 47.00% | ~2,716 |
 | Sharing the Love | 41.00% | ~2,369 |
 | Going the Extra Mile | 41.00% | ~2,369 |
 | Hitting a Season | 36.00% | ~2,080 |
@@ -20,7 +20,7 @@ Rating: 4.67 (Ranked 272)
 | Network Success | 26.00% | ~1,502 |
 | Writing a new Chapter | 25.00% | ~1,444 |
 | Spring Cleaning | 23.00% | ~1,329 |
-| Reduce | 20.00% | ~1,155 |
+| Reduce | 20.00% | ~1,156 |
 | Ups and Downs | 19.00% | ~1,098 |
 | Crucial Combo | 18.00% | ~1,040 |
 | Reuse | 16.00% | ~924 |
@@ -33,9 +33,9 @@ Rating: 4.67 (Ranked 272)
 | Eagle Eye | 12.00% | ~693 |
 | Lightning Round the World | 12.00% | ~693 |
 | Switcheroo | 12.00% | ~693 |
-| All in a Weekend's Work | 11.00% | ~635 |
-| Friendly Competition | 11.00% | ~635 |
-| Recycle | 11.00% | ~635 |
+| All in a Weekend's Work | 11.00% | ~636 |
+| Friendly Competition | 11.00% | ~636 |
+| Recycle | 11.00% | ~636 |
 | Tinkerer | 9.00% | ~520 |
 | Undisputed Winner | 8.00% | ~462 |
 | For all Those Back at the Factory | 6.00% | ~347 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 272)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,777 (Ranked 184)  
+Progressed: 5,778 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-14 | 5,732 | 0 |
 | 2023-11-15 | 5,748 | 0 |
 | 2023-11-16 | 5,758 | 0 |
-| 2023-11-17 | 5,777 | 0 |
+| 2023-11-17 | 5,778 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 73 (Ranked 463)  

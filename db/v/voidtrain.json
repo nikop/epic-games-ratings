@@ -2,13 +2,13 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
     "PcReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 1305,
   "RatingHistory": [
     {
@@ -1146,10 +1146,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-11-17T21:58:21.5075638+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 252,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
+  "NumberOfAwards": 252,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1206,6 +1212,12 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1219,8 +1231,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-11-17T17:57:43.6885596+00:00",
+  "LastChanged": "2023-11-17T21:58:21.5075637+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.4919542+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:57:57.4474047+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:05:52.3549141+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:58:21.5075641+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:07:31.6815187+00:00"
 }

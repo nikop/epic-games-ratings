@@ -6,17 +6,17 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~828 |
-| My little farm | 64.00% | ~662 |
-| Every beginning is difficult | 63.00% | ~652 |
-| Gofer | 57.00% | ~590 |
+| Cabin boy | 80.00% | ~829 |
+| My little farm | 64.00% | ~663 |
+| Every beginning is difficult | 63.00% | ~653 |
+| Gofer | 57.00% | ~591 |
 | 3, 2, 1, mine | 56.00% | ~580 |
-| O Captain! My Captain! | 55.00% | ~569 |
+| O Captain! My Captain! | 55.00% | ~570 |
 | Seafarer | 51.00% | ~528 |
 | Intangible | 43.00% | ~445 |
 | Greed for gold | 43.00% | ~445 |
 | I'm out of here for a while | 42.00% | ~435 |
-| In a mint condition | 38.00% | ~393 |
+| In a mint condition | 38.00% | ~394 |
 | Licence to Kill | 37.00% | ~383 |
 | Pirates! | 34.00% | ~352 |
 | Collectionitis | 29.00% | ~300 |
@@ -34,8 +34,8 @@ Number of Ratings: 53  (23.09.2022)
 | Your vessel, my vessel | 9.00% | ~93 |
 | Paths of Glory | 8.00% | ~83 |
 | Panel of experts | 8.00% | ~83 |
-| Maker | 7.00% | ~72 |
-| Conglomerate | 7.00% | ~72 |
+| Maker | 7.00% | ~73 |
+| Conglomerate | 7.00% | ~73 |
 | The Grande Bouffe | 6.00% | ~62 |
 | Buccaneer | 5.00% | ~52 |
 | Flying Dutchman | 5.00% | ~52 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,035 (Ranked 259)  
+Progressed: 1,036 (Ranked 258)  
 Completed: 1 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 1 (0.10%) (Ranked 279)
 | 2023-11-12 | 1,031 | 1 |
 | 2023-11-13 | 1,032 | 1 |
 | 2023-11-16 | 1,033 | 1 |
-| 2023-11-17 | 1,035 | 1 |
+| 2023-11-17 | 1,036 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

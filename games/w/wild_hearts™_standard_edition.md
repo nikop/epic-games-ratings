@@ -31,8 +31,8 @@
 | Karakuri Trail | 38.00% | ~112 |
 | Artful Assister | 36.00% | ~106 |
 | Team Hunter | 34.00% | ~100 |
+| Reincarnation Cycle Stopper | 33.00% | ~97 |
 | Karakuri Isle | 32.00% | ~94 |
-| Reincarnation Cycle Stopper | 32.00% | ~94 |
 | Left Arm Leverager | 30.00% | ~88 |
 | Canyon of Karakuri | 27.00% | ~79 |
 | Style Seeker | 27.00% | ~79 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~32 |
 | Tsukumo Whisperer | 7.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294 (Ranked 346)  
+Progressed: 294 (Ranked 347)  
 Completed: 7 (2.38%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15055,
+  "EOS_Progressed": 15061,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11482,6 +11482,11 @@
       "Time": "2023-11-17T21:07:43.6619278+00:00",
       "NumProgressed": 15055,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-17T22:08:30.2746445+00:00",
+      "NumProgressed": 15061,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11526,7 +11531,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "14",
@@ -11742,7 +11747,7 @@
       "Name": "Safe Cracker",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "33",
@@ -11750,7 +11755,7 @@
       "Name": "Zen Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "34",
@@ -11766,29 +11771,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15055,
+      "Progressed": 15061,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1009,
-      "Completed": 600
+      "Progressed": 1015,
+      "Completed": 602
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:07:43.6619276+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:08:30.2746443+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:57:53.4389746+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:07:43.6619976+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:58:15.4778916+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:08:30.2746996+00:00"
 }

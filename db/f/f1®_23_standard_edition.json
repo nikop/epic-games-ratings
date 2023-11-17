@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5777,
+  "EOS_Progressed": 5778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5726,6 +5726,11 @@
       "Time": "2023-11-17T21:05:33.3254583+00:00",
       "NumProgressed": 5777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T22:07:05.0600422+00:00",
+      "NumProgressed": 5778,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5786,7 +5791,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5373
+      "UsersEstimate": 5374
     },
     {
       "ID": "achievement_0008",
@@ -5794,7 +5799,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "achievement_0009",
@@ -5818,7 +5823,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_0012",
@@ -5898,7 +5903,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "achievement_0022",
@@ -5938,7 +5943,7 @@
       "Name": "Friendly Competition",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_0027",
@@ -5962,7 +5967,7 @@
       "Name": "Reduce",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "achievement_0030",
@@ -5978,7 +5983,7 @@
       "Name": "Recycle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_0032",
@@ -6074,7 +6079,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "achievement_0044",
@@ -6129,7 +6134,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5777,
+      "Progressed": 5778,
       "Completed": 0
     }
   ],
@@ -6137,8 +6142,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-17T20:59:10.2550561+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:05:33.3254579+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:07:05.0600418+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:59:10.2550567+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:05:33.3255201+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:00:12.3034935+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:07:05.060092+00:00"
 }

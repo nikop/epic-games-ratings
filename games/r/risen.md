@@ -29,8 +29,8 @@ Rating: 4.57 (Ranked 469)
 | Archaeologist | 28.00% | ~11 |
 | Little hero | 25.00% | ~10 |
 | Defender | 25.00% | ~10 |
+| Pandora's box | 25.00% | ~10 |
 | Peacekeeper | 25.00% | ~10 |
-| Pandora's box | 23.00% | ~9 |
 | Ghost hunter | 23.00% | ~9 |
 | Sidelined | 23.00% | ~9 |
 | Workaholic | 20.00% | ~8 |

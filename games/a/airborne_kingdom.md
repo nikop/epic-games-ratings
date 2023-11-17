@@ -6,24 +6,24 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,201 |
-| A Grove Replanted | 53.00% | ~3,976 |
-| Fields Watered | 41.00% | ~3,075 |
-| Seekers Found | 41.00% | ~3,075 |
-| Settling the Skies | 41.00% | ~3,075 |
-| Wind Powered | 40.00% | ~3,000 |
-| It Takes a Village | 34.00% | ~2,550 |
-| On the Town | 28.00% | ~2,100 |
-| Daylight Found | 26.00% | ~1,950 |
-| Irons Scorched | 25.00% | ~1,875 |
-| Islands Connected | 25.00% | ~1,875 |
-| Harp Tuned | 24.00% | ~1,800 |
-| Travelers Returned | 24.00% | ~1,800 |
-| Pyre Ignited | 23.00% | ~1,725 |
-| Hopes Hoisted | 22.00% | ~1,650 |
-| Knowledge Shared | 20.00% | ~1,500 |
-| Relic Finder | 20.00% | ~1,500 |
-| Worthy of the Title | 19.00% | ~1,425 |
+| A Small Community | 56.00% | ~4,202 |
+| A Grove Replanted | 53.00% | ~3,977 |
+| Fields Watered | 41.00% | ~3,076 |
+| Seekers Found | 41.00% | ~3,076 |
+| Settling the Skies | 41.00% | ~3,076 |
+| Wind Powered | 40.00% | ~3,001 |
+| It Takes a Village | 34.00% | ~2,551 |
+| On the Town | 28.00% | ~2,101 |
+| Daylight Found | 26.00% | ~1,951 |
+| Irons Scorched | 25.00% | ~1,876 |
+| Islands Connected | 25.00% | ~1,876 |
+| Harp Tuned | 24.00% | ~1,801 |
+| Travelers Returned | 24.00% | ~1,801 |
+| Pyre Ignited | 23.00% | ~1,726 |
+| Hopes Hoisted | 22.00% | ~1,651 |
+| Knowledge Shared | 20.00% | ~1,501 |
+| Relic Finder | 20.00% | ~1,501 |
+| Worthy of the Title | 19.00% | ~1,426 |
 | A Peaceful Respite | 14.00% | ~1,050 |
 | A Learned Scholar | 13.00% | ~975 |
 | Prophecy Fulfilled | 13.00% | ~975 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~150 |
 | A True Challenge | 2.00% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,501 (Ranked 175)  
+Progressed: 7,503 (Ranked 175)  
 Completed: 58 (0.77%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 58 (0.77%) (Ranked 178)
 | 2023-11-14 | 7,490 | 58 |
 | 2023-11-15 | 7,491 | 58 |
 | 2023-11-16 | 7,499 | 58 |
-| 2023-11-17 | 7,501 | 58 |
+| 2023-11-17 | 7,503 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

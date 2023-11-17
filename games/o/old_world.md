@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 3.00% | ~461 |
 | Developing Cities | 3.00% | ~461 |
 | Strong Cities | 3.00% | ~461 |
+| Able Difficulty | 3.00% | ~461 |
 | Ishtar Gate | 3.00% | ~461 |
 | Lighthouse | 3.00% | ~461 |
 | Oracle | 3.00% | ~461 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 2.00% | ~307 |
 | Wise | 2.00% | ~307 |
 | Legendary Cities | 2.00% | ~307 |
-| Able Difficulty | 2.00% | ~307 |
 | Just Difficulty | 2.00% | ~307 |
 | Artisans | 2.00% | ~307 |
 | Champions | 2.00% | ~307 |

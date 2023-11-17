@@ -28,7 +28,7 @@
 | A Link to the Past | 11.00% | ~64 |
 | Rascal | 11.00% | ~64 |
 | For its own good | 9.00% | ~52 |
-| Fashion victim | 3.00% | ~17 |
+| Fashion victim | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 580 (Ranked 295)  
 Completed: 31 (5.34%) (Ranked 70)  

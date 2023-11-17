@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 918,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 3.71,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2009,6 +2009,11 @@
       "Time": "2023-11-17T21:08:49.1886587+00:00",
       "NumProgressed": 917,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-17T22:09:35.5146751+00:00",
+      "NumProgressed": 918,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2045,7 +2050,7 @@
       "Name": "An apple a day",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2091,23 +2096,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 486
+      "UsersEstimate": 496
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 918,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:08:49.1886585+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:09:35.5146746+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
   "LastUpdate_Ratings": "2023-11-17T21:00:10.8791361+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:08:49.1886834+00:00"
+  "LastUpdate_Achievements": "2023-11-17T22:09:35.5147242+00:00"
 }

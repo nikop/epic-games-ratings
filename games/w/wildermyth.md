@@ -24,9 +24,9 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 0.50% | ~7 |
 | Thematic Divergence | 0.40% | ~6 |
 | A Story of Heroes | 0.40% | ~6 |
+| Turncoat | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |
 | Chain Reaction | 0.30% | ~4 |
-| Turncoat | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
 | Another Tale to Tell | 0.20% | ~3 |

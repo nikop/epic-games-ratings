@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 88.00% | ~3,323 |
-| Flanked! | 76.00% | ~2,870 |
+| You and what Army? | 88.00% | ~3,324 |
+| Flanked! | 76.00% | ~2,871 |
 | Economics 101 | 60.00% | ~2,266 |
 | Get Rich Quick | 43.00% | ~1,624 |
 | Do the Splits | 38.00% | ~1,435 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~38 |
 | All Geared Up | 0.90% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,776 (Ranked 197)  
+Progressed: 3,777 (Ranked 197)  
 Completed: 11 (0.29%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 11 (0.29%) (Ranked 234)
 | 2023-11-12 | 3,768 | 11 |
 | 2023-11-15 | 3,769 | 11 |
 | 2023-11-16 | 3,774 | 11 |
-| 2023-11-17 | 3,776 | 11 |
+| 2023-11-17 | 3,777 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

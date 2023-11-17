@@ -1095,9 +1095,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66835,
+  "EOS_Progressed": 66837,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9500,6 +9500,11 @@
       "Time": "2023-11-17T21:03:40.7845976+00:00",
       "NumProgressed": 66835,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-17T22:04:23.3171463+00:00",
+      "NumProgressed": 66837,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9512,7 +9517,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22724
+      "UsersEstimate": 22725
     },
     {
       "ID": "10",
@@ -9639,7 +9644,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66835,
+      "Progressed": 66837,
       "Completed": 34
     }
   ],
@@ -9647,8 +9652,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-17T14:58:52.8326115+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:03:40.7845973+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:04:23.317146+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:58:54.1103291+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:03:40.784645+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:59:47.0844748+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:04:23.3172055+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1685,
+  "EOS_Progressed": 1686,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.33,
   "EosHistory": [
@@ -3543,6 +3543,11 @@
       "Time": "2023-11-17T20:06:24.6260277+00:00",
       "NumProgressed": 1685,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-17T22:07:38.2372268+00:00",
+      "NumProgressed": 1686,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3570,7 +3575,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3586,7 +3591,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_FineEV9",
@@ -3594,7 +3599,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH_FineGioco",
@@ -3610,7 +3615,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -3641,15 +3646,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1685,
+      "Progressed": 1686,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:05:56.8350743+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:07:38.2372264+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:58:59.9806361+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:05:56.8351003+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:59:56.1538983+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:07:38.2372457+00:00"
 }

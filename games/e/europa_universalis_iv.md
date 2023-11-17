@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,741 (Ranked 41)  
+Progressed: 457,776 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,741 | 1 |
+| 2023-11-17 | 457,776 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 57,973 (Ranked 24)  

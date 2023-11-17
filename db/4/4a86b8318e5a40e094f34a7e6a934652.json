@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -957,9 +957,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "BRING_MARY",
@@ -1021,9 +1021,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "LUNCH_LEECH",
@@ -1045,9 +1045,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -1061,9 +1061,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -1116,8 +1116,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:03:39.7643769+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:04:21.5557452+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.9733617+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:02:44.8692445+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:03:39.764393+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:03:01.2004521+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:04:21.5557617+00:00"
 }

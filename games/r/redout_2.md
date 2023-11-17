@@ -5,8 +5,8 @@ Rating: 4.48 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~326 |
-| Increasing your Power Level | 28.00% | ~326 |
+| Rookie No More | 28.00% | ~327 |
+| Increasing your Power Level | 28.00% | ~327 |
 | Enter the Speed Gauntlet | 25.00% | ~292 |
 | I just can't choose | 25.00% | ~292 |
 | A Cheese Grater to the Face | 20.00% | ~233 |
@@ -50,15 +50,15 @@ Rating: 4.48 (Ranked 622)
 | Everything is better with friends | 1.00% | ~12 |
 | Eat dust my friend | 1.00% | ~12 |
 | Grandslam | 1.00% | ~12 |
-| Fashion Racer | 0.90% | ~10 |
-| Redout Grandmaster | 0.90% | ~10 |
-| Familiar Face | 0.90% | ~10 |
-| Better than half the studio... | 0.90% | ~10 |
-| Beat you to it! | 0.90% | ~10 |
+| Fashion Racer | 0.90% | ~11 |
+| Redout Grandmaster | 0.90% | ~11 |
+| Familiar Face | 0.90% | ~11 |
+| Better than half the studio... | 0.90% | ~11 |
+| Beat you to it! | 0.90% | ~11 |
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 248)  
+Progressed: 1,167 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-08 | 1,164 | 0 |
 | 2023-11-11 | 1,165 | 0 |
 | 2023-11-13 | 1,166 | 0 |
+| 2023-11-17 | 1,167 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4279,10 +4279,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5284,
       "NumberOfAwardsMax": 2280
+    },
+    {
+      "Time": "2023-11-17T22:03:18.6431188+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5292,
+      "NumberOfAwardsMax": 2280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5284,
+  "NumberOfAwards": 5292,
   "NumberOfAwardsMax": 2280,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4314,7 +4320,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 347
+      "Count": 352
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4332,7 +4338,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 226
+      "Count": 229
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4353,9 +4359,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 222530,
+  "EOS_Progressed": 222559,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3105,
+  "EOS_NewPlayers": 3124,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18553,6 +18559,11 @@
       "Time": "2023-11-17T21:08:26.5129884+00:00",
       "NumProgressed": 222530,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-11-17T22:09:02.8274954+00:00",
+      "NumProgressed": 222559,
+      "NumCompleted": 469
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18979,9 +18990,9 @@
       "ID": "DLC1_Obtain_Archetype",
       "SetID": "bkoie00",
       "Name": "Master of the Dark Arts",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19004,22 +19015,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 222530,
+      "Progressed": 222559,
       "Completed": 469
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 1695,
+      "Progressed": 1724,
       "Completed": 103
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-17T20:03:01.8766557+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:08:26.512988+00:00",
+  "LastChanged": "2023-11-17T22:03:18.6431186+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:09:02.8274949+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:02:56.1600474+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:08:26.5130723+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:03:18.6431191+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:09:02.8275801+00:00"
 }

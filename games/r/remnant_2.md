@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 147)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Master of the Dark Arts | 0.30% | ~5 |
 | Regicide | 0.20% | ~3 |
-| Master of the Dark Arts | 0.20% | ~3 |
 | Expanding Horizons | 0.10% | ~223 |
 | Crafty | 0.10% | ~223 |
 | Am I Seeing This? | 0.10% | ~223 |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 147)
 | A Foul Feast | 0.10% | ~2 |
 | You Shall Pass | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,530 (Ranked 68)  
+Progressed: 222,559 (Ranked 68)  
 Completed: 469 (0.21%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,15 +185,15 @@ Completed: 469 (0.21%) (Ranked 249)
 | 2023-11-14 | 220,814 | 450 |
 | 2023-11-15 | 221,392 | 457 |
 | 2023-11-16 | 221,935 | 466 |
-| 2023-11-17 | 222,530 | 469 |
+| 2023-11-17 | 222,559 | 469 |
 ## Awards
 Max (Great Boss Battles): 2,280  (Ranked 106)  
-Sum: 5,284 (Ranked 134)  
+Sum: 5,292 (Ranked 134)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,280 |
-| This game has Diverse Characters | 347 |
+| This game has Diverse Characters | 352 |
 | This game is Extremely Fun | 326 |
 | This game is Relaxing | 324 |
 | This game is Highly Recommended | 322 |
@@ -202,7 +202,7 @@ Diff (max vs sum): -28
 | This game has Quickly Understood Controls | 297 |
 | This game has Amazing Characters | 288 |
 | This game has Unique Visuals | 247 |
-| This game has a Creative Community | 226 |
+| This game has a Creative Community | 229 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -320,4 +320,4 @@ Diff (max vs sum): -28
 | 2023-11-14 | 4.75 | 2,206 | 4,991 |
 | 2023-11-15 | 4.75 | 2,206 | 5,102 |
 | 2023-11-16 | 4.75 | 2,248 | 5,228 |
-| 2023-11-17 | 4.75 | 2,280 | 5,284 |
+| 2023-11-17 | 4.75 | 2,280 | 5,292 |

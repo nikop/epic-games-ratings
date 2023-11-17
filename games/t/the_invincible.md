@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The City | 17.00% | ~26 |
-| The Camp | 16.00% | ~24 |
-| The Teleprobe | 15.00% | ~23 |
-| The field base | 14.00% | ~21 |
-| Survivors | 11.00% | ~17 |
+| The City | 18.00% | ~28 |
+| The Camp | 17.00% | ~26 |
+| The Teleprobe | 16.00% | ~24 |
+| The field base | 16.00% | ~24 |
+| Survivors | 12.00% | ~18 |
+| The Necroevolution | 10.00% | ~15 |
 | The Condor | 10.00% | ~15 |
 | The End | 10.00% | ~15 |
-| The Necroevolution | 9.00% | ~14 |
-| The Alliance | 8.00% | ~12 |
+| The Alliance | 9.00% | ~14 |
+| On her own | 8.00% | ~12 |
 | Krauta is alive | 8.00% | ~12 |
-| On her own | 7.00% | ~11 |
 | Peacemaker | 7.00% | ~11 |
 | I remember everything! | 5.00% | ~8 |
 | Evacuation | 5.00% | ~8 |
+| Volcanologist | 5.00% | ~8 |
 | Flying Objects Operator | 5.00% | ~8 |
 | Beyond divisions | 5.00% | ~8 |
-| Volcanologist | 4.00% | ~6 |
 | Fierce fight | 3.00% | ~5 |
 | Violent solution | 3.00% | ~5 |
 | The Invincible | 3.00% | ~5 |
 | Innate curiosity | 3.00% | ~5 |
 | Ubiquitous holes | 2.00% | ~3 |
 | Another giant | 2.00% | ~3 |
+| I leave no man behind | 1.00% | ~2 |
 | Got lost again | 1.00% | ~2 |
 | Strong objection | 1.00% | ~2 |
 | Convoy list | 0.70% | ~1 |
-| I leave no man behind | 0.70% | ~1 |
 | I leave no man behind (no exceptions) | 0.70% | ~1 |
 | No more mistakes | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2166,
+  "EOS_Progressed": 2167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4997,6 +4997,11 @@
       "Time": "2023-11-17T20:09:25.020744+00:00",
       "NumProgressed": 2166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T22:10:22.8545175+00:00",
+      "NumProgressed": 2167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5009,7 +5014,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5105,7 +5110,7 @@
       "Name": "Maximum Endurance",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -5400,14 +5405,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2166,
+      "Progressed": 2167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:09:24.4333576+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:10:22.8545173+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:58:03.7656282+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:09:24.4334057+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:58:30.5136439+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:10:22.8545612+00:00"
 }

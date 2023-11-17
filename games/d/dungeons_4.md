@@ -12,24 +12,24 @@
 | Thalya's Concentrated Fury | 67.00% | ~194 |
 | The Plains of Strothalm | 67.00% | ~194 |
 | Experienced Thalya | 67.00% | ~194 |
+| Bad Elves Go Everywhere | 63.00% | ~182 |
 | Master of Magic | 62.00% | ~179 |
-| Bad Elves Go Everywhere | 62.00% | ~179 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~165 |
-| Heroes’ Gorge | 56.00% | ~162 |
+| Heroes’ Gorge | 57.00% | ~165 |
 | Magic Accidents | 55.00% | ~159 |
 | Minions, Minions! | 54.00% | ~156 |
 | Trap Master | 51.00% | ~147 |
+| YOU SHALL NOT PASS! | 43.00% | ~124 |
 | The Ascent | 43.00% | ~124 |
 | It's Warm and Cozy at Home | 43.00% | ~124 |
-| YOU SHALL NOT PASS! | 42.00% | ~121 |
 | The Big Eaty | 39.00% | ~113 |
 | Hard Work | 38.00% | ~110 |
-| Pure Dynamite! | 36.00% | ~104 |
+| Pure Dynamite! | 37.00% | ~107 |
 | Mana Cannon | 33.00% | ~95 |
 | “… like son” | 32.00% | ~92 |
 | Dungeonlord Gorgu | 26.00% | ~75 |
+| Shame! Shame! Shame! | 26.00% | ~75 |
 | The Cathedral of Light | 25.00% | ~72 |
-| Shame! Shame! Shame! | 25.00% | ~72 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~61 |
 | Tanos' Crusade Against Thalya | 20.00% | ~58 |
 | Hungry, Hungry Gorgu! | 18.00% | ~52 |
@@ -44,16 +44,16 @@
 | If Looks Could Kill | 10.00% | ~29 |
 | The Finitude Drill | 9.00% | ~26 |
 | Bonus Evilness | 8.00% | ~23 |
+| Sabotage! | 8.00% | ~23 |
 | My Little Torture Chamber | 7.00% | ~20 |
-| Sabotage! | 7.00% | ~20 |
 | Doom Hill | 7.00% | ~20 |
 | Raiders of the Lost Stone | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
 | Mirror, Mirror | 5.00% | ~14 |
+| Untouchable | 5.00% | ~14 |
 | The Rune Sockets of Finitude (Part 1) | 5.00% | ~14 |
 | Gorgu is in the Best of Health | 4.00% | ~12 |
 | Laser Eyes Are So Useless | 4.00% | ~12 |
-| Untouchable | 4.00% | ~12 |
 | Lavalumps on Ice! | 4.00% | ~12 |
 | Rubble and Ashes | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |

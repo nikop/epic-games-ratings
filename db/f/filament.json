@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205492,
+  "EOS_Progressed": 205496,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22993,6 +22993,11 @@
       "Time": "2023-11-17T21:04:40.3188385+00:00",
       "NumProgressed": 205492,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-11-17T22:05:48.229071+00:00",
+      "NumProgressed": 205496,
+      "NumCompleted": 528
     }
   ],
   "TotalAchievements": 29,
@@ -23028,7 +23033,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193162
+      "UsersEstimate": 193166
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23188,7 +23193,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20549
+      "UsersEstimate": 20550
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -23204,7 +23209,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16439
+      "UsersEstimate": 16440
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -23235,7 +23240,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205492,
+      "Progressed": 205496,
       "Completed": 528
     }
   ],
@@ -23243,8 +23248,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:04:40.3188381+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:05:48.2290706+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-17T21:00:08.2592709+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:04:40.3189349+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:01:42.2541547+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:05:48.2291707+00:00"
 }

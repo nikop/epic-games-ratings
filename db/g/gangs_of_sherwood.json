@@ -4,8 +4,8 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:07:49.2516762+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:08:39.1142221+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:42.813248+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:59:45.9200567+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:07:49.2516799+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:01:06.2575814+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:08:39.114226+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1710,6 +1710,11 @@
       "Time": "2023-11-17T21:04:44.7155517+00:00",
       "NumProgressed": 541,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T22:05:54.831534+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1722,7 +1727,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 18,
       "XP": 120,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_eou1",
@@ -1730,7 +1735,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_eou2",
@@ -1754,7 +1759,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_eou5",
@@ -1762,7 +1767,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_eou6",
@@ -1770,15 +1775,15 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_eou8",
@@ -1794,7 +1799,7 @@
       "Name": "Disc Collector",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_n64",
@@ -1825,14 +1830,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-17T21:04:44.7155514+00:00",
+  "LastChanged_Achievements": "2023-11-17T22:05:54.8315336+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:42.3518344+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:59:59.6636875+00:00",
-  "LastUpdate_Achievements": "2023-11-17T21:04:44.7155682+00:00"
+  "LastUpdate_Ratings": "2023-11-17T22:01:28.1638855+00:00",
+  "LastUpdate_Achievements": "2023-11-17T22:05:54.8315506+00:00"
 }
