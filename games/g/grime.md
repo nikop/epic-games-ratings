@@ -6,17 +6,17 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,933 |
-| Imprint | 5.00% | ~7,933 |
-| The Hunt | 4.00% | ~6,346 |
-| Ravenous | 4.00% | ~6,346 |
+| Taste | 5.00% | ~7,934 |
+| Imprint | 5.00% | ~7,934 |
+| The Hunt | 4.00% | ~6,347 |
+| Ravenous | 4.00% | ~6,347 |
 | Weeper | 3.00% | ~4,760 |
 | Harmless | 2.00% | ~3,173 |
 | Silenced Whispers | 2.00% | ~3,173 |
 | Devourer | 2.00% | ~3,173 |
 | Shapely | 1.00% | ~1,587 |
-| Scion | 1.00% | ~1,582 |
-| Glare | 1.00% | ~1,582 |
+| Scion | 1.00% | ~1,583 |
+| Glare | 1.00% | ~1,583 |
 | Jawcrab | 1.00% | ~1,587 |
 | Jawstag | 1.00% | ~1,587 |
 | Feast | 1.00% | ~1,587 |
@@ -33,7 +33,7 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.60% | ~952 |
 | All-Seeing | 0.60% | ~952 |
 | Breathsmith | 0.60% | ~952 |
-| Dream | 0.60% | ~949 |
+| Dream | 0.60% | ~950 |
 | Breath | 0.50% | ~793 |
 | Unwrap the Gift | 0.50% | ~793 |
 | Bloodhunter | 0.40% | ~635 |
@@ -45,15 +45,15 @@ Number of Ratings: 46  (23.09.2022)
 | Listen | 0.30% | ~475 |
 | Weakness | 0.20% | ~317 |
 | Generous | 0.20% | ~317 |
-| Enrich | 0.20% | ~316 |
-| Intensify | 0.20% | ~316 |
+| Enrich | 0.20% | ~317 |
+| Intensify | 0.20% | ~317 |
 | Spiral Heart | 0.10% | ~159 |
 | Skinmaker | 0.10% | ~159 |
 | Instruments | 0.10% | ~159 |
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,662 (Ranked 77)  
+Progressed: 158,671 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
 | 2023-11-16 | 158,567 | 1 |
-| 2023-11-17 | 158,662 | 1 |
+| 2023-11-17 | 158,671 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 423)  
 Sum: 369 (Ranked 349)  

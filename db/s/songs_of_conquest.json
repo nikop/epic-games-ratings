@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 123,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 77,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -598,6 +598,11 @@
       "Time": "2023-11-17T09:06:04.261996+00:00",
       "NumProgressed": 75,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T13:13:17.9663586+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -680,9 +685,9 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ChainLightningKills",
@@ -936,7 +941,7 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -1041,15 +1046,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 77,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:08:09.1100649+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:13:17.9663579+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-17T12:01:00.3970666+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:08:09.1101043+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:06:29.644413+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:13:17.9663978+00:00"
 }

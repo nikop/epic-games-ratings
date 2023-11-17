@@ -13,7 +13,7 @@
 | Thalya's Concentrated Fury | 67.00% | ~191 |
 | Experienced Thalya | 67.00% | ~191 |
 | Master of Magic | 62.00% | ~177 |
-| Bad Elves Go Everywhere | 61.00% | ~174 |
+| Bad Elves Go Everywhere | 62.00% | ~177 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
 | Magic Accidents | 56.00% | ~160 |
 | Minions, Minions! | 54.00% | ~154 |
@@ -25,7 +25,7 @@
 | Hard Work | 38.00% | ~108 |
 | The Big Eaty | 38.00% | ~108 |
 | Pure Dynamite! | 36.00% | ~103 |
-| Mana Cannon | 30.00% | ~86 |
+| Mana Cannon | 31.00% | ~88 |
 | “… like son” | 30.00% | ~86 |
 | Dungeonlord Gorgu | 25.00% | ~71 |
 | The Cathedral of Light | 23.00% | ~66 |
@@ -54,15 +54,15 @@
 | Gorgu is in the Best of Health | 4.00% | ~11 |
 | Laser Eyes Are So Useless | 4.00% | ~11 |
 | Untouchable | 4.00% | ~11 |
+| Lavalumps on Ice! | 4.00% | ~11 |
 | Rubble and Ashes | 4.00% | ~11 |
 | To Infinity And Beyond! | 4.00% | ~11 |
 | The Rune Sockets of Finitude (Part 2) | 4.00% | ~11 |
-| Lavalumps on Ice! | 3.00% | ~9 |
+| The Last Stand - This Time For Real! | 4.00% | ~11 |
 | To the Max! | 3.00% | ~9 |
-| The Last Stand - This Time For Real! | 3.00% | ~9 |
+| Evilification | 3.00% | ~9 |
 | Heal Heal Blessing | 2.00% | ~6 |
 | Hands Off My Stones | 2.00% | ~6 |
-| Evilification | 2.00% | ~6 |
 | No Mana, No Cry | 1.00% | ~3 |
 | I Don't Need Any Help | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 5.00% | ~768 |
 | Able | 4.00% | ~614 |
 | Architect | 4.00% | ~614 |
+| Good | 4.00% | ~614 |
 | Intrepid | 4.00% | ~614 |
 | Mason | 4.00% | ~614 |
 | Strong | 4.00% | ~614 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 3.00% | ~461 |
 | Enlightened | 3.00% | ~461 |
 | Glorious | 3.00% | ~461 |
-| Good | 3.00% | ~461 |
 | Just | 3.00% | ~461 |
 | Keystone | 3.00% | ~461 |
 | Learned | 3.00% | ~461 |
@@ -132,13 +132,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.80% | ~123 |
 | Turreted Elephant | 0.80% | ~123 |
 | Poetic Leader | 0.80% | ~123 |
-| Noble Difficulty | 0.70% | ~107 |
-| Cao'an | 0.70% | ~107 |
-| Adur Burzen-Mihr | 0.70% | ~107 |
-| Rome | 0.70% | ~107 |
-| All Nations | 0.70% | ~107 |
-| The Great Mage | 0.70% | ~107 |
-| Kmt Unified | 0.70% | ~107 |
+| Noble Difficulty | 0.70% | ~108 |
+| Cao'an | 0.70% | ~108 |
+| Adur Burzen-Mihr | 0.70% | ~108 |
+| Rome | 0.70% | ~108 |
+| All Nations | 0.70% | ~108 |
+| The Great Mage | 0.70% | ~108 |
+| Kmt Unified | 0.70% | ~108 |
 | Ishtar Gate in Babylon | 0.60% | ~92 |
 | Carthage - Ox Hide | 0.60% | ~92 |
 | Peacemaker | 0.60% | ~92 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,356 (Ranked 147)  
+Progressed: 15,358 (Ranked 147)  
 Completed: 5 (0.03%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 5 (0.03%) (Ranked 315)
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
-| 2023-11-17 | 15,356 | 5 |
+| 2023-11-17 | 15,358 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

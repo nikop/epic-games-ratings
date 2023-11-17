@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 364,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 38,
@@ -3992,10 +3992,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3167,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-11-17T13:05:57.9101832+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3168,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3167,
+  "NumberOfAwards": 3168,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4021,7 +4027,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 331
+      "Count": 332
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4066,9 +4072,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 484727,
+  "EOS_Progressed": 484733,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3362,
+  "EOS_NewPlayers": 3353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28126,6 +28132,11 @@
       "Time": "2023-11-17T12:04:18.7542465+00:00",
       "NumProgressed": 484727,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T13:10:28.3708741+00:00",
+      "NumProgressed": 484733,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -28401,7 +28412,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24236
+      "UsersEstimate": 24237
     },
     {
       "ID": "ACH_WET_FEET",
@@ -28416,15 +28427,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 484727,
+      "Progressed": 484733,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-11-16T20:58:53.4209438+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:04:18.7542462+00:00",
+  "LastChanged": "2023-11-17T13:05:57.9101831+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:10:28.3708725+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.866497+00:00",
-  "LastUpdate_Ratings": "2023-11-17T12:00:14.5670746+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:04:18.7543623+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:05:57.9101836+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:10:28.3710098+00:00"
 }

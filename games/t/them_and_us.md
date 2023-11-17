@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Alone with Them | 71.00% | ~217 |
 | Forced to Kill | 69.00% | ~210 |
-| A Night To Remember | 40.00% | ~122 |
+| A Night To Remember | 41.00% | ~125 |
 | Safe...For now? | 35.00% | ~107 |
 | Open Sesame | 29.00% | ~88 |
 | What have I done!? | 19.00% | ~58 |
@@ -16,7 +16,7 @@
 | This Coffin Has Your Name On It! | 15.00% | ~46 |
 | Parasite Exterminated | 14.00% | ~43 |
 | The Cultists | 14.00% | ~43 |
-| The Forgotten Tower | 13.00% | ~40 |
+| The Forgotten Tower | 14.00% | ~43 |
 | Trapped | 11.00% | ~34 |
 | Lover of classics | 10.00% | ~30 |
 | Modern Player | 10.00% | ~30 |

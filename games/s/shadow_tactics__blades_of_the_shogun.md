@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,700 |
-| A thief's beginning | 10.00% | ~21,417 |
-| Thorough | 10.00% | ~21,417 |
-| Disguised | 9.00% | ~19,275 |
-| Rollin' | 9.00% | ~19,275 |
-| Tanuki Time | 9.00% | ~19,275 |
-| Rescue Takuma | 8.00% | ~17,133 |
-| Stoned Ox | 8.00% | ~17,133 |
+| Genin | 12.00% | ~25,701 |
+| A thief's beginning | 10.00% | ~21,418 |
+| Thorough | 10.00% | ~21,418 |
+| Disguised | 9.00% | ~19,276 |
+| Rollin' | 9.00% | ~19,276 |
+| Tanuki Time | 9.00% | ~19,276 |
+| Rescue Takuma | 8.00% | ~17,134 |
+| Stoned Ox | 8.00% | ~17,134 |
 | Happy Planning | 7.00% | ~14,992 |
 | Ice Ice Yuki | 7.00% | ~14,992 |
 | Jonin | 7.00% | ~14,992 |
 | Yabu | 7.00% | ~14,992 |
-| Chunin | 6.00% | ~12,850 |
-| Flying Rocks | 6.00% | ~12,850 |
-| Mugen Unchained | 6.00% | ~12,850 |
-| Warzone | 6.00% | ~12,850 |
-| Okkoto | 5.00% | ~10,708 |
-| Prisoners | 5.00% | ~10,708 |
-| Too Early | 5.00% | ~10,708 |
+| Chunin | 6.00% | ~12,851 |
+| Flying Rocks | 6.00% | ~12,851 |
+| Mugen Unchained | 6.00% | ~12,851 |
+| Warzone | 6.00% | ~12,851 |
+| Okkoto | 5.00% | ~10,709 |
+| Prisoners | 5.00% | ~10,709 |
+| Too Early | 5.00% | ~10,709 |
 | Gear up | 4.00% | ~8,567 |
 | Happy little accidents | 4.00% | ~8,567 |
 | Noboru | 4.00% | ~8,567 |
@@ -32,14 +32,14 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 3.00% | ~6,425 |
 | Stoned | 3.00% | ~6,425 |
 | The Old Way | 3.00% | ~6,425 |
-| Atheist Ox | 2.00% | ~4,283 |
-| No Gimmicks | 2.00% | ~4,283 |
-| Old Man | 2.00% | ~4,283 |
-| Winner Winner | 2.00% | ~4,283 |
+| Atheist Ox | 2.00% | ~4,284 |
+| No Gimmicks | 2.00% | ~4,284 |
+| Old Man | 2.00% | ~4,284 |
+| Winner Winner | 2.00% | ~4,284 |
 | Meticulous | 1.00% | ~2,142 |
 | The End | 1.00% | ~2,142 |
 | Undeserved Honor | 1.00% | ~2,142 |
-| When Cut Across the Neck | 0.90% | ~1,927 |
+| When Cut Across the Neck | 0.90% | ~1,928 |
 | High Five the Moon | 0.80% | ~1,713 |
 | The Cave | 0.80% | ~1,713 |
 | Merciful | 0.50% | ~1,071 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~214 |
 | Release the Kraken | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,166 (Ranked 70)  
+Progressed: 214,177 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 98 (0.05%) (Ranked 303)
 | 2023-11-14 | 213,782 | 98 |
 | 2023-11-15 | 213,927 | 98 |
 | 2023-11-16 | 214,084 | 98 |
-| 2023-11-17 | 214,166 | 98 |
+| 2023-11-17 | 214,177 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 197)  
-Sum: 4,845 (Ranked 142)  
+Sum: 4,846 (Ranked 142)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): 55
 | This game has Diverse Characters | 540 |
 | This game is Extremely Fun | 535 |
 | This game has Amazing Storytelling | 514 |
-| This game has Amazing Characters | 498 |
+| This game has Amazing Characters | 499 |
 | This game is Highly Recommended | 493 |
 | This game is Relaxing | 492 |
 | This game has Challenging Combat | 491 |
@@ -496,4 +496,4 @@ Diff (max vs sum): 55
 | 2023-11-13 | 4.67 | - | 573 | 4,840 |
 | 2023-11-14 | 4.67 | - | 573 | 4,843 |
 | 2023-11-16 | 4.67 | - | 573 | 4,844 |
-| 2023-11-17 | 4.67 | - | 573 | 4,845 |
+| 2023-11-17 | 4.67 | - | 573 | 4,846 |

@@ -388,9 +388,9 @@
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "AchvAssertive",
@@ -404,9 +404,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "AchvBombStop",
@@ -420,17 +420,17 @@
       "ID": "AchvBombing",
       "SetID": "1hj060c",
       "Name": "Violent solution",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AchvConvoyList",
       "SetID": "1hj060c",
       "Name": "Convoy list",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchvDamnHoles",
@@ -540,9 +540,9 @@
       "ID": "AchvPutAsleep",
       "SetID": "1hj060c",
       "Name": "Strong objection",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchvReachBase",
@@ -572,17 +572,17 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -596,9 +596,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "AchvUnity",
@@ -619,8 +619,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:08:57.7168847+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:14:48.7430002+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.9018108+00:00",
-  "LastUpdate_Ratings": "2023-11-17T12:01:03.0350782+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:08:57.7169034+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:06:31.3573202+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:14:48.7430163+00:00"
 }

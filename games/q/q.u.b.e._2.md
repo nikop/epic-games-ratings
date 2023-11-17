@@ -6,28 +6,28 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~29,649 |
-| Quick Understanding of Block Extrusion | 68.00% | ~26,882 |
-| Nature or Nurture | 52.00% | ~20,557 |
-| Power Glove | 49.00% | ~19,371 |
-| Forgotten Memories | 42.00% | ~16,603 |
-| Cogs in the Machine | 36.00% | ~14,232 |
-| Mission Success | 22.00% | ~8,697 |
-| There's No Place Like Home | 22.00% | ~8,697 |
-| Green Cube Killer | 19.00% | ~7,511 |
-| Infinity Loop | 16.00% | ~6,325 |
-| Path to Salvation | 16.00% | ~6,325 |
-| Descendants | 14.00% | ~5,534 |
-| The Flawed Teacher | 11.00% | ~4,349 |
+| Lost in Space | 75.00% | ~29,660 |
+| Quick Understanding of Block Extrusion | 68.00% | ~26,892 |
+| Nature or Nurture | 52.00% | ~20,564 |
+| Power Glove | 49.00% | ~19,378 |
+| Forgotten Memories | 42.00% | ~16,610 |
+| Cogs in the Machine | 36.00% | ~14,237 |
+| Mission Success | 22.00% | ~8,700 |
+| There's No Place Like Home | 22.00% | ~8,700 |
+| Green Cube Killer | 19.00% | ~7,514 |
+| Infinity Loop | 16.00% | ~6,328 |
+| Path to Salvation | 16.00% | ~6,328 |
+| Descendants | 14.00% | ~5,537 |
+| The Flawed Teacher | 11.00% | ~4,350 |
 | To Infinity and Beyond | 5.00% | ~1,977 |
-| The Truthful Enemy | 4.00% | ~1,581 |
+| The Truthful Enemy | 4.00% | ~1,582 |
 | Home Stretch | 2.00% | ~791 |
-| Get me out of here | 2.00% | ~791 |
 | Laser Sharp | 2.00% | ~791 |
 | True collector | 1.00% | ~395 |
 | Bronze collector | 1.00% | ~395 |
 | Gold collector | 1.00% | ~395 |
 | Silver collector | 1.00% | ~395 |
+| Get me out of here | 1.00% | ~395 |
 | King of the Collectables | 1.00% | ~395 |
 | Competent Collector | 1.00% | ~395 |
 | Puzzle Master | 1.00% | ~395 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~395 |
 | Expert Collector | 1.00% | ~395 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,532 (Ranked 120)  
+Progressed: 39,547 (Ranked 120)  
 Completed: 161 (0.41%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 161 (0.41%) (Ranked 208)
 | 2023-11-14 | 39,085 | 154 |
 | 2023-11-15 | 39,270 | 155 |
 | 2023-11-16 | 39,452 | 160 |
-| 2023-11-17 | 39,532 | 161 |
+| 2023-11-17 | 39,547 | 161 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

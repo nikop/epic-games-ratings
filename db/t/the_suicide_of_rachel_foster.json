@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1682,
+  "EOS_Progressed": 1683,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -3528,6 +3528,11 @@
       "Time": "2023-11-17T03:07:16.6705589+00:00",
       "NumProgressed": 1682,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-17T13:12:48.9827531+00:00",
+      "NumProgressed": 1683,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3555,7 +3560,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3603,7 +3608,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3626,15 +3631,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1682,
+      "Progressed": 1683,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:07:29.9780414+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:12:48.9827512+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:59:45.5709065+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:07:29.9780669+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:05:38.1800802+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:12:48.9827754+00:00"
 }

@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200081,
+  "EOS_Progressed": 200085,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22702,6 +22702,11 @@
       "Time": "2023-11-17T12:07:38.1490897+00:00",
       "NumProgressed": 200081,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-17T13:12:54.9022966+00:00",
+      "NumProgressed": 200085,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -22713,7 +22718,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16006
+      "UsersEstimate": 16007
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -22721,7 +22726,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142058
+      "UsersEstimate": 142060
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -22737,7 +22742,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6003
     },
     {
       "ID": "ACH_INITIATION",
@@ -22840,7 +22845,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200081,
+      "Progressed": 200085,
       "Completed": 4
     }
   ],
@@ -22848,8 +22853,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:07:38.1490892+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:12:54.902296+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.4823585+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:58:44.7630223+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:07:38.1492139+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:04:55.9639698+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:12:54.9024055+00:00"
 }

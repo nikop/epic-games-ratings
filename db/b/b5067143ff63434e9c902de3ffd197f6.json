@@ -2,7 +2,7 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 123,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9734,
+  "EOS_Progressed": 9748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1375,
+  "EOS_NewPlayers": 1379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5644,6 +5644,11 @@
       "Time": "2023-11-17T12:05:09.1805618+00:00",
       "NumProgressed": 9734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T13:11:06.083799+00:00",
+      "NumProgressed": 9748,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -5752,7 +5757,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2534
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -5760,7 +5765,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -5768,7 +5773,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -5784,7 +5789,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -5800,7 +5805,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -5847,14 +5852,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 9734,
+      "Progressed": 9748,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:05:09.1805616+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:11:06.0837983+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:19.8590325+00:00",
-  "LastUpdate_Ratings": "2023-11-17T12:02:38.270149+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:05:09.180592+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:07:07.9593338+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:11:06.0838422+00:00"
 }

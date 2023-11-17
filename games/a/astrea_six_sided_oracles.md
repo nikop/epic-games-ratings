@@ -5,32 +5,32 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 41.00% | ~28 |
-| Purification Pioneer | 40.00% | ~27 |
-| Dicesmithing Time! | 37.00% | ~25 |
-| Endless Tricks | 37.00% | ~25 |
-| Mechanical Buddy | 37.00% | ~25 |
-| Noctuan Champion | 37.00% | ~25 |
-| Sanctuary Guardian | 34.00% | ~23 |
-| Wild's Keeper | 34.00% | ~23 |
-| Eridanian Champion | 34.00% | ~23 |
-| Lacertian Champion | 34.00% | ~23 |
+| Purification Pioneer | 39.00% | ~27 |
+| Dicesmithing Time! | 36.00% | ~25 |
+| Endless Tricks | 36.00% | ~25 |
+| Mechanical Buddy | 36.00% | ~25 |
+| Noctuan Champion | 36.00% | ~25 |
+| Sanctuary Guardian | 33.00% | ~23 |
+| Wild's Keeper | 33.00% | ~23 |
+| Eridanian Champion | 33.00% | ~23 |
+| Lacertian Champion | 33.00% | ~23 |
 | Mind Illuminator | 32.00% | ~22 |
-| Apian Champion | 31.00% | ~21 |
+| Apian Champion | 30.00% | ~21 |
 | Anomaly Destroyer | 28.00% | ~19 |
 | Stellar Dismantler | 28.00% | ~19 |
 | Loyal Partner | 25.00% | ~17 |
 | Behenian Champion | 25.00% | ~17 |
-| Star Killer | 24.00% | ~16 |
+| Star Killer | 23.00% | ~16 |
 | Astral Adventurer | 22.00% | ~15 |
 | Aquarian Champion | 22.00% | ~15 |
-| Shard Spender | 21.00% | ~14 |
+| Shard Spender | 20.00% | ~14 |
 | Astral Seeker | 19.00% | ~13 |
 | Heart Gate | 19.00% | ~13 |
 | Unbeatable | 19.00% | ~13 |
-| The Corruption Goddess | 18.00% | ~12 |
-| The Goddes Avatar | 18.00% | ~12 |
+| The Corruption Goddess | 17.00% | ~12 |
+| The Goddes Avatar | 17.00% | ~12 |
 | Favored by the Cosmos | 16.00% | ~11 |
-| Stellar Haste | 15.00% | ~10 |
+| Stellar Haste | 14.00% | ~10 |
 | Heavy Purger | 13.00% | ~9 |
 | Apian Hero | 13.00% | ~9 |
 | Anomaly Control | 12.00% | ~8 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 460)  
+Progressed: 69 (Ranked 458)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,3 +136,4 @@ Completed: 0 (0.00%) (Ranked 352)
 | 2023-10-29 | 66 | 0 |
 | 2023-11-04 | 67 | 0 |
 | 2023-11-06 | 68 | 0 |
+| 2023-11-17 | 69 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1040,17 +1040,17 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1249,8 +1249,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:07:00.3938592+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:12:26.9457589+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T12:01:11.783308+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:07:00.393907+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:06:37.0389928+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:12:26.9458075+00:00"
 }

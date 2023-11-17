@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 585,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-11-16T23:05:54.2717252+00:00",
       "NumProgressed": 583,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T13:13:06.2320724+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1552,7 +1557,7 @@
       "Name": "Break a Leg!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CatchAFish",
@@ -1568,7 +1573,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 369
     },
     {
       "ID": "Chapter10",
@@ -1584,7 +1589,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Chapter3",
@@ -1592,7 +1597,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Chapter4",
@@ -1608,7 +1613,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Chapter6",
@@ -1648,7 +1653,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Collectibles2",
@@ -1672,7 +1677,7 @@
       "Name": "Sweet Darkness",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ElfFriend",
@@ -1696,7 +1701,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "GollumChoices",
@@ -1710,17 +1715,17 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 222
     },
     {
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "Murderer",
@@ -1728,7 +1733,7 @@
       "Name": "Murderer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NoDamage",
@@ -1824,21 +1829,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 585,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:07:53.2259756+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:13:06.2320718+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-17T12:01:36.2351338+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:07:53.2260003+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:06:53.2342573+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:13:06.2321024+00:00"
 }

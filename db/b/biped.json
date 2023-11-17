@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6963,
+  "EOS_Progressed": 6965,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -12679,6 +12679,11 @@
       "Time": "2023-11-17T12:04:43.7478062+00:00",
       "NumProgressed": 6963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T13:10:46.937544+00:00",
+      "NumProgressed": 6965,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12690,7 +12695,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "10",
@@ -12754,7 +12759,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "4",
@@ -12778,7 +12783,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "7",
@@ -12809,7 +12814,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6963,
+      "Progressed": 6965,
       "Completed": 0
     }
   ],
@@ -12817,8 +12822,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:04:43.747806+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:10:46.9375436+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:07.1544722+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:57:07.115565+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:04:43.7478834+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:03:48.8104621+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:10:46.9375997+00:00"
 }

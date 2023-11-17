@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 365)  
+Rating: 4.62 (Ranked 364)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,699 (Ranked 231)  
+Progressed: 1,701 (Ranked 231)  
 Completed: 2 (0.12%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 2 (0.12%) (Ranked 272)
 | 2023-11-14 | 1,659 | 2 |
 | 2023-11-15 | 1,666 | 2 |
 | 2023-11-16 | 1,689 | 2 |
-| 2023-11-17 | 1,699 | 2 |
+| 2023-11-17 | 1,701 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2150,9 +2150,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_COLL_20",
@@ -2526,8 +2526,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:09:53.9560845+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:15:38.9094583+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:59:22.3307533+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:09:53.9561318+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:05:22.0735386+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:15:38.9095138+00:00"
 }

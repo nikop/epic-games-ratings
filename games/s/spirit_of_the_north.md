@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~50,578 |
-| INFUSED WITH LIGHT | 53.00% | ~39,421 |
-| FOXIN' AROUND | 29.00% | ~21,570 |
-| FETCH | 28.00% | ~20,826 |
-| BLOOMS OF LIGHT | 26.00% | ~19,339 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~50,581 |
+| INFUSED WITH LIGHT | 53.00% | ~39,424 |
+| FOXIN' AROUND | 29.00% | ~21,571 |
+| FETCH | 28.00% | ~20,828 |
+| BLOOMS OF LIGHT | 26.00% | ~19,340 |
 | AWAKEN | 22.00% | ~16,364 |
 | BEST FRIENDS | 22.00% | ~16,364 |
-| ERADICATE | 21.00% | ~15,620 |
-| SPIRIT BARK | 21.00% | ~15,620 |
-| GARDEN OF LIGHT | 18.00% | ~13,388 |
+| ERADICATE | 21.00% | ~15,621 |
+| SPIRIT BARK | 21.00% | ~15,621 |
+| GARDEN OF LIGHT | 18.00% | ~13,389 |
 | SPIRIT FORM | 17.00% | ~12,645 |
 | WRITTEN IN STONE | 16.00% | ~11,901 |
-| UPROOTING DARKNESS | 15.00% | ~11,157 |
+| UPROOTING DARKNESS | 15.00% | ~11,158 |
 | WEIGHTLESS | 12.00% | ~8,926 |
 | SPIRIT DASH | 11.00% | ~8,182 |
-| OLD COMPANION | 9.00% | ~6,694 |
-| MATCH MAKER | 8.00% | ~5,950 |
-| NORTHERN LIGHTS | 8.00% | ~5,950 |
-| PLAGUE DOCTOR | 8.00% | ~5,950 |
-| SPIRITED AWAY | 8.00% | ~5,950 |
+| OLD COMPANION | 9.00% | ~6,695 |
+| MATCH MAKER | 8.00% | ~5,951 |
+| NORTHERN LIGHTS | 8.00% | ~5,951 |
+| PLAGUE DOCTOR | 8.00% | ~5,951 |
+| SPIRITED AWAY | 8.00% | ~5,951 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,975 |
-| ANCIENT HISTORY | 3.00% | ~2,231 |
+| ANCIENT HISTORY | 3.00% | ~2,232 |
 | NONE FORGOTTEN | 2.00% | ~1,488 |
 | KINDRED SPIRITS | 0.60% | ~446 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,380 (Ranked 100)  
+Progressed: 74,384 (Ranked 100)  
 Completed: 393 (0.53%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 393 (0.53%) (Ranked 194)
 | 2023-11-14 | 74,213 | 393 |
 | 2023-11-15 | 74,270 | 393 |
 | 2023-11-16 | 74,353 | 393 |
-| 2023-11-17 | 74,380 | 393 |
+| 2023-11-17 | 74,384 | 393 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 512)  
 Sum: 115 (Ranked 435)  

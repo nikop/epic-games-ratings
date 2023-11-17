@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2647,
+  "EOS_Progressed": 2648,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.07,
+  "EOS_Completed_Percentage": 9.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7211,6 +7211,11 @@
       "Time": "2023-11-17T04:08:45.0715936+00:00",
       "NumProgressed": 2647,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-17T13:15:51.3787741+00:00",
+      "NumProgressed": 2648,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 12,
@@ -7238,7 +7243,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7254,7 +7259,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "Jakob",
@@ -7317,7 +7322,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2647,
+      "Progressed": 2648,
       "Completed": 240
     }
   ],
@@ -7325,8 +7330,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:10:11.1233442+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:15:51.3787736+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:57:14.9664174+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:10:11.1233837+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:03:54.3744821+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:15:51.3788219+00:00"
 }

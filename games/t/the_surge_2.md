@@ -21,9 +21,9 @@ Rating: 4.24 (Ranked 883)
 | True Survivor | 21.00% | ~463 |
 | Offensive Defense | 20.00% | ~441 |
 | Shocking | 20.00% | ~441 |
+| Unforeseeable Consequences | 20.00% | ~441 |
 | Court Martial | 19.00% | ~419 |
 | Clean Cut | 19.00% | ~419 |
-| Unforeseeable Consequences | 19.00% | ~419 |
 | Dead Again | 18.00% | ~397 |
 | Full Arsenal | 17.00% | ~375 |
 | Can't Trust Banks | 15.00% | ~331 |

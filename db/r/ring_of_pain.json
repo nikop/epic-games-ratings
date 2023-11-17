@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3412,9 +3412,9 @@
       "Count": 744
     }
   ],
-  "EOS_Progressed": 239796,
+  "EOS_Progressed": 239800,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25282,6 +25282,11 @@
       "Time": "2023-11-17T12:10:31.0297802+00:00",
       "NumProgressed": 239796,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-17T13:16:06.6678785+00:00",
+      "NumProgressed": 239800,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25355,9 +25360,9 @@
       "ID": "DARKENDING",
       "SetID": "5l8oe0h",
       "Name": "Shadow Spreads",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -26396,13 +26401,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239796,
+      "Progressed": 239800,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1276,
+      "Progressed": 1280,
       "Completed": 381
     }
   ],
@@ -26410,8 +26415,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-17T07:57:55.8583112+00:00",
-  "LastChanged_Achievements": "2023-11-17T12:10:31.0297798+00:00",
+  "LastChanged_Achievements": "2023-11-17T13:16:06.6678781+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-17T11:58:26.5728849+00:00",
-  "LastUpdate_Achievements": "2023-11-17T12:10:31.03006+00:00"
+  "LastUpdate_Ratings": "2023-11-17T13:04:43.3449017+00:00",
+  "LastUpdate_Achievements": "2023-11-17T13:16:06.6681035+00:00"
 }

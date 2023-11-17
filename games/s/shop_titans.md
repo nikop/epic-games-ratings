@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,009 |
-| Titan's First Steps | 5.00% | ~7,009 |
-| Basic in Bulk | 4.00% | ~5,607 |
-| Tinkle of Coins | 4.00% | ~5,607 |
+| Sponsored by Argon | 5.00% | ~7,010 |
+| Titan's First Steps | 5.00% | ~7,010 |
+| Basic in Bulk | 4.00% | ~5,608 |
+| Tinkle of Coins | 4.00% | ~5,608 |
 | Disintermediation | 3.00% | ~4,206 |
 | It's Free Real Estate | 3.00% | ~4,206 |
 | Budding Merchant | 3.00% | ~4,206 |
@@ -63,27 +63,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,262 |
 | Special Ingredient | 0.90% | ~1,262 |
 | Complete Monopoly | 0.90% | ~1,262 |
-| Cream of the Crop | 0.80% | ~1,121 |
-| Proud Paladin | 0.80% | ~1,121 |
-| Above the Norm | 0.80% | ~1,121 |
-| A Ronin Reborn | 0.80% | ~1,121 |
-| Omae wa Mou Shindeiru | 0.80% | ~1,121 |
-| Master of Transmutation | 0.80% | ~1,121 |
-| Supercharged | 0.80% | ~1,121 |
-| Cranked up to 11 | 0.80% | ~1,121 |
-| Fit for a King | 0.80% | ~1,121 |
-| By Your Powers Combined... | 0.80% | ~1,121 |
-| Wealth Beyond Measure | 0.80% | ~1,121 |
-| Fat Cat Tag Team | 0.80% | ~1,121 |
-| Necromancer Queen | 0.80% | ~1,121 |
-| Master Merchant | 0.80% | ~1,121 |
-| Laden with Loot | 0.80% | ~1,121 |
-| Scourge of the Seas | 0.80% | ~1,121 |
-| Attrition Mission | 0.80% | ~1,121 |
-| Glittering Collection | 0.80% | ~1,121 |
-| Master Recycler | 0.80% | ~1,121 |
-| Exotic Commodities | 0.80% | ~1,121 |
-| King's Blade | 0.80% | ~1,121 |
+| Cream of the Crop | 0.80% | ~1,122 |
+| Proud Paladin | 0.80% | ~1,122 |
+| Above the Norm | 0.80% | ~1,122 |
+| A Ronin Reborn | 0.80% | ~1,122 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,122 |
+| Master of Transmutation | 0.80% | ~1,122 |
+| Supercharged | 0.80% | ~1,122 |
+| Cranked up to 11 | 0.80% | ~1,122 |
+| Fit for a King | 0.80% | ~1,122 |
+| By Your Powers Combined... | 0.80% | ~1,122 |
+| Wealth Beyond Measure | 0.80% | ~1,122 |
+| Fat Cat Tag Team | 0.80% | ~1,122 |
+| Necromancer Queen | 0.80% | ~1,122 |
+| Master Merchant | 0.80% | ~1,122 |
+| Laden with Loot | 0.80% | ~1,122 |
+| Scourge of the Seas | 0.80% | ~1,122 |
+| Attrition Mission | 0.80% | ~1,122 |
+| Glittering Collection | 0.80% | ~1,122 |
+| Master Recycler | 0.80% | ~1,122 |
+| Exotic Commodities | 0.80% | ~1,122 |
+| King's Blade | 0.80% | ~1,122 |
 | Top of the World | 0.70% | ~981 |
 | Constellated | 0.70% | ~981 |
 | Thirst for Knowledge | 0.70% | ~981 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,184 (Ranked 79)  
+Progressed: 140,197 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 187 (0.13%) (Ranked 265)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,184 | 187 |
+| 2023-11-17 | 140,197 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
-Sum: 27,558 (Ranked 50)  
+Sum: 27,561 (Ranked 50)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): 24
 | This game has Diverse Characters | 3,942 |
 | This game is Highly Recommended | 3,783 |
 | This game has Easy Combat | 3,725 |
-| This game has Playful Visuals | 3,204 |
+| This game has Playful Visuals | 3,207 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -639,4 +639,4 @@ Diff (max vs sum): 24
 | 2023-11-14 | 3.99 | - | 4,828 | 27,547 |
 | 2023-11-15 | 3.99 | - | 4,831 | 27,553 |
 | 2023-11-16 | 3.99 | - | 4,832 | 27,556 |
-| 2023-11-17 | 3.99 | - | 4,832 | 27,558 |
+| 2023-11-17 | 3.99 | - | 4,832 | 27,561 |

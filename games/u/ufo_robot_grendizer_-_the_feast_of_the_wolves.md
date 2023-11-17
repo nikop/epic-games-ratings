@@ -35,9 +35,10 @@
 | The Vega Turtle | 0.00% | ~0 |
 | Vengeance of the Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 657)  
+Progressed: 3 (Ranked 647)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-15 | 2 | 0 |
+| 2023-11-17 | 3 | 0 |

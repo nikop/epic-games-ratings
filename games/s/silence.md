@@ -11,7 +11,7 @@
 | I didn't do it! | 39.00% | ~64 |
 | Keep away from children | 36.00% | ~59 |
 | Open up wide | 35.00% | ~58 |
-| Wooooooow! | 33.00% | ~54 |
+| Wooooooow! | 34.00% | ~56 |
 | Artistic fool | 32.00% | ~53 |
 | Let the boot talk | 30.00% | ~50 |
 | Shadow on the wall | 30.00% | ~50 |
@@ -37,10 +37,10 @@
 | Mumbo Jumbo | 8.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~12 |
 | It's nothing personal | 7.00% | ~12 |
+| The hands of a healer | 6.00% | ~10 |
 | Artistic master | 5.00% | ~8 |
 | Sadist | 5.00% | ~8 |
 | Fartjokes! | 5.00% | ~8 |
-| The hands of a healer | 5.00% | ~8 |
 | Shut up clown! | 4.00% | ~7 |
 | Fine Listener | 2.00% | ~3 |
 | The Green, the Fat, the Ugly | 2.00% | ~3 |

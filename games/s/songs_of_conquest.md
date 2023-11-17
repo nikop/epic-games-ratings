@@ -6,12 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 19.00% | ~14 |
+| Adept | 18.00% | ~14 |
 | Double Kill | 12.00% | ~9 |
 | Sorcerous Spree | 5.00% | ~4 |
 | Dressed For Success | 4.00% | ~3 |
 | Critical Hit | 4.00% | ~3 |
 | Veteran | 4.00% | ~3 |
+| Versatile Wielder | 1.00% | ~1 |
 | Infernal Influence | 1.00% | ~1 |
 | Don't Touch My Stuff | 1.00% | ~1 |
 | Such A Fungi | 1.00% | ~1 |
@@ -26,7 +27,6 @@ Number of Ratings: 292  (23.09.2022)
 | A Free Man | 0.00% | ~0 |
 | This Spot's Taken | 0.00% | ~0 |
 | Hello There | 0.00% | ~0 |
-| Versatile Wielder | 0.00% | ~0 |
 | Unlimited Power! | 0.00% | ~0 |
 | Fully Charged | 0.00% | ~0 |
 | Coming Through! | 0.00% | ~0 |
@@ -61,14 +61,14 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 453)  
+Progressed: 77 (Ranked 450)  
 Completed: 0 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
-| 2023-11-17 | 75 | 0 |
+| 2023-11-17 | 77 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 507)  
 Sum: 194 (Ranked 403)  

@@ -42,6 +42,7 @@
 | Colony Defense | 33.00% | ~423 |
 | The Krogan | 33.00% | ~423 |
 | Broke, Blind, and Bedlam | 32.00% | ~411 |
+| A Personal Touch | 31.00% | ~398 |
 | Ghost Ship | 31.00% | ~398 |
 | The Assassin | 31.00% | ~398 |
 | The Justicar | 31.00% | ~398 |
@@ -49,7 +50,6 @@
 | Ghost of the Father | 31.00% | ~398 |
 | The Prodigal | 31.00% | ~398 |
 | Galactic Explorer | 31.00% | ~398 |
-| A Personal Touch | 30.00% | ~385 |
 | Completionist | 30.00% | ~385 |
 | Battlemaster | 30.00% | ~385 |
 | Catharsis | 30.00% | ~385 |
