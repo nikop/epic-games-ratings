@@ -461,7 +461,7 @@
   ],
   "EOS_Progressed": 5398,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7335,9 +7335,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "32",
@@ -7638,8 +7638,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:28:42.7751329+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:06:56.9133606+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:21:41.826981+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:28:42.775196+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:59:42.6976426+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:06:56.9134483+00:00"
 }

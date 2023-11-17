@@ -2778,7 +2778,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538426,
+  "EOS_Progressed": 538427,
   "EOS_Completed": 1614,
   "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 4,
@@ -25973,6 +25973,11 @@
       "Time": "2023-11-17T01:54:26.3205712+00:00",
       "NumProgressed": 538426,
       "NumCompleted": 1614
+    },
+    {
+      "Time": "2023-11-17T03:06:45.9583876+00:00",
+      "NumProgressed": 538427,
+      "NumCompleted": 1614
     }
   ],
   "TotalAchievements": 37,
@@ -25984,7 +25989,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69995
+      "UsersEstimate": 69996
     },
     {
       "ID": "COASTROCK",
@@ -26096,7 +26101,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215370
+      "UsersEstimate": 215371
     },
     {
       "ID": "THE_CASTLE",
@@ -26152,7 +26157,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69995
+      "UsersEstimate": 69996
     },
     {
       "ID": "THE_IRON_ONES",
@@ -26256,7 +26261,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91532
+      "UsersEstimate": 91533
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -26279,15 +26284,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538426,
+      "Progressed": 538427,
       "Completed": 1614
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-12T05:57:21.5077761+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:28:34.43513+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:06:45.9583869+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:38.8645377+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:22:41.4137566+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:28:34.4353006+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:01:03.6688151+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:06:45.95851+00:00"
 }

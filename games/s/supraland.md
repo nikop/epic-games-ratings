@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,666 |
+| Out of bed | 99.00% | ~725,667 |
 | The Blues | 85.00% | ~623,047 |
-| Fast | 66.00% | ~483,777 |
+| Fast | 66.00% | ~483,778 |
 | Healthbar | 55.00% | ~403,148 |
 | Force Cube | 53.00% | ~388,488 |
-| Double Jump | 48.00% | ~351,838 |
-| Regeneration | 47.00% | ~344,508 |
-| Triple Jump | 43.00% | ~315,188 |
-| Climb the hill | 42.00% | ~307,858 |
-| Through the fire pipe | 39.00% | ~285,868 |
-| MacGuffin | 38.00% | ~278,538 |
+| Double Jump | 48.00% | ~351,839 |
+| Regeneration | 47.00% | ~344,509 |
+| Triple Jump | 43.00% | ~315,189 |
+| Climb the hill | 42.00% | ~307,859 |
+| Through the fire pipe | 39.00% | ~285,869 |
+| MacGuffin | 38.00% | ~278,539 |
 | Just once | 37.00% | ~271,209 |
 | Armor | 30.00% | ~219,899 |
 | True holy spirit | 28.00% | ~205,239 |
@@ -29,14 +29,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | Double Health | 19.00% | ~139,269 |
 | Buckle | 17.00% | ~124,609 |
 | Green Keycard | 17.00% | ~124,609 |
-| Rattle Hag | 16.00% | ~117,279 |
-| All Shells | 15.00% | ~109,949 |
-| Beam | 14.00% | ~102,619 |
-| Health Drink | 13.00% | ~95,289 |
-| Helped a star | 13.00% | ~95,289 |
-| 9 | 13.00% | ~95,289 |
-| Purple Cube | 13.00% | ~95,289 |
-| Supraball Noob | 13.00% | ~95,289 |
+| Rattle Hag | 16.00% | ~117,280 |
+| All Shells | 15.00% | ~109,950 |
+| Beam | 14.00% | ~102,620 |
+| Health Drink | 13.00% | ~95,290 |
+| Helped a star | 13.00% | ~95,290 |
+| 9 | 13.00% | ~95,290 |
+| Purple Cube | 13.00% | ~95,290 |
+| Supraball Noob | 13.00% | ~95,290 |
 | Strong | 12.00% | ~87,960 |
 | Blue King's lair | 11.00% | ~80,630 |
 | Payback | 11.00% | ~80,630 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,996 (Ranked 19)  
+Progressed: 732,997 (Ranked 19)  
 Completed: 761 (0.10%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 761 (0.10%) (Ranked 277)
 | 2023-11-14 | 732,797 | 760 |
 | 2023-11-15 | 732,885 | 760 |
 | 2023-11-16 | 732,988 | 761 |
-| 2023-11-17 | 732,996 | 761 |
+| 2023-11-17 | 732,997 | 761 |
 ## Awards
 Max (Challenging Puzzles): 7,729  (Ranked 48)  
 Sum: 10,080 (Ranked 91)  

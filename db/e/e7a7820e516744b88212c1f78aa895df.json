@@ -1202,9 +1202,9 @@
       "ID": "achSponsorMain1",
       "SetID": "7ji07dj",
       "Name": "Executive Approval",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achUnlockAddon",
@@ -1321,8 +1321,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:31:18.7115641+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:09:00.2099158+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.7019811+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:20:07.6641196+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:31:18.7115959+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:57:32.5982404+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:09:00.2099399+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 802,
-  "Ranking_Popularity": 352,
+  "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
@@ -1288,11 +1288,17 @@
       "Rating": 4.34,
       "NumberOfAwards": 666,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2023-11-17T03:02:47.9504302+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 667,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 666,
-  "NumberOfAwardsMax": 105,
+  "NumberOfAwards": 667,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1311,7 +1317,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has Competitive Players",
@@ -1385,8 +1391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-11-15T12:00:00.4073657+00:00",
+  "LastChanged": "2023-11-17T03:02:47.9504301+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:50.0423246+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:25:30.1748005+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:26:57.7690855+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:02:47.9504306+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:04:42.3847678+00:00"
 }

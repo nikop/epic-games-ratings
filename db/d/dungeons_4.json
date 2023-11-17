@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -739,9 +739,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -1034,8 +1034,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:28:35.9768083+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:06:48.3073533+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:20:15.168097+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:28:35.9768489+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:57:42.4900511+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:06:48.3073997+00:00"
 }

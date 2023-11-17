@@ -15,12 +15,12 @@ Rating: 4.61 (Ranked 385)
 | From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
+| Magical Synergy | 0.90% | ~49 |
 | Seat of Power | 0.90% | ~49 |
 | Chaos Surge | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
 | Valley of Wonders | 0.80% | ~43 |
 | Stronger Together | 0.80% | ~43 |
-| Magical Synergy | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
 | Intimidation Tactics | 0.80% | ~43 |
 | Sehiran Oasis | 0.80% | ~43 |

@@ -455,9 +455,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REMAKE_002",
@@ -543,9 +543,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Remake_14",
@@ -599,9 +599,9 @@
       "ID": "Remake_20",
       "SetID": "5pi96jj",
       "Name": "Dug Straight Down",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Remake_21",
@@ -630,8 +630,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:26:11.9413499+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:03:45.3696364+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:25:41.5956095+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:26:11.9413895+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:03:03.3693497+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:03:45.3696712+00:00"
 }

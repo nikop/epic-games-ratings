@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5408,
+  "EOS_Progressed": 5409,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 881,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3475,6 +3475,11 @@
       "Time": "2023-11-17T01:57:27.8872695+00:00",
       "NumProgressed": 5408,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T03:09:42.5883808+00:00",
+      "NumProgressed": 5409,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3559,7 +3564,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3567,7 +3572,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "GarbageMan",
@@ -3639,7 +3644,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3758,7 +3763,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5408,
+      "Progressed": 5409,
       "Completed": 7
     }
   ],
@@ -3766,8 +3771,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:31:51.0285839+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:09:42.5883801+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:22:56.3472387+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:31:51.0286188+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:01:23.6207156+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:09:42.588422+00:00"
 }

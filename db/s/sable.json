@@ -503,9 +503,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 99380,
+  "EOS_Progressed": 99381,
   "EOS_Completed": 1003,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -24528,6 +24528,11 @@
       "Time": "2023-11-17T02:31:48.2008949+00:00",
       "NumProgressed": 99380,
       "NumCompleted": 1003
+    },
+    {
+      "Time": "2023-11-17T03:09:38.7130047+00:00",
+      "NumProgressed": 99381,
+      "NumCompleted": 1003
     }
   ],
   "TotalAchievements": 56,
@@ -24763,7 +24768,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12919
+      "UsersEstimate": 12920
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -24851,7 +24856,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33789
+      "UsersEstimate": 33790
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -24891,7 +24896,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17888
+      "UsersEstimate": 17889
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -24899,7 +24904,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 12919
+      "UsersEstimate": 12920
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -24955,7 +24960,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12919
+      "UsersEstimate": 12920
     },
     {
       "ID": "ach_053_angler_mask",
@@ -24986,15 +24991,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 99380,
+      "Progressed": 99381,
       "Completed": 1003
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-14T13:02:09.920914+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:31:48.2008946+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:09:38.7130041+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:44.8321264+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:21:29.7356475+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:31:48.2010117+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:59:26.0823324+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:09:38.713151+00:00"
 }

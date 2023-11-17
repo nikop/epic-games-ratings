@@ -5,29 +5,29 @@ Rating: 4.80 (Ranked 86)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,778 |
-| I Challenge You To Save More Money! | 89.00% | ~7,443 |
-| I Love How Tough You Are | 75.00% | ~6,272 |
-| Wanna Come To My Place For Dinner? | 69.00% | ~5,770 |
+| Last Night...Did We... | 93.00% | ~7,779 |
+| I Challenge You To Save More Money! | 89.00% | ~7,444 |
+| I Love How Tough You Are | 75.00% | ~6,273 |
+| Wanna Come To My Place For Dinner? | 69.00% | ~5,771 |
 | What I Want Is You | 63.00% | ~5,269 |
 | To Be Or Not To Be | 60.00% | ~5,018 |
-| Love Actually | 51.00% | ~4,265 |
+| Love Actually | 51.00% | ~4,266 |
 | Are You Alright? | 50.00% | ~4,182 |
-| Drama King | 43.00% | ~3,596 |
+| Drama King | 43.00% | ~3,597 |
 | You're Really Something Else | 38.00% | ~3,178 |
-| Go Clean up In Your Own Way | 37.00% | ~3,094 |
+| Go Clean up In Your Own Way | 37.00% | ~3,095 |
 | Happy Family | 36.00% | ~3,011 |
 | ONE PUNCH | 36.00% | ~3,011 |
 | FIRST LOVE | 36.00% | ~3,011 |
 | Worthless Speech | 36.00% | ~3,011 |
 | Drama CP: Reel to Real | 35.00% | ~2,927 |
-| Absolutely Elegant | 34.00% | ~2,843 |
+| Absolutely Elegant | 34.00% | ~2,844 |
 | Still Single | 33.00% | ~2,760 |
 | Go Get Some Fries On The Pier | 31.00% | ~2,593 |
 | Days Of Innocence | 31.00% | ~2,593 |
 | David | 30.00% | ~2,509 |
-| All I Have Is Money | 26.00% | ~2,174 |
-| A Slap In The Face! | 26.00% | ~2,174 |
+| All I Have Is Money | 26.00% | ~2,175 |
+| A Slap In The Face! | 26.00% | ~2,175 |
 | Lover In Dark Alley | 25.00% | ~2,091 |
 | That's So You | 25.00% | ~2,091 |
 | SALUTE | 25.00% | ~2,091 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 86)
 | Tall; Grande; Venti | 2.00% | ~167 |
 | Limerence | 2.00% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,363 (Ranked 167)  
+Progressed: 8,364 (Ranked 167)  
 Completed: 130 (1.55%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 130 (1.55%) (Ranked 136)
 | 2023-11-14 | 8,207 | 128 |
 | 2023-11-15 | 8,283 | 130 |
 | 2023-11-16 | 8,354 | 130 |
-| 2023-11-17 | 8,363 | 130 |
+| 2023-11-17 | 8,364 | 130 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

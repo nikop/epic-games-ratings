@@ -4653,9 +4653,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 91225,
+  "EOS_Progressed": 91226,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 1190,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25543,6 +25543,11 @@
       "Time": "2023-11-17T01:56:08.2762203+00:00",
       "NumProgressed": 91225,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-17T03:08:25.8810629+00:00",
+      "NumProgressed": 91226,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 41,
@@ -25562,7 +25567,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH_0012",
@@ -25722,7 +25727,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH_0300",
@@ -25786,7 +25791,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH_0431",
@@ -25881,13 +25886,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91225,
+      "Progressed": 91226,
       "Completed": 56
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19572,
+      "Progressed": 19573,
       "Completed": 15571
     }
   ],
@@ -25895,8 +25900,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-16T17:59:43.6127197+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:29:51.2414387+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:08:25.8810623+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:22:48.3786441+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:29:51.2415362+00:00"
+  "LastUpdate_Ratings": "2023-11-17T03:01:12.9671805+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:08:25.8812079+00:00"
 }

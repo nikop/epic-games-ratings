@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 98.00% | ~823 |
+| Graduated | 99.00% | ~832 |
 | Trouble with the swerve | 68.00% | ~571 |
 | Oops, My bad | 67.00% | ~563 |
 | Don't get ahead on yourself | 38.00% | ~319 |

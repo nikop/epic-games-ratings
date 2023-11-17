@@ -26,7 +26,7 @@
 | The Big Eaty | 37.00% | ~105 |
 | Pure Dynamite! | 36.00% | ~102 |
 | Mana Cannon | 30.00% | ~85 |
-| “… like son” | 29.00% | ~82 |
+| “… like son” | 30.00% | ~85 |
 | Dungeonlord Gorgu | 24.00% | ~68 |
 | The Cathedral of Light | 23.00% | ~65 |
 | Shame! Shame! Shame! | 23.00% | ~65 |

@@ -6609,9 +6609,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719437,
+  "EOS_Progressed": 719444,
   "EOS_Completed": 2399,
-  "EOS_NewPlayers": 3739,
+  "EOS_NewPlayers": 3733,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30669,6 +30669,11 @@
       "Time": "2023-11-17T02:28:38.6130547+00:00",
       "NumProgressed": 719437,
       "NumCompleted": 2399
+    },
+    {
+      "Time": "2023-11-17T03:06:51.4491098+00:00",
+      "NumProgressed": 719444,
+      "NumCompleted": 2399
     }
   ],
   "TotalAchievements": 51,
@@ -30680,7 +30685,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30696,15 +30701,15 @@
       "Name": "Git Gutte!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -30736,7 +30741,7 @@
       "Name": "Bookworm",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_break_a_leg",
@@ -30832,7 +30837,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_hotel_california",
@@ -30880,7 +30885,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_knowledgeable",
@@ -30952,7 +30957,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_star_performance",
@@ -30960,7 +30965,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "ach_survival_expert",
@@ -31087,13 +31092,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719437,
+      "Progressed": 719444,
       "Completed": 2399
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44979,
+      "Progressed": 44986,
       "Completed": 36548
     }
   ],
@@ -31101,8 +31106,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-17T01:47:03.9538473+00:00",
-  "LastChanged_Achievements": "2023-11-17T02:28:38.6130543+00:00",
+  "LastChanged_Achievements": "2023-11-17T03:06:51.4491091+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T02:21:30.5137712+00:00",
-  "LastUpdate_Achievements": "2023-11-17T02:28:38.6131982+00:00"
+  "LastUpdate_Ratings": "2023-11-17T02:59:27.1844899+00:00",
+  "LastUpdate_Achievements": "2023-11-17T03:06:51.449285+00:00"
 }

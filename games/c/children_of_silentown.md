@@ -21,7 +21,7 @@
 | Mysterious paintings | 35.00% | ~76 |
 | Cat | 33.00% | ~72 |
 | Depths of the well | 27.00% | ~59 |
-| Children | 23.00% | ~50 |
+| Children | 24.00% | ~52 |
 | Huge Snail | 16.00% | ~35 |
 | Flower of hope | 14.00% | ~30 |
 | Back Home | 12.00% | ~26 |
