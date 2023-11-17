@@ -19,10 +19,10 @@ Rating: 4.86 (Ranked 30)
 | I play my own way! | 10.00% | ~423 |
 | Z-shielding's got nothing on us! | 10.00% | ~423 |
 | Kissing the sky! | 10.00% | ~423 |
-| The Negotiator | 9.00% | ~380 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~380 |
-| Out in a puff of smoke | 9.00% | ~380 |
-| I look cool. But I can look COOLER. | 9.00% | ~380 |
+| The Negotiator | 9.00% | ~381 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~381 |
+| Out in a puff of smoke | 9.00% | ~381 |
+| I look cool. But I can look COOLER. | 9.00% | ~381 |
 | Headliner | 8.00% | ~338 |
 | Time to pay up! | 8.00% | ~338 |
 | Who's the boss now? | 8.00% | ~338 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,227 (Ranked 194)  
+Progressed: 4,228 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 8 (0.19%) (Ranked 257)
 | 2023-11-14 | 4,221 | 8 |
 | 2023-11-15 | 4,223 | 8 |
 | 2023-11-16 | 4,225 | 8 |
-| 2023-11-17 | 4,227 | 8 |
+| 2023-11-17 | 4,228 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

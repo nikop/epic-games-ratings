@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 10.00% | ~1,645 |
+| Get a Grip | 10.00% | ~1,646 |
 | Paper Jams | 9.00% | ~1,481 |
 | Flesh Wound | 8.00% | ~1,316 |
 | Float Like A Butterfly | 7.00% | ~1,152 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 918)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,454 (Ranked 146)  
+Progressed: 16,455 (Ranked 147)  
 Completed: 79 (0.48%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 79 (0.48%) (Ranked 204)
 | 2023-11-14 | 16,445 | 79 |
 | 2023-11-15 | 16,452 | 79 |
 | 2023-11-16 | 16,454 | 79 |
+| 2023-11-17 | 16,455 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 386)  
 Sum: 482 (Ranked 328)  

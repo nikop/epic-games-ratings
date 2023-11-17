@@ -13,7 +13,7 @@
 | Memories | 27.00% | ~159 |
 | The Breeder | 23.00% | ~135 |
 | The Veteran | 19.00% | ~112 |
-| The Traitor | 14.00% | ~82 |
+| The Traitor | 15.00% | ~88 |
 | The Spider | 14.00% | ~82 |
 | Good as Fish | 11.00% | ~65 |
 | Her Eyes | 11.00% | ~65 |
@@ -42,7 +42,7 @@
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 589 (Ranked 294)  
-Completed: 1 (0.17%) (Ranked 260)  
+Completed: 1 (0.17%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

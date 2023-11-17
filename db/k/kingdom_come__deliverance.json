@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8539,10 +8539,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28259,
       "NumberOfAwardsMax": 7611
+    },
+    {
+      "Time": "2023-11-17T21:02:47.445122+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28260,
+      "NumberOfAwardsMax": 7611
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28259,
+  "NumberOfAwards": 28260,
   "NumberOfAwardsMax": 7611,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8598,7 +8604,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1719
+      "Count": 1720
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -8625,9 +8631,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808730,
+  "EOS_Progressed": 808732,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32345,6 +32351,11 @@
       "Time": "2023-11-17T20:08:01.6694884+00:00",
       "NumProgressed": 808730,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-17T21:07:57.4846256+00:00",
+      "NumProgressed": 808732,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32388,7 +32399,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169833
+      "UsersEstimate": 169834
     },
     {
       "ID": "BadGirl",
@@ -32404,7 +32415,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40436
+      "UsersEstimate": 40437
     },
     {
       "ID": "Bailiff",
@@ -32468,7 +32479,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202182
+      "UsersEstimate": 202183
     },
     {
       "ID": "Chivalrous",
@@ -32780,7 +32791,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40436
+      "UsersEstimate": 40437
     },
     {
       "ID": "NotSoChristianBurial",
@@ -32884,7 +32895,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40436
+      "UsersEstimate": 40437
     },
     {
       "ID": "Sinner",
@@ -32892,7 +32903,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88960
+      "UsersEstimate": 88961
     },
     {
       "ID": "Sniper",
@@ -32964,7 +32975,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88960
+      "UsersEstimate": 88961
     },
     {
       "ID": "TrialAndError",
@@ -33011,15 +33022,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808730,
+      "Progressed": 808732,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-17T19:02:50.3079686+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:08:01.6694881+00:00",
+  "LastChanged": "2023-11-17T21:02:47.4451218+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:07:57.4846251+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:02:51.9020157+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:08:01.6696802+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:02:47.4451237+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:07:57.4848154+00:00"
 }

@@ -27,7 +27,7 @@ Rating: 4.30 (Ranked 835)
 | I'm Rich | 22.00% | ~43 |
 | 1 is all I need | 21.00% | ~41 |
 | The Slime | 21.00% | ~41 |
-| Untouchable | 19.00% | ~37 |
+| Untouchable | 20.00% | ~39 |
 | The Giant | 17.00% | ~33 |
 | The Blacksmith | 16.00% | ~31 |
 | The Flower | 16.00% | ~31 |

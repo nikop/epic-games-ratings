@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1974,9 +1974,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_6",
@@ -2020,8 +2020,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:08:34.4300687+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:08:47.3782783+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:00:26.1934378+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:08:34.4300945+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:00:07.7987577+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:08:47.378302+00:00"
 }

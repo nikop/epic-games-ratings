@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,014 |
-| Titan's First Steps | 5.00% | ~7,014 |
+| Sponsored by Argon | 5.00% | ~7,015 |
+| Titan's First Steps | 5.00% | ~7,015 |
 | Basic in Bulk | 4.00% | ~5,612 |
 | Tinkle of Coins | 4.00% | ~5,612 |
 | Disintermediation | 3.00% | ~4,209 |
@@ -23,6 +23,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 2.00% | ~2,806 |
 | Another Satisfied Customer | 2.00% | ~2,806 |
 | Pretty Penny | 2.00% | ~2,806 |
+| Gild-Gotten Goods | 2.00% | ~2,806 |
 | One-Armed Bandit | 2.00% | ~2,806 |
 | Dungeon Imports | 2.00% | ~2,806 |
 | Through Repetition, Perfection | 2.00% | ~2,806 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 1.00% | ~1,403 |
 | Trash to Treasure | 1.00% | ~1,403 |
 | Gem Expert | 1.00% | ~1,403 |
-| Gild-Gotten Goods | 1.00% | ~1,403 |
 | Royal Ransom | 1.00% | ~1,403 |
 | Helping Hand | 1.00% | ~1,403 |
 | Accomplished Merchant | 1.00% | ~1,403 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,288 (Ranked 79)  
+Progressed: 140,298 (Ranked 79)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-14 | 139,830 | 186 |
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
-| 2023-11-17 | 140,288 | 187 |
+| 2023-11-17 | 140,298 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,561 (Ranked 50)  

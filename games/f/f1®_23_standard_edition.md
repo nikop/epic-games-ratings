@@ -1,32 +1,32 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.67 (Ranked 272)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,372 |
-| On the Top Step | 87.00% | ~5,025 |
-| Setting up for Success | 76.00% | ~4,390 |
-| Team Orders | 75.00% | ~4,332 |
-| Engineer | 54.00% | ~3,119 |
+| Getting on the Step | 93.00% | ~5,373 |
+| On the Top Step | 87.00% | ~5,026 |
+| Setting up for Success | 76.00% | ~4,391 |
+| Team Orders | 75.00% | ~4,333 |
+| Engineer | 54.00% | ~3,120 |
 | Familiar Faces | 47.00% | ~2,715 |
-| Sharing the Love | 41.00% | ~2,368 |
-| Going the Extra Mile | 41.00% | ~2,368 |
-| Hitting a Season | 36.00% | ~2,079 |
-| A Dozen Pieces | 32.00% | ~1,848 |
-| Challenge Yourself | 32.00% | ~1,848 |
+| Sharing the Love | 41.00% | ~2,369 |
+| Going the Extra Mile | 41.00% | ~2,369 |
+| Hitting a Season | 36.00% | ~2,080 |
+| A Dozen Pieces | 32.00% | ~1,849 |
+| Challenge Yourself | 32.00% | ~1,849 |
 | Making History | 31.00% | ~1,791 |
 | Network Success | 26.00% | ~1,502 |
 | Writing a new Chapter | 25.00% | ~1,444 |
-| Spring Cleaning | 23.00% | ~1,328 |
+| Spring Cleaning | 23.00% | ~1,329 |
 | Reduce | 20.00% | ~1,155 |
-| Ups and Downs | 19.00% | ~1,097 |
+| Ups and Downs | 19.00% | ~1,098 |
 | Crucial Combo | 18.00% | ~1,040 |
 | Reuse | 16.00% | ~924 |
 | One for the Book | 16.00% | ~924 |
 | Proving Them Wrong | 16.00% | ~924 |
-| Gathering Dust | 15.00% | ~866 |
+| Gathering Dust | 15.00% | ~867 |
 | Oil and Water | 14.00% | ~809 |
 | Hitting a Bullseye | 13.00% | ~751 |
 | Spinning Around | 13.00% | ~751 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 252)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,776 (Ranked 184)  
+Progressed: 5,777 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,16 +120,16 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-14 | 5,732 | 0 |
 | 2023-11-15 | 5,748 | 0 |
 | 2023-11-16 | 5,758 | 0 |
-| 2023-11-17 | 5,776 | 0 |
+| 2023-11-17 | 5,777 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
-Sum: 72 (Ranked 463)  
+Sum: 73 (Ranked 463)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |
 | This game is Great for Quick Sessions | 24 |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -204,4 +204,4 @@ Diff (max vs sum): 21
 | 2023-11-14 | 4.68 | 31 | 51 |
 | 2023-11-15 | 4.69 | 32 | 72 |
 | 2023-11-16 | 4.68 | 32 | 72 |
-| 2023-11-17 | 4.68 | 32 | 72 |
+| 2023-11-17 | 4.68 | 32 | 73 |

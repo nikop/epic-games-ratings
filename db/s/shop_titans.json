@@ -7099,9 +7099,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140288,
+  "EOS_Progressed": 140298,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28804,6 +28804,11 @@
       "Time": "2023-11-17T20:04:18.8727864+00:00",
       "NumProgressed": 140288,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-17T21:04:07.135586+00:00",
+      "NumProgressed": 140298,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -28983,7 +28988,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7014
+      "UsersEstimate": 7015
     },
     {
       "ID": "chest02",
@@ -29301,9 +29306,9 @@
       "ID": "gold03",
       "SetID": "anfd17p",
       "Name": "Gild-Gotten Goods",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1403
+      "UsersEstimate": 2806
     },
     {
       "ID": "gold04",
@@ -29631,7 +29636,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7014
+      "UsersEstimate": 7015
     },
     {
       "ID": "twinenchant01",
@@ -29710,15 +29715,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140288,
+      "Progressed": 140298,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-17T13:06:07.3304406+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:04:18.8727861+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:04:07.1355856+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:59:41.0809629+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:04:18.8729802+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:59:28.3537223+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:04:07.1357736+00:00"
 }

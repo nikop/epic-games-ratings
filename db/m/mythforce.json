@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -776,7 +776,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4907,
+  "EOS_Progressed": 4908,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -9381,6 +9381,11 @@
       "Time": "2023-11-17T20:04:36.5108952+00:00",
       "NumProgressed": 4907,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-17T21:04:22.5154164+00:00",
+      "NumProgressed": 4908,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9449,7 +9454,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9511,9 +9516,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 638
+      "UsersEstimate": 687
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9576,15 +9581,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4907,
+      "Progressed": 4908,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:04:36.5108949+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:04:22.5154159+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:00:27.3423402+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:04:36.5109526+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:00:08.7450296+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:04:22.5154693+00:00"
 }

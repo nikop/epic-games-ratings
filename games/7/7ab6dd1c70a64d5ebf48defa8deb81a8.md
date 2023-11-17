@@ -33,12 +33,12 @@
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |
+| The Mentor | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
 | Alchemist | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
-| The Mentor | -1.10% | ~-2 |
 | Miner | -1.10% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 188 (Ranked 384)  

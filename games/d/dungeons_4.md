@@ -22,11 +22,11 @@
 | The Ascent | 43.00% | ~124 |
 | It's Warm and Cozy at Home | 43.00% | ~124 |
 | YOU SHALL NOT PASS! | 42.00% | ~121 |
+| The Big Eaty | 39.00% | ~113 |
 | Hard Work | 38.00% | ~110 |
-| The Big Eaty | 38.00% | ~110 |
 | Pure Dynamite! | 36.00% | ~104 |
 | Mana Cannon | 33.00% | ~95 |
-| “… like son” | 31.00% | ~90 |
+| “… like son” | 32.00% | ~92 |
 | Dungeonlord Gorgu | 26.00% | ~75 |
 | The Cathedral of Light | 25.00% | ~72 |
 | Shame! Shame! Shame! | 25.00% | ~72 |
@@ -35,8 +35,8 @@
 | Hungry, Hungry Gorgu! | 18.00% | ~52 |
 | Unstoppable Horde | 17.00% | ~49 |
 | All’s Well That Ends Evil | 17.00% | ~49 |
+| Forbidden Knowledge | 16.00% | ~46 |
 | Master of the Undead | 16.00% | ~46 |
-| Forbidden Knowledge | 15.00% | ~43 |
 | The Duel | 14.00% | ~40 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~38 |
 | Ghost Pirates? Ghost Heroes! | 13.00% | ~38 |
@@ -54,11 +54,11 @@
 | Gorgu is in the Best of Health | 4.00% | ~12 |
 | Laser Eyes Are So Useless | 4.00% | ~12 |
 | Untouchable | 4.00% | ~12 |
+| Lavalumps on Ice! | 4.00% | ~12 |
 | Rubble and Ashes | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
 | The Rune Sockets of Finitude (Part 2) | 4.00% | ~12 |
 | The Last Stand - This Time For Real! | 4.00% | ~12 |
-| Lavalumps on Ice! | 3.00% | ~9 |
 | To the Max! | 3.00% | ~9 |
 | Evilification | 3.00% | ~9 |
 | Heal Heal Blessing | 2.00% | ~6 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470965,
+  "EOS_Progressed": 470968,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22703,6 +22703,11 @@
       "Time": "2023-11-17T20:09:25.2713772+00:00",
       "NumProgressed": 470965,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-17T21:09:24.6230745+00:00",
+      "NumProgressed": 470968,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22738,7 +22743,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103612
+      "UsersEstimate": 103613
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -22754,7 +22759,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47096
+      "UsersEstimate": 47097
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -22802,7 +22807,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310837
+      "UsersEstimate": 310839
     },
     {
       "ID": "achievement_story_landa",
@@ -22834,7 +22839,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117741
+      "UsersEstimate": 117742
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -22890,7 +22895,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94193
+      "UsersEstimate": 94194
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22898,7 +22903,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160128
+      "UsersEstimate": 160129
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23138,7 +23143,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207225
+      "UsersEstimate": 207226
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23170,7 +23175,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183676
+      "UsersEstimate": 183678
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23226,7 +23231,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103612
+      "UsersEstimate": 103613
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -23274,7 +23279,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -23345,21 +23350,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14899,
+      "Progressed": 14902,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470965,
+      "Progressed": 470968,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:09:25.2713769+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:09:24.6230742+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:59:33.4462884+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:09:25.2715166+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:59:21.5671075+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:09:24.623246+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
-  "Ranking_Rating": 128,
+  "Ranking_Rating": 127,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 35,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-28T15:00:00+00:00",
     "PcReleaseDate": "2012-09-18T15:00:00+00:00",
@@ -10581,10 +10581,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 39786,
       "NumberOfAwardsMax": 15883
+    },
+    {
+      "Time": "2023-11-17T20:58:09.6280035+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 39788,
+      "NumberOfAwardsMax": 15883
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39786,
+  "NumberOfAwards": 39788,
   "NumberOfAwardsMax": 15883,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10646,7 +10652,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2468
+      "Count": 2470
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10672,8 +10678,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2023-11-17T18:58:18.0660577+00:00",
+  "LastChanged": "2023-11-17T20:58:09.628003+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.6722372+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:58:11.2889212+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:05:06.1615752+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:58:09.628004+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:04:46.6148555+00:00"
 }

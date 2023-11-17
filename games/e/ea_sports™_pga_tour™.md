@@ -16,14 +16,14 @@
 | The Strongest Field in Golf | 32.00% | ~173 |
 | Ace in the Hole | 31.00% | ~167 |
 | From Many, One | 28.00% | ~151 |
+| Golf's Original Championship | 25.00% | ~135 |
 | A Tradition Unlike Any Other | 24.00% | ~130 |
 | A Passion for Excellence | 24.00% | ~130 |
-| Golf's Original Championship | 24.00% | ~130 |
 | The Ultimate Prize | 18.00% | ~97 |
 | Golfer Versus Golfer | 15.00% | ~81 |
 | Victory Lap | 9.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540 (Ranked 300)  
+Progressed: 540 (Ranked 301)  
 Completed: 9 (1.67%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |

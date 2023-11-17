@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -475,7 +475,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
@@ -7320,6 +7320,11 @@
       "Time": "2023-11-17T20:08:22.9276082+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T21:08:36.9382587+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7435,7 +7440,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "dragonmaster",
@@ -7515,7 +7520,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "fourleafclover",
@@ -7659,7 +7664,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "minerclicker",
@@ -7731,7 +7736,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "relicofthepast",
@@ -7787,7 +7792,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "thealchemist",
@@ -7891,7 +7896,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "warmachinesarmy",
@@ -7930,7 +7935,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 2
     }
   ],
@@ -7938,8 +7943,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:08:22.9276079+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:08:36.9382582+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:57:15.0992526+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:08:22.9276988+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:57:18.8082906+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:08:36.9383417+00:00"
 }

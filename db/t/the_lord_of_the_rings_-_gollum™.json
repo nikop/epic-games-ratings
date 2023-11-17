@@ -3,9 +3,9 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1626,9 +1626,9 @@
       "ID": "Chapter5",
       "SetID": "70l3651",
       "Name": "The Traitor",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 88
     },
     {
       "ID": "Chapter6",
@@ -1857,8 +1857,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:06:43.0370714+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:06:13.3913691+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:00:30.4094895+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:06:43.0371211+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:00:11.6198172+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:06:13.3913965+00:00"
 }

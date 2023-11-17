@@ -15,12 +15,12 @@
 | Sign of weakness | 37.00% | ~26 |
 | Finished it | 28.00% | ~20 |
 | Face your fears | 24.00% | ~17 |
+| Tough conversation | 17.00% | ~12 |
 | Playtime | 15.00% | ~11 |
-| Tough conversation | 15.00% | ~11 |
+| First steps | 14.00% | ~10 |
 | The tragedy unfolds | 14.00% | ~10 |
-| First steps | 13.00% | ~9 |
+| Breaking free | 13.00% | ~9 |
 | A new way | 11.00% | ~8 |
-| Breaking free | 11.00% | ~8 |
 | True Reflection | 11.00% | ~8 |
 | A Slice of Life | 10.00% | ~7 |
 | Debut | 10.00% | ~7 |
@@ -33,11 +33,11 @@
 | Casting Finished | 6.00% | ~4 |
 | We Are Not Alone | 6.00% | ~4 |
 | Fisherman | 4.00% | ~3 |
+| The Big Picture | 3.00% | ~2 |
 | Something to think about | 3.00% | ~2 |
 | I remember It Like Was Yesterday | 3.00% | ~2 |
 | Body of Work | 3.00% | ~2 |
 | The Perfect Storm | 3.00% | ~2 |
-| The Big Picture | 1.00% | ~1 |
 | Dark correspondence | 1.00% | ~1 |
 | It was worth a try | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |

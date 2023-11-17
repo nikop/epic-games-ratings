@@ -1,35 +1,35 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 128)  
+Rating: 4.76 (Ranked 127)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,361 |
-| First Class Student | 14.00% | ~42,316 |
-| Troll with the Punches | 14.00% | ~42,316 |
-| A Keen Sense of Spell | 13.00% | ~39,293 |
-| That's a Keeper | 13.00% | ~39,293 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,362 |
+| First Class Student | 14.00% | ~42,317 |
+| Troll with the Punches | 14.00% | ~42,317 |
+| A Keen Sense of Spell | 13.00% | ~39,294 |
+| That's a Keeper | 13.00% | ~39,294 |
 | A Talent for Spending | 12.00% | ~36,271 |
-| Grappling with a Graphorn | 11.00% | ~33,248 |
-| The One Who Mastered Memories | 11.00% | ~33,248 |
-| The Hallowed Hero | 11.00% | ~33,248 |
-| The Defender of Dragons | 11.00% | ~33,248 |
-| Challenge Accepted | 11.00% | ~33,248 |
-| Loom for Improvement | 11.00% | ~33,248 |
-| Coasting Along | 11.00% | ~33,248 |
+| Grappling with a Graphorn | 11.00% | ~33,249 |
+| The One Who Mastered Memories | 11.00% | ~33,249 |
+| The Hallowed Hero | 11.00% | ~33,249 |
+| The Defender of Dragons | 11.00% | ~33,249 |
+| Challenge Accepted | 11.00% | ~33,249 |
+| Loom for Improvement | 11.00% | ~33,249 |
+| Coasting Along | 11.00% | ~33,249 |
 | The Hero of Hogwarts | 10.00% | ~30,226 |
 | Followed the Butterflies | 10.00% | ~30,226 |
 | Rising From the Ashes | 10.00% | ~30,226 |
 | The Spell Master | 9.00% | ~27,203 |
-| The Avenging Gazelle | 8.00% | ~24,180 |
-| Beast Friends | 8.00% | ~24,180 |
-| A Sallow Grave | 8.00% | ~24,180 |
-| Flight the Good Flight | 8.00% | ~24,180 |
-| The Seeker of Knowledge | 6.00% | ~18,135 |
-| The Root of the Problem | 6.00% | ~18,135 |
-| Third Time's a Charm | 6.00% | ~18,135 |
-| Raising Expectations | 6.00% | ~18,135 |
+| The Avenging Gazelle | 8.00% | ~24,181 |
+| Beast Friends | 8.00% | ~24,181 |
+| A Sallow Grave | 8.00% | ~24,181 |
+| Flight the Good Flight | 8.00% | ~24,181 |
+| The Seeker of Knowledge | 6.00% | ~18,136 |
+| The Root of the Problem | 6.00% | ~18,136 |
+| Third Time's a Charm | 6.00% | ~18,136 |
+| Raising Expectations | 6.00% | ~18,136 |
 | The Toast of the Town | 5.00% | ~15,113 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,113 |
 | The Ends Petrify the Means | 5.00% | ~15,113 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 128)
 | The Nature of the Beast | 0.70% | ~2,116 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,256 (Ranked 51)  
-Completed: 512 (0.17%) (Ranked 260)  
+Progressed: 302,261 (Ranked 51)  
+Completed: 512 (0.17%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,17 +262,17 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-14 | 302,089 | 511 |
 | 2023-11-15 | 302,152 | 512 |
 | 2023-11-16 | 302,204 | 512 |
-| 2023-11-17 | 302,256 | 512 |
+| 2023-11-17 | 302,261 | 512 |
 ## Awards
 Max (Character Customization): 24,370  (Ranked 17)  
-Sum: 48,384 (Ranked 30)  
+Sum: 48,391 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,370 |
 | This game has Great Boss Battles | 12,379 |
 | This game is Great for Beginners | 1,311 |
-| This game has Amazing Storytelling | 1,262 |
+| This game has Amazing Storytelling | 1,268 |
 | This game has Diverse Characters | 1,261 |
 | This game is Extremely Fun | 1,238 |
 | This game is Relaxing | 1,232 |
@@ -280,7 +280,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,177 |
 | This game has Quickly Understood Controls | 1,119 |
 | This game has Beautiful Visuals | 1,035 |
-| This game has a Creative Community | 788 |
+| This game has a Creative Community | 789 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -522,4 +522,4 @@ Diff (max vs sum): -13
 | 2023-11-14 | 4.76 | 24,282 | 48,150 |
 | 2023-11-15 | 4.76 | 24,313 | 48,235 |
 | 2023-11-16 | 4.76 | 24,339 | 48,302 |
-| 2023-11-17 | 4.76 | 24,370 | 48,384 |
+| 2023-11-17 | 4.76 | 24,370 | 48,391 |

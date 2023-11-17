@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
@@ -6627,10 +6627,10 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719733,
+  "EOS_Progressed": 719766,
   "EOS_Completed": 2402,
-  "EOS_NewPlayers": 3660,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 3637,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30777,6 +30777,11 @@
       "Time": "2023-11-17T20:06:04.527282+00:00",
       "NumProgressed": 719733,
       "NumCompleted": 2402
+    },
+    {
+      "Time": "2023-11-17T21:05:38.6715666+00:00",
+      "NumProgressed": 719766,
+      "NumCompleted": 2402
     }
   ],
   "TotalAchievements": 51,
@@ -30828,7 +30833,7 @@
       "Name": "LA Influential",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ach_blueprinted",
@@ -30836,7 +30841,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_bookworm",
@@ -30850,9 +30855,9 @@
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6478
+      "UsersEstimate": 7198
     },
     {
       "ID": "ach_contender",
@@ -30868,15 +30873,15 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5038
+      "UsersEstimate": 5758
     },
     {
       "ID": "ach_doom_buddies",
@@ -30884,7 +30889,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_explorer",
@@ -30948,7 +30953,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7197
+      "UsersEstimate": 7198
     },
     {
       "ID": "ach_impressive_aim",
@@ -30972,7 +30977,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -30996,7 +31001,7 @@
       "Name": "Zombologist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_legendary",
@@ -31004,7 +31009,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_magnum_opus",
@@ -31012,7 +31017,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ach_metropolitan",
@@ -31036,7 +31041,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_salvation",
@@ -31052,7 +31057,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "ach_skilled_up",
@@ -31084,7 +31089,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4318
+      "UsersEstimate": 4319
     },
     {
       "ID": "ach_the_vcla",
@@ -31124,7 +31129,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7197
+      "UsersEstimate": 7198
     },
     {
       "ID": "ach_well_known_survivor",
@@ -31195,13 +31200,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719733,
+      "Progressed": 719766,
       "Completed": 2402
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45275,
+      "Progressed": 45308,
       "Completed": 36552
     }
   ],
@@ -31209,8 +31214,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-17T18:59:05.608575+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:06:04.5272816+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:05:38.6715659+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:59:05.6604169+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:06:04.5274563+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:58:57.1836491+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:05:38.6716806+00:00"
 }

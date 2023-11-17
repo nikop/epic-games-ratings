@@ -2,10 +2,10 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1326,6 +1326,11 @@
       "Time": "2023-11-13T11:09:02.0406507+00:00",
       "NumProgressed": 305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T21:03:00.2490809+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1335,9 +1340,9 @@
       "ID": "ETUA_ADC",
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1431,9 +1436,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 208
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1465,7 +1470,7 @@
       "Name": "Modern Player",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -1489,7 +1494,7 @@
       "Name": "Open Sesame",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ETUA_OutRage",
@@ -1529,7 +1534,7 @@
       "Name": "Rest In Peace",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ETUA_SUPER",
@@ -1593,7 +1598,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1656,7 +1661,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 1
     }
   ],
@@ -1664,8 +1669,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-17T19:08:40.901648+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:03:00.24908+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:18.4858183+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:58:04.4682574+00:00",
-  "LastUpdate_Achievements": "2023-11-17T19:08:40.9016804+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:58:03.5293008+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:03:00.2507832+00:00"
 }

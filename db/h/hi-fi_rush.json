@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4227,
+  "EOS_Progressed": 4228,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7359,6 +7359,11 @@
       "Time": "2023-11-17T20:05:02.8102785+00:00",
       "NumProgressed": 4227,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-17T21:04:43.7882121+00:00",
+      "NumProgressed": 4228,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7394,7 +7399,7 @@
       "Name": "The Negotiator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Ach005",
@@ -7506,7 +7511,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Ach019",
@@ -7594,7 +7599,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Ach030",
@@ -7698,7 +7703,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "Ach043",
@@ -7937,13 +7942,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4227,
+      "Progressed": 4228,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2748,
+      "Progressed": 2749,
       "Completed": 1930
     }
   ],
@@ -7951,8 +7956,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:05:02.8102781+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:04:43.7882117+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.6846175+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:58:47.9991712+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:05:02.8103666+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:58:42.3936108+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:04:43.7883134+00:00"
 }

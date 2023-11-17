@@ -2,10 +2,10 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2023-11-17T07:12:08.9559513+00:00",
       "NumProgressed": 471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T21:08:57.7659987+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1129,15 +1134,15 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "76k7b7p",
       "Name": "Amateur newbie",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -1217,7 +1222,7 @@
       "Name": "Wannabe",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -1281,7 +1286,7 @@
       "Name": "Hero",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -1441,15 +1446,15 @@
       "Name": "Drama queen",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_223",
       "SetID": "76k7b7p",
       "Name": "Mr. Whiting",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_224",
@@ -1569,7 +1574,7 @@
       "Name": "No brakes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -1769,7 +1774,7 @@
       "Name": "Reliability expert",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_308",
@@ -2305,7 +2310,7 @@
       "Name": "On the top",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_93",
@@ -2360,14 +2365,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:08:56.1764191+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:08:57.7659981+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:34.2183448+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:58:27.9316694+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:08:56.1766431+00:00"
+  "LastUpdate_Ratings": "2023-11-17T20:58:24.4085144+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:08:57.7662348+00:00"
 }

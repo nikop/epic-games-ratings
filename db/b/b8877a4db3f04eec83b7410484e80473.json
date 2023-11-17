@@ -4,8 +4,8 @@
   "ProductSlug": "railbreak-f87a0c",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-12-23T00:00:00+00:00",
     "PcReleaseDate": "2023-12-23T00:00:00+00:00",
@@ -253,8 +253,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:03:15.0585396+00:00",
-  "LastUpdate_AppInfo": "2023-11-10T19:57:16.4611922+00:00",
-  "LastUpdate_Ratings": "2023-11-17T19:59:41.0334371+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:03:15.0585936+00:00"
+  "LastChanged_Achievements": "2023-11-17T21:03:09.1399973+00:00",
+  "LastUpdate_AppInfo": "2023-11-17T20:57:02.8814309+00:00",
+  "LastUpdate_Ratings": "2023-11-17T20:59:28.3067177+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:03:09.1400136+00:00"
 }

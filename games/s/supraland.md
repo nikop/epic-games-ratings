@@ -6,30 +6,30 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,746 |
-| The Blues | 85.00% | ~623,115 |
-| Fast | 66.00% | ~483,831 |
-| Healthbar | 55.00% | ~403,192 |
-| Force Cube | 53.00% | ~388,531 |
-| Double Jump | 48.00% | ~351,877 |
-| Regeneration | 47.00% | ~344,546 |
-| Triple Jump | 43.00% | ~315,223 |
-| Climb the hill | 42.00% | ~307,892 |
-| Through the fire pipe | 39.00% | ~285,900 |
-| MacGuffin | 38.00% | ~278,569 |
-| Just once | 37.00% | ~271,238 |
-| Armor | 30.00% | ~219,923 |
+| Out of bed | 99.00% | ~725,749 |
+| The Blues | 85.00% | ~623,118 |
+| Fast | 66.00% | ~483,833 |
+| Healthbar | 55.00% | ~403,194 |
+| Force Cube | 53.00% | ~388,532 |
+| Double Jump | 48.00% | ~351,878 |
+| Regeneration | 47.00% | ~344,548 |
+| Triple Jump | 43.00% | ~315,224 |
+| Climb the hill | 42.00% | ~307,894 |
+| Through the fire pipe | 39.00% | ~285,901 |
+| MacGuffin | 38.00% | ~278,570 |
+| Just once | 37.00% | ~271,240 |
+| Armor | 30.00% | ~219,924 |
 | True holy spirit | 28.00% | ~205,262 |
-| That's how electronics work obviously | 27.00% | ~197,931 |
-| Force Cube Catapult | 25.00% | ~183,269 |
+| That's how electronics work obviously | 27.00% | ~197,932 |
+| Force Cube Catapult | 25.00% | ~183,270 |
 | Holy Sword | 23.00% | ~168,608 |
 | Telefrag | 23.00% | ~168,608 |
-| Freed from prison | 21.00% | ~153,946 |
-| Stomp | 21.00% | ~153,946 |
+| Freed from prison | 21.00% | ~153,947 |
+| Stomp | 21.00% | ~153,947 |
 | Double Health | 19.00% | ~139,285 |
-| Buckle | 17.00% | ~124,623 |
-| Green Keycard | 17.00% | ~124,623 |
-| Rattle Hag | 16.00% | ~117,292 |
+| Buckle | 17.00% | ~124,624 |
+| Green Keycard | 17.00% | ~124,624 |
+| Rattle Hag | 16.00% | ~117,293 |
 | All Shells | 15.00% | ~109,962 |
 | Beam | 14.00% | ~102,631 |
 | Health Drink | 13.00% | ~95,300 |
@@ -37,13 +37,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~95,300 |
 | Purple Cube | 13.00% | ~95,300 |
 | Supraball Noob | 13.00% | ~95,300 |
-| Strong | 12.00% | ~87,969 |
-| Blue King's lair | 11.00% | ~80,638 |
-| Payback | 11.00% | ~80,638 |
-| Got the coins back | 11.00% | ~80,638 |
-| Got the gun back | 11.00% | ~80,638 |
-| Infiltrated | 11.00% | ~80,638 |
-| Robbed | 11.00% | ~80,638 |
+| Strong | 12.00% | ~87,970 |
+| Blue King's lair | 11.00% | ~80,639 |
+| Payback | 11.00% | ~80,639 |
+| Got the coins back | 11.00% | ~80,639 |
+| Got the gun back | 11.00% | ~80,639 |
+| Infiltrated | 11.00% | ~80,639 |
+| Robbed | 11.00% | ~80,639 |
 | Fire Flies | 10.00% | ~73,308 |
 | Cave Flies | 10.00% | ~73,308 |
 | Gold Scam | 10.00% | ~73,308 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,077 (Ranked 19)  
+Progressed: 733,080 (Ranked 19)  
 Completed: 761 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 761 (0.10%) (Ranked 279)
 | 2023-11-14 | 732,797 | 760 |
 | 2023-11-15 | 732,885 | 760 |
 | 2023-11-16 | 732,988 | 761 |
-| 2023-11-17 | 733,077 | 761 |
+| 2023-11-17 | 733,080 | 761 |
 ## Awards
 Max (Challenging Puzzles): 7,729  (Ranked 48)  
 Sum: 10,080 (Ranked 91)  

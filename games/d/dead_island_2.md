@@ -1,39 +1,39 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | One of Us | 2.00% | ~906 |
 | Whatever It Takes | 2.00% | ~906 |
 | Pork Chopped | 2.00% | ~906 |
-| Hotel California | 1.00% | ~7,197 |
-| Welcome To Hell-A | 1.00% | ~7,197 |
+| Break A Leg | 1.00% | ~7,198 |
+| Hotel California | 1.00% | ~7,198 |
+| Welcome To Hell-A | 1.00% | ~7,198 |
 | Git Gutte! | 0.90% | ~6,478 |
-| Break A Leg | 0.90% | ~6,478 |
 | Coup de Grâce | 0.90% | ~6,478 |
 | Hazardous Materials | 0.90% | ~6,478 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,478 |
 | Dr. Reed, I Presume? | 0.80% | ~5,758 |
 | Anger Management | 0.80% | ~5,758 |
 | Bookworm | 0.80% | ~5,758 |
+| But Doctor, I am Butcho | 0.80% | ~5,758 |
 | Friends Like These | 0.80% | ~5,758 |
 | Apex Predator | 0.80% | ~5,758 |
 | Stacking the Deck | 0.80% | ~5,758 |
 | This is My Weapon | 0.80% | ~5,758 |
-| But Doctor, I am Butcho | 0.70% | ~5,038 |
 | Can't Handle the Truth | 0.70% | ~5,038 |
 | Like Riding a Bike | 0.70% | ~5,038 |
 | A Patton Emerges | 0.70% | ~5,038 |
 | Our True Nature | 0.70% | ~5,038 |
-| Perks of the Job | 0.60% | ~4,318 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,318 |
-| Slayer Squad | 0.60% | ~4,318 |
-| Zombologist | 0.60% | ~4,318 |
-| Ooh, Shiny! | 0.60% | ~4,318 |
-| I Am the Resurrection | 0.60% | ~4,318 |
-| Max Headroom | 0.60% | ~4,318 |
+| Perks of the Job | 0.60% | ~4,319 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,319 |
+| Slayer Squad | 0.60% | ~4,319 |
+| Zombologist | 0.60% | ~4,319 |
+| Ooh, Shiny! | 0.60% | ~4,319 |
+| I Am the Resurrection | 0.60% | ~4,319 |
+| Max Headroom | 0.60% | ~4,319 |
 | Making Your Mark | 0.50% | ~3,599 |
 | Not Even My Final Form | 0.50% | ~3,599 |
 | Humanity Distilled | 0.50% | ~3,599 |
@@ -47,17 +47,17 @@ Rating: 4.54 (Ranked 522)
 | Internet Famous | 0.30% | ~2,159 |
 | Variety is the Spice of Death | 0.30% | ~2,159 |
 | Top That, Tisha! | 0.30% | ~136 |
-| LA Influential | 0.20% | ~1,439 |
-| Sole Survivor | 0.20% | ~1,439 |
-| Gore Horse | 0.20% | ~1,439 |
-| Sharpest Tool in the Box | 0.20% | ~1,439 |
+| LA Influential | 0.20% | ~1,440 |
+| Sole Survivor | 0.20% | ~1,440 |
+| Gore Horse | 0.20% | ~1,440 |
+| Sharpest Tool in the Box | 0.20% | ~1,440 |
 | Lawn and Order | 0.20% | ~91 |
 | Donk! | 0.10% | ~720 |
 | Survival Skills | 0.10% | ~720 |
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,733 (Ranked 20)  
+Progressed: 719,766 (Ranked 20)  
 Completed: 2,402 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2,402 (0.33%) (Ranked 226)
 | 2023-11-14 | 718,528 | 2,391 |
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
-| 2023-11-17 | 719,733 | 2,402 |
+| 2023-11-17 | 719,766 | 2,402 |
 ## Awards
 Max (Great Boss Battles): 7,498  (Ranked 52)  
 Sum: 11,445 (Ranked 84)  

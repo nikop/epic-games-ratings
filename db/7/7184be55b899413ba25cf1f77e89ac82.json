@@ -4,8 +4,8 @@
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
     "PcReleaseDate": "2022-04-14T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -372,9 +372,9 @@
       "ID": "MusicQueen",
       "SetID": "2i48e34",
       "Name": "Music Queen",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NeonBeachChamp",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-11-17T20:09:20.0508918+00:00",
+  "LastChanged_Achievements": "2023-11-17T21:09:19.692198+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.622384+00:00",
-  "LastUpdate_Ratings": "2023-11-17T20:02:43.4883531+00:00",
-  "LastUpdate_Achievements": "2023-11-17T20:09:20.0509034+00:00"
+  "LastUpdate_Ratings": "2023-11-17T21:02:40.0590078+00:00",
+  "LastUpdate_Achievements": "2023-11-17T21:09:19.6922065+00:00"
 }
