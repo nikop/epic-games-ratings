@@ -36,7 +36,7 @@
 | 34 | [SnowRunner](games/s/snowrunner.md) | 12,234 | 4.76 | 128 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,789 | 4.39 | 747 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,609 | 4.69 | 232 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,695 | 4.78 | 106 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,707 | 4.78 | 106 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,420 | 4.61 | 385 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 10,085 | 4.58 | 443 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,520 | 4.58 | 443 |
@@ -161,8 +161,8 @@
 | 159 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 894 | 4.44 | 674 |
 | 160 | [Train Valley 2](games/t/train_valley_2.md) | 888 | 4.44 | 674 |
 | 161 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 885 | 4.50 | 588 |
+| 162 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 869 | 4.62 | 366 |
 | 162 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 869 | 4.82 | 67 |
-| 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 867 | 4.62 | 366 |
 | 164 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 850 | 4.68 | 252 |
 | 165 | [Auto Chess](games/a/auto_chess.md) | 839 | 4.51 | 566 |
 | 166 | [The Long Dark](games/t/the_long_dark.md) | 835 | 4.74 | 157 |
@@ -210,8 +210,8 @@
 | 208 | [Surviving Mars](games/s/surviving_mars.md) | 509 | 4.60 | 410 |
 | 209 | [Brawlhalla](games/b/brawlhalla.md) | 505 | 4.59 | 430 |
 | 210 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 488 | 4.41 | 720 |
-| 211 | [Loop Hero](games/l/loop_hero.md) | 477 | 4.67 | 272 |
-| 211 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 982 |
+| 211 | [Loop Hero](games/l/loop_hero.md) | 478 | 4.67 | 272 |
+| 212 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 982 |
 | 213 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 293 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 459 | 4.71 | 199 |
 | 214 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 459 | 4.84 | 51 |
@@ -228,8 +228,8 @@
 | 226 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 410 | 4.45 | 658 |
 | 227 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 409 | 4.75 | 147 |
 | 228 | [For The King](games/f/for_the_king.md) | 407 | 4.70 | 212 |
-| 229 | [Nuclear Throne](games/n/nuclear_throne.md) | 400 | 4.79 | 96 |
-| 229 | [Severed Steel](games/s/severed_steel.md) | 400 | 4.69 | 232 |
+| 229 | [Severed Steel](games/s/severed_steel.md) | 403 | 4.69 | 232 |
+| 230 | [Nuclear Throne](games/n/nuclear_throne.md) | 400 | 4.79 | 96 |
 | 231 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 366 |
 | 232 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 391 | 4.56 | 488 |
 | 233 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 389 | 4.62 | 366 |
@@ -376,10 +376,10 @@
 | 373 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 503 |
 | 375 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 588 |
 | 376 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 90 | 4.29 | 841 |
+| 377 | [Black Book](games/b/black_book.md) | 88 | 4.65 | 313 |
 | 377 | [Solitairica](games/s/solitairica.md) | 88 | 4.50 | 588 |
 | 377 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 88 | 4.57 | 469 |
-| 379 | [Black Book](games/b/black_book.md) | 87 | 4.65 | 313 |
-| 379 | [This War of Mine](games/t/this_war_of_mine.md) | 87 | 4.74 | 157 |
+| 380 | [This War of Mine](games/t/this_war_of_mine.md) | 87 | 4.74 | 157 |
 | 381 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 86 | 4.59 | 430 |
 | 382 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 85 | 4.35 | 792 |
 | 383 | [Super Meat Boy](games/s/super_meat_boy.md) | 84 | 4.71 | 199 |

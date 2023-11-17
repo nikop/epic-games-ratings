@@ -103,12 +103,12 @@
 | 96 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 0 | 546 |
 | 96 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 804 | 170 |
 | 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,102 | 61 |
-| 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 400 | 229 |
+| 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 400 | 230 |
 | 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 449 |
 | 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 281 | 260 |
 | 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 546 |
 | 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 421 |
-| 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,695 | 37 |
+| 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,707 | 37 |
 | 106 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,437 | 104 |
 | 106 | [Outlast](games/o/outlast.md) | 4.78 | 0 | 546 |
 | 106 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 546 |
@@ -170,7 +170,7 @@
 | 157 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 546 |
 | 157 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 835 | 166 |
 | 157 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 0 | 546 |
-| 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 87 | 379 |
+| 157 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 87 | 380 |
 | 157 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 546 |
 | 173 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 430 | 224 |
 | 173 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 546 |
@@ -244,7 +244,7 @@
 | 232 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 546 |
 | 232 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,609 | 36 |
 | 232 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 57 | 415 |
-| 232 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 400 | 229 |
+| 232 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 403 | 229 |
 | 232 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 507 |
 | 232 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 546 |
 | 232 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 546 |
@@ -280,7 +280,7 @@
 | 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 724 | 179 |
 | 272 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 546 |
 | 272 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.67 | 0 | 546 |
-| 272 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 477 | 211 |
+| 272 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 478 | 211 |
 | 272 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,281 | 105 |
 | 272 | [Overcooked](games/o/overcooked.md) | 4.67 | 120 | 340 |
 | 272 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 546 |
@@ -316,7 +316,7 @@
 | 313 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 546 |
 | 313 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 546 |
 | 313 | [Before We Leave](games/b/before_we_leave.md) | 4.65 | 0 | 546 |
-| 313 | [Black Book](games/b/black_book.md) | 4.65 | 87 | 379 |
+| 313 | [Black Book](games/b/black_book.md) | 4.65 | 88 | 377 |
 | 313 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 174 | 304 |
 | 313 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.65 | 0 | 546 |
 | 313 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 0 | 546 |
@@ -365,7 +365,7 @@
 | 349 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 26 | 512 |
 | 349 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 73 | 396 |
 | 349 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 546 |
-| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 867 | 163 |
+| 366 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 869 | 162 |
 | 366 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 546 |
 | 366 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 389 | 233 |
 | 366 | [Death's Door](games/d/death's_door.md) | 4.62 | 0 | 546 |
@@ -982,7 +982,7 @@
 | 975 | [Tharsis](games/t/tharsis.md) | 4.06 | 0 | 546 |
 | 975 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 546 |
 | 982 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 546 |
-| 982 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 477 | 211 |
+| 982 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 477 | 212 |
 | 982 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 546 |
 | 985 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 546 |
 | 986 | [Lake](games/l/lake.md) | 4.03 | 0 | 546 |
