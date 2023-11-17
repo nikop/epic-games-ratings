@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 18.00% | ~13 |
-| Double Kill | 11.00% | ~8 |
+| Double Kill | 13.00% | ~9 |
 | Sorcerous Spree | 6.00% | ~4 |
 | Veteran | 4.00% | ~3 |
 | Dressed For Success | 1.00% | ~1 |

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251341,
+  "EOS_Progressed": 251342,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19137,6 +19137,11 @@
       "Time": "2023-11-17T01:57:22.5486553+00:00",
       "NumProgressed": 251341,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-17T05:09:06.6816868+00:00",
+      "NumProgressed": 251342,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19196,7 +19201,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15080
+      "UsersEstimate": 15081
     },
     {
       "ID": "canYouDigIt",
@@ -19244,7 +19249,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45241
+      "UsersEstimate": 45242
     },
     {
       "ID": "curator",
@@ -19388,7 +19393,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125670
+      "UsersEstimate": 125671
     },
     {
       "ID": "notScared",
@@ -19515,7 +19520,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251341,
+      "Progressed": 251342,
       "Completed": 6
     }
   ],
@@ -19523,8 +19528,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:08:30.2761673+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:09:06.6816866+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:59:26.5116559+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:08:30.2762883+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:00:38.1425124+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:09:06.6818288+00:00"
 }

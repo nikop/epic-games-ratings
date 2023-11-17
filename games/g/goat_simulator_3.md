@@ -11,7 +11,7 @@ Rating: 4.84 (Ranked 51)
 | I Watched the Intro | 57.00% | ~143,019 |
 | Covert Consortium | 55.00% | ~138,001 |
 | Goat Queen | 53.00% | ~132,983 |
-| Reach the Stratosphere | 50.00% | ~125,456 |
+| Reach the Stratosphere | 51.00% | ~127,965 |
 | Synchronization Complete | 47.00% | ~117,928 |
 | Secret Society | 45.00% | ~112,910 |
 | Shadow Syndicate | 38.00% | ~95,346 |

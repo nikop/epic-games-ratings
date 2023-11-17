@@ -937,9 +937,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 538031,
+  "EOS_Progressed": 538033,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24772,6 +24772,11 @@
       "Time": "2023-11-17T04:03:57.2159808+00:00",
       "NumProgressed": 538031,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T05:04:36.8476301+00:00",
+      "NumProgressed": 538033,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -24783,7 +24788,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145268
+      "UsersEstimate": 145269
     },
     {
       "ID": "Backdoor",
@@ -24879,7 +24884,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 209832
+      "UsersEstimate": 209833
     },
     {
       "ID": "DeadlyAssassin",
@@ -24927,7 +24932,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75324
+      "UsersEstimate": 75325
     },
     {
       "ID": "Handy",
@@ -24935,7 +24940,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 220593
+      "UsersEstimate": 220594
     },
     {
       "ID": "HoldingYourOwn",
@@ -24983,7 +24988,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43042
+      "UsersEstimate": 43043
     },
     {
       "ID": "OnTheButton",
@@ -25031,7 +25036,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 408904
+      "UsersEstimate": 408905
     },
     {
       "ID": "ProPlayer",
@@ -25071,7 +25076,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75324
+      "UsersEstimate": 75325
     },
     {
       "ID": "RockAndHighRoller",
@@ -25103,7 +25108,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43042
+      "UsersEstimate": 43043
     },
     {
       "ID": "ThreeWay",
@@ -25127,7 +25132,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43042
+      "UsersEstimate": 43043
     },
     {
       "ID": "WHIP",
@@ -25142,7 +25147,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 538031,
+      "Progressed": 538033,
       "Completed": 2
     }
   ],
@@ -25150,8 +25155,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-16T02:20:18.0911681+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:03:57.2159805+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:04:36.8476298+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:00.8700093+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:58:00.3412846+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:03:57.2161197+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:58:25.6452274+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:04:36.8477806+00:00"
 }

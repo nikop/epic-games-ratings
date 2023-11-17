@@ -6,14 +6,14 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~14,945 |
+| Initiation | 28.00% | ~14,946 |
 | Student | 21.00% | ~11,209 |
 | Knower | 16.00% | ~8,540 |
 | Aspen Tree | 14.00% | ~7,473 |
 | Healer | 14.00% | ~7,473 |
 | Listener | 14.00% | ~7,473 |
 | Soldier | 12.00% | ~6,405 |
-| Scientist | 11.00% | ~5,871 |
+| Scientist | 11.00% | ~5,872 |
 | Cow Level | 10.00% | ~5,338 |
 | Water | 10.00% | ~5,338 |
 | Old Friend | 9.00% | ~4,804 |
@@ -34,12 +34,12 @@ Number of Ratings: 96  (23.09.2022)
 | Dead Friend | 7.00% | ~3,736 |
 | Researcher | 7.00% | ~3,736 |
 | Savvy | 7.00% | ~3,736 |
-| Encyclopedist | 6.00% | ~3,202 |
-| Witch | 6.00% | ~3,202 |
-| Old Spirits | 6.00% | ~3,202 |
-| Sinner | 6.00% | ~3,202 |
-| Folklorist | 6.00% | ~3,202 |
-| Keeper of Knowledge | 6.00% | ~3,202 |
+| Encyclopedist | 6.00% | ~3,203 |
+| Witch | 6.00% | ~3,203 |
+| Old Spirits | 6.00% | ~3,203 |
+| Sinner | 6.00% | ~3,203 |
+| Folklorist | 6.00% | ~3,203 |
+| Keeper of Knowledge | 6.00% | ~3,203 |
 | Vorsa | 5.00% | ~2,669 |
 | Susanin | 5.00% | ~2,669 |
 | Traveller | 5.00% | ~2,669 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,068 |
 | Word Master | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,375 (Ranked 108)  
+Progressed: 53,378 (Ranked 108)  
 Completed: 50 (0.09%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 50 (0.09%) (Ranked 282)
 | 2023-11-14 | 52,917 | 49 |
 | 2023-11-15 | 53,117 | 50 |
 | 2023-11-16 | 53,331 | 50 |
-| 2023-11-17 | 53,375 | 50 |
+| 2023-11-17 | 53,378 | 50 |
 ## Awards
 Max (Character Customization): 88  (Ranked 377)  
 Sum: 88 (Ranked 452)  

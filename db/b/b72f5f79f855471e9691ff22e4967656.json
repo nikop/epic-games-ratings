@@ -557,9 +557,9 @@
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "drown",
@@ -621,9 +621,9 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "killBoxes50",
@@ -813,9 +813,9 @@
       "ID": "locDungeon1",
       "SetID": "ci65fo0",
       "Name": "The first dungeon",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "locDungeon2",
@@ -845,17 +845,17 @@
       "ID": "locSmith",
       "SetID": "ci65fo0",
       "Name": "The second friend",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "questAntiquities",
@@ -893,9 +893,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "questCemetery",
@@ -1138,8 +1138,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:04:03.4558231+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:04:45.459426+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.7985949+00:00",
-  "LastUpdate_Ratings": "2023-11-17T04:02:28.5488431+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:04:03.455875+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:02:26.7034738+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:04:45.4594985+00:00"
 }

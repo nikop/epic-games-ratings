@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.46,
+  "EOS_Completed_Percentage": 5.45,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2435,6 +2435,11 @@
       "Time": "2023-11-17T01:52:19.846125+00:00",
       "NumProgressed": 568,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-17T05:04:21.8261211+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 25,
@@ -2518,7 +2523,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2550,7 +2555,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2590,7 +2595,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2604,9 +2609,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 176
     },
     {
       "ID": "PROGRESS_N2",
@@ -2622,7 +2627,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PROGRESS_N4",
@@ -2645,14 +2650,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:03:46.5489393+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:04:21.8261208+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:58:41.4893162+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:03:46.5489636+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:59:29.4404854+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:04:21.8261422+00:00"
 }

@@ -16,8 +16,8 @@
 | Aggressive Antivirus | 15.00% | ~165 |
 | Effective Efficiency | 14.00% | ~154 |
 | Unblurred Lines | 12.00% | ~132 |
+| Obsessively Thorough | 12.00% | ~132 |
 | Endlessly Effective | 12.00% | ~132 |
-| Obsessively Thorough | 11.00% | ~121 |
 | What's Behind Every Door? | 6.00% | ~66 |
 | No Stone Unturned | 5.00% | ~55 |
 | Turret Syndrome | 2.00% | ~22 |

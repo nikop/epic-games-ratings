@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 424,
@@ -877,6 +877,6 @@
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
   "LastChanged": "2023-11-11T22:59:19.9226653+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:22.7909764+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:57:47.215202+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:05:33.5982771+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:58:05.2058128+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:06:52.7905362+00:00"
 }

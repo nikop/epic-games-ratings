@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24280,
+  "EOS_Progressed": 24281,
   "EOS_Completed": 463,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23048,6 +23048,11 @@
       "Time": "2023-11-17T04:05:38.6509062+00:00",
       "NumProgressed": 24280,
       "NumCompleted": 463
+    },
+    {
+      "Time": "2023-11-17T05:07:00.1870822+00:00",
+      "NumProgressed": 24281,
+      "NumCompleted": 463
     }
   ],
   "TotalAchievements": 20,
@@ -23155,7 +23160,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -23195,7 +23200,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -23211,22 +23216,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4370
+      "UsersEstimate": 4371
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24280,
+      "Progressed": 24281,
       "Completed": 463
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:05:38.6509058+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:07:00.1870816+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:57:47.2668768+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:05:38.6510182+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:58:05.364803+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:07:00.1872079+00:00"
 }

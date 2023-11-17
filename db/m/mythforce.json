@@ -778,7 +778,7 @@
   ],
   "EOS_Progressed": 4901,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9486,9 +9486,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 686
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9558,8 +9558,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:04:02.1942545+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:04:43.787184+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:59:45.1936753+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:04:02.1943085+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:01:06.9440776+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:04:43.7872329+00:00"
 }

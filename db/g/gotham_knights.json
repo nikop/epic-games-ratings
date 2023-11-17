@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4169,9 +4169,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76526,
+  "EOS_Progressed": 76527,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22829,6 +22829,11 @@
       "Time": "2023-11-17T04:05:45.356467+00:00",
       "NumProgressed": 76526,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-17T05:07:09.1035352+00:00",
+      "NumProgressed": 76527,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22936,7 +22941,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13009
+      "UsersEstimate": 13010
     },
     {
       "ID": "CLAYFACE_1",
@@ -22944,7 +22949,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16070
+      "UsersEstimate": 16071
     },
     {
       "ID": "CLAYFACE_2",
@@ -23000,7 +23005,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9948
+      "UsersEstimate": 9949
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -23048,7 +23053,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9948
+      "UsersEstimate": 9949
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -23064,7 +23069,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21427
+      "UsersEstimate": 21428
     },
     {
       "ID": "FREEZE_1_5",
@@ -23072,7 +23077,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16070
+      "UsersEstimate": 16071
     },
     {
       "ID": "FREEZE_2",
@@ -23184,7 +23189,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39028
+      "UsersEstimate": 39029
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23327,13 +23332,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76526,
+      "Progressed": 76527,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46806,
+      "Progressed": 46807,
       "Completed": 2673
     }
   ],
@@ -23341,8 +23346,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-16T22:59:09.2838644+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:05:45.3564669+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:07:09.1035348+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:59:03.8563878+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:05:45.356588+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:00:03.4211985+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:07:09.1036526+00:00"
 }

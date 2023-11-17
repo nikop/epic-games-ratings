@@ -6,23 +6,23 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~27,651 |
-| The Evilest Evil | 59.00% | ~23,306 |
-| Twistram is devastated | 58.00% | ~22,911 |
-| The Gehenna Stones | 50.00% | ~19,751 |
-| No one has to die today! | 47.00% | ~18,566 |
-| Death and destruction! | 46.00% | ~18,171 |
-| The Swamplanders from the swamplands | 44.00% | ~17,381 |
-| The One-Huge-Army-Building Evil | 41.00% | ~16,196 |
-| Rusty Steel | 41.00% | ~16,196 |
-| Braiiiiins! | 38.00% | ~15,011 |
-| The last burger | 37.00% | ~14,616 |
-| Hands off the Dungeonheart! | 36.00% | ~14,221 |
-| A trip on sea, what fun it can be | 34.00% | ~13,431 |
-| Damned good | 33.00% | ~13,036 |
-| Stock Market Crash | 31.00% | ~12,246 |
-| Factory farming | 31.00% | ~12,246 |
-| Not-So-Overproud | 30.00% | ~11,851 |
+| The Shadow strikes | 70.00% | ~27,654 |
+| The Evilest Evil | 59.00% | ~23,308 |
+| Twistram is devastated | 58.00% | ~22,913 |
+| The Gehenna Stones | 50.00% | ~19,752 |
+| No one has to die today! | 47.00% | ~18,567 |
+| Death and destruction! | 46.00% | ~18,172 |
+| The Swamplanders from the swamplands | 44.00% | ~17,382 |
+| The One-Huge-Army-Building Evil | 41.00% | ~16,197 |
+| Rusty Steel | 41.00% | ~16,197 |
+| Braiiiiins! | 38.00% | ~15,012 |
+| The last burger | 37.00% | ~14,617 |
+| Hands off the Dungeonheart! | 36.00% | ~14,222 |
+| A trip on sea, what fun it can be | 34.00% | ~13,432 |
+| Damned good | 33.00% | ~13,037 |
+| Stock Market Crash | 31.00% | ~12,247 |
+| Factory farming | 31.00% | ~12,247 |
+| Not-So-Overproud | 30.00% | ~11,852 |
 | Shadow hunter | 29.00% | ~11,456 |
 | For a handfull of Catapults | 28.00% | ~11,061 |
 | Thirst quencher | 27.00% | ~10,666 |
@@ -30,21 +30,21 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~10,271 |
 | Tide Master | 26.00% | ~10,271 |
 | Difficult family relationships | 25.00% | ~9,876 |
-| MASS-O-BOT | 24.00% | ~9,480 |
-| Prepare the grave | 24.00% | ~9,480 |
-| Angel of Fire | 24.00% | ~9,480 |
-| Where there is Light, there is Shadow | 23.00% | ~9,085 |
-| At the foot of Mount Destiny | 22.00% | ~8,690 |
-| The Force disturbed | 21.00% | ~8,295 |
-| The Victorious Evil | 20.00% | ~7,900 |
-| Chorus of damnation | 19.00% | ~7,505 |
-| We don’t have time! | 19.00% | ~7,505 |
-| The Stones’ Power | 18.00% | ~7,110 |
-| Flat as a pancake | 17.00% | ~6,715 |
-| Lifeguard | 17.00% | ~6,715 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~5,925 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~4,740 |
-| Then let them eat cake! | 12.00% | ~4,740 |
+| MASS-O-BOT | 24.00% | ~9,481 |
+| Prepare the grave | 24.00% | ~9,481 |
+| Angel of Fire | 24.00% | ~9,481 |
+| Where there is Light, there is Shadow | 23.00% | ~9,086 |
+| At the foot of Mount Destiny | 22.00% | ~8,691 |
+| The Force disturbed | 21.00% | ~8,296 |
+| The Victorious Evil | 20.00% | ~7,901 |
+| Chorus of damnation | 19.00% | ~7,506 |
+| We don’t have time! | 19.00% | ~7,506 |
+| The Stones’ Power | 18.00% | ~7,111 |
+| Flat as a pancake | 17.00% | ~6,716 |
+| Lifeguard | 17.00% | ~6,716 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~5,926 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~4,741 |
+| Then let them eat cake! | 12.00% | ~4,741 |
 | The White Knight | 10.00% | ~3,950 |
 | Please, no interruptions! | 10.00% | ~3,950 |
 | Use the terrain | 9.00% | ~3,555 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~790 |
 | Sacrifices! | 2.00% | ~790 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,502 (Ranked 119)  
+Progressed: 39,505 (Ranked 119)  
 Completed: 315 (0.80%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 315 (0.80%) (Ranked 176)
 | 2023-11-14 | 39,089 | 314 |
 | 2023-11-15 | 39,293 | 314 |
 | 2023-11-16 | 39,479 | 315 |
-| 2023-11-17 | 39,502 | 315 |
+| 2023-11-17 | 39,505 | 315 |
 ## Awards
 Max (Great for Beginners): 372  (Ranked 235)  
 Sum: 2,748 (Ranked 181)  

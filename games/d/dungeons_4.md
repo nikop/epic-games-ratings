@@ -22,8 +22,8 @@
 | The Ascent | 42.00% | ~119 |
 | It's Warm and Cozy at Home | 42.00% | ~119 |
 | YOU SHALL NOT PASS! | 39.00% | ~111 |
+| The Big Eaty | 38.00% | ~108 |
 | Hard Work | 37.00% | ~105 |
-| The Big Eaty | 37.00% | ~105 |
 | Pure Dynamite! | 36.00% | ~102 |
 | Mana Cannon | 30.00% | ~85 |
 | “… like son” | 30.00% | ~85 |

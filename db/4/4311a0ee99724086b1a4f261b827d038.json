@@ -563,9 +563,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232671,
+  "EOS_Progressed": 232673,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1197,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13983,6 +13983,11 @@
       "Time": "2023-11-17T04:08:44.5684019+00:00",
       "NumProgressed": 232671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T05:09:26.9689453+00:00",
+      "NumProgressed": 232673,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -14059,7 +14064,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20940
+      "UsersEstimate": 20941
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -14266,7 +14271,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 232671,
+      "Progressed": 232673,
       "Completed": 0
     }
   ],
@@ -14274,8 +14279,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-16T21:58:00.3093592+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:08:44.5684017+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:09:26.968945+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:41.0208311+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:57:58.4102783+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:08:44.5684707+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:58:22.783302+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:09:26.9690133+00:00"
 }

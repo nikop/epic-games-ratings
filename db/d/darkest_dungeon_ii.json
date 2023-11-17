@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -8946,9 +8946,9 @@
       "Count": 965
     }
   ],
-  "EOS_Progressed": 123755,
+  "EOS_Progressed": 123756,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31106,6 +31106,11 @@
       "Time": "2023-11-17T04:06:08.0255552+00:00",
       "NumProgressed": 123755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T05:07:41.1211771+00:00",
+      "NumProgressed": 123756,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -31117,7 +31122,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 87866
+      "UsersEstimate": 87867
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -31149,7 +31154,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 76728
+      "UsersEstimate": 76729
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -31157,7 +31162,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 84153
+      "UsersEstimate": 84154
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -31165,7 +31170,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 82916
+      "UsersEstimate": 82917
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -31173,7 +31178,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 81678
+      "UsersEstimate": 81679
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -31197,7 +31202,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 84153
+      "UsersEstimate": 84154
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -31245,7 +31250,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 21038
+      "UsersEstimate": 21039
     },
     {
       "ID": "combat_kill_cadavers",
@@ -31389,7 +31394,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 21038
+      "UsersEstimate": 21039
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -31413,7 +31418,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 74253
+      "UsersEstimate": 74254
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -31429,7 +31434,7 @@
       "Name": "Harvest Festival",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 45789
+      "UsersEstimate": 45790
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -31485,7 +31490,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 85391
+      "UsersEstimate": 85392
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -31509,7 +31514,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 115092
+      "UsersEstimate": 115093
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -31525,7 +31530,7 @@
       "Name": "FNG",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 37126
+      "UsersEstimate": 37127
     },
     {
       "ID": "inn_visit_all_variants",
@@ -31573,15 +31578,15 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 82916
+      "UsersEstimate": 82917
     },
     {
       "ID": "run_victory_act02",
       "SetID": "64l4lke",
       "Name": "Hot Air",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 44552
+      "UsersEstimate": 45790
     },
     {
       "ID": "run_victory_act03",
@@ -31636,15 +31641,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 123755,
+      "Progressed": 123756,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-17T03:59:02.7683553+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:06:08.0255548+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:07:41.1211768+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:09.1017928+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:59:02.7683557+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:06:08.0256879+00:00"
+  "LastUpdate_Ratings": "2023-11-17T05:00:01.5964643+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:07:41.121296+00:00"
 }

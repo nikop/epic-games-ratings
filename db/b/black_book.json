@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -651,9 +651,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 53375,
+  "EOS_Progressed": 53378,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1780,
+  "EOS_NewPlayers": 1775,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9926,6 +9926,11 @@
       "Time": "2023-11-17T04:05:19.1825184+00:00",
       "NumProgressed": 53375,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-17T05:06:31.7085507+00:00",
+      "NumProgressed": 53378,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -10058,7 +10063,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5871
+      "UsersEstimate": 5872
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -10066,7 +10071,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "FERN",
@@ -10130,7 +10135,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "INITIATION",
@@ -10138,7 +10143,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 14945
+      "UsersEstimate": 14946
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -10202,7 +10207,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -10242,7 +10247,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "SUSANIN",
@@ -10274,7 +10279,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "TRAVELLER",
@@ -10330,22 +10335,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 53375,
+      "Progressed": 53378,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-17T02:20:19.7818304+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:05:19.1825182+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:06:31.7085503+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:23.8903688+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:57:31.4479704+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:05:19.1825781+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:57:41.1314749+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:06:31.7086366+00:00"
 }

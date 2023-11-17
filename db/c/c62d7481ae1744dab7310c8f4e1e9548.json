@@ -562,9 +562,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Destilat",
@@ -674,9 +674,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Pejsek",
@@ -801,8 +801,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-11-17T04:06:14.2688675+00:00",
+  "LastChanged_Achievements": "2023-11-17T05:07:49.7143269+00:00",
   "LastUpdate_AppInfo": "2023-11-11T02:44:31.1099938+00:00",
-  "LastUpdate_Ratings": "2023-11-17T03:57:12.1910804+00:00",
-  "LastUpdate_Achievements": "2023-11-17T04:06:14.2688871+00:00"
+  "LastUpdate_Ratings": "2023-11-17T04:57:11.3307539+00:00",
+  "LastUpdate_Achievements": "2023-11-17T05:07:49.7143521+00:00"
 }
