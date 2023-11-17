@@ -459,9 +459,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5398,
+  "EOS_Progressed": 5399,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-11-16T19:05:31.879725+00:00",
       "NumProgressed": 5398,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-17T09:05:24.120172+00:00",
+      "NumProgressed": 5399,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7311,9 +7316,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "3",
@@ -7624,13 +7629,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5398,
+      "Progressed": 5399,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5398,
+      "Progressed": 5399,
       "Completed": 7
     }
   ],
@@ -7638,8 +7643,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:06:31.8068333+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:05:24.1201717+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:59:17.3452874+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:06:31.8069136+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:58:43.2900852+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:05:24.1202593+00:00"
 }

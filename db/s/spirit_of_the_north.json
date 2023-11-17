@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74374,
+  "EOS_Progressed": 74375,
   "EOS_Completed": 393,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -23523,6 +23523,11 @@
       "Time": "2023-11-17T08:09:05.9427615+00:00",
       "NumProgressed": 74374,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-11-17T09:08:42.6305637+00:00",
+      "NumProgressed": 74375,
+      "NumCompleted": 393
     }
   ],
   "TotalAchievements": 24,
@@ -23550,7 +23555,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50574
+      "UsersEstimate": 50575
     },
     {
       "ID": "BEST_FRIENDS",
@@ -23566,7 +23571,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19337
+      "UsersEstimate": 19338
     },
     {
       "ID": "ERADICATE",
@@ -23590,7 +23595,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21568
+      "UsersEstimate": 21569
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -23606,7 +23611,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13387
+      "UsersEstimate": 13388
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -23614,7 +23619,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39418
+      "UsersEstimate": 39419
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -23638,7 +23643,7 @@
       "Name": "NONE FORGOTTEN",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "NORTHERN_LIGHTS",
@@ -23725,7 +23730,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74374,
+      "Progressed": 74375,
       "Completed": 393
     }
   ],
@@ -23733,8 +23738,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:09:05.9427612+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:08:42.6305634+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.6683476+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:58:13.4745491+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:09:05.942853+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:57:58.4052947+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:08:42.6307019+00:00"
 }

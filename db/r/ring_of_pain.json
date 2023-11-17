@@ -3412,9 +3412,9 @@
       "Count": 744
     }
   ],
-  "EOS_Progressed": 239790,
+  "EOS_Progressed": 239792,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25262,6 +25262,11 @@
       "Time": "2023-11-17T08:09:57.2812905+00:00",
       "NumProgressed": 239790,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-17T09:09:22.2986836+00:00",
+      "NumProgressed": 239792,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25823,9 +25828,9 @@
       "ID": "LIGHTENDING",
       "SetID": "5l8oe0h",
       "Name": "Illuminate, Eliminate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -26376,13 +26381,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239790,
+      "Progressed": 239792,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1270,
+      "Progressed": 1272,
       "Completed": 381
     }
   ],
@@ -26390,8 +26395,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-17T07:57:55.8583112+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:09:57.2812901+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:09:22.2986833+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:57:55.8583118+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:09:57.2815171+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:57:45.865983+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:09:22.2989121+00:00"
 }

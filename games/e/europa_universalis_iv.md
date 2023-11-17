@@ -139,6 +139,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Power of Three | 0.10% | ~457 |
 | The Princess is in this Castle | 0.10% | ~457 |
 | The Re-Reconquista | 0.10% | ~457 |
+| The Uncommonwealth | 0.10% | ~457 |
 | The White Company | 0.10% | ~457 |
 | This is fine | 0.10% | ~457 |
 | This is My Faith | 0.10% | ~457 |
@@ -344,7 +345,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Rising Sun | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
-| The Uncommonwealth | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,185 (Ranked 41)  
+Progressed: 457,203 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,7 +581,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
-| 2023-11-17 | 457,185 | 1 |
+| 2023-11-17 | 457,203 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,865 (Ranked 24)  

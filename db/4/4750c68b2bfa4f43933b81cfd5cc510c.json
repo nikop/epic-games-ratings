@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "Count": 272
     }
   ],
-  "EOS_Progressed": 52975,
+  "EOS_Progressed": 52976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8398,6 +8398,11 @@
       "Time": "2023-11-17T08:06:30.8923112+00:00",
       "NumProgressed": 52975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T09:05:23.3725518+00:00",
+      "NumProgressed": 52976,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -8434,7 +8439,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 33374
+      "UsersEstimate": 33375
     },
     {
       "ID": "achievement_13",
@@ -8450,7 +8455,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 27017
+      "UsersEstimate": 27018
     },
     {
       "ID": "achievement_15",
@@ -8466,7 +8471,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 22779
+      "UsersEstimate": 22780
     },
     {
       "ID": "achievement_17",
@@ -8474,7 +8479,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 31785
+      "UsersEstimate": 31786
     },
     {
       "ID": "achievement_18",
@@ -8498,7 +8503,7 @@
       "Name": "Teamwork works",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "achievement_20",
@@ -8514,7 +8519,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 44499
+      "UsersEstimate": 44500
     },
     {
       "ID": "achievement_22",
@@ -8690,7 +8695,7 @@
       "Name": "On the way up",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "achievement_6",
@@ -8698,7 +8703,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 31255
+      "UsersEstimate": 31256
     },
     {
       "ID": "achievement_7",
@@ -8714,7 +8719,7 @@
       "Name": "Power Shot",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 39731
+      "UsersEstimate": 39732
     },
     {
       "ID": "achievement_9",
@@ -8729,7 +8734,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 52975,
+      "Progressed": 52976,
       "Completed": 0
     }
   ],
@@ -8737,8 +8742,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-16T20:59:36.1402943+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:06:30.8923108+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:05:23.3725514+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.7483649+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:00:31.7229018+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:06:30.8923674+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:59:35.6078463+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:05:23.3726395+00:00"
 }

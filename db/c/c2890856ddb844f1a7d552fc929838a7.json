@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2403,9 +2403,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 30,
-      "UsersEstimate": 889
+      "UsersEstimate": 898
     },
     {
       "ID": "AC02",
@@ -2772,8 +2772,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:04:52.4614266+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:04:10.7980934+00:00",
   "LastUpdate_AppInfo": "2023-11-14T23:57:14.807598+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:57:23.2392876+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:04:52.4614705+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:57:22.3560976+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:04:10.7981292+00:00"
 }

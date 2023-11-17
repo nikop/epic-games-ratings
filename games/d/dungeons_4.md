@@ -7,7 +7,7 @@
 | The Last Stand | 86.00% | ~245 |
 | Thalya – Simply Immortal | 86.00% | ~245 |
 | For the Horde! | 81.00% | ~231 |
-| Hammer Time, Round Two | 79.00% | ~225 |
+| Hammer Time, Round Two | 80.00% | ~228 |
 | The Hellwoods | 73.00% | ~208 |
 | The Plains of Strothalm | 68.00% | ~194 |
 | Thalya's Concentrated Fury | 67.00% | ~191 |
@@ -15,7 +15,7 @@
 | Master of Magic | 62.00% | ~177 |
 | Bad Elves Go Everywhere | 61.00% | ~174 |
 | Unicorn steaks – fresh off the hoof! | 57.00% | ~162 |
-| Magic Accidents | 55.00% | ~157 |
+| Magic Accidents | 56.00% | ~160 |
 | Minions, Minions! | 54.00% | ~154 |
 | Heroes’ Gorge | 53.00% | ~151 |
 | Trap Master | 52.00% | ~148 |
@@ -26,7 +26,7 @@
 | Hard Work | 37.00% | ~105 |
 | Pure Dynamite! | 35.00% | ~100 |
 | Mana Cannon | 30.00% | ~86 |
-| “… like son” | 29.00% | ~83 |
+| “… like son” | 30.00% | ~86 |
 | Dungeonlord Gorgu | 25.00% | ~71 |
 | Shame! Shame! Shame! | 23.00% | ~66 |
 | The Cathedral of Light | 22.00% | ~63 |
@@ -45,7 +45,7 @@
 | The Finitude Drill | 8.00% | ~23 |
 | My Little Torture Chamber | 7.00% | ~20 |
 | Bonus Evilness | 7.00% | ~20 |
-| Sabotage! | 6.00% | ~17 |
+| Sabotage! | 7.00% | ~20 |
 | Doom Hill | 6.00% | ~17 |
 | Brimstone Shaken, Not Stirred | 6.00% | ~17 |
 | Mirror, Mirror | 5.00% | ~14 |

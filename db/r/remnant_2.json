@@ -4347,10 +4347,10 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 222085,
-  "EOS_Completed": 466,
-  "EOS_NewPlayers": 2867,
-  "EOS_NewCompleters": 31,
+  "EOS_Progressed": 222101,
+  "EOS_Completed": 467,
+  "EOS_NewPlayers": 2877,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -18482,6 +18482,11 @@
       "Time": "2023-11-17T08:08:41.9368109+00:00",
       "NumProgressed": 222085,
       "NumCompleted": 466
+    },
+    {
+      "Time": "2023-11-17T09:08:24.7868338+00:00",
+      "NumProgressed": 222101,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18894,7 +18899,7 @@
       "Name": "Regicide",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -18910,7 +18915,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -18933,13 +18938,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 222085,
-      "Completed": 466
+      "Progressed": 222101,
+      "Completed": 467
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 1250,
+      "Progressed": 1266,
       "Completed": 101
     }
   ],
@@ -18947,8 +18952,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-17T06:03:32.740986+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:08:41.9368103+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:08:24.7868335+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-17T08:03:11.8850283+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:08:41.9369621+00:00"
+  "LastUpdate_Ratings": "2023-11-17T09:02:57.2993592+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:08:24.7869321+00:00"
 }

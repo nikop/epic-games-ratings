@@ -5,7 +5,7 @@
   "Ranking_Rating": 925,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
-  "Ranking_EOS_Progress": 97,
+  "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 125,
@@ -4169,9 +4169,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76531,
+  "EOS_Progressed": 76532,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22844,6 +22844,11 @@
       "Time": "2023-11-17T07:10:07.1777104+00:00",
       "NumProgressed": 76531,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-17T09:05:49.3094595+00:00",
+      "NumProgressed": 76532,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -23231,7 +23236,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20663
+      "UsersEstimate": 20664
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23311,7 +23316,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8418
+      "UsersEstimate": 8419
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -23342,13 +23347,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76531,
+      "Progressed": 76532,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46811,
+      "Progressed": 46812,
       "Completed": 2673
     }
   ],
@@ -23356,8 +23361,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-16T22:59:09.2838644+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:07:06.5424156+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:05:49.3094589+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:59:44.7013991+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:07:06.5425439+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:59:02.5783577+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:05:49.3095896+00:00"
 }

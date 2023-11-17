@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.45,
+  "EOS_Completed_Percentage": 5.44,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2440,6 +2440,11 @@
       "Time": "2023-11-17T05:04:21.8261211+00:00",
       "NumProgressed": 569,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-17T09:03:51.8230539+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 25,
@@ -2459,7 +2464,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "META_ALL_LINK",
@@ -2563,7 +2568,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2587,7 +2592,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2611,7 +2616,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "PROGRESS_N2",
@@ -2619,7 +2624,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "PROGRESS_N3",
@@ -2635,7 +2640,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PROGRESS_N5",
@@ -2650,14 +2655,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-17T08:04:27.1082634+00:00",
+  "LastChanged_Achievements": "2023-11-17T09:03:51.8230534+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-17T07:59:13.9835787+00:00",
-  "LastUpdate_Achievements": "2023-11-17T08:04:27.1082908+00:00"
+  "LastUpdate_Ratings": "2023-11-17T08:58:40.9300811+00:00",
+  "LastUpdate_Achievements": "2023-11-17T09:03:51.8230799+00:00"
 }

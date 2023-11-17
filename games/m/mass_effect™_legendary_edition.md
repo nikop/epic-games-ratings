@@ -60,6 +60,7 @@
 | Big Game Hunter | 29.00% | ~372 |
 | Revenge! | 29.00% | ~372 |
 | Heart of Darkness | 29.00% | ~372 |
+| Bringer of War | 29.00% | ~372 |
 | Focused | 28.00% | ~359 |
 | Archivist | 28.00% | ~359 |
 | Friend or Foe | 28.00% | ~359 |
@@ -68,7 +69,6 @@
 | Treason | 28.00% | ~359 |
 | Agent | 28.00% | ~359 |
 | Digital Exorcist | 28.00% | ~359 |
-| Bringer of War | 28.00% | ~359 |
 | Mission Accomplished | 27.00% | ~346 |
 | Suicide Mission | 27.00% | ~346 |
 | Against All Odds | 27.00% | ~346 |
