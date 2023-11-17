@@ -45,7 +45,7 @@
 | 41 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
-| 46 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 8.77% |
+| 46 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 8.75% |
 | 47 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 48 | [Anna's Quest](games/a/anna's_quest.md) | 8.57% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.08% |
@@ -82,8 +82,8 @@
 | 80 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.34% |
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.90% |
-| 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
+| 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
+| 83 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.89% |
 | 85 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 86 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
 | 87 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
@@ -111,7 +111,7 @@
 | 109 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 110 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.65% |
 | 111 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.63% |
-| 111 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.63% |
+| 112 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
 | 113 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.59% |
 | 114 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 115 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
