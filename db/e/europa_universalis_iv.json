@@ -12165,9 +12165,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457049,
+  "EOS_Progressed": 457065,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6245,
+  "EOS_NewPlayers": 6241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36255,6 +36255,11 @@
       "Time": "2023-11-16T23:04:41.2398163+00:00",
       "NumProgressed": 457049,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-17T00:04:42.417916+00:00",
+      "NumProgressed": 457065,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37552,9 +37557,9 @@
       "ID": "achievement_king_of_jerusalem",
       "SetID": "8p2n7he",
       "Name": "King of Jerusalem",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_kingdom_of_god",
@@ -37960,9 +37965,9 @@
       "ID": "achievement_on_the_rhodes_again",
       "SetID": "8p2n7he",
       "Name": "On the Rhodes Again",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_one_faith",
@@ -39169,21 +39174,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457049,
+      "Progressed": 457065,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457049,
+      "Progressed": 457065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-16T21:58:29.4316264+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:04:41.2398156+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:04:42.4179152+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:58:28.6734568+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:04:41.2408349+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:58:23.4848355+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:04:42.4190194+00:00"
 }

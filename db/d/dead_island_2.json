@@ -6535,10 +6535,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11430,
       "NumberOfAwardsMax": 7498
+    },
+    {
+      "Time": "2023-11-16T23:58:34.0128313+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11435,
+      "NumberOfAwardsMax": 7498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11430,
+  "NumberOfAwards": 11435,
   "NumberOfAwardsMax": 7498,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6552,7 +6558,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 546
+      "Count": 551
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6597,9 +6603,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 719387,
+  "EOS_Progressed": 719410,
   "EOS_Completed": 2399,
-  "EOS_NewPlayers": 3734,
+  "EOS_NewPlayers": 3740,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30642,6 +30648,11 @@
       "Time": "2023-11-16T23:05:19.6701374+00:00",
       "NumProgressed": 719387,
       "NumCompleted": 2399
+    },
+    {
+      "Time": "2023-11-17T00:05:22.6716436+00:00",
+      "NumProgressed": 719410,
+      "NumCompleted": 2399
     }
   ],
   "TotalAchievements": 51,
@@ -30717,7 +30728,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6474
+      "UsersEstimate": 6475
     },
     {
       "ID": "ach_contender",
@@ -30773,7 +30784,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6474
+      "UsersEstimate": 6475
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -31060,22 +31071,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719387,
+      "Progressed": 719410,
       "Completed": 2399
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 44929,
+      "Progressed": 44952,
       "Completed": 36548
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-16T22:58:38.9569083+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:05:19.6701369+00:00",
+  "LastChanged": "2023-11-16T23:58:34.0128311+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:05:22.6716433+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:58:38.9569089+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:05:19.6702866+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:58:34.0128316+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:05:22.6718144+00:00"
 }

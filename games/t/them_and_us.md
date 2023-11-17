@@ -14,8 +14,8 @@
 | OUTRAGE | 18.00% | ~55 |
 | This Coffin Has Your Name On It! | 15.00% | ~46 |
 | Alone In The Dark | 14.00% | ~43 |
+| Parasite Exterminated | 14.00% | ~43 |
 | The Cultists | 14.00% | ~43 |
-| Parasite Exterminated | 13.00% | ~40 |
 | The Forgotten Tower | 13.00% | ~40 |
 | Trapped | 11.00% | ~34 |
 | Lover of classics | 10.00% | ~30 |

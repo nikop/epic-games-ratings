@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 6.00% | ~921 |
 | Play a Single Player Game | 6.00% | ~921 |
-| Explorer | 5.00% | ~767 |
-| Friendly Family | 5.00% | ~767 |
+| Explorer | 5.00% | ~768 |
+| Friendly Family | 5.00% | ~768 |
 | Able | 4.00% | ~614 |
 | Architect | 4.00% | ~614 |
 | Intrepid | 4.00% | ~614 |
@@ -73,51 +73,51 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 2.00% | ~307 |
 | Kushite Pyramids | 2.00% | ~307 |
 | Kushite Paganism | 2.00% | ~307 |
-| Hanging Gardens in Babylon | 1.00% | ~153 |
-| Beloved | 1.00% | ~153 |
-| Capable | 1.00% | ~153 |
-| Conqueror | 1.00% | ~153 |
-| Invincible | 1.00% | ~153 |
-| Lion | 1.00% | ~153 |
-| Subjugator | 1.00% | ~153 |
-| Good Difficulty | 1.00% | ~153 |
-| Strong Difficulty | 1.00% | ~153 |
-| Hunters | 1.00% | ~153 |
-| Landowners | 1.00% | ~153 |
-| Patrons | 1.00% | ~153 |
-| Riders | 1.00% | ~153 |
-| Statesmen | 1.00% | ~153 |
-| Traders | 1.00% | ~153 |
-| Hittite Iron | 1.00% | ~153 |
-| Circus Maximus | 1.00% | ~153 |
-| Hagia Sophia | 1.00% | ~153 |
-| Church of the Holy Sepulchre | 1.00% | ~153 |
-| Temple of Solomon | 1.00% | ~153 |
-| Mausoleum | 1.00% | ~153 |
-| Pantheon | 1.00% | ~153 |
-| Via Recta Souk | 1.00% | ~153 |
-| Learn to Play 3 | 1.00% | ~153 |
-| Learn to Play 4 | 1.00% | ~153 |
-| Carthage | 1.00% | ~153 |
-| Greece | 1.00% | ~153 |
-| One True Faith | 1.00% | ~153 |
-| Power to the People | 1.00% | ~153 |
-| Persian Paganism | 1.00% | ~153 |
-| Building Wonders | 1.00% | ~153 |
-| Economic Reform | 1.00% | ~153 |
-| Military Prestige | 1.00% | ~153 |
-| Dualism | 1.00% | ~153 |
-| Gnosticism | 1.00% | ~153 |
-| Legalism | 1.00% | ~153 |
-| Redemption | 1.00% | ~153 |
-| Revelation | 1.00% | ~153 |
-| Cimmerian Archer | 1.00% | ~153 |
-| Legionary | 1.00% | ~153 |
-| Phalangite | 1.00% | ~153 |
-| Ambition Victory | 1.00% | ~153 |
-| Double Victory | 1.00% | ~153 |
-| Points Victory | 1.00% | ~153 |
-| The Clergy | 1.00% | ~153 |
+| Hanging Gardens in Babylon | 1.00% | ~154 |
+| Beloved | 1.00% | ~154 |
+| Capable | 1.00% | ~154 |
+| Conqueror | 1.00% | ~154 |
+| Invincible | 1.00% | ~154 |
+| Lion | 1.00% | ~154 |
+| Subjugator | 1.00% | ~154 |
+| Good Difficulty | 1.00% | ~154 |
+| Strong Difficulty | 1.00% | ~154 |
+| Hunters | 1.00% | ~154 |
+| Landowners | 1.00% | ~154 |
+| Patrons | 1.00% | ~154 |
+| Riders | 1.00% | ~154 |
+| Statesmen | 1.00% | ~154 |
+| Traders | 1.00% | ~154 |
+| Hittite Iron | 1.00% | ~154 |
+| Circus Maximus | 1.00% | ~154 |
+| Hagia Sophia | 1.00% | ~154 |
+| Church of the Holy Sepulchre | 1.00% | ~154 |
+| Temple of Solomon | 1.00% | ~154 |
+| Mausoleum | 1.00% | ~154 |
+| Pantheon | 1.00% | ~154 |
+| Via Recta Souk | 1.00% | ~154 |
+| Learn to Play 3 | 1.00% | ~154 |
+| Learn to Play 4 | 1.00% | ~154 |
+| Carthage | 1.00% | ~154 |
+| Greece | 1.00% | ~154 |
+| One True Faith | 1.00% | ~154 |
+| Power to the People | 1.00% | ~154 |
+| Persian Paganism | 1.00% | ~154 |
+| Building Wonders | 1.00% | ~154 |
+| Economic Reform | 1.00% | ~154 |
+| Military Prestige | 1.00% | ~154 |
+| Dualism | 1.00% | ~154 |
+| Gnosticism | 1.00% | ~154 |
+| Legalism | 1.00% | ~154 |
+| Redemption | 1.00% | ~154 |
+| Revelation | 1.00% | ~154 |
+| Cimmerian Archer | 1.00% | ~154 |
+| Legionary | 1.00% | ~154 |
+| Phalangite | 1.00% | ~154 |
+| Ambition Victory | 1.00% | ~154 |
+| Double Victory | 1.00% | ~154 |
+| Points Victory | 1.00% | ~154 |
+| The Clergy | 1.00% | ~154 |
 | Devout | 0.90% | ~138 |
 | Ready | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,349 (Ranked 147)  
+Progressed: 15,350 (Ranked 147)  
 Completed: 5 (0.03%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,6 +560,7 @@ Completed: 5 (0.03%) (Ranked 316)
 | 2023-11-14 | 15,324 | 5 |
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
+| 2023-11-17 | 15,350 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 216)  

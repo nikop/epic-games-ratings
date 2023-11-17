@@ -12,8 +12,8 @@ Rating: 4.06 (Ranked 975)
 | No More Names | 66.00% | ~184 |
 | Initiate | 54.00% | ~151 |
 | Thrada-Kul | 49.00% | ~137 |
-| Gravity-Challenged Rocks | 38.00% | ~106 |
-| Soldier | 32.00% | ~89 |
+| Gravity-Challenged Rocks | 39.00% | ~109 |
+| Soldier | 33.00% | ~92 |
 | All the Major Food Groups | 32.00% | ~89 |
 | Beggars Would Ride | 29.00% | ~81 |
 | Control is an Illusion | 28.00% | ~78 |

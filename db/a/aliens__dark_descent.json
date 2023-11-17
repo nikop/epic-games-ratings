@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5951,9 +5951,9 @@
       "ID": "ACH_MARINE_PROSTHESIS",
       "SetID": "816efe",
       "Name": "Chalk It Up To Experience",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_MAX_ALL_CLASSES",
@@ -6184,8 +6184,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-12T04:58:46.5147399+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:04:48.0249374+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:04:49.9832638+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4620944+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:57:48.779028+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:04:48.0249919+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:57:41.9883585+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:04:49.983329+00:00"
 }

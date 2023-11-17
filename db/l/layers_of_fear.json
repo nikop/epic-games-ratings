@@ -454,9 +454,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "decrypt_one_myth",
@@ -478,9 +478,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "do_what_you_have_to",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:05:40.4428815+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:05:44.0843558+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:59:57.0279237+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:05:40.4429136+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:59:54.4797422+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:05:44.0843965+00:00"
 }

@@ -84,6 +84,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just Resting In My Account | 0.10% | ~457 |
 | A Kaiser not just in name | 0.10% | ~457 |
 | Keep the Flame Burning | 0.10% | ~457 |
+| King of Jerusalem | 0.10% | ~457 |
 | Kingdom of God | 0.10% | ~457 |
 | Krabater | 0.10% | ~457 |
 | Laughingstock | 0.10% | ~457 |
@@ -101,6 +102,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | No Pirates in my Caribbean | 0.10% | ~457 |
 | Not just Pizza | 0.10% | ~457 |
 | Not so sad a state... | 0.10% | ~457 |
+| On the Rhodes Again | 0.10% | ~457 |
 | One Family to Rule them All | 0.10% | ~457 |
 | One King to Rule! | 0.10% | ~457 |
 | One Night in Paris | 0.10% | ~457 |
@@ -249,7 +251,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
-| King of Jerusalem | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
@@ -283,7 +284,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,049 (Ranked 41)  
+Progressed: 457,065 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -581,6 +581,7 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 455,766 | 1 |
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
+| 2023-11-17 | 457,065 | 1 |
 ## Awards
 Max (Educational): 7,026  (Ranked 54)  
 Sum: 57,847 (Ranked 24)  

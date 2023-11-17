@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470929,
+  "EOS_Progressed": 470930,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22613,6 +22613,11 @@
       "Time": "2023-11-16T23:09:03.2307039+00:00",
       "NumProgressed": 470929,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-17T00:09:15.8021232+00:00",
+      "NumProgressed": 470930,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22624,7 +22629,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70639
+      "UsersEstimate": 70640
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -22632,7 +22637,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70639
+      "UsersEstimate": 70640
     },
     {
       "ID": "achievement_first_death",
@@ -22648,7 +22653,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103604
+      "UsersEstimate": 103605
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -22656,7 +22661,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70639
+      "UsersEstimate": 70640
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -22712,7 +22717,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310813
+      "UsersEstimate": 310814
     },
     {
       "ID": "achievement_story_landa",
@@ -22792,7 +22797,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70639
+      "UsersEstimate": 70640
     },
     {
       "ID": "achievement_story_neon_child",
@@ -23080,7 +23085,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183662
+      "UsersEstimate": 183663
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23136,7 +23141,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103604
+      "UsersEstimate": 103605
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -23255,21 +23260,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14863,
+      "Progressed": 14864,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470929,
+      "Progressed": 470930,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:09:03.2307034+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:09:15.8021226+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:59:03.1479804+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:09:03.2308859+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:58:58.4368743+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:09:15.8022886+00:00"
 }

@@ -74,10 +74,10 @@
 | Against All Odds | 27.00% | ~346 |
 | Mobilizer | 27.00% | ~346 |
 | Untouchable | 26.00% | ~333 |
+| A House Divided | 26.00% | ~333 |
 | Eye of the Hurricane | 25.00% | ~320 |
 | Giant Killer | 25.00% | ~320 |
 | First Aid Specialist | 25.00% | ~320 |
-| A House Divided | 25.00% | ~320 |
 | World Shaker | 25.00% | ~320 |
 | Weapon Specialist | 23.00% | ~295 |
 | Pathfinder | 23.00% | ~295 |
@@ -98,11 +98,11 @@
 | Pyromaniac | 18.00% | ~231 |
 | No One Left Behind | 18.00% | ~231 |
 | Well Connected | 18.00% | ~231 |
+| Master and Commander | 17.00% | ~218 |
 | Sabotage Specialist | 16.00% | ~205 |
 | Executioner | 16.00% | ~205 |
 | Patriot | 16.00% | ~205 |
 | Legend | 16.00% | ~205 |
-| Master and Commander | 16.00% | ~205 |
 | Electronics Specialist | 15.00% | ~192 |
 | Throw Mastery | 15.00% | ~192 |
 | Long Service Medal | 14.00% | ~179 |

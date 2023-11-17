@@ -381,9 +381,9 @@
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NO_HINTS_USED",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:05:25.7814899+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:05:28.8771056+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.0183019+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:58:01.683051+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:05:25.7815038+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:57:54.8469925+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:05:28.8771262+00:00"
 }

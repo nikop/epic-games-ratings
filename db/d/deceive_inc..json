@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18849,
+  "EOS_Progressed": 18850,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12923,6 +12923,11 @@
       "Time": "2023-11-16T23:05:39.6472233+00:00",
       "NumProgressed": 18849,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-17T00:05:43.2315158+00:00",
+      "NumProgressed": 18850,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12950,7 +12955,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "0004",
@@ -12998,7 +13003,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "0010",
@@ -13054,7 +13059,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "0017",
@@ -13110,7 +13115,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "0024",
@@ -13142,7 +13147,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "0028",
@@ -13150,7 +13155,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "0029",
@@ -13174,7 +13179,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "0032",
@@ -13182,7 +13187,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "0033",
@@ -13190,7 +13195,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "0034",
@@ -13221,7 +13226,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18849,
+      "Progressed": 18850,
       "Completed": 4
     }
   ],
@@ -13229,8 +13234,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:05:39.6472227+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:05:43.2315154+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:53.213288+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:58:32.8567099+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:05:39.647305+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:58:27.6092034+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:05:43.231612+00:00"
 }

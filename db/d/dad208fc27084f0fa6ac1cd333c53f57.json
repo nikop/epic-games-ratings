@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3297,
+  "EOS_Progressed": 3298,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1954,6 +1954,11 @@
       "Time": "2023-11-16T23:06:33.2035664+00:00",
       "NumProgressed": 3297,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-17T00:06:37.9141658+00:00",
+      "NumProgressed": 3298,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -1966,7 +1971,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -1974,7 +1979,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -2014,7 +2019,7 @@
       "Name": "Turn on the TV",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -2093,14 +2098,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 3297,
+      "Progressed": 3298,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:06:33.203566+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:06:37.9141655+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:13.7479812+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:00:11.343401+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:06:33.2035819+00:00"
+  "LastUpdate_Ratings": "2023-11-17T00:00:08.4817888+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:06:37.914184+00:00"
 }

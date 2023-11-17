@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531440,
+  "EOS_Progressed": 531441,
   "EOS_Completed": 499,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22872,6 +22872,11 @@
       "Time": "2023-11-16T23:07:57.0034622+00:00",
       "NumProgressed": 531440,
       "NumCompleted": 499
+    },
+    {
+      "Time": "2023-11-17T00:06:51.0074213+00:00",
+      "NumProgressed": 531441,
+      "NumCompleted": 499
     }
   ],
   "TotalAchievements": 57,
@@ -22899,7 +22904,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372008
+      "UsersEstimate": 372009
     },
     {
       "ID": "12",
@@ -22923,7 +22928,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58458
+      "UsersEstimate": 58459
     },
     {
       "ID": "15",
@@ -22987,7 +22992,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58458
+      "UsersEstimate": 58459
     },
     {
       "ID": "22",
@@ -23115,7 +23120,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85030
+      "UsersEstimate": 85031
     },
     {
       "ID": "37",
@@ -23259,7 +23264,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244462
+      "UsersEstimate": 244463
     },
     {
       "ID": "53",
@@ -23338,15 +23343,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531440,
+      "Progressed": 531441,
       "Completed": 499
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:07:57.0034618+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:06:51.0074209+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.8210185+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:02:35.8164595+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:07:57.0035817+00:00"
+  "LastUpdate_Ratings": "2023-11-17T00:00:32.1201743+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:06:51.0075566+00:00"
 }

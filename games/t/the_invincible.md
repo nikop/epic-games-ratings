@@ -4,21 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Condor | 8.00% | ~11 |
+| The End | 7.00% | ~9 |
 | The Teleprobe | 5.00% | ~7 |
+| The Necroevolution | 5.00% | ~7 |
+| The field base | 5.00% | ~7 |
 | The Camp | 5.00% | ~7 |
 | The City | 5.00% | ~7 |
-| The Condor | 5.00% | ~7 |
 | Survivors | 5.00% | ~7 |
-| The End | 5.00% | ~7 |
-| The Necroevolution | 4.00% | ~5 |
-| The field base | 4.00% | ~5 |
+| Peacemaker | 4.00% | ~5 |
+| The Alliance | 4.00% | ~5 |
 | On her own | 3.00% | ~4 |
-| Peacemaker | 3.00% | ~4 |
-| The Alliance | 3.00% | ~4 |
 | I remember everything! | 2.00% | ~3 |
 | Violent solution | 2.00% | ~3 |
 | The Invincible | 2.00% | ~3 |
 | Evacuation | 2.00% | ~3 |
+| Another giant | 2.00% | ~3 |
 | Krauta is alive | 2.00% | ~3 |
 | Volcanologist | 2.00% | ~3 |
 | Innate curiosity | 2.00% | ~3 |
@@ -27,7 +28,6 @@
 | Beyond divisions | 2.00% | ~3 |
 | Fierce fight | 0.80% | ~1 |
 | Ubiquitous holes | 0.80% | ~1 |
-| Another giant | 0.80% | ~1 |
 | I leave no man behind | 0.80% | ~1 |
 | No more mistakes | 0.80% | ~1 |
 | Convoy list | 0.00% | ~0 |

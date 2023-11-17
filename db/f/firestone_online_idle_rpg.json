@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -475,9 +475,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2376,
+  "EOS_Progressed": 2378,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7230,6 +7230,11 @@
       "Time": "2023-11-16T23:08:13.1551058+00:00",
       "NumProgressed": 2376,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-17T00:08:26.8803827+00:00",
+      "NumProgressed": 2378,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7353,7 +7358,7 @@
       "Name": "Dragon Master",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "dragonslayer",
@@ -7409,7 +7414,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "exoticmerchant",
@@ -7425,7 +7430,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "fourleafclover",
@@ -7489,7 +7494,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "howdoyouturnthison",
@@ -7505,7 +7510,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "inspection",
@@ -7633,7 +7638,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "prestigiousx10",
@@ -7697,7 +7702,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "thealchemist",
@@ -7729,7 +7734,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "thepowerofawakening",
@@ -7737,7 +7742,7 @@
       "Name": "The power of Awakening",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "theunstoppable",
@@ -7801,7 +7806,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2212
     },
     {
       "ID": "warmachinesarmy",
@@ -7831,16 +7836,16 @@
       "ID": "worldmap",
       "SetID": "3nl4bcg",
       "Name": "World Map",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1855
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2376,
+      "Progressed": 2378,
       "Completed": 2
     }
   ],
@@ -7848,8 +7853,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:08:13.1551049+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:08:26.8803824+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:02:30.7665851+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:08:13.1551925+00:00"
+  "LastUpdate_Ratings": "2023-11-17T00:00:27.1471449+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:08:26.8804921+00:00"
 }

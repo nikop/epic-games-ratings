@@ -15,15 +15,16 @@ Rating: 4.61 (Ranked 385)
 | From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | There Can Only Be One! | 0.90% | ~49 |
+| Seat of Power | 0.90% | ~49 |
 | Chaos Surge | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
 | Valley of Wonders | 0.80% | ~43 |
 | Stronger Together | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
-| Seat of Power | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
 | Intimidation Tactics | 0.80% | ~43 |
 | Sehiran Oasis | 0.80% | ~43 |
+| Enchanted Archipelago | 0.60% | ~32 |
 | Digging for Treasure | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Impenetrable Fortress | 0.60% | ~32 |
@@ -31,7 +32,6 @@ Rating: 4.61 (Ranked 385)
 | Mighty Hoard | 0.60% | ~32 |
 | Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
-| Enchanted Archipelago | 0.50% | ~27 |
 | Fiery Friend | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |

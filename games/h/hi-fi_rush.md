@@ -16,9 +16,9 @@ Rating: 4.86 (Ranked 30)
 | Alright, that felt AWESOME! | 12.00% | ~507 |
 | This will cost you big time | 11.00% | ~465 |
 | Uh, they were broken when I got here | 11.00% | ~465 |
-| I play my own way! | 10.00% | ~422 |
-| Z-shielding's got nothing on us! | 10.00% | ~422 |
-| Kissing the sky! | 10.00% | ~422 |
+| I play my own way! | 10.00% | ~423 |
+| Z-shielding's got nothing on us! | 10.00% | ~423 |
+| Kissing the sky! | 10.00% | ~423 |
 | The Negotiator | 9.00% | ~380 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~380 |
 | I look cool. But I can look COOLER. | 9.00% | ~380 |
@@ -38,11 +38,11 @@ Rating: 4.86 (Ranked 30)
 | Chip-tuned | 3.00% | ~127 |
 | Wanna hear my playlist? | 3.00% | ~127 |
 | Check out my moves! | 3.00% | ~127 |
-| I think I deserve some praise, here! | 2.00% | ~84 |
-| I think I found your calling, Macaron | 2.00% | ~84 |
-| We're Jammin' | 2.00% | ~84 |
-| I hit things with a guitar really well. | 2.00% | ~84 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~84 |
+| I think I deserve some praise, here! | 2.00% | ~85 |
+| I think I found your calling, Macaron | 2.00% | ~85 |
+| We're Jammin' | 2.00% | ~85 |
+| I hit things with a guitar really well. | 2.00% | ~85 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~85 |
 | Call me Turbo Chai | 2.00% | ~55 |
 | This is a breeze! | 1.00% | ~42 |
 | I'm not done with you yet | 1.00% | ~42 |
@@ -77,8 +77,8 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,225 (Ranked 194)  
-Completed: 8 (0.19%) (Ranked 255)  
+Progressed: 4,226 (Ranked 194)  
+Completed: 8 (0.19%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,6 +278,7 @@ Completed: 8 (0.19%) (Ranked 255)
 | 2023-11-14 | 4,221 | 8 |
 | 2023-11-15 | 4,223 | 8 |
 | 2023-11-16 | 4,225 | 8 |
+| 2023-11-17 | 4,226 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

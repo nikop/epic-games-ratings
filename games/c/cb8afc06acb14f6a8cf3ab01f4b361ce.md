@@ -8,7 +8,7 @@ Rating: 4.21 (Ranked 901)
 | May the Torchbearer light our way | 1.00% | ~3,121 |
 | The touch of Chaos | 1.00% | ~3,121 |
 | A powerful aura was here | 0.70% | ~2,185 |
-| Let's raise the stakes!! | 0.40% | ~1,248 |
+| Let's raise the stakes!! | 0.40% | ~1,249 |
 | Your wounds… They are healing so fast! | 0.30% | ~936 |
 | Rumors are true | 0.20% | ~624 |
 | We'll be careful | 0.20% | ~624 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 901)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312,090 (Ranked 49)  
+Progressed: 312,131 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,13 +101,14 @@ Completed: 4 (0.00%) (Ranked 352)
 | 2023-11-14 | 310,789 | 4 |
 | 2023-11-15 | 311,439 | 4 |
 | 2023-11-16 | 312,090 | 4 |
+| 2023-11-17 | 312,131 | 4 |
 ## Awards
-Max (Great Boss Battles): 58  (Ranked 414)  
-Sum: 58 (Ranked 472)  
-Diff (max vs sum): -58  
+Max (Great Boss Battles): 60  (Ranked 412)  
+Sum: 60 (Ranked 472)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 58 |
+| This game has Great Boss Battles | 60 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -143,3 +144,4 @@ Diff (max vs sum): -58
 | 2023-11-13 | 4.22 | 58 | 58 |
 | 2023-11-14 | 4.21 | 58 | 58 |
 | 2023-11-15 | 4.22 | 58 | 58 |
+| 2023-11-16 | 4.21 | 60 | 60 |

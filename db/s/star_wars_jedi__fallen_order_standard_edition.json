@@ -6,8 +6,8 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18357,
+  "EOS_Progressed": 18358,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1317,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -9156,6 +9156,11 @@
       "Time": "2023-11-16T23:05:08.5126993+00:00",
       "NumProgressed": 18357,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2023-11-17T00:05:10.7558557+00:00",
+      "NumProgressed": 18358,
+      "NumCompleted": 184
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -9176,7 +9181,7 @@
       "Name": "Everything is Connected",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 11014
+      "UsersEstimate": 11015
     },
     {
       "ID": "achievement_11",
@@ -9184,7 +9189,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 8444
+      "UsersEstimate": 8445
     },
     {
       "ID": "achievement_12",
@@ -9192,7 +9197,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 12666
+      "UsersEstimate": 12667
     },
     {
       "ID": "achievement_13",
@@ -9200,7 +9205,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 10096
+      "UsersEstimate": 10097
     },
     {
       "ID": "achievement_14",
@@ -9216,7 +9221,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 9178
+      "UsersEstimate": 9179
     },
     {
       "ID": "achievement_16",
@@ -9248,7 +9253,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 9729
+      "UsersEstimate": 9730
     },
     {
       "ID": "achievement_2",
@@ -9312,7 +9317,7 @@
       "Name": "Look Out Below",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "achievement_27",
@@ -9400,7 +9405,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 9362
+      "UsersEstimate": 9363
     },
     {
       "ID": "achievement_37",
@@ -9424,7 +9429,7 @@
       "Name": "Echo Location",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3671
+      "UsersEstimate": 3672
     },
     {
       "ID": "achievement_4",
@@ -9448,7 +9453,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "achievement_7",
@@ -9456,7 +9461,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 18357
+      "UsersEstimate": 18358
     },
     {
       "ID": "achievement_8",
@@ -9464,7 +9469,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 17072
+      "UsersEstimate": 17073
     },
     {
       "ID": "achievement_9",
@@ -9472,14 +9477,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 14318
+      "UsersEstimate": 14319
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 18357,
+      "Progressed": 18358,
       "Completed": 184
     }
   ],
@@ -9487,8 +9492,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-12T21:59:15.958654+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:05:08.5126989+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:05:10.7558552+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:22.4506849+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:57:52.0501296+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:05:08.5127502+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:57:45.324835+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:05:10.7559188+00:00"
 }

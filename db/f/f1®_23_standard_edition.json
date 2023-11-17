@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 252,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 182,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -511,6 +511,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-11-16T23:58:47.2391062+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
@@ -543,9 +549,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5758,
+  "EOS_Progressed": 5759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5658,6 +5664,11 @@
       "Time": "2023-11-16T23:05:14.3135403+00:00",
       "NumProgressed": 5758,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-17T00:05:16.9620718+00:00",
+      "NumProgressed": 5759,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5670,7 +5681,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_0002",
@@ -5702,7 +5713,7 @@
       "Name": "Crucial Combo",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "achievement_0006",
@@ -5710,7 +5721,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "achievement_0007",
@@ -5718,7 +5729,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "achievement_0008",
@@ -5726,7 +5737,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "achievement_0009",
@@ -5822,7 +5833,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_0021",
@@ -5830,7 +5841,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "achievement_0022",
@@ -5926,7 +5937,7 @@
       "Name": "Engineer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "achievement_0034",
@@ -5942,7 +5953,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_0036",
@@ -5974,7 +5985,7 @@
       "Name": "Smooth Operator",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_0040",
@@ -6006,7 +6017,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "achievement_0044",
@@ -6061,16 +6072,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5758,
+      "Progressed": 5759,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-16T14:58:41.7920701+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:05:14.3135396+00:00",
+  "LastChanged": "2023-11-16T23:58:47.239106+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:05:16.9620715+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-16T22:58:52.0859726+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:05:14.3135971+00:00"
+  "LastUpdate_Ratings": "2023-11-16T23:58:47.2391064+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:05:16.9621416+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -310,9 +310,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "creepytaleach12",
@@ -374,17 +374,17 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "creepytaleach9",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-16T23:08:53.6915135+00:00",
+  "LastChanged_Achievements": "2023-11-17T00:09:06.7240271+00:00",
   "LastUpdate_AppInfo": "2023-11-15T04:57:06.3642794+00:00",
-  "LastUpdate_Ratings": "2023-11-16T23:00:08.1508599+00:00",
-  "LastUpdate_Achievements": "2023-11-16T23:08:53.6915242+00:00"
+  "LastUpdate_Ratings": "2023-11-17T00:00:05.3736035+00:00",
+  "LastUpdate_Achievements": "2023-11-17T00:09:06.7240375+00:00"
 }

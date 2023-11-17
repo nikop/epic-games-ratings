@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,928 |
-| Imprint | 5.00% | ~7,928 |
+| Taste | 5.00% | ~7,929 |
+| Imprint | 5.00% | ~7,929 |
 | The Hunt | 4.00% | ~6,343 |
 | Ravenous | 4.00% | ~6,343 |
 | Weeper | 3.00% | ~4,757 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,567 (Ranked 76)  
+Progressed: 158,572 (Ranked 77)  
 Completed: 1 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,14 +241,15 @@ Completed: 1 (0.00%) (Ranked 352)
 | 2023-11-14 | 158,274 | 1 |
 | 2023-11-15 | 158,420 | 1 |
 | 2023-11-16 | 158,567 | 1 |
+| 2023-11-17 | 158,572 | 1 |
 ## Awards
-Max (Highly Recommended): 51  (Ranked 427)  
-Sum: 367 (Ranked 349)  
-Diff (max vs sum): 78  
+Max (Quickly Understood Controls): 52  (Ranked 423)  
+Sum: 368 (Ranked 349)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 52 |
 | This game is Highly Recommended | 51 |
-| This game has Quickly Understood Controls | 51 |
 | This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 47 |
 | This game has Amazing Storytelling | 47 |
@@ -400,4 +401,4 @@ Diff (max vs sum): 78
 | 2023-11-13 | 4.58 | - | 51 | 363 |
 | 2023-11-14 | 4.59 | - | 51 | 364 |
 | 2023-11-15 | 4.58 | - | 51 | 365 |
-| 2023-11-16 | 4.59 | - | 51 | 367 |
+| 2023-11-16 | 4.59 | - | 52 | 368 |

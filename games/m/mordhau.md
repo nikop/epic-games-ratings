@@ -1,23 +1,23 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 763)  
+Rating: 4.39 (Ranked 747)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~763,317 |
-| The ABCs | 43.00% | ~669,849 |
-| Home Run | 41.00% | ~638,693 |
-| Keeps Coming Off | 41.00% | ~638,693 |
-| Guts | 20.00% | ~311,558 |
-| Meat Grinder | 19.00% | ~295,980 |
-| Burning Man | 16.00% | ~249,246 |
-| Lived to Tell the Tale | 12.00% | ~186,935 |
-| Highlander | 10.00% | ~155,779 |
-| Unstoppable | 10.00% | ~155,779 |
-| Just a Scratch | 9.00% | ~140,201 |
-| Tough Nut to Crack | 6.00% | ~93,467 |
-| Yoink | 6.00% | ~93,467 |
+| Justice from the Grave | 49.00% | ~763,323 |
+| The ABCs | 43.00% | ~669,855 |
+| Home Run | 41.00% | ~638,699 |
+| Keeps Coming Off | 41.00% | ~638,699 |
+| Guts | 20.00% | ~311,561 |
+| Meat Grinder | 19.00% | ~295,983 |
+| Burning Man | 16.00% | ~249,248 |
+| Lived to Tell the Tale | 12.00% | ~186,936 |
+| Highlander | 10.00% | ~155,780 |
+| Unstoppable | 10.00% | ~155,780 |
+| Just a Scratch | 9.00% | ~140,202 |
+| Tough Nut to Crack | 6.00% | ~93,468 |
+| Yoink | 6.00% | ~93,468 |
 | Long List of Names | 4.00% | ~62,312 |
 | Pyromaniac | 4.00% | ~62,312 |
 | The Queen of Weapons | 4.00% | ~62,312 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 763)
 | That’s No Ordinary Cold | 0.10% | ~1,558 |
 | Stairway to Hell | 0.10% | ~1,558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,557,789 (Ranked 7)  
+Progressed: 1,557,803 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,15 +255,16 @@ Completed: 68 (0.00%) (Ranked 352)
 | 2023-11-14 | 1,556,906 | 68 |
 | 2023-11-15 | 1,557,348 | 68 |
 | 2023-11-16 | 1,557,789 | 68 |
+| 2023-11-17 | 1,557,803 | 68 |
 ## Awards
 Max (Diverse Characters): 936  (Ranked 157)  
-Sum: 4,333 (Ranked 147)  
+Sum: 4,338 (Ranked 147)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 936 |
 | This game has Challenging Combat | 780 |
-| This game is Highly Recommended | 762 |
+| This game is Highly Recommended | 767 |
 | This game has Amazing Characters | 633 |
 | This game is Extremely Fun | 629 |
 | This game has Competitive Players | 593 |
@@ -488,4 +489,4 @@ Diff (max vs sum): 10
 | 2023-11-13 | 4.39 | 924 | 4,272 |
 | 2023-11-14 | 4.39 | 930 | 4,297 |
 | 2023-11-15 | 4.39 | 933 | 4,313 |
-| 2023-11-16 | 4.39 | 936 | 4,333 |
+| 2023-11-16 | 4.39 | 936 | 4,338 |

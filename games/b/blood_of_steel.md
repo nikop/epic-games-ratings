@@ -1,7 +1,7 @@
 # Blood of Steel
 [Store](https://store.epicgames.com/en-US/p/blood-of-steel-5326f7)  
 [View Rawdata](../../db/b/blood_of_steel.json)  
-Rating: 3.72 (Ranked 1,034)  
+Rating: 3.74 (Ranked 1,033)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -52,3 +52,4 @@ Rating: 3.72 (Ranked 1,034)
 | 2023-11-02 | 3.73 | 0 | 0 |
 | 2023-11-10 | 3.71 | 0 | 0 |
 | 2023-11-13 | 3.72 | 0 | 0 |
+| 2023-11-16 | 3.74 | 0 | 0 |
