@@ -2,10 +2,10 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Completed": 51,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.89,
+  "EOS_Completed_Percentage": 7.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -321,6 +321,11 @@
       "Time": "2023-11-17T23:11:55.099235+00:00",
       "NumProgressed": 76,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-18T17:10:33.564481+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -330,7 +335,7 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 59
     },
@@ -402,7 +407,7 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -410,7 +415,7 @@
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 55,
       "UsersEstimate": 18
     },
@@ -498,7 +503,7 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -530,7 +535,7 @@
       "ID": "aq_achievement_32",
       "SetID": "7jh86ne",
       "Name": "What a mess",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -554,7 +559,7 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 35,
       "UsersEstimate": 35
     },
@@ -586,7 +591,7 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 15
     },
@@ -594,7 +599,7 @@
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -602,7 +607,7 @@
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -610,7 +615,7 @@
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -643,7 +648,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 6
     }
   ],
@@ -651,8 +656,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:10:26.7030882+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:10:33.5644804+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:34.8018097+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:58:21.7832098+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:10:26.7031095+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:58:20.9425968+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:10:33.5645038+00:00"
 }

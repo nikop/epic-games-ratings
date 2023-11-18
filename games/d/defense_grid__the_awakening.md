@@ -1,55 +1,55 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 658)  
+Rating: 4.45 (Ranked 659)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~396,884 |
-| Happy Returns | 78.00% | ~382,184 |
-| Hey! That's mine! | 78.00% | ~382,184 |
-| Field Promotion | 74.00% | ~362,585 |
-| Leadhead | 71.00% | ~347,886 |
-| Eradicator | 67.00% | ~328,287 |
-| Surplus | 65.00% | ~318,487 |
-| I Spy | 64.00% | ~313,587 |
-| Burn Baby Burn | 59.00% | ~289,088 |
-| Yellow Beats Green | 56.00% | ~274,389 |
-| Salvage Rights | 53.00% | ~259,689 |
-| Close Call | 50.00% | ~244,990 |
-| Pew Pew | 50.00% | ~244,990 |
-| What IS that? | 50.00% | ~244,990 |
-| Penny Pincher | 49.00% | ~240,090 |
-| Arsenal | 46.00% | ~225,391 |
-| Boot Camp | 45.00% | ~220,491 |
-| Flawless Victory | 42.00% | ~205,792 |
-| Confident | 41.00% | ~200,892 |
-| Exterminator | 36.00% | ~176,393 |
-| Sharpshooter | 34.00% | ~166,593 |
-| Not So Fast | 33.00% | ~161,693 |
-| Great Ball of Fire | 32.00% | ~156,794 |
-| No Sale | 31.00% | ~151,894 |
-| Kaboom! | 30.00% | ~146,994 |
-| Liquidator | 29.00% | ~142,094 |
-| High Voltage | 24.00% | ~117,595 |
-| Filthy Rich | 20.00% | ~97,996 |
-| Pyrrhic Victory | 18.00% | ~88,196 |
-| The Not-So-Friendly Skies | 18.00% | ~88,196 |
+| First Blood | 81.00% | ~396,888 |
+| Happy Returns | 78.00% | ~382,188 |
+| Hey! That's mine! | 78.00% | ~382,188 |
+| Field Promotion | 74.00% | ~362,589 |
+| Leadhead | 71.00% | ~347,889 |
+| Eradicator | 67.00% | ~328,290 |
+| Surplus | 65.00% | ~318,490 |
+| I Spy | 64.00% | ~313,590 |
+| Burn Baby Burn | 59.00% | ~289,091 |
+| Yellow Beats Green | 56.00% | ~274,392 |
+| Salvage Rights | 53.00% | ~259,692 |
+| Close Call | 50.00% | ~244,992 |
+| Pew Pew | 50.00% | ~244,992 |
+| What IS that? | 50.00% | ~244,992 |
+| Penny Pincher | 49.00% | ~240,093 |
+| Arsenal | 46.00% | ~225,393 |
+| Boot Camp | 45.00% | ~220,493 |
+| Flawless Victory | 42.00% | ~205,794 |
+| Confident | 41.00% | ~200,894 |
+| Exterminator | 36.00% | ~176,395 |
+| Sharpshooter | 34.00% | ~166,595 |
+| Not So Fast | 33.00% | ~161,695 |
+| Great Ball of Fire | 32.00% | ~156,795 |
+| No Sale | 31.00% | ~151,895 |
+| Kaboom! | 30.00% | ~146,996 |
+| Liquidator | 29.00% | ~142,096 |
+| High Voltage | 24.00% | ~117,596 |
+| Filthy Rich | 20.00% | ~97,997 |
+| Pyrrhic Victory | 18.00% | ~88,197 |
+| The Not-So-Friendly Skies | 18.00% | ~88,197 |
 | Power Builder | 17.00% | ~83,297 |
-| Death From Above | 16.00% | ~78,397 |
-| Retry | 16.00% | ~78,397 |
+| Death From Above | 16.00% | ~78,398 |
+| Retry | 16.00% | ~78,398 |
 | Head Trauma | 12.00% | ~58,798 |
 | Full Defense | 10.00% | ~48,998 |
-| Overseer | 9.00% | ~44,098 |
-| Annihilator | 8.00% | ~39,198 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,198 |
+| Overseer | 9.00% | ~44,099 |
+| Annihilator | 8.00% | ~39,199 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,199 |
 | Indecisive | 6.00% | ~29,399 |
 | Base Defender | 5.00% | ~24,499 |
 | Relay Race | 5.00% | ~24,499 |
 | Tower Expert | 4.00% | ~19,599 |
-| Diversity | 3.00% | ~14,699 |
-| Full Potential | 3.00% | ~14,699 |
+| Diversity | 3.00% | ~14,700 |
+| Full Potential | 3.00% | ~14,700 |
 | Minimalist | 2.00% | ~9,800 |
 | Nail Biter | 2.00% | ~9,800 |
 | Siege Breaker | 2.00% | ~9,800 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~490 |
 | You Monster | 0.10% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,980 (Ranked 37)  
+Progressed: 489,985 (Ranked 37)  
 Completed: 5 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,17 +306,17 @@ Completed: 5 (0.00%) (Ranked 354)
 | 2023-11-15 | 489,822 | 5 |
 | 2023-11-16 | 489,868 | 5 |
 | 2023-11-17 | 489,935 | 5 |
-| 2023-11-18 | 489,980 | 5 |
+| 2023-11-18 | 489,985 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 268)  
-Sum: 1,722 (Ranked 221)  
+Sum: 1,724 (Ranked 221)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 257 |
 | This game has Quickly Understood Controls | 226 |
 | This game is Relaxing | 220 |
-| This game is Extremely Fun | 209 |
+| This game is Extremely Fun | 211 |
 | This game is Highly Recommended | 195 |
 | This game has Challenging Combat | 186 |
 | This game has Amazing Storytelling | 183 |
@@ -472,3 +472,4 @@ Diff (max vs sum): 47
 | 2023-11-10 | 4.45 | - | 257 | 1,718 |
 | 2023-11-11 | 4.45 | - | 257 | 1,719 |
 | 2023-11-12 | 4.45 | - | 257 | 1,722 |
+| 2023-11-18 | 4.45 | - | 257 | 1,724 |

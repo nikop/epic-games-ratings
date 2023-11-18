@@ -15276,18 +15276,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 356141,
       "NumberOfAwardsMax": 105891
+    },
+    {
+      "Time": "2023-11-18T16:59:38.9885519+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 356305,
+      "NumberOfAwardsMax": 106055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 356141,
-  "NumberOfAwardsMax": 105891,
+  "NumberOfAwards": 356305,
+  "NumberOfAwardsMax": 106055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 105891
+      "Count": 106055
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15356,8 +15362,8 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897183,
-  "EOS_Completed": 2784,
+  "EOS_Progressed": 897194,
+  "EOS_Completed": 2785,
   "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
@@ -39401,6 +39407,11 @@
       "Time": "2023-11-18T16:04:18.8395753+00:00",
       "NumProgressed": 897183,
       "NumCompleted": 2784
+    },
+    {
+      "Time": "2023-11-18T17:04:22.3284986+00:00",
+      "NumProgressed": 897194,
+      "NumCompleted": 2785
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39635,9 +39646,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4486
+      "UsersEstimate": 5383
     },
     {
       "ID": "TheHightPriestess",
@@ -39709,7 +39720,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7177
+      "UsersEstimate": 7178
     },
     {
       "ID": "TrueWarrior",
@@ -39741,7 +39752,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35887
+      "UsersEstimate": 35888
     },
     {
       "ID": "YipMan",
@@ -39948,21 +39959,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897183,
-      "Completed": 2784
+      "Progressed": 897194,
+      "Completed": 2785
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25806,
+      "Progressed": 25817,
       "Completed": 10233
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-18T15:59:37.4791782+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:04:18.8395749+00:00",
+  "LastChanged": "2023-11-18T16:59:38.9885518+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:04:22.328498+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:59:37.479179+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:04:18.8397945+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:59:38.9885523+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:04:22.3286328+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 78.00% | ~59 |
+| Escape artist | 77.00% | ~59 |
 | Book Worm | 47.00% | ~36 |
-| Ooh, it's shiny! | 46.00% | ~35 |
+| Ooh, it's shiny! | 45.00% | ~35 |
 | My lost nightingale | 39.00% | ~30 |
 | Through the woods | 38.00% | ~29 |
 | Fussy eater | 34.00% | ~26 |
-| Back to the anvil | 33.00% | ~25 |
-| So soothing... | 33.00% | ~25 |
-| Kekekeke... | 33.00% | ~25 |
+| Back to the anvil | 32.00% | ~25 |
+| So soothing... | 32.00% | ~25 |
+| Kekekeke... | 32.00% | ~25 |
 | Mystery solved | 30.00% | ~23 |
 | Honey, honey, honey… | 30.00% | ~23 |
 | Far away from home | 30.00% | ~23 |
@@ -28,24 +28,24 @@
 | Beekeeper | 25.00% | ~19 |
 | Mischief maker | 25.00% | ~19 |
 | No posters allowed | 25.00% | ~19 |
-| You've got mail! | 24.00% | ~18 |
-| Memories | 24.00% | ~18 |
-| Pain in the hands | 24.00% | ~18 |
+| You've got mail! | 23.00% | ~18 |
+| Memories | 23.00% | ~18 |
+| Pain in the hands | 23.00% | ~18 |
 | Close the deal | 21.00% | ~16 |
 | Turn the last page | 21.00% | ~16 |
 | Ring-a-ding-ding | 21.00% | ~16 |
-| Kill it! KILL IT! | 20.00% | ~15 |
+| Kill it! KILL IT! | 19.00% | ~15 |
 | Makeover | 18.00% | ~14 |
 | Singstar | 18.00% | ~14 |
 | Bahahahaha... | 17.00% | ~13 |
 | Cameodalic | 16.00% | ~12 |
 | Guilty conscience | 16.00% | ~12 |
 | Clever reference #451 | 12.00% | ~9 |
-| What a mess | 11.00% | ~8 |
+| What a mess | 10.00% | ~8 |
 | Posterboy! | 9.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 453)  
-Completed: 6 (7.89%) (Ranked 50)  
+Progressed: 77 (Ranked 451)  
+Completed: 6 (7.79%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,6 +87,7 @@ Completed: 6 (7.89%) (Ranked 50)
 | 2023-11-13 | 68 | 6 |
 | 2023-11-16 | 70 | 6 |
 | 2023-11-17 | 76 | 6 |
+| 2023-11-18 | 77 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

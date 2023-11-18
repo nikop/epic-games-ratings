@@ -4,11 +4,11 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 364,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -1105,10 +1105,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-11-18T16:58:27.645522+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 293,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1128,7 +1134,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 50
+      "Count": 52
     },
     {
       "Text": "This game has Competitive Players",
@@ -1158,7 +1164,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1179,8 +1185,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-18T14:57:51.3467116+00:00",
+  "LastChanged": "2023-11-18T16:58:27.6455218+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:41.9795663+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:58:28.461196+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:06:59.7458789+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:58:27.6455226+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:07:05.1323149+00:00"
 }

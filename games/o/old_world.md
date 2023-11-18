@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
 | Bad Heir Day | 0.80% | ~123 |
+| Rome | 0.80% | ~123 |
 | Hittite Paganism | 0.80% | ~123 |
 | Turreted Elephant | 0.80% | ~123 |
 | Poetic Leader | 0.80% | ~123 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
 | Adur Burzen-Mihr | 0.70% | ~108 |
-| Rome | 0.70% | ~108 |
 | All Nations | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |

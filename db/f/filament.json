@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205550,
+  "EOS_Progressed": 205552,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23078,6 +23078,11 @@
       "Time": "2023-11-18T16:06:29.2524403+00:00",
       "NumProgressed": 205550,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-11-18T17:06:34.118295+00:00",
+      "NumProgressed": 205552,
+      "NumCompleted": 528
     }
   ],
   "TotalAchievements": 29,
@@ -23113,7 +23118,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193217
+      "UsersEstimate": 193219
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23161,7 +23166,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -23257,7 +23262,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -23320,7 +23325,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205550,
+      "Progressed": 205552,
       "Completed": 528
     }
   ],
@@ -23328,8 +23333,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:06:29.25244+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:06:34.1182946+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:57:30.2996936+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:06:29.2526023+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:57:29.2970477+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:06:34.1183949+00:00"
 }

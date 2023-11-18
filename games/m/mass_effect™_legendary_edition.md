@@ -7,8 +7,8 @@
 | Distinguished Service Medal | 93.00% | ~1,216 |
 | Spectre Inductee | 80.00% | ~1,046 |
 | Medal of Exploration I | 71.00% | ~928 |
-| Recruit | 67.00% | ~876 |
-| Search and Rescue | 67.00% | ~876 |
+| Recruit | 68.00% | ~889 |
+| Search and Rescue | 68.00% | ~889 |
 | Quarian Ally | 63.00% | ~823 |
 | Medal of Heroism | 59.00% | ~771 |
 | Honorarium of Corporate Service | 59.00% | ~771 |
@@ -17,8 +17,8 @@
 | Council Legion of Merit | 53.00% | ~693 |
 | Medal of Honor | 50.00% | ~654 |
 | Meritorious Service Medal | 50.00% | ~654 |
+| Charismatic | 50.00% | ~654 |
 | Soldier | 49.00% | ~640 |
-| Charismatic | 49.00% | ~640 |
 | Soldier Ally | 46.00% | ~601 |
 | Asari Ally | 46.00% | ~601 |
 | Medal of Exploration III | 45.00% | ~588 |
@@ -26,10 +26,10 @@
 | Paramour I | 43.00% | ~562 |
 | Colonial Savior | 43.00% | ~562 |
 | Missing in Action | 42.00% | ~549 |
+| Merciless | 42.00% | ~549 |
 | Scientist | 42.00% | ~549 |
 | Krogan Ally | 41.00% | ~536 |
 | Very Elusive | 41.00% | ~536 |
-| Merciless | 41.00% | ~536 |
 | Sentinel Ally | 40.00% | ~523 |
 | Head Hunter | 39.00% | ~510 |
 | Scholar | 39.00% | ~510 |
@@ -55,12 +55,12 @@
 | Catharsis | 30.00% | ~392 |
 | Ghost of the Father | 30.00% | ~392 |
 | The Cure | 30.00% | ~392 |
+| Heart of Darkness | 30.00% | ~392 |
 | Driven | 30.00% | ~392 |
 | Archivist | 29.00% | ~379 |
 | Fade Away | 29.00% | ~379 |
 | Big Game Hunter | 29.00% | ~379 |
 | Revenge! | 29.00% | ~379 |
-| Heart of Darkness | 29.00% | ~379 |
 | Bringer of War | 29.00% | ~379 |
 | Focused | 28.00% | ~366 |
 | Friend or Foe | 28.00% | ~366 |
@@ -85,9 +85,9 @@
 | Tunnel Rat | 23.00% | ~301 |
 | Arbiter | 23.00% | ~301 |
 | Savior | 22.00% | ~288 |
+| Lost and Found | 22.00% | ~288 |
 | Paramour II | 21.00% | ~274 |
 | Party Crasher | 21.00% | ~274 |
-| Lost and Found | 21.00% | ~274 |
 | Hard Target | 20.00% | ~261 |
 | Problem Solver | 20.00% | ~261 |
 | Pyromaniac | 19.00% | ~248 |
@@ -99,9 +99,9 @@
 | Fact Finder | 19.00% | ~248 |
 | Well Connected | 18.00% | ~235 |
 | Executioner | 17.00% | ~222 |
+| Patriot | 17.00% | ~222 |
 | Master and Commander | 17.00% | ~222 |
 | Sabotage Specialist | 16.00% | ~209 |
-| Patriot | 16.00% | ~209 |
 | Legend | 16.00% | ~209 |
 | Electronics Specialist | 15.00% | ~196 |
 | Throw Mastery | 15.00% | ~196 |

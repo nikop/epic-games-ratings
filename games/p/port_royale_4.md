@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 988)  
+Rating: 4.03 (Ranked 989)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,9 +29,9 @@ Number of Ratings: 53  (23.09.2022)
 | My precious! | 17.00% | ~177 |
 | Conquistador | 14.00% | ~145 |
 | Panic buying | 11.00% | ~114 |
+| Your vessel, my vessel | 10.00% | ~104 |
 | Just a scratch | 9.00% | ~94 |
 | All mine! | 9.00% | ~94 |
-| Your vessel, my vessel | 9.00% | ~94 |
 | Paths of Glory | 8.00% | ~83 |
 | Panel of experts | 8.00% | ~83 |
 | Maker | 7.00% | ~73 |

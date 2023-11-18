@@ -10,26 +10,26 @@
 | Hammer Time, Round Two | 79.00% | ~239 |
 | The Hellwoods | 74.00% | ~224 |
 | Thalya's Concentrated Fury | 68.00% | ~206 |
-| The Plains of Strothalm | 67.00% | ~203 |
+| The Plains of Strothalm | 68.00% | ~206 |
 | Experienced Thalya | 66.00% | ~200 |
 | Master of Magic | 62.00% | ~188 |
 | Bad Elves Go Everywhere | 62.00% | ~188 |
 | Magic Accidents | 56.00% | ~170 |
 | Heroes’ Gorge | 56.00% | ~170 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~167 |
-| Minions, Minions! | 53.00% | ~161 |
+| Minions, Minions! | 54.00% | ~164 |
 | Trap Master | 52.00% | ~158 |
 | The Ascent | 44.00% | ~133 |
 | It's Warm and Cozy at Home | 44.00% | ~133 |
 | YOU SHALL NOT PASS! | 43.00% | ~130 |
-| Hard Work | 39.00% | ~118 |
-| The Big Eaty | 39.00% | ~118 |
+| Hard Work | 40.00% | ~121 |
+| The Big Eaty | 40.00% | ~121 |
 | Pure Dynamite! | 38.00% | ~115 |
 | Mana Cannon | 33.00% | ~100 |
-| “… like son” | 32.00% | ~97 |
+| “… like son” | 33.00% | ~100 |
 | Dungeonlord Gorgu | 28.00% | ~85 |
-| Shame! Shame! Shame! | 26.00% | ~79 |
-| The Cathedral of Light | 25.00% | ~76 |
+| Shame! Shame! Shame! | 27.00% | ~82 |
+| The Cathedral of Light | 26.00% | ~79 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~67 |
 | Tanos' Crusade Against Thalya | 22.00% | ~67 |
 | Hungry, Hungry Gorgu! | 18.00% | ~55 |
@@ -47,17 +47,17 @@
 | Sabotage! | 8.00% | ~24 |
 | My Little Torture Chamber | 7.00% | ~21 |
 | Doom Hill | 7.00% | ~21 |
+| Brimstone Shaken, Not Stirred | 7.00% | ~21 |
 | Mirror, Mirror | 6.00% | ~18 |
 | Raiders of the Lost Stone | 6.00% | ~18 |
-| Brimstone Shaken, Not Stirred | 6.00% | ~18 |
 | The Rune Sockets of Finitude (Part 1) | 6.00% | ~18 |
 | Untouchable | 5.00% | ~15 |
 | Lavalumps on Ice! | 5.00% | ~15 |
+| The Rune Sockets of Finitude (Part 2) | 5.00% | ~15 |
 | Gorgu is in the Best of Health | 4.00% | ~12 |
 | Laser Eyes Are So Useless | 4.00% | ~12 |
 | Rubble and Ashes | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
-| The Rune Sockets of Finitude (Part 2) | 4.00% | ~12 |
 | The Last Stand - This Time For Real! | 4.00% | ~12 |
 | To the Max! | 3.00% | ~9 |
 | Evilification | 3.00% | ~9 |

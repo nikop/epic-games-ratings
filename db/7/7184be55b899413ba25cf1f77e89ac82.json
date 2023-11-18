@@ -4,8 +4,8 @@
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
     "PcReleaseDate": "2022-04-14T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:10:24.2307217+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:10:30.2528972+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.622384+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:03:11.3363914+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:10:24.2307313+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:02:54.1635027+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:10:30.2529087+00:00"
 }

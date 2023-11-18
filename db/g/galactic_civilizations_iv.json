@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7300,
+  "EOS_Progressed": 7301,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -8560,6 +8560,11 @@
       "Time": "2023-11-18T15:08:21.265982+00:00",
       "NumProgressed": 7300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T17:09:27.0347024+00:00",
+      "NumProgressed": 7301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8611,7 +8616,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "Control_All_Relics",
@@ -8675,7 +8680,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5621
+      "UsersEstimate": 5622
     },
     {
       "ID": "First_Race_Met",
@@ -8683,7 +8688,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "First_Ship_Designed",
@@ -8707,7 +8712,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5621
+      "UsersEstimate": 5622
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8891,7 +8896,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8971,7 +8976,7 @@
       "Name": "Win as the Iconians",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Win_As_Iridium",
@@ -9059,7 +9064,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4745
+      "UsersEstimate": 4746
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9146,15 +9151,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7300,
+      "Progressed": 7301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:09:21.4792728+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:09:27.0347021+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.8341432+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:59:58.5598362+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:09:21.4793948+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:00:00.3810998+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:09:27.0347883+00:00"
 }

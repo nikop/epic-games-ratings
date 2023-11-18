@@ -11,9 +11,9 @@
 | Mechanical Buddy | 38.00% | ~26 |
 | Noctuan Champion | 38.00% | ~26 |
 | Wild's Keeper | 35.00% | ~24 |
+| Eridanian Champion | 35.00% | ~24 |
 | Mind Illuminator | 33.00% | ~23 |
 | Sanctuary Guardian | 33.00% | ~23 |
-| Eridanian Champion | 33.00% | ~23 |
 | Lacertian Champion | 33.00% | ~23 |
 | Apian Champion | 30.00% | ~21 |
 | Anomaly Destroyer | 29.00% | ~20 |

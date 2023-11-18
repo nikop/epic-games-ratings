@@ -6,54 +6,54 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~38,444 |
-| Blood Moon | 73.00% | ~33,016 |
-| Path of the Necromancer | 66.00% | ~29,850 |
-| Chainbreaker - I | 60.00% | ~27,137 |
-| Cursed Creature | 57.00% | ~25,780 |
-| Extraction | 57.00% | ~25,780 |
-| Chainbreaker - II | 55.00% | ~24,875 |
-| Necromancer's Apprentice | 51.00% | ~23,066 |
-| Keeper of Keys | 47.00% | ~21,257 |
-| Distillation | 43.00% | ~19,448 |
-| Mountain King - I | 42.00% | ~18,996 |
-| Transmutation | 42.00% | ~18,996 |
-| Prepared Necromancer | 40.00% | ~18,091 |
-| Mountain King - II | 39.00% | ~17,639 |
-| Blind Rage | 38.00% | ~17,187 |
-| Mad Genius | 35.00% | ~15,830 |
-| Cannon Fodder - I | 34.00% | ~15,378 |
-| Soul of Lies | 34.00% | ~15,378 |
-| Bane of Mercenaries - I | 32.00% | ~14,473 |
-| Bane of Mercenaries - II | 31.00% | ~14,021 |
-| Cannon Fodder - II | 29.00% | ~13,116 |
-| Shadow Between Worlds | 29.00% | ~13,116 |
-| Bane of Monsters | 28.00% | ~12,664 |
-| Chainbreaker - III | 28.00% | ~12,664 |
-| Revealed Secrets - I | 26.00% | ~11,759 |
-| Revealed Secrets - II | 25.00% | ~11,307 |
+| Improvement | 85.00% | ~38,446 |
+| Blood Moon | 73.00% | ~33,019 |
+| Path of the Necromancer | 66.00% | ~29,852 |
+| Chainbreaker - I | 60.00% | ~27,139 |
+| Cursed Creature | 57.00% | ~25,782 |
+| Extraction | 57.00% | ~25,782 |
+| Chainbreaker - II | 55.00% | ~24,877 |
+| Necromancer's Apprentice | 51.00% | ~23,068 |
+| Keeper of Keys | 47.00% | ~21,259 |
+| Distillation | 43.00% | ~19,449 |
+| Mountain King - I | 42.00% | ~18,997 |
+| Transmutation | 42.00% | ~18,997 |
+| Prepared Necromancer | 40.00% | ~18,092 |
+| Mountain King - II | 39.00% | ~17,640 |
+| Blind Rage | 38.00% | ~17,188 |
+| Mad Genius | 35.00% | ~15,831 |
+| Cannon Fodder - I | 34.00% | ~15,379 |
+| Soul of Lies | 34.00% | ~15,379 |
+| Bane of Mercenaries - I | 32.00% | ~14,474 |
+| Bane of Mercenaries - II | 31.00% | ~14,022 |
+| Cannon Fodder - II | 29.00% | ~13,117 |
+| Shadow Between Worlds | 29.00% | ~13,117 |
+| Bane of Monsters | 28.00% | ~12,665 |
+| Chainbreaker - III | 28.00% | ~12,665 |
+| Revealed Secrets - I | 26.00% | ~11,760 |
+| Revealed Secrets - II | 25.00% | ~11,308 |
 | Blood Elemental | 24.00% | ~10,855 |
-| Unholy Bones | 23.00% | ~10,402 |
-| Lord of Fire | 23.00% | ~10,402 |
-| Uncommon Warrior | 23.00% | ~10,402 |
-| Cannon Fodder - III | 22.00% | ~9,950 |
-| Spiritual Attraction | 22.00% | ~9,950 |
-| Nightmare of the Humanity - I | 22.00% | ~9,950 |
-| Nightmare of the Humanity - II | 21.00% | ~9,498 |
+| Unholy Bones | 23.00% | ~10,403 |
+| Lord of Fire | 23.00% | ~10,403 |
+| Uncommon Warrior | 23.00% | ~10,403 |
+| Cannon Fodder - III | 22.00% | ~9,951 |
+| Spiritual Attraction | 22.00% | ~9,951 |
+| Nightmare of the Humanity - I | 22.00% | ~9,951 |
+| Nightmare of the Humanity - II | 21.00% | ~9,499 |
 | That Was Easy! | 20.00% | ~9,046 |
 | Silent Waters | 20.00% | ~9,046 |
 | Calcination | 20.00% | ~9,046 |
 | Head of Order | 20.00% | ~9,046 |
 | Blood Mage | 17.00% | ~7,689 |
-| Wild Hunger | 16.00% | ~7,236 |
-| Rage Concentrated | 16.00% | ~7,236 |
-| Mountain King - III | 15.00% | ~6,784 |
-| Rare Warrior | 15.00% | ~6,784 |
+| Wild Hunger | 16.00% | ~7,237 |
+| Rage Concentrated | 16.00% | ~7,237 |
+| Mountain King - III | 15.00% | ~6,785 |
+| Rare Warrior | 15.00% | ~6,785 |
 | Grand Arena | 14.00% | ~6,332 |
 | Blood Madness | 13.00% | ~5,880 |
 | First Sacrifice | 13.00% | ~5,880 |
 | Master of Alchemy | 13.00% | ~5,880 |
-| Legendary Warrior | 12.00% | ~5,427 |
+| Legendary Warrior | 12.00% | ~5,428 |
 | Bane of Mercenaries - III | 10.00% | ~4,523 |
 | Monument to Greatness | 10.00% | ~4,523 |
 | Ancient Burial | 10.00% | ~4,523 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~226 |
 | Renowned Researcher | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,228 (Ranked 113)  
+Progressed: 45,231 (Ranked 113)  
 Completed: 24 (0.05%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 24 (0.05%) (Ranked 305)
 | 2023-11-15 | 45,024 | 24 |
 | 2023-11-16 | 45,081 | 24 |
 | 2023-11-17 | 45,170 | 24 |
-| 2023-11-18 | 45,228 | 24 |
+| 2023-11-18 | 45,231 | 24 |
 ## Awards
 Max (Character Customization): 2,161  (Ranked 109)  
 Sum: 4,198 (Ranked 151)  

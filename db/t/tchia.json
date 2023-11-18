@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,7 +239,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7764,
+  "EOS_Progressed": 7766,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -8184,6 +8184,11 @@
       "Time": "2023-11-18T16:05:18.3968824+00:00",
       "NumProgressed": 7764,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-18T17:05:22.6596559+00:00",
+      "NumProgressed": 7766,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8195,7 +8200,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ARRR",
@@ -8235,7 +8240,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ENERGY_SAVER",
@@ -8299,7 +8304,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "LIBERATOR",
@@ -8362,7 +8367,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7764,
+      "Progressed": 7766,
       "Completed": 34
     }
   ],
@@ -8370,8 +8375,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:05:18.3968819+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:05:22.6596556+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.1018181+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:00:26.8605325+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:05:18.3969431+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:00:29.1279036+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:05:22.6597067+00:00"
 }

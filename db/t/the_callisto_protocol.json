@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1487,9 +1487,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16456,
+  "EOS_Progressed": 16457,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9037,6 +9037,11 @@
       "Time": "2023-11-18T16:08:50.0621977+00:00",
       "NumProgressed": 16456,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-18T17:08:55.6558044+00:00",
+      "NumProgressed": 16457,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9080,7 +9085,7 @@
       "Name": "Flesh Wound",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9398,9 +9403,9 @@
       "ID": "KILL_BIOBOT",
       "SetID": "6j5ggkc",
       "Name": "Keep Fighting",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 263
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9423,13 +9428,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16456,
+      "Progressed": 16457,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4382,
+      "Progressed": 4383,
       "Completed": 29
     }
   ],
@@ -9437,8 +9442,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-18T08:02:38.8252672+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:08:50.0621971+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:08:55.6558039+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:57.886898+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:03:18.6952949+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:08:50.0622695+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:03:21.7380362+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:08:55.6558702+00:00"
 }

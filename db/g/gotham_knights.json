@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4205,9 +4205,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76599,
+  "EOS_Progressed": 76601,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23005,6 +23005,11 @@
       "Time": "2023-11-18T16:03:49.2085433+00:00",
       "NumProgressed": 76599,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-18T17:03:52.6736669+00:00",
+      "NumProgressed": 76601,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -23214,9 +23219,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5362
+      "UsersEstimate": 4596
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -23360,7 +23365,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39065
+      "UsersEstimate": 39067
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23503,13 +23508,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76599,
+      "Progressed": 76601,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46879,
+      "Progressed": 46881,
       "Completed": 2673
     }
   ],
@@ -23517,8 +23522,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-18T13:59:50.575849+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:03:49.2085427+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:03:52.6736665+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:01:32.6486124+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:03:49.2087301+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:01:35.7318266+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:03:52.6737973+00:00"
 }

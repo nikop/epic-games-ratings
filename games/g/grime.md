@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 5.00% | ~7,946 |
 | Imprint | 5.00% | ~7,946 |
-| The Hunt | 4.00% | ~6,356 |
-| Ravenous | 4.00% | ~6,356 |
-| Weeper | 3.00% | ~4,767 |
+| The Hunt | 4.00% | ~6,357 |
+| Ravenous | 4.00% | ~6,357 |
+| Weeper | 3.00% | ~4,768 |
 | Harmless | 2.00% | ~3,178 |
 | Silenced Whispers | 2.00% | ~3,178 |
 | Devourer | 2.00% | ~3,178 |
@@ -28,21 +28,21 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.80% | ~1,268 |
 | Celebration | 0.80% | ~1,271 |
 | Hunt Down | 0.70% | ~1,112 |
-| Artisan | 0.60% | ~953 |
-| Hush | 0.60% | ~953 |
-| Inevitable | 0.60% | ~953 |
-| All-Seeing | 0.60% | ~953 |
-| Breathsmith | 0.60% | ~953 |
+| Artisan | 0.60% | ~954 |
+| Hush | 0.60% | ~954 |
+| Inevitable | 0.60% | ~954 |
+| All-Seeing | 0.60% | ~954 |
+| Breathsmith | 0.60% | ~954 |
 | Dream | 0.60% | ~951 |
 | Breath | 0.50% | ~795 |
 | Unwrap the Gift | 0.50% | ~795 |
 | Passage | 0.50% | ~795 |
 | Bloodhunter | 0.40% | ~636 |
 | Proportions | 0.40% | ~636 |
-| Zygote | 0.30% | ~475 |
+| Zygote | 0.30% | ~476 |
 | Kinship | 0.30% | ~477 |
-| Kin | 0.30% | ~475 |
-| Listen | 0.30% | ~475 |
+| Kin | 0.30% | ~476 |
+| Listen | 0.30% | ~476 |
 | Weakness | 0.20% | ~318 |
 | Generous | 0.20% | ~318 |
 | Enrich | 0.20% | ~317 |
@@ -50,10 +50,10 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.10% | ~159 |
 | Skinmaker | 0.10% | ~159 |
 | Instruments | 0.10% | ~159 |
-| The Nightmare | 0.10% | ~158 |
-| Touch of Otherwhere | 0.10% | ~158 |
+| The Nightmare | 0.10% | ~159 |
+| Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,911 (Ranked 78)  
+Progressed: 158,919 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 158,420 | 1 |
 | 2023-11-16 | 158,567 | 1 |
 | 2023-11-17 | 158,769 | 1 |
-| 2023-11-18 | 158,911 | 1 |
+| 2023-11-18 | 158,919 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 424)  
 Sum: 370 (Ranked 347)  

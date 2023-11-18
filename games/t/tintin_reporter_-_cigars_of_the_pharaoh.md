@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~12 |
 | A Loyal Friend | 40.00% | ~6 |
-| Abandon Ship! | 20.00% | ~3 |
+| Abandon Ship! | 27.00% | ~4 |
 | The Tomb of Kih-Oskh | 7.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |

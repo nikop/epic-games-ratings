@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1331,6 +1331,11 @@
       "Time": "2023-11-17T21:03:00.2490809+00:00",
       "NumProgressed": 306,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T17:04:13.20626+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1358,7 +1363,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1438,7 +1443,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1628,9 +1633,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "ETUA_Trapped",
@@ -1644,9 +1649,9 @@
       "ID": "ETUA_WhatAMansion",
       "SetID": "65jc0ap",
       "Name": "What A Mansion",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -1661,7 +1666,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 1
     }
   ],
@@ -1669,8 +1674,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:04:09.7047868+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T15:57:18.4858183+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:59:25.9699609+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:04:09.7048298+00:00"
+  "LastChanged_Achievements": "2023-11-18T17:04:13.2062596+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T16:57:08.9837452+00:00",
+  "LastUpdate_Ratings": "2023-11-18T16:59:26.8862011+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:04:13.2062869+00:00"
 }

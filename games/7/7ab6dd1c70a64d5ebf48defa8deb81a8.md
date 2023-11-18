@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 5.00% | ~10 |
-| I Found It | 4.00% | ~8 |
+| I Found It | 5.00% | ~10 |
 | Break Out | 3.00% | ~6 |
+| Find Allies | 3.00% | ~6 |
 | Powerful Allies | 3.00% | ~6 |
-| Find Allies | 2.00% | ~4 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |

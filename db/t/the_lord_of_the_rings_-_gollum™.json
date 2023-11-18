@@ -2,10 +2,10 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1573,6 +1573,11 @@
       "Time": "2023-11-18T16:03:45.5558366+00:00",
       "NumProgressed": 594,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T17:03:49.1489014+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1608,7 +1613,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Chapter10",
@@ -1624,7 +1629,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Chapter3",
@@ -1680,7 +1685,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Collectibles1",
@@ -1760,7 +1765,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Murderer",
@@ -1768,7 +1773,7 @@
       "Name": "Murderer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NoDamage",
@@ -1856,7 +1861,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WelcomeToMordor",
@@ -1871,14 +1876,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:03:45.5558363+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:03:49.1489011+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:57:47.2744958+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:03:45.5558759+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:57:46.1679903+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:03:49.1489551+00:00"
 }

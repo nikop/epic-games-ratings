@@ -8,11 +8,11 @@
 | Chapter 1 | 48.00% | ~11 |
 | Chapter 2 | 48.00% | ~11 |
 | Chapter 3 | 48.00% | ~11 |
-| Chapter 4 | 43.00% | ~10 |
+| Chapter 4 | 48.00% | ~11 |
 | Your Days Are Numbered | 43.00% | ~10 |
+| All Materials | 43.00% | ~10 |
 | It's In My Nature | 43.00% | ~10 |
 | Chapter 5 | 39.00% | ~9 |
-| All Materials | 39.00% | ~9 |
 | Chapter 6 | 30.00% | ~7 |
 | Ads Fan | 17.00% | ~4 |
 | Food Thief | 17.00% | ~4 |

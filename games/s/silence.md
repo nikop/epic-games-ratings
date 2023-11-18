@@ -13,8 +13,8 @@
 | Open up wide | 34.00% | ~57 |
 | Wooooooow! | 34.00% | ~57 |
 | Artistic fool | 33.00% | ~55 |
+| Let the boot talk | 30.00% | ~50 |
 | Shadow on the wall | 30.00% | ~50 |
-| Let the boot talk | 29.00% | ~48 |
 | Chapter II | 25.00% | ~42 |
 | Handyman | 22.00% | ~37 |
 | Bubblekillerfamily | 22.00% | ~37 |
@@ -32,9 +32,9 @@
 | To err is human... | 12.00% | ~20 |
 | Unfullfilled dreams | 11.00% | ~18 |
 | Nothing can stop me | 9.00% | ~15 |
+| Mumbo Jumbo | 9.00% | ~15 |
 | Useless but beautiful | 8.00% | ~13 |
 | Lollipop | 8.00% | ~13 |
-| Mumbo Jumbo | 8.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~12 |
 | It's nothing personal | 7.00% | ~12 |
 | The hands of a healer | 6.00% | ~10 |

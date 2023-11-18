@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,8 +20,8 @@
   "Tags": [],
   "EOS_Progressed": 1307,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 145,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 139,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -3832,9 +3832,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_125",
@@ -4032,17 +4032,17 @@
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 654
     },
     {
       "ID": "achievement_33",
       "SetID": "b9pe172",
       "Name": "Search and Rescue",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 876
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_34",
@@ -4312,9 +4312,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_65",
@@ -4432,9 +4432,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 392
     },
     {
       "ID": "achievement_79",
@@ -4584,9 +4584,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_96",
@@ -4616,9 +4616,9 @@
       "ID": "achievement_99",
       "SetID": "d252ncf",
       "Name": "Lost and Found",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 288
     }
   ],
   "AchievementSets": [
@@ -4636,8 +4636,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:07:42.623015+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:07:48.4774478+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:03:25.2499718+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:07:42.6231656+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:03:28.794614+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:07:48.4776146+00:00"
 }

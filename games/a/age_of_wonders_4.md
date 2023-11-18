@@ -33,22 +33,22 @@ Rating: 4.61 (Ranked 384)
 | Impenetrable Fortress | 0.60% | ~32 |
 | Here be Dragons | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
+| Prometheus Avenged | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Return of the Wizard King | 0.50% | ~27 |
+| Preparation Is Everything | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
-| Prometheus Avenged | 0.50% | ~27 |
 | A Conqueror's Cohort | 0.50% | ~27 |
 | Arch Mage | 0.40% | ~22 |
 | The Creator | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
-| Preparation Is Everything | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
+| Lord of Chaos | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
 | The Eternal Court | 0.30% | ~16 |
 | Pruning for Progress | 0.30% | ~16 |
 | Duality | 0.30% | ~16 |
 | God Emperor | 0.20% | ~11 |
-| Lord of Chaos | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
 | Grexolis | 0.20% | ~11 |
 | One for All, All for One | 0.20% | ~11 |

@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Craftsmen | 0.80% | ~1 |
 | Self-Defence | 0.80% | ~1 |
+| Welcome to the Club | 0.80% | ~1 |
 | Small Setback | 0.80% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | Pathfinder | 0.00% | ~0 |
 | Globetrotter | 0.00% | ~0 |
 | Finally! | 0.00% | ~0 |
-| Welcome to the Club | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | Don't Cry Wolf | 0.00% | ~0 |
 | A new World ahead | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 410)  
+Progressed: 121 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-08 | 117 | 0 |
 | 2023-11-11 | 118 | 0 |
 | 2023-11-15 | 120 | 0 |
+| 2023-11-18 | 121 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

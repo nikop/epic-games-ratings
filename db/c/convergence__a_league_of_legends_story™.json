@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2825,9 +2825,9 @@
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 110
     },
     {
       "ID": "WatcherSpared",
@@ -2849,9 +2849,9 @@
       "ID": "Zarkon2Defeated",
       "SetID": "a9e499d",
       "Name": "The Family Fortune",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -2866,8 +2866,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-18T16:09:24.819526+00:00",
+  "LastChanged_Achievements": "2023-11-18T17:09:30.3535536+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.3466186+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:01:17.7447847+00:00",
-  "LastUpdate_Achievements": "2023-11-18T16:09:24.8195865+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:01:20.3624208+00:00",
+  "LastUpdate_Achievements": "2023-11-18T17:09:30.3535986+00:00"
 }
