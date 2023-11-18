@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 32.78% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 32.75% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.99% |
@@ -50,7 +50,7 @@
 | 48 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.05% |
 | 50 | [Anna's Quest](games/a/anna's_quest.md) | 7.89% |
-| 51 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.86% |
+| 51 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.84% |
 | 52 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
@@ -103,7 +103,7 @@
 | 101 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 102 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 3.03% |
 | 103 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
-| 103 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.99% |
+| 104 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.97% |
 | 105 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 106 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 107 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -135,7 +135,7 @@
 | 133 | [Five Dates](games/f/five_dates.md) | 1.71% |
 | 133 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.71% |
 | 135 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.69% |
-| 136 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.67% |
+| 136 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.66% |
 | 137 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
 | 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.59% |
 | 139 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.52% |
@@ -166,8 +166,8 @@
 | 164 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.00% |
 | 165 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.97% |
 | 166 | [Trifox](games/t/trifox.md) | 0.96% |
-| 167 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
-| 168 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
+| 167 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
+| 167 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
 | 169 | [Hades](games/h/hades.md) | 0.91% |
 | 170 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.88% |
 | 170 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |

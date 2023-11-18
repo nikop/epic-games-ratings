@@ -96,7 +96,7 @@
 | 86 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 512 |
 | 86 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 546 |
 | 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,567 | 126 |
-| 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 634 | 188 |
+| 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 637 | 188 |
 | 96 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 166 | 307 |
 | 96 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 546 |
 | 96 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,118 | 143 |
