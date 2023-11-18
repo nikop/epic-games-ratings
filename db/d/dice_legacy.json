@@ -53,7 +53,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -2148,6 +2148,11 @@
       "Time": "2023-11-18T20:08:47.0504065+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T23:08:35.6362749+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2247,7 +2252,7 @@
       "Name": "It\u0027s spreading",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DICE_TWELVE_FROZEN",
@@ -2431,7 +2436,7 @@
       "Name": "The Flail",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "WINMATCHWITH_CORRUPTEDKING",
@@ -2463,7 +2468,7 @@
       "Name": "The Incarnate",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "WINMATCHWITH_SCIENTIST",
@@ -2518,7 +2523,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 0
     }
   ],
@@ -2526,8 +2531,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:07:58.7245667+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:08:35.6362744+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:56:58.2949266+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:57:40.929762+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:07:58.7245993+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:58:13.1070027+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:08:35.6363074+00:00"
 }

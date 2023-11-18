@@ -18,7 +18,7 @@
 | Iceborn | 58.00% | ~429 |
 | Boom Things | 55.00% | ~407 |
 | Tear of Freedom | 54.00% | ~400 |
-| My Darkest Day | 50.00% | ~370 |
+| My Darkest Day | 51.00% | ~377 |
 | Rhythm Of Willump | 49.00% | ~363 |
 | The Relentless Storm | 48.00% | ~355 |
 | A Tragic Reminder | 46.00% | ~340 |
@@ -31,9 +31,9 @@
 | Boosted! | 38.00% | ~281 |
 | Family | 37.00% | ~274 |
 | Biggest Snowball Ever | 37.00% | ~274 |
+| Freeze The Ice Witch | 37.00% | ~274 |
 | On The Rocks | 37.00% | ~274 |
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~274 |
-| Freeze The Ice Witch | 36.00% | ~266 |
 | It Is Not Over | 35.00% | ~259 |
 | Never Gets Old | 34.00% | ~252 |
 | Snowy Poro | 32.00% | ~237 |

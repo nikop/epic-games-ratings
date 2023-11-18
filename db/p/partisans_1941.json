@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1758,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
@@ -3989,6 +3989,11 @@
       "Time": "2023-11-18T21:09:11.1752971+00:00",
       "NumProgressed": 1758,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T23:05:18.3036099+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4048,7 +4053,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "Defense_Common",
@@ -4078,9 +4083,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 756
     },
     {
       "ID": "Everyone_is_here",
@@ -4110,9 +4115,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 756
     },
     {
       "ID": "Hard_Serpent",
@@ -4150,9 +4155,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 563
     },
     {
       "ID": "KillAllM2",
@@ -4216,7 +4221,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "We_were_not_here",
@@ -4239,15 +4244,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1758,
+      "Progressed": 1759,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:04:51.4574739+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:05:18.3036096+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:59:38.6955877+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:04:51.4575085+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:00:13.3442981+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:05:18.3036369+00:00"
 }

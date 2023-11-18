@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_05",
@@ -815,9 +815,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_09",
@@ -831,9 +831,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_11",
@@ -871,17 +871,17 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_17",
@@ -895,9 +895,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_19",
@@ -975,9 +975,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_29",
@@ -1054,8 +1054,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:09:04.3469611+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:09:42.5056804+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:58:19.5874647+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:09:04.3469896+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:58:53.000534+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:09:42.5056998+00:00"
 }

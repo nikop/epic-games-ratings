@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 803,
+  "EOS_Progressed": 804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2023-11-18T14:08:18.0730668+00:00",
       "NumProgressed": 803,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T23:08:53.0514534+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1866,7 +1871,7 @@
       "Name": "Challenge Mastered",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHV_CITY",
@@ -2026,7 +2031,7 @@
       "Name": "Terminated III",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -2073,13 +2078,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 803,
+      "Progressed": 804,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 3
     }
   ],
@@ -2087,8 +2092,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:08:15.8298466+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:08:53.051453+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.4021607+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:56:59.2975211+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:08:15.8298824+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:57:31.4127698+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:08:53.0514778+00:00"
 }

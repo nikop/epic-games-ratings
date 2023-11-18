@@ -6651,9 +6651,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 720436,
+  "EOS_Progressed": 720462,
   "EOS_Completed": 2409,
-  "EOS_NewPlayers": 3566,
+  "EOS_NewPlayers": 3554,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30931,6 +30931,11 @@
       "Time": "2023-11-18T22:05:48.7949899+00:00",
       "NumProgressed": 720436,
       "NumCompleted": 2409
+    },
+    {
+      "Time": "2023-11-18T23:06:15.9148346+00:00",
+      "NumProgressed": 720462,
+      "NumCompleted": 2409
     }
   ],
   "TotalAchievements": 51,
@@ -30966,7 +30971,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31006,7 +31011,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "ach_contender",
@@ -31030,7 +31035,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "ach_doom_buddies",
@@ -31054,7 +31059,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "ach_finisher",
@@ -31102,7 +31107,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "ach_impressive_aim",
@@ -31214,7 +31219,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "ach_star_performance",
@@ -31262,7 +31267,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31278,7 +31283,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "ach_well_known_survivor",
@@ -31349,22 +31354,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720436,
+      "Progressed": 720462,
       "Completed": 2409
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45978,
-      "Completed": 36559
+      "Progressed": 46004,
+      "Completed": 36561
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-18T13:02:03.2144134+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:05:48.7949894+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:06:15.9148342+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:59:11.7077271+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:05:48.7951104+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:59:45.8321006+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:06:15.9149502+00:00"
 }

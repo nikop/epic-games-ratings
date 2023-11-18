@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,645 |
-| Apprentice | 58.00% | ~385,575 |
-| Close Shave | 25.00% | ~166,196 |
-| Mercenary | 23.00% | ~152,901 |
-| Ninja | 23.00% | ~152,901 |
-| Northern Scourge | 17.00% | ~113,013 |
-| Thief Bane | 14.00% | ~93,070 |
-| Master of Arms | 12.00% | ~79,774 |
-| Gambler | 10.00% | ~66,478 |
-| Dice Master | 10.00% | ~66,478 |
+| The Fool | 72.00% | ~478,650 |
+| Apprentice | 58.00% | ~385,579 |
+| Close Shave | 25.00% | ~166,198 |
+| Mercenary | 23.00% | ~152,902 |
+| Ninja | 23.00% | ~152,902 |
+| Northern Scourge | 17.00% | ~113,014 |
+| Thief Bane | 14.00% | ~93,071 |
+| Master of Arms | 12.00% | ~79,775 |
+| Gambler | 10.00% | ~66,479 |
+| Dice Master | 10.00% | ~66,479 |
 | Swordsman | 9.00% | ~59,831 |
 | Knight | 8.00% | ~53,183 |
 | Cure for Corruption | 8.00% | ~53,183 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,535 |
 | Adventurer | 6.00% | ~39,887 |
 | Empire's Bane | 6.00% | ~39,887 |
-| Jack of all Trades | 5.00% | ~33,239 |
-| Smithy | 5.00% | ~33,239 |
+| Jack of all Trades | 5.00% | ~33,240 |
+| Smithy | 5.00% | ~33,240 |
 | Leap of Faith | 3.00% | ~19,944 |
 | Combat Ready | 3.00% | ~19,944 |
 | Stuffed Potato | 3.00% | ~19,944 |
@@ -41,7 +41,7 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,648 |
 | Thomas' Bane | 0.90% | ~5,983 |
 | Ally | 0.80% | ~5,318 |
-| Gamester | 0.70% | ~4,653 |
+| Gamester | 0.70% | ~4,654 |
 | Hero | 0.60% | ~3,989 |
 | Rebel | 0.60% | ~3,989 |
 | Dungeon Master | 0.50% | ~3,324 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,785 (Ranked 28)  
+Progressed: 664,791 (Ranked 28)  
 Completed: 171 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 171 (0.03%) (Ranked 318)
 | 2023-11-15 | 664,667 | 171 |
 | 2023-11-16 | 664,697 | 171 |
 | 2023-11-17 | 664,732 | 171 |
-| 2023-11-18 | 664,785 | 171 |
+| 2023-11-18 | 664,791 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 468)  
 Sum: 190 (Ranked 404)  

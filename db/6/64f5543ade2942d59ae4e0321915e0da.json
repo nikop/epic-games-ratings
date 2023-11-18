@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "AC_ALL_MONEYSACKS",
       "SetID": "16i2akc",
       "Name": "Bowels",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -277,9 +277,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_BOSS_03",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:03:00.6818786+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:03:26.5534562+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:57:44.6592099+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:03:00.6819333+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:58:17.0401959+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:03:26.5534902+00:00"
 }

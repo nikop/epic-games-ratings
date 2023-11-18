@@ -1,12 +1,12 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,665 |
+| Goodest Of The Good Cops | 28.00% | ~36,666 |
 | Biggest Communism Builder | 24.00% | ~31,428 |
 | The World's Most Laughable Centrist | 21.00% | ~27,499 |
 | Il Coppo Del'Arte! | 18.00% | ~23,571 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,948 (Ranked 82)  
+Progressed: 130,949 (Ranked 82)  
 Completed: 28 (0.02%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 28 (0.02%) (Ranked 324)
 | 2023-11-15 | 130,840 | 28 |
 | 2023-11-16 | 130,879 | 28 |
 | 2023-11-17 | 130,909 | 28 |
-| 2023-11-18 | 130,948 | 28 |
+| 2023-11-18 | 130,949 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 179)  
 Sum: 1,122 (Ranked 249)  

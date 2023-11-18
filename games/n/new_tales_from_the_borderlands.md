@@ -1,14 +1,14 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.08 (Ranked 971)  
+Rating: 4.08 (Ranked 970)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 50.00% | ~1,848 |
 | Totally Intentional | 45.00% | ~1,663 |
 | Each Sold Separately | 38.00% | ~1,404 |
-| We're In | 33.00% | ~1,219 |
+| We're In | 33.00% | ~1,220 |
 | You're Not Naked | 29.00% | ~1,072 |
 | From Zeroes... | 29.00% | ~1,072 |
 | Tale in the Toilet | 29.00% | ~1,072 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 971)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,695 (Ranked 198)  
+Progressed: 3,696 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-12 | 3,690 | 0 |
 | 2023-11-13 | 3,692 | 0 |
 | 2023-11-14 | 3,695 | 0 |
+| 2023-11-18 | 3,696 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

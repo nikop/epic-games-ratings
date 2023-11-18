@@ -111,6 +111,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mehmet's Ambition | 0.10% | ~459 |
 | Multiculturalism | 0.10% | ~459 |
 | My armies are invincible! | 0.10% | ~459 |
+| My True Friend | 0.10% | ~459 |
 | Narcissism | 0.10% | ~459 |
 | Networking | 0.10% | ~459 |
 | No Pirates in my Caribbean | 0.10% | ~459 |
@@ -291,7 +292,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
-| My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,733 (Ranked 41)  
+Progressed: 458,780 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 458,733 | 1 |
+| 2023-11-18 | 458,780 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
 Sum: 58,112 (Ranked 24)  

@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 78,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
@@ -508,9 +508,9 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "aq_achievement_3",
@@ -596,17 +596,17 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "aq_achievement_5",
@@ -644,9 +644,9 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -661,8 +661,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:09:03.5019191+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:09:41.6688966+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:57:39.1261832+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:09:03.5019409+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:58:11.2009644+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:09:41.6689449+00:00"
 }

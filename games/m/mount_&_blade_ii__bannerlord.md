@@ -6,13 +6,13 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,152 |
+| Lawbringer | 40.00% | ~26,153 |
 | Landlord | 33.00% | ~21,576 |
-| Bannerlord | 24.00% | ~15,691 |
-| Horde breaker | 24.00% | ~15,691 |
-| Lawmaker | 24.00% | ~15,691 |
-| Trained | 24.00% | ~15,691 |
-| The king is pleased | 19.00% | ~12,422 |
+| Bannerlord | 24.00% | ~15,692 |
+| Horde breaker | 24.00% | ~15,692 |
+| Lawmaker | 24.00% | ~15,692 |
+| Trained | 24.00% | ~15,692 |
+| The king is pleased | 19.00% | ~12,423 |
 | King Solomon | 18.00% | ~11,769 |
 | Apple of my eye | 16.00% | ~10,461 |
 | I can do it | 16.00% | ~10,461 |
@@ -25,7 +25,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,538 |
 | What have the Romans ever done for us? | 10.00% | ~6,538 |
 | Butterlord | 9.00% | ~5,884 |
-| Mastery | 8.00% | ~5,230 |
+| Mastery | 8.00% | ~5,231 |
 | Know your enemy | 7.00% | ~4,577 |
 | Crowdfunded | 5.00% | ~3,269 |
 | Crush your enemies | 5.00% | ~3,269 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,381 (Ranked 104)  
+Progressed: 65,383 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 65,180 | 0 |
 | 2023-11-16 | 65,241 | 0 |
 | 2023-11-17 | 65,302 | 0 |
-| 2023-11-18 | 65,381 | 0 |
+| 2023-11-18 | 65,383 | 0 |
 ## Awards
 Max (Character Customization): 7,401  (Ranked 53)  
-Sum: 15,333 (Ranked 68)  
+Sum: 15,334 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -285,7 +285,7 @@ Diff (max vs sum): -15
 | This game has Amazing Storytelling | 865 |
 | This game has Amazing Characters | 865 |
 | This game is Relaxing | 854 |
-| This game has Quickly Understood Controls | 831 |
+| This game has Quickly Understood Controls | 832 |
 | This game has a Creative Community | 638 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -599,4 +599,4 @@ Diff (max vs sum): -15
 | 2023-11-15 | 4.74 | - | 7,387 | 15,287 |
 | 2023-11-16 | 4.74 | - | 7,391 | 15,300 |
 | 2023-11-17 | 4.74 | - | 7,397 | 15,314 |
-| 2023-11-18 | 4.74 | - | 7,401 | 15,333 |
+| 2023-11-18 | 4.74 | - | 7,401 | 15,334 |

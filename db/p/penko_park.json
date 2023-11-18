@@ -4,7 +4,7 @@
   "ProductSlug": "penko-park-9b97cf",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-01-12T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.6059982+00:00",
   "LastChanged": "2023-03-31T05:57:36.6059983+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:35.0678179+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:59:05.2410473+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:05:38.8236306+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:59:39.4400495+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:06:06.0066021+00:00"
 }

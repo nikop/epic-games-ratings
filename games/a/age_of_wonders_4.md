@@ -31,11 +31,11 @@ Rating: 4.61 (Ranked 385)
 | Here be Dragons | 0.70% | ~38 |
 | Tipping the Scales | 0.70% | ~38 |
 | Dawn of the Dread | 0.70% | ~38 |
+| Return of the Wizard King | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Fiery Friend | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Prometheus Avenged | 0.60% | ~32 |
-| Return of the Wizard King | 0.50% | ~27 |
 | Arch Mage | 0.50% | ~27 |
 | Preparation Is Everything | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |

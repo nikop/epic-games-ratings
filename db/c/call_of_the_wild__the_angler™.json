@@ -10272,9 +10272,9 @@
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -10487,8 +10487,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-17T16:57:26.9437298+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:03:16.8095921+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:03:42.9524756+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:57:46.3809696+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:03:16.8096478+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:58:18.6806602+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:03:42.9525303+00:00"
 }

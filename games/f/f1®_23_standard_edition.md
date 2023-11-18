@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.67 (Ranked 272)  
+Rating: 4.66 (Ranked 294)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.67 (Ranked 272)
 | Familiar Faces | 47.00% | ~2,727 |
 | Sharing the Love | 42.00% | ~2,437 |
 | Going the Extra Mile | 42.00% | ~2,437 |
-| Hitting a Season | 36.00% | ~2,089 |
+| Hitting a Season | 37.00% | ~2,147 |
 | A Dozen Pieces | 32.00% | ~1,857 |
 | Challenge Yourself | 32.00% | ~1,857 |
 | Making History | 31.00% | ~1,799 |
@@ -29,10 +29,10 @@ Rating: 4.67 (Ranked 272)
 | Gathering Dust | 15.00% | ~870 |
 | Oil and Water | 14.00% | ~812 |
 | Eagle Eye | 13.00% | ~754 |
+| Lightning Round the World | 13.00% | ~754 |
 | Hitting a Bullseye | 13.00% | ~754 |
 | Spinning Around | 13.00% | ~754 |
 | All in a Weekend's Work | 12.00% | ~696 |
-| Lightning Round the World | 12.00% | ~696 |
 | Friendly Competition | 12.00% | ~696 |
 | Switcheroo | 12.00% | ~696 |
 | Recycle | 11.00% | ~638 |
@@ -206,3 +206,4 @@ Diff (max vs sum): 8
 | 2023-11-15 | 4.69 | 32 | 72 |
 | 2023-11-16 | 4.68 | 32 | 72 |
 | 2023-11-17 | 4.68 | 35 | 78 |
+| 2023-11-18 | 4.66 | 35 | 78 |

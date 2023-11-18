@@ -10,14 +10,14 @@
 | My lost nightingale | 38.00% | ~30 |
 | Through the woods | 37.00% | ~29 |
 | Fussy eater | 35.00% | ~27 |
-| Back to the anvil | 32.00% | ~25 |
+| Back to the anvil | 33.00% | ~26 |
 | So soothing... | 32.00% | ~25 |
 | Kekekeke... | 32.00% | ~25 |
+| Roostwig has entered the building | 31.00% | ~24 |
 | Mystery solved | 29.00% | ~23 |
 | Honey, honey, honey… | 29.00% | ~23 |
 | Far away from home | 29.00% | ~23 |
 | Sorry Grandpa | 29.00% | ~23 |
-| Roostwig has entered the building | 29.00% | ~23 |
 | Game Over! | 28.00% | ~22 |
 | A very special drink | 28.00% | ~22 |
 | NOW GO AWAY! | 28.00% | ~22 |
@@ -27,14 +27,14 @@
 | Little genius | 26.00% | ~20 |
 | Show me your true self | 24.00% | ~19 |
 | Beekeeper | 24.00% | ~19 |
+| Pain in the hands | 24.00% | ~19 |
 | Mischief maker | 24.00% | ~19 |
 | You've got mail! | 23.00% | ~18 |
 | Memories | 23.00% | ~18 |
-| Pain in the hands | 23.00% | ~18 |
 | Close the deal | 21.00% | ~16 |
 | Turn the last page | 21.00% | ~16 |
 | Ring-a-ding-ding | 21.00% | ~16 |
-| Kill it! KILL IT! | 19.00% | ~15 |
+| Kill it! KILL IT! | 21.00% | ~16 |
 | Makeover | 18.00% | ~14 |
 | Singstar | 18.00% | ~14 |
 | Bahahahaha... | 17.00% | ~13 |

@@ -15,9 +15,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.70% | ~6,281 |
 | All the President's Men | 0.70% | ~181 |
 | Arachnophobia | 0.70% | ~181 |
-| The Quick and the Dead | 0.60% | ~5,383 |
-| The Hermit | 0.60% | ~5,383 |
-| The Lovers | 0.60% | ~5,383 |
+| The Quick and the Dead | 0.60% | ~5,384 |
+| The Hermit | 0.60% | ~5,384 |
+| The Lovers | 0.60% | ~5,384 |
 | Bushido and Chill | 0.50% | ~4,486 |
 | Christmas Tree Attack | 0.50% | ~4,486 |
 | Life of the Road | 0.50% | ~4,486 |
@@ -32,17 +32,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.40% | ~3,589 |
 | The Fool | 0.40% | ~3,589 |
 | Judy vs Night City | 0.40% | ~3,589 |
-| King of Wands | 0.40% | ~103 |
-| Dirty Deeds | 0.40% | ~103 |
-| Easy Come, Easy Go | 0.40% | ~103 |
+| King of Wands | 0.40% | ~104 |
+| Dirty Deeds | 0.40% | ~104 |
+| Easy Come, Easy Go | 0.40% | ~104 |
 | The Wandering Fool | 0.30% | ~2,692 |
 | The Sun | 0.30% | ~2,692 |
 | Two Heads, One Bullet | 0.30% | ~2,692 |
-| To Bad Decisions! | 0.20% | ~1,794 |
-| Must Be Rats | 0.20% | ~1,794 |
-| Breathtaking | 0.20% | ~1,794 |
-| Ten out of Ten | 0.20% | ~1,794 |
-| The Star | 0.20% | ~1,794 |
+| To Bad Decisions! | 0.20% | ~1,795 |
+| Must Be Rats | 0.20% | ~1,795 |
+| Breathtaking | 0.20% | ~1,795 |
+| Ten out of Ten | 0.20% | ~1,795 |
+| The Star | 0.20% | ~1,795 |
 | The APB is Not Enough | 0.20% | ~52 |
 | Judgement Day | 0.20% | ~52 |
 | King of Pentacles | 0.20% | ~52 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,246 (Ranked 15)  
+Progressed: 897,256 (Ranked 15)  
 Completed: 2,786 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2,786 (0.31%) (Ranked 232)
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
-| 2023-11-18 | 897,246 | 2,786 |
+| 2023-11-18 | 897,256 | 2,786 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
 Sum: 356,403 (Ranked 10)  

@@ -14,7 +14,7 @@
 | The Necroevolution | 15.00% | ~25 |
 | On her own | 12.00% | ~20 |
 | The Alliance | 12.00% | ~20 |
-| Peacemaker | 10.00% | ~16 |
+| Peacemaker | 11.00% | ~18 |
 | Krauta is alive | 10.00% | ~16 |
 | Volcanologist | 9.00% | ~15 |
 | Flying Objects Operator | 9.00% | ~15 |

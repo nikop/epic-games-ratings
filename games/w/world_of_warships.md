@@ -6,27 +6,27 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~44,124 |
-| Initial Capital | 67.00% | ~36,954 |
-| Moneybags | 45.00% | ~24,820 |
-| Junior Supply Officer | 45.00% | ~24,820 |
-| Naval Warfare. Arson | 34.00% | ~18,753 |
-| Naval Warfare. Ramming | 33.00% | ~18,201 |
-| Amateur | 31.00% | ~17,098 |
-| Naval Warfare. Tactics | 31.00% | ~17,098 |
-| Naval Constructor | 31.00% | ~17,098 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,686 |
-| Naval Warfare. Lucky Shot | 20.00% | ~11,031 |
-| Naval Warfare. Flooding | 19.00% | ~10,479 |
-| Business Magnate | 17.00% | ~9,376 |
-| Battle Hero | 16.00% | ~8,825 |
-| Warrior | 13.00% | ~7,170 |
-| Supply Officer | 13.00% | ~7,170 |
-| Smooth Supply | 13.00% | ~7,170 |
-| Veteran | 7.00% | ~3,861 |
-| Legend of the Seas | 4.00% | ~2,206 |
-| Chief Naval Architect | 4.00% | ~2,206 |
-| Shield | 4.00% | ~2,206 |
+| Junior Naval Designer | 80.00% | ~44,139 |
+| Initial Capital | 67.00% | ~36,967 |
+| Moneybags | 45.00% | ~24,828 |
+| Junior Supply Officer | 45.00% | ~24,828 |
+| Naval Warfare. Arson | 34.00% | ~18,759 |
+| Naval Warfare. Ramming | 33.00% | ~18,207 |
+| Amateur | 31.00% | ~17,104 |
+| Naval Warfare. Tactics | 31.00% | ~17,104 |
+| Naval Constructor | 31.00% | ~17,104 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,690 |
+| Naval Warfare. Lucky Shot | 20.00% | ~11,035 |
+| Naval Warfare. Flooding | 19.00% | ~10,483 |
+| Business Magnate | 17.00% | ~9,380 |
+| Battle Hero | 16.00% | ~8,828 |
+| Warrior | 13.00% | ~7,173 |
+| Supply Officer | 13.00% | ~7,173 |
+| Smooth Supply | 13.00% | ~7,173 |
+| Veteran | 7.00% | ~3,862 |
+| Legend of the Seas | 4.00% | ~2,207 |
+| Chief Naval Architect | 4.00% | ~2,207 |
+| Shield | 4.00% | ~2,207 |
 | Important Missions | 3.00% | ~1,655 |
 | Bane of the Oceans | 2.00% | ~1,103 |
 | Senior Supply Officer | 2.00% | ~1,103 |
@@ -43,7 +43,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Experienced One | 0.60% | ~331 |
 | Ravager | 0.40% | ~221 |
 | "Yamamoto Isoroku" | 0.40% | ~221 |
-| "Yamamoto Isoroku" | 0.30% | ~165 |
+| "Yamamoto Isoroku" | 0.30% | ~166 |
 | "Honorable Service" | 0.20% | ~110 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~110 |
 | "Science of Victory" with Honors | 0.10% | ~55 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~55 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,155 (Ranked 107)  
+Progressed: 55,174 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,10 +148,10 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 54,144 | 0 |
 | 2023-11-16 | 54,445 | 0 |
 | 2023-11-17 | 54,768 | 0 |
-| 2023-11-18 | 55,155 | 0 |
+| 2023-11-18 | 55,174 | 0 |
 ## Awards
 Max (Relaxing): 1,522  (Ranked 130)  
-Sum: 12,702 (Ranked 79)  
+Sum: 12,707 (Ranked 79)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -163,7 +163,7 @@ Diff (max vs sum): 51
 | This game is Highly Recommended | 1,457 |
 | This game has Realistic Visuals | 1,329 |
 | This game has Amazing Storytelling | 1,259 |
-| This game has a Competitive Community | 1,184 |
+| This game has a Competitive Community | 1,189 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -478,4 +478,4 @@ Diff (max vs sum): 51
 | 2023-11-15 | 4.41 | - | 1,511 | 12,645 |
 | 2023-11-16 | 4.41 | - | 1,515 | 12,667 |
 | 2023-11-17 | 4.41 | - | 1,518 | 12,683 |
-| 2023-11-18 | 4.41 | - | 1,522 | 12,702 |
+| 2023-11-18 | 4.41 | - | 1,522 | 12,707 |

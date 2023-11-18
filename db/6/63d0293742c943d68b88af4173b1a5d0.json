@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 125,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -464,6 +464,11 @@
       "Time": "2023-11-18T22:03:37.2406885+00:00",
       "NumProgressed": 161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T23:04:03.6269833+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -490,9 +495,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "6",
@@ -514,9 +519,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "9",
@@ -540,7 +545,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REMAKE_004",
@@ -564,7 +569,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Remake_007",
@@ -604,7 +609,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Remake_12",
@@ -618,9 +623,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "Remake_14",
@@ -699,14 +704,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:03:37.2406882+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:04:03.6269828+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:02:35.8855968+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:03:37.2407148+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:02:59.3697216+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:04:03.6269986+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,321 |
-| Alt+F4 | 8.00% | ~19,045 |
-| Where's that freaking Dwarf? | 7.00% | ~16,664 |
+| Sowwy! | 35.00% | ~83,326 |
+| Alt+F4 | 8.00% | ~19,046 |
+| Where's that freaking Dwarf? | 7.00% | ~16,665 |
 | Déjà vu | 6.00% | ~14,284 |
-| Sock! SOCK! | 5.00% | ~11,903 |
-| A beer, two curses, three companions | 4.00% | ~9,522 |
-| GG EZ | 4.00% | ~9,522 |
-| DM intervention | 4.00% | ~9,522 |
-| Speedrun | 4.00% | ~9,522 |
-| Fireproof Wizardess | 4.00% | ~9,522 |
+| Sock! SOCK! | 5.00% | ~11,904 |
+| A beer, two curses, three companions | 4.00% | ~9,523 |
+| GG EZ | 4.00% | ~9,523 |
+| DM intervention | 4.00% | ~9,523 |
+| Speedrun | 4.00% | ~9,523 |
+| Fireproof Wizardess | 4.00% | ~9,523 |
 | Livin' in a dwarven paradise | 3.00% | ~7,142 |
 | Way of the Wimp | 3.00% | ~7,142 |
 | The plot thickens... At the tavern | 3.00% | ~7,142 |
@@ -45,8 +45,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,381 |
 | Material Girl | 1.00% | ~2,381 |
 | In Navalu's footsteps | 0.90% | ~2,143 |
-| Lëgal Legend | 0.80% | ~1,904 |
-| We come in peace | 0.70% | ~1,666 |
+| Lëgal Legend | 0.80% | ~1,905 |
+| We come in peace | 0.70% | ~1,667 |
 | Holistic Adventuring Party | 0.60% | ~1,428 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,428 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,190 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,059 (Ranked 62)  
+Progressed: 238,073 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-15 | 237,338 | 7 |
 | 2023-11-16 | 237,548 | 7 |
 | 2023-11-17 | 237,757 | 7 |
-| 2023-11-18 | 238,059 | 7 |
+| 2023-11-18 | 238,073 | 7 |
 ## Awards
 Max (Character Customization): 231  (Ranked 272)  
 Sum: 467 (Ranked 331)  

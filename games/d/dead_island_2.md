@@ -8,9 +8,9 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~920 |
 | Whatever It Takes | 2.00% | ~920 |
 | Pork Chopped | 2.00% | ~920 |
-| Break A Leg | 1.00% | ~7,204 |
-| Hotel California | 1.00% | ~7,204 |
-| Welcome To Hell-A | 1.00% | ~7,204 |
+| Break A Leg | 1.00% | ~7,205 |
+| Hotel California | 1.00% | ~7,205 |
+| Welcome To Hell-A | 1.00% | ~7,205 |
 | Dr. Reed, I Presume? | 0.90% | ~6,484 |
 | Git Gutte! | 0.90% | ~6,484 |
 | Bookworm | 0.90% | ~6,484 |
@@ -19,11 +19,11 @@ Rating: 4.54 (Ranked 523)
 | Friends Like These | 0.90% | ~6,484 |
 | Apex Predator | 0.90% | ~6,484 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,484 |
-| Anger Management | 0.80% | ~5,763 |
-| But Doctor, I am Butcho | 0.80% | ~5,763 |
-| Can't Handle the Truth | 0.80% | ~5,763 |
-| Stacking the Deck | 0.80% | ~5,763 |
-| This is My Weapon | 0.80% | ~5,763 |
+| Anger Management | 0.80% | ~5,764 |
+| But Doctor, I am Butcho | 0.80% | ~5,764 |
+| Can't Handle the Truth | 0.80% | ~5,764 |
+| Stacking the Deck | 0.80% | ~5,764 |
+| This is My Weapon | 0.80% | ~5,764 |
 | Perks of the Job | 0.70% | ~5,043 |
 | Slayer Squad | 0.70% | ~5,043 |
 | Like Riding a Bike | 0.70% | ~5,043 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,436 (Ranked 20)  
+Progressed: 720,462 (Ranked 20)  
 Completed: 2,409 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2,409 (0.33%) (Ranked 226)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 720,436 | 2,409 |
+| 2023-11-18 | 720,462 | 2,409 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 52)  
 Sum: 11,489 (Ranked 84)  

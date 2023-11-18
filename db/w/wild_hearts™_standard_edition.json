@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1462,9 +1462,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_18",
@@ -1526,9 +1526,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_25",
@@ -1788,8 +1788,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:04:27.6249763+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:04:54.138866+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:07.8893552+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:58:12.6595185+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:04:27.6250164+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:58:46.2635759+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:04:54.1388969+00:00"
 }

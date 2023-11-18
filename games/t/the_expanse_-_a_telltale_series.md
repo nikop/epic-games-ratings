@@ -22,8 +22,8 @@ Rating: 4.56 (Ranked 489)
 | Spore Taste | 3.00% | ~453 |
 | Heal Thy Medic | 3.00% | ~453 |
 | Call it Even | 3.00% | ~453 |
-| Keep Arjun in Check | 3.00% | ~31 |
-| Master Negotiator | 3.00% | ~31 |
+| Keep Arjun in Check | 3.00% | ~32 |
+| Master Negotiator | 3.00% | ~32 |
 | Doctor Approved | 2.00% | ~302 |
 | Bottoms up! | 2.00% | ~302 |
 | Thorston Mayer | 2.00% | ~302 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,095 (Ranked 150)  
+Progressed: 15,097 (Ranked 150)  
 Completed: 34 (0.23%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 34 (0.23%) (Ranked 245)
 | 2023-11-15 | 14,993 | 34 |
 | 2023-11-16 | 15,021 | 34 |
 | 2023-11-17 | 15,061 | 34 |
-| 2023-11-18 | 15,095 | 34 |
+| 2023-11-18 | 15,097 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

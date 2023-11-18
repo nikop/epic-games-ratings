@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.08 (Ranked 971)  
+Rating: 4.08 (Ranked 970)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.08 (Ranked 971)
 | Socialite | 28.00% | ~78 |
 | The Means to Save It | 24.00% | ~67 |
 | Resilience to Sin | 21.00% | ~59 |
-| A Familiar Nest | 20.00% | ~56 |
-| Periapt Alizarin | 20.00% | ~56 |
+| A Familiar Nest | 21.00% | ~59 |
+| Periapt Alizarin | 21.00% | ~59 |
 | Geas Aristeya | 19.00% | ~53 |
 | A Perfect Cycle | 18.00% | ~50 |
 | Recruit | 17.00% | ~48 |
@@ -29,13 +29,13 @@ Rating: 4.08 (Ranked 971)
 | Lights Army | 11.00% | ~31 |
 | Periapt Cerulean | 11.00% | ~31 |
 | Good Boy | 11.00% | ~31 |
+| Armaments Azure | 8.00% | ~22 |
 | Periapt Viridian | 8.00% | ~22 |
 | Shroudfane Explorer | 8.00% | ~22 |
 | Best Dressed | 7.00% | ~20 |
-| Armaments Azure | 7.00% | ~20 |
 | Armaments Gules | 6.00% | ~17 |
 | Scholar | 5.00% | ~14 |
-| Kitted Out | 4.00% | ~11 |
+| Kitted Out | 5.00% | ~14 |
 | Armaments Vert | 4.00% | ~11 |
 | Veteran | 4.00% | ~11 |
 | Master of Carmine | 2.00% | ~6 |

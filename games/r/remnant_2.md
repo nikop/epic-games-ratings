@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Regicide | 0.30% | ~7 |
-| Master of the Dark Arts | 0.30% | ~7 |
+| Regicide | 0.30% | ~8 |
+| Master of the Dark Arts | 0.30% | ~8 |
 | Expanding Horizons | 0.10% | ~223 |
 | Crafty | 0.10% | ~223 |
 | Am I Seeing This? | 0.10% | ~223 |
@@ -57,11 +57,11 @@ Rating: 4.75 (Ranked 148)
 | Trait Chaser | 0.10% | ~223 |
 | Maxed Out! | 0.10% | ~223 |
 | Transmutate | 0.10% | ~223 |
-| Succession | 0.10% | ~2 |
-| A Foul Feast | 0.10% | ~2 |
-| You Shall Pass | 0.10% | ~2 |
+| Succession | 0.10% | ~3 |
+| A Foul Feast | 0.10% | ~3 |
+| You Shall Pass | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,329 (Ranked 68)  
+Progressed: 223,350 (Ranked 68)  
 Completed: 472 (0.21%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,10 +186,10 @@ Completed: 472 (0.21%) (Ranked 249)
 | 2023-11-15 | 221,392 | 457 |
 | 2023-11-16 | 221,935 | 466 |
 | 2023-11-17 | 222,583 | 469 |
-| 2023-11-18 | 223,329 | 472 |
+| 2023-11-18 | 223,350 | 472 |
 ## Awards
 Max (Great Boss Battles): 2,299  (Ranked 105)  
-Sum: 5,375 (Ranked 133)  
+Sum: 5,384 (Ranked 133)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -203,7 +203,7 @@ Diff (max vs sum): -28
 | This game has Quickly Understood Controls | 303 |
 | This game has Amazing Characters | 300 |
 | This game has Unique Visuals | 257 |
-| This game has a Creative Community | 229 |
+| This game has a Creative Community | 238 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -322,4 +322,4 @@ Diff (max vs sum): -28
 | 2023-11-15 | 4.75 | 2,206 | 5,102 |
 | 2023-11-16 | 4.75 | 2,248 | 5,228 |
 | 2023-11-17 | 4.75 | 2,280 | 5,300 |
-| 2023-11-18 | 4.75 | 2,299 | 5,375 |
+| 2023-11-18 | 4.75 | 2,299 | 5,384 |

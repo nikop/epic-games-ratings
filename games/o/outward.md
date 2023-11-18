@@ -12,7 +12,7 @@ Number of Ratings: 266  (23.09.2022)
 | Cordon Bleu | 45.00% | ~1,650 |
 | Tapped! | 38.00% | ~1,393 |
 | Eureka | 33.00% | ~1,210 |
-| Scourge Slayer | 26.00% | ~953 |
+| Scourge Slayer | 27.00% | ~990 |
 | Science, Troglodyte! | 24.00% | ~880 |
 | Exceptional Skill | 23.00% | ~843 |
 | Home Sweet Home | 23.00% | ~843 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,666 (Ranked 200)  
+Progressed: 3,666 (Ranked 201)  
 Completed: 4 (0.11%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |

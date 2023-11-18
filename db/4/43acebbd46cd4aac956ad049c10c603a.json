@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -99,7 +99,7 @@
   ],
   "EOS_Progressed": 383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -892,9 +892,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "BreakTheLoop",
@@ -1004,9 +1004,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "HighPlain",
@@ -1020,9 +1020,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "JustOneLap",
@@ -1060,9 +1060,9 @@
       "ID": "Mnemosyne",
       "SetID": "1n308hc",
       "Name": "Mnemosyne",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "MuseumExplorer",
@@ -1108,9 +1108,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 207
     },
     {
       "ID": "Persistent",
@@ -1164,9 +1164,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "SingleRod",
@@ -1276,9 +1276,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "VerdantCanyon",
@@ -1333,8 +1333,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:05:46.1283802+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:06:13.2815564+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:57:03.5698751+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:05:46.1284286+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:57:35.8617281+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:06:13.2815948+00:00"
 }

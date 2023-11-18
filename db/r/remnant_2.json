@@ -4327,10 +4327,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5375,
       "NumberOfAwardsMax": 2299
+    },
+    {
+      "Time": "2023-11-18T23:03:14.5351177+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5384,
+      "NumberOfAwardsMax": 2299
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5375,
+  "NumberOfAwards": 5384,
   "NumberOfAwardsMax": 2299,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4380,7 +4386,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 229
+      "Count": 238
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4401,9 +4407,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 223329,
+  "EOS_Progressed": 223350,
   "EOS_Completed": 472,
-  "EOS_NewPlayers": 3538,
+  "EOS_NewPlayers": 3549,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18726,6 +18732,11 @@
       "Time": "2023-11-18T22:08:13.7451156+00:00",
       "NumProgressed": 223329,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-11-18T23:08:51.0887972+00:00",
+      "NumProgressed": 223350,
+      "NumCompleted": 472
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19138,7 +19149,7 @@
       "Name": "Regicide",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19146,7 +19157,7 @@
       "Name": "Succession",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -19154,7 +19165,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19162,7 +19173,7 @@
       "Name": "A Foul Feast",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DLC1_Obtain_Warden_Reward",
@@ -19170,29 +19181,29 @@
       "Name": "You Shall Pass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 223329,
+      "Progressed": 223350,
       "Completed": 472
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 2494,
+      "Progressed": 2515,
       "Completed": 109
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-18T21:06:16.5620644+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:08:13.7451151+00:00",
+  "LastChanged": "2023-11-18T23:03:14.5351176+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:08:51.0887968+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:02:50.0039332+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:08:13.745233+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:03:14.5351182+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:08:51.0888936+00:00"
 }

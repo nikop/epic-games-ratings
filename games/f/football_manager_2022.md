@@ -6,54 +6,54 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,144 |
-| He's Signed! | 50.00% | ~238,144 |
-| First Victory | 50.00% | ~238,144 |
-| He's Sold! | 48.00% | ~228,618 |
-| I'm The Boss! | 42.00% | ~200,041 |
-| Hat-trick | 41.00% | ~195,278 |
-| Scoring Streak | 38.00% | ~180,989 |
-| Unbeatable! | 37.00% | ~176,226 |
-| Thumping | 37.00% | ~176,226 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,700 |
-| Total Support | 32.00% | ~152,412 |
-| Record Signing | 32.00% | ~152,412 |
-| He's a Natural | 31.00% | ~147,649 |
-| Millionaire's Club | 31.00% | ~147,649 |
-| Team Performance | 30.00% | ~142,886 |
-| Parked The Bus | 29.00% | ~138,123 |
-| Shrewd Spender | 29.00% | ~138,123 |
-| Star Man | 29.00% | ~138,123 |
-| Attack! | 28.00% | ~133,360 |
-| You're On Fire | 27.00% | ~128,597 |
-| Tremendous Trio | 27.00% | ~128,597 |
-| Record Sale | 27.00% | ~128,597 |
-| On A Roll | 26.00% | ~123,835 |
-| Unstoppable Force | 26.00% | ~123,835 |
-| Armchair Expert | 25.00% | ~119,072 |
-| Fantastic Five | 24.00% | ~114,309 |
-| Full Faith | 24.00% | ~114,309 |
-| Iron Curtain | 24.00% | ~114,309 |
-| The Boss | 24.00% | ~114,309 |
-| Top Of The Class | 23.00% | ~109,546 |
-| Goal Machine | 23.00% | ~109,546 |
-| Splashing The Cash | 22.00% | ~104,783 |
-| Clean Bill of Health | 22.00% | ~104,783 |
-| What A Goal! | 22.00% | ~104,783 |
-| Cup Glory! | 22.00% | ~104,783 |
-| Irresistible Force | 20.00% | ~95,257 |
-| Excellent Match Cohesion | 20.00% | ~95,257 |
+| Clean Sheet | 50.00% | ~238,146 |
+| He's Signed! | 50.00% | ~238,146 |
+| First Victory | 50.00% | ~238,146 |
+| He's Sold! | 48.00% | ~228,620 |
+| I'm The Boss! | 42.00% | ~200,043 |
+| Hat-trick | 41.00% | ~195,280 |
+| Scoring Streak | 38.00% | ~180,991 |
+| Unbeatable! | 37.00% | ~176,228 |
+| Thumping | 37.00% | ~176,228 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,702 |
+| Total Support | 32.00% | ~152,413 |
+| Record Signing | 32.00% | ~152,413 |
+| He's a Natural | 31.00% | ~147,651 |
+| Millionaire's Club | 31.00% | ~147,651 |
+| Team Performance | 30.00% | ~142,888 |
+| Parked The Bus | 29.00% | ~138,125 |
+| Shrewd Spender | 29.00% | ~138,125 |
+| Star Man | 29.00% | ~138,125 |
+| Attack! | 28.00% | ~133,362 |
+| You're On Fire | 27.00% | ~128,599 |
+| Tremendous Trio | 27.00% | ~128,599 |
+| Record Sale | 27.00% | ~128,599 |
+| On A Roll | 26.00% | ~123,836 |
+| Unstoppable Force | 26.00% | ~123,836 |
+| Armchair Expert | 25.00% | ~119,073 |
+| Fantastic Five | 24.00% | ~114,310 |
+| Full Faith | 24.00% | ~114,310 |
+| Iron Curtain | 24.00% | ~114,310 |
+| The Boss | 24.00% | ~114,310 |
+| Top Of The Class | 23.00% | ~109,547 |
+| Goal Machine | 23.00% | ~109,547 |
+| Splashing The Cash | 22.00% | ~104,784 |
+| Clean Bill of Health | 22.00% | ~104,784 |
+| What A Goal! | 22.00% | ~104,784 |
+| Cup Glory! | 22.00% | ~104,784 |
+| Irresistible Force | 20.00% | ~95,258 |
+| Excellent Match Cohesion | 20.00% | ~95,258 |
 | Do The Double | 19.00% | ~90,495 |
-| Top Form | 17.00% | ~80,969 |
-| Cash To Burn | 17.00% | ~80,969 |
-| Overachiever! | 16.00% | ~76,206 |
-| Rushed signing | 16.00% | ~76,206 |
-| Beating Expectations | 15.00% | ~71,443 |
-| Window Shopping | 15.00% | ~71,443 |
-| Eyes and Ears | 14.00% | ~66,680 |
-| Comeback King! | 14.00% | ~66,680 |
-| You're Up! | 13.00% | ~61,917 |
-| Money, Money, Money | 12.00% | ~57,154 |
+| Top Form | 17.00% | ~80,970 |
+| Cash To Burn | 17.00% | ~80,970 |
+| Overachiever! | 16.00% | ~76,207 |
+| Rushed signing | 16.00% | ~76,207 |
+| Beating Expectations | 15.00% | ~71,444 |
+| Window Shopping | 15.00% | ~71,444 |
+| Eyes and Ears | 14.00% | ~66,681 |
+| Comeback King! | 14.00% | ~66,681 |
+| You're Up! | 13.00% | ~61,918 |
+| Money, Money, Money | 12.00% | ~57,155 |
 | Invincible! | 11.00% | ~52,392 |
 | Superb Strike | 10.00% | ~47,629 |
 | International Superstar | 10.00% | ~47,629 |
@@ -63,14 +63,14 @@ Number of Ratings: 19,160  (23.09.2022)
 | Headhunted | 9.00% | ~42,866 |
 | Domination | 9.00% | ~42,866 |
 | Best In The Business | 8.00% | ~38,103 |
-| Legend | 6.00% | ~28,577 |
-| Win the Club World Cup | 6.00% | ~28,577 |
-| Parked The Tank | 6.00% | ~28,577 |
-| World Renowned | 6.00% | ~28,577 |
-| Head-to-Head | 6.00% | ~28,577 |
-| Going Places | 5.00% | ~23,814 |
-| We Trust You | 5.00% | ~23,814 |
-| Trophy Hoarder | 4.00% | ~19,051 |
+| Legend | 6.00% | ~28,578 |
+| Win the Club World Cup | 6.00% | ~28,578 |
+| Parked The Tank | 6.00% | ~28,578 |
+| World Renowned | 6.00% | ~28,578 |
+| Head-to-Head | 6.00% | ~28,578 |
+| Going Places | 5.00% | ~23,815 |
+| We Trust You | 5.00% | ~23,815 |
+| Trophy Hoarder | 4.00% | ~19,052 |
 | National Hero | 3.00% | ~14,289 |
 | Golden Boot | 3.00% | ~14,289 |
 | Freedom Of The Country | 3.00% | ~14,289 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,287 (Ranked 39)  
+Progressed: 476,292 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 22 (0.00%) (Ranked 356)
 | 2023-11-15 | 476,100 | 22 |
 | 2023-11-16 | 476,170 | 22 |
 | 2023-11-17 | 476,214 | 22 |
-| 2023-11-18 | 476,287 | 22 |
+| 2023-11-18 | 476,292 | 22 |
 ## Awards
 Max (Relaxing): 6,466  (Ranked 59)  
-Sum: 51,006 (Ranked 28)  
+Sum: 51,008 (Ranked 28)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 5,895 |
 | This game has Quickly Understood Controls | 5,893 |
 | This game is Educational | 5,883 |
-| This game has Diverse Characters | 5,573 |
+| This game has Diverse Characters | 5,575 |
 | This game has Amazing Storytelling | 4,928 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,386 |
@@ -629,4 +629,4 @@ Diff (max vs sum): 31
 | 2023-11-13 | 4.80 | - | 6,465 | 50,994 |
 | 2023-11-15 | 4.80 | - | 6,466 | 50,998 |
 | 2023-11-17 | 4.80 | - | 6,466 | 51,002 |
-| 2023-11-18 | 4.80 | - | 6,466 | 51,006 |
+| 2023-11-18 | 4.80 | - | 6,466 | 51,008 |

@@ -19,8 +19,8 @@
 | Unicorn steaks – fresh off the hoof! | 56.00% | ~171 |
 | Minions, Minions! | 54.00% | ~165 |
 | Trap Master | 52.00% | ~159 |
-| The Ascent | 44.00% | ~135 |
-| It's Warm and Cozy at Home | 44.00% | ~135 |
+| The Ascent | 45.00% | ~138 |
+| It's Warm and Cozy at Home | 45.00% | ~138 |
 | YOU SHALL NOT PASS! | 42.00% | ~129 |
 | Hard Work | 40.00% | ~122 |
 | The Big Eaty | 40.00% | ~122 |
@@ -30,23 +30,23 @@
 | Dungeonlord Gorgu | 30.00% | ~92 |
 | Shame! Shame! Shame! | 28.00% | ~86 |
 | The Cathedral of Light | 27.00% | ~83 |
-| Tanos' Crusade Against Thalya | 23.00% | ~70 |
+| Tanos' Crusade Against Thalya | 24.00% | ~73 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~67 |
 | Hungry, Hungry Gorgu! | 19.00% | ~58 |
 | Unstoppable Horde | 19.00% | ~58 |
 | Master of the Undead | 19.00% | ~58 |
 | Forbidden Knowledge | 18.00% | ~55 |
-| All’s Well That Ends Evil | 17.00% | ~52 |
+| All’s Well That Ends Evil | 18.00% | ~55 |
 | Sacrificial Pit = Garbage Disposal? | 14.00% | ~43 |
 | Ghost Pirates? Ghost Heroes! | 14.00% | ~43 |
 | The Duel | 14.00% | ~43 |
+| Stop Tanos! | 13.00% | ~40 |
 | If Looks Could Kill | 13.00% | ~40 |
-| Stop Tanos! | 12.00% | ~37 |
 | The Finitude Drill | 12.00% | ~37 |
 | Sabotage! | 9.00% | ~28 |
+| My Little Torture Chamber | 8.00% | ~24 |
 | Bonus Evilness | 8.00% | ~24 |
 | Doom Hill | 8.00% | ~24 |
-| My Little Torture Chamber | 7.00% | ~21 |
 | Brimstone Shaken, Not Stirred | 7.00% | ~21 |
 | Mirror, Mirror | 6.00% | ~18 |
 | Untouchable | 6.00% | ~18 |
@@ -56,11 +56,11 @@
 | Lavalumps on Ice! | 5.00% | ~15 |
 | Rubble and Ashes | 5.00% | ~15 |
 | The Rune Sockets of Finitude (Part 2) | 5.00% | ~15 |
+| The Last Stand - This Time For Real! | 5.00% | ~15 |
 | Laser Eyes Are So Useless | 4.00% | ~12 |
+| To the Max! | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
-| The Last Stand - This Time For Real! | 4.00% | ~12 |
-| To the Max! | 3.00% | ~9 |
-| Evilification | 3.00% | ~9 |
+| Evilification | 4.00% | ~12 |
 | No Mana, No Cry | 2.00% | ~6 |
 | Heal Heal Blessing | 2.00% | ~6 |
 | Hands Off My Stones | 2.00% | ~6 |

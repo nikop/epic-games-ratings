@@ -5,9 +5,9 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -718,6 +718,11 @@
       "Time": "2023-11-18T22:07:54.2580917+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T23:08:30.9836047+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -784,7 +789,7 @@
       "ID": "BurrowBlocked",
       "SetID": "71c0n9i",
       "Name": "This Spot\u0027s Taken",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -800,7 +805,7 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -816,7 +821,7 @@
       "ID": "ChargerCount",
       "SetID": "71c0n9i",
       "Name": "Fully Charged",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -904,7 +909,7 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -936,7 +941,7 @@
       "ID": "MultiKill",
       "SetID": "71c0n9i",
       "Name": "Multi Kill",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -968,7 +973,7 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -992,7 +997,7 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1000,7 +1005,7 @@
       "ID": "RepelIntoExplosiveFungi",
       "SetID": "71c0n9i",
       "Name": "Such A Fungi",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1016,7 +1021,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1112,7 +1117,7 @@
       "ID": "WinSiegeAsAttacker",
       "SetID": "71c0n9i",
       "Name": "Veni, Vidi, Vici",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1120,7 +1125,7 @@
       "ID": "WinSiegeAsDefender",
       "SetID": "71c0n9i",
       "Name": "Venisti, Vidisti, Perdidisti",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1161,15 +1166,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:07:54.2580912+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:08:30.9836043+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
   "LastUpdate_Ratings": "2023-11-18T22:00:01.467357+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:07:54.2581318+00:00"
+  "LastUpdate_Achievements": "2023-11-18T23:08:30.9836359+00:00"
 }

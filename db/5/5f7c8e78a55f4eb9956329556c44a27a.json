@@ -299,9 +299,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -363,9 +363,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -419,17 +419,17 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -475,9 +475,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -578,8 +578,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:03:48.5493557+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:04:14.8949482+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:58:56.6887088+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:03:48.5493798+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:59:30.5827192+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:04:14.8949711+00:00"
 }

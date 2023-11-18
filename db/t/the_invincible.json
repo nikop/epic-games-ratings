@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -482,9 +482,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "AchvBombing",
@@ -689,8 +689,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-18T22:08:07.3527329+00:00",
+  "LastChanged_Achievements": "2023-11-18T23:08:44.5763366+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:00:02.5074101+00:00",
-  "LastUpdate_Achievements": "2023-11-18T22:08:07.3527753+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:02:47.6532314+00:00",
+  "LastUpdate_Achievements": "2023-11-18T23:08:44.5763598+00:00"
 }

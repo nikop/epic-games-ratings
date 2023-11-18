@@ -14,17 +14,17 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 4.00% | ~5 |
 | Humiliation | 2.00% | ~2 |
 | Expert Essence Employment | 2.00% | ~2 |
-| This Spot's Taken | 0.90% | ~1 |
-| Versatile Wielder | 0.90% | ~1 |
-| Fully Charged | 0.90% | ~1 |
-| Infernal Influence | 0.90% | ~1 |
-| Multi Kill | 0.90% | ~1 |
-| Whoops! | 0.90% | ~1 |
-| Don't Touch My Stuff | 0.90% | ~1 |
-| Such A Fungi | 0.90% | ~1 |
-| Get Over Here! | 0.90% | ~1 |
-| Veni, Vidi, Vici | 0.90% | ~1 |
-| Venisti, Vidisti, Perdidisti | 0.90% | ~1 |
+| This Spot's Taken | 0.80% | ~1 |
+| Versatile Wielder | 0.80% | ~1 |
+| Fully Charged | 0.80% | ~1 |
+| Infernal Influence | 0.80% | ~1 |
+| Multi Kill | 0.80% | ~1 |
+| Whoops! | 0.80% | ~1 |
+| Don't Touch My Stuff | 0.80% | ~1 |
+| Such A Fungi | 0.80% | ~1 |
+| Get Over Here! | 0.80% | ~1 |
+| Veni, Vidi, Vici | 0.80% | ~1 |
+| Venisti, Vidisti, Perdidisti | 0.80% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
 | Death To Diplomacy | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 412)  
+Progressed: 118 (Ranked 411)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
-| 2023-11-18 | 117 | 0 |
+| 2023-11-18 | 118 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  
