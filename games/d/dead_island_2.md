@@ -8,9 +8,9 @@ Rating: 4.54 (Ranked 522)
 | One of Us | 2.00% | ~908 |
 | Whatever It Takes | 2.00% | ~908 |
 | Pork Chopped | 2.00% | ~908 |
-| Break A Leg | 1.00% | ~7,198 |
-| Hotel California | 1.00% | ~7,198 |
-| Welcome To Hell-A | 1.00% | ~7,198 |
+| Break A Leg | 1.00% | ~7,199 |
+| Hotel California | 1.00% | ~7,199 |
+| Welcome To Hell-A | 1.00% | ~7,199 |
 | Git Gutte! | 0.90% | ~6,479 |
 | Coup de Grâce | 0.90% | ~6,479 |
 | Hazardous Materials | 0.90% | ~6,479 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,850 (Ranked 20)  
+Progressed: 719,860 (Ranked 20)  
 Completed: 2,404 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2,404 (0.33%) (Ranked 227)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 719,850 | 2,404 |
+| 2023-11-18 | 719,860 | 2,404 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 51)  
 Sum: 11,480 (Ranked 84)  

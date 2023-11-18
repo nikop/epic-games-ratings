@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16482,
+  "EOS_Progressed": 16483,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14353,6 +14353,11 @@
       "Time": "2023-11-18T01:49:53.3322828+00:00",
       "NumProgressed": 16482,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-18T02:24:28.1982369+00:00",
+      "NumProgressed": 16483,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14420,7 +14425,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "tpote_achievement_17",
@@ -14476,7 +14481,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "tpote_achievement_23",
@@ -14540,7 +14545,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5274
+      "UsersEstimate": 5275
     },
     {
       "ID": "tpote_achievement_30",
@@ -14564,7 +14569,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "tpote_achievement_33",
@@ -14691,15 +14696,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16482,
+      "Progressed": 16483,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:49:53.3322823+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:24:28.1982365+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.2386539+00:00",
   "LastUpdate_Ratings": "2023-11-18T01:47:14.4482557+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:49:53.3324083+00:00"
+  "LastUpdate_Achievements": "2023-11-18T02:24:28.1983135+00:00"
 }

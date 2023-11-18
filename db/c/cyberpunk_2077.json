@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15320,9 +15320,9 @@
       "Count": 13097
     }
   ],
-  "EOS_Progressed": 897082,
+  "EOS_Progressed": 897086,
   "EOS_Completed": 2784,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39295,6 +39295,11 @@
       "Time": "2023-11-18T01:49:01.9362189+00:00",
       "NumProgressed": 897082,
       "NumCompleted": 2784
+    },
+    {
+      "Time": "2023-11-18T02:23:51.2043923+00:00",
+      "NumProgressed": 897086,
+      "NumCompleted": 2784
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39321,9 +39326,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 4485
     },
     {
       "ID": "Cyberjunkie",
@@ -39435,7 +39440,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "MustBeTheRats",
@@ -39842,21 +39847,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897082,
+      "Progressed": 897086,
       "Completed": 2784
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25705,
+      "Progressed": 25709,
       "Completed": 10231
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-17T18:58:20.053074+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:49:01.9362142+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:23:51.2043918+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:44:16.3168782+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:49:01.9364681+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:18:46.7851469+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:23:51.2045478+00:00"
 }

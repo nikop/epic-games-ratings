@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 127,
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24349,
+  "EOS_Progressed": 24350,
   "EOS_Completed": 465,
   "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 11,
@@ -23143,6 +23143,11 @@
       "Time": "2023-11-18T01:53:02.65634+00:00",
       "NumProgressed": 24349,
       "NumCompleted": 465
+    },
+    {
+      "Time": "2023-11-18T02:26:45.4732977+00:00",
+      "NumProgressed": 24350,
+      "NumCompleted": 465
     }
   ],
   "TotalAchievements": 20,
@@ -23154,7 +23159,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4140
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -23162,7 +23167,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "EAST_FINISHED",
@@ -23178,7 +23183,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -23202,7 +23207,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -23250,7 +23255,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -23274,7 +23279,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18749
+      "UsersEstimate": 18750
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23290,7 +23295,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -23313,15 +23318,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24349,
+      "Progressed": 24350,
       "Completed": 465
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:53:02.6563394+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:26:45.4732974+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:44:12.8696174+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:53:02.6564939+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:18:44.5319466+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:26:45.4733914+00:00"
 }

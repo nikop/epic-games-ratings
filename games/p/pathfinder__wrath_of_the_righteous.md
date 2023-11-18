@@ -48,11 +48,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 1.00% | ~121 |
 | Strategic Victory | 1.00% | ~121 |
 | Abyssal Conspiracy | 1.00% | ~121 |
+| Truly Profane Gift | 1.00% | ~121 |
 | This Wall Won't Fall | 1.00% | ~109 |
 | Not the Last Sarkorian | 1.00% | ~109 |
 | Path of the Dragon | 0.90% | ~109 |
 | End of Eternal Guard | 0.90% | ~109 |
-| Truly Profane Gift | 0.90% | ~109 |
 | Masterful Charge | 0.70% | ~85 |
 | Playful Mood | 0.70% | ~85 |
 | Dreadful Dragon | 0.70% | ~85 |

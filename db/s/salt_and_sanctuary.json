@@ -2784,9 +2784,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538498,
+  "EOS_Progressed": 538499,
   "EOS_Completed": 1614,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -26084,6 +26084,11 @@
       "Time": "2023-11-18T01:52:25.0026585+00:00",
       "NumProgressed": 538498,
       "NumCompleted": 1614
+    },
+    {
+      "Time": "2023-11-18T02:26:17.2040375+00:00",
+      "NumProgressed": 538499,
+      "NumCompleted": 1614
     }
   ],
   "TotalAchievements": 37,
@@ -26111,7 +26116,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 166934
+      "UsersEstimate": 166935
     },
     {
       "ID": "DEVOTED",
@@ -26151,7 +26156,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 446953
+      "UsersEstimate": 446954
     },
     {
       "ID": "HONED",
@@ -26207,7 +26212,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215399
+      "UsersEstimate": 215400
     },
     {
       "ID": "THE_CASTLE",
@@ -26390,15 +26395,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538498,
+      "Progressed": 538499,
       "Completed": 1614
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-17T08:59:35.2952506+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:52:25.002658+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:26:17.204037+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:38.8645377+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:47:00.7930202+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:52:25.0027867+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:20:36.8174101+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:26:17.2041492+00:00"
 }

@@ -2741,7 +2741,7 @@
   ],
   "EOS_Progressed": 8592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8429,9 +8429,9 @@
       "ID": "ach06",
       "SetID": "47in8n6",
       "Name": "Titan",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6530
     },
     {
       "ID": "ach07",
@@ -8798,8 +8798,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-18T01:45:59.1200646+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:50:44.187387+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:25:04.2998864+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:45:59.1200652+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:50:44.1874478+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:19:55.4518407+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:25:04.2999445+00:00"
 }

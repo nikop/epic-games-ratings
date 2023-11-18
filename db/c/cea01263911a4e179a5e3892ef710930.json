@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86767,
+  "EOS_Progressed": 86768,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 862,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -11275,6 +11275,11 @@
       "Time": "2023-11-18T01:49:26.0658129+00:00",
       "NumProgressed": 86767,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-18T02:24:08.5941454+00:00",
+      "NumProgressed": 86768,
+      "NumCompleted": 287
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -11295,7 +11300,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 17353
+      "UsersEstimate": 17354
     },
     {
       "ID": "grp_collect_ruby",
@@ -11311,7 +11316,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30368
+      "UsersEstimate": 30369
     },
     {
       "ID": "grp_finallevel",
@@ -11375,7 +11380,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 46854
+      "UsersEstimate": 46855
     },
     {
       "ID": "grp_money_tree",
@@ -11391,7 +11396,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 40780
+      "UsersEstimate": 40781
     },
     {
       "ID": "grp_stone",
@@ -11422,7 +11427,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 86767,
+      "Progressed": 86768,
       "Completed": 287
     }
   ],
@@ -11430,8 +11435,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-11T10:01:03.2039027+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:49:26.0658124+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:24:08.5941451+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.8634977+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:47:06.2198135+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:49:26.0658826+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:20:40.4851374+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:24:08.5942114+00:00"
 }

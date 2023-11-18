@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.5,
+  "EOS_Completed_Percentage": 5.49,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2495,6 +2495,11 @@
       "Time": "2023-11-18T01:50:22.8281653+00:00",
       "NumProgressed": 582,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T02:24:49.3411702+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2538,7 +2543,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "META_HALF_LINK",
@@ -2608,9 +2613,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2626,7 +2631,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2666,7 +2671,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PROGRESS_N2",
@@ -2698,21 +2703,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:50:22.8281648+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:24:49.3411696+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:45:36.4884001+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:50:22.8281913+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:19:40.4235925+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:24:49.3411979+00:00"
 }

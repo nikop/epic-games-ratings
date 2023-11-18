@@ -5227,9 +5227,9 @@
       "Count": 671
     }
   ],
-  "EOS_Progressed": 3580934,
+  "EOS_Progressed": 3580937,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2475,
+  "EOS_NewPlayers": 2465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29472,6 +29472,11 @@
       "Time": "2023-11-18T01:53:27.0421662+00:00",
       "NumProgressed": 3580934,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-18T02:27:03.1009755+00:00",
+      "NumProgressed": 3580937,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -29523,7 +29528,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 572949
+      "UsersEstimate": 572950
     },
     {
       "ID": "BUILD_2",
@@ -29547,7 +29552,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1396564
+      "UsersEstimate": 1396565
     },
     {
       "ID": "CASH_2",
@@ -29643,7 +29648,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1038471
+      "UsersEstimate": 1038472
     },
     {
       "ID": "JOBS_2",
@@ -29683,7 +29688,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 250665
+      "UsersEstimate": 250666
     },
     {
       "ID": "LEVEL_2",
@@ -29723,7 +29728,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1754658
+      "UsersEstimate": 1754659
     },
     {
       "ID": "NO_PASTE",
@@ -29731,7 +29736,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1647230
+      "UsersEstimate": 1647231
     },
     {
       "ID": "OPC_BM_1",
@@ -29843,7 +29848,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 250665
+      "UsersEstimate": 250666
     },
     {
       "ID": "STARS_2",
@@ -29898,15 +29903,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3580934,
+      "Progressed": 3580937,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-11-17T21:56:59.4836623+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:53:27.0421658+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:27:03.1009752+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:25.1739972+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:42:35.2536389+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:53:27.0423389+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:17:37.8835488+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:27:03.1011019+00:00"
 }

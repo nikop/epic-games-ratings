@@ -142,6 +142,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Subsidize my Love | 0.10% | ~458 |
 | The Sudanese Expedition | 0.10% | ~458 |
 | Surfing USA | 0.10% | ~458 |
+| Swahili Persuasion | 0.10% | ~458 |
 | Sweet Harmony | 0.10% | ~458 |
 | Switzerlake | 0.10% | ~458 |
 | Tear Down This Wall | 0.10% | ~458 |
@@ -327,7 +328,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sunset Invasion | 0.00% | ~0 |
 | Super Trooper | 0.00% | ~0 |
-| Swahili Persuasion | 0.00% | ~0 |
 | Sweden is not overpowered! | 0.00% | ~0 |
 | Sweet Home Qaraqorum | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,870 (Ranked 41)  
+Progressed: 457,880 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 457,870 | 1 |
+| 2023-11-18 | 457,880 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 58,000 (Ranked 24)  

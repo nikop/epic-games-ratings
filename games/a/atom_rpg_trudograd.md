@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 88.00% | ~1,116 |
+| Fresh Prince of Trudograd | 88.00% | ~1,117 |
 | Household | 7.00% | ~89 |
 | An Old Friend | 6.00% | ~76 |
 | Lot 49 | 5.00% | ~63 |
@@ -38,7 +38,7 @@ Rating: 4.54 (Ranked 522)
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,268 (Ranked 246)  
+Progressed: 1,269 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-06 | 1,266 | 0 |
 | 2023-11-08 | 1,267 | 0 |
 | 2023-11-09 | 1,268 | 0 |
+| 2023-11-18 | 1,269 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 516)  
 Sum: 25 (Ranked 523)  

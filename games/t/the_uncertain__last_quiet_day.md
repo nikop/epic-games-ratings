@@ -11,11 +11,11 @@
 | Now you know | 53.00% | ~307 |
 | Short circuit | 53.00% | ~307 |
 | Curious | 42.00% | ~243 |
-| Everybody lies | 35.00% | ~203 |
+| Everybody lies | 36.00% | ~208 |
 | Trick or Treat? | 23.00% | ~133 |
 | There is another way | 23.00% | ~133 |
 | Sysadmin | 22.00% | ~127 |
-| Every little helps | 20.00% | ~116 |
+| Every little helps | 21.00% | ~122 |
 | The Walking Robot Among Us | 20.00% | ~116 |
 | Annoying | 19.00% | ~110 |
 | Hacker | 19.00% | ~110 |

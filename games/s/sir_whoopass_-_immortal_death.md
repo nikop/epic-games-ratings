@@ -7,18 +7,18 @@
 | Tastes just like chicken! | 93.00% | ~114 |
 | MLG 360 no scope kill! | 93.00% | ~114 |
 | Are you ready to rumble? | 93.00% | ~114 |
-| That's what cheese said! | 86.00% | ~106 |
+| That's what cheese said! | 87.00% | ~107 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~105 |
-| I like you...but I have to kill you... | 84.00% | ~103 |
+| I like you...but I have to kill you... | 85.00% | ~105 |
 | Not so hip anymore! | 83.00% | ~102 |
-| Blurry depth perception | 81.00% | ~100 |
+| Blurry depth perception | 82.00% | ~101 |
 | Nerd | 80.00% | ~98 |
-| Up and down | 77.00% | ~95 |
+| Up and down | 78.00% | ~96 |
 | Rolling, Rolling, Rolling | 75.00% | ~92 |
 | Fire-fighter! | 66.00% | ~81 |
 | Oh, you're up to no gouda! | 64.00% | ~79 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~75 |
-| Meat grinder | 59.00% | ~73 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~76 |
+| Meat grinder | 60.00% | ~74 |
 | You're not going to blow me up! | 54.00% | ~66 |
 | Mushroom soup of the day | 50.00% | ~62 |
 | Honk honk! | 49.00% | ~60 |
@@ -28,9 +28,9 @@
 | Spare Ribs | 46.00% | ~57 |
 | My pants squeak when I walk | 42.00% | ~52 |
 | Self assessed tax return | 41.00% | ~50 |
-| Surprise!! | 40.00% | ~49 |
+| Surprise!! | 41.00% | ~50 |
 | Haemochromatosis | 40.00% | ~49 |
-| Pasta Bolognese | 34.00% | ~42 |
+| Pasta Bolognese | 35.00% | ~43 |
 | Make America Grate Again | 33.00% | ~41 |
 | Karaoke king | 33.00% | ~41 |
 | You can't stop me, bro! | 32.00% | ~39 |

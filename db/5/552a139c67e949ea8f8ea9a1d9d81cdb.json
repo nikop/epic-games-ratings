@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1092,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -2237,6 +2237,11 @@
       "Time": "2023-11-17T19:05:54.0742257+00:00",
       "NumProgressed": 1092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T02:26:14.7178007+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2249,7 +2254,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2281,7 +2286,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2313,7 +2318,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2385,7 +2390,7 @@
       "Name": "International license",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -2417,7 +2422,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2505,7 +2510,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2529,7 +2534,7 @@
       "Name": "Perfectionist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -2592,20 +2597,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1092,
+      "Progressed": 1093,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 760,
-      "Completed": 760
+      "Progressed": 761,
+      "Completed": 761
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:52:21.4081791+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:26:14.7178004+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:43:48.9478573+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:52:21.408215+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:18:28.4105626+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:26:14.7178308+00:00"
 }

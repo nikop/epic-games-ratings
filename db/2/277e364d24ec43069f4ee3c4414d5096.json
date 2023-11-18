@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114408,
+  "EOS_Progressed": 114411,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18249,6 +18249,11 @@
       "Time": "2023-11-18T01:54:40.5206302+00:00",
       "NumProgressed": 114408,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-18T02:29:15.919777+00:00",
+      "NumProgressed": 114411,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18268,7 +18273,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88094
+      "UsersEstimate": 88096
     },
     {
       "ID": "EAwards_10",
@@ -18284,7 +18289,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29746
+      "UsersEstimate": 29747
     },
     {
       "ID": "EAwards_12",
@@ -18292,7 +18297,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17161
+      "UsersEstimate": 17162
     },
     {
       "ID": "EAwards_13",
@@ -18332,7 +18337,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42331
+      "UsersEstimate": 42332
     },
     {
       "ID": "EAwards_18",
@@ -18348,7 +18353,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6864
+      "UsersEstimate": 6865
     },
     {
       "ID": "EAwards_2",
@@ -18356,7 +18361,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54916
+      "UsersEstimate": 54917
     },
     {
       "ID": "EAwards_20",
@@ -18380,7 +18385,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6864
+      "UsersEstimate": 6865
     },
     {
       "ID": "EAwards_23",
@@ -18651,7 +18656,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114408,
+      "Progressed": 114411,
       "Completed": 50
     }
   ],
@@ -18659,8 +18664,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:54:40.5206298+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:29:15.9197767+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:46:38.7077194+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:54:40.5207452+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:20:21.9668624+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:29:15.919898+00:00"
 }

@@ -44,9 +44,9 @@
 | Bingpot! | 0.90% | ~7 |
 | Space Selfie | 0.80% | ~6 |
 | Small Step | 0.50% | ~4 |
+| Liberté, Égalité, Félinité | 0.30% | ~2 |
 | Giant Leap | 0.30% | ~2 |
 | Unidentified Flying Offspring | 0.10% | ~1 |
-| Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 772 (Ranked 274)  

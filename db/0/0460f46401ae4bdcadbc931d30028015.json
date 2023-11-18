@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 202,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -601,6 +601,12 @@
       "Rating": 4.17,
       "NumberOfAwards": 57,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-18T02:17:59.4302821+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 57,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -621,9 +627,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 3643,
+  "EOS_Progressed": 3645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5301,6 +5307,11 @@
       "Time": "2023-11-18T01:51:00.3864601+00:00",
       "NumProgressed": 3643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T02:25:16.2463105+00:00",
+      "NumProgressed": 3645,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5329,7 +5340,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_12",
@@ -5345,7 +5356,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "achievement_14",
@@ -5353,7 +5364,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "achievement_15",
@@ -5409,7 +5420,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2078
     },
     {
       "ID": "achievement_21",
@@ -5465,7 +5476,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "achievement_9",
@@ -5480,16 +5491,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3643,
+      "Progressed": 3645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-11-17T23:57:37.3616111+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:51:00.3864597+00:00",
+  "LastChanged": "2023-11-18T02:17:59.4302818+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:25:16.2463098+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:43:05.9774812+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:51:00.3865023+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:17:59.4302824+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:25:16.2463445+00:00"
 }

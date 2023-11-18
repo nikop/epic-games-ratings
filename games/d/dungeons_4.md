@@ -34,7 +34,7 @@
 | Tanos' Crusade Against Thalya | 21.00% | ~61 |
 | Hungry, Hungry Gorgu! | 18.00% | ~52 |
 | Unstoppable Horde | 18.00% | ~52 |
-| Master of the Undead | 16.00% | ~47 |
+| Master of the Undead | 17.00% | ~49 |
 | All’s Well That Ends Evil | 16.00% | ~47 |
 | Forbidden Knowledge | 15.00% | ~44 |
 | The Duel | 14.00% | ~41 |

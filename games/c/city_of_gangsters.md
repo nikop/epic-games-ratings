@@ -5,15 +5,15 @@ Rating: 4.28 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,829 |
-| Copacetic Coordination | 16.00% | ~56,452 |
+| Corner Clout | 47.00% | ~165,830 |
+| Copacetic Coordination | 16.00% | ~56,453 |
 | Fronting the Money | 15.00% | ~52,924 |
 | The Dawn of Automation | 14.00% | ~49,396 |
 | Extraordinary Logistics | 14.00% | ~49,396 |
 | Dirty Money | 13.00% | ~45,868 |
 | Family First | 13.00% | ~45,868 |
-| Cleaning House | 12.00% | ~42,339 |
-| Room in the Back | 12.00% | ~42,339 |
+| Cleaning House | 12.00% | ~42,340 |
+| Room in the Back | 12.00% | ~42,340 |
 | Beating the Heat | 11.00% | ~38,811 |
 | Booze Baron | 11.00% | ~38,811 |
 | Friends on the Force | 10.00% | ~35,283 |
@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 850)
 | Wise Head | 6.00% | ~21,170 |
 | Show ‘em the Sugar | 6.00% | ~21,170 |
 | Killing Them Softly | 6.00% | ~21,170 |
-| Street Knowledge | 5.00% | ~17,641 |
-| Oh Captain | 5.00% | ~17,641 |
-| Branching Out | 5.00% | ~17,641 |
-| Improvement Missions | 5.00% | ~17,641 |
-| Opportunity Knocked | 5.00% | ~17,641 |
-| City of Big Shoulders | 5.00% | ~17,641 |
-| Mission Mastery | 5.00% | ~17,641 |
+| Street Knowledge | 5.00% | ~17,642 |
+| Oh Captain | 5.00% | ~17,642 |
+| Branching Out | 5.00% | ~17,642 |
+| Improvement Missions | 5.00% | ~17,642 |
+| Opportunity Knocked | 5.00% | ~17,642 |
+| City of Big Shoulders | 5.00% | ~17,642 |
+| Mission Mastery | 5.00% | ~17,642 |
 | Considerable Clams | 4.00% | ~14,113 |
 | Gin Joint | 4.00% | ~14,113 |
 | An Affront to the Enemy | 4.00% | ~14,113 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 850)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,828 (Ranked 47)  
+Progressed: 352,830 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 7 (0.00%) (Ranked 354)
 | 2023-11-15 | 352,513 | 7 |
 | 2023-11-16 | 352,647 | 7 |
 | 2023-11-17 | 352,809 | 7 |
-| 2023-11-18 | 352,828 | 7 |
+| 2023-11-18 | 352,830 | 7 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 468)  
 Sum: 145 (Ranked 423)  

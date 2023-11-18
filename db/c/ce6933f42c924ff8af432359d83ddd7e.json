@@ -2,8 +2,8 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 935,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 3.75,
+  "EOS_Completed_Percentage": 3.74,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2029,6 +2029,11 @@
       "Time": "2023-11-18T01:54:45.5850781+00:00",
       "NumProgressed": 934,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-18T02:29:19.4811465+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2041,7 +2046,7 @@
       "Name": "Time traveller",
       "Percentage": 19,
       "XP": 140,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_CUBES",
@@ -2049,7 +2054,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_DONUTS",
@@ -2057,7 +2062,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2065,7 +2070,7 @@
       "Name": "An apple a day",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2081,7 +2086,7 @@
       "Name": "Evil plan",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2113,21 +2118,21 @@
       "Name": "Exit",
       "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 935,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-18T01:54:45.5850777+00:00",
+  "LastChanged_Achievements": "2023-11-18T02:29:19.4811461+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:42:32.347525+00:00",
-  "LastUpdate_Achievements": "2023-11-18T01:54:45.5850932+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:17:35.9169173+00:00",
+  "LastUpdate_Achievements": "2023-11-18T02:29:19.4811679+00:00"
 }

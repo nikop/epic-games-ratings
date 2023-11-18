@@ -15,7 +15,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.70% | ~6,280 |
 | All the President's Men | 0.70% | ~180 |
 | Arachnophobia | 0.70% | ~180 |
-| The Quick and the Dead | 0.60% | ~5,382 |
+| The Quick and the Dead | 0.60% | ~5,383 |
+| Bushido and Chill | 0.50% | ~4,485 |
 | Christmas Tree Attack | 0.50% | ~4,485 |
 | Life of the Road | 0.50% | ~4,485 |
 | The Hermit | 0.50% | ~4,485 |
@@ -25,7 +26,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.50% | ~4,485 |
 | Legend of The Afterlife | 0.50% | ~4,485 |
 | Spin Doctor | 0.50% | ~129 |
-| Bushido and Chill | 0.40% | ~3,588 |
 | To Protect and Serve | 0.40% | ~3,588 |
 | Master Crafter | 0.40% | ~3,588 |
 | I Am The Law | 0.40% | ~3,588 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,082 (Ranked 15)  
+Progressed: 897,086 (Ranked 15)  
 Completed: 2,784 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2,784 (0.31%) (Ranked 232)
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
-| 2023-11-18 | 897,082 | 2,784 |
+| 2023-11-18 | 897,086 | 2,784 |
 ## Awards
 Max (Character Customization): 105,891  (Ranked 9)  
 Sum: 355,372 (Ranked 10)  
