@@ -9,24 +9,24 @@
 | Dicesmithing Time! | 38.00% | ~26 |
 | Endless Tricks | 38.00% | ~26 |
 | Mechanical Buddy | 38.00% | ~26 |
-| Noctuan Champion | 36.00% | ~25 |
+| Noctuan Champion | 38.00% | ~26 |
 | Wild's Keeper | 35.00% | ~24 |
+| Mind Illuminator | 33.00% | ~23 |
 | Sanctuary Guardian | 33.00% | ~23 |
 | Eridanian Champion | 33.00% | ~23 |
 | Lacertian Champion | 33.00% | ~23 |
-| Mind Illuminator | 32.00% | ~22 |
 | Apian Champion | 30.00% | ~21 |
-| Anomaly Destroyer | 28.00% | ~19 |
+| Anomaly Destroyer | 29.00% | ~20 |
 | Stellar Dismantler | 28.00% | ~19 |
 | Loyal Partner | 25.00% | ~17 |
 | Behenian Champion | 25.00% | ~17 |
+| Astral Adventurer | 23.00% | ~16 |
 | Star Killer | 23.00% | ~16 |
-| Astral Adventurer | 22.00% | ~15 |
 | Aquarian Champion | 22.00% | ~15 |
 | Shard Spender | 20.00% | ~14 |
+| Unbeatable | 20.00% | ~14 |
 | Astral Seeker | 19.00% | ~13 |
 | Heart Gate | 19.00% | ~13 |
-| Unbeatable | 19.00% | ~13 |
 | The Corruption Goddess | 17.00% | ~12 |
 | The Goddes Avatar | 17.00% | ~12 |
 | Favored by the Cosmos | 16.00% | ~11 |

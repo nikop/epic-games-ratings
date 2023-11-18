@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1563,6 +1563,11 @@
       "Time": "2023-11-18T04:06:12.9176852+00:00",
       "NumProgressed": 592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T05:06:14.9461291+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1598,7 +1603,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Chapter10",
@@ -1612,9 +1617,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 160
     },
     {
       "ID": "Chapter3",
@@ -1630,7 +1635,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Chapter5",
@@ -1726,7 +1731,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "GollumChoices",
@@ -1740,9 +1745,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 225
     },
     {
       "ID": "Memories",
@@ -1861,14 +1866,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:06:12.9176846+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:06:14.9461284+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:57:03.2464847+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:06:12.9177124+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:57:09.7271019+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:06:14.9461639+00:00"
 }

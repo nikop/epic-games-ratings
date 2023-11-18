@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6824,
+  "EOS_Progressed": 6825,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -5617,6 +5617,11 @@
       "Time": "2023-11-18T02:25:43.3358854+00:00",
       "NumProgressed": 6824,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-18T05:05:04.2742383+00:00",
+      "NumProgressed": 6825,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5629,7 +5634,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "achievement_01_02",
@@ -5645,7 +5650,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "achievement_01_04",
@@ -5669,7 +5674,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     },
     {
       "ID": "achievement_01_07",
@@ -5693,7 +5698,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "achievement_01_10",
@@ -5701,7 +5706,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "achievement_02_01",
@@ -5739,9 +5744,9 @@
       "ID": "achievement_02_05",
       "SetID": "4f1m94d",
       "Name": "Fully Upgraded",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1843
     },
     {
       "ID": "achievement_02_06",
@@ -5869,7 +5874,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "achievement_04_03",
@@ -5891,9 +5896,9 @@
       "ID": "achievement_04_05",
       "SetID": "4f1m94d",
       "Name": "That was a Close Call!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2320
     },
     {
       "ID": "achievement_04_06",
@@ -5917,7 +5922,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5869
+      "UsersEstimate": 5870
     },
     {
       "ID": "achievement_04_09",
@@ -5932,7 +5937,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6824,
+      "Progressed": 6825,
       "Completed": 40
     }
   ],
@@ -5940,8 +5945,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-12T07:00:07.6812412+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:05:01.6641931+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:05:04.2742379+00:00",
   "LastUpdate_AppInfo": "2023-11-16T21:57:02.8000931+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:58:37.8746723+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:05:01.6642502+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:58:43.6429909+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:05:04.2742947+00:00"
 }

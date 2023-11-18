@@ -4,11 +4,11 @@
   "ProductSlug": "sonic-colors-ultimate",
   "Ranking_Rating": 746,
   "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 463,
+  "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-07T13:00:00+00:00",
     "PcReleaseDate": "2021-09-07T13:00:00+00:00",
@@ -388,6 +388,6 @@
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
   "LastChanged": "2023-10-13T01:44:27.563643+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:00.3393149+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:02:47.3192451+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:03:38.0018514+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:02:48.9900244+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:03:40.9037944+00:00"
 }

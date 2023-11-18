@@ -10,8 +10,8 @@
 | The field base | 16.00% | ~25 |
 | Survivors | 14.00% | ~22 |
 | The Condor | 12.00% | ~18 |
+| The End | 12.00% | ~18 |
 | The Necroevolution | 11.00% | ~17 |
-| The End | 11.00% | ~17 |
 | The Alliance | 10.00% | ~15 |
 | On her own | 8.00% | ~12 |
 | Krauta is alive | 8.00% | ~12 |
@@ -23,11 +23,11 @@
 | Volcanologist | 5.00% | ~8 |
 | Flying Objects Operator | 5.00% | ~8 |
 | Violent solution | 4.00% | ~6 |
+| Innate curiosity | 4.00% | ~6 |
 | The Invincible | 3.00% | ~5 |
-| Innate curiosity | 3.00% | ~5 |
+| Another giant | 3.00% | ~5 |
+| Strong objection | 3.00% | ~5 |
 | Ubiquitous holes | 2.00% | ~3 |
-| Another giant | 2.00% | ~3 |
-| Strong objection | 2.00% | ~3 |
 | I leave no man behind | 1.00% | ~2 |
 | Got lost again | 1.00% | ~2 |
 | Convoy list | 0.60% | ~1 |

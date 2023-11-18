@@ -5,7 +5,7 @@ Rating: 4.44 (Ranked 675)
 Number of Ratings: 3,047  (23.09.2022)  
 ## Awards
 Max (Relaxing): 59  (Ranked 413)  
-Sum: 389 (Ranked 341)  
+Sum: 390 (Ranked 341)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): 72
 | This game is Great for Quick Sessions | 33 |
 | This game has Challenging Combat | 32 |
 | This game is Educational | 24 |
-| This game has a Creative Community | 22 |
+| This game has a Creative Community | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -101,3 +101,4 @@ Diff (max vs sum): 72
 | 2023-08-29 | 4.44 | - | 59 | 387 |
 | 2023-10-11 | 4.44 | - | 59 | 388 |
 | 2023-11-13 | 4.44 | - | 59 | 389 |
+| 2023-11-18 | 4.44 | - | 59 | 390 |

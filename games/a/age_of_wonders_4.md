@@ -15,11 +15,11 @@ Rating: 4.61 (Ranked 384)
 | Bone Peddler | 1.00% | ~54 |
 | From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
+| Chaos Surge | 1.00% | ~54 |
 | Stronger Together | 0.90% | ~49 |
 | Magical Synergy | 0.90% | ~49 |
 | Seat of Power | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
-| Chaos Surge | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
 | Valley of Wonders | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,402 (Ranked 188)  
+Progressed: 5,403 (Ranked 188)  
 Completed: 7 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 7 (0.13%) (Ranked 267)
 | 2023-11-15 | 5,395 | 7 |
 | 2023-11-16 | 5,398 | 7 |
 | 2023-11-17 | 5,402 | 7 |
+| 2023-11-18 | 5,403 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 485)  
 Sum: 56 (Ranked 474)  

@@ -13,11 +13,11 @@
 | Leisis Bless You | 9.00% | ~7 |
 | Advanced Armaments | 9.00% | ~7 |
 | Bladesmith | 7.00% | ~5 |
+| A Sandwyrm's Hoard | 7.00% | ~5 |
 | Sommelier | 5.00% | ~4 |
 | Explorer | 5.00% | ~4 |
 | The Guardian of Fire | 5.00% | ~4 |
 | Sovereignty of Irons | 5.00% | ~4 |
-| A Sandwyrm's Hoard | 5.00% | ~4 |
 | Let Me Solo Them | 4.00% | ~3 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |

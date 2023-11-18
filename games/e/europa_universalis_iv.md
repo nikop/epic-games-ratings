@@ -157,6 +157,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Power of Three | 0.10% | ~458 |
 | The Princess is in this Castle | 0.10% | ~458 |
 | The Re-Reconquista | 0.10% | ~458 |
+| The Rising Sun | 0.10% | ~458 |
 | The Uncommonwealth | 0.10% | ~458 |
 | The White Company | 0.10% | ~458 |
 | This is fine | 0.10% | ~458 |
@@ -344,7 +345,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
-| The Rising Sun | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,919 (Ranked 41)  
+Progressed: 457,938 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 457,919 | 1 |
+| 2023-11-18 | 457,938 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 58,000 (Ranked 24)  

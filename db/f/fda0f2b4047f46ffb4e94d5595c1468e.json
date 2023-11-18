@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2741,7 +2741,7 @@
   ],
   "EOS_Progressed": 8594,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8439,9 +8439,9 @@
       "ID": "ach06",
       "SetID": "47in8n6",
       "Name": "Titan",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6446
+      "UsersEstimate": 6531
     },
     {
       "ID": "ach07",
@@ -8808,8 +8808,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-18T01:45:59.1200646+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:04:22.6466584+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:04:25.8889121+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:59:25.8497714+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:04:22.6467157+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:59:29.7618864+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:04:25.8889724+00:00"
 }

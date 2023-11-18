@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Starts Here | 96.00% | ~315 |
-| Road to Improvement | 73.00% | ~239 |
+| All Starts Here | 95.00% | ~313 |
+| Road to Improvement | 72.00% | ~237 |
 | Wonderful World | 59.00% | ~194 |
-| Second Wind | 58.00% | ~190 |
-| Chain of Events | 58.00% | ~190 |
+| Second Wind | 58.00% | ~191 |
+| Chain of Events | 57.00% | ~188 |
 | Change of Heart | 56.00% | ~184 |
-| Turbulence | 37.00% | ~121 |
-| Endless Possibilities | 37.00% | ~121 |
+| Turbulence | 37.00% | ~122 |
+| Endless Possibilities | 37.00% | ~122 |
 | Finding The Way | 24.00% | ~79 |
 | Tangibility | 20.00% | ~66 |
-| On The Right Path | 19.00% | ~62 |
-| Around The World | 19.00% | ~62 |
-| Bigger Picture | 16.00% | ~52 |
+| On The Right Path | 19.00% | ~63 |
+| Around The World | 19.00% | ~63 |
+| Bigger Picture | 16.00% | ~53 |
 | Sunset | 13.00% | ~43 |
-| Spring Air | 13.00% | ~43 |
+| Spring Air | 12.00% | ~39 |
 | Cut The Air | 10.00% | ~33 |
 | Alive | 9.00% | ~30 |
 | Best Self | 9.00% | ~30 |
@@ -36,7 +36,7 @@
 | In Love | 1.00% | ~3 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328 (Ranked 336)  
+Progressed: 329 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-10-01 | 326 | 0 |
 | 2023-10-05 | 327 | 0 |
 | 2023-10-09 | 328 | 0 |
+| 2023-11-18 | 329 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -1514,9 +1514,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "completeact3",
@@ -1635,8 +1635,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:09:08.2238805+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:09:18.6812354+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:58.0163341+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:57:51.8905262+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:09:08.2239038+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:57:58.1215444+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:09:18.6812535+00:00"
 }

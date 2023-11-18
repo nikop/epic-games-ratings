@@ -12,8 +12,8 @@ Rating: 4.30 (Ranked 835)
 | Right in the kisser! | 58.00% | ~113 |
 | The Thrower | 46.00% | ~89 |
 | Duscot Steamcity | 46.00% | ~89 |
+| The Shaman | 45.00% | ~87 |
 | The Penguin | 44.00% | ~85 |
-| The Shaman | 44.00% | ~85 |
 | The Magician | 39.00% | ~76 |
 | The Tunneler | 39.00% | ~76 |
 | Level Up!! | 36.00% | ~70 |

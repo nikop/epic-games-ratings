@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -776,7 +776,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4912,
+  "EOS_Progressed": 4914,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -9406,6 +9406,11 @@
       "Time": "2023-11-18T04:04:24.0427813+00:00",
       "NumProgressed": 4912,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T05:04:27.2821073+00:00",
+      "NumProgressed": 4914,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9434,7 +9439,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -9474,7 +9479,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9562,7 +9567,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -9570,7 +9575,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9601,15 +9606,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4912,
+      "Progressed": 4914,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:04:24.0427809+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:04:27.2821067+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:00:15.3162818+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:04:24.0428377+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:00:18.8588044+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:04:27.2821656+00:00"
 }

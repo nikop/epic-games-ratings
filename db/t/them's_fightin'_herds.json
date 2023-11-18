@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -295,7 +295,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232402,
+  "EOS_Progressed": 232404,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
@@ -21840,6 +21840,11 @@
       "Time": "2023-11-18T04:03:24.4286036+00:00",
       "NumProgressed": 232402,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-18T05:03:27.4947487+00:00",
+      "NumProgressed": 232404,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22011,7 +22016,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51128
+      "UsersEstimate": 51129
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -22059,7 +22064,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39508
+      "UsersEstimate": 39509
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -22074,7 +22079,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232402,
+      "Progressed": 232404,
       "Completed": 5
     }
   ],
@@ -22082,8 +22087,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-17T13:07:03.5000606+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:03:24.4286033+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:03:27.4947484+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:28.0275139+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:57:17.1415783+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:03:24.4287206+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:57:24.3029707+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:03:27.4948452+00:00"
 }

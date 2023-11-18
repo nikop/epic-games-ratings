@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,017 |
-| Titan's First Steps | 5.00% | ~7,017 |
+| Sponsored by Argon | 5.00% | ~7,018 |
+| Titan's First Steps | 5.00% | ~7,018 |
 | Basic in Bulk | 4.00% | ~5,614 |
 | Tinkle of Coins | 4.00% | ~5,614 |
 | Disintermediation | 3.00% | ~4,210 |
@@ -28,26 +28,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 2.00% | ~2,807 |
 | Through Repetition, Perfection | 2.00% | ~2,807 |
 | Own the Means of Production | 2.00% | ~2,807 |
-| On the Path to Greatness | 1.00% | ~1,403 |
-| Ascended | 1.00% | ~1,403 |
-| Tax not Included | 1.00% | ~1,403 |
-| Research & Development | 1.00% | ~1,403 |
-| Vanity, Verily | 1.00% | ~1,403 |
-| Fated Encounters | 1.00% | ~1,403 |
-| For the Hoard! | 1.00% | ~1,403 |
-| Blank Page Syndrome | 1.00% | ~1,403 |
-| Power of Love | 1.00% | ~1,403 |
-| Efficient Floor Space | 1.00% | ~1,403 |
-| Flawless Fusion | 1.00% | ~1,403 |
-| Trash to Treasure | 1.00% | ~1,403 |
-| Gem Expert | 1.00% | ~1,403 |
-| Royal Ransom | 1.00% | ~1,403 |
-| Helping Hand | 1.00% | ~1,403 |
-| Accomplished Merchant | 1.00% | ~1,403 |
-| Natural 20 | 1.00% | ~1,403 |
-| Did we pack lunch? | 1.00% | ~1,403 |
-| Magical Harmony | 1.00% | ~1,403 |
-| Arcane Industries | 1.00% | ~1,403 |
+| On the Path to Greatness | 1.00% | ~1,404 |
+| Ascended | 1.00% | ~1,404 |
+| Tax not Included | 1.00% | ~1,404 |
+| Research & Development | 1.00% | ~1,404 |
+| Vanity, Verily | 1.00% | ~1,404 |
+| Fated Encounters | 1.00% | ~1,404 |
+| For the Hoard! | 1.00% | ~1,404 |
+| Blank Page Syndrome | 1.00% | ~1,404 |
+| Power of Love | 1.00% | ~1,404 |
+| Efficient Floor Space | 1.00% | ~1,404 |
+| Flawless Fusion | 1.00% | ~1,404 |
+| Trash to Treasure | 1.00% | ~1,404 |
+| Gem Expert | 1.00% | ~1,404 |
+| Royal Ransom | 1.00% | ~1,404 |
+| Helping Hand | 1.00% | ~1,404 |
+| Accomplished Merchant | 1.00% | ~1,404 |
+| Natural 20 | 1.00% | ~1,404 |
+| Did we pack lunch? | 1.00% | ~1,404 |
+| Magical Harmony | 1.00% | ~1,404 |
+| Arcane Industries | 1.00% | ~1,404 |
 | A Notch Above the Rest | 0.90% | ~1,263 |
 | The King's Caprice | 0.90% | ~1,263 |
 | Big Game Hunting | 0.90% | ~1,263 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,346 (Ranked 80)  
+Progressed: 140,350 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
-| 2023-11-18 | 140,346 | 187 |
+| 2023-11-18 | 140,350 | 187 |
 ## Awards
 Max (Great for Beginners): 4,832  (Ranked 74)  
 Sum: 27,561 (Ranked 50)  

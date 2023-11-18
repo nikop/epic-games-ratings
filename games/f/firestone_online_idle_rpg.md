@@ -24,9 +24,9 @@ Rating: 4.12 (Ranked 960)
 | Lieutenant | 14.00% | ~340 |
 | Mysterious Rock | 13.00% | ~315 |
 | Natural Talent | 13.00% | ~315 |
+| Superior | 13.00% | ~315 |
 | The Unstoppable | 13.00% | ~315 |
 | Milestone collector | 12.00% | ~291 |
-| Superior | 12.00% | ~291 |
 | Scientist | 11.00% | ~267 |
 | The power of Awakening | 11.00% | ~267 |
 | Challenger | 10.00% | ~243 |
@@ -291,8 +291,8 @@ Completed: 2 (0.08%) (Ranked 291)
 | 2023-11-18 | 2,426 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
-Sum: 81 (Ranked 456)  
-Diff (max vs sum): 34  
+Sum: 81 (Ranked 457)  
+Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |

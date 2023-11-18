@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 2001,
+  "EOS_Progressed": 2002,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2745,6 +2745,11 @@
       "Time": "2023-11-18T04:05:45.9642389+00:00",
       "NumProgressed": 2001,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T05:05:48.7932048+00:00",
+      "NumProgressed": 2002,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2756,7 +2761,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2836,7 +2841,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2900,7 +2905,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2988,7 +2993,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -3116,7 +3121,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3132,7 +3137,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3179,15 +3184,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2001,
+      "Progressed": 2002,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-10T21:59:49.034377+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:05:45.9642386+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:05:48.7932045+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.9377515+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:59:17.5758591+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:05:45.9643214+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:59:21.7447115+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:05:48.7932521+00:00"
 }

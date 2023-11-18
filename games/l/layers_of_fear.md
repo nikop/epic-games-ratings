@@ -13,7 +13,7 @@
 | The artist’s impression | 42.00% | ~30 |
 | Refuse to look | 39.00% | ~28 |
 | Sign of weakness | 37.00% | ~26 |
-| Finished it | 28.00% | ~20 |
+| Finished it | 30.00% | ~21 |
 | Face your fears | 24.00% | ~17 |
 | Playtime | 17.00% | ~12 |
 | Tough conversation | 17.00% | ~12 |

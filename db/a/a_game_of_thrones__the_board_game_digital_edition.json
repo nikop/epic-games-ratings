@@ -4,11 +4,11 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 903,
   "Ranking_Popularity": 334,
-  "Ranking_PopularitySum": 281,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28574,
+  "EOS_Progressed": 28576,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24055,6 +24055,11 @@
       "Time": "2023-11-18T02:29:26.1068141+00:00",
       "NumProgressed": 28574,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-11-18T05:09:00.0714607+00:00",
+      "NumProgressed": 28576,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 22,
@@ -24074,7 +24079,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "1017",
@@ -24082,7 +24087,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "1018",
@@ -24122,7 +24127,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "1023",
@@ -24146,7 +24151,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "1026",
@@ -24170,7 +24175,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "1029",
@@ -24194,7 +24199,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4000
+      "UsersEstimate": 4001
     },
     {
       "ID": "1032",
@@ -24241,15 +24246,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28574,
+      "Progressed": 28576,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:08:49.5200184+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:09:00.0714602+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.3392763+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:02:54.7205903+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:08:49.5201553+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:02:56.1694666+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:09:00.0715942+00:00"
 }

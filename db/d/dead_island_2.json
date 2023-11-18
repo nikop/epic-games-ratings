@@ -6639,10 +6639,10 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 719883,
-  "EOS_Completed": 2404,
+  "EOS_Progressed": 719905,
+  "EOS_Completed": 2405,
   "EOS_NewPlayers": 3588,
-  "EOS_NewCompleters": 29,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30829,6 +30829,11 @@
       "Time": "2023-11-18T04:05:39.1595211+00:00",
       "NumProgressed": 719883,
       "NumCompleted": 2404
+    },
+    {
+      "Time": "2023-11-18T05:05:41.874848+00:00",
+      "NumProgressed": 719905,
+      "NumCompleted": 2405
     }
   ],
   "TotalAchievements": 51,
@@ -30848,7 +30853,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ach_ammo_ran",
@@ -30976,7 +30981,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ach_hazardous_materials",
@@ -31080,7 +31085,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ach_revival_tour",
@@ -31096,7 +31101,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ach_secrets_of_la",
@@ -31200,7 +31205,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ach_dark_magic",
@@ -31208,7 +31213,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ach_gardening_tools",
@@ -31224,7 +31229,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31247,13 +31252,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719883,
-      "Completed": 2404
+      "Progressed": 719905,
+      "Completed": 2405
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45425,
+      "Progressed": 45447,
       "Completed": 36556
     }
   ],
@@ -31261,8 +31266,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-18T01:45:24.7904908+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:05:39.1595208+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:05:41.8748472+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:59:02.6883519+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:05:39.1596593+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:59:07.2264487+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:05:41.8749846+00:00"
 }

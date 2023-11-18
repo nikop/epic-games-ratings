@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114414,
+  "EOS_Progressed": 114418,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18264,6 +18264,11 @@
       "Time": "2023-11-18T04:08:39.5328838+00:00",
       "NumProgressed": 114414,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-18T05:08:49.96318+00:00",
+      "NumProgressed": 114418,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18283,7 +18288,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88099
+      "UsersEstimate": 88102
     },
     {
       "ID": "EAwards_10",
@@ -18299,7 +18304,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29748
+      "UsersEstimate": 29749
     },
     {
       "ID": "EAwards_12",
@@ -18307,7 +18312,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17162
+      "UsersEstimate": 17163
     },
     {
       "ID": "EAwards_13",
@@ -18331,7 +18336,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "EAwards_16",
@@ -18347,7 +18352,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42333
+      "UsersEstimate": 42335
     },
     {
       "ID": "EAwards_18",
@@ -18355,7 +18360,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10297
+      "UsersEstimate": 10298
     },
     {
       "ID": "EAwards_19",
@@ -18371,7 +18376,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54919
+      "UsersEstimate": 54921
     },
     {
       "ID": "EAwards_20",
@@ -18435,7 +18440,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "EAwards_28",
@@ -18443,7 +18448,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "EAwards_29",
@@ -18451,7 +18456,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "EAwards_3",
@@ -18459,7 +18464,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22883
+      "UsersEstimate": 22884
     },
     {
       "ID": "EAwards_30",
@@ -18475,7 +18480,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "EAwards_32",
@@ -18627,7 +18632,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "EAwards_6",
@@ -18635,7 +18640,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10297
+      "UsersEstimate": 10298
     },
     {
       "ID": "EAwards_7",
@@ -18666,7 +18671,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114414,
+      "Progressed": 114418,
       "Completed": 50
     }
   ],
@@ -18674,8 +18679,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-18T04:08:39.5328835+00:00",
+  "LastChanged_Achievements": "2023-11-18T05:08:49.9631796+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:59:51.685995+00:00",
-  "LastUpdate_Achievements": "2023-11-18T04:08:39.5330111+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:59:55.7214872+00:00",
+  "LastUpdate_Achievements": "2023-11-18T05:08:49.9633276+00:00"
 }
