@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -567,9 +567,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5800,
+  "EOS_Progressed": 5801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5787,6 +5787,11 @@
       "Time": "2023-11-18T20:07:40.917469+00:00",
       "NumProgressed": 5800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T21:10:25.9493689+00:00",
+      "NumProgressed": 5801,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5839,7 +5844,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     },
     {
       "ID": "achievement_0007",
@@ -5847,7 +5852,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "achievement_0008",
@@ -5855,7 +5860,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "achievement_0009",
@@ -5959,7 +5964,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "achievement_0022",
@@ -5997,9 +6002,9 @@
       "ID": "achievement_0026",
       "SetID": "9123ogc",
       "Name": "Friendly Competition",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 638
     },
     {
       "ID": "achievement_0027",
@@ -6055,7 +6060,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "achievement_0034",
@@ -6190,7 +6195,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5800,
+      "Progressed": 5801,
       "Completed": 0
     }
   ],
@@ -6198,8 +6203,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-17T23:00:05.8432653+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:07:40.9174687+00:00",
+  "LastChanged_Achievements": "2023-11-18T21:10:25.9493686+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:01:01.1669876+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:07:40.917516+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:03:53.540696+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:10:25.9494203+00:00"
 }

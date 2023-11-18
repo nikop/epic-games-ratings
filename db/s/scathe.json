@@ -4,8 +4,8 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-11-18T19:08:57.3224171+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T21:11:51.0923367+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -2086,7 +2091,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 0
     }
   ],
@@ -2094,8 +2099,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:09:06.4540463+00:00",
+  "LastChanged_Achievements": "2023-11-18T21:11:51.0923355+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:13.4446098+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:58:45.0520487+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:09:06.4540836+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:01:36.2016985+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:11:51.0923613+00:00"
 }

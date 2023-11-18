@@ -1,7 +1,7 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.26 (Ranked 867)  
+Rating: 4.26 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 4.26 (Ranked 867)
 | Change of Scenery | 17.00% | ~596 |
 | Primetime | 16.00% | ~561 |
 | Pro Bowler | 16.00% | ~561 |
-| Unblockable | 9.00% | ~315 |
+| Unblockable | 9.00% | ~316 |
 | Pocket Ace | 5.00% | ~175 |
 | Lockdown Corner | 5.00% | ~175 |
 | Head-to-Head | 5.00% | ~175 |
@@ -27,7 +27,7 @@ Rating: 4.26 (Ranked 867)
 | Lockdown Leader | 0.50% | ~18 |
 | The Fortress | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,505 (Ranked 205)  
+Progressed: 3,506 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 3,445 | 0 |
 | 2023-11-16 | 3,465 | 0 |
 | 2023-11-17 | 3,482 | 0 |
-| 2023-11-18 | 3,505 | 0 |
+| 2023-11-18 | 3,506 | 0 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 459)  
 Sum: 89 (Ranked 452)  

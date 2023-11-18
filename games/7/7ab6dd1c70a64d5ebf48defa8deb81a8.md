@@ -12,6 +12,7 @@
 | Find Allies | 3.00% | ~6 |
 | Powerful Allies | 3.00% | ~6 |
 | Geared Up | 3.00% | ~6 |
+| The Collector | 3.00% | ~6 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
@@ -24,7 +25,6 @@
 | Big Bazar | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
 | Stone Collection | 1.00% | ~2 |
-| The Collector | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
@@ -41,7 +41,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.00% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 383)  
+Progressed: 193 (Ranked 383)  
 Completed: 1 (0.52%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 1 (0.52%) (Ranked 198)
 | 2023-11-14 | 186 | 1 |
 | 2023-11-15 | 188 | 1 |
 | 2023-11-17 | 189 | 1 |
-| 2023-11-18 | 192 | 1 |
+| 2023-11-18 | 193 | 1 |

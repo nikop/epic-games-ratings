@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -276,7 +276,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2205,
+  "EOS_Progressed": 2206,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -3201,6 +3201,11 @@
       "Time": "2023-11-16T10:05:31.9442274+00:00",
       "NumProgressed": 2205,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-18T21:06:29.5112773+00:00",
+      "NumProgressed": 2206,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3220,7 +3225,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACHV_03",
@@ -3244,7 +3249,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHV_06",
@@ -3292,7 +3297,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHV_12",
@@ -3372,7 +3377,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHV_22",
@@ -3412,7 +3417,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ACHV_27",
@@ -3436,7 +3441,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHV_30",
@@ -3444,7 +3449,7 @@
       "Name": "Powered Up",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACHV_31",
@@ -3516,7 +3521,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHV_40",
@@ -3667,7 +3672,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2205,
+      "Progressed": 2206,
       "Completed": 13
     }
   ],
@@ -3675,8 +3680,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-11T23:57:43.5779533+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:03:46.4602979+00:00",
+  "LastChanged_Achievements": "2023-11-18T21:06:29.5112769+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:00.2297931+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:58:11.2585489+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:03:46.4603673+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:01:01.7391498+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:06:29.5113256+00:00"
 }

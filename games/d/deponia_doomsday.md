@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 504)
 | Portals come in packs | 30.00% | ~142 |
 | No man left behind! | 29.00% | ~138 |
 | Photo Friend | 26.00% | ~124 |
-| Brainfreeze | 20.00% | ~95 |
+| Brainfreeze | 21.00% | ~100 |
 | And everything comes full circle. | 20.00% | ~95 |
 | Masseltov | 19.00% | ~90 |
 | Quickdraw | 16.00% | ~76 |

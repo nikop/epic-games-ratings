@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,223 |
-| Spectre Inductee | 79.00% | ~1,039 |
+| Spectre Inductee | 80.00% | ~1,052 |
 | Medal of Exploration I | 71.00% | ~934 |
 | Recruit | 67.00% | ~881 |
 | Search and Rescue | 67.00% | ~881 |
@@ -41,9 +41,9 @@
 | The Convict | 34.00% | ~447 |
 | Colony Defense | 33.00% | ~434 |
 | The Krogan | 33.00% | ~434 |
+| Ghost Ship | 32.00% | ~421 |
 | Broke, Blind, and Bedlam | 32.00% | ~421 |
 | A Personal Touch | 31.00% | ~408 |
-| Ghost Ship | 31.00% | ~408 |
 | The Assassin | 31.00% | ~408 |
 | The Justicar | 31.00% | ~408 |
 | The Quarian | 31.00% | ~408 |

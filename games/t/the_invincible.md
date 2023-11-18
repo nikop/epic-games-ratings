@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | The City | 23.00% | ~38 |
 | The Teleprobe | 21.00% | ~34 |
+| The field base | 21.00% | ~34 |
 | The Camp | 21.00% | ~34 |
-| The field base | 20.00% | ~33 |
-| Survivors | 19.00% | ~31 |
+| Survivors | 20.00% | ~33 |
 | The Condor | 16.00% | ~26 |
 | The Necroevolution | 15.00% | ~25 |
 | The End | 15.00% | ~25 |
 | The Alliance | 12.00% | ~20 |
-| On her own | 10.00% | ~16 |
+| On her own | 11.00% | ~18 |
 | Peacemaker | 10.00% | ~16 |
 | Krauta is alive | 10.00% | ~16 |
 | Volcanologist | 9.00% | ~15 |

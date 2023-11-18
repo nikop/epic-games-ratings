@@ -27,7 +27,7 @@
 | Spare Ribs | 47.00% | ~58 |
 | Thats disgusting! | 46.00% | ~57 |
 | My pants squeak when I walk | 43.00% | ~53 |
-| Self assessed tax return | 41.00% | ~50 |
+| Self assessed tax return | 42.00% | ~52 |
 | Surprise!! | 41.00% | ~50 |
 | Haemochromatosis | 40.00% | ~49 |
 | Pasta Bolognese | 35.00% | ~43 |
@@ -35,8 +35,8 @@
 | Karaoke king | 33.00% | ~41 |
 | You can't stop me, bro! | 33.00% | ~41 |
 | You are no match for me, Billy! | 32.00% | ~39 |
-| Catch the bus with me! | 31.00% | ~38 |
-| Meatballs, coming up! | 29.00% | ~36 |
+| Catch the bus with me! | 32.00% | ~39 |
+| Meatballs, coming up! | 30.00% | ~37 |
 | I'm going to get a concussion | 29.00% | ~36 |
 | Another one bites the iron | 27.00% | ~33 |
 | A Megapint...? | 24.00% | ~30 |

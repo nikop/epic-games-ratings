@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6651,10 +6651,10 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 720375,
+  "EOS_Progressed": 720406,
   "EOS_Completed": 2408,
-  "EOS_NewPlayers": 3578,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 3576,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30921,6 +30921,11 @@
       "Time": "2023-11-18T20:07:48.3466657+00:00",
       "NumProgressed": 720375,
       "NumCompleted": 2408
+    },
+    {
+      "Time": "2023-11-18T21:10:33.1554646+00:00",
+      "NumProgressed": 720406,
+      "NumCompleted": 2408
     }
   ],
   "TotalAchievements": 51,
@@ -30932,7 +30937,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30948,7 +30953,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_anger_management",
@@ -30988,7 +30993,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_break_a_leg",
@@ -31052,7 +31057,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -31076,7 +31081,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -31084,7 +31089,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_hotel_california",
@@ -31132,7 +31137,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_knowledgeable",
@@ -31212,7 +31217,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "ach_survival_expert",
@@ -31258,9 +31263,9 @@
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2882
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -31292,7 +31297,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ach_dark_magic",
@@ -31300,7 +31305,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ach_gardening_tools",
@@ -31316,7 +31321,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31339,13 +31344,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720375,
+      "Progressed": 720406,
       "Completed": 2408
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45917,
+      "Progressed": 45948,
       "Completed": 36559
     }
   ],
@@ -31353,8 +31358,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-18T13:02:03.2144134+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:07:48.3466654+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:00:41.0893262+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:07:48.3468543+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:10:33.1554642+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:03:32.6735387+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:10:33.1556131+00:00"
 }

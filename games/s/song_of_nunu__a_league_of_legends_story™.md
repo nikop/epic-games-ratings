@@ -21,12 +21,12 @@
 | My Darkest Day | 50.00% | ~370 |
 | Rhythm Of Willump | 48.00% | ~355 |
 | The Relentless Storm | 48.00% | ~355 |
-| A Tragic Reminder | 45.00% | ~333 |
-| 3000 Year Blackout | 44.00% | ~326 |
+| A Tragic Reminder | 46.00% | ~340 |
+| 3000 Year Blackout | 45.00% | ~333 |
 | The Finisher | 43.00% | ~318 |
 | So Close | 41.00% | ~303 |
+| You Get Used To It | 41.00% | ~303 |
 | True Legends | 41.00% | ~303 |
-| You Get Used To It | 40.00% | ~296 |
 | Bullseye | 38.00% | ~281 |
 | Boosted! | 38.00% | ~281 |
 | Family | 37.00% | ~274 |

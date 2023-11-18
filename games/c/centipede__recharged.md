@@ -1,29 +1,29 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.32 (Ranked 821)  
+Rating: 4.33 (Ranked 813)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 49.00% | ~10,083 |
-| Make Rock Not War | 40.00% | ~8,231 |
-| Sole Survivor | 35.00% | ~7,202 |
-| Fireworks | 31.00% | ~6,379 |
-| Burning For You | 27.00% | ~5,556 |
-| Beat 'em Up | 25.00% | ~5,144 |
-| I Am The Storm | 17.00% | ~3,498 |
-| Still Burnin' | 17.00% | ~3,498 |
-| Deadline | 13.00% | ~2,675 |
-| Eyes On Fire | 12.00% | ~2,469 |
-| Don't Fear The Reaper | 11.00% | ~2,263 |
+| Shooting Shark | 49.00% | ~10,087 |
+| Make Rock Not War | 40.00% | ~8,234 |
+| Sole Survivor | 35.00% | ~7,205 |
+| Fireworks | 31.00% | ~6,382 |
+| Burning For You | 27.00% | ~5,558 |
+| Beat 'em Up | 25.00% | ~5,146 |
+| I Am The Storm | 17.00% | ~3,500 |
+| Still Burnin' | 17.00% | ~3,500 |
+| Deadline | 13.00% | ~2,676 |
+| Eyes On Fire | 12.00% | ~2,470 |
+| Don't Fear The Reaper | 11.00% | ~2,264 |
 | Feel The Thunder | 6.00% | ~1,235 |
 | Harvester Of Eyes | 6.00% | ~1,235 |
 | The Reaper | 6.00% | ~1,235 |
 | Shadow Warrior | 2.00% | ~412 |
 | Mirrors | 0.90% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,577 (Ranked 136)  
+Progressed: 20,586 (Ranked 136)  
 Completed: 115 (0.56%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 115 (0.56%) (Ranked 190)
 | 2023-11-15 | 20,088 | 114 |
 | 2023-11-16 | 20,256 | 114 |
 | 2023-11-17 | 20,419 | 114 |
-| 2023-11-18 | 20,577 | 115 |
+| 2023-11-18 | 20,586 | 115 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -295,3 +295,4 @@ Completed: 115 (0.56%) (Ranked 190)
 | 2023-10-22 | 4.32 | - | 0 | 0 |
 | 2023-10-25 | 4.33 | - | 0 | 0 |
 | 2023-11-13 | 4.32 | - | 0 | 0 |
+| 2023-11-18 | 4.33 | - | 0 | 0 |

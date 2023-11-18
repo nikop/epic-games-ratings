@@ -3,12 +3,12 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 313,
-  "Ranking_Popularity": 353,
+  "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1377,7 +1377,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6053,
+  "EOS_Progressed": 6054,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -13122,6 +13122,11 @@
       "Time": "2023-11-18T20:10:22.7294748+00:00",
       "NumProgressed": 6053,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T21:13:07.129551+00:00",
+      "NumProgressed": 6054,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13237,7 +13242,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -13389,7 +13394,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -13452,15 +13457,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6053,
+      "Progressed": 6054,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-18T15:58:17.4255502+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:10:22.7294745+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:58:12.0747458+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:10:22.7295594+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:13:07.1295506+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:57:32.3230973+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:01:02.5426544+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:13:07.1296155+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8087,10 +8087,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32519,
       "NumberOfAwardsMax": 5539
+    },
+    {
+      "Time": "2023-11-18T21:03:06.4465551+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32522,
+      "NumberOfAwardsMax": 5539
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32519,
+  "NumberOfAwards": 32522,
   "NumberOfAwardsMax": 5539,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8128,7 +8134,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4217
+      "Count": 4220
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8137,9 +8143,9 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235781,
+  "EOS_Progressed": 235792,
   "EOS_Completed": 2458,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31927,6 +31933,11 @@
       "Time": "2023-11-18T20:10:21.0941549+00:00",
       "NumProgressed": 235781,
       "NumCompleted": 2458
+    },
+    {
+      "Time": "2023-11-18T21:13:05.9823696+00:00",
+      "NumProgressed": 235792,
+      "NumCompleted": 2458
     }
   ],
   "TotalAchievements": 532,
@@ -31938,7 +31949,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "objective_completed_10",
@@ -36178,7 +36189,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "objective_completed_1553",
@@ -36193,21 +36204,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202055,
+      "Progressed": 202066,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235781,
+      "Progressed": 235792,
       "Completed": 2458
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-17T23:59:02.6503012+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:10:21.0941545+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:00:15.0455789+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:10:21.0963484+00:00"
+  "LastChanged": "2023-11-18T21:03:06.446555+00:00",
+  "LastChanged_Achievements": "2023-11-18T21:13:05.9823692+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:03:06.4465555+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:13:05.9845757+00:00"
 }

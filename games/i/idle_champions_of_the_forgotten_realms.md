@@ -1,14 +1,14 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 978)  
+Rating: 4.06 (Ranked 979)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Beginning is the End | 2.00% | ~4,041 |
-| The End is the Beginning | 0.90% | ~1,818 |
-| A Brief Tour of the Realms | 0.70% | ~1,650 |
+| The End is the Beginning | 0.90% | ~1,819 |
+| A Brief Tour of the Realms | 0.70% | ~1,651 |
 | Tomb of Champions | 0.60% | ~1,212 |
 | See You on the Flipside | 0.50% | ~1,010 |
 | Beast Intentions | 0.30% | ~707 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~202 |
 | Time Out | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,781 (Ranked 63)  
+Progressed: 235,792 (Ranked 63)  
 Completed: 2,458 (1.04%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -751,10 +751,10 @@ Completed: 2,458 (1.04%) (Ranked 161)
 | 2023-11-15 | 235,196 | 2,449 |
 | 2023-11-16 | 235,368 | 2,455 |
 | 2023-11-17 | 235,587 | 2,456 |
-| 2023-11-18 | 235,781 | 2,458 |
+| 2023-11-18 | 235,792 | 2,458 |
 ## Awards
 Max (Great for Beginners): 5,539  (Ranked 68)  
-Sum: 32,519 (Ranked 41)  
+Sum: 32,522 (Ranked 41)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -762,7 +762,7 @@ Diff (max vs sum): 27
 | This game has Diverse Characters | 5,513 |
 | This game has Quickly Understood Controls | 4,817 |
 | This game is Relaxing | 4,707 |
-| This game has Amazing Characters | 4,217 |
+| This game has Amazing Characters | 4,220 |
 | This game is Highly Recommended | 4,203 |
 | This game has Playful Visuals | 3,523 |
 ## Ratings History
@@ -1064,3 +1064,4 @@ Diff (max vs sum): 27
 | 2023-11-15 | 4.06 | - | 5,527 | 32,481 |
 | 2023-11-16 | 4.06 | - | 5,532 | 32,494 |
 | 2023-11-17 | 4.06 | - | 5,539 | 32,519 |
+| 2023-11-18 | 4.06 | - | 5,539 | 32,522 |

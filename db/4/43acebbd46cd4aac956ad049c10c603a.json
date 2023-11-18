@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -99,7 +99,7 @@
   ],
   "EOS_Progressed": 383,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -916,9 +916,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "Chicken",
@@ -948,17 +948,17 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "EcstaticTruth",
@@ -1036,9 +1036,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "LostMarshes",
@@ -1252,9 +1252,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     },
     {
       "ID": "TheWordEndures",
@@ -1333,8 +1333,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:07:44.4486208+00:00",
+  "LastChanged_Achievements": "2023-11-18T21:10:29.4579256+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:57:22.3436125+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:07:44.4486653+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:00:12.7338438+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:10:29.4579665+00:00"
 }

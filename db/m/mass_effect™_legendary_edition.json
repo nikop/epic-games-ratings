@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1315,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4039,9 +4039,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1052
     },
     {
       "ID": "achievement_32",
@@ -4103,9 +4103,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_4",
@@ -4651,8 +4651,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:07:40.1980948+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:03:23.8329215+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:07:40.198275+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:10:25.2325838+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:06:06.590583+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:10:25.2327426+00:00"
 }

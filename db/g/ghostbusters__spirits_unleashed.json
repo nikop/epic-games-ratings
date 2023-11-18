@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3331,18 +3331,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2815,
       "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2023-11-18T21:05:58.6648198+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2817,
+      "NumberOfAwardsMax": 318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2815,
-  "NumberOfAwardsMax": 316,
+  "NumberOfAwards": 2817,
+  "NumberOfAwardsMax": 318,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 316
+      "Count": 318
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3411,9 +3417,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31178,
+  "EOS_Progressed": 31188,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19681,6 +19687,11 @@
       "Time": "2023-11-18T20:03:54.9966826+00:00",
       "NumProgressed": 31178,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-18T21:06:37.8635301+00:00",
+      "NumProgressed": 31188,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19700,7 +19711,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Back_Off",
@@ -19732,7 +19743,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Collect_Spores",
@@ -19740,7 +19751,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Collector",
@@ -19756,7 +19767,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Daily_Dose",
@@ -19764,7 +19775,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Diabolical",
@@ -19796,7 +19807,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Efficient",
@@ -19828,7 +19839,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "GB_In_Training",
@@ -19836,7 +19847,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Ghost_Expert",
@@ -19852,7 +19863,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Legions",
@@ -19940,7 +19951,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "Rivalry",
@@ -19996,7 +20007,7 @@
       "Name": "Stylish",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "Summoner",
@@ -20028,7 +20039,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Terrifying",
@@ -20052,7 +20063,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Tobins_Prodigy",
@@ -20076,7 +20087,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "Welcome_Crew",
@@ -20092,23 +20103,23 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31178,
+      "Progressed": 31188,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-18T07:02:59.0031034+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:03:54.9966819+00:00",
+  "LastChanged": "2023-11-18T21:05:58.6648194+00:00",
+  "LastChanged_Achievements": "2023-11-18T21:06:37.8635298+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:03:15.9214673+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:03:54.9968214+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:05:58.6648202+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:06:37.8636156+00:00"
 }

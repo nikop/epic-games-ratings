@@ -2,10 +2,10 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -326,6 +326,11 @@
       "Time": "2023-11-18T17:10:33.564481+00:00",
       "NumProgressed": 77,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-18T21:13:04.4408698+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -335,7 +340,7 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 60
     },
@@ -343,7 +348,7 @@
       "ID": "aq_achievement_10",
       "SetID": "7jh86ne",
       "Name": "Mystery solved",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -359,7 +364,7 @@
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -367,7 +372,7 @@
       "ID": "aq_achievement_13",
       "SetID": "7jh86ne",
       "Name": "Honey, honey, honey\u2026",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -375,7 +380,7 @@
       "ID": "aq_achievement_14",
       "SetID": "7jh86ne",
       "Name": "Show me your true self",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -383,7 +388,7 @@
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -423,7 +428,7 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -431,7 +436,7 @@
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -455,15 +460,15 @@
       "ID": "aq_achievement_23",
       "SetID": "7jh86ne",
       "Name": "Fussy eater",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -479,7 +484,7 @@
       "ID": "aq_achievement_26",
       "SetID": "7jh86ne",
       "Name": "Far away from home",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
       "UsersEstimate": 23
     },
@@ -495,7 +500,7 @@
       "ID": "aq_achievement_28",
       "SetID": "7jh86ne",
       "Name": "Cameodalic",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -511,7 +516,7 @@
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -519,7 +524,7 @@
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 19
     },
@@ -575,7 +580,7 @@
       "ID": "aq_achievement_37",
       "SetID": "7jh86ne",
       "Name": "Guilty conscience",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 35,
       "UsersEstimate": 12
     },
@@ -623,7 +628,7 @@
       "ID": "aq_achievement_7",
       "SetID": "7jh86ne",
       "Name": "NOW GO AWAY!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -631,7 +636,7 @@
       "ID": "aq_achievement_8",
       "SetID": "7jh86ne",
       "Name": "Sorry Grandpa",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -639,7 +644,7 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 23
     }
@@ -648,7 +653,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 6
     }
   ],
@@ -656,8 +661,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:10:20.3653776+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:57:34.8018097+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:58:16.6089956+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:10:20.3654103+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:13:04.4408694+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:01:07.085407+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:13:04.440906+00:00"
 }

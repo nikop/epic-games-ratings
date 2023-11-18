@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.36,
+  "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2545,6 +2545,11 @@
       "Time": "2023-11-18T20:05:38.6337599+00:00",
       "NumProgressed": 597,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T21:08:22.7327252+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2556,7 +2561,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "END_GOOD",
@@ -2564,7 +2569,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "META_ALL_LINK",
@@ -2572,7 +2577,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2580,7 +2585,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2588,7 +2593,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "META_HALF_LINK",
@@ -2596,7 +2601,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2626,9 +2631,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2668,7 +2673,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2692,7 +2697,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2708,7 +2713,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PROGRESS_N1",
@@ -2732,7 +2737,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PROGRESS_N4",
@@ -2740,7 +2745,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PROGRESS_N5",
@@ -2748,21 +2753,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:05:38.6337596+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:00:52.7233758+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:05:38.633791+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:08:22.7327248+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:03:44.5690376+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:08:22.7327593+00:00"
 }

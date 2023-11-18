@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1588,6 +1588,11 @@
       "Time": "2023-11-18T19:03:52.9860701+00:00",
       "NumProgressed": 597,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T21:06:29.2826841+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1621,9 +1626,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 383
     },
     {
       "ID": "Chapter10",
@@ -1637,9 +1642,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 167
     },
     {
       "ID": "Chapter3",
@@ -1647,7 +1652,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Chapter4",
@@ -1655,7 +1660,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Chapter5",
@@ -1693,9 +1698,9 @@
       "ID": "Chapter9",
       "SetID": "70l3651",
       "Name": "Gollum/Sm\u00E9agol",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "Collectibles1",
@@ -1703,7 +1708,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Collectibles2",
@@ -1879,21 +1884,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:03:46.4055217+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:57:42.7954871+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:03:46.4055533+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:06:29.2826836+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:57:17.344247+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:00:32.7311794+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:06:29.282712+00:00"
 }

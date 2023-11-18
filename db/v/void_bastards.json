@@ -3,12 +3,12 @@
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 413,
-  "Ranking_Popularity": 532,
+  "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T07:08:49+00:00",
@@ -665,18 +665,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2023-11-18T21:00:10.6891296+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Amazing Characters",
+  "NumberOfAwards": 67,
+  "NumberOfAwardsMax": 23,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -702,8 +708,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2023-10-08T13:59:22.1944208+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:57:32.168334+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:57:20.302887+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:05:25.9511468+00:00"
+  "LastChanged": "2023-11-18T21:00:10.6891294+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:57:05.7122518+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:00:10.6891302+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:08:10.5969818+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1757,
+  "EOS_Progressed": 1758,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3984,6 +3984,11 @@
       "Time": "2023-11-18T20:06:26.2760673+00:00",
       "NumProgressed": 1757,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T21:09:11.1752971+00:00",
+      "NumProgressed": 1758,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4027,7 +4032,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "Commandos",
@@ -4075,7 +4080,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Everyone_is_here",
@@ -4121,9 +4126,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 686
     },
     {
       "ID": "High_noon",
@@ -4234,15 +4239,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1757,
+      "Progressed": 1758,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-18T20:06:26.2760669+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:01:23.3468848+00:00",
-  "LastUpdate_Achievements": "2023-11-18T20:06:26.2761053+00:00"
+  "LastChanged_Achievements": "2023-11-18T21:09:11.1752968+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
+  "LastUpdate_Ratings": "2023-11-18T21:04:15.4911486+00:00",
+  "LastUpdate_Achievements": "2023-11-18T21:09:11.1753332+00:00"
 }

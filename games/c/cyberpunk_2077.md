@@ -36,13 +36,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.40% | ~103 |
 | Easy Come, Easy Go | 0.40% | ~103 |
 | The Wandering Fool | 0.30% | ~2,692 |
+| The Sun | 0.30% | ~2,692 |
 | Two Heads, One Bullet | 0.30% | ~2,692 |
 | To Bad Decisions! | 0.20% | ~1,794 |
 | Must Be Rats | 0.20% | ~1,794 |
 | Breathtaking | 0.20% | ~1,794 |
 | Ten out of Ten | 0.20% | ~1,794 |
 | The Star | 0.20% | ~1,794 |
-| The Sun | 0.20% | ~1,794 |
 | The APB is Not Enough | 0.20% | ~52 |
 | Judgement Day | 0.20% | ~52 |
 | King of Pentacles | 0.20% | ~52 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,231 (Ranked 15)  
-Completed: 2,785 (0.31%) (Ranked 232)  
+Progressed: 897,236 (Ranked 15)  
+Completed: 2,786 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 2,785 (0.31%) (Ranked 232)
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
-| 2023-11-18 | 897,231 | 2,785 |
+| 2023-11-18 | 897,236 | 2,786 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
 Sum: 356,403 (Ranked 10)  
