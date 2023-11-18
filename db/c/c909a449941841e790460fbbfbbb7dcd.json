@@ -3,7 +3,7 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
@@ -837,9 +837,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -853,17 +853,17 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -885,9 +885,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -901,9 +901,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -941,9 +941,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:07:48.9677228+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:05:55.6913664+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.3650041+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:57:05.4438897+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:07:48.9677361+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:56:58.4494332+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:05:55.6913786+00:00"
 }

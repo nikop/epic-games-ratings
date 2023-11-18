@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2945,9 +2945,9 @@
       "ID": "ID_35_CLEAR_ALL_TITLE",
       "SetID": "7o8nc5m",
       "Name": "All Clear!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
@@ -2961,8 +2961,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:10:04.9127974+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:09:00.0201843+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6615499+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:00:05.7228488+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:10:04.9128224+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:58:53.3812558+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:09:00.0202201+00:00"
 }

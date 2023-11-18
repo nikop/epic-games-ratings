@@ -7,17 +7,19 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 21.00% | ~20 |
-| Double Kill | 16.00% | ~15 |
+| Double Kill | 15.00% | ~15 |
+| Sorcerous Spree | 5.00% | ~5 |
 | Veteran | 5.00% | ~5 |
 | Dressed For Success | 4.00% | ~4 |
 | Critical Hit | 4.00% | ~4 |
-| Sorcerous Spree | 4.00% | ~4 |
 | Versatile Wielder | 1.00% | ~1 |
+| Fully Charged | 1.00% | ~1 |
 | Infernal Influence | 1.00% | ~1 |
 | Multi Kill | 1.00% | ~1 |
 | Whoops! | 1.00% | ~1 |
 | Don't Touch My Stuff | 1.00% | ~1 |
 | Such A Fungi | 1.00% | ~1 |
+| Get Over Here! | 1.00% | ~1 |
 | Humiliation | 1.00% | ~1 |
 | Expert Essence Employment | 1.00% | ~1 |
 | Venisti, Vidisti, Perdidisti | 1.00% | ~1 |
@@ -30,7 +32,6 @@ Number of Ratings: 292  (23.09.2022)
 | This Spot's Taken | 0.00% | ~0 |
 | Hello There | 0.00% | ~0 |
 | Unlimited Power! | 0.00% | ~0 |
-| Fully Charged | 0.00% | ~0 |
 | Coming Through! | 0.00% | ~0 |
 | Deepstrike | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
@@ -47,7 +48,6 @@ Number of Ratings: 292  (23.09.2022)
 | Death From Above | 0.00% | ~0 |
 | From the Ashes | 0.00% | ~0 |
 | The Marsh Expands | 0.00% | ~0 |
-| Get Over Here! | 0.00% | ~0 |
 | Cleave | 0.00% | ~0 |
 | Landlord Extraordinaire | 0.00% | ~0 |
 | Trojan Horse | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 431)  
+Progressed: 97 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
-| 2023-11-18 | 96 | 0 |
+| 2023-11-18 | 97 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

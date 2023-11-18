@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470985,
+  "EOS_Progressed": 470986,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22748,6 +22748,11 @@
       "Time": "2023-11-18T05:09:27.2903948+00:00",
       "NumProgressed": 470985,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-18T08:09:01.7317619+00:00",
+      "NumProgressed": 470986,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22775,7 +22780,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113036
+      "UsersEstimate": 113037
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22799,7 +22804,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47098
+      "UsersEstimate": 47099
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -22847,7 +22852,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310850
+      "UsersEstimate": 310851
     },
     {
       "ID": "achievement_story_landa",
@@ -23183,7 +23188,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207233
+      "UsersEstimate": 207234
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23215,7 +23220,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183684
+      "UsersEstimate": 183685
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23390,21 +23395,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14919,
+      "Progressed": 14920,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470985,
+      "Progressed": 470986,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:10:07.3466131+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:09:01.7317614+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:00:45.4799589+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:10:07.3467505+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:59:18.6857952+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:09:01.7319302+00:00"
 }

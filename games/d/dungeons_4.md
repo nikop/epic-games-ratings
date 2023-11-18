@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 86.00% | ~253 |
 | Thalya – Simply Immortal | 86.00% | ~253 |
-| For the Horde! | 80.00% | ~235 |
-| Hammer Time, Round Two | 79.00% | ~232 |
+| For the Horde! | 81.00% | ~238 |
+| Hammer Time, Round Two | 80.00% | ~235 |
 | The Hellwoods | 74.00% | ~218 |
-| Thalya's Concentrated Fury | 67.00% | ~197 |
+| Thalya's Concentrated Fury | 68.00% | ~200 |
 | The Plains of Strothalm | 67.00% | ~197 |
 | Experienced Thalya | 67.00% | ~197 |
 | Master of Magic | 62.00% | ~182 |
@@ -18,7 +18,7 @@
 | Unicorn steaks – fresh off the hoof! | 56.00% | ~165 |
 | Heroes’ Gorge | 56.00% | ~165 |
 | Minions, Minions! | 53.00% | ~156 |
-| Trap Master | 51.00% | ~150 |
+| Trap Master | 52.00% | ~153 |
 | The Ascent | 44.00% | ~129 |
 | It's Warm and Cozy at Home | 44.00% | ~129 |
 | YOU SHALL NOT PASS! | 43.00% | ~126 |

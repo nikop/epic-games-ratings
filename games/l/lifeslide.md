@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | All Starts Here | 95.00% | ~313 |
-| Road to Improvement | 72.00% | ~237 |
+| Road to Improvement | 73.00% | ~240 |
 | Wonderful World | 59.00% | ~194 |
 | Second Wind | 58.00% | ~191 |
 | Chain of Events | 57.00% | ~188 |

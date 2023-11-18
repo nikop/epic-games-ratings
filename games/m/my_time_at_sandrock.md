@@ -18,9 +18,9 @@ Number of Ratings: 892  (23.09.2022)
 | Diamonds are Forever | 58.00% | ~213 |
 | Unboxing | 57.00% | ~210 |
 | Pack Mule | 56.00% | ~206 |
-| Big Game Hunter | 51.00% | ~188 |
+| Big Game Hunter | 52.00% | ~191 |
+| Financially Secure | 49.00% | ~180 |
 | Chatterbox | 49.00% | ~180 |
-| Financially Secure | 48.00% | ~177 |
 | Got Served | 48.00% | ~177 |
 | First Love | 48.00% | ~177 |
 | I Do! | 46.00% | ~169 |
@@ -48,7 +48,7 @@ Number of Ratings: 892  (23.09.2022)
 | Lifeline Pipeline | 30.00% | ~110 |
 | He Can Spin A Yarn... | 28.00% | ~103 |
 | Sepia Toned Memories | 27.00% | ~99 |
-| Time Flies | 24.00% | ~88 |
+| Time Flies | 25.00% | ~92 |
 | Kind of a Big Deal | 24.00% | ~88 |
 | Newton | 24.00% | ~88 |
 | Do Your Part | 23.00% | ~85 |

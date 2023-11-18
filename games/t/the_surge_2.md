@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 884)  
+Rating: 4.24 (Ranked 885)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 884)
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,205 (Ranked 220)  
-Completed: 13 (0.59%) (Ranked 186)  
+Completed: 13 (0.59%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

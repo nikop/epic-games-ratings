@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 5.00% | ~9 |
+| Powerful Allies | 3.00% | ~6 |
 | I Found It | 3.00% | ~6 |
 | Break Out | 2.00% | ~4 |
 | Find Allies | 2.00% | ~4 |
-| Powerful Allies | 2.00% | ~4 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
@@ -32,11 +32,11 @@
 | Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
+| Alchemist | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |
 | The Mentor | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
 | Shardbearer | -0.50% | ~-1 |
-| Alchemist | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.10% | ~-2 |

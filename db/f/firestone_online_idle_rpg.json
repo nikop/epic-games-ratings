@@ -475,7 +475,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2429,
+  "EOS_Progressed": 2430,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -7355,6 +7355,11 @@
       "Time": "2023-11-18T07:09:04.7737964+00:00",
       "NumProgressed": 2429,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T08:08:17.6926548+00:00",
+      "NumProgressed": 2430,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7374,7 +7379,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "angelpower",
@@ -7390,7 +7395,7 @@
       "Name": "Arena Challenger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "backgroundstory",
@@ -7398,7 +7403,7 @@
       "Name": "Background Story",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "beastwarmachines",
@@ -7494,7 +7499,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "enchantingskill",
@@ -7550,7 +7555,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "fourleafclover",
@@ -7598,7 +7603,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "herewegoagain",
@@ -7694,7 +7699,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "minerclicker",
@@ -7766,7 +7771,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "relicofthepast",
@@ -7926,7 +7931,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2260
     },
     {
       "ID": "warmachinesarmy",
@@ -7958,14 +7963,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2429,
+      "Progressed": 2430,
       "Completed": 2
     }
   ],
@@ -7973,8 +7978,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:09:04.7737961+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:08:17.6926541+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:57:39.9674977+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:09:04.7738816+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:57:20.5508977+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:08:17.6927583+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -219,7 +219,7 @@
   "Tags": [],
   "EOS_Progressed": 15070,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11679,9 +11679,9 @@
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 603
+      "UsersEstimate": 754
     },
     {
       "ID": "28",
@@ -11822,8 +11822,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:08:25.3472769+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:07:50.1791172+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:58:31.8472522+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:08:25.347359+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:57:53.141742+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:07:50.179192+00:00"
 }

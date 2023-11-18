@@ -6,50 +6,50 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,423 |
-| The Pyromancer | 86.00% | ~57,738 |
-| The Wastes | 83.00% | ~55,724 |
-| Waste Not | 80.00% | ~53,710 |
-| The Cryomancer | 76.00% | ~51,024 |
-| Stock Up | 75.00% | ~50,353 |
-| The Hydromancer | 73.00% | ~49,010 |
-| The Matriarch | 70.00% | ~46,996 |
-| The Aeromancer | 66.00% | ~44,310 |
-| The Venomancer | 66.00% | ~44,310 |
-| The Huntsman | 65.00% | ~43,639 |
-| Dawnlight Order | 64.00% | ~42,968 |
-| The Electromancer | 61.00% | ~40,954 |
-| The Terramancer | 59.00% | ~39,611 |
-| The Exalted | 57.00% | ~38,268 |
-| Blueheart Runners | 55.00% | ~36,925 |
-| Sheriff Inquisitors | 55.00% | ~36,925 |
-| The Necromancer | 52.00% | ~34,911 |
-| The Swamp | 50.00% | ~33,568 |
-| The Fungalmancer | 47.00% | ~31,554 |
-| The Thaumamancer | 47.00% | ~31,554 |
-| The Hag | 45.00% | ~30,212 |
+| The Champion | 90.00% | ~60,425 |
+| The Pyromancer | 86.00% | ~57,740 |
+| The Wastes | 83.00% | ~55,725 |
+| Waste Not | 80.00% | ~53,711 |
+| The Cryomancer | 76.00% | ~51,026 |
+| Stock Up | 75.00% | ~50,354 |
+| The Hydromancer | 73.00% | ~49,011 |
+| The Matriarch | 70.00% | ~46,997 |
+| The Aeromancer | 66.00% | ~44,312 |
+| The Venomancer | 66.00% | ~44,312 |
+| The Huntsman | 65.00% | ~43,640 |
+| Dawnlight Order | 64.00% | ~42,969 |
+| The Electromancer | 61.00% | ~40,955 |
+| The Terramancer | 59.00% | ~39,612 |
+| The Exalted | 57.00% | ~38,269 |
+| Blueheart Runners | 55.00% | ~36,926 |
+| Sheriff Inquisitors | 55.00% | ~36,926 |
+| The Necromancer | 52.00% | ~34,912 |
+| The Swamp | 50.00% | ~33,570 |
+| The Fungalmancer | 47.00% | ~31,555 |
+| The Thaumamancer | 47.00% | ~31,555 |
+| The Hag | 45.00% | ~30,213 |
 | The Corpumancer | 42.00% | ~28,198 |
-| The Mountain | 40.00% | ~26,855 |
-| The Treeheart | 40.00% | ~26,855 |
-| Shroud Alliance | 39.00% | ~26,183 |
+| The Mountain | 40.00% | ~26,856 |
+| The Treeheart | 40.00% | ~26,856 |
+| Shroud Alliance | 39.00% | ~26,184 |
 | The Two Monks | 37.00% | ~24,841 |
-| The Neuromancer | 35.00% | ~23,498 |
-| Oathbound Watchers | 33.00% | ~22,155 |
-| The Mechanomancer | 33.00% | ~22,155 |
+| The Neuromancer | 35.00% | ~23,499 |
+| Oathbound Watchers | 33.00% | ~22,156 |
+| The Mechanomancer | 33.00% | ~22,156 |
 | The Chronomancer | 32.00% | ~21,484 |
-| The Copse | 30.00% | ~20,141 |
-| The Dragon | 30.00% | ~20,141 |
-| The Dracomancer | 30.00% | ~20,141 |
-| Well Stocked | 28.00% | ~18,798 |
-| The Umbramancer | 28.00% | ~18,798 |
-| Chaos Hunger | 27.00% | ~18,127 |
-| The Kinetomancer | 27.00% | ~18,127 |
-| The Sanguimancer | 27.00% | ~18,127 |
+| The Copse | 30.00% | ~20,142 |
+| The Dragon | 30.00% | ~20,142 |
+| The Dracomancer | 30.00% | ~20,142 |
+| Well Stocked | 28.00% | ~18,799 |
+| The Umbramancer | 28.00% | ~18,799 |
+| Chaos Hunger | 27.00% | ~18,128 |
+| The Kinetomancer | 27.00% | ~18,128 |
+| The Sanguimancer | 27.00% | ~18,128 |
 | The Luminimancer | 26.00% | ~17,456 |
-| The Bibliomancer | 25.00% | ~16,784 |
-| The Skylord | 25.00% | ~16,784 |
+| The Bibliomancer | 25.00% | ~16,785 |
+| The Skylord | 25.00% | ~16,785 |
 | The Firelord | 24.00% | ~16,113 |
-| The Diablomancer | 22.00% | ~14,770 |
+| The Diablomancer | 22.00% | ~14,771 |
 | Want Not | 21.00% | ~14,099 |
 | The Sacrifice | 21.00% | ~14,099 |
 | The King | 19.00% | ~12,756 |
@@ -60,7 +60,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,714 |
 | Top Shelf | 5.00% | ~3,357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,137 (Ranked 102)  
+Progressed: 67,139 (Ranked 102)  
 Completed: 1,250 (1.86%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 1,250 (1.86%) (Ranked 128)
 | 2023-11-15 | 67,116 | 1,247 |
 | 2023-11-16 | 67,124 | 1,249 |
 | 2023-11-17 | 67,133 | 1,250 |
-| 2023-11-18 | 67,137 | 1,250 |
+| 2023-11-18 | 67,139 | 1,250 |
 ## Awards
 Max (Character Customization): 985  (Ranked 153)  
 Sum: 1,979 (Ranked 213)  

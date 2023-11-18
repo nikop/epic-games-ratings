@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3759,6 +3759,11 @@
       "Time": "2023-11-18T04:09:16.3006308+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T08:09:01.4554114+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3907,7 +3912,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_26",
@@ -3995,7 +4000,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "achievement_36",
@@ -4011,7 +4016,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "achievement_38",
@@ -4274,13 +4279,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 1
     }
   ],
@@ -4288,8 +4293,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:10:07.0252428+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:09:01.4554112+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:59:17.4384992+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:10:07.0253007+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:58:22.2881851+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:09:01.4554843+00:00"
 }

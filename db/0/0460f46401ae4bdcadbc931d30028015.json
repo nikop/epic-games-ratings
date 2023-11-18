@@ -645,9 +645,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3651,
+  "EOS_Progressed": 3652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5345,6 +5345,11 @@
       "Time": "2023-11-18T07:05:42.6587378+00:00",
       "NumProgressed": 3651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T08:04:29.1539166+00:00",
+      "NumProgressed": 3652,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5365,7 +5370,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "achievement_11",
@@ -5453,7 +5458,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "achievement_21",
@@ -5509,7 +5514,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "achievement_9",
@@ -5524,7 +5529,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3651,
+      "Progressed": 3652,
       "Completed": 0
     }
   ],
@@ -5532,8 +5537,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-18T04:57:35.8561611+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:05:42.6587374+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:04:29.1539162+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:57:46.8699697+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:05:42.6587843+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:57:24.8730819+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:04:29.1539601+00:00"
 }

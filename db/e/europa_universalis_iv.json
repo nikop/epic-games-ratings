@@ -12139,10 +12139,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 58000,
       "NumberOfAwardsMax": 7043
+    },
+    {
+      "Time": "2023-11-18T07:58:45.368761+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58021,
+      "NumberOfAwardsMax": 7043
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58000,
+  "NumberOfAwards": 58021,
   "NumberOfAwardsMax": 7043,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12168,7 +12174,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6637
+      "Count": 6658
     },
     {
       "Text": "This game is Educational",
@@ -12213,9 +12219,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457983,
+  "EOS_Progressed": 458021,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5994,
+  "EOS_NewPlayers": 5990,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36463,6 +36469,11 @@
       "Time": "2023-11-18T07:06:30.2769276+00:00",
       "NumProgressed": 457983,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T08:05:02.1783345+00:00",
+      "NumProgressed": 458021,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37016,9 +37027,9 @@
       "ID": "achievement_consulate_of_the_sea",
       "SetID": "8p2n7he",
       "Name": "Consulate of the Sea",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_copium_wars",
@@ -38376,9 +38387,9 @@
       "ID": "achievement_reapers",
       "SetID": "8p2n7he",
       "Name": "The Reapers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_redecorating",
@@ -39377,21 +39388,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457983,
+      "Progressed": 458021,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457983,
+      "Progressed": 458021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-17T22:59:33.016006+00:00",
-  "LastChanged_Achievements": "2023-11-18T07:06:30.276927+00:00",
+  "LastChanged": "2023-11-18T07:58:45.3687608+00:00",
+  "LastChanged_Achievements": "2023-11-18T08:05:02.1783343+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:59:53.1150357+00:00",
-  "LastUpdate_Achievements": "2023-11-18T07:06:30.2780001+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:58:45.3687615+00:00",
+  "LastUpdate_Achievements": "2023-11-18T08:05:02.1794643+00:00"
 }

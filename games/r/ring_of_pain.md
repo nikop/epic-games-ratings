@@ -13,6 +13,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.30% | ~720 |
 | Delving Deeper | 0.30% | ~720 |
 | Getting A Glimpse | 0.30% | ~720 |
+| R.I.P | 0.30% | ~720 |
 | That Was Quick | 0.30% | ~720 |
 | Colorful Corpse | 0.30% | ~720 |
 | Defeat The Dark | 0.30% | ~720 |
@@ -33,7 +34,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ambitious Intent | 0.20% | ~480 |
 | Consecutive Curses | 0.20% | ~480 |
 | Shadow Spreads | 0.20% | ~480 |
-| R.I.P | 0.20% | ~480 |
 | To The Death! | 0.20% | ~480 |
 | Dig Your Own Grave | 0.20% | ~480 |
 | Well Prepared | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,840 (Ranked 61)  
+Progressed: 239,846 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
-| 2023-11-18 | 239,840 | 288 |
+| 2023-11-18 | 239,846 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,680 (Ranked 83)  
