@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3665,
+  "EOS_Progressed": 3666,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5573,6 +5573,11 @@
       "Time": "2023-11-18T16:08:12.2726934+00:00",
       "NumProgressed": 3665,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T19:07:05.1483687+00:00",
+      "NumProgressed": 3666,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5608,7 +5613,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "BloodAndJustice_50",
@@ -5624,7 +5629,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "CrowdPleaser",
@@ -5648,7 +5653,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5768,7 +5773,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5776,7 +5781,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5840,7 +5845,7 @@
       "Name": "The Power of Faith",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -5856,7 +5861,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "TheStuffOfLegends",
@@ -5904,7 +5909,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5919,15 +5924,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3665,
+      "Progressed": 3666,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:08:13.5670784+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:07:05.1483684+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.5570436+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:58:30.8863062+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:08:13.5671387+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:58:28.5366603+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:07:05.1484097+00:00"
 }

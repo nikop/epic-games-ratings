@@ -2,12 +2,12 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-01-10T11:57:19.8134476+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2023-06-02T06:57:26.416494+00:00",
       "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-18T18:58:25.1922746+00:00",
+      "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2514,9 +2520,9 @@
   "FirstSeen": "2022-07-22T20:22:02.0247279+00:00",
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
-  "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:08:55.1165289+00:00",
+  "LastChanged": "2023-11-18T18:58:25.1922744+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:08:43.2385004+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:56:58.2949266+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:58:25.8883885+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:08:55.1165685+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:58:25.1922754+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:08:43.2385394+00:00"
 }

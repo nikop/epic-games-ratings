@@ -28,11 +28,11 @@
 | Mana Cannon | 33.00% | ~100 |
 | “… like son” | 33.00% | ~100 |
 | Dungeonlord Gorgu | 29.00% | ~88 |
-| Shame! Shame! Shame! | 27.00% | ~82 |
+| Shame! Shame! Shame! | 28.00% | ~85 |
 | The Cathedral of Light | 26.00% | ~79 |
+| Tanos' Crusade Against Thalya | 23.00% | ~70 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~67 |
-| Tanos' Crusade Against Thalya | 22.00% | ~67 |
-| Hungry, Hungry Gorgu! | 18.00% | ~55 |
+| Hungry, Hungry Gorgu! | 19.00% | ~58 |
 | Unstoppable Horde | 18.00% | ~55 |
 | Master of the Undead | 18.00% | ~55 |
 | Forbidden Knowledge | 17.00% | ~52 |

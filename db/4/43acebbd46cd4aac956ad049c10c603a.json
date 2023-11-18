@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -99,7 +99,7 @@
   ],
   "EOS_Progressed": 381,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -855,9 +855,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "AnthropicHills",
@@ -879,9 +879,9 @@
       "ID": "Balance",
       "SetID": "1n308hc",
       "Name": "Balance",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "BecomingSmarter",
@@ -911,9 +911,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "Chicken",
@@ -975,9 +975,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     },
     {
       "ID": "GnothiSeauton",
@@ -1031,25 +1031,25 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "Mnemosyne",
@@ -1287,9 +1287,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "WesternDelta",
@@ -1328,8 +1328,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:07:46.1216025+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:06:47.5353391+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:57:28.9243811+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:07:46.1216512+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:57:45.9308016+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:47.5353781+00:00"
 }

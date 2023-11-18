@@ -67,9 +67,9 @@
       "ID": "ITS_A_BEAUTY_ACH",
       "SetID": "8i8pmkm",
       "Name": "It\u0027s a Beauty!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 125,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "I_NEED_A_BREAK_ACH",
@@ -162,8 +162,8 @@
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:07:19.9273313+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:06:28.4509633+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:08.5147887+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:57:20.3513689+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:07:19.9273422+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:57:40.2638148+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:28.4509716+00:00"
 }

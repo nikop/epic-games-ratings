@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10695,9 +10695,9 @@
       "Count": 789
     }
   ],
-  "EOS_Progressed": 302331,
+  "EOS_Progressed": 302332,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33495,6 +33495,11 @@
       "Time": "2023-11-18T18:10:26.7970305+00:00",
       "NumProgressed": 302331,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-18T19:10:09.333186+00:00",
+      "NumProgressed": 302332,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33514,7 +33519,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_11",
@@ -33522,7 +33527,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_12",
@@ -33530,7 +33535,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_13",
@@ -33538,7 +33543,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_14",
@@ -33554,7 +33559,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24186
+      "UsersEstimate": 24187
     },
     {
       "ID": "PFA_16",
@@ -33562,7 +33567,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_17",
@@ -33570,7 +33575,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24186
+      "UsersEstimate": 24187
     },
     {
       "ID": "PFA_18",
@@ -33578,7 +33583,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24186
+      "UsersEstimate": 24187
     },
     {
       "ID": "PFA_19",
@@ -33586,7 +33591,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24186
+      "UsersEstimate": 24187
     },
     {
       "ID": "PFA_2",
@@ -33610,7 +33615,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_22",
@@ -33634,7 +33639,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_25",
@@ -33762,7 +33767,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33256
+      "UsersEstimate": 33257
     },
     {
       "ID": "PFA_4",
@@ -33865,7 +33870,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302331,
+      "Progressed": 302332,
       "Completed": 512
     }
   ],
@@ -33873,8 +33878,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-18T17:00:06.6326026+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:10:26.7970303+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:10:09.3331858+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:00:06.1357588+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:10:26.7971642+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:59:33.9380212+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:10:09.3332934+00:00"
 }

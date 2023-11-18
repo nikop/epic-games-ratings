@@ -14,8 +14,8 @@
 | The End | 15.00% | ~24 |
 | The Alliance | 12.00% | ~19 |
 | On her own | 10.00% | ~16 |
+| Peacemaker | 10.00% | ~16 |
 | Krauta is alive | 10.00% | ~16 |
-| Peacemaker | 9.00% | ~15 |
 | Flying Objects Operator | 9.00% | ~15 |
 | Beyond divisions | 9.00% | ~15 |
 | Volcanologist | 8.00% | ~13 |

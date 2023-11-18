@@ -134,9 +134,9 @@
       "ID": "ach5",
       "SetID": "796kfpa",
       "Name": "Cloudbuster",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 140,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach6",
@@ -150,9 +150,9 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 145,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -164,8 +164,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:06:18.8952395+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:05:44.0661218+00:00",
   "LastUpdate_AppInfo": "2023-11-15T16:57:23.7235053+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:00:33.9785251+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:06:18.895244+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:59:52.3739129+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:05:44.0661295+00:00"
 }

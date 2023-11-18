@@ -239,7 +239,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43907,
+  "EOS_Progressed": 43908,
   "EOS_Completed": 240,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -17644,6 +17644,11 @@
       "Time": "2023-11-18T15:05:42.8805542+00:00",
       "NumProgressed": 43907,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-18T19:06:37.1026957+00:00",
+      "NumProgressed": 43908,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17655,7 +17660,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25027
+      "UsersEstimate": 25028
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17863,7 +17868,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8781
+      "UsersEstimate": 8782
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -17887,7 +17892,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14050
+      "UsersEstimate": 14051
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -17895,7 +17900,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27661
+      "UsersEstimate": 27662
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17919,7 +17924,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26344
+      "UsersEstimate": 26345
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17959,7 +17964,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19758
+      "UsersEstimate": 19759
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -17975,7 +17980,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -18006,7 +18011,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43907,
+      "Progressed": 43908,
       "Completed": 240
     }
   ],
@@ -18014,8 +18019,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:07:31.8340899+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:06:37.1026952+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.948951+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:01:35.5524193+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:07:31.8342191+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:00:33.6951692+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:37.1028016+00:00"
 }

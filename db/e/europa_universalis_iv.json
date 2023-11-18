@@ -12243,9 +12243,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 458537,
+  "EOS_Progressed": 458581,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5807,
+  "EOS_NewPlayers": 5774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36548,6 +36548,11 @@
       "Time": "2023-11-18T18:07:09.5120482+00:00",
       "NumProgressed": 458537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T19:06:21.0167747+00:00",
+      "NumProgressed": 458581,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37437,9 +37442,9 @@
       "ID": "achievement_from_humble_origins",
       "SetID": "8p2n7he",
       "Name": "From Humble Origins",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_frozen_assets",
@@ -39462,21 +39467,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 458537,
+      "Progressed": 458581,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 458537,
+      "Progressed": 458581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-18T13:59:09.4626595+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:07:09.5120478+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:06:21.0167744+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:00:32.259679+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:07:09.513048+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:59:51.1983155+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:21.0177805+00:00"
 }

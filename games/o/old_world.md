@@ -149,11 +149,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.60% | ~92 |
 | Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~77 |
+| Glorious Difficulty | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~61 |
 | Ancient | 0.40% | ~61 |
-| Glorious Difficulty | 0.40% | ~61 |
 | Magnificent Difficulty | 0.40% | ~61 |
 | The Eternal Treaty | 0.40% | ~61 |
 | Run, Pheidippides, Run! | 0.40% | ~61 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,371 (Ranked 149)  
+Progressed: 15,373 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
-| 2023-11-18 | 15,371 | 5 |
+| 2023-11-18 | 15,373 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

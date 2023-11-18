@@ -3,11 +3,11 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1006,
-  "Ranking_Popularity": 204,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4689,9 +4689,9 @@
       "Count": 492
     }
   ],
-  "EOS_Progressed": 91291,
+  "EOS_Progressed": 91293,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 810,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25734,6 +25734,11 @@
       "Time": "2023-11-18T18:04:25.983307+00:00",
       "NumProgressed": 91291,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-18T19:04:22.5558159+00:00",
+      "NumProgressed": 91293,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -25775,9 +25780,9 @@
       "ID": "ACH_0014",
       "SetID": "3kam13l",
       "Name": "Track Star",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_0015",
@@ -26072,13 +26077,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91291,
+      "Progressed": 91293,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19638,
+      "Progressed": 19640,
       "Completed": 15575
     }
   ],
@@ -26086,8 +26091,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-18T16:03:05.3981237+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:04:25.9833066+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:04:22.5558155+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:03:05.3754591+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:04:25.9834436+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:03:25.9487707+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:04:22.5559409+00:00"
 }

@@ -30,13 +30,13 @@
 | Spiritual Journey | 4.00% | ~8 |
 | Merchant | 4.00% | ~8 |
 | Trouble at Fort Larius | 4.00% | ~8 |
+| Unseen Patterns | 4.00% | ~8 |
 | Bounty Hunter | 3.00% | ~6 |
 | Potential Unlocked | 3.00% | ~6 |
 | Xevarian Gambit | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
 | Life... Finds a Way | 3.00% | ~6 |
 | Inquisitions of Discord | 3.00% | ~6 |
-| Unseen Patterns | 3.00% | ~6 |
 | Making Contact | 2.00% | ~4 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |

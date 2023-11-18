@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,888 |
+| V for Vendetta | 4.00% | ~35,889 |
 | Gun Fu | 2.00% | ~17,944 |
 | Relic Ruler | 1.00% | ~258 |
 | Full Body Conversion | 0.90% | ~8,075 |
 | True Soldier | 0.80% | ~7,178 |
-| Right Back At Ya | 0.70% | ~6,280 |
-| Stanislavski's Method | 0.70% | ~6,280 |
+| Right Back At Ya | 0.70% | ~6,281 |
+| Stanislavski's Method | 0.70% | ~6,281 |
 | All the President's Men | 0.70% | ~181 |
 | Arachnophobia | 0.70% | ~181 |
 | The Quick and the Dead | 0.60% | ~5,383 |
@@ -23,6 +23,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.50% | ~4,486 |
 | The Lovers | 0.50% | ~4,486 |
 | The Wheel of Fortune | 0.50% | ~4,486 |
+| The World | 0.50% | ~4,486 |
 | True Warrior | 0.50% | ~4,486 |
 | Legend of The Afterlife | 0.50% | ~4,486 |
 | Spin Doctor | 0.50% | ~129 |
@@ -30,7 +31,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.40% | ~3,589 |
 | I Am The Law | 0.40% | ~3,589 |
 | The Fool | 0.40% | ~3,589 |
-| The World | 0.40% | ~3,589 |
 | Judy vs Night City | 0.40% | ~3,589 |
 | King of Wands | 0.40% | ~103 |
 | Dirty Deeds | 0.40% | ~103 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,205 (Ranked 15)  
+Progressed: 897,220 (Ranked 15)  
 Completed: 2,785 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,17 +286,17 @@ Completed: 2,785 (0.31%) (Ranked 232)
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
-| 2023-11-18 | 897,205 | 2,785 |
+| 2023-11-18 | 897,220 | 2,785 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
-Sum: 356,305 (Ranked 10)  
+Sum: 356,403 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 106,055 |
 | This game has Great Boss Battles | 76,784 |
 | This game is Great for Beginners | 21,521 |
-| This game has Diverse Characters | 21,054 |
+| This game has Diverse Characters | 21,152 |
 | This game is Highly Recommended | 20,209 |
 | This game has Amazing Storytelling | 20,101 |
 | This game is Extremely Fun | 19,901 |
@@ -610,4 +610,4 @@ Diff (max vs sum): -1
 | 2023-11-15 | 4.64 | - | 105,592 | 353,529 |
 | 2023-11-16 | 4.64 | - | 105,726 | 354,422 |
 | 2023-11-17 | 4.64 | - | 105,891 | 355,372 |
-| 2023-11-18 | 4.64 | - | 106,055 | 356,305 |
+| 2023-11-18 | 4.64 | - | 106,055 | 356,403 |

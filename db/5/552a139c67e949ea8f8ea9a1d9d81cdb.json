@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1099,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2262,6 +2262,11 @@
       "Time": "2023-11-18T17:07:47.2951466+00:00",
       "NumProgressed": 1099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T19:06:43.4078301+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2274,7 +2279,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2610,27 +2615,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1099,
+      "Progressed": 1100,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 767,
-      "Completed": 767
+      "Progressed": 768,
+      "Completed": 768
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:07:40.5637429+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:06:43.4078298+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:59:11.6084273+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:07:40.563774+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:58:56.3346234+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:43.407864+00:00"
 }

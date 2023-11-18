@@ -3,7 +3,7 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 31,
-  "Ranking_Popularity": 127,
+  "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
@@ -3325,10 +3325,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 3505,
       "NumberOfAwardsMax": 1551
+    },
+    {
+      "Time": "2023-11-18T19:00:12.7166176+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 3508,
+      "NumberOfAwardsMax": 1551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3505,
+  "NumberOfAwards": 3508,
   "NumberOfAwardsMax": 1551,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3348,7 +3354,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3378,7 +3384,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 264
+      "Count": 266
     },
     {
       "Text": "This game is Relaxing",
@@ -3405,8 +3411,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2023-11-18T16:01:03.8836121+00:00",
+  "LastChanged": "2023-11-18T19:00:12.7166174+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:12.6926+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:01:04.6978912+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:07:41.4586738+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:00:12.7166179+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:44.2082962+00:00"
 }

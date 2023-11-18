@@ -6278,9 +6278,9 @@
       "ID": "BBrahrnold",
       "SetID": "bmkn7o4",
       "Name": "Benedict Brahrnold",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "BeBack",
@@ -6812,8 +6812,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:05:22.9533119+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:05:03.8476293+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.8203344+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:02:46.9597259+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:05:22.9534117+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:00:54.1613564+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:05:03.8477181+00:00"
 }

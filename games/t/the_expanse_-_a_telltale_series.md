@@ -13,17 +13,17 @@ Rating: 4.56 (Ranked 489)
 | Captain Drummer | 4.00% | ~603 |
 | Celebrations are in Order | 4.00% | ~603 |
 | Impossible Objects | 4.00% | ~603 |
-| Safe Cracker | 4.00% | ~41 |
-| Zen Master | 4.00% | ~41 |
-| Madame Undersecretary | 4.00% | ~41 |
-| Stogie for Fogey | 3.00% | ~452 |
-| Drug Gifter | 3.00% | ~452 |
-| Spore Taste | 3.00% | ~452 |
-| Heal Thy Medic | 3.00% | ~452 |
-| Call it Even | 3.00% | ~452 |
+| Safe Cracker | 4.00% | ~42 |
+| Zen Master | 4.00% | ~42 |
+| Madame Undersecretary | 4.00% | ~42 |
+| Data Archivist | 3.00% | ~453 |
+| Stogie for Fogey | 3.00% | ~453 |
+| Drug Gifter | 3.00% | ~453 |
+| Spore Taste | 3.00% | ~453 |
+| Heal Thy Medic | 3.00% | ~453 |
+| Call it Even | 3.00% | ~453 |
 | Keep Arjun in Check | 3.00% | ~31 |
 | Master Negotiator | 3.00% | ~31 |
-| Data Archivist | 2.00% | ~302 |
 | Doctor Approved | 2.00% | ~302 |
 | Bottoms up! | 2.00% | ~302 |
 | Thorston Mayer | 2.00% | ~302 |
@@ -33,7 +33,7 @@ Rating: 4.56 (Ranked 489)
 | Data Master | 0.90% | ~136 |
 | Brother's Reaper | 0.70% | ~106 |
 | No Belter Left Behind | 0.70% | ~106 |
-| Debris Spree | 0.60% | ~90 |
+| Debris Spree | 0.60% | ~91 |
 | Data Recoverer | 0.50% | ~75 |
 | Urshanabi Hoarder | 0.30% | ~45 |
 | Data Miner | 0.20% | ~30 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,082 (Ranked 150)  
+Progressed: 15,086 (Ranked 150)  
 Completed: 34 (0.23%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 34 (0.23%) (Ranked 245)
 | 2023-11-15 | 14,993 | 34 |
 | 2023-11-16 | 15,021 | 34 |
 | 2023-11-17 | 15,061 | 34 |
-| 2023-11-18 | 15,082 | 34 |
+| 2023-11-18 | 15,086 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

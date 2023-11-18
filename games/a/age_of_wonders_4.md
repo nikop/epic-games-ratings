@@ -20,9 +20,9 @@ Rating: 4.61 (Ranked 384)
 | Valley of Wonders | 0.90% | ~49 |
 | Stronger Together | 0.90% | ~49 |
 | Magical Synergy | 0.90% | ~49 |
+| In a Liege of Your Own | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
-| In a Liege of Your Own | 0.80% | ~43 |
 | Sehiran Oasis | 0.80% | ~43 |
 | Digging for Treasure | 0.70% | ~38 |
 | Tipping the Scales | 0.70% | ~38 |

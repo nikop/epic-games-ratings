@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 344,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
@@ -1410,9 +1410,9 @@
       "ID": "any_stat_15",
       "SetID": "69co12a",
       "Name": "Workout professional",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "any_stat_30",
@@ -1578,9 +1578,9 @@
       "ID": "handyman",
       "SetID": "69co12a",
       "Name": "Handyman",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 210
     },
     {
       "ID": "huey_win",
@@ -1889,8 +1889,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:08:01.2772121+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:06:58.4632477+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:11.3489295+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:00:45.7771306+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:08:01.2772702+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:00:00.0878602+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:06:58.4632964+00:00"
 }

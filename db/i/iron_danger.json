@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-11-18T11:04:20.1241234+00:00",
       "NumProgressed": 310,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T19:05:14.3607633+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -839,7 +844,7 @@
       "Name": "Found the Healer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -895,7 +900,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_SHARD_2",
@@ -958,7 +963,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 4
     }
   ],
@@ -966,8 +971,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:05:37.2382107+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:05:14.3607626+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:23.6977955+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:57:59.8935674+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:05:37.23823+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:58:06.9361344+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:05:14.3607798+00:00"
 }

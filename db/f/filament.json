@@ -5,7 +5,7 @@
   "Ranking_Rating": 813,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 302,
-  "Ranking_EOS_Progress": 71,
+  "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 65,
@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205557,
+  "EOS_Progressed": 205561,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23088,6 +23088,11 @@
       "Time": "2023-11-18T18:06:27.5035611+00:00",
       "NumProgressed": 205557,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2023-11-18T19:05:50.1442598+00:00",
+      "NumProgressed": 205561,
+      "NumCompleted": 528
     }
   ],
   "TotalAchievements": 29,
@@ -23123,7 +23128,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193224
+      "UsersEstimate": 193227
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23235,7 +23240,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12333
+      "UsersEstimate": 12334
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -23330,7 +23335,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205557,
+      "Progressed": 205561,
       "Completed": 528
     }
   ],
@@ -23338,8 +23343,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:06:27.5035609+00:00",
-  "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:57:32.3365194+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:06:27.503696+00:00"
+  "LastChanged_Achievements": "2023-11-18T19:05:50.1442595+00:00",
+  "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
+  "LastUpdate_Ratings": "2023-11-18T18:57:48.2365217+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:05:50.1443765+00:00"
 }

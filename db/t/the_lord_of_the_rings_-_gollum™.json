@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1583,6 +1583,11 @@
       "Time": "2023-11-18T18:03:45.1541971+00:00",
       "NumProgressed": 596,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T19:03:52.9860701+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1618,7 +1623,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "Chapter10",
@@ -1632,9 +1637,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 161
     },
     {
       "ID": "Chapter3",
@@ -1658,7 +1663,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Chapter6",
@@ -1666,15 +1671,15 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "Chapter8",
@@ -1762,7 +1767,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Memories",
@@ -1881,14 +1886,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:03:45.1541968+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:03:52.9860698+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:57:48.9781242+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:03:45.1542252+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:57:59.6155859+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:03:52.9861003+00:00"
 }

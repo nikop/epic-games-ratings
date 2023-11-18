@@ -1,30 +1,30 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 157)  
+Rating: 4.74 (Ranked 158)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,149 |
+| Lawbringer | 40.00% | ~26,150 |
 | Landlord | 33.00% | ~21,573 |
-| Bannerlord | 24.00% | ~15,689 |
-| Horde breaker | 24.00% | ~15,689 |
-| Lawmaker | 24.00% | ~15,689 |
-| Trained | 24.00% | ~15,689 |
+| Bannerlord | 24.00% | ~15,690 |
+| Horde breaker | 24.00% | ~15,690 |
+| Lawmaker | 24.00% | ~15,690 |
+| Trained | 24.00% | ~15,690 |
 | The king is pleased | 19.00% | ~12,421 |
 | King Solomon | 18.00% | ~11,767 |
 | Apple of my eye | 16.00% | ~10,460 |
 | I can do it | 16.00% | ~10,460 |
-| Against all odds | 13.00% | ~8,498 |
-| God of the Arena | 13.00% | ~8,498 |
-| This Is Our Land | 13.00% | ~8,498 |
+| Against all odds | 13.00% | ~8,499 |
+| God of the Arena | 13.00% | ~8,499 |
+| This Is Our Land | 13.00% | ~8,499 |
 | Duelist | 10.00% | ~6,537 |
 | Dynasty | 10.00% | ~6,537 |
 | I spit on your grave | 10.00% | ~6,537 |
 | Swordbearer | 10.00% | ~6,537 |
 | What have the Romans ever done for us? | 10.00% | ~6,537 |
-| Butterlord | 9.00% | ~5,883 |
+| Butterlord | 9.00% | ~5,884 |
 | Mastery | 8.00% | ~5,230 |
 | Know your enemy | 7.00% | ~4,576 |
 | Crowdfunded | 5.00% | ~3,269 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,372 (Ranked 104)  
+Progressed: 65,374 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 65,180 | 0 |
 | 2023-11-16 | 65,241 | 0 |
 | 2023-11-17 | 65,302 | 0 |
-| 2023-11-18 | 65,372 | 0 |
+| 2023-11-18 | 65,374 | 0 |
 ## Awards
 Max (Character Customization): 7,401  (Ranked 53)  
 Sum: 15,333 (Ranked 68)  

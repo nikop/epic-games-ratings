@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114478,
+  "EOS_Progressed": 114486,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
@@ -18324,6 +18324,11 @@
       "Time": "2023-11-18T18:09:44.0987016+00:00",
       "NumProgressed": 114478,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-18T19:09:18.5470273+00:00",
+      "NumProgressed": 114486,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18343,7 +18348,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88148
+      "UsersEstimate": 88154
     },
     {
       "ID": "EAwards_10",
@@ -18359,7 +18364,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29764
+      "UsersEstimate": 29766
     },
     {
       "ID": "EAwards_12",
@@ -18367,7 +18372,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17172
+      "UsersEstimate": 17173
     },
     {
       "ID": "EAwards_13",
@@ -18391,7 +18396,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11448
+      "UsersEstimate": 11449
     },
     {
       "ID": "EAwards_16",
@@ -18399,7 +18404,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "EAwards_17",
@@ -18407,7 +18412,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42357
+      "UsersEstimate": 42360
     },
     {
       "ID": "EAwards_18",
@@ -18415,7 +18420,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10303
+      "UsersEstimate": 10304
     },
     {
       "ID": "EAwards_19",
@@ -18431,7 +18436,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54949
+      "UsersEstimate": 54953
     },
     {
       "ID": "EAwards_20",
@@ -18447,7 +18452,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "EAwards_22",
@@ -18463,7 +18468,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "EAwards_24",
@@ -18471,7 +18476,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "EAwards_25",
@@ -18479,7 +18484,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21751
+      "UsersEstimate": 21752
     },
     {
       "ID": "EAwards_26",
@@ -18495,7 +18500,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11448
+      "UsersEstimate": 11449
     },
     {
       "ID": "EAwards_28",
@@ -18503,7 +18508,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "EAwards_29",
@@ -18511,7 +18516,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "EAwards_3",
@@ -18519,7 +18524,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22896
+      "UsersEstimate": 22897
     },
     {
       "ID": "EAwards_30",
@@ -18535,7 +18540,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11448
+      "UsersEstimate": 11449
     },
     {
       "ID": "EAwards_32",
@@ -18543,7 +18548,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8014
     },
     {
       "ID": "EAwards_33",
@@ -18567,7 +18572,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9158
+      "UsersEstimate": 9159
     },
     {
       "ID": "EAwards_36",
@@ -18607,7 +18612,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14882
+      "UsersEstimate": 14883
     },
     {
       "ID": "EAwards_40",
@@ -18687,7 +18692,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11448
+      "UsersEstimate": 11449
     },
     {
       "ID": "EAwards_6",
@@ -18695,7 +18700,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10303
+      "UsersEstimate": 10304
     },
     {
       "ID": "EAwards_7",
@@ -18703,7 +18708,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13737
+      "UsersEstimate": 13738
     },
     {
       "ID": "EAwards_8",
@@ -18711,7 +18716,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13737
+      "UsersEstimate": 13738
     },
     {
       "ID": "EAwards_9",
@@ -18726,7 +18731,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114478,
+      "Progressed": 114486,
       "Completed": 50
     }
   ],
@@ -18734,8 +18739,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:09:44.0987014+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:09:18.5470269+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:02:41.5335569+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:09:44.0988198+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:00:50.686312+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:09:18.5471531+00:00"
 }

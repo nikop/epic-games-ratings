@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15371,
+  "EOS_Progressed": 15373,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16155,6 +16155,11 @@
       "Time": "2023-11-18T16:04:45.4082054+00:00",
       "NumProgressed": 15371,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-18T19:04:36.5069592+00:00",
+      "NumProgressed": 15373,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16908,9 +16913,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -18901,21 +18906,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15371,
+      "Progressed": 15373,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15371,
+      "Progressed": 15373,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:04:44.6889463+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:04:36.5069589+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:00:24.9940618+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:04:44.6899047+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:59:46.3206358+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:04:36.5079573+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -660,6 +660,11 @@
       "Time": "2023-11-18T18:10:17.64218+00:00",
       "NumProgressed": 273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T19:10:02.6961412+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -678,9 +683,9 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_11",
@@ -688,7 +693,7 @@
       "Name": "Gravel Guru",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_12",
@@ -712,7 +717,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_15",
@@ -728,7 +733,7 @@
       "Name": "Class Act",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_17",
@@ -798,9 +803,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_25",
@@ -854,9 +859,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "achievement_8",
@@ -879,14 +884,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:10:17.6421796+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:10:02.6961407+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:58:38.8723359+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:10:17.6422092+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:58:33.8782944+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:10:02.6961721+00:00"
 }

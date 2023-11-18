@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15082,
+  "EOS_Progressed": 15086,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11547,6 +11547,11 @@
       "Time": "2023-11-18T17:08:57.8927934+00:00",
       "NumProgressed": 15082,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-18T19:08:43.4507283+00:00",
+      "NumProgressed": 15086,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11581,9 +11586,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 302
+      "UsersEstimate": 453
     },
     {
       "ID": "13",
@@ -11607,7 +11612,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "16",
@@ -11615,7 +11620,7 @@
       "Name": "Drug Gifter",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "17",
@@ -11623,7 +11628,7 @@
       "Name": "Spore Taste",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "18",
@@ -11679,7 +11684,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "24",
@@ -11703,7 +11708,7 @@
       "Name": "Call it Even",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "27",
@@ -11751,7 +11756,7 @@
       "Name": "Debris Spree",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "5",
@@ -11807,7 +11812,7 @@
       "Name": "Safe Cracker",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "33",
@@ -11815,7 +11820,7 @@
       "Name": "Zen Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "34",
@@ -11831,20 +11836,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15082,
+      "Progressed": 15086,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1036,
+      "Progressed": 1040,
       "Completed": 614
     }
   ],
@@ -11852,8 +11857,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-18T18:08:55.4131678+00:00",
+  "LastChanged_Achievements": "2023-11-18T19:08:43.4507276+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:59:12.511404+00:00",
-  "LastUpdate_Achievements": "2023-11-18T18:08:55.413264+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:58:56.8815131+00:00",
+  "LastUpdate_Achievements": "2023-11-18T19:08:43.4508219+00:00"
 }

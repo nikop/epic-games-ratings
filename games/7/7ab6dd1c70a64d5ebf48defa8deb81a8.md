@@ -9,15 +9,15 @@
 | Break Out | 3.00% | ~6 |
 | Find Allies | 3.00% | ~6 |
 | Powerful Allies | 3.00% | ~6 |
+| Adventurer | 3.00% | ~6 |
+| Scholar | 3.00% | ~6 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
-| Adventurer | 2.00% | ~4 |
+| Tributes of Caladrias | 2.00% | ~4 |
 | Geared Up | 2.00% | ~4 |
 | Fashion Victim | 2.00% | ~4 |
-| Scholar | 2.00% | ~4 |
 | Airborne | 1.00% | ~2 |
-| Tributes of Caladrias | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |

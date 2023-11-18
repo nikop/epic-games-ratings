@@ -6,12 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 22.00% | ~24 |
+| Adept | 23.00% | ~26 |
 | Double Kill | 17.00% | ~19 |
+| Critical Hit | 5.00% | ~6 |
 | Sorcerous Spree | 5.00% | ~6 |
 | Veteran | 5.00% | ~6 |
 | Dressed For Success | 4.00% | ~4 |
-| Critical Hit | 4.00% | ~4 |
+| Humiliation | 2.00% | ~2 |
 | Expert Essence Employment | 2.00% | ~2 |
 | Versatile Wielder | 0.90% | ~1 |
 | Fully Charged | 0.90% | ~1 |
@@ -21,7 +22,7 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 0.90% | ~1 |
 | Such A Fungi | 0.90% | ~1 |
 | Get Over Here! | 0.90% | ~1 |
-| Humiliation | 0.90% | ~1 |
+| Veni, Vidi, Vici | 0.90% | ~1 |
 | Venisti, Vidisti, Perdidisti | 0.90% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
@@ -55,13 +56,12 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Pyrrhic Victory | 0.00% | ~0 |
-| Veni, Vidi, Vici | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 420)  
+Progressed: 111 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
-| 2023-11-18 | 110 | 0 |
+| 2023-11-18 | 111 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  
