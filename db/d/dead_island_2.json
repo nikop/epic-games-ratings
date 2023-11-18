@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 51,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 227,
@@ -6639,10 +6639,10 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 719869,
+  "EOS_Progressed": 719883,
   "EOS_Completed": 2404,
-  "EOS_NewPlayers": 3594,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 3588,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30824,6 +30824,11 @@
       "Time": "2023-11-18T03:05:37.0792665+00:00",
       "NumProgressed": 719869,
       "NumCompleted": 2404
+    },
+    {
+      "Time": "2023-11-18T04:05:39.1595211+00:00",
+      "NumProgressed": 719883,
+      "NumCompleted": 2404
     }
   ],
   "TotalAchievements": 51,
@@ -31027,7 +31032,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ach_knock_down",
@@ -31139,7 +31144,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ach_thesacrifice",
@@ -31179,7 +31184,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "ach_well_trained",
@@ -31242,13 +31247,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719869,
+      "Progressed": 719883,
       "Completed": 2404
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45411,
+      "Progressed": 45425,
       "Completed": 36556
     }
   ],
@@ -31256,8 +31261,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-18T01:45:24.7904908+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:05:37.079266+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:05:39.1595208+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:59:07.9084137+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:05:37.0794167+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:59:02.6883519+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:05:39.1596593+00:00"
 }

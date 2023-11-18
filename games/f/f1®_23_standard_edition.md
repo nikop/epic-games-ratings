@@ -11,8 +11,8 @@ Rating: 4.67 (Ranked 272)
 | Team Orders | 75.00% | ~4,334 |
 | Engineer | 54.00% | ~3,120 |
 | Familiar Faces | 47.00% | ~2,716 |
+| Going the Extra Mile | 42.00% | ~2,427 |
 | Sharing the Love | 41.00% | ~2,369 |
-| Going the Extra Mile | 41.00% | ~2,369 |
 | Hitting a Season | 36.00% | ~2,080 |
 | A Dozen Pieces | 32.00% | ~1,849 |
 | Challenge Yourself | 32.00% | ~1,849 |

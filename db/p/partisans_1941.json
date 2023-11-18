@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3924,6 +3924,11 @@
       "Time": "2023-11-18T00:05:00.6982728+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T04:04:41.186904+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4047,7 +4052,7 @@
       "Name": "Grenadier",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "Hard_Serpent",
@@ -4063,7 +4068,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "High_noon",
@@ -4174,15 +4179,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:04:40.7371852+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:04:41.1869036+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:59:35.3836602+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:04:40.7372203+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:59:30.6877872+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:04:41.1869396+00:00"
 }

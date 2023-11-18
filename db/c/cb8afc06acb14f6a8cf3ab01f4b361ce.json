@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -347,9 +347,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 312988,
+  "EOS_Progressed": 313025,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5487,
+  "EOS_NewPlayers": 5477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6377,6 +6377,11 @@
       "Time": "2023-11-18T03:06:07.5679724+00:00",
       "NumProgressed": 312988,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T04:06:10.8387693+00:00",
+      "NumProgressed": 313025,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6443,9 +6448,9 @@
       "ID": "S08_MNSA",
       "SetID": "4j44ol8",
       "Name": "I feel drawn to it",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 626
     },
     {
       "ID": "S09_MNSE",
@@ -6708,7 +6713,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 312988,
+      "Progressed": 313025,
       "Completed": 4
     }
   ],
@@ -6716,8 +6721,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-16T23:57:28.5098553+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:06:07.567972+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:06:10.8387689+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:58:06.9814814+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:06:07.568017+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:57:58.5798481+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:06:10.8388287+00:00"
 }

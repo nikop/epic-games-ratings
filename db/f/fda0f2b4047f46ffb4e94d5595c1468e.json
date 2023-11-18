@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2739,9 +2739,9 @@
       "Count": 363
     }
   ],
-  "EOS_Progressed": 8593,
+  "EOS_Progressed": 8594,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8384,6 +8384,11 @@
       "Time": "2023-11-18T03:04:22.979671+00:00",
       "NumProgressed": 8593,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T04:04:22.6466588+00:00",
+      "NumProgressed": 8594,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8420,7 +8425,7 @@
       "Name": "What Just Happened??",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "ach05",
@@ -8434,9 +8439,9 @@
       "ID": "ach06",
       "SetID": "47in8n6",
       "Name": "Titan",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6531
+      "UsersEstimate": 6446
     },
     {
       "ID": "ach07",
@@ -8444,7 +8449,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "ach08",
@@ -8452,7 +8457,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "ach09",
@@ -8524,7 +8529,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "ach18",
@@ -8532,7 +8537,7 @@
       "Name": "Adventure Time",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "ach19",
@@ -8588,7 +8593,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "ach26",
@@ -8652,7 +8657,7 @@
       "Name": "Vanquished",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ach34",
@@ -8668,7 +8673,7 @@
       "Name": "Kollector",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ach36",
@@ -8684,7 +8689,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "ach38",
@@ -8708,7 +8713,7 @@
       "Name": "Found You",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "ach41",
@@ -8716,7 +8721,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "ach42",
@@ -8764,7 +8769,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ach48",
@@ -8772,7 +8777,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ach49",
@@ -8788,14 +8793,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8593,
+      "Progressed": 8594,
       "Completed": 0
     }
   ],
@@ -8803,8 +8808,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-18T01:45:59.1200646+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:04:22.9796704+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:04:22.6466584+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:59:30.6690555+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:04:22.979732+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:59:25.8497714+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:04:22.6467157+00:00"
 }

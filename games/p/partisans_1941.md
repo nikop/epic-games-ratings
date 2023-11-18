@@ -8,8 +8,8 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | E1M1 | 43.00% | ~743 |
 | War Never Changes | 43.00% | ~743 |
-| Grenadier | 42.00% | ~725 |
-| Heroes Never Die | 38.00% | ~656 |
+| Grenadier | 42.00% | ~726 |
+| Heroes Never Die | 38.00% | ~657 |
 | Mosquito bite | 36.00% | ~622 |
 | Spice It Up | 32.00% | ~553 |
 | Agent 47 | 26.00% | ~449 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,727 (Ranked 230)  
+Progressed: 1,728 (Ranked 230)  
 Completed: 2 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2 (0.12%) (Ranked 274)
 | 2023-11-15 | 1,666 | 2 |
 | 2023-11-16 | 1,689 | 2 |
 | 2023-11-17 | 1,725 | 2 |
-| 2023-11-18 | 1,727 | 2 |
+| 2023-11-18 | 1,728 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

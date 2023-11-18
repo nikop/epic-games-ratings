@@ -5,51 +5,51 @@ Rating: 4.50 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,075 |
-| For Saw Gerrera | 98.00% | ~7,994 |
-| Grab Some Seat | 91.00% | ~7,423 |
-| Can You Pet the Bogling? | 87.00% | ~7,097 |
-| The Past Made Present | 83.00% | ~6,770 |
-| Survivors, We Adapt | 79.00% | ~6,444 |
-| They Never Saw It Coming | 77.00% | ~6,281 |
-| Among the Masters | 77.00% | ~6,281 |
-| Who Gives a Puck | 73.00% | ~5,955 |
-| For the Path | 65.00% | ~5,302 |
-| Mirror Match | 64.00% | ~5,220 |
-| Now, This Isn't Podracing | 64.00% | ~5,220 |
-| Skywalker | 61.00% | ~4,976 |
-| Out of Bedlam | 60.00% | ~4,894 |
-| Cleaning Up | 54.00% | ~4,405 |
-| Tanalorr Bound | 52.00% | ~4,242 |
-| Kitted Out | 51.00% | ~4,160 |
-| Tragedy | 50.00% | ~4,078 |
-| Hey, Luke At Us | 49.00% | ~3,997 |
-| At the Precipice | 48.00% | ~3,915 |
-| Into the Abyss | 47.00% | ~3,834 |
-| Riposte | 46.00% | ~3,752 |
-| A Place You Could Call Home | 44.00% | ~3,589 |
-| Greezy Money | 44.00% | ~3,589 |
-| Catch! | 40.00% | ~3,263 |
-| They're Probably Fine | 40.00% | ~3,263 |
-| Han Slowlo | 38.00% | ~3,100 |
-| There Is No Try | 37.00% | ~3,018 |
-| The Jedi Path | 32.00% | ~2,610 |
-| This Is Canon | 28.00% | ~2,284 |
-| It's a Trap | 26.00% | ~2,121 |
-| You've Got A Friend | 22.00% | ~1,795 |
-| King of the World | 16.00% | ~1,305 |
+| Rooftop Duel | 99.00% | ~8,080 |
+| For Saw Gerrera | 98.00% | ~7,999 |
+| Grab Some Seat | 91.00% | ~7,427 |
+| Can You Pet the Bogling? | 87.00% | ~7,101 |
+| The Past Made Present | 83.00% | ~6,774 |
+| Survivors, We Adapt | 79.00% | ~6,448 |
+| They Never Saw It Coming | 77.00% | ~6,285 |
+| Among the Masters | 77.00% | ~6,285 |
+| Who Gives a Puck | 73.00% | ~5,958 |
+| For the Path | 65.00% | ~5,305 |
+| Mirror Match | 64.00% | ~5,224 |
+| Now, This Isn't Podracing | 64.00% | ~5,224 |
+| Skywalker | 61.00% | ~4,979 |
+| Out of Bedlam | 60.00% | ~4,897 |
+| Cleaning Up | 54.00% | ~4,407 |
+| Tanalorr Bound | 52.00% | ~4,244 |
+| Kitted Out | 51.00% | ~4,163 |
+| Tragedy | 50.00% | ~4,081 |
+| Hey, Luke At Us | 49.00% | ~3,999 |
+| At the Precipice | 48.00% | ~3,918 |
+| Into the Abyss | 47.00% | ~3,836 |
+| Riposte | 46.00% | ~3,755 |
+| A Place You Could Call Home | 44.00% | ~3,591 |
+| Greezy Money | 44.00% | ~3,591 |
+| Catch! | 40.00% | ~3,265 |
+| They're Probably Fine | 40.00% | ~3,265 |
+| Han Slowlo | 38.00% | ~3,102 |
+| There Is No Try | 37.00% | ~3,020 |
+| The Jedi Path | 32.00% | ~2,612 |
+| This Is Canon | 28.00% | ~2,285 |
+| It's a Trap | 26.00% | ~2,122 |
+| You've Got A Friend | 22.00% | ~1,796 |
+| King of the World | 16.00% | ~1,306 |
 | Reconnaissance | 15.00% | ~1,224 |
-| Max Capacity | 14.00% | ~1,142 |
-| A Presence I've Not Felt Since... | 14.00% | ~1,142 |
+| Max Capacity | 14.00% | ~1,143 |
+| A Presence I've Not Felt Since... | 14.00% | ~1,143 |
 | Slam Dunk | 12.00% | ~979 |
-| Star Tours | 11.00% | ~897 |
+| Star Tours | 11.00% | ~898 |
 | Caij Match | 10.00% | ~816 |
 | Gambler | 10.00% | ~816 |
-| Growth Spurt | 9.00% | ~734 |
+| Growth Spurt | 9.00% | ~735 |
 | Perk of the Job | 7.00% | ~571 |
-| I'm a Living Legend | 6.00% | ~489 |
-| Road House | 6.00% | ~489 |
-| Skoova Diving | 6.00% | ~489 |
+| I'm a Living Legend | 6.00% | ~490 |
+| Road House | 6.00% | ~490 |
+| Skoova Diving | 6.00% | ~490 |
 | Get Down From There | 5.00% | ~408 |
 | Intergalactic Geographic | 5.00% | ~408 |
 | So Uncivilized | 3.00% | ~245 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 587)
 | Blood, Sweat, and Tears | 3.00% | ~245 |
 | Pinpoint | 2.00% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,157 (Ranked 170)  
+Progressed: 8,162 (Ranked 170)  
 Completed: 46 (0.56%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 46 (0.56%) (Ranked 191)
 | 2023-11-15 | 8,022 | 45 |
 | 2023-11-16 | 8,080 | 45 |
 | 2023-11-17 | 8,145 | 46 |
-| 2023-11-18 | 8,157 | 46 |
+| 2023-11-18 | 8,162 | 46 |
 ## Awards
 Max (Great Boss Battles): 3,241  (Ranked 95)  
 Sum: 4,963 (Ranked 139)  

@@ -8137,9 +8137,9 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235617,
+  "EOS_Progressed": 235627,
   "EOS_Completed": 2457,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1205,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31847,6 +31847,11 @@
       "Time": "2023-11-18T03:09:01.209239+00:00",
       "NumProgressed": 235617,
       "NumCompleted": 2457
+    },
+    {
+      "Time": "2023-11-18T04:09:05.7152288+00:00",
+      "NumProgressed": 235627,
+      "NumCompleted": 2457
     }
   ],
   "TotalAchievements": 532,
@@ -36106,28 +36111,28 @@
       "Name": "See You on the Flipside",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201891,
+      "Progressed": 201901,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235617,
+      "Progressed": 235627,
       "Completed": 2457
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-17T23:59:02.6503012+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:09:01.2092385+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:09:05.7152284+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:58:51.1464926+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:09:01.2114221+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:58:45.0563583+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:09:05.7173874+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,404 |
-| Incurious | 17.00% | ~112,770 |
-| Climate Change | 16.00% | ~106,137 |
-| Stroller | 15.00% | ~99,503 |
-| Toy Train | 14.00% | ~92,870 |
-| Advanced Hiker | 13.00% | ~86,236 |
-| Hiker | 12.00% | ~79,603 |
-| Mojave Courier | 6.00% | ~39,801 |
+| Advanced Stroller | 18.00% | ~119,407 |
+| Incurious | 17.00% | ~112,773 |
+| Climate Change | 16.00% | ~106,139 |
+| Stroller | 15.00% | ~99,506 |
+| Toy Train | 14.00% | ~92,872 |
+| Advanced Hiker | 13.00% | ~86,238 |
+| Hiker | 12.00% | ~79,604 |
+| Mojave Courier | 6.00% | ~39,802 |
 | Saved by Nausicaä | 5.00% | ~33,168 |
-| Advanced Voyager | 4.00% | ~26,534 |
-| Expert Stroller | 4.00% | ~26,534 |
+| Advanced Voyager | 4.00% | ~26,535 |
+| Expert Stroller | 4.00% | ~26,535 |
 | Voyager | 3.00% | ~19,901 |
 | Orient Express | 3.00% | ~19,901 |
 | Marathon | 3.00% | ~19,901 |
@@ -24,9 +24,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Expert Hiker | 2.00% | ~13,267 |
 | Lost | 2.00% | ~13,267 |
 | Rocketman | 0.80% | ~5,307 |
-| Expert Voyager | 0.70% | ~4,643 |
-| Shopaholic | 0.70% | ~4,643 |
-| Dynamite Fishing | 0.70% | ~4,643 |
+| Expert Voyager | 0.70% | ~4,644 |
+| Shopaholic | 0.70% | ~4,644 |
+| Dynamite Fishing | 0.70% | ~4,644 |
 | Nanuk | 0.60% | ~3,980 |
 | Scrooge | 0.50% | ~3,317 |
 | Terminal Station | 0.50% | ~3,317 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~663 |
 | 20 Miles under the Sea | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,355 (Ranked 28)  
+Progressed: 663,370 (Ranked 28)  
 Completed: 12 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 12 (0.00%) (Ranked 354)
 | 2023-11-15 | 662,835 | 12 |
 | 2023-11-16 | 663,040 | 12 |
 | 2023-11-17 | 663,305 | 12 |
-| 2023-11-18 | 663,355 | 12 |
+| 2023-11-18 | 663,370 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 288)  
 Sum: 1,597 (Ranked 230)  

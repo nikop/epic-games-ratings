@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -699,9 +699,9 @@
       "ID": "self_preservation",
       "SetID": "f2im8d",
       "Name": "Instinct of self-preservation",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "sign_of_weakness",
@@ -787,9 +787,9 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:05:58.0125083+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:06:00.9485595+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:00:20.6840706+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:05:58.0125465+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:00:17.7330486+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:06:00.9485895+00:00"
 }

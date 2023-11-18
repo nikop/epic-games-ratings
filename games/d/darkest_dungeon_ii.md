@@ -6,49 +6,49 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~115,196 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~87,946 |
-| A Clear Conscience | 69.00% | ~85,468 |
-| Unleash Hell | 68.00% | ~84,230 |
-| Unfulfilled Desires | 68.00% | ~84,230 |
-| Funny Guy | 67.00% | ~82,991 |
-| Unshackled | 67.00% | ~82,991 |
-| Long Live the King | 66.00% | ~81,752 |
-| Wyrdly Reconstructed | 63.00% | ~78,036 |
-| Resurrection | 62.00% | ~76,798 |
-| Boxcar Kid | 61.00% | ~75,559 |
-| To Grandmother's House | 61.00% | ~75,559 |
-| Rush Hour | 60.00% | ~74,320 |
-| Serenity Now! | 54.00% | ~66,888 |
+| A Place to Lay Your Head | 93.00% | ~115,198 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~87,947 |
+| A Clear Conscience | 69.00% | ~85,470 |
+| Unleash Hell | 68.00% | ~84,231 |
+| Unfulfilled Desires | 68.00% | ~84,231 |
+| Funny Guy | 67.00% | ~82,992 |
+| Unshackled | 67.00% | ~82,992 |
+| Long Live the King | 66.00% | ~81,754 |
+| Wyrdly Reconstructed | 63.00% | ~78,037 |
+| Resurrection | 62.00% | ~76,799 |
+| Boxcar Kid | 61.00% | ~75,560 |
+| To Grandmother's House | 61.00% | ~75,560 |
+| Rush Hour | 60.00% | ~74,321 |
+| Serenity Now! | 54.00% | ~66,889 |
 | Hope Rekindled | 50.00% | ~61,934 |
 | Ramble On | 50.00% | ~61,934 |
-| Nope | 49.00% | ~60,695 |
-| This Looks Familiar | 38.00% | ~47,069 |
-| Now Stay Dead | 38.00% | ~47,069 |
-| Harvest Festival | 37.00% | ~45,831 |
-| Merry Time | 36.00% | ~44,592 |
-| Hot Air | 36.00% | ~44,592 |
+| Nope | 49.00% | ~60,696 |
+| This Looks Familiar | 38.00% | ~47,070 |
+| Now Stay Dead | 38.00% | ~47,070 |
+| Harvest Festival | 37.00% | ~45,832 |
+| Merry Time | 36.00% | ~44,593 |
+| Hot Air | 36.00% | ~44,593 |
 | Creep and Sleep | 34.00% | ~42,115 |
-| Overdue Notice | 33.00% | ~40,876 |
-| Banishment | 32.00% | ~39,637 |
-| Whale | 32.00% | ~39,637 |
-| FNG | 30.00% | ~37,160 |
+| Overdue Notice | 33.00% | ~40,877 |
+| Banishment | 32.00% | ~39,638 |
+| Whale | 32.00% | ~39,638 |
+| FNG | 30.00% | ~37,161 |
 | Predator | 25.00% | ~30,967 |
 | Reverse Banditry | 25.00% | ~30,967 |
 | Autodidact | 25.00% | ~30,967 |
-| Meat and Greet | 23.00% | ~28,489 |
+| Meat and Greet | 23.00% | ~28,490 |
 | Spelunker | 22.00% | ~27,251 |
 | Eyes Up | 22.00% | ~27,251 |
 | Road Trip | 22.00% | ~27,251 |
-| It Rings a Bell | 20.00% | ~24,773 |
+| It Rings a Bell | 20.00% | ~24,774 |
 | Dissector | 18.00% | ~22,296 |
 | Escape from the Black Hole | 18.00% | ~22,296 |
-| This Belongs in a Museum | 17.00% | ~21,057 |
-| It Happens | 17.00% | ~21,057 |
+| This Belongs in a Museum | 17.00% | ~21,058 |
+| It Happens | 17.00% | ~21,058 |
 | Handled | 16.00% | ~19,819 |
 | Catch and Decease | 15.00% | ~18,580 |
-| Not Today! | 14.00% | ~17,341 |
-| Deprogramming | 14.00% | ~17,341 |
+| Not Today! | 14.00% | ~17,342 |
+| Deprogramming | 14.00% | ~17,342 |
 | Shrine of Reflection | 12.00% | ~14,864 |
 | When You Want Something Done Right | 12.00% | ~14,864 |
 | Body of Work | 10.00% | ~12,387 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~124 |
 | No Gravestone Left Unturned | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,867 (Ranked 84)  
+Progressed: 123,869 (Ranked 84)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,14 +274,14 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 123,646 | 1 |
 | 2023-11-16 | 123,734 | 1 |
 | 2023-11-17 | 123,845 | 1 |
-| 2023-11-18 | 123,867 | 1 |
+| 2023-11-18 | 123,869 | 1 |
 ## Awards
-Max (Character Customization): 7,518  (Ranked 52)  
-Sum: 19,785 (Ranked 59)  
-Diff (max vs sum): -7  
+Max (Character Customization): 7,522  (Ranked 51)  
+Sum: 19,789 (Ranked 59)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,518 |
+| This game has Inclusive Character Customization | 7,522 |
 | This game has Diverse Characters | 1,595 |
 | This game has Challenging Combat | 1,524 |
 | This game is Highly Recommended | 1,454 |
@@ -590,3 +590,4 @@ Diff (max vs sum): -7
 | 2023-11-15 | 4.68 | - | 7,517 | 19,773 |
 | 2023-11-16 | 4.68 | - | 7,518 | 19,781 |
 | 2023-11-17 | 4.68 | - | 7,518 | 19,785 |
+| 2023-11-18 | 4.68 | - | 7,522 | 19,789 |

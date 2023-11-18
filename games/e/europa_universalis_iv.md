@@ -185,6 +185,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | You Get A New Home, And You Get A New Home | 0.10% | ~458 |
 | Breadbasket of the World | 0.10% | ~458 |
 | King of Kings | 0.10% | ~458 |
+| Legacy of Saint George | 0.10% | ~458 |
 | Mets Hayk | 0.10% | ~458 |
 | Restore the Pentarchy | 0.10% | ~458 |
 | The Last Crusade | 0.10% | ~458 |
@@ -367,10 +368,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
-| Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,893 (Ranked 41)  
+Progressed: 457,919 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 457,893 | 1 |
+| 2023-11-18 | 457,919 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 58,000 (Ranked 24)  

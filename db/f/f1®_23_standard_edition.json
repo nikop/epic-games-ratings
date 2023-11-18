@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -6091,9 +6091,9 @@
       "ID": "achievement_0044",
       "SetID": "9123ogc",
       "Name": "Going the Extra Mile",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2427
     },
     {
       "ID": "achievement_0045",
@@ -6148,8 +6148,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-17T23:00:05.8432653+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:05:32.1059771+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:05:34.0154105+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:59:20.5207947+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:05:32.1060274+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:59:16.0973579+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:05:34.0154607+00:00"
 }

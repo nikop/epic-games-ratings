@@ -38,9 +38,9 @@ Rating: 4.54 (Ranked 522)
 | Not Even My Final Form | 0.50% | ~3,599 |
 | Humanity Distilled | 0.50% | ~3,599 |
 | Down with the Sickness | 0.50% | ~3,599 |
-| Jumbo Keyring | 0.40% | ~2,879 |
-| Go, Bobcats! | 0.40% | ~2,879 |
-| Rising Star | 0.40% | ~2,879 |
+| Jumbo Keyring | 0.40% | ~2,880 |
+| Go, Bobcats! | 0.40% | ~2,880 |
+| Rising Star | 0.40% | ~2,880 |
 | Make it So | 0.30% | ~2,160 |
 | On Safari | 0.30% | ~2,160 |
 | Smorgasbord | 0.30% | ~2,160 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,869 (Ranked 20)  
+Progressed: 719,883 (Ranked 20)  
 Completed: 2,404 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,11 +269,11 @@ Completed: 2,404 (0.33%) (Ranked 227)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 719,869 | 2,404 |
+| 2023-11-18 | 719,883 | 2,404 |
 ## Awards
-Max (Great Boss Battles): 7,519  (Ranked 51)  
+Max (Great Boss Battles): 7,519  (Ranked 52)  
 Sum: 11,480 (Ranked 84)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,519 |

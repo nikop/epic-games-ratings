@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 585,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.49,
+  "EOS_Completed_Percentage": 5.47,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2500,6 +2500,11 @@
       "Time": "2023-11-18T02:24:49.3411702+00:00",
       "NumProgressed": 583,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T04:04:07.4405123+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2525,17 +2530,17 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 105
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 105
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2559,7 +2564,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2575,7 +2580,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2591,7 +2596,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2607,7 +2612,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2623,7 +2628,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2653,9 +2658,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 187
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2663,7 +2668,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PROGRESS_N1",
@@ -2679,7 +2684,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "PROGRESS_N3",
@@ -2695,7 +2700,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "PROGRESS_N5",
@@ -2710,14 +2715,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 585,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:04:08.2014888+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:04:07.440512+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:59:15.3962142+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:04:08.2015134+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:59:10.5912514+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:04:07.440535+00:00"
 }

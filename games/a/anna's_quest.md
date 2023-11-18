@@ -14,10 +14,10 @@
 | So soothing... | 33.00% | ~25 |
 | Kekekeke... | 33.00% | ~25 |
 | Mystery solved | 30.00% | ~23 |
+| Far away from home | 30.00% | ~23 |
 | Sorry Grandpa | 30.00% | ~23 |
 | Roostwig has entered the building | 30.00% | ~23 |
 | Honey, honey, honey… | 29.00% | ~22 |
-| Far away from home | 29.00% | ~22 |
 | NOW GO AWAY! | 29.00% | ~22 |
 | Game Over! | 28.00% | ~21 |
 | A very special drink | 28.00% | ~21 |
@@ -38,8 +38,8 @@
 | Makeover | 18.00% | ~14 |
 | Singstar | 18.00% | ~14 |
 | Bahahahaha... | 17.00% | ~13 |
+| Cameodalic | 16.00% | ~12 |
 | Guilty conscience | 16.00% | ~12 |
-| Cameodalic | 14.00% | ~11 |
 | Clever reference #451 | 12.00% | ~9 |
 | What a mess | 11.00% | ~8 |
 | Posterboy! | 9.00% | ~7 |

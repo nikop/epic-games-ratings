@@ -6,16 +6,16 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,760 |
-| Self-Improvement | 71.00% | ~1,420 |
-| Perky | 65.00% | ~1,300 |
-| Let’s Ride | 59.00% | ~1,180 |
-| Welcome to the Weird West | 56.00% | ~1,120 |
-| Dead or Alive | 55.00% | ~1,100 |
+| Unforgiven | 88.00% | ~1,761 |
+| Self-Improvement | 71.00% | ~1,421 |
+| Perky | 65.00% | ~1,301 |
+| Let’s Ride | 59.00% | ~1,181 |
+| Welcome to the Weird West | 56.00% | ~1,121 |
+| Dead or Alive | 55.00% | ~1,101 |
 | Full House | 37.00% | ~740 |
 | Off the Trail | 34.00% | ~680 |
-| Justice Served | 30.00% | ~600 |
-| Chain Reaction | 27.00% | ~540 |
+| Justice Served | 29.00% | ~580 |
+| Chain Reaction | 26.00% | ~520 |
 | Through Their Eyes | 26.00% | ~520 |
 | Dishonored | 25.00% | ~500 |
 | Rain of Death | 25.00% | ~500 |
@@ -32,8 +32,8 @@ Number of Ratings: 125  (23.09.2022)
 | Workers' Rights | 13.00% | ~260 |
 | Elusive Prey | 12.00% | ~240 |
 | Power Behind the Pulpit | 12.00% | ~240 |
-| Something Wicked This Way Comes… | 12.00% | ~240 |
-| There is Hope | 12.00% | ~240 |
+| Something Wicked This Way Comes… | 11.00% | ~220 |
+| There is Hope | 11.00% | ~220 |
 | The Philosopher’s Stone | 10.00% | ~200 |
 | Loyalty to the Pack | 9.00% | ~180 |
 | Eternity Can Wait | 9.00% | ~180 |
@@ -53,14 +53,14 @@ Number of Ratings: 125  (23.09.2022)
 | 'Ma Barker | 2.00% | ~40 |
 | I Kicked a Bird and I Liked it | 1.00% | ~20 |
 | Hog Wild | 1.00% | ~20 |
-| Explorer | 0.70% | ~14 |
 | End the world | 0.70% | ~14 |
+| Explorer | 0.60% | ~12 |
 | Dirt and Blame | 0.50% | ~10 |
 | Moon Hunter | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 223)  
+Progressed: 2,001 (Ranked 223)  
 Completed: 7 (0.35%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 7 (0.35%) (Ranked 223)
 | 2023-11-13 | 1,997 | 7 |
 | 2023-11-16 | 1,998 | 7 |
 | 2023-11-17 | 2,000 | 7 |
+| 2023-11-18 | 2,001 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 502)  
 Sum: 28 (Ranked 516)  

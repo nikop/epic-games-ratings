@@ -25,7 +25,7 @@
 | A Slice of Life | 10.00% | ~7 |
 | Debut | 10.00% | ~7 |
 | The art of movement | 10.00% | ~7 |
-| Whispers long forgotten | 8.00% | ~6 |
+| Whispers long forgotten | 10.00% | ~7 |
 | Another perspective | 7.00% | ~5 |
 | Sound Bite | 7.00% | ~5 |
 | Heavy Burden | 7.00% | ~5 |
@@ -45,6 +45,7 @@
 | Preferred Parent | 1.00% | ~1 |
 | Se7en Seas | 1.00% | ~1 |
 | The Tree and the Apple | 1.00% | ~1 |
+| Instinct of self-preservation | 1.00% | ~1 |
 | A Mosaic of Misery | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
@@ -54,7 +55,6 @@
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
-| Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71 (Ranked 455)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1335,9 +1335,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237796,
+  "EOS_Progressed": 237804,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1435,
+  "EOS_NewPlayers": 1428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18960,6 +18960,11 @@
       "Time": "2023-11-18T03:08:20.5766814+00:00",
       "NumProgressed": 237796,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T04:08:23.0645886+00:00",
+      "NumProgressed": 237804,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19419,7 +19424,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83229
+      "UsersEstimate": 83231
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19674,21 +19679,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237796,
+      "Progressed": 237804,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237796,
+      "Progressed": 237804,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T16:00:04.3647712+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:08:20.5766809+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:08:23.0645882+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:00:04.3883355+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:08:20.5768223+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:00:00.5427833+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:08:23.0647936+00:00"
 }

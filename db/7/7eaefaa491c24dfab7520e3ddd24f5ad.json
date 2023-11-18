@@ -4,8 +4,8 @@
   "ProductSlug": "noch-fc0c87",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-05-18T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -950,8 +950,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-16T10:03:14.4696279+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:03:14.6276508+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:03:12.8657406+00:00",
   "LastUpdate_AppInfo": "2023-11-13T11:57:06.3260859+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:58:49.3590509+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:03:14.627701+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:58:42.9079184+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:03:12.8657763+00:00"
 }

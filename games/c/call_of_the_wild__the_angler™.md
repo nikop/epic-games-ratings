@@ -17,8 +17,8 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 1.00% | ~66 |
 | Goldfish? | 0.90% | ~59 |
 | School's Out for Summer | 0.90% | ~59 |
+| License to Gill | 0.80% | ~52 |
 | Going for Gold | 0.80% | ~52 |
-| License to Gill | 0.70% | ~46 |
 | I'm Hooked! | 0.60% | ~39 |
 | I'm the Captain Now | 0.20% | ~13 |
 | Marathon | 0.20% | ~13 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,556 (Ranked 181)  
+Progressed: 6,557 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,11 +259,11 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 6,530 | 0 |
 | 2023-11-16 | 6,544 | 0 |
 | 2023-11-17 | 6,554 | 0 |
-| 2023-11-18 | 6,556 | 0 |
+| 2023-11-18 | 6,557 | 0 |
 ## Awards
-Max (Relaxing): 37  (Ranked 462)  
+Max (Relaxing): 37  (Ranked 463)  
 Sum: 195 (Ranked 401)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 37 |

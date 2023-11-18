@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -300,17 +300,17 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -324,9 +324,9 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
@@ -356,9 +356,9 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 145,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-18T03:09:05.8910075+00:00",
+  "LastChanged_Achievements": "2023-11-18T04:09:10.1938727+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-18T03:00:04.6909381+00:00",
-  "LastUpdate_Achievements": "2023-11-18T03:09:05.8910181+00:00"
+  "LastUpdate_Ratings": "2023-11-18T04:00:00.9051623+00:00",
+  "LastUpdate_Achievements": "2023-11-18T04:09:10.1938817+00:00"
 }

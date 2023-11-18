@@ -1,54 +1,54 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.80 (Ranked 86)  
+Rating: 4.81 (Ranked 78)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,858 |
-| I Challenge You To Save More Money! | 88.00% | ~7,435 |
-| I Love How Tough You Are | 75.00% | ~6,337 |
-| Wanna Come To My Place For Dinner? | 69.00% | ~5,830 |
-| What I Want Is You | 63.00% | ~5,323 |
-| To Be Or Not To Be | 60.00% | ~5,069 |
-| Love Actually | 51.00% | ~4,309 |
-| Are You Alright? | 51.00% | ~4,309 |
-| Drama King | 44.00% | ~3,718 |
-| You're Really Something Else | 39.00% | ~3,295 |
-| Happy Family | 37.00% | ~3,126 |
-| Go Clean up In Your Own Way | 37.00% | ~3,126 |
-| ONE PUNCH | 36.00% | ~3,042 |
-| FIRST LOVE | 36.00% | ~3,042 |
-| Worthless Speech | 36.00% | ~3,042 |
-| Drama CP: Reel to Real | 35.00% | ~2,957 |
-| Absolutely Elegant | 34.00% | ~2,873 |
-| Still Single | 33.00% | ~2,788 |
-| Go Get Some Fries On The Pier | 31.00% | ~2,619 |
-| Days Of Innocence | 31.00% | ~2,619 |
-| David | 30.00% | ~2,535 |
-| All I Have Is Money | 26.00% | ~2,197 |
-| A Slap In The Face! | 26.00% | ~2,197 |
-| Lover In Dark Alley | 25.00% | ~2,112 |
-| That's So You | 25.00% | ~2,112 |
-| SALUTE | 25.00% | ~2,112 |
+| Last Night...Did We... | 93.00% | ~7,860 |
+| I Challenge You To Save More Money! | 88.00% | ~7,438 |
+| I Love How Tough You Are | 75.00% | ~6,339 |
+| Wanna Come To My Place For Dinner? | 69.00% | ~5,832 |
+| What I Want Is You | 63.00% | ~5,325 |
+| To Be Or Not To Be | 60.00% | ~5,071 |
+| Love Actually | 51.00% | ~4,311 |
+| Are You Alright? | 51.00% | ~4,311 |
+| Drama King | 44.00% | ~3,719 |
+| You're Really Something Else | 39.00% | ~3,296 |
+| Happy Family | 37.00% | ~3,127 |
+| Go Clean up In Your Own Way | 37.00% | ~3,127 |
+| ONE PUNCH | 36.00% | ~3,043 |
+| FIRST LOVE | 36.00% | ~3,043 |
+| Worthless Speech | 36.00% | ~3,043 |
+| Drama CP: Reel to Real | 35.00% | ~2,958 |
+| Absolutely Elegant | 34.00% | ~2,874 |
+| Still Single | 33.00% | ~2,789 |
+| Go Get Some Fries On The Pier | 31.00% | ~2,620 |
+| Days Of Innocence | 31.00% | ~2,620 |
+| David | 30.00% | ~2,536 |
+| All I Have Is Money | 26.00% | ~2,198 |
+| A Slap In The Face! | 26.00% | ~2,198 |
+| Lover In Dark Alley | 25.00% | ~2,113 |
+| That's So You | 25.00% | ~2,113 |
+| SALUTE | 25.00% | ~2,113 |
 | Let Me Be Your Toy Boy | 24.00% | ~2,028 |
-| Off We Sail Tonight | 21.00% | ~1,774 |
+| Off We Sail Tonight | 21.00% | ~1,775 |
 | Love You Three Thousand | 16.00% | ~1,352 |
 | Can You Do This Or Not? | 16.00% | ~1,352 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,183 |
 | The Flash | 12.00% | ~1,014 |
 | New Yoga Pose Unlocked | 12.00% | ~1,014 |
-| My Dear Love! | 9.00% | ~760 |
-| Life Is A Rollercoaster | 9.00% | ~760 |
-| Counting Sheep? | 9.00% | ~760 |
-| This Ain't Right In Many Ways... | 9.00% | ~760 |
+| My Dear Love! | 9.00% | ~761 |
+| Life Is A Rollercoaster | 9.00% | ~761 |
+| Counting Sheep? | 9.00% | ~761 |
+| This Ain't Right In Many Ways... | 9.00% | ~761 |
 | Boys Need To Protect Themselves | 8.00% | ~676 |
 | Stubborn Noob | 8.00% | ~676 |
 | Hurrah! | 2.00% | ~169 |
 | Tall; Grande; Venti | 2.00% | ~169 |
 | Limerence | 2.00% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,449 (Ranked 167)  
+Progressed: 8,452 (Ranked 167)  
 Completed: 134 (1.59%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 134 (1.59%) (Ranked 137)
 | 2023-11-15 | 8,283 | 130 |
 | 2023-11-16 | 8,354 | 130 |
 | 2023-11-17 | 8,442 | 133 |
-| 2023-11-18 | 8,449 | 134 |
+| 2023-11-18 | 8,452 | 134 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -109,3 +109,4 @@ Completed: 134 (1.59%) (Ranked 137)
 | 2023-11-07 | 4.82 | 0 | 0 |
 | 2023-11-10 | 4.83 | 0 | 0 |
 | 2023-11-12 | 4.80 | 0 | 0 |
+| 2023-11-18 | 4.81 | 0 | 0 |

@@ -5,15 +5,15 @@ Rating: 4.12 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,255 |
-| World Map | 79.00% | ~1,916 |
-| Temple of Eternals | 57.00% | ~1,382 |
+| Victor | 93.00% | ~2,256 |
+| World Map | 79.00% | ~1,917 |
+| Temple of Eternals | 57.00% | ~1,383 |
 | Prestigious | 54.00% | ~1,310 |
-| Fellowship Power | 42.00% | ~1,018 |
+| Fellowship Power | 42.00% | ~1,019 |
 | Guild Power | 25.00% | ~606 |
 | Prestigious x10 | 22.00% | ~534 |
 | The game is on | 20.00% | ~485 |
-| Exotic Merchant | 18.00% | ~436 |
+| Exotic Merchant | 18.00% | ~437 |
 | Dragon Clicker | 17.00% | ~412 |
 | Inspection | 16.00% | ~388 |
 | Miner Clicker | 16.00% | ~388 |
@@ -29,16 +29,16 @@ Rating: 4.12 (Ranked 960)
 | Superior | 12.00% | ~291 |
 | Scientist | 11.00% | ~267 |
 | The power of Awakening | 11.00% | ~267 |
-| Challenger | 10.00% | ~242 |
-| Daily Quest Completionist | 10.00% | ~242 |
-| Doing My Part | 10.00% | ~242 |
-| Four Leaf Clover | 10.00% | ~242 |
-| Frostfire Liberator | 10.00% | ~242 |
-| Hunter | 10.00% | ~242 |
-| Mastery | 10.00% | ~242 |
-| Moving Up The Ladder | 10.00% | ~242 |
-| Relic Of The Past | 10.00% | ~242 |
-| Scroll Master | 10.00% | ~242 |
+| Challenger | 10.00% | ~243 |
+| Daily Quest Completionist | 10.00% | ~243 |
+| Doing My Part | 10.00% | ~243 |
+| Four Leaf Clover | 10.00% | ~243 |
+| Frostfire Liberator | 10.00% | ~243 |
+| Hunter | 10.00% | ~243 |
+| Mastery | 10.00% | ~243 |
+| Moving Up The Ladder | 10.00% | ~243 |
+| Relic Of The Past | 10.00% | ~243 |
+| Scroll Master | 10.00% | ~243 |
 | Master Enchanter | 9.00% | ~218 |
 | The father of Dragons | 9.00% | ~218 |
 | Crystal Mining | 8.00% | ~194 |
@@ -65,11 +65,11 @@ Rating: 4.12 (Ranked 960)
 | Gear Enchanting | 3.00% | ~73 |
 | Guardian Master | 3.00% | ~73 |
 | What lies behind the bush | 3.00% | ~73 |
-| Cauldron Liberator | 2.00% | ~48 |
-| Enchanting skill x5 | 2.00% | ~48 |
-| Pokerface | 2.00% | ~48 |
-| Titan Power | 2.00% | ~48 |
-| Transmute | 2.00% | ~48 |
+| Cauldron Liberator | 2.00% | ~49 |
+| Enchanting skill x5 | 2.00% | ~49 |
+| Pokerface | 2.00% | ~49 |
+| Titan Power | 2.00% | ~49 |
+| Transmute | 2.00% | ~49 |
 | Angel Power | 1.00% | ~24 |
 | Conqueror | 1.00% | ~24 |
 | Enhanced War Machines | 1.00% | ~24 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 960)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 216)  
+Progressed: 2,426 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2 (0.08%) (Ranked 291)
 | 2023-11-15 | 2,348 | 2 |
 | 2023-11-16 | 2,376 | 2 |
 | 2023-11-17 | 2,423 | 2 |
-| 2023-11-18 | 2,425 | 2 |
+| 2023-11-18 | 2,426 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 456)  

@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.80% | ~1,615 |
 | A Brief Tour of the Realms | 0.70% | ~1,649 |
 | Tomb of Champions | 0.60% | ~1,211 |
-| See You on the Flipside | 0.50% | ~1,009 |
+| See You on the Flipside | 0.50% | ~1,010 |
 | Beast Intentions | 0.30% | ~707 |
 | The Cursed Farmer | 0.30% | ~707 |
 | A Lesson in Classes | 0.20% | ~404 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~202 |
 | Time Out | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,617 (Ranked 64)  
+Progressed: 235,627 (Ranked 64)  
 Completed: 2,457 (1.04%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -751,7 +751,7 @@ Completed: 2,457 (1.04%) (Ranked 161)
 | 2023-11-15 | 235,196 | 2,449 |
 | 2023-11-16 | 235,368 | 2,455 |
 | 2023-11-17 | 235,587 | 2,456 |
-| 2023-11-18 | 235,617 | 2,457 |
+| 2023-11-18 | 235,627 | 2,457 |
 ## Awards
 Max (Great for Beginners): 5,539  (Ranked 68)  
 Sum: 32,519 (Ranked 40)  

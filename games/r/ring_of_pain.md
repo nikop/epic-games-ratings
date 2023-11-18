@@ -9,25 +9,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.80% | ~11 |
 | Not Touching You | 0.50% | ~7 |
 | First Steps | 0.40% | ~959 |
-| Nothing To Lose | 0.30% | ~719 |
-| Heavy Hitter | 0.30% | ~719 |
-| Delving Deeper | 0.30% | ~719 |
-| Getting A Glimpse | 0.30% | ~719 |
-| That Was Quick | 0.30% | ~719 |
-| Colorful Corpse | 0.30% | ~719 |
-| Defeat The Dark | 0.30% | ~719 |
-| Goodbye, Frog Friend | 0.30% | ~719 |
-| Heartless | 0.30% | ~719 |
-| What's Yours Is Mine | 0.30% | ~719 |
-| Spine Breaker | 0.30% | ~719 |
-| A Donation | 0.30% | ~719 |
-| C-C-Combo | 0.30% | ~719 |
-| Deflection | 0.30% | ~719 |
-| A Quick Escape | 0.30% | ~719 |
-| Uncharted Territory | 0.30% | ~719 |
-| Explorer | 0.30% | ~719 |
-| Sneaky | 0.30% | ~719 |
-| An Offering | 0.30% | ~719 |
+| Nothing To Lose | 0.30% | ~720 |
+| Heavy Hitter | 0.30% | ~720 |
+| Delving Deeper | 0.30% | ~720 |
+| Getting A Glimpse | 0.30% | ~720 |
+| That Was Quick | 0.30% | ~720 |
+| Colorful Corpse | 0.30% | ~720 |
+| Defeat The Dark | 0.30% | ~720 |
+| Goodbye, Frog Friend | 0.30% | ~720 |
+| Heartless | 0.30% | ~720 |
+| What's Yours Is Mine | 0.30% | ~720 |
+| Spine Breaker | 0.30% | ~720 |
+| A Donation | 0.30% | ~720 |
+| C-C-Combo | 0.30% | ~720 |
+| Deflection | 0.30% | ~720 |
+| A Quick Escape | 0.30% | ~720 |
+| Uncharted Territory | 0.30% | ~720 |
+| Explorer | 0.30% | ~720 |
+| Sneaky | 0.30% | ~720 |
+| An Offering | 0.30% | ~720 |
 | Expensive Look | 0.30% | ~4 |
 | What Doesn't Kill You | 0.30% | ~4 |
 | Ambitious Intent | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,833 (Ranked 61)  
+Progressed: 239,834 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
-| 2023-11-18 | 239,833 | 288 |
+| 2023-11-18 | 239,834 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,680 (Ranked 83)  

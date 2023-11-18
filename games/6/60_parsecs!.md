@@ -22,7 +22,7 @@
 | Eco-Shuttle | 20.00% | ~154 |
 | Et tu, Astrocitizen? | 20.00% | ~154 |
 | Space Explorer | 17.00% | ~131 |
-| Hands Full | 13.00% | ~100 |
+| Hands Full | 14.00% | ~108 |
 | Gold Medalist | 12.00% | ~93 |
 | Non-Fiction | 12.00% | ~93 |
 | No Man Left Behind | 9.00% | ~69 |
@@ -34,7 +34,7 @@
 | Axel jump in space! | 6.00% | ~46 |
 | Extreme Makeover | 5.00% | ~39 |
 | The Improvinator | 4.00% | ~31 |
-| The Last Supper | 3.00% | ~23 |
+| The Last Supper | 4.00% | ~31 |
 | 2018: A Soup Odyssey | 3.00% | ~23 |
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |
