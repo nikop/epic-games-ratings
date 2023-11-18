@@ -6,9 +6,9 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~96,637 |
-| NATURAL BORN WINNER | 33.00% | ~77,781 |
-| CALLING HOUSTON | 28.00% | ~65,996 |
+| VANGUARD | 41.00% | ~96,638 |
+| NATURAL BORN WINNER | 33.00% | ~77,782 |
+| CALLING HOUSTON | 28.00% | ~65,997 |
 | SNEAKY SNEAKY | 22.00% | ~51,854 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~51,854 |
 | GT9STRADALE | 20.00% | ~47,140 |
@@ -28,9 +28,9 @@ Number of Ratings: 274  (23.09.2022)
 | HARDCORE | 1.00% | ~2,357 |
 | ACE | 0.80% | ~1,886 |
 | TACTICIAN | 0.60% | ~1,414 |
-| GTX COMPETIZIONE | 0.50% | ~1,178 |
-| HIDDEN POWER | 0.50% | ~1,178 |
-| TUNING MANIAC | 0.50% | ~1,178 |
+| GTX COMPETIZIONE | 0.50% | ~1,179 |
+| HIDDEN POWER | 0.50% | ~1,179 |
+| TUNING MANIAC | 0.50% | ~1,179 |
 | DRAGOON | 0.40% | ~943 |
 | FLAWLESS | 0.40% | ~943 |
 | MARID | 0.30% | ~707 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~471 |
 | ENLIGHTENED | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,700 (Ranked 63)  
+Progressed: 235,702 (Ranked 63)  
 Completed: 48 (0.02%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 48 (0.02%) (Ranked 324)
 | 2023-11-15 | 235,575 | 48 |
 | 2023-11-16 | 235,622 | 48 |
 | 2023-11-17 | 235,682 | 48 |
-| 2023-11-18 | 235,700 | 48 |
+| 2023-11-18 | 235,702 | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

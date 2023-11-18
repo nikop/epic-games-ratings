@@ -13,8 +13,8 @@ Rating: 4.64 (Ranked 332)
 | Cannon Fodder | 61.00% | ~1,128 |
 | Autofire | 58.00% | ~1,073 |
 | Story Teller | 56.00% | ~1,036 |
+| Raise the Stakes | 56.00% | ~1,036 |
 | True Believer | 56.00% | ~1,036 |
-| Raise the Stakes | 55.00% | ~1,018 |
 | Surgeon | 53.00% | ~980 |
 | Freeze | 51.00% | ~944 |
 | Exterminator | 51.00% | ~944 |

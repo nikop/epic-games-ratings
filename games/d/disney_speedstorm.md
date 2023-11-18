@@ -5,12 +5,12 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~30,108 |
-| IT MAKES BOOM! | 6.00% | ~18,065 |
-| EXTRA BOOST | 5.00% | ~15,054 |
-| PROTECTED | 4.00% | ~12,043 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,033 |
-| PRO | 3.00% | ~9,033 |
+| ROOKIE | 10.00% | ~30,112 |
+| IT MAKES BOOM! | 6.00% | ~18,067 |
+| EXTRA BOOST | 5.00% | ~15,056 |
+| PROTECTED | 4.00% | ~12,045 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,034 |
+| PRO | 3.00% | ~9,034 |
 | A TIGER'S FEAR | 2.00% | ~6,022 |
 | AGGRESSIVE RACER | 2.00% | ~6,022 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,011 |
@@ -23,14 +23,14 @@ Rating: 4.39 (Ranked 746)
 | DEFEAT OUR CHAMPION | 0.70% | ~2,108 |
 | MASTER | 0.70% | ~2,108 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,807 |
-| EXPERIENCED CREW | 0.50% | ~1,505 |
+| EXPERIENCED CREW | 0.50% | ~1,506 |
 | ACE BRAWLER | 0.40% | ~1,204 |
 | ACE DEFENDER | 0.40% | ~1,204 |
 | FRAMED! | 0.30% | ~903 |
 | ACE TRICKSTER | 0.30% | ~903 |
 | PERFECTLY POISED | 0.20% | ~602 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,084 (Ranked 53)  
+Progressed: 301,122 (Ranked 53)  
 Completed: 299 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,14 +238,14 @@ Completed: 299 (0.10%) (Ranked 279)
 | 2023-11-15 | 297,597 | 285 |
 | 2023-11-16 | 298,870 | 286 |
 | 2023-11-17 | 300,625 | 296 |
-| 2023-11-18 | 301,084 | 299 |
+| 2023-11-18 | 301,122 | 299 |
 ## Awards
-Max (Great for Beginners): 72  (Ranked 399)  
-Sum: 568 (Ranked 316)  
-Diff (max vs sum): 83  
+Max (Great for Beginners): 74  (Ranked 396)  
+Sum: 570 (Ranked 314)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 72 |
+| This game is Great for Beginners | 74 |
 | This game has Diverse Characters | 67 |
 | This game is Great for Quick Sessions | 65 |
 | This game has Amazing Characters | 48 |
@@ -308,4 +308,4 @@ Diff (max vs sum): 83
 | 2023-11-15 | 4.39 | 70 | 550 |
 | 2023-11-16 | 4.39 | 72 | 555 |
 | 2023-11-17 | 4.39 | 72 | 567 |
-| 2023-11-18 | 4.39 | 72 | 568 |
+| 2023-11-18 | 4.39 | 74 | 570 |

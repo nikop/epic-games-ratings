@@ -651,9 +651,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 53666,
+  "EOS_Progressed": 53668,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 1792,
+  "EOS_NewPlayers": 1785,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -10051,6 +10051,11 @@
       "Time": "2023-11-18T05:05:44.2726171+00:00",
       "NumProgressed": 53666,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-18T06:06:52.5270934+00:00",
+      "NumProgressed": 53668,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -10087,7 +10092,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "BAD_END",
@@ -10239,7 +10244,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "HERBS_2",
@@ -10263,7 +10268,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -10383,7 +10388,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7514
     },
     {
       "ID": "TALES_2",
@@ -10462,15 +10467,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 53666,
+      "Progressed": 53668,
       "Completed": 50
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-17T02:20:19.7818304+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:05:44.2726167+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:06:52.5270929+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:23.8903688+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:58:04.3368231+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:05:44.2726831+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:58:23.9669118+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:06:52.5271628+00:00"
 }

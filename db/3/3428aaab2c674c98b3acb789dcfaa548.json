@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -7775,9 +7775,9 @@
       "Count": 1170
     }
   ],
-  "EOS_Progressed": 841214,
+  "EOS_Progressed": 841220,
   "EOS_Completed": 199,
-  "EOS_NewPlayers": 4840,
+  "EOS_NewPlayers": 4821,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28525,6 +28525,11 @@
       "Time": "2023-11-18T05:04:59.3204892+00:00",
       "NumProgressed": 841214,
       "NumCompleted": 199
+    },
+    {
+      "Time": "2023-11-18T06:05:53.0048724+00:00",
+      "NumProgressed": 841220,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 75,
@@ -28536,7 +28541,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 210304
+      "UsersEstimate": 210305
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -28576,7 +28581,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25236
+      "UsersEstimate": 25237
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -28640,7 +28645,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25236
+      "UsersEstimate": 25237
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -28672,7 +28677,7 @@
       "Name": "Eureka!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5888
+      "UsersEstimate": 5889
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -28960,7 +28965,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 5888
+      "UsersEstimate": 5889
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -29016,7 +29021,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25236
+      "UsersEstimate": 25237
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -29104,7 +29109,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25236
+      "UsersEstimate": 25237
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -29135,13 +29140,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 841214,
+      "Progressed": 841220,
       "Completed": 243
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 841214,
+      "Progressed": 841220,
       "Completed": 199
     }
   ],
@@ -29149,8 +29154,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-18T01:43:57.5042155+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:04:59.3204889+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:05:53.0048719+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.3200366+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:58:09.8070997+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:04:59.3206378+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:58:31.3989462+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:05:53.0050069+00:00"
 }

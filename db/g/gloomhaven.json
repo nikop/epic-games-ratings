@@ -2,7 +2,7 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 132,
@@ -2465,9 +2465,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 21286,
+  "EOS_Progressed": 21288,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9715,6 +9715,11 @@
       "Time": "2023-11-18T05:06:32.2529016+00:00",
       "NumProgressed": 21286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T06:08:17.0475673+00:00",
+      "NumProgressed": 21288,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9751,7 +9756,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Achievement_Trophy05",
@@ -9911,7 +9916,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8940
+      "UsersEstimate": 8941
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9927,7 +9932,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 7237
+      "UsersEstimate": 7238
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9943,7 +9948,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7024
+      "UsersEstimate": 7025
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9991,7 +9996,7 @@
       "Name": "Augmented rat",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "Achievement_Trophy35",
@@ -10031,7 +10036,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "Achievement_Trophy40",
@@ -10103,7 +10108,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "Achievement_Trophy49",
@@ -10214,7 +10219,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 21286,
+      "Progressed": 21288,
       "Completed": 1
     }
   ],
@@ -10222,8 +10227,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-17T16:57:14.7163433+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:06:32.2529011+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:08:17.0475669+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:57:30.2917117+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:06:32.2529766+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:57:36.6292412+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:08:17.0476454+00:00"
 }

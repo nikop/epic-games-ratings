@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
@@ -6639,9 +6639,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 719905,
+  "EOS_Progressed": 719915,
   "EOS_Completed": 2405,
-  "EOS_NewPlayers": 3588,
+  "EOS_NewPlayers": 3581,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30834,6 +30834,11 @@
       "Time": "2023-11-18T05:05:41.874848+00:00",
       "NumProgressed": 719905,
       "NumCompleted": 2405
+    },
+    {
+      "Time": "2023-11-18T06:06:49.3194826+00:00",
+      "NumProgressed": 719915,
+      "NumCompleted": 2405
     }
   ],
   "TotalAchievements": 51,
@@ -31252,13 +31257,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719905,
+      "Progressed": 719915,
       "Completed": 2405
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45447,
+      "Progressed": 45457,
       "Completed": 36556
     }
   ],
@@ -31266,8 +31271,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-18T01:45:24.7904908+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:05:41.8748472+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:06:49.3194821+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:59:07.2264487+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:05:41.8749846+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:59:49.4698818+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:06:49.3196336+00:00"
 }

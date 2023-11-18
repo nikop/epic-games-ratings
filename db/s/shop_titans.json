@@ -7099,9 +7099,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140350,
+  "EOS_Progressed": 140352,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1136,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28849,6 +28849,11 @@
       "Time": "2023-11-18T05:04:12.4785534+00:00",
       "NumProgressed": 140350,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-18T06:04:50.3658268+00:00",
+      "NumProgressed": 140352,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -29124,7 +29129,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "craft02",
@@ -29236,7 +29241,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "expansion02",
@@ -29444,7 +29449,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "level02",
@@ -29636,7 +29641,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "sell02",
@@ -29755,15 +29760,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140350,
+      "Progressed": 140352,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-17T13:06:07.3304406+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:04:12.4785531+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:04:50.3658263+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:59:38.0361936+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:04:12.4787561+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:00:31.6174926+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:04:50.3660062+00:00"
 }

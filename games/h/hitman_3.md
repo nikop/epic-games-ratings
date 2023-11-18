@@ -6,9 +6,9 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~624,865 |
-| Death From Above | 45.00% | ~611,281 |
-| Master of the Household | 38.00% | ~516,193 |
+| Unseen Assassin | 46.00% | ~624,866 |
+| Death From Above | 45.00% | ~611,282 |
+| Master of the Household | 38.00% | ~516,194 |
 | Death of the Party | 35.00% | ~475,441 |
 | NEXUS-47 | 32.00% | ~434,689 |
 | The Last Tango | 31.00% | ~421,105 |
@@ -17,9 +17,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | Tools of the Trade | 28.00% | ~380,353 |
 | Cleared for Field Duty | 27.00% | ~366,769 |
 | Seizing the Opportunity | 26.00% | ~353,185 |
-| Bullet Train | 21.00% | ~285,264 |
-| Stylish Assassin | 20.00% | ~271,680 |
-| Silent Assassin | 14.00% | ~190,176 |
+| Bullet Train | 21.00% | ~285,265 |
+| Stylish Assassin | 20.00% | ~271,681 |
+| Silent Assassin | 14.00% | ~190,177 |
 | Rise Up | 12.00% | ~163,008 |
 | Evil Wine Club | 11.00% | ~149,424 |
 | Console Cowboy | 10.00% | ~135,840 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,584 |
 | The Creative Assassin | 0.70% | ~9,509 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,358,402 (Ranked 9)  
+Progressed: 1,358,404 (Ranked 9)  
 Completed: 2,184 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,14 +266,14 @@ Completed: 2,184 (0.16%) (Ranked 263)
 | 2023-11-15 | 1,357,677 | 2,181 |
 | 2023-11-16 | 1,358,008 | 2,182 |
 | 2023-11-17 | 1,358,352 | 2,184 |
-| 2023-11-18 | 1,358,402 | 2,184 |
+| 2023-11-18 | 1,358,404 | 2,184 |
 ## Awards
-Max (Diverse Characters): 10,707  (Ranked 37)  
-Sum: 73,869 (Ranked 22)  
+Max (Diverse Characters): 10,723  (Ranked 37)  
+Sum: 73,885 (Ranked 22)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 10,707 |
+| This game has Diverse Characters | 10,723 |
 | This game is Highly Recommended | 9,699 |
 | This game is Extremely Fun | 9,392 |
 | This game has Amazing Storytelling | 9,239 |
@@ -610,4 +610,4 @@ Diff (max vs sum): 15
 | 2023-11-15 | 4.78 | - | 10,695 | 73,773 |
 | 2023-11-16 | 4.78 | - | 10,695 | 73,818 |
 | 2023-11-17 | 4.78 | - | 10,707 | 73,864 |
-| 2023-11-18 | 4.78 | - | 10,707 | 73,869 |
+| 2023-11-18 | 4.78 | - | 10,723 | 73,885 |

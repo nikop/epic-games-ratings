@@ -761,9 +761,9 @@
       "Count": 405
     }
   ],
-  "EOS_Progressed": 686085,
+  "EOS_Progressed": 686086,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 2281,
+  "EOS_NewPlayers": 2271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24956,6 +24956,11 @@
       "Time": "2023-11-18T05:08:56.4332959+00:00",
       "NumProgressed": 686085,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-11-18T06:09:14.4547546+00:00",
+      "NumProgressed": 686086,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 52,
@@ -24975,7 +24980,7 @@
       "Name": "100 KILLS",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 212686
+      "UsersEstimate": 212687
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -24983,7 +24988,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 116634
+      "UsersEstimate": 116635
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -25071,7 +25076,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 68608
+      "UsersEstimate": 68609
     },
     {
       "ID": "CHURCH",
@@ -25095,7 +25100,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 68608
+      "UsersEstimate": 68609
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -25382,7 +25387,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 686085,
+      "Progressed": 686086,
       "Completed": 83
     }
   ],
@@ -25390,8 +25395,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-11-18T03:59:20.9182707+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:08:56.4332957+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:09:14.454754+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:58.4000874+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:59:24.9695096+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:08:56.4334214+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:00:13.8864293+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:09:14.4549204+00:00"
 }

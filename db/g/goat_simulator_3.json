@@ -5161,7 +5161,7 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 251035,
+  "EOS_Progressed": 251036,
   "EOS_Completed": 879,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 7,
@@ -28166,6 +28166,11 @@
       "Time": "2023-11-18T05:09:23.505395+00:00",
       "NumProgressed": 251035,
       "NumCompleted": 879
+    },
+    {
+      "Time": "2023-11-18T06:09:50.635302+00:00",
+      "NumProgressed": 251036,
+      "NumCompleted": 879
     }
   ],
   "TotalAchievements": 39,
@@ -28209,7 +28214,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67779
+      "UsersEstimate": 67780
     },
     {
       "ID": "AchievementBigFootID",
@@ -28225,7 +28230,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75310
+      "UsersEstimate": 75311
     },
     {
       "ID": "AchievementBoulderID",
@@ -28241,7 +28246,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 228442
+      "UsersEstimate": 228443
     },
     {
       "ID": "AchievementClownID",
@@ -28281,7 +28286,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17572
+      "UsersEstimate": 17573
     },
     {
       "ID": "AchievementGatorID",
@@ -28345,7 +28350,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 143090
+      "UsersEstimate": 143091
     },
     {
       "ID": "AchievementLootBoxID",
@@ -28377,7 +28382,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 95393
+      "UsersEstimate": 95394
     },
     {
       "ID": "AchievementRampID",
@@ -28409,7 +28414,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185766
+      "UsersEstimate": 185767
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -28449,7 +28454,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 138069
+      "UsersEstimate": 138070
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -28457,7 +28462,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117986
+      "UsersEstimate": 117987
     },
     {
       "ID": "AchievementTrinketID",
@@ -28481,14 +28486,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67779
+      "UsersEstimate": 67780
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 251035,
+      "Progressed": 251036,
       "Completed": 879
     }
   ],
@@ -28496,8 +28501,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-17T23:02:45.2797666+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:09:23.5053947+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:09:50.6353016+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5356776+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:02:41.3242539+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:09:23.5055342+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:02:44.0537273+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:09:50.6354357+00:00"
 }

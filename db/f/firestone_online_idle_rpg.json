@@ -475,9 +475,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2426,
+  "EOS_Progressed": 2427,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7345,6 +7345,11 @@
       "Time": "2023-11-18T04:08:31.0941327+00:00",
       "NumProgressed": 2426,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T06:08:54.8743537+00:00",
+      "NumProgressed": 2427,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7460,7 +7465,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "dragonmaster",
@@ -7588,7 +7593,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "herewegoagain",
@@ -7716,7 +7721,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "mythicpower",
@@ -7732,7 +7737,7 @@
       "Name": "Natural Talent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "pokerface",
@@ -7748,7 +7753,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "prestigiousx10",
@@ -7804,7 +7809,7 @@
       "Name": "Superior",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "templeofeternals",
@@ -7860,7 +7865,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "titanpower",
@@ -7916,7 +7921,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "warmachinesarmy",
@@ -7955,7 +7960,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2426,
+      "Progressed": 2427,
       "Completed": 2
     }
   ],
@@ -7963,8 +7968,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-18T05:08:41.6550971+00:00",
+  "LastChanged_Achievements": "2023-11-18T06:08:54.874353+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-18T04:57:31.482568+00:00",
-  "LastUpdate_Achievements": "2023-11-18T05:08:41.6552087+00:00"
+  "LastUpdate_Ratings": "2023-11-18T05:57:38.2561031+00:00",
+  "LastUpdate_Achievements": "2023-11-18T06:08:54.8744478+00:00"
 }
