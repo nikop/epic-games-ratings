@@ -6,32 +6,32 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~421 |
+| Explorer | 68.00% | ~422 |
 | Cowardice | 61.00% | ~378 |
-| NO LIFE IS WORTH SAVING... | 48.00% | ~297 |
-| Eat Lead! | 47.00% | ~291 |
-| The Breaking Point | 44.00% | ~272 |
-| Here Comes the Boom | 43.00% | ~266 |
+| NO LIFE IS WORTH SAVING... | 48.00% | ~298 |
+| Eat Lead! | 46.00% | ~285 |
+| The Breaking Point | 44.00% | ~273 |
+| Here Comes the Boom | 43.00% | ~267 |
 | Prospector | 42.00% | ~260 |
-| Treasure Hunter | 39.00% | ~241 |
-| Sniper Wolf | 39.00% | ~241 |
-| The Motivation | 38.00% | ~235 |
+| Treasure Hunter | 39.00% | ~242 |
+| Sniper Wolf | 39.00% | ~242 |
+| The Motivation | 38.00% | ~236 |
 | Heroism | 36.00% | ~223 |
 | Missing in Action | 35.00% | ~217 |
-| Collectibles of Chapter I | 34.00% | ~210 |
-| King of Knives | 33.00% | ~204 |
+| Collectibles of Chapter I | 34.00% | ~211 |
+| King of Knives | 33.00% | ~205 |
 | Consequences | 32.00% | ~198 |
 | Opportunities | 31.00% | ~192 |
 | The Horror | 29.00% | ~180 |
 | The Difference | 27.00% | ~167 |
 | Vengeance | 25.00% | ~155 |
-| Collectibles of Chapter II | 23.00% | ~142 |
-| Broken Hopes | 23.00% | ~142 |
-| It's Just an Accident | 23.00% | ~142 |
+| Collectibles of Chapter II | 23.00% | ~143 |
+| Broken Hopes | 23.00% | ~143 |
+| It's Just an Accident | 23.00% | ~143 |
 | Bullseye! | 22.00% | ~136 |
 | Sorrow | 20.00% | ~124 |
 | Food Massacre | 19.00% | ~118 |
-| Atonement | 18.00% | ~111 |
+| Atonement | 18.00% | ~112 |
 | Helping Hand | 16.00% | ~99 |
 | Collectibles of Chapter III | 15.00% | ~93 |
 | Without a Second Thought | 15.00% | ~93 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 619 (Ranked 290)  
+Progressed: 620 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 599 | 0 |
 | 2023-11-16 | 610 | 0 |
 | 2023-11-17 | 617 | 0 |
-| 2023-11-18 | 619 | 0 |
+| 2023-11-18 | 620 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

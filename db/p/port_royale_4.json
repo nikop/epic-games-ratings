@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,7 +261,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -2746,6 +2746,11 @@
       "Time": "2023-11-18T09:05:37.0549842+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T12:05:38.252888+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2869,7 +2874,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH015",
@@ -2941,7 +2946,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH024",
@@ -2995,9 +3000,9 @@
       "ID": "ACH030",
       "SetID": "69nfp41",
       "Name": "Walk the plank",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH031",
@@ -3011,9 +3016,9 @@
       "ID": "ACH032",
       "SetID": "69nfp41",
       "Name": "Pirates!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH033",
@@ -3021,7 +3026,7 @@
       "Name": "A true pirate!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH034",
@@ -3045,7 +3050,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH037",
@@ -3061,7 +3066,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH039",
@@ -3133,7 +3138,7 @@
       "Name": "Overpopulation",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH048",
@@ -3156,15 +3161,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:05:41.8887428+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:05:38.2528876+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.0023043+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:59:20.4447324+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:05:41.8887943+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:59:03.5429861+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:05:38.2529417+00:00"
 }

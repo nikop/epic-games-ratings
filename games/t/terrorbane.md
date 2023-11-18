@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First contact | 102.00% | ~43 |
-| System shocked | 64.00% | ~27 |
-| Exposé | 57.00% | ~24 |
+| System shocked | 67.00% | ~28 |
+| Exposé | 60.00% | ~25 |
 | Blade of prophecy | 48.00% | ~20 |
 | Normal end | 45.00% | ~19 |
 | C Rank Bug-catcher | 43.00% | ~18 |

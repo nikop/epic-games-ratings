@@ -4,7 +4,7 @@
   "ProductSlug": "rignroll-522598",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-09T08:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.0258797+00:00",
   "LastChanged": "2023-03-31T05:58:33.0258798+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:12.5955226+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:59:30.4156022+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:03:37.0253591+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:59:13.5022477+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:03:34.6858516+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.08 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~252 |
+| Unforeseen | 91.00% | ~255 |
 | Battlefields Have Memories | 86.00% | ~241 |
 | Enlisted | 83.00% | ~232 |
 | Maybe Engage a Little | 80.00% | ~224 |
 | No More Names | 67.00% | ~188 |
-| Initiate | 55.00% | ~154 |
+| Initiate | 56.00% | ~157 |
 | Thrada-Kul | 50.00% | ~140 |
 | Gravity-Challenged Rocks | 40.00% | ~112 |
 | Soldier | 34.00% | ~95 |
@@ -27,7 +27,7 @@ Rating: 4.08 (Ranked 970)
 | Recruit | 16.00% | ~45 |
 | Armsman | 16.00% | ~45 |
 | Lights Army | 11.00% | ~31 |
-| Periapt Cerulean | 10.00% | ~28 |
+| Periapt Cerulean | 11.00% | ~31 |
 | Good Boy | 10.00% | ~28 |
 | Periapt Viridian | 8.00% | ~22 |
 | Shroudfane Explorer | 8.00% | ~22 |

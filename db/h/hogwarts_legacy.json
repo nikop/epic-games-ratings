@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10591,10 +10591,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48436,
       "NumberOfAwardsMax": 24407
+    },
+    {
+      "Time": "2023-11-18T11:58:41.1741864+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48460,
+      "NumberOfAwardsMax": 24407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48436,
+  "NumberOfAwards": 48460,
   "NumberOfAwardsMax": 24407,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10608,13 +10614,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12379
+      "Count": 12398
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1035
+      "Count": 1040
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10671,9 +10677,9 @@
       "Count": 789
     }
   ],
-  "EOS_Progressed": 302302,
+  "EOS_Progressed": 302304,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33436,6 +33442,11 @@
       "Time": "2023-11-18T11:09:01.3310767+00:00",
       "NumProgressed": 302302,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-18T12:09:25.095477+00:00",
+      "NumProgressed": 302304,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33447,7 +33458,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48368
+      "UsersEstimate": 48369
     },
     {
       "ID": "PFA_10",
@@ -33567,7 +33578,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39299
+      "UsersEstimate": 39300
     },
     {
       "ID": "PFA_24",
@@ -33775,7 +33786,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42322
+      "UsersEstimate": 42323
     },
     {
       "ID": "PFA_7",
@@ -33783,7 +33794,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42322
+      "UsersEstimate": 42323
     },
     {
       "ID": "PFA_8",
@@ -33791,7 +33802,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39299
+      "UsersEstimate": 39300
     },
     {
       "ID": "PFA_9",
@@ -33806,16 +33817,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302302,
+      "Progressed": 302304,
       "Completed": 512
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-18T09:58:52.8244643+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:09:01.3310762+00:00",
+  "LastChanged": "2023-11-18T11:58:41.1741863+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:09:25.0954767+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:58:57.1090701+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:09:01.3311797+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:58:41.1741869+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:09:25.0955973+00:00"
 }

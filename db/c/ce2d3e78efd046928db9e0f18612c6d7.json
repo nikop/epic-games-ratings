@@ -307,9 +307,9 @@
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:09:00.6793976+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:09:24.3509429+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:00:24.6509205+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:09:00.6794056+00:00"
+  "LastUpdate_Ratings": "2023-11-18T12:00:04.7432499+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:09:24.3509511+00:00"
 }

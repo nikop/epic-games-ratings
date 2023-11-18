@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~257 |
-| Thalya – Simply Immortal | 86.00% | ~257 |
-| For the Horde! | 79.00% | ~236 |
+| The Last Stand | 87.00% | ~260 |
+| Thalya – Simply Immortal | 87.00% | ~260 |
+| For the Horde! | 80.00% | ~239 |
 | Hammer Time, Round Two | 78.00% | ~233 |
 | The Hellwoods | 73.00% | ~218 |
 | Thalya's Concentrated Fury | 68.00% | ~203 |
 | The Plains of Strothalm | 66.00% | ~197 |
 | Experienced Thalya | 66.00% | ~197 |
+| Master of Magic | 62.00% | ~185 |
 | Bad Elves Go Everywhere | 62.00% | ~185 |
-| Master of Magic | 61.00% | ~182 |
 | Unicorn steaks – fresh off the hoof! | 56.00% | ~167 |
 | Heroes’ Gorge | 56.00% | ~167 |
 | Magic Accidents | 55.00% | ~164 |
@@ -25,8 +25,8 @@
 | Hard Work | 39.00% | ~117 |
 | Pure Dynamite! | 38.00% | ~114 |
 | The Big Eaty | 38.00% | ~114 |
+| “… like son” | 33.00% | ~99 |
 | Mana Cannon | 32.00% | ~96 |
-| “… like son” | 32.00% | ~96 |
 | Dungeonlord Gorgu | 27.00% | ~81 |
 | The Cathedral of Light | 26.00% | ~78 |
 | Shame! Shame! Shame! | 26.00% | ~78 |
@@ -35,13 +35,13 @@
 | Unstoppable Horde | 18.00% | ~54 |
 | Master of the Undead | 18.00% | ~54 |
 | Hungry, Hungry Gorgu! | 17.00% | ~51 |
+| Forbidden Knowledge | 16.00% | ~48 |
 | All’s Well That Ends Evil | 16.00% | ~48 |
-| Forbidden Knowledge | 15.00% | ~45 |
+| Ghost Pirates? Ghost Heroes! | 14.00% | ~42 |
 | The Duel | 14.00% | ~42 |
 | Sacrificial Pit = Garbage Disposal? | 13.00% | ~39 |
-| Ghost Pirates? Ghost Heroes! | 13.00% | ~39 |
 | Stop Tanos! | 12.00% | ~36 |
-| If Looks Could Kill | 10.00% | ~30 |
+| If Looks Could Kill | 11.00% | ~33 |
 | The Finitude Drill | 9.00% | ~27 |
 | Bonus Evilness | 8.00% | ~24 |
 | Sabotage! | 8.00% | ~24 |

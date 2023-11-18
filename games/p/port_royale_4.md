@@ -8,23 +8,23 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~830 |
 | My little farm | 64.00% | ~664 |
-| Every beginning is difficult | 63.00% | ~653 |
-| Gofer | 57.00% | ~591 |
+| Every beginning is difficult | 63.00% | ~654 |
+| Gofer | 57.00% | ~592 |
 | 3, 2, 1, mine | 56.00% | ~581 |
-| O Captain! My Captain! | 55.00% | ~570 |
+| O Captain! My Captain! | 55.00% | ~571 |
 | Seafarer | 51.00% | ~529 |
 | Intangible | 43.00% | ~446 |
 | Greed for gold | 43.00% | ~446 |
 | I'm out of here for a while | 42.00% | ~436 |
 | In a mint condition | 38.00% | ~394 |
 | Licence to Kill | 37.00% | ~384 |
-| Pirates! | 35.00% | ~363 |
+| Pirates! | 34.00% | ~353 |
 | Collectionitis | 29.00% | ~301 |
 | Megalomania | 29.00% | ~301 |
-| Christening | 28.00% | ~290 |
+| Christening | 28.00% | ~291 |
 | Groundskeeper | 26.00% | ~270 |
-| Walk the plank | 22.00% | ~228 |
 | Wholesale | 22.00% | ~228 |
+| Walk the plank | 21.00% | ~218 |
 | Pearly gates | 18.00% | ~187 |
 | My precious! | 17.00% | ~176 |
 | Conquistador | 14.00% | ~145 |
@@ -39,8 +39,8 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~62 |
 | Buccaneer | 5.00% | ~52 |
 | Flying Dutchman | 5.00% | ~52 |
-| A true pirate! | 4.00% | ~41 |
-| Overpopulation | 4.00% | ~41 |
+| A true pirate! | 4.00% | ~42 |
+| Overpopulation | 4.00% | ~42 |
 | Premier Maître | 3.00% | ~31 |
 | Supreme conqueror | 3.00% | ~31 |
 | Master & Commander | 3.00% | ~31 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,037 (Ranked 258)  
+Progressed: 1,038 (Ranked 258)  
 Completed: 1 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 1 (0.10%) (Ranked 279)
 | 2023-11-13 | 1,032 | 1 |
 | 2023-11-16 | 1,033 | 1 |
 | 2023-11-17 | 1,036 | 1 |
-| 2023-11-18 | 1,037 | 1 |
+| 2023-11-18 | 1,038 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

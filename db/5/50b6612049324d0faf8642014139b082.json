@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -635,6 +635,11 @@
       "Time": "2023-11-18T11:08:54.4196493+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T12:09:18.4285894+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -663,7 +668,7 @@
       "Name": "Gravel Guru",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_12",
@@ -687,7 +692,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_15",
@@ -711,7 +716,7 @@
       "Name": "Your first time?",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_18",
@@ -735,7 +740,7 @@
       "Name": "Team Principal",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_20",
@@ -789,9 +794,9 @@
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_3",
@@ -854,14 +859,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:08:54.4196491+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:09:18.428589+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:57:58.4599629+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:08:54.4196692+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:57:44.1771602+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:09:18.4286092+00:00"
 }

@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15070,
+  "EOS_Progressed": 15072,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11517,6 +11517,11 @@
       "Time": "2023-11-18T07:08:25.3472772+00:00",
       "NumProgressed": 15070,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-18T12:08:18.4985155+00:00",
+      "NumProgressed": 15072,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11641,7 +11646,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "23",
@@ -11713,7 +11718,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "4",
@@ -11808,22 +11813,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15070,
+      "Progressed": 15072,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1024,
-      "Completed": 609
+      "Progressed": 1026,
+      "Completed": 611
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:07:53.7512118+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:08:18.4985151+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:58:20.5320154+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:07:53.7512684+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:58:05.9148642+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:08:18.4986124+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3411,9 +3411,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31149,
+  "EOS_Progressed": 31150,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19636,6 +19636,11 @@
       "Time": "2023-11-18T10:02:58.4794153+00:00",
       "NumProgressed": 31149,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-18T12:03:04.2354297+00:00",
+      "NumProgressed": 31150,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19727,7 +19732,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Discovery",
@@ -19735,7 +19740,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "Dont_Need_These",
@@ -19871,7 +19876,7 @@
       "Name": "Reckless",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Rift_Destroyer",
@@ -19903,7 +19908,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Seasoned",
@@ -19935,7 +19940,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "Stunner",
@@ -19975,7 +19980,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "Teamwork",
@@ -19991,7 +19996,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Therapeutic",
@@ -20015,7 +20020,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Ultimate_Defense",
@@ -20054,7 +20059,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31149,
+      "Progressed": 31150,
       "Completed": 68
     }
   ],
@@ -20062,8 +20067,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-18T07:02:59.0031034+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:03:05.5246978+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:03:04.2354293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:02:47.332031+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:03:05.524797+00:00"
+  "LastUpdate_Ratings": "2023-11-18T12:02:45.1571077+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:03:04.2355194+00:00"
 }

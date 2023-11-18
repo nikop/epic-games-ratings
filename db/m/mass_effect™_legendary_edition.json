@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1305,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -4382,17 +4382,17 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_75",
@@ -4626,8 +4626,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:05:48.6549014+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:05:45.1681867+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:02:52.6162116+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:05:48.6550493+00:00"
+  "LastUpdate_Ratings": "2023-11-18T12:02:50.2514703+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:05:45.168352+00:00"
 }

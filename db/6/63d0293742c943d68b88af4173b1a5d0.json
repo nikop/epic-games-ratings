@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 121,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -521,9 +521,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "Remake_005",
@@ -680,8 +680,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:03:38.6816616+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:03:36.5339884+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:02:44.3282183+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:03:38.6816762+00:00"
+  "LastUpdate_Ratings": "2023-11-18T12:02:42.3242081+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:03:36.5340035+00:00"
 }

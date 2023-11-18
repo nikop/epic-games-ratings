@@ -74,6 +74,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | God Tier | 0.10% | ~458 |
 | Gold Rush | 0.10% | ~458 |
 | A Golden Empire | 0.10% | ~458 |
+| Golden Horn | 0.10% | ~458 |
 | That's a Grand Army | 0.10% | ~458 |
 | Grand Coalition | 0.10% | ~458 |
 | Grand Duchy | 0.10% | ~458 |
@@ -248,7 +249,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,122 (Ranked 41)  
+Progressed: 458,173 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,14 +582,14 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 458,122 | 1 |
+| 2023-11-18 | 458,173 | 1 |
 ## Awards
-Max (Educational): 7,043  (Ranked 54)  
-Sum: 58,039 (Ranked 24)  
+Max (Educational): 7,061  (Ranked 54)  
+Sum: 58,057 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,043 |
+| This game is Educational | 7,061 |
 | This game has Diverse Characters | 6,784 |
 | This game is Highly Recommended | 6,775 |
 | This game has Challenging Combat | 6,683 |
@@ -907,4 +907,4 @@ Diff (max vs sum): 30
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
 | 2023-11-17 | 4.69 | - | 7,043 | 58,000 |
-| 2023-11-18 | 4.69 | - | 7,043 | 58,039 |
+| 2023-11-18 | 4.69 | - | 7,061 | 58,057 |

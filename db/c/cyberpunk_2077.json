@@ -15258,10 +15258,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 355802,
       "NumberOfAwardsMax": 105891
+    },
+    {
+      "Time": "2023-11-18T11:58:23.8944825+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 355891,
+      "NumberOfAwardsMax": 105891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 355802,
+  "NumberOfAwards": 355891,
   "NumberOfAwardsMax": 105891,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15311,7 +15317,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21432
+      "Count": 21521
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15338,9 +15344,9 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897129,
+  "EOS_Progressed": 897139,
   "EOS_Completed": 2784,
-  "EOS_NewPlayers": 969,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39358,6 +39364,11 @@
       "Time": "2023-11-18T11:03:22.5627231+00:00",
       "NumProgressed": 897129,
       "NumCompleted": 2784
+    },
+    {
+      "Time": "2023-11-18T12:03:20.8997447+00:00",
+      "NumProgressed": 897139,
+      "NumCompleted": 2784
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39392,9 +39403,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7177
+      "UsersEstimate": 8074
     },
     {
       "ID": "Denied",
@@ -39698,7 +39709,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35885
+      "UsersEstimate": 35886
     },
     {
       "ID": "YipMan",
@@ -39905,21 +39916,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897129,
+      "Progressed": 897139,
       "Completed": 2784
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25752,
+      "Progressed": 25762,
       "Completed": 10233
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-18T09:58:32.3236376+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:03:22.5627229+00:00",
+  "LastChanged": "2023-11-18T11:58:23.8944823+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:03:20.8997444+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:58:38.3837047+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:03:22.5628751+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:58:23.8944829+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:03:20.8998786+00:00"
 }

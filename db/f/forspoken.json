@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42762,
+  "EOS_Progressed": 42766,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12742,6 +12742,11 @@
       "Time": "2023-11-18T11:04:30.2127128+00:00",
       "NumProgressed": 42762,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T12:04:27.880552+00:00",
+      "NumProgressed": 42766,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12785,7 +12790,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -12801,7 +12806,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -12809,7 +12814,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -12905,7 +12910,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "CUFF_ATTACK",
@@ -12993,7 +12998,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -13009,7 +13014,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "MAGIC_IVY",
@@ -13176,22 +13181,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42762,
+      "Progressed": 42766,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7599,
-      "Completed": 7599
+      "Progressed": 7603,
+      "Completed": 7603
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:04:30.2127124+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:04:27.8805516+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:16.2717277+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:58:22.0487422+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:04:30.2128075+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:58:07.4387181+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:04:27.8806598+00:00"
 }

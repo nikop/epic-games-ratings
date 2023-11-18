@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1445,7 +1445,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429028,
+  "EOS_Progressed": 429029,
   "EOS_Completed": 546,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
@@ -15230,6 +15230,11 @@
       "Time": "2023-11-18T11:04:22.6905195+00:00",
       "NumProgressed": 429028,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2023-11-18T12:04:20.069698+00:00",
+      "NumProgressed": 429029,
+      "NumCompleted": 546
     }
   ],
   "TotalAchievements": 41,
@@ -15289,7 +15294,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111547
+      "UsersEstimate": 111548
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -15297,7 +15302,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128708
+      "UsersEstimate": 128709
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -15361,7 +15366,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111547
+      "UsersEstimate": 111548
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -15377,7 +15382,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201643
+      "UsersEstimate": 201644
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -15409,7 +15414,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407577
+      "UsersEstimate": 407578
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15425,7 +15430,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308900
+      "UsersEstimate": 308901
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15433,7 +15438,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158740
+      "UsersEstimate": 158741
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -15449,7 +15454,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111547
+      "UsersEstimate": 111548
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -15457,7 +15462,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343222
+      "UsersEstimate": 343223
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15481,7 +15486,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68644
+      "UsersEstimate": 68645
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -15497,7 +15502,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141579
+      "UsersEstimate": 141580
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -15529,7 +15534,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188772
+      "UsersEstimate": 188773
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -15568,15 +15573,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429028,
+      "Progressed": 429029,
       "Completed": 546
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:04:22.6905192+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:04:20.0696976+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:23.5883235+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:59:53.0903709+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:04:22.6906042+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:59:34.706535+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:04:20.0698129+00:00"
 }

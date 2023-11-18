@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -467,6 +467,11 @@
       "Time": "2023-11-18T11:08:00.2817505+00:00",
       "NumProgressed": 182,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T12:08:24.9610802+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -533,9 +538,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 110
     },
     {
       "ID": "CompleteChapter10",
@@ -581,9 +586,9 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteChapter16",
@@ -621,9 +626,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "CompleteChapter3",
@@ -637,17 +642,17 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter6",
@@ -725,9 +730,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "Win100OnlineMatched",
@@ -749,9 +754,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "Win50ConquestBattles",
@@ -774,14 +779,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:08:00.2817502+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:08:24.9610799+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:58:48.1390953+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:08:00.2817696+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:58:32.4392277+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:08:24.9610999+00:00"
 }

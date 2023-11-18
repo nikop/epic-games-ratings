@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 730,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -1486,9 +1486,9 @@
       "ID": "EV_ACH09",
       "SetID": "6jeac23",
       "Name": "You Get Used To It",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 299
     },
     {
       "ID": "EV_ACH10",
@@ -1526,9 +1526,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 402
     },
     {
       "ID": "EV_ACH15",
@@ -1781,8 +1781,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:09:02.0746842+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:09:25.7155973+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:58:37.090255+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:09:02.0747125+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:58:22.5868315+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:09:25.7156346+00:00"
 }

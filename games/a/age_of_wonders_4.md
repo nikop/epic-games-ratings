@@ -34,10 +34,10 @@ Rating: 4.61 (Ranked 384)
 | Here be Dragons | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
+| Return of the Wizard King | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
 | Prometheus Avenged | 0.50% | ~27 |
 | A Conqueror's Cohort | 0.50% | ~27 |
-| Return of the Wizard King | 0.40% | ~22 |
 | Arch Mage | 0.40% | ~22 |
 | The Creator | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |

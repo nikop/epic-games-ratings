@@ -36,7 +36,7 @@ Rating: 4.30 (Ranked 835)
 | The Ooze | 15.00% | ~29 |
 | Turquoise | 14.00% | ~27 |
 | The Assistant | 13.00% | ~25 |
-| The Steampunk | 12.00% | ~23 |
+| The Steampunk | 13.00% | ~25 |
 | The Droid | 10.00% | ~19 |
 | Verse | 10.00% | ~19 |
 | Iron | 10.00% | ~19 |
@@ -46,9 +46,9 @@ Rating: 4.30 (Ranked 835)
 | Power Overwhelming | 6.00% | ~12 |
 | The Astronaut | 6.00% | ~12 |
 | Mithril | 6.00% | ~12 |
+| Anvil | 6.00% | ~12 |
 | The Exorcist | 5.00% | ~10 |
 | Aluminum | 5.00% | ~10 |
-| Anvil | 5.00% | ~10 |
 | It's a Trap! | 3.00% | ~6 |
 | Blaze | 3.00% | ~6 |
 | Chorus | 3.00% | ~6 |

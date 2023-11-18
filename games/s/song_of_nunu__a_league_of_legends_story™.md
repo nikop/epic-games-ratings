@@ -16,8 +16,8 @@
 | Moneyball | 61.00% | ~445 |
 | No Bites | 58.00% | ~423 |
 | Iceborn | 58.00% | ~423 |
+| Boom Things | 55.00% | ~402 |
 | Tear of Freedom | 54.00% | ~394 |
-| Boom Things | 54.00% | ~394 |
 | My Darkest Day | 50.00% | ~365 |
 | Rhythm Of Willump | 48.00% | ~350 |
 | The Relentless Storm | 47.00% | ~343 |
@@ -25,8 +25,8 @@
 | 3000 Year Blackout | 44.00% | ~321 |
 | The Finisher | 43.00% | ~314 |
 | So Close | 41.00% | ~299 |
+| You Get Used To It | 41.00% | ~299 |
 | True Legends | 41.00% | ~299 |
-| You Get Used To It | 40.00% | ~292 |
 | Boosted! | 38.00% | ~277 |
 | Family | 37.00% | ~270 |
 | Biggest Snowball Ever | 37.00% | ~270 |

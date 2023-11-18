@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -1356,8 +1356,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:08:00.5339446+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:08:25.1810632+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:18.6111485+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:57:30.7215878+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:08:00.5339703+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:57:17.5912214+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:08:25.1811022+00:00"
 }

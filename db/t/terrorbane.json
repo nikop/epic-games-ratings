@@ -4,7 +4,7 @@
   "ProductSlug": "terrorbane-437dd3",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "Achievement_05",
       "SetID": "6jd5kdh",
       "Name": "System shocked",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement_06",
@@ -193,9 +193,9 @@
       "ID": "Achievement_11",
       "SetID": "6jd5kdh",
       "Name": "Expos\u00E9",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement_12",
@@ -314,8 +314,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2023-11-18T11:06:01.4798293+00:00",
+  "LastChanged_Achievements": "2023-11-18T12:05:58.4429177+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.1291901+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:02:58.1445174+00:00",
-  "LastUpdate_Achievements": "2023-11-18T11:06:01.4798412+00:00"
+  "LastUpdate_Ratings": "2023-11-18T12:02:55.8526845+00:00",
+  "LastUpdate_Achievements": "2023-11-18T12:05:58.4429304+00:00"
 }
