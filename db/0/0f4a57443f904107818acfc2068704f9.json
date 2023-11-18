@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -512,6 +512,11 @@
       "Time": "2023-11-18T21:06:25.0705114+00:00",
       "NumProgressed": 217,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T22:02:56.0046148+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -538,9 +543,9 @@
       "ID": "Capture100VictoryPoints",
       "SetID": "52ail55",
       "Name": "Chosen Victor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -554,9 +559,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -578,9 +583,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "CompleteChapter10",
@@ -620,7 +625,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter15",
@@ -628,7 +633,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter16",
@@ -636,7 +641,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter17",
@@ -644,7 +649,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -660,23 +665,23 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "CompleteChapter4",
@@ -714,9 +719,9 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteChapter9",
@@ -772,7 +777,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Win100OnlineMatched",
@@ -796,7 +801,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Win50ConquestBattles",
@@ -819,14 +824,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 219,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:06:25.070511+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:02:56.0046144+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:02:37.0944031+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:06:25.070538+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:58:36.9357959+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:02:56.0046491+00:00"
 }

@@ -140,6 +140,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sakoku Law | 0.10% | ~459 |
 | Seriously?! | 0.10% | ~459 |
 | Shahanshah | 0.10% | ~459 |
+| The Six Nations | 0.10% | ~459 |
 | Sleepless in Seattle | 0.10% | ~459 |
 | Spain is the Emperor | 0.10% | ~459 |
 | Spice Girls | 0.10% | ~459 |
@@ -320,7 +321,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Shemot is Not | 0.00% | ~0 |
 | Sikh Pun | 0.00% | ~0 |
 | Sinaasappel! | 0.00% | ~0 |
-| The Six Nations | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Spanish Fly | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,686 (Ranked 41)  
+Progressed: 458,733 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 458,686 | 1 |
+| 2023-11-18 | 458,733 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
 Sum: 58,112 (Ranked 24)  

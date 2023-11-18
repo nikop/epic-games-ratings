@@ -11,16 +11,16 @@
 | Pushover | 28.00% | ~114 |
 | C-C-C-Combo! | 26.00% | ~106 |
 | Multiply that! | 26.00% | ~106 |
-| Fore! | 23.00% | ~93 |
-| The Collector | 23.00% | ~93 |
-| Insurance fraud | 23.00% | ~93 |
-| Snow Fun! | 23.00% | ~93 |
-| To and Fro | 22.00% | ~89 |
-| The Wild West | 22.00% | ~89 |
-| Bag of Tricks | 22.00% | ~89 |
-| I see the light! | 22.00% | ~89 |
-| In the Bag! | 22.00% | ~89 |
-| You're it | 22.00% | ~89 |
+| Fore! | 23.00% | ~94 |
+| The Collector | 23.00% | ~94 |
+| Insurance fraud | 23.00% | ~94 |
+| Snow Fun! | 23.00% | ~94 |
+| To and Fro | 22.00% | ~90 |
+| The Wild West | 22.00% | ~90 |
+| Bag of Tricks | 22.00% | ~90 |
+| I see the light! | 22.00% | ~90 |
+| In the Bag! | 22.00% | ~90 |
+| You're it | 22.00% | ~90 |
 | First Come, First Serve | 21.00% | ~85 |
 | Goodbye cruel world | 21.00% | ~85 |
 | Car-Tapult | 20.00% | ~81 |
@@ -32,9 +32,9 @@
 | Event Amateur | 18.00% | ~73 |
 | Feeling Hot Hot Hot! | 17.00% | ~69 |
 | Feeling Dizzy? | 17.00% | ~69 |
-| Ferry Good! | 17.00% | ~69 |
-| Assert Dominance | 17.00% | ~69 |
 | Drift King! | 16.00% | ~65 |
+| Ferry Good! | 16.00% | ~65 |
+| Assert Dominance | 16.00% | ~65 |
 | Speed of light | 16.00% | ~65 |
 | Out of this League | 13.00% | ~53 |
 | Special Forces | 12.00% | ~49 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 320)  
+Progressed: 407 (Ranked 320)  
 Completed: 2 (0.49%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 2 (0.49%) (Ranked 201)
 | 2023-11-06 | 404 | 2 |
 | 2023-11-09 | 405 | 2 |
 | 2023-11-10 | 406 | 2 |
+| 2023-11-18 | 407 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

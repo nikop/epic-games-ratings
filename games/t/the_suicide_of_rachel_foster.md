@@ -11,7 +11,7 @@ Number of Ratings: 71  (23.09.2022)
 | Is she really dead? | 46.00% | ~777 |
 | Screwdriver | 44.00% | ~744 |
 | Cutepie | 41.00% | ~693 |
-| Someone was here | 40.00% | ~676 |
+| Someone was here | 41.00% | ~693 |
 | Ghost Hunters | 40.00% | ~676 |
 | Alone | 39.00% | ~659 |
 | Pack Rat | 39.00% | ~659 |

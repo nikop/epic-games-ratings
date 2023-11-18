@@ -5,40 +5,40 @@ Rating: 4.18 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,075 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,816 |
-| Loose Ends | 34.00% | ~26,050 |
-| To the Victor Go the Spoils | 28.00% | ~21,453 |
-| Knighthood | 27.00% | ~20,687 |
-| Get ReQ'd | 25.00% | ~19,154 |
-| Whispered Words | 25.00% | ~19,154 |
-| The Batman Family | 23.00% | ~17,622 |
-| Lock and Key | 22.00% | ~16,856 |
-| Something in the Clay | 21.00% | ~16,090 |
-| Quartzer Life Crisis | 21.00% | ~16,090 |
-| Working Hard or Harley Working? | 20.00% | ~15,323 |
-| Unstoppable Force | 20.00% | ~15,323 |
-| Bad Apples in Every Orchard | 20.00% | ~15,323 |
-| Snow Problem | 19.00% | ~14,557 |
-| The Show Mud Go On | 18.00% | ~13,791 |
-| From Inside Gotham's Walls | 18.00% | ~13,791 |
-| Protector of Gotham | 17.00% | ~13,025 |
-| Universal Health Scare | 16.00% | ~12,259 |
+| First Step Into the Knight | 51.00% | ~39,077 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,818 |
+| Loose Ends | 34.00% | ~26,051 |
+| To the Victor Go the Spoils | 28.00% | ~21,454 |
+| Knighthood | 27.00% | ~20,688 |
+| Get ReQ'd | 25.00% | ~19,156 |
+| Whispered Words | 25.00% | ~19,156 |
+| The Batman Family | 23.00% | ~17,623 |
+| Lock and Key | 22.00% | ~16,857 |
+| Something in the Clay | 21.00% | ~16,091 |
+| Quartzer Life Crisis | 21.00% | ~16,091 |
+| Working Hard or Harley Working? | 20.00% | ~15,324 |
+| Unstoppable Force | 20.00% | ~15,324 |
+| Bad Apples in Every Orchard | 20.00% | ~15,324 |
+| Snow Problem | 19.00% | ~14,558 |
+| The Show Mud Go On | 18.00% | ~13,792 |
+| From Inside Gotham's Walls | 18.00% | ~13,792 |
+| Protector of Gotham | 17.00% | ~13,026 |
+| Universal Health Scare | 16.00% | ~12,260 |
 | In Your Element | 15.00% | ~11,493 |
 | Voiceless | 15.00% | ~11,493 |
-| Rock and a Hard Place | 14.00% | ~10,726 |
-| Cooldown | 14.00% | ~10,726 |
-| Seeking Asylum | 14.00% | ~10,726 |
-| Not On My Watch | 13.00% | ~9,960 |
-| Shock Til They Drop | 13.00% | ~9,960 |
-| End of an Era | 12.00% | ~9,194 |
-| Bulldozed | 12.00% | ~9,194 |
-| Gotham Knight | 12.00% | ~9,194 |
+| Rock and a Hard Place | 14.00% | ~10,727 |
+| Cooldown | 14.00% | ~10,727 |
+| Seeking Asylum | 14.00% | ~10,727 |
+| Not On My Watch | 13.00% | ~9,961 |
+| Shock Til They Drop | 13.00% | ~9,961 |
+| End of an Era | 12.00% | ~9,195 |
+| Bulldozed | 12.00% | ~9,195 |
+| Gotham Knight | 12.00% | ~9,195 |
 | Gotham City Confidential | 11.00% | ~8,428 |
 | Drone You Out | 10.00% | ~7,662 |
 | Out of Their League | 9.00% | ~6,896 |
 | Solid Alibi | 9.00% | ~6,896 |
-| Fusion Expert | 7.00% | ~5,363 |
+| Fusion Expert | 7.00% | ~5,364 |
 | Expert Crime Fighter | 6.00% | ~4,597 |
 | Family Meeting | 6.00% | ~4,597 |
 | A Worthy Successor | 6.00% | ~4,597 |
@@ -58,7 +58,7 @@ Rating: 4.18 (Ranked 929)
 | Gotham's Greatest Depths | 0.60% | ~281 |
 | Don't Mecha Big Deal About It | 0.60% | ~281 |
 | Confronting Your Demon | 0.60% | ~281 |
-| That's Showbiz, Clayby | 0.50% | ~234 |
+| That's Showbiz, Clayby | 0.50% | ~235 |
 | Hammer and Icicle | 0.40% | ~188 |
 | Renewable Enemy Source | 0.40% | ~188 |
 | Crime Is a Terrible Thing to Waste | 0.40% | ~188 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 929)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,617 (Ranked 99)  
+Progressed: 76,622 (Ranked 99)  
 Completed: 123 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,14 +279,14 @@ Completed: 123 (0.16%) (Ranked 263)
 | 2023-11-15 | 76,468 | 123 |
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
-| 2023-11-18 | 76,617 | 123 |
+| 2023-11-18 | 76,622 | 123 |
 ## Awards
-Max (Great Boss Battles): 2,949  (Ranked 98)  
-Sum: 5,008 (Ranked 138)  
+Max (Great Boss Battles): 2,951  (Ranked 98)  
+Sum: 5,010 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,949 |
+| This game has Great Boss Battles | 2,951 |
 | This game is Extremely Fun | 263 |
 | This game has Diverse Characters | 262 |
 | This game has Quickly Understood Controls | 260 |
@@ -565,4 +565,4 @@ Diff (max vs sum): -40
 | 2023-11-15 | 4.18 | 2,944 | 4,993 |
 | 2023-11-16 | 4.18 | 2,946 | 4,997 |
 | 2023-11-17 | 4.18 | 2,949 | 5,002 |
-| 2023-11-18 | 4.18 | 2,949 | 5,008 |
+| 2023-11-18 | 4.18 | 2,951 | 5,010 |

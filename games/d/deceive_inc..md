@@ -14,15 +14,15 @@ Rating: 4.57 (Ranked 469)
 | Tailor-Made | 18.00% | ~3,395 |
 | For your Eyes only | 18.00% | ~3,395 |
 | Assistant Accountant | 17.00% | ~3,206 |
-| You Only Live Twice | 16.00% | ~3,017 |
-| Fully Decked Out | 16.00% | ~3,017 |
+| You Only Live Twice | 16.00% | ~3,018 |
+| Fully Decked Out | 16.00% | ~3,018 |
 | A view to Win | 13.00% | ~2,452 |
 | The Living Portrait | 12.00% | ~2,263 |
 | Smells Like Trouble | 12.00% | ~2,263 |
-| My Motto, My Creed | 11.00% | ~2,074 |
-| Private Collection | 11.00% | ~2,074 |
-| Killer Looks | 11.00% | ~2,074 |
-| Hostile Takeover | 11.00% | ~2,074 |
+| My Motto, My Creed | 11.00% | ~2,075 |
+| Private Collection | 11.00% | ~2,075 |
+| Killer Looks | 11.00% | ~2,075 |
+| Hostile Takeover | 11.00% | ~2,075 |
 | Keycards Royale | 10.00% | ~1,886 |
 | Dr. No Kill | 10.00% | ~1,886 |
 | In It to Win It | 9.00% | ~1,697 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 469)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,859 (Ranked 140)  
+Progressed: 18,860 (Ranked 140)  
 Completed: 4 (0.02%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 4 (0.02%) (Ranked 324)
 | 2023-11-15 | 18,843 | 4 |
 | 2023-11-16 | 18,849 | 4 |
 | 2023-11-17 | 18,852 | 4 |
-| 2023-11-18 | 18,859 | 4 |
+| 2023-11-18 | 18,860 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

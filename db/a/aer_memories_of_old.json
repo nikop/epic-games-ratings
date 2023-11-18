@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24427,
+  "EOS_Progressed": 24430,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
@@ -23238,6 +23238,11 @@
       "Time": "2023-11-18T21:11:04.8326272+00:00",
       "NumProgressed": 24427,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-11-18T22:06:10.9363729+00:00",
+      "NumProgressed": 24430,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 20,
@@ -23257,7 +23262,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "EAST_FINISHED",
@@ -23273,7 +23278,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -23305,7 +23310,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -23361,7 +23366,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "INTRO_FINISHED",
@@ -23369,7 +23374,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18809
+      "UsersEstimate": 18811
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23377,7 +23382,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23408,15 +23413,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24427,
+      "Progressed": 24430,
       "Completed": 469
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:11:04.832627+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:06:10.9363726+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:02:19.9391552+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:11:04.8327366+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:58:25.5577833+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:06:10.9364749+00:00"
 }

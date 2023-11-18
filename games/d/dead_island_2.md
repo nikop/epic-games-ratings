@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~919 |
-| Whatever It Takes | 2.00% | ~919 |
-| Pork Chopped | 2.00% | ~919 |
+| One of Us | 2.00% | ~920 |
+| Whatever It Takes | 2.00% | ~920 |
+| Pork Chopped | 2.00% | ~920 |
 | Break A Leg | 1.00% | ~7,204 |
 | Hotel California | 1.00% | ~7,204 |
 | Welcome To Hell-A | 1.00% | ~7,204 |
@@ -31,10 +31,10 @@ Rating: 4.54 (Ranked 523)
 | Ooh, Shiny! | 0.70% | ~5,043 |
 | A Patton Emerges | 0.70% | ~5,043 |
 | Our True Nature | 0.70% | ~5,043 |
-| Making Your Mark | 0.60% | ~4,322 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,322 |
-| I Am the Resurrection | 0.60% | ~4,322 |
-| Max Headroom | 0.60% | ~4,322 |
+| Making Your Mark | 0.60% | ~4,323 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,323 |
+| I Am the Resurrection | 0.60% | ~4,323 |
+| Max Headroom | 0.60% | ~4,323 |
 | Not Even My Final Form | 0.50% | ~3,602 |
 | Humanity Distilled | 0.50% | ~3,602 |
 | Down with the Sickness | 0.50% | ~3,602 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,406 (Ranked 20)  
-Completed: 2,408 (0.33%) (Ranked 226)  
+Progressed: 720,436 (Ranked 20)  
+Completed: 2,409 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,7 +269,7 @@ Completed: 2,408 (0.33%) (Ranked 226)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 720,406 | 2,408 |
+| 2023-11-18 | 720,436 | 2,409 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 52)  
 Sum: 11,489 (Ranked 84)  

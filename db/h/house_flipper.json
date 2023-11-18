@@ -1987,10 +1987,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2247,
       "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2023-11-18T21:56:53.1474887+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2248,
+      "NumberOfAwardsMax": 320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2247,
+  "NumberOfAwards": 2248,
   "NumberOfAwardsMax": 320,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2052,7 +2058,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 163
+      "Count": 164
     },
     {
       "Text": "This game has a Creative Community",
@@ -2061,9 +2067,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21312,
+  "EOS_Progressed": 21313,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10426,6 +10432,11 @@
       "Time": "2023-11-18T18:04:10.8868415+00:00",
       "NumProgressed": 21312,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-18T22:03:16.9134449+00:00",
+      "NumProgressed": 21313,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10445,7 +10456,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ChangChoi",
@@ -10485,7 +10496,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20246
+      "UsersEstimate": 20247
     },
     {
       "ID": "GameOver",
@@ -10493,7 +10504,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "GorgioShanua",
@@ -10573,7 +10584,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "SeniorEstateAgent",
@@ -10620,15 +10631,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21312,
+      "Progressed": 21313,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-11-18T20:59:56.5067492+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:06:55.1660637+00:00",
+  "LastChanged": "2023-11-18T21:56:53.1474882+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:03:16.9134444+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:56:56.4663346+00:00",
-  "LastUpdate_Ratings": "2023-11-18T20:59:56.5067498+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:06:55.1661117+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:56:53.147489+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:03:16.913496+00:00"
 }

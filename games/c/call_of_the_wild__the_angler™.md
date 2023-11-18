@@ -21,13 +21,13 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 0.80% | ~53 |
 | I'm Hooked! | 0.60% | ~39 |
 | Marathon | 0.30% | ~20 |
+| More than a Tourist | 0.20% | ~13 |
 | I'm the Captain Now | 0.20% | ~13 |
 | Diamond in the Rough | 0.20% | ~13 |
 | No Fin left to give | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
 | All Good Kings Must Come to an End | 0.20% | ~12 |
-| More than a Tourist | 0.10% | ~7 |
 | Hook, Line and Sinker | 0.10% | ~7 |
 | Head for Heights | 0.10% | ~7 |
 | The Beetles | 0.10% | ~7 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,565 (Ranked 181)  
+Progressed: 6,568 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 6,530 | 0 |
 | 2023-11-16 | 6,544 | 0 |
 | 2023-11-17 | 6,554 | 0 |
-| 2023-11-18 | 6,565 | 0 |
+| 2023-11-18 | 6,568 | 0 |
 ## Awards
 Max (Relaxing): 37  (Ranked 463)  
 Sum: 195 (Ranked 401)  

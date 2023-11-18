@@ -19,11 +19,11 @@
 | Boom Things | 55.00% | ~407 |
 | Tear of Freedom | 54.00% | ~400 |
 | My Darkest Day | 50.00% | ~370 |
-| Rhythm Of Willump | 48.00% | ~355 |
+| Rhythm Of Willump | 49.00% | ~363 |
 | The Relentless Storm | 48.00% | ~355 |
 | A Tragic Reminder | 46.00% | ~340 |
 | 3000 Year Blackout | 45.00% | ~333 |
-| The Finisher | 43.00% | ~318 |
+| The Finisher | 44.00% | ~326 |
 | So Close | 41.00% | ~303 |
 | You Get Used To It | 41.00% | ~303 |
 | True Legends | 41.00% | ~303 |
@@ -42,7 +42,7 @@
 | Yummy | 12.00% | ~89 |
 | Snowball Fightn't | 10.00% | ~74 |
 | It Was Him | 8.00% | ~59 |
-| Handy Yeti | 7.00% | ~52 |
+| Handy Yeti | 8.00% | ~59 |
 | The Pied Piper Of Freljord | 6.00% | ~44 |
 | Braum's Poro Ranch | 4.00% | ~30 |
 | We Are Speed | 3.00% | ~22 |

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~101 |
+| First Step | 53.00% | ~102 |
 | The 4 Pillars | 50.00% | ~96 |
 | Capitalism | 21.00% | ~40 |
-| Great Producer | 12.00% | ~23 |
-| Green Energy | 12.00% | ~23 |
 | There's something in those trees | 11.00% | ~21 |
+| Great Producer | 11.00% | ~21 |
+| Green Energy | 11.00% | ~21 |
 | Desert Power | 10.00% | ~19 |
 | Indebted | 10.00% | ~19 |
 | Desert Rat | 9.00% | ~17 |
@@ -19,11 +19,11 @@
 | Good payer | 7.00% | ~13 |
 | Food Tycoon | 7.00% | ~13 |
 | Fuel Tycoon | 7.00% | ~13 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~11 |
-| Healing | 6.00% | ~11 |
-| Overpopulation | 6.00% | ~11 |
-| Pathfinder | 6.00% | ~11 |
-| Self-sufficient | 6.00% | ~11 |
+| Jantine: the Misfortunes of Evil | 6.00% | ~12 |
+| Healing | 6.00% | ~12 |
+| Overpopulation | 6.00% | ~12 |
+| Pathfinder | 6.00% | ~12 |
+| Self-sufficient | 6.00% | ~12 |
 | Outdoor Decorator | 5.00% | ~10 |
 | Property Bro | 5.00% | ~10 |
 | Medicine Tycoon | 5.00% | ~10 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191 (Ranked 384)  
+Progressed: 192 (Ranked 384)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,3 +115,4 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-01 | 189 | 0 |
 | 2023-11-04 | 190 | 0 |
 | 2023-11-10 | 191 | 0 |
+| 2023-11-18 | 192 | 0 |

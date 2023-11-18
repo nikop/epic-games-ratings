@@ -23,7 +23,7 @@
 | Grave Digger | 22.00% | ~63 |
 | Professional Survivor | 20.00% | ~57 |
 | Pork Chop Express | 19.00% | ~64 |
-| Skin Of Your Teeth | 17.00% | ~57 |
+| Skin Of Your Teeth | 18.00% | ~60 |
 | Carrocketeer | 16.00% | ~54 |
 | This Is My Boomstick | 16.00% | ~46 |
 | Getting Started | 15.00% | ~50 |

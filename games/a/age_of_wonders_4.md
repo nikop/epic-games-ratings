@@ -25,12 +25,12 @@ Rating: 4.61 (Ranked 385)
 | Sehiran Oasis | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
 | Seal the Deal | 0.80% | ~43 |
+| Enchanted Archipelago | 0.70% | ~38 |
 | Digging for Treasure | 0.70% | ~38 |
 | Impenetrable Fortress | 0.70% | ~38 |
 | Here be Dragons | 0.70% | ~38 |
 | Tipping the Scales | 0.70% | ~38 |
 | Dawn of the Dread | 0.70% | ~38 |
-| Enchanted Archipelago | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Fiery Friend | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |

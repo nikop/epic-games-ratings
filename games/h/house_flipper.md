@@ -6,9 +6,9 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,246 |
+| First money | 95.00% | ~20,247 |
 | Strongman | 31.00% | ~6,607 |
-| Alpha Male | 20.00% | ~4,262 |
+| Alpha Male | 20.00% | ~4,263 |
 | Just Enough | 19.00% | ~4,049 |
 | Pro-creative | 18.00% | ~3,836 |
 | Worth Every Penny | 14.00% | ~2,984 |
@@ -24,13 +24,13 @@ Number of Ratings: 1,023  (23.09.2022)
 | You do it wrong | 1.00% | ~213 |
 | Wall Street Shark | 0.90% | ~192 |
 | Negotiator | 0.90% | ~192 |
-| Car Mechanic | 0.80% | ~170 |
-| Game Over | 0.80% | ~170 |
+| Car Mechanic | 0.80% | ~171 |
+| Game Over | 0.80% | ~171 |
 | Nerd | 0.60% | ~128 |
 | Do it ASAP | 0.60% | ~128 |
 | Senior Estate Agent | 0.60% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,312 (Ranked 133)  
+Progressed: 21,313 (Ranked 133)  
 Completed: 21 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,10 +241,10 @@ Completed: 21 (0.10%) (Ranked 279)
 | 2023-11-15 | 21,295 | 21 |
 | 2023-11-16 | 21,300 | 21 |
 | 2023-11-17 | 21,307 | 21 |
-| 2023-11-18 | 21,312 | 21 |
+| 2023-11-18 | 21,313 | 21 |
 ## Awards
 Max (Great for Beginners): 320  (Ranked 247)  
-Sum: 2,247 (Ranked 203)  
+Sum: 2,248 (Ranked 203)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -258,7 +258,7 @@ Diff (max vs sum): 44
 | This game has Amazing Storytelling | 214 |
 | This game has Amazing Characters | 190 |
 | This game has Obsessive Gameplay | 173 |
-| This game has Easy Combat | 163 |
+| This game has Easy Combat | 164 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -436,4 +436,4 @@ Diff (max vs sum): 44
 | 2023-11-09 | 4.69 | - | 319 | 2,244 |
 | 2023-11-15 | 4.69 | - | 320 | 2,245 |
 | 2023-11-17 | 4.69 | - | 320 | 2,246 |
-| 2023-11-18 | 4.69 | - | 320 | 2,247 |
+| 2023-11-18 | 4.69 | - | 320 | 2,248 |

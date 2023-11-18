@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 4.00% | ~615 |
 | Intrepid | 4.00% | ~615 |
 | Mason | 4.00% | ~615 |
+| Pioneer | 4.00% | ~615 |
 | Strong | 4.00% | ~615 |
 | Hanging Gardens | 4.00% | ~615 |
 | Ambitious | 3.00% | ~461 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 3.00% | ~461 |
 | Magnificent | 3.00% | ~461 |
 | Noble | 3.00% | ~461 |
-| Pioneer | 3.00% | ~461 |
 | Warrior | 3.00% | ~461 |
 | Developing Cities | 3.00% | ~461 |
 | Strong Cities | 3.00% | ~461 |
@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 3.00% | ~461 |
 | Oracle | 3.00% | ~461 |
 | Pyramids | 3.00% | ~461 |
+| Learn to Play 1 | 3.00% | ~461 |
 | Christianity | 3.00% | ~461 |
 | Judaism | 3.00% | ~461 |
 | Babylonian Paganism | 3.00% | ~461 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 2.00% | ~308 |
 | Musaeum | 2.00% | ~308 |
 | Necropolis | 2.00% | ~308 |
-| Learn to Play 1 | 2.00% | ~308 |
 | Learn to Play 2 | 2.00% | ~308 |
 | Manichaeism | 2.00% | ~308 |
 | Carthaginian Paganism | 2.00% | ~308 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,377 (Ranked 149)  
+Progressed: 15,379 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
-| 2023-11-18 | 15,377 | 5 |
+| 2023-11-18 | 15,379 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

@@ -8910,9 +8910,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65379,
+  "EOS_Progressed": 65381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31235,6 +31235,11 @@
       "Time": "2023-11-18T21:12:55.8740355+00:00",
       "NumProgressed": 65379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T22:08:57.657882+00:00",
+      "NumProgressed": 65381,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31246,7 +31251,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "Apple of my eye",
@@ -31374,7 +31379,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "Great Granny",
@@ -31438,7 +31443,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11768
+      "UsersEstimate": 11769
     },
     {
       "ID": "Kingslayer",
@@ -31470,7 +31475,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21575
+      "UsersEstimate": 21576
     },
     {
       "ID": "Lawbringer",
@@ -31606,7 +31611,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8499
+      "UsersEstimate": 8500
     },
     {
       "ID": "This is Sparta",
@@ -31653,15 +31658,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65379,
+      "Progressed": 65381,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-18T17:58:27.1416995+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:12:55.8740351+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:08:57.6578815+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:01:11.2992655+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:12:55.8741474+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:57:41.7064443+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:08:57.6580008+00:00"
 }

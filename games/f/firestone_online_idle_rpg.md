@@ -17,10 +17,10 @@ Rating: 4.12 (Ranked 961)
 | Dragon Clicker | 17.00% | ~418 |
 | Inspection | 16.00% | ~393 |
 | Miner Clicker | 16.00% | ~393 |
+| Enlightenment | 15.00% | ~368 |
 | Full Party | 15.00% | ~368 |
+| Hero inspection | 15.00% | ~368 |
 | Dragon Master | 14.00% | ~344 |
-| Enlightenment | 14.00% | ~344 |
-| Hero inspection | 14.00% | ~344 |
 | Lieutenant | 14.00% | ~344 |
 | Mysterious Rock | 13.00% | ~319 |
 | Natural Talent | 13.00% | ~319 |

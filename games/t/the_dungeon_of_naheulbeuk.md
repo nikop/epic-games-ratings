@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.59 (Ranked 430)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,316 |
-| Alt+F4 | 8.00% | ~19,044 |
-| Where's that freaking Dwarf? | 7.00% | ~16,663 |
-| Déjà vu | 6.00% | ~14,283 |
-| Sock! SOCK! | 5.00% | ~11,902 |
+| Sowwy! | 35.00% | ~83,321 |
+| Alt+F4 | 8.00% | ~19,045 |
+| Where's that freaking Dwarf? | 7.00% | ~16,664 |
+| Déjà vu | 6.00% | ~14,284 |
+| Sock! SOCK! | 5.00% | ~11,903 |
 | A beer, two curses, three companions | 4.00% | ~9,522 |
 | GG EZ | 4.00% | ~9,522 |
 | DM intervention | 4.00% | ~9,522 |
 | Speedrun | 4.00% | ~9,522 |
 | Fireproof Wizardess | 4.00% | ~9,522 |
-| Livin' in a dwarven paradise | 3.00% | ~7,141 |
-| Way of the Wimp | 3.00% | ~7,141 |
-| The plot thickens... At the tavern | 3.00% | ~7,141 |
+| Livin' in a dwarven paradise | 3.00% | ~7,142 |
+| Way of the Wimp | 3.00% | ~7,142 |
+| The plot thickens... At the tavern | 3.00% | ~7,142 |
 | Shiny and Crôm | 2.00% | ~4,761 |
 | The demons' feast | 2.00% | ~4,761 |
 | The Great Library | 2.00% | ~4,761 |
@@ -37,14 +37,14 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,761 |
 | Team Building Exercise | 2.00% | ~4,761 |
 | Oh, when I'll be level 10... | 2.00% | ~4,761 |
-| Dwarf Fortress | 1.00% | ~2,380 |
-| %#*!$*! | 1.00% | ~2,380 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,380 |
-| Dead for good | 1.00% | ~2,380 |
-| Gargantua | 1.00% | ~2,380 |
-| Lust and Debauchery | 1.00% | ~2,380 |
-| Material Girl | 1.00% | ~2,380 |
-| In Navalu's footsteps | 0.90% | ~2,142 |
+| Dwarf Fortress | 1.00% | ~2,381 |
+| %#*!$*! | 1.00% | ~2,381 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,381 |
+| Dead for good | 1.00% | ~2,381 |
+| Gargantua | 1.00% | ~2,381 |
+| Lust and Debauchery | 1.00% | ~2,381 |
+| Material Girl | 1.00% | ~2,381 |
+| In Navalu's footsteps | 0.90% | ~2,143 |
 | Lëgal Legend | 0.80% | ~1,904 |
 | We come in peace | 0.70% | ~1,666 |
 | Holistic Adventuring Party | 0.60% | ~1,428 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,046 (Ranked 62)  
+Progressed: 238,059 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,20 +266,20 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-15 | 237,338 | 7 |
 | 2023-11-16 | 237,548 | 7 |
 | 2023-11-17 | 237,757 | 7 |
-| 2023-11-18 | 238,046 | 7 |
+| 2023-11-18 | 238,059 | 7 |
 ## Awards
 Max (Character Customization): 231  (Ranked 272)  
-Sum: 464 (Ranked 331)  
+Sum: 467 (Ranked 331)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 231 |
 | This game is Relaxing | 37 |
-| This game is Great for Beginners | 32 |
+| This game is Great for Beginners | 34 |
 | This game has Quickly Understood Controls | 30 |
 | This game is Highly Recommended | 29 |
 | This game has Amazing Storytelling | 29 |
-| This game has Amazing Characters | 26 |
+| This game has Amazing Characters | 27 |
 | This game has Diverse Characters | 26 |
 | This game is Extremely Fun | 24 |
 ## Ratings History
@@ -463,4 +463,4 @@ Diff (max vs sum): -59
 | 2023-11-12 | 4.58 | - | 228 | 458 |
 | 2023-11-14 | 4.58 | - | 229 | 460 |
 | 2023-11-16 | 4.58 | - | 230 | 463 |
-| 2023-11-18 | 4.58 | - | 231 | 464 |
+| 2023-11-18 | 4.59 | - | 231 | 467 |

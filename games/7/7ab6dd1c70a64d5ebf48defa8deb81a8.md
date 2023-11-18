@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 5.00% | ~10 |
+| Trinity | 6.00% | ~12 |
 | I Found It | 5.00% | ~10 |
 | Adventurer | 4.00% | ~8 |
 | Scholar | 4.00% | ~8 |
@@ -17,26 +17,26 @@
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Tributes of Caladrias | 2.00% | ~4 |
+| Big Bazar | 2.00% | ~4 |
 | Fashion Victim | 2.00% | ~4 |
+| Stone Collection | 2.00% | ~4 |
 | Airborne | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
-| Big Bazar | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
-| Stone Collection | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
+| The Mentor | 0.50% | ~1 |
+| Shatterer | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
 | A Taste of Wrath | 0.00% | ~0 |
-| Shatterer | 0.00% | ~0 |
+| Shardbearer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
-| The Mentor | -0.50% | ~-1 |
 | Forgemaster | -0.50% | ~-1 |
-| Shardbearer | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.00% | ~-2 |

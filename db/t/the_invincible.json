@@ -466,17 +466,17 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvBombStop",
@@ -522,9 +522,9 @@
       "ID": "AchvDoom",
       "SetID": "1hj060c",
       "Name": "The Invincible",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "AchvEvacuate",
@@ -618,9 +618,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "AchvReachCamp",
@@ -642,9 +642,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "AchvSurvivors",
@@ -666,9 +666,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AchvUnity",
@@ -689,8 +689,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:11:44.571393+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:08:07.3527329+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:04:52.0778434+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:11:44.5714129+00:00"
+  "LastUpdate_Ratings": "2023-11-18T22:00:02.5074101+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:08:07.3527753+00:00"
 }

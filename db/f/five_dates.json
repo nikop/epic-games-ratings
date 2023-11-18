@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 645,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -1550,6 +1550,11 @@
       "Time": "2023-11-18T17:10:05.5489814+00:00",
       "NumProgressed": 644,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-18T22:08:45.2860276+00:00",
+      "NumProgressed": 645,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1561,7 +1566,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "booty_call",
@@ -1585,15 +1590,15 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 425
+      "UsersEstimate": 419
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1625,7 +1630,7 @@
       "Name": "Not Alone",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "nueva_beginnings",
@@ -1633,7 +1638,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1680,7 +1685,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 645,
       "Completed": 11
     }
   ],
@@ -1688,8 +1693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:12:38.3472039+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:08:45.2860268+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:39.9190585+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:03:30.6895254+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:12:38.3472215+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:59:10.4053438+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:08:45.286045+00:00"
 }

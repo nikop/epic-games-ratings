@@ -477,7 +477,7 @@
   ],
   "EOS_Progressed": 2456,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7582,9 +7582,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 368
     },
     {
       "ID": "exoticmerchant",
@@ -7662,9 +7662,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 368
     },
     {
       "ID": "howdoyouturnthison",
@@ -8023,8 +8023,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:12:08.3094077+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:08:24.2552764+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:01:05.1934463+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:12:08.3094892+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:57:37.9166851+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:08:24.255362+00:00"
 }

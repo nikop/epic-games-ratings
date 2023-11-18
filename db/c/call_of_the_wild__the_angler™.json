@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6565,
+  "EOS_Progressed": 6568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10138,6 +10138,11 @@
       "Time": "2023-11-18T21:06:54.9764396+00:00",
       "NumProgressed": 6565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T22:03:16.8095924+00:00",
+      "NumProgressed": 6568,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10227,9 +10232,9 @@
       "ID": "ACHIEVEMENT_011",
       "SetID": "1a05lfd",
       "Name": "More than a Tourist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -10468,13 +10473,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6565,
+      "Progressed": 6568,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5937,
+      "Progressed": 5940,
       "Completed": 113
     }
   ],
@@ -10482,8 +10487,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-17T16:57:26.9437298+00:00",
-  "LastChanged_Achievements": "2023-11-18T21:06:54.9764393+00:00",
+  "LastChanged_Achievements": "2023-11-18T22:03:16.8095921+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-18T21:01:18.5722027+00:00",
-  "LastUpdate_Achievements": "2023-11-18T21:06:54.9764952+00:00"
+  "LastUpdate_Ratings": "2023-11-18T21:57:46.3809696+00:00",
+  "LastUpdate_Achievements": "2023-11-18T22:03:16.8096478+00:00"
 }
