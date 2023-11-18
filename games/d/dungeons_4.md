@@ -22,11 +22,11 @@
 | The Ascent | 44.00% | ~128 |
 | It's Warm and Cozy at Home | 44.00% | ~128 |
 | YOU SHALL NOT PASS! | 43.00% | ~125 |
-| Hard Work | 39.00% | ~113 |
+| Hard Work | 40.00% | ~116 |
 | The Big Eaty | 39.00% | ~113 |
 | Pure Dynamite! | 37.00% | ~108 |
 | Mana Cannon | 33.00% | ~96 |
-| “… like son” | 32.00% | ~93 |
+| “… like son” | 33.00% | ~96 |
 | Dungeonlord Gorgu | 27.00% | ~79 |
 | The Cathedral of Light | 26.00% | ~76 |
 | Shame! Shame! Shame! | 26.00% | ~76 |

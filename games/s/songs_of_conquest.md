@@ -9,12 +9,13 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 21.00% | ~20 |
 | Double Kill | 16.00% | ~15 |
 | Veteran | 5.00% | ~5 |
+| Dressed For Success | 4.00% | ~4 |
 | Critical Hit | 4.00% | ~4 |
 | Sorcerous Spree | 4.00% | ~4 |
-| Dressed For Success | 3.00% | ~3 |
 | Versatile Wielder | 1.00% | ~1 |
 | Infernal Influence | 1.00% | ~1 |
 | Multi Kill | 1.00% | ~1 |
+| Whoops! | 1.00% | ~1 |
 | Don't Touch My Stuff | 1.00% | ~1 |
 | Such A Fungi | 1.00% | ~1 |
 | Humiliation | 1.00% | ~1 |
@@ -44,7 +45,6 @@ Number of Ratings: 292  (23.09.2022)
 | Proof That Luck Can Be Consistent | 0.00% | ~0 |
 | Oops! | 0.00% | ~0 |
 | Death From Above | 0.00% | ~0 |
-| Whoops! | 0.00% | ~0 |
 | From the Ashes | 0.00% | ~0 |
 | The Marsh Expands | 0.00% | ~0 |
 | Get Over Here! | 0.00% | ~0 |

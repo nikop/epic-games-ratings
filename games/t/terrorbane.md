@@ -7,9 +7,9 @@
 | First contact | 102.00% | ~43 |
 | System shocked | 64.00% | ~27 |
 | Exposé | 57.00% | ~24 |
-| Blade of prophecy | 45.00% | ~19 |
-| Normal end | 43.00% | ~18 |
-| C Rank Bug-catcher | 40.00% | ~17 |
+| Blade of prophecy | 48.00% | ~20 |
+| Normal end | 45.00% | ~19 |
+| C Rank Bug-catcher | 43.00% | ~18 |
 | Armed robbery | 38.00% | ~16 |
 | Never learn | 33.00% | ~14 |
 | B Rank Bug-catcher | 26.00% | ~11 |
@@ -21,9 +21,9 @@
 | S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |
 | Deepest lore | 10.00% | ~4 |
+| Pool party | 5.00% | ~2 |
 | Thanks for Buying | 2.00% | ~1 |
 | Brute forcing | 2.00% | ~1 |
-| Pool party | 2.00% | ~1 |
 | You never know! | 0.00% | ~0 |
 | Higher on the street | 0.00% | ~0 |
 | Dance machine | 0.00% | ~0 |

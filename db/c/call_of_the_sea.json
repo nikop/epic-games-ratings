@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130256,
+  "EOS_Progressed": 130258,
   "EOS_Completed": 1120,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -24372,6 +24372,11 @@
       "Time": "2023-11-18T02:27:02.756613+00:00",
       "NumProgressed": 130256,
       "NumCompleted": 1120
+    },
+    {
+      "Time": "2023-11-18T03:06:16.0960999+00:00",
+      "NumProgressed": 130258,
+      "NumCompleted": 1120
     }
   ],
   "TotalAchievements": 34,
@@ -24407,7 +24412,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37774
+      "UsersEstimate": 37775
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -24439,7 +24444,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 104205
+      "UsersEstimate": 104206
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -24455,7 +24460,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 72943
+      "UsersEstimate": 72944
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -24471,7 +24476,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52102
+      "UsersEstimate": 52103
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -24479,7 +24484,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 35169
+      "UsersEstimate": 35170
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -24535,7 +24540,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19538
+      "UsersEstimate": 19539
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -24551,7 +24556,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 35169
+      "UsersEstimate": 35170
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -24599,7 +24604,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 31261
+      "UsersEstimate": 31262
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -24631,7 +24636,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 31261
+      "UsersEstimate": 31262
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -24654,7 +24659,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 130256,
+      "Progressed": 130258,
       "Completed": 1120
     }
   ],
@@ -24662,8 +24667,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:27:02.7566125+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:06:16.0960994+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.6624381+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:20:11.2935118+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:27:02.7567522+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:59:45.9246867+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:06:16.0962406+00:00"
 }

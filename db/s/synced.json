@@ -1095,9 +1095,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66848,
+  "EOS_Progressed": 66852,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9525,6 +9525,11 @@
       "Time": "2023-11-18T02:24:24.4870297+00:00",
       "NumProgressed": 66848,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-18T03:03:43.6290442+00:00",
+      "NumProgressed": 66852,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9537,7 +9542,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22728
+      "UsersEstimate": 22730
     },
     {
       "ID": "10",
@@ -9545,7 +9550,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "11",
@@ -9553,7 +9558,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "12",
@@ -9561,7 +9566,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "13",
@@ -9601,7 +9606,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11364
+      "UsersEstimate": 11365
     },
     {
       "ID": "3",
@@ -9609,7 +9614,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8690
+      "UsersEstimate": 8691
     },
     {
       "ID": "4",
@@ -9664,7 +9669,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66848,
+      "Progressed": 66852,
       "Completed": 34
     }
   ],
@@ -9672,8 +9677,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-17T14:58:52.8326115+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:24:24.4870293+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:03:43.6290437+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:19:29.4137261+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:24:24.4870761+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:59:04.8768974+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:03:43.629085+00:00"
 }

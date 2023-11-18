@@ -2188,9 +2188,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 681661,
+  "EOS_Progressed": 681663,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1744,
+  "EOS_NewPlayers": 1741,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26343,6 +26343,11 @@
       "Time": "2023-11-18T02:29:52.3300316+00:00",
       "NumProgressed": 681661,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-18T03:09:10.6870054+00:00",
+      "NumProgressed": 681663,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 54,
@@ -26354,7 +26359,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 538512
+      "UsersEstimate": 538514
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -26434,7 +26439,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27266
+      "UsersEstimate": 27267
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -26442,7 +26447,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 245398
+      "UsersEstimate": 245399
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -26594,7 +26599,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 211315
+      "UsersEstimate": 211316
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -26674,7 +26679,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27266
+      "UsersEstimate": 27267
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -26770,7 +26775,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61349
+      "UsersEstimate": 61350
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -26778,22 +26783,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27266
+      "UsersEstimate": 27267
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 681661,
+      "Progressed": 681663,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-15T18:59:49.7072414+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:29:52.3300314+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:09:10.6870047+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:37.75216+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:17:50.8991583+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:29:52.3301515+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:57:31.1131274+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:09:10.6871376+00:00"
 }

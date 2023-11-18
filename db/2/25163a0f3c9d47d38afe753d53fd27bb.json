@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1148,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.86,
+  "EOS_Completed_Percentage": 7.84,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3174,6 +3174,11 @@
       "Time": "2023-11-18T02:29:49.5219218+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-11-18T03:09:07.7914426+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 90
     }
   ],
   "TotalAchievements": 30,
@@ -3185,7 +3190,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1091
     },
     {
       "ID": "LEVEL_002",
@@ -3193,7 +3198,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 905
+      "UsersEstimate": 907
     },
     {
       "ID": "LEVEL_003",
@@ -3201,7 +3206,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 781
     },
     {
       "ID": "LEVEL_004",
@@ -3209,7 +3214,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 620
     },
     {
       "ID": "LEVEL_005",
@@ -3217,7 +3222,7 @@
       "Name": "Small village",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 517
     },
     {
       "ID": "LEVEL_006",
@@ -3225,7 +3230,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "LEVEL_007",
@@ -3233,7 +3238,7 @@
       "Name": "Animals in the farm",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "LEVEL_008",
@@ -3257,7 +3262,7 @@
       "Name": "Rocks around the island",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "LEVEL_011",
@@ -3265,7 +3270,7 @@
       "Name": "This island of mine",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "LEVEL_012",
@@ -3281,7 +3286,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "LEVEL_014",
@@ -3305,7 +3310,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_017",
@@ -3321,15 +3326,15 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_020",
@@ -3424,14 +3429,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1148,
       "Completed": 90
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:29:49.5219215+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:09:07.7914423+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:19:15.8079793+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:29:49.5219577+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:58:51.6102148+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:09:07.7914694+00:00"
 }

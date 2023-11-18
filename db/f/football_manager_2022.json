@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8354,9 +8354,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476221,
+  "EOS_Progressed": 476222,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29904,6 +29904,11 @@
       "Time": "2023-11-18T02:24:10.7175711+00:00",
       "NumProgressed": 476221,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-18T03:03:30.5312213+00:00",
+      "NumProgressed": 476222,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -29971,7 +29976,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123817
+      "UsersEstimate": 123818
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -30027,7 +30032,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142866
+      "UsersEstimate": 142867
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -30099,7 +30104,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238110
+      "UsersEstimate": 238111
     },
     {
       "ID": "achievement_club_world_cup",
@@ -30307,7 +30312,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123817
+      "UsersEstimate": 123818
     },
     {
       "ID": "achievement_mr_delegator",
@@ -30331,7 +30336,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76195
+      "UsersEstimate": 76196
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -30339,7 +30344,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166677
+      "UsersEstimate": 166678
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -30427,7 +30432,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76195
+      "UsersEstimate": 76196
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -30459,7 +30464,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228586
+      "UsersEstimate": 228587
     },
     {
       "ID": "achievement_signed_a_player",
@@ -30467,7 +30472,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238110
+      "UsersEstimate": 238111
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -30499,7 +30504,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119055
+      "UsersEstimate": 119056
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -30547,7 +30552,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238110
+      "UsersEstimate": 238111
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -30698,15 +30703,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476221,
+      "Progressed": 476222,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-17T22:58:16.6819+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:24:10.7175707+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:03:30.5312209+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:57.2489615+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:18:27.4880137+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:24:10.7177235+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:58:05.3121092+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:03:30.5313753+00:00"
 }

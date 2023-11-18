@@ -16,7 +16,7 @@ Rating: 4.17 (Ranked 933)
 | Total Destruction | 1.00% | ~2,001 |
 | Getting There | 1.00% | ~2,001 |
 | Untouchable | 1.00% | ~2,001 |
-| Mastermind | 0.40% | ~800 |
+| Mastermind | 0.50% | ~1,001 |
 | We shall never Surrender! | 0.20% | ~400 |
 | Halfway There | 0.20% | ~400 |
 | Not Afraid of the Big Bad Wolf | 0.10% | ~200 |

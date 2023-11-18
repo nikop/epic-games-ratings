@@ -4812,9 +4812,9 @@
       "ID": "ACH_FAMILY_LOST",
       "SetID": "4kfb9pd",
       "Name": "Family Lost",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 80,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -4885,8 +4885,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-04T12:59:35.7337599+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:26:44.9055922+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:05:58.7467897+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.7484236+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:20:26.7903325+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:26:44.9056209+00:00"
+  "LastUpdate_Ratings": "2023-11-18T03:00:00.4366498+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:05:58.7468235+00:00"
 }

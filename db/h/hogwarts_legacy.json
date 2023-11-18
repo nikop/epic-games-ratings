@@ -10659,7 +10659,7 @@
       "Count": 789
     }
   ],
-  "EOS_Progressed": 302283,
+  "EOS_Progressed": 302287,
   "EOS_Completed": 512,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 5,
@@ -33389,6 +33389,11 @@
       "Time": "2023-11-18T01:55:24.5994558+00:00",
       "NumProgressed": 302283,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-18T03:09:06.2625454+00:00",
+      "NumProgressed": 302287,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33400,7 +33405,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48365
+      "UsersEstimate": 48366
     },
     {
       "ID": "PFA_10",
@@ -33408,7 +33413,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_11",
@@ -33416,7 +33421,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_12",
@@ -33424,7 +33429,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_13",
@@ -33432,7 +33437,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_14",
@@ -33456,7 +33461,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_17",
@@ -33504,7 +33509,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_22",
@@ -33528,7 +33533,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_25",
@@ -33560,7 +33565,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9068
+      "UsersEstimate": 9069
     },
     {
       "ID": "PFA_29",
@@ -33576,7 +33581,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9068
+      "UsersEstimate": 9069
     },
     {
       "ID": "PFA_30",
@@ -33616,7 +33621,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9068
+      "UsersEstimate": 9069
     },
     {
       "ID": "PFA_35",
@@ -33624,7 +33629,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30228
+      "UsersEstimate": 30229
     },
     {
       "ID": "PFA_36",
@@ -33656,7 +33661,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33251
+      "UsersEstimate": 33252
     },
     {
       "ID": "PFA_4",
@@ -33704,7 +33709,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27205
+      "UsersEstimate": 27206
     },
     {
       "ID": "PFA_45",
@@ -33752,14 +33757,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30228
+      "UsersEstimate": 30229
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302283,
+      "Progressed": 302287,
       "Completed": 512
     }
   ],
@@ -33767,8 +33772,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-17T20:58:29.5843819+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:29:47.71285+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:09:06.2625448+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:19:04.7983906+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:29:47.7129761+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:58:41.3518864+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:09:06.2626666+00:00"
 }

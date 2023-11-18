@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 0.80% | ~10 |
+| Matching | 0.80% | ~11 |
 | Not Touching You | 0.50% | ~7 |
 | First Steps | 0.40% | ~959 |
 | Nothing To Lose | 0.30% | ~719 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,829 (Ranked 61)  
+Progressed: 239,833 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,10 +357,10 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
-| 2023-11-18 | 239,829 | 288 |
+| 2023-11-18 | 239,833 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
-Sum: 11,679 (Ranked 83)  
+Sum: 11,680 (Ranked 83)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -372,7 +372,7 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 1,381 |
 | This game has Amazing Storytelling | 1,323 |
 | This game has Amazing Characters | 1,226 |
-| This game has Unique Visuals | 1,221 |
+| This game has Unique Visuals | 1,222 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 744 |
 ## Ratings History
@@ -589,3 +589,4 @@ Diff (max vs sum): 49
 | 2023-11-15 | 4.58 | - | 1,503 | 11,675 |
 | 2023-11-16 | 4.58 | - | 1,503 | 11,677 |
 | 2023-11-17 | 4.58 | - | 1,503 | 11,679 |
+| 2023-11-18 | 4.58 | - | 1,503 | 11,680 |

@@ -4,7 +4,7 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
@@ -99,9 +99,9 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -121,8 +121,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:26:56.7471154+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:06:10.1249049+00:00",
   "LastUpdate_AppInfo": "2023-11-17T09:57:15.963448+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:18:53.8468183+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:26:56.7471209+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:58:30.842416+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:06:10.1249119+00:00"
 }

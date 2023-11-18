@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1607,9 +1607,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "Chapter3",
@@ -1862,8 +1862,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:26:56.0571391+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:06:09.5385972+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-18T01:47:14.8182645+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:26:56.0571885+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:57:13.9148204+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:06:09.5386256+00:00"
 }

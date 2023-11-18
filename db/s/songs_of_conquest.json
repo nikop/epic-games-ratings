@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AttackCount",
@@ -903,9 +903,9 @@
       "ID": "QuickRetaliationDeath",
       "SetID": "71c0n9i",
       "Name": "Whoops!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RanaCampaign",
@@ -1103,8 +1103,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-18T02:27:05.345027+00:00",
+  "LastChanged_Achievements": "2023-11-18T03:06:18.6088041+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-18T02:20:25.3230862+00:00",
-  "LastUpdate_Achievements": "2023-11-18T02:27:05.3450574+00:00"
+  "LastUpdate_Ratings": "2023-11-18T02:59:59.1713435+00:00",
+  "LastUpdate_Achievements": "2023-11-18T03:06:18.6088362+00:00"
 }

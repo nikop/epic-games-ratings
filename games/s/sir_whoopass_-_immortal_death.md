@@ -14,18 +14,18 @@
 | Blurry depth perception | 82.00% | ~101 |
 | Nerd | 80.00% | ~98 |
 | Up and down | 78.00% | ~96 |
-| Rolling, Rolling, Rolling | 75.00% | ~92 |
-| Fire-fighter! | 66.00% | ~81 |
+| Rolling, Rolling, Rolling | 76.00% | ~93 |
+| Fire-fighter! | 67.00% | ~82 |
 | Oh, you're up to no gouda! | 64.00% | ~79 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~76 |
 | Meat grinder | 60.00% | ~74 |
-| You're not going to blow me up! | 54.00% | ~66 |
-| Mushroom soup of the day | 50.00% | ~62 |
-| Honk honk! | 49.00% | ~60 |
+| You're not going to blow me up! | 55.00% | ~68 |
+| Mushroom soup of the day | 51.00% | ~63 |
+| Honk honk! | 50.00% | ~62 |
 | Cockadoodledoo! | 49.00% | ~60 |
-| Butcher | 47.00% | ~58 |
+| Butcher | 48.00% | ~59 |
+| Spare Ribs | 47.00% | ~58 |
 | Thats disgusting! | 46.00% | ~57 |
-| Spare Ribs | 46.00% | ~57 |
 | My pants squeak when I walk | 42.00% | ~52 |
 | Self assessed tax return | 41.00% | ~50 |
 | Surprise!! | 41.00% | ~50 |
@@ -55,8 +55,8 @@
 | You're looking mozzare-hella good! | 12.00% | ~15 |
 | Timber! | 11.00% | ~14 |
 | Free Of Chains | 11.00% | ~14 |
+| Spoiler alert! | 10.00% | ~12 |
 | Grumpy Immortal | 10.00% | ~12 |
-| Spoiler alert! | 9.00% | ~11 |
 | I drink, but I'm not a drunk! | 9.00% | ~11 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
 | I want to throw up! | 7.00% | ~9 |
