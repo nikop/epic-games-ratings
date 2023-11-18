@@ -13,27 +13,27 @@
 | 11 | [The Riflemen](games/t/the_riflemen.md) | 32.71% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.99% |
-| 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 18 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.64% |
-| 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
-| 20 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 21 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
-| 22 | [Island Cities](games/i/island_cities.md) | 17.20% |
-| 23 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 24 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.79% |
-| 25 | [laserlemon Production](games/l/laserlemon_production.md) | 15.38% |
-| 26 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.34% |
-| 27 | [Remains](games/r/remains.md) | 14.55% |
-| 28 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 29 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 13.73% |
-| 30 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.04% |
-| 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
-| 32 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.40% |
-| 33 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 33 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 11.11% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.78% |
+| 15 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.99% |
+| 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 16 | [Overloop](games/o/overloop.md) | 25.00% |
+| 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.64% |
+| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
+| 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
+| 23 | [Island Cities](games/i/island_cities.md) | 17.20% |
+| 24 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
+| 25 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.79% |
+| 26 | [laserlemon Production](games/l/laserlemon_production.md) | 15.38% |
+| 27 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.34% |
+| 28 | [Remains](games/r/remains.md) | 14.55% |
+| 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
+| 30 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 13.73% |
+| 31 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.04% |
+| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
+| 33 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.40% |
+| 34 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 35 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 10.91% |
 | 36 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 37 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
@@ -51,7 +51,7 @@
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.05% |
 | 50 | [Anna's Quest](games/a/anna's_quest.md) | 7.89% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
-| 52 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.78% |
+| 52 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.77% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
@@ -85,10 +85,10 @@
 | 83 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 84 | [The Bunker](games/t/the_bunker.md) | 4.14% |
 | 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
-| 86 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
+| 86 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 87 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.76% |
 | 88 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
-| 89 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.73% |
+| 89 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.72% |
 | 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.52% |
 | 91 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 92 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.33% |
@@ -137,7 +137,7 @@
 | 135 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.69% |
 | 136 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.66% |
 | 137 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
-| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.59% |
+| 138 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.58% |
 | 139 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.52% |
 | 140 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 141 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.46% |
