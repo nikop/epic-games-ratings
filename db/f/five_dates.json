@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "ID": "booty_call",
       "SetID": "c4ipj3h",
       "Name": "Booty Call",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 180
+      "UsersEstimate": 187
     },
     {
       "ID": "crash_and_burn",
@@ -1688,8 +1688,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:10:05.5489809+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:10:02.6774058+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:45.015416+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:00:47.1460621+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:10:05.548999+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:00:45.6435617+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:10:02.6774227+00:00"
 }

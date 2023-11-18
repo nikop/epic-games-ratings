@@ -8,19 +8,19 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,538 |
 | Un-Lonely Island | 46.00% | ~2,783 |
-| The Beginning of a Servantship | 45.00% | ~2,722 |
-| Trade Is My Trait | 37.00% | ~2,238 |
+| The Beginning of a Servantship | 45.00% | ~2,723 |
+| Trade Is My Trait | 37.00% | ~2,239 |
 | Number 18 | 24.00% | ~1,452 |
 | We Don't Have Time For That | 19.00% | ~1,150 |
-| The Governator | 17.00% | ~1,028 |
+| The Governator | 17.00% | ~1,029 |
 | The Legend of Langostino | 16.00% | ~968 |
 | Caribbean Comrade | 15.00% | ~908 |
 | The Dreamer of Dreams | 15.00% | ~908 |
 | Go Sovereigns! | 11.00% | ~666 |
 | For Science! | 11.00% | ~666 |
 | Happy Ending? | 10.00% | ~605 |
-| Of Seals And Men | 9.00% | ~544 |
-| Shackadelic | 9.00% | ~544 |
+| Of Seals And Men | 9.00% | ~545 |
+| Shackadelic | 9.00% | ~545 |
 | Double Trouble | 8.00% | ~484 |
 | Firestarter | 8.00% | ~484 |
 | I Owe You Nothing | 7.00% | ~424 |
@@ -28,10 +28,10 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~424 |
 | Don't Panic! | 6.00% | ~363 |
 | Beware The Betman | 6.00% | ~363 |
-| Viva Tropico! | 5.00% | ~302 |
-| Computer Says "No" | 5.00% | ~302 |
-| Watch The World Burn | 5.00% | ~302 |
-| Fairy Tale Come True | 5.00% | ~302 |
+| Viva Tropico! | 5.00% | ~303 |
+| Computer Says "No" | 5.00% | ~303 |
+| Watch The World Burn | 5.00% | ~303 |
+| Fairy Tale Come True | 5.00% | ~303 |
 | Been there, Done That | 3.00% | ~182 |
 | Apocalypso | 3.00% | ~182 |
 | Narcissist | 3.00% | ~182 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~121 |
 | Terraformer | 2.00% | ~121 |
 | Curse of the Mummy | 2.00% | ~121 |
-| From Knight to Little Duck | 1.00% | ~60 |
+| From Knight to Little Duck | 1.00% | ~61 |
 | Survivor | 0.80% | ~48 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,050 (Ranked 183)  
+Progressed: 6,051 (Ranked 183)  
 Completed: 2 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2 (0.03%) (Ranked 318)
 | 2023-11-15 | 6,016 | 2 |
 | 2023-11-16 | 6,027 | 2 |
 | 2023-11-17 | 6,038 | 2 |
-| 2023-11-18 | 6,050 | 2 |
+| 2023-11-18 | 6,051 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 354)  
 Sum: 728 (Ranked 291)  

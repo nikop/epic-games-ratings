@@ -3,9 +3,9 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 458,
-  "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 356,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -692,9 +692,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MechanicIntegration",
@@ -820,9 +820,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Sentinelphobic",
@@ -868,9 +868,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "StellarHaste",
@@ -1155,8 +1155,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:06:55.8705778+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:06:49.0606192+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:05.8867232+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:02:51.876578+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:06:55.8706535+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:03:08.9537635+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:06:49.0607025+00:00"
 }

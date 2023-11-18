@@ -14,20 +14,20 @@
 | Godslayer | 2.00% | ~4 |
 | Adventurer | 2.00% | ~4 |
 | Geared Up | 2.00% | ~4 |
+| Fashion Victim | 2.00% | ~4 |
 | Scholar | 2.00% | ~4 |
+| Airborne | 1.00% | ~2 |
 | Tributes of Caladrias | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
 | Shatter Them All | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
 | Big Bazar | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
-| Fashion Victim | 1.00% | ~2 |
+| Stone Collection | 1.00% | ~2 |
 | The Collector | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
-| Airborne | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
-| Stone Collection | 0.50% | ~1 |
 | Summiter | 0.50% | ~1 |
 | A Taste of Wrath | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |

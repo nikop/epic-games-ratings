@@ -9,7 +9,7 @@
 | The Teleprobe | 20.00% | ~32 |
 | The field base | 20.00% | ~32 |
 | Survivors | 19.00% | ~31 |
-| The Condor | 16.00% | ~26 |
+| The Condor | 17.00% | ~28 |
 | The Necroevolution | 15.00% | ~24 |
 | The End | 15.00% | ~24 |
 | The Alliance | 12.00% | ~19 |
@@ -18,10 +18,10 @@
 | Peacemaker | 9.00% | ~15 |
 | Flying Objects Operator | 9.00% | ~15 |
 | Beyond divisions | 9.00% | ~15 |
+| Volcanologist | 8.00% | ~13 |
 | I remember everything! | 7.00% | ~11 |
 | Fierce fight | 7.00% | ~11 |
 | Evacuation | 7.00% | ~11 |
-| Volcanologist | 7.00% | ~11 |
 | Violent solution | 5.00% | ~8 |
 | Innate curiosity | 5.00% | ~8 |
 | Ubiquitous holes | 3.00% | ~5 |
@@ -35,7 +35,7 @@
 | No more mistakes | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 162 (Ranked 392)  
-Completed: 0 (0.00%) (Ranked 354)  
+Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

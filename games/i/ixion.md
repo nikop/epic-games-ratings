@@ -64,7 +64,7 @@ Rating: 4.57 (Ranked 469)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,315 (Ranked 207)  
-Completed: 0 (0.00%) (Ranked 354)  
+Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

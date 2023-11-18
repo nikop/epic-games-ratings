@@ -7,26 +7,27 @@ Rating: 4.61 (Ranked 384)
 | ---- | ---------- | ----- |
 | But this one is mine | 3.00% | ~162 |
 | Realm Estate | 2.00% | ~108 |
+| A Wonderful Discovery | 2.00% | ~108 |
 | Secret Technique | 2.00% | ~108 |
 | Walls Cannot Stop Us | 2.00% | ~108 |
 | There Can Only Be One! | 1.00% | ~54 |
 | Full Ascension | 1.00% | ~54 |
-| A Wonderful Discovery | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |
 | From Friends to Family | 1.00% | ~54 |
+| Seat of Power | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | Chaos Surge | 1.00% | ~54 |
+| Valley of Wonders | 0.90% | ~49 |
 | Stronger Together | 0.90% | ~49 |
 | Magical Synergy | 0.90% | ~49 |
-| Seat of Power | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
-| Valley of Wonders | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
 | Sehiran Oasis | 0.80% | ~43 |
 | Digging for Treasure | 0.70% | ~38 |
 | Tipping the Scales | 0.70% | ~38 |
 | Seal the Deal | 0.70% | ~38 |
+| Dawn of the Dread | 0.70% | ~38 |
 | Enchanted Archipelago | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Fiery Friend | 0.60% | ~32 |
@@ -34,7 +35,6 @@ Rating: 4.61 (Ranked 384)
 | Here be Dragons | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Prometheus Avenged | 0.60% | ~32 |
-| Dawn of the Dread | 0.60% | ~32 |
 | Return of the Wizard King | 0.50% | ~27 |
 | Preparation Is Everything | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |

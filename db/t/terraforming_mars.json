@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3169,9 +3169,9 @@
       "Count": 251
     }
   ],
-  "EOS_Progressed": 83073,
+  "EOS_Progressed": 83076,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26809,6 +26809,11 @@
       "Time": "2023-11-18T17:07:37.7671369+00:00",
       "NumProgressed": 83073,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-11-18T18:07:31.1356004+00:00",
+      "NumProgressed": 83076,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 30,
@@ -26820,7 +26825,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10799
+      "UsersEstimate": 10800
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -26852,7 +26857,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14953
+      "UsersEstimate": 14954
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -26868,7 +26873,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11630
+      "UsersEstimate": 11631
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -26900,7 +26905,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30737
+      "UsersEstimate": 30738
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -26908,7 +26913,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23260
+      "UsersEstimate": 23261
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -26916,7 +26921,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26583
+      "UsersEstimate": 26584
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -26924,7 +26929,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8307
+      "UsersEstimate": 8308
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -26956,7 +26961,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21599
+      "UsersEstimate": 21600
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -26972,7 +26977,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17445
+      "UsersEstimate": 17446
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -26996,7 +27001,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29076
+      "UsersEstimate": 29077
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27004,7 +27009,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14953
+      "UsersEstimate": 14954
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -27028,7 +27033,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8307
+      "UsersEstimate": 8308
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -27059,15 +27064,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 83073,
+      "Progressed": 83076,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-18T17:02:36.7880758+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:07:37.7671364+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:07:31.1356002+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:02:36.7880762+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:07:37.7672422+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:02:53.9047486+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:07:31.1357597+00:00"
 }

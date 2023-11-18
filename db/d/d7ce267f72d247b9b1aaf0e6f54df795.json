@@ -3,9 +3,9 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-28T00:00:00+00:00",
     "PcReleaseDate": "2023-11-28T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-15T08:57:14.6953993+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:59:35.440486+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:04:11.2621229+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:59:35.9024669+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:04:07.16215+00:00"
 }

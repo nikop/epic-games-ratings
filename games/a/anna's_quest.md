@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 77.00% | ~59 |
+| Escape artist | 78.00% | ~60 |
 | Book Worm | 47.00% | ~36 |
 | Ooh, it's shiny! | 45.00% | ~35 |
 | My lost nightingale | 39.00% | ~30 |
@@ -22,12 +22,12 @@
 | A very special drink | 29.00% | ~22 |
 | NOW GO AWAY! | 29.00% | ~22 |
 | Shattered | 26.00% | ~20 |
+| GG | 26.00% | ~20 |
+| No posters allowed | 26.00% | ~20 |
 | Little genius | 26.00% | ~20 |
 | Show me your true self | 25.00% | ~19 |
-| GG | 25.00% | ~19 |
 | Beekeeper | 25.00% | ~19 |
 | Mischief maker | 25.00% | ~19 |
-| No posters allowed | 25.00% | ~19 |
 | You've got mail! | 23.00% | ~18 |
 | Memories | 23.00% | ~18 |
 | Pain in the hands | 23.00% | ~18 |
@@ -40,11 +40,11 @@
 | Bahahahaha... | 17.00% | ~13 |
 | Cameodalic | 16.00% | ~12 |
 | Guilty conscience | 16.00% | ~12 |
-| Clever reference #451 | 12.00% | ~9 |
+| Clever reference #451 | 13.00% | ~10 |
 | What a mess | 10.00% | ~8 |
 | Posterboy! | 9.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77 (Ranked 451)  
+Progressed: 77 (Ranked 452)  
 Completed: 6 (7.79%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |

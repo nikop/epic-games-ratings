@@ -8,26 +8,26 @@
 | Thalya – Simply Immortal | 86.00% | ~261 |
 | For the Horde! | 80.00% | ~242 |
 | Hammer Time, Round Two | 79.00% | ~239 |
-| The Hellwoods | 74.00% | ~224 |
+| The Hellwoods | 75.00% | ~227 |
 | Thalya's Concentrated Fury | 68.00% | ~206 |
 | The Plains of Strothalm | 68.00% | ~206 |
 | Experienced Thalya | 66.00% | ~200 |
 | Master of Magic | 62.00% | ~188 |
 | Bad Elves Go Everywhere | 62.00% | ~188 |
-| Magic Accidents | 56.00% | ~170 |
-| Heroes’ Gorge | 56.00% | ~170 |
+| Magic Accidents | 57.00% | ~173 |
+| Heroes’ Gorge | 57.00% | ~173 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~167 |
 | Minions, Minions! | 54.00% | ~164 |
 | Trap Master | 52.00% | ~158 |
-| The Ascent | 44.00% | ~133 |
-| It's Warm and Cozy at Home | 44.00% | ~133 |
+| The Ascent | 45.00% | ~136 |
+| It's Warm and Cozy at Home | 45.00% | ~136 |
 | YOU SHALL NOT PASS! | 43.00% | ~130 |
 | Hard Work | 40.00% | ~121 |
 | The Big Eaty | 40.00% | ~121 |
 | Pure Dynamite! | 38.00% | ~115 |
 | Mana Cannon | 33.00% | ~100 |
 | “… like son” | 33.00% | ~100 |
-| Dungeonlord Gorgu | 28.00% | ~85 |
+| Dungeonlord Gorgu | 29.00% | ~88 |
 | Shame! Shame! Shame! | 27.00% | ~82 |
 | The Cathedral of Light | 26.00% | ~79 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~67 |
@@ -35,13 +35,13 @@
 | Hungry, Hungry Gorgu! | 18.00% | ~55 |
 | Unstoppable Horde | 18.00% | ~55 |
 | Master of the Undead | 18.00% | ~55 |
+| Forbidden Knowledge | 17.00% | ~52 |
 | All’s Well That Ends Evil | 17.00% | ~52 |
-| Forbidden Knowledge | 16.00% | ~48 |
 | Sacrificial Pit = Garbage Disposal? | 14.00% | ~42 |
 | Ghost Pirates? Ghost Heroes! | 14.00% | ~42 |
 | The Duel | 14.00% | ~42 |
+| If Looks Could Kill | 13.00% | ~39 |
 | Stop Tanos! | 12.00% | ~36 |
-| If Looks Could Kill | 12.00% | ~36 |
 | The Finitude Drill | 11.00% | ~33 |
 | Bonus Evilness | 8.00% | ~24 |
 | Sabotage! | 8.00% | ~24 |

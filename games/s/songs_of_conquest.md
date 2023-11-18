@@ -7,11 +7,12 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 22.00% | ~24 |
-| Double Kill | 18.00% | ~19 |
-| Sorcerous Spree | 5.00% | ~5 |
-| Veteran | 5.00% | ~5 |
+| Double Kill | 17.00% | ~19 |
+| Sorcerous Spree | 5.00% | ~6 |
+| Veteran | 5.00% | ~6 |
 | Dressed For Success | 4.00% | ~4 |
 | Critical Hit | 4.00% | ~4 |
+| Expert Essence Employment | 2.00% | ~2 |
 | Versatile Wielder | 0.90% | ~1 |
 | Fully Charged | 0.90% | ~1 |
 | Infernal Influence | 0.90% | ~1 |
@@ -21,7 +22,6 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 0.90% | ~1 |
 | Get Over Here! | 0.90% | ~1 |
 | Humiliation | 0.90% | ~1 |
-| Expert Essence Employment | 0.90% | ~1 |
 | Venisti, Vidisti, Perdidisti | 0.90% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
@@ -61,15 +61,15 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 421)  
-Completed: 0 (0.00%) (Ranked 354)  
+Progressed: 110 (Ranked 420)  
+Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
-| 2023-11-18 | 108 | 0 |
+| 2023-11-18 | 110 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

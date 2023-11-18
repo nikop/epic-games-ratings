@@ -6,22 +6,22 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~50,656 |
-| INFUSED WITH LIGHT | 53.00% | ~39,482 |
-| FOXIN' AROUND | 29.00% | ~21,603 |
-| FETCH | 28.00% | ~20,858 |
-| BLOOMS OF LIGHT | 26.00% | ~19,368 |
-| AWAKEN | 22.00% | ~16,389 |
-| BEST FRIENDS | 22.00% | ~16,389 |
-| ERADICATE | 21.00% | ~15,644 |
-| SPIRIT BARK | 21.00% | ~15,644 |
-| GARDEN OF LIGHT | 18.00% | ~13,409 |
-| SPIRIT FORM | 17.00% | ~12,664 |
-| WRITTEN IN STONE | 16.00% | ~11,919 |
-| UPROOTING DARKNESS | 15.00% | ~11,174 |
-| WEIGHTLESS | 12.00% | ~8,939 |
-| SPIRIT DASH | 11.00% | ~8,194 |
-| OLD COMPANION | 9.00% | ~6,704 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~50,662 |
+| INFUSED WITH LIGHT | 53.00% | ~39,487 |
+| FOXIN' AROUND | 29.00% | ~21,606 |
+| FETCH | 28.00% | ~20,861 |
+| BLOOMS OF LIGHT | 26.00% | ~19,371 |
+| AWAKEN | 22.00% | ~16,391 |
+| BEST FRIENDS | 22.00% | ~16,391 |
+| ERADICATE | 21.00% | ~15,646 |
+| SPIRIT BARK | 21.00% | ~15,646 |
+| GARDEN OF LIGHT | 18.00% | ~13,411 |
+| SPIRIT FORM | 17.00% | ~12,666 |
+| WRITTEN IN STONE | 16.00% | ~11,920 |
+| UPROOTING DARKNESS | 15.00% | ~11,175 |
+| WEIGHTLESS | 12.00% | ~8,940 |
+| SPIRIT DASH | 11.00% | ~8,195 |
+| OLD COMPANION | 9.00% | ~6,705 |
 | MATCH MAKER | 8.00% | ~5,960 |
 | NORTHERN LIGHTS | 8.00% | ~5,960 |
 | PLAGUE DOCTOR | 8.00% | ~5,960 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,490 |
 | KINDRED SPIRITS | 0.60% | ~447 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,494 (Ranked 100)  
+Progressed: 74,503 (Ranked 100)  
 Completed: 394 (0.53%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 394 (0.53%) (Ranked 195)
 | 2023-11-15 | 74,270 | 393 |
 | 2023-11-16 | 74,353 | 393 |
 | 2023-11-17 | 74,425 | 394 |
-| 2023-11-18 | 74,494 | 394 |
+| 2023-11-18 | 74,503 | 394 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 512)  
 Sum: 115 (Ranked 435)  

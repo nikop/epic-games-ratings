@@ -10,15 +10,15 @@
 | Endless Tricks | 38.00% | ~26 |
 | Mechanical Buddy | 38.00% | ~26 |
 | Noctuan Champion | 38.00% | ~26 |
+| Sanctuary Guardian | 35.00% | ~24 |
 | Wild's Keeper | 35.00% | ~24 |
 | Eridanian Champion | 35.00% | ~24 |
 | Mind Illuminator | 33.00% | ~23 |
-| Sanctuary Guardian | 33.00% | ~23 |
 | Lacertian Champion | 33.00% | ~23 |
 | Apian Champion | 30.00% | ~21 |
 | Anomaly Destroyer | 29.00% | ~20 |
-| Stellar Dismantler | 28.00% | ~19 |
-| Loyal Partner | 25.00% | ~17 |
+| Stellar Dismantler | 29.00% | ~20 |
+| Loyal Partner | 26.00% | ~18 |
 | Behenian Champion | 25.00% | ~17 |
 | Astral Adventurer | 23.00% | ~16 |
 | Star Killer | 23.00% | ~16 |
@@ -104,7 +104,7 @@
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 69 (Ranked 458)  
-Completed: 0 (0.00%) (Ranked 354)  
+Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

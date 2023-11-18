@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3881,
+  "EOS_Progressed": 3882,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7980,6 +7980,11 @@
       "Time": "2023-11-18T17:07:32.4677771+00:00",
       "NumProgressed": 3881,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-18T18:07:25.902644+00:00",
+      "NumProgressed": 3882,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8071,7 +8076,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8111,7 +8116,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8159,7 +8164,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8191,7 +8196,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8199,7 +8204,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8359,7 +8364,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8558,13 +8563,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3832,
+      "Progressed": 3833,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3881,
+      "Progressed": 3882,
       "Completed": 11
     }
   ],
@@ -8572,8 +8577,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:07:32.4677767+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:07:25.9026438+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:01:35.4082615+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:07:32.4678728+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:01:33.2162492+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:07:25.9027538+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "KITS",
   "ProductSlug": "kits-61b565",
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-26T12:00:00+00:00",
     "PcReleaseDate": "2023-04-04T01:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-05-02T04:57:45.1643725+00:00",
   "LastChanged": "2023-05-02T04:57:45.1643726+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:00.6139897+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:02:42.7182345+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:09:21.9988159+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:02:59.8154848+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:09:19.7402944+00:00"
 }

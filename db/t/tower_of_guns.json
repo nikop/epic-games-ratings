@@ -3,9 +3,9 @@
   "Name": "Tower of Guns",
   "ProductSlug": "tower-of-guns",
   "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2014-03-04T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:10.4219325+00:00",
   "LastChanged": "2023-03-31T05:57:10.4219326+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:10.6465191+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:02:42.9470821+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:03:43.8055732+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:02:59.9946605+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:03:39.8736172+00:00"
 }

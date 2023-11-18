@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1099,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2288,9 +2288,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 484
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2629,8 +2629,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:07:47.2951463+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:07:40.5637429+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:59:10.2598031+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:07:47.2951785+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:59:11.6084273+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:07:40.563774+00:00"
 }

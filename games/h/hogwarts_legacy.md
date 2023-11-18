@@ -10,7 +10,7 @@ Rating: 4.76 (Ranked 126)
 | Troll with the Punches | 14.00% | ~42,326 |
 | A Keen Sense of Spell | 13.00% | ~39,303 |
 | That's a Keeper | 13.00% | ~39,303 |
-| A Talent for Spending | 12.00% | ~36,279 |
+| A Talent for Spending | 12.00% | ~36,280 |
 | Grappling with a Graphorn | 11.00% | ~33,256 |
 | The One Who Mastered Memories | 11.00% | ~33,256 |
 | The Hallowed Hero | 11.00% | ~33,256 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 126)
 | The Root of the Problem | 6.00% | ~18,140 |
 | Third Time's a Charm | 6.00% | ~18,140 |
 | Raising Expectations | 6.00% | ~18,140 |
-| The Toast of the Town | 5.00% | ~15,116 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,116 |
-| The Ends Petrify the Means | 5.00% | ~15,116 |
+| The Toast of the Town | 5.00% | ~15,117 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,117 |
+| The Ends Petrify the Means | 5.00% | ~15,117 |
 | Going Through the Potions | 4.00% | ~12,093 |
 | Room with a View | 4.00% | ~12,093 |
 | The Intrepid Explorer | 4.00% | ~12,093 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,116 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,329 (Ranked 52)  
+Progressed: 302,331 (Ranked 52)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-15 | 302,152 | 512 |
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
-| 2023-11-18 | 302,329 | 512 |
+| 2023-11-18 | 302,331 | 512 |
 ## Awards
 Max (Character Customization): 24,407  (Ranked 17)  
 Sum: 48,477 (Ranked 30)  

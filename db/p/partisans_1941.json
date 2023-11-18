@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1749,
+  "EOS_Progressed": 1751,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3969,6 +3969,11 @@
       "Time": "2023-11-18T17:06:33.5020267+00:00",
       "NumProgressed": 1749,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T18:06:26.8985034+00:00",
+      "NumProgressed": 1751,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -3996,7 +4001,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Big_Bertha",
@@ -4012,7 +4017,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Commandos",
@@ -4052,7 +4057,7 @@
       "Name": "Lock, Stock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "E1M1",
@@ -4060,7 +4065,7 @@
       "Name": "E1M1",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Everyone_is_here",
@@ -4084,7 +4089,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Grenadier",
@@ -4116,7 +4121,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "How",
@@ -4140,7 +4145,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Kultprosvet",
@@ -4204,7 +4209,7 @@
       "Name": "We Weren\u0027t There",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Your_turn",
@@ -4219,15 +4224,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1749,
+      "Progressed": 1751,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:06:33.5020263+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:06:26.8985031+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:01:32.1043396+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:06:33.50206+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:01:30.0082054+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:06:26.8985317+00:00"
 }

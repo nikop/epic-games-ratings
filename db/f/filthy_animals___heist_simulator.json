@@ -3,9 +3,9 @@
   "Name": "Filthy Animals | Heist Simulator",
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 356,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8443,
+  "EOS_Progressed": 8444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6311,6 +6311,11 @@
       "Time": "2023-11-18T16:05:18.2410098+00:00",
       "NumProgressed": 8443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T18:05:17.372759+00:00",
+      "NumProgressed": 8444,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -6545,7 +6550,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 8443,
+      "Progressed": 8444,
       "Completed": 0
     }
   ],
@@ -6553,8 +6558,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:05:22.5174386+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:05:17.3727587+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:10.4767589+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:59:14.6910325+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:05:22.5174844+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:59:15.8629986+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:05:17.3728127+00:00"
 }

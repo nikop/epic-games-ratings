@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -751,9 +751,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "15_Coins",
@@ -831,9 +831,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "Level_completed_001_002",
@@ -887,9 +887,9 @@
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "Level_completed_008_005",
@@ -960,8 +960,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:09:26.3596856+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:09:24.2117613+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.2044407+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:00:20.4935605+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:09:26.359709+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:00:19.6806043+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:09:24.2117796+00:00"
 }

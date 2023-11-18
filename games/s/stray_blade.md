@@ -4,15 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Self-Defence | 2.00% | ~2 |
 | Craftsmen | 0.80% | ~1 |
-| Self-Defence | 0.80% | ~1 |
+| Tinkerer | 0.80% | ~1 |
 | Welcome to the Club | 0.80% | ~1 |
+| A new World ahead | 0.80% | ~1 |
 | Small Setback | 0.80% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Tinkerer | 0.00% | ~0 |
 | Defeat Ingla | 0.00% | ~0 |
 | Defeat Tezuth | 0.00% | ~0 |
 | Defeat Uskol | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Finally! | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | Don't Cry Wolf | 0.00% | ~0 |
-| A new World ahead | 0.00% | ~0 |
 | Can't touch this | 0.00% | ~0 |
 | The A-Team | 0.00% | ~0 |
 | But what of the Acreans? | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121 (Ranked 410)  
-Completed: 0 (0.00%) (Ranked 354)  
+Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

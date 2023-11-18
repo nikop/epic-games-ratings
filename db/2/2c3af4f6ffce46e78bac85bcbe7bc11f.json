@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.43,
+  "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -499,6 +499,11 @@
       "Time": "2023-11-16T12:07:37.5474283+00:00",
       "NumProgressed": 92,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-18T18:03:49.6262712+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 26,
@@ -532,7 +537,7 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -717,14 +722,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:03:53.6490012+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:03:49.626271+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:05.5071455+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:59:38.0828446+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:03:53.6490245+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:59:37.9902618+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:03:49.6262859+00:00"
 }

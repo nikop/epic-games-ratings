@@ -6,9 +6,9 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 354,
+  "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471007,
+  "EOS_Progressed": 471008,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22793,6 +22793,11 @@
       "Time": "2023-11-18T17:10:37.9610131+00:00",
       "NumProgressed": 471007,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-18T18:10:34.4000895+00:00",
+      "NumProgressed": 471008,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22940,7 +22945,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32970
+      "UsersEstimate": 32971
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -22948,7 +22953,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32970
+      "UsersEstimate": 32971
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -22980,7 +22985,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94201
+      "UsersEstimate": 94202
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22988,7 +22993,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160142
+      "UsersEstimate": 160143
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23044,7 +23049,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32970
+      "UsersEstimate": 32971
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -23228,7 +23233,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207243
+      "UsersEstimate": 207244
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23435,21 +23440,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14941,
+      "Progressed": 14942,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471007,
+      "Progressed": 471008,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:10:37.9610127+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:10:34.4000892+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-18T17:01:26.3724974+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:10:37.9611473+00:00"
+  "LastUpdate_Ratings": "2023-11-18T18:01:24.4846399+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:10:34.4003191+00:00"
 }

@@ -7,14 +7,14 @@
 | Feels Familiar | 77.00% | ~568 |
 | I Broke It | 73.00% | ~539 |
 | Better On Ice | 70.00% | ~517 |
-| Notai Notes | 69.00% | ~509 |
-| Blue Dreams | 68.00% | ~502 |
-| He's Famous! | 68.00% | ~502 |
+| Notai Notes | 70.00% | ~517 |
+| Blue Dreams | 69.00% | ~509 |
+| He's Famous! | 69.00% | ~509 |
 | Krugmazing | 67.00% | ~494 |
 | Cutie Poro | 67.00% | ~494 |
 | The Fire Below the Mountain | 64.00% | ~472 |
 | Moneyball | 61.00% | ~450 |
-| No Bites | 57.00% | ~421 |
+| No Bites | 58.00% | ~428 |
 | Iceborn | 57.00% | ~421 |
 | Boom Things | 55.00% | ~406 |
 | Tear of Freedom | 54.00% | ~399 |
@@ -34,7 +34,7 @@
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~273 |
 | Freeze The Ice Witch | 36.00% | ~266 |
 | On The Rocks | 36.00% | ~266 |
-| It Is Not Over | 34.00% | ~251 |
+| It Is Not Over | 35.00% | ~258 |
 | Never Gets Old | 33.00% | ~244 |
 | Snowy Poro | 32.00% | ~236 |
 | Vertical Power | 29.00% | ~214 |

@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5532,
+  "EOS_Progressed": 5533,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3651,6 +3651,11 @@
       "Time": "2023-11-18T17:10:04.8230914+00:00",
       "NumProgressed": 5532,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T18:10:01.8864525+00:00",
+      "NumProgressed": 5533,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3671,7 +3676,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "BeLikeWater",
@@ -3735,7 +3740,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3837,9 +3842,9 @@
       "ID": "ScorchSquad",
       "SetID": "acc6ea0",
       "Name": "Scorch Squaaad!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "TheFloorIsLava",
@@ -3863,7 +3868,7 @@
       "Name": "The Quarterback",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "ThisIsDharma",
@@ -3934,7 +3939,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5532,
+      "Progressed": 5533,
       "Completed": 7
     }
   ],
@@ -3942,8 +3947,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-18T17:10:04.823091+00:00",
+  "LastChanged_Achievements": "2023-11-18T18:10:01.8864522+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-18T16:57:30.1010125+00:00",
-  "LastUpdate_Achievements": "2023-11-18T17:10:04.8231284+00:00"
+  "LastUpdate_Ratings": "2023-11-18T17:57:33.0994402+00:00",
+  "LastUpdate_Achievements": "2023-11-18T18:10:01.8864944+00:00"
 }
