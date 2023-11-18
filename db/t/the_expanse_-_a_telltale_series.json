@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 489,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 141,
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15077,
+  "EOS_Progressed": 15079,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -11532,6 +11532,11 @@
       "Time": "2023-11-18T14:07:59.0522298+00:00",
       "NumProgressed": 15077,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-18T15:06:39.2246097+00:00",
+      "NumProgressed": 15079,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11582,9 +11587,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 302
     },
     {
       "ID": "15",
@@ -11823,13 +11828,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15077,
+      "Progressed": 15079,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1031,
+      "Progressed": 1033,
       "Completed": 613
     }
   ],
@@ -11837,8 +11842,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:07:59.0522293+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:06:39.2246094+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:58:15.0803579+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:07:59.0522905+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:58:19.0818419+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:06:39.224666+00:00"
 }

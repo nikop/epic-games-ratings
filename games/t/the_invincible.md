@@ -11,7 +11,7 @@
 | Survivors | 18.00% | ~29 |
 | The Condor | 16.00% | ~25 |
 | The Necroevolution | 15.00% | ~24 |
-| The End | 14.00% | ~22 |
+| The End | 15.00% | ~24 |
 | The Alliance | 11.00% | ~17 |
 | Krauta is alive | 11.00% | ~17 |
 | On her own | 9.00% | ~14 |
@@ -20,10 +20,10 @@
 | Volcanologist | 8.00% | ~13 |
 | Flying Objects Operator | 8.00% | ~13 |
 | Fierce fight | 7.00% | ~11 |
+| Evacuation | 7.00% | ~11 |
 | I remember everything! | 6.00% | ~10 |
-| Evacuation | 6.00% | ~10 |
 | Violent solution | 5.00% | ~8 |
-| Innate curiosity | 4.00% | ~6 |
+| Innate curiosity | 5.00% | ~8 |
 | Ubiquitous holes | 3.00% | ~5 |
 | The Invincible | 3.00% | ~5 |
 | Another giant | 3.00% | ~5 |
@@ -31,7 +31,7 @@
 | Got lost again | 2.00% | ~3 |
 | Convoy list | 1.00% | ~2 |
 | I leave no man behind | 1.00% | ~2 |
-| I leave no man behind (no exceptions) | 0.60% | ~1 |
+| I leave no man behind (no exceptions) | 1.00% | ~2 |
 | No more mistakes | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 159 (Ranked 395)  

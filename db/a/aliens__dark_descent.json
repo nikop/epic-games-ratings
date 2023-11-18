@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -6095,9 +6095,9 @@
       "ID": "ACH_MISSION_10",
       "SetID": "816efe",
       "Name": "The Spire",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_MISSION_11",
@@ -6200,8 +6200,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-17T04:58:01.7269194+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:05:42.8909941+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:05:25.1935345+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4620944+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:58:28.8240415+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:05:42.8910497+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:58:32.1011739+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:05:25.1935833+00:00"
 }

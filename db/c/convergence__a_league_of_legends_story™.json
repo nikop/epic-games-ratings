@@ -3,8 +3,8 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 364,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 361,
@@ -2617,9 +2617,9 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 175
     },
     {
       "ID": "LacunaCompleted",
@@ -2801,9 +2801,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 101
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2866,8 +2866,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:08:23.9074002+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:08:23.5937753+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.3466186+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:59:40.6624077+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:08:23.9074542+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:59:41.8931566+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:08:23.5938194+00:00"
 }

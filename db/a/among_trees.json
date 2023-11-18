@@ -3,8 +3,8 @@
   "Name": "Among Trees",
   "ProductSlug": "among-trees",
   "Ranking_Rating": 780,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 430,
@@ -408,6 +408,6 @@
   "FirstSeen": "2022-07-22T20:19:39.253901+00:00",
   "LastChanged": "2023-11-03T15:05:10.4796833+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:05.536308+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:00:07.4851223+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:09:12.4303776+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:00:07.5866234+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:08:51.1775005+00:00"
 }

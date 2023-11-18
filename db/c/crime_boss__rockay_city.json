@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4683,9 +4683,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 91283,
+  "EOS_Progressed": 91287,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25713,6 +25713,11 @@
       "Time": "2023-11-18T14:03:44.4010357+00:00",
       "NumProgressed": 91283,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-18T15:03:30.9784894+00:00",
+      "NumProgressed": 91287,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -25724,7 +25729,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "ACH_0011",
@@ -25868,7 +25873,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "ACH_0210",
@@ -25876,7 +25881,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "ACH_0211",
@@ -26051,13 +26056,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91283,
+      "Progressed": 91287,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19630,
+      "Progressed": 19634,
       "Completed": 15574
     }
   ],
@@ -26065,8 +26070,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-18T06:01:24.9589477+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:03:44.4010354+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:03:30.9784891+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:02:27.4556318+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:03:44.4011349+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:00:25.3580611+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:03:30.978615+00:00"
 }

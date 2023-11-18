@@ -5,9 +5,9 @@ Rating: 3.47 (Ranked 1,040)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| I Like My Stakes Rare! | 3.00% | ~53 |
 | Blood Will Have Blood | 2.00% | ~35 |
 | Ne Plus Ultra | 2.00% | ~35 |
-| I Like My Stakes Rare! | 2.00% | ~35 |
 | Fly Fisher | 2.00% | ~35 |
 | ICU | 2.00% | ~35 |
 | Wounded Whispers | 2.00% | ~35 |

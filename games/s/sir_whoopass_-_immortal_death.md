@@ -7,7 +7,7 @@
 | Tastes just like chicken! | 93.00% | ~114 |
 | MLG 360 no scope kill! | 93.00% | ~114 |
 | Are you ready to rumble? | 93.00% | ~114 |
-| That's what cheese said! | 87.00% | ~107 |
+| That's what cheese said! | 88.00% | ~108 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~105 |
 | I like you...but I have to kill you... | 85.00% | ~105 |
 | Not so hip anymore! | 83.00% | ~102 |

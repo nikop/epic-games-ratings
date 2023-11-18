@@ -23,11 +23,11 @@ Rating: 4.62 (Ranked 364)
 | Immaculate Aim | 21.00% | ~193 |
 | The Betrayer | 20.00% | ~184 |
 | Like Clockwork | 19.00% | ~175 |
+| The Loose Cannon | 19.00% | ~175 |
 | Golem Chaser | 19.00% | ~175 |
 | Check Your Pulse | 19.00% | ~175 |
 | Right On Time | 18.00% | ~166 |
 | The Man Who Shattered Time | 18.00% | ~166 |
-| The Loose Cannon | 18.00% | ~166 |
 | The Family Fortune | 18.00% | ~166 |
 | Street Style | 17.00% | ~156 |
 | Treasure Trove | 15.00% | ~138 |
@@ -38,10 +38,10 @@ Rating: 4.62 (Ranked 364)
 | Family Memories | 12.00% | ~110 |
 | Sump Explorer | 11.00% | ~101 |
 | Syron for Hope | 11.00% | ~101 |
+| Theater Explorer | 11.00% | ~101 |
 | Ask Questions Later | 11.00% | ~101 |
 | Factorywood Explorer | 10.00% | ~92 |
 | Fairgrounds Explorer | 10.00% | ~92 |
-| Theater Explorer | 10.00% | ~92 |
 | Cultivair Explorer | 9.00% | ~83 |
 | Entresol Explorer | 9.00% | ~83 |
 | Corin Goes Home | 8.00% | ~74 |

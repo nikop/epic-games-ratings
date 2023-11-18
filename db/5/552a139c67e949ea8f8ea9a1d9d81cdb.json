@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1097,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2422,9 +2422,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 186
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2619,8 +2619,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:06:07.1714856+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:05:48.8103286+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:58:14.507558+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:06:07.1715247+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:58:18.5371004+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:05:48.810359+00:00"
 }

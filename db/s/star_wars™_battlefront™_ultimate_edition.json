@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1293,
+  "EOS_Progressed": 1295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3769,6 +3769,11 @@
       "Time": "2023-11-18T10:09:16.3909182+00:00",
       "NumProgressed": 1293,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T15:09:11.463934+00:00",
+      "NumProgressed": 1295,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3811,9 +3816,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_14",
@@ -3885,7 +3890,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_22",
@@ -3957,7 +3962,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_30",
@@ -3997,7 +4002,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_35",
@@ -4005,7 +4010,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1153
     },
     {
       "ID": "achievement_36",
@@ -4021,7 +4026,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 866
+      "UsersEstimate": 868
     },
     {
       "ID": "achievement_38",
@@ -4029,7 +4034,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_39",
@@ -4043,9 +4048,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_40",
@@ -4053,7 +4058,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "achievement_41",
@@ -4115,9 +4120,9 @@
       "ID": "achievement_48",
       "SetID": "cemm4l8",
       "Name": "No such thing as luck",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_49",
@@ -4261,7 +4266,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_8",
@@ -4284,13 +4289,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1293,
+      "Progressed": 1295,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1293,
+      "Progressed": 1295,
       "Completed": 1
     }
   ],
@@ -4298,8 +4303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:09:33.1398589+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:09:11.4639339+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:58:45.7454166+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:09:33.139914+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:58:48.6515216+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:09:11.4639907+00:00"
 }

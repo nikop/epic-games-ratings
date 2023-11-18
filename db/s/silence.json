@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -410,6 +410,11 @@
       "Time": "2023-11-18T07:04:16.1696553+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T15:03:48.1914624+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -427,9 +432,9 @@
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "0000_achv_fallspot",
@@ -459,9 +464,9 @@
       "ID": "0000_achv_kickEverything",
       "SetID": "dhn82m5",
       "Name": "Let the boot talk",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "0000_achv_noskip",
@@ -549,7 +554,7 @@
       "Name": "Open up wide",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "1006_achv_chapter1",
@@ -557,7 +562,7 @@
       "Name": "Chapter I",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "1006_achv_demoliton",
@@ -573,7 +578,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -595,17 +600,17 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "2002_achv_feedfish",
@@ -619,9 +624,9 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "2004_achv_abyss",
@@ -629,7 +634,7 @@
       "Name": "Wooooooow!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -788,7 +793,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
@@ -796,8 +801,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:04:01.9683205+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:03:48.1914622+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:49.9744384+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:59:31.3543075+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:04:01.9683444+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:59:32.7847333+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:03:48.1914895+00:00"
 }

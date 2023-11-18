@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 116,
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42772,
+  "EOS_Progressed": 42773,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12757,6 +12757,11 @@
       "Time": "2023-11-18T14:04:47.2876492+00:00",
       "NumProgressed": 42772,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T15:04:32.0177111+00:00",
+      "NumProgressed": 42773,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -13104,7 +13109,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "SPRING_ALL",
@@ -13191,22 +13196,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42772,
+      "Progressed": 42773,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7609,
-      "Completed": 7609
+      "Progressed": 7610,
+      "Completed": 7610
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:04:47.287649+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:04:32.017711+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:16.2717277+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:58:16.5122717+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:04:47.2877363+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:58:20.4292617+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:04:32.0177894+00:00"
 }

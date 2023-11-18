@@ -15350,9 +15350,9 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897156,
+  "EOS_Progressed": 897167,
   "EOS_Completed": 2784,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 968,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39385,6 +39385,11 @@
       "Time": "2023-11-18T14:03:38.4015813+00:00",
       "NumProgressed": 897156,
       "NumCompleted": 2784
+    },
+    {
+      "Time": "2023-11-18T15:03:25.4131451+00:00",
+      "NumProgressed": 897167,
+      "NumCompleted": 2784
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39421,7 +39426,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "Denied",
@@ -39445,7 +39450,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "Gearhead",
@@ -39709,7 +39714,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "UnderPressure",
@@ -39725,7 +39730,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35886
+      "UsersEstimate": 35887
     },
     {
       "ID": "YipMan",
@@ -39853,7 +39858,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "HydraIsDead",
@@ -39869,7 +39874,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KingOfTheCups",
@@ -39932,21 +39937,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897156,
+      "Progressed": 897167,
       "Completed": 2784
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25779,
+      "Progressed": 25790,
       "Completed": 10233
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-18T13:01:16.859442+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:03:38.4015811+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:03:25.4131449+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:58:33.5989759+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:03:38.4016989+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:58:36.8807324+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:03:25.4132675+00:00"
 }

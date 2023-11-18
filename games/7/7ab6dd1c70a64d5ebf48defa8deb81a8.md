@@ -39,10 +39,10 @@
 | Shardbearer | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
-| Miner | -1.10% | ~-2 |
+| Miner | -1.00% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 383)  
-Completed: 1 (0.53%) (Ranked 195)  
+Progressed: 191 (Ranked 382)  
+Completed: 1 (0.52%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,4 +81,4 @@ Completed: 1 (0.53%) (Ranked 195)
 | 2023-11-14 | 186 | 1 |
 | 2023-11-15 | 188 | 1 |
 | 2023-11-17 | 189 | 1 |
-| 2023-11-18 | 190 | 1 |
+| 2023-11-18 | 191 | 1 |

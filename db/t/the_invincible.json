@@ -515,9 +515,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvInvShip",
@@ -555,9 +555,9 @@
       "ID": "AchvLeavesNoManBehind2",
       "SetID": "1hj060c",
       "Name": "I leave no man behind (no exceptions)",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchvNecro",
@@ -571,9 +571,9 @@
       "ID": "AchvNest",
       "SetID": "1hj060c",
       "Name": "Innate curiosity",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "AchvNoHoles",
@@ -651,9 +651,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "AchvUnity",
@@ -674,8 +674,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:08:09.5767653+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:08:09.4565496+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.9018108+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:00:14.5496207+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:08:09.5767889+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:00:14.5063329+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:08:09.4565654+00:00"
 }

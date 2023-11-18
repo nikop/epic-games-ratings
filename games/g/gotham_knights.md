@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,062 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,808 |
-| Loose Ends | 34.00% | ~26,042 |
-| To the Victor Go the Spoils | 28.00% | ~21,446 |
-| Knighthood | 27.00% | ~20,680 |
-| Get ReQ'd | 25.00% | ~19,148 |
-| Whispered Words | 25.00% | ~19,148 |
-| The Batman Family | 23.00% | ~17,616 |
-| Lock and Key | 22.00% | ~16,850 |
+| First Step Into the Knight | 51.00% | ~39,064 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,809 |
+| Loose Ends | 34.00% | ~26,043 |
+| To the Victor Go the Spoils | 28.00% | ~21,447 |
+| Knighthood | 27.00% | ~20,681 |
+| Get ReQ'd | 25.00% | ~19,149 |
+| Whispered Words | 25.00% | ~19,149 |
+| The Batman Family | 23.00% | ~17,617 |
+| Lock and Key | 22.00% | ~16,851 |
 | Something in the Clay | 21.00% | ~16,085 |
 | Quartzer Life Crisis | 21.00% | ~16,085 |
 | Working Hard or Harley Working? | 20.00% | ~15,319 |
@@ -23,21 +23,21 @@ Rating: 4.18 (Ranked 928)
 | The Show Mud Go On | 18.00% | ~13,787 |
 | From Inside Gotham's Walls | 18.00% | ~13,787 |
 | Protector of Gotham | 17.00% | ~13,021 |
-| Universal Health Scare | 16.00% | ~12,255 |
-| In Your Element | 15.00% | ~11,489 |
-| Voiceless | 15.00% | ~11,489 |
-| Rock and a Hard Place | 14.00% | ~10,723 |
-| Cooldown | 14.00% | ~10,723 |
-| Seeking Asylum | 14.00% | ~10,723 |
-| Not On My Watch | 13.00% | ~9,957 |
-| Shock Til They Drop | 13.00% | ~9,957 |
-| End of an Era | 12.00% | ~9,191 |
-| Bulldozed | 12.00% | ~9,191 |
-| Gotham Knight | 12.00% | ~9,191 |
-| Gotham City Confidential | 11.00% | ~8,425 |
-| Drone You Out | 10.00% | ~7,659 |
-| Out of Their League | 9.00% | ~6,893 |
-| Solid Alibi | 9.00% | ~6,893 |
+| Universal Health Scare | 16.00% | ~12,256 |
+| In Your Element | 15.00% | ~11,490 |
+| Voiceless | 15.00% | ~11,490 |
+| Rock and a Hard Place | 14.00% | ~10,724 |
+| Cooldown | 14.00% | ~10,724 |
+| Seeking Asylum | 14.00% | ~10,724 |
+| Not On My Watch | 13.00% | ~9,958 |
+| Shock Til They Drop | 13.00% | ~9,958 |
+| End of an Era | 12.00% | ~9,192 |
+| Bulldozed | 12.00% | ~9,192 |
+| Gotham Knight | 12.00% | ~9,192 |
+| Gotham City Confidential | 11.00% | ~8,426 |
+| Drone You Out | 10.00% | ~7,660 |
+| Out of Their League | 9.00% | ~6,894 |
+| Solid Alibi | 9.00% | ~6,894 |
 | Fusion Expert | 7.00% | ~5,362 |
 | Expert Crime Fighter | 6.00% | ~4,596 |
 | Family Meeting | 6.00% | ~4,596 |
@@ -59,15 +59,15 @@ Rating: 4.18 (Ranked 928)
 | Don't Mecha Big Deal About It | 0.60% | ~281 |
 | Confronting Your Demon | 0.60% | ~281 |
 | That's Showbiz, Clayby | 0.50% | ~234 |
-| Hammer and Icicle | 0.40% | ~187 |
-| Renewable Enemy Source | 0.40% | ~187 |
-| Crime Is a Terrible Thing to Waste | 0.40% | ~187 |
-| Showdown Sovereign | 0.40% | ~187 |
+| Hammer and Icicle | 0.40% | ~188 |
+| Renewable Enemy Source | 0.40% | ~188 |
+| Crime Is a Terrible Thing to Waste | 0.40% | ~188 |
+| Showdown Sovereign | 0.40% | ~188 |
 | The Cold, the Bad and the Ugly | 0.30% | ~141 |
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,593 (Ranked 99)  
+Progressed: 76,597 (Ranked 99)  
 Completed: 123 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 123 (0.16%) (Ranked 263)
 | 2023-11-15 | 76,468 | 123 |
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
-| 2023-11-18 | 76,593 | 123 |
+| 2023-11-18 | 76,597 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,949  (Ranked 98)  
 Sum: 5,008 (Ranked 138)  

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~12 |
-| A Loyal Friend | 33.00% | ~5 |
+| A Loyal Friend | 40.00% | ~6 |
 | Abandon Ship! | 20.00% | ~3 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |

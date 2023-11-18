@@ -8,12 +8,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 5.00% | ~7,021 |
 | Titan's First Steps | 5.00% | ~7,021 |
-| Basic in Bulk | 4.00% | ~5,616 |
-| Tinkle of Coins | 4.00% | ~5,616 |
-| Disintermediation | 3.00% | ~4,212 |
-| It's Free Real Estate | 3.00% | ~4,212 |
-| Budding Merchant | 3.00% | ~4,212 |
-| Capitalism Ho! | 3.00% | ~4,212 |
+| Basic in Bulk | 4.00% | ~5,617 |
+| Tinkle of Coins | 4.00% | ~5,617 |
+| Disintermediation | 3.00% | ~4,213 |
+| It's Free Real Estate | 3.00% | ~4,213 |
+| Budding Merchant | 3.00% | ~4,213 |
+| Capitalism Ho! | 3.00% | ~4,213 |
 | The Daily Grind | 2.00% | ~2,808 |
 | One Easy Payment | 2.00% | ~2,808 |
 | Some Assembly Required | 2.00% | ~2,808 |
@@ -100,7 +100,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~983 |
 | King's Shadow | 0.70% | ~983 |
 | Economy of Scarce | 0.70% | ~983 |
-| Jackpot! | 0.60% | ~842 |
+| Jackpot! | 0.60% | ~843 |
 | The Free Encyclopedia | 0.50% | ~702 |
 | Thank You Tom Nook | 0.50% | ~702 |
 | Eternal Crusade | 0.50% | ~702 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,412 (Ranked 80)  
+Progressed: 140,420 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
-| 2023-11-18 | 140,412 | 187 |
+| 2023-11-18 | 140,420 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,563 (Ranked 50)  

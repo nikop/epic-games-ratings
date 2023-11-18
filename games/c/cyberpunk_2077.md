@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,886 |
+| V for Vendetta | 4.00% | ~35,887 |
 | Gun Fu | 2.00% | ~17,943 |
 | Relic Ruler | 1.00% | ~258 |
-| Full Body Conversion | 0.90% | ~8,074 |
+| Full Body Conversion | 0.90% | ~8,075 |
 | True Soldier | 0.80% | ~7,177 |
 | Right Back At Ya | 0.70% | ~6,280 |
 | Stanislavski's Method | 0.70% | ~6,280 |
-| All the President's Men | 0.70% | ~180 |
-| Arachnophobia | 0.70% | ~180 |
+| All the President's Men | 0.70% | ~181 |
+| Arachnophobia | 0.70% | ~181 |
 | The Quick and the Dead | 0.60% | ~5,383 |
 | Bushido and Chill | 0.50% | ~4,486 |
 | Christmas Tree Attack | 0.50% | ~4,486 |
@@ -35,8 +35,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.40% | ~103 |
 | Dirty Deeds | 0.40% | ~103 |
 | Easy Come, Easy Go | 0.40% | ~103 |
-| The Wandering Fool | 0.30% | ~2,691 |
-| Two Heads, One Bullet | 0.30% | ~2,691 |
+| The Wandering Fool | 0.30% | ~2,692 |
+| Two Heads, One Bullet | 0.30% | ~2,692 |
 | To Bad Decisions! | 0.20% | ~1,794 |
 | Must Be Rats | 0.20% | ~1,794 |
 | Breathtaking | 0.20% | ~1,794 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,156 (Ranked 15)  
+Progressed: 897,167 (Ranked 15)  
 Completed: 2,784 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2,784 (0.31%) (Ranked 232)
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
-| 2023-11-18 | 897,156 | 2,784 |
+| 2023-11-18 | 897,167 | 2,784 |
 ## Awards
 Max (Character Customization): 105,891  (Ranked 9)  
 Sum: 356,058 (Ranked 10)  

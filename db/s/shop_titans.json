@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7105,9 +7105,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140412,
+  "EOS_Progressed": 140420,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28900,6 +28900,11 @@
       "Time": "2023-11-18T14:04:40.975466+00:00",
       "NumProgressed": 140412,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-18T15:04:26.1467581+00:00",
+      "NumProgressed": 140420,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -29143,7 +29148,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "commonres02",
@@ -29175,7 +29180,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "craft02",
@@ -29287,7 +29292,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "expansion02",
@@ -29383,7 +29388,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "gold02",
@@ -29471,7 +29476,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "jackslot03",
@@ -29495,7 +29500,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "level02",
@@ -29687,7 +29692,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "sell02",
@@ -29806,15 +29811,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140412,
+      "Progressed": 140420,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-18T07:59:25.41898+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:04:40.9754654+00:00",
+  "LastChanged_Achievements": "2023-11-18T15:04:26.1467578+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:59:51.394728+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:04:40.9756606+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:59:52.1281691+00:00",
+  "LastUpdate_Achievements": "2023-11-18T15:04:26.1469993+00:00"
 }
