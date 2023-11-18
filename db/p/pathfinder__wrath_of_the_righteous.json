@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4253,9 +4253,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12106,
+  "EOS_Progressed": 12107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15653,6 +15653,11 @@
       "Time": "2023-11-18T01:54:12.1169615+00:00",
       "NumProgressed": 12106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T09:08:24.3126903+00:00",
+      "NumProgressed": 12107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15688,7 +15693,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -16591,21 +16596,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10888,
+      "Progressed": 10889,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12106,
+      "Progressed": 12107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-17T17:57:58.401764+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:08:05.9507882+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:08:24.31269+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:58:11.1286312+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:08:05.9509362+00:00"
+  "LastUpdate_Ratings": "2023-11-18T08:58:18.4762559+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:08:24.312857+00:00"
 }

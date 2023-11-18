@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 3.00% | ~461 |
 | Keystone | 3.00% | ~461 |
 | Learned | 3.00% | ~461 |
+| Magnificent | 3.00% | ~461 |
 | Noble | 3.00% | ~461 |
 | Pioneer | 3.00% | ~461 |
 | Warrior | 3.00% | ~461 |
@@ -37,6 +38,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 3.00% | ~461 |
 | Babylonian Paganism | 3.00% | ~461 |
 | Greek Paganism | 3.00% | ~461 |
+| Roman Paganism | 3.00% | ~461 |
 | Naming Landmarks | 3.00% | ~461 |
 | Trade Caravan | 3.00% | ~461 |
 | Regicide | 2.00% | ~307 |
@@ -46,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~307 |
 | Great | 2.00% | ~307 |
 | Intercessor | 2.00% | ~307 |
-| Magnificent | 2.00% | ~307 |
 | Mighty | 2.00% | ~307 |
 | Valiant | 2.00% | ~307 |
 | Victorious | 2.00% | ~307 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 2.00% | ~307 |
 | Carthaginian Paganism | 2.00% | ~307 |
 | Egyptian Paganism | 2.00% | ~307 |
-| Roman Paganism | 2.00% | ~307 |
 | Zoroastrianism | 2.00% | ~307 |
 | Mythology | 2.00% | ~307 |
 | Win a Single Player Game | 2.00% | ~307 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,365 (Ranked 148)  
+Progressed: 15,366 (Ranked 148)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
-| 2023-11-18 | 15,365 | 5 |
+| 2023-11-18 | 15,366 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

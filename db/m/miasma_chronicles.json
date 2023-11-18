@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3875,9 +3875,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 364
     },
     {
       "ID": "CHAIN_REACTION",
@@ -4227,9 +4227,9 @@
       "ID": "WIPE_OUT",
       "SetID": "9a4jnji",
       "Name": "Wipe Out",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
@@ -4244,8 +4244,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-11-16T17:58:19.2022707+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:08:55.4924906+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:09:15.667054+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.5514998+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:58:51.5873358+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:08:55.4925317+00:00"
+  "LastUpdate_Ratings": "2023-11-18T08:58:58.8425343+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:09:15.6670956+00:00"
 }

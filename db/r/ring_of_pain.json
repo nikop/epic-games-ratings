@@ -3418,9 +3418,9 @@
       "Count": 744
     }
   ],
-  "EOS_Progressed": 239846,
+  "EOS_Progressed": 239847,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25373,6 +25373,11 @@
       "Time": "2023-11-18T08:09:02.5288569+00:00",
       "NumProgressed": 239846,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-18T09:09:22.7302824+00:00",
+      "NumProgressed": 239847,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25814,9 +25819,9 @@
       "ID": "KILL20TYPES",
       "SetID": "5l8oe0h",
       "Name": "The Bestiary",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 720
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -26446,9 +26451,9 @@
       "ID": "KILLBOSSWITHNOITEMS",
       "SetID": "1peahb6",
       "Name": "Raw Power",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -26487,13 +26492,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239846,
+      "Progressed": 239847,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1326,
+      "Progressed": 1327,
       "Completed": 381
     }
   ],
@@ -26501,8 +26506,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-18T02:58:20.648462+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:09:02.5288566+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:09:22.7302822+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:58:07.5018595+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:09:02.529105+00:00"
+  "LastUpdate_Ratings": "2023-11-18T08:58:14.5425295+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:09:22.7305065+00:00"
 }

@@ -9,9 +9,9 @@
 | The Teleprobe | 16.00% | ~25 |
 | The field base | 16.00% | ~25 |
 | Survivors | 14.00% | ~22 |
+| The Necroevolution | 12.00% | ~18 |
 | The Condor | 12.00% | ~18 |
 | The End | 12.00% | ~18 |
-| The Necroevolution | 11.00% | ~17 |
 | The Alliance | 10.00% | ~15 |
 | On her own | 8.00% | ~12 |
 | Krauta is alive | 8.00% | ~12 |

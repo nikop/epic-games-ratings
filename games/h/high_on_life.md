@@ -28,7 +28,7 @@ Rating: 4.64 (Ranked 332)
 | Series Wrap on Suit-O | 1.00% | ~245 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~18 |
 | Bathe With A Giant Nude Alien | 1.00% | ~18 |
-| Mux Ado About Shipping | 0.70% | ~12 |
+| Mux Ado About Shipping | 0.70% | ~13 |
 | Gunning For Your Job | 0.60% | ~147 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.50% | ~122 |
 | Sequel-Bait | 0.40% | ~98 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 332)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,492 (Ranked 126)  
+Progressed: 24,493 (Ranked 126)  
 Completed: 13 (0.05%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 13 (0.05%) (Ranked 305)
 | 2023-11-15 | 24,482 | 13 |
 | 2023-11-16 | 24,486 | 13 |
 | 2023-11-17 | 24,490 | 13 |
-| 2023-11-18 | 24,492 | 13 |
+| 2023-11-18 | 24,493 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

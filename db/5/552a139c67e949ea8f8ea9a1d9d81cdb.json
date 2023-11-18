@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -2492,9 +2492,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 404
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2609,8 +2609,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:05:25.1819841+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:05:43.003894+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:57:52.5453338+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:05:25.1820201+00:00"
+  "LastUpdate_Ratings": "2023-11-18T08:57:59.1013031+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:05:43.0039303+00:00"
 }

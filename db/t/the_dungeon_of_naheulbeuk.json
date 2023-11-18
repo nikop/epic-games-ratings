@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1335,9 +1335,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237830,
+  "EOS_Progressed": 237836,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1434,
+  "EOS_NewPlayers": 1432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18985,6 +18985,11 @@
       "Time": "2023-11-18T08:08:10.2857543+00:00",
       "NumProgressed": 237830,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T09:08:28.7813819+00:00",
+      "NumProgressed": 237836,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19116,7 +19121,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "CompanionMinstrel",
@@ -19124,7 +19129,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "CompanionNone",
@@ -19132,7 +19137,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "CompanionPaladine",
@@ -19396,7 +19401,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16648
+      "UsersEstimate": 16649
     },
     {
       "ID": "DwarfElf15Support",
@@ -19444,7 +19449,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83240
+      "UsersEstimate": 83243
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19492,7 +19497,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19026
+      "UsersEstimate": 19027
     },
     {
       "ID": "FollowBraztok",
@@ -19572,7 +19577,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "PriestessEpic",
@@ -19580,7 +19585,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "QuestEmile",
@@ -19699,21 +19704,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237830,
+      "Progressed": 237836,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237830,
+      "Progressed": 237836,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-16T16:00:04.3647712+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:08:10.2857539+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:08:28.7813815+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:59:51.2644853+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:08:10.2859046+00:00"
+  "LastUpdate_Ratings": "2023-11-18T09:00:01.1014374+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:08:28.7815206+00:00"
 }

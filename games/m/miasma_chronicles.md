@@ -33,7 +33,7 @@ Rating: 4.42 (Ranked 712)
 | Savior | 28.00% | ~443 |
 | There Can Be Only One! | 26.00% | ~411 |
 | Silent but Violent | 25.00% | ~396 |
-| Chain Killer | 22.00% | ~348 |
+| Chain Killer | 23.00% | ~364 |
 | The Watchers | 22.00% | ~348 |
 | Commando | 17.00% | ~269 |
 | Dr Jones | 17.00% | ~269 |
@@ -44,8 +44,8 @@ Rating: 4.42 (Ranked 712)
 | Bot Whisperer | 9.00% | ~142 |
 | Chain Reaction | 9.00% | ~142 |
 | Curveball | 8.00% | ~127 |
+| Wipe Out | 8.00% | ~127 |
 | Dressed To Kill | 7.00% | ~111 |
-| Wipe Out | 7.00% | ~111 |
 | Attenborough | 6.00% | ~95 |
 | Master Editor | 6.00% | ~95 |
 | Bookworm | 3.00% | ~47 |

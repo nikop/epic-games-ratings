@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6577,10 +6577,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11480,
       "NumberOfAwardsMax": 7519
+    },
+    {
+      "Time": "2023-11-18T08:59:02.8695116+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11481,
+      "NumberOfAwardsMax": 7519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11480,
+  "NumberOfAwards": 11481,
   "NumberOfAwardsMax": 7519,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6630,7 +6636,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 497
+      "Count": 498
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6639,10 +6645,10 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 719940,
+  "EOS_Progressed": 719956,
   "EOS_Completed": 2406,
-  "EOS_NewPlayers": 3568,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 3567,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30849,6 +30855,11 @@
       "Time": "2023-11-18T08:05:31.9894525+00:00",
       "NumProgressed": 719940,
       "NumCompleted": 2406
+    },
+    {
+      "Time": "2023-11-18T09:05:49.8256895+00:00",
+      "NumProgressed": 719956,
+      "NumCompleted": 2406
     }
   ],
   "TotalAchievements": 51,
@@ -30876,7 +30887,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6479
+      "UsersEstimate": 6480
     },
     {
       "ID": "ach_anger_management",
@@ -30924,7 +30935,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7199
+      "UsersEstimate": 7200
     },
     {
       "ID": "ach_contender",
@@ -30980,7 +30991,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6479
+      "UsersEstimate": 6480
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -31004,7 +31015,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6479
+      "UsersEstimate": 6480
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -31020,7 +31031,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7199
+      "UsersEstimate": 7200
     },
     {
       "ID": "ach_impressive_aim",
@@ -31140,7 +31151,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6479
+      "UsersEstimate": 6480
     },
     {
       "ID": "ach_survival_expert",
@@ -31196,7 +31207,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7199
+      "UsersEstimate": 7200
     },
     {
       "ID": "ach_well_known_survivor",
@@ -31267,22 +31278,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719940,
+      "Progressed": 719956,
       "Completed": 2406
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45482,
+      "Progressed": 45498,
       "Completed": 36556
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-18T01:45:24.7904908+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:05:31.9894522+00:00",
+  "LastChanged": "2023-11-18T08:59:02.8695114+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:05:49.8256891+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:58:55.4320174+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:05:31.9895923+00:00"
+  "LastUpdate_Ratings": "2023-11-18T08:59:02.8695121+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:05:49.8258316+00:00"
 }

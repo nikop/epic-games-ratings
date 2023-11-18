@@ -930,9 +930,9 @@
       "Count": 169
     }
   ],
-  "EOS_Progressed": 253830,
+  "EOS_Progressed": 253890,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16203,
+  "EOS_NewPlayers": 16193,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3940,6 +3940,11 @@
       "Time": "2023-11-18T08:04:34.9662309+00:00",
       "NumProgressed": 253830,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-18T09:04:50.8571938+00:00",
+      "NumProgressed": 253890,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -3952,7 +3957,7 @@
       "Name": "Shadow\u0027s Bane",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17772
     },
     {
       "ID": "CraftedDurinsAxe",
@@ -3960,7 +3965,7 @@
       "Name": "Baruk Khaz\u00E2d!",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 25383
+      "UsersEstimate": 25389
     },
     {
       "ID": "CraftedFullSetBelegost",
@@ -3968,7 +3973,7 @@
       "Name": "Decked Out",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10153
+      "UsersEstimate": 10156
     },
     {
       "ID": "CraftedFullSetBrews",
@@ -3984,7 +3989,7 @@
       "Name": "Guarded from Despair",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7617
     },
     {
       "ID": "CraftedFullSetErebor",
@@ -3992,7 +3997,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 83764
+      "UsersEstimate": 83784
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -4000,7 +4005,7 @@
       "Name": "Suit Up",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 142145
+      "UsersEstimate": 142178
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -4008,7 +4013,7 @@
       "Name": "Battering Ram",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27921
+      "UsersEstimate": 27928
     },
     {
       "ID": "CraftedFullSetMetaElven",
@@ -4016,7 +4021,7 @@
       "Name": "Eregion Weaponcraft",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7617
     },
     {
       "ID": "CraftedFullSetMetaHat",
@@ -4032,7 +4037,7 @@
       "Name": "Master of All Trades",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7617
     },
     {
       "ID": "CraftedFullSetMetaShield",
@@ -4048,7 +4053,7 @@
       "Name": "True-silver",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "CraftedFullSetWeaponsCh2",
@@ -4056,7 +4061,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22845
+      "UsersEstimate": 22850
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -4064,7 +4069,7 @@
       "Name": "Deeps Weaponcraft",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17772
     },
     {
       "ID": "CraftedFullSetWeaponsCh4",
@@ -4072,7 +4077,7 @@
       "Name": "Dimrill Weaponcraft",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "CraftedSteelPickaxe",
@@ -4080,7 +4085,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 154836
+      "UsersEstimate": 154873
     },
     {
       "ID": "DefeatedBolgakh",
@@ -4088,7 +4093,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 81226
+      "UsersEstimate": 81245
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -4096,7 +4101,7 @@
       "Name": "Darkness Is Passing",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 12692
+      "UsersEstimate": 12694
     },
     {
       "ID": "DefeatedTrollKing",
@@ -4104,7 +4109,7 @@
       "Name": "False King, Deposed",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 27921
+      "UsersEstimate": 27928
     },
     {
       "ID": "DiscoveredAngryCaverns",
@@ -4112,7 +4117,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35536
+      "UsersEstimate": 35545
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -4120,7 +4125,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 71072
+      "UsersEstimate": 71089
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -4128,7 +4133,7 @@
       "Name": "Speak Friend",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 213217
+      "UsersEstimate": 213268
     },
     {
       "ID": "DiscoveredHighway",
@@ -4136,7 +4141,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35536
+      "UsersEstimate": 35545
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -4144,7 +4149,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 124377
+      "UsersEstimate": 124406
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -4152,7 +4157,7 @@
       "Name": "Delving Onward",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 180219
+      "UsersEstimate": 180262
     },
     {
       "ID": "DiscoveredTomb",
@@ -4160,14 +4165,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 81226
+      "UsersEstimate": 81245
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 253830,
+      "Progressed": 253890,
       "Completed": 8
     }
   ],
@@ -4175,8 +4180,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2023-11-17T22:59:11.9331692+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:04:34.9662304+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:04:50.8571935+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.7652498+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:58:29.8865033+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:04:34.9662631+00:00"
+  "LastUpdate_Ratings": "2023-11-18T08:58:37.4330917+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:04:50.8572226+00:00"
 }

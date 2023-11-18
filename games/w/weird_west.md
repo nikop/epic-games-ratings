@@ -53,8 +53,8 @@ Number of Ratings: 125  (23.09.2022)
 | 'Ma Barker | 2.00% | ~40 |
 | I Kicked a Bird and I Liked it | 1.00% | ~20 |
 | Hog Wild | 1.00% | ~20 |
+| Explorer | 0.70% | ~14 |
 | End the world | 0.70% | ~14 |
-| Explorer | 0.60% | ~12 |
 | Dirt and Blame | 0.50% | ~10 |
 | Moon Hunter | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |

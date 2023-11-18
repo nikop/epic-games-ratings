@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1006,
-  "Ranking_Popularity": 203,
+  "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4683,9 +4683,9 @@
       "Count": 489
     }
   ],
-  "EOS_Progressed": 91274,
+  "EOS_Progressed": 91275,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25683,6 +25683,11 @@
       "Time": "2023-11-18T08:03:13.0671466+00:00",
       "NumProgressed": 91274,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-18T09:03:25.2105977+00:00",
+      "NumProgressed": 91275,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -25702,7 +25707,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACH_0012",
@@ -25862,7 +25867,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACH_0300",
@@ -25926,7 +25931,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACH_0431",
@@ -26021,13 +26026,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91274,
+      "Progressed": 91275,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19621,
+      "Progressed": 19622,
       "Completed": 15573
     }
   ],
@@ -26035,8 +26040,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-18T06:01:24.9589477+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:03:13.0671462+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:03:25.2105973+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-18T08:00:02.3094047+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:03:13.0672636+00:00"
+  "LastUpdate_Ratings": "2023-11-18T09:00:12.862419+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:03:25.2107216+00:00"
 }

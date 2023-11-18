@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,240 |
-| Alt+F4 | 8.00% | ~19,026 |
-| Where's that freaking Dwarf? | 7.00% | ~16,648 |
+| Sowwy! | 35.00% | ~83,243 |
+| Alt+F4 | 8.00% | ~19,027 |
+| Where's that freaking Dwarf? | 7.00% | ~16,649 |
 | Déjà vu | 6.00% | ~14,270 |
 | Sock! SOCK! | 5.00% | ~11,892 |
 | A beer, two curses, three companions | 4.00% | ~9,513 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,378 |
 | Lust and Debauchery | 1.00% | ~2,378 |
 | Material Girl | 1.00% | ~2,378 |
-| In Navalu's footsteps | 0.90% | ~2,140 |
+| In Navalu's footsteps | 0.90% | ~2,141 |
 | Lëgal Legend | 0.80% | ~1,903 |
 | We come in peace | 0.70% | ~1,665 |
 | Holistic Adventuring Party | 0.60% | ~1,427 |
@@ -52,10 +52,10 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.50% | ~1,189 |
 | Law and Order | 0.50% | ~1,189 |
 | It's been a hard day's night | 0.40% | ~951 |
-| Friendly fire | 0.30% | ~713 |
-| I'd rather... Just... Sing! | 0.30% | ~713 |
-| The number of the counting shalt be 7 | 0.30% | ~713 |
-| Inception | 0.30% | ~713 |
+| Friendly fire | 0.30% | ~714 |
+| I'd rather... Just... Sing! | 0.30% | ~714 |
+| The number of the counting shalt be 7 | 0.30% | ~714 |
+| Inception | 0.30% | ~714 |
 | The Blood Countess | 0.20% | ~476 |
 | Free customer service | 0.20% | ~476 |
 | Imposture and Trowels | 0.20% | ~476 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,830 (Ranked 62)  
+Progressed: 237,836 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 7 (0.00%) (Ranked 354)
 | 2023-11-15 | 237,338 | 7 |
 | 2023-11-16 | 237,548 | 7 |
 | 2023-11-17 | 237,757 | 7 |
-| 2023-11-18 | 237,830 | 7 |
+| 2023-11-18 | 237,836 | 7 |
 ## Awards
 Max (Character Customization): 230  (Ranked 272)  
 Sum: 463 (Ranked 331)  

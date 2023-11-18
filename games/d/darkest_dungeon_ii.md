@@ -6,51 +6,51 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~115,207 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~87,954 |
-| A Clear Conscience | 69.00% | ~85,477 |
-| Unleash Hell | 68.00% | ~84,238 |
-| Unfulfilled Desires | 68.00% | ~84,238 |
-| Funny Guy | 67.00% | ~82,999 |
-| Unshackled | 67.00% | ~82,999 |
-| Long Live the King | 66.00% | ~81,760 |
-| Wyrdly Reconstructed | 63.00% | ~78,044 |
-| Resurrection | 62.00% | ~76,805 |
-| Boxcar Kid | 61.00% | ~75,566 |
-| To Grandmother's House | 61.00% | ~75,566 |
-| Rush Hour | 60.00% | ~74,327 |
-| Serenity Now! | 54.00% | ~66,895 |
-| Hope Rekindled | 50.00% | ~61,940 |
-| Ramble On | 50.00% | ~61,940 |
-| Nope | 49.00% | ~60,701 |
-| This Looks Familiar | 38.00% | ~47,074 |
-| Now Stay Dead | 38.00% | ~47,074 |
-| Harvest Festival | 37.00% | ~45,835 |
-| Hot Air | 37.00% | ~45,835 |
-| Merry Time | 36.00% | ~44,596 |
-| Creep and Sleep | 34.00% | ~42,119 |
-| Overdue Notice | 33.00% | ~40,880 |
-| Banishment | 32.00% | ~39,641 |
-| Whale | 32.00% | ~39,641 |
-| FNG | 30.00% | ~37,164 |
+| A Place to Lay Your Head | 93.00% | ~115,210 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~87,956 |
+| A Clear Conscience | 69.00% | ~85,479 |
+| Unleash Hell | 68.00% | ~84,240 |
+| Unfulfilled Desires | 68.00% | ~84,240 |
+| Funny Guy | 67.00% | ~83,001 |
+| Unshackled | 67.00% | ~83,001 |
+| Long Live the King | 66.00% | ~81,762 |
+| Wyrdly Reconstructed | 63.00% | ~78,046 |
+| Resurrection | 62.00% | ~76,807 |
+| Boxcar Kid | 61.00% | ~75,568 |
+| To Grandmother's House | 61.00% | ~75,568 |
+| Rush Hour | 60.00% | ~74,329 |
+| Serenity Now! | 54.00% | ~66,896 |
+| Hope Rekindled | 50.00% | ~61,941 |
+| Ramble On | 50.00% | ~61,941 |
+| Nope | 49.00% | ~60,702 |
+| This Looks Familiar | 38.00% | ~47,075 |
+| Now Stay Dead | 38.00% | ~47,075 |
+| Harvest Festival | 37.00% | ~45,836 |
+| Hot Air | 37.00% | ~45,836 |
+| Merry Time | 36.00% | ~44,598 |
+| Creep and Sleep | 34.00% | ~42,120 |
+| Overdue Notice | 33.00% | ~40,881 |
+| Banishment | 32.00% | ~39,642 |
+| Whale | 32.00% | ~39,642 |
+| FNG | 30.00% | ~37,165 |
 | Predator | 25.00% | ~30,970 |
 | Reverse Banditry | 25.00% | ~30,970 |
 | Autodidact | 25.00% | ~30,970 |
-| Meat and Greet | 23.00% | ~28,492 |
-| Spelunker | 22.00% | ~27,253 |
-| Eyes Up | 22.00% | ~27,253 |
-| Road Trip | 22.00% | ~27,253 |
+| Meat and Greet | 23.00% | ~28,493 |
+| Spelunker | 22.00% | ~27,254 |
+| Eyes Up | 22.00% | ~27,254 |
+| Road Trip | 22.00% | ~27,254 |
 | It Rings a Bell | 20.00% | ~24,776 |
-| Dissector | 18.00% | ~22,298 |
-| Escape from the Black Hole | 18.00% | ~22,298 |
-| This Belongs in a Museum | 17.00% | ~21,059 |
-| It Happens | 17.00% | ~21,059 |
+| Dissector | 18.00% | ~22,299 |
+| Escape from the Black Hole | 18.00% | ~22,299 |
+| This Belongs in a Museum | 17.00% | ~21,060 |
+| It Happens | 17.00% | ~21,060 |
 | Handled | 16.00% | ~19,821 |
 | Catch and Decease | 15.00% | ~18,582 |
 | Not Today! | 14.00% | ~17,343 |
 | Deprogramming | 14.00% | ~17,343 |
-| Shrine of Reflection | 12.00% | ~14,865 |
-| When You Want Something Done Right | 12.00% | ~14,865 |
+| Shrine of Reflection | 12.00% | ~14,866 |
+| When You Want Something Done Right | 12.00% | ~14,866 |
 | Body of Work | 10.00% | ~12,388 |
 | Utopia | 9.00% | ~11,149 |
 | No More Mouths to Feed | 7.00% | ~8,672 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~124 |
 | No Gravestone Left Unturned | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,879 (Ranked 84)  
+Progressed: 123,882 (Ranked 84)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 123,646 | 1 |
 | 2023-11-16 | 123,734 | 1 |
 | 2023-11-17 | 123,845 | 1 |
-| 2023-11-18 | 123,879 | 1 |
+| 2023-11-18 | 123,882 | 1 |
 ## Awards
 Max (Character Customization): 7,522  (Ranked 51)  
 Sum: 19,789 (Ranked 59)  

@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 0.30% | ~720 |
 | Colorful Corpse | 0.30% | ~720 |
 | Defeat The Dark | 0.30% | ~720 |
+| The Bestiary | 0.30% | ~720 |
 | Goodbye, Frog Friend | 0.30% | ~720 |
 | Heartless | 0.30% | ~720 |
 | What's Yours Is Mine | 0.30% | ~720 |
@@ -44,7 +45,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | I Am Overburdened | 0.20% | ~480 |
 | Save Our Souls | 0.20% | ~480 |
 | Destroy Your Fears | 0.20% | ~480 |
-| The Bestiary | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
@@ -60,6 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 0.20% | ~480 |
 | Shapeshifting | 0.20% | ~480 |
 | Who Needs Luck? | 0.20% | ~3 |
+| Raw Power | 0.20% | ~3 |
 | Thank You, Friend | 0.10% | ~240 |
 | Achievement Hunter | 0.10% | ~240 |
 | Quick Descent | 0.10% | ~240 |
@@ -142,10 +143,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~1 |
 | Brute | 0.10% | ~1 |
 | Nuclear | 0.10% | ~1 |
-| Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,846 (Ranked 61)  
+Progressed: 239,847 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
-| 2023-11-18 | 239,846 | 288 |
+| 2023-11-18 | 239,847 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,680 (Ranked 83)  

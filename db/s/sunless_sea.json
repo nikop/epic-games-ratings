@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40752,
+  "EOS_Progressed": 40754,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22332,6 +22332,11 @@
       "Time": "2023-11-18T07:05:33.1442221+00:00",
       "NumProgressed": 40752,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T09:04:38.5586084+00:00",
+      "NumProgressed": 40754,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22551,7 +22556,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5705
+      "UsersEstimate": 5706
     },
     {
       "ID": "ach_legacysalvager",
@@ -22695,7 +22700,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7335
+      "UsersEstimate": 7336
     },
     {
       "ID": "ach_terror100",
@@ -22774,15 +22779,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40752,
+      "Progressed": 40754,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:04:22.8914468+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:04:38.5586081+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:15.1182628+00:00",
-  "LastUpdate_Ratings": "2023-11-18T08:00:02.5505014+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:04:22.8915859+00:00"
+  "LastUpdate_Ratings": "2023-11-18T09:00:13.1991644+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:04:38.558757+00:00"
 }

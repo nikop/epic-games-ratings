@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -1091,9 +1091,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 210
     },
     {
       "ID": "RenaissanceRobot",
@@ -1107,9 +1107,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "Signatory",
@@ -1139,9 +1139,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "TeamSpirit",
@@ -1235,9 +1235,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "Wanderers",
@@ -1284,8 +1284,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-18T08:05:29.4206141+00:00",
+  "LastChanged_Achievements": "2023-11-18T09:05:47.0486285+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-18T07:59:52.4549825+00:00",
-  "LastUpdate_Achievements": "2023-11-18T08:05:29.4206562+00:00"
+  "LastUpdate_Ratings": "2023-11-18T09:00:02.4071692+00:00",
+  "LastUpdate_Achievements": "2023-11-18T09:05:47.0486664+00:00"
 }

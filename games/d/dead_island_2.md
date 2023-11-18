@@ -1,20 +1,20 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 524)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | One of Us | 2.00% | ~910 |
 | Whatever It Takes | 2.00% | ~910 |
 | Pork Chopped | 2.00% | ~910 |
-| Break A Leg | 1.00% | ~7,199 |
-| Hotel California | 1.00% | ~7,199 |
-| Welcome To Hell-A | 1.00% | ~7,199 |
-| Git Gutte! | 0.90% | ~6,479 |
-| Coup de Grâce | 0.90% | ~6,479 |
-| Hazardous Materials | 0.90% | ~6,479 |
-| Personal Assistant Personally Assisted | 0.90% | ~6,479 |
+| Break A Leg | 1.00% | ~7,200 |
+| Hotel California | 1.00% | ~7,200 |
+| Welcome To Hell-A | 1.00% | ~7,200 |
+| Git Gutte! | 0.90% | ~6,480 |
+| Coup de Grâce | 0.90% | ~6,480 |
+| Hazardous Materials | 0.90% | ~6,480 |
+| Personal Assistant Personally Assisted | 0.90% | ~6,480 |
 | Dr. Reed, I Presume? | 0.80% | ~5,760 |
 | Anger Management | 0.80% | ~5,760 |
 | Bookworm | 0.80% | ~5,760 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,940 (Ranked 20)  
+Progressed: 719,956 (Ranked 20)  
 Completed: 2,406 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,10 +269,10 @@ Completed: 2,406 (0.33%) (Ranked 227)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 719,940 | 2,406 |
+| 2023-11-18 | 719,956 | 2,406 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 52)  
-Sum: 11,480 (Ranked 84)  
+Sum: 11,481 (Ranked 84)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): -32
 | This game is Great for Beginners | 575 |
 | This game has Diverse Characters | 551 |
 | This game has Quickly Understood Controls | 520 |
-| This game is Relaxing | 497 |
+| This game is Relaxing | 498 |
 | This game has Amazing Storytelling | 475 |
 | This game is Highly Recommended | 461 |
 | This game is Extremely Fun | 458 |
@@ -499,4 +499,4 @@ Diff (max vs sum): -32
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
-| 2023-11-18 | 4.54 | 7,519 | 11,480 |
+| 2023-11-18 | 4.54 | 7,519 | 11,481 |
