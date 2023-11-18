@@ -20,7 +20,7 @@
 | Tear of Freedom | 54.00% | ~394 |
 | My Darkest Day | 50.00% | ~365 |
 | Rhythm Of Willump | 48.00% | ~350 |
-| The Relentless Storm | 47.00% | ~343 |
+| The Relentless Storm | 48.00% | ~350 |
 | A Tragic Reminder | 45.00% | ~328 |
 | 3000 Year Blackout | 44.00% | ~321 |
 | The Finisher | 43.00% | ~314 |
@@ -34,7 +34,7 @@
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~270 |
 | Freeze The Ice Witch | 36.00% | ~263 |
 | On The Rocks | 36.00% | ~263 |
-| It Is Not Over | 34.00% | ~248 |
+| It Is Not Over | 35.00% | ~255 |
 | Never Gets Old | 33.00% | ~241 |
 | Snowy Poro | 32.00% | ~234 |
 | Vertical Power | 29.00% | ~212 |

@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,835 |
-| Worth it | 63.00% | ~40,251 |
-| Eagle Eye | 55.00% | ~35,140 |
-| Corpseman I | 40.00% | ~25,556 |
-| Blast fishing | 37.00% | ~23,640 |
-| Not alone | 32.00% | ~20,445 |
+| Setting an example | 78.00% | ~49,837 |
+| Worth it | 63.00% | ~40,253 |
+| Eagle Eye | 55.00% | ~35,142 |
+| Corpseman I | 40.00% | ~25,558 |
+| Blast fishing | 37.00% | ~23,641 |
+| Not alone | 32.00% | ~20,446 |
 | Headhunter I | 26.00% | ~16,612 |
-| Manual Labour I | 25.00% | ~15,973 |
-| Developers, Developers, Developers | 24.00% | ~15,334 |
-| Basic Training | 24.00% | ~15,334 |
+| Manual Labour I | 25.00% | ~15,974 |
+| Developers, Developers, Developers | 24.00% | ~15,335 |
+| Basic Training | 24.00% | ~15,335 |
 | Furchtlos und Treu | 13.00% | ~8,306 |
 | Gott Mit Uns | 12.00% | ~7,667 |
 | This We'll Defend! | 9.00% | ~5,750 |
 | Anker wirf! | 9.00% | ~5,750 |
 | Providentiea Memor | 9.00% | ~5,750 |
 | For King and Country | 9.00% | ~5,750 |
-| Battle hardened | 8.00% | ~5,111 |
-| Semper Fidelis! | 7.00% | ~4,472 |
-| Honneur et Patrie | 7.00% | ~4,472 |
+| Battle hardened | 8.00% | ~5,112 |
+| Semper Fidelis! | 7.00% | ~4,473 |
+| Honneur et Patrie | 7.00% | ~4,473 |
 | In Treue Fest | 5.00% | ~3,195 |
 | Voor De Koning | 5.00% | ~3,195 |
 | Extreme Headhunter | 5.00% | ~3,195 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,891 (Ranked 105)  
+Progressed: 63,894 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 4 (0.01%) (Ranked 333)
 | 2023-11-15 | 63,664 | 4 |
 | 2023-11-16 | 63,736 | 4 |
 | 2023-11-17 | 63,841 | 4 |
-| 2023-11-18 | 63,891 | 4 |
+| 2023-11-18 | 63,894 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 350)  
 Sum: 911 (Ranked 271)  

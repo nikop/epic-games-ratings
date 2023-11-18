@@ -6,21 +6,21 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~11,436 |
-| Battering Crew | 20.00% | ~5,718 |
-| The Kingsroad | 18.00% | ~5,146 |
+| Conqueror | 40.00% | ~11,437 |
+| Battering Crew | 20.00% | ~5,719 |
+| The Kingsroad | 18.00% | ~5,147 |
 | Well Stocked | 14.00% | ~4,003 |
 | Royal Fleet | 13.00% | ~3,717 |
 | The Kraken’s Grasp | 9.00% | ~2,573 |
 | Daggers in the Dark | 8.00% | ~2,287 |
 | Alliance | 8.00% | ~2,287 |
 | A Long Journey | 8.00% | ~2,287 |
-| Winter is Coming | 7.00% | ~2,001 |
-| Oathkeeper | 7.00% | ~2,001 |
-| Influential | 7.00% | ~2,001 |
-| Ours is the Fury | 6.00% | ~1,715 |
-| We Do Not Sow | 6.00% | ~1,715 |
-| Defender of the Wall | 6.00% | ~1,715 |
+| Winter is Coming | 7.00% | ~2,002 |
+| Oathkeeper | 7.00% | ~2,002 |
+| Influential | 7.00% | ~2,002 |
+| Ours is the Fury | 6.00% | ~1,716 |
+| We Do Not Sow | 6.00% | ~1,716 |
+| Defender of the Wall | 6.00% | ~1,716 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,430 |
 | Growing Strong | 5.00% | ~1,430 |
 | Hear me Roar! | 5.00% | ~1,430 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~572 |
 | War of the Five Kings | 1.00% | ~286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,591 (Ranked 125)  
+Progressed: 28,593 (Ranked 125)  
 Completed: 78 (0.27%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 78 (0.27%) (Ranked 240)
 | 2023-11-15 | 28,411 | 77 |
 | 2023-11-16 | 28,490 | 77 |
 | 2023-11-17 | 28,566 | 77 |
-| 2023-11-18 | 28,591 | 78 |
+| 2023-11-18 | 28,593 | 78 |
 ## Awards
 Max (Quickly Understood Controls): 126  (Ranked 334)  
 Sum: 797 (Ranked 282)  

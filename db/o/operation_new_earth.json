@@ -71,7 +71,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1849,
+  "EOS_Progressed": 1850,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -6956,6 +6956,11 @@
       "Time": "2023-11-18T10:04:15.336624+00:00",
       "NumProgressed": 1849,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T13:07:04.0506551+00:00",
+      "NumProgressed": 1850,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6975,7 +6980,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7079,7 +7084,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7119,7 +7124,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -7263,14 +7268,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1849,
+      "Progressed": 1850,
       "Completed": 1
     }
   ],
@@ -7278,8 +7283,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-15T21:00:03.3726924+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:04:13.6381884+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:07:04.0506547+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:57:48.59149+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:04:13.6382407+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:00:40.5039534+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:07:04.0507094+00:00"
 }

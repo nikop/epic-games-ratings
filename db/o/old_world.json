@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15368,
+  "EOS_Progressed": 15369,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16145,6 +16145,11 @@
       "Time": "2023-11-18T12:03:39.1803717+00:00",
       "NumProgressed": 15368,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-18T13:06:29.0504796+00:00",
+      "NumProgressed": 15369,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17578,9 +17583,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -18891,21 +18896,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15368,
+      "Progressed": 15369,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15368,
+      "Progressed": 15369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:03:39.1803713+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:06:29.0504794+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:58:53.3350541+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:03:39.1812347+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:01:47.7451724+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:06:29.0513473+00:00"
 }

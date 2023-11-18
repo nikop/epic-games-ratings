@@ -859,7 +859,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11036,
+  "EOS_Progressed": 11037,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
@@ -12994,6 +12994,11 @@
       "Time": "2023-11-17T23:10:31.003116+00:00",
       "NumProgressed": 11036,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-18T13:10:59.5425276+00:00",
+      "NumProgressed": 11037,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13109,7 +13114,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "ACH15",
@@ -13181,7 +13186,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "ACH24",
@@ -13189,7 +13194,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACH25",
@@ -13197,7 +13202,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACH26",
@@ -13276,7 +13281,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11036,
+      "Progressed": 11037,
       "Completed": 65
     }
   ],
@@ -13284,8 +13289,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:08:28.6917747+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:10:59.5425274+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:58:05.0291642+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:08:28.6918748+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:00:57.3968822+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:10:59.5425909+00:00"
 }

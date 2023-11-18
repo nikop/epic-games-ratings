@@ -17,9 +17,9 @@
 | The Neuro-connector | 19.00% | ~21 |
 | Flatline | 19.00% | ~21 |
 | Mind Over Matter | 19.00% | ~21 |
+| Full and Final Settlement | 18.00% | ~19 |
 | Unstoppable | 18.00% | ~19 |
-| Full and Final Settlement | 17.00% | ~18 |
-| One Click Away | 17.00% | ~18 |
+| One Click Away | 18.00% | ~19 |
 | Cyborg | 12.00% | ~13 |
 | Lifter | 10.00% | ~11 |
 | Brain-hacker | 9.00% | ~10 |

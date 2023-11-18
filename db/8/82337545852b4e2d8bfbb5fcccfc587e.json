@@ -2,9 +2,9 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "EpicACHV_12",
@@ -666,9 +666,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "EpicACHV_8",
@@ -697,8 +697,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:05:38.9632058+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:08:31.1772681+00:00",
   "LastUpdate_AppInfo": "2023-11-15T11:57:01.8293407+00:00",
-  "LastUpdate_Ratings": "2023-11-18T12:00:14.1112167+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:05:38.96322+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:05:22.2834317+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:08:31.1772777+00:00"
 }

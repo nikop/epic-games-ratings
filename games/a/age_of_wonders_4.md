@@ -1,17 +1,17 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 383)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 3.00% | ~162 |
 | Realm Estate | 2.00% | ~108 |
 | Secret Technique | 2.00% | ~108 |
+| Walls Cannot Stop Us | 2.00% | ~108 |
 | There Can Only Be One! | 1.00% | ~54 |
 | Full Ascension | 1.00% | ~54 |
 | A Wonderful Discovery | 1.00% | ~54 |
-| Walls Cannot Stop Us | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |
 | From Friends to Family | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |

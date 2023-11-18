@@ -3,8 +3,8 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2187,9 +2187,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 373
     },
     {
       "ID": "DevilRope",
@@ -2283,9 +2283,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 218
     },
     {
       "ID": "PitSoul",
@@ -2427,9 +2427,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 218
     },
     {
       "ID": "WormGrilled",
@@ -2450,8 +2450,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:04:10.0595452+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:07:00.4805182+00:00",
   "LastUpdate_AppInfo": "2023-11-14T23:57:11.8055688+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:59:42.2663+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:04:10.0595807+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:02:38.2447579+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:07:00.4805582+00:00"
 }

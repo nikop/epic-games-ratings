@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.90% | ~1,264 |
 | Laden with Loot | 0.90% | ~1,264 |
 | Seasoned Journeyman | 0.90% | ~1,264 |
+| Scourge of the Seas | 0.90% | ~1,264 |
 | Black Friday Special | 0.90% | ~1,264 |
 | Special Ingredient | 0.90% | ~1,264 |
 | Complete Monopoly | 0.90% | ~1,264 |
@@ -78,7 +79,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.80% | ~1,123 |
 | Necromancer Queen | 0.80% | ~1,123 |
 | Master Merchant | 0.80% | ~1,123 |
-| Scourge of the Seas | 0.80% | ~1,123 |
 | Attrition Mission | 0.80% | ~1,123 |
 | Glittering Collection | 0.80% | ~1,123 |
 | Master Recycler | 0.80% | ~1,123 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,392 (Ranked 80)  
+Progressed: 140,402 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
-| 2023-11-18 | 140,392 | 187 |
+| 2023-11-18 | 140,402 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,563 (Ranked 50)  

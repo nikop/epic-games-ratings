@@ -11,8 +11,8 @@ Rating: 4.74 (Ranked 157)
 | With Great Power… | 41.00% | ~339 |
 | This Belongs in a Museum | 37.00% | ~306 |
 | The Gambit Has Begun | 34.00% | ~281 |
+| Somewhere Deep in the Lost Caribbean | 31.00% | ~256 |
 | Powder Monkey | 31.00% | ~256 |
-| Somewhere Deep in the Lost Caribbean | 30.00% | ~248 |
 | Mirror Mirror on the Wall | 30.00% | ~248 |
 | Pirates Assemble! | 27.00% | ~223 |
 | Buccaneer | 24.00% | ~198 |

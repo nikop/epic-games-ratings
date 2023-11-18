@@ -2,12 +2,12 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 859,
+  "Ranking_Rating": 860,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
@@ -4745,10 +4745,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 7346,
       "NumberOfAwardsMax": 3855
+    },
+    {
+      "Time": "2023-11-18T13:02:56.1195039+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 7347,
+      "NumberOfAwardsMax": 3855
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7346,
+  "NumberOfAwards": 7347,
   "NumberOfAwardsMax": 3855,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4804,7 +4810,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 327
+      "Count": 328
     }
   ],
   "EOS_Progressed": 0,
@@ -4818,8 +4824,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2023-11-17T18:59:56.9705125+00:00",
+  "LastChanged": "2023-11-18T13:02:56.1195037+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.1896465+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:59:58.3893749+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:04:40.8671287+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:02:56.1195042+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:07:31.6164381+00:00"
 }

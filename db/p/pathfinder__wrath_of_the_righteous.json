@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 127,
+  "Ranking_Rating": 126,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 157,
@@ -4179,10 +4179,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7062,
       "NumberOfAwardsMax": 1743
+    },
+    {
+      "Time": "2023-11-18T13:01:17.4682449+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7063,
+      "NumberOfAwardsMax": 1743
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7062,
+  "NumberOfAwards": 7063,
   "NumberOfAwardsMax": 1743,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4232,7 +4238,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 556
+      "Count": 557
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16613,9 +16619,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-17T17:57:58.401764+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:08:33.849937+00:00",
+  "LastChanged": "2023-11-18T13:01:17.4682448+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:11:05.0731819+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:58:24.512618+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:08:33.8501342+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:01:17.4682452+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:11:05.0733613+00:00"
 }

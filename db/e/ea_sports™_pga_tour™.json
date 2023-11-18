@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -1865,6 +1865,11 @@
       "Time": "2023-11-18T03:08:37.6111741+00:00",
       "NumProgressed": 541,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-18T13:11:27.0431351+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1877,7 +1882,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_10",
@@ -1885,15 +1890,15 @@
       "Name": "Holey Moley",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_12",
@@ -1933,7 +1938,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "achievement_17",
@@ -1941,7 +1946,7 @@
       "Name": "Clean Sheet",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_18",
@@ -1957,7 +1962,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_3",
@@ -1965,7 +1970,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_4",
@@ -1973,7 +1978,7 @@
       "Name": "From Many, One",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_5",
@@ -1981,7 +1986,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_6",
@@ -1997,7 +2002,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_8",
@@ -2005,7 +2010,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_9",
@@ -2020,13 +2025,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:08:55.7017565+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:11:27.0431348+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:57:00.1595868+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:08:55.7017789+00:00"
+  "LastUpdate_Ratings": "2023-11-18T12:59:50.9271858+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:11:27.043156+00:00"
 }

@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Master trainee | 8.00% | ~3 |
 | You have three wishes left | 8.00% | ~3 |
+| A continent with chemistry | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
 | Jung's dream | 5.00% | ~2 |
@@ -15,13 +16,13 @@
 | The battle of Great Britain | 5.00% | ~2 |
 | Pulp! Terror Tales in the Night | 5.00% | ~2 |
 | Pulp! Where Monsters Dwell | 5.00% | ~2 |
-| A continent with chemistry | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
 | The scholar | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
+| The happy farmer girl | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -47,7 +48,6 @@
 | Vaccine fans | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
-| The happy farmer girl | 0.00% | ~0 |
 | Diagnosis: fear | 0.00% | ~0 |
 | Ambition is... blind | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |

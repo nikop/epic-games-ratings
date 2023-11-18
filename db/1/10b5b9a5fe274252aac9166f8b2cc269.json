@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
@@ -1947,9 +1947,9 @@
       "ID": "PORTRAIT_10",
       "SetID": "2fge00i",
       "Name": "Portrait 1",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "PORTRAIT_11",
@@ -2106,8 +2106,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:08:47.1700992+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:11:18.1529871+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:06.0015445+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:57:38.085153+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:08:47.1701516+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:00:29.4784136+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:11:18.1530048+00:00"
 }

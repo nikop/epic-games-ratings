@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7105,9 +7105,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140392,
+  "EOS_Progressed": 140402,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1116,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28890,6 +28890,11 @@
       "Time": "2023-11-18T12:04:21.270909+00:00",
       "NumProgressed": 140392,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-18T13:07:11.9728763+00:00",
+      "NumProgressed": 140402,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -29603,9 +29608,9 @@
       "ID": "polonia_a",
       "SetID": "anfd17p",
       "Name": "Scourge of the Seas",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1264
     },
     {
       "ID": "quest01",
@@ -29796,15 +29801,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140392,
+      "Progressed": 140402,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-18T07:59:25.41898+00:00",
-  "LastChanged_Achievements": "2023-11-18T12:04:21.2709087+00:00",
+  "LastChanged_Achievements": "2023-11-18T13:07:11.972876+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-18T11:59:38.4092317+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:04:21.2710969+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:02:34.2239094+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:07:11.9730552+00:00"
 }

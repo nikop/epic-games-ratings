@@ -2,12 +2,12 @@
   "ID": "fa11862b1cfd42e3b3c6395af46efe3e",
   "Name": "Yooka-Laylee and the Impossible Lair",
   "ProductSlug": "yooka-laylee-and-the-impossible-lair",
-  "Ranking_Rating": 772,
+  "Ranking_Rating": 771,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2017-04-11T16:00:00+00:00",
@@ -762,6 +762,6 @@
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
   "LastChanged": "2023-11-08T10:02:57.4174292+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:58.8321683+00:00",
-  "LastUpdate_Ratings": "2023-11-18T12:02:47.8064928+00:00",
-  "LastUpdate_Achievements": "2023-11-18T12:08:31.5350495+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:05:34.9762056+00:00",
+  "LastUpdate_Achievements": "2023-11-18T13:11:02.5703318+00:00"
 }
