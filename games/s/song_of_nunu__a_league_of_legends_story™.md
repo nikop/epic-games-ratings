@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 77.00% | ~570 |
 | I Broke It | 73.00% | ~540 |
-| Better On Ice | 70.00% | ~518 |
+| Better On Ice | 71.00% | ~525 |
 | Notai Notes | 70.00% | ~518 |
 | Blue Dreams | 69.00% | ~511 |
 | He's Famous! | 69.00% | ~511 |
@@ -30,12 +30,12 @@
 | Bullseye | 38.00% | ~281 |
 | Boosted! | 38.00% | ~281 |
 | Family | 37.00% | ~274 |
+| Biggest Snowball Ever | 37.00% | ~274 |
 | On The Rocks | 37.00% | ~274 |
-| Biggest Snowball Ever | 36.00% | ~266 |
+| Deadliest and Biggest Snowball Ever! | 37.00% | ~274 |
 | Freeze The Ice Witch | 36.00% | ~266 |
-| Deadliest and Biggest Snowball Ever! | 36.00% | ~266 |
-| It Is Not Over | 34.00% | ~252 |
-| Never Gets Old | 33.00% | ~244 |
+| It Is Not Over | 35.00% | ~259 |
+| Never Gets Old | 34.00% | ~252 |
 | Snowy Poro | 32.00% | ~237 |
 | Vertical Power | 29.00% | ~215 |
 | One From The Heart | 14.00% | ~104 |

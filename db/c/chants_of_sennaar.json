@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.37,
+  "EOS_Completed_Percentage": 5.36,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2540,6 +2540,11 @@
       "Time": "2023-11-18T17:05:44.4255932+00:00",
       "NumProgressed": 596,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T20:05:38.6337599+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2599,7 +2604,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2607,15 +2612,15 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2647,7 +2652,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2685,9 +2690,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2741,23 +2746,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 113
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:05:15.4946848+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:05:38.6337596+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:00:09.1094794+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:05:15.4947117+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:00:52.7233758+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:05:38.633791+00:00"
 }

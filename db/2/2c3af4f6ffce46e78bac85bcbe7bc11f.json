@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -545,9 +545,9 @@
       "ID": "Butterfly",
       "SetID": "6j29jep",
       "Name": "Something gentle...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Butterfly_Fragile",
@@ -617,9 +617,9 @@
       "ID": "Home",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Home_Fragile",
@@ -665,9 +665,9 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Star",
@@ -705,9 +705,9 @@
       "ID": "Water",
       "SetID": "6j29jep",
       "Name": "Something reflective...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Water_Fragile",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:03:56.2535097+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:03:51.0954946+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:05.5071455+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:59:14.7342544+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:03:56.2535314+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:59:31.836313+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:03:51.0955158+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 78,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -139,7 +139,7 @@
   "Tags": [],
   "EOS_Progressed": 8529,
   "EOS_Completed": 137,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
@@ -3795,9 +3795,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7591
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -4132,8 +4132,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-18T03:59:21.6307049+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:04:43.0898519+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:04:54.2769172+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.4892963+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:00:20.5005236+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:04:43.0898997+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:01:09.2602724+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:04:54.2769571+00:00"
 }

@@ -41,41 +41,41 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 3.00% | ~461 |
 | Naming Landmarks | 3.00% | ~461 |
 | Trade Caravan | 3.00% | ~461 |
-| Regicide | 2.00% | ~307 |
-| Beloved | 2.00% | ~307 |
-| Drillmaster | 2.00% | ~307 |
-| Brilliant | 2.00% | ~307 |
-| Fountainhead | 2.00% | ~307 |
-| Great | 2.00% | ~307 |
-| Intercessor | 2.00% | ~307 |
-| Mighty | 2.00% | ~307 |
-| Valiant | 2.00% | ~307 |
-| Victorious | 2.00% | ~307 |
-| Wise | 2.00% | ~307 |
-| Legendary Cities | 2.00% | ~307 |
-| Just Difficulty | 2.00% | ~307 |
-| Artisans | 2.00% | ~307 |
-| Champions | 2.00% | ~307 |
-| Sages | 2.00% | ~307 |
-| Furious Family | 2.00% | ~307 |
-| Acropolis | 2.00% | ~307 |
-| Apadana | 2.00% | ~307 |
-| Colossus | 2.00% | ~307 |
-| Great Ziggurat | 2.00% | ~307 |
-| Mausoleum | 2.00% | ~307 |
-| Musaeum | 2.00% | ~307 |
-| Necropolis | 2.00% | ~307 |
-| Learn to Play 1 | 2.00% | ~307 |
-| Learn to Play 2 | 2.00% | ~307 |
-| Manichaeism | 2.00% | ~307 |
-| Carthaginian Paganism | 2.00% | ~307 |
-| Egyptian Paganism | 2.00% | ~307 |
-| Zoroastrianism | 2.00% | ~307 |
-| Mythology | 2.00% | ~307 |
-| Points Victory | 2.00% | ~307 |
-| Win a Single Player Game | 2.00% | ~307 |
-| Kushite Pyramids | 2.00% | ~307 |
-| Kushite Paganism | 2.00% | ~307 |
+| Regicide | 2.00% | ~308 |
+| Beloved | 2.00% | ~308 |
+| Drillmaster | 2.00% | ~308 |
+| Brilliant | 2.00% | ~308 |
+| Fountainhead | 2.00% | ~308 |
+| Great | 2.00% | ~308 |
+| Intercessor | 2.00% | ~308 |
+| Mighty | 2.00% | ~308 |
+| Valiant | 2.00% | ~308 |
+| Victorious | 2.00% | ~308 |
+| Wise | 2.00% | ~308 |
+| Legendary Cities | 2.00% | ~308 |
+| Just Difficulty | 2.00% | ~308 |
+| Artisans | 2.00% | ~308 |
+| Champions | 2.00% | ~308 |
+| Sages | 2.00% | ~308 |
+| Furious Family | 2.00% | ~308 |
+| Acropolis | 2.00% | ~308 |
+| Apadana | 2.00% | ~308 |
+| Colossus | 2.00% | ~308 |
+| Great Ziggurat | 2.00% | ~308 |
+| Mausoleum | 2.00% | ~308 |
+| Musaeum | 2.00% | ~308 |
+| Necropolis | 2.00% | ~308 |
+| Learn to Play 1 | 2.00% | ~308 |
+| Learn to Play 2 | 2.00% | ~308 |
+| Manichaeism | 2.00% | ~308 |
+| Carthaginian Paganism | 2.00% | ~308 |
+| Egyptian Paganism | 2.00% | ~308 |
+| Zoroastrianism | 2.00% | ~308 |
+| Mythology | 2.00% | ~308 |
+| Points Victory | 2.00% | ~308 |
+| Win a Single Player Game | 2.00% | ~308 |
+| Kushite Pyramids | 2.00% | ~308 |
+| Kushite Paganism | 2.00% | ~308 |
 | Hanging Gardens in Babylon | 1.00% | ~154 |
 | Capable | 1.00% | ~154 |
 | Conqueror | 1.00% | ~154 |
@@ -152,23 +152,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
-| Bronze Victory (Carthage 1) | 0.40% | ~61 |
-| Ancient | 0.40% | ~61 |
-| Magnificent Difficulty | 0.40% | ~61 |
-| The Eternal Treaty | 0.40% | ~61 |
-| Run, Pheidippides, Run! | 0.40% | ~61 |
-| Assyria | 0.40% | ~61 |
-| Hatti | 0.40% | ~61 |
-| Persia | 0.40% | ~61 |
-| Pantheon of Gods | 0.40% | ~61 |
-| Play a Network Game | 0.40% | ~61 |
-| Capturing Cities | 0.40% | ~61 |
-| Three Man Chariot | 0.40% | ~61 |
-| Siege Tower | 0.40% | ~61 |
-| Conquest Victory | 0.40% | ~61 |
-| Necropolis in Waset | 0.40% | ~61 |
-| Greater Kmt Unified | 0.40% | ~61 |
-| Prosperous Kmt | 0.40% | ~61 |
+| Bronze Victory (Carthage 1) | 0.40% | ~62 |
+| Ancient | 0.40% | ~62 |
+| Magnificent Difficulty | 0.40% | ~62 |
+| The Eternal Treaty | 0.40% | ~62 |
+| Run, Pheidippides, Run! | 0.40% | ~62 |
+| Assyria | 0.40% | ~62 |
+| Hatti | 0.40% | ~62 |
+| Persia | 0.40% | ~62 |
+| Pantheon of Gods | 0.40% | ~62 |
+| Play a Network Game | 0.40% | ~62 |
+| Capturing Cities | 0.40% | ~62 |
+| Three Man Chariot | 0.40% | ~62 |
+| Siege Tower | 0.40% | ~62 |
+| Conquest Victory | 0.40% | ~62 |
+| Necropolis in Waset | 0.40% | ~62 |
+| Greater Kmt Unified | 0.40% | ~62 |
+| Prosperous Kmt | 0.40% | ~62 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,373 (Ranked 149)  
+Progressed: 15,375 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
-| 2023-11-18 | 15,373 | 5 |
+| 2023-11-18 | 15,375 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

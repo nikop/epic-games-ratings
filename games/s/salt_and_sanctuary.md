@@ -1,21 +1,21 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,009 |
-| The Three | 64.00% | ~344,682 |
-| The Banquet | 40.00% | ~215,426 |
-| Devara's Light | 31.00% | ~166,955 |
-| The Iron Ones | 19.00% | ~102,327 |
-| The Village | 17.00% | ~91,556 |
+| Find Sanctuary | 83.00% | ~447,011 |
+| The Three | 64.00% | ~344,684 |
+| The Banquet | 40.00% | ~215,427 |
+| Devara's Light | 31.00% | ~166,956 |
+| The Iron Ones | 19.00% | ~102,328 |
+| The Village | 17.00% | ~91,557 |
 | The Forest | 15.00% | ~80,785 |
-| The Keep | 14.00% | ~75,399 |
-| Branded | 13.00% | ~70,013 |
-| The Imposter | 13.00% | ~70,013 |
+| The Keep | 14.00% | ~75,400 |
+| Branded | 13.00% | ~70,014 |
+| The Imposter | 13.00% | ~70,014 |
 | The Castle | 11.00% | ~59,242 |
 | The Dome | 9.00% | ~48,471 |
 | The Red Hall | 9.00% | ~48,471 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,771 |
 | Fading Fast | 1.00% | ~5,386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,565 (Ranked 33)  
+Progressed: 538,568 (Ranked 33)  
 Completed: 1,615 (0.30%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 1,615 (0.30%) (Ranked 233)
 | 2023-11-15 | 538,336 | 1,614 |
 | 2023-11-16 | 538,419 | 1,614 |
 | 2023-11-17 | 538,489 | 1,614 |
-| 2023-11-18 | 538,565 | 1,615 |
+| 2023-11-18 | 538,568 | 1,615 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 254)  
 Sum: 1,997 (Ranked 212)  

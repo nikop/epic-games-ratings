@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -447,9 +447,9 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "IWM",
@@ -957,8 +957,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:10:15.3562268+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:10:25.2624446+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.6416395+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:00:06.6674421+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:10:15.3563013+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:00:49.0828844+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:10:25.2625536+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -986,9 +986,9 @@
       "ID": "Vanilla_Criftaa",
       "SetID": "27kik8p",
       "Name": "Huntress Unbound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Vanilla_DaneramsGambit",
@@ -1571,8 +1571,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:04:39.2750945+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:04:49.2740176+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.6346975+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:03:24.6827276+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:04:39.2751794+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:03:01.9049484+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:04:49.2741172+00:00"
 }

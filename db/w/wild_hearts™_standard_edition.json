@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 296,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -1473,9 +1473,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_2",
@@ -1489,9 +1489,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_21",
@@ -1783,8 +1783,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:05:25.4928825+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:05:52.5162384+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:07.8893552+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:59.2519136+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:05:25.4929175+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:59:08.7861045+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:05:52.516274+00:00"
 }

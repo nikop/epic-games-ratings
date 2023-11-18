@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Trinity | 5.00% | ~10 |
 | I Found It | 5.00% | ~10 |
+| Adventurer | 4.00% | ~8 |
+| Scholar | 4.00% | ~8 |
 | Break Out | 3.00% | ~6 |
 | Find Allies | 3.00% | ~6 |
 | Powerful Allies | 3.00% | ~6 |
-| Adventurer | 3.00% | ~6 |
-| Scholar | 3.00% | ~6 |
+| Geared Up | 3.00% | ~6 |
 | Calm before the Storm | 2.00% | ~4 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Tributes of Caladrias | 2.00% | ~4 |
-| Geared Up | 2.00% | ~4 |
 | Fashion Victim | 2.00% | ~4 |
 | Airborne | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
@@ -41,7 +41,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.00% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191 (Ranked 383)  
+Progressed: 192 (Ranked 383)  
 Completed: 1 (0.52%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 1 (0.52%) (Ranked 198)
 | 2023-11-14 | 186 | 1 |
 | 2023-11-15 | 188 | 1 |
 | 2023-11-17 | 189 | 1 |
-| 2023-11-18 | 191 | 1 |
+| 2023-11-18 | 192 | 1 |

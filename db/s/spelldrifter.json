@@ -2,13 +2,13 @@
   "ID": "14d712e338ee4fe5b5304d959cd75cd2",
   "Name": "Spelldrifter",
   "ProductSlug": "spelldrifter",
-  "Ranking_Rating": 1022,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Rating": 1021,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-04-19T17:00:00+00:00",
     "PcReleaseDate": "2019-10-15T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.85,
+  "Rating": 3.86,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:19.3460949+00:00",
@@ -223,12 +223,26 @@
       "Rating": 3.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-18T19:59:58.1150501+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -241,8 +255,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:12.9716912+00:00",
   "FirstSeenRating": "2023-03-31T05:58:19.3460946+00:00",
-  "LastChanged": "2023-11-17T21:59:07.9997566+00:00",
+  "LastChanged": "2023-11-18T19:59:58.11505+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:01.450727+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:59:32.4071189+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:05:26.9612478+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:59:58.1150506+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:05:54.7380368+00:00"
 }

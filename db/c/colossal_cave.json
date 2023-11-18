@@ -2,10 +2,10 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,6 +136,11 @@
       "Time": "2023-11-11T06:04:54.6539233+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T20:05:22.2369173+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -147,7 +152,7 @@
       "Name": "We\u0027ve only just begun",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "02-YoureSpelunkinNow",
@@ -155,7 +160,7 @@
       "Name": "You\u0027re spelunkin\u0027 now!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "03-BirdmanOfTheCaves",
@@ -163,13 +168,13 @@
       "Name": "The Birdman of The Caves",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "04-CharminTheSnake",
       "SetID": "5iij4gg",
       "Name": "Charmin\u0027 the Snake",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 34
     },
@@ -177,9 +182,9 @@
       "ID": "05-DrumsInTheDeep",
       "SetID": "5iij4gg",
       "Name": "Drums in the Deep",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "06-CantBearTheWeight",
@@ -209,7 +214,7 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -225,7 +230,7 @@
       "ID": "11-StGeorgesGauntlet",
       "SetID": "5iij4gg",
       "Name": "St. George\u0027s Gauntlet",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -233,7 +238,7 @@
       "ID": "12-RedbeardsRevenger",
       "SetID": "5iij4gg",
       "Name": "Redbeard\u0027s Revenger",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -257,7 +262,7 @@
       "ID": "15-BJAndTheBear",
       "SetID": "5iij4gg",
       "Name": "BJ \u0026 The Bear",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -281,9 +286,9 @@
       "ID": "18-GreenThumbGoliath",
       "SetID": "5iij4gg",
       "Name": "Green Thumb Goliath",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "19-WhoDat",
@@ -338,7 +343,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 0
     }
   ],
@@ -346,8 +351,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:05:03.4891142+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:05:22.236917+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:10.6191872+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:14.5945093+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:05:03.4891288+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:58:03.9380609+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:05:22.2369317+00:00"
 }

@@ -8,7 +8,7 @@
 | Press-ganged | 44.00% | ~88 |
 | The Package | 27.00% | ~54 |
 | Conquered | 19.00% | ~38 |
-| Randomized | 17.00% | ~34 |
+| Randomized | 18.00% | ~36 |
 | Scribe | 10.00% | ~20 |
 | Breached | 10.00% | ~20 |
 | Conciliator | 9.00% | ~18 |
@@ -33,6 +33,7 @@
 | Unseen Patterns | 4.00% | ~8 |
 | Bounty Hunter | 3.00% | ~6 |
 | Potential Unlocked | 3.00% | ~6 |
+| Huntress Unbound | 3.00% | ~6 |
 | Xevarian Gambit | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
 | Life... Finds a Way | 3.00% | ~6 |
@@ -40,7 +41,6 @@
 | Making Contact | 2.00% | ~4 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
-| Huntress Unbound | 2.00% | ~4 |
 | Despised | 2.00% | ~4 |
 | Business As Usual | 2.00% | ~4 |
 | Legacy of a Mercenary | 2.00% | ~4 |

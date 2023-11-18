@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1478,7 +1478,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130944,
+  "EOS_Progressed": 130945,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
@@ -22273,6 +22273,11 @@
       "Time": "2023-11-18T19:07:10.0301464+00:00",
       "NumProgressed": 130944,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-18T20:08:15.9816865+00:00",
+      "NumProgressed": 130945,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22300,7 +22305,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_COP_APO",
@@ -22364,7 +22369,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36664
+      "UsersEstimate": 36665
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22468,7 +22473,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_HARDIE",
@@ -22588,7 +22593,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_WHATBODY",
@@ -22603,15 +22608,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130944,
+      "Progressed": 130945,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:07:10.0301459+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:08:15.9816861+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:16.3808552+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:07:10.0302752+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:58:06.3462167+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:08:15.9818417+00:00"
 }

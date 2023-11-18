@@ -3,12 +3,12 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1041,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1852,
+  "EOS_Progressed": 1855,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6966,6 +6966,11 @@
       "Time": "2023-11-18T19:05:10.5491601+00:00",
       "NumProgressed": 1852,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T20:05:31.5990889+00:00",
+      "NumProgressed": 1855,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6975,9 +6980,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 111
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7081,7 +7086,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7097,7 +7102,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7105,7 +7110,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -7161,7 +7166,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7169,7 +7174,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -7185,7 +7190,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -7201,7 +7206,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -7215,9 +7220,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 167
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7233,7 +7238,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7280,7 +7285,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1852,
+      "Progressed": 1855,
       "Completed": 1
     }
   ],
@@ -7288,8 +7293,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-15T21:00:03.3726924+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:05:10.5491597+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:05:31.5990885+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:38.2945878+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:05:10.5492208+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:58:38.6327403+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:05:31.5991431+00:00"
 }

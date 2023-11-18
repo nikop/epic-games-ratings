@@ -12,7 +12,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~206 |
 | The Plains of Strothalm | 68.00% | ~206 |
 | Experienced Thalya | 66.00% | ~200 |
-| Master of Magic | 62.00% | ~188 |
+| Master of Magic | 63.00% | ~191 |
 | Bad Elves Go Everywhere | 62.00% | ~188 |
 | Magic Accidents | 57.00% | ~173 |
 | Heroes’ Gorge | 57.00% | ~173 |
@@ -25,16 +25,16 @@
 | Hard Work | 40.00% | ~121 |
 | The Big Eaty | 40.00% | ~121 |
 | Pure Dynamite! | 38.00% | ~115 |
+| “… like son” | 34.00% | ~103 |
 | Mana Cannon | 33.00% | ~100 |
-| “… like son” | 33.00% | ~100 |
 | Dungeonlord Gorgu | 29.00% | ~88 |
 | Shame! Shame! Shame! | 28.00% | ~85 |
-| The Cathedral of Light | 26.00% | ~79 |
+| The Cathedral of Light | 27.00% | ~82 |
 | Tanos' Crusade Against Thalya | 23.00% | ~70 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~67 |
 | Hungry, Hungry Gorgu! | 19.00% | ~58 |
-| Unstoppable Horde | 18.00% | ~55 |
-| Master of the Undead | 18.00% | ~55 |
+| Unstoppable Horde | 19.00% | ~58 |
+| Master of the Undead | 19.00% | ~58 |
 | Forbidden Knowledge | 17.00% | ~52 |
 | All’s Well That Ends Evil | 17.00% | ~52 |
 | Sacrificial Pit = Garbage Disposal? | 14.00% | ~42 |
@@ -43,8 +43,8 @@
 | If Looks Could Kill | 13.00% | ~39 |
 | Stop Tanos! | 12.00% | ~36 |
 | The Finitude Drill | 11.00% | ~33 |
+| Sabotage! | 9.00% | ~27 |
 | Bonus Evilness | 8.00% | ~24 |
-| Sabotage! | 8.00% | ~24 |
 | My Little Torture Chamber | 7.00% | ~21 |
 | Doom Hill | 7.00% | ~21 |
 | Brimstone Shaken, Not Stirred | 7.00% | ~21 |

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 303,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -660,9 +660,9 @@
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "ach_main03demon_spells",
@@ -804,9 +804,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -828,17 +828,17 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_main10fire_naga",
@@ -868,9 +868,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_main12race_completed",
@@ -956,9 +956,9 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -1099,8 +1099,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:06:49.1538411+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:07:46.9576847+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:52.0792578+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:06:49.1538813+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:58:58.3057714+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:07:46.9577242+00:00"
 }

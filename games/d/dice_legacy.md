@@ -6,8 +6,8 @@ Rating: 4.26 (Ranked 867)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 41.00% | ~478 |
-| Manipulating Fate | 10.00% | ~116 |
-| The City | 10.00% | ~116 |
+| Manipulating Fate | 10.00% | ~117 |
+| The City | 10.00% | ~117 |
 | Full house | 7.00% | ~82 |
 | Hear me out | 7.00% | ~82 |
 | Burn and Pillage | 6.00% | ~70 |
@@ -29,7 +29,7 @@ Rating: 4.26 (Ranked 867)
 | The Mad | 1.00% | ~12 |
 | Like the dream | 1.00% | ~12 |
 | Charismatic Leader | 0.80% | ~9 |
-| Metropolis | 0.70% | ~8 |
+| Metropolis | 0.80% | ~9 |
 | Red Tape | 0.60% | ~7 |
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
@@ -51,7 +51,7 @@ Rating: 4.26 (Ranked 867)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,165 (Ranked 250)  
+Progressed: 1,166 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 1,162 | 0 |
 | 2023-11-16 | 1,163 | 0 |
 | 2023-11-17 | 1,165 | 0 |
+| 2023-11-18 | 1,166 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

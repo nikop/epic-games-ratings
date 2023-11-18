@@ -2,12 +2,12 @@
   "ID": "f61b77d79ac34dc08ac9649b225168dd",
   "Name": "Mago",
   "Ranking_Rating": 7,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -68,6 +68,6 @@
   "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
   "LastChanged": "2023-03-31T05:58:37.7263784+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.0226418+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:03:21.2074522+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:06:59.851276+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:02:56.7766245+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:08:01.7680403+00:00"
 }

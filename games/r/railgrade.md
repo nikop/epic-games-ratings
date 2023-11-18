@@ -1,38 +1,38 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 503)  
+Rating: 4.55 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 104.00% | ~19,182 |
-| Before the Downfall | 99.00% | ~18,260 |
-| Money like Water | 97.00% | ~17,891 |
-| Minimalist | 95.00% | ~17,522 |
-| Builder | 88.00% | ~16,231 |
-| Eraser | 74.00% | ~13,649 |
+| Trevithick's Legacy | 104.00% | ~19,181 |
+| Before the Downfall | 99.00% | ~18,259 |
+| Money like Water | 97.00% | ~17,890 |
+| Minimalist | 95.00% | ~17,521 |
+| Builder | 88.00% | ~16,230 |
+| Eraser | 74.00% | ~13,648 |
 | Pocket of Trains | 69.00% | ~12,726 |
-| Inspector | 63.00% | ~11,620 |
+| Inspector | 63.00% | ~11,619 |
 | Going the Distance | 57.00% | ~10,513 |
-| Oil Baron | 45.00% | ~8,300 |
-| Loads-a-Money | 45.00% | ~8,300 |
+| Oil Baron | 45.00% | ~8,299 |
+| Loads-a-Money | 45.00% | ~8,299 |
 | Helper of the People | 42.00% | ~7,746 |
-| Simplification | 36.00% | ~6,640 |
+| Simplification | 36.00% | ~6,639 |
 | Box of Trains | 35.00% | ~6,455 |
 | Let There be Light | 34.00% | ~6,271 |
-| Hot Water | 33.00% | ~6,087 |
-| Indecisive | 31.00% | ~5,718 |
-| The scenic route | 29.00% | ~5,349 |
+| Hot Water | 33.00% | ~6,086 |
+| Indecisive | 31.00% | ~5,717 |
+| The scenic route | 29.00% | ~5,348 |
 | Industrialist | 27.00% | ~4,980 |
 | Perfectionist | 25.00% | ~4,611 |
-| 8K is Enough for Everyone | 24.00% | ~4,427 |
-| Trains over Pipes | 24.00% | ~4,427 |
+| 8K is Enough for Everyone | 24.00% | ~4,426 |
+| Trains over Pipes | 24.00% | ~4,426 |
 | Man of Steel | 18.00% | ~3,320 |
 | Room Full of Trains | 13.00% | ~2,398 |
 | Investor | 10.00% | ~1,844 |
-| Multiverse | 8.00% | ~1,476 |
-| The poor groundwater levels | 8.00% | ~1,476 |
-| Metropolis | 8.00% | ~1,476 |
+| Multiverse | 8.00% | ~1,475 |
+| The poor groundwater levels | 8.00% | ~1,475 |
+| Metropolis | 8.00% | ~1,475 |
 | High Flier | 4.00% | ~738 |
 | To infinity, and beyond! | 3.00% | ~553 |
 | Space industrialization | 2.00% | ~369 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 503)
 | Overdeer | 0.60% | ~111 |
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,444 (Ranked 142)  
+Progressed: 18,443 (Ranked 142)  
 Completed: 28 (0.15%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |

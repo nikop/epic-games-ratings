@@ -3,12 +3,12 @@
   "Name": "The End is Nigh",
   "ProductSlug": "the-end-is-nigh",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2017-07-12T15:00:00+00:00",
     "PcReleaseDate": "2017-06-12T15:00:00+00:00",
@@ -190,6 +190,6 @@
   "FirstSeenRating": "2022-08-04T20:31:15.3945222+00:00",
   "LastChanged": "2023-11-17T21:02:35.6262417+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.0354772+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:03:26.8911354+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:07:18.0041608+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:03:05.2117244+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:08:27.2757877+00:00"
 }

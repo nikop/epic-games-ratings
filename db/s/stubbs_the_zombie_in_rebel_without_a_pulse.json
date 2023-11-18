@@ -2,13 +2,13 @@
   "ID": "dcbacb85c17e4d39b885d0ba252dc8a7",
   "Name": "Stubbs the Zombie in Rebel Without a Pulse",
   "ProductSlug": "stubbs-the-zombie-in-rebel-without-a-pulse",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 790,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-14T15:00:00+00:00",
     "PcReleaseDate": "2005-11-15T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 249,
   "RatingHistory": [
     {
@@ -510,6 +510,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 52,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-11-18T19:58:22.9390286+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
@@ -535,8 +541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
-  "LastChanged": "2023-11-17T19:57:21.7148817+00:00",
+  "LastChanged": "2023-11-18T19:58:22.9390284+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:42.1802258+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:27.5562293+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:04:26.4150456+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:58:22.939029+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:04:31.601937+00:00"
 }

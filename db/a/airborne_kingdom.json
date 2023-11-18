@@ -3,12 +3,12 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 313,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7504,
+  "EOS_Progressed": 7505,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5773,6 +5773,11 @@
       "Time": "2023-11-18T13:08:04.3293437+00:00",
       "NumProgressed": 7504,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-18T20:06:54.251573+00:00",
+      "NumProgressed": 7505,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5816,7 +5821,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5862,9 +5867,9 @@
       "ID": "AK_KNOWLEDGE_SHARED",
       "SetID": "dfmb89",
       "Name": "Knowledge Shared",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1576
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5936,7 +5941,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5952,7 +5957,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5976,7 +5981,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5999,15 +6004,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7504,
+      "Progressed": 7505,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:06:11.0789554+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:06:54.2515726+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.536262+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:03:40.4934965+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:06:11.0789989+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:03:26.0262232+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:06:54.2516229+00:00"
 }

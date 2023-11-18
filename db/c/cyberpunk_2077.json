@@ -15368,9 +15368,9 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897220,
+  "EOS_Progressed": 897231,
   "EOS_Completed": 2785,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39428,6 +39428,11 @@
       "Time": "2023-11-18T19:04:16.3354052+00:00",
       "NumProgressed": 897220,
       "NumCompleted": 2785
+    },
+    {
+      "Time": "2023-11-18T20:04:18.6308863+00:00",
+      "NumProgressed": 897231,
+      "NumCompleted": 2785
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39512,7 +39517,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17944
+      "UsersEstimate": 17945
     },
     {
       "ID": "Gunslinger",
@@ -39880,7 +39885,7 @@
       "Name": "Relic Ruler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "UltimateSurvivor",
@@ -39975,21 +39980,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897220,
+      "Progressed": 897231,
       "Completed": 2785
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25843,
-      "Completed": 10234
+      "Progressed": 25854,
+      "Completed": 10235
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-18T18:59:15.2296311+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:04:16.3354048+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:04:18.6308859+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:59:15.2296318+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:04:16.3355253+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:59:32.5600636+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:04:18.6310825+00:00"
 }

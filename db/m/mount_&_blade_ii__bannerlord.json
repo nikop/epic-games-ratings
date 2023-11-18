@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8910,9 +8910,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65374,
+  "EOS_Progressed": 65376,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31225,6 +31225,11 @@
       "Time": "2023-11-18T19:10:04.7824878+00:00",
       "NumProgressed": 65374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T20:10:11.4416183+00:00",
+      "NumProgressed": 65376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31316,7 +31321,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "Dynasty",
@@ -31324,7 +31329,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "Entrepreneur",
@@ -31412,7 +31417,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "Jack of All Trades",
@@ -31428,7 +31433,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11767
+      "UsersEstimate": 11768
     },
     {
       "ID": "Kingslayer",
@@ -31460,7 +31465,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21573
+      "UsersEstimate": 21574
     },
     {
       "ID": "Lawbringer",
@@ -31532,7 +31537,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Roadkill",
@@ -31572,7 +31577,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "Swordbearer",
@@ -31580,7 +31585,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "The king is pleased",
@@ -31636,22 +31641,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65374,
+      "Progressed": 65376,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-18T17:58:27.1416995+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:10:04.7824874+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:10:11.4416179+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:58:26.0420887+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:10:04.7826466+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:58:20.6174712+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:10:11.4417581+00:00"
 }

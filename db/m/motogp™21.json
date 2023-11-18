@@ -2,13 +2,13 @@
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
   "ProductSlug": "motogp-21",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 489,
   "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 95,
   "RatingHistory": [
     {
@@ -272,6 +272,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-11-18T19:59:27.425825+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -303,8 +309,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2023-11-12T15:59:24.943838+00:00",
+  "LastChanged": "2023-11-18T19:59:27.4258249+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:04.0524415+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:59:11.7997516+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:07:04.7113507+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:59:27.4258253+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:08:08.752236+00:00"
 }

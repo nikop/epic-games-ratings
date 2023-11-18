@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-14T22:00:00+00:00",
     "PcReleaseDate": "2023-11-14T22:00:00+00:00",
@@ -79,9 +79,9 @@
       "ID": "b1run",
       "SetID": "80p8koc",
       "Name": "Cave Miner",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "b2run",
@@ -143,9 +143,9 @@
       "ID": "dollar",
       "SetID": "80p8koc",
       "Name": "Scrooger",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "elevators",
@@ -278,8 +278,8 @@
   ],
   "FirstSeen": "2023-11-16T11:57:58.3391653+00:00",
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:04:33.921219+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:04:41.7347674+00:00",
   "LastUpdate_AppInfo": "2023-11-12T17:57:22.5907529+00:00",
-  "LastUpdate_Ratings": "2023-11-18T18:59:26.4539992+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:04:33.9212337+00:00"
+  "LastUpdate_Ratings": "2023-11-18T19:59:48.8554729+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:04:41.7347795+00:00"
 }

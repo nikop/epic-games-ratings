@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -703,6 +703,11 @@
       "Time": "2023-11-18T19:08:38.1769666+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T20:08:40.7069161+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -737,9 +742,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "AttackCount",
@@ -769,9 +774,9 @@
       "ID": "BurrowBlocked",
       "SetID": "71c0n9i",
       "Name": "This Spot\u0027s Taken",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BurrowUp",
@@ -817,9 +822,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "Deepstrike",
@@ -859,7 +864,7 @@
       "Name": "Double Kill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FlameAttackKillCount",
@@ -993,9 +998,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1146,15 +1151,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:08:38.1769663+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:08:40.7069157+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:00:53.7748969+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:08:38.1770041+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:02:48.4314174+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:08:40.7069644+00:00"
 }

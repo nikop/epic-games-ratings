@@ -7,13 +7,14 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 23.00% | ~26 |
-| Double Kill | 17.00% | ~19 |
-| Critical Hit | 5.00% | ~6 |
-| Sorcerous Spree | 5.00% | ~6 |
+| Double Kill | 17.00% | ~20 |
 | Veteran | 5.00% | ~6 |
-| Dressed For Success | 4.00% | ~4 |
+| Critical Hit | 4.00% | ~5 |
+| Sorcerous Spree | 4.00% | ~5 |
+| Dressed For Success | 3.00% | ~3 |
 | Humiliation | 2.00% | ~2 |
 | Expert Essence Employment | 2.00% | ~2 |
+| This Spot's Taken | 0.90% | ~1 |
 | Versatile Wielder | 0.90% | ~1 |
 | Fully Charged | 0.90% | ~1 |
 | Infernal Influence | 0.90% | ~1 |
@@ -30,7 +31,6 @@ Number of Ratings: 292  (23.09.2022)
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
-| This Spot's Taken | 0.00% | ~0 |
 | Hello There | 0.00% | ~0 |
 | Unlimited Power! | 0.00% | ~0 |
 | Coming Through! | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 419)  
+Progressed: 115 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
-| 2023-11-18 | 111 | 0 |
+| 2023-11-18 | 115 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

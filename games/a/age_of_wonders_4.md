@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,32 +14,32 @@ Rating: 4.61 (Ranked 384)
 | Full Ascension | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |
 | From Friends to Family | 1.00% | ~54 |
+| Magical Synergy | 1.00% | ~54 |
 | Seat of Power | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | Chaos Surge | 1.00% | ~54 |
 | Valley of Wonders | 0.90% | ~49 |
 | Stronger Together | 0.90% | ~49 |
-| Magical Synergy | 0.90% | ~49 |
 | In a Liege of Your Own | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
+| Sehiran Oasis | 0.90% | ~49 |
 | Spoils of War | 0.90% | ~49 |
-| Sehiran Oasis | 0.80% | ~43 |
+| Seal the Deal | 0.80% | ~43 |
 | Digging for Treasure | 0.70% | ~38 |
+| Impenetrable Fortress | 0.70% | ~38 |
+| Here be Dragons | 0.70% | ~38 |
 | Tipping the Scales | 0.70% | ~38 |
-| Seal the Deal | 0.70% | ~38 |
 | Dawn of the Dread | 0.70% | ~38 |
 | Enchanted Archipelago | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
 | Fiery Friend | 0.60% | ~32 |
-| Impenetrable Fortress | 0.60% | ~32 |
-| Here be Dragons | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Prometheus Avenged | 0.60% | ~32 |
 | Return of the Wizard King | 0.50% | ~27 |
+| Arch Mage | 0.50% | ~27 |
 | Preparation Is Everything | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
 | A Conqueror's Cohort | 0.50% | ~27 |
-| Arch Mage | 0.40% | ~22 |
 | The Creator | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |

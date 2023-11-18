@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 384,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7246,9 +7246,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "19",
@@ -7366,9 +7366,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "32",
@@ -7430,9 +7430,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "4",
@@ -7526,9 +7526,9 @@
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "46",
@@ -7582,9 +7582,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "53",
@@ -7606,9 +7606,9 @@
       "ID": "55",
       "SetID": "7132754",
       "Name": "Seal the Deal",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "56",
@@ -7669,8 +7669,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-17T14:59:06.445111+00:00",
-  "LastChanged_Achievements": "2023-11-18T19:06:55.0420621+00:00",
+  "LastChanged_Achievements": "2023-11-18T20:07:55.2274412+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T19:00:11.7293065+00:00",
-  "LastUpdate_Achievements": "2023-11-18T19:06:55.0421402+00:00"
+  "LastUpdate_Ratings": "2023-11-18T20:00:56.6320226+00:00",
+  "LastUpdate_Achievements": "2023-11-18T20:07:55.2275189+00:00"
 }
