@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24358,
+  "EOS_Progressed": 24359,
   "EOS_Completed": 466,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23163,6 +23163,11 @@
       "Time": "2023-11-18T05:06:04.4851558+00:00",
       "NumProgressed": 24358,
       "NumCompleted": 466
+    },
+    {
+      "Time": "2023-11-18T07:07:45.9433869+00:00",
+      "NumProgressed": 24359,
+      "NumCompleted": 466
     }
   ],
   "TotalAchievements": 20,
@@ -23254,7 +23259,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "FOUND_MAMBA",
@@ -23262,7 +23267,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -23278,7 +23283,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "GAME_FINISHED",
@@ -23318,7 +23323,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "WEST_FINISHED",
@@ -23326,22 +23331,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24358,
+      "Progressed": 24359,
       "Completed": 466
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:07:20.1403826+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:07:45.9433862+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:58:45.114837+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:07:20.140508+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:58:55.4708256+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:07:45.9434998+00:00"
 }

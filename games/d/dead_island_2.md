@@ -28,12 +28,12 @@ Rating: 4.54 (Ranked 523)
 | Zombologist | 0.70% | ~5,039 |
 | A Patton Emerges | 0.70% | ~5,039 |
 | Our True Nature | 0.70% | ~5,039 |
-| Perks of the Job | 0.60% | ~4,319 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,319 |
-| Slayer Squad | 0.60% | ~4,319 |
-| Ooh, Shiny! | 0.60% | ~4,319 |
-| I Am the Resurrection | 0.60% | ~4,319 |
-| Max Headroom | 0.60% | ~4,319 |
+| Perks of the Job | 0.60% | ~4,320 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,320 |
+| Slayer Squad | 0.60% | ~4,320 |
+| Ooh, Shiny! | 0.60% | ~4,320 |
+| I Am the Resurrection | 0.60% | ~4,320 |
+| Max Headroom | 0.60% | ~4,320 |
 | Making Your Mark | 0.50% | ~3,600 |
 | Not Even My Final Form | 0.50% | ~3,600 |
 | Humanity Distilled | 0.50% | ~3,600 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,915 (Ranked 20)  
+Progressed: 719,925 (Ranked 20)  
 Completed: 2,405 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2,405 (0.33%) (Ranked 227)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 719,915 | 2,405 |
+| 2023-11-18 | 719,925 | 2,405 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 52)  
 Sum: 11,480 (Ranked 84)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12213,9 +12213,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 457947,
+  "EOS_Progressed": 457983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5992,
+  "EOS_NewPlayers": 5994,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36458,6 +36458,11 @@
       "Time": "2023-11-18T06:06:07.7143792+00:00",
       "NumProgressed": 457947,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T07:06:30.2769276+00:00",
+      "NumProgressed": 457983,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37307,9 +37312,9 @@
       "ID": "achievement_forever_golden",
       "SetID": "8p2n7he",
       "Name": "Forever Golden",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_forgive_me_for_i_have_sind",
@@ -39372,21 +39377,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 457947,
+      "Progressed": 457983,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 457947,
+      "Progressed": 457983,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-17T22:59:33.016006+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:06:07.7143787+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:06:30.276927+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:59:35.713486+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:06:07.7153735+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:59:53.1150357+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:06:30.2780001+00:00"
 }

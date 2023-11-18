@@ -5,34 +5,34 @@ Rating: 4.22 (Ranked 897)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 55.00% | ~6,926 |
-| First fall | 36.00% | ~4,533 |
-| Don't play with fire, kids | 27.00% | ~3,400 |
-| First steps | 27.00% | ~3,400 |
-| An Old Timer | 18.00% | ~2,267 |
-| I'll give this one a 0 star rating | 18.00% | ~2,267 |
-| 1.000.000 Scovilles | 18.00% | ~2,267 |
-| Hands up! | 16.00% | ~2,015 |
-| Feeling Better | 16.00% | ~2,015 |
-| Unfortunate Plumber | 15.00% | ~1,889 |
-| Don't interrupt my research! | 13.00% | ~1,637 |
-| A Good Read | 11.00% | ~1,385 |
-| Boot for an eye | 10.00% | ~1,259 |
-| Pacifist Run | 7.00% | ~882 |
-| Uh, Which Key is the Right One? | 6.00% | ~756 |
-| Golden fingers | 5.00% | ~630 |
-| OMG I FOUND A BUG | 5.00% | ~630 |
-| Spiky chin | 4.00% | ~504 |
-| Meat Machine | 4.00% | ~504 |
-| Merchant | 3.00% | ~378 |
-| Groovy! | 3.00% | ~378 |
-| Gentle hugs | 3.00% | ~378 |
-| I Think I'm Lost | 3.00% | ~378 |
-| Mmm, tasty | 3.00% | ~378 |
-| Untouchable | 3.00% | ~378 |
-| Good Murder | 3.00% | ~378 |
-| Body Building | 2.00% | ~252 |
-| Stranger in the Elevator | 2.00% | ~252 |
+| Fire safety | 55.00% | ~6,957 |
+| First fall | 36.00% | ~4,554 |
+| Don't play with fire, kids | 27.00% | ~3,415 |
+| First steps | 27.00% | ~3,415 |
+| An Old Timer | 18.00% | ~2,277 |
+| I'll give this one a 0 star rating | 18.00% | ~2,277 |
+| 1.000.000 Scovilles | 18.00% | ~2,277 |
+| Hands up! | 16.00% | ~2,024 |
+| Feeling Better | 16.00% | ~2,024 |
+| Unfortunate Plumber | 15.00% | ~1,897 |
+| Don't interrupt my research! | 13.00% | ~1,644 |
+| A Good Read | 11.00% | ~1,391 |
+| Boot for an eye | 10.00% | ~1,265 |
+| Pacifist Run | 7.00% | ~885 |
+| Uh, Which Key is the Right One? | 6.00% | ~759 |
+| Golden fingers | 5.00% | ~632 |
+| OMG I FOUND A BUG | 5.00% | ~632 |
+| Spiky chin | 4.00% | ~506 |
+| Meat Machine | 4.00% | ~506 |
+| Merchant | 3.00% | ~379 |
+| Groovy! | 3.00% | ~379 |
+| Gentle hugs | 3.00% | ~379 |
+| I Think I'm Lost | 3.00% | ~379 |
+| Mmm, tasty | 3.00% | ~379 |
+| Untouchable | 3.00% | ~379 |
+| Good Murder | 3.00% | ~379 |
+| Body Building | 2.00% | ~253 |
+| Stranger in the Elevator | 2.00% | ~253 |
 | Golden tongue | 1.00% | ~126 |
 | Infinite pleasure | 1.00% | ~126 |
 | Smothered in Meat | 1.00% | ~126 |
@@ -41,10 +41,10 @@ Rating: 4.22 (Ranked 897)
 | Where are those diamonds? | 1.00% | ~126 |
 | Blue Valentine | 1.00% | ~126 |
 | Can i be more unfortunate? | 0.80% | ~101 |
-| Now you see | 0.70% | ~88 |
+| Now you see | 0.70% | ~89 |
 | Don't Come Near Me | 0.50% | ~63 |
 | A Heap of Raw Meat | 0.50% | ~63 |
-| Athletic | 0.40% | ~50 |
+| Athletic | 0.40% | ~51 |
 | Golden eyes | 0.30% | ~38 |
 | Multi-Love | 0.30% | ~38 |
 | Swim in the Asphalt | 0.30% | ~38 |
@@ -73,7 +73,7 @@ Rating: 4.22 (Ranked 897)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,593 (Ranked 155)  
+Progressed: 12,649 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 5,862 | 0 |
 | 2023-11-16 | 9,719 | 0 |
 | 2023-11-17 | 12,074 | 0 |
-| 2023-11-18 | 12,593 | 0 |
+| 2023-11-18 | 12,649 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

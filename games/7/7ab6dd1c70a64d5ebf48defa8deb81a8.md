@@ -13,6 +13,7 @@
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Adventurer | 2.00% | ~4 |
+| Geared Up | 2.00% | ~4 |
 | Scholar | 2.00% | ~4 |
 | Tributes of Caladrias | 1.00% | ~2 |
 | Essence Blow | 1.00% | ~2 |
@@ -20,7 +21,6 @@
 | Flawless Victory | 1.00% | ~2 |
 | Big Bazar | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
-| Geared Up | 1.00% | ~2 |
 | Fashion Victim | 1.00% | ~2 |
 | The Collector | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |

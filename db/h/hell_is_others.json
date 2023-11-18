@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1249,7 +1249,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258487,
+  "EOS_Progressed": 258489,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
@@ -21744,6 +21744,11 @@
       "Time": "2023-11-18T06:05:59.6233568+00:00",
       "NumProgressed": 258487,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T07:06:21.0546166+00:00",
+      "NumProgressed": 258489,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -21763,7 +21768,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "Act3",
@@ -21803,7 +21808,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80131
+      "UsersEstimate": 80132
     },
     {
       "ID": "BackHomeNTimes",
@@ -21819,7 +21824,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "BreakNWindows",
@@ -21827,7 +21832,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -22123,7 +22128,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "Patrimony2",
@@ -22202,7 +22207,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258487,
+      "Progressed": 258489,
       "Completed": 3
     }
   ],
@@ -22210,8 +22215,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-17T15:57:42.0675492+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:05:59.6233566+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:06:21.0546163+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.1027511+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:57:54.3014319+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:05:59.6234741+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:57:57.7348728+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:06:21.0547541+00:00"
 }

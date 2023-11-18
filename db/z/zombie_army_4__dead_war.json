@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2382,9 +2382,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43889,
+  "EOS_Progressed": 43890,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8847,6 +8847,11 @@
       "Time": "2023-11-18T03:05:35.9543069+00:00",
       "NumProgressed": 43889,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-18T07:07:12.2490652+00:00",
+      "NumProgressed": 43890,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8858,7 +8863,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27211
+      "UsersEstimate": 27212
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8930,7 +8935,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17994
+      "UsersEstimate": 17995
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -8954,7 +8959,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6144
+      "UsersEstimate": 6145
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -8978,7 +8983,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14044
+      "UsersEstimate": 14045
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -9050,7 +9055,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27650
+      "UsersEstimate": 27651
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9066,7 +9071,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14922
+      "UsersEstimate": 14923
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -9074,7 +9079,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19311
+      "UsersEstimate": 19312
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -9082,7 +9087,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14044
+      "UsersEstimate": 14045
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -9130,7 +9135,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10094
+      "UsersEstimate": 10095
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -9154,7 +9159,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18433
+      "UsersEstimate": 18434
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -9162,7 +9167,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22383
+      "UsersEstimate": 22384
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -9186,7 +9191,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30283
+      "UsersEstimate": 30284
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -9298,7 +9303,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14922
+      "UsersEstimate": 14923
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -9322,7 +9327,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10533
+      "UsersEstimate": 10534
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -9354,7 +9359,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10094
+      "UsersEstimate": 10095
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -9362,7 +9367,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6583
+      "UsersEstimate": 6584
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -9385,15 +9390,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43889,
+      "Progressed": 43890,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-17T19:57:28.5659382+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:06:47.6501795+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:07:12.2490649+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:57:54.5573217+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:06:47.6502473+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:57:58.004142+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:07:12.2491295+00:00"
 }

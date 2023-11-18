@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15068,
+  "EOS_Progressed": 15070,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11512,6 +11512,11 @@
       "Time": "2023-11-18T05:06:32.7056991+00:00",
       "NumProgressed": 15068,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-18T07:08:25.3472772+00:00",
+      "NumProgressed": 15070,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11556,7 +11561,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "14",
@@ -11803,13 +11808,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15068,
+      "Progressed": 15070,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1022,
+      "Progressed": 1024,
       "Completed": 606
     }
   ],
@@ -11817,8 +11822,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:08:17.6082069+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:08:25.3472769+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:58:24.5385259+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:08:17.6082859+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:58:31.8472522+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:08:25.347359+00:00"
 }

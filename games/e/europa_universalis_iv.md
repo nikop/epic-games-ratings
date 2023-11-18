@@ -62,6 +62,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fine Financials | 0.10% | ~458 |
 | A Fine Goosestep | 0.10% | ~458 |
 | For the Emperor! | 0.10% | ~458 |
+| Forever Golden | 0.10% | ~458 |
 | Foul Mouthed | 0.10% | ~458 |
 | Four For Trade | 0.10% | ~458 |
 | Full House | 0.10% | ~458 |
@@ -240,7 +241,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
 | For the Glory | 0.00% | ~0 |
-| Forever Golden | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | From Humble Origins | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,947 (Ranked 41)  
+Progressed: 457,983 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 457,947 | 1 |
+| 2023-11-18 | 457,983 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 58,000 (Ranked 24)  

@@ -34,7 +34,7 @@
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~269 |
 | Freeze The Ice Witch | 36.00% | ~262 |
 | On The Rocks | 36.00% | ~262 |
-| It Is Not Over | 34.00% | ~247 |
+| It Is Not Over | 35.00% | ~254 |
 | Never Gets Old | 33.00% | ~240 |
 | Snowy Poro | 32.00% | ~233 |
 | Vertical Power | 29.00% | ~211 |

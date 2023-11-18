@@ -8137,9 +8137,9 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235635,
+  "EOS_Progressed": 235643,
   "EOS_Completed": 2457,
-  "EOS_NewPlayers": 1201,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31857,6 +31857,11 @@
       "Time": "2023-11-18T05:09:16.9742927+00:00",
       "NumProgressed": 235635,
       "NumCompleted": 2457
+    },
+    {
+      "Time": "2023-11-18T07:09:55.0556451+00:00",
+      "NumProgressed": 235643,
+      "NumCompleted": 2457
     }
   ],
   "TotalAchievements": 532,
@@ -31868,7 +31873,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "objective_completed_10",
@@ -36100,7 +36105,7 @@
       "Name": "Tomb of Champions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "objective_completed_1552",
@@ -36123,21 +36128,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201909,
+      "Progressed": 201917,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235635,
+      "Progressed": 235643,
       "Completed": 2457
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-17T23:59:02.6503012+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:09:42.3766223+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:09:55.0556446+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:59:26.2497316+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:09:42.378773+00:00"
+  "LastUpdate_Ratings": "2023-11-18T06:59:42.2167079+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:09:55.057967+00:00"
 }

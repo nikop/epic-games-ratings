@@ -36,12 +36,12 @@ Rating: 4.61 (Ranked 384)
 | Fiery Friend | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
 | Prometheus Avenged | 0.50% | ~27 |
+| A Conqueror's Cohort | 0.50% | ~27 |
 | Return of the Wizard King | 0.40% | ~22 |
 | Arch Mage | 0.40% | ~22 |
 | The Creator | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
 | Preparation Is Everything | 0.40% | ~22 |
-| A Conqueror's Cohort | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
 | The Eternal Court | 0.30% | ~16 |

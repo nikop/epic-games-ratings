@@ -79,9 +79,9 @@
 | The King of Cool | 2.00% | ~7 |
 | Such Great Heights | 2.00% | ~7 |
 | It is Payday | 2.00% | ~7 |
+| Scenario Success | 2.00% | ~7 |
 | Double Down | 1.00% | ~4 |
 | Lofty Landlord | 1.00% | ~4 |
-| Scenario Success | 1.00% | ~4 |
 | Artistic Largesse | 0.90% | ~3 |
 | High Hand | 0.90% | ~3 |
 | Poker Face | 0.60% | ~2 |

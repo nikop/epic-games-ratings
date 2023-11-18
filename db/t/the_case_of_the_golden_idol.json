@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -858,9 +858,9 @@
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "10",
@@ -874,9 +874,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "3",
@@ -1001,8 +1001,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:06:05.4786212+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:06:27.3772969+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.3694756+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:00:59.5586117+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:06:05.4786378+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:01:26.500357+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:06:27.37731+00:00"
 }

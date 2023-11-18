@@ -6639,9 +6639,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 719915,
+  "EOS_Progressed": 719925,
   "EOS_Completed": 2405,
-  "EOS_NewPlayers": 3581,
+  "EOS_NewPlayers": 3572,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30839,6 +30839,11 @@
       "Time": "2023-11-18T06:06:49.3194826+00:00",
       "NumProgressed": 719915,
       "NumCompleted": 2405
+    },
+    {
+      "Time": "2023-11-18T07:07:14.0594095+00:00",
+      "NumProgressed": 719925,
+      "NumCompleted": 2405
     }
   ],
   "TotalAchievements": 51,
@@ -30898,7 +30903,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach_bookworm",
@@ -30930,7 +30935,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -30946,7 +30951,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach_explorer",
@@ -31066,7 +31071,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach_magnum_opus",
@@ -31098,7 +31103,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach_salvation",
@@ -31146,7 +31151,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "ach_the_vcla",
@@ -31257,13 +31262,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719915,
+      "Progressed": 719925,
       "Completed": 2405
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45457,
+      "Progressed": 45467,
       "Completed": 36556
     }
   ],
@@ -31271,8 +31276,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-18T01:45:24.7904908+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:06:49.3194821+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:07:14.0594092+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-18T05:59:49.4698818+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:06:49.3196336+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:00:09.1727885+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:07:14.0595387+00:00"
 }

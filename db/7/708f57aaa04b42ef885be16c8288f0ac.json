@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5485,
+  "EOS_Progressed": 5487,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3590,6 +3590,11 @@
       "Time": "2023-11-18T05:09:02.8751477+00:00",
       "NumProgressed": 5485,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T07:09:34.4096288+00:00",
+      "NumProgressed": 5487,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3674,7 +3679,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3746,7 +3751,7 @@
       "Name": "Nasty!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "NoMoreTotems",
@@ -3873,7 +3878,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5485,
+      "Progressed": 5487,
       "Completed": 7
     }
   ],
@@ -3881,8 +3886,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-18T06:09:23.3303285+00:00",
+  "LastChanged_Achievements": "2023-11-18T07:09:34.4096284+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-18T06:02:29.874875+00:00",
-  "LastUpdate_Achievements": "2023-11-18T06:09:23.3303613+00:00"
+  "LastUpdate_Ratings": "2023-11-18T07:02:38.6206334+00:00",
+  "LastUpdate_Achievements": "2023-11-18T07:09:34.4096683+00:00"
 }
