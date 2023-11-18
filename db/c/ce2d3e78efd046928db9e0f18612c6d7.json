@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -315,17 +315,17 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -339,17 +339,17 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
@@ -371,9 +371,9 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 145,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:09:04.79777+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:10:22.5463311+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:00:19.0046319+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:09:04.7977843+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:02:55.5627102+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:10:22.5463398+00:00"
 }

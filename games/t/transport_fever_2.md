@@ -1,15 +1,15 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.70 (Ranked 213)  
+Rating: 4.70 (Ranked 212)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,431 |
+| First cargo item on board | 71.00% | ~1,319 |
 | First cargo item waiting | 71.00% | ~1,319 |
 | First bus stop | 70.00% | ~1,301 |
-| First cargo item on board | 70.00% | ~1,301 |
 | First passenger on board | 67.00% | ~1,245 |
 | First passenger waiting | 67.00% | ~1,245 |
 | First bus arrived | 66.00% | ~1,226 |

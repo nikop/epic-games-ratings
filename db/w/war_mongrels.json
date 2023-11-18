@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -2077,6 +2077,11 @@
       "Time": "2023-11-18T15:08:46.4666739+00:00",
       "NumProgressed": 622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T16:09:56.4591972+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2190,9 +2195,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_COLL_20",
@@ -2200,7 +2205,7 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2216,15 +2221,15 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2270,9 +2275,9 @@
       "ID": "ACH_COLL_CH08",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VIII",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_COLL_CH09",
@@ -2312,7 +2317,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2328,7 +2333,7 @@
       "Name": "The Motivation",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2360,7 +2365,7 @@
       "Name": "The Horror",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2390,9 +2395,9 @@
       "ID": "ACH_FIN_CH11",
       "SetID": "1j25agn",
       "Name": "Sorrow",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2456,7 +2461,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2486,9 +2491,9 @@
       "ID": "ACH_KILL_FRAG",
       "SetID": "1j25agn",
       "Name": "It Will Rain",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_KILL_OFFICER",
@@ -2496,7 +2501,7 @@
       "Name": "Eat Lead!",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2559,15 +2564,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:08:46.4666736+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:09:56.4591967+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:59:09.5248287+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:08:46.4667181+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:00:28.059523+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:09:56.4592627+00:00"
 }

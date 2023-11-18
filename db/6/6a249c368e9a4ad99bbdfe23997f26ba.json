@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -543,9 +543,9 @@
       "ID": "A17",
       "SetID": "7f5j12l",
       "Name": "Shipping Company Destroyed",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A18",
@@ -758,8 +758,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:06:40.1028357+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:08:53.6867232+00:00",
   "LastUpdate_AppInfo": "2023-11-14T09:57:28.1691473+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:58:40.1116877+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:06:40.1028553+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:59:42.6207612+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:08:53.6867448+00:00"
 }

@@ -1,27 +1,27 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.71 (Ranked 200)  
+Rating: 4.70 (Ranked 212)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,646 |
-| Finding Your Footing | 26.00% | ~12,177 |
-| Nomad | 17.00% | ~7,962 |
-| Picking Up Speed | 16.00% | ~7,494 |
-| Welcome Maya | 14.00% | ~6,557 |
-| Scout | 11.00% | ~5,152 |
-| Sightseer | 11.00% | ~5,152 |
+| Rookie | 27.00% | ~12,648 |
+| Finding Your Footing | 26.00% | ~12,179 |
+| Nomad | 17.00% | ~7,963 |
+| Picking Up Speed | 16.00% | ~7,495 |
+| Welcome Maya | 14.00% | ~6,558 |
+| Scout | 11.00% | ~5,153 |
+| Sightseer | 11.00% | ~5,153 |
 | Amateur | 10.00% | ~4,684 |
-| Unlock Maya | 8.00% | ~3,747 |
-| Wanderer | 8.00% | ~3,747 |
+| Unlock Maya | 8.00% | ~3,748 |
+| Wanderer | 8.00% | ~3,748 |
 | Enter Paz | 7.00% | ~3,279 |
-| Aviator | 6.00% | ~2,810 |
+| Aviator | 6.00% | ~2,811 |
 | My Little Friend | 5.00% | ~2,342 |
 | One With The Board | 5.00% | ~2,342 |
 | Voyager | 5.00% | ~2,342 |
-| Izel Has Arrived | 4.00% | ~1,873 |
+| Izel Has Arrived | 4.00% | ~1,874 |
 | Junkie | 3.00% | ~1,405 |
 | Traveler | 3.00% | ~1,405 |
 | Unlock Paz | 3.00% | ~1,405 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,836 (Ranked 112)  
+Progressed: 46,844 (Ranked 112)  
 Completed: 5 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 5 (0.01%) (Ranked 333)
 | 2023-11-15 | 46,490 | 5 |
 | 2023-11-16 | 46,614 | 5 |
 | 2023-11-17 | 46,740 | 5 |
-| 2023-11-18 | 46,836 | 5 |
+| 2023-11-18 | 46,844 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 437)  
 Sum: 372 (Ranked 346)  
@@ -389,3 +389,4 @@ Diff (max vs sum): 91
 | 2023-11-02 | 4.70 | - | 48 | 371 |
 | 2023-11-05 | 4.70 | - | 48 | 372 |
 | 2023-11-09 | 4.71 | - | 48 | 372 |
+| 2023-11-18 | 4.70 | - | 48 | 372 |

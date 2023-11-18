@@ -10,7 +10,7 @@
 | That's what cheese said! | 88.00% | ~108 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~105 |
 | I like you...but I have to kill you... | 85.00% | ~105 |
-| Not so hip anymore! | 83.00% | ~102 |
+| Not so hip anymore! | 84.00% | ~103 |
 | Blurry depth perception | 82.00% | ~101 |
 | Nerd | 80.00% | ~98 |
 | Up and down | 78.00% | ~96 |

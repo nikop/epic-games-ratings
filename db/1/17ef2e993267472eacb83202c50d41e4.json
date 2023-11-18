@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,7 +71,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8027,
+  "EOS_Progressed": 8028,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -6676,6 +6676,11 @@
       "Time": "2023-11-18T14:09:33.9345567+00:00",
       "NumProgressed": 8027,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T16:10:32.2350078+00:00",
+      "NumProgressed": 8028,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6736,7 +6741,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "CreditsSpent50000",
@@ -6808,7 +6813,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "GamesPlayed10",
@@ -6904,7 +6909,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "HSUPurchased1",
@@ -6952,7 +6957,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "InhibitorKills3",
@@ -7056,7 +7061,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "MaxTowersKilled6",
@@ -7120,7 +7125,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "PlayerKills100",
@@ -7279,7 +7284,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8027,
+      "Progressed": 8028,
       "Completed": 1
     }
   ],
@@ -7287,8 +7292,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:09:12.4312743+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:10:32.2350075+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:59:44.5257466+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:09:12.431353+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:01:21.9024098+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:10:32.2351174+00:00"
 }

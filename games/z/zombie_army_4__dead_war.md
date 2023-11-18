@@ -6,35 +6,35 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,290 |
-| Say goodbye, creep! | 66.00% | ~28,973 |
-| Blood splattered | 66.00% | ~28,973 |
-| Choo choo! | 63.00% | ~27,656 |
-| Groovy | 62.00% | ~27,217 |
-| Cleanup on aisle 4! | 57.00% | ~25,022 |
-| Gold | 51.00% | ~22,388 |
-| The boat can leave now...tell the crew | 49.00% | ~21,510 |
-| Give me something to shoot! | 47.00% | ~20,632 |
-| Stand back boy! | 47.00% | ~20,632 |
-| Chain reaction | 45.00% | ~19,754 |
-| Weird science | 44.00% | ~19,315 |
-| What did you say, Blain? | 42.00% | ~18,437 |
-| Look mummy! A shark! | 41.00% | ~17,998 |
-| In the dark dark woods... | 39.00% | ~17,120 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,681 |
-| Double tap | 37.00% | ~16,242 |
-| Cranial blowout! | 37.00% | ~16,242 |
-| All of this has happened before… | 36.00% | ~15,803 |
-| Zombie killin' machine | 36.00% | ~15,803 |
-| Every bullet counts | 36.00% | ~15,803 |
-| All roads lead to Rome | 34.00% | ~14,925 |
-| You've got red on you | 34.00% | ~14,925 |
-| You're all going to die down here | 32.00% | ~14,047 |
-| He did Nazi that coming | 32.00% | ~14,047 |
-| Kill of the week | 31.00% | ~13,608 |
-| I never liked them anyway | 30.00% | ~13,169 |
-| Is it over? | 28.00% | ~12,291 |
-| Got your back | 27.00% | ~11,852 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,292 |
+| Say goodbye, creep! | 66.00% | ~28,975 |
+| Blood splattered | 66.00% | ~28,975 |
+| Choo choo! | 63.00% | ~27,658 |
+| Groovy | 62.00% | ~27,219 |
+| Cleanup on aisle 4! | 57.00% | ~25,024 |
+| Gold | 51.00% | ~22,390 |
+| The boat can leave now...tell the crew | 49.00% | ~21,511 |
+| Give me something to shoot! | 47.00% | ~20,633 |
+| Stand back boy! | 47.00% | ~20,633 |
+| Chain reaction | 45.00% | ~19,755 |
+| Weird science | 44.00% | ~19,316 |
+| What did you say, Blain? | 42.00% | ~18,438 |
+| Look mummy! A shark! | 41.00% | ~17,999 |
+| In the dark dark woods... | 39.00% | ~17,121 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,682 |
+| Double tap | 37.00% | ~16,243 |
+| Cranial blowout! | 37.00% | ~16,243 |
+| All of this has happened before… | 36.00% | ~15,804 |
+| Zombie killin' machine | 36.00% | ~15,804 |
+| Every bullet counts | 36.00% | ~15,804 |
+| All roads lead to Rome | 34.00% | ~14,926 |
+| You've got red on you | 34.00% | ~14,926 |
+| You're all going to die down here | 32.00% | ~14,048 |
+| He did Nazi that coming | 32.00% | ~14,048 |
+| Kill of the week | 31.00% | ~13,609 |
+| I never liked them anyway | 30.00% | ~13,170 |
+| Is it over? | 28.00% | ~12,292 |
+| Got your back | 27.00% | ~11,853 |
 | Gore soaked | 24.00% | ~10,536 |
 | Shock therapy | 23.00% | ~10,097 |
 | Leave the limbs you've lost | 23.00% | ~10,097 |
@@ -71,9 +71,9 @@ Number of Ratings: 743  (23.09.2022)
 | I'm a survivor! | 3.00% | ~1,317 |
 | That's a lot of them, and only 4 of us | 2.00% | ~878 |
 | Just me and my trusty sidearm | 1.00% | ~439 |
-| None more hard | 0.50% | ~219 |
+| None more hard | 0.50% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,898 (Ranked 115)  
+Progressed: 43,901 (Ranked 115)  
 Completed: 25 (0.06%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,10 +285,10 @@ Completed: 25 (0.06%) (Ranked 298)
 | 2023-11-15 | 43,863 | 25 |
 | 2023-11-16 | 43,875 | 25 |
 | 2023-11-17 | 43,888 | 25 |
-| 2023-11-18 | 43,898 | 25 |
+| 2023-11-18 | 43,901 | 25 |
 ## Awards
 Max (Great Boss Battles): 851  (Ranked 164)  
-Sum: 2,559 (Ranked 189)  
+Sum: 2,560 (Ranked 189)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -297,7 +297,7 @@ Diff (max vs sum): -25
 | This game is Highly Recommended | 219 |
 | This game has Diverse Characters | 219 |
 | This game has Amazing Storytelling | 213 |
-| This game is Extremely Fun | 209 |
+| This game is Extremely Fun | 210 |
 | This game has Quickly Understood Controls | 206 |
 | This game is Relaxing | 189 |
 | This game has Amazing Characters | 187 |
@@ -522,3 +522,4 @@ Diff (max vs sum): -25
 | 2023-11-15 | 4.68 | - | 850 | 2,556 |
 | 2023-11-16 | 4.68 | - | 850 | 2,557 |
 | 2023-11-17 | 4.68 | - | 851 | 2,559 |
+| 2023-11-18 | 4.68 | - | 851 | 2,560 |

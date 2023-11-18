@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1307,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -4504,9 +4504,9 @@
       "ID": "achievement_86",
       "SetID": "d252ncf",
       "Name": "Hard Target",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_87",
@@ -4636,8 +4636,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:05:49.4957893+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:07:42.623015+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:02:49.8954191+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:05:49.4959799+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:03:25.2499718+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:07:42.6231656+00:00"
 }

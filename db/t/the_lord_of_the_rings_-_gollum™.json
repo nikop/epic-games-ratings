@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1568,6 +1568,11 @@
       "Time": "2023-11-18T05:06:14.9461291+00:00",
       "NumProgressed": 593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T16:03:45.5558366+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1579,7 +1584,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BreakLegs",
@@ -1611,7 +1616,7 @@
       "Name": "The Friend",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Chapter2",
@@ -1627,7 +1632,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Chapter4",
@@ -1683,7 +1688,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Collectibles2",
@@ -1747,7 +1752,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Memories",
@@ -1859,21 +1864,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:03:01.9839599+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:03:45.5558363+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:24.5745952+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:03:01.9840029+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:57:47.2744958+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:03:45.5558759+00:00"
 }

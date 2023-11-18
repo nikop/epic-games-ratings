@@ -6,23 +6,23 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 22.00% | ~23 |
-| Double Kill | 17.00% | ~18 |
+| Adept | 23.00% | ~24 |
+| Double Kill | 18.00% | ~19 |
 | Sorcerous Spree | 5.00% | ~5 |
 | Veteran | 5.00% | ~5 |
 | Dressed For Success | 4.00% | ~4 |
 | Critical Hit | 4.00% | ~4 |
-| Versatile Wielder | 1.00% | ~1 |
-| Fully Charged | 1.00% | ~1 |
-| Infernal Influence | 1.00% | ~1 |
-| Multi Kill | 1.00% | ~1 |
-| Whoops! | 1.00% | ~1 |
-| Don't Touch My Stuff | 1.00% | ~1 |
-| Such A Fungi | 1.00% | ~1 |
-| Get Over Here! | 1.00% | ~1 |
-| Humiliation | 1.00% | ~1 |
-| Expert Essence Employment | 1.00% | ~1 |
-| Venisti, Vidisti, Perdidisti | 1.00% | ~1 |
+| Versatile Wielder | 0.90% | ~1 |
+| Fully Charged | 0.90% | ~1 |
+| Infernal Influence | 0.90% | ~1 |
+| Multi Kill | 0.90% | ~1 |
+| Whoops! | 0.90% | ~1 |
+| Don't Touch My Stuff | 0.90% | ~1 |
+| Such A Fungi | 0.90% | ~1 |
+| Get Over Here! | 0.90% | ~1 |
+| Humiliation | 0.90% | ~1 |
+| Expert Essence Employment | 0.90% | ~1 |
+| Venisti, Vidisti, Perdidisti | 0.90% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | The Song of Stoutheart | 0.00% | ~0 |
 | Death To Diplomacy | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 104 (Ranked 425)  
+Progressed: 106 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 35 | 0 |
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
-| 2023-11-18 | 104 | 0 |
+| 2023-11-18 | 106 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

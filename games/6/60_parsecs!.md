@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 97.00% | ~751 |
+| Space Colonization | 81.00% | ~627 |
 | Friendzone | 80.00% | ~619 |
-| Space Colonization | 80.00% | ~619 |
 | Hello World | 75.00% | ~580 |
 | Space Engineer | 64.00% | ~495 |
 | Tinkerer | 63.00% | ~488 |
@@ -24,7 +24,7 @@
 | Space Explorer | 17.00% | ~132 |
 | Hands Full | 14.00% | ~108 |
 | Gold Medalist | 12.00% | ~93 |
-| Non-Fiction | 11.00% | ~85 |
+| Non-Fiction | 12.00% | ~93 |
 | No Man Left Behind | 9.00% | ~70 |
 | Fix-It Felix | 8.00% | ~62 |
 | Intergalactic Breakup | 8.00% | ~62 |

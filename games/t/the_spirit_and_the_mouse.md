@@ -33,9 +33,9 @@
 | At your service | 13.00% | ~10 |
 | East Street Lightbulbs | 12.00% | ~9 |
 | Out of service | 10.00% | ~8 |
+| Deep Lore | 9.00% | ~7 |
 | Lightbulb Master | 8.00% | ~6 |
 | North Town Lightbulbs | 8.00% | ~6 |
-| Deep Lore | 8.00% | ~6 |
 | The Garland and the Lightbulbs | 8.00% | ~6 |
 | The GA-DX | 6.00% | ~5 |
 | The Spirit and The Mouse | 6.00% | ~5 |

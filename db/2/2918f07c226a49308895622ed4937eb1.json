@@ -3,9 +3,9 @@
   "Name": "Hide and Seek",
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 540,
-  "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 21,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 13,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 23.81,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 28.57,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -79,6 +79,11 @@
       "Time": "2023-11-18T15:03:01.4927474+00:00",
       "NumProgressed": 21,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-18T16:03:44.9548991+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -105,9 +110,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "dhh8kbc",
       "Name": "Hide",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 175,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -121,17 +126,17 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "dhh8kbc",
       "Name": "Seekers win!",
-      "Percentage": 43,
+      "Percentage": 52,
       "XP": 150,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -139,13 +144,13 @@
       "ID": "dhh8kbc",
       "IsBase": true,
       "Progressed": 21,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:03:01.492747+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:03:44.9548985+00:00",
   "LastUpdate_AppInfo": "2023-11-17T09:57:15.963448+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:58:43.7649261+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:03:01.4927738+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:59:48.3335327+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:03:44.954911+00:00"
 }

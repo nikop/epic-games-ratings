@@ -8,30 +8,30 @@
 | Thalya – Simply Immortal | 86.00% | ~261 |
 | For the Horde! | 80.00% | ~242 |
 | Hammer Time, Round Two | 79.00% | ~239 |
-| The Hellwoods | 73.00% | ~221 |
+| The Hellwoods | 74.00% | ~224 |
 | Thalya's Concentrated Fury | 68.00% | ~206 |
-| The Plains of Strothalm | 66.00% | ~200 |
+| The Plains of Strothalm | 67.00% | ~203 |
 | Experienced Thalya | 66.00% | ~200 |
 | Master of Magic | 62.00% | ~188 |
 | Bad Elves Go Everywhere | 62.00% | ~188 |
 | Magic Accidents | 56.00% | ~170 |
 | Heroes’ Gorge | 56.00% | ~170 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~167 |
+| Minions, Minions! | 53.00% | ~161 |
 | Trap Master | 52.00% | ~158 |
-| Minions, Minions! | 52.00% | ~158 |
 | The Ascent | 44.00% | ~133 |
 | It's Warm and Cozy at Home | 44.00% | ~133 |
 | YOU SHALL NOT PASS! | 43.00% | ~130 |
 | Hard Work | 39.00% | ~118 |
 | The Big Eaty | 39.00% | ~118 |
-| Pure Dynamite! | 37.00% | ~112 |
+| Pure Dynamite! | 38.00% | ~115 |
 | Mana Cannon | 33.00% | ~100 |
 | “… like son” | 32.00% | ~97 |
-| Dungeonlord Gorgu | 27.00% | ~82 |
+| Dungeonlord Gorgu | 28.00% | ~85 |
 | Shame! Shame! Shame! | 26.00% | ~79 |
 | The Cathedral of Light | 25.00% | ~76 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~67 |
 | Tanos' Crusade Against Thalya | 22.00% | ~67 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~64 |
 | Hungry, Hungry Gorgu! | 18.00% | ~55 |
 | Unstoppable Horde | 18.00% | ~55 |
 | Master of the Undead | 18.00% | ~55 |
@@ -42,7 +42,7 @@
 | The Duel | 14.00% | ~42 |
 | Stop Tanos! | 12.00% | ~36 |
 | If Looks Could Kill | 12.00% | ~36 |
-| The Finitude Drill | 10.00% | ~30 |
+| The Finitude Drill | 11.00% | ~33 |
 | Bonus Evilness | 8.00% | ~24 |
 | Sabotage! | 8.00% | ~24 |
 | My Little Torture Chamber | 7.00% | ~21 |

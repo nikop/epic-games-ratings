@@ -22,9 +22,9 @@ Rating: 4.49 (Ranked 606)
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,535 |
 | Where It All Begun | 41.00% | ~1,499 |
 | Recouped Investment | 39.00% | ~1,425 |
+| Living Nightmare | 35.00% | ~1,279 |
 | The More The Merrier | 35.00% | ~1,279 |
 | Omelette Du Fromage | 34.00% | ~1,243 |
-| Living Nightmare | 34.00% | ~1,243 |
 | The Darwin Era Was Here | 31.00% | ~1,133 |
 | Deep Into Insanity | 29.00% | ~1,060 |
 | The Passenger | 29.00% | ~1,060 |
@@ -37,7 +37,7 @@ Rating: 4.49 (Ranked 606)
 | One For Every Occasion | 21.00% | ~768 |
 | Frontliner | 21.00% | ~768 |
 | The Cable Guy | 21.00% | ~768 |
-| Bandage Lover | 19.00% | ~694 |
+| Bandage Lover | 20.00% | ~731 |
 | Regicide | 16.00% | ~585 |
 | This Went Smoothly | 14.00% | ~512 |
 | Flawless Victory | 13.00% | ~475 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 606)
 | Chalk It Up To Experience | 0.80% | ~29 |
 | This Ain't No Picnic | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,655 (Ranked 201)  
+Progressed: 3,655 (Ranked 202)  
 Completed: 3 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |

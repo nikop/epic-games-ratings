@@ -12,7 +12,7 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 69.00% | ~4,687 |
 | Green Thumb | 67.00% | ~4,551 |
 | Novice Researcher | 67.00% | ~4,551 |
-| Home Cooked Meal | 60.00% | ~4,076 |
+| Home Cooked Meal | 61.00% | ~4,144 |
 | Onward | 57.00% | ~3,872 |
 | The First Week | 55.00% | ~3,736 |
 | Beam Me Up | 52.00% | ~3,532 |
@@ -21,7 +21,7 @@ Number of Ratings: 706  (23.09.2022)
 | Adept Researcher | 45.00% | ~3,057 |
 | Retribution | 42.00% | ~2,853 |
 | ...And Don’t Come Back! | 42.00% | ~2,853 |
-| Feast or Famine | 39.00% | ~2,649 |
+| Feast or Famine | 40.00% | ~2,717 |
 | Heating Up | 31.00% | ~2,106 |
 | Luminary Researcher | 31.00% | ~2,106 |
 | Fit For A King | 30.00% | ~2,038 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -13043,17 +13043,17 @@
       "ID": "PRODUCE_AT_CAMPFIRE",
       "SetID": "5349c2e",
       "Name": "Home Cooked Meal",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4144
     },
     {
       "ID": "STORE_NUTRITION_10000",
       "SetID": "5349c2e",
       "Name": "Feast or Famine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2717
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -13179,8 +13179,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-18T10:57:43.4224936+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:05:29.2843403+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:07:13.7255518+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:42.781774+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:05:29.284408+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:58:15.2094635+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:07:13.725632+00:00"
 }

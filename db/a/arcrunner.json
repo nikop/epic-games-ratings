@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1968,9 +1968,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -2087,8 +2087,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:08:18.228941+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:09:17.0425711+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:13.8527355+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:06.8166441+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:08:18.2289668+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:57:20.0662919+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:09:17.0426007+00:00"
 }

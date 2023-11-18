@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~48,756 |
-| Get Busy Living | 16.00% | ~31,204 |
-| Samuel Norton | 9.00% | ~17,552 |
-| Spare The Rod | 5.00% | ~9,751 |
-| Don't Put Me In The Dark | 3.00% | ~5,851 |
-| Wait and Hope | 3.00% | ~5,851 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,851 |
-| Throw The Book At Them | 2.00% | ~3,900 |
-| Iron Bars | 2.00% | ~3,900 |
-| D.B. Cooper | 1.00% | ~1,950 |
+| Stone Walls | 25.00% | ~48,764 |
+| Get Busy Living | 16.00% | ~31,209 |
+| Samuel Norton | 9.00% | ~17,555 |
+| Spare The Rod | 5.00% | ~9,753 |
+| Don't Put Me In The Dark | 3.00% | ~5,852 |
+| Wait and Hope | 3.00% | ~5,852 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,852 |
+| Throw The Book At Them | 2.00% | ~3,901 |
+| Iron Bars | 2.00% | ~3,901 |
+| D.B. Cooper | 1.00% | ~1,951 |
 | Reformation | 0.60% | ~1,170 |
 | Crowd Control | 0.50% | ~975 |
 | Freedom | 0.40% | ~780 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~195 |
 | ... It's What You Can Prove | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195,024 (Ranked 73)  
+Progressed: 195,057 (Ranked 74)  
 Completed: 10 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,16 +235,16 @@ Completed: 10 (0.01%) (Ranked 333)
 | 2023-11-15 | 194,203 | 10 |
 | 2023-11-16 | 194,501 | 10 |
 | 2023-11-17 | 194,816 | 10 |
-| 2023-11-18 | 195,024 | 10 |
+| 2023-11-18 | 195,057 | 10 |
 ## Awards
 Max (Great for Beginners): 568  (Ranked 200)  
-Sum: 4,394 (Ranked 147)  
+Sum: 4,395 (Ranked 147)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 568 |
 | This game is Extremely Fun | 558 |
-| This game is Highly Recommended | 527 |
+| This game is Highly Recommended | 528 |
 | This game has Quickly Understood Controls | 521 |
 | This game is Relaxing | 511 |
 | This game has Diverse Characters | 476 |
@@ -555,4 +555,4 @@ Diff (max vs sum): 53
 | 2023-11-15 | 4.61 | - | 563 | 4,379 |
 | 2023-11-16 | 4.61 | - | 566 | 4,387 |
 | 2023-11-17 | 4.61 | - | 568 | 4,393 |
-| 2023-11-18 | 4.61 | - | 568 | 4,394 |
+| 2023-11-18 | 4.61 | - | 568 | 4,395 |

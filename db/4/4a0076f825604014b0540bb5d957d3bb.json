@@ -2,10 +2,10 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-11-17T22:09:34.9298549+00:00",
       "NumProgressed": 67,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T16:09:45.2265656+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -368,7 +373,7 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 100,
+      "Percentage": 99,
       "XP": 40,
       "UsersEstimate": 67
     },
@@ -376,7 +381,7 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 40,
       "UsersEstimate": 59
     },
@@ -384,7 +389,7 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 40,
       "UsersEstimate": 54
     },
@@ -392,7 +397,7 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 40,
       "UsersEstimate": 47
     },
@@ -400,7 +405,7 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 40,
       "UsersEstimate": 42
     },
@@ -408,7 +413,7 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
       "UsersEstimate": 38
     },
@@ -418,13 +423,13 @@
       "Name": "NOVICE CRAFTSMAN",
       "Percentage": 101,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 40,
       "UsersEstimate": 47
     },
@@ -432,7 +437,7 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
       "UsersEstimate": 40
     },
@@ -440,7 +445,7 @@
       "ID": "CgkInO_K3eIdEAIQDA",
       "SetID": "6bj96in",
       "Name": "BRIDGES OF THE PAST",
-      "Percentage": 100,
+      "Percentage": 99,
       "XP": 40,
       "UsersEstimate": 67
     },
@@ -448,7 +453,7 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 40,
       "UsersEstimate": 59
     },
@@ -456,7 +461,7 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 40,
       "UsersEstimate": 54
     },
@@ -464,7 +469,7 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
       "UsersEstimate": 38
     },
@@ -472,7 +477,7 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 40,
       "UsersEstimate": 54
     },
@@ -496,7 +501,7 @@
       "ID": "CgkInO_K3eIdEAIQEw",
       "SetID": "6bj96in",
       "Name": "ATTENTIVE SCRIBE",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
       "UsersEstimate": 18
     },
@@ -504,7 +509,7 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 40,
       "UsersEstimate": 22
     },
@@ -561,14 +566,14 @@
     {
       "ID": "6bj96in",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:08:38.2401805+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:09:45.2265652+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:05.7993795+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:58:40.8107619+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:08:38.2401972+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:59:43.75965+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:09:45.2265885+00:00"
 }

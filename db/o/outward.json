@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3664,
+  "EOS_Progressed": 3665,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5568,6 +5568,11 @@
       "Time": "2023-11-18T09:06:04.2536709+00:00",
       "NumProgressed": 3664,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T16:08:12.2726934+00:00",
+      "NumProgressed": 3665,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5691,7 +5696,7 @@
       "Name": "House of Cards",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -5707,7 +5712,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "LightofLevant_18",
@@ -5779,15 +5784,15 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ScourgeSlayer_26",
       "SetID": "c4hee28",
       "Name": "Scourge Slayer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 989
+      "UsersEstimate": 953
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5803,7 +5808,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5827,7 +5832,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -5914,15 +5919,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3664,
+      "Progressed": 3665,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:06:10.8315682+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:08:12.2726929+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.5570436+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:52.1856041+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:06:10.8316202+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:58:29.7424925+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:08:12.2727592+00:00"
 }

@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 6.00% | ~922 |
 | Play a Single Player Game | 6.00% | ~922 |
-| Explorer | 5.00% | ~768 |
-| Friendly Family | 5.00% | ~768 |
+| Explorer | 5.00% | ~769 |
+| Friendly Family | 5.00% | ~769 |
 | Able | 4.00% | ~615 |
 | Architect | 4.00% | ~615 |
 | Good | 4.00% | ~615 |
@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 2.00% | ~307 |
 | Zoroastrianism | 2.00% | ~307 |
 | Mythology | 2.00% | ~307 |
+| Points Victory | 2.00% | ~307 |
 | Win a Single Player Game | 2.00% | ~307 |
 | Kushite Pyramids | 2.00% | ~307 |
 | Kushite Paganism | 2.00% | ~307 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 1.00% | ~154 |
 | Ambition Victory | 1.00% | ~154 |
 | Double Victory | 1.00% | ~154 |
-| Points Victory | 1.00% | ~154 |
 | The Clergy | 1.00% | ~154 |
 | Devout | 0.90% | ~138 |
 | Ready | 0.90% | ~138 |
@@ -145,11 +145,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.60% | ~92 |
 | Old World Order | 0.60% | ~92 |
 | Cataphract Archer | 0.60% | ~92 |
+| No Undo | 0.60% | ~92 |
 | Kush | 0.60% | ~92 |
 | Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
-| No Undo | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~61 |
 | Ancient | 0.40% | ~61 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,369 (Ranked 148)  
+Progressed: 15,371 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,7 +561,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-15 | 15,337 | 5 |
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
-| 2023-11-18 | 15,369 | 5 |
+| 2023-11-18 | 15,371 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

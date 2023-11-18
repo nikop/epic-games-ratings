@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 567,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -362,9 +362,9 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement5",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:04:23.6052025+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:05:40.7900523+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:05.8922612+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:59:22.1231404+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:04:23.6052263+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:00:47.4394833+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:05:40.7900745+00:00"
 }

@@ -26,13 +26,13 @@
 | Mighty Marmelizer | 43.00% | ~127 |
 | Fair Means or Foul | 42.00% | ~124 |
 | Single Minded | 41.00% | ~121 |
-| Snare Specialist | 40.00% | ~118 |
+| Snare Specialist | 41.00% | ~121 |
 | Kemono at Heart | 40.00% | ~118 |
 | Karakuri Trail | 38.00% | ~112 |
 | Artful Assister | 37.00% | ~110 |
 | Team Hunter | 34.00% | ~101 |
+| Karakuri Isle | 33.00% | ~98 |
 | Reincarnation Cycle Stopper | 33.00% | ~98 |
-| Karakuri Isle | 32.00% | ~95 |
 | Left Arm Leverager | 29.00% | ~86 |
 | Canyon of Karakuri | 27.00% | ~80 |
 | Style Seeker | 27.00% | ~80 |

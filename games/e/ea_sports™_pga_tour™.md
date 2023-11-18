@@ -17,8 +17,8 @@
 | Ace in the Hole | 31.00% | ~168 |
 | From Many, One | 28.00% | ~152 |
 | Golf's Original Championship | 25.00% | ~136 |
+| A Passion for Excellence | 24.00% | ~130 |
 | A Tradition Unlike Any Other | 23.00% | ~125 |
-| A Passion for Excellence | 23.00% | ~125 |
 | The Ultimate Prize | 18.00% | ~98 |
 | Golfer Versus Golfer | 15.00% | ~81 |
 | Victory Lap | 9.00% | ~49 |

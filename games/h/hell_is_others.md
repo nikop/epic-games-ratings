@@ -5,7 +5,7 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,135 |
+| Survivor | 31.00% | ~80,136 |
 | Predator I | 23.00% | ~59,455 |
 | Fixer I | 10.00% | ~25,850 |
 | A week in Century City | 10.00% | ~25,850 |
@@ -38,9 +38,9 @@ Rating: 4.39 (Ranked 746)
 | Committed Relationship | 0.80% | ~2,068 |
 | Number 1 | 0.80% | ~2,068 |
 | Interior designer | 0.60% | ~1,551 |
-| The Gamble | 0.50% | ~1,292 |
-| The Descent | 0.50% | ~1,292 |
-| A major purchase | 0.50% | ~1,292 |
+| The Gamble | 0.50% | ~1,293 |
+| The Descent | 0.50% | ~1,293 |
+| A major purchase | 0.50% | ~1,293 |
 | Expert Hunter | 0.40% | ~1,034 |
 | Fungi hunter | 0.40% | ~1,034 |
 | Predator III | 0.40% | ~1,034 |
@@ -51,18 +51,18 @@ Rating: 4.39 (Ranked 746)
 | Workhorse | 0.20% | ~517 |
 | Homerun | 0.20% | ~517 |
 | A season in Century City | 0.20% | ~517 |
-| Saver III | 0.10% | ~258 |
-| Collector | 0.10% | ~258 |
-| Mansion | 0.10% | ~258 |
-| Green thumb III | 0.10% | ~258 |
-| Plantation | 0.10% | ~258 |
-| Reminescence | 0.10% | ~258 |
-| Beloved | 0.10% | ~258 |
-| Capitalist II | 0.10% | ~258 |
-| Capitalist III | 0.10% | ~258 |
-| Hell Is You | 0.10% | ~258 |
+| Saver III | 0.10% | ~259 |
+| Collector | 0.10% | ~259 |
+| Mansion | 0.10% | ~259 |
+| Green thumb III | 0.10% | ~259 |
+| Plantation | 0.10% | ~259 |
+| Reminescence | 0.10% | ~259 |
+| Beloved | 0.10% | ~259 |
+| Capitalist II | 0.10% | ~259 |
+| Capitalist III | 0.10% | ~259 |
+| Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,500 (Ranked 55)  
+Progressed: 258,502 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 3 (0.00%) (Ranked 354)
 | 2023-11-15 | 258,416 | 3 |
 | 2023-11-16 | 258,451 | 3 |
 | 2023-11-17 | 258,480 | 3 |
-| 2023-11-18 | 258,500 | 3 |
+| 2023-11-18 | 258,502 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 431)  
 Sum: 347 (Ranked 352)  

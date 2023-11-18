@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -99,7 +99,7 @@
   ],
   "EOS_Progressed": 379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -941,9 +941,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "EcstaticTruth",
@@ -1061,9 +1061,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "NewBeginning",
@@ -1229,9 +1229,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "TheThiefOfFire",
@@ -1318,8 +1318,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:05:52.7182904+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:07:47.1249045+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:11.5108804+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:05:52.7183378+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:57:26.813164+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:07:47.1249534+00:00"
 }

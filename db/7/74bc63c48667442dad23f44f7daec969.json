@@ -4,8 +4,8 @@
   "ProductSlug": "space-chef-3f1010",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T22:00:58.5980428+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:03:22.5345222+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:04:14.6573238+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:57.8871389+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:58:20.1962014+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:03:22.534524+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:59:12.5875658+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:04:14.6573272+00:00"
 }

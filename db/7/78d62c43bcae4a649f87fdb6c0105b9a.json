@@ -2,10 +2,10 @@
   "ID": "78d62c43bcae4a649f87fdb6c0105b9a",
   "Name": "Enchanted Portals",
   "ProductSlug": "enchanted-portals-65ca68",
-  "Ranking_EOS_Progress": 526,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-26T11:00:00+00:00",
     "PcReleaseDate": "2023-09-26T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -164,6 +164,11 @@
       "Time": "2023-11-10T14:05:07.9761297+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T16:06:10.5895347+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T01:48:39.6492868+00:00",
@@ -174,7 +179,7 @@
       "ID": "bisont",
       "SetID": "40o2ndb",
       "Name": "The Good, the Bad and the Rooster",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -182,7 +187,7 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -190,7 +195,7 @@
       "ID": "forest",
       "SetID": "40o2ndb",
       "Name": "Welcome to the whoOoOoOoOotel",
-      "Percentage": 89,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -198,7 +203,7 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 67,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -214,7 +219,7 @@
       "ID": "jungle",
       "SetID": "40o2ndb",
       "Name": "Jungle Fever",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -222,7 +227,7 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -230,7 +235,7 @@
       "ID": "mafia",
       "SetID": "40o2ndb",
       "Name": "Bye Gangrooster City",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -238,7 +243,7 @@
       "ID": "matrix",
       "SetID": "40o2ndb",
       "Name": "The virus database has been updated.",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -246,7 +251,7 @@
       "ID": "temple",
       "SetID": "40o2ndb",
       "Name": "It Belongs In A Museum!",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -254,7 +259,7 @@
       "ID": "ufo",
       "SetID": "40o2ndb",
       "Name": "The great escape",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -262,7 +267,7 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 85,
       "UsersEstimate": 15
     },
@@ -278,7 +283,7 @@
       "ID": "world2",
       "SetID": "40o2ndb",
       "Name": "Moo!",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 85,
       "UsersEstimate": 13
     },
@@ -294,7 +299,7 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 85,
       "UsersEstimate": 10
     },
@@ -310,7 +315,7 @@
       "ID": "world4",
       "SetID": "40o2ndb",
       "Name": "Sleep well Mwamwa Princess",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 85,
       "UsersEstimate": 7
     },
@@ -326,7 +331,7 @@
       "ID": "world5",
       "SetID": "40o2ndb",
       "Name": "Rocky, the eye of the rooster",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 85,
       "UsersEstimate": 7
     },
@@ -342,7 +347,7 @@
       "ID": "world6",
       "SetID": "40o2ndb",
       "Name": "The tale is over and the mages come over",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 85,
       "UsersEstimate": 7
     }
@@ -351,14 +356,14 @@
     {
       "ID": "40o2ndb",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:04:44.2732709+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:06:10.5895343+00:00",
   "LastUpdate_AppInfo": "2023-11-12T22:57:17.4015896+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:48.0244768+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:04:44.2732818+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:58:23.4922717+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:06:10.5895455+00:00"
 }

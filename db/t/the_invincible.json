@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159,
+  "EOS_Progressed": 160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-11-18T14:08:09.5767658+00:00",
       "NumProgressed": 159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T16:09:05.3895331+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -443,9 +448,9 @@
       "ID": "AchvAllMemories",
       "SetID": "1hj060c",
       "Name": "I remember everything!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvAssertive",
@@ -501,7 +506,7 @@
       "Name": "The Alliance",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AchvDoom",
@@ -533,7 +538,7 @@
       "Name": "Krauta is alive",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AchvLava",
@@ -629,23 +634,23 @@
       "Name": "The Condor",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AchvTeleprobeOperator",
       "SetID": "1hj060c",
       "Name": "Flying Objects Operator",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AchvTheEnd",
@@ -668,14 +673,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:08:09.4565496+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:09:05.3895327+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:34.9018108+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:00:14.5063329+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:08:09.4565654+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:02:48.5822511+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:09:05.3895528+00:00"
 }

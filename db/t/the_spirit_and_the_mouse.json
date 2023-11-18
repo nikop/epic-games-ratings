@@ -4,8 +4,8 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
     "PcReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -265,9 +265,9 @@
       "ID": "plush",
       "SetID": "bbgli2k",
       "Name": "Deep Lore",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "quest001",
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:05:31.0449256+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:07:16.2901296+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.3505484+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:59:28.9576214+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:05:31.0449484+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:00:58.059684+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:07:16.2901528+00:00"
 }

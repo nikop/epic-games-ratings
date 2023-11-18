@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -3774,6 +3774,11 @@
       "Time": "2023-11-18T15:09:11.463934+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T16:10:31.355872+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4058,7 +4063,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_41",
@@ -4090,7 +4095,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_45",
@@ -4289,13 +4294,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1295,
+      "Progressed": 1296,
       "Completed": 1
     }
   ],
@@ -4303,8 +4308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:09:11.4639339+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:10:31.3558715+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:58:48.6515216+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:09:11.4639907+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:59:55.7889184+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:10:31.3559378+00:00"
 }

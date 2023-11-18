@@ -60,6 +60,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.20% | ~480 |
 | Flesh Wound | 0.20% | ~480 |
 | Shapeshifting | 0.20% | ~480 |
+| The Long Run | 0.20% | ~480 |
 | Who Needs Luck? | 0.20% | ~3 |
 | Raw Power | 0.20% | ~3 |
 | Thank You, Friend | 0.10% | ~240 |
@@ -115,7 +116,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sprinter | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
 | Defuser | 0.10% | ~240 |
-| The Long Run | 0.10% | ~240 |
 | The Tickler | 0.10% | ~240 |
 | Masochist | 0.10% | ~240 |
 | Minimalist | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,863 (Ranked 61)  
+Progressed: 239,870 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,10 +357,10 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-15 | 239,735 | 288 |
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
-| 2023-11-18 | 239,863 | 288 |
+| 2023-11-18 | 239,870 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
-Sum: 11,680 (Ranked 83)  
+Sum: 11,681 (Ranked 83)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -374,7 +374,7 @@ Diff (max vs sum): 49
 | This game has Amazing Characters | 1,226 |
 | This game has Unique Visuals | 1,222 |
 | This game has Obsessive Gameplay | 1,088 |
-| This game has a Creative Community | 744 |
+| This game has a Creative Community | 745 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -589,4 +589,4 @@ Diff (max vs sum): 49
 | 2023-11-15 | 4.58 | - | 1,503 | 11,675 |
 | 2023-11-16 | 4.58 | - | 1,503 | 11,677 |
 | 2023-11-17 | 4.58 | - | 1,503 | 11,679 |
-| 2023-11-18 | 4.58 | - | 1,503 | 11,680 |
+| 2023-11-18 | 4.58 | - | 1,503 | 11,681 |

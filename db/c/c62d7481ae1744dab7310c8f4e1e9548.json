@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -679,9 +679,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Pejsek",
@@ -806,8 +806,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:03:27.2966091+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:04:21.4110161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T02:57:11.5829525+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:59.8293788+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:03:27.2966347+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:58:41.5156603+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:04:21.4110374+00:00"
 }

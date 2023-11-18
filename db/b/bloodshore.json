@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "deathlooper",
@@ -461,17 +461,17 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "lootaphilia",
@@ -574,8 +574,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:05:56.1694251+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:07:51.4782281+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:07.7799889+00:00",
-  "LastUpdate_Ratings": "2023-11-18T15:02:53.7017154+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:05:56.1694368+00:00"
+  "LastUpdate_Ratings": "2023-11-18T16:03:31.5443441+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:07:51.4782405+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 296,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -1409,9 +1409,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_12",
@@ -1585,9 +1585,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_32",
@@ -1783,8 +1783,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-18T15:04:32.8270961+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:05:53.8755585+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:58:21.3300737+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:04:32.8271382+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:59:14.3644795+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:05:53.875609+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "yooka-laylee",
   "Ranking_Rating": 878,
   "Ranking_Popularity": 521,
-  "Ranking_PopularitySum": 454,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
     "PcReleaseDate": "2017-04-11T15:00:00+00:00",
@@ -566,10 +566,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 85,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-11-18T15:58:09.7816453+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85,
+  "NumberOfAwards": 86,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -583,7 +589,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Characters",
@@ -609,8 +615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2023-11-02T22:57:28.6612376+00:00",
+  "LastChanged": "2023-11-18T15:58:09.7816451+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:28.2147202+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:39.2532785+00:00",
-  "LastUpdate_Achievements": "2023-11-18T15:03:37.3023685+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:58:09.7816457+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:04:35.56707+00:00"
 }

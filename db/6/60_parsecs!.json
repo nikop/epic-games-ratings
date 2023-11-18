@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "ID": "Achievement_NonFiction",
       "SetID": "c01p6e5",
       "Name": "Non-Fiction",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 93
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1288,9 +1288,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 627
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1361,8 +1361,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-11-18T14:08:06.0458535+00:00",
+  "LastChanged_Achievements": "2023-11-18T16:03:41.5310869+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.8255843+00:00",
-  "LastUpdate_Ratings": "2023-11-18T14:57:30.5756483+00:00",
-  "LastUpdate_Achievements": "2023-11-18T14:08:06.0459179+00:00"
+  "LastUpdate_Ratings": "2023-11-18T15:57:56.2121737+00:00",
+  "LastUpdate_Achievements": "2023-11-18T16:03:41.5311656+00:00"
 }
