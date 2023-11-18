@@ -14,26 +14,26 @@
 | Experienced Thalya | 67.00% | ~195 |
 | Bad Elves Go Everywhere | 62.00% | ~180 |
 | Master of Magic | 61.00% | ~178 |
-| Unicorn steaks – fresh off the hoof! | 56.00% | ~163 |
-| Heroes’ Gorge | 56.00% | ~163 |
+| Unicorn steaks – fresh off the hoof! | 57.00% | ~166 |
+| Heroes’ Gorge | 57.00% | ~166 |
 | Magic Accidents | 55.00% | ~160 |
 | Minions, Minions! | 54.00% | ~157 |
 | Trap Master | 51.00% | ~148 |
-| The Ascent | 43.00% | ~125 |
-| It's Warm and Cozy at Home | 43.00% | ~125 |
-| YOU SHALL NOT PASS! | 42.00% | ~122 |
+| The Ascent | 44.00% | ~128 |
+| It's Warm and Cozy at Home | 44.00% | ~128 |
+| YOU SHALL NOT PASS! | 43.00% | ~125 |
 | Hard Work | 39.00% | ~113 |
 | The Big Eaty | 38.00% | ~111 |
 | Pure Dynamite! | 37.00% | ~108 |
-| Mana Cannon | 32.00% | ~93 |
+| Mana Cannon | 33.00% | ~96 |
 | “… like son” | 32.00% | ~93 |
 | Dungeonlord Gorgu | 26.00% | ~76 |
+| The Cathedral of Light | 26.00% | ~76 |
 | Shame! Shame! Shame! | 26.00% | ~76 |
-| The Cathedral of Light | 25.00% | ~73 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~61 |
-| Tanos' Crusade Against Thalya | 20.00% | ~58 |
+| Tanos' Crusade Against Thalya | 21.00% | ~61 |
 | Hungry, Hungry Gorgu! | 18.00% | ~52 |
-| Unstoppable Horde | 17.00% | ~49 |
+| Unstoppable Horde | 18.00% | ~52 |
 | Master of the Undead | 16.00% | ~47 |
 | All’s Well That Ends Evil | 16.00% | ~47 |
 | Forbidden Knowledge | 15.00% | ~44 |
@@ -42,7 +42,7 @@
 | Ghost Pirates? Ghost Heroes! | 13.00% | ~38 |
 | Stop Tanos! | 12.00% | ~35 |
 | If Looks Could Kill | 11.00% | ~32 |
-| The Finitude Drill | 9.00% | ~26 |
+| The Finitude Drill | 10.00% | ~29 |
 | Bonus Evilness | 8.00% | ~23 |
 | Sabotage! | 8.00% | ~23 |
 | My Little Torture Chamber | 7.00% | ~20 |

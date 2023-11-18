@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2311,7 +2311,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 45170,
+  "EOS_Progressed": 45171,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 0,
@@ -25331,6 +25331,11 @@
       "Time": "2023-11-17T23:07:23.5468679+00:00",
       "NumProgressed": 45170,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-18T00:04:47.1455727+00:00",
+      "NumProgressed": 45171,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -25398,7 +25403,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 15809
+      "UsersEstimate": 15810
     },
     {
       "ID": "achievements_19",
@@ -25446,7 +25451,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27102
+      "UsersEstimate": 27103
     },
     {
       "ID": "achievements_24",
@@ -25470,7 +25475,7 @@
       "Name": "Mountain King - I",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18971
+      "UsersEstimate": 18972
     },
     {
       "ID": "achievements_27",
@@ -25478,7 +25483,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 17616
+      "UsersEstimate": 17617
     },
     {
       "ID": "achievements_28",
@@ -25534,7 +25539,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13099
+      "UsersEstimate": 13100
     },
     {
       "ID": "achievements_34",
@@ -25542,7 +25547,7 @@
       "Name": "Cannon Fodder - III",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "achievements_35",
@@ -25590,7 +25595,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 29812
+      "UsersEstimate": 29813
     },
     {
       "ID": "achievements_40",
@@ -25606,7 +25611,7 @@
       "Name": "Spiritual Attraction",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "achievements_42",
@@ -25638,7 +25643,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "achievements_46",
@@ -25646,7 +25651,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 38394
+      "UsersEstimate": 38395
     },
     {
       "ID": "achievements_47",
@@ -25702,7 +25707,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18971
+      "UsersEstimate": 18972
     },
     {
       "ID": "achievements_53",
@@ -25718,7 +25723,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 19423
+      "UsersEstimate": 19424
     },
     {
       "ID": "achievements_55",
@@ -25780,9 +25785,9 @@
       "ID": "achievements_62",
       "SetID": "6hgbao0",
       "Name": "Revealed Secrets - I",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11744
+      "UsersEstimate": 12196
     },
     {
       "ID": "achievements_63",
@@ -25790,7 +25795,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 11292
+      "UsersEstimate": 11293
     },
     {
       "ID": "achievements_64",
@@ -25806,7 +25811,7 @@
       "Name": "Nightmare of the Humanity - I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "achievements_66",
@@ -25918,7 +25923,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 32974
+      "UsersEstimate": 32975
     },
     {
       "ID": "achievements_8",
@@ -25926,7 +25931,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13099
+      "UsersEstimate": 13100
     },
     {
       "ID": "achievements_9",
@@ -25941,15 +25946,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 45170,
+      "Progressed": 45171,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-11-17T21:58:51.983112+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:07:23.5468675+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:04:47.1455724+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:19.1802613+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:58:53.0755006+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:07:23.547053+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:58:38.0261577+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:04:47.1457395+00:00"
 }

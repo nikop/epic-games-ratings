@@ -6,33 +6,33 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~396,847 |
-| Happy Returns | 78.00% | ~382,149 |
-| Hey! That's mine! | 78.00% | ~382,149 |
-| Field Promotion | 74.00% | ~362,552 |
-| Leadhead | 71.00% | ~347,854 |
-| Eradicator | 67.00% | ~328,256 |
+| First Blood | 81.00% | ~396,848 |
+| Happy Returns | 78.00% | ~382,150 |
+| Hey! That's mine! | 78.00% | ~382,150 |
+| Field Promotion | 74.00% | ~362,553 |
+| Leadhead | 71.00% | ~347,855 |
+| Eradicator | 67.00% | ~328,257 |
 | Surplus | 65.00% | ~318,458 |
-| I Spy | 64.00% | ~313,558 |
+| I Spy | 64.00% | ~313,559 |
 | Burn Baby Burn | 59.00% | ~289,062 |
 | Yellow Beats Green | 56.00% | ~274,364 |
 | Salvage Rights | 53.00% | ~259,666 |
 | Close Call | 50.00% | ~244,968 |
 | Pew Pew | 50.00% | ~244,968 |
 | What IS that? | 50.00% | ~244,968 |
-| Penny Pincher | 49.00% | ~240,068 |
-| Arsenal | 46.00% | ~225,370 |
+| Penny Pincher | 49.00% | ~240,069 |
+| Arsenal | 46.00% | ~225,371 |
 | Boot Camp | 45.00% | ~220,471 |
 | Flawless Victory | 42.00% | ~205,773 |
-| Confident | 41.00% | ~200,873 |
+| Confident | 41.00% | ~200,874 |
 | Exterminator | 36.00% | ~176,377 |
 | Sharpshooter | 34.00% | ~166,578 |
 | Not So Fast | 33.00% | ~161,679 |
-| Great Ball of Fire | 32.00% | ~156,779 |
+| Great Ball of Fire | 32.00% | ~156,780 |
 | No Sale | 31.00% | ~151,880 |
-| Kaboom! | 30.00% | ~146,980 |
+| Kaboom! | 30.00% | ~146,981 |
 | Liquidator | 29.00% | ~142,081 |
-| High Voltage | 24.00% | ~117,584 |
+| High Voltage | 24.00% | ~117,585 |
 | Filthy Rich | 20.00% | ~97,987 |
 | Pyrrhic Victory | 18.00% | ~88,188 |
 | The Not-So-Friendly Skies | 18.00% | ~88,188 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~490 |
 | You Monster | 0.10% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,935 (Ranked 37)  
+Progressed: 489,936 (Ranked 37)  
 Completed: 5 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,11 @@ Completed: 5 (0.00%) (Ranked 354)
 | 2023-11-15 | 489,822 | 5 |
 | 2023-11-16 | 489,868 | 5 |
 | 2023-11-17 | 489,935 | 5 |
+| 2023-11-18 | 489,936 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 268)  
-Sum: 1,722 (Ranked 220)  
-Diff (max vs sum): 48  
+Sum: 1,722 (Ranked 221)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 257 |

@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3744,6 +3744,11 @@
       "Time": "2023-11-17T23:11:58.6029598+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T00:09:31.7088579+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3948,7 +3953,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_32",
@@ -4259,13 +4264,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 1
     }
   ],
@@ -4273,8 +4278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:11:58.6029596+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:09:31.7088576+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:59:01.1698877+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:11:58.6030161+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:58:44.4966143+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:09:31.708921+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -778,6 +778,11 @@
       "Time": "2023-11-17T22:07:08.3029036+00:00",
       "NumProgressed": 370,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T00:06:02.0668884+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -830,7 +835,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "BreakTheLoop",
@@ -868,9 +873,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "DesolateIsland",
@@ -886,7 +891,7 @@
       "Name": "Discovery",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "EasternWetlands",
@@ -902,7 +907,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Excellent",
@@ -918,7 +923,7 @@
       "Name": "Flooded Valley",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "GnothiSeauton",
@@ -1038,7 +1043,7 @@
       "Name": "Not What It Seems",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Overload",
@@ -1046,15 +1051,15 @@
       "Name": "Overload",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "PrometheusUnbound",
@@ -1078,7 +1083,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "RenaissanceRobot",
@@ -1134,7 +1139,7 @@
       "Name": "Team Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "TextAdventurer",
@@ -1198,15 +1203,15 @@
       "Name": "The Word Endures",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 163
     },
     {
       "ID": "TrevorsBiographer",
@@ -1261,7 +1266,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 1
     }
   ],
@@ -1269,8 +1274,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:08:55.5727926+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:06:02.066888+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:01:09.8032818+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:08:55.5728319+00:00"
+  "LastUpdate_Ratings": "2023-11-18T00:00:30.2249945+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:06:02.0669369+00:00"
 }

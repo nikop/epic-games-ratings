@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 488)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,246 |
-| Pay 'n' Spray | 51.00% | ~6,995 |
+| Getting Started | 82.00% | ~11,248 |
+| Pay 'n' Spray | 51.00% | ~6,996 |
 | All Dressed Up for San Fierro | 26.00% | ~3,566 |
 | The American Dream | 20.00% | ~2,743 |
 | School's Out | 19.00% | ~2,606 |
 | Smooth Moves | 17.00% | ~2,332 |
-| What happens in Las Venturas... | 16.00% | ~2,194 |
-| Today Was a Good Day | 16.00% | ~2,194 |
+| What happens in Las Venturas... | 16.00% | ~2,195 |
+| Today Was a Good Day | 16.00% | ~2,195 |
 | Horror of the Santa Maria | 11.00% | ~1,509 |
 | Liberty City State of Mind | 10.00% | ~1,372 |
 | The End of the Line | 8.00% | ~1,097 |
@@ -22,11 +22,11 @@ Rating: 4.56 (Ranked 488)
 | They Can’t Stop All of Us | 5.00% | ~686 |
 | Rescue a Kitten Too? | 5.00% | ~686 |
 | What are the Odds | 4.00% | ~549 |
-| I’ll Have Two Number 9s | 3.00% | ~411 |
-| Bike or Biker | 3.00% | ~411 |
-| What the City Needs | 3.00% | ~411 |
-| Yes I Speak English | 3.00% | ~411 |
-| Public Enemy No. 1 | 3.00% | ~411 |
+| I’ll Have Two Number 9s | 3.00% | ~412 |
+| Bike or Biker | 3.00% | ~412 |
+| What the City Needs | 3.00% | ~412 |
+| Yes I Speak English | 3.00% | ~412 |
+| Public Enemy No. 1 | 3.00% | ~412 |
 | A Legitimate Business | 2.00% | ~274 |
 | Who Needs Directions? | 2.00% | ~274 |
 | Swiss Army Strife | 2.00% | ~274 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,715 (Ranked 152)  
+Progressed: 13,717 (Ranked 152)  
 Completed: 53 (0.39%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,6 +253,7 @@ Completed: 53 (0.39%) (Ranked 214)
 | 2023-11-15 | 13,705 | 53 |
 | 2023-11-16 | 13,707 | 53 |
 | 2023-11-17 | 13,715 | 53 |
+| 2023-11-18 | 13,717 | 53 |
 ## Awards
 Max (Great Boss Battles): 391  (Ranked 232)  
 Sum: 615 (Ranked 308)  

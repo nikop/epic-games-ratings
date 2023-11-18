@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -300,17 +300,17 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -324,17 +324,17 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:11:46.4093603+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:09:25.2712783+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:01:08.4537414+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:11:46.4093697+00:00"
+  "LastUpdate_Ratings": "2023-11-18T00:00:29.1345685+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:09:25.271289+00:00"
 }

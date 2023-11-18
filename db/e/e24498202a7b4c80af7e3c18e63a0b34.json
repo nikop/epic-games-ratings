@@ -5641,9 +5641,9 @@
       "ID": "achievement_01_04",
       "SetID": "4f1m94d",
       "Name": "Bzzzt",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4980
+      "UsersEstimate": 5048
     },
     {
       "ID": "achievement_01_05",
@@ -5930,8 +5930,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-12T07:00:07.6812412+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:08:07.0526736+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:05:23.2731132+00:00",
   "LastUpdate_AppInfo": "2023-11-16T21:57:02.8000931+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:59:14.2168655+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:08:07.0527157+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:58:55.1379595+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:05:23.2731711+00:00"
 }

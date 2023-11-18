@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 581,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.52,
+  "EOS_Completed_Percentage": 5.51,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2485,6 +2485,11 @@
       "Time": "2023-11-17T23:06:55.5399074+00:00",
       "NumProgressed": 580,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T00:04:23.4682104+00:00",
+      "NumProgressed": 581,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2504,7 +2509,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "META_ALL_LINK",
@@ -2512,15 +2517,15 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 110
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2552,7 +2557,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2632,7 +2637,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2640,7 +2645,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2695,14 +2700,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 581,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:06:55.5399071+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:04:23.4682102+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:59:58.3460329+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:06:55.5399286+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:59:31.6347869+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:04:23.4682402+00:00"
 }

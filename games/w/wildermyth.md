@@ -22,10 +22,10 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 0.60% | ~9 |
 | Echoes Die | 0.60% | ~9 |
 | Pyrrhic Victory | 0.50% | ~7 |
+| Turncoat | 0.50% | ~7 |
+| Empty the Caves | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
 | A Story of Heroes | 0.40% | ~6 |
-| Turncoat | 0.40% | ~6 |
-| Empty the Caves | 0.30% | ~4 |
 | Chain Reaction | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
@@ -223,9 +223,9 @@ Completed: 6 (0.41%) (Ranked 210)
 | 2023-11-15 | 1,466 | 6 |
 | 2023-11-17 | 1,468 | 6 |
 ## Awards
-Max (Character Customization): 29  (Ranked 495)  
+Max (Character Customization): 29  (Ranked 496)  
 Sum: 29 (Ranked 511)  
-Diff (max vs sum): -16  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,800 |
-| Cavalier | 25.00% | ~202,188 |
-| Fatso | 23.00% | ~186,013 |
-| Awakening | 21.00% | ~169,838 |
-| Ranger | 20.00% | ~161,750 |
-| Scrooge | 20.00% | ~161,750 |
-| Anorectic | 16.00% | ~129,400 |
-| Bookworm | 15.00% | ~121,313 |
-| Firestarter | 15.00% | ~121,313 |
+| Blacksmith's Son | 32.00% | ~258,802 |
+| Cavalier | 25.00% | ~202,189 |
+| Fatso | 23.00% | ~186,014 |
+| Awakening | 21.00% | ~169,839 |
+| Ranger | 20.00% | ~161,751 |
+| Scrooge | 20.00% | ~161,751 |
+| Anorectic | 16.00% | ~129,401 |
+| Bookworm | 15.00% | ~121,314 |
+| Firestarter | 15.00% | ~121,314 |
 | Insomniac | 13.00% | ~105,138 |
-| Buddy | 12.00% | ~97,050 |
-| Thief | 12.00% | ~97,050 |
+| Buddy | 12.00% | ~97,051 |
+| Thief | 12.00% | ~97,051 |
 | Sinner | 11.00% | ~88,963 |
 | Traveller | 11.00% | ~88,963 |
-| Convict | 10.00% | ~80,875 |
+| Convict | 10.00% | ~80,876 |
 | Haggler | 9.00% | ~72,788 |
 | McLovin | 7.00% | ~56,613 |
 | Runt | 7.00% | ~56,613 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~809 |
 | Wingman | 0.10% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,751 (Ranked 17)  
+Progressed: 808,757 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,9 +301,10 @@ Completed: 51 (0.01%) (Ranked 333)
 | 2023-11-15 | 808,547 | 51 |
 | 2023-11-16 | 808,645 | 51 |
 | 2023-11-17 | 808,751 | 51 |
+| 2023-11-18 | 808,757 | 51 |
 ## Awards
 Max (Character Customization): 7,611  (Ranked 49)  
-Sum: 28,263 (Ranked 48)  
+Sum: 28,265 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -316,7 +317,7 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 1,691 |
 | This game has Realistic Visuals | 1,666 |
 | This game has Amazing Characters | 1,663 |
-| This game is Educational | 1,608 |
+| This game is Educational | 1,610 |
 | This game is Relaxing | 1,535 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -617,3 +618,4 @@ Diff (max vs sum): 1
 | 2023-11-15 | 4.71 | - | 7,603 | 28,242 |
 | 2023-11-16 | 4.71 | - | 7,606 | 28,250 |
 | 2023-11-17 | 4.71 | - | 7,611 | 28,263 |
+| 2023-11-18 | 4.71 | - | 7,611 | 28,265 |

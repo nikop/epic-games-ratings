@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,14 +15,14 @@ Rating: 4.54 (Ranked 523)
 | Coup de Grâce | 0.90% | ~6,478 |
 | Hazardous Materials | 0.90% | ~6,478 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,478 |
-| Dr. Reed, I Presume? | 0.80% | ~5,758 |
-| Anger Management | 0.80% | ~5,758 |
-| Bookworm | 0.80% | ~5,758 |
-| But Doctor, I am Butcho | 0.80% | ~5,758 |
-| Friends Like These | 0.80% | ~5,758 |
-| Apex Predator | 0.80% | ~5,758 |
-| Stacking the Deck | 0.80% | ~5,758 |
-| This is My Weapon | 0.80% | ~5,758 |
+| Dr. Reed, I Presume? | 0.80% | ~5,759 |
+| Anger Management | 0.80% | ~5,759 |
+| Bookworm | 0.80% | ~5,759 |
+| But Doctor, I am Butcho | 0.80% | ~5,759 |
+| Friends Like These | 0.80% | ~5,759 |
+| Apex Predator | 0.80% | ~5,759 |
+| Stacking the Deck | 0.80% | ~5,759 |
+| This is My Weapon | 0.80% | ~5,759 |
 | Can't Handle the Truth | 0.70% | ~5,039 |
 | Like Riding a Bike | 0.70% | ~5,039 |
 | Zombologist | 0.70% | ~5,039 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,812 (Ranked 20)  
-Completed: 2,402 (0.33%) (Ranked 226)  
+Progressed: 719,824 (Ranked 20)  
+Completed: 2,403 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,20 +269,21 @@ Completed: 2,402 (0.33%) (Ranked 226)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
+| 2023-11-18 | 719,824 | 2,403 |
 ## Awards
-Max (Great Boss Battles): 7,498  (Ranked 52)  
-Sum: 11,445 (Ranked 84)  
-Diff (max vs sum): -32  
+Max (Great Boss Battles): 7,519  (Ranked 51)  
+Sum: 11,470 (Ranked 84)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,498 |
+| This game has Great Boss Battles | 7,519 |
 | This game is Great for Beginners | 569 |
 | This game has Diverse Characters | 551 |
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 497 |
 | This game has Amazing Storytelling | 471 |
 | This game is Highly Recommended | 461 |
-| This game is Extremely Fun | 454 |
+| This game is Extremely Fun | 458 |
 | This game has Amazing Characters | 424 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -497,4 +498,4 @@ Diff (max vs sum): -32
 | 2023-11-14 | 4.54 | 7,440 | 11,323 |
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
-| 2023-11-17 | 4.54 | 7,498 | 11,445 |
+| 2023-11-17 | 4.54 | 7,519 | 11,470 |

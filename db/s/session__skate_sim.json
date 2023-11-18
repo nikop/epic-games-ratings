@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1195,9 +1195,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 3071,
+  "EOS_Progressed": 3072,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5755,6 +5755,11 @@
       "Time": "2023-11-17T01:53:34.6200634+00:00",
       "NumProgressed": 3071,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-18T00:05:21.4068552+00:00",
+      "NumProgressed": 3072,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -6134,7 +6139,7 @@
       "Name": "Welcome to the family",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -6142,22 +6147,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3071,
+      "Progressed": 3072,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-17T05:00:38.1518058+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:08:04.8692431+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:05:21.4068549+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:27.8412507+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:01:01.521057+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:08:04.8692886+00:00"
+  "LastUpdate_Ratings": "2023-11-18T00:00:23.4916792+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:05:21.4069053+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 935,
-  "Ranking_Popularity": 495,
+  "Ranking_Rating": 936,
+  "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,7 +427,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42745,
+  "EOS_Progressed": 42746,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
@@ -12702,6 +12702,11 @@
       "Time": "2023-11-17T23:07:06.2400382+00:00",
       "NumProgressed": 42745,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T00:04:32.5575156+00:00",
+      "NumProgressed": 42746,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12761,7 +12766,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -13136,22 +13141,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42745,
+      "Progressed": 42746,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7582,
-      "Completed": 7582
+      "Progressed": 7583,
+      "Completed": 7583
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:07:06.2400379+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:04:32.5575152+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:16.2717277+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:58:21.2178456+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:07:06.2401446+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:58:12.8603232+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:04:32.5576052+00:00"
 }

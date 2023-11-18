@@ -4291,10 +4291,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5300,
       "NumberOfAwardsMax": 2280
+    },
+    {
+      "Time": "2023-11-18T00:03:05.3877891+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5308,
+      "NumberOfAwardsMax": 2280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5300,
+  "NumberOfAwards": 5308,
   "NumberOfAwardsMax": 2280,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4362,12 +4368,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 324
+      "Count": 332
     }
   ],
-  "EOS_Progressed": 222583,
+  "EOS_Progressed": 222612,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3141,
+  "EOS_NewPlayers": 3159,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18575,6 +18581,11 @@
       "Time": "2023-11-17T23:10:40.6279743+00:00",
       "NumProgressed": 222583,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-11-18T00:08:29.9194507+00:00",
+      "NumProgressed": 222612,
+      "NumCompleted": 469
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -18987,7 +18998,7 @@
       "Name": "Regicide",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19026,22 +19037,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 222583,
+      "Progressed": 222612,
       "Completed": 469
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 1748,
+      "Progressed": 1777,
       "Completed": 104
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-17T23:04:37.560859+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:10:40.627974+00:00",
+  "LastChanged": "2023-11-18T00:03:05.3877889+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:08:29.9194504+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:04:37.5608594+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:10:40.6280965+00:00"
+  "LastUpdate_Ratings": "2023-11-18T00:03:05.3877895+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:08:29.9195544+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "defense-grid",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 220,
+  "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -2008,9 +2008,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 489935,
+  "EOS_Progressed": 489936,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24258,6 +24258,11 @@
       "Time": "2023-11-17T23:09:39.3578603+00:00",
       "NumProgressed": 489935,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-18T00:06:39.6224608+00:00",
+      "NumProgressed": 489936,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -24285,7 +24290,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 225370
+      "UsersEstimate": 225371
     },
     {
       "ID": "BASEDEFENDER",
@@ -24381,7 +24386,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 200873
+      "UsersEstimate": 200874
     },
     {
       "ID": "CORECONTAINER",
@@ -24413,7 +24418,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 328256
+      "UsersEstimate": 328257
     },
     {
       "ID": "EXTERMINATOR",
@@ -24437,7 +24442,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 362552
+      "UsersEstimate": 362553
     },
     {
       "ID": "FILTHYRICH",
@@ -24461,7 +24466,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 396847
+      "UsersEstimate": 396848
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -24525,7 +24530,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 156779
+      "UsersEstimate": 156780
     },
     {
       "ID": "GUNCRAZY",
@@ -24541,7 +24546,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382149
+      "UsersEstimate": 382150
     },
     {
       "ID": "HEADTRAUMA",
@@ -24557,7 +24562,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 382149
+      "UsersEstimate": 382150
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -24565,7 +24570,7 @@
       "Name": "High Voltage",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 117584
+      "UsersEstimate": 117585
     },
     {
       "ID": "INDECISIVE",
@@ -24581,7 +24586,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 313558
+      "UsersEstimate": 313559
     },
     {
       "ID": "KABOOM",
@@ -24589,7 +24594,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 146980
+      "UsersEstimate": 146981
     },
     {
       "ID": "KICKSTARTER",
@@ -24605,7 +24610,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 347854
+      "UsersEstimate": 347855
     },
     {
       "ID": "LIQUIDATOR",
@@ -24717,7 +24722,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 240068
+      "UsersEstimate": 240069
     },
     {
       "ID": "PEWPEW",
@@ -24964,15 +24969,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 489935,
+      "Progressed": 489936,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-11-12T11:58:23.6701896+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:09:39.35786+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:06:39.6224605+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:37.0920461+00:00",
-  "LastUpdate_Ratings": "2023-11-17T22:57:34.0766468+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:09:39.3580094+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:57:34.8120141+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:06:39.6226375+00:00"
 }

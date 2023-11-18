@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3876,
+  "EOS_Progressed": 3877,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7960,6 +7960,11 @@
       "Time": "2023-11-17T19:05:41.9778323+00:00",
       "NumProgressed": 3876,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-18T00:05:45.8173558+00:00",
+      "NumProgressed": 3877,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7979,7 +7984,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8035,7 +8040,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8091,7 +8096,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8099,7 +8104,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8139,7 +8144,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8171,7 +8176,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8187,7 +8192,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8211,7 +8216,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8347,7 +8352,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8538,13 +8543,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3827,
+      "Progressed": 3828,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3876,
+      "Progressed": 3877,
       "Completed": 11
     }
   ],
@@ -8552,8 +8557,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:08:33.7113817+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:05:45.8173551+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:00:29.368072+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:08:33.71147+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:59:56.6747364+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:05:45.8174516+00:00"
 }

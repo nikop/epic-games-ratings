@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -569,7 +569,7 @@
   ],
   "EOS_Progressed": 5778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5779,9 +5779,9 @@
       "ID": "achievement_0005",
       "SetID": "9123ogc",
       "Name": "Crucial Combo",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1098
     },
     {
       "ID": "achievement_0006",
@@ -6148,8 +6148,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-17T23:00:05.8432653+00:00",
-  "LastChanged_Achievements": "2023-11-17T23:08:52.7222954+00:00",
+  "LastChanged_Achievements": "2023-11-18T00:05:59.5016425+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:00:05.8432658+00:00",
-  "LastUpdate_Achievements": "2023-11-17T23:08:52.7223427+00:00"
+  "LastUpdate_Ratings": "2023-11-17T23:59:37.6165806+00:00",
+  "LastUpdate_Achievements": "2023-11-18T00:05:59.5016973+00:00"
 }
