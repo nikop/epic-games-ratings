@@ -75,8 +75,8 @@ Rating: 4.12 (Ranked 960)
 | Enhanced War Machines | 1.00% | ~24 |
 | Training makes a Pro player | 1.00% | ~24 |
 | Tree of Life | 1.00% | ~24 |
+| Beast War Machines | 0.90% | ~22 |
 | Silverwood liberator | 0.90% | ~22 |
-| Beast War Machines | 0.80% | ~19 |
 | Ultimate War Machines | 0.70% | ~17 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |

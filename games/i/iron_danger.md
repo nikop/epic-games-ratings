@@ -11,9 +11,9 @@
 | Death is Merely a Setback | 7.00% | ~22 |
 | Ring of Fire! | 7.00% | ~22 |
 | Third Shard | 7.00% | ~22 |
-| Berry Nice | 6.00% | ~18 |
-| Keyu Exterminator | 6.00% | ~18 |
-| Fourth Shard | 6.00% | ~18 |
+| Berry Nice | 6.00% | ~19 |
+| Keyu Exterminator | 6.00% | ~19 |
+| Fourth Shard | 6.00% | ~19 |
 | Big Fish | 5.00% | ~15 |
 | Tastes Like Chicken | 5.00% | ~15 |
 | Fifth Shard | 5.00% | ~15 |
@@ -28,8 +28,8 @@
 | Trolled | 1.00% | ~3 |
 | Troll Hunter | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 339)  
-Completed: 4 (1.30%) (Ranked 148)  
+Progressed: 309 (Ranked 339)  
+Completed: 4 (1.29%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,6 +126,7 @@ Completed: 4 (1.30%) (Ranked 148)
 | 2023-11-13 | 302 | 4 |
 | 2023-11-14 | 303 | 4 |
 | 2023-11-17 | 308 | 4 |
+| 2023-11-18 | 309 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

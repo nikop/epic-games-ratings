@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,048 (Ranked 41)  
+Progressed: 458,084 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,17 +582,17 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 458,048 | 1 |
+| 2023-11-18 | 458,084 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
-Sum: 58,021 (Ranked 24)  
+Sum: 58,039 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,043 |
 | This game has Diverse Characters | 6,784 |
 | This game is Highly Recommended | 6,775 |
-| This game has Challenging Combat | 6,665 |
+| This game has Challenging Combat | 6,683 |
 | This game is Extremely Fun | 6,658 |
 | This game is Relaxing | 6,478 |
 | This game has Competitive Players | 6,325 |
@@ -907,4 +907,4 @@ Diff (max vs sum): 30
 | 2023-11-15 | 4.69 | - | 7,013 | 57,716 |
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
 | 2023-11-17 | 4.69 | - | 7,043 | 58,000 |
-| 2023-11-18 | 4.69 | - | 7,043 | 58,021 |
+| 2023-11-18 | 4.69 | - | 7,043 | 58,039 |

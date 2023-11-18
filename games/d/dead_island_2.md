@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~910 |
-| Whatever It Takes | 2.00% | ~910 |
-| Pork Chopped | 2.00% | ~910 |
+| One of Us | 2.00% | ~911 |
+| Whatever It Takes | 2.00% | ~911 |
+| Pork Chopped | 2.00% | ~911 |
 | Break A Leg | 1.00% | ~7,200 |
 | Hotel California | 1.00% | ~7,200 |
 | Welcome To Hell-A | 1.00% | ~7,200 |
@@ -46,7 +46,7 @@ Rating: 4.54 (Ranked 524)
 | Smorgasbord | 0.30% | ~2,160 |
 | Internet Famous | 0.30% | ~2,160 |
 | Variety is the Spice of Death | 0.30% | ~2,160 |
-| Top That, Tisha! | 0.30% | ~136 |
+| Top That, Tisha! | 0.30% | ~137 |
 | LA Influential | 0.20% | ~1,440 |
 | Sole Survivor | 0.20% | ~1,440 |
 | Gore Horse | 0.20% | ~1,440 |
@@ -55,9 +55,9 @@ Rating: 4.54 (Ranked 524)
 | Donk! | 0.10% | ~720 |
 | Survival Skills | 0.10% | ~720 |
 | Bucket List | 0.10% | ~720 |
-| Wilhelm | 0.10% | ~45 |
+| Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,956 (Ranked 20)  
+Progressed: 719,987 (Ranked 20)  
 Completed: 2,406 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2,406 (0.33%) (Ranked 227)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 719,956 | 2,406 |
+| 2023-11-18 | 719,987 | 2,406 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 52)  
 Sum: 11,481 (Ranked 84)  

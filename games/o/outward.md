@@ -12,7 +12,7 @@ Number of Ratings: 266  (23.09.2022)
 | Cordon Bleu | 45.00% | ~1,649 |
 | Tapped! | 38.00% | ~1,392 |
 | Eureka | 33.00% | ~1,209 |
-| Scourge Slayer | 26.00% | ~953 |
+| Scourge Slayer | 27.00% | ~989 |
 | Science, Troglodyte! | 24.00% | ~879 |
 | Exceptional Skill | 23.00% | ~843 |
 | Home Sweet Home | 23.00% | ~843 |

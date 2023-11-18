@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4486,9 +4486,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 48
     },
     {
       "ID": "invincible_2",
@@ -4733,8 +4733,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-18T09:09:21.2091788+00:00",
+  "LastChanged_Achievements": "2023-11-18T10:09:15.8491062+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-18T08:59:24.1805536+00:00",
-  "LastUpdate_Achievements": "2023-11-18T09:09:21.2092363+00:00"
+  "LastUpdate_Ratings": "2023-11-18T09:59:49.2371814+00:00",
+  "LastUpdate_Achievements": "2023-11-18T10:09:15.8491706+00:00"
 }

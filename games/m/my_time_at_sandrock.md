@@ -12,17 +12,17 @@ Number of Ratings: 892  (23.09.2022)
 | Your Especially Earned Trajectory | 93.00% | ~341 |
 | No Mountain Wide Enough | 68.00% | ~250 |
 | Can We Keep It? | 65.00% | ~239 |
-| Yakmel Whisperer | 63.00% | ~231 |
+| Yakmel Whisperer | 64.00% | ~235 |
 | On that Grindset | 62.00% | ~228 |
 | One of the Cool Kids | 62.00% | ~228 |
 | Diamonds are Forever | 58.00% | ~213 |
+| Pack Mule | 57.00% | ~209 |
 | Unboxing | 57.00% | ~209 |
-| Pack Mule | 56.00% | ~206 |
 | Big Game Hunter | 52.00% | ~191 |
 | Chatterbox | 50.00% | ~184 |
 | Financially Secure | 49.00% | ~180 |
 | Got Served | 49.00% | ~180 |
-| First Love | 48.00% | ~176 |
+| First Love | 49.00% | ~180 |
 | I Do! | 46.00% | ~169 |
 | Happier-est Place on Earth | 45.00% | ~165 |
 | You Don't Win Friends With Salad | 45.00% | ~165 |
@@ -32,8 +32,8 @@ Number of Ratings: 892  (23.09.2022)
 | Anti-Santa | 41.00% | ~150 |
 | Mole Masher | 41.00% | ~150 |
 | Panda-kin | 40.00% | ~147 |
+| My Time Mansion | 40.00% | ~147 |
 | Commissions, commissions...! | 39.00% | ~143 |
-| My Time Mansion | 39.00% | ~143 |
 | Finishing Touches | 39.00% | ~143 |
 | Bridging the Gap | 39.00% | ~143 |
 | Knowledge is Power | 37.00% | ~136 |
@@ -57,7 +57,7 @@ Number of Ratings: 892  (23.09.2022)
 | It Belongs in a Museum! | 22.00% | ~81 |
 | Sandrunning Speedster | 21.00% | ~77 |
 | Cardistry | 19.00% | ~70 |
-| Pro Gamer | 18.00% | ~66 |
+| Pro Gamer | 19.00% | ~70 |
 | It's High Noon... | 10.00% | ~37 |
 | Strong Arms | 10.00% | ~37 |
 | Got the Receipt? | 10.00% | ~37 |

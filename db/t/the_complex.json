@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -980,6 +980,11 @@
       "Time": "2023-11-17T18:08:29.0655523+00:00",
       "NumProgressed": 634,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-18T10:08:20.2587624+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 20,
@@ -991,7 +996,7 @@
       "Name": "Beat It",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "blast_from_the_past",
@@ -999,7 +1004,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "deadly_secret",
@@ -1007,7 +1012,7 @@
       "Name": "Deadly Secret",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ending_1",
@@ -1031,7 +1036,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ending_4",
@@ -1047,7 +1052,7 @@
       "Name": "Lab Rat",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ending_6",
@@ -1095,7 +1100,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "kindar_surprise",
@@ -1125,9 +1130,9 @@
       "ID": "storage_hunter",
       "SetID": "d4f4pll",
       "Name": "Storage Hunter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 305
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1143,14 +1148,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 20
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-18T09:08:30.2467242+00:00",
+  "LastChanged_Achievements": "2023-11-18T10:08:20.258762+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:09.4439852+00:00",
-  "LastUpdate_Ratings": "2023-11-18T08:00:05.3562439+00:00",
-  "LastUpdate_Achievements": "2023-11-18T09:08:30.246745+00:00"
+  "LastUpdate_Ratings": "2023-11-18T09:56:56.4389364+00:00",
+  "LastUpdate_Achievements": "2023-11-18T10:08:20.2587929+00:00"
 }

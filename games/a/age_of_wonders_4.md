@@ -28,12 +28,12 @@ Rating: 4.61 (Ranked 384)
 | Enchanted Archipelago | 0.60% | ~32 |
 | Digging for Treasure | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
+| Fiery Friend | 0.60% | ~32 |
 | Impenetrable Fortress | 0.60% | ~32 |
 | Here be Dragons | 0.60% | ~32 |
 | Tipping the Scales | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
-| Fiery Friend | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
 | Prometheus Avenged | 0.50% | ~27 |
 | A Conqueror's Cohort | 0.50% | ~27 |

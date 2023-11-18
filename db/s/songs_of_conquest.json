@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -668,6 +668,11 @@
       "Time": "2023-11-18T09:06:31.9859883+00:00",
       "NumProgressed": 98,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T10:07:49.779586+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -822,9 +827,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1006,9 +1011,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "WielderLevel2",
@@ -1111,15 +1116,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-18T09:06:31.9859878+00:00",
+  "LastChanged_Achievements": "2023-11-18T10:07:49.7795857+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.5922951+00:00",
-  "LastUpdate_Ratings": "2023-11-18T08:59:55.5426528+00:00",
-  "LastUpdate_Achievements": "2023-11-18T09:06:31.9860197+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:00:25.7245703+00:00",
+  "LastUpdate_Achievements": "2023-11-18T10:07:49.779627+00:00"
 }
