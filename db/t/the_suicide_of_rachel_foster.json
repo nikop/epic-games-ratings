@@ -2,13 +2,13 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -3629,9 +3629,9 @@
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 674
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -3653,8 +3653,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:06:25.178669+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:52:55.0127714+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:59:26.1308927+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:06:25.1786967+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:45:29.3070152+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:52:55.0127981+00:00"
 }

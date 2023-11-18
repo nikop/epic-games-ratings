@@ -42,7 +42,7 @@
 | Miner | -1.10% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 189 (Ranked 384)  
-Completed: 1 (0.53%) (Ranked 197)  
+Completed: 1 (0.53%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,121 |
+| Lawbringer | 40.00% | ~26,122 |
 | Landlord | 33.00% | ~21,550 |
-| Bannerlord | 24.00% | ~15,672 |
-| Horde breaker | 24.00% | ~15,672 |
-| Lawmaker | 24.00% | ~15,672 |
-| Trained | 24.00% | ~15,672 |
-| The king is pleased | 19.00% | ~12,407 |
-| King Solomon | 18.00% | ~11,754 |
-| Apple of my eye | 16.00% | ~10,448 |
-| I can do it | 16.00% | ~10,448 |
-| Against all odds | 13.00% | ~8,489 |
-| God of the Arena | 13.00% | ~8,489 |
-| This Is Our Land | 13.00% | ~8,489 |
+| Bannerlord | 24.00% | ~15,673 |
+| Horde breaker | 24.00% | ~15,673 |
+| Lawmaker | 24.00% | ~15,673 |
+| Trained | 24.00% | ~15,673 |
+| The king is pleased | 19.00% | ~12,408 |
+| King Solomon | 18.00% | ~11,755 |
+| Apple of my eye | 16.00% | ~10,449 |
+| I can do it | 16.00% | ~10,449 |
+| Against all odds | 13.00% | ~8,490 |
+| God of the Arena | 13.00% | ~8,490 |
+| This Is Our Land | 13.00% | ~8,490 |
 | Duelist | 10.00% | ~6,530 |
 | Dynasty | 10.00% | ~6,530 |
 | I spit on your grave | 10.00% | ~6,530 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,302 (Ranked 104)  
+Progressed: 65,304 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,16 +270,17 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 65,180 | 0 |
 | 2023-11-16 | 65,241 | 0 |
 | 2023-11-17 | 65,302 | 0 |
+| 2023-11-18 | 65,304 | 0 |
 ## Awards
 Max (Character Customization): 7,397  (Ranked 53)  
-Sum: 15,314 (Ranked 68)  
+Sum: 15,316 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,397 |
 | This game is Great for Beginners | 1,061 |
 | This game has Diverse Characters | 1,009 |
-| This game is Highly Recommended | 926 |
+| This game is Highly Recommended | 928 |
 | This game is Extremely Fun | 874 |
 | This game has Amazing Storytelling | 862 |
 | This game has Amazing Characters | 862 |
@@ -598,3 +599,4 @@ Diff (max vs sum): -15
 | 2023-11-15 | 4.74 | - | 7,387 | 15,287 |
 | 2023-11-16 | 4.74 | - | 7,391 | 15,300 |
 | 2023-11-17 | 4.74 | - | 7,397 | 15,314 |
+| 2023-11-18 | 4.74 | - | 7,397 | 15,316 |

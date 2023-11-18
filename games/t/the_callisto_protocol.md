@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 918)  
+Rating: 4.19 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,6 +15,7 @@ Rating: 4.19 (Ranked 918)
 | The Outer Way | 6.00% | ~987 |
 | Desperate Times | 6.00% | ~987 |
 | You Need a Gun | 5.00% | ~823 |
+| I Do Belong Here | 5.00% | ~823 |
 | Workplace Hazard | 5.00% | ~823 |
 | If the SHU Fits... | 5.00% | ~823 |
 | Without A Paddle | 5.00% | ~823 |
@@ -25,7 +26,6 @@ Rating: 4.19 (Ranked 918)
 | Power Up | 5.00% | ~823 |
 | Keep Fighting | 5.00% | ~219 |
 | Giving Back | 4.00% | ~658 |
-| I Do Belong Here | 4.00% | ~658 |
 | Terminated | 4.00% | ~658 |
 | It's Time | 4.00% | ~175 |
 | The Commonality | 3.00% | ~494 |

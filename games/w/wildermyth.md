@@ -14,13 +14,13 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 2.00% | ~29 |
 | Cutthroat Competitors | 2.00% | ~29 |
 | Daybreak | 2.00% | ~29 |
+| Completing the Look | 1.00% | ~15 |
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
-| Completing the Look | 0.90% | ~13 |
 | Let Me Get My Chisel | 0.70% | ~10 |
+| Echoes Die | 0.70% | ~10 |
 | A Mythic Menagerie | 0.60% | ~9 |
 | Who's Counting? | 0.60% | ~9 |
-| Echoes Die | 0.60% | ~9 |
 | Pyrrhic Victory | 0.50% | ~7 |
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |

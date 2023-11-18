@@ -34,7 +34,7 @@
 | I leave no man behind (no exceptions) | 0.60% | ~1 |
 | No more mistakes | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 395)  
+Progressed: 154 (Ranked 396)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |

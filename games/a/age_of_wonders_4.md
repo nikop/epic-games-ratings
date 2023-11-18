@@ -5,9 +5,9 @@ Rating: 4.61 (Ranked 384)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| But this one is mine | 3.00% | ~162 |
 | Realm Estate | 2.00% | ~108 |
 | Secret Technique | 2.00% | ~108 |
-| But this one is mine | 2.00% | ~108 |
 | There Can Only Be One! | 1.00% | ~54 |
 | Full Ascension | 1.00% | ~54 |
 | A Wonderful Discovery | 1.00% | ~54 |
@@ -24,6 +24,7 @@ Rating: 4.61 (Ranked 384)
 | Valley of Wonders | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
 | Sehiran Oasis | 0.80% | ~43 |
+| Seal the Deal | 0.70% | ~38 |
 | Enchanted Archipelago | 0.60% | ~32 |
 | Digging for Treasure | 0.60% | ~32 |
 | My Final Form | 0.60% | ~32 |
@@ -31,7 +32,6 @@ Rating: 4.61 (Ranked 384)
 | Here be Dragons | 0.60% | ~32 |
 | Tipping the Scales | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
-| Seal the Deal | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Fiery Friend | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |

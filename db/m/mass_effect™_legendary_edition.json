@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -19,10 +19,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 1300,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 174,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 171,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-09-20T19:07:08.0577536+00:00",
@@ -3563,6 +3563,11 @@
       "Time": "2023-11-17T23:08:50.3798491+00:00",
       "NumProgressed": 1300,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T01:52:20.9775559+00:00",
+      "NumProgressed": 1300,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -3989,9 +3994,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1040
     },
     {
       "ID": "achievement_32",
@@ -4109,9 +4114,9 @@
       "ID": "achievement_45",
       "SetID": "d252ncf",
       "Name": "The Assassin",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_46",
@@ -4485,9 +4490,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_89",
@@ -4509,9 +4514,9 @@
       "ID": "achievement_90",
       "SetID": "d252ncf",
       "Name": "Executioner",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_91",
@@ -4591,7 +4596,7 @@
       "ID": "b9pe172",
       "IsBase": true,
       "Progressed": 1300,
-      "Completed": 3
+      "Completed": 4
     },
     {
       "ID": "d252ncf",
@@ -4601,8 +4606,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:05:57.633542+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:52:20.9775551+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-18T00:02:57.6201564+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:05:57.6337042+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:48:34.1879898+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:52:20.9777114+00:00"
 }

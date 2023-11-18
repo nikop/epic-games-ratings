@@ -45,7 +45,7 @@
 | Posterboy! | 9.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 76 (Ranked 452)  
-Completed: 6 (7.89%) (Ranked 51)  
+Completed: 6 (7.89%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

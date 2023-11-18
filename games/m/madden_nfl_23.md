@@ -1,24 +1,24 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.26 (Ranked 867)  
+Rating: 4.26 (Ranked 868)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,916 |
-| MVP | 54.00% | ~1,881 |
-| Big Spender | 53.00% | ~1,846 |
-| Stud Finder | 41.00% | ~1,428 |
-| Dealmaker | 39.00% | ~1,358 |
-| ROTY | 32.00% | ~1,115 |
-| Roster Reshuffle | 31.00% | ~1,080 |
-| Future of the Franchise | 19.00% | ~662 |
-| Throwin’ Dots | 17.00% | ~592 |
-| Already in Progress | 17.00% | ~592 |
-| Change of Scenery | 17.00% | ~592 |
-| Primetime | 16.00% | ~557 |
-| Pro Bowler | 16.00% | ~557 |
-| Unblockable | 9.00% | ~313 |
+| Bragging Rights | 55.00% | ~1,918 |
+| MVP | 54.00% | ~1,884 |
+| Big Spender | 53.00% | ~1,849 |
+| Stud Finder | 41.00% | ~1,430 |
+| Dealmaker | 39.00% | ~1,360 |
+| ROTY | 32.00% | ~1,116 |
+| Roster Reshuffle | 31.00% | ~1,081 |
+| Future of the Franchise | 19.00% | ~663 |
+| Throwin’ Dots | 17.00% | ~593 |
+| Already in Progress | 17.00% | ~593 |
+| Change of Scenery | 17.00% | ~593 |
+| Primetime | 16.00% | ~558 |
+| Pro Bowler | 16.00% | ~558 |
+| Unblockable | 9.00% | ~314 |
 | Pocket Ace | 5.00% | ~174 |
 | Lockdown Corner | 5.00% | ~174 |
 | Head-to-Head | 5.00% | ~174 |
@@ -27,7 +27,7 @@ Rating: 4.26 (Ranked 867)
 | Lockdown Leader | 0.50% | ~17 |
 | The Fortress | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,483 (Ranked 204)  
+Progressed: 3,488 (Ranked 204)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 3,445 | 0 |
 | 2023-11-16 | 3,465 | 0 |
 | 2023-11-17 | 3,482 | 0 |
-| 2023-11-18 | 3,483 | 0 |
+| 2023-11-18 | 3,488 | 0 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 458)  
 Sum: 89 (Ranked 451)  

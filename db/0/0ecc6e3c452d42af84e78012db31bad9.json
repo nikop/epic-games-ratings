@@ -4,8 +4,8 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4036,
+  "EOS_Progressed": 4037,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -9929,6 +9929,11 @@
       "Time": "2023-11-18T00:08:25.5173512+00:00",
       "NumProgressed": 4036,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-18T01:54:08.5451668+00:00",
+      "NumProgressed": 4037,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -10012,7 +10017,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "ach_food_completed",
@@ -10036,7 +10041,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "ach_magic_wand",
@@ -10067,14 +10072,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4036,
+      "Progressed": 4037,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:08:25.517351+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:54:08.5451659+00:00",
   "LastUpdate_AppInfo": "2023-11-17T20:57:02.4156411+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:57:37.6372305+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:08:25.5174041+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:43:06.3572375+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:54:08.5452248+00:00"
 }

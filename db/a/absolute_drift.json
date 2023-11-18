@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1551162,
+  "EOS_Progressed": 1551170,
   "EOS_Completed": 729,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24557,6 +24557,11 @@
       "Time": "2023-11-18T00:06:41.6249055+00:00",
       "NumProgressed": 1551162,
       "NumCompleted": 729
+    },
+    {
+      "Time": "2023-11-18T01:53:14.8415232+00:00",
+      "NumProgressed": 1551170,
+      "NumCompleted": 729
     }
   ],
   "TotalAchievements": 20,
@@ -24576,7 +24581,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108581
+      "UsersEstimate": 108582
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -24664,7 +24669,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155116
+      "UsersEstimate": 155117
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -24727,15 +24732,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1551162,
+      "Progressed": 1551170,
       "Completed": 729
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:06:41.6249048+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:53:14.8415228+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:30.6974895+00:00",
-  "LastUpdate_Ratings": "2023-11-18T00:00:23.2104988+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:06:41.6250464+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:46:44.1840232+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:53:14.8416401+00:00"
 }

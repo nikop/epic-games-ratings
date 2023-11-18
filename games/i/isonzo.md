@@ -6,45 +6,45 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 53.00% | ~4,194 |
-| You Shall Not Pass | 52.00% | ~4,115 |
-| Peak Performance | 51.00% | ~4,036 |
-| Avanti Savoia! | 46.00% | ~3,640 |
-| Mamma Mia! | 37.00% | ~2,928 |
-| Conrad von Hotzensocks | 34.00% | ~2,690 |
-| Gabriele D'Annunzio | 33.00% | ~2,611 |
-| Silver Lining | 29.00% | ~2,295 |
-| Aurelio Baruzzi | 23.00% | ~1,820 |
-| Decimation | 21.00% | ~1,662 |
-| Donatello | 21.00% | ~1,662 |
-| The Italian Job | 21.00% | ~1,662 |
-| Veni Vidi Vici | 21.00% | ~1,662 |
-| Insubordination | 19.00% | ~1,503 |
-| Ragazzi del '99 | 18.00% | ~1,424 |
-| The Lion of the Isonzo | 16.00% | ~1,266 |
-| Luigi Cadorna | 15.00% | ~1,187 |
-| Uomo Universale | 14.00% | ~1,108 |
-| Dirty Dozen | 13.00% | ~1,029 |
-| Shaken, Not Stirred | 13.00% | ~1,029 |
-| Die Bosniaken Kommen! | 12.00% | ~950 |
-| Machiavelli | 12.00% | ~950 |
-| Thus With A Kiss | 12.00% | ~950 |
-| The Devil's Paintbrush | 11.00% | ~870 |
-| Dante's Inferno | 10.00% | ~791 |
-| I Have the High Ground | 10.00% | ~791 |
-| Millenial | 10.00% | ~791 |
-| The Show Must Go On | 9.00% | ~712 |
-| Tosca | 9.00% | ~712 |
-| 12th Bottle of the Isonzo | 7.00% | ~554 |
-| Cercatore d'Oro | 6.00% | ~475 |
-| The Enlightment | 6.00% | ~475 |
+| Tutti Eroi! | 53.00% | ~4,202 |
+| You Shall Not Pass | 52.00% | ~4,123 |
+| Peak Performance | 50.00% | ~3,964 |
+| Avanti Savoia! | 46.00% | ~3,647 |
+| Mamma Mia! | 37.00% | ~2,934 |
+| Conrad von Hotzensocks | 34.00% | ~2,696 |
+| Gabriele D'Annunzio | 33.00% | ~2,617 |
+| Silver Lining | 29.00% | ~2,299 |
+| Aurelio Baruzzi | 23.00% | ~1,824 |
+| Decimation | 21.00% | ~1,665 |
+| Donatello | 21.00% | ~1,665 |
+| Veni Vidi Vici | 21.00% | ~1,665 |
+| The Italian Job | 20.00% | ~1,586 |
+| Insubordination | 19.00% | ~1,507 |
+| Ragazzi del '99 | 18.00% | ~1,427 |
+| The Lion of the Isonzo | 16.00% | ~1,269 |
+| Luigi Cadorna | 15.00% | ~1,189 |
+| Uomo Universale | 14.00% | ~1,110 |
+| Dirty Dozen | 13.00% | ~1,031 |
+| Shaken, Not Stirred | 13.00% | ~1,031 |
+| Die Bosniaken Kommen! | 12.00% | ~951 |
+| Machiavelli | 12.00% | ~951 |
+| Thus With A Kiss | 12.00% | ~951 |
+| The Devil's Paintbrush | 11.00% | ~872 |
+| Dante's Inferno | 10.00% | ~793 |
+| I Have the High Ground | 10.00% | ~793 |
+| Millenial | 10.00% | ~793 |
+| The Show Must Go On | 9.00% | ~714 |
+| Tosca | 9.00% | ~714 |
+| 12th Bottle of the Isonzo | 7.00% | ~555 |
+| Cercatore d'Oro | 6.00% | ~476 |
+| The Enlightment | 6.00% | ~476 |
 | Generalissimo | 5.00% | ~396 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~317 |
-| Farewell to Arms | 3.00% | ~237 |
-| Ponte of No Return | 3.00% | ~237 |
-| Seeing Red | 3.00% | ~237 |
-| Soča Drag | 3.00% | ~237 |
-| Saboteur | 2.00% | ~158 |
+| Farewell to Arms | 3.00% | ~238 |
+| Ponte of No Return | 3.00% | ~238 |
+| Seeing Red | 3.00% | ~238 |
+| Soča Drag | 3.00% | ~238 |
+| Saboteur | 2.00% | ~159 |
 | Compagnia della Morte | 1.00% | ~79 |
 | Drop and Give Me 20 | 1.00% | ~79 |
 | Malpractice | 1.00% | ~79 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~32 |
 | Can I Go Home Now? | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,913 (Ranked 172)  
+Progressed: 7,929 (Ranked 172)  
 Completed: 9 (0.11%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 9 (0.11%) (Ranked 276)
 | 2023-11-15 | 7,626 | 9 |
 | 2023-11-16 | 7,705 | 9 |
 | 2023-11-17 | 7,896 | 9 |
-| 2023-11-18 | 7,913 | 9 |
+| 2023-11-18 | 7,929 | 9 |
 ## Awards
 Max (Diverse Characters): 36  (Ranked 466)  
 Sum: 280 (Ranked 371)  

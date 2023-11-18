@@ -2,13 +2,13 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 883,
-  "Ranking_Popularity": 171,
+  "Ranking_Rating": 884,
+  "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -6787,10 +6787,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 5576,
       "NumberOfAwardsMax": 774
+    },
+    {
+      "Time": "2023-11-18T01:44:56.0518882+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 5578,
+      "NumberOfAwardsMax": 774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5576,
+  "NumberOfAwards": 5578,
   "NumberOfAwardsMax": 774,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6846,7 +6852,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 508
+      "Count": 510
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6885,8 +6891,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-11-17T22:59:20.7735636+00:00",
+  "LastChanged": "2023-11-18T01:44:56.0518622+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:28.6309396+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:59:00.6307204+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:08:46.7269994+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:44:56.0518886+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:54:35.1092996+00:00"
 }

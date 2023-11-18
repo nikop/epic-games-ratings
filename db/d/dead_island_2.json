@@ -6571,10 +6571,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11470,
       "NumberOfAwardsMax": 7519
+    },
+    {
+      "Time": "2023-11-18T01:45:24.790491+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11480,
+      "NumberOfAwardsMax": 7519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11470,
+  "NumberOfAwards": 11480,
   "NumberOfAwardsMax": 7519,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6600,7 +6606,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 569
+      "Count": 575
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6630,13 +6636,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 471
+      "Count": 475
     }
   ],
-  "EOS_Progressed": 719824,
-  "EOS_Completed": 2403,
-  "EOS_NewPlayers": 3607,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 719850,
+  "EOS_Completed": 2404,
+  "EOS_NewPlayers": 3596,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30803,6 +30809,11 @@
       "Time": "2023-11-18T00:06:05.2836284+00:00",
       "NumProgressed": 719824,
       "NumCompleted": 2403
+    },
+    {
+      "Time": "2023-11-18T01:52:30.3798148+00:00",
+      "NumProgressed": 719850,
+      "NumCompleted": 2404
     }
   ],
   "TotalAchievements": 51,
@@ -30830,7 +30841,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6478
+      "UsersEstimate": 6479
     },
     {
       "ID": "ach_anger_management",
@@ -30846,7 +30857,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ach_big_name_in_town",
@@ -30886,7 +30897,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ach_defensive",
@@ -30918,7 +30929,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -30934,7 +30945,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6478
+      "UsersEstimate": 6479
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30958,7 +30969,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6478
+      "UsersEstimate": 6479
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30990,7 +31001,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ach_investigator",
@@ -31094,7 +31105,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6478
+      "UsersEstimate": 6479
     },
     {
       "ID": "ach_survival_expert",
@@ -31142,7 +31153,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -31174,7 +31185,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ach_dark_magic",
@@ -31182,7 +31193,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ach_gardening_tools",
@@ -31198,7 +31209,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31221,22 +31232,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 719824,
-      "Completed": 2403
+      "Progressed": 719850,
+      "Completed": 2404
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 45366,
+      "Progressed": 45392,
       "Completed": 36555
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-17T23:59:22.5836287+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:06:05.2836279+00:00",
+  "LastChanged": "2023-11-18T01:45:24.7904908+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:52:30.3798143+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:59:22.5836296+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:06:05.2838082+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:45:24.7904912+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:52:30.3799714+00:00"
 }

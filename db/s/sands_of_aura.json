@@ -4,8 +4,8 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -475,9 +475,9 @@
       "ID": "COLLECT_ALL_BREW_RECIPES",
       "SetID": "cm0d613",
       "Name": "Sommelier",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COLLECT_ALL_POMMEL_CASTS",
@@ -868,8 +868,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:08:02.2393288+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:53:39.9304537+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.5635294+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:57:40.7268055+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:08:02.2393695+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:43:10.6415668+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:53:39.9304915+00:00"
 }

@@ -19,7 +19,7 @@ Number of Ratings: 22  (23.09.2022)
 | Campaign Gold | 14.00% | ~60 |
 | Edora | 14.00% | ~60 |
 | Environmentalist | 12.00% | ~51 |
-| Iqunox | 9.00% | ~38 |
+| Iqunox | 10.00% | ~43 |
 | Udion Torix | 9.00% | ~38 |
 | Forester | 7.00% | ~30 |
 | Thera | 6.00% | ~26 |

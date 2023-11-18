@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~907 |
-| Whatever It Takes | 2.00% | ~907 |
-| Pork Chopped | 2.00% | ~907 |
+| One of Us | 2.00% | ~908 |
+| Whatever It Takes | 2.00% | ~908 |
+| Pork Chopped | 2.00% | ~908 |
 | Break A Leg | 1.00% | ~7,198 |
 | Hotel California | 1.00% | ~7,198 |
 | Welcome To Hell-A | 1.00% | ~7,198 |
-| Git Gutte! | 0.90% | ~6,478 |
-| Coup de Grâce | 0.90% | ~6,478 |
-| Hazardous Materials | 0.90% | ~6,478 |
-| Personal Assistant Personally Assisted | 0.90% | ~6,478 |
+| Git Gutte! | 0.90% | ~6,479 |
+| Coup de Grâce | 0.90% | ~6,479 |
+| Hazardous Materials | 0.90% | ~6,479 |
+| Personal Assistant Personally Assisted | 0.90% | ~6,479 |
 | Dr. Reed, I Presume? | 0.80% | ~5,759 |
 | Anger Management | 0.80% | ~5,759 |
 | Bookworm | 0.80% | ~5,759 |
@@ -41,11 +41,11 @@ Rating: 4.54 (Ranked 522)
 | Jumbo Keyring | 0.40% | ~2,879 |
 | Go, Bobcats! | 0.40% | ~2,879 |
 | Rising Star | 0.40% | ~2,879 |
-| Make it So | 0.30% | ~2,159 |
-| On Safari | 0.30% | ~2,159 |
-| Smorgasbord | 0.30% | ~2,159 |
-| Internet Famous | 0.30% | ~2,159 |
-| Variety is the Spice of Death | 0.30% | ~2,159 |
+| Make it So | 0.30% | ~2,160 |
+| On Safari | 0.30% | ~2,160 |
+| Smorgasbord | 0.30% | ~2,160 |
+| Internet Famous | 0.30% | ~2,160 |
+| Variety is the Spice of Death | 0.30% | ~2,160 |
 | Top That, Tisha! | 0.30% | ~136 |
 | LA Influential | 0.20% | ~1,440 |
 | Sole Survivor | 0.20% | ~1,440 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 719,824 (Ranked 20)  
-Completed: 2,403 (0.33%) (Ranked 227)  
+Progressed: 719,850 (Ranked 20)  
+Completed: 2,404 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,19 +269,19 @@ Completed: 2,403 (0.33%) (Ranked 227)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 719,824 | 2,403 |
+| 2023-11-18 | 719,850 | 2,404 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 51)  
-Sum: 11,470 (Ranked 84)  
+Sum: 11,480 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,519 |
-| This game is Great for Beginners | 569 |
+| This game is Great for Beginners | 575 |
 | This game has Diverse Characters | 551 |
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 497 |
-| This game has Amazing Storytelling | 471 |
+| This game has Amazing Storytelling | 475 |
 | This game is Highly Recommended | 461 |
 | This game is Extremely Fun | 458 |
 | This game has Amazing Characters | 424 |
@@ -499,3 +499,4 @@ Diff (max vs sum): -33
 | 2023-11-15 | 4.54 | 7,466 | 11,375 |
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
+| 2023-11-18 | 4.54 | 7,519 | 11,480 |

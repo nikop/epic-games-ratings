@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 849)  
+Rating: 4.28 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,823 |
-| Copacetic Coordination | 16.00% | ~56,450 |
-| Fronting the Money | 15.00% | ~52,922 |
-| The Dawn of Automation | 14.00% | ~49,394 |
-| Extraordinary Logistics | 14.00% | ~49,394 |
-| Dirty Money | 13.00% | ~45,866 |
-| Family First | 13.00% | ~45,866 |
-| Cleaning House | 12.00% | ~42,338 |
-| Room in the Back | 12.00% | ~42,338 |
-| Beating the Heat | 11.00% | ~38,810 |
-| Booze Baron | 11.00% | ~38,810 |
-| Friends on the Force | 10.00% | ~35,282 |
-| Neighborhood Watch | 10.00% | ~35,282 |
-| Core Corps | 8.00% | ~28,225 |
-| Sizeable Stash | 8.00% | ~28,225 |
-| Street Fighter | 7.00% | ~24,697 |
-| Friendly Gestures | 7.00% | ~24,697 |
-| People Person | 7.00% | ~24,697 |
-| Liquor Lord | 6.00% | ~21,169 |
-| Safety in Numbers | 6.00% | ~21,169 |
-| Moving Experiences | 6.00% | ~21,169 |
-| Wise Head | 6.00% | ~21,169 |
-| Show ‘em the Sugar | 6.00% | ~21,169 |
-| Killing Them Softly | 6.00% | ~21,169 |
+| Corner Clout | 47.00% | ~165,829 |
+| Copacetic Coordination | 16.00% | ~56,452 |
+| Fronting the Money | 15.00% | ~52,924 |
+| The Dawn of Automation | 14.00% | ~49,396 |
+| Extraordinary Logistics | 14.00% | ~49,396 |
+| Dirty Money | 13.00% | ~45,868 |
+| Family First | 13.00% | ~45,868 |
+| Cleaning House | 12.00% | ~42,339 |
+| Room in the Back | 12.00% | ~42,339 |
+| Beating the Heat | 11.00% | ~38,811 |
+| Booze Baron | 11.00% | ~38,811 |
+| Friends on the Force | 10.00% | ~35,283 |
+| Neighborhood Watch | 10.00% | ~35,283 |
+| Core Corps | 8.00% | ~28,226 |
+| Sizeable Stash | 8.00% | ~28,226 |
+| Street Fighter | 7.00% | ~24,698 |
+| Friendly Gestures | 7.00% | ~24,698 |
+| People Person | 7.00% | ~24,698 |
+| Liquor Lord | 6.00% | ~21,170 |
+| Safety in Numbers | 6.00% | ~21,170 |
+| Moving Experiences | 6.00% | ~21,170 |
+| Wise Head | 6.00% | ~21,170 |
+| Show ‘em the Sugar | 6.00% | ~21,170 |
+| Killing Them Softly | 6.00% | ~21,170 |
 | Street Knowledge | 5.00% | ~17,641 |
 | Oh Captain | 5.00% | ~17,641 |
 | Branching Out | 5.00% | ~17,641 |
@@ -41,18 +41,18 @@ Rating: 4.28 (Ranked 849)
 | An Affront to the Enemy | 4.00% | ~14,113 |
 | Friends from Back Home | 4.00% | ~14,113 |
 | Half Century Mark | 4.00% | ~14,113 |
-| Corner Opportunities | 3.00% | ~10,584 |
-| 2122 North Clark Street | 3.00% | ~10,584 |
-| Copious Cabbage | 3.00% | ~10,584 |
-| Sockdolager | 3.00% | ~10,584 |
-| Still Stalwart | 3.00% | ~10,584 |
-| Bees Knees Bootlegger | 3.00% | ~10,584 |
-| Tighten the Screws | 3.00% | ~10,584 |
-| One of Us | 2.00% | ~7,056 |
-| Baker’s Dozen | 2.00% | ~7,056 |
-| Dropping the Dime | 2.00% | ~7,056 |
-| Spiffy Speakeasies | 2.00% | ~7,056 |
-| Keeping Your Word | 2.00% | ~7,056 |
+| Corner Opportunities | 3.00% | ~10,585 |
+| 2122 North Clark Street | 3.00% | ~10,585 |
+| Copious Cabbage | 3.00% | ~10,585 |
+| Sockdolager | 3.00% | ~10,585 |
+| Still Stalwart | 3.00% | ~10,585 |
+| Bees Knees Bootlegger | 3.00% | ~10,585 |
+| Tighten the Screws | 3.00% | ~10,585 |
+| One of Us | 2.00% | ~7,057 |
+| Baker’s Dozen | 2.00% | ~7,057 |
+| Dropping the Dime | 2.00% | ~7,057 |
+| Spiffy Speakeasies | 2.00% | ~7,057 |
+| Keeping Your Word | 2.00% | ~7,057 |
 | Boxing Them In | 1.00% | ~3,528 |
 | Backroom Empire | 1.00% | ~3,528 |
 | Corner Control | 1.00% | ~3,528 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 849)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,815 (Ranked 47)  
+Progressed: 352,828 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 7 (0.00%) (Ranked 354)
 | 2023-11-15 | 352,513 | 7 |
 | 2023-11-16 | 352,647 | 7 |
 | 2023-11-17 | 352,809 | 7 |
-| 2023-11-18 | 352,815 | 7 |
+| 2023-11-18 | 352,828 | 7 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 468)  
 Sum: 145 (Ranked 423)  

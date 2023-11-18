@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.35 (Ranked 1,040)  
+Rating: 3.35 (Ranked 1,041)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,7 +44,7 @@ Rating: 3.35 (Ranked 1,040)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,847 (Ranked 228)  
+Progressed: 1,848 (Ranked 228)  
 Completed: 1 (0.05%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 1 (0.05%) (Ranked 305)
 | 2023-11-15 | 1,831 | 1 |
 | 2023-11-16 | 1,838 | 1 |
 | 2023-11-17 | 1,846 | 1 |
-| 2023-11-18 | 1,847 | 1 |
+| 2023-11-18 | 1,848 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

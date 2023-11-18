@@ -12,7 +12,7 @@
 | Mountain Splitter | 66.00% | ~194 |
 | Charmed by the Hunt | 66.00% | ~194 |
 | Fusion Conjuror | 65.00% | ~191 |
-| Memory Rouser | 64.00% | ~188 |
+| Memory Rouser | 65.00% | ~191 |
 | Subsistence Skills | 64.00% | ~188 |
 | Kemono Hunter | 60.00% | ~176 |
 | Expert Conjuror | 57.00% | ~168 |

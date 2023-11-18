@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -266,9 +266,9 @@
       "ID": "A_LEGIONNAIRES",
       "SetID": "324h56e",
       "Name": "We Are All You Need",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_LEVEL",
@@ -386,9 +386,9 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "A_TURTLES",
@@ -433,8 +433,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:05:04.0881178+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:51:14.1025647+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:08.5505648+00:00",
-  "LastUpdate_Ratings": "2023-11-18T00:02:40.2473813+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:05:04.0881438+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:48:11.5966383+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:51:14.1025876+00:00"
 }

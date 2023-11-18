@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2169,
+  "EOS_Progressed": 2170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5012,6 +5012,11 @@
       "Time": "2023-11-18T00:09:32.0760584+00:00",
       "NumProgressed": 2169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T01:55:32.1765516+00:00",
+      "NumProgressed": 2170,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5040,7 +5045,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5232,7 +5237,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5415,14 +5420,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2169,
+      "Progressed": 2170,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:09:32.0760582+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:55:32.176551+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-17T23:58:22.3626436+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:09:32.0761145+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:44:04.7682649+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:55:32.1766074+00:00"
 }

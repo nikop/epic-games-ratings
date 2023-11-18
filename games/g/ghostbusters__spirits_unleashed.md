@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 587)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,490 |
-| Advancement | 6.00% | ~1,867 |
-| Meticulously Efficient | 6.00% | ~1,867 |
+| Advancement | 6.00% | ~1,868 |
+| Meticulously Efficient | 6.00% | ~1,868 |
 | Discovery | 5.00% | ~1,556 |
 | Solo Capture | 5.00% | ~1,556 |
 | Swift Rift Removers | 5.00% | ~1,556 |
@@ -25,19 +25,19 @@ Rating: 4.50 (Ranked 587)
 | Ghostbuster In Training | 3.00% | ~934 |
 | Icing on the Cake | 3.00% | ~934 |
 | Right back at ya | 3.00% | ~934 |
-| Back Off | 2.00% | ~622 |
-| We have the best insurance | 2.00% | ~622 |
-| Collector | 2.00% | ~622 |
-| Escape Artist | 2.00% | ~622 |
-| Legions | 2.00% | ~622 |
-| Pesky Jerks | 2.00% | ~622 |
-| Rift Destroyer | 2.00% | ~622 |
-| Seasoned | 2.00% | ~622 |
-| Side Hustle | 2.00% | ~622 |
-| Skilled | 2.00% | ~622 |
-| Stunner | 2.00% | ~622 |
-| Summoner | 2.00% | ~622 |
-| Welcome to the Crew | 2.00% | ~622 |
+| Back Off | 2.00% | ~623 |
+| We have the best insurance | 2.00% | ~623 |
+| Collector | 2.00% | ~623 |
+| Escape Artist | 2.00% | ~623 |
+| Legions | 2.00% | ~623 |
+| Pesky Jerks | 2.00% | ~623 |
+| Rift Destroyer | 2.00% | ~623 |
+| Seasoned | 2.00% | ~623 |
+| Side Hustle | 2.00% | ~623 |
+| Skilled | 2.00% | ~623 |
+| Stunner | 2.00% | ~623 |
+| Summoner | 2.00% | ~623 |
+| Welcome to the Crew | 2.00% | ~623 |
 | Diabolical | 1.00% | ~311 |
 | Reckless | 1.00% | ~311 |
 | Rivalry | 1.00% | ~311 |
@@ -48,7 +48,7 @@ Rating: 4.50 (Ranked 587)
 | Surprise! | 0.90% | ~280 |
 | Therapeutic | 0.60% | ~187 |
 | Rift Seeker | 0.50% | ~156 |
-| Master Collector | 0.40% | ~124 |
+| Master Collector | 0.40% | ~125 |
 | Catostrophic Destroyer | 0.20% | ~62 |
 | I don't need these | 0.20% | ~62 |
 | Ghost Expert | 0.20% | ~62 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,122 (Ranked 123)  
+Progressed: 31,129 (Ranked 123)  
 Completed: 68 (0.22%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 68 (0.22%) (Ranked 247)
 | 2023-11-15 | 31,043 | 68 |
 | 2023-11-16 | 31,073 | 68 |
 | 2023-11-17 | 31,117 | 68 |
-| 2023-11-18 | 31,122 | 68 |
+| 2023-11-18 | 31,129 | 68 |
 ## Awards
 Max (Great for Beginners): 316  (Ranked 248)  
 Sum: 2,813 (Ranked 178)  

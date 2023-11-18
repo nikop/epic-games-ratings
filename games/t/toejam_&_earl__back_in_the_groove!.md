@@ -7,8 +7,8 @@ Rating: 4.33 (Ranked 813)
 | ---- | ---------- | ----- |
 | Food Taster | 9.00% | ~5,206 |
 | Fall Fest | 7.00% | ~4,049 |
+| Thrill Seeker | 7.00% | ~4,049 |
 | HFZ Goober | 6.00% | ~3,471 |
-| Thrill Seeker | 6.00% | ~3,471 |
 | Flying Present Catcher | 5.00% | ~2,892 |
 | Sunflower Master | 5.00% | ~2,892 |
 | Hi Fiver | 3.00% | ~1,735 |

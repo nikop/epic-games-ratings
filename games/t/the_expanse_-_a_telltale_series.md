@@ -6,13 +6,13 @@ Rating: 4.56 (Ranked 488)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 8.00% | ~1,205 |
-| The Pit and the Pirates | 4.00% | ~602 |
-| Martian Music | 4.00% | ~602 |
-| Drone Dodger | 4.00% | ~602 |
-| Bosmang | 4.00% | ~602 |
-| Captain Drummer | 4.00% | ~602 |
-| Celebrations are in Order | 4.00% | ~602 |
-| Impossible Objects | 4.00% | ~602 |
+| The Pit and the Pirates | 4.00% | ~603 |
+| Martian Music | 4.00% | ~603 |
+| Drone Dodger | 4.00% | ~603 |
+| Bosmang | 4.00% | ~603 |
+| Captain Drummer | 4.00% | ~603 |
+| Celebrations are in Order | 4.00% | ~603 |
+| Impossible Objects | 4.00% | ~603 |
 | Safe Cracker | 4.00% | ~41 |
 | Zen Master | 4.00% | ~41 |
 | Madame Undersecretary | 4.00% | ~41 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 488)
 | Spore Taste | 3.00% | ~452 |
 | Heal Thy Medic | 3.00% | ~452 |
 | Call it Even | 3.00% | ~452 |
-| Keep Arjun in Check | 3.00% | ~30 |
+| Keep Arjun in Check | 3.00% | ~31 |
 | Data Archivist | 2.00% | ~301 |
 | Bottoms up! | 2.00% | ~301 |
 | Thorston Mayer | 2.00% | ~301 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 488)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,062 (Ranked 149)  
-Completed: 34 (0.23%) (Ranked 244)  
+Progressed: 15,064 (Ranked 149)  
+Completed: 34 (0.23%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 34 (0.23%) (Ranked 244)
 | 2023-11-15 | 14,993 | 34 |
 | 2023-11-16 | 15,021 | 34 |
 | 2023-11-17 | 15,061 | 34 |
-| 2023-11-18 | 15,062 | 34 |
+| 2023-11-18 | 15,064 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

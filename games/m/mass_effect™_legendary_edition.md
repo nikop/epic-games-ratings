@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,209 |
-| Spectre Inductee | 79.00% | ~1,027 |
+| Spectre Inductee | 80.00% | ~1,040 |
 | Medal of Exploration I | 71.00% | ~923 |
 | Recruit | 67.00% | ~871 |
 | Search and Rescue | 67.00% | ~871 |
@@ -44,12 +44,12 @@
 | Broke, Blind, and Bedlam | 32.00% | ~416 |
 | A Personal Touch | 31.00% | ~403 |
 | Ghost Ship | 31.00% | ~403 |
+| The Assassin | 31.00% | ~403 |
 | The Justicar | 31.00% | ~403 |
 | The Quarian | 31.00% | ~403 |
 | The Prodigal | 31.00% | ~403 |
 | Galactic Explorer | 31.00% | ~403 |
 | Completionist | 30.00% | ~390 |
-| The Assassin | 30.00% | ~390 |
 | Battlemaster | 30.00% | ~390 |
 | Catharsis | 30.00% | ~390 |
 | Ghost of the Father | 30.00% | ~390 |
@@ -83,8 +83,8 @@
 | Weapon Specialist | 23.00% | ~299 |
 | Pathfinder | 23.00% | ~299 |
 | Tunnel Rat | 23.00% | ~299 |
+| Arbiter | 23.00% | ~299 |
 | Savior | 22.00% | ~286 |
-| Arbiter | 22.00% | ~286 |
 | Paramour II | 21.00% | ~273 |
 | Lost and Found | 21.00% | ~273 |
 | Party Crasher | 20.00% | ~260 |
@@ -98,9 +98,9 @@
 | Last Witness | 19.00% | ~247 |
 | Fact Finder | 19.00% | ~247 |
 | Well Connected | 18.00% | ~234 |
+| Executioner | 17.00% | ~221 |
 | Master and Commander | 17.00% | ~221 |
 | Sabotage Specialist | 16.00% | ~208 |
-| Executioner | 16.00% | ~208 |
 | Patriot | 16.00% | ~208 |
 | Legend | 16.00% | ~208 |
 | Electronics Specialist | 15.00% | ~195 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,300 (Ranked 243)  
-Completed: 3 (0.23%) (Ranked 244)  
+Completed: 4 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,3 +196,4 @@ Completed: 3 (0.23%) (Ranked 244)
 | 2023-11-15 | 1,270 | 3 |
 | 2023-11-16 | 1,282 | 3 |
 | 2023-11-17 | 1,300 | 3 |
+| 2023-11-18 | 1,300 | 4 |

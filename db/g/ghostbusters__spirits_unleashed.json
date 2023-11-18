@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3399,9 +3399,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31122,
+  "EOS_Progressed": 31129,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19584,6 +19584,11 @@
       "Time": "2023-11-18T00:07:59.5520135+00:00",
       "NumProgressed": 31122,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-18T01:53:36.1508421+00:00",
+      "NumProgressed": 31129,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19595,7 +19600,7 @@
       "Name": "Advancement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "Animated",
@@ -19611,7 +19616,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Best_Insurance",
@@ -19619,7 +19624,7 @@
       "Name": "We have the best insurance",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -19651,7 +19656,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Cultured",
@@ -19707,7 +19712,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "Escape_Artist",
@@ -19715,7 +19720,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Fragile_Panes",
@@ -19763,7 +19768,7 @@
       "Name": "Legions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Liability",
@@ -19795,7 +19800,7 @@
       "Name": "Master Collector",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Mycophile",
@@ -19811,7 +19816,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Reckless",
@@ -19827,7 +19832,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Rift_Seeker",
@@ -19859,7 +19864,7 @@
       "Name": "Seasoned",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Side_Hustle",
@@ -19867,7 +19872,7 @@
       "Name": "Side Hustle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Skilled",
@@ -19875,7 +19880,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Solo_Capture",
@@ -19891,7 +19896,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Stylish",
@@ -19907,7 +19912,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Surprise",
@@ -19987,7 +19992,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Whoopsie",
@@ -20002,7 +20007,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31122,
+      "Progressed": 31129,
       "Completed": 68
     }
   ],
@@ -20010,8 +20015,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-17T11:02:41.1218888+00:00",
-  "LastChanged_Achievements": "2023-11-18T00:07:59.5520126+00:00",
+  "LastChanged_Achievements": "2023-11-18T01:53:36.1508413+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-18T00:02:51.2761403+00:00",
-  "LastUpdate_Achievements": "2023-11-18T00:07:59.552145+00:00"
+  "LastUpdate_Ratings": "2023-11-18T01:48:26.0310749+00:00",
+  "LastUpdate_Achievements": "2023-11-18T01:53:36.1509444+00:00"
 }
