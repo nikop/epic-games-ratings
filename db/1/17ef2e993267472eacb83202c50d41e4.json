@@ -5,7 +5,7 @@
   "Ranking_Rating": 1015,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 121,
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8021,
+  "EOS_Progressed": 8023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6656,6 +6656,11 @@
       "Time": "2023-11-18T04:09:17.3991477+00:00",
       "NumProgressed": 8021,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T11:09:07.738193+00:00",
+      "NumProgressed": 8023,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6724,7 +6729,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "DHUpgraded1",
@@ -6876,7 +6881,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "HSPurchased1",
@@ -6956,7 +6961,7 @@
       "Name": "Upgraded the LMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "LaserUpgraded1",
@@ -6980,7 +6985,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "MaxDamageDone30000",
@@ -7052,7 +7057,7 @@
       "Name": "200 Minion Eliminations",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "MinionKills2000",
@@ -7124,7 +7129,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "QAUpgraded1",
@@ -7140,7 +7145,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "RAPurchased1",
@@ -7180,7 +7185,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "SOVUpgraded1",
@@ -7259,7 +7264,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8021,
+      "Progressed": 8023,
       "Completed": 1
     }
   ],
@@ -7267,8 +7272,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:09:17.3819406+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:09:07.7381928+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:51.1315767+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:09:17.3820194+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:48.8378977+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:09:07.7382669+00:00"
 }

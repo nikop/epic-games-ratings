@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -759,6 +759,11 @@
       "Time": "2023-11-18T10:04:19.6732546+00:00",
       "NumProgressed": 309,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T11:04:20.1241234+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -770,7 +775,7 @@
       "Name": "Big Fish",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ENEMY_KILLER",
@@ -882,7 +887,7 @@
       "Name": "Tastes Like Chicken",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SHARD_1",
@@ -890,7 +895,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_SHARD_2",
@@ -922,7 +927,7 @@
       "Name": "Fifth Shard",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_TROLL",
@@ -953,7 +958,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 4
     }
   ],
@@ -961,8 +966,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:04:19.6732542+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:04:20.1241231+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:23.6977955+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:57:16.4133877+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:04:19.6732689+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:57:32.1199233+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:04:20.124138+00:00"
 }

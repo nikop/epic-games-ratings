@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.45,
+  "EOS_Completed_Percentage": 5.44,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2510,6 +2510,11 @@
       "Time": "2023-11-18T09:04:17.8230473+00:00",
       "NumProgressed": 587,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T11:04:21.5527432+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2553,7 +2558,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "META_HALF_LINK",
@@ -2649,7 +2654,7 @@
       "Name": "Fashion victim",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -2689,7 +2694,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PROGRESS_N3",
@@ -2713,21 +2718,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:04:21.226084+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:04:21.5527425+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:33.7919938+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:04:21.2261044+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:32.887212+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:04:21.5527652+00:00"
 }

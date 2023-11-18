@@ -6,7 +6,7 @@ Rating: 4.86 (Ranked 30)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 17.00% | ~719 |
-| Start with a bang! | 16.00% | ~676 |
+| Start with a bang! | 16.00% | ~677 |
 | You can pet the cat! | 15.00% | ~634 |
 | Cream of the Crop | 14.00% | ~592 |
 | Who put gears in there? | 14.00% | ~592 |
@@ -48,7 +48,7 @@ Rating: 4.86 (Ranked 30)
 | I'm not done with you yet | 1.00% | ~42 |
 | First we parry, then we counter | 1.00% | ~42 |
 | You ever parry a volcano? | 1.00% | ~42 |
-| New bad guys? No problem! | 1.00% | ~27 |
+| New bad guys? No problem! | 1.00% | ~28 |
 | OK, well THEY came after ME! | 0.80% | ~34 |
 | Easy Listening | 0.60% | ~25 |
 | Choose your own adventure | 0.60% | ~16 |
@@ -62,8 +62,8 @@ Rating: 4.86 (Ranked 30)
 | I can't see this ever being a problem again | 0.20% | ~8 |
 | This was... not what I expected. | 0.20% | ~8 |
 | Have we met before? | 0.20% | ~8 |
-| Please don't make this awkward | 0.20% | ~5 |
-| That was just EVIL | 0.20% | ~5 |
+| Please don't make this awkward | 0.20% | ~6 |
+| That was just EVIL | 0.20% | ~6 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
 | I have to read ALL of these things? | 0.10% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,228 (Ranked 194)  
+Progressed: 4,229 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,6 +279,7 @@ Completed: 8 (0.19%) (Ranked 257)
 | 2023-11-15 | 4,223 | 8 |
 | 2023-11-16 | 4,225 | 8 |
 | 2023-11-17 | 4,228 | 8 |
+| 2023-11-18 | 4,229 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

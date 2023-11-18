@@ -5,10 +5,10 @@ Rating: 4.16 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 34.00% | ~22,736 |
-| As Far Away As Possible | 17.00% | ~11,368 |
-| A Most Unstable Organism | 13.00% | ~8,693 |
-| No Time to Follow Protocol | 10.00% | ~6,687 |
+| Your Lucky Day | 34.00% | ~22,738 |
+| As Far Away As Possible | 17.00% | ~11,369 |
+| A Most Unstable Organism | 13.00% | ~8,694 |
+| No Time to Follow Protocol | 10.00% | ~6,688 |
 | Float Like a Butterfly... | 8.00% | ~5,350 |
 | Nano Connoisseur | 6.00% | ~4,012 |
 | In Two Places At Once | 6.00% | ~4,012 |
@@ -16,13 +16,13 @@ Rating: 4.16 (Ranked 937)
 | Reaping Rivals | 3.00% | ~2,006 |
 | fifteenth Time's the Charm | 1.00% | ~669 |
 | More Power to You | 0.90% | ~602 |
-| Memory Keeper | 0.40% | ~267 |
+| Memory Keeper | 0.40% | ~268 |
 | Gone Rogue | 0.30% | ~201 |
 | Completely Customizable | 0.30% | ~201 |
 | Runs for Your Money | 0.30% | ~201 |
 | Past Master | 0.30% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,871 (Ranked 103)  
+Progressed: 66,875 (Ranked 103)  
 Completed: 34 (0.05%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 34 (0.05%) (Ranked 305)
 | 2023-11-15 | 66,715 | 34 |
 | 2023-11-16 | 66,772 | 34 |
 | 2023-11-17 | 66,842 | 34 |
-| 2023-11-18 | 66,871 | 34 |
+| 2023-11-18 | 66,875 | 34 |
 ## Awards
-Max (Great for Beginners): 94  (Ranked 369)  
-Sum: 329 (Ranked 356)  
-Diff (max vs sum): 13  
+Max (Great for Beginners): 95  (Ranked 366)  
+Sum: 330 (Ranked 357)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 94 |
+| This game is Great for Beginners | 95 |
 | This game has Diverse Characters | 64 |
 | This game is Highly Recommended | 49 |
 | This game has a Competitive Community | 48 |
@@ -191,4 +191,4 @@ Diff (max vs sum): 13
 | 2023-11-15 | 4.16 | 93 | 373 |
 | 2023-11-16 | 4.16 | 93 | 375 |
 | 2023-11-17 | 4.16 | 94 | 377 |
-| 2023-11-18 | 4.16 | 94 | 329 |
+| 2023-11-18 | 4.16 | 95 | 330 |

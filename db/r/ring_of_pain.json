@@ -3418,9 +3418,9 @@
       "Count": 744
     }
   ],
-  "EOS_Progressed": 239849,
+  "EOS_Progressed": 239850,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25383,6 +25383,11 @@
       "Time": "2023-11-18T10:09:17.5400242+00:00",
       "NumProgressed": 239849,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-18T11:09:07.8727557+00:00",
+      "NumProgressed": 239850,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -26136,9 +26141,9 @@
       "ID": "SPECIALROOMS1",
       "SetID": "5l8oe0h",
       "Name": "Uncharted Territory",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 959
     },
     {
       "ID": "SPECIALROOMS10",
@@ -26497,13 +26502,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239849,
+      "Progressed": 239850,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1329,
+      "Progressed": 1330,
       "Completed": 381
     }
   ],
@@ -26511,8 +26516,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-18T02:58:20.648462+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:09:17.5400237+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:09:07.8727555+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:58:28.6784226+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:09:17.5402679+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:58:35.295949+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:09:07.8729798+00:00"
 }

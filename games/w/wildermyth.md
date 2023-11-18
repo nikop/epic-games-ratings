@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,468 (Ranked 239)  
+Progressed: 1,469 (Ranked 239)  
 Completed: 6 (0.41%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 6 (0.41%) (Ranked 210)
 | 2023-11-14 | 1,465 | 6 |
 | 2023-11-15 | 1,466 | 6 |
 | 2023-11-17 | 1,468 | 6 |
+| 2023-11-18 | 1,469 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 496)  
 Sum: 29 (Ranked 511)  

@@ -24,6 +24,7 @@ Rating: 4.61 (Ranked 384)
 | Valley of Wonders | 0.80% | ~43 |
 | In a Liege of Your Own | 0.80% | ~43 |
 | Sehiran Oasis | 0.80% | ~43 |
+| Tipping the Scales | 0.70% | ~38 |
 | Seal the Deal | 0.70% | ~38 |
 | Enchanted Archipelago | 0.60% | ~32 |
 | Digging for Treasure | 0.60% | ~32 |
@@ -31,7 +32,6 @@ Rating: 4.61 (Ranked 384)
 | Fiery Friend | 0.60% | ~32 |
 | Impenetrable Fortress | 0.60% | ~32 |
 | Here be Dragons | 0.60% | ~32 |
-| Tipping the Scales | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Dawn of the Dread | 0.60% | ~32 |
 | Blood of the Dragon | 0.50% | ~27 |

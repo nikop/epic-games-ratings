@@ -20,8 +20,8 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 0.80% | ~52 |
 | Going for Gold | 0.80% | ~52 |
 | I'm Hooked! | 0.60% | ~39 |
+| Marathon | 0.30% | ~20 |
 | I'm the Captain Now | 0.20% | ~13 |
-| Marathon | 0.20% | ~13 |
 | Diamond in the Rough | 0.20% | ~13 |
 | No Fin left to give | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |

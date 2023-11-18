@@ -6,25 +6,25 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~238,116 |
-| He's Signed! | 50.00% | ~238,116 |
-| First Victory | 50.00% | ~238,116 |
+| Clean Sheet | 50.00% | ~238,117 |
+| He's Signed! | 50.00% | ~238,117 |
+| First Victory | 50.00% | ~238,117 |
 | He's Sold! | 48.00% | ~228,592 |
 | I'm The Boss! | 42.00% | ~200,018 |
 | Hat-trick | 41.00% | ~195,256 |
 | Scoring Streak | 38.00% | ~180,969 |
-| Unbeatable! | 37.00% | ~176,206 |
-| Thumping | 37.00% | ~176,206 |
+| Unbeatable! | 37.00% | ~176,207 |
+| Thumping | 37.00% | ~176,207 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,682 |
 | Total Support | 32.00% | ~152,395 |
 | Record Signing | 32.00% | ~152,395 |
-| He's a Natural | 31.00% | ~147,632 |
-| Millionaire's Club | 31.00% | ~147,632 |
+| He's a Natural | 31.00% | ~147,633 |
+| Millionaire's Club | 31.00% | ~147,633 |
 | Team Performance | 30.00% | ~142,870 |
 | Parked The Bus | 29.00% | ~138,108 |
 | Shrewd Spender | 29.00% | ~138,108 |
 | Star Man | 29.00% | ~138,108 |
-| Attack! | 28.00% | ~133,345 |
+| Attack! | 28.00% | ~133,346 |
 | You're On Fire | 27.00% | ~128,583 |
 | Tremendous Trio | 27.00% | ~128,583 |
 | Record Sale | 27.00% | ~128,583 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,233 (Ranked 39)  
+Progressed: 476,234 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 22 (0.00%) (Ranked 354)
 | 2023-11-15 | 476,100 | 22 |
 | 2023-11-16 | 476,170 | 22 |
 | 2023-11-17 | 476,214 | 22 |
-| 2023-11-18 | 476,233 | 22 |
+| 2023-11-18 | 476,234 | 22 |
 ## Awards
 Max (Relaxing): 6,466  (Ranked 59)  
-Sum: 51,003 (Ranked 28)  
+Sum: 51,004 (Ranked 28)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): 31
 | This game has Quickly Understood Controls | 5,893 |
 | This game is Educational | 5,883 |
 | This game has Diverse Characters | 5,573 |
-| This game has Amazing Storytelling | 4,927 |
+| This game has Amazing Storytelling | 4,928 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,386 |
 | This game has a Creative Community | 1,495 |
@@ -629,4 +629,4 @@ Diff (max vs sum): 31
 | 2023-11-13 | 4.80 | - | 6,465 | 50,994 |
 | 2023-11-15 | 4.80 | - | 6,466 | 50,998 |
 | 2023-11-17 | 4.80 | - | 6,466 | 51,002 |
-| 2023-11-18 | 4.80 | - | 6,466 | 51,003 |
+| 2023-11-18 | 4.80 | - | 6,466 | 51,004 |

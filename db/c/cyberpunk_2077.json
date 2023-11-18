@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15338,9 +15338,9 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897124,
+  "EOS_Progressed": 897129,
   "EOS_Completed": 2784,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 969,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39353,6 +39353,11 @@
       "Time": "2023-11-18T10:03:17.2274044+00:00",
       "NumProgressed": 897124,
       "NumCompleted": 2784
+    },
+    {
+      "Time": "2023-11-18T11:03:22.5627231+00:00",
+      "NumProgressed": 897129,
+      "NumCompleted": 2784
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39405,7 +39410,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "Fortuneteller",
@@ -39437,7 +39442,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17942
+      "UsersEstimate": 17943
     },
     {
       "ID": "Gunslinger",
@@ -39453,7 +39458,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "IAmMaxTac",
@@ -39461,7 +39466,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -39581,7 +39586,7 @@
       "Name": "The Fool",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "TheHermit",
@@ -39637,7 +39642,7 @@
       "Name": "The World",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ThisIsPacifica",
@@ -39685,7 +39690,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "VForVendetta",
@@ -39741,7 +39746,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Easycomeeasygo",
@@ -39805,7 +39810,7 @@
       "Name": "Relic Ruler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "UltimateSurvivor",
@@ -39829,7 +39834,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "IHateSpider",
@@ -39853,7 +39858,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "KingOfTheSwords",
@@ -39861,7 +39866,7 @@
       "Name": "King of Swords",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "KingOfTheWands",
@@ -39877,7 +39882,7 @@
       "Name": "The Tower",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "DirtyWork",
@@ -39900,21 +39905,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897124,
+      "Progressed": 897129,
       "Completed": 2784
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25747,
+      "Progressed": 25752,
       "Completed": 10233
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-18T09:58:32.3236376+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:03:17.2274041+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:03:22.5627229+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:58:32.3236382+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:03:17.2275418+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:58:38.3837047+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:03:22.5628751+00:00"
 }

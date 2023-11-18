@@ -14,20 +14,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,211 |
 | Budding Merchant | 3.00% | ~4,211 |
 | Capitalism Ho! | 3.00% | ~4,211 |
-| The Daily Grind | 2.00% | ~2,807 |
-| One Easy Payment | 2.00% | ~2,807 |
-| Some Assembly Required | 2.00% | ~2,807 |
-| Bounty Hunters | 2.00% | ~2,807 |
-| Demand for Supplies | 2.00% | ~2,807 |
-| Flooding the Market | 2.00% | ~2,807 |
-| Where it Hurts | 2.00% | ~2,807 |
-| Another Satisfied Customer | 2.00% | ~2,807 |
-| Pretty Penny | 2.00% | ~2,807 |
-| Gild-Gotten Goods | 2.00% | ~2,807 |
-| One-Armed Bandit | 2.00% | ~2,807 |
-| Dungeon Imports | 2.00% | ~2,807 |
-| Through Repetition, Perfection | 2.00% | ~2,807 |
-| Own the Means of Production | 2.00% | ~2,807 |
+| The Daily Grind | 2.00% | ~2,808 |
+| One Easy Payment | 2.00% | ~2,808 |
+| Some Assembly Required | 2.00% | ~2,808 |
+| Bounty Hunters | 2.00% | ~2,808 |
+| Demand for Supplies | 2.00% | ~2,808 |
+| Flooding the Market | 2.00% | ~2,808 |
+| Where it Hurts | 2.00% | ~2,808 |
+| Another Satisfied Customer | 2.00% | ~2,808 |
+| Pretty Penny | 2.00% | ~2,808 |
+| Gild-Gotten Goods | 2.00% | ~2,808 |
+| One-Armed Bandit | 2.00% | ~2,808 |
+| Dungeon Imports | 2.00% | ~2,808 |
+| Through Repetition, Perfection | 2.00% | ~2,808 |
+| Own the Means of Production | 2.00% | ~2,808 |
 | On the Path to Greatness | 1.00% | ~1,404 |
 | Ascended | 1.00% | ~1,404 |
 | Tax not Included | 1.00% | ~1,404 |
@@ -105,7 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thank You Tom Nook | 0.50% | ~702 |
 | Eternal Crusade | 0.50% | ~702 |
 | All Accounted For | 0.50% | ~702 |
-| All or Nothing! | 0.40% | ~561 |
+| All or Nothing! | 0.40% | ~562 |
 | Unleashed Potential | 0.30% | ~421 |
 | JACKPOT!!! | 0.30% | ~421 |
 | Anything not Nailed Down | 0.30% | ~421 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,373 (Ranked 80)  
+Progressed: 140,383 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-15 | 139,967 | 186 |
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
-| 2023-11-18 | 140,373 | 187 |
+| 2023-11-18 | 140,383 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,563 (Ranked 50)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92955,
+  "EOS_Progressed": 92960,
   "EOS_Completed": 423,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -24068,6 +24068,11 @@
       "Time": "2023-11-18T10:04:42.9919256+00:00",
       "NumProgressed": 92955,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-11-18T11:04:41.4965762+00:00",
+      "NumProgressed": 92960,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 10,
@@ -24143,7 +24148,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32534
+      "UsersEstimate": 32536
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -24151,22 +24156,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 92955,
+      "Progressed": 92960,
       "Completed": 423
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:04:42.9919253+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:04:41.496576+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:49.6004285+00:00",
-  "LastUpdate_Ratings": "2023-11-18T10:02:39.2562968+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:04:42.9920533+00:00"
+  "LastUpdate_Ratings": "2023-11-18T11:02:46.7894662+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:04:41.4966851+00:00"
 }

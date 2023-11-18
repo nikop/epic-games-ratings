@@ -742,9 +742,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40754,
+  "EOS_Progressed": 40756,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22337,6 +22337,11 @@
       "Time": "2023-11-18T09:04:38.5586084+00:00",
       "NumProgressed": 40754,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-18T11:04:41.7123916+00:00",
+      "NumProgressed": 40756,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22364,7 +22369,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6928
+      "UsersEstimate": 6929
     },
     {
       "ID": "ach_antiquarian10",
@@ -22468,7 +22473,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14671
+      "UsersEstimate": 14672
     },
     {
       "ID": "ach_die10",
@@ -22540,7 +22545,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "ach_legacypupil",
@@ -22708,7 +22713,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "ach_terror90",
@@ -22748,7 +22753,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "ach_year1",
@@ -22779,15 +22784,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40754,
+      "Progressed": 40756,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:04:43.2146439+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:04:41.7123914+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:15.1182628+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:00:13.1991644+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:04:43.2147562+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:57:12.7498644+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:04:41.7124969+00:00"
 }

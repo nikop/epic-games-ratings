@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,213 |
-| Spectre Inductee | 79.00% | ~1,030 |
-| Medal of Exploration I | 71.00% | ~926 |
+| Distinguished Service Medal | 93.00% | ~1,214 |
+| Spectre Inductee | 79.00% | ~1,031 |
+| Medal of Exploration I | 71.00% | ~927 |
 | Recruit | 67.00% | ~874 |
 | Search and Rescue | 67.00% | ~874 |
 | Quarian Ally | 63.00% | ~822 |
-| Medal of Heroism | 59.00% | ~769 |
-| Honorarium of Corporate Service | 58.00% | ~756 |
-| Medal of Exploration II | 53.00% | ~691 |
-| Council Legion of Merit | 53.00% | ~691 |
-| Turian Ally | 52.00% | ~678 |
+| Medal of Heroism | 59.00% | ~770 |
+| Honorarium of Corporate Service | 58.00% | ~757 |
+| Medal of Exploration II | 53.00% | ~692 |
+| Council Legion of Merit | 53.00% | ~692 |
+| Turian Ally | 52.00% | ~679 |
 | Medal of Honor | 50.00% | ~652 |
 | Meritorious Service Medal | 50.00% | ~652 |
 | Soldier | 49.00% | ~639 |
@@ -23,8 +23,8 @@
 | Asari Ally | 46.00% | ~600 |
 | Medal of Exploration III | 45.00% | ~587 |
 | Principled | 45.00% | ~587 |
+| Paramour I | 43.00% | ~561 |
 | Colonial Savior | 43.00% | ~561 |
-| Paramour I | 42.00% | ~548 |
 | Missing in Action | 42.00% | ~548 |
 | Scientist | 42.00% | ~548 |
 | Krogan Ally | 41.00% | ~535 |
@@ -34,28 +34,28 @@
 | Head Hunter | 39.00% | ~509 |
 | Operative | 38.00% | ~496 |
 | Scholar | 38.00% | ~496 |
-| Veteran | 37.00% | ~482 |
-| The Professor | 37.00% | ~482 |
-| The Archangel | 36.00% | ~469 |
-| Power Full | 36.00% | ~469 |
-| The Convict | 34.00% | ~443 |
-| Colony Defense | 33.00% | ~430 |
-| The Krogan | 33.00% | ~430 |
-| Broke, Blind, and Bedlam | 32.00% | ~417 |
-| A Personal Touch | 31.00% | ~404 |
-| Ghost Ship | 31.00% | ~404 |
-| The Assassin | 31.00% | ~404 |
-| The Justicar | 31.00% | ~404 |
-| The Quarian | 31.00% | ~404 |
-| The Prodigal | 31.00% | ~404 |
-| Galactic Explorer | 31.00% | ~404 |
-| Completionist | 30.00% | ~391 |
-| Battlemaster | 30.00% | ~391 |
-| Catharsis | 30.00% | ~391 |
-| Ghost of the Father | 30.00% | ~391 |
-| The Cure | 30.00% | ~391 |
-| Driven | 30.00% | ~391 |
-| Shopaholic | 30.00% | ~391 |
+| Veteran | 37.00% | ~483 |
+| The Professor | 37.00% | ~483 |
+| The Archangel | 36.00% | ~470 |
+| Power Full | 35.00% | ~457 |
+| The Convict | 34.00% | ~444 |
+| Colony Defense | 33.00% | ~431 |
+| The Krogan | 33.00% | ~431 |
+| Broke, Blind, and Bedlam | 32.00% | ~418 |
+| A Personal Touch | 31.00% | ~405 |
+| Ghost Ship | 31.00% | ~405 |
+| The Assassin | 31.00% | ~405 |
+| The Justicar | 31.00% | ~405 |
+| The Quarian | 31.00% | ~405 |
+| The Prodigal | 31.00% | ~405 |
+| Galactic Explorer | 31.00% | ~405 |
+| Completionist | 30.00% | ~392 |
+| Battlemaster | 30.00% | ~392 |
+| Catharsis | 30.00% | ~392 |
+| Ghost of the Father | 30.00% | ~392 |
+| The Cure | 30.00% | ~392 |
+| Driven | 30.00% | ~392 |
+| Shopaholic | 30.00% | ~392 |
 | Archivist | 29.00% | ~378 |
 | Fade Away | 29.00% | ~378 |
 | Big Game Hunter | 29.00% | ~378 |
@@ -86,8 +86,8 @@
 | Arbiter | 23.00% | ~300 |
 | Savior | 22.00% | ~287 |
 | Paramour II | 21.00% | ~274 |
+| Party Crasher | 21.00% | ~274 |
 | Lost and Found | 21.00% | ~274 |
-| Party Crasher | 20.00% | ~261 |
 | Problem Solver | 20.00% | ~261 |
 | Pyromaniac | 19.00% | ~248 |
 | Under Pressure | 19.00% | ~248 |
@@ -107,9 +107,9 @@
 | Throw Mastery | 15.00% | ~196 |
 | Long Service Medal | 14.00% | ~183 |
 | Mail Slot | 13.00% | ~170 |
-| Combined Arms | 12.00% | ~156 |
-| Bruiser | 11.00% | ~143 |
-| Warp Mastery | 11.00% | ~143 |
+| Combined Arms | 12.00% | ~157 |
+| Bruiser | 11.00% | ~144 |
+| Warp Mastery | 11.00% | ~144 |
 | Paramour III | 10.00% | ~130 |
 | Overload Specialist | 10.00% | ~130 |
 | Barrier Mastery | 9.00% | ~117 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,304 (Ranked 242)  
+Progressed: 1,305 (Ranked 241)  
 Completed: 4 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,4 +196,4 @@ Completed: 4 (0.31%) (Ranked 232)
 | 2023-11-15 | 1,270 | 3 |
 | 2023-11-16 | 1,282 | 3 |
 | 2023-11-17 | 1,300 | 3 |
-| 2023-11-18 | 1,304 | 4 |
+| 2023-11-18 | 1,305 | 4 |

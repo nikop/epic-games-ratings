@@ -28,12 +28,12 @@
 | True Legends | 41.00% | ~299 |
 | You Get Used To It | 40.00% | ~292 |
 | Boosted! | 38.00% | ~277 |
+| Family | 37.00% | ~270 |
+| Biggest Snowball Ever | 37.00% | ~270 |
 | Bullseye | 37.00% | ~270 |
-| Family | 36.00% | ~263 |
-| Biggest Snowball Ever | 36.00% | ~263 |
+| Deadliest and Biggest Snowball Ever! | 37.00% | ~270 |
 | Freeze The Ice Witch | 36.00% | ~263 |
 | On The Rocks | 36.00% | ~263 |
-| Deadliest and Biggest Snowball Ever! | 36.00% | ~263 |
 | It Is Not Over | 34.00% | ~248 |
 | Never Gets Old | 33.00% | ~241 |
 | Snowy Poro | 32.00% | ~234 |
@@ -42,7 +42,7 @@
 | Yummy | 12.00% | ~88 |
 | Snowball Fightn't | 10.00% | ~73 |
 | It Was Him | 8.00% | ~58 |
-| Handy Yeti | 7.00% | ~51 |
+| Handy Yeti | 8.00% | ~58 |
 | The Pied Piper Of Freljord | 6.00% | ~44 |
 | Braum's Poro Ranch | 4.00% | ~29 |
 | We Are Speed | 3.00% | ~22 |

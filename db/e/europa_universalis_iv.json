@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewPlayers": 23,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -12225,9 +12225,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 458084,
+  "EOS_Progressed": 458122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5953,
+  "EOS_NewPlayers": 5921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36490,6 +36490,11 @@
       "Time": "2023-11-18T10:05:28.9690747+00:00",
       "NumProgressed": 458084,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T11:05:24.7943583+00:00",
+      "NumProgressed": 458122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36963,9 +36968,9 @@
       "ID": "achievement_carthago_delenda_est",
       "SetID": "8p2n7he",
       "Name": "Carthago Delenda Est",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_center_of_attention",
@@ -39404,21 +39409,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 458084,
+      "Progressed": 458122,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 458084,
+      "Progressed": 458122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-18T09:59:12.6670649+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:05:28.9690743+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:05:24.7943578+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:12.6670654+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:05:28.9701383+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:14.6258343+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:05:24.7953779+00:00"
 }

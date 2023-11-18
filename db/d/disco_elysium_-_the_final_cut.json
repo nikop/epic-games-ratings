@@ -1472,9 +1472,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130922,
+  "EOS_Progressed": 130924,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22227,6 +22227,11 @@
       "Time": "2023-11-18T10:06:24.0514126+00:00",
       "NumProgressed": 130922,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-18T11:06:13.9430295+00:00",
+      "NumProgressed": 130924,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22294,7 +22299,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31421
+      "UsersEstimate": 31422
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22318,7 +22323,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36658
+      "UsersEstimate": 36659
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22382,7 +22387,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14401
+      "UsersEstimate": 14402
     },
     {
       "ID": "ACH_CUNO",
@@ -22557,15 +22562,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130922,
+      "Progressed": 130924,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T08:57:20.4001231+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:06:24.0514123+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:06:13.9430292+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:57:26.4264443+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:06:24.0515549+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:57:40.9359401+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:06:13.9431236+00:00"
 }

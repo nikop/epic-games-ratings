@@ -7,8 +7,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 4.00% | ~35,885 |
-| Gun Fu | 2.00% | ~17,942 |
-| Relic Ruler | 1.00% | ~257 |
+| Gun Fu | 2.00% | ~17,943 |
+| Relic Ruler | 1.00% | ~258 |
 | Full Body Conversion | 0.80% | ~7,177 |
 | True Soldier | 0.80% | ~7,177 |
 | Right Back At Ya | 0.70% | ~6,280 |
@@ -26,12 +26,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.50% | ~4,486 |
 | Legend of The Afterlife | 0.50% | ~4,486 |
 | Spin Doctor | 0.50% | ~129 |
-| To Protect and Serve | 0.40% | ~3,588 |
-| Master Crafter | 0.40% | ~3,588 |
-| I Am The Law | 0.40% | ~3,588 |
-| The Fool | 0.40% | ~3,588 |
-| The World | 0.40% | ~3,588 |
-| Judy vs Night City | 0.40% | ~3,588 |
+| To Protect and Serve | 0.40% | ~3,589 |
+| Master Crafter | 0.40% | ~3,589 |
+| I Am The Law | 0.40% | ~3,589 |
+| The Fool | 0.40% | ~3,589 |
+| The World | 0.40% | ~3,589 |
+| Judy vs Night City | 0.40% | ~3,589 |
 | King of Wands | 0.40% | ~103 |
 | Dirty Deeds | 0.40% | ~103 |
 | Easy Come, Easy Go | 0.40% | ~103 |
@@ -43,11 +43,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.20% | ~1,794 |
 | The Star | 0.20% | ~1,794 |
 | The Sun | 0.20% | ~1,794 |
-| The APB is Not Enough | 0.20% | ~51 |
-| Judgement Day | 0.20% | ~51 |
-| King of Pentacles | 0.20% | ~51 |
-| King of Swords | 0.20% | ~51 |
-| The Tower | 0.20% | ~51 |
+| The APB is Not Enough | 0.20% | ~52 |
+| Judgement Day | 0.20% | ~52 |
+| King of Pentacles | 0.20% | ~52 |
+| King of Swords | 0.20% | ~52 |
+| The Tower | 0.20% | ~52 |
 | City Lights | 0.10% | ~897 |
 | Autojock | 0.10% | ~897 |
 | Frequent Flyer | 0.10% | ~897 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,124 (Ranked 15)  
+Progressed: 897,129 (Ranked 15)  
 Completed: 2,784 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 2,784 (0.31%) (Ranked 232)
 | 2023-11-15 | 896,820 | 2,778 |
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
-| 2023-11-18 | 897,124 | 2,784 |
+| 2023-11-18 | 897,129 | 2,784 |
 ## Awards
 Max (Character Customization): 105,891  (Ranked 9)  
 Sum: 355,802 (Ranked 10)  

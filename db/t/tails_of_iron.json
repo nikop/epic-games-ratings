@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1997,
+  "EOS_Progressed": 1998,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3077,6 +3077,11 @@
       "Time": "2023-11-17T21:03:20.7047479+00:00",
       "NumProgressed": 1997,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-18T11:03:36.4201067+00:00",
+      "NumProgressed": 1998,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3088,7 +3093,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "Collect20Gold",
@@ -3112,7 +3117,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "CollectAllStatues",
@@ -3176,7 +3181,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "CompleteStoryDM",
@@ -3192,7 +3197,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3232,7 +3237,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1259
     },
     {
       "ID": "GetTHWeapon",
@@ -3240,7 +3245,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "Kill25Bugs",
@@ -3248,7 +3253,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "Kill25Frogs",
@@ -3256,7 +3261,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "Kill25Mozi",
@@ -3280,7 +3285,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "RepairChef",
@@ -3312,7 +3317,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3327,22 +3332,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1997,
+      "Progressed": 1998,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 638,
-      "Completed": 638
+      "Progressed": 639,
+      "Completed": 639
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:03:32.0455339+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:03:36.4201061+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:18.544703+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:58:38.956949+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:03:32.0455708+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:58:44.2938209+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:03:36.4201322+00:00"
 }

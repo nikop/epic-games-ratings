@@ -22,11 +22,11 @@ Rating: 4.56 (Ranked 489)
 | Heal Thy Medic | 3.00% | ~452 |
 | Call it Even | 3.00% | ~452 |
 | Keep Arjun in Check | 3.00% | ~31 |
+| Master Negotiator | 3.00% | ~31 |
 | Data Archivist | 2.00% | ~301 |
 | Bottoms up! | 2.00% | ~301 |
 | Thorston Mayer | 2.00% | ~301 |
 | Khan's Revenge | 2.00% | ~301 |
-| Master Negotiator | 2.00% | ~20 |
 | Doctor Approved | 1.00% | ~151 |
 | Data Logger | 1.00% | ~151 |
 | Miraculous Maya | 1.00% | ~151 |

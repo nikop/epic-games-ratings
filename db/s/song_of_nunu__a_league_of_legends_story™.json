@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -1494,17 +1494,17 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH12",
@@ -1742,17 +1742,17 @@
       "ID": "EV_ACH41",
       "SetID": "6jeac23",
       "Name": "Handy Yeti",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "EV_ACH42",
       "SetID": "6jeac23",
       "Name": "Deadliest and Biggest Snowball Ever!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH43",
@@ -1781,8 +1781,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:09:11.2695987+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:09:02.0746842+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:58:30.7617354+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:09:11.2696296+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:58:37.090255+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:09:02.0747125+00:00"
 }

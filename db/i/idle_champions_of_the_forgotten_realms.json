@@ -8137,7 +8137,7 @@
       "Count": 3523
     }
   ],
-  "EOS_Progressed": 235661,
+  "EOS_Progressed": 235672,
   "EOS_Completed": 2457,
   "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 16,
@@ -31877,6 +31877,11 @@
       "Time": "2023-11-18T10:09:08.1254858+00:00",
       "NumProgressed": 235661,
       "NumCompleted": 2457
+    },
+    {
+      "Time": "2023-11-18T11:08:59.6573767+00:00",
+      "NumProgressed": 235672,
+      "NumCompleted": 2457
     }
   ],
   "TotalAchievements": 532,
@@ -33566,9 +33571,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 471
     },
     {
       "ID": "objective_completed_35",
@@ -36128,7 +36133,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "objective_completed_1553",
@@ -36143,21 +36148,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201935,
+      "Progressed": 201946,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235661,
+      "Progressed": 235672,
       "Completed": 2457
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-17T23:59:02.6503012+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:09:08.1254855+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:08:59.6573765+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:04.6066457+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:09:08.1278094+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:07.463349+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:08:59.6596333+00:00"
 }

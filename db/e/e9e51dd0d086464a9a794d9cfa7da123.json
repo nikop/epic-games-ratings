@@ -282,9 +282,9 @@
       "ID": "Doubt",
       "SetID": "2621k8c",
       "Name": "Doubt",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EB",
@@ -434,9 +434,9 @@
       "ID": "Hedonist",
       "SetID": "2621k8c",
       "Name": "Hedonist",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "IC",
@@ -530,9 +530,9 @@
       "ID": "LW",
       "SetID": "2621k8c",
       "Name": "Live Well",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LYALBM",
@@ -546,17 +546,17 @@
       "ID": "LYWEAIR",
       "SetID": "2621k8c",
       "Name": "Love you without expecting anything in return",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MAB",
       "SetID": "2621k8c",
       "Name": "Have a baby",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MB",
@@ -610,9 +610,9 @@
       "ID": "Numb",
       "SetID": "2621k8c",
       "Name": "Numb",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Otaku",
@@ -706,9 +706,9 @@
       "ID": "Regret",
       "SetID": "2621k8c",
       "Name": "Regret",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Richer",
@@ -738,17 +738,17 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOC",
       "SetID": "2621k8c",
       "Name": "Sense of ceremony",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SWA",
@@ -770,25 +770,25 @@
       "ID": "Sensitive",
       "SetID": "2621k8c",
       "Name": "Sensitive",
-      "Percentage": 6,
-      "XP": 5,
-      "UsersEstimate": 2
-    },
-    {
-      "ID": "Shopaholic",
-      "SetID": "2621k8c",
-      "Name": "Shopaholic",
       "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 3
     },
     {
-      "ID": "Sisters",
+      "ID": "Shopaholic",
       "SetID": "2621k8c",
-      "Name": "Sisters",
+      "Name": "Shopaholic",
       "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 4
+    },
+    {
+      "ID": "Sisters",
+      "SetID": "2621k8c",
+      "Name": "Sisters",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 5
     },
     {
       "ID": "Sneakerhead",
@@ -866,9 +866,9 @@
       "ID": "TMOL",
       "SetID": "2621k8c",
       "Name": "The meaning of life",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Takeout",
@@ -952,8 +952,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:09:16.6815057+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:09:07.1028119+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.6416395+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:31.074521+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:09:16.6815847+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:30.4020101+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:09:07.102885+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sensorium-galaxy-0f986d",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-29T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-04T22:00:06.985005+00:00",
   "LastUpdate_AppInfo": "2023-11-13T13:57:12.1324286+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:05.1760563+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:06:29.6592918+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:07.9864011+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:06:19.299486+00:00"
 }

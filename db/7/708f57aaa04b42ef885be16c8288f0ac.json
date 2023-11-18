@@ -105,9 +105,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5496,
+  "EOS_Progressed": 5501,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3610,6 +3610,11 @@
       "Time": "2023-11-18T10:08:50.3861342+00:00",
       "NumProgressed": 5496,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T11:08:42.9665129+00:00",
+      "NumProgressed": 5501,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3630,7 +3635,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "BeLikeWater",
@@ -3638,7 +3643,7 @@
       "Name": "Be Like Water",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Bikemaggedon",
@@ -3654,7 +3659,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ConnectionLost",
@@ -3686,7 +3691,7 @@
       "Name": "Faster Than Light",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FirstTime",
@@ -3694,7 +3699,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3732,9 +3737,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 165
     },
     {
       "ID": "JackOfAllTrades",
@@ -3742,7 +3747,7 @@
       "Name": "Jack Of All Trades",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LiveByTheSword",
@@ -3750,7 +3755,7 @@
       "Name": "Live By The Sword",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MasterManipulator",
@@ -3798,7 +3803,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TheFloorIsLava",
@@ -3822,7 +3827,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ThisIsDharma",
@@ -3870,7 +3875,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -3893,7 +3898,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5496,
+      "Progressed": 5501,
       "Completed": 7
     }
   ],
@@ -3901,8 +3906,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:08:50.3861338+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:08:42.9665126+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:56:55.8200755+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:08:50.3861712+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:57:13.8602367+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:08:42.9665418+00:00"
 }

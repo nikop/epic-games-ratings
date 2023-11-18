@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2062,6 +2062,11 @@
       "Time": "2023-11-18T01:54:57.2181887+00:00",
       "NumProgressed": 618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-18T11:08:41.4365606+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2177,7 +2182,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_COLL_20",
@@ -2297,7 +2302,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2321,7 +2326,7 @@
       "Name": "Heroism",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2345,7 +2350,7 @@
       "Name": "The Horror",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2361,7 +2366,7 @@
       "Name": "Vengeance",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2393,7 +2398,7 @@
       "Name": "Such is War!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -2417,7 +2422,7 @@
       "Name": "Missing in Action",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2455,9 +2460,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2471,9 +2476,9 @@
       "ID": "ACH_KILL_FRAG",
       "SetID": "1j25agn",
       "Name": "It Will Rain",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_KILL_OFFICER",
@@ -2481,7 +2486,7 @@
       "Name": "Eat Lead!",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2489,7 +2494,7 @@
       "Name": "Food Massacre",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2535,24 +2540,24 @@
       "ID": "ACH_NOMOON",
       "SetID": "1j25agn",
       "Name": "Not Spill a Drop",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:08:48.7234466+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:08:41.4365603+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:59:10.5246818+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:08:48.7235027+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:59:12.598588+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:08:41.4366072+00:00"
 }

@@ -37,6 +37,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.10% | ~458 |
 | Bright Spark | 0.10% | ~458 |
 | Brothers in Arms | 0.10% | ~458 |
+| Carthago Delenda Est | 0.10% | ~458 |
 | Center of Attention | 0.10% | ~458 |
 | Chop Chop | 0.10% | ~458 |
 | City of Cities | 0.10% | ~458 |
@@ -221,7 +222,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brentry! | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
-| Carthago Delenda Est | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,084 (Ranked 41)  
+Progressed: 458,122 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -582,7 +582,7 @@ Completed: 1 (0.00%) (Ranked 354)
 | 2023-11-15 | 456,430 | 1 |
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
-| 2023-11-18 | 458,084 | 1 |
+| 2023-11-18 | 458,122 | 1 |
 ## Awards
 Max (Educational): 7,043  (Ranked 54)  
 Sum: 58,039 (Ranked 24)  

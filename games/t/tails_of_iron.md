@@ -6,13 +6,13 @@ Rating: 4.55 (Ranked 503)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 82.00% | ~1,638 |
-| Become King | 74.00% | ~1,478 |
-| Defeat 25 Frogs | 64.00% | ~1,278 |
-| Ranged Weapon | 63.00% | ~1,258 |
-| Collect Monster Parts | 59.00% | ~1,178 |
-| Two Handed Weapon | 58.00% | ~1,158 |
-| Defeat 25 Grubs | 54.00% | ~1,078 |
-| Rescue Redgi's Brothers | 53.00% | ~1,058 |
+| Become King | 74.00% | ~1,479 |
+| Defeat 25 Frogs | 64.00% | ~1,279 |
+| Ranged Weapon | 63.00% | ~1,259 |
+| Collect Monster Parts | 59.00% | ~1,179 |
+| Two Handed Weapon | 58.00% | ~1,159 |
+| Defeat 25 Grubs | 54.00% | ~1,079 |
+| Rescue Redgi's Brothers | 53.00% | ~1,059 |
 | Collect Iron Ore | 49.00% | ~979 |
 | Kitchen Ready To Cook | 49.00% | ~979 |
 | Defeat 25 Mozis | 48.00% | ~959 |
@@ -28,15 +28,15 @@ Rating: 4.55 (Ranked 503)
 | Return the Statues | 28.00% | ~559 |
 | Defeat Rattus Augustail | 27.00% | ~539 |
 | Complete the Chefs Book | 26.00% | ~519 |
-| Complete Ranger Faction | 22.00% | ~439 |
-| Defeat Avor Warden of the Northern Wastes | 21.00% | ~419 |
-| Discover the mystery of the Kings Chambers | 20.00% | ~399 |
+| Complete Ranger Faction | 22.00% | ~440 |
+| Defeat Avor Warden of the Northern Wastes | 21.00% | ~420 |
+| Discover the mystery of the Kings Chambers | 20.00% | ~400 |
 | Complete Arena Faction | 16.00% | ~320 |
 | Complete Redgi's Armory | 8.00% | ~160 |
 | King of Kings | 8.00% | ~160 |
 | A new Warchief rises | 0.90% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,997 (Ranked 224)  
+Progressed: 1,998 (Ranked 224)  
 Completed: 9 (0.45%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 9 (0.45%) (Ranked 207)
 | 2023-11-10 | 1,991 | 9 |
 | 2023-11-11 | 1,993 | 9 |
 | 2023-11-17 | 1,997 | 9 |
+| 2023-11-18 | 1,998 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

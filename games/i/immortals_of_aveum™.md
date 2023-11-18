@@ -18,7 +18,7 @@ Rating: 4.08 (Ranked 970)
 | Beggars Would Ride | 30.00% | ~84 |
 | Control is an Illusion | 28.00% | ~78 |
 | Socialite | 27.00% | ~76 |
-| The Means to Save It | 23.00% | ~64 |
+| The Means to Save It | 24.00% | ~67 |
 | Resilience to Sin | 20.00% | ~56 |
 | A Familiar Nest | 19.00% | ~53 |
 | Geas Aristeya | 19.00% | ~53 |

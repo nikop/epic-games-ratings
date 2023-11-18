@@ -5,29 +5,29 @@ Rating: 4.84 (Ranked 52)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~228,464 |
-| Private Club | 74.00% | ~185,784 |
-| Rogue Guild | 65.00% | ~163,188 |
-| I Watched the Intro | 57.00% | ~143,104 |
-| Covert Consortium | 55.00% | ~138,082 |
-| Goat Queen | 53.00% | ~133,061 |
-| Reach the Stratosphere | 51.00% | ~128,040 |
-| Synchronization Complete | 47.00% | ~117,998 |
+| Forgotten Sorority | 91.00% | ~228,466 |
+| Private Club | 74.00% | ~185,785 |
+| Rogue Guild | 65.00% | ~163,190 |
+| I Watched the Intro | 57.00% | ~143,105 |
+| Covert Consortium | 55.00% | ~138,084 |
+| Goat Queen | 53.00% | ~133,062 |
+| Reach the Stratosphere | 51.00% | ~128,041 |
+| Synchronization Complete | 47.00% | ~117,999 |
 | Secret Society | 45.00% | ~112,977 |
-| Shadow Syndicate | 38.00% | ~95,402 |
-| What a Waste of Money | 33.00% | ~82,849 |
+| Shadow Syndicate | 38.00% | ~95,403 |
+| What a Waste of Money | 33.00% | ~82,850 |
 | New Goat Order | 30.00% | ~75,318 |
 | Don't touch the servers | 28.00% | ~70,297 |
 | San Angora: Become Human | 27.00% | ~67,786 |
 | Real Buoy | 27.00% | ~67,786 |
-| Raider of the Lost Parking Garage | 26.00% | ~65,275 |
+| Raider of the Lost Parking Garage | 26.00% | ~65,276 |
 | Welcome to Earth | 25.00% | ~62,765 |
-| Into the Matrix | 19.00% | ~47,701 |
+| Into the Matrix | 19.00% | ~47,702 |
 | Egg Simulator | 18.00% | ~45,191 |
 | Where is It? | 17.00% | ~42,680 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,659 |
 | 401(K.O.) | 15.00% | ~37,659 |
-| Black Market | 14.00% | ~35,148 |
+| Black Market | 14.00% | ~35,149 |
 | Car Cave | 12.00% | ~30,127 |
 | Club Mohair | 8.00% | ~20,085 |
 | A Center for Ants? | 8.00% | ~20,085 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 52)
 | Move! That! Bus! | 0.60% | ~1,506 |
 | G.O.A.T | 0.40% | ~1,004 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,059 (Ranked 60)  
+Progressed: 251,061 (Ranked 60)  
 Completed: 879 (0.35%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 879 (0.35%) (Ranked 223)
 | 2023-11-15 | 250,822 | 877 |
 | 2023-11-16 | 250,901 | 877 |
 | 2023-11-17 | 251,009 | 878 |
-| 2023-11-18 | 251,059 | 879 |
+| 2023-11-18 | 251,061 | 879 |
 ## Awards
 Max (Great for Beginners): 460  (Ranked 213)  
 Sum: 3,836 (Ranked 158)  

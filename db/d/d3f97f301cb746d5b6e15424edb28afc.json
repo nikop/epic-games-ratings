@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 847,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2028,9 +2028,9 @@
       "ID": "ACH_CAR_WASH_04",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 4",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_CAR_WASH_05",
@@ -2100,9 +2100,9 @@
       "ID": "GSS_ACH_03_TIP_01",
       "SetID": "5fn8ia4",
       "Name": "The first tip",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 779
     },
     {
       "ID": "GSS_ACH_04_TIP_02",
@@ -2140,9 +2140,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 627
+      "UsersEstimate": 635
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -2188,9 +2188,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 720
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -2364,9 +2364,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 525
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -2404,9 +2404,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 508
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -2452,17 +2452,17 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 551
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 356
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -2516,17 +2516,17 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 686
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 474
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -2556,17 +2556,17 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 669
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 644
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -2588,9 +2588,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 440
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -2676,9 +2676,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 474
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -2724,9 +2724,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
@@ -2739,8 +2739,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-18T10:03:21.7598345+00:00",
+  "LastChanged_Achievements": "2023-11-18T11:03:27.0008981+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-18T09:58:01.8077335+00:00",
-  "LastUpdate_Achievements": "2023-11-18T10:03:21.7599228+00:00"
+  "LastUpdate_Ratings": "2023-11-18T10:58:11.6951664+00:00",
+  "LastUpdate_Achievements": "2023-11-18T11:03:27.000983+00:00"
 }
