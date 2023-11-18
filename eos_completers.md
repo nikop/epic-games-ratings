@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 32.65% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 32.63% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.32% |
@@ -52,7 +52,7 @@
 | 50 | [Anna's Quest](games/a/anna's_quest.md) | 7.89% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.67% |
+| 53 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.65% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
 | 55 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.54% |
 | 56 | [Sonic Origins](games/s/sonic_origins.md) | 7.48% |
@@ -75,8 +75,8 @@
 | 73 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
 | 75 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
-| 76 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
-| 77 | [ZZT!](games/z/zzt!.md) | 4.59% |
+| 76 | [ZZT!](games/z/zzt!.md) | 4.62% |
+| 77 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 78 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 79 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.52% |
 | 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.50% |
@@ -84,8 +84,8 @@
 | 82 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.33% |
 | 83 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.16% |
 | 84 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.91% |
-| 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.89% |
+| 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.89% |
 | 87 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 88 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.76% |
 | 89 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
@@ -147,8 +147,8 @@
 | 145 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
 | 146 | [Chorus](games/c/chorus.md) | 1.33% |
 | 147 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
-| 148 | [Iron Danger](games/i/iron_danger.md) | 1.30% |
-| 149 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.29% |
+| 148 | [Iron Danger](games/i/iron_danger.md) | 1.29% |
+| 148 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.29% |
 | 150 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.27% |
 | 151 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
 | 152 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
@@ -189,7 +189,7 @@
 | 185 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
 | 185 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
 | 189 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 189 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.58% |
+| 190 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.57% |
 | 191 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.56% |
 | 191 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
 | 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.56% |
