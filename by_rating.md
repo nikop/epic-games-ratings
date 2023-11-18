@@ -192,7 +192,7 @@
 | 185 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 546 |
 | 185 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 250 | 270 |
 | 185 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 78 | 389 |
-| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 131 | 327 |
+| 185 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 132 | 327 |
 | 185 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 346 | 239 |
 | 185 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 546 |
 | 185 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 546 |
@@ -401,7 +401,7 @@
 | 384 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 546 |
 | 384 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,684 | 101 |
 | 384 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 546 |
-| 384 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 568 | 199 |
+| 384 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 568 | 200 |
 | 384 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,424 | 38 |
 | 384 | [RiME](games/r/rime.md) | 4.61 | 0 | 546 |
 | 384 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,097 | 145 |
@@ -428,7 +428,7 @@
 | 412 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 509 | 209 |
 | 412 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 531 |
 | 412 | [Warframe](games/w/warframe.md) | 4.60 | 18,450 | 23 |
-| 412 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 564 | 200 |
+| 412 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 569 | 199 |
 | 430 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 511 | 208 |
 | 430 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 402 |
 | 430 | [GRIME](games/g/grime.md) | 4.59 | 52 | 423 |
@@ -477,7 +477,7 @@
 | 469 | [Hob](games/h/hob.md) | 4.57 | 0 | 546 |
 | 469 | [IXION](games/i/ixion.md) | 4.57 | 0 | 546 |
 | 469 | [Minit](games/m/minit.md) | 4.57 | 0 | 546 |
-| 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,221 | 44 |
+| 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,234 | 44 |
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,356 | 94 |
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 546 |
 | 469 | [Risen](games/r/risen.md) | 4.57 | 0 | 546 |
@@ -930,7 +930,7 @@
 | 928 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 546 |
 | 928 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,949 | 98 |
 | 928 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 31 | 490 |
-| 928 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,723 | 5 |
+| 928 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,882 | 5 |
 | 928 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 363 |
 | 933 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.17 | 0 | 546 |
 | 933 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.17 | 22 | 531 |
