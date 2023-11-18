@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1322,9 +1322,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_11",
@@ -1338,9 +1338,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_13",
@@ -1362,9 +1362,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_16",
@@ -1402,9 +1402,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_20",
@@ -1546,9 +1546,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_49",
@@ -1699,8 +1699,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-17T21:59:23.4158769+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:11:06.2617267+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:08:16.1067936+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:01:44.1320813+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:11:06.2617621+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:59:01.0149375+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:08:16.1068307+00:00"
 }

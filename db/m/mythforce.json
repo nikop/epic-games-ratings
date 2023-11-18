@@ -776,9 +776,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4916,
+  "EOS_Progressed": 4918,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9421,6 +9421,11 @@
       "Time": "2023-11-18T13:07:26.6506603+00:00",
       "NumProgressed": 4916,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-18T14:04:55.8080047+00:00",
+      "NumProgressed": 4918,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9473,7 +9478,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9481,7 +9486,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9537,7 +9542,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -9553,7 +9558,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9593,7 +9598,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9616,15 +9621,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4916,
+      "Progressed": 4918,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:07:26.65066+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:04:55.8080043+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:05:22.9055479+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:07:26.6507096+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:02:27.8271493+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:04:55.8080614+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 3.47 (Ranked 1,040)
 | I Like My Stakes Rare! | 2.00% | ~35 |
 | Fly Fisher | 2.00% | ~35 |
 | ICU | 2.00% | ~35 |
+| Wounded Whispers | 2.00% | ~35 |
 | Catch and Release | 2.00% | ~35 |
 | Home Is Where the Heart Is | 1.00% | ~18 |
 | Enter of Your Own Free Will | 1.00% | ~18 |
@@ -18,7 +19,6 @@ Rating: 3.47 (Ranked 1,040)
 | Peek-a-boo | 1.00% | ~18 |
 | Throw The First Stone | 1.00% | ~18 |
 | Sucks To Be You | 1.00% | ~18 |
-| Wounded Whispers | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Sic Transit Umbra | 0.90% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.47 (Ranked 1,040)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,769 (Ranked 229)  
+Progressed: 1,770 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-03 | 1,766 | 0 |
 | 2023-11-12 | 1,768 | 0 |
 | 2023-11-17 | 1,769 | 0 |
+| 2023-11-18 | 1,770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,25 +6,25 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,148 |
+| Devoured by Darkness | 26.00% | ~3,149 |
 | A Spark | 19.00% | ~2,301 |
-| Burning City | 18.00% | ~2,179 |
-| Mythic Choices | 15.00% | ~1,816 |
-| Defender's Heart | 15.00% | ~1,816 |
-| Banner over the Citadel | 14.00% | ~1,695 |
+| Burning City | 18.00% | ~2,180 |
+| Mythic Choices | 15.00% | ~1,817 |
+| Defender's Heart | 15.00% | ~1,817 |
+| Banner over the Citadel | 14.00% | ~1,696 |
 | Queen's Gratitude | 12.00% | ~1,453 |
 | Fifth Crusade | 8.00% | ~969 |
-| Embrace of the Abyss | 6.00% | ~726 |
-| Path of the Angel | 6.00% | ~726 |
-| Great Upstart | 6.00% | ~726 |
-| Demonic and Divine | 6.00% | ~726 |
-| Path of the Azata | 5.00% | ~605 |
-| Transformation | 5.00% | ~605 |
-| The Legacy | 5.00% | ~605 |
-| Voice from Your Dreams | 5.00% | ~605 |
-| All Paths Open | 5.00% | ~605 |
-| Next-Door Play | 5.00% | ~605 |
-| Get the Toad | 5.00% | ~605 |
+| Embrace of the Abyss | 6.00% | ~727 |
+| Path of the Angel | 6.00% | ~727 |
+| Great Upstart | 6.00% | ~727 |
+| Demonic and Divine | 6.00% | ~727 |
+| Path of the Azata | 5.00% | ~606 |
+| Transformation | 5.00% | ~606 |
+| The Legacy | 5.00% | ~606 |
+| Voice from Your Dreams | 5.00% | ~606 |
+| All Paths Open | 5.00% | ~606 |
+| Next-Door Play | 5.00% | ~606 |
+| Get the Toad | 5.00% | ~606 |
 | Heart of the Fallen Land | 4.00% | ~484 |
 | Divide and Rule | 4.00% | ~484 |
 | Mythic Reinforcements | 4.00% | ~484 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,108 (Ranked 157)  
+Progressed: 12,111 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,16 +335,16 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-15 | 12,095 | 0 |
 | 2023-11-16 | 12,100 | 0 |
 | 2023-11-17 | 12,105 | 0 |
-| 2023-11-18 | 12,108 | 0 |
+| 2023-11-18 | 12,111 | 0 |
 ## Awards
 Max (Character Customization): 1,743  (Ranked 121)  
-Sum: 7,063 (Ranked 120)  
+Sum: 7,064 (Ranked 120)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,743 |
 | This game is Extremely Fun | 654 |
-| This game is Highly Recommended | 646 |
+| This game is Highly Recommended | 647 |
 | This game has Diverse Characters | 643 |
 | This game has Amazing Characters | 641 |
 | This game has Amazing Storytelling | 622 |
@@ -621,4 +621,4 @@ Diff (max vs sum): 1
 | 2023-11-15 | 4.76 | - | 1,740 | 7,054 |
 | 2023-11-16 | 4.76 | - | 1,740 | 7,055 |
 | 2023-11-17 | 4.76 | - | 1,743 | 7,062 |
-| 2023-11-18 | 4.76 | - | 1,743 | 7,063 |
+| 2023-11-18 | 4.76 | - | 1,743 | 7,064 |

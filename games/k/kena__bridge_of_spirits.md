@@ -1,41 +1,41 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 214)  
+Rating: 4.70 (Ranked 213)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,580 |
-| Haikyo | 80.00% | ~343,226 |
-| Good as New | 72.00% | ~308,903 |
-| Into the Woods | 70.00% | ~300,322 |
-| Hunter in the Forest | 60.00% | ~257,419 |
-| Rot Commander | 60.00% | ~257,419 |
-| Taro's Fear | 56.00% | ~240,258 |
-| Between the Eyes | 47.00% | ~201,645 |
-| Taro's Love | 46.00% | ~197,355 |
-| Taro's Regret | 44.00% | ~188,774 |
-| Spirit Guide | 42.00% | ~180,193 |
-| Harness Your Power | 39.00% | ~167,322 |
-| The Open Range | 37.00% | ~158,742 |
-| Adira's Love | 34.00% | ~145,871 |
+| Found a Friend | 95.00% | ~407,582 |
+| Haikyo | 80.00% | ~343,227 |
+| Good as New | 72.00% | ~308,904 |
+| Into the Woods | 70.00% | ~300,324 |
+| Hunter in the Forest | 60.00% | ~257,420 |
+| Rot Commander | 60.00% | ~257,420 |
+| Taro's Fear | 56.00% | ~240,259 |
+| Between the Eyes | 47.00% | ~201,646 |
+| Taro's Love | 46.00% | ~197,356 |
+| Taro's Regret | 44.00% | ~188,775 |
+| Spirit Guide | 42.00% | ~180,194 |
+| Harness Your Power | 39.00% | ~167,323 |
+| The Open Range | 37.00% | ~158,743 |
+| Adira's Love | 34.00% | ~145,872 |
 | Adira's Fear | 33.00% | ~141,581 |
-| Weigh Them Down | 31.00% | ~133,000 |
-| Adira's Regret | 31.00% | ~133,000 |
+| Weigh Them Down | 31.00% | ~133,001 |
+| Adira's Regret | 31.00% | ~133,001 |
 | A Heavy Hammer | 30.00% | ~128,710 |
-| Crossing Over | 29.00% | ~124,419 |
-| Quick Draw | 29.00% | ~124,419 |
-| Toshi's Fear | 28.00% | ~120,129 |
+| Crossing Over | 29.00% | ~124,420 |
+| Quick Draw | 29.00% | ~124,420 |
+| Toshi's Fear | 28.00% | ~120,130 |
 | Toshi's Regret | 27.00% | ~115,839 |
 | Toshi's Love | 27.00% | ~115,839 |
-| A Leader Walks Alone | 26.00% | ~111,548 |
-| Bow Master | 26.00% | ~111,548 |
-| The Lonely Path | 26.00% | ~111,548 |
+| A Leader Walks Alone | 26.00% | ~111,549 |
+| Bow Master | 26.00% | ~111,549 |
+| The Lonely Path | 26.00% | ~111,549 |
 | Restore Balance | 25.00% | ~107,258 |
 | Say Cheese | 16.00% | ~68,645 |
 | Skillful Spirit Guide | 15.00% | ~64,355 |
-| Piercing Blow | 14.00% | ~60,064 |
+| Piercing Blow | 14.00% | ~60,065 |
 | Zen Master | 8.00% | ~34,323 |
 | Curse Collector | 7.00% | ~30,032 |
 | The Last Stop | 7.00% | ~30,032 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,861 |
 | Master Spirit Guide | 0.30% | ~1,287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,032 (Ranked 42)  
+Progressed: 429,034 (Ranked 42)  
 Completed: 546 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 546 (0.13%) (Ranked 267)
 | 2023-11-15 | 428,995 | 545 |
 | 2023-11-16 | 429,011 | 546 |
 | 2023-11-17 | 429,023 | 546 |
-| 2023-11-18 | 429,032 | 546 |
+| 2023-11-18 | 429,034 | 546 |
 ## Awards
 Max (Great Boss Battles): 1,340  (Ranked 136)  
 Sum: 1,700 (Ranked 223)  

@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~912 |
-| Whatever It Takes | 2.00% | ~912 |
-| Pork Chopped | 2.00% | ~912 |
+| One of Us | 2.00% | ~913 |
+| Whatever It Takes | 2.00% | ~913 |
+| Pork Chopped | 2.00% | ~913 |
 | Break A Leg | 1.00% | ~7,201 |
 | Hotel California | 1.00% | ~7,201 |
 | Welcome To Hell-A | 1.00% | ~7,201 |
 | Git Gutte! | 0.90% | ~6,481 |
 | Coup de Grâce | 0.90% | ~6,481 |
 | Hazardous Materials | 0.90% | ~6,481 |
+| Friends Like These | 0.90% | ~6,481 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,481 |
 | Dr. Reed, I Presume? | 0.80% | ~5,761 |
 | Anger Management | 0.80% | ~5,761 |
 | Bookworm | 0.80% | ~5,761 |
 | But Doctor, I am Butcho | 0.80% | ~5,761 |
-| Friends Like These | 0.80% | ~5,761 |
 | Apex Predator | 0.80% | ~5,761 |
 | Stacking the Deck | 0.80% | ~5,761 |
 | This is My Weapon | 0.80% | ~5,761 |
@@ -28,19 +28,19 @@ Rating: 4.54 (Ranked 524)
 | Zombologist | 0.70% | ~5,041 |
 | A Patton Emerges | 0.70% | ~5,041 |
 | Our True Nature | 0.70% | ~5,041 |
-| Perks of the Job | 0.60% | ~4,320 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,320 |
-| Slayer Squad | 0.60% | ~4,320 |
-| Ooh, Shiny! | 0.60% | ~4,320 |
-| I Am the Resurrection | 0.60% | ~4,320 |
-| Max Headroom | 0.60% | ~4,320 |
-| Making Your Mark | 0.50% | ~3,600 |
-| Not Even My Final Form | 0.50% | ~3,600 |
-| Humanity Distilled | 0.50% | ~3,600 |
-| Down with the Sickness | 0.50% | ~3,600 |
-| Jumbo Keyring | 0.40% | ~2,880 |
-| Go, Bobcats! | 0.40% | ~2,880 |
-| Rising Star | 0.40% | ~2,880 |
+| Perks of the Job | 0.60% | ~4,321 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,321 |
+| Slayer Squad | 0.60% | ~4,321 |
+| Ooh, Shiny! | 0.60% | ~4,321 |
+| I Am the Resurrection | 0.60% | ~4,321 |
+| Max Headroom | 0.60% | ~4,321 |
+| Making Your Mark | 0.50% | ~3,601 |
+| Not Even My Final Form | 0.50% | ~3,601 |
+| Humanity Distilled | 0.50% | ~3,601 |
+| Down with the Sickness | 0.50% | ~3,601 |
+| Jumbo Keyring | 0.40% | ~2,881 |
+| Go, Bobcats! | 0.40% | ~2,881 |
+| Rising Star | 0.40% | ~2,881 |
 | Make it So | 0.30% | ~2,160 |
 | On Safari | 0.30% | ~2,160 |
 | Smorgasbord | 0.30% | ~2,160 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~720 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,083 (Ranked 20)  
+Progressed: 720,130 (Ranked 20)  
 Completed: 2,407 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2,407 (0.33%) (Ranked 226)
 | 2023-11-15 | 718,937 | 2,393 |
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
-| 2023-11-18 | 720,083 | 2,407 |
+| 2023-11-18 | 720,130 | 2,407 |
 ## Awards
 Max (Great Boss Battles): 7,519  (Ranked 52)  
 Sum: 11,489 (Ranked 84)  

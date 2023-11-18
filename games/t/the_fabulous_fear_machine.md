@@ -20,16 +20,20 @@
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
+| The seer | 3.00% | ~1 |
 | The scholar | 3.00% | ~1 |
+| Pulp! Out of this World | 3.00% | ~1 |
+| Pulp! Adventures into the Unknown | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
 | The happy farmer girl | 3.00% | ~1 |
+| Diagnosis: fear | 3.00% | ~1 |
+| Ambition is... blind | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
-| The seer | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
@@ -38,8 +42,6 @@
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Pulp! Out of this World | 0.00% | ~0 |
-| Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
@@ -48,8 +50,6 @@
 | Vaccine fans | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
-| Diagnosis: fear | 0.00% | ~0 |
-| Ambition is... blind | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37 (Ranked 506)  

@@ -5,9 +5,9 @@
   "Ranking_Rating": 30,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 160,
+  "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10312,
+  "EOS_Progressed": 10313,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1844,6 +1844,11 @@
       "Time": "2023-11-18T12:03:35.6104755+00:00",
       "NumProgressed": 10312,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-18T14:03:53.9360788+00:00",
+      "NumProgressed": 10313,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1967,7 +1972,7 @@
       "Name": "rwd only",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1975,7 +1980,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -2015,7 +2020,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2039,7 +2044,7 @@
       "Name": "comfy seats",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_FOG",
@@ -2055,7 +2060,7 @@
       "Name": "you\u0027re here for a good time, not a long time",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_FULL_DIRTY",
@@ -2095,7 +2100,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "ACH_NIGHT",
@@ -2143,7 +2148,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "ACH_SNOW",
@@ -2167,7 +2172,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -2175,7 +2180,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2198,15 +2203,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10312,
+      "Progressed": 10313,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:06:25.3489569+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:03:53.9360785+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:35.2228766+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:02:14.2285417+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:06:25.3489933+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:59:30.8605053+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:03:53.9361065+00:00"
 }

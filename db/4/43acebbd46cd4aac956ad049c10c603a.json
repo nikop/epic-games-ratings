@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 378,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1002,9 +1002,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 185
     },
     {
       "ID": "LostMarshes",
@@ -1074,17 +1074,17 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 200
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "PrometheusUnbound",
@@ -1098,9 +1098,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1178,9 +1178,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 102
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1226,17 +1226,17 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "TrevorsBiographer",
@@ -1299,8 +1299,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-17T12:01:11.7833068+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:08:40.7205489+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:06:11.1725934+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-18T12:59:49.2183658+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:08:40.7205876+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:57:05.0352203+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:06:11.1726322+00:00"
 }

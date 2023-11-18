@@ -1273,18 +1273,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 463,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2023-11-18T14:00:19.0986385+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 464,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 463,
-  "NumberOfAwardsMax": 230,
+  "NumberOfAwards": 464,
+  "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game is Relaxing",
@@ -1335,9 +1341,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237892,
+  "EOS_Progressed": 237909,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1440,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19010,6 +19016,11 @@
       "Time": "2023-11-18T13:11:09.1420728+00:00",
       "NumProgressed": 237892,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T14:08:18.9923246+00:00",
+      "NumProgressed": 237909,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19061,7 +19072,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "Chapter1",
@@ -19069,7 +19080,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14274
+      "UsersEstimate": 14275
     },
     {
       "ID": "Chapter2",
@@ -19421,7 +19432,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16652
+      "UsersEstimate": 16654
     },
     {
       "ID": "DwarfElf15Support",
@@ -19469,7 +19480,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83262
+      "UsersEstimate": 83268
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19517,7 +19528,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19031
+      "UsersEstimate": 19033
     },
     {
       "ID": "FollowBraztok",
@@ -19589,7 +19600,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "Poster",
@@ -19724,21 +19735,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237892,
+      "Progressed": 237909,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237892,
+      "Progressed": 237909,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-16T16:00:04.3647712+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:11:09.1420726+00:00",
+  "LastChanged": "2023-11-18T14:00:19.0986383+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:08:18.9923241+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:03:02.7638974+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:11:09.1422444+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:00:19.0986387+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:08:18.9924664+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
@@ -2525,6 +2525,11 @@
       "Time": "2023-11-18T13:07:09.2932408+00:00",
       "NumProgressed": 591,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-18T14:04:38.116762+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 25,
@@ -2544,7 +2549,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "META_ALL_LINK",
@@ -2552,7 +2557,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2560,7 +2565,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2672,7 +2677,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2696,7 +2701,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "PROGRESS_N2",
@@ -2735,14 +2740,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:07:09.2932406+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:04:38.1167615+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:02:11.1247704+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:07:09.2932661+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:59:27.8354313+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:04:38.1167882+00:00"
 }

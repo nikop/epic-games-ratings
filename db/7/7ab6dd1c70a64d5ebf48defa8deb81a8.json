@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -730,6 +730,11 @@
       "Time": "2023-11-17T22:10:19.3285184+00:00",
       "NumProgressed": 189,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-18T14:09:30.5981163+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -813,7 +818,7 @@
       "Name": "Trinity",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_11",
@@ -955,9 +960,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_29",
@@ -1028,14 +1033,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:12:00.9783488+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:09:30.598116+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:01:07.7499035+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:12:00.9783766+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:58:24.4061552+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:09:30.5981397+00:00"
 }

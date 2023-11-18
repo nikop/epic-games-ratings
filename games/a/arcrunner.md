@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 27.00% | ~217 |
-| Challenge Accepted | 23.00% | ~184 |
-| Terminated I | 23.00% | ~184 |
-| Nanonic I | 21.00% | ~168 |
-| Unlocked and Loaded | 21.00% | ~168 |
-| Terminated II | 18.00% | ~144 |
-| The City | 17.00% | ~136 |
+| Augmented | 28.00% | ~225 |
+| Challenge Accepted | 23.00% | ~185 |
+| Terminated I | 23.00% | ~185 |
+| Nanonic I | 21.00% | ~169 |
+| Unlocked and Loaded | 21.00% | ~169 |
+| Terminated II | 18.00% | ~145 |
+| The City | 17.00% | ~137 |
 | Terminated III | 14.00% | ~112 |
 | Challenge Mastered | 13.00% | ~104 |
 | Nanonic II | 12.00% | ~96 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 273)  
+Progressed: 803 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 354)
 | 2023-11-14 | 791 | 0 |
 | 2023-11-15 | 793 | 0 |
 | 2023-11-17 | 800 | 0 |
-| 2023-11-18 | 802 | 0 |
+| 2023-11-18 | 803 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

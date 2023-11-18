@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,262 |
-| Alt+F4 | 8.00% | ~19,031 |
-| Where's that freaking Dwarf? | 7.00% | ~16,652 |
-| Déjà vu | 6.00% | ~14,274 |
+| Sowwy! | 35.00% | ~83,268 |
+| Alt+F4 | 8.00% | ~19,033 |
+| Where's that freaking Dwarf? | 7.00% | ~16,654 |
+| Déjà vu | 6.00% | ~14,275 |
 | Sock! SOCK! | 5.00% | ~11,895 |
 | A beer, two curses, three companions | 4.00% | ~9,516 |
 | GG EZ | 4.00% | ~9,516 |
@@ -49,8 +49,8 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.70% | ~1,665 |
 | Holistic Adventuring Party | 0.60% | ~1,427 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,427 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,189 |
-| Law and Order | 0.50% | ~1,189 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,190 |
+| Law and Order | 0.50% | ~1,190 |
 | It's been a hard day's night | 0.40% | ~952 |
 | Friendly fire | 0.30% | ~714 |
 | I'd rather... Just... Sing! | 0.30% | ~714 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,892 (Ranked 62)  
+Progressed: 237,909 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,14 +266,14 @@ Completed: 7 (0.00%) (Ranked 354)
 | 2023-11-15 | 237,338 | 7 |
 | 2023-11-16 | 237,548 | 7 |
 | 2023-11-17 | 237,757 | 7 |
-| 2023-11-18 | 237,892 | 7 |
+| 2023-11-18 | 237,909 | 7 |
 ## Awards
-Max (Character Customization): 230  (Ranked 272)  
-Sum: 463 (Ranked 331)  
+Max (Character Customization): 231  (Ranked 272)  
+Sum: 464 (Ranked 331)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 230 |
+| This game has Inclusive Character Customization | 231 |
 | This game is Relaxing | 37 |
 | This game is Great for Beginners | 32 |
 | This game has Quickly Understood Controls | 30 |
@@ -463,3 +463,4 @@ Diff (max vs sum): -59
 | 2023-11-12 | 4.58 | - | 228 | 458 |
 | 2023-11-14 | 4.58 | - | 229 | 460 |
 | 2023-11-16 | 4.58 | - | 230 | 463 |
+| 2023-11-18 | 4.58 | - | 231 | 464 |

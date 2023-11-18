@@ -4315,10 +4315,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5356,
       "NumberOfAwardsMax": 2299
+    },
+    {
+      "Time": "2023-11-18T14:03:06.1710592+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5363,
+      "NumberOfAwardsMax": 2299
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5356,
+  "NumberOfAwards": 5363,
   "NumberOfAwardsMax": 2299,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4344,7 +4350,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 322
+      "Count": 329
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4389,9 +4395,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 222956,
+  "EOS_Progressed": 223016,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3338,
+  "EOS_NewPlayers": 3379,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18669,6 +18675,11 @@
       "Time": "2023-11-18T13:11:06.0607691+00:00",
       "NumProgressed": 222956,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-11-18T14:08:15.8455828+00:00",
+      "NumProgressed": 223016,
+      "NumCompleted": 469
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19097,7 +19108,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19120,22 +19131,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 222956,
+      "Progressed": 223016,
       "Completed": 469
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 2121,
-      "Completed": 104
+      "Progressed": 2181,
+      "Completed": 105
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-18T04:02:55.0922171+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:11:06.0607688+00:00",
+  "LastChanged": "2023-11-18T14:03:06.1710591+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:08:15.8455824+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:05:44.0260111+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:11:06.0608604+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:03:06.1710598+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:08:15.8456737+00:00"
 }

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,215 |
-| Spectre Inductee | 79.00% | ~1,032 |
+| Spectre Inductee | 80.00% | ~1,045 |
 | Medal of Exploration I | 71.00% | ~927 |
-| Recruit | 67.00% | ~875 |
+| Recruit | 68.00% | ~888 |
 | Search and Rescue | 67.00% | ~875 |
 | Quarian Ally | 63.00% | ~823 |
 | Medal of Heroism | 59.00% | ~771 |
-| Honorarium of Corporate Service | 58.00% | ~757 |
+| Honorarium of Corporate Service | 59.00% | ~771 |
 | Medal of Exploration II | 53.00% | ~692 |
 | Turian Ally | 53.00% | ~692 |
 | Council Legion of Merit | 53.00% | ~692 |
@@ -30,7 +30,7 @@
 | Krogan Ally | 41.00% | ~535 |
 | Very Elusive | 41.00% | ~535 |
 | Merciless | 41.00% | ~535 |
-| Sentinel Ally | 39.00% | ~509 |
+| Sentinel Ally | 40.00% | ~522 |
 | Head Hunter | 39.00% | ~509 |
 | Scholar | 39.00% | ~509 |
 | Operative | 38.00% | ~496 |
@@ -49,13 +49,13 @@
 | The Quarian | 31.00% | ~405 |
 | The Prodigal | 31.00% | ~405 |
 | Galactic Explorer | 31.00% | ~405 |
+| Shopaholic | 31.00% | ~405 |
 | Completionist | 30.00% | ~392 |
 | Battlemaster | 30.00% | ~392 |
 | Catharsis | 30.00% | ~392 |
 | Ghost of the Father | 30.00% | ~392 |
 | The Cure | 30.00% | ~392 |
 | Driven | 30.00% | ~392 |
-| Shopaholic | 30.00% | ~392 |
 | Archivist | 29.00% | ~379 |
 | Fade Away | 29.00% | ~379 |
 | Big Game Hunter | 29.00% | ~379 |
@@ -69,10 +69,10 @@
 | Treason | 28.00% | ~366 |
 | Agent | 28.00% | ~366 |
 | Digital Exorcist | 28.00% | ~366 |
+| Mobilizer | 28.00% | ~366 |
 | Mission Accomplished | 27.00% | ~353 |
 | Suicide Mission | 27.00% | ~353 |
 | Against All Odds | 27.00% | ~353 |
-| Mobilizer | 27.00% | ~353 |
 | Untouchable | 26.00% | ~340 |
 | A House Divided | 26.00% | ~340 |
 | Eye of the Hurricane | 25.00% | ~326 |

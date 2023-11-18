@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 5.00% | ~9 |
+| Trinity | 5.00% | ~10 |
+| I Found It | 4.00% | ~8 |
 | Powerful Allies | 3.00% | ~6 |
-| I Found It | 3.00% | ~6 |
 | Break Out | 2.00% | ~4 |
 | Find Allies | 2.00% | ~4 |
 | Calm before the Storm | 2.00% | ~4 |
@@ -41,7 +41,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.10% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189 (Ranked 384)  
+Progressed: 190 (Ranked 383)  
 Completed: 1 (0.53%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,3 +81,4 @@ Completed: 1 (0.53%) (Ranked 195)
 | 2023-11-14 | 186 | 1 |
 | 2023-11-15 | 188 | 1 |
 | 2023-11-17 | 189 | 1 |
+| 2023-11-18 | 190 | 1 |

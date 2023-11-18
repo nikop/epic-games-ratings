@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7,
+  "EOS_Completed_Percentage": 6.93,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -544,6 +544,11 @@
       "Time": "2023-11-15T19:06:13.7293016+00:00",
       "NumProgressed": 100,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-18T14:03:40.4544873+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -610,9 +615,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "Kour",
@@ -634,7 +639,7 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 61
     },
@@ -795,14 +800,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:06:12.3850018+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:03:40.4544871+00:00",
   "LastUpdate_AppInfo": "2023-11-18T02:57:11.5829525+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:00:38.6633499+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:06:12.3850465+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:57:55.4261444+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:03:40.454502+00:00"
 }

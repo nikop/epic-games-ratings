@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~259 |
-| Thalya – Simply Immortal | 86.00% | ~259 |
-| For the Horde! | 80.00% | ~241 |
-| Hammer Time, Round Two | 78.00% | ~235 |
+| The Last Stand | 86.00% | ~260 |
+| Thalya – Simply Immortal | 86.00% | ~260 |
+| For the Horde! | 80.00% | ~242 |
+| Hammer Time, Round Two | 79.00% | ~239 |
 | The Hellwoods | 73.00% | ~220 |
-| Thalya's Concentrated Fury | 67.00% | ~202 |
+| Thalya's Concentrated Fury | 68.00% | ~205 |
 | The Plains of Strothalm | 66.00% | ~199 |
 | Experienced Thalya | 66.00% | ~199 |
 | Master of Magic | 62.00% | ~187 |
@@ -17,19 +17,19 @@
 | Heroes’ Gorge | 56.00% | ~169 |
 | Magic Accidents | 55.00% | ~166 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~166 |
-| Minions, Minions! | 52.00% | ~157 |
-| Trap Master | 51.00% | ~154 |
-| The Ascent | 44.00% | ~132 |
-| It's Warm and Cozy at Home | 44.00% | ~132 |
-| YOU SHALL NOT PASS! | 42.00% | ~126 |
-| Hard Work | 39.00% | ~117 |
-| The Big Eaty | 39.00% | ~117 |
-| Pure Dynamite! | 38.00% | ~114 |
-| “… like son” | 33.00% | ~99 |
-| Mana Cannon | 32.00% | ~96 |
-| Dungeonlord Gorgu | 27.00% | ~81 |
-| The Cathedral of Light | 26.00% | ~78 |
-| Shame! Shame! Shame! | 26.00% | ~78 |
+| Minions, Minions! | 53.00% | ~160 |
+| Trap Master | 52.00% | ~157 |
+| The Ascent | 44.00% | ~133 |
+| It's Warm and Cozy at Home | 44.00% | ~133 |
+| YOU SHALL NOT PASS! | 42.00% | ~127 |
+| Hard Work | 39.00% | ~118 |
+| The Big Eaty | 38.00% | ~115 |
+| Pure Dynamite! | 37.00% | ~112 |
+| Mana Cannon | 32.00% | ~97 |
+| “… like son” | 32.00% | ~97 |
+| Dungeonlord Gorgu | 27.00% | ~82 |
+| Shame! Shame! Shame! | 26.00% | ~79 |
+| The Cathedral of Light | 25.00% | ~76 |
 | Tanos' Crusade Against Thalya | 22.00% | ~66 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~63 |
 | Hungry, Hungry Gorgu! | 18.00% | ~54 |
@@ -66,7 +66,7 @@
 | Hands Off My Stones | 2.00% | ~6 |
 | I Don't Need Any Help | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 343)  
+Progressed: 302 (Ranked 343)  
 Completed: 1 (0.33%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,4 +80,4 @@ Completed: 1 (0.33%) (Ranked 226)
 | 2023-11-15 | 272 | 1 |
 | 2023-11-16 | 284 | 1 |
 | 2023-11-17 | 291 | 1 |
-| 2023-11-18 | 301 | 1 |
+| 2023-11-18 | 302 | 1 |

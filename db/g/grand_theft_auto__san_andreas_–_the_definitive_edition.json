@@ -1515,7 +1515,7 @@
   ],
   "EOS_Progressed": 13718,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14948,9 +14948,9 @@
       "ID": "ACH28",
       "SetID": "4ck5mbe",
       "Name": "Original Gangster",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH29",
@@ -15021,8 +15021,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-15T20:59:02.3076225+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:11:24.9488273+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:08:35.051005+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:03:01.522076+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:11:24.9489124+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:00:18.0947307+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:08:35.0510844+00:00"
 }

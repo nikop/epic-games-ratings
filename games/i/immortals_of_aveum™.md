@@ -6,8 +6,8 @@ Rating: 4.08 (Ranked 970)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~255 |
-| Battlefields Have Memories | 86.00% | ~241 |
-| Enlisted | 83.00% | ~232 |
+| Battlefields Have Memories | 87.00% | ~244 |
+| Enlisted | 84.00% | ~235 |
 | Maybe Engage a Little | 80.00% | ~224 |
 | No More Names | 67.00% | ~188 |
 | Initiate | 56.00% | ~157 |
@@ -16,14 +16,14 @@ Rating: 4.08 (Ranked 970)
 | Soldier | 34.00% | ~95 |
 | All the Major Food Groups | 33.00% | ~92 |
 | Beggars Would Ride | 30.00% | ~84 |
-| Control is an Illusion | 28.00% | ~78 |
+| Control is an Illusion | 29.00% | ~81 |
 | Socialite | 27.00% | ~76 |
 | The Means to Save It | 24.00% | ~67 |
-| Resilience to Sin | 20.00% | ~56 |
+| Resilience to Sin | 21.00% | ~59 |
 | A Familiar Nest | 20.00% | ~56 |
 | Periapt Alizarin | 20.00% | ~56 |
 | Geas Aristeya | 19.00% | ~53 |
-| A Perfect Cycle | 17.00% | ~48 |
+| A Perfect Cycle | 18.00% | ~50 |
 | Recruit | 16.00% | ~45 |
 | Armsman | 16.00% | ~45 |
 | Lights Army | 11.00% | ~31 |

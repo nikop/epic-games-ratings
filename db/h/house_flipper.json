@@ -2055,7 +2055,7 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 21309,
+  "EOS_Progressed": 21310,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -10405,6 +10405,11 @@
       "Time": "2023-11-18T10:03:11.7844407+00:00",
       "NumProgressed": 21309,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-18T14:03:33.662627+00:00",
+      "NumProgressed": 21310,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10456,7 +10461,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "FirstMoney",
@@ -10520,7 +10525,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "MrAndMrsJantart",
@@ -10544,7 +10549,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "RafaelErko",
@@ -10599,15 +10604,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21309,
+      "Progressed": 21310,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-17T20:59:48.1807622+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:06:05.6138186+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:03:33.6626267+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:43.9851817+00:00",
-  "LastUpdate_Ratings": "2023-11-18T13:02:55.3752294+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:06:05.6138672+00:00"
+  "LastUpdate_Ratings": "2023-11-18T14:00:11.6844015+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:03:33.6626651+00:00"
 }

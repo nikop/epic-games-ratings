@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 73.00% | ~11 |
+| My Papyrus! | 80.00% | ~12 |
 | A Loyal Friend | 33.00% | ~5 |
 | Abandon Ship! | 20.00% | ~3 |
 | In the Name of the Law | 0.00% | ~0 |

@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 21.00% | ~22 |
+| Adept | 22.00% | ~23 |
 | Double Kill | 17.00% | ~18 |
 | Sorcerous Spree | 5.00% | ~5 |
 | Veteran | 5.00% | ~5 |

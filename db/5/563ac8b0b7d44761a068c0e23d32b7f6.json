@@ -4,7 +4,7 @@
   "ProductSlug": "party-monsterzz-f42535",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 77,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
@@ -416,8 +416,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-11-18T13:05:55.7471358+00:00",
+  "LastChanged_Achievements": "2023-11-18T14:03:23.8266788+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.2089598+00:00",
-  "LastUpdate_Ratings": "2023-11-18T12:59:54.6756638+00:00",
-  "LastUpdate_Achievements": "2023-11-18T13:05:55.7471476+00:00"
+  "LastUpdate_Ratings": "2023-11-18T13:57:10.7021804+00:00",
+  "LastUpdate_Achievements": "2023-11-18T14:03:23.8266886+00:00"
 }
