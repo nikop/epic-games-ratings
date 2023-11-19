@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 603,
-  "EOS_Completed": 34,
+  "EOS_Completed": 35,
   "EOS_NewPlayers": 74,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.64,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 5.8,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2580,6 +2580,11 @@
       "Time": "2023-11-19T08:05:08.6256066+00:00",
       "NumProgressed": 603,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-19T09:04:50.4834538+00:00",
+      "NumProgressed": 603,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2605,17 +2610,17 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2669,25 +2674,25 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 96
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2791,13 +2796,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 603,
-      "Completed": 34
+      "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:05:08.6256064+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:04:50.4834535+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:00:47.182938+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:05:08.6256256+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:59:56.6601814+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:04:50.4834843+00:00"
 }

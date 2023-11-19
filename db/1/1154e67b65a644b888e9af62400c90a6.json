@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 635,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 257,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -719,10 +719,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 1056,
       "NumberOfAwardsMax": 477
+    },
+    {
+      "Time": "2023-11-19T08:58:38.8115876+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 1061,
+      "NumberOfAwardsMax": 477
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1056,
+  "NumberOfAwards": 1061,
   "NumberOfAwardsMax": 477,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -784,7 +790,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 38
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -811,8 +817,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-19T04:58:51.7674921+00:00",
+  "LastChanged": "2023-11-19T08:58:38.8115874+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:57.3999056+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:59:09.761843+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:03:27.0839052+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:58:38.8115879+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:03:24.644723+00:00"
 }

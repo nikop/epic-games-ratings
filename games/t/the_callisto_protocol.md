@@ -11,13 +11,13 @@ Rating: 4.19 (Ranked 919)
 | Float Like A Butterfly | 7.00% | ~1,152 |
 | Two Heads Are Better Than One | 6.00% | ~988 |
 | Chew 'Em Up | 6.00% | ~988 |
+| Workplace Hazard | 6.00% | ~988 |
 | Reforged | 6.00% | ~988 |
 | The Outer Way | 6.00% | ~988 |
 | Desperate Times | 6.00% | ~988 |
 | Keep Fighting | 6.00% | ~263 |
 | You Need a Gun | 5.00% | ~823 |
 | I Do Belong Here | 5.00% | ~823 |
-| Workplace Hazard | 5.00% | ~823 |
 | If the SHU Fits... | 5.00% | ~823 |
 | Without A Paddle | 5.00% | ~823 |
 | In the Pipe, Five by Five | 5.00% | ~823 |

@@ -32,17 +32,17 @@
 | Run and Gun | 2.00% | ~6 |
 | Pet The Dog | 2.00% | ~6 |
 | Back In Time | 1.00% | ~3 |
+| Before The Eclipse | 1.00% | ~3 |
 | Retro Player | 1.00% | ~3 |
 | The 5th Element | 1.00% | ~3 |
-| Before The Eclipse | 0.70% | ~2 |
 | Box Of Ploutus | 0.70% | ~2 |
+| No Time To Relax | 0.70% | ~2 |
 | Survival Hero | 0.70% | ~2 |
 | Chosen One | 0.30% | ~1 |
 | Die Another Day | 0.30% | ~1 |
 | Dressed to Kill | 0.30% | ~1 |
 | Life Of The Thousand Gods | 0.30% | ~1 |
 | Nightmare Over | 0.30% | ~1 |
-| No Time To Relax | 0.30% | ~1 |
 | Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 307 (Ranked 341)  

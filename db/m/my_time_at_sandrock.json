@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1580,7 +1580,7 @@
   ],
   "EOS_Progressed": 370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3510,9 +3510,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 247,
+      "Percentage": 248,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 918
     },
     {
       "ID": "M_BACKPACK",
@@ -3534,9 +3534,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 177,
+      "Percentage": 178,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 659
     },
     {
       "ID": "M_EXPAND",
@@ -3662,33 +3662,33 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 123,
+      "Percentage": 124,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 459
     },
     {
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 355
     },
     {
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 130
     },
     {
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 174
     },
     {
       "ID": "P_TUNNEL",
@@ -3734,9 +3734,9 @@
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "S_DANCE",
@@ -3750,9 +3750,9 @@
       "ID": "S_FRIEND",
       "SetID": "80dcan0",
       "Name": "One of the Cool Kids",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 252
     },
     {
       "ID": "S_GAMECOIN",
@@ -3822,9 +3822,9 @@
       "ID": "S_SANDRUNNING",
       "SetID": "80dcan0",
       "Name": "Sandrunning Speedster",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "S_SHOWDOWN",
@@ -3902,9 +3902,9 @@
       "ID": "X_KICK",
       "SetID": "80dcan0",
       "Name": "Newton",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "X_MUSEUM",
@@ -3926,8 +3926,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-18T21:00:35.4683999+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:05:31.0204269+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:05:09.0143826+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:57:54.4346574+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:05:31.0204733+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:57:38.9218634+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:05:09.0144488+00:00"
 }

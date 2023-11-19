@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~923 |
-| Whatever It Takes | 2.00% | ~923 |
-| Pork Chopped | 2.00% | ~923 |
+| One of Us | 2.00% | ~924 |
+| Whatever It Takes | 2.00% | ~924 |
+| Pork Chopped | 2.00% | ~924 |
 | Break A Leg | 1.00% | ~7,206 |
 | Coup de Grâce | 1.00% | ~7,206 |
 | Hazardous Materials | 1.00% | ~7,206 |
@@ -38,16 +38,16 @@ Rating: 4.54 (Ranked 523)
 | Not Even My Final Form | 0.50% | ~3,603 |
 | Humanity Distilled | 0.50% | ~3,603 |
 | Down with the Sickness | 0.50% | ~3,603 |
-| On Safari | 0.40% | ~2,882 |
-| Internet Famous | 0.40% | ~2,882 |
-| Jumbo Keyring | 0.40% | ~2,882 |
-| Go, Bobcats! | 0.40% | ~2,882 |
-| Variety is the Spice of Death | 0.40% | ~2,882 |
-| Rising Star | 0.40% | ~2,882 |
+| On Safari | 0.40% | ~2,883 |
+| Internet Famous | 0.40% | ~2,883 |
+| Jumbo Keyring | 0.40% | ~2,883 |
+| Go, Bobcats! | 0.40% | ~2,883 |
+| Variety is the Spice of Death | 0.40% | ~2,883 |
+| Rising Star | 0.40% | ~2,883 |
 | Make it So | 0.30% | ~2,162 |
 | LA Influential | 0.30% | ~2,162 |
 | Smorgasbord | 0.30% | ~2,162 |
-| Top That, Tisha! | 0.30% | ~138 |
+| Top That, Tisha! | 0.30% | ~139 |
 | Sole Survivor | 0.20% | ~1,441 |
 | Gore Horse | 0.20% | ~1,441 |
 | Sharpest Tool in the Box | 0.20% | ~1,441 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,620 (Ranked 20)  
-Completed: 2,411 (0.33%) (Ranked 227)  
+Progressed: 720,642 (Ranked 20)  
+Completed: 2,412 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,10 +270,10 @@ Completed: 2,411 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,620 | 2,411 |
+| 2023-11-19 | 720,642 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
-Sum: 11,532 (Ranked 84)  
+Sum: 11,535 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 498 |
 | This game has Amazing Storytelling | 479 |
-| This game is Highly Recommended | 461 |
+| This game is Highly Recommended | 464 |
 | This game is Extremely Fun | 461 |
 | This game has Amazing Characters | 430 |
 ## Ratings History
@@ -501,4 +501,4 @@ Diff (max vs sum): -33
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
-| 2023-11-19 | 4.54 | 7,552 | 11,532 |
+| 2023-11-19 | 4.54 | 7,552 | 11,535 |

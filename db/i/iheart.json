@@ -4,7 +4,7 @@
   "ProductSlug": "iheart",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.1716292+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:02:48.7216799+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:03:14.7566787+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:02:53.0000737+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:03:14.5453796+00:00"
 }

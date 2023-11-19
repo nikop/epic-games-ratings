@@ -15294,10 +15294,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 356478,
       "NumberOfAwardsMax": 106055
+    },
+    {
+      "Time": "2023-11-19T08:58:57.4338734+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 356717,
+      "NumberOfAwardsMax": 106055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 356478,
+  "NumberOfAwards": 356717,
   "NumberOfAwardsMax": 106055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15311,7 +15317,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 76784
+      "Count": 76948
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15353,7 +15359,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 18874
+      "Count": 18949
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15374,9 +15380,9 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897304,
+  "EOS_Progressed": 897313,
   "EOS_Completed": 2787,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39499,6 +39505,11 @@
       "Time": "2023-11-19T08:03:55.5540368+00:00",
       "NumProgressed": 897304,
       "NumCompleted": 2787
+    },
+    {
+      "Time": "2023-11-19T09:03:49.5252823+00:00",
+      "NumProgressed": 897313,
+      "NumCompleted": 2787
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39807,7 +39818,7 @@
       "Name": "True Soldier",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7178
+      "UsersEstimate": 7179
     },
     {
       "ID": "TrueWarrior",
@@ -39839,7 +39850,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35892
+      "UsersEstimate": 35893
     },
     {
       "ID": "YipMan",
@@ -39967,7 +39978,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "HydraIsDead",
@@ -39983,7 +39994,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "KingOfTheCups",
@@ -40046,21 +40057,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897304,
+      "Progressed": 897313,
       "Completed": 2787
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25927,
-      "Completed": 10236
+      "Progressed": 25936,
+      "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-19T03:59:33.5933028+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:03:55.5540364+00:00",
+  "LastChanged": "2023-11-19T08:58:57.4338732+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:03:49.5252821+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:59:33.0003835+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:03:55.5541673+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:58:57.4338739+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:03:49.5254107+00:00"
 }

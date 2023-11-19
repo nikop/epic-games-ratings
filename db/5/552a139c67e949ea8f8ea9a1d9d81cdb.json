@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1102,
+  "EOS_Progressed": 1103,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2277,6 +2277,11 @@
       "Time": "2023-11-19T01:56:50.9107386+00:00",
       "NumProgressed": 1102,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T09:06:22.1237358+00:00",
+      "NumProgressed": 1103,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2289,7 +2294,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2449,7 +2454,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2457,7 +2462,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2561,7 +2566,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2569,7 +2574,7 @@
       "Name": "Perfectionist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -2625,27 +2630,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1102,
+      "Progressed": 1103,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 770,
-      "Completed": 770
+      "Progressed": 771,
+      "Completed": 771
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:07:01.339155+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:06:22.1237356+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:59:07.6746134+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:07:01.3391901+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:58:37.1389197+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:06:22.1237663+00:00"
 }

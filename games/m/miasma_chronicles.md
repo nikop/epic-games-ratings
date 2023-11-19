@@ -8,7 +8,7 @@ Rating: 4.42 (Ranked 711)
 | First Blood | 92.00% | ~1,456 |
 | Ranidaphobia | 77.00% | ~1,219 |
 | Aspiring Editor | 75.00% | ~1,187 |
-| Gun for Hire | 69.00% | ~1,092 |
+| Gun for Hire | 70.00% | ~1,108 |
 | I am the law! | 63.00% | ~997 |
 | Lumberjack | 54.00% | ~855 |
 | Croaked | 49.00% | ~776 |
@@ -23,8 +23,8 @@ Rating: 4.42 (Ranked 711)
 | Technophobe | 41.00% | ~649 |
 | Recycler | 40.00% | ~633 |
 | Are you not entertained? | 36.00% | ~570 |
+| Ganglord | 36.00% | ~570 |
 | Jarhead | 36.00% | ~570 |
-| Ganglord | 35.00% | ~554 |
 | Infiltrator | 35.00% | ~554 |
 | Experienced | 33.00% | ~522 |
 | Pushing Daisy | 33.00% | ~522 |

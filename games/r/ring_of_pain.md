@@ -29,6 +29,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.30% | ~720 |
 | Deflection | 0.30% | ~720 |
 | A Quick Escape | 0.30% | ~720 |
+| Toxic | 0.30% | ~720 |
 | Explorer | 0.30% | ~720 |
 | Sneaky | 0.30% | ~720 |
 | An Offering | 0.30% | ~720 |
@@ -55,7 +56,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.20% | ~480 |
 | Doing Time | 0.20% | ~480 |
 | Spreading Plague | 0.20% | ~480 |
-| Toxic | 0.20% | ~480 |
 | Acid Bath | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
 | Shadow Walker | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,916 (Ranked 61)  
+Progressed: 239,916 (Ranked 62)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |

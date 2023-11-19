@@ -1585,9 +1585,9 @@
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 338
     },
     {
       "ID": "09",
@@ -1722,8 +1722,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:07:22.2205541+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:06:39.7387685+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2319809+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:57:59.3935816+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:07:22.2205785+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:57:42.9710763+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:06:39.7387842+00:00"
 }

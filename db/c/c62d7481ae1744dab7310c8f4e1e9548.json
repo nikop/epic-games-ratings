@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Destilat",
@@ -783,9 +783,9 @@
       "ID": "Zelvak",
       "SetID": "ag48e8e",
       "Name": "Goldbug",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ZpivajiciHouba",
@@ -806,8 +806,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:03:57.4018704+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:03:51.0127317+00:00",
   "LastUpdate_AppInfo": "2023-11-18T02:57:11.5829525+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:58:41.8572298+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:03:57.401887+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:58:16.8067738+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:03:51.0127496+00:00"
 }

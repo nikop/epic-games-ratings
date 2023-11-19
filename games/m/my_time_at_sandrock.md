@@ -6,26 +6,26 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 247.00% | ~914 |
-| Iron Chef | 177.00% | ~655 |
-| Greeno-B-Gone | 123.00% | ~455 |
-| Your Especially Earned Trajectory | 95.00% | ~352 |
+| Adept Assembler | 248.00% | ~918 |
+| Iron Chef | 178.00% | ~659 |
+| Greeno-B-Gone | 124.00% | ~459 |
+| Your Especially Earned Trajectory | 96.00% | ~355 |
 | No Mountain Wide Enough | 72.00% | ~266 |
+| One of the Cool Kids | 68.00% | ~252 |
 | Yakmel Whisperer | 68.00% | ~252 |
-| One of the Cool Kids | 67.00% | ~248 |
 | On that Grindset | 66.00% | ~244 |
 | Can We Keep It? | 66.00% | ~244 |
 | Diamonds are Forever | 62.00% | ~229 |
 | Pack Mule | 61.00% | ~226 |
 | Unboxing | 59.00% | ~218 |
 | Big Game Hunter | 53.00% | ~196 |
-| Chatterbox | 52.00% | ~192 |
+| Chatterbox | 53.00% | ~196 |
 | Financially Secure | 51.00% | ~189 |
 | Got Served | 51.00% | ~189 |
 | First Love | 51.00% | ~189 |
 | I Do! | 49.00% | ~181 |
 | Call Me Fishmael | 48.00% | ~178 |
-| Happier-est Place on Earth | 46.00% | ~170 |
+| Happier-est Place on Earth | 47.00% | ~174 |
 | You Don't Win Friends With Salad | 46.00% | ~170 |
 | Builder of the Month | 45.00% | ~166 |
 | What Plants Crave | 45.00% | ~166 |
@@ -41,20 +41,20 @@ Number of Ratings: 892  (23.09.2022)
 | Better Late than Never | 39.00% | ~144 |
 | Waste Not Want Not | 39.00% | ~144 |
 | Officially Official | 35.00% | ~130 |
+| Elementary, My Dear | 35.00% | ~130 |
 | Got the Flow Back | 35.00% | ~130 |
 | Who Ya Gonna Call...? | 35.00% | ~130 |
-| Elementary, My Dear | 34.00% | ~126 |
 | Jewel of the Eufaula | 33.00% | ~122 |
 | Lifeline Pipeline | 33.00% | ~122 |
 | Sepia Toned Memories | 30.00% | ~111 |
 | He Can Spin A Yarn... | 29.00% | ~107 |
+| Newton | 27.00% | ~100 |
 | Time Flies | 26.00% | ~96 |
-| Newton | 26.00% | ~96 |
 | Kind of a Big Deal | 25.00% | ~92 |
 | Santa In Training | 24.00% | ~89 |
 | Just What I Always Wanted! | 24.00% | ~89 |
+| Sandrunning Speedster | 24.00% | ~89 |
 | Do Your Part | 24.00% | ~89 |
-| Sandrunning Speedster | 23.00% | ~85 |
 | It Belongs in a Museum! | 23.00% | ~85 |
 | Pro Gamer | 20.00% | ~74 |
 | Cardistry | 19.00% | ~70 |

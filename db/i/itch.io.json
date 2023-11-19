@@ -4,7 +4,7 @@
   "ProductSlug": "itch-io",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.5629637+00:00",
   "LastChanged": "2023-03-31T05:58:13.5629638+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:13.6544203+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:57:45.5798432+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:07:33.4903114+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:57:31.8286969+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:07:48.9570966+00:00"
 }

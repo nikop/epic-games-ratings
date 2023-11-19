@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5571,
+  "EOS_Progressed": 5574,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3721,6 +3721,11 @@
       "Time": "2023-11-19T08:09:20.6580035+00:00",
       "NumProgressed": 5571,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T09:08:51.73726+00:00",
+      "NumProgressed": 5574,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3773,7 +3778,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Eavesdropper",
@@ -3805,7 +3810,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3925,7 +3930,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "TheQuarterback",
@@ -3965,7 +3970,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -4004,7 +4009,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5571,
+      "Progressed": 5574,
       "Completed": 7
     }
   ],
@@ -4012,8 +4017,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:09:20.6580033+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:08:51.7372597+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:57:37.3181962+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:09:20.6580401+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:57:25.1637648+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:08:51.7372901+00:00"
 }

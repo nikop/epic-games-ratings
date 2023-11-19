@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6613,10 +6613,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11532,
       "NumberOfAwardsMax": 7552
+    },
+    {
+      "Time": "2023-11-19T08:59:48.2082384+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11535,
+      "NumberOfAwardsMax": 7552
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11532,
+  "NumberOfAwards": 11535,
   "NumberOfAwardsMax": 7552,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6648,7 +6654,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 461
+      "Count": 464
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6675,10 +6681,10 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 720620,
-  "EOS_Completed": 2411,
-  "EOS_NewPlayers": 3536,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 720642,
+  "EOS_Completed": 2412,
+  "EOS_NewPlayers": 3547,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -31000,6 +31006,11 @@
       "Time": "2023-11-19T08:03:06.3579001+00:00",
       "NumProgressed": 720620,
       "NumCompleted": 2411
+    },
+    {
+      "Time": "2023-11-19T09:03:07.4722584+00:00",
+      "NumProgressed": 720642,
+      "NumCompleted": 2412
     }
   ],
   "TotalAchievements": 51,
@@ -31083,7 +31094,7 @@
       "Name": "On Safari",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ach_defensive",
@@ -31187,7 +31198,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ach_investigator",
@@ -31203,7 +31214,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ach_knock_down",
@@ -31315,7 +31326,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ach_thesacrifice",
@@ -31339,7 +31350,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -31355,7 +31366,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "ach_well_trained",
@@ -31371,7 +31382,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ach_dark_magic",
@@ -31379,7 +31390,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ach_gardening_tools",
@@ -31395,7 +31406,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31411,29 +31422,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720620,
-      "Completed": 2411
+      "Progressed": 720642,
+      "Completed": 2412
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46162,
+      "Progressed": 46184,
       "Completed": 36565
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-19T04:00:39.0987772+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:03:06.3578997+00:00",
+  "LastChanged": "2023-11-19T08:59:48.2082382+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:03:07.4722582+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:00:36.5657403+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:03:06.3581172+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:59:48.2082387+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:03:07.4724426+00:00"
 }

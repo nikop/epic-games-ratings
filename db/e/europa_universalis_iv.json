@@ -12187,10 +12187,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 58169,
       "NumberOfAwardsMax": 7061
+    },
+    {
+      "Time": "2023-11-19T08:59:36.4257788+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58191,
+      "NumberOfAwardsMax": 7061
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58169,
+  "NumberOfAwards": 58191,
   "NumberOfAwardsMax": 7061,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12216,7 +12222,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6658
+      "Count": 6680
     },
     {
       "Text": "This game is Educational",
@@ -12261,9 +12267,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459005,
+  "EOS_Progressed": 459027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5654,
+  "EOS_NewPlayers": 5630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36636,6 +36642,11 @@
       "Time": "2023-11-19T08:06:36.9045839+00:00",
       "NumProgressed": 459005,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T09:06:02.5851713+00:00",
+      "NumProgressed": 459027,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38461,9 +38472,9 @@
       "ID": "achievement_prester_john",
       "SetID": "8p2n7he",
       "Name": "Prester John",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_prince_of_egypt",
@@ -39550,21 +39561,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459005,
+      "Progressed": 459027,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459005,
+      "Progressed": 459027,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-19T02:59:05.3024276+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:06:36.9045836+00:00",
+  "LastChanged": "2023-11-19T08:59:36.4257785+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:06:02.5851711+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:00:22.411139+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:06:36.9056422+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:59:36.4257792+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:06:02.586173+00:00"
 }

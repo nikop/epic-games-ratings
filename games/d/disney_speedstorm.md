@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~30,315 |
-| IT MAKES BOOM! | 6.00% | ~18,189 |
-| EXTRA BOOST | 5.00% | ~15,158 |
-| PROTECTED | 4.00% | ~12,126 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,095 |
-| AGGRESSIVE RACER | 3.00% | ~9,095 |
-| PRO | 3.00% | ~9,095 |
-| A TIGER'S FEAR | 2.00% | ~6,063 |
+| ROOKIE | 10.00% | ~30,319 |
+| IT MAKES BOOM! | 6.00% | ~18,191 |
+| EXTRA BOOST | 5.00% | ~15,160 |
+| PROTECTED | 4.00% | ~12,128 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,096 |
+| AGGRESSIVE RACER | 3.00% | ~9,096 |
+| PRO | 3.00% | ~9,096 |
+| A TIGER'S FEAR | 2.00% | ~6,064 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,032 |
 | ACE SPEEDSTER | 1.00% | ~3,032 |
-| RELEASE THE KRAKEN | 0.90% | ~2,728 |
-| BE OUR GUEST | 0.80% | ~2,425 |
-| FRIENDLY | 0.80% | ~2,425 |
-| MASTER | 0.80% | ~2,425 |
-| LEGENDARY HERO | 0.80% | ~2,425 |
+| RELEASE THE KRAKEN | 0.90% | ~2,729 |
+| BE OUR GUEST | 0.80% | ~2,426 |
+| FRIENDLY | 0.80% | ~2,426 |
+| MASTER | 0.80% | ~2,426 |
+| LEGENDARY HERO | 0.80% | ~2,426 |
 | TRAINING HARD | 0.70% | ~2,122 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,122 |
 | EXPERIENCED CREW | 0.60% | ~1,819 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,819 |
 | ACE BRAWLER | 0.40% | ~1,213 |
 | ACE DEFENDER | 0.40% | ~1,213 |
-| FRAMED! | 0.30% | ~909 |
-| ACE TRICKSTER | 0.30% | ~909 |
+| FRAMED! | 0.30% | ~910 |
+| ACE TRICKSTER | 0.30% | ~910 |
 | PERFECTLY POISED | 0.20% | ~606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,153 (Ranked 52)  
+Progressed: 303,191 (Ranked 52)  
 Completed: 306 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 306 (0.10%) (Ranked 279)
 | 2023-11-16 | 298,870 | 286 |
 | 2023-11-17 | 300,625 | 296 |
 | 2023-11-18 | 302,536 | 303 |
-| 2023-11-19 | 303,153 | 306 |
+| 2023-11-19 | 303,191 | 306 |
 ## Awards
 Max (Great for Beginners): 74  (Ranked 396)  
-Sum: 575 (Ranked 314)  
+Sum: 576 (Ranked 314)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
@@ -255,7 +255,7 @@ Diff (max vs sum): 82
 | This game has Playful Visuals | 43 |
 | This game has a Competitive Community | 42 |
 | This game has Amazing Storytelling | 39 |
-| This game is Extremely Fun | 38 |
+| This game is Extremely Fun | 39 |
 | This game has Quickly Understood Controls | 36 |
 | This game is Relaxing | 34 |
 ## Ratings History
@@ -310,4 +310,4 @@ Diff (max vs sum): 82
 | 2023-11-16 | 4.39 | 72 | 555 |
 | 2023-11-17 | 4.39 | 72 | 567 |
 | 2023-11-18 | 4.39 | 74 | 573 |
-| 2023-11-19 | 4.39 | 74 | 575 |
+| 2023-11-19 | 4.39 | 74 | 576 |

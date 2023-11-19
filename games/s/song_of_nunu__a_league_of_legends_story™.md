@@ -8,8 +8,8 @@
 | I Broke It | 74.00% | ~548 |
 | Better On Ice | 71.00% | ~525 |
 | Notai Notes | 71.00% | ~525 |
+| He's Famous! | 70.00% | ~518 |
 | Blue Dreams | 69.00% | ~511 |
-| He's Famous! | 69.00% | ~511 |
 | Cutie Poro | 68.00% | ~503 |
 | Krugmazing | 67.00% | ~496 |
 | The Fire Below the Mountain | 65.00% | ~481 |
@@ -20,15 +20,15 @@
 | Tear of Freedom | 55.00% | ~407 |
 | My Darkest Day | 51.00% | ~377 |
 | Rhythm Of Willump | 49.00% | ~363 |
-| The Relentless Storm | 48.00% | ~355 |
+| The Relentless Storm | 49.00% | ~363 |
 | A Tragic Reminder | 46.00% | ~340 |
 | 3000 Year Blackout | 46.00% | ~340 |
 | The Finisher | 44.00% | ~326 |
 | So Close | 42.00% | ~311 |
 | You Get Used To It | 42.00% | ~311 |
-| True Legends | 41.00% | ~303 |
+| True Legends | 42.00% | ~311 |
+| Bullseye | 39.00% | ~289 |
 | Boosted! | 39.00% | ~289 |
-| Bullseye | 38.00% | ~281 |
 | Family | 37.00% | ~274 |
 | Biggest Snowball Ever | 37.00% | ~274 |
 | Freeze The Ice Witch | 37.00% | ~274 |
@@ -36,7 +36,7 @@
 | Deadliest and Biggest Snowball Ever! | 37.00% | ~274 |
 | It Is Not Over | 35.00% | ~259 |
 | Never Gets Old | 34.00% | ~252 |
-| Snowy Poro | 32.00% | ~237 |
+| Snowy Poro | 33.00% | ~244 |
 | Vertical Power | 29.00% | ~215 |
 | One From The Heart | 14.00% | ~104 |
 | Yummy | 12.00% | ~89 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1023,
+  "EOS_Progressed": 1024,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2614,6 +2614,11 @@
       "Time": "2023-11-18T18:10:05.4802377+00:00",
       "NumProgressed": 1023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T09:08:55.4015992+00:00",
+      "NumProgressed": 1024,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2625,7 +2630,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2633,7 +2638,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2665,7 +2670,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2745,7 +2750,7 @@
       "Name": "Burnt Smell",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2841,7 +2846,7 @@
       "Name": "Fire Alarm",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -2905,7 +2910,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2999,9 +3004,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 256
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3152,14 +3157,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1023,
+      "Progressed": 1024,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:09:24.9526135+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:08:55.4015989+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:02.0177367+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:58:32.8539008+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:09:24.9526677+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:58:09.8334619+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:08:55.4016684+00:00"
 }

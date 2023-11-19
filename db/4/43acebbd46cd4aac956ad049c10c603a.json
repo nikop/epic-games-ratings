@@ -1126,9 +1126,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "PrometheusUnbound",
@@ -1150,9 +1150,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "RenaissanceRobot",
@@ -1318,9 +1318,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "YourBiggestFan",
@@ -1343,8 +1343,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:07:07.005248+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:06:26.6437037+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:57:33.3657381+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:07:07.0052937+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:57:21.9831646+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:06:26.6437403+00:00"
 }

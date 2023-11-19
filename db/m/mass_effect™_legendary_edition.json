@@ -4136,9 +4136,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 702
+      "UsersEstimate": 716
     },
     {
       "ID": "achievement_40",
@@ -4676,8 +4676,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-19T08:07:03.301687+00:00",
+  "LastChanged_Achievements": "2023-11-19T09:06:23.8923839+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:02:49.9234114+00:00",
-  "LastUpdate_Achievements": "2023-11-19T08:07:03.3018388+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:02:53.9363281+00:00",
+  "LastUpdate_Achievements": "2023-11-19T09:06:23.8925312+00:00"
 }
