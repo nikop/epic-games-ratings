@@ -16,7 +16,7 @@
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,230 | 4.49 | 605 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 36,195 | 4.51 | 568 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,197 | 4.64 | 332 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,407 | 4.76 | 126 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,447 | 4.76 | 126 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,860 | 4.53 | 539 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,105 | 4.26 | 868 |
 | 20 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 20,756 | 4.74 | 158 |
@@ -87,7 +87,7 @@
 | 85 | [Trackmania](games/t/trackmania.md) | 3,971 | 4.66 | 294 |
 | 86 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,855 | 4.27 | 861 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,839 | 4.68 | 252 |
-| 88 | [Paladins](games/p/paladins.md) | 3,824 | 4.32 | 822 |
+| 88 | [Paladins](games/p/paladins.md) | 3,828 | 4.32 | 822 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,723 | 4.46 | 646 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,579 | 4.47 | 635 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,386 | 4.76 | 126 |
@@ -232,7 +232,7 @@
 | 230 | [Nuclear Throne](games/n/nuclear_throne.md) | 400 | 4.79 | 95 |
 | 231 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 396 | 4.56 | 489 |
 | 231 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 365 |
-| 233 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 389 | 4.61 | 386 |
+| 233 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 390 | 4.61 | 386 |
 | 234 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 375 | 3.99 | 1,000 |
 | 235 | [Dungeons 3](games/d/dungeons_3.md) | 374 | 4.66 | 294 |
 | 236 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 373 | 4.59 | 431 |
@@ -328,11 +328,11 @@
 | 326 | [Alien: Isolation](games/a/alien__isolation.md) | 135 | 4.61 | 386 |
 | 327 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 132 | 4.72 | 186 |
 | 328 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 128 | 4.51 | 568 |
+| 328 | [Aven Colony](games/a/aven_colony.md) | 128 | 4.20 | 911 |
 | 328 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 128 | 4.52 | 554 |
 | 328 | [Sonic Origins](games/s/sonic_origins.md) | 128 | 4.58 | 445 |
-| 331 | [Aven Colony](games/a/aven_colony.md) | 127 | 4.20 | 911 |
-| 331 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 127 | 4.29 | 843 |
-| 331 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 127 | 4.41 | 720 |
+| 332 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 127 | 4.29 | 843 |
+| 332 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 127 | 4.41 | 720 |
 | 334 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 126 | 4.21 | 903 |
 | 334 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 126 | 4.37 | 772 |
 | 336 | [Going Medieval](games/g/going_medieval.md) | 125 | 4.60 | 414 |
@@ -511,15 +511,15 @@
 | 508 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 489 |
 | 508 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 504 |
 | 508 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 232 |
+| 512 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 26 | 4.48 | 622 |
 | 512 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 781 |
 | 512 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 86 |
 | 512 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 26 | 4.61 | 386 |
 | 512 | [Tunche](games/t/tunche.md) | 26 | 4.46 | 646 |
-| 516 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.54 | 523 |
-| 516 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 25 | 4.15 | 945 |
-| 516 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 25 | 4.48 | 622 |
-| 516 | [Sable](games/s/sable.md) | 25 | 4.53 | 539 |
-| 516 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 25 | 4.45 | 659 |
+| 517 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.54 | 523 |
+| 517 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 25 | 4.15 | 945 |
+| 517 | [Sable](games/s/sable.md) | 25 | 4.53 | 539 |
+| 517 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 25 | 4.45 | 659 |
 | 521 | [ELEX](games/e/elex.md) | 24 | 4.47 | 635 |
 | 521 | [Fez](games/f/fez.md) | 24 | 4.73 | 173 |
 | 521 | [MotoGP™21](games/m/motogp™21.md) | 24 | 4.56 | 489 |
