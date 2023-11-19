@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -913,7 +913,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6572,
+  "EOS_Progressed": 6574,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -10158,6 +10158,11 @@
       "Time": "2023-11-19T10:03:21.4016225+00:00",
       "NumProgressed": 6572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T13:06:35.1401258+00:00",
+      "NumProgressed": 6574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10239,9 +10244,9 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -10488,13 +10493,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6572,
+      "Progressed": 6574,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5944,
+      "Progressed": 5946,
       "Completed": 113
     }
   ],
@@ -10502,8 +10507,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-17T16:57:26.9437298+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:03:34.7270689+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:06:35.1401254+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:58:25.4976742+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:03:34.7271363+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:01:09.5937429+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:06:35.1401799+00:00"
 }

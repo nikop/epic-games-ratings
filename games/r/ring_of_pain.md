@@ -57,6 +57,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.20% | ~480 |
 | Spreading Plague | 0.20% | ~480 |
 | Acid Bath | 0.20% | ~480 |
+| Antivenom | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
 | Shadow Walker | 0.20% | ~480 |
 | Flesh Wound | 0.20% | ~480 |
@@ -109,7 +110,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Good Boys | 0.10% | ~240 |
 | Just Looking Around | 0.10% | ~240 |
 | Need An Antidote? | 0.10% | ~240 |
-| Antivenom | 0.10% | ~240 |
 | Decisions, Decisions | 0.10% | ~240 |
 | Fragile Mortality | 0.10% | ~240 |
 | Snake Sneak | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,924 (Ranked 62)  
+Progressed: 239,926 (Ranked 62)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
 | 2023-11-18 | 239,893 | 288 |
-| 2023-11-19 | 239,924 | 288 |
+| 2023-11-19 | 239,926 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,684 (Ranked 83)  

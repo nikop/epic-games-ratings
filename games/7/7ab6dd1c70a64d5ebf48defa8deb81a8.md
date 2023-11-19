@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 7.00% | ~14 |
+| Trinity | 8.00% | ~16 |
 | I Found It | 6.00% | ~12 |
 | Adventurer | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |

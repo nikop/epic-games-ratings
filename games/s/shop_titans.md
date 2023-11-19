@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 5.00% | ~7,028 |
 | Titan's First Steps | 5.00% | ~7,028 |
-| Basic in Bulk | 4.00% | ~5,622 |
-| Tinkle of Coins | 4.00% | ~5,622 |
+| Basic in Bulk | 4.00% | ~5,623 |
+| Tinkle of Coins | 4.00% | ~5,623 |
 | Disintermediation | 3.00% | ~4,217 |
 | Another Satisfied Customer | 3.00% | ~4,217 |
 | It's Free Real Estate | 3.00% | ~4,217 |
@@ -66,26 +66,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,265 |
 | Special Ingredient | 0.90% | ~1,265 |
 | Complete Monopoly | 0.90% | ~1,265 |
-| Cream of the Crop | 0.80% | ~1,124 |
-| Proud Paladin | 0.80% | ~1,124 |
-| Above the Norm | 0.80% | ~1,124 |
-| A Ronin Reborn | 0.80% | ~1,124 |
-| Omae wa Mou Shindeiru | 0.80% | ~1,124 |
-| Master of Transmutation | 0.80% | ~1,124 |
-| Supercharged | 0.80% | ~1,124 |
-| Fit for a King | 0.80% | ~1,124 |
-| By Your Powers Combined... | 0.80% | ~1,124 |
-| Wealth Beyond Measure | 0.80% | ~1,124 |
-| Fat Cat Tag Team | 0.80% | ~1,124 |
-| Necromancer Queen | 0.80% | ~1,124 |
-| Item of Renown | 0.80% | ~1,124 |
-| Master Merchant | 0.80% | ~1,124 |
-| Attrition Mission | 0.80% | ~1,124 |
-| Glittering Collection | 0.80% | ~1,124 |
-| Treasure Trove | 0.80% | ~1,124 |
-| Master Recycler | 0.80% | ~1,124 |
-| Exotic Commodities | 0.80% | ~1,124 |
-| King's Blade | 0.80% | ~1,124 |
+| Cream of the Crop | 0.80% | ~1,125 |
+| Proud Paladin | 0.80% | ~1,125 |
+| Above the Norm | 0.80% | ~1,125 |
+| A Ronin Reborn | 0.80% | ~1,125 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,125 |
+| Master of Transmutation | 0.80% | ~1,125 |
+| Supercharged | 0.80% | ~1,125 |
+| Fit for a King | 0.80% | ~1,125 |
+| By Your Powers Combined... | 0.80% | ~1,125 |
+| Wealth Beyond Measure | 0.80% | ~1,125 |
+| Fat Cat Tag Team | 0.80% | ~1,125 |
+| Necromancer Queen | 0.80% | ~1,125 |
+| Item of Renown | 0.80% | ~1,125 |
+| Master Merchant | 0.80% | ~1,125 |
+| Attrition Mission | 0.80% | ~1,125 |
+| Glittering Collection | 0.80% | ~1,125 |
+| Treasure Trove | 0.80% | ~1,125 |
+| Master Recycler | 0.80% | ~1,125 |
+| Exotic Commodities | 0.80% | ~1,125 |
+| King's Blade | 0.80% | ~1,125 |
 | Top of the World | 0.70% | ~984 |
 | Constellated | 0.70% | ~984 |
 | Thirst for Knowledge | 0.70% | ~984 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,558 (Ranked 80)  
+Progressed: 140,564 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
-| 2023-11-19 | 140,558 | 187 |
+| 2023-11-19 | 140,564 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
-Sum: 27,563 (Ranked 50)  
+Sum: 27,564 (Ranked 50)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): 24
 | This game has Quickly Understood Controls | 4,030 |
 | This game has Diverse Characters | 3,942 |
 | This game is Highly Recommended | 3,783 |
-| This game has Easy Combat | 3,725 |
+| This game has Easy Combat | 3,726 |
 | This game has Playful Visuals | 3,207 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -643,3 +643,4 @@ Diff (max vs sum): 24
 | 2023-11-16 | 3.99 | - | 4,832 | 27,556 |
 | 2023-11-17 | 3.99 | - | 4,832 | 27,561 |
 | 2023-11-18 | 3.99 | - | 4,834 | 27,563 |
+| 2023-11-19 | 3.99 | - | 4,834 | 27,564 |

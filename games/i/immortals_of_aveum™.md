@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.08 (Ranked 970)  
+Rating: 4.09 (Ranked 966)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,7 +36,7 @@ Rating: 4.08 (Ranked 970)
 | Armaments Gules | 6.00% | ~17 |
 | Scholar | 5.00% | ~14 |
 | Kitted Out | 5.00% | ~14 |
-| Armaments Vert | 4.00% | ~11 |
+| Armaments Vert | 5.00% | ~14 |
 | Veteran | 4.00% | ~11 |
 | Master of Carmine | 2.00% | ~6 |
 | Shroudfane Surveyor | 2.00% | ~6 |
@@ -53,7 +53,7 @@ Rating: 4.08 (Ranked 970)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281 (Ranked 353)  
+Progressed: 281 (Ranked 354)  
 Completed: 1 (0.36%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,3 +133,4 @@ Completed: 1 (0.36%) (Ranked 222)
 | 2023-11-12 | 4.04 | 0 | 0 |
 | 2023-11-13 | 4.06 | 0 | 0 |
 | 2023-11-17 | 4.08 | 0 | 0 |
+| 2023-11-19 | 4.09 | 0 | 0 |

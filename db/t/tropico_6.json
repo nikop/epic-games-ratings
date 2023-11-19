@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1377,9 +1377,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6060,
+  "EOS_Progressed": 6061,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13157,6 +13157,11 @@
       "Time": "2023-11-19T09:09:13.9875462+00:00",
       "NumProgressed": 6060,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-19T13:12:05.0772928+00:00",
+      "NumProgressed": 6061,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13288,7 +13293,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -13328,7 +13333,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4545
+      "UsersEstimate": 4546
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13352,7 +13357,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -13440,7 +13445,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -13487,15 +13492,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6060,
+      "Progressed": 6061,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-18T15:58:17.4255502+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:09:10.644124+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:12:05.0772925+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.3230973+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:58:14.3711392+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:09:10.6441822+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:00:58.4019231+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:12:05.0773525+00:00"
 }

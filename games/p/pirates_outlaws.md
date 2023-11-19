@@ -129,7 +129,7 @@
 | Champion: Admiral | 0.00% | ~0 |
 | Champion: Carpenter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 450)  
+Progressed: 78 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |

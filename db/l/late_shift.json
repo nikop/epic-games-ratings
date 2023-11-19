@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -1525,6 +1525,11 @@
       "Time": "2023-11-18T16:09:06.0947313+00:00",
       "NumProgressed": 661,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-19T13:11:05.8453652+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1536,7 +1541,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1584,7 +1589,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ENDING_6",
@@ -1624,7 +1629,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "GOOD_KARMA",
@@ -1664,7 +1669,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "SABOTAGE",
@@ -1686,16 +1691,16 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 311
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 9
     }
   ],
@@ -1703,8 +1708,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:08:11.8486333+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:11:05.8453649+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:19.5323392+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:57:20.7950915+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:08:11.8486518+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:00:04.5940526+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:11:05.8453939+00:00"
 }

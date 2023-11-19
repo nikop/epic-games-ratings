@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7049,10 +7049,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27563,
       "NumberOfAwardsMax": 4834
+    },
+    {
+      "Time": "2023-11-19T13:03:11.4457057+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27564,
+      "NumberOfAwardsMax": 4834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27563,
+  "NumberOfAwards": 27564,
   "NumberOfAwardsMax": 4834,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7078,7 +7084,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3725
+      "Count": 3726
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7105,9 +7111,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140558,
+  "EOS_Progressed": 140564,
   "EOS_Completed": 187,
-  "EOS_NewPlayers": 1057,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29010,6 +29016,11 @@
       "Time": "2023-11-19T12:04:40.2737087+00:00",
       "NumProgressed": 140558,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-19T13:07:42.6431716+00:00",
+      "NumProgressed": 140564,
+      "NumCompleted": 187
     }
   ],
   "TotalAchievements": 112,
@@ -29045,7 +29056,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "advlevel05",
@@ -29061,7 +29072,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ascend01",
@@ -29077,7 +29088,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ascend03",
@@ -29093,7 +29104,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "bigsale01",
@@ -29253,7 +29264,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "commonres02",
@@ -29341,7 +29352,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "donovan_a",
@@ -29349,7 +29360,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "enchant01",
@@ -29389,7 +29400,7 @@
       "Name": "Supercharged",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "expansion01",
@@ -29445,7 +29456,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "fuseepic",
@@ -29453,7 +29464,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "fuseflawless",
@@ -29493,7 +29504,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "gold02",
@@ -29533,7 +29544,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "help01",
@@ -29549,7 +29560,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "help03",
@@ -29565,7 +29576,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "jackslot01",
@@ -29597,7 +29608,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "level01",
@@ -29621,7 +29632,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "level04",
@@ -29741,7 +29752,7 @@
       "Name": "Attrition Mission",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "quest03",
@@ -29765,7 +29776,7 @@
       "Name": "Glittering Collection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "rareres02",
@@ -29773,7 +29784,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "rareres03",
@@ -29829,7 +29840,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "tutorial",
@@ -29869,7 +29880,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "uncommonres03",
@@ -29909,22 +29920,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140558,
+      "Progressed": 140564,
       "Completed": 187
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-18T07:59:25.41898+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:04:40.2737084+00:00",
+  "LastChanged": "2023-11-19T13:03:11.4457055+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:07:42.6431665+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-19T12:00:23.3597916+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:04:40.273886+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:03:11.4457061+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:07:42.6434152+00:00"
 }

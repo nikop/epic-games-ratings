@@ -15312,10 +15312,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 356926,
       "NumberOfAwardsMax": 106055
+    },
+    {
+      "Time": "2023-11-19T13:01:53.7245227+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 357018,
+      "NumberOfAwardsMax": 106055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 356926,
+  "NumberOfAwards": 357018,
   "NumberOfAwardsMax": 106055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15377,7 +15383,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 19696
+      "Count": 19788
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15392,10 +15398,10 @@
       "Count": 13195
     }
   ],
-  "EOS_Progressed": 897343,
+  "EOS_Progressed": 897354,
   "EOS_Completed": 2787,
-  "EOS_NewPlayers": 987,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 990,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -39537,6 +39543,11 @@
       "Time": "2023-11-19T12:03:40.1054223+00:00",
       "NumProgressed": 897343,
       "NumCompleted": 2787
+    },
+    {
+      "Time": "2023-11-19T13:06:40.643449+00:00",
+      "NumProgressed": 897354,
+      "NumCompleted": 2787
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39579,9 +39590,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6281
+      "UsersEstimate": 7179
     },
     {
       "ID": "FollowingTheRiver",
@@ -40084,21 +40095,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897343,
+      "Progressed": 897354,
       "Completed": 2787
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25966,
+      "Progressed": 25977,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-19T11:59:08.0539833+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:03:40.1054219+00:00",
+  "LastChanged": "2023-11-19T13:01:53.7245225+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:06:40.6434484+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:59:08.053984+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:03:40.1055514+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:01:53.7245231+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:06:40.6435746+00:00"
 }

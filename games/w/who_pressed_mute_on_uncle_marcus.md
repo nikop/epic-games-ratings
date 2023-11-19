@@ -16,7 +16,7 @@
 | I bless the rain down in London | 33.00% | ~75 |
 | Delusions | 30.00% | ~68 |
 | Brown nosing | 29.00% | ~66 |
-| Cheat | 28.00% | ~64 |
+| Cheat | 29.00% | ~66 |
 | Prove it | 28.00% | ~64 |
 | The truth | 28.00% | ~64 |
 | Making a murderer | 20.00% | ~45 |

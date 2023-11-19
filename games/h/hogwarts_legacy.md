@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,382 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,383 |
 | First Class Student | 14.00% | ~42,335 |
 | Troll with the Punches | 14.00% | ~42,335 |
 | A Keen Sense of Spell | 13.00% | ~39,311 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 126)
 | Beast Friends | 8.00% | ~24,191 |
 | A Sallow Grave | 8.00% | ~24,191 |
 | Flight the Good Flight | 8.00% | ~24,191 |
-| The Seeker of Knowledge | 6.00% | ~18,143 |
-| The Root of the Problem | 6.00% | ~18,143 |
-| Third Time's a Charm | 6.00% | ~18,143 |
-| Raising Expectations | 6.00% | ~18,143 |
+| The Seeker of Knowledge | 6.00% | ~18,144 |
+| The Root of the Problem | 6.00% | ~18,144 |
+| Third Time's a Charm | 6.00% | ~18,144 |
+| Raising Expectations | 6.00% | ~18,144 |
 | The Toast of the Town | 5.00% | ~15,120 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,120 |
 | The Ends Petrify the Means | 5.00% | ~15,120 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,390 (Ranked 53)  
+Progressed: 302,393 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,15 +264,15 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
-| 2023-11-19 | 302,390 | 512 |
+| 2023-11-19 | 302,393 | 512 |
 ## Awards
 Max (Character Customization): 24,447  (Ranked 17)  
-Sum: 48,542 (Ranked 30)  
+Sum: 48,569 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,447 |
-| This game has Great Boss Battles | 12,398 |
+| This game has Great Boss Battles | 12,425 |
 | This game is Great for Beginners | 1,325 |
 | This game has Amazing Storytelling | 1,270 |
 | This game has Diverse Characters | 1,269 |
@@ -526,4 +526,4 @@ Diff (max vs sum): -13
 | 2023-11-16 | 4.76 | 24,339 | 48,302 |
 | 2023-11-17 | 4.76 | 24,370 | 48,391 |
 | 2023-11-18 | 4.76 | 24,407 | 48,496 |
-| 2023-11-19 | 4.76 | 24,447 | 48,542 |
+| 2023-11-19 | 4.76 | 24,447 | 48,569 |

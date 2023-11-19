@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -415,6 +415,11 @@
       "Time": "2023-11-18T15:03:48.1914624+00:00",
       "NumProgressed": 167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T13:07:03.925289+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -450,7 +455,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -570,7 +575,7 @@
       "Name": "Demolition expert",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "1006_achv_dropball",
@@ -610,7 +615,7 @@
       "Name": "I didn\u0027t do it!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "2002_achv_feedfish",
@@ -626,7 +631,7 @@
       "Name": "Haute cuisine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "2004_achv_abyss",
@@ -648,9 +653,9 @@
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "2008_achv_bubble",
@@ -714,15 +719,15 @@
       "Name": "Fastidious Clown",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "3005_achv_getting_rich",
@@ -746,7 +751,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "3014_achv_shootgate",
@@ -778,7 +783,7 @@
       "Name": "Home is where the heart is",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "4004_achv_mirror",
@@ -793,7 +798,7 @@
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 0
     }
   ],
@@ -801,8 +806,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:04:02.5789329+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:07:03.9252885+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:52.5784008+00:00",
-  "LastUpdate_Ratings": "2023-11-19T12:00:04.5292013+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:04:02.5789584+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:02:52.2140453+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:07:03.9253219+00:00"
 }

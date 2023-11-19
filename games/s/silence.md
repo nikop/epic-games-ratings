@@ -6,27 +6,27 @@
 | ---- | ---------- | ----- |
 | Chapter I | 50.00% | ~84 |
 | Fire in the... nevermind | 50.00% | ~84 |
-| Haute cuisine | 45.00% | ~75 |
-| Demolition expert | 39.00% | ~65 |
-| I didn't do it! | 39.00% | ~65 |
+| Haute cuisine | 45.00% | ~76 |
+| Demolition expert | 39.00% | ~66 |
+| I didn't do it! | 39.00% | ~66 |
 | Keep away from children | 36.00% | ~60 |
 | Open up wide | 34.00% | ~57 |
 | Wooooooow! | 34.00% | ~57 |
 | Artistic fool | 33.00% | ~55 |
 | Let the boot talk | 30.00% | ~50 |
 | Shadow on the wall | 30.00% | ~50 |
-| Chapter II | 25.00% | ~42 |
+| Chapter II | 24.00% | ~40 |
 | Handyman | 22.00% | ~37 |
 | Bubblekillerfamily | 22.00% | ~37 |
-| Achoo!! | 22.00% | ~37 |
 | Chapter III | 22.00% | ~37 |
 | Like a moth in the Wind | 22.00% | ~37 |
-| Quite a buggy game | 20.00% | ~33 |
+| Achoo!! | 21.00% | ~35 |
+| Quite a buggy game | 20.00% | ~34 |
 | Pacifist | 19.00% | ~32 |
 | Mirror mirror on the wall... | 19.00% | ~32 |
-| Fastidious Clown | 17.00% | ~28 |
-| It's not easy being green! | 17.00% | ~28 |
-| Home is where the heart is | 17.00% | ~28 |
+| Fastidious Clown | 17.00% | ~29 |
+| It's not easy being green! | 17.00% | ~29 |
+| Home is where the heart is | 17.00% | ~29 |
 | Master of Thermodynamics | 13.00% | ~22 |
 | Death is a part of life | 13.00% | ~22 |
 | To err is human... | 12.00% | ~20 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 392)  
+Progressed: 168 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 163 | 0 |
 | 2023-11-17 | 165 | 0 |
 | 2023-11-18 | 167 | 0 |
+| 2023-11-19 | 168 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12199,11 +12199,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 58212,
       "NumberOfAwardsMax": 7061
+    },
+    {
+      "Time": "2023-11-19T13:02:30.1451828+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58247,
+      "NumberOfAwardsMax": 7073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58212,
-  "NumberOfAwardsMax": 7061,
+  "NumberOfAwards": 58247,
+  "NumberOfAwardsMax": 7073,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -12222,7 +12228,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6805
+      "Count": 6828
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12234,7 +12240,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7061
+      "Count": 7073
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12273,9 +12279,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459143,
+  "EOS_Progressed": 459192,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5561,
+  "EOS_NewPlayers": 5538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36668,6 +36674,11 @@
       "Time": "2023-11-19T12:05:42.7734959+00:00",
       "NumProgressed": 459143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T13:08:46.8418508+00:00",
+      "NumProgressed": 459192,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38189,9 +38200,9 @@
       "ID": "achievement_mary_of_lotharingia",
       "SetID": "8p2n7he",
       "Name": "Mary of Lotharingia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_mass_production",
@@ -39582,21 +39593,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459143,
+      "Progressed": 459192,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459143,
+      "Progressed": 459192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-19T11:59:43.0495243+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:05:42.7734956+00:00",
+  "LastChanged": "2023-11-19T13:02:30.1451827+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:08:46.8418504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:59:43.0495251+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:05:42.7744941+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:02:30.1451833+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:08:46.8430635+00:00"
 }

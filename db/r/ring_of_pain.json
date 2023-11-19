@@ -3430,9 +3430,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 239924,
+  "EOS_Progressed": 239926,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25510,6 +25510,11 @@
       "Time": "2023-11-19T12:09:13.506451+00:00",
       "NumProgressed": 239924,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-19T13:12:08.0594733+00:00",
+      "NumProgressed": 239926,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -26223,9 +26228,9 @@
       "ID": "POISONSNAKE",
       "SetID": "5l8oe0h",
       "Name": "Antivenom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 480
     },
     {
       "ID": "REROLL30TIMES",
@@ -26624,13 +26629,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239924,
+      "Progressed": 239926,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1404,
+      "Progressed": 1406,
       "Completed": 382
     }
   ],
@@ -26638,8 +26643,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-19T10:59:39.8368487+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:09:13.5064508+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:12:08.059473+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:59:04.8458711+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:09:13.5066703+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:01:50.7135659+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:12:08.0597403+00:00"
 }

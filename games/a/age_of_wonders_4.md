@@ -27,12 +27,12 @@ Rating: 4.61 (Ranked 386)
 | Seal the Deal | 0.80% | ~43 |
 | Enchanted Archipelago | 0.70% | ~38 |
 | Digging for Treasure | 0.70% | ~38 |
+| My Final Form | 0.70% | ~38 |
 | Impenetrable Fortress | 0.70% | ~38 |
 | Here be Dragons | 0.70% | ~38 |
 | Tipping the Scales | 0.70% | ~38 |
 | Dawn of the Dread | 0.70% | ~38 |
 | Return of the Wizard King | 0.60% | ~32 |
-| My Final Form | 0.60% | ~32 |
 | Fiery Friend | 0.60% | ~32 |
 | Mighty Hoard | 0.60% | ~32 |
 | Prometheus Avenged | 0.60% | ~32 |

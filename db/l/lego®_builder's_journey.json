@@ -4,7 +4,7 @@
   "ProductSlug": "lego-builders-journey",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-06-22T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.0001664+00:00",
   "LastChanged": "2023-03-31T05:58:30.0001665+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.8555608+00:00",
-  "LastUpdate_Ratings": "2023-11-19T12:00:20.8554683+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:06:03.8474499+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:03:09.0937645+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:09:08.5079266+00:00"
 }

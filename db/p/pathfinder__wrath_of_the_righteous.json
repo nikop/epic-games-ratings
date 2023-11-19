@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4277,7 +4277,7 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12118,
+  "EOS_Progressed": 12119,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -15722,6 +15722,11 @@
       "Time": "2023-11-19T12:08:19.2833237+00:00",
       "NumProgressed": 12118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T13:11:13.2841037+00:00",
+      "NumProgressed": 12119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15757,7 +15762,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -16101,7 +16106,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "49_Flame",
@@ -16660,21 +16665,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10900,
+      "Progressed": 10901,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12118,
+      "Progressed": 12119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-19T03:59:34.5466982+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:08:19.2833235+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:11:13.2841035+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:59:08.7581302+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:08:19.2835461+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:01:54.4778352+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:11:13.2842732+00:00"
 }

@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -695,6 +695,11 @@
       "Time": "2023-11-19T12:09:01.5996002+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T13:11:55.6517483+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -721,9 +726,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_12",
@@ -771,7 +776,7 @@
       "Name": "Your first time?",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_18",
@@ -795,7 +800,7 @@
       "Name": "Team Principal",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_20",
@@ -841,9 +846,9 @@
       "ID": "achievement_25",
       "SetID": "jnappp",
       "Name": "E-stonia",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_26",
@@ -891,7 +896,7 @@
       "Name": "NEW PB!",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_8",
@@ -914,14 +919,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:09:01.5995998+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:11:55.6517475+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:58:28.4072739+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:09:01.5996187+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:01:12.6501696+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:11:55.6517661+00:00"
 }

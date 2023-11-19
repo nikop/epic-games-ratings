@@ -6,17 +6,21 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 23.00% | ~30 |
-| Double Kill | 18.00% | ~23 |
-| Critical Hit | 5.00% | ~6 |
-| Veteran | 5.00% | ~6 |
+| Adept | 24.00% | ~31 |
+| Double Kill | 18.00% | ~24 |
+| Critical Hit | 5.00% | ~7 |
+| Sorcerous Spree | 5.00% | ~7 |
+| Veteran | 5.00% | ~7 |
 | Dressed For Success | 4.00% | ~5 |
-| Sorcerous Spree | 4.00% | ~5 |
+| Master | 2.00% | ~3 |
 | Humiliation | 2.00% | ~3 |
 | Expert Essence Employment | 2.00% | ~3 |
 | Veni, Vidi, Vici | 2.00% | ~3 |
+| The Song of Stoutheart | 0.80% | ~1 |
+| Death To Diplomacy | 0.80% | ~1 |
 | This Spot's Taken | 0.80% | ~1 |
 | Versatile Wielder | 0.80% | ~1 |
+| Unlimited Power! | 0.80% | ~1 |
 | Fully Charged | 0.80% | ~1 |
 | Deepstrike | 0.80% | ~1 |
 | Infernal Influence | 0.80% | ~1 |
@@ -26,16 +30,12 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 0.80% | ~1 |
 | Get Over Here! | 0.80% | ~1 |
 | Trojan Horse | 0.80% | ~1 |
-| Master | 0.80% | ~1 |
 | Venisti, Vidisti, Perdidisti | 0.80% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
-| The Song of Stoutheart | 0.00% | ~0 |
-| Death To Diplomacy | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Hello There | 0.00% | ~0 |
-| Unlimited Power! | 0.00% | ~0 |
 | Coming Through! | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
 | Die by the Staff | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 405)  
+Progressed: 131 (Ranked 405)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
 | 2023-11-18 | 118 | 0 |
-| 2023-11-19 | 130 | 0 |
+| 2023-11-19 | 131 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

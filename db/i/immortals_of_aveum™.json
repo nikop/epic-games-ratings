@@ -2,12 +2,12 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 970,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.08,
+  "Rating": 4.09,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -131,6 +131,12 @@
     {
       "Time": "2023-11-17T21:59:23.4158771+00:00",
       "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-19T13:02:21.5491131+00:00",
+      "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1519,9 +1525,9 @@
       "ID": "achievement_43",
       "SetID": "18al4io",
       "Name": "Armaments Vert",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_44",
@@ -1703,9 +1709,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-11-17T21:59:23.4158769+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:08:19.1916227+00:00",
+  "LastChanged": "2023-11-19T13:02:21.5491129+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:11:13.0939135+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:59:34.814297+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:08:19.1916903+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:02:21.5491137+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:11:13.0939774+00:00"
 }

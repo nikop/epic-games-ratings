@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 587)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,498 |
-| Advancement | 6.00% | ~1,873 |
-| Meticulously Efficient | 6.00% | ~1,873 |
+| Advancement | 6.00% | ~1,874 |
+| Meticulously Efficient | 6.00% | ~1,874 |
 | Discovery | 5.00% | ~1,561 |
 | Solo Capture | 5.00% | ~1,561 |
 | Swift Rift Removers | 5.00% | ~1,561 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,223 (Ranked 124)  
+Progressed: 31,225 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,15 +270,15 @@ Completed: 68 (0.22%) (Ranked 247)
 | 2023-11-16 | 31,073 | 68 |
 | 2023-11-17 | 31,117 | 68 |
 | 2023-11-18 | 31,196 | 68 |
-| 2023-11-19 | 31,223 | 68 |
+| 2023-11-19 | 31,225 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 248)  
-Sum: 2,822 (Ranked 178)  
+Sum: 2,823 (Ranked 178)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 318 |
-| This game is Great for Quick Sessions | 309 |
+| This game is Great for Quick Sessions | 310 |
 | This game has Diverse Characters | 296 |
 | This game has Amazing Storytelling | 280 |
 | This game has Competitive Players | 278 |
@@ -508,4 +508,4 @@ Diff (max vs sum): 70
 | 2023-11-16 | 4.50 | 315 | 2,801 |
 | 2023-11-17 | 4.50 | 316 | 2,813 |
 | 2023-11-18 | 4.50 | 318 | 2,819 |
-| 2023-11-19 | 4.50 | 318 | 2,822 |
+| 2023-11-19 | 4.50 | 318 | 2,823 |

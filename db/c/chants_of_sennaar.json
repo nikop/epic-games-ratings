@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 606,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.79,
+  "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2590,6 +2590,11 @@
       "Time": "2023-11-19T11:05:36.2520047+00:00",
       "NumProgressed": 604,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-19T13:07:37.8344289+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2615,17 +2620,17 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 109
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 109
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2673,7 +2678,7 @@
       "Name": "A great audience",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2681,7 +2686,7 @@
       "Name": "For its own good",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2689,7 +2694,7 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2705,7 +2710,7 @@
       "Name": "Rascal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2721,7 +2726,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2745,7 +2750,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2761,7 +2766,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "PROGRESS_N2",
@@ -2769,7 +2774,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PROGRESS_N3",
@@ -2800,14 +2805,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 606,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T12:04:35.7666596+00:00",
+  "LastChanged_Achievements": "2023-11-19T13:07:37.8344285+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T12:00:00.8615681+00:00",
-  "LastUpdate_Achievements": "2023-11-19T12:04:35.7666786+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:02:48.1512625+00:00",
+  "LastUpdate_Achievements": "2023-11-19T13:07:37.834453+00:00"
 }

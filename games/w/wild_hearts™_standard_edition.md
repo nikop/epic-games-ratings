@@ -41,8 +41,8 @@
 | Karakuri Minato | 26.00% | ~78 |
 | Threaded Harmony | 25.00% | ~75 |
 | Quintessence of Form | 24.00% | ~72 |
+| Karakuri Fortress | 22.00% | ~66 |
 | Jack of All Trades | 22.00% | ~66 |
-| Karakuri Fortress | 21.00% | ~63 |
 | Volatile Vocation | 20.00% | ~60 |
 | Haven Hunter | 20.00% | ~60 |
 | Tender Touch | 19.00% | ~57 |

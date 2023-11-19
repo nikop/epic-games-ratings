@@ -36,7 +36,7 @@ Rating: 4.66 (Ranked 294)
 | Friendly Competition | 12.00% | ~697 |
 | Switcheroo | 12.00% | ~697 |
 | Recycle | 11.00% | ~639 |
-| Tinkerer | 9.00% | ~523 |
+| Tinkerer | 10.00% | ~581 |
 | Undisputed Winner | 8.00% | ~465 |
 | For all Those Back at the Factory | 6.00% | ~349 |
 | Living up to Expectations | 6.00% | ~349 |
