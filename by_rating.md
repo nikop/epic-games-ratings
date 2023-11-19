@@ -210,7 +210,7 @@
 | 200 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 84 | 384 |
 | 200 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 548 |
 | 200 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.71 | 0 | 548 |
-| 200 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,086 | 110 |
+| 200 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,089 | 110 |
 | 200 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 548 |
 | 213 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,606 | 79 |
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 116 | 342 |
@@ -259,7 +259,7 @@
 | 252 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,522 | 52 |
 | 252 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,044 | 84 |
 | 252 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,538 | 69 |
-| 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 315,459 | 3 |
+| 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 315,627 | 3 |
 | 252 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 260,699 | 4 |
 | 252 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 548 |
 | 252 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 548 |
@@ -309,7 +309,7 @@
 | 294 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 548 |
 | 294 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 446 | 220 |
 | 294 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 193 | 291 |
-| 294 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,966 | 64 |
+| 294 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,968 | 64 |
 | 294 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,971 | 85 |
 | 294 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 215 |
 | 313 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 548 |
@@ -395,7 +395,7 @@
 | 385 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 548 |
 | 385 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 30 | 494 |
 | 385 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 548 |
-| 385 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,310 | 137 |
+| 385 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,311 | 137 |
 | 385 | [MudRunner](games/m/mudrunner.md) | 4.61 | 280 | 261 |
 | 385 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 548 |
 | 385 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,686 | 101 |
@@ -924,15 +924,15 @@
 | 919 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 548 |
 | 919 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 548 |
 | 919 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 548 |
-| 919 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.19 | 31 | 490 |
 | 919 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 548 |
 | 919 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 82 | 386 |
 | 919 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 548 |
 | 919 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 548 |
-| 930 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 548 |
-| 930 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,951 | 98 |
-| 930 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,882 | 5 |
-| 930 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 364 |
+| 929 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 548 |
+| 929 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,951 | 98 |
+| 929 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 31 | 490 |
+| 929 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,882 | 5 |
+| 929 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 364 |
 | 934 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.17 | 0 | 548 |
 | 934 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 548 |
 | 934 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 370 |
