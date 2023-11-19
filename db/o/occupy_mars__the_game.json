@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -303,7 +303,7 @@
   "Tags": [],
   "EOS_Progressed": 1721,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4379,9 +4379,9 @@
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
       "SetID": "l546gc",
       "Name": "All Wheel Trouble",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4668,8 +4668,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:05:54.8850267+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:07:27.4089437+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.8108323+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:02:28.9534455+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:05:54.8850659+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:02:27.242498+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:07:27.4089956+00:00"
 }

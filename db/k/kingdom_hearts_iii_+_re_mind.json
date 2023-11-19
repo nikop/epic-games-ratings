@@ -4,11 +4,11 @@
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 95,
   "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 230,
+  "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -2648,10 +2648,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1598,
       "NumberOfAwardsMax": 806
+    },
+    {
+      "Time": "2023-11-19T15:59:26.0714693+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1599,
+      "NumberOfAwardsMax": 806
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1598,
+  "NumberOfAwards": 1599,
   "NumberOfAwardsMax": 806,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2701,7 +2707,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2739,8 +2745,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-11-19T02:23:22.1666553+00:00",
+  "LastChanged": "2023-11-19T15:59:26.0714691+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.7745512+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:58:27.0337489+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:04:35.5570927+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:59:26.0714696+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:05:44.4750983+00:00"
 }

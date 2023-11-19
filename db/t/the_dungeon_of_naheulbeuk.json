@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1347,9 +1347,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238232,
+  "EOS_Progressed": 238250,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1487,
+  "EOS_NewPlayers": 1494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19152,6 +19152,11 @@
       "Time": "2023-11-19T15:08:31.639008+00:00",
       "NumProgressed": 238232,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T16:09:18.248447+00:00",
+      "NumProgressed": 238250,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19163,7 +19168,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7147
+      "UsersEstimate": 7148
     },
     {
       "ID": "100Fail",
@@ -19179,7 +19184,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "BarbarianEpic",
@@ -19195,7 +19200,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7147
+      "UsersEstimate": 7148
     },
     {
       "ID": "BookCollection",
@@ -19211,7 +19216,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14294
+      "UsersEstimate": 14295
     },
     {
       "ID": "Chapter2",
@@ -19219,7 +19224,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9529
+      "UsersEstimate": 9530
     },
     {
       "ID": "Chapter3",
@@ -19227,7 +19232,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7147
+      "UsersEstimate": 7148
     },
     {
       "ID": "Chapter4",
@@ -19563,7 +19568,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16676
+      "UsersEstimate": 16678
     },
     {
       "ID": "DwarfElf15Support",
@@ -19611,7 +19616,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83381
+      "UsersEstimate": 83388
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19627,7 +19632,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9529
+      "UsersEstimate": 9530
     },
     {
       "ID": "EndCombatOneHp",
@@ -19635,7 +19640,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9529
+      "UsersEstimate": 9530
     },
     {
       "ID": "EndGameCursed",
@@ -19659,7 +19664,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19059
+      "UsersEstimate": 19060
     },
     {
       "ID": "FollowBraztok",
@@ -19675,7 +19680,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "InsultLoose",
@@ -19859,28 +19864,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9529
+      "UsersEstimate": 9530
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238232,
+      "Progressed": 238250,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238232,
+      "Progressed": 238250,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-18T21:56:52.4038892+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:08:31.6390078+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:09:18.2484465+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:57:23.4737866+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:08:31.6391425+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:57:59.1531136+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:09:18.2486012+00:00"
 }

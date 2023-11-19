@@ -6,51 +6,51 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,957 |
-| Worth it | 63.00% | ~40,350 |
-| Eagle Eye | 55.00% | ~35,226 |
-| Corpseman I | 40.00% | ~25,619 |
-| Blast fishing | 37.00% | ~23,697 |
-| Not alone | 32.00% | ~20,495 |
-| Headhunter I | 26.00% | ~16,652 |
-| Manual Labour I | 25.00% | ~16,012 |
-| Developers, Developers, Developers | 24.00% | ~15,371 |
-| Basic Training | 24.00% | ~15,371 |
-| Furchtlos und Treu | 13.00% | ~8,326 |
-| Gott Mit Uns | 12.00% | ~7,686 |
-| This We'll Defend! | 9.00% | ~5,764 |
-| Anker wirf! | 9.00% | ~5,764 |
-| Providentiea Memor | 9.00% | ~5,764 |
-| For King and Country | 9.00% | ~5,764 |
-| Battle hardened | 8.00% | ~5,124 |
-| Semper Fidelis! | 7.00% | ~4,483 |
-| Honneur et Patrie | 7.00% | ~4,483 |
-| In Treue Fest | 5.00% | ~3,202 |
-| Voor De Koning | 5.00% | ~3,202 |
-| Extreme Headhunter | 5.00% | ~3,202 |
+| Setting an example | 78.00% | ~49,968 |
+| Worth it | 63.00% | ~40,359 |
+| Eagle Eye | 55.00% | ~35,234 |
+| Corpseman I | 40.00% | ~25,625 |
+| Blast fishing | 37.00% | ~23,703 |
+| Not alone | 32.00% | ~20,500 |
+| Headhunter I | 26.00% | ~16,656 |
+| Manual Labour I | 25.00% | ~16,016 |
+| Developers, Developers, Developers | 24.00% | ~15,375 |
+| Basic Training | 24.00% | ~15,375 |
+| Furchtlos und Treu | 13.00% | ~8,328 |
+| Gott Mit Uns | 12.00% | ~7,687 |
+| This We'll Defend! | 9.00% | ~5,766 |
+| Anker wirf! | 9.00% | ~5,766 |
+| Providentiea Memor | 9.00% | ~5,766 |
+| For King and Country | 9.00% | ~5,766 |
+| Battle hardened | 8.00% | ~5,125 |
+| Semper Fidelis! | 7.00% | ~4,484 |
+| Honneur et Patrie | 7.00% | ~4,484 |
+| In Treue Fest | 5.00% | ~3,203 |
+| Voor De Koning | 5.00% | ~3,203 |
+| Extreme Headhunter | 5.00% | ~3,203 |
 | Advance Australia | 4.00% | ~2,562 |
 | We Stand on Guard | 4.00% | ~2,562 |
 | Sidi Brahim | 4.00% | ~2,562 |
 | War is better with friends I | 4.00% | ~2,562 |
 | Let them, come to us | 4.00% | ~2,562 |
 | Corpseman II | 4.00% | ~2,562 |
-| Offense is the best defence | 3.00% | ~1,921 |
-| There is no I in team | 3.00% | ~1,921 |
-| Veteran | 3.00% | ~1,921 |
-| Manual Labour II | 3.00% | ~1,921 |
-| In My Defens God Me Defend | 3.00% | ~1,921 |
-| Silver x100 | 3.00% | ~1,921 |
-| Impavidum Ferient Bella! | 3.00% | ~1,921 |
+| Offense is the best defence | 3.00% | ~1,922 |
+| There is no I in team | 3.00% | ~1,922 |
+| Veteran | 3.00% | ~1,922 |
+| Manual Labour II | 3.00% | ~1,922 |
+| In My Defens God Me Defend | 3.00% | ~1,922 |
+| Silver x100 | 3.00% | ~1,922 |
+| Impavidum Ferient Bella! | 3.00% | ~1,922 |
 | Bronze x100 | 2.00% | ~1,281 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,281 |
-| Gold x100 | 1.00% | ~640 |
-| Hunting the Hun | 1.00% | ~640 |
-| #1 | 1.00% | ~640 |
-| Golden Headhunter | 1.00% | ~640 |
-| That's another one down! | 1.00% | ~640 |
-| Do you even die? | 1.00% | ~640 |
-| Headhunter II | 1.00% | ~640 |
-| Corpseman III | 1.00% | ~640 |
+| Gold x100 | 1.00% | ~641 |
+| Hunting the Hun | 1.00% | ~641 |
+| #1 | 1.00% | ~641 |
+| Golden Headhunter | 1.00% | ~641 |
+| That's another one down! | 1.00% | ~641 |
+| Do you even die? | 1.00% | ~641 |
+| Headhunter II | 1.00% | ~641 |
+| Corpseman III | 1.00% | ~641 |
 | Elite Player | 0.80% | ~512 |
 | Manual Labour III | 0.40% | ~256 |
 | Buddy | 0.30% | ~192 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,047 (Ranked 105)  
-Completed: 4 (0.01%) (Ranked 333)  
+Progressed: 64,062 (Ranked 105)  
+Completed: 4 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,7 +279,7 @@ Completed: 4 (0.01%) (Ranked 333)
 | 2023-11-16 | 63,736 | 4 |
 | 2023-11-17 | 63,841 | 4 |
 | 2023-11-18 | 63,967 | 4 |
-| 2023-11-19 | 64,047 | 4 |
+| 2023-11-19 | 64,062 | 4 |
 ## Awards
 Max (Highly Recommended): 101  (Ranked 357)  
 Sum: 807 (Ranked 279)  

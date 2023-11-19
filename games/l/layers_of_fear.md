@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 76.00% | ~56 |
-| Something important | 72.00% | ~53 |
-| A piece of the story | 59.00% | ~44 |
+| Wanderer | 77.00% | ~57 |
+| Something important | 73.00% | ~54 |
+| A piece of the story | 61.00% | ~45 |
 | Do what you have to | 45.00% | ~33 |
-| Scraps of love | 42.00% | ~31 |
-| It's covered up for a reason | 41.00% | ~30 |
-| The artist’s impression | 41.00% | ~30 |
-| Refuse to look | 38.00% | ~28 |
-| Sign of weakness | 35.00% | ~26 |
-| Finished it | 30.00% | ~22 |
-| Face your fears | 23.00% | ~17 |
+| Scraps of love | 43.00% | ~32 |
+| It's covered up for a reason | 42.00% | ~31 |
+| The artist’s impression | 42.00% | ~31 |
+| Refuse to look | 39.00% | ~29 |
+| Sign of weakness | 36.00% | ~27 |
+| Finished it | 31.00% | ~23 |
+| Face your fears | 24.00% | ~18 |
 | Playtime | 16.00% | ~12 |
 | Tough conversation | 16.00% | ~12 |
 | The tragedy unfolds | 15.00% | ~11 |
@@ -22,10 +22,10 @@
 | A new way | 12.00% | ~9 |
 | Breaking free | 12.00% | ~9 |
 | True Reflection | 11.00% | ~8 |
+| Whispers long forgotten | 11.00% | ~8 |
 | A Slice of Life | 9.00% | ~7 |
 | Debut | 9.00% | ~7 |
 | The art of movement | 9.00% | ~7 |
-| Whispers long forgotten | 9.00% | ~7 |
 | Another perspective | 7.00% | ~5 |
 | Sound Bite | 7.00% | ~5 |
 | Heavy Burden | 7.00% | ~5 |
@@ -40,6 +40,7 @@
 | Dark correspondence | 3.00% | ~2 |
 | The Perfect Storm | 3.00% | ~2 |
 | It was worth a try | 1.00% | ~1 |
+| Immortalized in my heart | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |
 | Preferred Parent | 1.00% | ~1 |
@@ -49,7 +50,6 @@
 | A Mosaic of Misery | 1.00% | ~1 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
-| Immortalized in my heart | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |

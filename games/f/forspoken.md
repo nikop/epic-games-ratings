@@ -6,7 +6,7 @@ Rating: 4.16 (Ranked 936)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,282 |
-| Unlocked Potential | 9.00% | ~3,853 |
+| Unlocked Potential | 9.00% | ~3,854 |
 | Tinkerer | 7.00% | ~2,997 |
 | Knock 'Em Dead | 7.00% | ~2,997 |
 | Leapfrogger | 6.00% | ~2,569 |
@@ -18,10 +18,10 @@ Rating: 4.16 (Ranked 936)
 | Through the Eyes of Another: Empath | 4.00% | ~1,713 |
 | Stuck | 4.00% | ~1,713 |
 | Help Me Out Here | 4.00% | ~1,713 |
-| Outdoorsperson | 3.00% | ~1,284 |
-| The Interloper | 3.00% | ~1,284 |
-| Hop, Step, Jump | 3.00% | ~1,284 |
-| Endless Runner | 3.00% | ~1,284 |
+| Outdoorsperson | 3.00% | ~1,285 |
+| The Interloper | 3.00% | ~1,285 |
+| Hop, Step, Jump | 3.00% | ~1,285 |
+| Endless Runner | 3.00% | ~1,285 |
 | What Must Be Done | 2.00% | ~856 |
 | Might and Main | 2.00% | ~856 |
 | Damned If You Do... | 2.00% | ~856 |
@@ -59,8 +59,8 @@ Rating: 4.16 (Ranked 936)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,815 (Ranked 116)  
-Completed: 3 (0.01%) (Ranked 333)  
+Progressed: 42,817 (Ranked 116)  
+Completed: 3 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,7 +272,7 @@ Completed: 3 (0.01%) (Ranked 333)
 | 2023-11-16 | 42,702 | 3 |
 | 2023-11-17 | 42,745 | 3 |
 | 2023-11-18 | 42,785 | 3 |
-| 2023-11-19 | 42,815 | 3 |
+| 2023-11-19 | 42,817 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 496)  
 Sum: 29 (Ranked 511)  

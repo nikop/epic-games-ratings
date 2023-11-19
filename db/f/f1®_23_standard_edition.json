@@ -4,11 +4,11 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 294,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 461,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -541,10 +541,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 78,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-19T16:02:01.6240464+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78,
+  "NumberOfAwards": 79,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -564,7 +570,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Diverse Characters",
@@ -573,9 +579,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5813,
+  "EOS_Progressed": 5815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5838,6 +5844,11 @@
       "Time": "2023-11-19T15:07:39.197376+00:00",
       "NumProgressed": 5813,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T16:08:10.3529726+00:00",
+      "NumProgressed": 5815,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5882,7 +5893,7 @@
       "Name": "Crucial Combo",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "achievement_0006",
@@ -5890,7 +5901,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4478
     },
     {
       "ID": "achievement_0007",
@@ -5898,7 +5909,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5406
+      "UsersEstimate": 5408
     },
     {
       "ID": "achievement_0008",
@@ -5906,7 +5917,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5059
     },
     {
       "ID": "achievement_0009",
@@ -5970,7 +5981,7 @@
       "Name": "Hitting a Season",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "achievement_0017",
@@ -6010,7 +6021,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "achievement_0022",
@@ -6018,7 +6029,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_0023",
@@ -6026,7 +6037,7 @@
       "Name": "Sharing the Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "achievement_0024",
@@ -6056,9 +6067,9 @@
       "ID": "achievement_0027",
       "SetID": "9123ogc",
       "Name": "Switcheroo",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 756
     },
     {
       "ID": "achievement_0028",
@@ -6082,7 +6093,7 @@
       "Name": "Reuse",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "achievement_0031",
@@ -6090,7 +6101,7 @@
       "Name": "Recycle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "achievement_0032",
@@ -6106,7 +6117,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "achievement_0034",
@@ -6114,7 +6125,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_0035",
@@ -6186,7 +6197,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "achievement_0044",
@@ -6194,7 +6205,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "achievement_0045",
@@ -6202,7 +6213,7 @@
       "Name": "Making History",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "achievement_0046",
@@ -6210,7 +6221,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "achievement_0047",
@@ -6241,16 +6252,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5813,
+      "Progressed": 5815,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-18T22:59:59.0811593+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:07:39.1973758+00:00",
+  "LastChanged": "2023-11-19T16:02:01.6240462+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:08:10.3529722+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:00:19.8477973+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:07:39.1974324+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:02:01.6240469+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:08:10.3530205+00:00"
 }

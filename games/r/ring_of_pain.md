@@ -25,6 +25,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heartless | 0.30% | ~720 |
 | What's Yours Is Mine | 0.30% | ~720 |
 | Spine Breaker | 0.30% | ~720 |
+| Shootout | 0.30% | ~720 |
 | A Donation | 0.30% | ~720 |
 | C-C-Combo | 0.30% | ~720 |
 | Deflection | 0.30% | ~720 |
@@ -39,6 +40,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.20% | ~480 |
 | Shadow Spreads | 0.20% | ~480 |
 | Max Damage! | 0.20% | ~480 |
+| A Rough Road | 0.20% | ~480 |
 | To The Death! | 0.20% | ~480 |
 | Dig Your Own Grave | 0.20% | ~480 |
 | Well Prepared | 0.20% | ~480 |
@@ -51,7 +53,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
-| Shootout | 0.20% | ~480 |
 | Illuminate, Eliminate | 0.20% | ~480 |
 | Stone Touch | 0.20% | ~480 |
 | Doing Time | 0.20% | ~480 |
@@ -70,7 +71,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Week Attempt | 0.10% | ~240 |
 | Challenge Increases | 0.10% | ~240 |
 | A Long Climb | 0.10% | ~240 |
-| A Rough Road | 0.10% | ~240 |
 | Hydrophobe | 0.10% | ~240 |
 | Disposal | 0.10% | ~240 |
 | Dead Revels | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,933 (Ranked 62)  
+Progressed: 239,936 (Ranked 62)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
 | 2023-11-18 | 239,893 | 288 |
-| 2023-11-19 | 239,933 | 288 |
+| 2023-11-19 | 239,936 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,684 (Ranked 83)  

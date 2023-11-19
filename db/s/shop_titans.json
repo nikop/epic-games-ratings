@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7055,10 +7055,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27564,
       "NumberOfAwardsMax": 4834
+    },
+    {
+      "Time": "2023-11-19T16:02:25.5521368+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27565,
+      "NumberOfAwardsMax": 4834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27564,
+  "NumberOfAwards": 27565,
   "NumberOfAwardsMax": 4834,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7096,7 +7102,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4042
+      "Count": 4043
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7111,10 +7117,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140579,
-  "EOS_Completed": 187,
-  "EOS_NewPlayers": 1045,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 140587,
+  "EOS_Completed": 188,
+  "EOS_NewPlayers": 1043,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -29031,6 +29037,11 @@
       "Time": "2023-11-19T15:05:00.5963916+00:00",
       "NumProgressed": 140579,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2023-11-19T16:06:16.8739747+00:00",
+      "NumProgressed": 140587,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29306,7 +29317,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "craft02",
@@ -29394,7 +29405,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "energy02",
@@ -29418,7 +29429,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "expansion02",
@@ -29602,7 +29613,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "jackslot03",
@@ -29626,7 +29637,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "level02",
@@ -29818,7 +29829,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "sell02",
@@ -29906,7 +29917,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "workers02",
@@ -29937,15 +29948,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140579,
-      "Completed": 187
+      "Progressed": 140587,
+      "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-19T13:03:11.4457055+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:05:00.5963914+00:00",
+  "LastChanged": "2023-11-19T16:02:25.5521366+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:06:16.8739744+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:02:27.751998+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:05:00.5965682+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:02:25.5521372+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:06:16.8741664+00:00"
 }

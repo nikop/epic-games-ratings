@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78742,
+  "EOS_Progressed": 78745,
   "EOS_Completed": 844,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -23932,6 +23932,11 @@
       "Time": "2023-11-19T15:04:31.1254048+00:00",
       "NumProgressed": 78742,
       "NumCompleted": 844
+    },
+    {
+      "Time": "2023-11-19T16:05:38.5999069+00:00",
+      "NumProgressed": 78745,
+      "NumCompleted": 844
     }
   ],
   "TotalAchievements": 25,
@@ -23975,7 +23980,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17323
+      "UsersEstimate": 17324
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24015,7 +24020,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15748
+      "UsersEstimate": 15749
     },
     {
       "ID": "Hearty",
@@ -24063,7 +24068,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14961
+      "UsersEstimate": 14962
     },
     {
       "ID": "Nice Try",
@@ -24095,7 +24100,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10236
+      "UsersEstimate": 10237
     },
     {
       "ID": "Sniper",
@@ -24135,14 +24140,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6299
+      "UsersEstimate": 6300
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78742,
+      "Progressed": 78745,
       "Completed": 844
     }
   ],
@@ -24150,8 +24155,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:04:31.1254045+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:05:38.5999066+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:58:26.7573061+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:04:31.1255326+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:59:25.6761289+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:05:38.6000047+00:00"
 }

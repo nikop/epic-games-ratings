@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -624,9 +624,9 @@
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
@@ -896,9 +896,9 @@
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
@@ -928,9 +928,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -1039,8 +1039,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:09:22.7105592+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:10:23.9262313+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:43.8624922+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:58:32.117424+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:09:22.7105892+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:59:32.7445107+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:10:23.9262616+00:00"
 }

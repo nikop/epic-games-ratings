@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,381 |
-| Alt+F4 | 8.00% | ~19,059 |
-| Where's that freaking Dwarf? | 7.00% | ~16,676 |
-| Déjà vu | 6.00% | ~14,294 |
+| Sowwy! | 35.00% | ~83,388 |
+| Alt+F4 | 8.00% | ~19,060 |
+| Where's that freaking Dwarf? | 7.00% | ~16,678 |
+| Déjà vu | 6.00% | ~14,295 |
 | Sock! SOCK! | 5.00% | ~11,912 |
 | Speedrun | 5.00% | ~11,912 |
-| A beer, two curses, three companions | 4.00% | ~9,529 |
-| GG EZ | 4.00% | ~9,529 |
-| DM intervention | 4.00% | ~9,529 |
-| Fireproof Wizardess | 4.00% | ~9,529 |
-| Livin' in a dwarven paradise | 3.00% | ~7,147 |
-| Way of the Wimp | 3.00% | ~7,147 |
-| The plot thickens... At the tavern | 3.00% | ~7,147 |
+| A beer, two curses, three companions | 4.00% | ~9,530 |
+| GG EZ | 4.00% | ~9,530 |
+| DM intervention | 4.00% | ~9,530 |
+| Fireproof Wizardess | 4.00% | ~9,530 |
+| Livin' in a dwarven paradise | 3.00% | ~7,148 |
+| Way of the Wimp | 3.00% | ~7,148 |
+| The plot thickens... At the tavern | 3.00% | ~7,148 |
 | Shiny and Crôm | 2.00% | ~4,765 |
 | The demons' feast | 2.00% | ~4,765 |
 | The Great Library | 2.00% | ~4,765 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.90% | ~2,144 |
 | Lëgal Legend | 0.80% | ~1,906 |
 | We come in peace | 0.70% | ~1,668 |
-| Holistic Adventuring Party | 0.60% | ~1,429 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,429 |
+| Holistic Adventuring Party | 0.60% | ~1,430 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,430 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,191 |
 | Law and Order | 0.50% | ~1,191 |
 | It's been a hard day's night | 0.40% | ~953 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,232 (Ranked 63)  
+Progressed: 238,250 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-16 | 237,548 | 7 |
 | 2023-11-17 | 237,757 | 7 |
 | 2023-11-18 | 238,073 | 7 |
-| 2023-11-19 | 238,232 | 7 |
+| 2023-11-19 | 238,250 | 7 |
 ## Awards
 Max (Character Customization): 231  (Ranked 272)  
 Sum: 467 (Ranked 331)  

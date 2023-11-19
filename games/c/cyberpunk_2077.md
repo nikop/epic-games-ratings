@@ -16,13 +16,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.70% | ~182 |
 | Arachnophobia | 0.70% | ~182 |
 | The Quick and the Dead | 0.60% | ~5,384 |
+| Life of the Road | 0.60% | ~5,384 |
 | The Hermit | 0.60% | ~5,384 |
 | The Lovers | 0.60% | ~5,384 |
 | The Wheel of Fortune | 0.60% | ~5,384 |
 | True Warrior | 0.60% | ~5,384 |
 | Bushido and Chill | 0.50% | ~4,487 |
 | Christmas Tree Attack | 0.50% | ~4,487 |
-| Life of the Road | 0.50% | ~4,487 |
 | The High Priestess | 0.50% | ~4,487 |
 | The World | 0.50% | ~4,487 |
 | Legend of The Afterlife | 0.50% | ~4,487 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,379 (Ranked 15)  
+Progressed: 897,383 (Ranked 15)  
 Completed: 2,788 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 2,788 (0.31%) (Ranked 233)
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
-| 2023-11-19 | 897,379 | 2,788 |
+| 2023-11-19 | 897,383 | 2,788 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
-Sum: 357,104 (Ranked 10)  
+Sum: 357,187 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 21,152 |
 | This game is Highly Recommended | 20,284 |
 | This game has Amazing Storytelling | 20,176 |
-| This game is Extremely Fun | 19,901 |
+| This game is Extremely Fun | 19,984 |
 | This game has Amazing Characters | 19,788 |
 | This game is Relaxing | 19,049 |
 | This game has Quickly Understood Controls | 18,949 |
@@ -612,4 +612,4 @@ Diff (max vs sum): -1
 | 2023-11-16 | 4.64 | - | 105,726 | 354,422 |
 | 2023-11-17 | 4.64 | - | 105,891 | 355,372 |
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
-| 2023-11-19 | 4.64 | - | 106,055 | 357,104 |
+| 2023-11-19 | 4.64 | - | 106,055 | 357,187 |

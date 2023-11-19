@@ -20,7 +20,7 @@
 | The Girl and the Homework | 29.00% | ~23 |
 | OK, I heard you!! | 28.00% | ~22 |
 | Lightbulb Detective | 27.00% | ~21 |
-| Unlimited Power!! | 24.00% | ~19 |
+| Unlimited Power!! | 26.00% | ~20 |
 | Cartographer | 22.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~15 |

@@ -7,8 +7,8 @@
 | The View From Windy Castle. | 57.00% | ~50 |
 | Rocket to the Moon! | 55.00% | ~48 |
 | Daddy’s Glasses | 53.00% | ~47 |
-| The Best Snowman Ever! | 45.00% | ~40 |
-| Whose tracks are these? | 44.00% | ~39 |
+| The Best Snowman Ever! | 47.00% | ~41 |
+| Whose tracks are these? | 45.00% | ~40 |
 | Rounding Up the Chickens. | 44.00% | ~39 |
 | Collecting Sticks For the Campfire. | 41.00% | ~36 |
 | What’s in These Rockpools? | 36.00% | ~32 |

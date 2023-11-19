@@ -6,27 +6,27 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,507 |
-| Incurious | 17.00% | ~112,868 |
-| Climate Change | 16.00% | ~106,228 |
-| Stroller | 15.00% | ~99,589 |
-| Toy Train | 14.00% | ~92,950 |
-| Advanced Hiker | 13.00% | ~86,311 |
-| Hiker | 12.00% | ~79,671 |
-| Mojave Courier | 6.00% | ~39,836 |
-| Saved by Nausicaä | 5.00% | ~33,196 |
-| Advanced Voyager | 4.00% | ~26,557 |
-| Expert Stroller | 4.00% | ~26,557 |
+| Advanced Stroller | 18.00% | ~119,510 |
+| Incurious | 17.00% | ~112,870 |
+| Climate Change | 16.00% | ~106,231 |
+| Stroller | 15.00% | ~99,591 |
+| Toy Train | 14.00% | ~92,952 |
+| Advanced Hiker | 13.00% | ~86,313 |
+| Hiker | 12.00% | ~79,673 |
+| Mojave Courier | 6.00% | ~39,837 |
+| Saved by Nausicaä | 5.00% | ~33,197 |
+| Advanced Voyager | 4.00% | ~26,558 |
+| Expert Stroller | 4.00% | ~26,558 |
 | Voyager | 3.00% | ~19,918 |
 | Orient Express | 3.00% | ~19,918 |
 | Marathon | 3.00% | ~19,918 |
 | Destructionist | 3.00% | ~19,918 |
 | Expert Hiker | 2.00% | ~13,279 |
 | Lost | 2.00% | ~13,279 |
-| Rocketman | 0.80% | ~5,311 |
-| Expert Voyager | 0.70% | ~4,647 |
-| Shopaholic | 0.70% | ~4,647 |
-| Dynamite Fishing | 0.70% | ~4,647 |
+| Rocketman | 0.80% | ~5,312 |
+| Expert Voyager | 0.70% | ~4,648 |
+| Shopaholic | 0.70% | ~4,648 |
+| Dynamite Fishing | 0.70% | ~4,648 |
 | Nanuk | 0.60% | ~3,984 |
 | Scrooge | 0.50% | ~3,320 |
 | Terminal Station | 0.50% | ~3,320 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~664 |
 | 20 Miles under the Sea | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,927 (Ranked 29)  
+Progressed: 663,943 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,20 +272,20 @@ Completed: 12 (0.00%) (Ranked 356)
 | 2023-11-16 | 663,040 | 12 |
 | 2023-11-17 | 663,305 | 12 |
 | 2023-11-18 | 663,724 | 12 |
-| 2023-11-19 | 663,927 | 12 |
+| 2023-11-19 | 663,943 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 288)  
-Sum: 1,597 (Ranked 231)  
-Diff (max vs sum): 57  
+Sum: 1,599 (Ranked 229)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 201 |
-| This game has Diverse Characters | 198 |
+| This game has Diverse Characters | 199 |
 | This game has Quickly Understood Controls | 193 |
 | This game is Extremely Fun | 186 |
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 170 |
-| This game has Playful Visuals | 161 |
+| This game has Playful Visuals | 162 |
 | This game is Highly Recommended | 160 |
 | This game has Amazing Storytelling | 148 |
 | This game has Obsessive Gameplay | 138 |
@@ -434,3 +434,4 @@ Diff (max vs sum): 57
 | 2023-11-12 | 4.64 | - | 201 | 1,594 |
 | 2023-11-15 | 4.64 | - | 201 | 1,595 |
 | 2023-11-16 | 4.64 | - | 201 | 1,597 |
+| 2023-11-19 | 4.64 | - | 201 | 1,599 |

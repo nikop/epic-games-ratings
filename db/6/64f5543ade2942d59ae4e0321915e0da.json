@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_COMBO_1",
@@ -437,9 +437,9 @@
       "ID": "AC_FULL_MAP",
       "SetID": "16i2akc",
       "Name": "Vision",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -532,8 +532,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:03:30.8819466+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:04:21.6579014+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.591868+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:58:23.4338831+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:03:30.8819703+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:59:21.1021068+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:04:21.6579291+00:00"
 }

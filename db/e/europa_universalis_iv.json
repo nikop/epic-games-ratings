@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12205,10 +12205,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 58247,
       "NumberOfAwardsMax": 7073
+    },
+    {
+      "Time": "2023-11-19T16:01:24.5041673+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 58258,
+      "NumberOfAwardsMax": 7073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58247,
+  "NumberOfAwards": 58258,
   "NumberOfAwardsMax": 7073,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12264,7 +12270,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5876
+      "Count": 5887
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12279,9 +12285,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459309,
+  "EOS_Progressed": 459369,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5502,
+  "EOS_NewPlayers": 5487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36689,6 +36695,11 @@
       "Time": "2023-11-19T15:06:09.7486013+00:00",
       "NumProgressed": 459309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T16:07:46.3890839+00:00",
+      "NumProgressed": 459369,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37530,9 +37541,9 @@
       "ID": "achievement_for_the_glory",
       "SetID": "8p2n7he",
       "Name": "For the Glory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_forever_golden",
@@ -38034,9 +38045,9 @@
       "ID": "achievement_kow_tow",
       "SetID": "8p2n7he",
       "Name": "Kow-Tow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_krabater",
@@ -39603,21 +39614,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459309,
+      "Progressed": 459369,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459309,
+      "Progressed": 459369,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-19T13:02:30.1451827+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:06:09.748601+00:00",
+  "LastChanged": "2023-11-19T16:01:24.5041671+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:07:46.3890835+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:59:53.0617189+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:06:09.749628+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:01:24.5041677+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:07:46.3901086+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2595,6 +2595,11 @@
       "Time": "2023-11-19T13:07:37.8344289+00:00",
       "NumProgressed": 606,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-19T16:06:10.1273304+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2620,9 +2625,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2758,7 +2763,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "PROGRESS_N1",
@@ -2782,7 +2787,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "PROGRESS_N4",
@@ -2805,14 +2810,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:04:55.2910988+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:06:10.1273301+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:00:13.2503572+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:04:55.2911176+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:01:52.5208548+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:06:10.1273559+00:00"
 }

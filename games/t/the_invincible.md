@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Camp | 25.00% | ~44 |
 | The City | 25.00% | ~44 |
 | The Teleprobe | 24.00% | ~42 |
 | The field base | 24.00% | ~42 |
-| The Camp | 24.00% | ~42 |
 | Survivors | 22.00% | ~39 |
-| The Condor | 18.00% | ~32 |
+| The Condor | 19.00% | ~33 |
 | The End | 18.00% | ~32 |
 | The Necroevolution | 17.00% | ~30 |
 | On her own | 13.00% | ~23 |
@@ -22,9 +22,9 @@
 | Fierce fight | 9.00% | ~16 |
 | Evacuation | 9.00% | ~16 |
 | I remember everything! | 7.00% | ~12 |
+| Violent solution | 6.00% | ~11 |
 | Innate curiosity | 6.00% | ~11 |
-| Violent solution | 5.00% | ~9 |
-| The Invincible | 4.00% | ~7 |
+| The Invincible | 5.00% | ~9 |
 | Ubiquitous holes | 3.00% | ~5 |
 | Strong objection | 3.00% | ~5 |
 | Another giant | 2.00% | ~4 |

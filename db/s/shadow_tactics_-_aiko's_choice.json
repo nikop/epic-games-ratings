@@ -4,11 +4,11 @@
   "ProductSlug": "shadow-tactics-aikos-choice-5678c1",
   "Ranking_Rating": 186,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 461,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-06T18:00:00+00:00",
     "PcReleaseDate": "2021-12-06T00:00:00+00:00",
@@ -499,8 +499,8 @@
   "FirstSeen": "2022-07-22T20:30:07.8581549+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.6758612+00:00",
   "LastChanged": "2023-11-07T08:58:03.0442684+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:07:35.1070973+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:08:04.8068291+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:08.0488337+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:56:57.6510672+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:07:35.1070992+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:57:24.4851222+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:08:04.8068331+00:00"
 }

@@ -19,17 +19,17 @@ Rating: 4.76 (Ranked 126)
 | Challenge Accepted | 11.00% | ~33,265 |
 | Loom for Improvement | 11.00% | ~33,265 |
 | Coasting Along | 11.00% | ~33,265 |
-| Followed the Butterflies | 10.00% | ~30,240 |
-| Rising From the Ashes | 10.00% | ~30,240 |
-| The Spell Master | 9.00% | ~27,216 |
-| The Avenging Gazelle | 8.00% | ~24,192 |
-| Beast Friends | 8.00% | ~24,192 |
-| A Sallow Grave | 8.00% | ~24,192 |
-| Flight the Good Flight | 8.00% | ~24,192 |
-| The Seeker of Knowledge | 6.00% | ~18,144 |
-| The Root of the Problem | 6.00% | ~18,144 |
-| Third Time's a Charm | 6.00% | ~18,144 |
-| Raising Expectations | 6.00% | ~18,144 |
+| Followed the Butterflies | 10.00% | ~30,241 |
+| Rising From the Ashes | 10.00% | ~30,241 |
+| The Spell Master | 9.00% | ~27,217 |
+| The Avenging Gazelle | 8.00% | ~24,193 |
+| Beast Friends | 8.00% | ~24,193 |
+| A Sallow Grave | 8.00% | ~24,193 |
+| Flight the Good Flight | 8.00% | ~24,193 |
+| The Seeker of Knowledge | 6.00% | ~18,145 |
+| The Root of the Problem | 6.00% | ~18,145 |
+| Third Time's a Charm | 6.00% | ~18,145 |
+| Raising Expectations | 6.00% | ~18,145 |
 | The Toast of the Town | 5.00% | ~15,120 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,120 |
 | The Ends Petrify the Means | 5.00% | ~15,120 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,405 (Ranked 53)  
+Progressed: 302,409 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
-| 2023-11-19 | 302,405 | 512 |
+| 2023-11-19 | 302,409 | 512 |
 ## Awards
 Max (Character Customization): 24,447  (Ranked 17)  
 Sum: 48,575 (Ranked 30)  

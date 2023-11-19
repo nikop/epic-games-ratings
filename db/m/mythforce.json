@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -776,7 +776,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4945,
+  "EOS_Progressed": 4946,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -9481,6 +9481,11 @@
       "Time": "2023-11-19T14:05:48.6425479+00:00",
       "NumProgressed": 4945,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-19T16:06:33.5683582+00:00",
+      "NumProgressed": 4946,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9493,7 +9498,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -9525,7 +9530,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9676,15 +9681,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4945,
+      "Progressed": 4946,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-19T15:05:13.728641+00:00",
+  "LastChanged_Achievements": "2023-11-19T16:06:33.5683578+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:57:28.3297305+00:00",
-  "LastUpdate_Achievements": "2023-11-19T15:05:13.7286842+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:58:05.7363759+00:00",
+  "LastUpdate_Achievements": "2023-11-19T16:06:33.568419+00:00"
 }

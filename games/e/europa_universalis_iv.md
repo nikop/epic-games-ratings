@@ -67,6 +67,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fine Financials | 0.10% | ~459 |
 | A Fine Goosestep | 0.10% | ~459 |
 | For the Emperor! | 0.10% | ~459 |
+| For the Glory | 0.10% | ~459 |
 | Forever Golden | 0.10% | ~459 |
 | Foul Mouthed | 0.10% | ~459 |
 | Four For Trade | 0.10% | ~459 |
@@ -102,6 +103,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Keep the Flame Burning | 0.10% | ~459 |
 | King of Jerusalem | 0.10% | ~459 |
 | Kingdom of God | 0.10% | ~459 |
+| Kow-Tow | 0.10% | ~459 |
 | Krabater | 0.10% | ~459 |
 | Land of Eastern Jade | 0.10% | ~459 |
 | Laughingstock | 0.10% | ~459 |
@@ -257,7 +259,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
-| For the Glory | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
@@ -285,7 +286,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
-| Kow-Tow | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,309 (Ranked 41)  
+Progressed: 459,369 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,10 +583,10 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,309 | 1 |
+| 2023-11-19 | 459,369 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
-Sum: 58,247 (Ranked 24)  
+Sum: 58,258 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -597,7 +597,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,680 |
 | This game is Relaxing | 6,490 |
 | This game has Competitive Players | 6,347 |
-| This game has Amazing Storytelling | 5,876 |
+| This game has Amazing Storytelling | 5,887 |
 | This game has Amazing Characters | 5,455 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -909,4 +909,4 @@ Diff (max vs sum): 30
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
 | 2023-11-17 | 4.69 | - | 7,043 | 58,000 |
 | 2023-11-18 | 4.69 | - | 7,061 | 58,112 |
-| 2023-11-19 | 4.69 | - | 7,073 | 58,247 |
+| 2023-11-19 | 4.69 | - | 7,073 | 58,258 |
