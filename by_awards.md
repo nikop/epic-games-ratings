@@ -98,9 +98,9 @@
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,249 | 4.35 | 790 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,016 | 4.50 | 587 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,951 | 4.18 | 930 |
-| 99 | [Among Us](games/a/among_us.md) | 2,832 | 4.57 | 469 |
+| 99 | [Among Us](games/a/among_us.md) | 2,838 | 4.57 | 469 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,694 | 4.27 | 861 |
-| 101 | [Path of Exile](games/p/path_of_exile.md) | 2,684 | 4.61 | 385 |
+| 101 | [Path of Exile](games/p/path_of_exile.md) | 2,686 | 4.61 | 385 |
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 963 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,515 | 4.80 | 87 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,441 | 4.78 | 106 |
@@ -155,7 +155,7 @@
 | 153 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 985 | 4.31 | 828 |
 | 154 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 976 | 4.54 | 523 |
 | 155 | [Sonic Mania](games/s/sonic_mania.md) | 964 | 4.78 | 106 |
-| 156 | [MORDHAU](games/m/mordhau.md) | 943 | 4.38 | 764 |
+| 156 | [MORDHAU](games/m/mordhau.md) | 954 | 4.38 | 764 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 942 | 4.45 | 659 |
 | 158 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 929 | 4.56 | 489 |
 | 159 | [Train Valley 2](games/t/train_valley_2.md) | 899 | 4.44 | 674 |
@@ -240,7 +240,7 @@
 | 238 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 369 | 4.55 | 504 |
 | 239 | [Inscryption](games/i/inscryption.md) | 346 | 4.86 | 32 |
 | 239 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 346 | 4.72 | 186 |
-| 241 | [Blazing Sails](games/b/blazing_sails.md) | 344 | 3.91 | 1,018 |
+| 241 | [Blazing Sails](games/b/blazing_sails.md) | 344 | 3.92 | 1,016 |
 | 242 | [The Messenger](games/t/the_messenger.md) | 342 | 4.81 | 78 |
 | 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 335 | 4.57 | 469 |
 | 243 | [Tannenberg](games/t/tannenberg.md) | 335 | 4.39 | 746 |
@@ -353,7 +353,7 @@
 | 350 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 106 | 4.54 | 523 |
 | 352 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 105 | 4.77 | 115 |
 | 353 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 104 | 4.41 | 720 |
-| 354 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,018 |
+| 354 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,019 |
 | 354 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 103 | 4.80 | 87 |
 | 354 | [Tropico 6](games/t/tropico_6.md) | 103 | 4.65 | 313 |
 | 357 | [Verdun](games/v/verdun.md) | 101 | 4.53 | 539 |

@@ -398,7 +398,7 @@
 | 385 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,310 | 137 |
 | 385 | [MudRunner](games/m/mudrunner.md) | 4.61 | 280 | 261 |
 | 385 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 548 |
-| 385 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,684 | 101 |
+| 385 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,686 | 101 |
 | 385 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 548 |
 | 385 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 571 | 198 |
 | 385 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,424 | 38 |
@@ -469,7 +469,7 @@
 | 444 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,597 | 26 |
 | 444 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 22 | 533 |
 | 469 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 548 |
-| 469 | [Among Us](games/a/among_us.md) | 4.57 | 2,832 | 99 |
+| 469 | [Among Us](games/a/among_us.md) | 4.57 | 2,838 | 99 |
 | 469 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 548 |
 | 469 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.57 | 0 | 548 |
 | 469 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 335 | 243 |
@@ -767,7 +767,7 @@
 | 764 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 548 |
 | 764 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 548 |
 | 764 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 166 | 307 |
-| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 943 | 156 |
+| 764 | [MORDHAU](games/m/mordhau.md) | 4.38 | 954 | 156 |
 | 764 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 548 |
 | 764 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 548 |
 | 764 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.38 | 53 | 422 |
@@ -1015,10 +1015,10 @@
 | 1,013 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 496 |
 | 1,013 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 548 |
 | 1,013 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.93 | 0 | 548 |
+| 1,016 | [Blazing Sails](games/b/blazing_sails.md) | 3.92 | 344 | 241 |
 | 1,016 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 3.92 | 0 | 548 |
 | 1,016 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.92 | 0 | 548 |
-| 1,018 | [Blazing Sails](games/b/blazing_sails.md) | 3.91 | 344 | 241 |
-| 1,018 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 354 |
+| 1,019 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 354 |
 | 1,020 | [Warface](games/w/warface.md) | 3.90 | 444 | 221 |
 | 1,021 | [Chimeraland](games/c/chimeraland.md) | 3.89 | 30 | 494 |
 | 1,022 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 548 |
