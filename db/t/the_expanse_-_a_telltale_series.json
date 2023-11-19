@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15127,
+  "EOS_Progressed": 15130,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11647,6 +11647,11 @@
       "Time": "2023-11-19T19:03:04.6554396+00:00",
       "NumProgressed": 15127,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-19T20:03:25.9531024+00:00",
+      "NumProgressed": 15130,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11691,7 +11696,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "14",
@@ -11923,7 +11928,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "35",
@@ -11938,13 +11943,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15127,
+      "Progressed": 15130,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1081,
+      "Progressed": 1084,
       "Completed": 631
     }
   ],
@@ -11952,8 +11957,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:03:04.655439+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:03:25.9531019+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:58:54.9678781+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:03:04.6555255+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:59:13.5679191+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:03:25.9531838+00:00"
 }

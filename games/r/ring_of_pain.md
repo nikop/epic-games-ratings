@@ -54,6 +54,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |
 | Illuminate, Eliminate | 0.20% | ~480 |
+| Chain Reaction | 0.20% | ~480 |
 | Stone Touch | 0.20% | ~480 |
 | Doing Time | 0.20% | ~480 |
 | Spreading Plague | 0.20% | ~480 |
@@ -104,7 +105,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Annihilate | 0.10% | ~240 |
 | Path To Enlightenment | 0.10% | ~240 |
 | Never Too Many Hats | 0.10% | ~240 |
-| Chain Reaction | 0.10% | ~240 |
 | Master of Strategy | 0.10% | ~240 |
 | No Mercy | 0.10% | ~240 |
 | Good Boys | 0.10% | ~240 |
@@ -146,7 +146,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239,942 (Ranked 62)  
-Completed: 288 (0.12%) (Ranked 274)  
+Completed: 288 (0.12%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

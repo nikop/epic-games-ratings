@@ -6,22 +6,22 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 7.00% | ~1,214 |
-| The Marshlands | 7.00% | ~1,214 |
-| Taking Action | 7.00% | ~1,214 |
-| No Deaths | 7.00% | ~1,214 |
+| First Real Expedition | 7.00% | ~1,215 |
+| The Marshlands | 7.00% | ~1,215 |
+| Taking Action | 7.00% | ~1,215 |
+| No Deaths | 7.00% | ~1,215 |
 | Overcoming Difficulty | 6.00% | ~1,041 |
 | Fertile Meadows | 6.00% | ~1,041 |
 | Coral Forest | 6.00% | ~1,041 |
 | The Scarlet Orchard | 6.00% | ~1,041 |
-| Bandit Camp | 5.00% | ~867 |
-| Ancient Battleground | 5.00% | ~867 |
-| Sparkdew Crystals | 5.00% | ~867 |
-| Royal Outpost | 5.00% | ~867 |
-| Lost Colonies | 5.00% | ~867 |
-| Watchtower | 5.00% | ~867 |
-| A Real Challenge | 5.00% | ~867 |
-| Trade Baron | 5.00% | ~867 |
+| Bandit Camp | 5.00% | ~868 |
+| Ancient Battleground | 5.00% | ~868 |
+| Sparkdew Crystals | 5.00% | ~868 |
+| Royal Outpost | 5.00% | ~868 |
+| Lost Colonies | 5.00% | ~868 |
+| Watchtower | 5.00% | ~868 |
+| A Real Challenge | 5.00% | ~868 |
+| Trade Baron | 5.00% | ~868 |
 | Homesick | 4.00% | ~694 |
 | Against All Odds | 4.00% | ~694 |
 | Ruined Armory | 4.00% | ~694 |
@@ -45,9 +45,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 2.00% | ~347 |
 | Efficient Explorer | 2.00% | ~347 |
 | Victory through Prosperity | 2.00% | ~347 |
-| Lizard Utopia | 1.00% | ~173 |
-| Prestigious Expedition | 1.00% | ~173 |
-| Blood Flower Farmer | 1.00% | ~173 |
+| Lizard Utopia | 1.00% | ~174 |
+| Prestigious Expedition | 1.00% | ~174 |
+| Blood Flower Farmer | 1.00% | ~174 |
 | Human Utopia | 0.90% | ~156 |
 | Beaver Utopia | 0.70% | ~121 |
 | The Queen's Chosen | 0.60% | ~104 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,349 (Ranked 144)  
+Progressed: 17,350 (Ranked 144)  
 Completed: 56 (0.32%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 56 (0.32%) (Ranked 231)
 | 2023-11-16 | 17,320 | 55 |
 | 2023-11-17 | 17,329 | 56 |
 | 2023-11-18 | 17,342 | 56 |
-| 2023-11-19 | 17,349 | 56 |
+| 2023-11-19 | 17,350 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 222)  
 Sum: 3,221 (Ranked 171)  

@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_03",
@@ -1064,8 +1064,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:09:05.5584234+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:09:26.455265+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:04.4472532+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:09:05.5584484+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:59:23.8466887+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:09:26.4552916+00:00"
 }

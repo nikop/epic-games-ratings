@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 599,
+  "EOS_Progressed": 600,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -1598,6 +1598,11 @@
       "Time": "2023-11-19T03:02:58.8400604+00:00",
       "NumProgressed": 599,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T20:03:47.4147017+00:00",
+      "NumProgressed": 600,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1633,7 +1638,7 @@
       "Name": "The Wraith",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Chapter10",
@@ -1713,7 +1718,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Collectibles2",
@@ -1889,21 +1894,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 599,
+      "Progressed": 600,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:03:24.8250426+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:03:47.4147013+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:17.344247+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:58.4153386+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:03:24.8250705+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:58:09.3086377+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:03:47.4147278+00:00"
 }

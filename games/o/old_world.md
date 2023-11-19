@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 4.00% | ~616 |
 | Intrepid | 4.00% | ~616 |
 | Mason | 4.00% | ~616 |
+| Noble | 4.00% | ~616 |
 | Pioneer | 4.00% | ~616 |
 | Strong | 4.00% | ~616 |
 | Hanging Gardens | 4.00% | ~616 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 3.00% | ~462 |
 | Learned | 3.00% | ~462 |
 | Magnificent | 3.00% | ~462 |
-| Noble | 3.00% | ~462 |
 | Warrior | 3.00% | ~462 |
 | Developing Cities | 3.00% | ~462 |
 | Strong Cities | 3.00% | ~462 |
@@ -121,13 +121,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 1.00% | ~154 |
 | Double Victory | 1.00% | ~154 |
 | The Clergy | 1.00% | ~154 |
-| Devout | 0.90% | ~138 |
-| Ready | 0.90% | ~138 |
-| Clerics | 0.90% | ~138 |
-| Egypt | 0.90% | ~138 |
-| Assyrian Paganism | 0.90% | ~138 |
-| Enlightenment | 0.90% | ~138 |
-| Veneration | 0.90% | ~138 |
+| Devout | 0.90% | ~139 |
+| Ready | 0.90% | ~139 |
+| Clerics | 0.90% | ~139 |
+| Egypt | 0.90% | ~139 |
+| Assyrian Paganism | 0.90% | ~139 |
+| Enlightenment | 0.90% | ~139 |
+| Veneration | 0.90% | ~139 |
 | Bad Heir Day | 0.80% | ~123 |
 | Rome | 0.80% | ~123 |
 | Hittite Paganism | 0.80% | ~123 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,388 (Ranked 150)  
+Progressed: 15,389 (Ranked 150)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
-| 2023-11-19 | 15,388 | 5 |
+| 2023-11-19 | 15,389 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

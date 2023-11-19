@@ -6,24 +6,24 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,958 |
-| Imprint | 5.00% | ~7,958 |
-| The Hunt | 4.00% | ~6,366 |
-| Ravenous | 4.00% | ~6,366 |
+| Taste | 5.00% | ~7,959 |
+| Imprint | 5.00% | ~7,959 |
+| The Hunt | 4.00% | ~6,367 |
+| Ravenous | 4.00% | ~6,367 |
 | Weeper | 3.00% | ~4,775 |
 | Harmless | 2.00% | ~3,183 |
 | Silenced Whispers | 2.00% | ~3,183 |
 | Devourer | 2.00% | ~3,183 |
 | Shapely | 1.00% | ~1,592 |
-| Scion | 1.00% | ~1,587 |
-| Glare | 1.00% | ~1,587 |
+| Scion | 1.00% | ~1,588 |
+| Glare | 1.00% | ~1,588 |
 | Jawcrab | 1.00% | ~1,592 |
 | Jawstag | 1.00% | ~1,592 |
 | Feast | 1.00% | ~1,592 |
 | Watcher | 1.00% | ~1,592 |
 | Yank | 1.00% | ~1,592 |
 | Sharpened Vessel | 1.00% | ~1,592 |
-| Predator | 0.90% | ~1,432 |
+| Predator | 0.90% | ~1,433 |
 | Assimilation | 0.80% | ~1,273 |
 | Host | 0.80% | ~1,270 |
 | Celebration | 0.80% | ~1,273 |
@@ -33,27 +33,27 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.60% | ~955 |
 | Inevitable | 0.60% | ~955 |
 | Breathsmith | 0.60% | ~955 |
-| Dream | 0.60% | ~952 |
+| Dream | 0.60% | ~953 |
 | Breath | 0.50% | ~796 |
 | Unwrap the Gift | 0.50% | ~796 |
 | Passage | 0.50% | ~796 |
 | Bloodhunter | 0.40% | ~637 |
 | Proportions | 0.40% | ~637 |
 | Zygote | 0.30% | ~476 |
-| Kinship | 0.30% | ~477 |
+| Kinship | 0.30% | ~478 |
 | Kin | 0.30% | ~476 |
 | Listen | 0.30% | ~476 |
 | Weakness | 0.20% | ~318 |
 | Generous | 0.20% | ~318 |
-| Enrich | 0.20% | ~317 |
-| Intensify | 0.20% | ~317 |
+| Enrich | 0.20% | ~318 |
+| Intensify | 0.20% | ~318 |
 | Spiral Heart | 0.10% | ~159 |
 | Skinmaker | 0.10% | ~159 |
 | Instruments | 0.10% | ~159 |
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,156 (Ranked 78)  
+Progressed: 159,173 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 158,567 | 1 |
 | 2023-11-17 | 158,769 | 1 |
 | 2023-11-18 | 158,977 | 1 |
-| 2023-11-19 | 159,156 | 1 |
+| 2023-11-19 | 159,173 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 425)  
 Sum: 370 (Ranked 348)  

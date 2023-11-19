@@ -25,8 +25,8 @@ Number of Ratings: 34  (23.09.2022)
 | The Horror | 29.00% | ~183 |
 | The Difference | 26.00% | ~164 |
 | Vengeance | 25.00% | ~158 |
+| It's Just an Accident | 24.00% | ~152 |
 | Collectibles of Chapter II | 23.00% | ~145 |
-| It's Just an Accident | 23.00% | ~145 |
 | Broken Hopes | 22.00% | ~139 |
 | Bullseye! | 22.00% | ~139 |
 | Sorrow | 19.00% | ~120 |

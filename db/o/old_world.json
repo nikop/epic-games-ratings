@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15388,
+  "EOS_Progressed": 15389,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16210,6 +16210,11 @@
       "Time": "2023-11-19T19:04:12.2900107+00:00",
       "NumProgressed": 15388,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-19T20:04:37.716747+00:00",
+      "NumProgressed": 15389,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16637,7 +16642,7 @@
       "Name": "Devout",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -16787,9 +16792,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 616
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -16821,7 +16826,7 @@
       "Name": "Ready",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -17069,7 +17074,7 @@
       "Name": "Clerics",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -17845,7 +17850,7 @@
       "Name": "Egypt",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -18021,7 +18026,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -18189,7 +18194,7 @@
       "Name": "Enlightenment",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -18237,7 +18242,7 @@
       "Name": "Veneration",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -18956,21 +18961,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15388,
+      "Progressed": 15389,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15388,
+      "Progressed": 15389,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:04:12.2900101+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:04:37.7167466+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:43.7872189+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:04:12.2910544+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:00:07.4589843+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:04:37.7176521+00:00"
 }

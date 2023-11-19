@@ -7123,9 +7123,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140611,
+  "EOS_Progressed": 140620,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 1035,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29063,6 +29063,11 @@
       "Time": "2023-11-19T19:04:50.5346407+00:00",
       "NumProgressed": 140611,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-19T20:05:19.2066565+00:00",
+      "NumProgressed": 140620,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29090,7 +29095,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "advlevel04",
@@ -29170,7 +29175,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "blueprint01",
@@ -29218,7 +29223,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "boss03",
@@ -29274,7 +29279,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "collection03",
@@ -29322,7 +29327,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "commonres04",
@@ -29338,7 +29343,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "craft02",
@@ -29354,7 +29359,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "craft04",
@@ -29386,7 +29391,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "damage03",
@@ -29410,7 +29415,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "enchant02",
@@ -29426,7 +29431,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "energy02",
@@ -29450,7 +29455,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "expansion02",
@@ -29458,7 +29463,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "expansion03",
@@ -29490,7 +29495,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "furniture03",
@@ -29546,7 +29551,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "gold02",
@@ -29578,7 +29583,7 @@
       "Name": "Mammonite",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "gold06",
@@ -29658,7 +29663,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "level02",
@@ -29690,7 +29695,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "loot01",
@@ -29706,7 +29711,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "loot03",
@@ -29746,7 +29751,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "master04",
@@ -29778,7 +29783,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "quest01",
@@ -29850,7 +29855,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "sell02",
@@ -29858,7 +29863,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "sell03",
@@ -29914,7 +29919,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "uncommonres02",
@@ -29938,7 +29943,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "workers02",
@@ -29954,7 +29959,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "yami_a",
@@ -29969,15 +29974,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140611,
+      "Progressed": 140620,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-19T19:02:27.3860363+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:04:50.5346402+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:05:19.206656+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:02:27.3860368+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:04:50.5350256+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:00:52.7051944+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:05:19.2068612+00:00"
 }

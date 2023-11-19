@@ -13,14 +13,14 @@
 | Not so hip anymore! | 84.00% | ~108 |
 | Blurry depth perception | 82.00% | ~105 |
 | Nerd | 80.00% | ~102 |
-| Up and down | 77.00% | ~99 |
+| Up and down | 78.00% | ~100 |
 | Rolling, Rolling, Rolling | 74.00% | ~95 |
 | Fire-fighter! | 66.00% | ~84 |
 | Oh, you're up to no gouda! | 64.00% | ~82 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~78 |
-| Meat grinder | 59.00% | ~76 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~79 |
+| Meat grinder | 60.00% | ~77 |
 | You're not going to blow me up! | 55.00% | ~70 |
-| Mushroom soup of the day | 51.00% | ~65 |
+| Mushroom soup of the day | 52.00% | ~67 |
 | Honk honk! | 48.00% | ~61 |
 | Cockadoodledoo! | 48.00% | ~61 |
 | Butcher | 47.00% | ~60 |
@@ -32,10 +32,10 @@
 | Haemochromatosis | 38.00% | ~49 |
 | Pasta Bolognese | 34.00% | ~44 |
 | Make America Grate Again | 33.00% | ~42 |
+| You are no match for me, Billy! | 31.00% | ~40 |
 | Catch the bus with me! | 31.00% | ~40 |
 | Karaoke king | 31.00% | ~40 |
 | You can't stop me, bro! | 31.00% | ~40 |
-| You are no match for me, Billy! | 30.00% | ~38 |
 | Meatballs, coming up! | 29.00% | ~37 |
 | I'm going to get a concussion | 29.00% | ~37 |
 | Another one bites the iron | 26.00% | ~33 |

@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -536,9 +536,9 @@
       "ID": "TINGWD_PERPETUITY",
       "SetID": "c0imaa6",
       "Name": "Life sentence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:04:15.5172536+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:04:40.8311165+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:43.2795435+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:04:15.5172869+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:00:06.8625787+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:04:40.8311403+00:00"
 }

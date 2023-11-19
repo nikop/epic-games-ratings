@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3251,9 +3251,9 @@
       "Count": 325
     }
   ],
-  "EOS_Progressed": 17349,
+  "EOS_Progressed": 17350,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13741,6 +13741,11 @@
       "Time": "2023-11-19T15:08:10.7693453+00:00",
       "NumProgressed": 17349,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-19T20:08:04.7840709+00:00",
+      "NumProgressed": 17350,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -13808,7 +13813,7 @@
       "Name": "Lizard Utopia",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ManyEvents",
@@ -13840,7 +13845,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "WinHard",
@@ -13872,7 +13877,7 @@
       "Name": "Bandit Camp",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinNearBarren",
@@ -13888,7 +13893,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinNearCrystals",
@@ -13896,7 +13901,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinNearDangerous",
@@ -13968,7 +13973,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinNearRuins",
@@ -13976,7 +13981,7 @@
       "Name": "Lost Colonies",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinNearStatue",
@@ -14008,7 +14013,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinOnCoral",
@@ -14032,7 +14037,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "WinOnMoorlands",
@@ -14048,7 +14053,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "WinPrestige20",
@@ -14064,7 +14069,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinWIthCaches",
@@ -14080,7 +14085,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "WinWithEvents",
@@ -14088,7 +14093,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "WinWithResolve",
@@ -14120,7 +14125,7 @@
       "Name": "Trade Baron",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "WinWithoutDeath",
@@ -14128,7 +14133,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "WinWithoutOrders",
@@ -14151,15 +14156,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17349,
+      "Progressed": 17350,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-19T07:57:29.1859996+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:07:59.7520719+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:08:04.7840706+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:41.6473201+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:07:59.7521638+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:57:51.2639266+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:08:04.7841621+00:00"
 }

@@ -1207,10 +1207,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 585,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-11-19T19:57:46.5949923+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 587,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 585,
+  "NumberOfAwards": 587,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1242,7 +1248,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 48
+      "Count": 50
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1287,9 +1293,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 304074,
+  "EOS_Progressed": 304190,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 10391,
+  "EOS_NewPlayers": 10411,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12747,6 +12753,11 @@
       "Time": "2023-11-19T19:04:19.9907198+00:00",
       "NumProgressed": 304074,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2023-11-19T20:04:45.68997+00:00",
+      "NumProgressed": 304190,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 24,
@@ -12758,7 +12769,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "10",
@@ -12766,7 +12777,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15204
+      "UsersEstimate": 15210
     },
     {
       "ID": "11",
@@ -12790,7 +12801,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.6,
       "XP": 70,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "14",
@@ -12798,7 +12809,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18244
+      "UsersEstimate": 18251
     },
     {
       "ID": "15",
@@ -12806,7 +12817,7 @@
       "Name": "FRAMED!",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "16",
@@ -12814,7 +12825,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "17",
@@ -12822,7 +12833,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "18",
@@ -12830,7 +12841,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "19",
@@ -12846,7 +12857,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "20",
@@ -12854,7 +12865,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12163
+      "UsersEstimate": 12168
     },
     {
       "ID": "21",
@@ -12862,7 +12873,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "22",
@@ -12870,7 +12881,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "23",
@@ -12878,7 +12889,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6084
     },
     {
       "ID": "24",
@@ -12886,7 +12897,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9126
     },
     {
       "ID": "3",
@@ -12894,7 +12905,7 @@
       "Name": "FRIENDLY",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "4",
@@ -12902,7 +12913,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9126
     },
     {
       "ID": "5",
@@ -12910,7 +12921,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30407
+      "UsersEstimate": 30419
     },
     {
       "ID": "6",
@@ -12918,7 +12929,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9126
     },
     {
       "ID": "7",
@@ -12926,7 +12937,7 @@
       "Name": "MASTER",
       "Percentage": 0.8,
       "XP": 65,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "8",
@@ -12934,7 +12945,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "9",
@@ -12942,23 +12953,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 304074,
+      "Progressed": 304190,
       "Completed": 306
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-19T18:57:37.5954781+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:04:19.9907193+00:00",
+  "LastChanged": "2023-11-19T19:57:46.5949921+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:04:45.6899696+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:37.5954786+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:04:19.9908038+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:57:46.5949925+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:04:45.6900467+00:00"
 }

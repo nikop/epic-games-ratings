@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12291,9 +12291,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459521,
+  "EOS_Progressed": 459580,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5422,
+  "EOS_NewPlayers": 5430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36721,6 +36721,11 @@
       "Time": "2023-11-19T19:05:55.860002+00:00",
       "NumProgressed": 459521,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T20:06:28.8635466+00:00",
+      "NumProgressed": 459580,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37538,9 +37543,9 @@
       "ID": "achievement_first_toungoo_empire",
       "SetID": "67mdiil",
       "Name": "The First Toungoo Empire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_for_odin",
@@ -39635,21 +39640,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459521,
+      "Progressed": 459580,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459521,
+      "Progressed": 459580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-19T16:59:59.7003229+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:05:55.8600016+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:06:28.8635461+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:49.1178184+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:05:55.8609974+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:00:12.6218132+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:06:28.8645435+00:00"
 }

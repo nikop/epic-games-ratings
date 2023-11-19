@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trinity | 8.00% | ~16 |
+| Find Allies | 6.00% | ~12 |
 | I Found It | 6.00% | ~12 |
-| Find Allies | 5.00% | ~10 |
 | Powerful Allies | 5.00% | ~10 |
 | Adventurer | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |

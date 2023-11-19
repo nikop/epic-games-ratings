@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -607,6 +607,11 @@
       "Time": "2023-11-19T19:03:21.3539775+00:00",
       "NumProgressed": 268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T20:03:43.7191624+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -635,7 +640,7 @@
       "Name": "Chosen Victor",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -673,9 +678,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "CompleteChapter10",
@@ -715,7 +720,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteChapter15",
@@ -723,7 +728,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteChapter16",
@@ -739,7 +744,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -761,9 +766,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "CompleteChapter3",
@@ -779,7 +784,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CompleteChapter5",
@@ -811,7 +816,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter9",
@@ -914,14 +919,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:03:21.353977+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:03:43.7191619+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:22.1057456+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:03:21.3540026+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:59:43.5572976+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:03:43.7191904+00:00"
 }

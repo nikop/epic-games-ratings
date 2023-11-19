@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -105,7 +105,7 @@
   ],
   "EOS_Progressed": 396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -903,9 +903,9 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "AbInitio",
@@ -1047,9 +1047,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "GrasslandsRing",
@@ -1167,9 +1167,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "PrometheusUnbound",
@@ -1239,9 +1239,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "TeamSpirit",
@@ -1263,9 +1263,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 111
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1303,17 +1303,17 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 293
     },
     {
       "ID": "TouchGrass",
@@ -1384,8 +1384,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:06:15.2081616+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:06:49.4125818+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:44.5952745+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:06:15.208206+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:57:54.4671667+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:06:49.4126225+00:00"
 }

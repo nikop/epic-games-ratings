@@ -22,10 +22,10 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 0.60% | ~9 |
 | Who's Counting? | 0.60% | ~9 |
 | Pyrrhic Victory | 0.50% | ~7 |
+| A Story of Heroes | 0.50% | ~7 |
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
-| A Story of Heroes | 0.40% | ~6 |
 | Chain Reaction | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |

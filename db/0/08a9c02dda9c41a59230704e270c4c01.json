@@ -2,10 +2,10 @@
   "ID": "08a9c02dda9c41a59230704e270c4c01",
   "Name": "Outbreak Lost Hope Broken Faith",
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 602,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
     "PcReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2023-10-23T01:51:16.8466706+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T20:04:58.9852829+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-09T15:02:36.7106799+00:00",
@@ -79,7 +84,7 @@
       "ID": "BEWARE_THE_SHADOWS_ACH",
       "SetID": "1go0aao",
       "Name": "Beware the Shadows",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "GET_AWAY_FROM_HER_ACH",
       "SetID": "1go0aao",
       "Name": "Get Away From Her!",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -119,7 +124,7 @@
       "ID": "IVE_LOST_HER_ACH",
       "SetID": "1go0aao",
       "Name": "I\u0027ve Lost Her",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -127,7 +132,7 @@
       "ID": "I_NEED_A_WEAPON_ACH",
       "SetID": "1go0aao",
       "Name": "I Need a Weapon",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "TRIGGERED_THE_ONSLAUGHT_ACH",
       "SetID": "1go0aao",
       "Name": "Triggered the Onslaught",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "WALK_IN_THE_PARK_ACH",
       "SetID": "1go0aao",
       "Name": "Walk in the Park",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -176,14 +181,14 @@
     {
       "ID": "1go0aao",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:31.2622202+00:00",
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:04:32.3206276+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:04:58.9852824+00:00",
   "LastUpdate_AppInfo": "2023-11-15T22:57:05.5529123+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:50.4322866+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:04:32.3206355+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:58:00.7815279+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:04:58.9852914+00:00"
 }

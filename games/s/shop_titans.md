@@ -9,13 +9,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,031 |
 | Basic in Bulk | 5.00% | ~7,031 |
 | Titan's First Steps | 5.00% | ~7,031 |
-| Tinkle of Coins | 4.00% | ~5,624 |
-| Disintermediation | 3.00% | ~4,218 |
-| Another Satisfied Customer | 3.00% | ~4,218 |
-| It's Free Real Estate | 3.00% | ~4,218 |
-| Budding Merchant | 3.00% | ~4,218 |
-| Capitalism Ho! | 3.00% | ~4,218 |
-| Own the Means of Production | 3.00% | ~4,218 |
+| Tinkle of Coins | 4.00% | ~5,625 |
+| Disintermediation | 3.00% | ~4,219 |
+| Another Satisfied Customer | 3.00% | ~4,219 |
+| It's Free Real Estate | 3.00% | ~4,219 |
+| Budding Merchant | 3.00% | ~4,219 |
+| Capitalism Ho! | 3.00% | ~4,219 |
+| Own the Means of Production | 3.00% | ~4,219 |
 | The Daily Grind | 2.00% | ~2,812 |
 | One Easy Payment | 2.00% | ~2,812 |
 | Some Assembly Required | 2.00% | ~2,812 |
@@ -48,24 +48,24 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,406 |
 | Magical Harmony | 1.00% | ~1,406 |
 | Arcane Industries | 1.00% | ~1,406 |
-| A Notch Above the Rest | 0.90% | ~1,265 |
-| The King's Caprice | 0.90% | ~1,265 |
-| Big Game Hunting | 0.90% | ~1,265 |
-| Scrapbooker | 0.90% | ~1,265 |
-| Locally Sourced | 0.90% | ~1,265 |
-| Flying off the Shelves | 0.90% | ~1,265 |
-| This Power Level...! | 0.90% | ~1,265 |
-| Hidden Potential | 0.90% | ~1,265 |
-| Expansion in Session | 0.90% | ~1,265 |
-| Cranked up to 11 | 0.90% | ~1,265 |
-| Mammonite | 0.90% | ~1,265 |
-| Miracle Alchemist | 0.90% | ~1,265 |
-| Laden with Loot | 0.90% | ~1,265 |
-| Seasoned Journeyman | 0.90% | ~1,265 |
-| Scourge of the Seas | 0.90% | ~1,265 |
-| Black Friday Special | 0.90% | ~1,265 |
-| Special Ingredient | 0.90% | ~1,265 |
-| Complete Monopoly | 0.90% | ~1,265 |
+| A Notch Above the Rest | 0.90% | ~1,266 |
+| The King's Caprice | 0.90% | ~1,266 |
+| Big Game Hunting | 0.90% | ~1,266 |
+| Scrapbooker | 0.90% | ~1,266 |
+| Locally Sourced | 0.90% | ~1,266 |
+| Flying off the Shelves | 0.90% | ~1,266 |
+| This Power Level...! | 0.90% | ~1,266 |
+| Hidden Potential | 0.90% | ~1,266 |
+| Expansion in Session | 0.90% | ~1,266 |
+| Cranked up to 11 | 0.90% | ~1,266 |
+| Mammonite | 0.90% | ~1,266 |
+| Miracle Alchemist | 0.90% | ~1,266 |
+| Laden with Loot | 0.90% | ~1,266 |
+| Seasoned Journeyman | 0.90% | ~1,266 |
+| Scourge of the Seas | 0.90% | ~1,266 |
+| Black Friday Special | 0.90% | ~1,266 |
+| Special Ingredient | 0.90% | ~1,266 |
+| Complete Monopoly | 0.90% | ~1,266 |
 | Cream of the Crop | 0.80% | ~1,125 |
 | Proud Paladin | 0.80% | ~1,125 |
 | Above the Norm | 0.80% | ~1,125 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,611 (Ranked 80)  
+Progressed: 140,620 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 188 (0.13%) (Ranked 267)
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
-| 2023-11-19 | 140,611 | 188 |
+| 2023-11-19 | 140,620 | 188 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,568 (Ranked 50)  

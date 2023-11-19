@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10749,9 +10749,9 @@
       "Count": 794
     }
   ],
-  "EOS_Progressed": 302426,
+  "EOS_Progressed": 302433,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33674,6 +33674,11 @@
       "Time": "2023-11-19T19:09:03.8135376+00:00",
       "NumProgressed": 302426,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-19T20:09:24.5595035+00:00",
+      "NumProgressed": 302433,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33685,7 +33690,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48389
     },
     {
       "ID": "PFA_10",
@@ -33693,7 +33698,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_11",
@@ -33701,7 +33706,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_12",
@@ -33709,7 +33714,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_13",
@@ -33717,7 +33722,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_14",
@@ -33733,7 +33738,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24194
+      "UsersEstimate": 24195
     },
     {
       "ID": "PFA_16",
@@ -33741,7 +33746,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_17",
@@ -33749,7 +33754,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24194
+      "UsersEstimate": 24195
     },
     {
       "ID": "PFA_18",
@@ -33757,7 +33762,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24194
+      "UsersEstimate": 24195
     },
     {
       "ID": "PFA_19",
@@ -33765,7 +33770,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24194
+      "UsersEstimate": 24195
     },
     {
       "ID": "PFA_2",
@@ -33773,7 +33778,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "PFA_20",
@@ -33789,7 +33794,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_22",
@@ -33805,7 +33810,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39315
+      "UsersEstimate": 39316
     },
     {
       "ID": "PFA_24",
@@ -33813,7 +33818,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_25",
@@ -33869,7 +33874,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36291
+      "UsersEstimate": 36292
     },
     {
       "ID": "PFA_31",
@@ -33941,7 +33946,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33267
+      "UsersEstimate": 33268
     },
     {
       "ID": "PFA_4",
@@ -33949,7 +33954,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "PFA_40",
@@ -33965,7 +33970,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "PFA_42",
@@ -33989,7 +33994,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27218
+      "UsersEstimate": 27219
     },
     {
       "ID": "PFA_45",
@@ -34013,7 +34018,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42340
+      "UsersEstimate": 42341
     },
     {
       "ID": "PFA_7",
@@ -34021,7 +34026,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42340
+      "UsersEstimate": 42341
     },
     {
       "ID": "PFA_8",
@@ -34029,7 +34034,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39315
+      "UsersEstimate": 39316
     },
     {
       "ID": "PFA_9",
@@ -34044,7 +34049,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302426,
+      "Progressed": 302433,
       "Completed": 512
     }
   ],
@@ -34052,8 +34057,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-19T18:59:31.5658377+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:09:03.8135369+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:09:24.5595033+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:31.5658383+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:09:03.8136404+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:59:53.8882629+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:09:24.5596207+00:00"
 }

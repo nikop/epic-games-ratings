@@ -67,6 +67,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 0.10% | ~460 |
 | Fine Financials | 0.10% | ~460 |
 | A Fine Goosestep | 0.10% | ~460 |
+| The First Toungoo Empire | 0.10% | ~460 |
 | For the Emperor! | 0.10% | ~460 |
 | For the Glory | 0.10% | ~460 |
 | Forever Golden | 0.10% | ~460 |
@@ -257,7 +258,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
-| The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,521 (Ranked 41)  
+Progressed: 459,580 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,521 | 1 |
+| 2023-11-19 | 459,580 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
 Sum: 58,277 (Ranked 24)  

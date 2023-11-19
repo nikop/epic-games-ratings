@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 748,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -1504,9 +1504,9 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 411
     },
     {
       "ID": "EV_ACH06",
@@ -1528,9 +1528,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 322
     },
     {
       "ID": "EV_ACH09",
@@ -1728,9 +1728,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 531
     },
     {
       "ID": "EV_ACH34",
@@ -1752,9 +1752,9 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 367
     },
     {
       "ID": "EV_ACH37",
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:09:04.1839054+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:09:24.9532793+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:11.8151467+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:09:04.1839423+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:59:31.9296624+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:09:24.9533071+00:00"
 }

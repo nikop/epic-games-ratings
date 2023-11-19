@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -1778,9 +1778,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_eou2",
@@ -1881,8 +1881,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:05:25.5869383+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:05:56.1177281+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:42.3518344+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:41.2031468+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:05:25.5869563+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:57:50.8001179+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:05:56.1177437+00:00"
 }

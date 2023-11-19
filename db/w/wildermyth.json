@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2119,9 +2119,9 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "completedStory_ulstryx",
@@ -2311,8 +2311,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:08:56.236311+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:09:16.3162395+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:05.7005154+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:08:56.2363526+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:57:10.3826167+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:09:16.3162788+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 43,
@@ -1451,9 +1451,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429059,
+  "EOS_Progressed": 429060,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15341,6 +15341,11 @@
       "Time": "2023-11-19T18:04:47.3447707+00:00",
       "NumProgressed": 429059,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-11-19T20:05:15.893765+00:00",
+      "NumProgressed": 429060,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 41,
@@ -15368,7 +15373,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257435
+      "UsersEstimate": 257436
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15400,7 +15405,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111555
+      "UsersEstimate": 111556
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -15432,7 +15437,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257435
+      "UsersEstimate": 257436
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15464,7 +15469,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133008
+      "UsersEstimate": 133009
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -15472,7 +15477,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111555
+      "UsersEstimate": 111556
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -15520,7 +15525,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407606
+      "UsersEstimate": 407607
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15536,7 +15541,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308922
+      "UsersEstimate": 308923
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15552,7 +15557,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300341
+      "UsersEstimate": 300342
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -15560,7 +15565,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111555
+      "UsersEstimate": 111556
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -15568,7 +15573,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343247
+      "UsersEstimate": 343248
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15592,7 +15597,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68649
+      "UsersEstimate": 68650
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -15600,7 +15605,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197367
+      "UsersEstimate": 197368
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -15608,7 +15613,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141589
+      "UsersEstimate": 141590
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -15632,7 +15637,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240273
+      "UsersEstimate": 240274
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15664,7 +15669,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133008
+      "UsersEstimate": 133009
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -15679,15 +15684,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429059,
+      "Progressed": 429060,
       "Completed": 547
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-19T15:02:24.7874888+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:04:47.4745396+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:05:15.8937636+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:06.8328833+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:00:24.9457607+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:04:47.4746133+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:00:51.3834834+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:05:15.8938814+00:00"
 }

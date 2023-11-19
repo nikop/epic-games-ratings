@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7306,
+  "EOS_Progressed": 7307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8585,6 +8585,11 @@
       "Time": "2023-11-19T18:08:18.8317628+00:00",
       "NumProgressed": 7306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T20:08:36.8057576+00:00",
+      "NumProgressed": 7307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8708,7 +8713,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5260
+      "UsersEstimate": 5261
     },
     {
       "ID": "First_Ship_Designed",
@@ -8788,7 +8793,7 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Level_5_Ship",
@@ -8900,7 +8905,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -9084,7 +9089,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4749
+      "UsersEstimate": 4750
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9092,7 +9097,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Win_Conquest",
@@ -9171,15 +9176,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7306,
+      "Progressed": 7307,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:08:20.2623118+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:08:36.8057573+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:59:27.5890414+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:08:20.2624183+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:59:49.558684+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:08:36.8058511+00:00"
 }

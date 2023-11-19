@@ -5,66 +5,66 @@ Rating: 4.13 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~8,644 |
-| First fall | 36.00% | ~5,557 |
-| Don't play with fire, kids | 27.00% | ~4,167 |
-| First steps | 27.00% | ~4,167 |
-| 1.000.000 Scovilles | 19.00% | ~2,933 |
-| An Old Timer | 18.00% | ~2,778 |
-| I'll give this one a 0 star rating | 18.00% | ~2,778 |
-| Hands up! | 16.00% | ~2,470 |
-| Feeling Better | 16.00% | ~2,470 |
-| Unfortunate Plumber | 15.00% | ~2,315 |
-| Don't interrupt my research! | 14.00% | ~2,161 |
-| A Good Read | 11.00% | ~1,698 |
-| Boot for an eye | 10.00% | ~1,544 |
-| Pacifist Run | 7.00% | ~1,080 |
-| Uh, Which Key is the Right One? | 6.00% | ~926 |
-| Golden fingers | 5.00% | ~772 |
-| OMG I FOUND A BUG | 5.00% | ~772 |
-| Spiky chin | 4.00% | ~617 |
-| I Think I'm Lost | 4.00% | ~617 |
-| Meat Machine | 4.00% | ~617 |
-| Untouchable | 4.00% | ~617 |
-| Merchant | 3.00% | ~463 |
-| Groovy! | 3.00% | ~463 |
-| Gentle hugs | 3.00% | ~463 |
-| Mmm, tasty | 3.00% | ~463 |
-| Good Murder | 3.00% | ~463 |
-| Infinite pleasure | 2.00% | ~309 |
-| Body Building | 2.00% | ~309 |
-| Stranger in the Elevator | 2.00% | ~309 |
-| Golden tongue | 1.00% | ~154 |
-| Smothered in Meat | 1.00% | ~154 |
-| No Love | 1.00% | ~154 |
-| Vampire Killer | 1.00% | ~154 |
-| Where are those diamonds? | 1.00% | ~154 |
-| Blue Valentine | 1.00% | ~154 |
-| Can i be more unfortunate? | 0.90% | ~139 |
-| Now you see | 0.80% | ~123 |
+| Fire safety | 56.00% | ~8,682 |
+| First fall | 36.00% | ~5,581 |
+| Don't play with fire, kids | 27.00% | ~4,186 |
+| First steps | 27.00% | ~4,186 |
+| 1.000.000 Scovilles | 19.00% | ~2,946 |
+| An Old Timer | 18.00% | ~2,791 |
+| I'll give this one a 0 star rating | 18.00% | ~2,791 |
+| Hands up! | 16.00% | ~2,480 |
+| Feeling Better | 16.00% | ~2,480 |
+| Unfortunate Plumber | 15.00% | ~2,325 |
+| Don't interrupt my research! | 14.00% | ~2,170 |
+| A Good Read | 11.00% | ~1,705 |
+| Boot for an eye | 10.00% | ~1,550 |
+| Pacifist Run | 7.00% | ~1,085 |
+| Uh, Which Key is the Right One? | 6.00% | ~930 |
+| Golden fingers | 5.00% | ~775 |
+| OMG I FOUND A BUG | 5.00% | ~775 |
+| Spiky chin | 4.00% | ~620 |
+| I Think I'm Lost | 4.00% | ~620 |
+| Meat Machine | 4.00% | ~620 |
+| Untouchable | 4.00% | ~620 |
+| Merchant | 3.00% | ~465 |
+| Groovy! | 3.00% | ~465 |
+| Gentle hugs | 3.00% | ~465 |
+| Mmm, tasty | 3.00% | ~465 |
+| Good Murder | 3.00% | ~465 |
+| Infinite pleasure | 2.00% | ~310 |
+| Body Building | 2.00% | ~310 |
+| Stranger in the Elevator | 2.00% | ~310 |
+| Golden tongue | 1.00% | ~155 |
+| Smothered in Meat | 1.00% | ~155 |
+| No Love | 1.00% | ~155 |
+| Vampire Killer | 1.00% | ~155 |
+| Where are those diamonds? | 1.00% | ~155 |
+| Blue Valentine | 1.00% | ~155 |
+| Can i be more unfortunate? | 0.90% | ~140 |
+| Now you see | 0.80% | ~124 |
 | Don't Come Near Me | 0.60% | ~93 |
-| Athletic | 0.50% | ~77 |
-| A Heap of Raw Meat | 0.50% | ~77 |
+| Athletic | 0.50% | ~78 |
+| A Heap of Raw Meat | 0.50% | ~78 |
 | Golden eyes | 0.40% | ~62 |
 | Multi-Love | 0.40% | ~62 |
 | Swim in the Asphalt | 0.40% | ~62 |
-| Love through meat | 0.30% | ~46 |
-| Hate Me | 0.30% | ~46 |
+| Love through meat | 0.30% | ~47 |
+| Hate Me | 0.30% | ~47 |
 | I AM MEAT | 0.20% | ~31 |
 | I'm not a sushi | 0.20% | ~31 |
 | Taste of Your Own Poison | 0.20% | ~31 |
 | Wild Circus | 0.20% | ~31 |
-| Golden heart | 0.10% | ~15 |
-| Ram of Hell | 0.10% | ~15 |
-| Good father | 0.10% | ~15 |
-| Merchant Maniac | 0.10% | ~15 |
-| I am Unstoppable | 0.10% | ~15 |
-| Meat Dog | 0.10% | ~15 |
-| Val | 0.10% | ~15 |
-| Book Lover | 0.10% | ~15 |
-| I. AM. DEATH. | 0.10% | ~15 |
-| Dog | 0.10% | ~15 |
-| Shlong | 0.10% | ~15 |
+| Golden heart | 0.10% | ~16 |
+| Ram of Hell | 0.10% | ~16 |
+| Good father | 0.10% | ~16 |
+| Merchant Maniac | 0.10% | ~16 |
+| I am Unstoppable | 0.10% | ~16 |
+| Meat Dog | 0.10% | ~16 |
+| Val | 0.10% | ~16 |
+| Book Lover | 0.10% | ~16 |
+| I. AM. DEATH. | 0.10% | ~16 |
+| Dog | 0.10% | ~16 |
+| Shlong | 0.10% | ~16 |
 | MMMEEEAAATTT | 0.00% | ~0 |
 | Meat Shlong | 0.00% | ~0 |
 | Meat Killer | 0.00% | ~0 |
@@ -73,7 +73,7 @@ Rating: 4.13 (Ranked 957)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,435 (Ranked 149)  
+Progressed: 15,503 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 9,719 | 0 |
 | 2023-11-17 | 12,074 | 0 |
 | 2023-11-18 | 14,127 | 0 |
-| 2023-11-19 | 15,435 | 0 |
+| 2023-11-19 | 15,503 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

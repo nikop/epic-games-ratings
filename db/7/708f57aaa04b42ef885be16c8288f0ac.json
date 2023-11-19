@@ -6,8 +6,8 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,11 +111,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5597,
+  "EOS_Progressed": 5600,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -3766,6 +3766,11 @@
       "Time": "2023-11-19T19:08:46.2944099+00:00",
       "NumProgressed": 5597,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T20:09:05.4408227+00:00",
+      "NumProgressed": 5600,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3850,7 +3855,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4049,7 +4054,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5597,
+      "Progressed": 5600,
       "Completed": 7
     }
   ],
@@ -4057,8 +4062,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T19:08:46.2944095+00:00",
+  "LastChanged_Achievements": "2023-11-19T20:09:05.4408222+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:57:47.7963731+00:00",
-  "LastUpdate_Achievements": "2023-11-19T19:08:46.2944407+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:57:57.8804351+00:00",
+  "LastUpdate_Achievements": "2023-11-19T20:09:05.4408618+00:00"
 }

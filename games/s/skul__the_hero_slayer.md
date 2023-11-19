@@ -6,13 +6,13 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,722 |
+| The Legend Begins | 93.00% | ~7,723 |
 | What should I buy? | 84.00% | ~6,975 |
-| Rescued Elder Ent | 64.00% | ~5,314 |
-| Focus! | 63.00% | ~5,231 |
-| The End of the Gold Mane Knights | 49.00% | ~4,068 |
-| False Goddess, Disappear | 41.00% | ~3,404 |
-| Rules of Etiquette | 41.00% | ~3,404 |
+| Rescued Elder Ent | 64.00% | ~5,315 |
+| Focus! | 63.00% | ~5,232 |
+| The End of the Gold Mane Knights | 49.00% | ~4,069 |
+| False Goddess, Disappear | 41.00% | ~3,405 |
+| Rules of Etiquette | 41.00% | ~3,405 |
 | Quick Movements | 35.00% | ~2,906 |
 | Inventory Management | 35.00% | ~2,906 |
 | The Fall of the Leonia Order | 32.00% | ~2,657 |
@@ -22,8 +22,8 @@ Number of Ratings: 546  (23.09.2022)
 | Brain at Full Throttle | 24.00% | ~1,993 |
 | Rookies Welcome | 20.00% | ~1,661 |
 | Deadly Power | 17.00% | ~1,412 |
-| Castle Restoration Plans | 15.00% | ~1,245 |
-| The Dwarven Chandelier | 13.00% | ~1,079 |
+| Castle Restoration Plans | 15.00% | ~1,246 |
+| The Dwarven Chandelier | 13.00% | ~1,080 |
 | Master of Speed | 10.00% | ~830 |
 | The Levitator | 7.00% | ~581 |
 | The God of Battle | 3.00% | ~249 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~166 |
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,303 (Ranked 171)  
+Progressed: 8,304 (Ranked 171)  
 Completed: 14 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 14 (0.17%) (Ranked 260)
 | 2023-11-16 | 8,288 | 14 |
 | 2023-11-17 | 8,296 | 14 |
 | 2023-11-18 | 8,297 | 14 |
-| 2023-11-19 | 8,303 | 14 |
+| 2023-11-19 | 8,304 | 14 |
 ## Awards
 Max (Great for Beginners): 132  (Ranked 327)  
 Sum: 926 (Ranked 270)  

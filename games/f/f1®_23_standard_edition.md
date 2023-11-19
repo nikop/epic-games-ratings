@@ -6,8 +6,8 @@ Rating: 4.66 (Ranked 293)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 93.00% | ~5,414 |
-| On the Top Step | 87.00% | ~5,064 |
-| Setting up for Success | 77.00% | ~4,482 |
+| On the Top Step | 87.00% | ~5,065 |
+| Setting up for Success | 77.00% | ~4,483 |
 | Team Orders | 75.00% | ~4,366 |
 | Engineer | 55.00% | ~3,202 |
 | Familiar Faces | 47.00% | ~2,736 |
@@ -18,15 +18,15 @@ Rating: 4.66 (Ranked 293)
 | Challenge Yourself | 32.00% | ~1,863 |
 | Making History | 31.00% | ~1,805 |
 | Network Success | 27.00% | ~1,572 |
-| Writing a new Chapter | 25.00% | ~1,455 |
+| Writing a new Chapter | 25.00% | ~1,456 |
 | Spring Cleaning | 24.00% | ~1,397 |
 | Reduce | 20.00% | ~1,164 |
 | Ups and Downs | 20.00% | ~1,164 |
 | Crucial Combo | 19.00% | ~1,106 |
 | Reuse | 17.00% | ~990 |
-| Gathering Dust | 16.00% | ~931 |
-| One for the Book | 16.00% | ~931 |
-| Proving Them Wrong | 16.00% | ~931 |
+| Gathering Dust | 16.00% | ~932 |
+| One for the Book | 16.00% | ~932 |
+| Proving Them Wrong | 16.00% | ~932 |
 | Oil and Water | 14.00% | ~815 |
 | Eagle Eye | 13.00% | ~757 |
 | Lightning Round the World | 13.00% | ~757 |
@@ -47,15 +47,15 @@ Rating: 4.66 (Ranked 293)
 | Hitting a Century | 3.00% | ~175 |
 | Wait, I know you? | 3.00% | ~175 |
 | Filling in the Gaps | 2.00% | ~116 |
+| Under the Microscope | 1.00% | ~58 |
 | Saturday Night Drama | 1.00% | ~58 |
 | Media Darling | 1.00% | ~58 |
-| Under the Microscope | 0.90% | ~52 |
 | Ultimate Collector | 0.50% | ~29 |
 | Golden Touch | 0.30% | ~17 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,821 (Ranked 185)  
+Progressed: 5,822 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 5,758 | 0 |
 | 2023-11-17 | 5,778 | 0 |
 | 2023-11-18 | 5,803 | 0 |
-| 2023-11-19 | 5,821 | 0 |
+| 2023-11-19 | 5,822 | 0 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 468)  
 Sum: 79 (Ranked 459)  

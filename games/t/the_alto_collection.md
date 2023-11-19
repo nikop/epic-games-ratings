@@ -1,32 +1,32 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 213)  
+Rating: 4.70 (Ranked 212)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,694 |
-| Finding Your Footing | 25.00% | ~11,753 |
-| Nomad | 17.00% | ~7,992 |
-| Picking Up Speed | 16.00% | ~7,522 |
-| Welcome Maya | 14.00% | ~6,582 |
-| Scout | 11.00% | ~5,171 |
-| Sightseer | 11.00% | ~5,171 |
-| Amateur | 10.00% | ~4,701 |
-| Unlock Maya | 8.00% | ~3,761 |
-| Wanderer | 8.00% | ~3,761 |
-| Enter Paz | 7.00% | ~3,291 |
+| Rookie | 27.00% | ~12,696 |
+| Finding Your Footing | 25.00% | ~11,756 |
+| Nomad | 17.00% | ~7,994 |
+| Picking Up Speed | 16.00% | ~7,524 |
+| Welcome Maya | 14.00% | ~6,583 |
+| Scout | 11.00% | ~5,172 |
+| Sightseer | 11.00% | ~5,172 |
+| Amateur | 10.00% | ~4,702 |
+| Unlock Maya | 8.00% | ~3,762 |
+| Wanderer | 8.00% | ~3,762 |
+| Enter Paz | 7.00% | ~3,292 |
 | Aviator | 6.00% | ~2,821 |
 | My Little Friend | 5.00% | ~2,351 |
 | One With The Board | 5.00% | ~2,351 |
 | Voyager | 5.00% | ~2,351 |
 | Izel Has Arrived | 4.00% | ~1,881 |
-| Junkie | 3.00% | ~1,410 |
-| Traveler | 3.00% | ~1,410 |
-| Unlock Paz | 3.00% | ~1,410 |
-| Human Flight | 3.00% | ~1,410 |
-| Sandboarder | 3.00% | ~1,410 |
+| Junkie | 3.00% | ~1,411 |
+| Traveler | 3.00% | ~1,411 |
+| Unlock Paz | 3.00% | ~1,411 |
+| Human Flight | 3.00% | ~1,411 |
+| Sandboarder | 3.00% | ~1,411 |
 | Explorer | 2.00% | ~940 |
 | Pro | 2.00% | ~940 |
 | Journeyer | 2.00% | ~940 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,013 (Ranked 112)  
+Progressed: 47,022 (Ranked 112)  
 Completed: 5 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 5 (0.01%) (Ranked 334)
 | 2023-11-16 | 46,614 | 5 |
 | 2023-11-17 | 46,740 | 5 |
 | 2023-11-18 | 46,900 | 5 |
-| 2023-11-19 | 47,013 | 5 |
+| 2023-11-19 | 47,022 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 437)  
 Sum: 372 (Ranked 347)  

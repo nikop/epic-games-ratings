@@ -9,12 +9,12 @@
 | Spyglass | 84.00% | ~184 |
 | Broken toy | 78.00% | ~171 |
 | Egghead Lucy | 75.00% | ~164 |
-| Puppy | 62.00% | ~136 |
-| Coal's fur | 57.00% | ~125 |
+| Puppy | 63.00% | ~138 |
+| Coal's fur | 58.00% | ~127 |
 | Blue's drawing | 53.00% | ~116 |
 | Mysterious footprints | 48.00% | ~105 |
 | Glass shards | 45.00% | ~99 |
-| Complicated padlock | 41.00% | ~90 |
+| Complicated padlock | 42.00% | ~92 |
 | Windmill | 40.00% | ~88 |
 | Big metal ruler | 39.00% | ~85 |
 | Doll | 37.00% | ~81 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~11 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219 (Ranked 373)  
+Progressed: 219 (Ranked 374)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |

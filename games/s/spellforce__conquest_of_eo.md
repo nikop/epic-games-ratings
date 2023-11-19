@@ -14,10 +14,10 @@
 | Harvest Time | 76.00% | ~16 |
 | Mine! | 71.00% | ~15 |
 | Friend of Lyraine | 67.00% | ~14 |
-| Fly the friendly Sky | 62.00% | ~13 |
+| Fly the friendly Sky | 67.00% | ~14 |
+| The Circle | 57.00% | ~12 |
 | Alchemist's Apprentice | 57.00% | ~12 |
 | Redecorating | 52.00% | ~11 |
-| The Circle | 52.00% | ~11 |
 | Get out of here! | 52.00% | ~11 |
 | Necromancer's Apprentice | 48.00% | ~10 |
 | Friend of Sevenkeeps | 38.00% | ~8 |

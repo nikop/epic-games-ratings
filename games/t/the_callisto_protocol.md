@@ -6,7 +6,7 @@ Rating: 4.19 (Ranked 920)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 10.00% | ~1,646 |
-| Paper Jams | 9.00% | ~1,481 |
+| Paper Jams | 9.00% | ~1,482 |
 | Flesh Wound | 8.00% | ~1,317 |
 | Float Like A Butterfly | 7.00% | ~1,152 |
 | Two Heads Are Better Than One | 6.00% | ~988 |
@@ -27,7 +27,7 @@ Rating: 4.19 (Ranked 920)
 | Power Up | 5.00% | ~823 |
 | Giving Back | 4.00% | ~658 |
 | Terminated | 4.00% | ~658 |
-| It's Time | 4.00% | ~175 |
+| It's Time | 4.00% | ~176 |
 | The Commonality | 3.00% | ~494 |
 | In Striking Distance | 2.00% | ~329 |
 | One Last Job | 2.00% | ~88 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 920)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,461 (Ranked 147)  
+Progressed: 16,462 (Ranked 147)  
 Completed: 80 (0.49%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 80 (0.49%) (Ranked 202)
 | 2023-11-16 | 16,454 | 79 |
 | 2023-11-17 | 16,456 | 79 |
 | 2023-11-18 | 16,458 | 80 |
-| 2023-11-19 | 16,461 | 80 |
+| 2023-11-19 | 16,462 | 80 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 386)  
 Sum: 483 (Ranked 328)  

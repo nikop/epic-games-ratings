@@ -5,13 +5,13 @@ Rating: 4.46 (Ranked 646)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,255 |
-| My First Runbow | 50.00% | ~125,712 |
-| It's The Fall | 26.00% | ~65,370 |
+| In The Zone | 53.00% | ~133,256 |
+| My First Runbow | 50.00% | ~125,713 |
+| It's The Fall | 26.00% | ~65,371 |
 | The Stunner | 22.00% | ~55,314 |
 | Be Aggressive | 21.00% | ~52,799 |
 | Curator | 20.00% | ~50,285 |
-| Crowning Around | 18.00% | ~45,256 |
+| Crowning Around | 18.00% | ~45,257 |
 | Can You Dig It? | 17.00% | ~42,742 |
 | You Juan-A-Go? | 16.00% | ~40,228 |
 | Chan-tastic | 15.00% | ~37,714 |
@@ -24,9 +24,9 @@ Rating: 4.46 (Ranked 646)
 | Butt Butt | 6.00% | ~15,086 |
 | He Who Laughs Last | 3.00% | ~7,543 |
 | Shoo, Cat! | 3.00% | ~7,543 |
-| And You're Okay | 2.00% | ~5,028 |
-| Blotbuster | 2.00% | ~5,028 |
-| Thunderstruck | 2.00% | ~5,028 |
+| And You're Okay | 2.00% | ~5,029 |
+| Blotbuster | 2.00% | ~5,029 |
+| Thunderstruck | 2.00% | ~5,029 |
 | Just A Bit | 1.00% | ~2,514 |
 | Tubular, Dude | 1.00% | ~2,514 |
 | What A Trip | 1.00% | ~2,514 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 646)
 | Talent Scout | 0.10% | ~251 |
 | True Completionist | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,425 (Ranked 60)  
+Progressed: 251,426 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 6 (0.00%) (Ranked 356)
 | 2023-11-16 | 251,340 | 6 |
 | 2023-11-17 | 251,360 | 6 |
 | 2023-11-18 | 251,400 | 6 |
-| 2023-11-19 | 251,425 | 6 |
+| 2023-11-19 | 251,426 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

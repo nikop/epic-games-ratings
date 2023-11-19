@@ -8,17 +8,17 @@
 | Gorilla warfare | 59.00% | ~165 |
 | Isenburg's fall | 49.00% | ~137 |
 | Pieces of eight! | 43.00% | ~120 |
-| Aboard the Sea Bird | 32.00% | ~89 |
-| Elephant in the room | 32.00% | ~89 |
+| Aboard the Sea Bird | 32.00% | ~90 |
+| Elephant in the room | 32.00% | ~90 |
 | Dark and stinky | 30.00% | ~84 |
 | Sneak in, sneak out | 26.00% | ~73 |
 | Is this the end? | 25.00% | ~70 |
 | A gift horse | 25.00% | ~70 |
 | You sssaved me | 24.00% | ~67 |
-| Say hello to my little friends | 22.00% | ~61 |
+| Say hello to my little friends | 21.00% | ~59 |
 | Heal thyself | 20.00% | ~56 |
 | Gotcha | 19.00% | ~53 |
-| It's not cheating | 17.00% | ~47 |
+| It's not cheating | 17.00% | ~48 |
 | Double trouble | 16.00% | ~45 |
 | Stronk | 16.00% | ~45 |
 | Welcome to Forte Ailes | 14.00% | ~39 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279 (Ranked 355)  
+Progressed: 280 (Ranked 355)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-10-04 | 277 | 0 |
 | 2023-10-06 | 278 | 0 |
 | 2023-10-21 | 279 | 0 |
+| 2023-11-19 | 280 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
