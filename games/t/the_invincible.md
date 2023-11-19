@@ -8,13 +8,13 @@
 | The Camp | 23.00% | ~38 |
 | The City | 23.00% | ~38 |
 | The Teleprobe | 22.00% | ~37 |
-| Survivors | 20.00% | ~33 |
+| Survivors | 21.00% | ~35 |
 | The Condor | 19.00% | ~32 |
 | The End | 17.00% | ~28 |
 | The Necroevolution | 16.00% | ~27 |
-| On her own | 12.00% | ~20 |
+| On her own | 13.00% | ~22 |
 | Peacemaker | 12.00% | ~20 |
-| The Alliance | 11.00% | ~18 |
+| The Alliance | 12.00% | ~20 |
 | Krauta is alive | 10.00% | ~17 |
 | Volcanologist | 10.00% | ~17 |
 | Evacuation | 9.00% | ~15 |
@@ -34,7 +34,7 @@
 | I leave no man behind | 1.00% | ~2 |
 | No more mistakes | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166 (Ranked 391)  
+Progressed: 166 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |

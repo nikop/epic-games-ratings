@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Trinity | 7.00% | ~14 |
 | I Found It | 6.00% | ~12 |
+| Adventurer | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |
 | Powerful Allies | 4.00% | ~8 |
-| Adventurer | 4.00% | ~8 |
 | Break Out | 3.00% | ~6 |
 | Find Allies | 3.00% | ~6 |
 | Calm before the Storm | 3.00% | ~6 |
@@ -41,7 +41,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.00% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 193 (Ranked 383)  
+Progressed: 194 (Ranked 382)  
 Completed: 1 (0.52%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 1 (0.52%) (Ranked 198)
 | 2023-11-15 | 188 | 1 |
 | 2023-11-17 | 189 | 1 |
 | 2023-11-18 | 193 | 1 |
+| 2023-11-19 | 194 | 1 |

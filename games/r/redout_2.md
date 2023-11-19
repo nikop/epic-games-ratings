@@ -17,9 +17,9 @@ Rating: 4.48 (Ranked 622)
 | Walked like an Egyptian | 15.00% | ~175 |
 | Running at the speed of sound | 14.00% | ~164 |
 | Rookie No-No More | 13.00% | ~152 |
-| Martian explorer | 11.00% | ~128 |
-| To the core | 8.00% | ~93 |
-| Blurred photofinish | 8.00% | ~93 |
+| Martian explorer | 11.00% | ~129 |
+| To the core | 8.00% | ~94 |
+| Blurred photofinish | 8.00% | ~94 |
 | EZ game EZ life | 7.00% | ~82 |
 | First step into a larger world | 7.00% | ~82 |
 | Over the clouds | 6.00% | ~70 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 622)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,168 (Ranked 249)  
+Progressed: 1,169 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-11 | 1,165 | 0 |
 | 2023-11-13 | 1,166 | 0 |
 | 2023-11-17 | 1,168 | 0 |
+| 2023-11-19 | 1,169 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

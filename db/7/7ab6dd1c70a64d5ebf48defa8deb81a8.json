@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-11-18T21:13:06.1359372+00:00",
       "NumProgressed": 193,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T05:09:39.3490322+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -855,9 +860,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_14",
@@ -1048,14 +1053,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:10:05.3967637+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:09:39.3490317+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-19T03:59:21.814413+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:10:05.3967885+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:58:59.8043289+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:09:39.3490534+00:00"
 }

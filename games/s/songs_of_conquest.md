@@ -8,7 +8,7 @@ Number of Ratings: 292  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept | 22.00% | ~27 |
 | Double Kill | 18.00% | ~22 |
-| Veteran | 5.00% | ~6 |
+| Veteran | 6.00% | ~7 |
 | Dressed For Success | 4.00% | ~5 |
 | Critical Hit | 4.00% | ~5 |
 | Sorcerous Spree | 4.00% | ~5 |
@@ -23,6 +23,7 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 0.80% | ~1 |
 | Such A Fungi | 0.80% | ~1 |
 | Get Over Here! | 0.80% | ~1 |
+| Master | 0.80% | ~1 |
 | Veni, Vidi, Vici | 0.80% | ~1 |
 | Venisti, Vidisti, Perdidisti | 0.80% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
@@ -53,7 +54,6 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 0.00% | ~0 |
 | Trojan Horse | 0.00% | ~0 |
 | Ultra Kill | 0.00% | ~0 |
-| Master | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Pyrrhic Victory | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |

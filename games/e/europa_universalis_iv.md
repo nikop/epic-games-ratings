@@ -28,6 +28,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Avar Khaganate | 0.10% | ~459 |
 | Azur semé de lis or | 0.10% | ~459 |
 | Baa Baa Black Sheep | 0.10% | ~459 |
+| These Banners need a Saga | 0.10% | ~459 |
 | Basileus | 0.10% | ~459 |
 | Better than Napoleon | 0.10% | ~459 |
 | Big Blue Blob | 0.10% | ~459 |
@@ -99,6 +100,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Jerusalem | 0.10% | ~459 |
 | Kingdom of God | 0.10% | ~459 |
 | Krabater | 0.10% | ~459 |
+| Land of Eastern Jade | 0.10% | ~459 |
 | Laughingstock | 0.10% | ~459 |
 | Lazarus | 0.10% | ~459 |
 | Liberty or Death | 0.10% | ~459 |
@@ -220,7 +222,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back in Control | 0.00% | ~0 |
 | Back to the Piast | 0.00% | ~0 |
 | Baltic Crusader | 0.00% | ~0 |
-| These Banners need a Saga | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
@@ -280,7 +281,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kow-Tow | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
-| Land of Eastern Jade | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | The Levant Turnabout | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,907 (Ranked 41)  
+Progressed: 458,931 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 458,907 | 1 |
+| 2023-11-19 | 458,931 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
 Sum: 58,169 (Ranked 24)  

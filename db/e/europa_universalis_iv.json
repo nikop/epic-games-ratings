@@ -12261,9 +12261,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 458907,
+  "EOS_Progressed": 458931,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5682,
+  "EOS_NewPlayers": 5679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36616,6 +36616,11 @@
       "Time": "2023-11-19T04:06:43.5419741+00:00",
       "NumProgressed": 458907,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T05:05:46.1721516+00:00",
+      "NumProgressed": 458931,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36945,9 +36950,9 @@
       "ID": "achievement_banners_need_a_saga",
       "SetID": "8p2n7he",
       "Name": "These Banners need a Saga",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_barbarossa",
@@ -37993,9 +37998,9 @@
       "ID": "achievement_land_of_eastern_jade",
       "SetID": "8p2n7he",
       "Name": "Land of Eastern Jade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_laughingstock",
@@ -39530,21 +39535,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 458907,
+      "Progressed": 458931,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 458907,
+      "Progressed": 458931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-19T02:59:05.3024276+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:06:43.5419736+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:05:46.1721512+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:00:24.2567911+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:06:43.542983+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:59:42.1671375+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:05:46.1731758+00:00"
 }

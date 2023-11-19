@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1168,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1103,6 +1103,11 @@
       "Time": "2023-11-17T23:11:49.3729942+00:00",
       "NumProgressed": 1168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T05:09:38.7381028+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1210,7 +1215,7 @@
       "Name": "Martian explorer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1218,7 +1223,7 @@
       "Name": "To the core",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1338,7 +1343,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FINISHSOUND",
@@ -1529,7 +1534,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1168,
+      "Progressed": 1169,
       "Completed": 0
     }
   ],
@@ -1537,8 +1542,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:10:04.7331777+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:09:38.7381025+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.6095535+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:01:06.8590427+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:10:04.7332084+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:00:10.745558+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:09:38.7381426+00:00"
 }

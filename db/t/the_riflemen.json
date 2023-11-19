@@ -119,11 +119,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36900,
+  "EOS_Progressed": 36931,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 4191,
+  "EOS_NewPlayers": 4217,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 31.87,
+  "EOS_Completed_Percentage": 31.84,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -9784,6 +9784,11 @@
       "Time": "2023-11-19T04:09:00.0455824+00:00",
       "NumProgressed": 36900,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-11-19T05:08:51.778721+00:00",
+      "NumProgressed": 36931,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -9804,7 +9809,7 @@
       "Name": "First blood",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 26199
+      "UsersEstimate": 26221
     },
     {
       "ID": "grenadeKills",
@@ -9820,7 +9825,7 @@
       "Name": "Head popping I",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1847
     },
     {
       "ID": "headshots1000",
@@ -9852,7 +9857,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "matchesWon",
@@ -9876,7 +9881,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "shotgunKills",
@@ -9907,7 +9912,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 36900,
+      "Progressed": 36931,
       "Completed": 11759
     }
   ],
@@ -9915,8 +9920,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-11-18T17:00:02.4779624+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:09:00.0455822+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:08:51.7787205+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:02.4570708+00:00",
-  "LastUpdate_Ratings": "2023-11-19T03:59:55.5291128+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:09:00.0456403+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:59:22.3688475+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:08:51.7787757+00:00"
 }

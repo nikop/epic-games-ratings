@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,951 |
-| Imprint | 5.00% | ~7,951 |
+| Taste | 5.00% | ~7,952 |
+| Imprint | 5.00% | ~7,952 |
 | The Hunt | 4.00% | ~6,361 |
 | Ravenous | 4.00% | ~6,361 |
 | Weeper | 3.00% | ~4,771 |
-| Harmless | 2.00% | ~3,180 |
-| Silenced Whispers | 2.00% | ~3,180 |
-| Devourer | 2.00% | ~3,180 |
+| Harmless | 2.00% | ~3,181 |
+| Silenced Whispers | 2.00% | ~3,181 |
+| Devourer | 2.00% | ~3,181 |
 | Shapely | 1.00% | ~1,590 |
 | Scion | 1.00% | ~1,586 |
 | Glare | 1.00% | ~1,586 |
@@ -28,10 +28,10 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.80% | ~1,269 |
 | Celebration | 0.80% | ~1,272 |
 | Hunt Down | 0.70% | ~1,113 |
+| All-Seeing | 0.70% | ~1,113 |
 | Artisan | 0.60% | ~954 |
 | Hush | 0.60% | ~954 |
 | Inevitable | 0.60% | ~954 |
-| All-Seeing | 0.60% | ~954 |
 | Breathsmith | 0.60% | ~954 |
 | Dream | 0.60% | ~952 |
 | Breath | 0.50% | ~795 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,023 (Ranked 78)  
+Progressed: 159,034 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,11 +243,11 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 158,567 | 1 |
 | 2023-11-17 | 158,769 | 1 |
 | 2023-11-18 | 158,977 | 1 |
-| 2023-11-19 | 159,023 | 1 |
+| 2023-11-19 | 159,034 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 424)  
-Sum: 370 (Ranked 347)  
-Diff (max vs sum): 77  
+Sum: 370 (Ranked 348)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 52 |

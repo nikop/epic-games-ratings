@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 125,
@@ -476,9 +476,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "AchvBattleScore",
@@ -524,9 +524,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "AchvDoom",
@@ -660,9 +660,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:08:48.8944542+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:08:43.7241032+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
   "LastUpdate_Ratings": "2023-11-19T04:02:35.772282+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:08:48.8944684+00:00"
+  "LastUpdate_Achievements": "2023-11-19T05:08:43.7241263+00:00"
 }

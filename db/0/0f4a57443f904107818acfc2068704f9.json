@@ -3,7 +3,7 @@
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 231,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -537,6 +537,11 @@
       "Time": "2023-11-19T04:03:26.8242464+00:00",
       "NumProgressed": 229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T05:03:22.5719016+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -581,7 +586,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -605,7 +610,7 @@
       "Name": "Pathfinder",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "CompleteChapter10",
@@ -693,7 +698,7 @@
       "Name": "Met the Enemy",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "CompleteChapter3",
@@ -701,7 +706,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CompleteChapter4",
@@ -717,7 +722,7 @@
       "Name": "Breathing Easy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteChapter6",
@@ -731,9 +736,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter8",
@@ -797,7 +802,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Win100OnlineMatched",
@@ -829,7 +834,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -844,14 +849,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 231,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:03:26.8242462+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:03:22.5719011+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-19T03:59:46.684101+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:03:26.8242726+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:59:16.4717015+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:03:22.5719708+00:00"
 }

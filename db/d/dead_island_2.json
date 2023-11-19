@@ -6675,9 +6675,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 720561,
+  "EOS_Progressed": 720574,
   "EOS_Completed": 2410,
-  "EOS_NewPlayers": 3547,
+  "EOS_NewPlayers": 3542,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30985,6 +30985,11 @@
       "Time": "2023-11-19T04:07:18.7892753+00:00",
       "NumProgressed": 720561,
       "NumCompleted": 2410
+    },
+    {
+      "Time": "2023-11-19T05:06:11.9506598+00:00",
+      "NumProgressed": 720574,
+      "NumCompleted": 2410
     }
   ],
   "TotalAchievements": 51,
@@ -31020,7 +31025,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31084,7 +31089,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "ach_doom_buddies",
@@ -31108,7 +31113,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "ach_finisher",
@@ -31268,15 +31273,15 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 7206
     },
     {
       "ID": "ach_survival_expert",
@@ -31316,7 +31321,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5764
+      "UsersEstimate": 5765
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31403,13 +31408,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720561,
+      "Progressed": 720574,
       "Completed": 2410
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46103,
+      "Progressed": 46116,
       "Completed": 36564
     }
   ],
@@ -31417,8 +31422,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-19T04:00:39.0987772+00:00",
-  "LastChanged_Achievements": "2023-11-19T04:07:18.789275+00:00",
+  "LastChanged_Achievements": "2023-11-19T05:06:11.9506596+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:00:39.0987779+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:07:18.7893901+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:59:52.0182413+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:06:11.9507743+00:00"
 }

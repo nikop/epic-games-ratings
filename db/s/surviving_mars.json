@@ -3,11 +3,11 @@
   "Name": "Surviving Mars",
   "ProductSlug": "surviving-mars",
   "Ranking_Rating": 413,
-  "Ranking_Popularity": 209,
+  "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2018-03-15T15:00:00+00:00",
@@ -3861,11 +3861,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 3342,
       "NumberOfAwardsMax": 509
+    },
+    {
+      "Time": "2023-11-19T05:00:26.9527432+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3347,
+      "NumberOfAwardsMax": 514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3342,
-  "NumberOfAwardsMax": 509,
+  "NumberOfAwards": 3347,
+  "NumberOfAwardsMax": 514,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3884,7 +3890,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 509
+      "Count": 514
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3940,8 +3946,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2023-11-18T14:59:57.8789053+00:00",
+  "LastChanged": "2023-11-19T05:00:26.952743+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:15.6817646+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:01:31.221672+00:00",
-  "LastUpdate_Achievements": "2023-11-19T04:07:48.7618822+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:00:26.9527436+00:00",
+  "LastUpdate_Achievements": "2023-11-19T05:06:33.7458627+00:00"
 }
