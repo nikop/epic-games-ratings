@@ -10,7 +10,7 @@ Number of Ratings: 34  (23.09.2022)
 | Cowardice | 61.00% | ~384 |
 | NO LIFE IS WORTH SAVING... | 48.00% | ~302 |
 | Eat Lead! | 46.00% | ~289 |
-| The Breaking Point | 44.00% | ~277 |
+| The Breaking Point | 45.00% | ~283 |
 | Here Comes the Boom | 42.00% | ~264 |
 | Prospector | 41.00% | ~258 |
 | Sniper Wolf | 39.00% | ~245 |
@@ -23,7 +23,7 @@ Number of Ratings: 34  (23.09.2022)
 | King of Knives | 32.00% | ~201 |
 | Opportunities | 31.00% | ~195 |
 | The Horror | 29.00% | ~182 |
-| The Difference | 26.00% | ~164 |
+| The Difference | 27.00% | ~170 |
 | Vengeance | 25.00% | ~157 |
 | Collectibles of Chapter II | 23.00% | ~145 |
 | It's Just an Accident | 23.00% | ~145 |

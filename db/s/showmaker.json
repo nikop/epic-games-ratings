@@ -4,8 +4,8 @@
   "ProductSlug": "showmaker",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:57:06.2825822+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:57:50.165316+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:06:17.1620679+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:57:35.3330512+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:05:36.8140286+00:00"
 }

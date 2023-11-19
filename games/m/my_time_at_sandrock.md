@@ -6,56 +6,56 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 245.00% | ~911 |
-| Iron Chef | 176.00% | ~655 |
-| Greeno-B-Gone | 122.00% | ~454 |
-| Your Especially Earned Trajectory | 95.00% | ~353 |
-| No Mountain Wide Enough | 71.00% | ~264 |
-| Yakmel Whisperer | 68.00% | ~253 |
-| One of the Cool Kids | 67.00% | ~249 |
-| Can We Keep It? | 66.00% | ~246 |
-| On that Grindset | 65.00% | ~242 |
-| Diamonds are Forever | 61.00% | ~227 |
-| Pack Mule | 60.00% | ~223 |
-| Unboxing | 59.00% | ~219 |
+| Adept Assembler | 248.00% | ~923 |
+| Iron Chef | 177.00% | ~658 |
+| Greeno-B-Gone | 124.00% | ~461 |
+| Your Especially Earned Trajectory | 96.00% | ~357 |
+| No Mountain Wide Enough | 72.00% | ~268 |
+| One of the Cool Kids | 69.00% | ~257 |
+| Yakmel Whisperer | 69.00% | ~257 |
+| Can We Keep It? | 67.00% | ~249 |
+| On that Grindset | 66.00% | ~246 |
+| Diamonds are Forever | 62.00% | ~231 |
+| Pack Mule | 61.00% | ~227 |
+| Unboxing | 60.00% | ~223 |
+| Chatterbox | 54.00% | ~201 |
 | Big Game Hunter | 53.00% | ~197 |
-| Chatterbox | 53.00% | ~197 |
 | First Love | 52.00% | ~193 |
-| Financially Secure | 50.00% | ~186 |
-| Got Served | 50.00% | ~186 |
-| I Do! | 49.00% | ~182 |
+| Financially Secure | 51.00% | ~190 |
+| Got Served | 51.00% | ~190 |
+| I Do! | 50.00% | ~186 |
 | Happier-est Place on Earth | 47.00% | ~175 |
 | You Don't Win Friends With Salad | 47.00% | ~175 |
 | Call Me Fishmael | 47.00% | ~175 |
-| Builder of the Month | 45.00% | ~167 |
+| Builder of the Month | 46.00% | ~171 |
 | What Plants Crave | 44.00% | ~164 |
 | Mole Masher | 44.00% | ~164 |
+| Commissions, commissions...! | 43.00% | ~160 |
 | Anti-Santa | 43.00% | ~160 |
 | Panda-kin | 42.00% | ~156 |
-| Commissions, commissions...! | 42.00% | ~156 |
+| Bridging the Gap | 42.00% | ~156 |
+| My Time Mansion | 41.00% | ~153 |
 | Finishing Touches | 41.00% | ~153 |
-| Bridging the Gap | 41.00% | ~153 |
-| My Time Mansion | 40.00% | ~149 |
-| Martle's Dream | 40.00% | ~149 |
-| Waste Not Want Not | 40.00% | ~149 |
-| Knowledge is Power | 39.00% | ~145 |
+| Martle's Dream | 41.00% | ~153 |
+| Waste Not Want Not | 41.00% | ~153 |
+| Knowledge is Power | 40.00% | ~149 |
 | Better Late than Never | 39.00% | ~145 |
 | Who Ya Gonna Call...? | 36.00% | ~134 |
+| Officially Official | 35.00% | ~130 |
 | Elementary, My Dear | 35.00% | ~130 |
 | Got the Flow Back | 35.00% | ~130 |
-| Officially Official | 34.00% | ~126 |
+| Jewel of the Eufaula | 34.00% | ~126 |
 | Lifeline Pipeline | 34.00% | ~126 |
-| Jewel of the Eufaula | 33.00% | ~123 |
 | Sepia Toned Memories | 30.00% | ~112 |
-| He Can Spin A Yarn... | 28.00% | ~104 |
+| He Can Spin A Yarn... | 29.00% | ~108 |
 | Time Flies | 27.00% | ~100 |
 | Newton | 27.00% | ~100 |
 | Kind of a Big Deal | 25.00% | ~93 |
+| Santa In Training | 25.00% | ~93 |
 | Just What I Always Wanted! | 25.00% | ~93 |
-| Santa In Training | 24.00% | ~89 |
+| Sandrunning Speedster | 24.00% | ~89 |
 | Do Your Part | 24.00% | ~89 |
 | It Belongs in a Museum! | 24.00% | ~89 |
-| Sandrunning Speedster | 23.00% | ~86 |
 | Pro Gamer | 20.00% | ~74 |
 | Cardistry | 19.00% | ~71 |
 | It's High Noon... | 11.00% | ~41 |

@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~154 |
 | Building Wonders | 1.00% | ~154 |
 | Economic Reform | 1.00% | ~154 |
+| Industrial Progress | 1.00% | ~154 |
 | Military Prestige | 1.00% | ~154 |
 | Dualism | 1.00% | ~154 |
 | Gnosticism | 1.00% | ~154 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.90% | ~138 |
 | Egypt | 0.90% | ~138 |
 | Assyrian Paganism | 0.90% | ~138 |
-| Industrial Progress | 0.90% | ~138 |
 | Enlightenment | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
 | Bad Heir Day | 0.80% | ~123 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~77 |
 | Glorious Difficulty | 0.50% | ~77 |
+| Play a Network Game | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
@@ -157,11 +158,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.40% | ~62 |
 | The Eternal Treaty | 0.40% | ~62 |
 | Run, Pheidippides, Run! | 0.40% | ~62 |
+| Nenikekamen | 0.40% | ~62 |
 | Assyria | 0.40% | ~62 |
 | Hatti | 0.40% | ~62 |
 | Persia | 0.40% | ~62 |
 | Pantheon of Gods | 0.40% | ~62 |
-| Play a Network Game | 0.40% | ~62 |
 | Capturing Cities | 0.40% | ~62 |
 | Three Man Chariot | 0.40% | ~62 |
 | Siege Tower | 0.40% | ~62 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.30% | ~46 |
 | Great Difficulty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
-| Nenikekamen | 0.30% | ~46 |
 | A Good Start | 0.30% | ~46 |
 | Tell the Spartans | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,384 (Ranked 149)  
+Progressed: 15,386 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
-| 2023-11-19 | 15,384 | 5 |
+| 2023-11-19 | 15,386 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

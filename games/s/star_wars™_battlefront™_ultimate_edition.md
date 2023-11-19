@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 88.00% | ~1,155 |
-| Off to a good start | 66.00% | ~866 |
-| Do... or do not. There is no try | 51.00% | ~669 |
+| New Recruit | 89.00% | ~1,169 |
+| Off to a good start | 66.00% | ~867 |
+| Do... or do not. There is no try | 50.00% | ~657 |
 | A good blaster at your side | 31.00% | ~407 |
-| I suggest a new strategy | 19.00% | ~249 |
-| Scrap collector | 18.00% | ~236 |
+| Scrap collector | 19.00% | ~250 |
+| I suggest a new strategy | 19.00% | ~250 |
 | All right, I'll give it a try | 17.00% | ~223 |
 | Great shot, kid! | 17.00% | ~223 |
 | The power of the Force | 15.00% | ~197 |
@@ -28,11 +28,11 @@
 | Judge me by my size, do you? | 6.00% | ~79 |
 | Support the troops | 6.00% | ~79 |
 | A tremor in the Force | 5.00% | ~66 |
-| On the ball | 4.00% | ~52 |
-| Safety ain't the point of a joyride | 4.00% | ~52 |
-| Not bad for a little furball | 4.00% | ~52 |
-| Patience you must have | 4.00% | ~52 |
-| Don't underestimate the Force | 4.00% | ~52 |
+| On the ball | 4.00% | ~53 |
+| Safety ain't the point of a joyride | 4.00% | ~53 |
+| Not bad for a little furball | 4.00% | ~53 |
+| Patience you must have | 4.00% | ~53 |
+| Don't underestimate the Force | 4.00% | ~53 |
 | I've been waiting for you | 3.00% | ~39 |
 | When 900 years old you reach... | 3.00% | ~39 |
 | Determined | 3.00% | ~39 |
@@ -41,6 +41,7 @@
 | That's no moon | 3.00% | ~39 |
 | Hold the line! | 2.00% | ~26 |
 | The Force is strong with this one | 2.00% | ~26 |
+| Ackbar's Elite | 2.00% | ~26 |
 | This is a new day, a new beginning | 2.00% | ~26 |
 | City in the Clouds | 2.00% | ~26 |
 | Alternative solution | 2.00% | ~26 |
@@ -48,15 +49,14 @@
 | The circle is now complete | 2.00% | ~26 |
 | Disturbed tranquility | 2.00% | ~26 |
 | Playing the objective | 1.00% | ~13 |
-| Ackbar's Elite | 1.00% | ~13 |
 | You have your moments | 1.00% | ~13 |
 | When surrounded by war... | 1.00% | ~13 |
 | Stop that Droid | 1.00% | ~13 |
 | Onwards! | 1.00% | ~13 |
 | Do we take prisoners? | 0.90% | ~12 |
-| A New Hope | 0.80% | ~10 |
-| Walker defender | 0.80% | ~10 |
-| No such thing as luck | 0.80% | ~10 |
+| A New Hope | 0.80% | ~11 |
+| Walker defender | 0.80% | ~11 |
+| No such thing as luck | 0.80% | ~11 |
 | I’ll take that bet | 0.70% | ~9 |
 | Stay on target | 0.50% | ~7 |
 | Greed can be a very powerful ally | 0.50% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,312 (Ranked 243)  
+Progressed: 1,314 (Ranked 243)  
 Completed: 1 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 1 (0.08%) (Ranked 291)
 | 2023-11-16 | 1,270 | 1 |
 | 2023-11-17 | 1,286 | 1 |
 | 2023-11-18 | 1,305 | 1 |
-| 2023-11-19 | 1,312 | 1 |
+| 2023-11-19 | 1,314 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

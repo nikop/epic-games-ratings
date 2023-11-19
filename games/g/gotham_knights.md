@@ -5,14 +5,14 @@ Rating: 4.18 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,098 |
+| First Step Into the Knight | 51.00% | ~39,099 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,832 |
-| Loose Ends | 34.00% | ~26,065 |
+| Loose Ends | 34.00% | ~26,066 |
 | To the Victor Go the Spoils | 28.00% | ~21,466 |
 | Knighthood | 27.00% | ~20,699 |
 | Get ReQ'd | 25.00% | ~19,166 |
 | Whispered Words | 25.00% | ~19,166 |
-| The Batman Family | 23.00% | ~17,632 |
+| The Batman Family | 23.00% | ~17,633 |
 | Lock and Key | 22.00% | ~16,866 |
 | Something in the Clay | 21.00% | ~16,099 |
 | Quartzer Life Crisis | 21.00% | ~16,099 |
@@ -20,12 +20,12 @@ Rating: 4.18 (Ranked 928)
 | Unstoppable Force | 20.00% | ~15,333 |
 | Bad Apples in Every Orchard | 20.00% | ~15,333 |
 | Snow Problem | 19.00% | ~14,566 |
-| The Show Mud Go On | 18.00% | ~13,799 |
-| From Inside Gotham's Walls | 18.00% | ~13,799 |
+| The Show Mud Go On | 18.00% | ~13,800 |
+| From Inside Gotham's Walls | 18.00% | ~13,800 |
 | Protector of Gotham | 17.00% | ~13,033 |
 | Universal Health Scare | 16.00% | ~12,266 |
-| In Your Element | 15.00% | ~11,499 |
-| Voiceless | 15.00% | ~11,499 |
+| In Your Element | 15.00% | ~11,500 |
+| Voiceless | 15.00% | ~11,500 |
 | Rock and a Hard Place | 14.00% | ~10,733 |
 | Cooldown | 14.00% | ~10,733 |
 | Seeking Asylum | 14.00% | ~10,733 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 928)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,663 (Ranked 99)  
+Progressed: 76,664 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 124 (0.16%) (Ranked 263)
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
 | 2023-11-18 | 76,626 | 123 |
-| 2023-11-19 | 76,663 | 124 |
+| 2023-11-19 | 76,664 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,951  (Ranked 98)  
 Sum: 5,012 (Ranked 138)  

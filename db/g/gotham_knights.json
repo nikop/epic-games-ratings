@@ -4217,9 +4217,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76663,
+  "EOS_Progressed": 76664,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23122,6 +23122,11 @@
       "Time": "2023-11-19T14:03:46.6858674+00:00",
       "NumProgressed": 76663,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-19T15:03:31.5952264+00:00",
+      "NumProgressed": 76664,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23181,7 +23186,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17632
+      "UsersEstimate": 17633
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -23221,7 +23226,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11499
+      "UsersEstimate": 11500
     },
     {
       "ID": "CHALLENGES_1",
@@ -23245,7 +23250,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13799
+      "UsersEstimate": 13800
     },
     {
       "ID": "CLAYFACE_3",
@@ -23477,7 +23482,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39098
+      "UsersEstimate": 39099
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23525,7 +23530,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26065
+      "UsersEstimate": 26066
     },
     {
       "ID": "MYSTERY_02",
@@ -23557,7 +23562,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13799
+      "UsersEstimate": 13800
     },
     {
       "ID": "MYSTERY_06",
@@ -23565,7 +23570,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11499
+      "UsersEstimate": 11500
     },
     {
       "ID": "MYSTERY_07",
@@ -23620,13 +23625,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76663,
+      "Progressed": 76664,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46943,
+      "Progressed": 46944,
       "Completed": 2673
     }
   ],
@@ -23634,8 +23639,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-19T11:57:11.4791608+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:03:46.685867+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:03:31.5952263+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:57:09.0923616+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:03:46.6859835+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:57:02.3201629+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:03:31.5953272+00:00"
 }

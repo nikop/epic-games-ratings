@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1519,9 +1519,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13725,
+  "EOS_Progressed": 13727,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14754,6 +14754,11 @@
       "Time": "2023-11-19T14:08:54.4860001+00:00",
       "NumProgressed": 13725,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-19T15:08:47.3257813+00:00",
+      "NumProgressed": 13727,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14765,7 +14770,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11254
+      "UsersEstimate": 11256
     },
     {
       "ID": "ACH02",
@@ -14797,7 +14802,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH06",
@@ -14821,7 +14826,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7000
+      "UsersEstimate": 7001
     },
     {
       "ID": "ACH09",
@@ -14837,7 +14842,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH11",
@@ -14845,7 +14850,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH12",
@@ -14853,7 +14858,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH13",
@@ -14885,7 +14890,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "ACH17",
@@ -14941,7 +14946,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3568
+      "UsersEstimate": 3569
     },
     {
       "ID": "ACH24",
@@ -14965,7 +14970,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH27",
@@ -14973,7 +14978,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH28",
@@ -15013,7 +15018,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH33",
@@ -15044,7 +15049,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13725,
+      "Progressed": 13727,
       "Completed": 53
     }
   ],
@@ -15052,8 +15057,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-18T19:03:18.1278861+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:08:54.4859998+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:08:47.3257811+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:02:39.9628969+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:08:54.4860961+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:02:36.6810687+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:08:47.3258632+00:00"
 }

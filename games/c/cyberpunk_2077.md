@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 4.00% | ~35,895 |
-| Gun Fu | 2.00% | ~17,947 |
+| Gun Fu | 2.00% | ~17,948 |
 | Relic Ruler | 1.00% | ~260 |
 | Full Body Conversion | 0.90% | ~8,076 |
 | True Soldier | 0.90% | ~8,076 |
@@ -19,19 +19,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.60% | ~5,384 |
 | The Lovers | 0.60% | ~5,384 |
 | The Wheel of Fortune | 0.60% | ~5,384 |
+| True Warrior | 0.60% | ~5,384 |
 | Bushido and Chill | 0.50% | ~4,487 |
 | Christmas Tree Attack | 0.50% | ~4,487 |
 | Life of the Road | 0.50% | ~4,487 |
 | The High Priestess | 0.50% | ~4,487 |
 | The World | 0.50% | ~4,487 |
-| True Warrior | 0.50% | ~4,487 |
 | Legend of The Afterlife | 0.50% | ~4,487 |
 | Spin Doctor | 0.50% | ~130 |
-| To Protect and Serve | 0.40% | ~3,589 |
-| Master Crafter | 0.40% | ~3,589 |
-| I Am The Law | 0.40% | ~3,589 |
-| The Fool | 0.40% | ~3,589 |
-| Judy vs Night City | 0.40% | ~3,589 |
+| To Protect and Serve | 0.40% | ~3,590 |
+| Master Crafter | 0.40% | ~3,590 |
+| I Am The Law | 0.40% | ~3,590 |
+| The Fool | 0.40% | ~3,590 |
+| Judy vs Night City | 0.40% | ~3,590 |
 | King of Wands | 0.40% | ~104 |
 | Dirty Deeds | 0.40% | ~104 |
 | Easy Come, Easy Go | 0.40% | ~104 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,365 (Ranked 15)  
-Completed: 2,787 (0.31%) (Ranked 233)  
+Progressed: 897,379 (Ranked 15)  
+Completed: 2,788 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,7 +287,7 @@ Completed: 2,787 (0.31%) (Ranked 233)
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
-| 2023-11-19 | 897,365 | 2,787 |
+| 2023-11-19 | 897,379 | 2,788 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
 Sum: 357,104 (Ranked 10)  

@@ -24,13 +24,13 @@ Rating: 4.61 (Ranked 386)
 | In a Liege of Your Own | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
 | Sehiran Oasis | 0.90% | ~49 |
+| Tipping the Scales | 0.80% | ~43 |
 | Seal the Deal | 0.80% | ~43 |
 | Enchanted Archipelago | 0.70% | ~38 |
 | Digging for Treasure | 0.70% | ~38 |
 | My Final Form | 0.70% | ~38 |
 | Impenetrable Fortress | 0.70% | ~38 |
 | Here be Dragons | 0.70% | ~38 |
-| Tipping the Scales | 0.70% | ~38 |
 | Dawn of the Dread | 0.70% | ~38 |
 | Return of the Wizard King | 0.60% | ~32 |
 | Fiery Friend | 0.60% | ~32 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 386)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,405 (Ranked 189)  
+Progressed: 5,406 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,15 +247,15 @@ Completed: 7 (0.13%) (Ranked 267)
 | 2023-11-16 | 5,398 | 7 |
 | 2023-11-17 | 5,402 | 7 |
 | 2023-11-18 | 5,404 | 7 |
-| 2023-11-19 | 5,405 | 7 |
+| 2023-11-19 | 5,406 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 485)  
-Sum: 56 (Ranked 474)  
+Sum: 58 (Ranked 474)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |
-| This game has Diverse Characters | 24 |
+| This game has Diverse Characters | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -320,3 +320,4 @@ Diff (max vs sum): 11
 | 2023-11-12 | 4.61 | 32 | 53 |
 | 2023-11-13 | 4.61 | 32 | 54 |
 | 2023-11-17 | 4.61 | 32 | 56 |
+| 2023-11-19 | 4.61 | 32 | 58 |

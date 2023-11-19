@@ -4,7 +4,7 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 213,
   "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 223,
+  "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 164,
@@ -1353,18 +1353,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1700,
       "NumberOfAwardsMax": 1340
+    },
+    {
+      "Time": "2023-11-19T15:02:24.7874889+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1701,
+      "NumberOfAwardsMax": 1341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1700,
-  "NumberOfAwardsMax": 1340,
+  "NumberOfAwards": 1701,
+  "NumberOfAwardsMax": 1341,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1340
+      "Count": 1341
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1445,9 +1451,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429057,
+  "EOS_Progressed": 429058,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15325,6 +15331,11 @@
       "Time": "2023-11-19T14:05:29.2081307+00:00",
       "NumProgressed": 429057,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-11-19T15:04:57.5849716+00:00",
+      "NumProgressed": 429058,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 41,
@@ -15344,7 +15355,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167332
+      "UsersEstimate": 167333
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -15352,7 +15363,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257434
+      "UsersEstimate": 257435
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15416,7 +15427,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257434
+      "UsersEstimate": 257435
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15504,7 +15515,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407604
+      "UsersEstimate": 407605
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15520,7 +15531,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308921
+      "UsersEstimate": 308922
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15536,7 +15547,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300340
+      "UsersEstimate": 300341
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -15584,7 +15595,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197366
+      "UsersEstimate": 197367
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -15600,7 +15611,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115845
+      "UsersEstimate": 115846
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -15624,7 +15635,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188785
+      "UsersEstimate": 188786
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -15632,7 +15643,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145879
+      "UsersEstimate": 145880
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -15640,7 +15651,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115845
+      "UsersEstimate": 115846
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -15663,15 +15674,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429057,
+      "Progressed": 429058,
       "Completed": 547
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:05:29.2081303+00:00",
+  "LastChanged": "2023-11-19T15:02:24.7874888+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:04:57.5849714+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:06.8328833+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:01:33.8769835+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:05:29.2082088+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:02:24.7875107+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:04:57.5850383+00:00"
 }

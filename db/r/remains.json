@@ -2,10 +2,10 @@
   "ID": "e9f8d704869e4bd1a2d4e065c8c86f6e",
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -401,8 +401,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:03:44.355067+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:03:29.6726326+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.8704823+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:58:38.2075774+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:03:44.3550765+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:58:14.6168135+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:03:29.6726383+00:00"
 }

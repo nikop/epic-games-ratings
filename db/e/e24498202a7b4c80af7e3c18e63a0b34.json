@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6852,
+  "EOS_Progressed": 6853,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5713,6 +5713,11 @@
       "Time": "2023-11-19T11:06:51.2988569+00:00",
       "NumProgressed": 6852,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-19T15:05:54.3522112+00:00",
+      "NumProgressed": 6853,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5725,7 +5730,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5961
+      "UsersEstimate": 5962
     },
     {
       "ID": "achievement_01_02",
@@ -5741,7 +5746,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "achievement_01_04",
@@ -5749,7 +5754,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "achievement_01_05",
@@ -5781,7 +5786,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "achievement_01_09",
@@ -5789,7 +5794,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "achievement_01_10",
@@ -5853,7 +5858,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "achievement_02_08",
@@ -5965,7 +5970,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "achievement_04_03",
@@ -5981,7 +5986,7 @@
       "Name": "Flawless Racer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "achievement_04_05",
@@ -6013,7 +6018,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5893
+      "UsersEstimate": 5894
     },
     {
       "ID": "achievement_04_09",
@@ -6028,7 +6033,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6852,
+      "Progressed": 6853,
       "Completed": 40
     }
   ],
@@ -6036,8 +6041,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:06:38.0218823+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:05:54.3522109+00:00",
   "LastUpdate_AppInfo": "2023-11-16T21:57:02.8000931+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:00:21.6085729+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:06:38.0219357+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:59:37.7300423+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:05:54.3522603+00:00"
 }

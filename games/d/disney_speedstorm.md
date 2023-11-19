@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~30,351 |
-| IT MAKES BOOM! | 6.00% | ~18,211 |
-| EXTRA BOOST | 5.00% | ~15,176 |
-| PROTECTED | 4.00% | ~12,141 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,105 |
-| AGGRESSIVE RACER | 3.00% | ~9,105 |
-| PRO | 3.00% | ~9,105 |
-| A TIGER'S FEAR | 2.00% | ~6,070 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,035 |
-| ACE SPEEDSTER | 1.00% | ~3,035 |
+| ROOKIE | 10.00% | ~30,361 |
+| IT MAKES BOOM! | 6.00% | ~18,217 |
+| EXTRA BOOST | 5.00% | ~15,180 |
+| PROTECTED | 4.00% | ~12,144 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,108 |
+| AGGRESSIVE RACER | 3.00% | ~9,108 |
+| PRO | 3.00% | ~9,108 |
+| A TIGER'S FEAR | 2.00% | ~6,072 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,036 |
+| ACE SPEEDSTER | 1.00% | ~3,036 |
 | RELEASE THE KRAKEN | 0.90% | ~2,732 |
-| BE OUR GUEST | 0.80% | ~2,428 |
-| FRIENDLY | 0.80% | ~2,428 |
-| MASTER | 0.80% | ~2,428 |
-| LEGENDARY HERO | 0.80% | ~2,428 |
+| BE OUR GUEST | 0.80% | ~2,429 |
+| FRIENDLY | 0.80% | ~2,429 |
+| MASTER | 0.80% | ~2,429 |
+| LEGENDARY HERO | 0.80% | ~2,429 |
 | TRAINING HARD | 0.70% | ~2,125 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,125 |
-| THE EYE OF THE HUNTER | 0.70% | ~2,125 |
-| EXPERIENCED CREW | 0.60% | ~1,821 |
+| EXPERIENCED CREW | 0.60% | ~1,822 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,822 |
 | ACE BRAWLER | 0.40% | ~1,214 |
 | ACE DEFENDER | 0.40% | ~1,214 |
 | FRAMED! | 0.30% | ~911 |
 | ACE TRICKSTER | 0.30% | ~911 |
 | PERFECTLY POISED | 0.20% | ~607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,514 (Ranked 52)  
+Progressed: 303,609 (Ranked 52)  
 Completed: 306 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 306 (0.10%) (Ranked 279)
 | 2023-11-16 | 298,870 | 286 |
 | 2023-11-17 | 300,625 | 296 |
 | 2023-11-18 | 302,536 | 303 |
-| 2023-11-19 | 303,514 | 306 |
+| 2023-11-19 | 303,609 | 306 |
 ## Awards
 Max (Great for Beginners): 74  (Ranked 396)  
 Sum: 582 (Ranked 313)  

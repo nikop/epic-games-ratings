@@ -19,15 +19,15 @@
 | One-way | 17.00% | ~42 |
 | On the right path | 16.00% | ~39 |
 | It can't be true | 16.00% | ~39 |
+| He who seeks, finds! | 13.00% | ~32 |
 | I'm close now | 12.00% | ~30 |
 | Failed attempt | 12.00% | ~30 |
 | The real escape | 12.00% | ~30 |
 | Good choice | 12.00% | ~30 |
 | Take the long way round | 12.00% | ~30 |
-| He who seeks, finds! | 12.00% | ~30 |
 | Nightmare in the kitchen | 11.00% | ~27 |
+| 373 | 7.00% | ~17 |
 | Born again | 7.00% | ~17 |
-| 373 | 6.00% | ~15 |
 | The experiment | 6.00% | ~15 |
 | Matthew's revenge | 5.00% | ~12 |
 | Eva's diary | 2.00% | ~5 |

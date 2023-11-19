@@ -6,20 +6,20 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,604 |
+| Found a Friend | 95.00% | ~407,605 |
 | Haikyo | 80.00% | ~343,246 |
-| Good as New | 72.00% | ~308,921 |
-| Into the Woods | 70.00% | ~300,340 |
-| Hunter in the Forest | 60.00% | ~257,434 |
-| Rot Commander | 60.00% | ~257,434 |
+| Good as New | 72.00% | ~308,922 |
+| Into the Woods | 70.00% | ~300,341 |
+| Hunter in the Forest | 60.00% | ~257,435 |
+| Rot Commander | 60.00% | ~257,435 |
 | Taro's Fear | 56.00% | ~240,272 |
 | Between the Eyes | 47.00% | ~201,657 |
-| Taro's Love | 46.00% | ~197,366 |
-| Taro's Regret | 44.00% | ~188,785 |
+| Taro's Love | 46.00% | ~197,367 |
+| Taro's Regret | 44.00% | ~188,786 |
 | Spirit Guide | 42.00% | ~180,204 |
-| Harness Your Power | 39.00% | ~167,332 |
+| Harness Your Power | 39.00% | ~167,333 |
 | The Open Range | 37.00% | ~158,751 |
-| Adira's Love | 34.00% | ~145,879 |
+| Adira's Love | 34.00% | ~145,880 |
 | Adira's Fear | 33.00% | ~141,589 |
 | Weigh Them Down | 31.00% | ~133,008 |
 | Adira's Regret | 31.00% | ~133,008 |
@@ -27,8 +27,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | Crossing Over | 29.00% | ~124,427 |
 | Quick Draw | 29.00% | ~124,427 |
 | Toshi's Fear | 28.00% | ~120,136 |
-| Toshi's Regret | 27.00% | ~115,845 |
-| Toshi's Love | 27.00% | ~115,845 |
+| Toshi's Regret | 27.00% | ~115,846 |
+| Toshi's Love | 27.00% | ~115,846 |
 | A Leader Walks Alone | 26.00% | ~111,555 |
 | Bow Master | 26.00% | ~111,555 |
 | The Lonely Path | 26.00% | ~111,555 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,862 |
 | Master Spirit Guide | 0.30% | ~1,287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,057 (Ranked 43)  
+Progressed: 429,058 (Ranked 43)  
 Completed: 547 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,14 +261,14 @@ Completed: 547 (0.13%) (Ranked 267)
 | 2023-11-16 | 429,011 | 546 |
 | 2023-11-17 | 429,023 | 546 |
 | 2023-11-18 | 429,045 | 546 |
-| 2023-11-19 | 429,057 | 547 |
+| 2023-11-19 | 429,058 | 547 |
 ## Awards
-Max (Great Boss Battles): 1,340  (Ranked 136)  
-Sum: 1,700 (Ranked 223)  
-Diff (max vs sum): -87  
+Max (Great Boss Battles): 1,341  (Ranked 136)  
+Sum: 1,701 (Ranked 222)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,340 |
+| This game has Great Boss Battles | 1,341 |
 | This game is Relaxing | 55 |
 | This game is Highly Recommended | 46 |
 | This game has Amazing Storytelling | 43 |
@@ -421,3 +421,4 @@ Diff (max vs sum): -87
 | 2023-11-08 | 4.70 | - | 1,339 | 1,698 |
 | 2023-11-11 | 4.70 | - | 1,339 | 1,699 |
 | 2023-11-12 | 4.70 | - | 1,340 | 1,700 |
+| 2023-11-19 | 4.70 | - | 1,341 | 1,701 |

@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,222 |
-| Powergamer | 27.00% | ~68,172 |
-| Write that down | 25.00% | ~63,122 |
-| Barely scratched the surface | 25.00% | ~63,122 |
-| Guns, lots of guns | 13.00% | ~32,823 |
-| Collector | 12.00% | ~30,299 |
-| Elementary! | 9.00% | ~22,724 |
-| Griever | 8.00% | ~20,199 |
-| Pumpkin Jack | 8.00% | ~20,199 |
-| Wake up! | 8.00% | ~20,199 |
-| It's honest work | 7.00% | ~17,674 |
-| Me smart | 6.00% | ~15,149 |
-| Trash compactor | 6.00% | ~15,149 |
-| Good listener | 5.00% | ~12,624 |
-| Valedictorian | 5.00% | ~12,624 |
+| I will finish what you started | 29.00% | ~73,225 |
+| Powergamer | 27.00% | ~68,175 |
+| Write that down | 25.00% | ~63,125 |
+| Barely scratched the surface | 25.00% | ~63,125 |
+| Guns, lots of guns | 13.00% | ~32,825 |
+| Collector | 12.00% | ~30,300 |
+| Elementary! | 9.00% | ~22,725 |
+| Griever | 8.00% | ~20,200 |
+| Pumpkin Jack | 8.00% | ~20,200 |
+| Wake up! | 8.00% | ~20,200 |
+| It's honest work | 7.00% | ~17,675 |
+| Me smart | 6.00% | ~15,150 |
+| Trash compactor | 6.00% | ~15,150 |
+| Good listener | 5.00% | ~12,625 |
+| Valedictorian | 5.00% | ~12,625 |
 | BOY! | 4.00% | ~10,100 |
 | Ka-ching! | 4.00% | ~10,100 |
 | So you like to read? | 4.00% | ~10,100 |
@@ -46,20 +46,20 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~2,020 |
 | Let's try another | 0.80% | ~2,020 |
 | Home run | 0.80% | ~2,020 |
-| I have the high ground | 0.70% | ~1,767 |
-| Enjoy these little moments | 0.50% | ~1,262 |
-| Who wouldn't love a troll? | 0.50% | ~1,262 |
+| I have the high ground | 0.70% | ~1,768 |
+| Enjoy these little moments | 0.50% | ~1,263 |
+| Who wouldn't love a troll? | 0.50% | ~1,263 |
 | Irondec | 0.40% | ~1,010 |
 | LET ME OUT! | 0.40% | ~1,010 |
 | Un-bear-able | 0.40% | ~1,010 |
-| Well-deserved reunion | 0.30% | ~757 |
+| Well-deserved reunion | 0.30% | ~758 |
 | Breaking the chains | 0.20% | ~505 |
 | Aren't you overthinking? | 0.20% | ~505 |
 | Take the red pill | 0.20% | ~505 |
 | This is the way | 0.20% | ~505 |
-| Memory 5 | 0.10% | ~252 |
+| Memory 5 | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,488 (Ranked 59)  
+Progressed: 252,501 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-16 | 252,213 | 7 |
 | 2023-11-17 | 252,312 | 7 |
 | 2023-11-18 | 252,429 | 7 |
-| 2023-11-19 | 252,488 | 7 |
+| 2023-11-19 | 252,501 | 7 |
 ## Awards
 Max (Character Customization): 90  (Ranked 377)  
 Sum: 90 (Ranked 451)  

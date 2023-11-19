@@ -11,25 +11,25 @@
 | The Hellwoods | 76.00% | ~235 |
 | The Plains of Strothalm | 70.00% | ~216 |
 | Thalya's Concentrated Fury | 68.00% | ~210 |
-| Experienced Thalya | 67.00% | ~207 |
-| Master of Magic | 64.00% | ~198 |
-| Bad Elves Go Everywhere | 63.00% | ~195 |
+| Experienced Thalya | 68.00% | ~210 |
+| Master of Magic | 65.00% | ~201 |
+| Bad Elves Go Everywhere | 64.00% | ~198 |
 | Magic Accidents | 58.00% | ~179 |
 | Heroes’ Gorge | 58.00% | ~179 |
-| Unicorn steaks – fresh off the hoof! | 56.00% | ~173 |
+| Unicorn steaks – fresh off the hoof! | 57.00% | ~176 |
 | Minions, Minions! | 55.00% | ~170 |
 | Trap Master | 52.00% | ~161 |
 | The Ascent | 47.00% | ~145 |
 | It's Warm and Cozy at Home | 47.00% | ~145 |
-| YOU SHALL NOT PASS! | 42.00% | ~130 |
+| YOU SHALL NOT PASS! | 43.00% | ~133 |
 | Hard Work | 42.00% | ~130 |
-| The Big Eaty | 41.00% | ~127 |
+| The Big Eaty | 42.00% | ~130 |
 | Pure Dynamite! | 39.00% | ~121 |
-| “… like son” | 35.00% | ~108 |
+| “… like son” | 36.00% | ~111 |
 | Mana Cannon | 33.00% | ~102 |
 | Dungeonlord Gorgu | 31.00% | ~96 |
+| Shame! Shame! Shame! | 31.00% | ~96 |
 | The Cathedral of Light | 30.00% | ~93 |
-| Shame! Shame! Shame! | 30.00% | ~93 |
 | Tanos' Crusade Against Thalya | 25.00% | ~77 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~68 |
 | Unstoppable Horde | 22.00% | ~68 |

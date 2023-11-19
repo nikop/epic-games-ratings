@@ -6,31 +6,32 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 25.00% | ~33 |
-| Double Kill | 18.00% | ~24 |
+| Adept | 25.00% | ~34 |
+| Double Kill | 19.00% | ~25 |
 | Critical Hit | 5.00% | ~7 |
-| Sorcerous Spree | 5.00% | ~7 |
 | Veteran | 5.00% | ~7 |
 | Dressed For Success | 4.00% | ~5 |
-| Whoops! | 2.00% | ~3 |
-| Such A Fungi | 2.00% | ~3 |
-| Master | 2.00% | ~3 |
+| Sorcerous Spree | 4.00% | ~5 |
 | Humiliation | 2.00% | ~3 |
-| Expert Essence Employment | 2.00% | ~3 |
-| Veni, Vidi, Vici | 2.00% | ~3 |
-| The Song of Stoutheart | 0.80% | ~1 |
-| Death To Diplomacy | 0.80% | ~1 |
-| This Spot's Taken | 0.80% | ~1 |
-| Versatile Wielder | 0.80% | ~1 |
-| Unlimited Power! | 0.80% | ~1 |
-| Fully Charged | 0.80% | ~1 |
-| Deepstrike | 0.80% | ~1 |
-| Infernal Influence | 0.80% | ~1 |
-| Multi Kill | 0.80% | ~1 |
-| Don't Touch My Stuff | 0.80% | ~1 |
-| Get Over Here! | 0.80% | ~1 |
-| Trojan Horse | 0.80% | ~1 |
-| Venisti, Vidisti, Perdidisti | 0.80% | ~1 |
+| Multi Kill | 1.00% | ~1 |
+| Whoops! | 1.00% | ~1 |
+| Such A Fungi | 1.00% | ~1 |
+| Master | 1.00% | ~1 |
+| Expert Essence Employment | 1.00% | ~1 |
+| Veni, Vidi, Vici | 1.00% | ~1 |
+| The Song of Stoutheart | 0.70% | ~1 |
+| Death To Diplomacy | 0.70% | ~1 |
+| This Spot's Taken | 0.70% | ~1 |
+| Versatile Wielder | 0.70% | ~1 |
+| Unlimited Power! | 0.70% | ~1 |
+| Fully Charged | 0.70% | ~1 |
+| Deepstrike | 0.70% | ~1 |
+| Infernal Influence | 0.70% | ~1 |
+| Don't Touch My Stuff | 0.70% | ~1 |
+| Get Over Here! | 0.70% | ~1 |
+| Trojan Horse | 0.70% | ~1 |
+| Ultra Kill | 0.70% | ~1 |
+| Venisti, Vidisti, Perdidisti | 0.70% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -53,7 +54,6 @@ Number of Ratings: 292  (23.09.2022)
 | The Marsh Expands | 0.00% | ~0 |
 | Cleave | 0.00% | ~0 |
 | Landlord Extraordinaire | 0.00% | ~0 |
-| Ultra Kill | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
 | Pyrrhic Victory | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 405)  
+Progressed: 134 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 71 | 0 |
 | 2023-11-17 | 92 | 0 |
 | 2023-11-18 | 118 | 0 |
-| 2023-11-19 | 133 | 0 |
+| 2023-11-19 | 134 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

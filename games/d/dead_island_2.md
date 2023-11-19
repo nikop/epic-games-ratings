@@ -5,26 +5,26 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~927 |
-| Whatever It Takes | 2.00% | ~927 |
-| Pork Chopped | 2.00% | ~927 |
+| One of Us | 2.00% | ~928 |
+| Whatever It Takes | 2.00% | ~928 |
+| Pork Chopped | 2.00% | ~928 |
+| Git Gutte! | 1.00% | ~7,208 |
 | Break A Leg | 1.00% | ~7,208 |
 | Coup de Grâce | 1.00% | ~7,208 |
 | Hazardous Materials | 1.00% | ~7,208 |
 | Hotel California | 1.00% | ~7,208 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,208 |
 | Welcome To Hell-A | 1.00% | ~7,208 |
-| Dr. Reed, I Presume? | 0.90% | ~6,487 |
-| Git Gutte! | 0.90% | ~6,487 |
-| Bookworm | 0.90% | ~6,487 |
-| Friends Like These | 0.90% | ~6,487 |
-| Apex Predator | 0.90% | ~6,487 |
-| Stacking the Deck | 0.90% | ~6,487 |
-| Anger Management | 0.80% | ~5,766 |
-| But Doctor, I am Butcho | 0.80% | ~5,766 |
-| Can't Handle the Truth | 0.80% | ~5,766 |
-| Like Riding a Bike | 0.80% | ~5,766 |
-| This is My Weapon | 0.80% | ~5,766 |
+| Dr. Reed, I Presume? | 0.90% | ~6,488 |
+| Bookworm | 0.90% | ~6,488 |
+| Friends Like These | 0.90% | ~6,488 |
+| Apex Predator | 0.90% | ~6,488 |
+| Stacking the Deck | 0.90% | ~6,488 |
+| Anger Management | 0.80% | ~5,767 |
+| But Doctor, I am Butcho | 0.80% | ~5,767 |
+| Can't Handle the Truth | 0.80% | ~5,767 |
+| Like Riding a Bike | 0.80% | ~5,767 |
+| This is My Weapon | 0.80% | ~5,767 |
 | Perks of the Job | 0.70% | ~5,046 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,046 |
 | Slayer Squad | 0.70% | ~5,046 |
@@ -44,9 +44,9 @@ Rating: 4.54 (Ranked 523)
 | Go, Bobcats! | 0.40% | ~2,883 |
 | Variety is the Spice of Death | 0.40% | ~2,883 |
 | Rising Star | 0.40% | ~2,883 |
-| Make it So | 0.30% | ~2,162 |
-| LA Influential | 0.30% | ~2,162 |
-| Smorgasbord | 0.30% | ~2,162 |
+| Make it So | 0.30% | ~2,163 |
+| LA Influential | 0.30% | ~2,163 |
+| Smorgasbord | 0.30% | ~2,163 |
 | Top That, Tisha! | 0.30% | ~139 |
 | Sole Survivor | 0.20% | ~1,442 |
 | Gore Horse | 0.20% | ~1,442 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,799 (Ranked 20)  
+Progressed: 720,836 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,412 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,799 | 2,412 |
+| 2023-11-19 | 720,836 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
 Sum: 11,535 (Ranked 84)  

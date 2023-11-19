@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5591,
+  "EOS_Progressed": 5592,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3751,6 +3751,11 @@
       "Time": "2023-11-19T14:09:11.709258+00:00",
       "NumProgressed": 5591,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T15:09:00.9910551+00:00",
+      "NumProgressed": 5592,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3835,7 +3840,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3843,7 +3848,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "GarbageMan",
@@ -3915,7 +3920,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3987,7 +3992,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4034,7 +4039,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5591,
+      "Progressed": 5592,
       "Completed": 7
     }
   ],
@@ -4042,8 +4047,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:09:11.7092578+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:09:00.9910546+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:57:54.4740499+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:09:11.709295+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:57:38.6954195+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:09:00.9910916+00:00"
 }

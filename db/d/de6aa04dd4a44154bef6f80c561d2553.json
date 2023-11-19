@@ -4,8 +4,8 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -292,9 +292,9 @@
       "ID": "Chapter17_DustSettled",
       "SetID": "c8fdd59",
       "Name": "Dust Setteled",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DroppedHard",
@@ -332,9 +332,9 @@
       "ID": "GoodCompany",
       "SetID": "c8fdd59",
       "Name": "Good Company",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HitTheBoardRunning",
@@ -380,9 +380,9 @@
       "ID": "RareFindings",
       "SetID": "c8fdd59",
       "Name": "Rare Findings",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Recruit",
@@ -468,9 +468,9 @@
       "ID": "WithoutDiscrimination",
       "SetID": "c8fdd59",
       "Name": "Without Discrimination",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:09:35.8959982+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:09:20.352297+00:00",
   "LastUpdate_AppInfo": "2023-11-13T13:57:11.9101247+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:59:57.9173915+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:09:35.8960263+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:59:18.1473845+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:09:20.3523303+00:00"
 }

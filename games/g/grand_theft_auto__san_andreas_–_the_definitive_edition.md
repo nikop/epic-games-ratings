@@ -5,16 +5,16 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,254 |
-| Pay 'n' Spray | 51.00% | ~7,000 |
-| All Dressed Up for San Fierro | 26.00% | ~3,568 |
+| Getting Started | 82.00% | ~11,256 |
+| Pay 'n' Spray | 51.00% | ~7,001 |
+| All Dressed Up for San Fierro | 26.00% | ~3,569 |
 | The American Dream | 20.00% | ~2,745 |
 | School's Out | 19.00% | ~2,608 |
-| Smooth Moves | 17.00% | ~2,333 |
+| Smooth Moves | 17.00% | ~2,334 |
 | What happens in Las Venturas... | 16.00% | ~2,196 |
 | Today Was a Good Day | 16.00% | ~2,196 |
 | Horror of the Santa Maria | 11.00% | ~1,510 |
-| Liberty City State of Mind | 10.00% | ~1,372 |
+| Liberty City State of Mind | 10.00% | ~1,373 |
 | Original Gangster | 9.00% | ~1,235 |
 | The End of the Line | 8.00% | ~1,098 |
 | With Extra Dip | 7.00% | ~961 |
@@ -27,12 +27,12 @@ Rating: 4.56 (Ranked 489)
 | What the City Needs | 3.00% | ~412 |
 | Yes I Speak English | 3.00% | ~412 |
 | Public Enemy No. 1 | 3.00% | ~412 |
-| A Legitimate Business | 2.00% | ~274 |
-| Who Needs Directions? | 2.00% | ~274 |
-| Swiss Army Strife | 2.00% | ~274 |
-| Double or Nothin' | 2.00% | ~274 |
-| Assassin | 2.00% | ~274 |
-| Ain’t Nothing But a G Thing | 2.00% | ~274 |
+| A Legitimate Business | 2.00% | ~275 |
+| Who Needs Directions? | 2.00% | ~275 |
+| Swiss Army Strife | 2.00% | ~275 |
+| Double or Nothin' | 2.00% | ~275 |
+| Assassin | 2.00% | ~275 |
+| Ain’t Nothing But a G Thing | 2.00% | ~275 |
 | Hoopin' it Up | 1.00% | ~137 |
 | Lucky Spinner | 1.00% | ~137 |
 | Not a Player | 1.00% | ~137 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,725 (Ranked 155)  
+Progressed: 13,727 (Ranked 155)  
 Completed: 53 (0.39%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 53 (0.39%) (Ranked 215)
 | 2023-11-16 | 13,707 | 53 |
 | 2023-11-17 | 13,715 | 53 |
 | 2023-11-18 | 13,719 | 53 |
-| 2023-11-19 | 13,725 | 53 |
+| 2023-11-19 | 13,727 | 53 |
 ## Awards
 Max (Great Boss Battles): 396  (Ranked 231)  
 Sum: 620 (Ranked 308)  

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 58.00% | ~159 |
-| Chest ✔ | 56.00% | ~153 |
+| Fright ✔ | 58.00% | ~160 |
+| Chest ✔ | 56.00% | ~154 |
 | Inventory ✔ | 55.00% | ~151 |
-| Police officers ✔ | 29.00% | ~79 |
-| Mutation ✔ | 26.00% | ~71 |
+| Police officers ✔ | 29.00% | ~80 |
+| Mutation ✔ | 26.00% | ~72 |
 | Doberman ✔ | 15.00% | ~41 |
 | Weapon ✔ | 12.00% | ~33 |
 | Chess ✔ | 11.00% | ~30 |
-| Master of Unlocking ✔ | 10.00% | ~27 |
+| Master of Unlocking ✔ | 10.00% | ~28 |
 | Survival ✔ | 9.00% | ~25 |
 | Hospital ✔ | 8.00% | ~22 |
 | Thirst ✔ | 8.00% | ~22 |
@@ -46,16 +46,16 @@
 | Rank B+ ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
-| Seeker Three ✔ | 2.00% | ~5 |
-| Crocodile Escape ✔ | 2.00% | ~5 |
-| VIP ✔ | 2.00% | ~5 |
+| Seeker Three ✔ | 2.00% | ~6 |
+| Crocodile Escape ✔ | 2.00% | ~6 |
+| VIP ✔ | 2.00% | ~6 |
 | Exterminate pests ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.70% | ~2 |
 | Speedrun ✔ | 0.70% | ~2 |
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 356)  
+Progressed: 275 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-10-23 | 272 | 0 |
 | 2023-11-06 | 273 | 0 |
 | 2023-11-18 | 274 | 0 |
+| 2023-11-19 | 275 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

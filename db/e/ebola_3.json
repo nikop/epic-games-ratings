@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-11-18T07:09:26.2118945+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T15:08:55.8421598+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1241,7 +1246,7 @@
       "Name": "Chest \u2714",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achCity",
@@ -1265,7 +1270,7 @@
       "Name": "Seeker Three \u2714",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achCoinTwo",
@@ -1281,7 +1286,7 @@
       "Name": "Crocodile Escape \u2714",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achCrokoTwo",
@@ -1377,7 +1382,7 @@
       "Name": "Fright \u2714",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "achLizun",
@@ -1449,7 +1454,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achPriest",
@@ -1505,7 +1510,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achShahmat",
@@ -1529,7 +1534,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achVip",
@@ -1537,7 +1542,7 @@
       "Name": "VIP \u2714",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achVitali",
@@ -1576,7 +1581,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
@@ -1584,8 +1589,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:09:05.2562007+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:08:55.8421597+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.512251+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:59:49.3761624+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:09:05.256231+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:59:11.449371+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:08:55.8421917+00:00"
 }

@@ -5,44 +5,44 @@ Rating: 4.12 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,292 |
-| World Map | 79.00% | ~1,947 |
-| Temple of Eternals | 57.00% | ~1,405 |
-| Prestigious | 54.00% | ~1,331 |
-| Fellowship Power | 42.00% | ~1,035 |
-| Guild Power | 25.00% | ~616 |
-| Prestigious x10 | 22.00% | ~542 |
-| The game is on | 20.00% | ~493 |
-| Exotic Merchant | 18.00% | ~444 |
-| Dragon Clicker | 17.00% | ~419 |
-| Inspection | 16.00% | ~394 |
-| Miner Clicker | 16.00% | ~394 |
+| Victor | 93.00% | ~2,297 |
+| World Map | 79.00% | ~1,951 |
+| Temple of Eternals | 57.00% | ~1,408 |
+| Prestigious | 54.00% | ~1,334 |
+| Fellowship Power | 42.00% | ~1,037 |
+| Guild Power | 25.00% | ~618 |
+| Prestigious x10 | 22.00% | ~543 |
+| The game is on | 20.00% | ~494 |
+| Exotic Merchant | 18.00% | ~445 |
+| Dragon Clicker | 17.00% | ~420 |
+| Inspection | 16.00% | ~395 |
+| Miner Clicker | 16.00% | ~395 |
 | Enlightenment | 15.00% | ~370 |
 | Full Party | 15.00% | ~370 |
 | Hero inspection | 15.00% | ~370 |
-| Dragon Master | 14.00% | ~345 |
-| Lieutenant | 14.00% | ~345 |
-| Natural Talent | 13.00% | ~320 |
-| The Unstoppable | 13.00% | ~320 |
+| Dragon Master | 14.00% | ~346 |
+| Lieutenant | 14.00% | ~346 |
+| Natural Talent | 13.00% | ~321 |
+| The Unstoppable | 13.00% | ~321 |
 | Milestone collector | 12.00% | ~296 |
 | Mysterious Rock | 12.00% | ~296 |
 | Superior | 12.00% | ~296 |
-| Scientist | 11.00% | ~271 |
-| The power of Awakening | 11.00% | ~271 |
-| Challenger | 10.00% | ~246 |
-| Daily Quest Completionist | 10.00% | ~246 |
-| Doing My Part | 10.00% | ~246 |
-| Hunter | 10.00% | ~246 |
-| Mastery | 10.00% | ~246 |
-| Moving Up The Ladder | 10.00% | ~246 |
-| Relic Of The Past | 10.00% | ~246 |
-| Scroll Master | 10.00% | ~246 |
+| Scientist | 11.00% | ~272 |
+| The power of Awakening | 11.00% | ~272 |
+| Challenger | 10.00% | ~247 |
+| Daily Quest Completionist | 10.00% | ~247 |
+| Doing My Part | 10.00% | ~247 |
+| Hunter | 10.00% | ~247 |
+| Mastery | 10.00% | ~247 |
+| Moving Up The Ladder | 10.00% | ~247 |
+| Relic Of The Past | 10.00% | ~247 |
+| Scroll Master | 10.00% | ~247 |
 | Four Leaf Clover | 9.00% | ~222 |
 | Frostfire Liberator | 9.00% | ~222 |
 | Master Enchanter | 9.00% | ~222 |
 | The father of Dragons | 9.00% | ~222 |
-| Here We Go Again | 8.00% | ~197 |
-| Trader | 8.00% | ~197 |
+| Here We Go Again | 8.00% | ~198 |
+| Trader | 8.00% | ~198 |
 | Blueprint Upgrades | 7.00% | ~173 |
 | Crystal Mining | 7.00% | ~173 |
 | Dragon Slayer | 7.00% | ~173 |
@@ -57,10 +57,10 @@ Rating: 4.12 (Ranked 961)
 | Missions Dedication | 6.00% | ~148 |
 | Sailor | 6.00% | ~148 |
 | The Alchemist | 6.00% | ~148 |
-| Ancient Knowledge | 5.00% | ~123 |
-| Arena Challenger | 5.00% | ~123 |
-| Background Story | 5.00% | ~123 |
-| Ebony Jungle Liberator | 5.00% | ~123 |
+| Ancient Knowledge | 5.00% | ~124 |
+| Arena Challenger | 5.00% | ~124 |
+| Background Story | 5.00% | ~124 |
+| Ebony Jungle Liberator | 5.00% | ~124 |
 | Mythic Power | 4.00% | ~99 |
 | Gear Enchanting | 3.00% | ~74 |
 | Guardian Master | 3.00% | ~74 |
@@ -69,11 +69,11 @@ Rating: 4.12 (Ranked 961)
 | Enchanting skill x5 | 2.00% | ~49 |
 | Pokerface | 2.00% | ~49 |
 | Titan Power | 2.00% | ~49 |
-| Transmute | 2.00% | ~49 |
 | Angel Power | 1.00% | ~25 |
 | Conqueror | 1.00% | ~25 |
 | Enhanced War Machines | 1.00% | ~25 |
 | Training makes a Pro player | 1.00% | ~25 |
+| Transmute | 1.00% | ~25 |
 | Tree of Life | 1.00% | ~25 |
 | Beast War Machines | 0.90% | ~22 |
 | Silverwood liberator | 0.90% | ~22 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 961)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,465 (Ranked 216)  
+Progressed: 2,470 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2 (0.08%) (Ranked 291)
 | 2023-11-16 | 2,376 | 2 |
 | 2023-11-17 | 2,423 | 2 |
 | 2023-11-18 | 2,456 | 2 |
-| 2023-11-19 | 2,465 | 2 |
+| 2023-11-19 | 2,470 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 457)  

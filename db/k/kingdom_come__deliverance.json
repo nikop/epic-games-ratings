@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8587,18 +8587,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28277,
       "NumberOfAwardsMax": 7611
+    },
+    {
+      "Time": "2023-11-19T15:02:49.6269842+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28281,
+      "NumberOfAwardsMax": 7615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28277,
-  "NumberOfAwardsMax": 7611,
+  "NumberOfAwards": 28281,
+  "NumberOfAwardsMax": 7615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7611
+      "Count": 7615
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8673,9 +8679,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809014,
+  "EOS_Progressed": 809016,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 893,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32598,6 +32604,11 @@
       "Time": "2023-11-19T14:08:21.386465+00:00",
       "NumProgressed": 809014,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-19T15:08:20.4075755+00:00",
+      "NumProgressed": 809016,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32633,7 +32644,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129442
+      "UsersEstimate": 129443
     },
     {
       "ID": "Awakening",
@@ -32689,7 +32700,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258884
+      "UsersEstimate": 258885
     },
     {
       "ID": "Bookworm",
@@ -32769,7 +32780,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80901
+      "UsersEstimate": 80902
     },
     {
       "ID": "DavidHorak",
@@ -32809,7 +32820,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186073
+      "UsersEstimate": 186074
     },
     {
       "ID": "Fighter",
@@ -33264,15 +33275,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809014,
+      "Progressed": 809016,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-19T12:02:45.3457648+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:08:21.3864647+00:00",
+  "LastChanged": "2023-11-19T15:02:49.6269842+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:08:20.4075754+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:02:55.8088717+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:08:21.3866155+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:02:49.6269846+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:08:20.4077354+00:00"
 }

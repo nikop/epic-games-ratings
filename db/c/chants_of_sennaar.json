@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2628,9 +2628,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2811,8 +2811,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T14:05:26.581163+00:00",
+  "LastChanged_Achievements": "2023-11-19T15:04:55.2910988+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T14:01:06.0801127+00:00",
-  "LastUpdate_Achievements": "2023-11-19T14:05:26.5812047+00:00"
+  "LastUpdate_Ratings": "2023-11-19T15:00:13.2503572+00:00",
+  "LastUpdate_Achievements": "2023-11-19T15:04:55.2911176+00:00"
 }
