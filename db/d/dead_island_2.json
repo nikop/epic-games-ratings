@@ -6607,10 +6607,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11529,
       "NumberOfAwardsMax": 7552
+    },
+    {
+      "Time": "2023-11-19T04:00:39.0987774+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11532,
+      "NumberOfAwardsMax": 7552
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11529,
+  "NumberOfAwards": 11532,
   "NumberOfAwardsMax": 7552,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6654,7 +6660,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 458
+      "Count": 461
     },
     {
       "Text": "This game is Relaxing",
@@ -6669,9 +6675,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 720545,
+  "EOS_Progressed": 720561,
   "EOS_Completed": 2410,
-  "EOS_NewPlayers": 3552,
+  "EOS_NewPlayers": 3547,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30974,6 +30980,11 @@
       "Time": "2023-11-19T03:05:43.8872818+00:00",
       "NumProgressed": 720545,
       "NumCompleted": 2410
+    },
+    {
+      "Time": "2023-11-19T04:07:18.7892753+00:00",
+      "NumProgressed": 720561,
+      "NumCompleted": 2410
     }
   ],
   "TotalAchievements": 51,
@@ -31023,9 +31034,9 @@
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 1441
+      "UsersEstimate": 2162
     },
     {
       "ID": "ach_blueprinted",
@@ -31049,7 +31060,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "ach_contender",
@@ -31105,7 +31116,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -31145,7 +31156,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "ach_impressive_aim",
@@ -31321,7 +31332,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7205
+      "UsersEstimate": 7206
     },
     {
       "ID": "ach_well_known_survivor",
@@ -31392,22 +31403,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720545,
+      "Progressed": 720561,
       "Completed": 2410
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46087,
+      "Progressed": 46103,
       "Completed": 36564
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-19T02:25:30.2482659+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:05:43.8872814+00:00",
+  "LastChanged": "2023-11-19T04:00:39.0987772+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:07:18.789275+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:59:15.2908924+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:05:43.8873976+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:00:39.0987779+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:07:18.7893901+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.76 (Ranked 126)
 | Troll with the Punches | 14.00% | ~42,332 |
 | A Keen Sense of Spell | 13.00% | ~39,308 |
 | That's a Keeper | 13.00% | ~39,308 |
-| A Talent for Spending | 12.00% | ~36,284 |
+| A Talent for Spending | 12.00% | ~36,285 |
 | Grappling with a Graphorn | 11.00% | ~33,261 |
 | The One Who Mastered Memories | 11.00% | ~33,261 |
 | The Hallowed Hero | 11.00% | ~33,261 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 126)
 | The Root of the Problem | 6.00% | ~18,142 |
 | Third Time's a Charm | 6.00% | ~18,142 |
 | Raising Expectations | 6.00% | ~18,142 |
-| The Toast of the Town | 5.00% | ~15,118 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,118 |
-| The Ends Petrify the Means | 5.00% | ~15,118 |
+| The Toast of the Town | 5.00% | ~15,119 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,119 |
+| The Ends Petrify the Means | 5.00% | ~15,119 |
 | Going Through the Potions | 4.00% | ~12,095 |
 | Room with a View | 4.00% | ~12,095 |
 | The Intrepid Explorer | 4.00% | ~12,095 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,370 (Ranked 53)  
+Progressed: 302,371 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,16 +264,16 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
-| 2023-11-19 | 302,370 | 512 |
+| 2023-11-19 | 302,371 | 512 |
 ## Awards
 Max (Character Customization): 24,407  (Ranked 17)  
-Sum: 48,496 (Ranked 30)  
+Sum: 48,502 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,407 |
 | This game has Great Boss Battles | 12,398 |
-| This game is Great for Beginners | 1,319 |
+| This game is Great for Beginners | 1,325 |
 | This game has Amazing Storytelling | 1,270 |
 | This game has Diverse Characters | 1,269 |
 | This game is Extremely Fun | 1,242 |
@@ -526,3 +526,4 @@ Diff (max vs sum): -13
 | 2023-11-16 | 4.76 | 24,339 | 48,302 |
 | 2023-11-17 | 4.76 | 24,370 | 48,391 |
 | 2023-11-18 | 4.76 | 24,407 | 48,496 |
+| 2023-11-19 | 4.76 | 24,407 | 48,502 |

@@ -2,13 +2,13 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 87,
+  "Ranking_Rating": 86,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8378,7 +8378,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476299,
+  "EOS_Progressed": 476300,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -30033,6 +30033,11 @@
       "Time": "2023-11-19T03:03:40.7295662+00:00",
       "NumProgressed": 476299,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-19T04:04:28.495176+00:00",
+      "NumProgressed": 476300,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -30772,7 +30777,7 @@
       "Name": "Draft Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "fantasy_draft_knockout_king",
@@ -30827,15 +30832,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476299,
+      "Progressed": 476300,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-18T22:58:42.372431+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:03:40.7295658+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:04:28.4951753+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:53.8009181+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:58:12.3516572+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:03:40.7297578+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:59:06.4338065+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:04:28.4953305+00:00"
 }

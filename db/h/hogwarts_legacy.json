@@ -10633,10 +10633,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48496,
       "NumberOfAwardsMax": 24407
+    },
+    {
+      "Time": "2023-11-19T03:59:59.7389405+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48502,
+      "NumberOfAwardsMax": 24407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48496,
+  "NumberOfAwards": 48502,
   "NumberOfAwardsMax": 24407,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10668,7 +10674,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1319
+      "Count": 1325
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10713,9 +10719,9 @@
       "Count": 789
     }
   ],
-  "EOS_Progressed": 302370,
+  "EOS_Progressed": 302371,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33558,6 +33564,11 @@
       "Time": "2023-11-19T03:08:51.0153316+00:00",
       "NumProgressed": 302370,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-19T04:10:02.486352+00:00",
+      "NumProgressed": 302371,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33657,7 +33668,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "PFA_20",
@@ -33753,7 +33764,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36284
+      "UsersEstimate": 36285
     },
     {
       "ID": "PFA_31",
@@ -33833,7 +33844,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "PFA_40",
@@ -33849,7 +33860,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "PFA_42",
@@ -33928,16 +33939,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302370,
+      "Progressed": 302371,
       "Completed": 512
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-18T21:58:45.5527416+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:08:51.0153307+00:00",
+  "LastChanged": "2023-11-19T03:59:59.7389403+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:10:02.4863517+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:58:48.6585899+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:08:51.0154625+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:59:59.7389409+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:10:02.4864619+00:00"
 }

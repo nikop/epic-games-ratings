@@ -4,11 +4,11 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 213,
   "Ranking_Popularity": 77,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
     "PcReleaseDate": "2017-09-28T11:20:00+00:00",
@@ -6857,6 +6857,6 @@
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
   "LastChanged": "2023-11-18T21:00:43.5653309+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:12.87745+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:57:28.2508823+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:05:41.7551419+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:58:00.4686856+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:07:15.768293+00:00"
 }

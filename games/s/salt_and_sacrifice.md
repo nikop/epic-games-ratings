@@ -34,7 +34,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Shroud Alliance | 39.00% | ~26,188 |
 | The Two Monks | 37.00% | ~24,845 |
 | The Neuromancer | 35.00% | ~23,502 |
-| Oathbound Watchers | 33.00% | ~22,159 |
+| Oathbound Watchers | 34.00% | ~22,831 |
 | The Mechanomancer | 33.00% | ~22,159 |
 | The Chronomancer | 32.00% | ~21,488 |
 | The Copse | 30.00% | ~20,145 |

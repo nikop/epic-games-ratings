@@ -7,7 +7,7 @@
 | The Last Stand | 86.00% | ~265 |
 | Thalya – Simply Immortal | 86.00% | ~265 |
 | For the Horde! | 81.00% | ~249 |
-| Hammer Time, Round Two | 79.00% | ~243 |
+| Hammer Time, Round Two | 80.00% | ~246 |
 | The Hellwoods | 74.00% | ~228 |
 | The Plains of Strothalm | 68.00% | ~209 |
 | Thalya's Concentrated Fury | 67.00% | ~206 |
@@ -22,7 +22,7 @@
 | The Ascent | 45.00% | ~139 |
 | It's Warm and Cozy at Home | 45.00% | ~139 |
 | YOU SHALL NOT PASS! | 42.00% | ~129 |
-| Hard Work | 40.00% | ~123 |
+| Hard Work | 41.00% | ~126 |
 | The Big Eaty | 40.00% | ~123 |
 | Pure Dynamite! | 38.00% | ~117 |
 | “… like son” | 35.00% | ~108 |

@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205588,
+  "EOS_Progressed": 205591,
   "EOS_Completed": 529,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23128,6 +23128,11 @@
       "Time": "2023-11-19T03:04:47.522516+00:00",
       "NumProgressed": 205588,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-11-19T04:06:01.0984156+00:00",
+      "NumProgressed": 205591,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 29,
@@ -23163,7 +23168,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193253
+      "UsersEstimate": 193256
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23219,7 +23224,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10279
+      "UsersEstimate": 10280
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -23299,7 +23304,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10279
+      "UsersEstimate": 10280
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -23370,7 +23375,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205588,
+      "Progressed": 205591,
       "Completed": 529
     }
   ],
@@ -23378,8 +23383,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:04:47.5225158+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:06:01.0984153+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:57:10.7383853+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:04:47.5226203+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:57:34.3005458+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:06:01.0985364+00:00"
 }

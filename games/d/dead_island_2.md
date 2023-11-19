@@ -8,10 +8,10 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~922 |
 | Whatever It Takes | 2.00% | ~922 |
 | Pork Chopped | 2.00% | ~922 |
-| Break A Leg | 1.00% | ~7,205 |
-| Coup de Grâce | 1.00% | ~7,205 |
-| Hotel California | 1.00% | ~7,205 |
-| Welcome To Hell-A | 1.00% | ~7,205 |
+| Break A Leg | 1.00% | ~7,206 |
+| Coup de Grâce | 1.00% | ~7,206 |
+| Hotel California | 1.00% | ~7,206 |
+| Welcome To Hell-A | 1.00% | ~7,206 |
 | Dr. Reed, I Presume? | 0.90% | ~6,485 |
 | Git Gutte! | 0.90% | ~6,485 |
 | Bookworm | 0.90% | ~6,485 |
@@ -45,9 +45,9 @@ Rating: 4.54 (Ranked 523)
 | Variety is the Spice of Death | 0.40% | ~2,882 |
 | Rising Star | 0.40% | ~2,882 |
 | Make it So | 0.30% | ~2,162 |
+| LA Influential | 0.30% | ~2,162 |
 | Smorgasbord | 0.30% | ~2,162 |
 | Top That, Tisha! | 0.30% | ~138 |
-| LA Influential | 0.20% | ~1,441 |
 | Sole Survivor | 0.20% | ~1,441 |
 | Gore Horse | 0.20% | ~1,441 |
 | Sharpest Tool in the Box | 0.20% | ~1,441 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,545 (Ranked 20)  
+Progressed: 720,561 (Ranked 20)  
 Completed: 2,410 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 2,410 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,545 | 2,410 |
+| 2023-11-19 | 720,561 | 2,410 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
-Sum: 11,529 (Ranked 84)  
+Sum: 11,532 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 498 |
 | This game has Amazing Storytelling | 479 |
 | This game is Highly Recommended | 461 |
-| This game is Extremely Fun | 458 |
+| This game is Extremely Fun | 461 |
 | This game has Amazing Characters | 430 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -501,4 +501,4 @@ Diff (max vs sum): -33
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
-| 2023-11-19 | 4.54 | 7,552 | 11,529 |
+| 2023-11-19 | 4.54 | 7,552 | 11,532 |

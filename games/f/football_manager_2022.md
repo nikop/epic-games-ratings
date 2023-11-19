@@ -1,7 +1,7 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 87)  
+Rating: 4.80 (Ranked 86)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -90,7 +90,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | One more draft | 0.70% | ~3,334 |
 | Set Piece Specialist | 0.70% | ~3,334 |
 | Online Streak | 0.60% | ~2,858 |
-| Draft Rivalry | 0.50% | ~2,381 |
+| Draft Rivalry | 0.50% | ~2,382 |
 | Outstanding Defence | 0.40% | ~1,905 |
 | Club Legend | 0.40% | ~1,905 |
 | Beat all the AI Managers | 0.40% | ~1,905 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476,299 (Ranked 39)  
+Progressed: 476,300 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 22 (0.00%) (Ranked 356)
 | 2023-11-16 | 476,170 | 22 |
 | 2023-11-17 | 476,214 | 22 |
 | 2023-11-18 | 476,292 | 22 |
-| 2023-11-19 | 476,299 | 22 |
+| 2023-11-19 | 476,300 | 22 |
 ## Awards
 Max (Relaxing): 6,466  (Ranked 59)  
 Sum: 51,008 (Ranked 28)  

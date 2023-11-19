@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1851,7 +1851,7 @@
   ],
   "EOS_Progressed": 67149,
   "EOS_Completed": 1251,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.86,
   "EosHistory": [
@@ -13820,9 +13820,9 @@
       "ID": "faction_oath",
       "SetID": "2jelldm",
       "Name": "Oathbound Watchers",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22159
+      "UsersEstimate": 22831
     },
     {
       "ID": "faction_sheriff",
@@ -14060,8 +14060,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2023-11-18T10:58:05.498359+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:02:49.5172598+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:03:18.1985189+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:46.3742889+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:57:59.8025675+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:02:49.5174105+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:58:47.4205142+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:03:18.1986364+00:00"
 }

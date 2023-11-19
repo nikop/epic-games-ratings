@@ -16,8 +16,8 @@
 | Peacemaker | 12.00% | ~20 |
 | The Alliance | 11.00% | ~18 |
 | Krauta is alive | 10.00% | ~17 |
+| Volcanologist | 10.00% | ~17 |
 | Evacuation | 9.00% | ~15 |
-| Volcanologist | 9.00% | ~15 |
 | Flying Objects Operator | 9.00% | ~15 |
 | Fierce fight | 8.00% | ~13 |
 | Beyond divisions | 8.00% | ~13 |

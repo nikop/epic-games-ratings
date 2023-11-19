@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,882 (Ranked 41)  
+Progressed: 458,907 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 458,882 | 1 |
+| 2023-11-19 | 458,907 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
 Sum: 58,169 (Ranked 24)  

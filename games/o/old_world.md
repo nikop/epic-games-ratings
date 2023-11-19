@@ -114,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 1.00% | ~154 |
 | Revelation | 1.00% | ~154 |
 | Cimmerian Archer | 1.00% | ~154 |
+| Mounted Lancer | 1.00% | ~154 |
 | Legionary | 1.00% | ~154 |
 | Phalangite | 1.00% | ~154 |
 | Ambition Victory | 1.00% | ~154 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.90% | ~138 |
 | Enlightenment | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
-| Mounted Lancer | 0.90% | ~138 |
 | Bad Heir Day | 0.80% | ~123 |
 | Rome | 0.80% | ~123 |
 | Hittite Paganism | 0.80% | ~123 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,380 (Ranked 149)  
+Progressed: 15,381 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
-| 2023-11-19 | 15,380 | 5 |
+| 2023-11-19 | 15,381 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

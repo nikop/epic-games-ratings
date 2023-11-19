@@ -42,11 +42,11 @@ Rating: 4.61 (Ranked 385)
 | A Conqueror's Cohort | 0.50% | ~27 |
 | The Creator | 0.40% | ~22 |
 | Crimson Caldera | 0.40% | ~22 |
+| Pruning for Progress | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | Lord of Chaos | 0.30% | ~16 |
 | Manufactured War | 0.30% | ~16 |
 | The Eternal Court | 0.30% | ~16 |
-| Pruning for Progress | 0.30% | ~16 |
 | Duality | 0.30% | ~16 |
 | God Emperor | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |

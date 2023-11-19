@@ -9,6 +9,8 @@
 | Tinkerer | 0.80% | ~1 |
 | Welcome to the Club | 0.80% | ~1 |
 | A new World ahead | 0.80% | ~1 |
+| Apprentice | 0.80% | ~1 |
+| The Golden Flash | 0.80% | ~1 |
 | Small Setback | 0.80% | ~1 |
 | Mirror, Mirror on the Wall | 0.00% | ~0 |
 | Sponsor | 0.00% | ~0 |
@@ -45,10 +47,8 @@
 | But what of the Acreans? | 0.00% | ~0 |
 | A Deceiving Gift | 0.00% | ~0 |
 | Unveiling the Truth | 0.00% | ~0 |
-| Apprentice | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
-| The Golden Flash | 0.00% | ~0 |
 | The Power of the Mountains | 0.00% | ~0 |
 | Changing the World | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 410)  
+Progressed: 122 (Ranked 411)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |

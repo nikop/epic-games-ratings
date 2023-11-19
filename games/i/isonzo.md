@@ -8,12 +8,12 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 51.00% | ~4,236 |
 | You Shall Not Pass | 51.00% | ~4,236 |
-| Peak Performance | 49.00% | ~4,069 |
-| Avanti Savoia! | 45.00% | ~3,737 |
+| Peak Performance | 49.00% | ~4,070 |
+| Avanti Savoia! | 45.00% | ~3,738 |
 | Mamma Mia! | 35.00% | ~2,907 |
 | Conrad von Hotzensocks | 33.00% | ~2,741 |
 | Gabriele D'Annunzio | 32.00% | ~2,658 |
-| Silver Lining | 28.00% | ~2,325 |
+| Silver Lining | 28.00% | ~2,326 |
 | Aurelio Baruzzi | 22.00% | ~1,827 |
 | Decimation | 20.00% | ~1,661 |
 | Donatello | 20.00% | ~1,661 |
@@ -30,9 +30,9 @@ Number of Ratings: 98  (23.09.2022)
 | Shaken, Not Stirred | 12.00% | ~997 |
 | The Devil's Paintbrush | 11.00% | ~914 |
 | Thus With A Kiss | 11.00% | ~914 |
-| Dante's Inferno | 10.00% | ~830 |
-| I Have the High Ground | 9.00% | ~747 |
-| Millenial | 9.00% | ~747 |
+| Dante's Inferno | 10.00% | ~831 |
+| I Have the High Ground | 9.00% | ~748 |
+| Millenial | 9.00% | ~748 |
 | The Show Must Go On | 8.00% | ~664 |
 | Tosca | 8.00% | ~664 |
 | 12th Bottle of the Isonzo | 6.00% | ~498 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~33 |
 | Can I Go Home Now? | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,305 (Ranked 170)  
+Progressed: 8,306 (Ranked 170)  
 Completed: 9 (0.11%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 9 (0.11%) (Ranked 275)
 | 2023-11-16 | 7,705 | 9 |
 | 2023-11-17 | 7,896 | 9 |
 | 2023-11-18 | 8,286 | 9 |
-| 2023-11-19 | 8,305 | 9 |
+| 2023-11-19 | 8,306 | 9 |
 ## Awards
 Max (Diverse Characters): 36  (Ranked 466)  
 Sum: 280 (Ranked 371)  

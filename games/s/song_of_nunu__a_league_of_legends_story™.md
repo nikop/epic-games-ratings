@@ -7,13 +7,13 @@
 | Feels Familiar | 77.00% | ~570 |
 | I Broke It | 74.00% | ~548 |
 | Better On Ice | 71.00% | ~525 |
-| Notai Notes | 70.00% | ~518 |
+| Notai Notes | 71.00% | ~525 |
 | Blue Dreams | 69.00% | ~511 |
 | He's Famous! | 69.00% | ~511 |
 | Cutie Poro | 68.00% | ~503 |
 | Krugmazing | 67.00% | ~496 |
 | The Fire Below the Mountain | 65.00% | ~481 |
-| Moneyball | 61.00% | ~451 |
+| Moneyball | 62.00% | ~459 |
 | No Bites | 58.00% | ~429 |
 | Iceborn | 58.00% | ~429 |
 | Boom Things | 56.00% | ~414 |

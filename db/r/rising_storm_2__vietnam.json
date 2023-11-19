@@ -2,13 +2,13 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 2871,
   "RatingHistory": [
     {
@@ -7690,6 +7690,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 7812,
       "NumberOfAwardsMax": 889
+    },
+    {
+      "Time": "2023-11-19T03:57:23.3602316+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7812,
+      "NumberOfAwardsMax": 889
     }
   ],
   "ReviewsDisabled": false,
@@ -7781,8 +7787,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-11-18T19:57:14.1143005+00:00",
+  "LastChanged": "2023-11-19T03:57:23.3602315+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:02.6110635+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:57:03.7084335+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:05:38.3006952+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:57:23.360232+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:07:11.0734909+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.66 (Ranked 294)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,399 |
-| On the Top Step | 87.00% | ~5,050 |
-| Setting up for Success | 77.00% | ~4,470 |
+| Getting on the Step | 93.00% | ~5,400 |
+| On the Top Step | 87.00% | ~5,051 |
+| Setting up for Success | 77.00% | ~4,471 |
 | Team Orders | 75.00% | ~4,354 |
 | Engineer | 55.00% | ~3,193 |
-| Familiar Faces | 47.00% | ~2,728 |
-| Sharing the Love | 42.00% | ~2,438 |
-| Going the Extra Mile | 42.00% | ~2,438 |
+| Familiar Faces | 47.00% | ~2,729 |
+| Sharing the Love | 42.00% | ~2,439 |
+| Going the Extra Mile | 42.00% | ~2,439 |
 | Hitting a Season | 37.00% | ~2,148 |
 | A Dozen Pieces | 32.00% | ~1,858 |
 | Challenge Yourself | 32.00% | ~1,858 |
 | Making History | 31.00% | ~1,800 |
-| Network Success | 27.00% | ~1,567 |
-| Writing a new Chapter | 25.00% | ~1,451 |
+| Network Success | 27.00% | ~1,568 |
+| Writing a new Chapter | 25.00% | ~1,452 |
 | Spring Cleaning | 23.00% | ~1,335 |
 | Reduce | 20.00% | ~1,161 |
 | Ups and Downs | 20.00% | ~1,161 |
@@ -36,7 +36,7 @@ Rating: 4.66 (Ranked 294)
 | Friendly Competition | 12.00% | ~697 |
 | Switcheroo | 12.00% | ~697 |
 | Recycle | 11.00% | ~639 |
-| Tinkerer | 9.00% | ~522 |
+| Tinkerer | 9.00% | ~523 |
 | Undisputed Winner | 8.00% | ~464 |
 | For all Those Back at the Factory | 6.00% | ~348 |
 | Living up to Expectations | 6.00% | ~348 |
@@ -55,7 +55,7 @@ Rating: 4.66 (Ranked 294)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,805 (Ranked 185)  
+Progressed: 5,806 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 5,758 | 0 |
 | 2023-11-17 | 5,778 | 0 |
 | 2023-11-18 | 5,803 | 0 |
-| 2023-11-19 | 5,805 | 0 |
+| 2023-11-19 | 5,806 | 0 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 468)  
 Sum: 78 (Ranked 460)  

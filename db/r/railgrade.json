@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 3578,
-  "Ranking_EOS_NewCompleters": 3578,
+  "Ranking_EOS_NewPlayers": 3579,
+  "Ranking_EOS_NewCompleters": 3579,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -591,7 +591,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18439,
+  "EOS_Progressed": 18438,
   "EOS_Completed": 28,
   "EOS_NewPlayers": -86,
   "EOS_NewCompleters": -3,
@@ -9696,6 +9696,11 @@
       "Time": "2023-11-19T01:54:24.6271988+00:00",
       "NumProgressed": 18439,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-19T04:03:53.5050055+00:00",
+      "NumProgressed": 18438,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 37,
@@ -9739,7 +9744,7 @@
       "Name": "Builder",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 16226
+      "UsersEstimate": 16225
     },
     {
       "ID": "ach.060.goingdistance",
@@ -9763,7 +9768,7 @@
       "Name": "Eraser",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 13645
+      "UsersEstimate": 13644
     },
     {
       "ID": "ach.090.perfectionist",
@@ -9803,7 +9808,7 @@
       "Name": "Minimalist",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 17517
+      "UsersEstimate": 17516
     },
     {
       "ID": "ach.140.legacy",
@@ -9811,7 +9816,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 104,
       "XP": 60,
-      "UsersEstimate": 19177
+      "UsersEstimate": 19176
     },
     {
       "ID": "ach.150.pocket",
@@ -9819,7 +9824,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 12723
+      "UsersEstimate": 12722
     },
     {
       "ID": "ach.160.box",
@@ -9827,7 +9832,7 @@
       "Name": "Box of Trains",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6453
     },
     {
       "ID": "ach.170.room",
@@ -9843,7 +9848,7 @@
       "Name": "Inspector",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 11617
+      "UsersEstimate": 11616
     },
     {
       "ID": "ach.190.scenic",
@@ -9867,7 +9872,7 @@
       "Name": "Oil Baron",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8297
     },
     {
       "ID": "ach.220.hot",
@@ -9891,7 +9896,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8297
     },
     {
       "ID": "ach.250.downfall",
@@ -9899,7 +9904,7 @@
       "Name": "Before the Downfall",
       "Percentage": 99,
       "XP": 60,
-      "UsersEstimate": 18255
+      "UsersEstimate": 18254
     },
     {
       "ID": "ach.260.investor",
@@ -9955,7 +9960,7 @@
       "Name": "Industrialist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4979
+      "UsersEstimate": 4978
     },
     {
       "ID": "ach.330.water",
@@ -9963,7 +9968,7 @@
       "Name": "Money like Water",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17886
+      "UsersEstimate": 17885
     },
     {
       "ID": "ach.340.steel",
@@ -10002,7 +10007,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18439,
+      "Progressed": 18438,
       "Completed": 28
     }
   ],
@@ -10010,8 +10015,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:03:15.3790125+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:03:53.5050051+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.596725+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:58:30.091293+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:03:15.3790787+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:59:33.0783193+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:03:53.5050704+00:00"
 }

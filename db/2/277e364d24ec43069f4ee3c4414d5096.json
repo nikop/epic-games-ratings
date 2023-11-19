@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114522,
+  "EOS_Progressed": 114524,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18369,6 +18369,11 @@
       "Time": "2023-11-19T03:08:22.4357032+00:00",
       "NumProgressed": 114522,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-19T04:09:22.5981134+00:00",
+      "NumProgressed": 114524,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18388,7 +18393,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88182
+      "UsersEstimate": 88183
     },
     {
       "ID": "EAwards_10",
@@ -18396,7 +18401,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     },
     {
       "ID": "EAwards_11",
@@ -18412,7 +18417,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17178
+      "UsersEstimate": 17179
     },
     {
       "ID": "EAwards_13",
@@ -18452,7 +18457,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42373
+      "UsersEstimate": 42374
     },
     {
       "ID": "EAwards_18",
@@ -18476,7 +18481,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54971
+      "UsersEstimate": 54972
     },
     {
       "ID": "EAwards_20",
@@ -18484,7 +18489,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     },
     {
       "ID": "EAwards_21",
@@ -18524,7 +18529,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21759
+      "UsersEstimate": 21760
     },
     {
       "ID": "EAwards_26",
@@ -18532,7 +18537,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     },
     {
       "ID": "EAwards_27",
@@ -18564,7 +18569,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22904
+      "UsersEstimate": 22905
     },
     {
       "ID": "EAwards_30",
@@ -18764,14 +18769,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114522,
+      "Progressed": 114524,
       "Completed": 50
     }
   ],
@@ -18779,8 +18784,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-19T03:08:22.4357027+00:00",
+  "LastChanged_Achievements": "2023-11-19T04:09:22.5981131+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:59:58.9361392+00:00",
-  "LastUpdate_Achievements": "2023-11-19T03:08:22.4358267+00:00"
+  "LastUpdate_Ratings": "2023-11-19T04:02:33.102479+00:00",
+  "LastUpdate_Achievements": "2023-11-19T04:09:22.5982256+00:00"
 }
