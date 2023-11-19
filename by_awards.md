@@ -24,7 +24,7 @@
 | 22 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 20,066 | 4.89 | 12 |
 | 23 | [Warframe](games/w/warframe.md) | 18,495 | 4.60 | 413 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,892 | 4.76 | 126 |
-| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,828 | 4.60 | 413 |
+| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,856 | 4.60 | 413 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,597 | 4.58 | 444 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 14,000 | 4.60 | 413 |
 | 28 | [Maneater](games/m/maneater.md) | 13,808 | 4.49 | 606 |
@@ -57,7 +57,7 @@
 | 55 | [Sifu](games/s/sifu.md) | 6,811 | 4.82 | 67 |
 | 56 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 711 |
 | 57 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,545 | 4.75 | 148 |
-| 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,533 | 4.58 | 444 |
+| 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,539 | 4.58 | 444 |
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,466 | 4.80 | 87 |
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,228 | 4.66 | 294 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,104 | 4.79 | 96 |
@@ -71,7 +71,7 @@
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,538 | 4.68 | 252 |
 | 70 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,531 | 4.69 | 232 |
 | 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,089 | 4.76 | 126 |
-| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,912 | 4.60 | 413 |
+| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,923 | 4.60 | 413 |
 | 73 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,855 | 4.56 | 489 |
 | 74 | [Shop Titans](games/s/shop_titans.md) | 4,834 | 3.99 | 1,000 |
 | 75 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,771 | 3.97 | 1,003 |
@@ -104,7 +104,7 @@
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 963 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,515 | 4.80 | 87 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,441 | 4.78 | 106 |
-| 105 | [Remnant 2](games/r/remnant_2.md) | 2,299 | 4.75 | 148 |
+| 105 | [Remnant 2](games/r/remnant_2.md) | 2,336 | 4.75 | 148 |
 | 106 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,283 | 4.67 | 272 |
 | 107 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,268 | 4.63 | 349 |
 | 108 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,228 | 4.41 | 720 |

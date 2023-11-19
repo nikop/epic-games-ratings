@@ -153,7 +153,7 @@
 | 148 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 548 |
 | 148 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 548 |
 | 148 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.75 | 0 | 548 |
-| 148 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,299 | 105 |
+| 148 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,336 | 105 |
 | 148 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 816 | 169 |
 | 148 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.75 | 0 | 548 |
 | 148 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 409 | 227 |
@@ -412,9 +412,9 @@
 | 385 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 52 | 424 |
 | 385 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 26 | 512 |
 | 385 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 292 | 256 |
-| 413 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,828 | 25 |
+| 413 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,856 | 25 |
 | 413 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 548 |
-| 413 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,912 | 72 |
+| 413 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,923 | 72 |
 | 413 | [Control](games/c/control.md) | 4.60 | 8,750 | 41 |
 | 413 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 222 | 276 |
 | 413 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 78 | 389 |
@@ -462,7 +462,7 @@
 | 444 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 217 | 281 |
 | 444 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 548 |
 | 444 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 56 | 417 |
-| 444 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,533 | 58 |
+| 444 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,539 | 58 |
 | 444 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 548 |
 | 444 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 548 |
 | 444 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 222 | 276 |
