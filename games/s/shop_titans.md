@@ -48,23 +48,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,405 |
 | Magical Harmony | 1.00% | ~1,405 |
 | Arcane Industries | 1.00% | ~1,405 |
-| A Notch Above the Rest | 0.90% | ~1,264 |
-| The King's Caprice | 0.90% | ~1,264 |
-| Big Game Hunting | 0.90% | ~1,264 |
-| Scrapbooker | 0.90% | ~1,264 |
-| Locally Sourced | 0.90% | ~1,264 |
-| Flying off the Shelves | 0.90% | ~1,264 |
-| This Power Level...! | 0.90% | ~1,264 |
-| Hidden Potential | 0.90% | ~1,264 |
-| Expansion in Session | 0.90% | ~1,264 |
-| Mammonite | 0.90% | ~1,264 |
-| Miracle Alchemist | 0.90% | ~1,264 |
-| Laden with Loot | 0.90% | ~1,264 |
-| Seasoned Journeyman | 0.90% | ~1,264 |
-| Scourge of the Seas | 0.90% | ~1,264 |
-| Black Friday Special | 0.90% | ~1,264 |
-| Special Ingredient | 0.90% | ~1,264 |
-| Complete Monopoly | 0.90% | ~1,264 |
+| A Notch Above the Rest | 0.90% | ~1,265 |
+| The King's Caprice | 0.90% | ~1,265 |
+| Big Game Hunting | 0.90% | ~1,265 |
+| Scrapbooker | 0.90% | ~1,265 |
+| Locally Sourced | 0.90% | ~1,265 |
+| Flying off the Shelves | 0.90% | ~1,265 |
+| This Power Level...! | 0.90% | ~1,265 |
+| Hidden Potential | 0.90% | ~1,265 |
+| Expansion in Session | 0.90% | ~1,265 |
+| Mammonite | 0.90% | ~1,265 |
+| Miracle Alchemist | 0.90% | ~1,265 |
+| Laden with Loot | 0.90% | ~1,265 |
+| Seasoned Journeyman | 0.90% | ~1,265 |
+| Scourge of the Seas | 0.90% | ~1,265 |
+| Black Friday Special | 0.90% | ~1,265 |
+| Special Ingredient | 0.90% | ~1,265 |
+| Complete Monopoly | 0.90% | ~1,265 |
 | Cream of the Crop | 0.80% | ~1,124 |
 | Proud Paladin | 0.80% | ~1,124 |
 | Above the Norm | 0.80% | ~1,124 |
@@ -84,42 +84,42 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.80% | ~1,124 |
 | Exotic Commodities | 0.80% | ~1,124 |
 | King's Blade | 0.80% | ~1,124 |
-| Top of the World | 0.70% | ~983 |
-| Constellated | 0.70% | ~983 |
-| Thirst for Knowledge | 0.70% | ~983 |
-| Booty by the Boatload | 0.70% | ~983 |
-| Archivist | 0.70% | ~983 |
-| Fillin' the Bin | 0.70% | ~983 |
-| Industrial Evolution | 0.70% | ~983 |
-| Ritualist | 0.70% | ~983 |
-| A Legend is Born | 0.70% | ~983 |
-| Item of Renown | 0.70% | ~983 |
-| Bountiful Harvest | 0.70% | ~983 |
-| Precision Engineering | 0.70% | ~983 |
-| Treasure Trove | 0.70% | ~983 |
-| Moment of Respite | 0.70% | ~983 |
-| King's Shadow | 0.70% | ~983 |
-| Economy of Scarce | 0.70% | ~983 |
+| Top of the World | 0.70% | ~984 |
+| Constellated | 0.70% | ~984 |
+| Thirst for Knowledge | 0.70% | ~984 |
+| Booty by the Boatload | 0.70% | ~984 |
+| Archivist | 0.70% | ~984 |
+| Fillin' the Bin | 0.70% | ~984 |
+| Industrial Evolution | 0.70% | ~984 |
+| Ritualist | 0.70% | ~984 |
+| A Legend is Born | 0.70% | ~984 |
+| Item of Renown | 0.70% | ~984 |
+| Bountiful Harvest | 0.70% | ~984 |
+| Precision Engineering | 0.70% | ~984 |
+| Treasure Trove | 0.70% | ~984 |
+| Moment of Respite | 0.70% | ~984 |
+| King's Shadow | 0.70% | ~984 |
+| Economy of Scarce | 0.70% | ~984 |
 | Jackpot! | 0.60% | ~843 |
-| The Free Encyclopedia | 0.50% | ~702 |
-| Thank You Tom Nook | 0.50% | ~702 |
-| Eternal Crusade | 0.50% | ~702 |
-| All Accounted For | 0.50% | ~702 |
+| The Free Encyclopedia | 0.50% | ~703 |
+| Thank You Tom Nook | 0.50% | ~703 |
+| Eternal Crusade | 0.50% | ~703 |
+| All Accounted For | 0.50% | ~703 |
 | All or Nothing! | 0.40% | ~562 |
-| Unleashed Potential | 0.30% | ~421 |
-| JACKPOT!!! | 0.30% | ~421 |
-| Anything not Nailed Down | 0.30% | ~421 |
-| The Greatest Grind | 0.30% | ~421 |
-| Marvels from the World Over | 0.30% | ~421 |
+| Unleashed Potential | 0.30% | ~422 |
+| JACKPOT!!! | 0.30% | ~422 |
+| Anything not Nailed Down | 0.30% | ~422 |
+| The Greatest Grind | 0.30% | ~422 |
+| Marvels from the World Over | 0.30% | ~422 |
 | Bane of Legends | 0.20% | ~281 |
 | Ultimate Collector | 0.20% | ~281 |
 | Oligarch Monarch | 0.20% | ~281 |
 | Merchant Extraordinaire | 0.20% | ~281 |
 | To Hell and Back | 0.20% | ~281 |
 | Cash Only Please | 0.20% | ~281 |
-| Capitalist Camaraderie | 0.10% | ~140 |
+| Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,495 (Ranked 80)  
+Progressed: 140,509 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
-| 2023-11-19 | 140,495 | 187 |
+| 2023-11-19 | 140,509 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,563 (Ranked 50)  

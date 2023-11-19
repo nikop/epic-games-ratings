@@ -18,8 +18,8 @@
 | Fully Modded | 9.00% | ~73 |
 | Nanonic III | 9.00% | ~73 |
 | Supply Run | 9.00% | ~73 |
+| Cybernetic | 8.00% | ~64 |
 | The Bigger They Are | 7.00% | ~56 |
-| Cybernetic | 7.00% | ~56 |
 | Rookie | 7.00% | ~56 |
 | Eden Heights | 6.00% | ~48 |
 | Outer Core | 5.00% | ~40 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4273,7 +4273,7 @@
   ],
   "EOS_Progressed": 12116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16603,9 +16603,9 @@
       "ID": "DLC4_25_Sarkoris Will Be Green",
       "SetID": "11go2ek",
       "Name": "Sarkoris Will Be Green",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 327
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -16657,8 +16657,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-18T21:58:28.3784298+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:08:51.0349773+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:59:19.7844161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:59:36.5065658+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:08:51.0351542+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:49:36.733345+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:59:19.7845769+00:00"
 }

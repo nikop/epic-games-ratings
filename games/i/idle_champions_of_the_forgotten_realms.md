@@ -8,11 +8,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Beginning is the End | 2.00% | ~4,042 |
 | The End is the Beginning | 0.90% | ~1,819 |
-| A Brief Tour of the Realms | 0.70% | ~1,651 |
+| A Brief Tour of the Realms | 0.80% | ~1,887 |
 | Tomb of Champions | 0.60% | ~1,213 |
-| See You on the Flipside | 0.50% | ~1,010 |
-| Beast Intentions | 0.30% | ~707 |
-| The Cursed Farmer | 0.30% | ~707 |
+| See You on the Flipside | 0.50% | ~1,011 |
+| Beast Intentions | 0.30% | ~708 |
+| The Cursed Farmer | 0.30% | ~708 |
 | A Lesson in Classes | 0.20% | ~404 |
 | The Ring of Regeneration | 0.20% | ~472 |
 | The Mad Wizard | 0.20% | ~472 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~202 |
 | Time Out | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,822 (Ranked 63)  
+Progressed: 235,840 (Ranked 63)  
 Completed: 2,458 (1.04%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -752,10 +752,10 @@ Completed: 2,458 (1.04%) (Ranked 161)
 | 2023-11-16 | 235,368 | 2,455 |
 | 2023-11-17 | 235,587 | 2,456 |
 | 2023-11-18 | 235,810 | 2,458 |
-| 2023-11-19 | 235,822 | 2,458 |
+| 2023-11-19 | 235,840 | 2,458 |
 ## Awards
 Max (Great for Beginners): 5,542  (Ranked 68)  
-Sum: 32,525 (Ranked 41)  
+Sum: 32,526 (Ranked 41)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -765,7 +765,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,707 |
 | This game has Amazing Characters | 4,220 |
 | This game is Highly Recommended | 4,203 |
-| This game has Playful Visuals | 3,523 |
+| This game has Playful Visuals | 3,524 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1066,4 +1066,4 @@ Diff (max vs sum): 27
 | 2023-11-16 | 4.06 | - | 5,532 | 32,494 |
 | 2023-11-17 | 4.06 | - | 5,539 | 32,519 |
 | 2023-11-18 | 4.06 | - | 5,539 | 32,522 |
-| 2023-11-19 | 4.06 | - | 5,542 | 32,525 |
+| 2023-11-19 | 4.06 | - | 5,542 | 32,526 |

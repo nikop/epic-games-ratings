@@ -5,10 +5,10 @@
   "Ranking_Rating": 148,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 133,
-  "Ranking_EOS_Progress": 68,
+  "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4333,10 +4333,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5384,
       "NumberOfAwardsMax": 2299
+    },
+    {
+      "Time": "2023-11-19T01:53:55.8593523+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5397,
+      "NumberOfAwardsMax": 2299
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5384,
+  "NumberOfAwards": 5397,
   "NumberOfAwardsMax": 2299,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4350,7 +4356,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 330
+      "Count": 337
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4368,7 +4374,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 352
+      "Count": 358
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4407,10 +4413,10 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 223376,
-  "EOS_Completed": 474,
-  "EOS_NewPlayers": 3568,
-  "EOS_NewCompleters": 35,
+  "EOS_Progressed": 223406,
+  "EOS_Completed": 475,
+  "EOS_NewPlayers": 3583,
+  "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -18742,6 +18748,11 @@
       "Time": "2023-11-19T00:08:51.1974254+00:00",
       "NumProgressed": 223376,
       "NumCompleted": 474
+    },
+    {
+      "Time": "2023-11-19T01:59:19.7840625+00:00",
+      "NumProgressed": 223406,
+      "NumCompleted": 475
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19193,22 +19204,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 223376,
-      "Completed": 474
+      "Progressed": 223406,
+      "Completed": 475
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 2541,
+      "Progressed": 2571,
       "Completed": 109
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-18T23:03:14.5351176+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:08:51.1974252+00:00",
+  "LastChanged": "2023-11-19T01:53:55.8593518+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:59:19.7840622+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-19T00:03:19.9279405+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:08:51.1975306+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:53:55.8593526+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:59:19.7842239+00:00"
 }

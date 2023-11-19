@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 2.00% | ~308 |
 | Necropolis | 2.00% | ~308 |
 | Learn to Play 2 | 2.00% | ~308 |
+| Learn to Play 3 | 2.00% | ~308 |
 | Manichaeism | 2.00% | ~308 |
 | Carthaginian Paganism | 2.00% | ~308 |
 | Egyptian Paganism | 2.00% | ~308 |
@@ -97,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 1.00% | ~154 |
 | Pantheon | 1.00% | ~154 |
 | Via Recta Souk | 1.00% | ~154 |
-| Learn to Play 3 | 1.00% | ~154 |
 | Learn to Play 4 | 1.00% | ~154 |
 | Babylonia | 1.00% | ~154 |
 | Carthage | 1.00% | ~154 |

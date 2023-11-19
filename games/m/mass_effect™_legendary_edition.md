@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,229 |
 | Spectre Inductee | 79.00% | ~1,044 |
-| Medal of Exploration I | 71.00% | ~938 |
+| Medal of Exploration I | 72.00% | ~951 |
 | Recruit | 67.00% | ~885 |
 | Search and Rescue | 67.00% | ~885 |
 | Quarian Ally | 64.00% | ~845 |
@@ -68,11 +68,11 @@
 | Treason | 28.00% | ~370 |
 | Agent | 28.00% | ~370 |
 | Digital Exorcist | 28.00% | ~370 |
+| Mobilizer | 28.00% | ~370 |
 | Mission Accomplished | 27.00% | ~357 |
 | Suicide Mission | 27.00% | ~357 |
 | Against All Odds | 27.00% | ~357 |
 | Friend or Foe | 27.00% | ~357 |
-| Mobilizer | 27.00% | ~357 |
 | Untouchable | 26.00% | ~343 |
 | Giant Killer | 26.00% | ~343 |
 | A House Divided | 26.00% | ~343 |
@@ -89,6 +89,7 @@
 | Paramour II | 21.00% | ~277 |
 | Party Crasher | 21.00% | ~277 |
 | Hard Target | 20.00% | ~264 |
+| Fact Finder | 20.00% | ~264 |
 | Problem Solver | 20.00% | ~264 |
 | Pyromaniac | 19.00% | ~251 |
 | Under Pressure | 19.00% | ~251 |
@@ -96,7 +97,6 @@
 | No One Left Behind | 19.00% | ~251 |
 | Saboteur | 19.00% | ~251 |
 | Last Witness | 19.00% | ~251 |
-| Fact Finder | 19.00% | ~251 |
 | Well Connected | 18.00% | ~238 |
 | Executioner | 17.00% | ~225 |
 | Patriot | 17.00% | ~225 |
@@ -105,8 +105,8 @@
 | Legend | 16.00% | ~211 |
 | Electronics Specialist | 15.00% | ~198 |
 | Throw Mastery | 15.00% | ~198 |
+| Mail Slot | 14.00% | ~185 |
 | Long Service Medal | 14.00% | ~185 |
-| Mail Slot | 13.00% | ~172 |
 | Combined Arms | 12.00% | ~159 |
 | Bruiser | 11.00% | ~145 |
 | Warp Mastery | 11.00% | ~145 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.80% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,321 (Ranked 241)  
-Completed: 4 (0.30%) (Ranked 233)  
+Completed: 5 (0.38%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,3 +197,4 @@ Completed: 4 (0.30%) (Ranked 233)
 | 2023-11-16 | 1,282 | 3 |
 | 2023-11-17 | 1,300 | 3 |
 | 2023-11-18 | 1,321 | 4 |
+| 2023-11-19 | 1,321 | 5 |

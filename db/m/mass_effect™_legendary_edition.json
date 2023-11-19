@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -19,10 +19,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 1321,
-  "EOS_Completed": 4,
-  "EOS_NewPlayers": 133,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 130,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-09-20T19:07:08.0577536+00:00",
@@ -3623,6 +3623,11 @@
       "Time": "2023-11-18T23:06:10.5073859+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-19T01:56:52.0717364+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -3713,9 +3718,9 @@
       "ID": "achievement_108",
       "SetID": "d252ncf",
       "Name": "Mail Slot",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_109",
@@ -3961,9 +3966,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 938
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_22",
@@ -4489,9 +4494,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_82",
@@ -4585,9 +4590,9 @@
       "ID": "achievement_92",
       "SetID": "d252ncf",
       "Name": "Fact Finder",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_93",
@@ -4651,7 +4656,7 @@
       "ID": "b9pe172",
       "IsBase": true,
       "Progressed": 1321,
-      "Completed": 4
+      "Completed": 5
     },
     {
       "ID": "d252ncf",
@@ -4661,8 +4666,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:07:28.4213009+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:56:52.071736+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-19T00:03:10.1462412+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:07:28.421465+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:53:49.5880233+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:56:52.0718893+00:00"
 }

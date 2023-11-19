@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -15368,10 +15368,10 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897266,
+  "EOS_Progressed": 897273,
   "EOS_Completed": 2786,
-  "EOS_NewPlayers": 991,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 988,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -39453,6 +39453,11 @@
       "Time": "2023-11-19T00:04:08.8713581+00:00",
       "NumProgressed": 897266,
       "NumCompleted": 2786
+    },
+    {
+      "Time": "2023-11-19T01:54:30.2419908+00:00",
+      "NumProgressed": 897273,
+      "NumCompleted": 2786
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39975,9 +39980,9 @@
       "ID": "TheTower",
       "SetID": "23nboa5",
       "Name": "The Tower",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "DirtyWork",
@@ -40000,21 +40005,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897266,
+      "Progressed": 897273,
       "Completed": 2786
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25889,
+      "Progressed": 25896,
       "Completed": 10235
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-18T18:59:15.2296311+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:04:08.8713579+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:54:30.2419906+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:59:35.519011+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:04:08.8715266+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:49:36.0320483+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:54:30.2421115+00:00"
 }

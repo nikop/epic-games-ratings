@@ -37,9 +37,9 @@ Rating: 4.56 (Ranked 489)
 | Data Recoverer | 0.50% | ~75 |
 | Urshanabi Hoarder | 0.30% | ~45 |
 | Data Miner | 0.20% | ~30 |
+| Grave Robber | 0.20% | ~30 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
-| Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,098 (Ranked 150)  
 Completed: 34 (0.23%) (Ranked 245)  

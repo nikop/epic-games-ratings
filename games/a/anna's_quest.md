@@ -27,10 +27,10 @@
 | Little genius | 26.00% | ~20 |
 | Show me your true self | 24.00% | ~19 |
 | You've got mail! | 24.00% | ~19 |
+| Memories | 24.00% | ~19 |
 | Beekeeper | 24.00% | ~19 |
 | Pain in the hands | 24.00% | ~19 |
 | Mischief maker | 24.00% | ~19 |
-| Memories | 23.00% | ~18 |
 | Close the deal | 21.00% | ~16 |
 | Turn the last page | 21.00% | ~16 |
 | Ring-a-ding-ding | 21.00% | ~16 |

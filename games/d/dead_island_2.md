@@ -12,53 +12,53 @@ Rating: 4.54 (Ranked 523)
 | Coup de Grâce | 1.00% | ~7,205 |
 | Hotel California | 1.00% | ~7,205 |
 | Welcome To Hell-A | 1.00% | ~7,205 |
-| Dr. Reed, I Presume? | 0.90% | ~6,484 |
-| Git Gutte! | 0.90% | ~6,484 |
-| Bookworm | 0.90% | ~6,484 |
-| Hazardous Materials | 0.90% | ~6,484 |
-| Friends Like These | 0.90% | ~6,484 |
-| Apex Predator | 0.90% | ~6,484 |
-| Personal Assistant Personally Assisted | 0.90% | ~6,484 |
+| Dr. Reed, I Presume? | 0.90% | ~6,485 |
+| Git Gutte! | 0.90% | ~6,485 |
+| Bookworm | 0.90% | ~6,485 |
+| Hazardous Materials | 0.90% | ~6,485 |
+| Friends Like These | 0.90% | ~6,485 |
+| Apex Predator | 0.90% | ~6,485 |
+| Personal Assistant Personally Assisted | 0.90% | ~6,485 |
 | Anger Management | 0.80% | ~5,764 |
 | But Doctor, I am Butcho | 0.80% | ~5,764 |
 | Can't Handle the Truth | 0.80% | ~5,764 |
 | Stacking the Deck | 0.80% | ~5,764 |
 | This is My Weapon | 0.80% | ~5,764 |
-| Perks of the Job | 0.70% | ~5,043 |
-| Slayer Squad | 0.70% | ~5,043 |
-| Like Riding a Bike | 0.70% | ~5,043 |
-| Zombologist | 0.70% | ~5,043 |
-| Ooh, Shiny! | 0.70% | ~5,043 |
-| A Patton Emerges | 0.70% | ~5,043 |
-| Our True Nature | 0.70% | ~5,043 |
+| Perks of the Job | 0.70% | ~5,044 |
+| Slayer Squad | 0.70% | ~5,044 |
+| Like Riding a Bike | 0.70% | ~5,044 |
+| Zombologist | 0.70% | ~5,044 |
+| Ooh, Shiny! | 0.70% | ~5,044 |
+| A Patton Emerges | 0.70% | ~5,044 |
+| Our True Nature | 0.70% | ~5,044 |
 | Making Your Mark | 0.60% | ~4,323 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,323 |
 | I Am the Resurrection | 0.60% | ~4,323 |
 | Max Headroom | 0.60% | ~4,323 |
-| Not Even My Final Form | 0.50% | ~3,602 |
-| Humanity Distilled | 0.50% | ~3,602 |
-| Down with the Sickness | 0.50% | ~3,602 |
+| Not Even My Final Form | 0.50% | ~3,603 |
+| Humanity Distilled | 0.50% | ~3,603 |
+| Down with the Sickness | 0.50% | ~3,603 |
 | On Safari | 0.40% | ~2,882 |
+| Internet Famous | 0.40% | ~2,882 |
 | Jumbo Keyring | 0.40% | ~2,882 |
 | Go, Bobcats! | 0.40% | ~2,882 |
 | Variety is the Spice of Death | 0.40% | ~2,882 |
 | Rising Star | 0.40% | ~2,882 |
-| Make it So | 0.30% | ~2,161 |
-| Smorgasbord | 0.30% | ~2,161 |
-| Internet Famous | 0.30% | ~2,161 |
+| Make it So | 0.30% | ~2,162 |
+| Smorgasbord | 0.30% | ~2,162 |
 | Top That, Tisha! | 0.30% | ~138 |
 | LA Influential | 0.20% | ~1,441 |
 | Sole Survivor | 0.20% | ~1,441 |
 | Gore Horse | 0.20% | ~1,441 |
 | Sharpest Tool in the Box | 0.20% | ~1,441 |
 | Lawn and Order | 0.20% | ~92 |
-| Donk! | 0.10% | ~720 |
-| Survival Skills | 0.10% | ~720 |
-| Bucket List | 0.10% | ~720 |
+| Donk! | 0.10% | ~721 |
+| Survival Skills | 0.10% | ~721 |
+| Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,494 (Ranked 20)  
-Completed: 2,409 (0.33%) (Ranked 226)  
+Progressed: 720,526 (Ranked 20)  
+Completed: 2,409 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,10 +270,10 @@ Completed: 2,409 (0.33%) (Ranked 226)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,494 | 2,409 |
+| 2023-11-19 | 720,526 | 2,409 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
-Sum: 11,522 (Ranked 84)  
+Sum: 11,526 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -282,7 +282,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 553 |
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 498 |
-| This game has Amazing Storytelling | 475 |
+| This game has Amazing Storytelling | 479 |
 | This game is Highly Recommended | 461 |
 | This game is Extremely Fun | 458 |
 | This game has Amazing Characters | 430 |
@@ -501,4 +501,4 @@ Diff (max vs sum): -33
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
-| 2023-11-19 | 4.54 | 7,552 | 11,522 |
+| 2023-11-19 | 4.54 | 7,552 | 11,526 |

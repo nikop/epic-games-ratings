@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -379,7 +379,7 @@
   "Tags": [],
   "EOS_Progressed": 6472,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6307,9 +6307,9 @@
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 194
     },
     {
       "ID": "Bride",
@@ -6817,8 +6817,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:05:12.4994514+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:55:15.2004242+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:04.8203344+00:00",
-  "LastUpdate_Ratings": "2023-11-19T00:02:38.4067561+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:05:12.499524+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:53:28.5219913+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:55:15.2004905+00:00"
 }

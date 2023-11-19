@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1490,9 +1490,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -1681,8 +1681,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:07:37.7908473+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:56:58.790691+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:03.5964806+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:57:04.8863364+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:07:37.7908697+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:47:57.7146581+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:56:58.79071+00:00"
 }

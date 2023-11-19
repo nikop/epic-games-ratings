@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 197,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -644,6 +644,11 @@
       "Time": "2023-11-18T21:12:22.6922445+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T01:59:40.5620072+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -766,9 +771,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -815,14 +820,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 197,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:09:19.8281552+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:59:40.5620069+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:58:18.1753637+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:09:19.8281768+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:48:45.8344568+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:59:40.5620213+00:00"
 }

@@ -17,7 +17,7 @@ Number of Ratings: 45  (23.09.2022)
 | Completing the Look | 1.00% | ~15 |
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
-| Let Me Get My Chisel | 0.70% | ~10 |
+| Let Me Get My Chisel | 0.80% | ~12 |
 | Echoes Die | 0.70% | ~10 |
 | A Mythic Menagerie | 0.60% | ~9 |
 | Who's Counting? | 0.60% | ~9 |

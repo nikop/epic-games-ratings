@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.86 (Ranked 31)  
+Rating: 4.87 (Ranked 23)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.86 (Ranked 31)
 | Who put gears in there? | 14.00% | ~592 |
 | Thanks for the free chip, Peppermint! | 13.00% | ~550 |
 | You got this, Peppermint? | 13.00% | ~550 |
-| Perfect Parry | 12.00% | ~507 |
-| Alright, that felt AWESOME! | 12.00% | ~507 |
+| Perfect Parry | 12.00% | ~508 |
+| Alright, that felt AWESOME! | 12.00% | ~508 |
 | This will cost you big time | 11.00% | ~465 |
 | Uh, they were broken when I got here | 11.00% | ~465 |
 | I play my own way! | 10.00% | ~423 |
@@ -31,10 +31,10 @@ Rating: 4.86 (Ranked 31)
 | NOW we got a kickass hideout! | 8.00% | ~220 |
 | I have to read these things? | 7.00% | ~296 |
 | Perfecter Parry-er! | 7.00% | ~296 |
-| Well that was a rush! | 5.00% | ~211 |
-| Beat-hit mania | 5.00% | ~211 |
-| That's a lot of junk metal… | 5.00% | ~211 |
-| There's such a thing as TOO helpful | 5.00% | ~211 |
+| Well that was a rush! | 5.00% | ~212 |
+| Beat-hit mania | 5.00% | ~212 |
+| That's a lot of junk metal… | 5.00% | ~212 |
+| There's such a thing as TOO helpful | 5.00% | ~212 |
 | Chip-tuned | 3.00% | ~127 |
 | Wanna hear my playlist? | 3.00% | ~127 |
 | Check out my moves! | 3.00% | ~127 |
@@ -51,7 +51,7 @@ Rating: 4.86 (Ranked 31)
 | New bad guys? No problem! | 1.00% | ~28 |
 | OK, well THEY came after ME! | 0.80% | ~34 |
 | Easy Listening | 0.60% | ~25 |
-| Choose your own adventure | 0.60% | ~16 |
+| Choose your own adventure | 0.60% | ~17 |
 | Problem solved... wait, what? | 0.40% | ~17 |
 | Now this is how you fight like a team! | 0.40% | ~17 |
 | With our powers combined…and to the rhythm… | 0.40% | ~17 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,229 (Ranked 194)  
+Progressed: 4,230 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 8 (0.19%) (Ranked 258)
 | 2023-11-16 | 4,225 | 8 |
 | 2023-11-17 | 4,228 | 8 |
 | 2023-11-18 | 4,229 | 8 |
+| 2023-11-19 | 4,230 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -304,3 +305,4 @@ Completed: 8 (0.19%) (Ranked 258)
 | 2023-08-30 | 4.87 | 0 | 0 |
 | 2023-09-20 | 4.85 | 0 | 0 |
 | 2023-10-25 | 4.86 | 0 | 0 |
+| 2023-11-19 | 4.87 | 0 | 0 |

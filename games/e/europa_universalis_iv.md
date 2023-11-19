@@ -172,11 +172,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.10% | ~459 |
 | This is Persia! | 0.10% | ~459 |
 | This navy can take it all | 0.10% | ~459 |
+| This Revolution Was Crushed | 0.10% | ~459 |
 | Three Trivial Tributary Tribes | 0.10% | ~459 |
 | Time Bandit | 0.10% | ~459 |
 | Total Control | 0.10% | ~459 |
 | Trade Hegemon | 0.10% | ~459 |
 | Traditional Player | 0.10% | ~459 |
+| Triple the Rome | 0.10% | ~459 |
 | Trophy Hunter | 0.10% | ~459 |
 | True Catholic | 0.10% | ~459 |
 | Truly Divine Ruler | 0.10% | ~459 |
@@ -348,10 +350,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Pheasant Strut | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
-| This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,811 (Ranked 41)  
+Progressed: 458,859 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,10 +583,10 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 458,811 | 1 |
+| 2023-11-19 | 458,859 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
-Sum: 58,131 (Ranked 24)  
+Sum: 58,153 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -596,7 +596,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,683 |
 | This game is Extremely Fun | 6,658 |
 | This game is Relaxing | 6,490 |
-| This game has Competitive Players | 6,325 |
+| This game has Competitive Players | 6,347 |
 | This game has Amazing Storytelling | 5,876 |
 | This game has Amazing Characters | 5,439 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -909,4 +909,4 @@ Diff (max vs sum): 30
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
 | 2023-11-17 | 4.69 | - | 7,043 | 58,000 |
 | 2023-11-18 | 4.69 | - | 7,061 | 58,112 |
-| 2023-11-19 | 4.69 | - | 7,061 | 58,131 |
+| 2023-11-19 | 4.69 | - | 7,061 | 58,153 |

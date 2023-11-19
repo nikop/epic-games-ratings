@@ -2593,9 +2593,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 114
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2776,8 +2776,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:05:27.7150334+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:55:26.0053875+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T00:00:56.3623605+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:05:27.7150591+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:50:28.2986969+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:55:26.0054138+00:00"
 }

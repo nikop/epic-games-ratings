@@ -6,9 +6,10 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 76.00% | ~13 |
 | A Loyal Friend | 41.00% | ~7 |
-| Abandon Ship! | 24.00% | ~4 |
-| The Tomb of Kih-Oskh | 12.00% | ~2 |
-| The Weighing of the Soul | 6.00% | ~1 |
+| Abandon Ship! | 29.00% | ~5 |
+| The Tomb of Kih-Oskh | 18.00% | ~3 |
+| The Weighing of the Soul | 12.00% | ~2 |
+| The Curse of Kih-Oskh | 6.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |
 | Mysterious Bungalow | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 | Threat | 0.00% | ~0 |
-| The Curse of Kih-Oskh | 0.00% | ~0 |
 | It's a Deal! | 0.00% | ~0 |
 | Dynamite, Treason and Coconuts | 0.00% | ~0 |
 | Save a Friend | 0.00% | ~0 |

@@ -24,7 +24,7 @@
 | A Tragic Reminder | 46.00% | ~340 |
 | 3000 Year Blackout | 45.00% | ~333 |
 | The Finisher | 44.00% | ~326 |
-| So Close | 41.00% | ~303 |
+| So Close | 42.00% | ~311 |
 | You Get Used To It | 41.00% | ~303 |
 | True Legends | 41.00% | ~303 |
 | Bullseye | 38.00% | ~281 |
@@ -45,9 +45,9 @@
 | Handy Yeti | 8.00% | ~59 |
 | The Pied Piper Of Freljord | 6.00% | ~44 |
 | Braum's Poro Ranch | 4.00% | ~30 |
+| Rock Star | 3.00% | ~22 |
 | We Are Speed | 3.00% | ~22 |
 | Sneaky Notai | 2.00% | ~15 |
-| Rock Star | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 740 (Ranked 277)  
 Completed: 7 (0.95%) (Ranked 166)  

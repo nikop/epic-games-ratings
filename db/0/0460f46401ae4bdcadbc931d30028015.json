@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 929,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -625,6 +625,12 @@
       "Rating": 4.18,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-19T01:48:49.914712+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -657,9 +663,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3668,
+  "EOS_Progressed": 3669,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5407,6 +5413,11 @@
       "Time": "2023-11-19T00:06:05.1861683+00:00",
       "NumProgressed": 3668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T01:55:52.5447168+00:00",
+      "NumProgressed": 3669,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5443,7 +5454,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "achievement_13",
@@ -5459,7 +5470,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "achievement_15",
@@ -5586,16 +5597,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3668,
+      "Progressed": 3669,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-11-18T19:58:21.2008767+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:06:05.1861681+00:00",
+  "LastChanged": "2023-11-19T01:48:49.9147118+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:55:52.5447166+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:58:24.422062+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:06:05.1862056+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:48:49.9147124+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:55:52.5447503+00:00"
 }

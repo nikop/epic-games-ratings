@@ -29,10 +29,10 @@ Rating: 4.08 (Ranked 970)
 | Lights Army | 11.00% | ~31 |
 | Periapt Cerulean | 11.00% | ~31 |
 | Good Boy | 11.00% | ~31 |
+| Best Dressed | 8.00% | ~22 |
 | Armaments Azure | 8.00% | ~22 |
 | Periapt Viridian | 8.00% | ~22 |
 | Shroudfane Explorer | 8.00% | ~22 |
-| Best Dressed | 7.00% | ~20 |
 | Armaments Gules | 6.00% | ~17 |
 | Scholar | 5.00% | ~14 |
 | Kitted Out | 5.00% | ~14 |
@@ -54,7 +54,7 @@ Rating: 4.08 (Ranked 970)
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 280 (Ranked 353)  
-Completed: 1 (0.36%) (Ranked 222)  
+Completed: 1 (0.36%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

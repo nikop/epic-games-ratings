@@ -6,9 +6,9 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 353,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1482,9 +1482,9 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_4",
@@ -1699,8 +1699,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-17T21:59:23.4158769+00:00",
-  "LastChanged_Achievements": "2023-11-19T00:08:51.7409053+00:00",
+  "LastChanged_Achievements": "2023-11-19T01:59:20.1779244+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-19T00:00:15.51717+00:00",
-  "LastUpdate_Achievements": "2023-11-19T00:08:51.7409533+00:00"
+  "LastUpdate_Ratings": "2023-11-19T01:50:02.2457715+00:00",
+  "LastUpdate_Achievements": "2023-11-19T01:59:20.1779627+00:00"
 }
