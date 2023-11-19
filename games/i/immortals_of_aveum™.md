@@ -6,7 +6,7 @@ Rating: 4.09 (Ranked 966)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~257 |
-| Battlefields Have Memories | 87.00% | ~245 |
+| Battlefields Have Memories | 88.00% | ~248 |
 | Enlisted | 84.00% | ~237 |
 | Maybe Engage a Little | 80.00% | ~226 |
 | No More Names | 68.00% | ~192 |
@@ -34,8 +34,8 @@ Rating: 4.09 (Ranked 966)
 | Periapt Viridian | 8.00% | ~23 |
 | Armaments Azure | 7.00% | ~20 |
 | Armaments Gules | 7.00% | ~20 |
+| Kitted Out | 6.00% | ~17 |
 | Scholar | 5.00% | ~14 |
-| Kitted Out | 5.00% | ~14 |
 | Armaments Vert | 5.00% | ~14 |
 | Veteran | 5.00% | ~14 |
 | Master of Carmine | 2.00% | ~6 |

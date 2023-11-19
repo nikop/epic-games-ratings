@@ -2,13 +2,13 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 898,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "SomervilleWearyTraveller",
       "SetID": "3mk3nll",
       "Name": "Admiring the view",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -814,8 +814,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:17.5527231+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:05:59.2368557+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.5329385+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:59:12.153068+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:17.5527343+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:59:53.7775693+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:05:59.236867+00:00"
 }

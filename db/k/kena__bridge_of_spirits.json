@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1451,9 +1451,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429060,
+  "EOS_Progressed": 429061,
   "EOS_Completed": 547,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15346,6 +15346,11 @@
       "Time": "2023-11-19T20:05:15.893765+00:00",
       "NumProgressed": 429060,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-11-19T21:05:57.1185009+00:00",
+      "NumProgressed": 429061,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 41,
@@ -15365,7 +15370,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167333
+      "UsersEstimate": 167334
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -15373,7 +15378,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257436
+      "UsersEstimate": 257437
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15381,7 +15386,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124427
+      "UsersEstimate": 124428
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -15397,7 +15402,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180205
+      "UsersEstimate": 180206
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -15421,7 +15426,7 @@
       "Name": "Piercing Blow",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 60068
+      "UsersEstimate": 60069
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -15437,7 +15442,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257436
+      "UsersEstimate": 257437
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15445,7 +15450,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124427
+      "UsersEstimate": 124428
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -15493,7 +15498,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201658
+      "UsersEstimate": 201659
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -15525,7 +15530,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407607
+      "UsersEstimate": 407608
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15541,7 +15546,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308923
+      "UsersEstimate": 308924
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15549,7 +15554,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158752
+      "UsersEstimate": 158753
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -15557,7 +15562,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300342
+      "UsersEstimate": 300343
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -15573,7 +15578,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343248
+      "UsersEstimate": 343249
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15645,7 +15650,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188786
+      "UsersEstimate": 188787
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -15653,7 +15658,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145880
+      "UsersEstimate": 145881
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -15684,15 +15689,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429060,
+      "Progressed": 429061,
       "Completed": 547
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-19T15:02:24.7874888+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:15.8937636+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:05:57.1185002+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:06.8328833+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:00:51.3834834+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:15.8938814+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:02:38.8275216+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:05:57.1185985+00:00"
 }

@@ -1,25 +1,25 @@
 # STG Football
 [Store](https://store.epicgames.com/en-US/p/superteam-football-6ce66c)  
 [View Rawdata](../../db/s/stg_football.json)  
-Rating: 4.43 (Ranked 690)  
+Rating: 4.41 (Ranked 721)  
 ## Awards
-Max (Great for Beginners): 45  (Ranked 443)  
-Sum: 377 (Ranked 345)  
-Diff (max vs sum): 98  
+Max (Great for Beginners): 50  (Ranked 434)  
+Sum: 396 (Ranked 340)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 45 |
-| This game is Great for Quick Sessions | 39 |
-| This game has Diverse Characters | 34 |
-| This game has Quickly Understood Controls | 33 |
-| This game is Highly Recommended | 33 |
-| This game is Extremely Fun | 33 |
-| This game has a Competitive Community | 30 |
-| This game has Competitive Players | 28 |
-| This game has Amazing Characters | 28 |
-| This game has Amazing Storytelling | 26 |
+| This game is Great for Beginners | 50 |
+| This game is Great for Quick Sessions | 40 |
+| This game has Diverse Characters | 35 |
+| This game is Extremely Fun | 35 |
+| This game has Quickly Understood Controls | 34 |
+| This game is Highly Recommended | 34 |
+| This game has a Competitive Community | 31 |
+| This game has Amazing Characters | 30 |
+| This game has Competitive Players | 29 |
+| This game has Amazing Storytelling | 27 |
+| This game is Relaxing | 26 |
 | This game is Educational | 25 |
-| This game is Relaxing | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -128,3 +128,4 @@ Diff (max vs sum): 98
 | 2023-09-14 | 4.44 | 45 | 375 |
 | 2023-09-17 | 4.43 | 45 | 376 |
 | 2023-09-18 | 4.43 | 45 | 377 |
+| 2023-11-19 | 4.41 | 50 | 396 |

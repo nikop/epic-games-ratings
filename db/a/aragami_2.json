@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,7 +239,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43919,
+  "EOS_Progressed": 43920,
   "EOS_Completed": 241,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
@@ -17699,6 +17699,11 @@
       "Time": "2023-11-19T19:06:04.5529508+00:00",
       "NumProgressed": 43919,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-11-19T21:07:41.9681731+00:00",
+      "NumProgressed": 43920,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 44,
@@ -17830,7 +17835,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35135
+      "UsersEstimate": 35136
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17886,7 +17891,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10101
+      "UsersEstimate": 10102
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -17910,7 +17915,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -17934,7 +17939,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24155
+      "UsersEstimate": 24156
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -17950,7 +17955,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27669
+      "UsersEstimate": 27670
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17974,7 +17979,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26351
+      "UsersEstimate": 26352
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18046,7 +18051,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40845
+      "UsersEstimate": 40846
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18061,7 +18066,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43919,
+      "Progressed": 43920,
       "Completed": 241
     }
   ],
@@ -18069,8 +18074,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:06:38.0966117+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:07:41.9681724+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:11.2490619+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:00:52.8470717+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:06:38.0967289+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:02:40.8032872+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:07:41.9682904+00:00"
 }

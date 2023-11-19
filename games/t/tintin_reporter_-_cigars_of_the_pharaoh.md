@@ -4,13 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 79.00% | ~15 |
-| A Loyal Friend | 37.00% | ~7 |
-| Abandon Ship! | 26.00% | ~5 |
-| The Tomb of Kih-Oskh | 21.00% | ~4 |
-| The Weighing of the Soul | 11.00% | ~2 |
-| The Curse of Kih-Oskh | 11.00% | ~2 |
+| My Papyrus! | 80.00% | ~16 |
+| A Loyal Friend | 35.00% | ~7 |
+| Abandon Ship! | 25.00% | ~5 |
+| The Tomb of Kih-Oskh | 20.00% | ~4 |
+| The Weighing of the Soul | 10.00% | ~2 |
+| The Curse of Kih-Oskh | 10.00% | ~2 |
 | Mummy Nightmare | 5.00% | ~1 |
+| Barking Dog | 5.00% | ~1 |
+| It's a Deal! | 5.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |
 | Mysterious Bungalow | 0.00% | ~0 |
@@ -33,16 +35,14 @@
 | Mountain Runner | 0.00% | ~0 |
 | A Yummy Detour | 0.00% | ~0 |
 | The Pharaoh's New Clothes | 0.00% | ~0 |
-| Barking Dog | 0.00% | ~0 |
 | Cat Lover | 0.00% | ~0 |
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 | Threat | 0.00% | ~0 |
-| It's a Deal! | 0.00% | ~0 |
 | Dynamite, Treason and Coconuts | 0.00% | ~0 |
 | Save a Friend | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 551)  
+Progressed: 20 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,4 +52,4 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 8 | 0 |
 | 2023-11-17 | 14 | 0 |
 | 2023-11-18 | 17 | 0 |
-| 2023-11-19 | 19 | 0 |
+| 2023-11-19 | 20 | 0 |

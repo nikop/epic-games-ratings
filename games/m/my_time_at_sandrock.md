@@ -6,17 +6,17 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 251.00% | ~926 |
-| Iron Chef | 179.00% | ~661 |
-| Greeno-B-Gone | 125.00% | ~461 |
-| Your Especially Earned Trajectory | 98.00% | ~362 |
+| Adept Assembler | 252.00% | ~930 |
+| Iron Chef | 180.00% | ~664 |
+| Greeno-B-Gone | 126.00% | ~465 |
+| Your Especially Earned Trajectory | 99.00% | ~365 |
 | No Mountain Wide Enough | 73.00% | ~269 |
 | One of the Cool Kids | 71.00% | ~262 |
 | Yakmel Whisperer | 71.00% | ~262 |
 | Can We Keep It? | 68.00% | ~251 |
 | On that Grindset | 67.00% | ~247 |
+| Pack Mule | 63.00% | ~232 |
 | Diamonds are Forever | 63.00% | ~232 |
-| Pack Mule | 62.00% | ~229 |
 | Unboxing | 61.00% | ~225 |
 | Chatterbox | 55.00% | ~203 |
 | Big Game Hunter | 54.00% | ~199 |
@@ -30,9 +30,9 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 46.00% | ~170 |
 | What Plants Crave | 45.00% | ~166 |
 | Mole Masher | 45.00% | ~166 |
+| Panda-kin | 44.00% | ~162 |
 | Commissions, commissions...! | 44.00% | ~162 |
 | Anti-Santa | 44.00% | ~162 |
-| Panda-kin | 43.00% | ~159 |
 | Bridging the Gap | 43.00% | ~159 |
 | My Time Mansion | 42.00% | ~155 |
 | Finishing Touches | 42.00% | ~155 |
@@ -40,7 +40,7 @@ Number of Ratings: 892  (23.09.2022)
 | Waste Not Want Not | 42.00% | ~155 |
 | Knowledge is Power | 40.00% | ~148 |
 | Better Late than Never | 40.00% | ~148 |
-| Elementary, My Dear | 37.00% | ~137 |
+| Elementary, My Dear | 38.00% | ~140 |
 | Who Ya Gonna Call...? | 37.00% | ~137 |
 | Got the Flow Back | 36.00% | ~133 |
 | Jewel of the Eufaula | 35.00% | ~129 |
@@ -92,8 +92,8 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-19 | 378 | 0 |
 ## Awards
 Max (Character Customization): 594  (Ranked 194)  
-Sum: 1,366 (Ranked 238)  
-Diff (max vs sum): -44  
+Sum: 1,366 (Ranked 239)  
+Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 594 |

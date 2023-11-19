@@ -26,7 +26,7 @@ Number of Ratings: 53  (23.09.2022)
 | Walk the plank | 22.00% | ~230 |
 | Wholesale | 22.00% | ~230 |
 | Pearly gates | 18.00% | ~188 |
-| My precious! | 17.00% | ~178 |
+| My precious! | 18.00% | ~188 |
 | Conquistador | 14.00% | ~146 |
 | Panic buying | 11.00% | ~115 |
 | Your vessel, my vessel | 10.00% | ~104 |

@@ -4,8 +4,8 @@
   "ProductSlug": "run-a-cafe-58705c",
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-07-20T04:00:00+00:00",
     "PcReleaseDate": "2023-07-20T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.3051122+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:59:43.5494153+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:06:15.7812257+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:00:36.3864201+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:07:13.2859308+00:00"
 }

@@ -14,7 +14,7 @@
 | Blurry depth perception | 82.00% | ~105 |
 | Nerd | 80.00% | ~102 |
 | Up and down | 78.00% | ~100 |
-| Rolling, Rolling, Rolling | 74.00% | ~95 |
+| Rolling, Rolling, Rolling | 75.00% | ~96 |
 | Fire-fighter! | 66.00% | ~84 |
 | Oh, you're up to no gouda! | 64.00% | ~82 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~79 |
@@ -22,25 +22,25 @@
 | You're not going to blow me up! | 55.00% | ~70 |
 | Mushroom soup of the day | 52.00% | ~67 |
 | Honk honk! | 48.00% | ~61 |
+| Butcher | 48.00% | ~61 |
 | Cockadoodledoo! | 48.00% | ~61 |
-| Butcher | 47.00% | ~60 |
-| Spare Ribs | 46.00% | ~59 |
+| Spare Ribs | 47.00% | ~60 |
 | Thats disgusting! | 45.00% | ~58 |
+| My pants squeak when I walk | 42.00% | ~54 |
 | Self assessed tax return | 41.00% | ~52 |
-| My pants squeak when I walk | 41.00% | ~52 |
 | Surprise!! | 40.00% | ~51 |
-| Haemochromatosis | 38.00% | ~49 |
+| Haemochromatosis | 39.00% | ~50 |
+| Make America Grate Again | 34.00% | ~44 |
 | Pasta Bolognese | 34.00% | ~44 |
-| Make America Grate Again | 33.00% | ~42 |
+| You can't stop me, bro! | 32.00% | ~41 |
 | You are no match for me, Billy! | 31.00% | ~40 |
 | Catch the bus with me! | 31.00% | ~40 |
 | Karaoke king | 31.00% | ~40 |
-| You can't stop me, bro! | 31.00% | ~40 |
+| I'm going to get a concussion | 30.00% | ~38 |
 | Meatballs, coming up! | 29.00% | ~37 |
-| I'm going to get a concussion | 29.00% | ~37 |
-| Another one bites the iron | 26.00% | ~33 |
+| Another one bites the iron | 27.00% | ~35 |
+| Kleptomaniac | 25.00% | ~32 |
 | Ripe Meat Off The Bone! | 24.00% | ~31 |
-| Kleptomaniac | 24.00% | ~31 |
 | A Megapint...? | 23.00% | ~29 |
 | Hovering around | 23.00% | ~29 |
 | You're not so Big anymore, Boi! | 22.00% | ~28 |

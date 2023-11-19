@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,107 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,838 |
-| Loose Ends | 34.00% | ~26,071 |
-| To the Victor Go the Spoils | 28.00% | ~21,470 |
+| First Step Into the Knight | 51.00% | ~39,108 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,839 |
+| Loose Ends | 34.00% | ~26,072 |
+| To the Victor Go the Spoils | 28.00% | ~21,471 |
 | Knighthood | 27.00% | ~20,704 |
-| Get ReQ'd | 25.00% | ~19,170 |
-| Whispered Words | 25.00% | ~19,170 |
-| The Batman Family | 23.00% | ~17,636 |
+| Get ReQ'd | 25.00% | ~19,171 |
+| Whispered Words | 25.00% | ~19,171 |
+| The Batman Family | 23.00% | ~17,637 |
 | Lock and Key | 22.00% | ~16,870 |
 | Something in the Clay | 21.00% | ~16,103 |
 | Quartzer Life Crisis | 21.00% | ~16,103 |
-| Working Hard or Harley Working? | 20.00% | ~15,336 |
-| Unstoppable Force | 20.00% | ~15,336 |
-| Bad Apples in Every Orchard | 20.00% | ~15,336 |
-| Snow Problem | 19.00% | ~14,569 |
-| The Show Mud Go On | 18.00% | ~13,802 |
-| From Inside Gotham's Walls | 18.00% | ~13,802 |
+| Working Hard or Harley Working? | 20.00% | ~15,337 |
+| Unstoppable Force | 20.00% | ~15,337 |
+| Bad Apples in Every Orchard | 20.00% | ~15,337 |
+| Snow Problem | 19.00% | ~14,570 |
+| The Show Mud Go On | 18.00% | ~13,803 |
+| From Inside Gotham's Walls | 18.00% | ~13,803 |
 | Protector of Gotham | 17.00% | ~13,036 |
 | Universal Health Scare | 16.00% | ~12,269 |
 | In Your Element | 15.00% | ~11,502 |
 | Voiceless | 15.00% | ~11,502 |
-| Rock and a Hard Place | 14.00% | ~10,735 |
-| Cooldown | 14.00% | ~10,735 |
-| Seeking Asylum | 14.00% | ~10,735 |
-| Not On My Watch | 13.00% | ~9,968 |
-| Shock Til They Drop | 13.00% | ~9,968 |
+| Rock and a Hard Place | 14.00% | ~10,736 |
+| Cooldown | 14.00% | ~10,736 |
+| Seeking Asylum | 14.00% | ~10,736 |
+| Not On My Watch | 13.00% | ~9,969 |
+| Shock Til They Drop | 13.00% | ~9,969 |
 | End of an Era | 12.00% | ~9,202 |
 | Bulldozed | 12.00% | ~9,202 |
 | Gotham Knight | 12.00% | ~9,202 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 929)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,680 (Ranked 99)  
+Progressed: 76,683 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,10 +280,10 @@ Completed: 124 (0.16%) (Ranked 263)
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
 | 2023-11-18 | 76,626 | 123 |
-| 2023-11-19 | 76,680 | 124 |
+| 2023-11-19 | 76,683 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,951  (Ranked 98)  
-Sum: 5,012 (Ranked 138)  
+Sum: 5,013 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -291,7 +291,7 @@ Diff (max vs sum): -40
 | This game is Extremely Fun | 263 |
 | This game has Diverse Characters | 262 |
 | This game has Quickly Understood Controls | 260 |
-| This game is Relaxing | 259 |
+| This game is Relaxing | 260 |
 | This game is Great for Beginners | 257 |
 | This game has Amazing Characters | 254 |
 | This game is Highly Recommended | 254 |
@@ -567,4 +567,4 @@ Diff (max vs sum): -40
 | 2023-11-16 | 4.18 | 2,946 | 4,997 |
 | 2023-11-17 | 4.18 | 2,949 | 5,002 |
 | 2023-11-18 | 4.18 | 2,951 | 5,010 |
-| 2023-11-19 | 4.18 | 2,951 | 5,012 |
+| 2023-11-19 | 4.18 | 2,951 | 5,013 |

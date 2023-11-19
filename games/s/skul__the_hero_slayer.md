@@ -11,7 +11,7 @@ Number of Ratings: 546  (23.09.2022)
 | Rescued Elder Ent | 64.00% | ~5,315 |
 | Focus! | 63.00% | ~5,232 |
 | The End of the Gold Mane Knights | 49.00% | ~4,069 |
-| False Goddess, Disappear | 41.00% | ~3,405 |
+| False Goddess, Disappear | 42.00% | ~3,488 |
 | Rules of Etiquette | 41.00% | ~3,405 |
 | Quick Movements | 35.00% | ~2,906 |
 | Inventory Management | 35.00% | ~2,906 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~166 |
 | Cold-Blooded | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,304 (Ranked 171)  
+Progressed: 8,304 (Ranked 172)  
 Completed: 14 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |

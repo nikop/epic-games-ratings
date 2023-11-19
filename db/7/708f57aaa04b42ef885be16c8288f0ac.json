@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5600,
+  "EOS_Progressed": 5603,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3771,6 +3771,11 @@
       "Time": "2023-11-19T20:09:05.4408227+00:00",
       "NumProgressed": 5600,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T21:09:32.3912253+00:00",
+      "NumProgressed": 5603,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3797,9 +3802,9 @@
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "Bikemaggedon",
@@ -3855,7 +3860,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3957,9 +3962,9 @@
       "ID": "ScorchSquad",
       "SetID": "acc6ea0",
       "Name": "Scorch Squaaad!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "TheFloorIsLava",
@@ -4054,7 +4059,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5600,
+      "Progressed": 5603,
       "Completed": 7
     }
   ],
@@ -4062,8 +4067,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:09:05.4408222+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:09:32.391225+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:57:57.8804351+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:09:05.4408618+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:58:16.6368435+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:09:32.3912643+00:00"
 }

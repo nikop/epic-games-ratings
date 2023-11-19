@@ -4,11 +4,11 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 253,
   "Ranking_Popularity": 194,
-  "Ranking_PopularitySum": 238,
+  "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1580,7 +1580,7 @@
   ],
   "EOS_Progressed": 369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3507,9 +3507,9 @@
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "C_YEAR",
@@ -3555,17 +3555,17 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 251,
+      "Percentage": 252,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 930
     },
     {
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 232
     },
     {
       "ID": "M_COMMISSION",
@@ -3579,9 +3579,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 179,
+      "Percentage": 180,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 664
     },
     {
       "ID": "M_EXPAND",
@@ -3707,25 +3707,25 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 125,
+      "Percentage": 126,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 465
     },
     {
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 365
     },
     {
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "P_THEMEPARK",
@@ -3971,8 +3971,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-18T21:00:35.4683999+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:32.0761469+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:06:18.2834131+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:58:11.7969284+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:32.076202+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:58:35.7310823+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:06:18.283459+00:00"
 }

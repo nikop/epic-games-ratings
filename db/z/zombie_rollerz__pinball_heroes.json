@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -778,9 +778,9 @@
       "ID": "CLG_CHAPTER_NODAMAGE",
       "SetID": "89cjc9l",
       "Name": "Untouchable",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
@@ -1371,8 +1371,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:24.6843714+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:06:08.7876089+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:01.2096101+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:58:56.6669815+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:24.6844314+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:59:32.975942+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:06:08.7876726+00:00"
 }

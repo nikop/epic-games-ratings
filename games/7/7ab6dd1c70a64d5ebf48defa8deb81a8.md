@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Trinity | 8.00% | ~16 |
 | Find Allies | 6.00% | ~12 |
+| Powerful Allies | 6.00% | ~12 |
 | I Found It | 6.00% | ~12 |
-| Powerful Allies | 5.00% | ~10 |
 | Adventurer | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |

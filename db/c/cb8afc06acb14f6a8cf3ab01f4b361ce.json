@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -347,9 +347,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 314660,
+  "EOS_Progressed": 314714,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5374,
+  "EOS_NewPlayers": 5372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6577,6 +6577,11 @@
       "Time": "2023-11-19T20:03:50.0834934+00:00",
       "NumProgressed": 314660,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-19T21:04:06.6225896+00:00",
+      "NumProgressed": 314714,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6901,14 +6906,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 314660,
+      "Progressed": 314714,
       "Completed": 4
     }
   ],
@@ -6916,8 +6921,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-16T23:57:28.5098553+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:03:50.0834932+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:04:06.6225891+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:59:13.5226405+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:03:50.0835419+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:59:55.795647+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:04:06.6226486+00:00"
 }

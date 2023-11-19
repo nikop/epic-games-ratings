@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7626,9 +7626,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 85
     },
     {
       "ID": "Ach031",
@@ -7706,9 +7706,9 @@
       "ID": "Ach040",
       "SetID": "12n4k20",
       "Name": "Now this is how you fight like a team!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach041",
@@ -7977,8 +7977,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:56.2702655+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:06:48.4048732+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:00:07.7359692+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:56.2703499+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:01:09.7285825+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:06:48.4049471+00:00"
 }

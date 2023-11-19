@@ -7,6 +7,7 @@ Rating: 4.56 (Ranked 489)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 9.00% | ~1,362 |
 | Bosmang | 5.00% | ~756 |
+| Zen Master | 5.00% | ~54 |
 | The Pit and the Pirates | 4.00% | ~605 |
 | Martian Music | 4.00% | ~605 |
 | Drone Dodger | 4.00% | ~605 |
@@ -15,7 +16,6 @@ Rating: 4.56 (Ranked 489)
 | Impossible Objects | 4.00% | ~605 |
 | Keep Arjun in Check | 4.00% | ~43 |
 | Safe Cracker | 4.00% | ~43 |
-| Zen Master | 4.00% | ~43 |
 | Madame Undersecretary | 4.00% | ~43 |
 | Data Archivist | 3.00% | ~454 |
 | Stogie for Fogey | 3.00% | ~454 |

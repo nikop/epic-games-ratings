@@ -40,11 +40,11 @@ Rating: 4.87 (Ranked 23)
 | Check out my moves! | 3.00% | ~127 |
 | I think I deserve some praise, here! | 2.00% | ~85 |
 | I think I found your calling, Macaron | 2.00% | ~85 |
+| This is a breeze! | 2.00% | ~85 |
 | We're Jammin' | 2.00% | ~85 |
 | I hit things with a guitar really well. | 2.00% | ~85 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~85 |
 | Call me Turbo Chai | 2.00% | ~55 |
-| This is a breeze! | 1.00% | ~42 |
 | I'm not done with you yet | 1.00% | ~42 |
 | First we parry, then we counter | 1.00% | ~42 |
 | You ever parry a volcano? | 1.00% | ~42 |
@@ -52,8 +52,8 @@ Rating: 4.87 (Ranked 23)
 | OK, well THEY came after ME! | 0.80% | ~34 |
 | Easy Listening | 0.60% | ~25 |
 | Choose your own adventure | 0.60% | ~17 |
+| Now this is how you fight like a team! | 0.50% | ~21 |
 | Problem solved... wait, what? | 0.40% | ~17 |
-| Now this is how you fight like a team! | 0.40% | ~17 |
 | With our powers combined…and to the rhythm… | 0.40% | ~17 |
 | It'll do, CNMN | 0.40% | ~11 |
 | And the crowd goes wild! | 0.30% | ~13 |

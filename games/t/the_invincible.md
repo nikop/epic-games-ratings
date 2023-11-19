@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | The Camp | 28.00% | ~50 |
 | The City | 28.00% | ~50 |
+| The field base | 27.00% | ~48 |
 | The Teleprobe | 26.00% | ~47 |
-| The field base | 26.00% | ~47 |
 | Survivors | 23.00% | ~41 |
-| The Condor | 18.00% | ~32 |
+| The Condor | 19.00% | ~34 |
+| The Necroevolution | 18.00% | ~32 |
 | The End | 18.00% | ~32 |
-| The Necroevolution | 17.00% | ~30 |
 | On her own | 13.00% | ~23 |
 | The Alliance | 13.00% | ~23 |
 | Peacemaker | 12.00% | ~21 |
@@ -21,7 +21,7 @@
 | Flying Objects Operator | 10.00% | ~18 |
 | Fierce fight | 9.00% | ~16 |
 | Evacuation | 9.00% | ~16 |
-| I remember everything! | 7.00% | ~13 |
+| I remember everything! | 8.00% | ~14 |
 | Violent solution | 6.00% | ~11 |
 | Innate curiosity | 6.00% | ~11 |
 | The Invincible | 4.00% | ~7 |

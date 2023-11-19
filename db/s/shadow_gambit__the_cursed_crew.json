@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
@@ -2658,6 +2658,11 @@
       "Time": "2023-11-19T15:05:13.9821697+00:00",
       "NumProgressed": 830,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-19T21:06:17.7850837+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2702,7 +2707,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2718,7 +2723,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "_08_Completion_10",
@@ -2734,7 +2739,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "_10_Completion_30",
@@ -2750,7 +2755,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "_12_Completion_50",
@@ -2814,7 +2819,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2877,7 +2882,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 30
     }
   ],
@@ -2885,8 +2890,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:31.7792608+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:06:17.7850832+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:00:19.5976268+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:31.7792888+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:01:25.8360097+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:06:17.7851091+00:00"
 }

@@ -14,8 +14,8 @@
 | Thalya's Concentrated Fury | 68.00% | ~212 |
 | Master of Magic | 65.00% | ~203 |
 | Bad Elves Go Everywhere | 64.00% | ~200 |
+| Heroes’ Gorge | 60.00% | ~187 |
 | Magic Accidents | 59.00% | ~184 |
-| Heroes’ Gorge | 59.00% | ~184 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~181 |
 | Minions, Minions! | 56.00% | ~175 |
 | Trap Master | 53.00% | ~165 |
@@ -23,7 +23,7 @@
 | It's Warm and Cozy at Home | 47.00% | ~147 |
 | YOU SHALL NOT PASS! | 44.00% | ~137 |
 | Hard Work | 43.00% | ~134 |
-| The Big Eaty | 42.00% | ~131 |
+| The Big Eaty | 43.00% | ~134 |
 | Pure Dynamite! | 39.00% | ~122 |
 | “… like son” | 37.00% | ~115 |
 | Mana Cannon | 34.00% | ~106 |
@@ -34,14 +34,14 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~69 |
 | Unstoppable Horde | 22.00% | ~69 |
 | Master of the Undead | 21.00% | ~66 |
+| All’s Well That Ends Evil | 21.00% | ~66 |
 | Hungry, Hungry Gorgu! | 20.00% | ~62 |
-| All’s Well That Ends Evil | 20.00% | ~62 |
 | Forbidden Knowledge | 18.00% | ~56 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
 | The Duel | 16.00% | ~50 |
+| Stop Tanos! | 15.00% | ~47 |
 | If Looks Could Kill | 15.00% | ~47 |
-| Stop Tanos! | 14.00% | ~44 |
 | The Finitude Drill | 13.00% | ~41 |
 | Bonus Evilness | 10.00% | ~31 |
 | Sabotage! | 9.00% | ~28 |
@@ -53,11 +53,11 @@
 | Mirror, Mirror | 6.00% | ~19 |
 | Untouchable | 6.00% | ~19 |
 | Lavalumps on Ice! | 6.00% | ~19 |
+| To Infinity And Beyond! | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
 | Rubble and Ashes | 5.00% | ~16 |
 | To the Max! | 5.00% | ~16 |
-| To Infinity And Beyond! | 5.00% | ~16 |
 | The Rune Sockets of Finitude (Part 2) | 5.00% | ~16 |
 | The Last Stand - This Time For Real! | 5.00% | ~16 |
 | Evilification | 4.00% | ~12 |

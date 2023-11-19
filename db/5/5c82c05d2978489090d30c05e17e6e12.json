@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35585,
+  "EOS_Progressed": 35940,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35583,
+  "EOS_NewPlayers": 35938,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2023-11-19T20:07:58.8716863+00:00",
       "NumProgressed": 35585,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-19T21:08:20.8890961+00:00",
+      "NumProgressed": 35940,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -436,7 +441,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 13166
+      "UsersEstimate": 13298
     },
     {
       "ID": "Achievement_10",
@@ -468,7 +473,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 359
     },
     {
       "ID": "Achievement_14",
@@ -476,7 +481,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_15",
@@ -524,7 +529,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 9608
+      "UsersEstimate": 9704
     },
     {
       "ID": "Achievement_20",
@@ -548,7 +553,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Achievement_23",
@@ -564,7 +569,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 359
     },
     {
       "ID": "Achievement_25",
@@ -612,7 +617,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3558
+      "UsersEstimate": 3594
     },
     {
       "ID": "Achievement_30",
@@ -660,7 +665,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2156
     },
     {
       "ID": "Achievement_5",
@@ -668,7 +673,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1078
     },
     {
       "ID": "Achievement_6",
@@ -676,7 +681,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 359
     },
     {
       "ID": "Achievement_7",
@@ -684,7 +689,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "Achievement_8",
@@ -692,7 +697,7 @@
       "Name": "House In Order",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_9",
@@ -707,14 +712,14 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 35585,
+      "Progressed": 35940,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:07:58.8716858+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:08:20.8890956+00:00",
   "LastUpdate_AppInfo": "2023-11-16T11:56:58.1464911+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:59:11.2316146+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:07:58.8717112+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:59:52.5013906+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:08:20.8891197+00:00"
 }

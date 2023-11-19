@@ -14,7 +14,7 @@
 | Honorarium of Corporate Service | 59.00% | ~785 |
 | Council Legion of Merit | 54.00% | ~718 |
 | Medal of Exploration II | 53.00% | ~705 |
-| Turian Ally | 52.00% | ~692 |
+| Turian Ally | 53.00% | ~705 |
 | Meritorious Service Medal | 51.00% | ~678 |
 | Medal of Honor | 50.00% | ~665 |
 | Charismatic | 50.00% | ~665 |
@@ -26,10 +26,10 @@
 | Paramour I | 43.00% | ~572 |
 | Colonial Savior | 43.00% | ~572 |
 | Missing in Action | 42.00% | ~559 |
+| Merciless | 42.00% | ~559 |
 | Scientist | 42.00% | ~559 |
 | Krogan Ally | 41.00% | ~545 |
 | Very Elusive | 41.00% | ~545 |
-| Merciless | 41.00% | ~545 |
 | Sentinel Ally | 40.00% | ~532 |
 | Head Hunter | 39.00% | ~519 |
 | Scholar | 39.00% | ~519 |
@@ -48,11 +48,11 @@
 | The Assassin | 31.00% | ~412 |
 | The Justicar | 31.00% | ~412 |
 | The Quarian | 31.00% | ~412 |
+| Battlemaster | 31.00% | ~412 |
 | The Prodigal | 31.00% | ~412 |
 | Driven | 31.00% | ~412 |
 | Shopaholic | 31.00% | ~412 |
 | Completionist | 30.00% | ~399 |
-| Battlemaster | 30.00% | ~399 |
 | Catharsis | 30.00% | ~399 |
 | Ghost of the Father | 30.00% | ~399 |
 | The Cure | 30.00% | ~399 |
@@ -75,25 +75,25 @@
 | Against All Odds | 27.00% | ~359 |
 | Untouchable | 26.00% | ~346 |
 | Giant Killer | 26.00% | ~346 |
+| A House Divided | 26.00% | ~346 |
 | Eye of the Hurricane | 25.00% | ~332 |
 | First Aid Specialist | 25.00% | ~332 |
-| A House Divided | 25.00% | ~332 |
 | World Shaker | 25.00% | ~332 |
+| Tunnel Rat | 24.00% | ~319 |
 | Liberator | 24.00% | ~319 |
 | Weapon Specialist | 23.00% | ~306 |
 | Pathfinder | 23.00% | ~306 |
-| Tunnel Rat | 23.00% | ~306 |
 | Arbiter | 23.00% | ~306 |
 | Savior | 22.00% | ~293 |
 | Lost and Found | 22.00% | ~293 |
 | Paramour II | 21.00% | ~279 |
 | Party Crasher | 21.00% | ~279 |
+| Last Resort | 20.00% | ~266 |
 | Hard Target | 20.00% | ~266 |
 | Fact Finder | 20.00% | ~266 |
 | Problem Solver | 20.00% | ~266 |
 | Pyromaniac | 19.00% | ~253 |
 | Under Pressure | 19.00% | ~253 |
-| Last Resort | 19.00% | ~253 |
 | No One Left Behind | 19.00% | ~253 |
 | Saboteur | 19.00% | ~253 |
 | Last Witness | 19.00% | ~253 |

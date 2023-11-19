@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 920,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -675,9 +675,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3690,
+  "EOS_Progressed": 3692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5480,6 +5480,11 @@
       "Time": "2023-11-19T20:05:42.3435656+00:00",
       "NumProgressed": 3690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T21:06:31.16956+00:00",
+      "NumProgressed": 3692,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5516,7 +5521,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "achievement_13",
@@ -5532,7 +5537,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "achievement_15",
@@ -5588,7 +5593,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "achievement_21",
@@ -5596,7 +5601,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_3",
@@ -5628,7 +5633,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_7",
@@ -5644,7 +5649,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_9",
@@ -5659,7 +5664,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3690,
+      "Progressed": 3692,
       "Completed": 0
     }
   ],
@@ -5667,8 +5672,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-19T15:59:16.7149554+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:05:42.3435651+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:06:31.1695596+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:58:39.3756795+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:05:42.3436376+00:00"
+  "LastUpdate_Ratings": "2023-11-19T20:59:10.5881308+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:06:31.1695951+00:00"
 }

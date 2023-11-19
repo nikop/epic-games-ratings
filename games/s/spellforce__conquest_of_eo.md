@@ -17,8 +17,8 @@
 | Fly the friendly Sky | 67.00% | ~14 |
 | The Circle | 57.00% | ~12 |
 | Alchemist's Apprentice | 57.00% | ~12 |
+| Get out of here! | 57.00% | ~12 |
 | Redecorating | 52.00% | ~11 |
-| Get out of here! | 52.00% | ~11 |
 | Necromancer's Apprentice | 48.00% | ~10 |
 | Friend of Sevenkeeps | 38.00% | ~8 |
 | Slave to the rhythm | 33.00% | ~7 |

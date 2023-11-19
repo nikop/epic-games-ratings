@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15422,9 +15422,9 @@
       "Count": 13195
     }
   ],
-  "EOS_Progressed": 897413,
+  "EOS_Progressed": 897422,
   "EOS_Completed": 2788,
-  "EOS_NewPlayers": 970,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39607,6 +39607,11 @@
       "Time": "2023-11-19T20:04:12.7038524+00:00",
       "NumProgressed": 897413,
       "NumCompleted": 2788
+    },
+    {
+      "Time": "2023-11-19T21:04:35.6703523+00:00",
+      "NumProgressed": 897422,
+      "NumCompleted": 2788
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39747,7 +39752,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "MustBeTheRats",
@@ -39787,7 +39792,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "Roleplayer",
@@ -39843,7 +39848,7 @@
       "Name": "The Hermit",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "TheHightPriestess",
@@ -39859,7 +39864,7 @@
       "Name": "The Lovers",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "TheStar",
@@ -39883,7 +39888,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "TheWorld",
@@ -39923,7 +39928,7 @@
       "Name": "True Warrior",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5384
+      "UsersEstimate": 5385
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -40154,21 +40159,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897413,
+      "Progressed": 897422,
       "Completed": 2788
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26036,
+      "Progressed": 26045,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-19T18:59:12.9501741+00:00",
-  "LastChanged_Achievements": "2023-11-19T20:04:12.7038522+00:00",
+  "LastChanged_Achievements": "2023-11-19T21:04:35.6703518+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-19T19:59:33.2704092+00:00",
-  "LastUpdate_Achievements": "2023-11-19T20:04:12.7039706+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:00:22.6681879+00:00",
+  "LastUpdate_Achievements": "2023-11-19T21:04:35.6704891+00:00"
 }

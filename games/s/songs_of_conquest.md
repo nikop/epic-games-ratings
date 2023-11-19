@@ -14,8 +14,8 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 4.00% | ~6 |
 | Humiliation | 3.00% | ~4 |
 | Multi Kill | 2.00% | ~3 |
+| Whoops! | 2.00% | ~3 |
 | Veni, Vidi, Vici | 2.00% | ~3 |
-| Whoops! | 1.00% | ~1 |
 | Such A Fungi | 1.00% | ~1 |
 | Master | 1.00% | ~1 |
 | Expert Essence Employment | 1.00% | ~1 |
