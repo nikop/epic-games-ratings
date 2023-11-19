@@ -19,8 +19,8 @@
 | Medal of Honor | 50.00% | ~664 |
 | Charismatic | 50.00% | ~664 |
 | Soldier | 49.00% | ~651 |
+| Asari Ally | 47.00% | ~624 |
 | Soldier Ally | 46.00% | ~611 |
-| Asari Ally | 46.00% | ~611 |
 | Medal of Exploration III | 45.00% | ~598 |
 | Principled | 45.00% | ~598 |
 | Paramour I | 43.00% | ~571 |
@@ -61,12 +61,12 @@
 | Focused | 29.00% | ~385 |
 | Archivist | 29.00% | ~385 |
 | Fade Away | 29.00% | ~385 |
+| Agent | 29.00% | ~385 |
 | Revenge! | 29.00% | ~385 |
 | Bringer of War | 29.00% | ~385 |
 | Cat's in the Cradle | 28.00% | ~372 |
 | Doppelganger | 28.00% | ~372 |
 | Treason | 28.00% | ~372 |
-| Agent | 28.00% | ~372 |
 | Digital Exorcist | 28.00% | ~372 |
 | Mobilizer | 28.00% | ~372 |
 | Mission Accomplished | 27.00% | ~359 |
@@ -130,7 +130,7 @@
 | AI Hacking Specialist | 2.00% | ~27 |
 | Insanity III | 1.00% | ~13 |
 | Neural Shock Specialist | 1.00% | ~13 |
-| The One and Only | 0.80% | ~11 |
+| The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,328 (Ranked 242)  
 Completed: 5 (0.38%) (Ranked 218)  

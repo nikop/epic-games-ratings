@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Craft_First_Undead",
@@ -718,8 +718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:07:07.4007629+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:05:39.4420147+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:59:36.1667292+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:07:07.4008228+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:58:39.6902155+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:05:39.4420658+00:00"
 }

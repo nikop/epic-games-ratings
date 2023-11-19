@@ -1,7 +1,7 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.51 (Ranked 568)  
+Rating: 4.51 (Ranked 567)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -267,9 +267,9 @@ Completed: 2,190 (2.74%) (Ranked 111)
 | 2023-11-18 | 79,956 | 2,190 |
 | 2023-11-19 | 79,958 | 2,190 |
 ## Awards
-Max (Great Boss Battles): 775  (Ranked 171)  
+Max (Great Boss Battles): 775  (Ranked 172)  
 Sum: 1,592 (Ranked 232)  
-Diff (max vs sum): -61  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |

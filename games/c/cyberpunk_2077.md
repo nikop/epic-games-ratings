@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,895 |
+| V for Vendetta | 4.00% | ~35,896 |
 | Gun Fu | 2.00% | ~17,948 |
 | Relic Ruler | 1.00% | ~260 |
-| Full Body Conversion | 0.90% | ~8,076 |
-| True Soldier | 0.90% | ~8,076 |
+| Full Body Conversion | 0.90% | ~8,077 |
+| True Soldier | 0.90% | ~8,077 |
 | Right Back At Ya | 0.80% | ~7,179 |
 | Stanislavski's Method | 0.70% | ~6,282 |
 | All the President's Men | 0.70% | ~182 |
@@ -35,11 +35,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.40% | ~104 |
 | Dirty Deeds | 0.40% | ~104 |
 | Easy Come, Easy Go | 0.40% | ~104 |
+| To Bad Decisions! | 0.30% | ~2,692 |
 | The Wandering Fool | 0.30% | ~2,692 |
 | The Sun | 0.30% | ~2,692 |
 | Two Heads, One Bullet | 0.30% | ~2,692 |
 | The Tower | 0.30% | ~78 |
-| To Bad Decisions! | 0.20% | ~1,795 |
 | Autojock | 0.20% | ~1,795 |
 | Must Be Rats | 0.20% | ~1,795 |
 | Breathtaking | 0.20% | ~1,795 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,383 (Ranked 15)  
+Progressed: 897,389 (Ranked 15)  
 Completed: 2,788 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,14 +287,14 @@ Completed: 2,788 (0.31%) (Ranked 233)
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
-| 2023-11-19 | 897,383 | 2,788 |
+| 2023-11-19 | 897,389 | 2,788 |
 ## Awards
-Max (Character Customization): 106,055  (Ranked 9)  
-Sum: 357,187 (Ranked 10)  
+Max (Character Customization): 106,230  (Ranked 9)  
+Sum: 357,362 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 106,055 |
+| This game has Inclusive Character Customization | 106,230 |
 | This game has Great Boss Battles | 76,948 |
 | This game is Great for Beginners | 21,607 |
 | This game has Diverse Characters | 21,152 |
@@ -612,4 +612,4 @@ Diff (max vs sum): -1
 | 2023-11-16 | 4.64 | - | 105,726 | 354,422 |
 | 2023-11-17 | 4.64 | - | 105,891 | 355,372 |
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
-| 2023-11-19 | 4.64 | - | 106,055 | 357,187 |
+| 2023-11-19 | 4.64 | - | 106,230 | 357,362 |

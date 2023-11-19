@@ -22,11 +22,11 @@ Rating: 3.47 (Ranked 1,041)
 | Sucks To Be You | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
+| Good Morning | 0.90% | ~16 |
 | Harvest’s End | 0.90% | ~16 |
 | Neighborhood Revitalization | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
 | Bell-ringer | 0.80% | ~14 |
-| Good Morning | 0.80% | ~14 |
 | From the Shadows | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
 | Silence Is Golden | 0.70% | ~12 |

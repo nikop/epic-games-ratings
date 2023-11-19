@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 6,
-  "Ranking_Popularity": 521,
-  "Ranking_PopularitySum": 526,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 165,
@@ -83,23 +83,29 @@
       "Rating": 4.91,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-11-19T16:57:40.5096292+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 25,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -935,9 +941,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "BridgeBuilder",
@@ -1343,9 +1349,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "YourBiggestFan",
@@ -1367,9 +1373,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:08:14.0543553+00:00",
+  "LastChanged": "2023-11-19T16:57:40.509629+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:06:32.2817764+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:58:15.8710836+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:08:14.0543958+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:57:40.5096295+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:06:32.2818293+00:00"
 }

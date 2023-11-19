@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 587)  
+Rating: 4.50 (Ranked 586)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,14 +11,14 @@ Rating: 4.50 (Ranked 587)
 | Discovery | 5.00% | ~1,562 |
 | Solo Capture | 5.00% | ~1,562 |
 | Swift Rift Removers | 5.00% | ~1,562 |
-| Clutch Capture | 4.00% | ~1,249 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,249 |
-| Cultured | 4.00% | ~1,249 |
-| Fully Upgraded | 4.00% | ~1,249 |
-| Teamwork | 4.00% | ~1,249 |
-| There you are! | 4.00% | ~1,249 |
-| Vaporous Expansion | 4.00% | ~1,249 |
-| Whoopsie | 4.00% | ~1,249 |
+| Clutch Capture | 4.00% | ~1,250 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,250 |
+| Cultured | 4.00% | ~1,250 |
+| Fully Upgraded | 4.00% | ~1,250 |
+| Teamwork | 4.00% | ~1,250 |
+| There you are! | 4.00% | ~1,250 |
+| Vaporous Expansion | 4.00% | ~1,250 |
+| Whoopsie | 4.00% | ~1,250 |
 | Animated | 3.00% | ~937 |
 | Daily Dose | 3.00% | ~937 |
 | Ectoplasmic Entity | 3.00% | ~937 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,236 (Ranked 124)  
+Progressed: 31,239 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 68 (0.22%) (Ranked 246)
 | 2023-11-16 | 31,073 | 68 |
 | 2023-11-17 | 31,117 | 68 |
 | 2023-11-18 | 31,196 | 68 |
-| 2023-11-19 | 31,236 | 68 |
+| 2023-11-19 | 31,239 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 248)  
 Sum: 2,823 (Ranked 178)  

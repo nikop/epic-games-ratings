@@ -13,10 +13,10 @@
 | Tactician | 10.00% | ~20 |
 | Breached | 10.00% | ~20 |
 | Conciliator | 9.00% | ~18 |
+| Acquaintance | 8.00% | ~16 |
 | Fight Another Day | 8.00% | ~16 |
 | Taskmaster | 8.00% | ~16 |
 | Scholar | 7.00% | ~14 |
-| Acquaintance | 7.00% | ~14 |
 | The More the Merrier | 6.00% | ~12 |
 | Harbinger | 6.00% | ~12 |
 | Tail-wind | 6.00% | ~12 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -475,7 +475,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2471,
+  "EOS_Progressed": 2473,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
@@ -7440,6 +7440,11 @@
       "Time": "2023-11-19T16:09:27.9567833+00:00",
       "NumProgressed": 2471,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-19T17:08:30.3619957+00:00",
+      "NumProgressed": 2473,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7635,7 +7640,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "fourleafclover",
@@ -7643,15 +7648,15 @@
       "Name": "Four Leaf Clover",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 247
     },
     {
       "ID": "fullparty",
@@ -7723,7 +7728,7 @@
       "Name": "Inspection",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "jewelenchanting",
@@ -7763,7 +7768,7 @@
       "Name": "Master Enchanter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "mastery",
@@ -7787,7 +7792,7 @@
       "Name": "Miner Clicker",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "missionsdedication",
@@ -7843,7 +7848,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "prestigiousx10",
@@ -7907,7 +7912,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1410
     },
     {
       "ID": "thealchemist",
@@ -7931,7 +7936,7 @@
       "Name": "The father of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "thegameison",
@@ -7939,7 +7944,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "thepowerofawakening",
@@ -8011,7 +8016,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2300
     },
     {
       "ID": "warmachinesarmy",
@@ -8043,14 +8048,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1954
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2471,
+      "Progressed": 2473,
       "Completed": 2
     }
   ],
@@ -8058,8 +8063,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-16T01:48:24.1991609+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:09:27.9567829+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:08:30.3619952+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:59:10.2839695+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:09:27.9568984+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:58:20.1649563+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:08:30.3621001+00:00"
 }

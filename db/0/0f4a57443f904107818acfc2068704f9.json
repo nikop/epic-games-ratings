@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 258,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -592,6 +592,11 @@
       "Time": "2023-11-19T16:04:14.1136352+00:00",
       "NumProgressed": 256,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T17:03:23.133662+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -620,7 +625,7 @@
       "Name": "Chosen Victor",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -660,7 +665,7 @@
       "Name": "Pathfinder",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "CompleteChapter10",
@@ -700,7 +705,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteChapter15",
@@ -708,15 +713,15 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteChapter17",
@@ -724,7 +729,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -748,7 +753,7 @@
       "Name": "Met the Enemy",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CompleteChapter3",
@@ -756,7 +761,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CompleteChapter4",
@@ -772,7 +777,7 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "CompleteChapter6",
@@ -850,9 +855,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "Win100OnlineMatched",
@@ -899,14 +904,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 258,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:04:14.1136345+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:03:23.1336616+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:00:42.8386684+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:04:14.1136615+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:59:29.2515669+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:03:23.1336847+00:00"
 }

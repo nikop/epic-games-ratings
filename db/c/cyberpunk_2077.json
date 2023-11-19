@@ -15330,18 +15330,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 357187,
       "NumberOfAwardsMax": 106055
+    },
+    {
+      "Time": "2023-11-19T16:59:19.1131418+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 357362,
+      "NumberOfAwardsMax": 106230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357187,
-  "NumberOfAwardsMax": 106055,
+  "NumberOfAwards": 357362,
+  "NumberOfAwardsMax": 106230,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 106055
+      "Count": 106230
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15410,9 +15416,9 @@
       "Count": 13195
     }
   ],
-  "EOS_Progressed": 897383,
+  "EOS_Progressed": 897389,
   "EOS_Completed": 2788,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39575,6 +39581,11 @@
       "Time": "2023-11-19T16:04:51.184801+00:00",
       "NumProgressed": 897383,
       "NumCompleted": 2788
+    },
+    {
+      "Time": "2023-11-19T17:03:51.9512325+00:00",
+      "NumProgressed": 897389,
+      "NumCompleted": 2788
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39593,9 +39604,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1795
+      "UsersEstimate": 2692
     },
     {
       "ID": "BushidoAndChill",
@@ -39611,7 +39622,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "Denied",
@@ -39883,7 +39894,7 @@
       "Name": "True Soldier",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "TrueWarrior",
@@ -39915,7 +39926,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35895
+      "UsersEstimate": 35896
     },
     {
       "ID": "YipMan",
@@ -40122,21 +40133,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897383,
+      "Progressed": 897389,
       "Completed": 2788
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26006,
+      "Progressed": 26012,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-19T16:00:29.4445192+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:04:51.1848004+00:00",
+  "LastChanged": "2023-11-19T16:59:19.1131416+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:03:51.9512321+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:00:29.4445198+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:04:51.1849397+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:59:19.1131423+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:03:51.9513706+00:00"
 }

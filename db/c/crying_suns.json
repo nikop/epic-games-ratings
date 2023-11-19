@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471061,
+  "EOS_Progressed": 471062,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22888,6 +22888,11 @@
       "Time": "2023-11-19T16:10:26.6601765+00:00",
       "NumProgressed": 471061,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-19T17:09:17.5229032+00:00",
+      "NumProgressed": 471062,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22923,7 +22928,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103633
+      "UsersEstimate": 103634
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -22987,7 +22992,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310900
+      "UsersEstimate": 310901
     },
     {
       "ID": "achievement_story_landa",
@@ -23019,7 +23024,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117765
+      "UsersEstimate": 117766
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -23331,7 +23336,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141318
+      "UsersEstimate": 141319
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23411,7 +23416,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103633
+      "UsersEstimate": 103634
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -23530,21 +23535,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14995,
+      "Progressed": 14996,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471061,
+      "Progressed": 471062,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:10:26.6601761+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:09:17.5229029+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:02:16.2672724+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:10:26.6603226+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:00:38.1206856+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:09:17.5230544+00:00"
 }

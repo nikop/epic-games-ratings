@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8067,
+  "EOS_Progressed": 8069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6766,6 +6766,11 @@
       "Time": "2023-11-19T16:10:27.8715211+00:00",
       "NumProgressed": 8067,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T17:09:18.5134652+00:00",
+      "NumProgressed": 8069,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7202,7 +7207,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "PlayerKills10",
@@ -7274,7 +7279,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "SEUpgraded1",
@@ -7338,7 +7343,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "TSUPurchased1",
@@ -7369,7 +7374,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8067,
+      "Progressed": 8069,
       "Completed": 1
     }
   ],
@@ -7377,8 +7382,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:10:27.8715207+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:09:18.5134649+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:02:14.5114332+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:10:27.8716273+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:00:36.853094+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:09:18.513545+00:00"
 }

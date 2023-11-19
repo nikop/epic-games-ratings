@@ -7,7 +7,7 @@ Rating: 4.80 (Ranked 86)
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 93.00% | ~8,003 |
 | I Challenge You To Save More Money! | 89.00% | ~7,658 |
-| I Love How Tough You Are | 75.00% | ~6,454 |
+| I Love How Tough You Are | 76.00% | ~6,540 |
 | Wanna Come To My Place For Dinner? | 69.00% | ~5,937 |
 | What I Want Is You | 64.00% | ~5,507 |
 | To Be Or Not To Be | 60.00% | ~5,163 |
@@ -17,9 +17,9 @@ Rating: 4.80 (Ranked 86)
 | You're Really Something Else | 39.00% | ~3,356 |
 | Happy Family | 37.00% | ~3,184 |
 | Go Clean up In Your Own Way | 37.00% | ~3,184 |
+| Worthless Speech | 37.00% | ~3,184 |
 | ONE PUNCH | 36.00% | ~3,098 |
 | FIRST LOVE | 36.00% | ~3,098 |
-| Worthless Speech | 36.00% | ~3,098 |
 | Absolutely Elegant | 35.00% | ~3,012 |
 | Drama CP: Reel to Real | 35.00% | ~3,012 |
 | Still Single | 33.00% | ~2,840 |

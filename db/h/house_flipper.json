@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2079,7 +2079,7 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21316,
+  "EOS_Progressed": 21317,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -10464,6 +10464,11 @@
       "Time": "2023-11-19T12:03:34.5044272+00:00",
       "NumProgressed": 21316,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-19T17:03:45.4949374+00:00",
+      "NumProgressed": 21317,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10523,15 +10528,15 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20250
+      "UsersEstimate": 20251
     },
     {
       "ID": "GameOver",
       "SetID": "d0jo315",
       "Name": "Game Over",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 192
     },
     {
       "ID": "GorgioShanua",
@@ -10539,7 +10544,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "JackTarinton",
@@ -10658,15 +10663,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21316,
+      "Progressed": 21317,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-19T13:57:35.571829+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:04:43.0066368+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:03:45.4949372+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:56:56.4663346+00:00",
-  "LastUpdate_Ratings": "2023-11-19T15:58:00.1139314+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:04:43.0067292+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:57:28.9677336+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:03:45.4949896+00:00"
 }

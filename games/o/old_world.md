@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
+| Greater Kmt Unified | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
 | Ancient | 0.40% | ~62 |
 | Magnificent Difficulty | 0.40% | ~62 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.40% | ~62 |
 | Conquest Victory | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
-| Greater Kmt Unified | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
@@ -195,6 +195,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
 | Medo-Babylonian Conquest | 0.20% | ~31 |
+| Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
@@ -283,7 +284,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a LAN Game | 0.10% | ~15 |
 | Play a MP Teams Game | 0.10% | ~15 |
 | Play a Play-By-Cloud Game | 0.10% | ~15 |
-| Punic Wars | 0.10% | ~15 |
 | Colossus in Rhodes | 0.10% | ~15 |
 | Roman Papacy | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |

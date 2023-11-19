@@ -28,11 +28,11 @@
 | Something to long for... (fragile) | 10.00% | ~9 |
 | Something firmly rooted... (fragile) | 10.00% | ~9 |
 | Something reflective... (fragile) | 10.00% | ~9 |
-| Something more... (fragile) | 8.00% | ~7 |
+| Something more... (fragile) | 7.00% | ~7 |
 | Something more... | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 436)  
-Completed: 6 (6.45%) (Ranked 60)  
+Progressed: 94 (Ranked 436)  
+Completed: 6 (6.38%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,3 +105,4 @@ Completed: 6 (6.45%) (Ranked 60)
 | 2023-11-14 | 91 | 5 |
 | 2023-11-16 | 92 | 5 |
 | 2023-11-18 | 93 | 6 |
+| 2023-11-19 | 94 | 6 |

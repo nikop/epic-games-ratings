@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~928 |
-| Whatever It Takes | 2.00% | ~928 |
-| Pork Chopped | 2.00% | ~928 |
+| One of Us | 2.00% | ~929 |
+| Whatever It Takes | 2.00% | ~929 |
+| Pork Chopped | 2.00% | ~929 |
 | Git Gutte! | 1.00% | ~7,209 |
 | Break A Leg | 1.00% | ~7,209 |
 | Coup de Grâce | 1.00% | ~7,209 |
@@ -26,18 +26,18 @@ Rating: 4.54 (Ranked 523)
 | Can't Handle the Truth | 0.80% | ~5,767 |
 | Like Riding a Bike | 0.80% | ~5,767 |
 | A Patton Emerges | 0.80% | ~5,767 |
-| Perks of the Job | 0.70% | ~5,046 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,046 |
-| Slayer Squad | 0.70% | ~5,046 |
-| Zombologist | 0.70% | ~5,046 |
-| Ooh, Shiny! | 0.70% | ~5,046 |
-| Our True Nature | 0.70% | ~5,046 |
-| Making Your Mark | 0.60% | ~4,325 |
-| Humanity Distilled | 0.60% | ~4,325 |
-| I Am the Resurrection | 0.60% | ~4,325 |
-| Max Headroom | 0.60% | ~4,325 |
-| Not Even My Final Form | 0.50% | ~3,604 |
-| Down with the Sickness | 0.50% | ~3,604 |
+| Perks of the Job | 0.70% | ~5,047 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,047 |
+| Slayer Squad | 0.70% | ~5,047 |
+| Zombologist | 0.70% | ~5,047 |
+| Ooh, Shiny! | 0.70% | ~5,047 |
+| Our True Nature | 0.70% | ~5,047 |
+| Making Your Mark | 0.60% | ~4,326 |
+| Humanity Distilled | 0.60% | ~4,326 |
+| I Am the Resurrection | 0.60% | ~4,326 |
+| Max Headroom | 0.60% | ~4,326 |
+| Not Even My Final Form | 0.50% | ~3,605 |
+| Down with the Sickness | 0.50% | ~3,605 |
 | On Safari | 0.40% | ~2,884 |
 | Internet Famous | 0.40% | ~2,884 |
 | Jumbo Keyring | 0.40% | ~2,884 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,882 (Ranked 20)  
+Progressed: 720,931 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 2,412 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,882 | 2,412 |
+| 2023-11-19 | 720,931 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
-Sum: 11,535 (Ranked 84)  
+Sum: 11,538 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 578 |
 | This game has Diverse Characters | 553 |
 | This game has Quickly Understood Controls | 520 |
-| This game is Relaxing | 498 |
+| This game is Relaxing | 501 |
 | This game has Amazing Storytelling | 479 |
 | This game is Highly Recommended | 464 |
 | This game is Extremely Fun | 461 |
@@ -501,4 +501,4 @@ Diff (max vs sum): -33
 | 2023-11-16 | 4.54 | 7,498 | 11,435 |
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
-| 2023-11-19 | 4.54 | 7,552 | 11,535 |
+| 2023-11-19 | 4.54 | 7,552 | 11,538 |

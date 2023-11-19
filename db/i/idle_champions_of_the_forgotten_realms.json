@@ -8173,9 +8173,9 @@
       "Count": 3524
     }
   ],
-  "EOS_Progressed": 235957,
+  "EOS_Progressed": 235969,
   "EOS_Completed": 2459,
-  "EOS_NewPlayers": 1224,
+  "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32063,6 +32063,11 @@
       "Time": "2023-11-19T16:10:29.6004761+00:00",
       "NumProgressed": 235957,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-11-19T17:09:20.0533413+00:00",
+      "NumProgressed": 235969,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 532,
@@ -32936,9 +32941,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 472
     },
     {
       "ID": "objective_completed_1203",
@@ -36329,21 +36334,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202231,
+      "Progressed": 202243,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235957,
+      "Progressed": 235969,
       "Completed": 2459
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-19T14:59:45.1711306+00:00",
-  "LastChanged_Achievements": "2023-11-19T16:10:29.6004756+00:00",
+  "LastChanged_Achievements": "2023-11-19T17:09:20.0533397+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:01:13.7434766+00:00",
-  "LastUpdate_Achievements": "2023-11-19T16:10:29.6025939+00:00"
+  "LastUpdate_Ratings": "2023-11-19T16:59:51.6090028+00:00",
+  "LastUpdate_Achievements": "2023-11-19T17:09:20.0557168+00:00"
 }
