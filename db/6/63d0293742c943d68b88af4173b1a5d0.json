@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-11-19T05:04:01.968395+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T06:03:48.3791867+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -552,7 +557,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REMAKE_002",
@@ -568,7 +573,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Remake_005",
@@ -592,7 +597,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Remake_008",
@@ -710,23 +715,23 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:04:01.9683947+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:03:48.3791864+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:02:55.9258451+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:04:01.96841+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:02:41.4898971+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:03:48.3792051+00:00"
 }

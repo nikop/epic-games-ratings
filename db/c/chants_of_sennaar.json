@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 601,
+  "EOS_Progressed": 602,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.66,
+  "EOS_Completed_Percentage": 5.65,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2570,6 +2570,11 @@
       "Time": "2023-11-19T05:04:42.0906154+00:00",
       "NumProgressed": 601,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-19T06:04:28.1036152+00:00",
+      "NumProgressed": 602,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 25,
@@ -2701,7 +2706,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2725,7 +2730,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2741,7 +2746,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "PROGRESS_N2",
@@ -2749,7 +2754,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "PROGRESS_N3",
@@ -2780,14 +2785,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 601,
+      "Progressed": 602,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:04:42.0906149+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:04:28.103615+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:59:59.3280575+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:04:42.0906455+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:59:26.46657+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:04:28.103635+00:00"
 }

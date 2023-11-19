@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 587)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,497 |
-| Advancement | 6.00% | ~1,872 |
-| Meticulously Efficient | 6.00% | ~1,872 |
+| Advancement | 6.00% | ~1,873 |
+| Meticulously Efficient | 6.00% | ~1,873 |
 | Discovery | 5.00% | ~1,560 |
 | Solo Capture | 5.00% | ~1,560 |
 | Swift Rift Removers | 5.00% | ~1,560 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,208 (Ranked 123)  
+Progressed: 31,210 (Ranked 123)  
 Completed: 68 (0.22%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 68 (0.22%) (Ranked 247)
 | 2023-11-16 | 31,073 | 68 |
 | 2023-11-17 | 31,117 | 68 |
 | 2023-11-18 | 31,196 | 68 |
-| 2023-11-19 | 31,208 | 68 |
+| 2023-11-19 | 31,210 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 248)  
-Sum: 2,819 (Ranked 178)  
+Sum: 2,821 (Ranked 178)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -285,8 +285,8 @@ Diff (max vs sum): 70
 | This game is Highly Recommended | 277 |
 | This game is Extremely Fun | 272 |
 | This game is Relaxing | 271 |
+| This game has Quickly Understood Controls | 261 |
 | This game has Amazing Characters | 260 |
-| This game has Quickly Understood Controls | 259 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -508,3 +508,4 @@ Diff (max vs sum): 70
 | 2023-11-16 | 4.50 | 315 | 2,801 |
 | 2023-11-17 | 4.50 | 316 | 2,813 |
 | 2023-11-18 | 4.50 | 318 | 2,819 |
+| 2023-11-19 | 4.50 | 318 | 2,821 |

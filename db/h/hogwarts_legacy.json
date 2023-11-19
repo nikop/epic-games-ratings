@@ -10719,9 +10719,9 @@
       "Count": 789
     }
   ],
-  "EOS_Progressed": 302374,
+  "EOS_Progressed": 302375,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33574,6 +33574,11 @@
       "Time": "2023-11-19T05:09:37.0833113+00:00",
       "NumProgressed": 302374,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-19T06:09:19.4089645+00:00",
+      "NumProgressed": 302375,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33681,7 +33686,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "PFA_21",
@@ -33809,7 +33814,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30237
+      "UsersEstimate": 30238
     },
     {
       "ID": "PFA_36",
@@ -33817,7 +33822,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "PFA_37",
@@ -33857,7 +33862,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "PFA_41",
@@ -33881,7 +33886,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "PFA_44",
@@ -33897,7 +33902,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "PFA_5",
@@ -33913,7 +33918,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42332
+      "UsersEstimate": 42333
     },
     {
       "ID": "PFA_7",
@@ -33921,7 +33926,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42332
+      "UsersEstimate": 42333
     },
     {
       "ID": "PFA_8",
@@ -33937,14 +33942,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30237
+      "UsersEstimate": 30238
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302374,
+      "Progressed": 302375,
       "Completed": 512
     }
   ],
@@ -33952,8 +33957,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-19T03:59:59.7389403+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:09:37.0833105+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:09:19.4089642+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:59:25.5674428+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:09:37.0834156+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:58:52.8580561+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:09:19.409113+00:00"
 }

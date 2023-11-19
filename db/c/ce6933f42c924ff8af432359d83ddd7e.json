@@ -2,9 +2,9 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1034,
+  "EOS_Progressed": 1036,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 3.77,
+  "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2169,6 +2169,11 @@
       "Time": "2023-11-19T05:09:10.706048+00:00",
       "NumProgressed": 1034,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-19T06:08:53.3575539+00:00",
+      "NumProgressed": 1036,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2181,7 +2186,7 @@
       "Name": "Time traveller",
       "Percentage": 19,
       "XP": 140,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_CUBES",
@@ -2189,7 +2194,7 @@
       "Name": "Brain-teaser",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_DONUTS",
@@ -2197,7 +2202,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 713
+      "UsersEstimate": 715
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2205,7 +2210,7 @@
       "Name": "An apple a day",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2221,15 +2226,15 @@
       "Name": "Evil plan",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 610
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2237,7 +2242,7 @@
       "Name": "Food lover",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2245,7 +2250,7 @@
       "Name": "Fast as lightning",
       "Percentage": 7,
       "XP": 180,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_THE_END",
@@ -2253,21 +2258,21 @@
       "Name": "Exit",
       "Percentage": 53,
       "XP": 65,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1034,
+      "Progressed": 1036,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:09:10.7060475+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:08:53.3575534+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:58:01.0720361+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:09:10.7060655+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:57:28.1642141+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:08:53.3575709+00:00"
 }

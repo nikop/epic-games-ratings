@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28664,
+  "EOS_Progressed": 28666,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 529,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24170,6 +24170,11 @@
       "Time": "2023-11-19T05:09:16.6512007+00:00",
       "NumProgressed": 28664,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-19T06:08:59.1383733+00:00",
+      "NumProgressed": 28666,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 22,
@@ -24213,7 +24218,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "1020",
@@ -24269,7 +24274,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "1027",
@@ -24333,7 +24338,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "1035",
@@ -24341,7 +24346,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "1036",
@@ -24356,15 +24361,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28664,
+      "Progressed": 28666,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:09:16.6512003+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:08:59.1383731+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:03:10.2560063+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:09:16.6513284+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:02:55.375211+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:08:59.1384914+00:00"
 }

@@ -34,7 +34,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Shroud Alliance | 39.00% | ~26,188 |
 | The Two Monks | 37.00% | ~24,846 |
 | The Neuromancer | 35.00% | ~23,502 |
-| Oathbound Watchers | 33.00% | ~22,160 |
+| Oathbound Watchers | 34.00% | ~22,831 |
 | The Mechanomancer | 33.00% | ~22,160 |
 | The Chronomancer | 32.00% | ~21,488 |
 | The Copse | 30.00% | ~20,145 |
@@ -61,7 +61,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Top Shelf | 5.00% | ~3,358 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 67,150 (Ranked 102)  
-Completed: 1,251 (1.86%) (Ranked 128)  
+Completed: 1,252 (1.86%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 1,251 (1.86%) (Ranked 128)
 | 2023-11-16 | 67,124 | 1,249 |
 | 2023-11-17 | 67,133 | 1,250 |
 | 2023-11-18 | 67,147 | 1,251 |
-| 2023-11-19 | 67,150 | 1,251 |
+| 2023-11-19 | 67,150 | 1,252 |
 ## Awards
 Max (Character Customization): 985  (Ranked 153)  
 Sum: 1,980 (Ranked 213)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3169,9 +3169,9 @@
       "Count": 251
     }
   ],
-  "EOS_Progressed": 83160,
+  "EOS_Progressed": 83163,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26869,6 +26869,11 @@
       "Time": "2023-11-19T05:05:58.4595554+00:00",
       "NumProgressed": 83160,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-11-19T06:05:43.2073667+00:00",
+      "NumProgressed": 83163,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 30,
@@ -26896,7 +26901,7 @@
       "Name": "Terraformer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -26928,7 +26933,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11642
+      "UsersEstimate": 11643
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -26944,7 +26949,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7484
+      "UsersEstimate": 7485
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -26952,7 +26957,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15800
+      "UsersEstimate": 15801
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -26960,7 +26965,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30769
+      "UsersEstimate": 30770
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -26968,7 +26973,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23285
+      "UsersEstimate": 23286
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -26976,7 +26981,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26611
+      "UsersEstimate": 26612
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -27000,7 +27005,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 15800
+      "UsersEstimate": 15801
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -27008,7 +27013,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19958
+      "UsersEstimate": 19959
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -27024,7 +27029,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 15800
+      "UsersEstimate": 15801
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -27040,7 +27045,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -27056,7 +27061,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29106
+      "UsersEstimate": 29107
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -27080,7 +27085,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -27104,7 +27109,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15800
+      "UsersEstimate": 15801
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -27119,15 +27124,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 83160,
+      "Progressed": 83163,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-18T17:02:36.7880758+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:05:58.459555+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:05:43.2073664+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.492431+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:02:48.1899818+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:05:58.4596641+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:02:33.7181465+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:05:43.2074929+00:00"
 }

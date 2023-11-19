@@ -1347,9 +1347,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238119,
+  "EOS_Progressed": 238126,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1472,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19102,6 +19102,11 @@
       "Time": "2023-11-19T05:08:53.2651719+00:00",
       "NumProgressed": 238119,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T06:08:36.1804864+00:00",
+      "NumProgressed": 238126,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19137,7 +19142,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -19161,7 +19166,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14287
+      "UsersEstimate": 14288
     },
     {
       "ID": "Chapter2",
@@ -19185,7 +19190,7 @@
       "Name": "The demons\u0027 feast",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Chapter5",
@@ -19193,7 +19198,7 @@
       "Name": "The Great Library",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Chapter6",
@@ -19201,7 +19206,7 @@
       "Name": "Torture and Sensibility",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Chapter7",
@@ -19209,7 +19214,7 @@
       "Name": "Urik\u0027s Depths",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Chapter8",
@@ -19217,7 +19222,7 @@
       "Name": "The Dungeon Master",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Chapter9",
@@ -19225,7 +19230,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "CollateralVictim",
@@ -19257,7 +19262,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "CompanionPriestress",
@@ -19265,7 +19270,7 @@
       "Name": "The Woman in the High Castle",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "DLC1ChooseNecro",
@@ -19465,7 +19470,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -19497,7 +19502,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Dwarf30Insult",
@@ -19513,7 +19518,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16668
+      "UsersEstimate": 16669
     },
     {
       "ID": "DwarfElf15Support",
@@ -19553,7 +19558,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -19561,7 +19566,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83342
+      "UsersEstimate": 83344
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19617,7 +19622,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "FollowNarzatok",
@@ -19705,7 +19710,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "QuestMinstrel",
@@ -19737,7 +19742,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Rogue30Backstab",
@@ -19745,7 +19750,7 @@
       "Name": "I am the night",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "RogueEpic",
@@ -19753,7 +19758,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "Speedrun",
@@ -19769,7 +19774,7 @@
       "Name": "Team Building Exercise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "SystematicallyStupid",
@@ -19793,7 +19798,7 @@
       "Name": "Oh, when I\u0027ll be level 10...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4763
     },
     {
       "ID": "WizardEpic",
@@ -19816,21 +19821,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238119,
+      "Progressed": 238126,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238119,
+      "Progressed": 238126,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-18T21:56:52.4038892+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:08:53.2651715+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:08:36.1804862+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:57:33.0525127+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:08:53.2653514+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:57:01.1580624+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:08:36.1806321+00:00"
 }

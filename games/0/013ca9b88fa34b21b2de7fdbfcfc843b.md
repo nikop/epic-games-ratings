@@ -5,18 +5,18 @@ Rating: 4.60 (Ranked 413)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,658 |
-| A Thorny Situation | 71.00% | ~5,579 |
-| ... And Spit Back Out | 61.00% | ~4,793 |
-| Break-Net Speed | 49.00% | ~3,850 |
-| Bramble Breaker | 47.00% | ~3,693 |
-| Miner 49er | 43.00% | ~3,379 |
-| Humble Collector | 42.00% | ~3,300 |
-| Calm Sailing | 37.00% | ~2,907 |
+| Azoria Beckons | 72.00% | ~5,659 |
+| A Thorny Situation | 70.00% | ~5,502 |
+| ... And Spit Back Out | 61.00% | ~4,795 |
+| Break-Net Speed | 49.00% | ~3,851 |
+| Bramble Breaker | 47.00% | ~3,694 |
+| Miner 49er | 43.00% | ~3,380 |
+| Humble Collector | 42.00% | ~3,301 |
+| Calm Sailing | 37.00% | ~2,908 |
 | Open the Gate! | 34.00% | ~2,672 |
 | Mist Walker | 32.00% | ~2,515 |
 | Lumberjack | 27.00% | ~2,122 |
-| Oui, Chef! | 23.00% | ~1,807 |
+| Oui, Chef! | 23.00% | ~1,808 |
 | Clear the Air | 19.00% | ~1,493 |
 | Botanical Breakthrough | 17.00% | ~1,336 |
 | Search for the Hairy Grell | 14.00% | ~1,100 |
@@ -28,8 +28,8 @@ Rating: 4.60 (Ranked 413)
 | Got to Catch Them All | 8.00% | ~629 |
 | Rumble in the Jumble | 8.00% | ~629 |
 | Fanatical Farmer | 8.00% | ~629 |
-| Scattered Scroll Scrounger | 6.00% | ~471 |
-| Azorian Anniversary | 6.00% | ~471 |
+| Scattered Scroll Scrounger | 6.00% | ~472 |
+| Azorian Anniversary | 6.00% | ~472 |
 | I Now Pronounce You... | 5.00% | ~393 |
 | Chatty Neighbor | 4.00% | ~314 |
 | Right Tool For the Job | 4.00% | ~314 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 413)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,858 (Ranked 174)  
+Progressed: 7,860 (Ranked 174)  
 Completed: 1 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.01%) (Ranked 333)
 | 2023-11-16 | 7,812 | 1 |
 | 2023-11-17 | 7,820 | 1 |
 | 2023-11-18 | 7,852 | 1 |
-| 2023-11-19 | 7,858 | 1 |
+| 2023-11-19 | 7,860 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

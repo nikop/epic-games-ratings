@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251404,
+  "EOS_Progressed": 251405,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19312,6 +19312,11 @@
       "Time": "2023-11-19T02:34:24.0735758+00:00",
       "NumProgressed": 251404,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-19T06:08:59.0061575+00:00",
+      "NumProgressed": 251405,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19499,7 +19504,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133244
+      "UsersEstimate": 133245
     },
     {
       "ID": "indegestible",
@@ -19690,7 +19695,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251404,
+      "Progressed": 251405,
       "Completed": 6
     }
   ],
@@ -19698,8 +19703,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:09:16.4802208+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:08:59.0061572+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.785851+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:02:34.8919098+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:09:16.4803195+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:56:50.2966538+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:08:59.0062499+00:00"
 }

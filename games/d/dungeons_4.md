@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 86.00% | ~265 |
 | For the Horde! | 81.00% | ~249 |
 | Hammer Time, Round Two | 80.00% | ~246 |
-| The Hellwoods | 74.00% | ~228 |
+| The Hellwoods | 75.00% | ~231 |
 | The Plains of Strothalm | 68.00% | ~209 |
 | Thalya's Concentrated Fury | 67.00% | ~206 |
 | Experienced Thalya | 67.00% | ~206 |
@@ -18,7 +18,7 @@
 | Magic Accidents | 56.00% | ~172 |
 | Unicorn steaks – fresh off the hoof! | 56.00% | ~172 |
 | Minions, Minions! | 54.00% | ~166 |
-| Trap Master | 52.00% | ~160 |
+| Trap Master | 53.00% | ~163 |
 | The Ascent | 46.00% | ~142 |
 | It's Warm and Cozy at Home | 46.00% | ~142 |
 | YOU SHALL NOT PASS! | 42.00% | ~129 |
@@ -27,7 +27,7 @@
 | Pure Dynamite! | 38.00% | ~117 |
 | “… like son” | 35.00% | ~108 |
 | Mana Cannon | 33.00% | ~102 |
-| Dungeonlord Gorgu | 30.00% | ~92 |
+| Dungeonlord Gorgu | 31.00% | ~95 |
 | Shame! Shame! Shame! | 29.00% | ~89 |
 | The Cathedral of Light | 27.00% | ~83 |
 | Tanos' Crusade Against Thalya | 24.00% | ~74 |
@@ -37,15 +37,15 @@
 | Master of the Undead | 19.00% | ~59 |
 | Forbidden Knowledge | 18.00% | ~55 |
 | All’s Well That Ends Evil | 18.00% | ~55 |
+| The Duel | 15.00% | ~46 |
 | Sacrificial Pit = Garbage Disposal? | 14.00% | ~43 |
 | Ghost Pirates? Ghost Heroes! | 14.00% | ~43 |
-| The Duel | 14.00% | ~43 |
 | Stop Tanos! | 13.00% | ~40 |
 | If Looks Could Kill | 13.00% | ~40 |
 | The Finitude Drill | 12.00% | ~37 |
+| Bonus Evilness | 9.00% | ~28 |
 | Sabotage! | 9.00% | ~28 |
-| Bonus Evilness | 8.00% | ~25 |
-| Doom Hill | 8.00% | ~25 |
+| Doom Hill | 9.00% | ~28 |
 | My Little Torture Chamber | 7.00% | ~22 |
 | Brimstone Shaken, Not Stirred | 7.00% | ~22 |
 | Mirror, Mirror | 6.00% | ~18 |

@@ -15374,9 +15374,9 @@
       "Count": 13147
     }
   ],
-  "EOS_Progressed": 897286,
+  "EOS_Progressed": 897290,
   "EOS_Completed": 2787,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39484,6 +39484,11 @@
       "Time": "2023-11-19T05:03:47.7673883+00:00",
       "NumProgressed": 897286,
       "NumCompleted": 2787
+    },
+    {
+      "Time": "2023-11-19T06:03:34.3408645+00:00",
+      "NumProgressed": 897290,
+      "NumCompleted": 2787
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39824,7 +39829,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35891
+      "UsersEstimate": 35892
     },
     {
       "ID": "YipMan",
@@ -40031,21 +40036,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897286,
+      "Progressed": 897290,
       "Completed": 2787
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25909,
+      "Progressed": 25913,
       "Completed": 10235
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-19T03:59:33.5933028+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:03:47.7673879+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:03:34.3408643+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:59:07.9504771+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:03:47.7675087+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:58:34.9189423+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:03:34.3410236+00:00"
 }

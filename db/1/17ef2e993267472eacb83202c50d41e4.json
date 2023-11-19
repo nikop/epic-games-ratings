@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8042,
+  "EOS_Progressed": 8046,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6721,6 +6721,11 @@
       "Time": "2023-11-19T05:09:43.3394633+00:00",
       "NumProgressed": 8042,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T06:09:25.3455962+00:00",
+      "NumProgressed": 8046,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6845,7 +6850,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "GamesPlayed1",
@@ -6853,7 +6858,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "GamesPlayed10",
@@ -6877,7 +6882,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "GamesWon10",
@@ -6925,7 +6930,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "HAUpgraded1",
@@ -7141,7 +7146,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "NeutralKills200",
@@ -7157,7 +7162,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "PlayerKills10",
@@ -7293,7 +7298,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "TSUPurchased1",
@@ -7317,14 +7322,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8042,
+      "Progressed": 8046,
       "Completed": 1
     }
   ],
@@ -7332,8 +7337,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:09:43.3394628+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:09:25.345596+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:00:14.0513785+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:09:43.3395477+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:59:41.1369343+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:09:25.3456741+00:00"
 }

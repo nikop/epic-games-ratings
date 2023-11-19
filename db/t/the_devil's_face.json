@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -2556,9 +2556,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2587,8 +2587,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-19T05:04:43.5922488+00:00",
+  "LastChanged_Achievements": "2023-11-19T06:04:29.7116532+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-19T04:57:50.1953233+00:00",
-  "LastUpdate_Achievements": "2023-11-19T05:04:43.59227+00:00"
+  "LastUpdate_Ratings": "2023-11-19T05:57:18.1723698+00:00",
+  "LastUpdate_Achievements": "2023-11-19T06:04:29.7116682+00:00"
 }

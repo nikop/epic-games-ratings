@@ -4,59 +4,59 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 94.00% | ~118 |
-| MLG 360 no scope kill! | 94.00% | ~118 |
-| Are you ready to rumble? | 94.00% | ~118 |
-| That's what cheese said! | 88.00% | ~110 |
-| I like you...but I have to kill you... | 86.00% | ~108 |
-| AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~106 |
-| Not so hip anymore! | 84.00% | ~105 |
-| Blurry depth perception | 82.00% | ~102 |
-| Nerd | 81.00% | ~101 |
+| Tastes just like chicken! | 93.00% | ~117 |
+| MLG 360 no scope kill! | 93.00% | ~117 |
+| Are you ready to rumble? | 93.00% | ~117 |
+| That's what cheese said! | 87.00% | ~110 |
+| I like you...but I have to kill you... | 85.00% | ~107 |
+| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~106 |
+| Not so hip anymore! | 83.00% | ~105 |
+| Blurry depth perception | 82.00% | ~103 |
+| Nerd | 80.00% | ~101 |
 | Up and down | 78.00% | ~98 |
 | Rolling, Rolling, Rolling | 75.00% | ~94 |
-| Fire-fighter! | 66.00% | ~82 |
+| Fire-fighter! | 65.00% | ~82 |
 | Oh, you're up to no gouda! | 63.00% | ~79 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~76 |
+| Make Love not War-Craft a Mistlefoe | 60.00% | ~76 |
 | Meat grinder | 59.00% | ~74 |
 | You're not going to blow me up! | 54.00% | ~68 |
 | Mushroom soup of the day | 51.00% | ~64 |
-| Honk honk! | 49.00% | ~61 |
+| Honk honk! | 48.00% | ~60 |
 | Cockadoodledoo! | 48.00% | ~60 |
 | Butcher | 47.00% | ~59 |
-| Thats disgusting! | 46.00% | ~58 |
 | Spare Ribs | 46.00% | ~58 |
-| Self assessed tax return | 42.00% | ~52 |
-| My pants squeak when I walk | 42.00% | ~52 |
+| Thats disgusting! | 45.00% | ~57 |
+| My pants squeak when I walk | 42.00% | ~53 |
+| Self assessed tax return | 41.00% | ~52 |
 | Surprise!! | 40.00% | ~50 |
 | Haemochromatosis | 39.00% | ~49 |
-| Make America Grate Again | 34.00% | ~42 |
-| Pasta Bolognese | 34.00% | ~42 |
+| Pasta Bolognese | 34.00% | ~43 |
+| Make America Grate Again | 33.00% | ~42 |
 | Karaoke king | 32.00% | ~40 |
 | You can't stop me, bro! | 32.00% | ~40 |
 | You are no match for me, Billy! | 31.00% | ~39 |
 | Catch the bus with me! | 31.00% | ~39 |
-| Meatballs, coming up! | 30.00% | ~38 |
-| I'm going to get a concussion | 30.00% | ~38 |
-| Another one bites the iron | 26.00% | ~32 |
-| Kleptomaniac | 25.00% | ~31 |
+| Meatballs, coming up! | 29.00% | ~37 |
+| I'm going to get a concussion | 29.00% | ~37 |
+| Another one bites the iron | 26.00% | ~33 |
+| Kleptomaniac | 25.00% | ~32 |
 | Ripe Meat Off The Bone! | 24.00% | ~30 |
 | Hovering around | 24.00% | ~30 |
 | A Megapint...? | 23.00% | ~29 |
 | You're not so Big anymore, Boi! | 22.00% | ~28 |
-| Your daily dose of Vitamin C. | 22.00% | ~28 |
+| Your daily dose of Vitamin C. | 21.00% | ~26 |
 | I cant stand still! | 21.00% | ~26 |
 | Master Butcher | 17.00% | ~21 |
 | Slimy... yet satisfying | 17.00% | ~21 |
 | Just wing it! | 16.00% | ~20 |
 | Deal with it | 16.00% | ~20 |
-| Yeehaw!!! | 14.00% | ~18 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~16 |
+| Yeehaw!!! | 13.00% | ~16 |
 | You're looking mozzare-hella good! | 12.00% | ~15 |
-| Spoiler alert! | 10.00% | ~12 |
-| Timber! | 10.00% | ~12 |
-| Grumpy Immortal | 10.00% | ~12 |
-| Free Of Chains | 10.00% | ~12 |
+| Spoiler alert! | 10.00% | ~13 |
+| Timber! | 10.00% | ~13 |
+| Grumpy Immortal | 10.00% | ~13 |
+| Free Of Chains | 10.00% | ~13 |
 | I drink, but I'm not a drunk! | 9.00% | ~11 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
 | I want to throw up! | 7.00% | ~9 |
@@ -75,10 +75,10 @@
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~4 |
 | European karaoke king | 3.00% | ~4 |
 | Out of bounds | 3.00% | ~4 |
-| Ancient Ruins of Moldy Ceiling | 2.00% | ~2 |
-| Ancient Ruins of Peekaboo | 2.00% | ~2 |
-| Ancient Ruins of Chilly Winds | 2.00% | ~2 |
-| Consider it dealt with | 2.00% | ~2 |
+| Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |
+| Ancient Ruins of Peekaboo | 2.00% | ~3 |
+| Ancient Ruins of Chilly Winds | 2.00% | ~3 |
+| Consider it dealt with | 2.00% | ~3 |
 | I'm getting full... | 0.80% | ~1 |
 | I'm feeling lucky! | 0.80% | ~1 |
 | Bloody Knuckles | 0.00% | ~0 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 409)  
+Progressed: 126 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,4 +140,4 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 121 | 0 |
 | 2023-11-17 | 122 | 0 |
 | 2023-11-18 | 123 | 0 |
-| 2023-11-19 | 125 | 0 |
+| 2023-11-19 | 126 | 0 |
