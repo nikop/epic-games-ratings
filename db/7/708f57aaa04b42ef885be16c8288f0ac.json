@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5603,
+  "EOS_Progressed": 5604,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3776,6 +3776,11 @@
       "Time": "2023-11-19T21:09:32.3912253+00:00",
       "NumProgressed": 5603,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T22:08:32.3702511+00:00",
+      "NumProgressed": 5604,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3796,7 +3801,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "BeLikeWater",
@@ -3988,7 +3993,7 @@
       "Name": "The Quarterback",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ThisIsDharma",
@@ -4059,7 +4064,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5603,
+      "Progressed": 5604,
       "Completed": 7
     }
   ],
@@ -4067,8 +4072,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:09:32.391225+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:08:32.3702507+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:58:16.6368435+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:09:32.3912643+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:57:53.6266688+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:08:32.370288+00:00"
 }

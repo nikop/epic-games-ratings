@@ -33,10 +33,10 @@
 | Clear Sight | 0.50% | ~1 |
 | Shatterer | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
+| Miner | 0.50% | ~1 |
 | Shardbearer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| Miner | 0.00% | ~0 |
 | Forgemaster | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |

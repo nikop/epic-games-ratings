@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2731,10 +2731,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 4943,
       "NumberOfAwardsMax": 1535
+    },
+    {
+      "Time": "2023-11-19T22:00:23.8241473+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 4948,
+      "NumberOfAwardsMax": 1535
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4943,
+  "NumberOfAwards": 4948,
   "NumberOfAwardsMax": 1535,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2778,7 +2784,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 343
+      "Count": 348
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2811,9 +2817,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 8628,
+  "EOS_Progressed": 8629,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8561,6 +8567,11 @@
       "Time": "2023-11-19T20:05:30.6890992+00:00",
       "NumProgressed": 8628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T22:04:59.8658932+00:00",
+      "NumProgressed": 8629,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8589,7 +8600,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "ach04",
@@ -8597,7 +8608,7 @@
       "Name": "What Just Happened??",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "ach05",
@@ -8613,7 +8624,7 @@
       "Name": "Titan",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6557
+      "UsersEstimate": 6558
     },
     {
       "ID": "ach07",
@@ -8621,7 +8632,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4918
+      "UsersEstimate": 4919
     },
     {
       "ID": "ach08",
@@ -8629,7 +8640,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "ach09",
@@ -8637,7 +8648,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ach10",
@@ -8701,7 +8712,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4660
     },
     {
       "ID": "ach18",
@@ -8757,7 +8768,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "ach25",
@@ -8781,7 +8792,7 @@
       "Name": "So Krafty",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "ach28",
@@ -8805,7 +8816,7 @@
       "Name": "Juggernaut",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ach31",
@@ -8813,7 +8824,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "ach32",
@@ -8837,7 +8848,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2848
     },
     {
       "ID": "ach35",
@@ -8899,9 +8910,9 @@
       "ID": "ach42",
       "SetID": "47in8n6",
       "Name": "Quest Master",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3883
     },
     {
       "ID": "ach43",
@@ -8941,7 +8952,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "ach48",
@@ -8965,23 +8976,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8628,
+      "Progressed": 8629,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-19T19:00:22.1246526+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:06:16.4197838+00:00",
+  "LastChanged": "2023-11-19T22:00:23.8241472+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:04:59.8658928+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:02:34.5262561+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:06:16.4198394+00:00"
+  "LastUpdate_Ratings": "2023-11-19T22:00:23.8241476+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:04:59.8659463+00:00"
 }

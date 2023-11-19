@@ -5,23 +5,23 @@ Rating: 4.21 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 1.00% | ~3,147 |
-| A powerful aura was here | 1.00% | ~3,147 |
-| The touch of Chaos | 1.00% | ~3,147 |
+| May the Torchbearer light our way | 1.00% | ~3,148 |
+| A powerful aura was here | 1.00% | ~3,148 |
+| The touch of Chaos | 1.00% | ~3,148 |
 | Let's raise the stakes!! | 0.50% | ~1,574 |
 | Your wounds… They are healing so fast! | 0.40% | ~1,259 |
 | Rumors are true | 0.30% | ~944 |
 | We'll be careful | 0.30% | ~944 |
 | Pride is a sin, young Knight | 0.30% | ~944 |
-| Back to your senses | 0.20% | ~629 |
-| They tricked me | 0.20% | ~629 |
-| We need to talk | 0.20% | ~629 |
-| I feel drawn to it | 0.20% | ~629 |
-| Here to stay | 0.20% | ~629 |
-| Counting on you | 0.20% | ~629 |
-| They won't last long | 0.20% | ~629 |
-| Bring it on! | 0.20% | ~629 |
-| This is the end | 0.10% | ~315 |
+| Back to your senses | 0.20% | ~630 |
+| They tricked me | 0.20% | ~630 |
+| We need to talk | 0.20% | ~630 |
+| I feel drawn to it | 0.20% | ~630 |
+| Here to stay | 0.20% | ~630 |
+| Counting on you | 0.20% | ~630 |
+| This is the end | 0.20% | ~630 |
+| They won't last long | 0.20% | ~630 |
+| Bring it on! | 0.20% | ~630 |
 | We can choose to fight | 0.10% | ~315 |
 | No damsels in distress | 0.10% | ~315 |
 | The immortal is bound to reborn | 0.10% | ~315 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 903)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314,714 (Ranked 50)  
+Progressed: 314,751 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 4 (0.00%) (Ranked 356)
 | 2023-11-16 | 312,090 | 4 |
 | 2023-11-17 | 312,860 | 4 |
 | 2023-11-18 | 313,822 | 4 |
-| 2023-11-19 | 314,714 | 4 |
+| 2023-11-19 | 314,751 | 4 |
 ## Awards
 Max (Great Boss Battles): 60  (Ranked 412)  
 Sum: 60 (Ranked 473)  

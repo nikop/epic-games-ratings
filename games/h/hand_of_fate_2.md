@@ -6,26 +6,26 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,685 |
-| Apprentice | 58.00% | ~385,607 |
-| Close Shave | 25.00% | ~166,210 |
-| Mercenary | 23.00% | ~152,913 |
-| Ninja | 23.00% | ~152,913 |
+| The Fool | 72.00% | ~478,688 |
+| Apprentice | 58.00% | ~385,610 |
+| Close Shave | 25.00% | ~166,211 |
+| Mercenary | 23.00% | ~152,914 |
+| Ninja | 23.00% | ~152,914 |
 | Northern Scourge | 17.00% | ~113,023 |
 | Thief Bane | 14.00% | ~93,078 |
 | Master of Arms | 12.00% | ~79,781 |
 | Gambler | 10.00% | ~66,484 |
 | Dice Master | 10.00% | ~66,484 |
 | Swordsman | 9.00% | ~59,836 |
-| Knight | 8.00% | ~53,187 |
-| Cure for Corruption | 8.00% | ~53,187 |
-| Focused | 8.00% | ~53,187 |
-| Flurry of Fury | 8.00% | ~53,187 |
+| Knight | 8.00% | ~53,188 |
+| Cure for Corruption | 8.00% | ~53,188 |
+| Focused | 8.00% | ~53,188 |
+| Flurry of Fury | 8.00% | ~53,188 |
 | Long Shot | 7.00% | ~46,539 |
 | Devil Dice | 7.00% | ~46,539 |
 | Broken Heart | 7.00% | ~46,539 |
-| Adventurer | 6.00% | ~39,890 |
-| Empire's Bane | 6.00% | ~39,890 |
+| Adventurer | 6.00% | ~39,891 |
+| Empire's Bane | 6.00% | ~39,891 |
 | Jack of all Trades | 5.00% | ~33,242 |
 | Smithy | 5.00% | ~33,242 |
 | Leap of Faith | 3.00% | ~19,945 |
@@ -55,8 +55,8 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,840 (Ranked 28)  
-Completed: 171 (0.03%) (Ranked 318)  
+Progressed: 664,844 (Ranked 28)  
+Completed: 171 (0.03%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,11 +268,11 @@ Completed: 171 (0.03%) (Ranked 318)
 | 2023-11-16 | 664,697 | 171 |
 | 2023-11-17 | 664,732 | 171 |
 | 2023-11-18 | 664,791 | 171 |
-| 2023-11-19 | 664,840 | 171 |
+| 2023-11-19 | 664,844 | 171 |
 ## Awards
-Max (Amazing Storytelling): 35  (Ranked 468)  
+Max (Amazing Storytelling): 35  (Ranked 469)  
 Sum: 190 (Ranked 404)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

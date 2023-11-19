@@ -27,7 +27,7 @@
 | Fastidious Clown | 17.00% | ~29 |
 | It's not easy being green! | 17.00% | ~29 |
 | Home is where the heart is | 17.00% | ~29 |
-| Death is a part of life | 13.00% | ~22 |
+| Death is a part of life | 14.00% | ~24 |
 | To err is human... | 12.00% | ~20 |
 | Master of Thermodynamics | 12.00% | ~20 |
 | Unfullfilled dreams | 11.00% | ~19 |

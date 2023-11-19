@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2178,
+  "EOS_Progressed": 2179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5057,6 +5057,11 @@
       "Time": "2023-11-19T19:09:08.0331994+00:00",
       "NumProgressed": 2178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T22:08:53.9317538+00:00",
+      "NumProgressed": 2179,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5077,7 +5082,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5141,7 +5146,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5365,7 +5370,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5373,7 +5378,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5460,14 +5465,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2178,
+      "Progressed": 2179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:10:02.4790226+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:08:53.9317534+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:00:11.4216054+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:10:02.4790812+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:09.7994701+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:08:53.9318161+00:00"
 }

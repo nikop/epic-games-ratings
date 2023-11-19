@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7498,9 +7498,9 @@
       "ID": "Ach014",
       "SetID": "12n4k20",
       "Name": "I can\u0027t see this ever being a problem again",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach015",
@@ -7977,8 +7977,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:06:48.4048732+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:05:23.9518655+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:01:09.7285825+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:06:48.4049471+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:47.7288824+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:05:23.9519507+00:00"
 }

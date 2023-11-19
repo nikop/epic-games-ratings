@@ -1,31 +1,31 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | One of Us | 2.00% | ~932 |
 | Whatever It Takes | 2.00% | ~932 |
 | Pork Chopped | 2.00% | ~932 |
-| Git Gutte! | 1.00% | ~7,210 |
-| Break A Leg | 1.00% | ~7,210 |
-| Coup de Grâce | 1.00% | ~7,210 |
-| Hazardous Materials | 1.00% | ~7,210 |
-| Hotel California | 1.00% | ~7,210 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,210 |
-| Welcome To Hell-A | 1.00% | ~7,210 |
-| Dr. Reed, I Presume? | 0.90% | ~6,489 |
-| Anger Management | 0.90% | ~6,489 |
-| Bookworm | 0.90% | ~6,489 |
-| Friends Like These | 0.90% | ~6,489 |
-| Apex Predator | 0.90% | ~6,489 |
-| Stacking the Deck | 0.90% | ~6,489 |
-| This is My Weapon | 0.90% | ~6,489 |
-| But Doctor, I am Butcho | 0.80% | ~5,768 |
-| Can't Handle the Truth | 0.80% | ~5,768 |
-| Like Riding a Bike | 0.80% | ~5,768 |
-| A Patton Emerges | 0.80% | ~5,768 |
+| Git Gutte! | 1.00% | ~7,211 |
+| Break A Leg | 1.00% | ~7,211 |
+| Coup de Grâce | 1.00% | ~7,211 |
+| Hazardous Materials | 1.00% | ~7,211 |
+| Hotel California | 1.00% | ~7,211 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,211 |
+| Welcome To Hell-A | 1.00% | ~7,211 |
+| Dr. Reed, I Presume? | 0.90% | ~6,490 |
+| Anger Management | 0.90% | ~6,490 |
+| Bookworm | 0.90% | ~6,490 |
+| Friends Like These | 0.90% | ~6,490 |
+| Apex Predator | 0.90% | ~6,490 |
+| Stacking the Deck | 0.90% | ~6,490 |
+| This is My Weapon | 0.90% | ~6,490 |
+| But Doctor, I am Butcho | 0.80% | ~5,769 |
+| Can't Handle the Truth | 0.80% | ~5,769 |
+| Like Riding a Bike | 0.80% | ~5,769 |
+| A Patton Emerges | 0.80% | ~5,769 |
 | Perks of the Job | 0.70% | ~5,047 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,047 |
 | Slayer Squad | 0.70% | ~5,047 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,046 (Ranked 20)  
+Progressed: 721,070 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,412 (0.33%) (Ranked 228)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 721,046 | 2,412 |
+| 2023-11-19 | 721,070 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
 Sum: 11,539 (Ranked 84)  

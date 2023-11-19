@@ -10,31 +10,31 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 180.00% | ~664 |
 | Greeno-B-Gone | 126.00% | ~465 |
 | Your Especially Earned Trajectory | 99.00% | ~365 |
-| No Mountain Wide Enough | 73.00% | ~269 |
+| No Mountain Wide Enough | 74.00% | ~273 |
+| Yakmel Whisperer | 72.00% | ~266 |
 | One of the Cool Kids | 71.00% | ~262 |
-| Yakmel Whisperer | 71.00% | ~262 |
 | Can We Keep It? | 68.00% | ~251 |
 | On that Grindset | 67.00% | ~247 |
+| Diamonds are Forever | 64.00% | ~236 |
 | Pack Mule | 63.00% | ~232 |
-| Diamonds are Forever | 63.00% | ~232 |
 | Unboxing | 61.00% | ~225 |
 | Chatterbox | 55.00% | ~203 |
 | Big Game Hunter | 54.00% | ~199 |
 | First Love | 53.00% | ~196 |
 | Financially Secure | 52.00% | ~192 |
 | Got Served | 52.00% | ~192 |
-| I Do! | 51.00% | ~188 |
+| I Do! | 52.00% | ~192 |
 | Happier-est Place on Earth | 49.00% | ~181 |
 | You Don't Win Friends With Salad | 49.00% | ~181 |
-| Call Me Fishmael | 48.00% | ~177 |
-| Builder of the Month | 46.00% | ~170 |
+| Call Me Fishmael | 49.00% | ~181 |
+| Builder of the Month | 47.00% | ~173 |
+| Commissions, commissions...! | 45.00% | ~166 |
 | What Plants Crave | 45.00% | ~166 |
 | Mole Masher | 45.00% | ~166 |
 | Panda-kin | 44.00% | ~162 |
-| Commissions, commissions...! | 44.00% | ~162 |
 | Anti-Santa | 44.00% | ~162 |
+| My Time Mansion | 43.00% | ~159 |
 | Bridging the Gap | 43.00% | ~159 |
-| My Time Mansion | 42.00% | ~155 |
 | Finishing Touches | 42.00% | ~155 |
 | Martle's Dream | 42.00% | ~155 |
 | Waste Not Want Not | 42.00% | ~155 |
@@ -42,10 +42,10 @@ Number of Ratings: 892  (23.09.2022)
 | Better Late than Never | 40.00% | ~148 |
 | Elementary, My Dear | 38.00% | ~140 |
 | Who Ya Gonna Call...? | 37.00% | ~137 |
+| Officially Official | 36.00% | ~133 |
+| Lifeline Pipeline | 36.00% | ~133 |
 | Got the Flow Back | 36.00% | ~133 |
 | Jewel of the Eufaula | 35.00% | ~129 |
-| Officially Official | 35.00% | ~129 |
-| Lifeline Pipeline | 35.00% | ~129 |
 | Sepia Toned Memories | 32.00% | ~118 |
 | He Can Spin A Yarn... | 31.00% | ~114 |
 | Time Flies | 28.00% | ~103 |
@@ -56,7 +56,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrunning Speedster | 25.00% | ~92 |
 | Do Your Part | 25.00% | ~92 |
 | It Belongs in a Museum! | 25.00% | ~92 |
-| Pro Gamer | 21.00% | ~77 |
+| Pro Gamer | 22.00% | ~81 |
 | Cardistry | 19.00% | ~70 |
 | It's High Noon... | 11.00% | ~41 |
 | Strong Arms | 10.00% | ~37 |

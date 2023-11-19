@@ -1,7 +1,7 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.66 (Ranked 293)  
+Rating: 4.66 (Ranked 294)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 36  (23.09.2022)
 | Act II Complete | 22.00% | ~211 |
 | A successful procedure! | 19.00% | ~182 |
 | Bing Bang BOOM | 19.00% | ~182 |
-| Breaking the Ice | 18.00% | ~173 |
+| Breaking the Ice | 19.00% | ~182 |
 | Solidarity Forever | 13.00% | ~125 |
 | A Tucked Tale | 10.00% | ~96 |
 | The best thing money can buy | 10.00% | ~96 |

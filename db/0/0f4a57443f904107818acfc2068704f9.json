@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -617,6 +617,11 @@
       "Time": "2023-11-19T21:03:58.6978826+00:00",
       "NumProgressed": 270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T22:03:22.086194+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -685,7 +690,7 @@
       "Name": "Pathfinder",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "CompleteChapter10",
@@ -773,7 +778,7 @@
       "Name": "Met the Enemy",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "CompleteChapter3",
@@ -787,9 +792,9 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "CompleteChapter5",
@@ -875,9 +880,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "Win100OnlineMatched",
@@ -924,14 +929,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:03:58.6978821+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:03:22.0861936+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:00:36.5535356+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:03:58.6979034+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:26.1128404+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:03:22.0862151+00:00"
 }

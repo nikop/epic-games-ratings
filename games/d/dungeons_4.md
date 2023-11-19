@@ -8,28 +8,28 @@
 | Thalya – Simply Immortal | 87.00% | ~271 |
 | For the Horde! | 81.00% | ~253 |
 | Hammer Time, Round Two | 80.00% | ~250 |
-| The Hellwoods | 76.00% | ~237 |
+| The Hellwoods | 77.00% | ~240 |
 | The Plains of Strothalm | 71.00% | ~222 |
 | Experienced Thalya | 69.00% | ~215 |
 | Thalya's Concentrated Fury | 68.00% | ~212 |
 | Master of Magic | 65.00% | ~203 |
-| Bad Elves Go Everywhere | 64.00% | ~200 |
+| Bad Elves Go Everywhere | 65.00% | ~203 |
 | Heroes’ Gorge | 60.00% | ~187 |
 | Magic Accidents | 59.00% | ~184 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~181 |
-| Minions, Minions! | 56.00% | ~175 |
+| Minions, Minions! | 57.00% | ~178 |
 | Trap Master | 53.00% | ~165 |
 | The Ascent | 47.00% | ~147 |
 | It's Warm and Cozy at Home | 47.00% | ~147 |
-| YOU SHALL NOT PASS! | 44.00% | ~137 |
+| YOU SHALL NOT PASS! | 45.00% | ~140 |
 | Hard Work | 43.00% | ~134 |
 | The Big Eaty | 43.00% | ~134 |
 | Pure Dynamite! | 39.00% | ~122 |
 | “… like son” | 37.00% | ~115 |
 | Mana Cannon | 34.00% | ~106 |
 | Dungeonlord Gorgu | 32.00% | ~100 |
+| The Cathedral of Light | 31.00% | ~97 |
 | Shame! Shame! Shame! | 31.00% | ~97 |
-| The Cathedral of Light | 30.00% | ~94 |
 | Tanos' Crusade Against Thalya | 27.00% | ~84 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~69 |
 | Unstoppable Horde | 22.00% | ~69 |
@@ -38,25 +38,25 @@
 | Hungry, Hungry Gorgu! | 20.00% | ~62 |
 | Forbidden Knowledge | 18.00% | ~56 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
+| The Duel | 17.00% | ~53 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
-| The Duel | 16.00% | ~50 |
 | Stop Tanos! | 15.00% | ~47 |
 | If Looks Could Kill | 15.00% | ~47 |
 | The Finitude Drill | 13.00% | ~41 |
 | Bonus Evilness | 10.00% | ~31 |
+| Doom Hill | 10.00% | ~31 |
 | Sabotage! | 9.00% | ~28 |
-| Doom Hill | 9.00% | ~28 |
+| Raiders of the Lost Stone | 9.00% | ~28 |
 | Brimstone Shaken, Not Stirred | 9.00% | ~28 |
 | My Little Torture Chamber | 8.00% | ~25 |
-| Raiders of the Lost Stone | 8.00% | ~25 |
-| The Rune Sockets of Finitude (Part 1) | 7.00% | ~22 |
+| The Rune Sockets of Finitude (Part 1) | 8.00% | ~25 |
 | Mirror, Mirror | 6.00% | ~19 |
 | Untouchable | 6.00% | ~19 |
 | Lavalumps on Ice! | 6.00% | ~19 |
+| Rubble and Ashes | 6.00% | ~19 |
 | To Infinity And Beyond! | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
-| Rubble and Ashes | 5.00% | ~16 |
 | To the Max! | 5.00% | ~16 |
 | The Rune Sockets of Finitude (Part 2) | 5.00% | ~16 |
 | The Last Stand - This Time For Real! | 5.00% | ~16 |

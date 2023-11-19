@@ -5,49 +5,49 @@ Rating: 4.13 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~8,730 |
-| First fall | 36.00% | ~5,612 |
-| Don't play with fire, kids | 27.00% | ~4,209 |
-| First steps | 27.00% | ~4,209 |
-| 1.000.000 Scovilles | 19.00% | ~2,962 |
-| An Old Timer | 18.00% | ~2,806 |
-| I'll give this one a 0 star rating | 18.00% | ~2,806 |
-| Hands up! | 16.00% | ~2,494 |
-| Feeling Better | 16.00% | ~2,494 |
-| Unfortunate Plumber | 15.00% | ~2,338 |
-| Don't interrupt my research! | 14.00% | ~2,183 |
-| A Good Read | 11.00% | ~1,715 |
-| Boot for an eye | 10.00% | ~1,559 |
-| Pacifist Run | 7.00% | ~1,091 |
-| Uh, Which Key is the Right One? | 6.00% | ~935 |
-| Golden fingers | 5.00% | ~780 |
-| OMG I FOUND A BUG | 5.00% | ~780 |
-| Spiky chin | 4.00% | ~624 |
-| I Think I'm Lost | 4.00% | ~624 |
-| Meat Machine | 4.00% | ~624 |
-| Untouchable | 4.00% | ~624 |
-| Merchant | 3.00% | ~468 |
-| Groovy! | 3.00% | ~468 |
-| Gentle hugs | 3.00% | ~468 |
-| Mmm, tasty | 3.00% | ~468 |
-| Good Murder | 3.00% | ~468 |
-| Infinite pleasure | 2.00% | ~312 |
-| Body Building | 2.00% | ~312 |
-| Stranger in the Elevator | 2.00% | ~312 |
-| Golden tongue | 1.00% | ~156 |
-| Smothered in Meat | 1.00% | ~156 |
-| No Love | 1.00% | ~156 |
-| Vampire Killer | 1.00% | ~156 |
-| Where are those diamonds? | 1.00% | ~156 |
-| Blue Valentine | 1.00% | ~156 |
-| Can i be more unfortunate? | 0.90% | ~140 |
+| Fire safety | 56.00% | ~8,765 |
+| First fall | 36.00% | ~5,634 |
+| Don't play with fire, kids | 27.00% | ~4,226 |
+| First steps | 27.00% | ~4,226 |
+| 1.000.000 Scovilles | 19.00% | ~2,974 |
+| An Old Timer | 18.00% | ~2,817 |
+| I'll give this one a 0 star rating | 18.00% | ~2,817 |
+| Hands up! | 16.00% | ~2,504 |
+| Feeling Better | 16.00% | ~2,504 |
+| Unfortunate Plumber | 15.00% | ~2,348 |
+| Don't interrupt my research! | 14.00% | ~2,191 |
+| A Good Read | 11.00% | ~1,722 |
+| Boot for an eye | 10.00% | ~1,565 |
+| Pacifist Run | 7.00% | ~1,096 |
+| Uh, Which Key is the Right One? | 6.00% | ~939 |
+| Golden fingers | 5.00% | ~783 |
+| OMG I FOUND A BUG | 5.00% | ~783 |
+| Spiky chin | 4.00% | ~626 |
+| I Think I'm Lost | 4.00% | ~626 |
+| Meat Machine | 4.00% | ~626 |
+| Untouchable | 4.00% | ~626 |
+| Merchant | 3.00% | ~470 |
+| Groovy! | 3.00% | ~470 |
+| Gentle hugs | 3.00% | ~470 |
+| Mmm, tasty | 3.00% | ~470 |
+| Good Murder | 3.00% | ~470 |
+| Infinite pleasure | 2.00% | ~313 |
+| Body Building | 2.00% | ~313 |
+| Stranger in the Elevator | 2.00% | ~313 |
+| Golden tongue | 1.00% | ~157 |
+| Smothered in Meat | 1.00% | ~157 |
+| No Love | 1.00% | ~157 |
+| Vampire Killer | 1.00% | ~157 |
+| Where are those diamonds? | 1.00% | ~157 |
+| Blue Valentine | 1.00% | ~157 |
+| Can i be more unfortunate? | 0.90% | ~141 |
 | Now you see | 0.80% | ~125 |
 | Don't Come Near Me | 0.60% | ~94 |
 | Athletic | 0.50% | ~78 |
 | A Heap of Raw Meat | 0.50% | ~78 |
-| Golden eyes | 0.40% | ~62 |
-| Multi-Love | 0.40% | ~62 |
-| Swim in the Asphalt | 0.40% | ~62 |
+| Golden eyes | 0.40% | ~63 |
+| Multi-Love | 0.40% | ~63 |
+| Swim in the Asphalt | 0.40% | ~63 |
 | Love through meat | 0.30% | ~47 |
 | Hate Me | 0.30% | ~47 |
 | I AM MEAT | 0.20% | ~31 |
@@ -73,7 +73,7 @@ Rating: 4.13 (Ranked 957)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,590 (Ranked 149)  
+Progressed: 15,651 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 9,719 | 0 |
 | 2023-11-17 | 12,074 | 0 |
 | 2023-11-18 | 14,127 | 0 |
-| 2023-11-19 | 15,590 | 0 |
+| 2023-11-19 | 15,651 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

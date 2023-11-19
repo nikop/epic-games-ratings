@@ -4,11 +4,11 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 690,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-02-10T16:30:00+00:00",
     "PcReleaseDate": "2021-03-04T12:00:00+00:00",
@@ -1074,10 +1074,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 382,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2023-11-19T21:59:54.2361153+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 384,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 382,
+  "NumberOfAwards": 384,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1085,7 +1091,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1139,7 +1145,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has a Creative Community",
@@ -1159,8 +1165,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-11-19T18:59:51.5727799+00:00",
+  "LastChanged": "2023-11-19T21:59:54.2361152+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:33.511579+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:01:19.3575186+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:03:39.0006866+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:54.2361156+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:03:07.8029582+00:00"
 }

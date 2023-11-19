@@ -114,12 +114,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~460 |
 | Live Long and Prosper | 0.10% | ~460 |
 | Magellan’s Voyage | 0.10% | ~460 |
+| Maharana Pratap | 0.10% | ~460 |
 | Mare Nostrum | 0.10% | ~460 |
 | Market Control | 0.10% | ~460 |
 | Marshy March | 0.10% | ~460 |
 | Mary of Lotharingia | 0.10% | ~460 |
 | Master of India | 0.10% | ~460 |
 | Mehmet's Ambition | 0.10% | ~460 |
+| Mewar Never Changes | 0.10% | ~460 |
 | Multiculturalism | 0.10% | ~460 |
 | My armies are invincible! | 0.10% | ~460 |
 | My True Friend | 0.10% | ~460 |
@@ -162,6 +164,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Strait Talk | 0.10% | ~460 |
 | Subsidize my Love | 0.10% | ~460 |
 | The Sudanese Expedition | 0.10% | ~460 |
+| Sunset Invasion | 0.10% | ~460 |
 | Super Trooper | 0.10% | ~460 |
 | Surfing USA | 0.10% | ~460 |
 | Swahili Persuasion | 0.10% | ~460 |
@@ -295,11 +298,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
-| Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Mewar Never Changes | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
@@ -335,7 +336,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stiff Upper Lippe | 0.00% | ~0 |
 | Sun Invasion | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
-| Sunset Invasion | 0.00% | ~0 |
 | Sweet Home Qaraqorum | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,631 (Ranked 41)  
+Progressed: 459,664 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,631 | 1 |
+| 2023-11-19 | 459,664 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
 Sum: 58,277 (Ranked 24)  

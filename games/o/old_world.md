@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.50% | ~77 |
 | Play a Network Game | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
+| Siege Tower | 0.50% | ~77 |
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Greater Kmt Unified | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.40% | ~62 |
 | Capturing Cities | 0.40% | ~62 |
 | Three Man Chariot | 0.40% | ~62 |
-| Siege Tower | 0.40% | ~62 |
 | Conquest Victory | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,392 (Ranked 150)  
-Completed: 5 (0.03%) (Ranked 318)  
+Progressed: 15,395 (Ranked 150)  
+Completed: 5 (0.03%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -562,7 +562,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
-| 2023-11-19 | 15,392 | 5 |
+| 2023-11-19 | 15,395 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

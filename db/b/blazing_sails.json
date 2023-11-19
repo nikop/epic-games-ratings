@@ -4,11 +4,11 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1016,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 194,
+  "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -1419,10 +1419,16 @@
       "Rating": 3.92,
       "NumberOfAwards": 2458,
       "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2023-11-19T21:58:07.7245008+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 2480,
+      "NumberOfAwardsMax": 344
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2458,
+  "NumberOfAwards": 2480,
   "NumberOfAwardsMax": 344,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1430,7 +1436,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 294
+      "Count": 310
     },
     {
       "Text": "This game is Relaxing",
@@ -1484,7 +1490,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 284
+      "Count": 290
     }
   ],
   "EOS_Progressed": 0,
@@ -1499,8 +1505,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-11-19T20:58:38.3271979+00:00",
+  "LastChanged": "2023-11-19T21:58:07.7245007+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:20.0634771+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:58:38.3271984+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:09:03.5864129+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:58:07.7245011+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:08:11.2281756+00:00"
 }

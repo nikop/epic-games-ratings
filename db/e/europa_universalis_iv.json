@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12291,9 +12291,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459631,
+  "EOS_Progressed": 459664,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5428,
+  "EOS_NewPlayers": 5426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36731,6 +36731,11 @@
       "Time": "2023-11-19T21:07:30.2388274+00:00",
       "NumProgressed": 459631,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T22:05:54.7860761+00:00",
+      "NumProgressed": 459664,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38212,9 +38217,9 @@
       "ID": "achievement_maharana_pratap",
       "SetID": "8p2n7he",
       "Name": "Maharana Pratap",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_mansa_musa",
@@ -38292,9 +38297,9 @@
       "ID": "achievement_mewar_never_changes",
       "SetID": "8p2n7he",
       "Name": "Mewar Never Changes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_multiculturalism",
@@ -38916,9 +38921,9 @@
       "ID": "achievement_sunset_invasion",
       "SetID": "8p2n7he",
       "Name": "Sunset Invasion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_super_trooper",
@@ -39645,21 +39650,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459631,
+      "Progressed": 459664,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459631,
+      "Progressed": 459664,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-19T16:59:59.7003229+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:07:30.2388267+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:05:54.7860758+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:01:16.6788114+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:07:30.2399352+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:52.0485045+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:05:54.7870962+00:00"
 }

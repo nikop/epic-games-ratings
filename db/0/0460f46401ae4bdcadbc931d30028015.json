@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 919,
   "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -643,10 +643,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 103,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-19T21:58:29.818042+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 103,
+  "NumberOfAwards": 108,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -672,12 +678,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 25
     }
   ],
-  "EOS_Progressed": 3692,
+  "EOS_Progressed": 3693,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5485,6 +5491,11 @@
       "Time": "2023-11-19T21:06:31.16956+00:00",
       "NumProgressed": 3692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T22:05:10.5027849+00:00",
+      "NumProgressed": 3693,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5505,7 +5516,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "achievement_11",
@@ -5529,7 +5540,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "achievement_14",
@@ -5593,7 +5604,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "achievement_21",
@@ -5609,7 +5620,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_4",
@@ -5625,7 +5636,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "achievement_6",
@@ -5664,16 +5675,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3692,
+      "Progressed": 3693,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2023-11-19T15:59:16.7149554+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:06:31.1695596+00:00",
+  "LastChanged": "2023-11-19T21:58:29.8180418+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:05:10.5027845+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:59:10.5881308+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:06:31.1695951+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:58:29.8180423+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:05:10.5028172+00:00"
 }

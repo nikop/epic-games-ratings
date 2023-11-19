@@ -6,29 +6,32 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Cost of Heroism | 3.00% | ~44 |
 | Me and My Familiar | 2.00% | ~29 |
 | Gotta Ca... Must Collect All of Them | 2.00% | ~29 |
 | Passing Shadow | 2.00% | ~29 |
 | This Too Shall Pass | 2.00% | ~29 |
 | How Romantic! | 2.00% | ~29 |
-| The Cost of Heroism | 2.00% | ~29 |
 | Cutthroat Competitors | 2.00% | ~29 |
 | Daybreak | 2.00% | ~29 |
 | Completing the Look | 1.00% | ~15 |
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
-| Let Me Get My Chisel | 0.80% | ~12 |
+| Let Me Get My Chisel | 0.90% | ~13 |
+| A Mythic Menagerie | 0.70% | ~10 |
+| Who's Counting? | 0.70% | ~10 |
 | Echoes Die | 0.70% | ~10 |
-| A Mythic Menagerie | 0.60% | ~9 |
-| Who's Counting? | 0.60% | ~9 |
+| Thematic Divergence | 0.50% | ~7 |
 | Pyrrhic Victory | 0.50% | ~7 |
 | A Story of Heroes | 0.50% | ~7 |
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
-| Thematic Divergence | 0.40% | ~6 |
 | Chain Reaction | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
+| Plague Doctor | 0.20% | ~3 |
+| Legends Never Die | 0.20% | ~3 |
+| Everfading | 0.20% | ~3 |
 | Another Tale to Tell | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
@@ -38,10 +41,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
-| Plague Doctor | 0.10% | ~1 |
-| Legends Never Die | 0.10% | ~1 |
 | In Soil, In Smoke | 0.10% | ~1 |
-| Everfading | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,471 (Ranked 240)  
-Completed: 6 (0.41%) (Ranked 211)  
+Progressed: 1,472 (Ranked 240)  
+Completed: 6 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,6 +223,7 @@ Completed: 6 (0.41%) (Ranked 211)
 | 2023-11-15 | 1,466 | 6 |
 | 2023-11-17 | 1,468 | 6 |
 | 2023-11-18 | 1,471 | 6 |
+| 2023-11-19 | 1,472 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 496)  
 Sum: 29 (Ranked 511)  

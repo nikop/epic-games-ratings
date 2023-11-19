@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8173,9 +8173,9 @@
       "Count": 3524
     }
   ],
-  "EOS_Progressed": 236001,
+  "EOS_Progressed": 236016,
   "EOS_Completed": 2459,
-  "EOS_NewPlayers": 1225,
+  "EOS_NewPlayers": 1232,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32088,6 +32088,11 @@
       "Time": "2023-11-19T21:10:05.6384576+00:00",
       "NumProgressed": 236001,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-11-19T22:08:56.7563372+00:00",
+      "NumProgressed": 236016,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 532,
@@ -32961,9 +32966,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 472
     },
     {
       "ID": "objective_completed_1203",
@@ -36339,7 +36344,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "objective_completed_1553",
@@ -36354,21 +36359,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202275,
+      "Progressed": 202290,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236001,
+      "Progressed": 236016,
       "Completed": 2459
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-19T14:59:45.1711306+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:10:05.6384568+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:08:56.7563366+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:01:06.0647852+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:10:05.6406832+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:45.4196365+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:08:56.7585157+00:00"
 }

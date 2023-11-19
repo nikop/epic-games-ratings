@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 991,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2230,9 +2230,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -2278,9 +2278,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 832
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -2326,9 +2326,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 228
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -2366,9 +2366,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 654
+      "UsersEstimate": 664
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -2558,9 +2558,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 476
+      "UsersEstimate": 486
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -2614,9 +2614,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 842
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -2654,9 +2654,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 505
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -2678,9 +2678,9 @@
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 5",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 129
     },
     {
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
@@ -2710,9 +2710,9 @@
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 178
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
@@ -2838,9 +2838,9 @@
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "Mining Shaft!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
@@ -2886,9 +2886,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 238
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -2909,8 +2909,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:04:41.8153992+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:03:52.7978024+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:59:42.4197969+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:04:41.815494+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:58:51.0341944+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:03:52.7978814+00:00"
 }

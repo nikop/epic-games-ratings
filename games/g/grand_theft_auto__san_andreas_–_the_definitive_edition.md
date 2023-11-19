@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~11,256 |
+| Getting Started | 82.00% | ~11,257 |
 | Pay 'n' Spray | 51.00% | ~7,001 |
 | All Dressed Up for San Fierro | 26.00% | ~3,569 |
-| The American Dream | 20.00% | ~2,745 |
+| The American Dream | 20.00% | ~2,746 |
 | School's Out | 19.00% | ~2,608 |
 | Smooth Moves | 17.00% | ~2,334 |
 | What happens in Las Venturas... | 16.00% | ~2,196 |
 | Today Was a Good Day | 16.00% | ~2,196 |
 | Horror of the Santa Maria | 11.00% | ~1,510 |
 | Liberty City State of Mind | 10.00% | ~1,373 |
-| Original Gangster | 9.00% | ~1,235 |
+| Original Gangster | 9.00% | ~1,236 |
 | The End of the Line | 8.00% | ~1,098 |
 | With Extra Dip | 7.00% | ~961 |
 | Saviour | 6.00% | ~824 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 489)
 | ...Here we go again | 0.50% | ~69 |
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,727 (Ranked 155)  
-Completed: 53 (0.39%) (Ranked 215)  
+Progressed: 13,728 (Ranked 155)  
+Completed: 53 (0.39%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,10 +254,10 @@ Completed: 53 (0.39%) (Ranked 215)
 | 2023-11-16 | 13,707 | 53 |
 | 2023-11-17 | 13,715 | 53 |
 | 2023-11-18 | 13,719 | 53 |
-| 2023-11-19 | 13,727 | 53 |
+| 2023-11-19 | 13,728 | 53 |
 ## Awards
 Max (Great Boss Battles): 396  (Ranked 231)  
-Sum: 623 (Ranked 308)  
+Sum: 624 (Ranked 308)  
 Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): -77
 | This game has Amazing Characters | 36 |
 | This game has Amazing Storytelling | 34 |
 | This game is Great for Beginners | 33 |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game has a Creative Community | 25 |
 | This game is Extremely Fun | 23 |
 | This game has Quickly Understood Controls | 23 |
@@ -450,4 +450,4 @@ Diff (max vs sum): -77
 | 2023-11-14 | 4.56 | 388 | 611 |
 | 2023-11-15 | 4.56 | 391 | 615 |
 | 2023-11-18 | 4.56 | 396 | 620 |
-| 2023-11-19 | 4.56 | 396 | 623 |
+| 2023-11-19 | 4.56 | 396 | 624 |

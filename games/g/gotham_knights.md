@@ -5,17 +5,17 @@ Rating: 4.18 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,108 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,839 |
-| Loose Ends | 34.00% | ~26,072 |
-| To the Victor Go the Spoils | 28.00% | ~21,471 |
-| Knighthood | 27.00% | ~20,704 |
+| First Step Into the Knight | 51.00% | ~39,109 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,840 |
+| Loose Ends | 34.00% | ~26,073 |
+| To the Victor Go the Spoils | 28.00% | ~21,472 |
+| Knighthood | 27.00% | ~20,705 |
 | Get ReQ'd | 25.00% | ~19,171 |
 | Whispered Words | 25.00% | ~19,171 |
-| The Batman Family | 23.00% | ~17,637 |
-| Lock and Key | 22.00% | ~16,870 |
-| Something in the Clay | 21.00% | ~16,103 |
-| Quartzer Life Crisis | 21.00% | ~16,103 |
+| The Batman Family | 23.00% | ~17,638 |
+| Lock and Key | 22.00% | ~16,871 |
+| Something in the Clay | 21.00% | ~16,104 |
+| Quartzer Life Crisis | 21.00% | ~16,104 |
 | Working Hard or Harley Working? | 20.00% | ~15,337 |
 | Unstoppable Force | 20.00% | ~15,337 |
 | Bad Apples in Every Orchard | 20.00% | ~15,337 |
@@ -23,9 +23,9 @@ Rating: 4.18 (Ranked 929)
 | The Show Mud Go On | 18.00% | ~13,803 |
 | From Inside Gotham's Walls | 18.00% | ~13,803 |
 | Protector of Gotham | 17.00% | ~13,036 |
-| Universal Health Scare | 16.00% | ~12,269 |
-| In Your Element | 15.00% | ~11,502 |
-| Voiceless | 15.00% | ~11,502 |
+| Universal Health Scare | 16.00% | ~12,270 |
+| In Your Element | 15.00% | ~11,503 |
+| Voiceless | 15.00% | ~11,503 |
 | Rock and a Hard Place | 14.00% | ~10,736 |
 | Cooldown | 14.00% | ~10,736 |
 | Seeking Asylum | 14.00% | ~10,736 |
@@ -36,15 +36,15 @@ Rating: 4.18 (Ranked 929)
 | Gotham Knight | 12.00% | ~9,202 |
 | Gotham City Confidential | 11.00% | ~8,435 |
 | Drone You Out | 10.00% | ~7,668 |
-| Out of Their League | 9.00% | ~6,901 |
-| Solid Alibi | 9.00% | ~6,901 |
+| Out of Their League | 9.00% | ~6,902 |
+| Solid Alibi | 9.00% | ~6,902 |
 | Fusion Expert | 7.00% | ~5,368 |
 | Expert Crime Fighter | 6.00% | ~4,601 |
 | Family Meeting | 6.00% | ~4,601 |
 | A Worthy Successor | 6.00% | ~4,601 |
 | Dressed to Impress | 4.00% | ~3,067 |
-| A Momentum Occasion | 3.00% | ~2,300 |
-| Bat Out of Hell | 3.00% | ~2,300 |
+| A Momentum Occasion | 3.00% | ~2,301 |
+| Bat Out of Hell | 3.00% | ~2,301 |
 | Practice Makes Perfect | 2.00% | ~1,534 |
 | He'd Be So Proud of You | 2.00% | ~1,534 |
 | Talonted | 1.00% | ~767 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 929)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,683 (Ranked 99)  
+Progressed: 76,685 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,11 +280,11 @@ Completed: 124 (0.16%) (Ranked 263)
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
 | 2023-11-18 | 76,626 | 123 |
-| 2023-11-19 | 76,683 | 124 |
+| 2023-11-19 | 76,685 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,951  (Ranked 98)  
-Sum: 5,013 (Ranked 138)  
-Diff (max vs sum): -40  
+Sum: 5,013 (Ranked 139)  
+Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,951 |

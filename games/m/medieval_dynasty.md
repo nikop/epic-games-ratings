@@ -1,11 +1,11 @@
 # Medieval Dynasty
 [Store](https://store.epicgames.com/en-US/p/medieval-dynasty)  
 [View Rawdata](../../db/m/medieval_dynasty.json)  
-Rating: 4.66 (Ranked 293)  
+Rating: 4.66 (Ranked 294)  
 Number of Ratings: 722  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 54  (Ranked 420)  
-Sum: 348 (Ranked 352)  
+Sum: 349 (Ranked 352)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 68
 | This game is Relaxing | 38 |
 | This game has Quickly Understood Controls | 34 |
 | This game is Educational | 34 |
-| This game has a Creative Community | 31 |
+| This game has a Creative Community | 32 |
 | This game has Obsessive Gameplay | 30 |
 | This game has Realistic Visuals | 28 |
 | This game has Diverse Characters | 22 |
@@ -152,3 +152,4 @@ Diff (max vs sum): 68
 | 2023-10-28 | 4.66 | - | 54 | 346 |
 | 2023-10-30 | 4.66 | - | 54 | 347 |
 | 2023-11-03 | 4.66 | - | 54 | 348 |
+| 2023-11-19 | 4.66 | - | 54 | 349 |

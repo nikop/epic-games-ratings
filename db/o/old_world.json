@@ -6,9 +6,9 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2010,7 +2010,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15392,
+  "EOS_Progressed": 15395,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -16220,6 +16220,11 @@
       "Time": "2023-11-19T21:05:07.7654913+00:00",
       "NumProgressed": 15392,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-19T22:04:11.58609+00:00",
+      "NumProgressed": 15395,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18317,9 +18322,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -18966,21 +18971,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15392,
+      "Progressed": 15395,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15392,
+      "Progressed": 15395,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:05:07.7654909+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:04:11.5860895+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:01:09.3668263+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:05:07.7663623+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:59:47.4856327+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:04:11.5869844+00:00"
 }

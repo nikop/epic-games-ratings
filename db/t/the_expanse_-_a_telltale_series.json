@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15130,
+  "EOS_Progressed": 15133,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -11652,6 +11652,11 @@
       "Time": "2023-11-19T20:03:25.9531024+00:00",
       "NumProgressed": 15130,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-19T22:03:05.7606414+00:00",
+      "NumProgressed": 15133,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11816,7 +11821,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "28",
@@ -11943,22 +11948,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15130,
+      "Progressed": 15133,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1084,
-      "Completed": 634
+      "Progressed": 1087,
+      "Completed": 635
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:03:36.2869108+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:03:05.760641+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-19T20:59:55.6407673+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:03:36.2869836+00:00"
+  "LastUpdate_Ratings": "2023-11-19T21:58:59.7520136+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:03:05.7607489+00:00"
 }

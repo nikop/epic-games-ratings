@@ -6,9 +6,9 @@
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1457,10 +1457,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 623,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-11-19T22:02:33.2520586+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 624,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 623,
+  "NumberOfAwards": 624,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1492,7 +1498,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1525,7 +1531,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13727,
+  "EOS_Progressed": 13728,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -14765,6 +14771,11 @@
       "Time": "2023-11-19T15:08:47.3257813+00:00",
       "NumProgressed": 13727,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-19T22:08:19.2557938+00:00",
+      "NumProgressed": 13728,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14776,7 +14787,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11256
+      "UsersEstimate": 11257
     },
     {
       "ID": "ACH02",
@@ -14824,7 +14835,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2746
     },
     {
       "ID": "ACH08",
@@ -14992,7 +15003,7 @@
       "Name": "Original Gangster",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACH29",
@@ -15055,16 +15066,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13727,
+      "Progressed": 13728,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-11-19T16:02:38.0510902+00:00",
-  "LastChanged_Achievements": "2023-11-19T21:09:14.7412804+00:00",
+  "LastChanged": "2023-11-19T22:02:33.2520585+00:00",
+  "LastChanged_Achievements": "2023-11-19T22:08:19.2557933+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:02:48.8552603+00:00",
-  "LastUpdate_Achievements": "2023-11-19T21:09:14.741352+00:00"
+  "LastUpdate_Ratings": "2023-11-19T22:02:33.252059+00:00",
+  "LastUpdate_Achievements": "2023-11-19T22:08:19.2558833+00:00"
 }
