@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251403,
+  "EOS_Progressed": 251404,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -19307,6 +19307,11 @@
       "Time": "2023-11-19T01:59:47.0468465+00:00",
       "NumProgressed": 251403,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-19T02:34:24.0735758+00:00",
+      "NumProgressed": 251404,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19390,7 +19395,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37710
+      "UsersEstimate": 37711
     },
     {
       "ID": "clearCut",
@@ -19550,7 +19555,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35196
+      "UsersEstimate": 35197
     },
     {
       "ID": "myFirstRunbow",
@@ -19638,7 +19643,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32682
+      "UsersEstimate": 32683
     },
     {
       "ID": "treeMedalist",
@@ -19678,14 +19683,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40224
+      "UsersEstimate": 40225
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251403,
+      "Progressed": 251404,
       "Completed": 6
     }
   ],
@@ -19693,8 +19698,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:59:47.0468462+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:34:24.0735755+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.785851+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:53:28.6024459+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:59:47.0469522+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:27:39.767004+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:34:24.0737513+00:00"
 }

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~9,543 |
-| Cool Whip | 90.00% | ~9,336 |
-| Fashion Killa | 88.00% | ~9,128 |
-| Drop the Beat | 86.00% | ~8,921 |
-| Hey Lakeshore | 84.00% | ~8,713 |
+| Throwing up Tags | 92.00% | ~9,544 |
+| Cool Whip | 90.00% | ~9,337 |
+| Fashion Killa | 88.00% | ~9,129 |
+| Drop the Beat | 86.00% | ~8,922 |
+| Hey Lakeshore | 84.00% | ~8,714 |
 | 100 Miles and Runnin' | 83.00% | ~8,610 |
-| Public Enemy | 82.00% | ~8,506 |
-| Rebel Without a Pause | 67.00% | ~6,950 |
-| Hey Speedie! | 67.00% | ~6,950 |
-| Most Wanted | 63.00% | ~6,535 |
-| New Crew | 62.00% | ~6,431 |
+| Public Enemy | 82.00% | ~8,507 |
+| Rebel Without a Pause | 67.00% | ~6,951 |
+| Hey Speedie! | 67.00% | ~6,951 |
+| Most Wanted | 63.00% | ~6,536 |
+| New Crew | 62.00% | ~6,432 |
 | Escape Artist | 53.00% | ~5,498 |
 | Serious Guap | 52.00% | ~5,394 |
 | Style it Out | 52.00% | ~5,394 |
 | Untouchable | 52.00% | ~5,394 |
-| Oh, It's On | 50.00% | ~5,186 |
-| Rydell's Rydes | 48.00% | ~4,979 |
+| Oh, It's On | 50.00% | ~5,187 |
+| Rydell's Rydes | 48.00% | ~4,980 |
 | Cash Money Millionaire | 45.00% | ~4,668 |
-| Lake Better Watch Out | 39.00% | ~4,045 |
+| Lake Better Watch Out | 39.00% | ~4,046 |
 | #Blessed | 34.00% | ~3,527 |
 | Access All Areas | 33.00% | ~3,423 |
 | Found Family | 31.00% | ~3,216 |
@@ -33,8 +33,8 @@
 | Teacher's Pet | 20.00% | ~2,075 |
 | Full House | 18.00% | ~1,867 |
 | Superstar | 18.00% | ~1,867 |
-| B for My Name | 17.00% | ~1,763 |
-| Mixtape | 17.00% | ~1,763 |
+| B for My Name | 17.00% | ~1,764 |
+| Mixtape | 17.00% | ~1,764 |
 | Bring Your A Game | 16.00% | ~1,660 |
 | Flow Master | 12.00% | ~1,245 |
 | The Bear Champ | 5.00% | ~519 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~207 |
 | Cleaning Up | 2.00% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,373 (Ranked 160)  
+Progressed: 10,374 (Ranked 160)  
 Completed: 50 (0.48%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 50 (0.48%) (Ranked 203)
 | 2023-11-16 | 10,190 | 50 |
 | 2023-11-17 | 10,265 | 50 |
 | 2023-11-18 | 10,364 | 50 |
-| 2023-11-19 | 10,373 | 50 |
+| 2023-11-19 | 10,374 | 50 |

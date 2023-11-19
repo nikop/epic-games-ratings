@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5556,
+  "EOS_Progressed": 5557,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3686,6 +3686,11 @@
       "Time": "2023-11-19T01:59:50.9067126+00:00",
       "NumProgressed": 5556,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T02:34:29.1736552+00:00",
+      "NumProgressed": 5557,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3754,7 +3759,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "FasterThanLight",
@@ -3802,7 +3807,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -3914,7 +3919,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "UnResurrected",
@@ -3969,7 +3974,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5556,
+      "Progressed": 5557,
       "Completed": 7
     }
   ],
@@ -3977,8 +3982,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:59:50.9067123+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:34:29.1736549+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:48:14.5975794+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:59:50.9067497+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:22:20.3915905+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:34:29.1736919+00:00"
 }

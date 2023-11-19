@@ -99,7 +99,7 @@
   ],
   "EOS_Progressed": 384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1041,9 +1041,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "LostMarshes",
@@ -1145,9 +1145,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "RenaissanceRobot",
@@ -1249,9 +1249,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "TheThiefOfFire",
@@ -1338,8 +1338,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:56:54.7864638+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:32:32.0890722+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:48:11.7429258+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:56:54.7865028+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:22:15.9766215+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:32:32.0891098+00:00"
 }

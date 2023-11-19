@@ -13,7 +13,7 @@
 | Not so hip anymore! | 84.00% | ~105 |
 | Blurry depth perception | 82.00% | ~102 |
 | Nerd | 81.00% | ~101 |
-| Up and down | 77.00% | ~96 |
+| Up and down | 78.00% | ~98 |
 | Rolling, Rolling, Rolling | 75.00% | ~94 |
 | Fire-fighter! | 66.00% | ~82 |
 | Oh, you're up to no gouda! | 63.00% | ~79 |
@@ -45,7 +45,7 @@
 | A Megapint...? | 23.00% | ~29 |
 | You're not so Big anymore, Boi! | 22.00% | ~28 |
 | Your daily dose of Vitamin C. | 22.00% | ~28 |
-| I cant stand still! | 20.00% | ~25 |
+| I cant stand still! | 21.00% | ~26 |
 | Master Butcher | 17.00% | ~21 |
 | Slimy... yet satisfying | 17.00% | ~21 |
 | Just wing it! | 16.00% | ~20 |

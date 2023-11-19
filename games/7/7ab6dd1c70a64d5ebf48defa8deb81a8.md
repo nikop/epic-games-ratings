@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Trinity | 7.00% | ~14 |
 | I Found It | 6.00% | ~12 |
+| Powerful Allies | 4.00% | ~8 |
 | Adventurer | 4.00% | ~8 |
 | Scholar | 4.00% | ~8 |
 | Break Out | 3.00% | ~6 |
 | Find Allies | 3.00% | ~6 |
-| Powerful Allies | 3.00% | ~6 |
 | Calm before the Storm | 3.00% | ~6 |
 | Tributes of Caladrias | 3.00% | ~6 |
 | Geared Up | 3.00% | ~6 |

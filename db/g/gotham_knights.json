@@ -4211,7 +4211,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76634,
+  "EOS_Progressed": 76635,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
@@ -23056,6 +23056,11 @@
       "Time": "2023-11-19T01:54:10.373697+00:00",
       "NumProgressed": 76634,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-19T02:28:43.8308735+00:00",
+      "NumProgressed": 76635,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -23227,7 +23232,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9962
+      "UsersEstimate": 9963
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -23275,7 +23280,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9962
+      "UsersEstimate": 9963
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -23283,7 +23288,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7663
+      "UsersEstimate": 7664
     },
     {
       "ID": "FREEZE_1",
@@ -23307,7 +23312,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14560
+      "UsersEstimate": 14561
     },
     {
       "ID": "FREEZE_3",
@@ -23379,7 +23384,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19158
+      "UsersEstimate": 19159
     },
     {
       "ID": "HARLEY_3",
@@ -23395,7 +23400,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12261
+      "UsersEstimate": 12262
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23411,7 +23416,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39083
+      "UsersEstimate": 39084
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23467,7 +23472,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19158
+      "UsersEstimate": 19159
     },
     {
       "ID": "MYSTERY_03",
@@ -23475,7 +23480,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16859
+      "UsersEstimate": 16860
     },
     {
       "ID": "MYSTERY_04",
@@ -23554,13 +23559,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76634,
+      "Progressed": 76635,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46914,
+      "Progressed": 46915,
       "Completed": 2673
     }
   ],
@@ -23568,8 +23573,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-18T21:59:40.9235575+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:54:10.3736968+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:28:43.8308729+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:50:50.3867362+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:54:10.3738039+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:26:14.9966878+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:28:43.831026+00:00"
 }

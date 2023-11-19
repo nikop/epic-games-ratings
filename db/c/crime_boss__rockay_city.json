@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4695,9 +4695,9 @@
       "Count": 492
     }
   ],
-  "EOS_Progressed": 91299,
+  "EOS_Progressed": 91301,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25765,6 +25765,11 @@
       "Time": "2023-11-19T01:54:35.5546341+00:00",
       "NumProgressed": 91299,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-19T02:29:19.0007657+00:00",
+      "NumProgressed": 91301,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -25872,7 +25877,7 @@
       "Name": "Freebooter",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_0061",
@@ -25912,7 +25917,7 @@
       "Name": "Moneybags",
       "Percentage": 0.5,
       "XP": 55,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_0200",
@@ -26103,13 +26108,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91299,
+      "Progressed": 91301,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19646,
+      "Progressed": 19648,
       "Completed": 15575
     }
   ],
@@ -26117,8 +26122,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-19T01:53:36.5546393+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:54:35.5546338+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:29:19.0007652+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:53:36.5546407+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:54:35.5547523+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:27:51.8223801+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:29:19.0009636+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,229 |
-| Spectre Inductee | 79.00% | ~1,044 |
+| Spectre Inductee | 80.00% | ~1,057 |
 | Medal of Exploration I | 72.00% | ~951 |
 | Recruit | 67.00% | ~885 |
 | Search and Rescue | 67.00% | ~885 |
@@ -19,8 +19,8 @@
 | Medal of Honor | 50.00% | ~660 |
 | Charismatic | 50.00% | ~660 |
 | Soldier | 49.00% | ~647 |
+| Asari Ally | 47.00% | ~621 |
 | Soldier Ally | 46.00% | ~608 |
-| Asari Ally | 46.00% | ~608 |
 | Medal of Exploration III | 45.00% | ~594 |
 | Principled | 45.00% | ~594 |
 | Paramour I | 43.00% | ~568 |

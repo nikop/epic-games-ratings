@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28652,
+  "EOS_Progressed": 28655,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24150,6 +24150,11 @@
       "Time": "2023-11-19T01:59:47.4470229+00:00",
       "NumProgressed": 28652,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-19T02:34:24.5488596+00:00",
+      "NumProgressed": 28655,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 22,
@@ -24265,7 +24270,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "1029",
@@ -24281,7 +24286,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "1031",
@@ -24289,7 +24294,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     },
     {
       "ID": "1032",
@@ -24297,7 +24302,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11461
+      "UsersEstimate": 11462
     },
     {
       "ID": "1033",
@@ -24336,15 +24341,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28652,
+      "Progressed": 28655,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:59:47.4470219+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:34:24.5488595+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:53:55.4877269+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:59:47.4471413+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:28:20.2296415+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:34:24.5489866+00:00"
 }

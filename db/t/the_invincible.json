@@ -540,9 +540,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "AchvInvShip",
@@ -636,9 +636,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchvReachCity",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-19T01:59:13.5486315+00:00",
+  "LastChanged_Achievements": "2023-11-19T02:33:38.0737397+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-19T01:53:29.6287885+00:00",
-  "LastUpdate_Achievements": "2023-11-19T01:59:13.5486546+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:27:40.9213169+00:00",
+  "LastUpdate_Achievements": "2023-11-19T02:33:38.0737668+00:00"
 }

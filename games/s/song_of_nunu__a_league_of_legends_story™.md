@@ -12,12 +12,12 @@
 | He's Famous! | 69.00% | ~511 |
 | Cutie Poro | 68.00% | ~503 |
 | Krugmazing | 67.00% | ~496 |
-| The Fire Below the Mountain | 64.00% | ~474 |
+| The Fire Below the Mountain | 65.00% | ~481 |
 | Moneyball | 61.00% | ~451 |
 | No Bites | 58.00% | ~429 |
 | Iceborn | 58.00% | ~429 |
-| Boom Things | 55.00% | ~407 |
-| Tear of Freedom | 54.00% | ~400 |
+| Boom Things | 56.00% | ~414 |
+| Tear of Freedom | 55.00% | ~407 |
 | My Darkest Day | 51.00% | ~377 |
 | Rhythm Of Willump | 49.00% | ~363 |
 | The Relentless Storm | 48.00% | ~355 |
@@ -27,8 +27,8 @@
 | So Close | 42.00% | ~311 |
 | You Get Used To It | 41.00% | ~303 |
 | True Legends | 41.00% | ~303 |
+| Boosted! | 39.00% | ~289 |
 | Bullseye | 38.00% | ~281 |
-| Boosted! | 38.00% | ~281 |
 | Family | 37.00% | ~274 |
 | Biggest Snowball Ever | 37.00% | ~274 |
 | Freeze The Ice Witch | 37.00% | ~274 |

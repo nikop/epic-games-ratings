@@ -46,7 +46,7 @@ Rating: 4.64 (Ranked 332)
 | Backbreaker | 13.00% | ~244 |
 | Wishbone | 8.00% | ~150 |
 | Trusted Contractor | 7.00% | ~131 |
-| Built To Order | 5.00% | ~94 |
+| Built To Order | 6.00% | ~112 |
 | Merchant | 5.00% | ~94 |
 | Maxed Out | 3.00% | ~56 |
 | Reunion | 3.00% | ~56 |
