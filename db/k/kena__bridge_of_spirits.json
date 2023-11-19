@@ -1445,7 +1445,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429045,
+  "EOS_Progressed": 429046,
   "EOS_Completed": 546,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 2,
@@ -15280,6 +15280,11 @@
       "Time": "2023-11-18T23:04:45.8896359+00:00",
       "NumProgressed": 429045,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2023-11-19T03:04:16.5032788+00:00",
+      "NumProgressed": 429046,
+      "NumCompleted": 546
     }
   ],
   "TotalAchievements": 41,
@@ -15307,7 +15312,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257427
+      "UsersEstimate": 257428
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15323,7 +15328,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107261
+      "UsersEstimate": 107262
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -15371,7 +15376,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257427
+      "UsersEstimate": 257428
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15427,7 +15432,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201651
+      "UsersEstimate": 201652
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -15459,7 +15464,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407593
+      "UsersEstimate": 407594
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15475,7 +15480,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308912
+      "UsersEstimate": 308913
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15507,7 +15512,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343236
+      "UsersEstimate": 343237
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15571,7 +15576,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240265
+      "UsersEstimate": 240266
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15587,7 +15592,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145875
+      "UsersEstimate": 145876
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -15618,15 +15623,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429045,
+      "Progressed": 429046,
       "Completed": 546
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:30:32.3803496+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:04:16.5032783+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:06.8328833+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:26:10.6475316+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:30:32.3804657+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:59:41.531705+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:04:16.5033531+00:00"
 }

@@ -17,7 +17,7 @@ Rating: 4.66 (Ranked 294)
 | A Dozen Pieces | 32.00% | ~1,858 |
 | Challenge Yourself | 32.00% | ~1,858 |
 | Making History | 31.00% | ~1,800 |
-| Network Success | 26.00% | ~1,509 |
+| Network Success | 27.00% | ~1,567 |
 | Writing a new Chapter | 25.00% | ~1,451 |
 | Spring Cleaning | 23.00% | ~1,335 |
 | Reduce | 20.00% | ~1,161 |

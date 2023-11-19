@@ -7771,9 +7771,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 358460,
+  "EOS_Progressed": 358461,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 2680,
+  "EOS_NewPlayers": 2677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31681,6 +31681,11 @@
       "Time": "2023-11-19T02:35:01.0743968+00:00",
       "NumProgressed": 358460,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-19T03:08:56.8471276+00:00",
+      "NumProgressed": 358461,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -31708,7 +31713,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 132630
+      "UsersEstimate": 132631
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -31788,7 +31793,7 @@
       "Name": "Team Performance",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 103953
+      "UsersEstimate": 103954
     },
     {
       "ID": "achievement_beat_a_rival",
@@ -31796,7 +31801,7 @@
       "Name": "\u0022I Would Love It If We Beat Them\u0022",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 150553
+      "UsersEstimate": 150554
     },
     {
       "ID": "achievement_beating_expectations",
@@ -31804,7 +31809,7 @@
       "Name": "Beating Expectations",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86030
+      "UsersEstimate": 86031
     },
     {
       "ID": "achievement_big_win",
@@ -31828,7 +31833,7 @@
       "Name": "Splashing the Cash",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 68107
+      "UsersEstimate": 68108
     },
     {
       "ID": "achievement_clean_sheet",
@@ -31836,7 +31841,7 @@
       "Name": "Clean Sheet",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 193568
+      "UsersEstimate": 193569
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -32036,7 +32041,7 @@
       "Name": "Immovable Object",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 68107
+      "UsersEstimate": 68108
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -32068,7 +32073,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86030
+      "UsersEstimate": 86031
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -32156,7 +32161,7 @@
       "Name": "Record Sale",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 86030
+      "UsersEstimate": 86031
     },
     {
       "ID": "achievement_record_signing",
@@ -32180,7 +32185,7 @@
       "Name": "Scoring Streak",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 139799
+      "UsersEstimate": 139800
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -32260,7 +32265,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 240168
+      "UsersEstimate": 240169
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -32276,7 +32281,7 @@
       "Name": "Goal Machine",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 68107
+      "UsersEstimate": 68108
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -32332,7 +32337,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 139799
+      "UsersEstimate": 139800
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -32364,7 +32369,7 @@
       "Name": "Window Shopping",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 50184
+      "UsersEstimate": 50185
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -32380,7 +32385,7 @@
       "Name": "First Victory",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 193568
+      "UsersEstimate": 193569
     },
     {
       "ID": "achievement_won_international_championship",
@@ -32404,7 +32409,7 @@
       "Name": "Cup Glory!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 68107
+      "UsersEstimate": 68108
     },
     {
       "ID": "achievement_won_world_cup",
@@ -32491,7 +32496,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 358460,
+      "Progressed": 358461,
       "Completed": 26
     }
   ],
@@ -32499,8 +32504,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-19T02:28:07.69406+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:35:01.0743964+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:08:56.8471272+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.5620034+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:28:07.6940606+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:35:01.0745665+00:00"
+  "LastUpdate_Ratings": "2023-11-19T03:02:37.3842134+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:08:56.8472948+00:00"
 }

@@ -365,9 +365,9 @@
       "ID": "TINGWD_CARMACK",
       "SetID": "c0imaa6",
       "Name": "Carmack junior",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TINGWD_CHAP_END_01",
@@ -405,9 +405,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -493,9 +493,9 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -517,9 +517,9 @@
       "ID": "TINGWD_RADAR",
       "SetID": "c0imaa6",
       "Name": "Better than Mr. Radar",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TINGWD_RAIDERS",
@@ -588,8 +588,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:29:48.9400699+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:03:46.5339278+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:25:06.7757764+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:29:48.9401043+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:59:00.2460985+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:03:46.5339505+00:00"
 }

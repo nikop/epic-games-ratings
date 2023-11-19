@@ -547,9 +547,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -563,9 +563,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -922,8 +922,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:28:59.1617974+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:03:12.5604051+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:27:36.2134257+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:28:59.161862+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:59:57.8119242+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:03:12.5604791+00:00"
 }

@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8038,
+  "EOS_Progressed": 8039,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6706,6 +6706,11 @@
       "Time": "2023-11-19T02:00:14.5316126+00:00",
       "NumProgressed": 8038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T03:08:57.200586+00:00",
+      "NumProgressed": 8039,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6766,7 +6771,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "CreditsSpent50000",
@@ -6934,7 +6939,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "HSUPurchased1",
@@ -6982,7 +6987,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "InhibitorKills3",
@@ -7086,7 +7091,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "MaxTowersKilled6",
@@ -7150,7 +7155,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "PlayerKills100",
@@ -7309,7 +7314,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8038,
+      "Progressed": 8039,
       "Completed": 1
     }
   ],
@@ -7317,8 +7322,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:35:01.5327442+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:08:57.2005857+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:26:04.3942838+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:35:01.532836+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:59:37.4369469+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:08:57.2006636+00:00"
 }

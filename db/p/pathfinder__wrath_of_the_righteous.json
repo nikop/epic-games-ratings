@@ -4271,9 +4271,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12116,
+  "EOS_Progressed": 12117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15706,6 +15706,11 @@
       "Time": "2023-11-18T23:08:50.8782642+00:00",
       "NumProgressed": 12116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T03:08:04.1518869+00:00",
+      "NumProgressed": 12117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15805,7 +15810,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "13_PathOfLich",
@@ -15853,7 +15858,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "19_EqualToAroden",
@@ -15941,7 +15946,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "31_DivideAndRule",
@@ -15965,7 +15970,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15989,7 +15994,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -16644,21 +16649,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10898,
+      "Progressed": 10899,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12116,
+      "Progressed": 12117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-18T21:58:28.3784298+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:33:46.8680557+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:08:04.1518866+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:24:23.1460493+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:33:46.8682189+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:58:31.1992492+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:08:04.1520499+00:00"
 }

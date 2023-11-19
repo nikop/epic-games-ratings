@@ -9,7 +9,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 4.00% | ~35,891 |
 | Gun Fu | 2.00% | ~17,946 |
 | Relic Ruler | 1.00% | ~259 |
-| Full Body Conversion | 0.90% | ~8,075 |
+| Full Body Conversion | 0.90% | ~8,076 |
 | True Soldier | 0.80% | ~7,178 |
 | Right Back At Ya | 0.70% | ~6,281 |
 | Stanislavski's Method | 0.70% | ~6,281 |
@@ -18,15 +18,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.60% | ~5,384 |
 | The Hermit | 0.60% | ~5,384 |
 | The Lovers | 0.60% | ~5,384 |
+| The Wheel of Fortune | 0.60% | ~5,384 |
 | Bushido and Chill | 0.50% | ~4,486 |
 | Christmas Tree Attack | 0.50% | ~4,486 |
 | Life of the Road | 0.50% | ~4,486 |
 | The High Priestess | 0.50% | ~4,486 |
-| The Wheel of Fortune | 0.50% | ~4,486 |
 | The World | 0.50% | ~4,486 |
 | True Warrior | 0.50% | ~4,486 |
 | Legend of The Afterlife | 0.50% | ~4,486 |
-| Spin Doctor | 0.50% | ~129 |
+| Spin Doctor | 0.50% | ~130 |
 | To Protect and Serve | 0.40% | ~3,589 |
 | Master Crafter | 0.40% | ~3,589 |
 | I Am The Law | 0.40% | ~3,589 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,276 (Ranked 15)  
+Progressed: 897,278 (Ranked 15)  
 Completed: 2,787 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 2,787 (0.31%) (Ranked 233)
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
-| 2023-11-19 | 897,276 | 2,787 |
+| 2023-11-19 | 897,278 | 2,787 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
 Sum: 356,403 (Ranked 10)  

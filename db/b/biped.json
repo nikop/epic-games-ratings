@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6985,
+  "EOS_Progressed": 6986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12754,6 +12754,11 @@
       "Time": "2023-11-19T02:30:21.0862992+00:00",
       "NumProgressed": 6985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T03:04:08.8194142+00:00",
+      "NumProgressed": 6986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12884,7 +12889,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6985,
+      "Progressed": 6986,
       "Completed": 0
     }
   ],
@@ -12892,8 +12897,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:30:21.0862989+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:04:08.8194135+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:26.1738037+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:23:01.4518903+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:30:21.0863802+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:57:38.4352521+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:04:08.819479+00:00"
 }

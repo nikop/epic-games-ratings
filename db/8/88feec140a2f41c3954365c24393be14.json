@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -179,10 +179,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101470,
-  "EOS_Completed": 4578,
-  "EOS_NewPlayers": 715,
-  "EOS_NewCompleters": 81,
+  "EOS_Progressed": 101471,
+  "EOS_Completed": 4580,
+  "EOS_NewPlayers": 711,
+  "EOS_NewCompleters": 83,
   "EOS_Completed_Percentage": 4.51,
   "EosHistory": [
     {
@@ -7804,6 +7804,11 @@
       "Time": "2023-11-19T02:32:05.9975538+00:00",
       "NumProgressed": 101470,
       "NumCompleted": 4578
+    },
+    {
+      "Time": "2023-11-19T03:05:22.971782+00:00",
+      "NumProgressed": 101471,
+      "NumCompleted": 4580
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -7816,7 +7821,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 63926
+      "UsersEstimate": 63927
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -7824,7 +7829,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 15220
+      "UsersEstimate": 15221
     },
     {
       "ID": "GoldPact",
@@ -7864,7 +7869,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 76102
+      "UsersEstimate": 76103
     },
     {
       "ID": "TheGoldenRatio",
@@ -7880,7 +7885,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 59867
+      "UsersEstimate": 59868
     },
     {
       "ID": "WeCanDoBetter",
@@ -7888,7 +7893,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 78132
+      "UsersEstimate": 78133
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -7911,16 +7916,16 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 101470,
-      "Completed": 4578
+      "Progressed": 101471,
+      "Completed": 4580
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-17T20:58:16.4880709+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:32:05.9975533+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:05:22.9717816+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:02.959945+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:24:29.5687663+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:32:05.9976074+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:58:35.2605771+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:05:22.9718196+00:00"
 }

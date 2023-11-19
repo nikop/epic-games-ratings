@@ -4211,9 +4211,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76635,
+  "EOS_Progressed": 76637,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23061,6 +23061,11 @@
       "Time": "2023-11-19T02:28:43.8308735+00:00",
       "NumProgressed": 76635,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-19T03:03:01.7539485+00:00",
+      "NumProgressed": 76637,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -23120,7 +23125,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17626
+      "UsersEstimate": 17627
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -23128,7 +23133,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -23160,7 +23165,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11495
+      "UsersEstimate": 11496
     },
     {
       "ID": "CHALLENGES_1",
@@ -23176,7 +23181,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16093
+      "UsersEstimate": 16094
     },
     {
       "ID": "CLAYFACE_2",
@@ -23184,7 +23189,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13794
+      "UsersEstimate": 13795
     },
     {
       "ID": "CLAYFACE_3",
@@ -23216,7 +23221,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -23304,7 +23309,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16093
+      "UsersEstimate": 16094
     },
     {
       "ID": "FREEZE_2",
@@ -23336,7 +23341,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -23376,7 +23381,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26822
+      "UsersEstimate": 26823
     },
     {
       "ID": "HARLEY_2",
@@ -23416,7 +23421,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39084
+      "UsersEstimate": 39085
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23448,7 +23453,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20691
+      "UsersEstimate": 20692
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23464,7 +23469,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26056
+      "UsersEstimate": 26057
     },
     {
       "ID": "MYSTERY_02",
@@ -23496,7 +23501,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13794
+      "UsersEstimate": 13795
     },
     {
       "ID": "MYSTERY_06",
@@ -23504,7 +23509,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11495
+      "UsersEstimate": 11496
     },
     {
       "ID": "MYSTERY_07",
@@ -23544,7 +23549,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -23559,13 +23564,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76635,
+      "Progressed": 76637,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46915,
+      "Progressed": 46917,
       "Completed": 2673
     }
   ],
@@ -23573,8 +23578,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-18T21:59:40.9235575+00:00",
-  "LastChanged_Achievements": "2023-11-19T02:28:43.8308729+00:00",
+  "LastChanged_Achievements": "2023-11-19T03:03:01.753948+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-19T02:26:14.9966878+00:00",
-  "LastUpdate_Achievements": "2023-11-19T02:28:43.831026+00:00"
+  "LastUpdate_Ratings": "2023-11-19T02:59:44.8304446+00:00",
+  "LastUpdate_Achievements": "2023-11-19T03:03:01.7540649+00:00"
 }

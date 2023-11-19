@@ -16,7 +16,7 @@
 | Master of Magic | 62.00% | ~191 |
 | Heroes’ Gorge | 57.00% | ~176 |
 | Magic Accidents | 56.00% | ~172 |
-| Unicorn steaks – fresh off the hoof! | 55.00% | ~169 |
+| Unicorn steaks – fresh off the hoof! | 56.00% | ~172 |
 | Minions, Minions! | 54.00% | ~166 |
 | Trap Master | 52.00% | ~160 |
 | The Ascent | 45.00% | ~139 |
@@ -30,7 +30,7 @@
 | Dungeonlord Gorgu | 30.00% | ~92 |
 | Shame! Shame! Shame! | 28.00% | ~86 |
 | The Cathedral of Light | 27.00% | ~83 |
-| Tanos' Crusade Against Thalya | 23.00% | ~71 |
+| Tanos' Crusade Against Thalya | 24.00% | ~74 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~65 |
 | Hungry, Hungry Gorgu! | 19.00% | ~59 |
 | Unstoppable Horde | 19.00% | ~59 |
@@ -61,9 +61,9 @@
 | To the Max! | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
 | Evilification | 4.00% | ~12 |
+| Hands Off My Stones | 3.00% | ~9 |
 | No Mana, No Cry | 2.00% | ~6 |
 | Heal Heal Blessing | 2.00% | ~6 |
-| Hands Off My Stones | 2.00% | ~6 |
 | I Don't Need Any Help | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 308 (Ranked 340)  
