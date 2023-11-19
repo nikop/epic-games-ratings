@@ -5,7 +5,7 @@
   "Ranking_Rating": 587,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 178,
-  "Ranking_EOS_Progress": 123,
+  "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 85,
@@ -3435,9 +3435,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31213,
+  "EOS_Progressed": 31215,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19755,6 +19755,11 @@
       "Time": "2023-11-19T07:03:55.716607+00:00",
       "NumProgressed": 31213,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-19T10:03:10.6090488+00:00",
+      "NumProgressed": 31215,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20118,7 +20123,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "There_You_Are",
@@ -20173,7 +20178,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31213,
+      "Progressed": 31215,
       "Completed": 68
     }
   ],
@@ -20181,8 +20186,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-19T07:03:14.832342+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:03:31.0097277+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:03:10.6090484+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:02:48.4891948+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:03:31.0098151+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:02:29.8144324+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:03:10.6091383+00:00"
 }

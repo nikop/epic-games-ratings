@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3883,
+  "EOS_Progressed": 3884,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7990,6 +7990,11 @@
       "Time": "2023-11-19T08:06:47.7399194+00:00",
       "NumProgressed": 3883,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-19T10:05:38.5775946+00:00",
+      "NumProgressed": 3884,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8081,7 +8086,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8129,7 +8134,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8185,7 +8190,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -8217,7 +8222,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8225,7 +8230,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8273,7 +8278,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -8281,7 +8286,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -8289,7 +8294,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -8313,7 +8318,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8377,7 +8382,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8393,7 +8398,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8401,7 +8406,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -8568,13 +8573,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3834,
+      "Progressed": 3835,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3883,
+      "Progressed": 3884,
       "Completed": 11
     }
   ],
@@ -8582,8 +8587,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:06:11.0716977+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:05:38.5775942+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:00:21.2603056+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:06:11.0717792+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:00:17.8533049+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:05:38.5776694+00:00"
 }

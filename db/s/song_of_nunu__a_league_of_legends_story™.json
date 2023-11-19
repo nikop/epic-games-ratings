@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 437
     },
     {
       "ID": "EV_ACH05",
@@ -1487,9 +1487,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 348
     },
     {
       "ID": "EV_ACH07",
@@ -1567,17 +1567,17 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 503
     },
     {
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 437
     },
     {
       "ID": "EV_ACH18",
@@ -1806,8 +1806,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:09:11.7407389+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:09:08.5235215+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:58:56.0875039+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:09:11.7407756+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:59:00.0449694+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:09:08.5235493+00:00"
 }

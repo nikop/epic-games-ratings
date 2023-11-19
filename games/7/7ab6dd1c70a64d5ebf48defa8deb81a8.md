@@ -17,19 +17,19 @@
 | The Collector | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
+| A Taste of Wrath | 2.00% | ~4 |
 | Essence Blow | 2.00% | ~4 |
 | Shatter Them All | 2.00% | ~4 |
 | Big Bazar | 2.00% | ~4 |
 | Fine Feathers Make Fine Birds | 2.00% | ~4 |
 | Fashion Victim | 2.00% | ~4 |
 | Stone Collection | 2.00% | ~4 |
-| A Taste of Wrath | 1.00% | ~2 |
+| The Mentor | 1.00% | ~2 |
 | Airborne | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
-| The Mentor | 0.50% | ~1 |
 | Shatterer | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
 | Alchemist | 0.50% | ~1 |
@@ -37,9 +37,9 @@
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | Forgemaster | -0.50% | ~-1 |
+| Miner | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
-| Miner | -1.00% | ~-2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 194 (Ranked 383)  
 Completed: 1 (0.52%) (Ranked 198)  

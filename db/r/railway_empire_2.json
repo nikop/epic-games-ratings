@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -283,7 +283,7 @@
   "Tags": [],
   "EOS_Progressed": 2175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6082,9 +6082,9 @@
       "ID": "A24",
       "SetID": "9b7p7eo",
       "Name": "Access granted",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 783
     },
     {
       "ID": "A25",
@@ -6138,9 +6138,9 @@
       "ID": "A31",
       "SetID": "9b7p7eo",
       "Name": "Hostile Takeover",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 566
     },
     {
       "ID": "A32",
@@ -6339,8 +6339,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:05:13.1609717+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:04:44.4289139+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:31.8115403+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:59:35.859243+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:05:13.1610267+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:59:36.018044+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:04:44.4289671+00:00"
 }

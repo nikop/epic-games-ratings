@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 2.00% | ~4,043 |
+| The Beginning is the End | 2.00% | ~4,044 |
 | The End is the Beginning | 0.90% | ~1,820 |
 | A Brief Tour of the Realms | 0.80% | ~1,887 |
 | Tomb of Champions | 0.60% | ~1,213 |
@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.30% | ~708 |
 | A Lesson in Classes | 0.20% | ~404 |
 | The Ring of Regeneration | 0.20% | ~472 |
+| Are Ya Chicken? | 0.20% | ~472 |
 | The Mad Wizard | 0.20% | ~472 |
 | Reya Reborn | 0.20% | ~404 |
 | Maddening | 0.10% | ~236 |
@@ -245,7 +246,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~202 |
 | Nimble Escape | 0.10% | ~236 |
 | Nimblest Escape | 0.10% | ~236 |
-| Are Ya Chicken? | 0.10% | ~236 |
 | Useless Allies | 0.10% | ~236 |
 | Stumbling Escape | 0.10% | ~236 |
 | Distracted Escape | 0.10% | ~202 |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~202 |
 | Time Out | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,898 (Ranked 64)  
-Completed: 2,458 (1.04%) (Ranked 161)  
+Progressed: 235,906 (Ranked 64)  
+Completed: 2,459 (1.04%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -752,7 +752,7 @@ Completed: 2,458 (1.04%) (Ranked 161)
 | 2023-11-16 | 235,368 | 2,455 |
 | 2023-11-17 | 235,587 | 2,456 |
 | 2023-11-18 | 235,810 | 2,458 |
-| 2023-11-19 | 235,898 | 2,458 |
+| 2023-11-19 | 235,906 | 2,459 |
 ## Awards
 Max (Great for Beginners): 5,542  (Ranked 68)  
 Sum: 32,527 (Ranked 41)  

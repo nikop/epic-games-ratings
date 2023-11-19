@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 50.00% | ~15 |
+| Black Hog Down | 53.00% | ~16 |
+| Remembering of the past | 33.00% | ~10 |
 | Ouch, that hurt! | 30.00% | ~9 |
-| Remembering of the past | 30.00% | ~9 |
 | Fight like an idiot | 27.00% | ~8 |
 | Slam-KABAM | 23.00% | ~7 |
 | Repair the Mind Validation Machine | 23.00% | ~7 |

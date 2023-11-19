@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1046,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 3.74,
+  "EOS_Completed_Percentage": 3.73,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2189,6 +2189,11 @@
       "Time": "2023-11-19T09:08:41.430103+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-19T10:08:41.148462+00:00",
+      "NumProgressed": 1046,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2201,7 +2206,7 @@
       "Name": "Time traveller",
       "Percentage": 19,
       "XP": 140,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_CUBES",
@@ -2209,7 +2214,7 @@
       "Name": "Brain-teaser",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_DONUTS",
@@ -2217,7 +2222,7 @@
       "Name": "Sweet tooth",
       "Percentage": 68,
       "XP": 45,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2225,7 +2230,7 @@
       "Name": "An apple a day",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2241,7 +2246,7 @@
       "Name": "Evil plan",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2249,7 +2254,7 @@
       "Name": "Good listener",
       "Percentage": 58,
       "XP": 85,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2257,7 +2262,7 @@
       "Name": "Food lover",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2273,21 +2278,21 @@
       "Name": "Exit",
       "Percentage": 53,
       "XP": 65,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1046,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:08:41.4301028+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:08:41.1484617+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:57:40.9439636+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:08:41.4301213+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:57:52.4201415+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:08:41.1484828+00:00"
 }

@@ -1,22 +1,22 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 430)  
+Rating: 4.59 (Ranked 431)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taste | 5.00% | ~7,953 |
 | Imprint | 5.00% | ~7,953 |
-| The Hunt | 4.00% | ~6,362 |
-| Ravenous | 4.00% | ~6,362 |
+| The Hunt | 4.00% | ~6,363 |
+| Ravenous | 4.00% | ~6,363 |
 | Weeper | 3.00% | ~4,772 |
 | Harmless | 2.00% | ~3,181 |
 | Silenced Whispers | 2.00% | ~3,181 |
 | Devourer | 2.00% | ~3,181 |
 | Shapely | 1.00% | ~1,591 |
-| Scion | 1.00% | ~1,586 |
-| Glare | 1.00% | ~1,586 |
+| Scion | 1.00% | ~1,587 |
+| Glare | 1.00% | ~1,587 |
 | Jawcrab | 1.00% | ~1,591 |
 | Jawstag | 1.00% | ~1,591 |
 | Feast | 1.00% | ~1,591 |
@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,591 |
 | Sharpened Vessel | 1.00% | ~1,591 |
 | Predator | 0.90% | ~1,432 |
-| Assimilation | 0.80% | ~1,272 |
+| Assimilation | 0.80% | ~1,273 |
 | Host | 0.80% | ~1,269 |
-| Celebration | 0.80% | ~1,272 |
+| Celebration | 0.80% | ~1,273 |
 | Hunt Down | 0.70% | ~1,113 |
 | All-Seeing | 0.70% | ~1,113 |
 | Artisan | 0.60% | ~954 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,060 (Ranked 78)  
+Progressed: 159,069 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 158,567 | 1 |
 | 2023-11-17 | 158,769 | 1 |
 | 2023-11-18 | 158,977 | 1 |
-| 2023-11-19 | 159,060 | 1 |
+| 2023-11-19 | 159,069 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 424)  
 Sum: 370 (Ranked 348)  

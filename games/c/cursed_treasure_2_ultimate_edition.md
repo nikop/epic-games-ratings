@@ -48,7 +48,7 @@
 | Brilliant: Wasteland | 34.00% | ~60 |
 | Father of Nation | 34.00% | ~60 |
 | Dwarven Countdown | 30.00% | ~53 |
-| Starry: Wasteland | 29.00% | ~51 |
+| Starry: Wasteland | 30.00% | ~53 |
 | Deadman's Chest | 28.00% | ~49 |
 | Monument Keeper | 28.00% | ~49 |
 | Brilliant: Free Coast | 27.00% | ~48 |

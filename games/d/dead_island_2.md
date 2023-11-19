@@ -8,12 +8,12 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~924 |
 | Whatever It Takes | 2.00% | ~924 |
 | Pork Chopped | 2.00% | ~924 |
-| Break A Leg | 1.00% | ~7,206 |
-| Coup de Grâce | 1.00% | ~7,206 |
-| Hazardous Materials | 1.00% | ~7,206 |
-| Hotel California | 1.00% | ~7,206 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,206 |
-| Welcome To Hell-A | 1.00% | ~7,206 |
+| Break A Leg | 1.00% | ~7,207 |
+| Coup de Grâce | 1.00% | ~7,207 |
+| Hazardous Materials | 1.00% | ~7,207 |
+| Hotel California | 1.00% | ~7,207 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,207 |
+| Welcome To Hell-A | 1.00% | ~7,207 |
 | Dr. Reed, I Presume? | 0.90% | ~6,486 |
 | Git Gutte! | 0.90% | ~6,486 |
 | Bookworm | 0.90% | ~6,486 |
@@ -24,19 +24,19 @@ Rating: 4.54 (Ranked 523)
 | But Doctor, I am Butcho | 0.80% | ~5,765 |
 | Can't Handle the Truth | 0.80% | ~5,765 |
 | This is My Weapon | 0.80% | ~5,765 |
-| Perks of the Job | 0.70% | ~5,044 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,044 |
-| Slayer Squad | 0.70% | ~5,044 |
-| Like Riding a Bike | 0.70% | ~5,044 |
-| Zombologist | 0.70% | ~5,044 |
-| Ooh, Shiny! | 0.70% | ~5,044 |
-| A Patton Emerges | 0.70% | ~5,044 |
-| Our True Nature | 0.70% | ~5,044 |
+| Perks of the Job | 0.70% | ~5,045 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,045 |
+| Slayer Squad | 0.70% | ~5,045 |
+| Like Riding a Bike | 0.70% | ~5,045 |
+| Zombologist | 0.70% | ~5,045 |
+| Ooh, Shiny! | 0.70% | ~5,045 |
+| A Patton Emerges | 0.70% | ~5,045 |
+| Our True Nature | 0.70% | ~5,045 |
 | Making Your Mark | 0.60% | ~4,324 |
+| Humanity Distilled | 0.60% | ~4,324 |
 | I Am the Resurrection | 0.60% | ~4,324 |
 | Max Headroom | 0.60% | ~4,324 |
 | Not Even My Final Form | 0.50% | ~3,603 |
-| Humanity Distilled | 0.50% | ~3,603 |
 | Down with the Sickness | 0.50% | ~3,603 |
 | On Safari | 0.40% | ~2,883 |
 | Internet Famous | 0.40% | ~2,883 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,642 (Ranked 20)  
+Progressed: 720,665 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,412 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,642 | 2,412 |
+| 2023-11-19 | 720,665 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
 Sum: 11,535 (Ranked 84)  

@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 194,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -820,17 +820,17 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10",
@@ -1012,9 +1012,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": -1,
+      "Percentage": -0.5,
       "XP": 40,
-      "UsersEstimate": -2
+      "UsersEstimate": -1
     },
     {
       "ID": "ACH_34",
@@ -1059,8 +1059,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:09:13.3060633+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:09:10.1652267+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:58:48.123193+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:09:13.3060877+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:58:52.9364632+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:09:10.1652532+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "f11d27ea453b4ea4a6494ffbe0361482",
   "Name": "Sonic Superstars",
   "ProductSlug": "sonic-superstars",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-17T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-11-06T09:58:53.8502357+00:00",
@@ -43,6 +43,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-19T09:57:31.7130023+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -61,8 +67,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-17T06:58:33.7733859+00:00",
   "FirstSeenRating": "2023-11-06T09:58:53.8502354+00:00",
-  "LastChanged": "2023-11-16T09:59:13.4603272+00:00",
+  "LastChanged": "2023-11-19T09:57:31.7130021+00:00",
   "LastUpdate_AppInfo": "2023-11-15T04:57:06.1237258+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:57:17.7196834+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:04:03.0742457+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:57:31.7130029+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:03:39.0700086+00:00"
 }

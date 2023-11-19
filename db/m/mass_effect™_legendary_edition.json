@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4544,9 +4544,9 @@
       "ID": "achievement_86",
       "SetID": "d252ncf",
       "Name": "Hard Target",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_87",
@@ -4676,8 +4676,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:06:23.8923839+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:05:50.6548637+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:02:53.9363281+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:06:23.8925312+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:02:34.8167323+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:05:50.6550095+00:00"
 }

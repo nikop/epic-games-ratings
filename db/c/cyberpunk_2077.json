@@ -15300,10 +15300,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 356717,
       "NumberOfAwardsMax": 106055
+    },
+    {
+      "Time": "2023-11-19T09:59:01.2108356+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 356840,
+      "NumberOfAwardsMax": 106055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 356717,
+  "NumberOfAwards": 356840,
   "NumberOfAwardsMax": 106055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15347,7 +15353,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20209
+      "Count": 20284
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15377,12 +15383,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 13147
+      "Count": 13195
     }
   ],
-  "EOS_Progressed": 897313,
+  "EOS_Progressed": 897324,
   "EOS_Completed": 2787,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39510,6 +39516,11 @@
       "Time": "2023-11-19T09:03:49.5252823+00:00",
       "NumProgressed": 897313,
       "NumCompleted": 2787
+    },
+    {
+      "Time": "2023-11-19T10:03:26.9194125+00:00",
+      "NumProgressed": 897324,
+      "NumCompleted": 2787
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -40057,21 +40068,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897313,
+      "Progressed": 897324,
       "Completed": 2787
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25936,
+      "Progressed": 25947,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-19T08:58:57.4338732+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:03:49.5252821+00:00",
+  "LastChanged": "2023-11-19T09:59:01.2108351+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:03:26.9194122+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:58:57.4338739+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:03:49.5254107+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:59:01.210836+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:03:26.9195306+00:00"
 }

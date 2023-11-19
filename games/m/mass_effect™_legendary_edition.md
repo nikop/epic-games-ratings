@@ -88,13 +88,13 @@
 | Lost and Found | 22.00% | ~292 |
 | Paramour II | 21.00% | ~278 |
 | Party Crasher | 21.00% | ~278 |
+| Hard Target | 20.00% | ~265 |
 | Fact Finder | 20.00% | ~265 |
 | Problem Solver | 20.00% | ~265 |
 | Pyromaniac | 19.00% | ~252 |
 | Under Pressure | 19.00% | ~252 |
 | Last Resort | 19.00% | ~252 |
 | No One Left Behind | 19.00% | ~252 |
-| Hard Target | 19.00% | ~252 |
 | Saboteur | 19.00% | ~252 |
 | Last Witness | 19.00% | ~252 |
 | Well Connected | 18.00% | ~238 |

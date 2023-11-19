@@ -10,9 +10,9 @@
 | Apprentice Baker | 34.00% | ~55 |
 | Perfect Server | 15.00% | ~24 |
 | Adept Baker | 13.00% | ~21 |
+| Verdant Greenhouse | 11.00% | ~18 |
 | Bustling Store | 11.00% | ~18 |
 | Expert Baker | 10.00% | ~16 |
-| Verdant Greenhouse | 10.00% | ~16 |
 | Luxury Kitchen | 10.00% | ~16 |
 | Gotta Go Fast | 9.00% | ~15 |
 | Swing The Broom | 9.00% | ~15 |

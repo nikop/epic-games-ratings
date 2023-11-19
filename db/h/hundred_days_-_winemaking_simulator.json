@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 156,
@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12880,
+  "EOS_Progressed": 12887,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10617,6 +10617,11 @@
       "Time": "2023-11-19T09:08:31.8468757+00:00",
       "NumProgressed": 12880,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-19T10:08:31.9749685+00:00",
+      "NumProgressed": 12887,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10629,7 +10634,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "a_10",
@@ -10661,7 +10666,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "a_16",
@@ -10677,7 +10682,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5284
     },
     {
       "ID": "a_19",
@@ -10749,7 +10754,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "a_28",
@@ -10765,7 +10770,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "a_30",
@@ -10861,7 +10866,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "a_9",
@@ -10876,7 +10881,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12880,
+      "Progressed": 12887,
       "Completed": 10
     }
   ],
@@ -10884,8 +10889,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:08:31.8468755+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:08:31.9749681+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:02:42.9785973+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:08:31.8469338+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:00:35.357243+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:08:31.9750266+00:00"
 }

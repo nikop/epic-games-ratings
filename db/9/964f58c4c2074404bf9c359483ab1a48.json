@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 10,
@@ -1965,9 +1965,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 1288816,
+  "EOS_Progressed": 1288818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1548,
+  "EOS_NewPlayers": 1545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21925,6 +21925,11 @@
       "Time": "2023-11-19T09:06:17.5023588+00:00",
       "NumProgressed": 1288816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T10:05:44.6138533+00:00",
+      "NumProgressed": 1288818,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -22232,7 +22237,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 760401
+      "UsersEstimate": 760403
     },
     {
       "ID": "hunter_win",
@@ -22240,7 +22245,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 695961
+      "UsersEstimate": 695962
     },
     {
       "ID": "master_of_loadouts",
@@ -22271,7 +22276,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1288816,
+      "Progressed": 1288818,
       "Completed": 0
     }
   ],
@@ -22279,8 +22284,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-18T07:59:54.6506733+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:06:17.5023586+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:05:44.6138531+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:23.6547045+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:57:08.2959805+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:06:17.5024815+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:57:23.3613366+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:05:44.6139539+00:00"
 }

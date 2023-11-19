@@ -2,12 +2,12 @@
   "ID": "7b57136ac766477eb1e687dcd0310da5",
   "Name": "War Mongrels",
   "ProductSlug": "war-mongrels",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2098,6 +2098,11 @@
       "Time": "2023-11-19T01:59:49.929134+00:00",
       "NumProgressed": 625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T10:08:49.956014+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2213,7 +2218,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_COLL_20",
@@ -2221,7 +2226,7 @@
       "Name": "Prospector",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2269,7 +2274,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -2277,7 +2282,7 @@
       "Name": "Collectibles of Chapter VI",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COLL_CH07",
@@ -2333,7 +2338,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2355,9 +2360,9 @@
       "ID": "ACH_FIN_CH04",
       "SetID": "1j25agn",
       "Name": "Heroism",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2381,7 +2386,7 @@
       "Name": "The Horror",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2421,7 +2426,7 @@
       "Name": "Atonement",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_HARD_1",
@@ -2475,9 +2480,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2485,7 +2490,7 @@
       "Name": "Hold a Door",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_KILL_ENEMY",
@@ -2525,7 +2530,7 @@
       "Name": "Food Massacre",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2557,7 +2562,7 @@
       "Name": "Daddy Would Be Proud",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_NODETECT",
@@ -2565,7 +2570,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_NOMOON",
@@ -2580,15 +2585,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-18T22:59:33.9450808+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:08:51.0020208+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:08:49.9560137+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.3118815+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:59:34.3775898+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:08:51.0020617+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:59:34.6876829+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:08:49.956055+00:00"
 }

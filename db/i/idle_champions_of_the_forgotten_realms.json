@@ -8161,10 +8161,10 @@
       "Count": 3524
     }
   ],
-  "EOS_Progressed": 235898,
-  "EOS_Completed": 2458,
-  "EOS_NewPlayers": 1238,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 235906,
+  "EOS_Completed": 2459,
+  "EOS_NewPlayers": 1237,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32016,6 +32016,11 @@
       "Time": "2023-11-19T09:09:18.7932596+00:00",
       "NumProgressed": 235898,
       "NumCompleted": 2458
+    },
+    {
+      "Time": "2023-11-19T10:09:15.5760652+00:00",
+      "NumProgressed": 235906,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 532,
@@ -33889,9 +33894,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 472
     },
     {
       "ID": "objective_completed_40",
@@ -36251,7 +36256,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "objective_completed_1548",
@@ -36282,21 +36287,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202172,
+      "Progressed": 202180,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235898,
-      "Completed": 2458
+      "Progressed": 235906,
+      "Completed": 2459
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-19T04:59:35.2751681+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:09:18.7932595+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:09:15.5760647+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:59:28.6199682+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:09:18.7954072+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:59:29.6315017+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:09:15.5782201+00:00"
 }

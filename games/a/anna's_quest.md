@@ -22,11 +22,11 @@
 | A very special drink | 28.00% | ~22 |
 | NOW GO AWAY! | 28.00% | ~22 |
 | Shattered | 27.00% | ~21 |
-| GG | 26.00% | ~20 |
+| GG | 27.00% | ~21 |
+| You've got mail! | 26.00% | ~20 |
 | No posters allowed | 26.00% | ~20 |
 | Little genius | 26.00% | ~20 |
 | Show me your true self | 24.00% | ~19 |
-| You've got mail! | 24.00% | ~19 |
 | Memories | 24.00% | ~19 |
 | Beekeeper | 24.00% | ~19 |
 | Pain in the hands | 24.00% | ~19 |

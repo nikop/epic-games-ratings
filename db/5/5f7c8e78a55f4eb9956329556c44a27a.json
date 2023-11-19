@@ -2,7 +2,7 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 125,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2023-11-19T08:04:29.7441208+00:00",
       "NumProgressed": 83,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T10:03:53.3735834+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -326,15 +331,15 @@
       "Name": "Administrator",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -380,17 +385,17 @@
       "ID": "TINGWD_CARMACK",
       "SetID": "c0imaa6",
       "Name": "Carmack junior",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -404,9 +409,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -420,9 +425,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -436,17 +441,17 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -454,15 +459,15 @@
       "Name": "Private Detective",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
       "SetID": "c0imaa6",
       "Name": "Who you gonna call?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TINGWD_GUIDE",
@@ -476,9 +481,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TINGWD_HONEY",
@@ -502,15 +507,15 @@
       "Name": "Have you no shame?",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -597,14 +602,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-19T09:04:18.3254483+00:00",
+  "LastChanged_Achievements": "2023-11-19T10:03:53.3735827+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-19T08:59:30.5197195+00:00",
-  "LastUpdate_Achievements": "2023-11-19T09:04:18.3254646+00:00"
+  "LastUpdate_Ratings": "2023-11-19T09:59:31.3264416+00:00",
+  "LastUpdate_Achievements": "2023-11-19T10:03:53.3736049+00:00"
 }

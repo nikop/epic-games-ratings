@@ -22,8 +22,8 @@ Rating: 4.42 (Ranked 711)
 | Producer | 51.00% | ~1,109 |
 | Apprentice | 42.00% | ~914 |
 | Bridge Builder | 42.00% | ~914 |
+| Access granted | 36.00% | ~783 |
 | Going once, going twice, sold | 36.00% | ~783 |
-| Access granted | 35.00% | ~761 |
 | Bull and bear | 35.00% | ~761 |
 | Stoker | 33.00% | ~718 |
 | Full Steam ahead | 33.00% | ~718 |
@@ -33,7 +33,7 @@ Rating: 4.42 (Ranked 711)
 | Socializer | 31.00% | ~674 |
 | General Manager | 28.00% | ~609 |
 | Country Life | 28.00% | ~609 |
-| Hostile Takeover | 25.00% | ~544 |
+| Hostile Takeover | 26.00% | ~566 |
 | Seven at one stroke | 24.00% | ~522 |
 | Breaking Ground | 22.00% | ~478 |
 | Trailblazer | 21.00% | ~457 |

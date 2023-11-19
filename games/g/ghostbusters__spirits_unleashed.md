@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 587)
 | Fragile Panes | 0.90% | ~281 |
 | Liability | 0.90% | ~281 |
 | Surprise! | 0.90% | ~281 |
-| Therapeutic | 0.70% | ~218 |
+| Therapeutic | 0.70% | ~219 |
 | Rift Seeker | 0.50% | ~156 |
 | Master Collector | 0.40% | ~125 |
 | Catostrophic Destroyer | 0.20% | ~62 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,213 (Ranked 123)  
+Progressed: 31,215 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 68 (0.22%) (Ranked 247)
 | 2023-11-16 | 31,073 | 68 |
 | 2023-11-17 | 31,117 | 68 |
 | 2023-11-18 | 31,196 | 68 |
-| 2023-11-19 | 31,213 | 68 |
+| 2023-11-19 | 31,215 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 248)  
 Sum: 2,822 (Ranked 178)  
