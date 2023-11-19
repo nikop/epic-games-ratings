@@ -183,7 +183,7 @@
   "Tags": [],
   "EOS_Progressed": 7860,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7011,9 +7011,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5738
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7306,8 +7306,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:09:14.9802756+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:09:34.5886918+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-19T06:02:48.8786734+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:09:14.9803199+00:00"
+  "LastUpdate_Ratings": "2023-11-19T07:03:19.9789519+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:09:34.588736+00:00"
 }

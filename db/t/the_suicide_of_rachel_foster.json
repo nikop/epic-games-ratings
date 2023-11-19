@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1690,
+  "EOS_Progressed": 1691,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.38,
   "EosHistory": [
@@ -3573,6 +3573,11 @@
       "Time": "2023-11-18T20:08:12.5447215+00:00",
       "NumProgressed": 1690,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-19T07:07:12.0261674+00:00",
+      "NumProgressed": 1691,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 11,
@@ -3592,7 +3597,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3608,7 +3613,7 @@
       "Name": "Spicy",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_FineEV5",
@@ -3616,7 +3621,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACH_FineEV9",
@@ -3648,7 +3653,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3671,15 +3676,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1690,
+      "Progressed": 1691,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:08:01.7969594+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:07:12.0261669+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:44.1994249+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:59:21.8566844+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:08:01.7969826+00:00"
+  "LastUpdate_Ratings": "2023-11-19T07:00:15.8876656+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:07:12.0261909+00:00"
 }

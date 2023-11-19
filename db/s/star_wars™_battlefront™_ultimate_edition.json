@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 125,
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1309,
+  "EOS_Progressed": 1310,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -3824,6 +3824,11 @@
       "Time": "2023-11-19T04:10:09.5019773+00:00",
       "NumProgressed": 1309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T07:09:44.7957162+00:00",
+      "NumProgressed": 1310,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3972,7 +3977,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_26",
@@ -4060,7 +4065,7 @@
       "Name": "New Recruit",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "achievement_36",
@@ -4076,7 +4081,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "achievement_38",
@@ -4106,9 +4111,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 668
     },
     {
       "ID": "achievement_41",
@@ -4339,13 +4344,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1309,
+      "Progressed": 1310,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1309,
+      "Progressed": 1310,
       "Completed": 1
     }
   ],
@@ -4353,8 +4358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:09:24.3502488+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:09:44.795716+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:58:47.0496443+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:09:24.350303+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:59:35.4815641+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:09:44.7957717+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tinkerer | 2.00% | ~2 |
 | Self-Defence | 2.00% | ~2 |
+| Welcome to the Club | 2.00% | ~2 |
 | Craftsmen | 0.80% | ~1 |
-| Tinkerer | 0.80% | ~1 |
-| Welcome to the Club | 0.80% | ~1 |
 | A new World ahead | 0.80% | ~1 |
 | Apprentice | 0.80% | ~1 |
 | The Golden Flash | 0.80% | ~1 |

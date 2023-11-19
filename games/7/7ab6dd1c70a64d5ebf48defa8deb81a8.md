@@ -8,11 +8,11 @@
 | I Found It | 6.00% | ~12 |
 | Adventurer | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |
+| Break Out | 4.00% | ~8 |
 | Powerful Allies | 4.00% | ~8 |
-| Break Out | 3.00% | ~6 |
+| Tributes of Caladrias | 4.00% | ~8 |
 | Find Allies | 3.00% | ~6 |
 | Calm before the Storm | 3.00% | ~6 |
-| Tributes of Caladrias | 3.00% | ~6 |
 | Geared Up | 3.00% | ~6 |
 | The Collector | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
@@ -41,7 +41,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 | Miner | -1.00% | ~-2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 194 (Ranked 382)  
+Progressed: 194 (Ranked 383)  
 Completed: 1 (0.52%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |

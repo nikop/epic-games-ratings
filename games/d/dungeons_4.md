@@ -54,10 +54,10 @@
 | Raiders of the Lost Stone | 6.00% | ~18 |
 | The Rune Sockets of Finitude (Part 1) | 6.00% | ~18 |
 | Gorgu is in the Best of Health | 5.00% | ~15 |
+| Laser Eyes Are So Useless | 5.00% | ~15 |
 | Rubble and Ashes | 5.00% | ~15 |
 | The Rune Sockets of Finitude (Part 2) | 5.00% | ~15 |
 | The Last Stand - This Time For Real! | 5.00% | ~15 |
-| Laser Eyes Are So Useless | 4.00% | ~12 |
 | To the Max! | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
 | Evilification | 4.00% | ~12 |

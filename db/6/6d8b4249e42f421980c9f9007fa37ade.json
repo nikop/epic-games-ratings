@@ -676,9 +676,9 @@
       "ID": "Epic_Kill_1000000",
       "SetID": "ba1m2fc",
       "Name": "Easy Defeat",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Live_100000",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:04:45.9699421+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:05:36.1836598+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:06.5410128+00:00",
-  "LastUpdate_Ratings": "2023-11-19T06:02:43.7980036+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:04:45.969975+00:00"
+  "LastUpdate_Ratings": "2023-11-19T07:03:14.0935272+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:05:36.183697+00:00"
 }

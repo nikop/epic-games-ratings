@@ -1119,9 +1119,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 66970,
+  "EOS_Progressed": 66974,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9679,6 +9679,11 @@
       "Time": "2023-11-19T06:04:04.4884256+00:00",
       "NumProgressed": 66970,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-19T07:04:48.9333885+00:00",
+      "NumProgressed": 66974,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9691,7 +9696,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22770
+      "UsersEstimate": 22771
     },
     {
       "ID": "10",
@@ -9763,7 +9768,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8706
+      "UsersEstimate": 8707
     },
     {
       "ID": "4",
@@ -9818,7 +9823,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66970,
+      "Progressed": 66974,
       "Completed": 34
     }
   ],
@@ -9826,8 +9831,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-19T04:59:48.9534325+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:04:04.4884254+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:04:48.9333881+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:59:15.8866977+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:04:04.4884633+00:00"
+  "LastUpdate_Ratings": "2023-11-19T07:00:09.0349243+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:04:48.9334315+00:00"
 }

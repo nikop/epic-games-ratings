@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5567,
+  "EOS_Progressed": 5569,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3711,6 +3711,11 @@
       "Time": "2023-11-19T06:09:02.505794+00:00",
       "NumProgressed": 5567,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T07:09:20.6476205+00:00",
+      "NumProgressed": 5569,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3731,7 +3736,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "BeLikeWater",
@@ -3779,7 +3784,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "FasterThanLight",
@@ -3795,7 +3800,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3827,7 +3832,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -3889,9 +3894,9 @@
       "ID": "OneStarMan",
       "SetID": "acc6ea0",
       "Name": "One-Star Man",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 111
     },
     {
       "ID": "ScorchSquad",
@@ -3923,7 +3928,7 @@
       "Name": "The Quarterback",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ThisIsDharma",
@@ -3939,7 +3944,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "UnResurrected",
@@ -3994,7 +3999,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5567,
+      "Progressed": 5569,
       "Completed": 7
     }
   ],
@@ -4002,8 +4007,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:09:02.5057936+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:09:20.6476201+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:57:14.723925+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:09:02.505832+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:57:48.7723686+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:09:20.6476508+00:00"
 }

@@ -183,6 +183,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Randomized Leaders | 0.30% | ~46 |
 | Barbarian Horde | 0.20% | ~31 |
+| Blade of the Monkey | 0.20% | ~31 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
@@ -210,7 +211,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | United Against The Horde | 0.10% | ~15 |
 | Battle of Opis | 0.10% | ~15 |
 | Before the Mongol Horde | 0.10% | ~15 |
-| Blade of the Monkey | 0.10% | ~15 |
 | Hagia Sophia in Byzantion | 0.10% | ~15 |
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
 | Epic Victory (Carthage 2) | 0.10% | ~15 |

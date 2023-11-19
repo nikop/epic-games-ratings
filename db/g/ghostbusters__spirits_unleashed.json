@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3349,10 +3349,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2821,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2023-11-19T07:03:14.8323422+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2822,
+      "NumberOfAwardsMax": 318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2821,
+  "NumberOfAwards": 2822,
   "NumberOfAwardsMax": 318,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3396,7 +3402,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 295
+      "Count": 296
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3429,7 +3435,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31210,
+  "EOS_Progressed": 31213,
   "EOS_Completed": 68,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
@@ -19744,6 +19750,11 @@
       "Time": "2023-11-19T06:03:18.474367+00:00",
       "NumProgressed": 31210,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-19T07:03:55.716607+00:00",
+      "NumProgressed": 31213,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19795,7 +19806,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Collect_Spores",
@@ -19803,7 +19814,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Collector",
@@ -19819,7 +19830,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Daily_Dose",
@@ -19843,7 +19854,7 @@
       "Name": "Discovery",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "Dont_Need_These",
@@ -19891,7 +19902,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "GB_In_Training",
@@ -20043,7 +20054,7 @@
       "Name": "Solo Capture",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "Stunner",
@@ -20083,7 +20094,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "Teamwork",
@@ -20091,7 +20102,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Terrifying",
@@ -20115,7 +20126,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Tobins_Prodigy",
@@ -20139,7 +20150,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "Welcome_Crew",
@@ -20155,23 +20166,23 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31210,
+      "Progressed": 31213,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-19T06:02:44.4732998+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:03:18.4743667+00:00",
+  "LastChanged": "2023-11-19T07:03:14.832342+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:03:55.7166063+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-19T06:02:44.4733001+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:03:18.4744784+00:00"
+  "LastUpdate_Ratings": "2023-11-19T07:03:14.8323426+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:03:55.7167136+00:00"
 }

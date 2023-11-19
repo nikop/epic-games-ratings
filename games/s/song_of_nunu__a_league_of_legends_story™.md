@@ -25,7 +25,7 @@
 | 3000 Year Blackout | 46.00% | ~340 |
 | The Finisher | 44.00% | ~326 |
 | So Close | 42.00% | ~311 |
-| You Get Used To It | 41.00% | ~303 |
+| You Get Used To It | 42.00% | ~311 |
 | True Legends | 41.00% | ~303 |
 | Boosted! | 39.00% | ~289 |
 | Bullseye | 38.00% | ~281 |

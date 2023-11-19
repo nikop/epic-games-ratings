@@ -93,6 +93,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Italian Ambition | 0.10% | ~459 |
 | It's all about luck | 0.10% | ~459 |
 | It's all about the money | 0.10% | ~459 |
+| Je maintiendrai | 0.10% | ~459 |
 | Just a Little Patience | 0.10% | ~459 |
 | Just Resting In My Account | 0.10% | ~459 |
 | A Kaiser not just in name | 0.10% | ~459 |
@@ -151,8 +152,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Strait Talk | 0.10% | ~459 |
 | Subsidize my Love | 0.10% | ~459 |
 | The Sudanese Expedition | 0.10% | ~459 |
+| Super Trooper | 0.10% | ~459 |
 | Surfing USA | 0.10% | ~459 |
 | Swahili Persuasion | 0.10% | ~459 |
+| Sweden is not overpowered! | 0.10% | ~459 |
 | Sweet Harmony | 0.10% | ~459 |
 | Switzerlake | 0.10% | ~459 |
 | Tear Down This Wall | 0.10% | ~459 |
@@ -271,7 +274,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
-| Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
@@ -332,8 +334,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sun Invasion | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sunset Invasion | 0.00% | ~0 |
-| Super Trooper | 0.00% | ~0 |
-| Sweden is not overpowered! | 0.00% | ~0 |
 | Sweet Home Qaraqorum | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,954 (Ranked 41)  
+Progressed: 458,984 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 458,954 | 1 |
+| 2023-11-19 | 458,984 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
 Sum: 58,169 (Ranked 24)  

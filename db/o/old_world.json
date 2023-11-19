@@ -16330,9 +16330,9 @@
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
       "SetID": "9201eeb",
       "Name": "Blade of the Monkey",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_BYZANTIUM_HAGIA_SOPHIA",
@@ -18944,8 +18944,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:03:54.1763935+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:04:37.2553363+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:59:04.6382972+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:03:54.1772795+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:59:55.8252872+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:04:37.2562413+00:00"
 }

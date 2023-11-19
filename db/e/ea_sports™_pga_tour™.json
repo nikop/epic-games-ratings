@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 544,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.65,
   "EosHistory": [
@@ -1898,9 +1898,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_11",
@@ -2040,8 +2040,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-19T06:08:51.6671622+00:00",
+  "LastChanged_Achievements": "2023-11-19T07:09:08.1729144+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-19T05:57:13.7571768+00:00",
-  "LastUpdate_Achievements": "2023-11-19T06:08:51.6671782+00:00"
+  "LastUpdate_Ratings": "2023-11-19T06:57:47.670354+00:00",
+  "LastUpdate_Achievements": "2023-11-19T07:09:08.1729387+00:00"
 }
