@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22772,
+  "EOS_Progressed": 22773,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24450,6 +24450,11 @@
       "Time": "2023-11-18T23:05:07.3812434+00:00",
       "NumProgressed": 22772,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-19T00:05:59.8127155+00:00",
+      "NumProgressed": 22773,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -24549,7 +24554,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10247
+      "UsersEstimate": 10248
     },
     {
       "ID": "ICallItLuck",
@@ -24613,7 +24618,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6149
     },
     {
       "ID": "ObedientMachine",
@@ -24693,7 +24698,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6149
     },
     {
       "ID": "Scrapped",
@@ -24733,7 +24738,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13891
+      "UsersEstimate": 13892
     },
     {
       "ID": "SwordToAGunfight",
@@ -24749,7 +24754,7 @@
       "Name": "Triple A",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "UnstoppableForce",
@@ -24781,7 +24786,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "WaveOfMutilation",
@@ -24820,21 +24825,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22772,
+      "Progressed": 22773,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22772,
+      "Progressed": 22773,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:05:07.381243+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:05:59.8127152+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:33.7235571+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:05:07.3813614+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:58:54.0811632+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:05:59.8128296+00:00"
 }

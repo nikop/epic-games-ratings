@@ -8916,7 +8916,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65383,
+  "EOS_Progressed": 65384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
@@ -31251,6 +31251,11 @@
       "Time": "2023-11-18T23:09:35.8273281+00:00",
       "NumProgressed": 65383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T00:09:53.8333166+00:00",
+      "NumProgressed": 65384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31302,7 +31307,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5884
+      "UsersEstimate": 5885
     },
     {
       "ID": "Catch",
@@ -31382,7 +31387,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "God of the Arena",
@@ -31486,7 +31491,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21576
+      "UsersEstimate": 21577
     },
     {
       "ID": "Lawbringer",
@@ -31494,7 +31499,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26153
+      "UsersEstimate": 26154
     },
     {
       "ID": "Lawmaker",
@@ -31510,7 +31515,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "Mastery",
@@ -31550,7 +31555,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "Ride it like you stole it",
@@ -31669,15 +31674,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65383,
+      "Progressed": 65384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-18T22:58:13.9895377+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:09:35.8273278+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:09:53.8333163+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:13.9895385+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:09:35.827433+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:58:23.8675349+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:09:53.8334312+00:00"
 }

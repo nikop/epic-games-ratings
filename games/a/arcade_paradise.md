@@ -16,7 +16,7 @@ Rating: 4.58 (Ranked 444)
 | Gerald of Riviera | 26.00% | ~180 |
 | Goal | 22.00% | ~152 |
 | I ran the numbers | 15.00% | ~104 |
-| Taking the plunge | 13.00% | ~90 |
+| Taking the plunge | 14.00% | ~97 |
 | Hidden Packages | 11.00% | ~76 |
 | GOOOAAAL | 10.00% | ~69 |
 | Ahoy Hoy | 7.00% | ~49 |

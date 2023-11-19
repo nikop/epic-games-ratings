@@ -2388,7 +2388,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43911,
+  "EOS_Progressed": 43912,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -8913,6 +8913,11 @@
       "Time": "2023-11-18T23:06:14.8352628+00:00",
       "NumProgressed": 43911,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-19T00:07:34.4636403+00:00",
+      "NumProgressed": 43912,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8956,7 +8961,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -9028,7 +9033,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17125
+      "UsersEstimate": 17126
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -9116,7 +9121,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27664
+      "UsersEstimate": 27665
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -9172,7 +9177,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21516
+      "UsersEstimate": 21517
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -9188,7 +9193,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13612
+      "UsersEstimate": 13613
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -9236,7 +9241,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16686
+      "UsersEstimate": 16687
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -9268,7 +9273,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13173
+      "UsersEstimate": 13174
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -9276,7 +9281,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20638
+      "UsersEstimate": 20639
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -9284,7 +9289,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25029
+      "UsersEstimate": 25030
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -9292,7 +9297,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20638
+      "UsersEstimate": 20639
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -9324,7 +9329,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28981
+      "UsersEstimate": 28982
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9380,7 +9385,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28981
+      "UsersEstimate": 28982
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9451,15 +9456,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43911,
+      "Progressed": 43912,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-18T15:58:37.4991603+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:06:14.8352625+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:07:34.46364+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.974388+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:21.8602068+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:06:14.8353245+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:58:35.7391383+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:07:34.4637225+00:00"
 }

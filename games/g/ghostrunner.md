@@ -7,10 +7,10 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~17,307 |
-| Sword Runner | 61.00% | ~13,891 |
+| Sword Runner | 61.00% | ~13,892 |
 | Running out of breath | 54.00% | ~12,297 |
-| Wallrunner | 53.00% | ~12,069 |
-| Homerunner | 45.00% | ~10,247 |
+| Wallrunner | 53.00% | ~12,070 |
+| Homerunner | 45.00% | ~10,248 |
 | Out of order | 44.00% | ~10,020 |
 | I call it luck | 43.00% | ~9,792 |
 | Where are my Keys? | 40.00% | ~9,109 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sword to a gunfight | 29.00% | ~6,604 |
 | Upgrades not mandatory | 29.00% | ~6,604 |
 | Artificial selection | 28.00% | ~6,376 |
-| Control freak | 27.00% | ~6,148 |
-| Running Wild | 27.00% | ~6,148 |
+| Control freak | 27.00% | ~6,149 |
+| Running Wild | 27.00% | ~6,149 |
 | Finish line | 26.00% | ~5,921 |
 | Unstoppable force | 22.00% | ~5,010 |
 | Wave of mutilation | 22.00% | ~5,010 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Pre-empative strike | 12.00% | ~2,733 |
 | Strike | 12.00% | ~2,733 |
 | More than human | 11.00% | ~2,505 |
-| Triple A | 9.00% | ~2,049 |
+| Triple A | 9.00% | ~2,050 |
 | Fine addition | 6.00% | ~1,366 |
 | One Of Those Days | 6.00% | ~1,366 |
 | Where He Stood | 5.00% | ~1,139 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~91 |
 | Up Close And Personal | 0.40% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,772 (Ranked 130)  
+Progressed: 22,773 (Ranked 130)  
 Completed: 87 (0.38%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 87 (0.38%) (Ranked 218)
 | 2023-11-16 | 22,657 | 85 |
 | 2023-11-17 | 22,706 | 85 |
 | 2023-11-18 | 22,772 | 87 |
+| 2023-11-19 | 22,773 | 87 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 207)  
 Sum: 751 (Ranked 286)  

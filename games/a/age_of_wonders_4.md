@@ -18,12 +18,12 @@ Rating: 4.61 (Ranked 385)
 | Seat of Power | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | Chaos Surge | 1.00% | ~54 |
+| Spoils of War | 1.00% | ~54 |
 | Valley of Wonders | 0.90% | ~49 |
 | Stronger Together | 0.90% | ~49 |
 | In a Liege of Your Own | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
 | Sehiran Oasis | 0.90% | ~49 |
-| Spoils of War | 0.90% | ~49 |
 | Seal the Deal | 0.80% | ~43 |
 | Enchanted Archipelago | 0.70% | ~38 |
 | Digging for Treasure | 0.70% | ~38 |

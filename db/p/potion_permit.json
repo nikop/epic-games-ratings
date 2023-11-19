@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1644,
+  "EOS_Progressed": 1645,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2373,6 +2373,11 @@
       "Time": "2023-11-17T23:07:15.5952139+00:00",
       "NumProgressed": 1644,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-19T00:05:49.5840579+00:00",
+      "NumProgressed": 1645,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2384,7 +2389,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2432,7 +2437,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2440,7 +2445,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2496,7 +2501,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2512,7 +2517,7 @@
       "Name": "Kind-hearted",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2640,7 +2645,7 @@
       "Name": "Catch of the Day",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2687,7 +2692,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1644,
+      "Progressed": 1645,
       "Completed": 10
     }
   ],
@@ -2695,8 +2700,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:04:59.9789667+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:05:49.5840576+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:49.0461133+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:34.2305442+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:04:59.9789941+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:58:54.8451057+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:05:49.5840937+00:00"
 }

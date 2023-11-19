@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7767,
+  "EOS_Progressed": 7768,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8194,6 +8194,11 @@
       "Time": "2023-11-18T18:05:17.4798479+00:00",
       "NumProgressed": 7767,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-19T00:05:06.4587832+00:00",
+      "NumProgressed": 7768,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8253,7 +8258,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8357,7 +8362,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "THING",
@@ -8372,7 +8377,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7767,
+      "Progressed": 7768,
       "Completed": 34
     }
   ],
@@ -8380,8 +8385,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:04:29.3918032+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:05:06.4587829+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:29.7987835+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:59:33.1876524+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:04:29.3918585+00:00"
+  "LastUpdate_Ratings": "2023-11-19T00:00:24.0709321+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:05:06.4588334+00:00"
 }

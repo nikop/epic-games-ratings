@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 125,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -440,6 +440,11 @@
       "Time": "2023-11-18T20:08:59.6797601+00:00",
       "NumProgressed": 164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T00:08:42.3489498+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -452,7 +457,7 @@
       "Name": "The Teleprobe",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AchvAllMemories",
@@ -460,7 +465,7 @@
       "Name": "I remember everything!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AchvAssertive",
@@ -482,9 +487,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "AchvBombing",
@@ -530,9 +535,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvInvShip",
@@ -554,9 +559,9 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -578,9 +583,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "AchvNest",
@@ -626,17 +631,17 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "AchvReachCondor",
@@ -666,31 +671,31 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "AchvUnity",
       "SetID": "1hj060c",
       "Name": "Beyond divisions",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:08:44.5763366+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:08:42.3489494+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:02:47.6532314+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:08:44.5763598+00:00"
+  "LastUpdate_Ratings": "2023-11-19T00:02:39.5189539+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:08:42.3489743+00:00"
 }

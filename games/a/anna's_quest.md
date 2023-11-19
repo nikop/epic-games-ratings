@@ -11,8 +11,8 @@
 | Through the woods | 37.00% | ~29 |
 | Fussy eater | 35.00% | ~27 |
 | Back to the anvil | 33.00% | ~26 |
+| Kekekeke... | 33.00% | ~26 |
 | So soothing... | 32.00% | ~25 |
-| Kekekeke... | 32.00% | ~25 |
 | Roostwig has entered the building | 31.00% | ~24 |
 | Mystery solved | 29.00% | ~23 |
 | Honey, honey, honey… | 29.00% | ~23 |
@@ -21,15 +21,15 @@
 | Game Over! | 28.00% | ~22 |
 | A very special drink | 28.00% | ~22 |
 | NOW GO AWAY! | 28.00% | ~22 |
-| Shattered | 26.00% | ~20 |
+| Shattered | 27.00% | ~21 |
 | GG | 26.00% | ~20 |
 | No posters allowed | 26.00% | ~20 |
 | Little genius | 26.00% | ~20 |
 | Show me your true self | 24.00% | ~19 |
+| You've got mail! | 24.00% | ~19 |
 | Beekeeper | 24.00% | ~19 |
 | Pain in the hands | 24.00% | ~19 |
 | Mischief maker | 24.00% | ~19 |
-| You've got mail! | 23.00% | ~18 |
 | Memories | 23.00% | ~18 |
 | Close the deal | 21.00% | ~16 |
 | Turn the last page | 21.00% | ~16 |

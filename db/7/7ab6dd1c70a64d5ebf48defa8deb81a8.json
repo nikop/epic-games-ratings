@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -927,9 +927,9 @@
       "ID": "ACH_22",
       "SetID": "efe2lj",
       "Name": "Fine Feathers Make Fine Birds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_23",
@@ -1039,9 +1039,9 @@
       "ID": "ACH_38",
       "SetID": "efe2lj",
       "Name": "Summiter",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -1054,8 +1054,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:09:42.5056804+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:10:02.8361382+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:53.000534+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:09:42.5056998+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:59:22.9900207+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:10:02.8361632+00:00"
 }

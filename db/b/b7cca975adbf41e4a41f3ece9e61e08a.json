@@ -139,7 +139,7 @@
   "Tags": [],
   "EOS_Progressed": 8534,
   "EOS_Completed": 138,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
@@ -3810,9 +3810,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 7510
+      "UsersEstimate": 7595
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -4147,8 +4147,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-18T03:59:21.6307049+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:04:13.5810123+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:04:44.1310624+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.4892963+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:00:04.1244224+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:04:13.5810481+00:00"
+  "LastUpdate_Ratings": "2023-11-19T00:01:12.7907511+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:04:44.1311069+00:00"
 }

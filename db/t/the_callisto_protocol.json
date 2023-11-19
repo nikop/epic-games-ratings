@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1487,9 +1487,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16458,
+  "EOS_Progressed": 16459,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9047,6 +9047,11 @@
       "Time": "2023-11-18T18:08:52.5523803+00:00",
       "NumProgressed": 16458,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-19T00:08:27.9654508+00:00",
+      "NumProgressed": 16459,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9178,7 +9183,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -9186,7 +9191,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "KILL_ROBOT",
@@ -9226,7 +9231,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9250,7 +9255,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9290,7 +9295,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9433,13 +9438,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16458,
+      "Progressed": 16459,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4384,
+      "Progressed": 4385,
       "Completed": 29
     }
   ],
@@ -9447,8 +9452,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-18T08:02:38.8252672+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:08:34.3102233+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:08:27.9654504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:43.3850362+00:00",
-  "LastUpdate_Ratings": "2023-11-18T23:03:03.1771047+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:08:34.3102947+00:00"
+  "LastUpdate_Ratings": "2023-11-19T00:03:03.5231362+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:08:27.9655105+00:00"
 }

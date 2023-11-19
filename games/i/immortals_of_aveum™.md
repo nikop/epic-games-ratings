@@ -22,7 +22,7 @@ Rating: 4.08 (Ranked 970)
 | Resilience to Sin | 21.00% | ~59 |
 | A Familiar Nest | 21.00% | ~59 |
 | Periapt Alizarin | 21.00% | ~59 |
-| Geas Aristeya | 19.00% | ~53 |
+| Geas Aristeya | 20.00% | ~56 |
 | A Perfect Cycle | 18.00% | ~50 |
 | Recruit | 17.00% | ~48 |
 | Armsman | 17.00% | ~48 |

@@ -5,7 +5,7 @@ Rating: 4.16 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,278 |
+| Attachments | 10.00% | ~4,279 |
 | Unlocked Potential | 9.00% | ~3,851 |
 | Tinkerer | 7.00% | ~2,995 |
 | Knock 'Em Dead | 7.00% | ~2,995 |
@@ -34,8 +34,8 @@ Rating: 4.16 (Ranked 937)
 | None the Wiser | 1.00% | ~428 |
 | Forspoken | 1.00% | ~428 |
 | Pilgrimage: Novice | 1.00% | ~428 |
-| Wildfire | 0.70% | ~299 |
-| Realized Potential | 0.70% | ~299 |
+| Wildfire | 0.70% | ~300 |
+| Realized Potential | 0.70% | ~300 |
 | Awakening | 0.60% | ~257 |
 | Explorer: Trailblazer | 0.60% | ~257 |
 | Through the Eyes of Another: Seer | 0.50% | ~214 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 937)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,785 (Ranked 116)  
+Progressed: 42,787 (Ranked 116)  
 Completed: 3 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,6 +272,7 @@ Completed: 3 (0.01%) (Ranked 333)
 | 2023-11-16 | 42,702 | 3 |
 | 2023-11-17 | 42,745 | 3 |
 | 2023-11-18 | 42,785 | 3 |
+| 2023-11-19 | 42,787 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 496)  
 Sum: 29 (Ranked 511)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1501,9 +1501,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 158977,
+  "EOS_Progressed": 158991,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1205,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16181,6 +16181,11 @@
       "Time": "2023-11-18T23:06:20.2624963+00:00",
       "NumProgressed": 158977,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T00:07:42.0128491+00:00",
+      "NumProgressed": 158991,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16240,7 +16245,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -16256,7 +16261,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -16264,7 +16269,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -16312,7 +16317,7 @@
       "Name": "Host",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -16408,7 +16413,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -16464,7 +16469,7 @@
       "Name": "Ravenous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6360
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -16559,21 +16564,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158560,
+      "Progressed": 158574,
       "Completed": 1209
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158977,
+      "Progressed": 158991,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T23:58:22.9175877+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:06:20.2624959+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:07:42.0128486+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:54.0384769+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:06:20.262594+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:59:24.654085+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:07:42.0129503+00:00"
 }

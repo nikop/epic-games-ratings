@@ -20,18 +20,18 @@
 | Essence Blow | 2.00% | ~4 |
 | Shatter Them All | 2.00% | ~4 |
 | Big Bazar | 2.00% | ~4 |
+| Fine Feathers Make Fine Birds | 2.00% | ~4 |
 | Fashion Victim | 2.00% | ~4 |
 | Stone Collection | 2.00% | ~4 |
 | A Taste of Wrath | 1.00% | ~2 |
 | Airborne | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
-| Fine Feathers Make Fine Birds | 1.00% | ~2 |
+| Summiter | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
 | The Mentor | 0.50% | ~1 |
 | Shatterer | 0.50% | ~1 |
 | Slayer | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
-| Summiter | 0.50% | ~1 |
 | Shardbearer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

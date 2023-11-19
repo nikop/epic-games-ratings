@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 806,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-11-18T23:08:53.0514534+00:00",
       "NumProgressed": 804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T00:08:53.9165713+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1847,7 +1852,7 @@
       "Name": "Augmented",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1911,7 +1916,7 @@
       "Name": "Starship Docks",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHV_EDEN",
@@ -1927,7 +1932,7 @@
       "Name": "Fully Modded",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -1967,7 +1972,7 @@
       "Name": "Nanonic II",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -1975,7 +1980,7 @@
       "Name": "Nanonic III",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -2007,7 +2012,7 @@
       "Name": "Supply Run",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHV_TERMINATED1",
@@ -2037,9 +2042,9 @@
       "ID": "ACHV_TRICKSHOT",
       "SetID": "cceobco",
       "Name": "Trickshot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHV_UNLOCKEDANDLOADED",
@@ -2078,13 +2083,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 806,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 230,
+      "Progressed": 232,
       "Completed": 3
     }
   ],
@@ -2092,8 +2097,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-18T23:08:53.051453+00:00",
+  "LastChanged_Achievements": "2023-11-19T00:08:53.916571+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.4021607+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:57:31.4127698+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:08:53.0514778+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:57:19.3377456+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:08:53.9165966+00:00"
 }

@@ -1540,18 +1540,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1650,
       "NumberOfAwardsMax": 1495
+    },
+    {
+      "Time": "2023-11-18T23:58:46.2812263+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1651,
+      "NumberOfAwardsMax": 1496
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1650,
-  "NumberOfAwardsMax": 1495,
+  "NumberOfAwards": 1651,
+  "NumberOfAwardsMax": 1496,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 1495
+      "Count": 1496
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1607,8 +1613,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2023-11-17T18:57:46.5091207+00:00",
+  "LastChanged": "2023-11-18T23:58:46.2812261+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:01.181498+00:00",
-  "LastUpdate_Ratings": "2023-11-18T22:58:28.5903856+00:00",
-  "LastUpdate_Achievements": "2023-11-18T23:06:04.5544366+00:00"
+  "LastUpdate_Ratings": "2023-11-18T23:58:46.281227+00:00",
+  "LastUpdate_Achievements": "2023-11-19T00:07:19.9297033+00:00"
 }
