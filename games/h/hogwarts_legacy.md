@@ -5,20 +5,20 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,380 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,381 |
 | First Class Student | 14.00% | ~42,333 |
 | Troll with the Punches | 14.00% | ~42,333 |
 | A Keen Sense of Spell | 13.00% | ~39,309 |
 | That's a Keeper | 13.00% | ~39,309 |
 | A Talent for Spending | 12.00% | ~36,285 |
-| Grappling with a Graphorn | 11.00% | ~33,261 |
-| The One Who Mastered Memories | 11.00% | ~33,261 |
-| The Hallowed Hero | 11.00% | ~33,261 |
-| The Hero of Hogwarts | 11.00% | ~33,261 |
-| The Defender of Dragons | 11.00% | ~33,261 |
-| Challenge Accepted | 11.00% | ~33,261 |
-| Loom for Improvement | 11.00% | ~33,261 |
-| Coasting Along | 11.00% | ~33,261 |
+| Grappling with a Graphorn | 11.00% | ~33,262 |
+| The One Who Mastered Memories | 11.00% | ~33,262 |
+| The Hallowed Hero | 11.00% | ~33,262 |
+| The Hero of Hogwarts | 11.00% | ~33,262 |
+| The Defender of Dragons | 11.00% | ~33,262 |
+| Challenge Accepted | 11.00% | ~33,262 |
+| Loom for Improvement | 11.00% | ~33,262 |
+| Coasting Along | 11.00% | ~33,262 |
 | Followed the Butterflies | 10.00% | ~30,238 |
 | Rising From the Ashes | 10.00% | ~30,238 |
 | The Spell Master | 9.00% | ~27,214 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,376 (Ranked 53)  
+Progressed: 302,379 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
-| 2023-11-19 | 302,376 | 512 |
+| 2023-11-19 | 302,379 | 512 |
 ## Awards
 Max (Character Customization): 24,407  (Ranked 17)  
 Sum: 48,502 (Ranked 30)  

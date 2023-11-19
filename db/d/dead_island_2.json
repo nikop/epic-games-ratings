@@ -6675,9 +6675,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 720605,
-  "EOS_Completed": 2410,
-  "EOS_NewPlayers": 3538,
+  "EOS_Progressed": 720620,
+  "EOS_Completed": 2411,
+  "EOS_NewPlayers": 3536,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30995,6 +30995,11 @@
       "Time": "2023-11-19T07:03:32.5686484+00:00",
       "NumProgressed": 720605,
       "NumCompleted": 2410
+    },
+    {
+      "Time": "2023-11-19T08:03:06.3579001+00:00",
+      "NumProgressed": 720620,
+      "NumCompleted": 2411
     }
   ],
   "TotalAchievements": 51,
@@ -31006,7 +31011,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -31022,7 +31027,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "ach_anger_management",
@@ -31062,7 +31067,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "ach_break_a_leg",
@@ -31084,9 +31089,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4324
+      "UsersEstimate": 5044
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -31158,7 +31163,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "ach_hotel_california",
@@ -31206,7 +31211,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "ach_knowledgeable",
@@ -31278,7 +31283,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "ach_star_performance",
@@ -31413,22 +31418,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720605,
-      "Completed": 2410
+      "Progressed": 720620,
+      "Completed": 2411
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46147,
-      "Completed": 36564
+      "Progressed": 46162,
+      "Completed": 36565
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-19T04:00:39.0987772+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:03:32.5686471+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:03:06.3578997+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:00:12.5921685+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:03:32.5688952+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:00:36.5657403+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:03:06.3581172+00:00"
 }

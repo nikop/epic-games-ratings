@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1312,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 7.16,
   "EosHistory": [
@@ -3319,6 +3319,11 @@
       "Time": "2023-11-19T07:09:39.7990059+00:00",
       "NumProgressed": 1312,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-11-19T08:09:43.8775044+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 30,
@@ -3330,7 +3335,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "LEVEL_002",
@@ -3338,7 +3343,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "LEVEL_003",
@@ -3346,7 +3351,7 @@
       "Name": "A horse in the country",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "LEVEL_004",
@@ -3354,7 +3359,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "LEVEL_005",
@@ -3362,7 +3367,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "LEVEL_006",
@@ -3410,7 +3415,7 @@
       "Name": "This island of mine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "LEVEL_012",
@@ -3456,9 +3461,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_018",
@@ -3466,7 +3471,7 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_019",
@@ -3569,14 +3574,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1312,
+      "Progressed": 1313,
       "Completed": 94
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:09:39.7990056+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:09:43.8775043+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-19T06:59:54.0415911+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:09:39.7990309+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:00:13.546362+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:09:43.8775312+00:00"
 }

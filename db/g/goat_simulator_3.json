@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5203,10 +5203,10 @@
       "Count": 334
     }
   ],
-  "EOS_Progressed": 251204,
-  "EOS_Completed": 880,
-  "EOS_NewPlayers": 686,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 251205,
+  "EOS_Completed": 881,
+  "EOS_NewPlayers": 681,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -28338,6 +28338,11 @@
       "Time": "2023-11-19T07:09:41.5146351+00:00",
       "NumProgressed": 251204,
       "NumCompleted": 880
+    },
+    {
+      "Time": "2023-11-19T08:09:45.8101838+00:00",
+      "NumProgressed": 251205,
+      "NumCompleted": 881
     }
   ],
   "TotalAchievements": 39,
@@ -28365,7 +28370,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30144
+      "UsersEstimate": 30145
     },
     {
       "ID": "AchievementBaywatchID",
@@ -28397,7 +28402,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75361
+      "UsersEstimate": 75362
     },
     {
       "ID": "AchievementBoulderID",
@@ -28413,7 +28418,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 228596
+      "UsersEstimate": 228597
     },
     {
       "ID": "AchievementClownID",
@@ -28461,7 +28466,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82897
+      "UsersEstimate": 82898
     },
     {
       "ID": "AchievementGoatID",
@@ -28477,7 +28482,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 133138
+      "UsersEstimate": 133139
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -28517,7 +28522,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 143186
+      "UsersEstimate": 143187
     },
     {
       "ID": "AchievementLootBoxID",
@@ -28581,7 +28586,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185891
+      "UsersEstimate": 185892
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -28597,7 +28602,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 128114
+      "UsersEstimate": 128115
     },
     {
       "ID": "AchievementStreakingID",
@@ -28621,7 +28626,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 138162
+      "UsersEstimate": 138163
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -28660,16 +28665,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 251204,
-      "Completed": 880
+      "Progressed": 251205,
+      "Completed": 881
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-19T06:02:41.3546124+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:09:41.5146345+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:09:45.8101835+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:40.4673474+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:03:11.1719445+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:09:41.5147437+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:02:38.2924549+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:09:45.8103326+00:00"
 }

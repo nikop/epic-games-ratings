@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12869,
+  "EOS_Progressed": 12874,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10607,6 +10607,11 @@
       "Time": "2023-11-19T07:09:00.4023503+00:00",
       "NumProgressed": 12869,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-19T08:08:56.2148349+00:00",
+      "NumProgressed": 12874,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10667,7 +10672,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5278
     },
     {
       "ID": "a_19",
@@ -10683,7 +10688,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "a_20",
@@ -10723,7 +10728,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "a_26",
@@ -10785,9 +10790,9 @@
       "ID": "a_33",
       "SetID": "daiie3o",
       "Name": "Big deals",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "a_34",
@@ -10866,7 +10871,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12869,
+      "Progressed": 12874,
       "Completed": 10
     }
   ],
@@ -10874,8 +10879,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:09:00.4023499+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:08:56.2148345+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:03:09.7144573+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:09:00.4024081+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:02:36.4059445+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:08:56.2148888+00:00"
 }

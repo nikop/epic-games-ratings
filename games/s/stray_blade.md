@@ -7,8 +7,9 @@
 | Tinkerer | 2.00% | ~2 |
 | Self-Defence | 2.00% | ~2 |
 | Welcome to the Club | 2.00% | ~2 |
+| A new World ahead | 2.00% | ~2 |
 | Craftsmen | 0.80% | ~1 |
-| A new World ahead | 0.80% | ~1 |
+| Don't Cry Wolf | 0.80% | ~1 |
 | Apprentice | 0.80% | ~1 |
 | The Golden Flash | 0.80% | ~1 |
 | Small Setback | 0.80% | ~1 |
@@ -41,7 +42,6 @@
 | Globetrotter | 0.00% | ~0 |
 | Finally! | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
-| Don't Cry Wolf | 0.00% | ~0 |
 | Can't touch this | 0.00% | ~0 |
 | The A-Team | 0.00% | ~0 |
 | But what of the Acreans? | 0.00% | ~0 |

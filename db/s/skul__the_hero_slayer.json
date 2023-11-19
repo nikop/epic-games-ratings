@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1091,9 +1091,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 8299,
+  "EOS_Progressed": 8300,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5346,6 +5346,11 @@
       "Time": "2023-11-19T05:04:54.9747523+00:00",
       "NumProgressed": 8299,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-19T08:05:26.0509431+00:00",
+      "NumProgressed": 8300,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5381,7 +5386,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5229
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5485,7 +5490,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5517,7 +5522,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7718
+      "UsersEstimate": 7719
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5541,22 +5546,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6971
+      "UsersEstimate": 6972
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8299,
+      "Progressed": 8300,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-18T20:01:19.6525053+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:05:30.608199+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:05:26.0509428+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.7381553+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:00:40.5835802+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:05:30.6082351+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:01:11.5268012+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:05:26.0509782+00:00"
 }

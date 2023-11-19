@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57866,
+  "EOS_Progressed": 57867,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12731,6 +12731,11 @@
       "Time": "2023-11-19T07:07:05.7504177+00:00",
       "NumProgressed": 57866,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-19T08:07:21.970245+00:00",
+      "NumProgressed": 57867,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12876,9 +12881,9 @@
       "ID": "GimmieMyPresentBack",
       "SetID": "8gem5jc",
       "Name": "Gimme My Presents Back!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 405
     },
     {
       "ID": "HFZGoober",
@@ -13133,7 +13138,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57866,
+      "Progressed": 57867,
       "Completed": 6
     }
   ],
@@ -13141,8 +13146,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:07:05.7504172+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:07:21.9702447+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-19T06:59:17.1780936+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:07:05.7505043+00:00"
+  "LastUpdate_Ratings": "2023-11-19T07:59:27.1660721+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:07:21.9703356+00:00"
 }

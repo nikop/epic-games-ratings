@@ -7,7 +7,7 @@ Number of Ratings: 332  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rookie | 27.00% | ~12,675 |
-| Finding Your Footing | 25.00% | ~11,736 |
+| Finding Your Footing | 26.00% | ~12,206 |
 | Nomad | 17.00% | ~7,981 |
 | Picking Up Speed | 16.00% | ~7,511 |
 | Welcome Maya | 14.00% | ~6,572 |

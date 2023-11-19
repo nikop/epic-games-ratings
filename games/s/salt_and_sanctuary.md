@@ -6,21 +6,21 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~447,053 |
-| The Three | 64.00% | ~344,716 |
-| The Banquet | 40.00% | ~215,447 |
-| Devara's Light | 31.00% | ~166,972 |
-| The Iron Ones | 19.00% | ~102,337 |
-| The Village | 17.00% | ~91,565 |
+| Find Sanctuary | 83.00% | ~447,055 |
+| The Three | 64.00% | ~344,717 |
+| The Banquet | 40.00% | ~215,448 |
+| Devara's Light | 31.00% | ~166,973 |
+| The Iron Ones | 19.00% | ~102,338 |
+| The Village | 17.00% | ~91,566 |
 | The Forest | 15.00% | ~80,793 |
 | The Keep | 14.00% | ~75,407 |
-| Branded | 13.00% | ~70,020 |
-| The Imposter | 13.00% | ~70,020 |
+| Branded | 13.00% | ~70,021 |
+| The Imposter | 13.00% | ~70,021 |
 | The Castle | 11.00% | ~59,248 |
 | The Dome | 9.00% | ~48,476 |
 | The Red Hall | 9.00% | ~48,476 |
-| The Sacrifice | 8.00% | ~43,089 |
-| The Ziggurat | 8.00% | ~43,089 |
+| The Sacrifice | 8.00% | ~43,090 |
+| The Ziggurat | 8.00% | ~43,090 |
 | The Cave | 7.00% | ~37,703 |
 | The Mire | 7.00% | ~37,703 |
 | The Stone Roots | 7.00% | ~37,703 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,772 |
 | Fading Fast | 1.00% | ~5,386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,618 (Ranked 33)  
+Progressed: 538,621 (Ranked 33)  
 Completed: 1,616 (0.30%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 1,616 (0.30%) (Ranked 234)
 | 2023-11-16 | 538,419 | 1,614 |
 | 2023-11-17 | 538,489 | 1,614 |
 | 2023-11-18 | 538,580 | 1,615 |
-| 2023-11-19 | 538,618 | 1,616 |
+| 2023-11-19 | 538,621 | 1,616 |
 ## Awards
 Max (Challenging Combat): 293  (Ranked 255)  
 Sum: 1,997 (Ranked 212)  

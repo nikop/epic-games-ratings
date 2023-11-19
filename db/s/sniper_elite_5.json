@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3882,
+  "EOS_Progressed": 3883,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7985,6 +7985,11 @@
       "Time": "2023-11-18T18:07:25.902644+00:00",
       "NumProgressed": 3882,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-19T08:06:47.7399194+00:00",
+      "NumProgressed": 3883,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8020,7 +8025,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8028,7 +8033,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8036,7 +8041,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8044,7 +8049,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8244,7 +8249,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8332,7 +8337,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8404,7 +8409,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8563,13 +8568,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3833,
+      "Progressed": 3834,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3882,
+      "Progressed": 3883,
       "Completed": 11
     }
   ],
@@ -8577,8 +8582,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-19T07:06:37.1893703+00:00",
+  "LastChanged_Achievements": "2023-11-19T08:06:47.7399191+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:00:45.7705544+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:06:37.1894436+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:01:18.1038088+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:06:47.7400149+00:00"
 }

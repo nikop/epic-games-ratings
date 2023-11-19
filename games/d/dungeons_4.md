@@ -23,17 +23,17 @@
 | It's Warm and Cozy at Home | 46.00% | ~142 |
 | YOU SHALL NOT PASS! | 42.00% | ~129 |
 | Hard Work | 41.00% | ~126 |
-| The Big Eaty | 40.00% | ~123 |
+| The Big Eaty | 41.00% | ~126 |
 | Pure Dynamite! | 38.00% | ~117 |
 | “… like son” | 35.00% | ~108 |
 | Mana Cannon | 33.00% | ~102 |
 | Dungeonlord Gorgu | 31.00% | ~95 |
 | Shame! Shame! Shame! | 29.00% | ~89 |
-| The Cathedral of Light | 27.00% | ~83 |
+| The Cathedral of Light | 28.00% | ~86 |
 | Tanos' Crusade Against Thalya | 24.00% | ~74 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 21.00% | ~65 |
+| Unstoppable Horde | 20.00% | ~62 |
 | Hungry, Hungry Gorgu! | 19.00% | ~59 |
-| Unstoppable Horde | 19.00% | ~59 |
 | Master of the Undead | 19.00% | ~59 |
 | Forbidden Knowledge | 18.00% | ~55 |
 | All’s Well That Ends Evil | 18.00% | ~55 |

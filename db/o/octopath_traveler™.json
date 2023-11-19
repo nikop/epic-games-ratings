@@ -2,12 +2,12 @@
   "ID": "1c4745021d4243a783b459d928b9088f",
   "Name": "OCTOPATH TRAVELER\u2122",
   "ProductSlug": "octopath-traveler",
-  "Ranking_Rating": 86,
+  "Ranking_Rating": 95,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-03-25T00:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 166,
   "RatingHistory": [
     {
@@ -484,6 +484,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 125,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2023-11-19T08:01:19.4091583+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 125,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
@@ -509,8 +515,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
-  "LastChanged": "2023-11-16T07:58:55.8041871+00:00",
+  "LastChanged": "2023-11-19T08:01:19.4091578+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.5112783+00:00",
-  "LastUpdate_Ratings": "2023-11-19T07:00:46.8006932+00:00",
-  "LastUpdate_Achievements": "2023-11-19T07:03:53.8371812+00:00"
+  "LastUpdate_Ratings": "2023-11-19T08:01:19.4091587+00:00",
+  "LastUpdate_Achievements": "2023-11-19T08:03:31.8823049+00:00"
 }

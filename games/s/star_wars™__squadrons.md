@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~20,133 |
-| Safety in the Storm | 24.00% | ~5,086 |
-| A Better Idea | 24.00% | ~5,086 |
-| Begin the Ceremony | 20.00% | ~4,239 |
-| Mission Accomplished | 19.00% | ~4,027 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~3,179 |
-| A Starfighter of Your Own | 14.00% | ~2,967 |
-| Asset Secured | 13.00% | ~2,755 |
-| Unkillable | 8.00% | ~1,695 |
+| Fracture at Fostar Haven | 95.00% | ~20,143 |
+| Safety in the Storm | 24.00% | ~5,089 |
+| A Better Idea | 24.00% | ~5,089 |
+| Begin the Ceremony | 20.00% | ~4,241 |
+| Mission Accomplished | 19.00% | ~4,029 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~3,180 |
+| A Starfighter of Your Own | 14.00% | ~2,968 |
+| Asset Secured | 13.00% | ~2,756 |
+| Unkillable | 8.00% | ~1,696 |
 | Together, Vanguard | 7.00% | ~1,484 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,272 |
 | Sound Strategy | 6.00% | ~1,272 |
@@ -41,10 +41,10 @@
 | Got 'Em | 0.40% | ~85 |
 | Special Modifications | 0.40% | ~85 |
 | Victory for the New Republic | 0.30% | ~64 |
-| Victory for the Empire | 0.30% | ~64 |
 | Heavy Hitter | 0.30% | ~64 |
-| Stay on Target | 0.30% | ~64 |
 | Across the Stars | 0.30% | ~64 |
+| Victory for the Empire | 0.20% | ~42 |
+| Stay on Target | 0.20% | ~42 |
 | Shallow Grave | 0.20% | ~42 |
 | Ultimate Weapon | 0.20% | ~42 |
 | I Know a Few Maneuvers | 0.10% | ~21 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~21 |
 | The Galaxy's Finest (Ace) | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,193 (Ranked 134)  
+Progressed: 21,203 (Ranked 134)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 20,383 | 1 |
 | 2023-11-17 | 20,684 | 1 |
 | 2023-11-18 | 21,085 | 1 |
-| 2023-11-19 | 21,193 | 1 |
+| 2023-11-19 | 21,203 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
