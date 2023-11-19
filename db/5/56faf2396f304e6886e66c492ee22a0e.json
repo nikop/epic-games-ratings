@@ -254,9 +254,9 @@
       "ID": "ACHIEVEMENT_EasyMode",
       "SetID": "70j9o42",
       "Name": "Easy Peezy Lemon Squeezy",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_Elle_Date5_Secret",
@@ -278,9 +278,9 @@
       "ID": "ACHIEVEMENT_Elle_StandUp",
       "SetID": "70j9o42",
       "Name": "Admirab-Elle",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Game_Ended",
@@ -350,9 +350,9 @@
       "ID": "ACHIEVEMENT_Lucky",
       "SetID": "70j9o42",
       "Name": "Fortunate Soul",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_Mio_Date5_Secret",
@@ -470,9 +470,9 @@
       "ID": "ACHIEVEMENT_Thelima_Ending",
       "SetID": "70j9o42",
       "Name": "The Shadow\u0027s Embrace",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_Wine_veryfancy",
@@ -493,8 +493,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:08:37.0532985+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:06:42.9328247+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8215636+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:00:41.0389216+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:08:37.0533213+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:58:12.8111749+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:06:42.9328433+00:00"
 }

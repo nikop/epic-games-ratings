@@ -2,8 +2,8 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 473,
-  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 61,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 10.17,
+  "EOS_Completed_Percentage": 9.84,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -294,6 +294,11 @@
       "Time": "2023-11-18T17:10:28.7212615+00:00",
       "NumProgressed": 59,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-19T14:09:33.4702183+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -304,15 +309,15 @@
       "ID": "01_ACHIEVEMENT_Level_01",
       "SetID": "6opd2eg",
       "Name": "First tower built",
-      "Percentage": 95,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 73,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -320,7 +325,7 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 51,
+      "Percentage": 49,
       "XP": 20,
       "UsersEstimate": 30
     },
@@ -328,7 +333,7 @@
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 27
     },
@@ -336,7 +341,7 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 40,
       "UsersEstimate": 21
     },
@@ -344,7 +349,7 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 75,
       "UsersEstimate": 28
     },
@@ -352,7 +357,7 @@
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 125,
       "UsersEstimate": 18
     },
@@ -360,7 +365,7 @@
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 150,
       "UsersEstimate": 17
     },
@@ -368,7 +373,7 @@
       "ID": "09_ACHIEVEMENT_Complete_Master",
       "SetID": "6opd2eg",
       "Name": "Hanoi Master",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
       "UsersEstimate": 7
     },
@@ -376,7 +381,7 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 145,
       "UsersEstimate": 20
     },
@@ -393,14 +398,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 61,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:12:00.7318703+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:09:33.4702179+00:00",
   "LastUpdate_AppInfo": "2023-11-14T05:57:17.9864867+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:05:31.522669+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:12:00.73188+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:02:41.0590958+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:09:33.4702274+00:00"
 }

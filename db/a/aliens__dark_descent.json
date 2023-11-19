@@ -6105,9 +6105,9 @@
       "ID": "ACH_MISSION_10",
       "SetID": "816efe",
       "Name": "The Spire",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 951
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_MISSION_11",
@@ -6210,8 +6210,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-17T04:58:01.7269194+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:08:41.1530217+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:06:48.5404796+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:01:49.352215+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:08:41.1530638+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:59:45.6380812+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:06:48.5405375+00:00"
 }

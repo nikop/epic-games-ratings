@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 622,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 152,
@@ -2713,10 +2713,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 4929,
       "NumberOfAwardsMax": 1535
+    },
+    {
+      "Time": "2023-11-19T14:01:27.4724602+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 4932,
+      "NumberOfAwardsMax": 1535
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4929,
+  "NumberOfAwards": 4932,
   "NumberOfAwardsMax": 1535,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2736,7 +2742,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 336
+      "Count": 339
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2795,7 +2801,7 @@
   ],
   "EOS_Progressed": 8627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8796,9 +8802,9 @@
       "ID": "ach32",
       "SetID": "47in8n6",
       "Name": "Who Da Boss??",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2416
     },
     {
       "ID": "ach33",
@@ -8956,9 +8962,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-19T05:59:40.7001695+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:07:54.15294+00:00",
+  "LastChanged": "2023-11-19T14:01:27.47246+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:05:47.2333646+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:03:03.8283974+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:07:54.1529867+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:01:27.4724606+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:05:47.233417+00:00"
 }

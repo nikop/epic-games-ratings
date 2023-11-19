@@ -18,30 +18,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 4.00% | ~615 |
 | Strong | 4.00% | ~615 |
 | Hanging Gardens | 4.00% | ~615 |
-| Ambitious | 3.00% | ~461 |
-| Enlightened | 3.00% | ~461 |
-| Glorious | 3.00% | ~461 |
-| Just | 3.00% | ~461 |
-| Keystone | 3.00% | ~461 |
-| Learned | 3.00% | ~461 |
-| Magnificent | 3.00% | ~461 |
-| Noble | 3.00% | ~461 |
-| Warrior | 3.00% | ~461 |
-| Developing Cities | 3.00% | ~461 |
-| Strong Cities | 3.00% | ~461 |
-| Able Difficulty | 3.00% | ~461 |
-| Ishtar Gate | 3.00% | ~461 |
-| Lighthouse | 3.00% | ~461 |
-| Oracle | 3.00% | ~461 |
-| Pyramids | 3.00% | ~461 |
-| Learn to Play 1 | 3.00% | ~461 |
-| Christianity | 3.00% | ~461 |
-| Judaism | 3.00% | ~461 |
-| Babylonian Paganism | 3.00% | ~461 |
-| Greek Paganism | 3.00% | ~461 |
-| Roman Paganism | 3.00% | ~461 |
-| Naming Landmarks | 3.00% | ~461 |
-| Trade Caravan | 3.00% | ~461 |
+| Ambitious | 3.00% | ~462 |
+| Enlightened | 3.00% | ~462 |
+| Glorious | 3.00% | ~462 |
+| Just | 3.00% | ~462 |
+| Keystone | 3.00% | ~462 |
+| Learned | 3.00% | ~462 |
+| Magnificent | 3.00% | ~462 |
+| Noble | 3.00% | ~462 |
+| Warrior | 3.00% | ~462 |
+| Developing Cities | 3.00% | ~462 |
+| Strong Cities | 3.00% | ~462 |
+| Able Difficulty | 3.00% | ~462 |
+| Ishtar Gate | 3.00% | ~462 |
+| Lighthouse | 3.00% | ~462 |
+| Oracle | 3.00% | ~462 |
+| Pyramids | 3.00% | ~462 |
+| Learn to Play 1 | 3.00% | ~462 |
+| Christianity | 3.00% | ~462 |
+| Judaism | 3.00% | ~462 |
+| Babylonian Paganism | 3.00% | ~462 |
+| Greek Paganism | 3.00% | ~462 |
+| Roman Paganism | 3.00% | ~462 |
+| Naming Landmarks | 3.00% | ~462 |
+| Trade Caravan | 3.00% | ~462 |
 | Regicide | 2.00% | ~308 |
 | Beloved | 2.00% | ~308 |
 | Drillmaster | 2.00% | ~308 |
@@ -54,6 +54,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 2.00% | ~308 |
 | Wise | 2.00% | ~308 |
 | Legendary Cities | 2.00% | ~308 |
+| Good Difficulty | 2.00% | ~308 |
 | Just Difficulty | 2.00% | ~308 |
 | Artisans | 2.00% | ~308 |
 | Champions | 2.00% | ~308 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 1.00% | ~154 |
 | Lion | 1.00% | ~154 |
 | Subjugator | 1.00% | ~154 |
-| Good Difficulty | 1.00% | ~154 |
 | Strong Difficulty | 1.00% | ~154 |
 | Hunters | 1.00% | ~154 |
 | Landowners | 1.00% | ~154 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,383 (Ranked 149)  
+Progressed: 15,384 (Ranked 149)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -562,7 +562,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-16 | 15,349 | 5 |
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
-| 2023-11-19 | 15,383 | 5 |
+| 2023-11-19 | 15,384 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

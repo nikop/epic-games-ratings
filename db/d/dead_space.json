@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -6013,9 +6013,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 981
     },
     {
       "ID": "achievement_44",
@@ -6061,9 +6061,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 981
     },
     {
       "ID": "achievement_7",
@@ -6102,8 +6102,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-18T01:45:06.4980839+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:07:20.1266116+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:05:03.1722047+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:02:28.509242+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:07:20.1266674+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:00:38.4935587+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:05:03.1722583+00:00"
 }

@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7861,
+  "EOS_Progressed": 7862,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
@@ -7006,6 +7006,11 @@
       "Time": "2023-11-19T11:09:40.3186155+00:00",
       "NumProgressed": 7861,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T14:09:29.3319449+00:00",
+      "NumProgressed": 7862,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7018,7 +7023,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5660
+      "UsersEstimate": 5661
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7106,7 +7111,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7114,7 +7119,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7170,7 +7175,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7242,7 +7247,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -7290,29 +7295,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7861,
+      "Progressed": 7862,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 478,
-      "Completed": 478
+      "Progressed": 479,
+      "Completed": 479
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:11:57.6035647+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:09:29.3319445+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:05:44.6919925+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:11:57.6036474+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:02:58.5228656+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:09:29.3319901+00:00"
 }

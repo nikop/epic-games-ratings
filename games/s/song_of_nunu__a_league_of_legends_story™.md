@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 78.00% | ~580 |
-| I Broke It | 73.00% | ~543 |
+| I Broke It | 74.00% | ~551 |
 | Better On Ice | 71.00% | ~528 |
-| Notai Notes | 70.00% | ~521 |
+| Notai Notes | 71.00% | ~528 |
+| He's Famous! | 70.00% | ~521 |
 | Blue Dreams | 69.00% | ~513 |
-| He's Famous! | 69.00% | ~513 |
+| Krugmazing | 68.00% | ~506 |
 | Cutie Poro | 68.00% | ~506 |
-| Krugmazing | 67.00% | ~498 |
 | The Fire Below the Mountain | 65.00% | ~484 |
 | Moneyball | 62.00% | ~461 |
 | No Bites | 58.00% | ~432 |
@@ -28,17 +28,17 @@
 | You Get Used To It | 42.00% | ~312 |
 | True Legends | 42.00% | ~312 |
 | Boosted! | 39.00% | ~290 |
+| Biggest Snowball Ever | 38.00% | ~283 |
 | Bullseye | 38.00% | ~283 |
+| Deadliest and Biggest Snowball Ever! | 38.00% | ~283 |
 | Family | 37.00% | ~275 |
-| Biggest Snowball Ever | 37.00% | ~275 |
 | Freeze The Ice Witch | 37.00% | ~275 |
 | On The Rocks | 37.00% | ~275 |
-| Deadliest and Biggest Snowball Ever! | 37.00% | ~275 |
 | It Is Not Over | 35.00% | ~260 |
 | Never Gets Old | 33.00% | ~246 |
 | Snowy Poro | 32.00% | ~238 |
 | Vertical Power | 29.00% | ~216 |
-| One From The Heart | 14.00% | ~104 |
+| One From The Heart | 15.00% | ~112 |
 | Yummy | 12.00% | ~89 |
 | Snowball Fightn't | 10.00% | ~74 |
 | It Was Him | 8.00% | ~60 |

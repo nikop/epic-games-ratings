@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7302,
+  "EOS_Progressed": 7304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8570,6 +8570,11 @@
       "Time": "2023-11-18T20:09:16.5353447+00:00",
       "NumProgressed": 7302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T14:08:36.5724244+00:00",
+      "NumProgressed": 7304,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8621,7 +8626,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "Control_All_Relics",
@@ -8685,7 +8690,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "First_Race_Met",
@@ -8693,7 +8698,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5257
+      "UsersEstimate": 5259
     },
     {
       "ID": "First_Ship_Designed",
@@ -8717,7 +8722,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5623
+      "UsersEstimate": 5624
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8885,7 +8890,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8899,9 +8904,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4382
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9069,7 +9074,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4748
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9133,7 +9138,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "Win_Quickly",
@@ -9156,15 +9161,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7302,
+      "Progressed": 7304,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:11:18.6450948+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:08:36.5724242+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:02:08.4203528+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:11:18.6451761+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:00:11.5836572+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:08:36.5725566+00:00"
 }

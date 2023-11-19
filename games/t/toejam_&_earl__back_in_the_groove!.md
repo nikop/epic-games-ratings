@@ -8,14 +8,14 @@ Rating: 4.33 (Ranked 813)
 | Food Taster | 9.00% | ~5,209 |
 | Fall Fest | 7.00% | ~4,051 |
 | Thrill Seeker | 7.00% | ~4,051 |
-| HFZ Goober | 6.00% | ~3,472 |
+| HFZ Goober | 6.00% | ~3,473 |
 | Flying Present Catcher | 5.00% | ~2,894 |
 | Sunflower Master | 5.00% | ~2,894 |
 | Hi Fiver | 3.00% | ~1,736 |
 | A Timely Splash | 3.00% | ~1,736 |
-| Backer Visitor | 2.00% | ~1,157 |
-| Hate That Randomizer | 2.00% | ~1,157 |
-| Feet on Funkotron | 2.00% | ~1,157 |
+| Backer Visitor | 2.00% | ~1,158 |
+| Hate That Randomizer | 2.00% | ~1,158 |
+| Feet on Funkotron | 2.00% | ~1,158 |
 | Elf Chaser | 1.00% | ~579 |
 | Fool Me Twice | 1.00% | ~579 |
 | Old School Jammin' | 1.00% | ~579 |
@@ -28,12 +28,12 @@ Rating: 4.33 (Ranked 813)
 | Totally Bummed Again | 0.60% | ~347 |
 | I Can't Believe I've Done This | 0.50% | ~289 |
 | Piece O' Cake | 0.50% | ~289 |
-| Boom Box Baby | 0.40% | ~231 |
-| Flying Present Ultimate Master | 0.40% | ~231 |
-| Ridiculously Generous | 0.40% | ~231 |
-| Harsh Love | 0.40% | ~231 |
-| Made It Through | 0.40% | ~231 |
-| I'm A Total Saint | 0.40% | ~231 |
+| Boom Box Baby | 0.40% | ~232 |
+| Flying Present Ultimate Master | 0.40% | ~232 |
+| Ridiculously Generous | 0.40% | ~232 |
+| Harsh Love | 0.40% | ~232 |
+| Made It Through | 0.40% | ~232 |
+| I'm A Total Saint | 0.40% | ~232 |
 | Map Explorer | 0.30% | ~174 |
 | Nine Funkotronians | 0.30% | ~174 |
 | Struck By Love | 0.30% | ~174 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 813)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,873 (Ranked 106)  
+Progressed: 57,876 (Ranked 106)  
 Completed: 6 (0.01%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 6 (0.01%) (Ranked 333)
 | 2023-11-16 | 57,834 | 6 |
 | 2023-11-17 | 57,846 | 6 |
 | 2023-11-18 | 57,858 | 6 |
-| 2023-11-19 | 57,873 | 6 |
+| 2023-11-19 | 57,876 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

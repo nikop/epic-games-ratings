@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1107,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2287,6 +2287,11 @@
       "Time": "2023-11-19T12:05:59.8927756+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T14:07:18.5663935+00:00",
+      "NumProgressed": 1107,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2299,7 +2304,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 930
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2307,7 +2312,7 @@
       "Name": "Acrobat",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2315,7 +2320,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2347,7 +2352,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2355,7 +2360,7 @@
       "Name": "Versatile riding",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -2427,7 +2432,7 @@
       "Name": "Solo",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2443,7 +2448,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2475,7 +2480,7 @@
       "Name": "The Scorpion",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2537,9 +2542,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2553,9 +2558,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 498
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2563,7 +2568,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2571,7 +2576,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2635,27 +2640,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 576
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1107,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 772,
-      "Completed": 772
+      "Progressed": 775,
+      "Completed": 775
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:09:04.6248595+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:07:18.566393+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:01:35.5030818+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:09:04.6248957+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:59:25.8370761+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:07:18.5664243+00:00"
 }

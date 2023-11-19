@@ -25,7 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 1.00% | ~1,591 |
 | Predator | 0.90% | ~1,432 |
 | Assimilation | 0.80% | ~1,273 |
-| Host | 0.80% | ~1,269 |
+| Host | 0.80% | ~1,270 |
 | Celebration | 0.80% | ~1,273 |
 | Hunt Down | 0.70% | ~1,114 |
 | All-Seeing | 0.70% | ~1,114 |
@@ -34,9 +34,9 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.60% | ~955 |
 | Breathsmith | 0.60% | ~955 |
 | Dream | 0.60% | ~952 |
-| Breath | 0.50% | ~795 |
-| Unwrap the Gift | 0.50% | ~795 |
-| Passage | 0.50% | ~795 |
+| Breath | 0.50% | ~796 |
+| Unwrap the Gift | 0.50% | ~796 |
+| Passage | 0.50% | ~796 |
 | Bloodhunter | 0.40% | ~636 |
 | Proportions | 0.40% | ~636 |
 | Zygote | 0.30% | ~476 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,095 (Ranked 78)  
+Progressed: 159,106 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 158,567 | 1 |
 | 2023-11-17 | 158,769 | 1 |
 | 2023-11-18 | 158,977 | 1 |
-| 2023-11-19 | 159,095 | 1 |
+| 2023-11-19 | 159,106 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 424)  
 Sum: 370 (Ranked 348)  

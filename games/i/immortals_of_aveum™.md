@@ -29,11 +29,11 @@ Rating: 4.09 (Ranked 966)
 | Lights Army | 12.00% | ~34 |
 | Periapt Cerulean | 11.00% | ~31 |
 | Good Boy | 11.00% | ~31 |
+| Best Dressed | 8.00% | ~22 |
 | Periapt Viridian | 8.00% | ~22 |
 | Shroudfane Explorer | 8.00% | ~22 |
-| Best Dressed | 7.00% | ~20 |
 | Armaments Azure | 7.00% | ~20 |
-| Armaments Gules | 6.00% | ~17 |
+| Armaments Gules | 7.00% | ~20 |
 | Scholar | 5.00% | ~14 |
 | Kitted Out | 5.00% | ~14 |
 | Armaments Vert | 5.00% | ~14 |

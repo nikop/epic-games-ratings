@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~128 |
 | Senior Estate Agent | 0.60% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,316 (Ranked 133)  
+Progressed: 21,316 (Ranked 134)  
 Completed: 21 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,12 +244,12 @@ Completed: 21 (0.10%) (Ranked 279)
 | 2023-11-18 | 21,313 | 21 |
 | 2023-11-19 | 21,316 | 21 |
 ## Awards
-Max (Great for Beginners): 320  (Ranked 247)  
-Sum: 2,249 (Ranked 202)  
+Max (Great for Beginners): 322  (Ranked 247)  
+Sum: 2,251 (Ranked 202)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 320 |
+| This game is Great for Beginners | 322 |
 | This game is Educational | 241 |
 | This game is Extremely Fun | 230 |
 | This game is Relaxing | 230 |
@@ -438,4 +438,4 @@ Diff (max vs sum): 45
 | 2023-11-15 | 4.69 | - | 320 | 2,245 |
 | 2023-11-17 | 4.69 | - | 320 | 2,246 |
 | 2023-11-18 | 4.69 | - | 320 | 2,248 |
-| 2023-11-19 | 4.69 | - | 320 | 2,249 |
+| 2023-11-19 | 4.69 | - | 322 | 2,251 |

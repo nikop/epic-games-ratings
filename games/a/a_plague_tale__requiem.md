@@ -11,7 +11,7 @@ Rating: 4.73 (Ranked 173)
 | Protector's Duty | 71.00% | ~9,896 |
 | In our Wake | 69.00% | ~9,617 |
 | Alchemist | 69.00% | ~9,617 |
-| Leaving all Behind | 65.00% | ~9,060 |
+| Leaving all Behind | 66.00% | ~9,199 |
 | Felons | 63.00% | ~8,781 |
 | A Sea of Promises | 61.00% | ~8,502 |
 | Tales and Revelations | 58.00% | ~8,084 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 173)
 | Malignant | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,938 (Ranked 152)  
-Completed: 54 (0.39%) (Ranked 215)  
+Completed: 55 (0.39%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,7 +253,7 @@ Completed: 54 (0.39%) (Ranked 215)
 | 2023-11-16 | 13,912 | 54 |
 | 2023-11-17 | 13,920 | 54 |
 | 2023-11-18 | 13,934 | 54 |
-| 2023-11-19 | 13,938 | 54 |
+| 2023-11-19 | 13,938 | 55 |
 ## Awards
 Max (Great Boss Battles): 431  (Ranked 225)  
 Sum: 678 (Ranked 299)  

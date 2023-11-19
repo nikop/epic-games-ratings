@@ -16,9 +16,9 @@ Rating: 4.64 (Ranked 332)
 | Story Teller | 56.00% | ~1,057 |
 | Raise the Stakes | 56.00% | ~1,057 |
 | Surgeon | 53.00% | ~1,000 |
+| Exterminator | 52.00% | ~981 |
+| Greenhouse Effect | 52.00% | ~981 |
 | Freeze | 51.00% | ~962 |
-| Exterminator | 51.00% | ~962 |
-| Greenhouse Effect | 51.00% | ~962 |
 | S.O.S. | 46.00% | ~868 |
 | Full Arsenal | 45.00% | ~849 |
 | Get Off My Ship! | 44.00% | ~830 |

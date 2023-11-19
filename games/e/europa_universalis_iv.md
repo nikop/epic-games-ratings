@@ -201,6 +201,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Voltaire's Nightmare | 0.10% | ~459 |
 | Voting Streak | 0.10% | ~459 |
 | We bled for this | 0.10% | ~459 |
+| The White Elephant | 0.10% | ~459 |
 | Winged Hussars | 0.10% | ~459 |
 | Wonderful | 0.10% | ~459 |
 | World Discoverer | 0.10% | ~459 |
@@ -363,14 +364,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
-| The White Elephant | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,192 (Ranked 41)  
+Progressed: 459,241 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,192 | 1 |
+| 2023-11-19 | 459,241 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
 Sum: 58,247 (Ranked 24)  

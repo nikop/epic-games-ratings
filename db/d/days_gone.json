@@ -2,12 +2,12 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 252,
+  "Ranking_Rating": 253,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -4001,10 +4001,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 7125,
       "NumberOfAwardsMax": 4044
+    },
+    {
+      "Time": "2023-11-19T14:02:53.4732892+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 7126,
+      "NumberOfAwardsMax": 4044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7125,
+  "NumberOfAwards": 7126,
   "NumberOfAwardsMax": 4044,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4048,7 +4054,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 376
+      "Count": 377
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4092,8 +4098,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2023-11-19T05:02:59.8881002+00:00",
+  "LastChanged": "2023-11-19T14:02:53.473289+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.8610218+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:05:41.1846514+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:11:33.3469168+00:00"
+  "LastUpdate_Ratings": "2023-11-19T14:02:53.4732897+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:08:56.5676798+00:00"
 }

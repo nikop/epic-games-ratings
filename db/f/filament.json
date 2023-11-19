@@ -3,12 +3,12 @@
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 813,
-  "Ranking_Popularity": 198,
+  "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -318,10 +318,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205611,
+  "EOS_Progressed": 205613,
   "EOS_Completed": 529,
-  "EOS_NewPlayers": 446,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 444,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -23173,6 +23173,11 @@
       "Time": "2023-11-19T13:08:12.8188787+00:00",
       "NumProgressed": 205611,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-11-19T14:06:11.1987951+00:00",
+      "NumProgressed": 205613,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 29,
@@ -23208,7 +23213,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193274
+      "UsersEstimate": 193276
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23415,7 +23420,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205611,
+      "Progressed": 205613,
       "Completed": 529
     }
   ],
@@ -23423,8 +23428,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-19T13:08:12.8188785+00:00",
+  "LastChanged_Achievements": "2023-11-19T14:06:11.1987947+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
-  "LastUpdate_Ratings": "2023-11-19T13:00:27.0866767+00:00",
-  "LastUpdate_Achievements": "2023-11-19T13:08:12.8189751+00:00"
+  "LastUpdate_Ratings": "2023-11-19T13:57:53.6173421+00:00",
+  "LastUpdate_Achievements": "2023-11-19T14:06:11.19889+00:00"
 }

@@ -1,54 +1,54 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.68 (Ranked 253)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~115,348 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~88,061 |
-| A Clear Conscience | 69.00% | ~85,581 |
-| Unleash Hell | 68.00% | ~84,340 |
-| Unfulfilled Desires | 68.00% | ~84,340 |
-| Funny Guy | 67.00% | ~83,100 |
-| Unshackled | 67.00% | ~83,100 |
-| Long Live the King | 66.00% | ~81,860 |
-| Wyrdly Reconstructed | 63.00% | ~78,139 |
-| Resurrection | 62.00% | ~76,899 |
-| Boxcar Kid | 61.00% | ~75,658 |
-| To Grandmother's House | 61.00% | ~75,658 |
-| Rush Hour | 60.00% | ~74,418 |
-| Serenity Now! | 54.00% | ~66,976 |
-| Hope Rekindled | 50.00% | ~62,015 |
-| Ramble On | 50.00% | ~62,015 |
-| Nope | 49.00% | ~60,775 |
-| This Looks Familiar | 38.00% | ~47,131 |
-| Now Stay Dead | 38.00% | ~47,131 |
-| Harvest Festival | 37.00% | ~45,891 |
-| Hot Air | 37.00% | ~45,891 |
-| Merry Time | 36.00% | ~44,651 |
-| Creep and Sleep | 34.00% | ~42,170 |
-| Overdue Notice | 33.00% | ~40,930 |
-| Banishment | 32.00% | ~39,690 |
-| Whale | 32.00% | ~39,690 |
-| FNG | 30.00% | ~37,209 |
+| A Place to Lay Your Head | 93.00% | ~115,352 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~88,064 |
+| A Clear Conscience | 69.00% | ~85,583 |
+| Unleash Hell | 68.00% | ~84,343 |
+| Unfulfilled Desires | 68.00% | ~84,343 |
+| Funny Guy | 67.00% | ~83,103 |
+| Unshackled | 67.00% | ~83,103 |
+| Long Live the King | 66.00% | ~81,862 |
+| Wyrdly Reconstructed | 63.00% | ~78,141 |
+| Resurrection | 62.00% | ~76,901 |
+| Boxcar Kid | 61.00% | ~75,661 |
+| To Grandmother's House | 61.00% | ~75,661 |
+| Rush Hour | 60.00% | ~74,420 |
+| Serenity Now! | 54.00% | ~66,978 |
+| Hope Rekindled | 50.00% | ~62,017 |
+| Ramble On | 50.00% | ~62,017 |
+| Nope | 49.00% | ~60,777 |
+| This Looks Familiar | 38.00% | ~47,133 |
+| Now Stay Dead | 38.00% | ~47,133 |
+| Harvest Festival | 37.00% | ~45,893 |
+| Hot Air | 37.00% | ~45,893 |
+| Merry Time | 36.00% | ~44,652 |
+| Creep and Sleep | 34.00% | ~42,172 |
+| Overdue Notice | 33.00% | ~40,931 |
+| Banishment | 32.00% | ~39,691 |
+| Whale | 32.00% | ~39,691 |
+| FNG | 30.00% | ~37,210 |
 | Predator | 25.00% | ~31,008 |
 | Reverse Banditry | 25.00% | ~31,008 |
 | Autodidact | 25.00% | ~31,008 |
-| Meat and Greet | 23.00% | ~28,527 |
+| Meat and Greet | 23.00% | ~28,528 |
 | Spelunker | 22.00% | ~27,287 |
 | Eyes Up | 22.00% | ~27,287 |
 | Road Trip | 22.00% | ~27,287 |
-| It Rings a Bell | 20.00% | ~24,806 |
-| Dissector | 18.00% | ~22,325 |
-| Escape from the Black Hole | 18.00% | ~22,325 |
-| This Belongs in a Museum | 17.00% | ~21,085 |
-| It Happens | 17.00% | ~21,085 |
+| It Rings a Bell | 20.00% | ~24,807 |
+| Dissector | 18.00% | ~22,326 |
+| Escape from the Black Hole | 18.00% | ~22,326 |
+| This Belongs in a Museum | 17.00% | ~21,086 |
+| It Happens | 17.00% | ~21,086 |
 | Handled | 16.00% | ~19,845 |
-| Catch and Decease | 15.00% | ~18,604 |
-| Not Today! | 14.00% | ~17,364 |
-| Deprogramming | 14.00% | ~17,364 |
+| Catch and Decease | 15.00% | ~18,605 |
+| Not Today! | 14.00% | ~17,365 |
+| Deprogramming | 14.00% | ~17,365 |
 | Shrine of Reflection | 12.00% | ~14,884 |
 | When You Want Something Done Right | 12.00% | ~14,884 |
 | Body of Work | 10.00% | ~12,403 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~124 |
 | No Gravestone Left Unturned | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,030 (Ranked 84)  
+Progressed: 124,034 (Ranked 84)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 123,734 | 1 |
 | 2023-11-17 | 123,845 | 1 |
 | 2023-11-18 | 123,968 | 1 |
-| 2023-11-19 | 124,030 | 1 |
+| 2023-11-19 | 124,034 | 1 |
 ## Awards
 Max (Character Customization): 7,522  (Ranked 52)  
 Sum: 19,798 (Ranked 59)  

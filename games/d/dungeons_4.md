@@ -9,7 +9,7 @@
 | For the Horde! | 81.00% | ~250 |
 | Hammer Time, Round Two | 80.00% | ~247 |
 | The Hellwoods | 76.00% | ~235 |
-| The Plains of Strothalm | 69.00% | ~213 |
+| The Plains of Strothalm | 70.00% | ~216 |
 | Thalya's Concentrated Fury | 68.00% | ~210 |
 | Experienced Thalya | 67.00% | ~207 |
 | Master of Magic | 64.00% | ~198 |
@@ -22,17 +22,17 @@
 | The Ascent | 47.00% | ~145 |
 | It's Warm and Cozy at Home | 47.00% | ~145 |
 | YOU SHALL NOT PASS! | 42.00% | ~130 |
-| Hard Work | 41.00% | ~127 |
+| Hard Work | 42.00% | ~130 |
 | The Big Eaty | 41.00% | ~127 |
 | Pure Dynamite! | 39.00% | ~121 |
 | “… like son” | 35.00% | ~108 |
 | Mana Cannon | 33.00% | ~102 |
 | Dungeonlord Gorgu | 31.00% | ~96 |
+| The Cathedral of Light | 30.00% | ~93 |
 | Shame! Shame! Shame! | 30.00% | ~93 |
-| The Cathedral of Light | 29.00% | ~90 |
 | Tanos' Crusade Against Thalya | 25.00% | ~77 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~68 |
-| Unstoppable Horde | 21.00% | ~65 |
+| Unstoppable Horde | 22.00% | ~68 |
 | Master of the Undead | 20.00% | ~62 |
 | Hungry, Hungry Gorgu! | 19.00% | ~59 |
 | All’s Well That Ends Evil | 19.00% | ~59 |
@@ -56,10 +56,10 @@
 | The Rune Sockets of Finitude (Part 1) | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~15 |
 | Laser Eyes Are So Useless | 5.00% | ~15 |
+| To Infinity And Beyond! | 5.00% | ~15 |
 | The Rune Sockets of Finitude (Part 2) | 5.00% | ~15 |
 | The Last Stand - This Time For Real! | 5.00% | ~15 |
 | To the Max! | 4.00% | ~12 |
-| To Infinity And Beyond! | 4.00% | ~12 |
 | Evilification | 4.00% | ~12 |
 | No Mana, No Cry | 3.00% | ~9 |
 | Hands Off My Stones | 3.00% | ~9 |

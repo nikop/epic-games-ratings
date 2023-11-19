@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~926 |
-| Whatever It Takes | 2.00% | ~926 |
-| Pork Chopped | 2.00% | ~926 |
+| One of Us | 2.00% | ~927 |
+| Whatever It Takes | 2.00% | ~927 |
+| Pork Chopped | 2.00% | ~927 |
 | Break A Leg | 1.00% | ~7,208 |
 | Coup de Grâce | 1.00% | ~7,208 |
 | Hazardous Materials | 1.00% | ~7,208 |
@@ -25,13 +25,13 @@ Rating: 4.54 (Ranked 523)
 | Can't Handle the Truth | 0.80% | ~5,766 |
 | Like Riding a Bike | 0.80% | ~5,766 |
 | This is My Weapon | 0.80% | ~5,766 |
-| Perks of the Job | 0.70% | ~5,045 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,045 |
-| Slayer Squad | 0.70% | ~5,045 |
-| Zombologist | 0.70% | ~5,045 |
-| Ooh, Shiny! | 0.70% | ~5,045 |
-| A Patton Emerges | 0.70% | ~5,045 |
-| Our True Nature | 0.70% | ~5,045 |
+| Perks of the Job | 0.70% | ~5,046 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,046 |
+| Slayer Squad | 0.70% | ~5,046 |
+| Zombologist | 0.70% | ~5,046 |
+| Ooh, Shiny! | 0.70% | ~5,046 |
+| A Patton Emerges | 0.70% | ~5,046 |
+| Our True Nature | 0.70% | ~5,046 |
 | Making Your Mark | 0.60% | ~4,325 |
 | Humanity Distilled | 0.60% | ~4,325 |
 | I Am the Resurrection | 0.60% | ~4,325 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,753 (Ranked 20)  
+Progressed: 720,799 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,412 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,753 | 2,412 |
+| 2023-11-19 | 720,799 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
 Sum: 11,535 (Ranked 84)  
