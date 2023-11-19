@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8848,10 +8848,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15337,
       "NumberOfAwardsMax": 7401
+    },
+    {
+      "Time": "2023-11-19T10:58:33.6941855+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15340,
+      "NumberOfAwardsMax": 7401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15337,
+  "NumberOfAwards": 15340,
   "NumberOfAwardsMax": 7401,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8865,7 +8871,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 928
+      "Count": 931
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8928,9 +8934,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65412,
+  "EOS_Progressed": 65414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31313,6 +31319,11 @@
       "Time": "2023-11-19T10:09:03.9863014+00:00",
       "NumProgressed": 65412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T11:09:41.2483904+00:00",
+      "NumProgressed": 65414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31516,7 +31527,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11774
+      "UsersEstimate": 11775
     },
     {
       "ID": "Kingslayer",
@@ -31548,7 +31559,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21586
+      "UsersEstimate": 21587
     },
     {
       "ID": "Lawbringer",
@@ -31556,7 +31567,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26165
+      "UsersEstimate": 26166
     },
     {
       "ID": "Lawmaker",
@@ -31676,7 +31687,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12428
+      "UsersEstimate": 12429
     },
     {
       "ID": "This Is Our Land",
@@ -31716,7 +31727,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -31731,15 +31742,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65412,
+      "Progressed": 65414,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-19T08:58:05.2564961+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:09:03.9863008+00:00",
+  "LastChanged": "2023-11-19T10:58:33.6941851+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:09:41.2483903+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:58:13.9763321+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:09:03.9864049+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:58:33.6941859+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:09:41.2484985+00:00"
 }

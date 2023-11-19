@@ -3,12 +3,12 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 659,
-  "Ranking_Popularity": 516,
+  "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3884,
+  "EOS_Progressed": 3885,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -7995,6 +7995,11 @@
       "Time": "2023-11-19T10:05:38.5775946+00:00",
       "NumProgressed": 3884,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-19T11:07:18.8958487+00:00",
+      "NumProgressed": 3885,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8014,7 +8019,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8070,7 +8075,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8142,7 +8147,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8174,7 +8179,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8214,7 +8219,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8246,7 +8251,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8262,7 +8267,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8270,7 +8275,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8374,7 +8379,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8470,7 +8475,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8573,13 +8578,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3835,
+      "Progressed": 3836,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3884,
+      "Progressed": 3885,
       "Completed": 11
     }
   ],
@@ -8587,8 +8592,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:05:38.5775942+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:07:18.8958485+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
   "LastUpdate_Ratings": "2023-11-19T10:00:17.8533049+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:05:38.5776694+00:00"
+  "LastUpdate_Achievements": "2023-11-19T11:07:18.8959803+00:00"
 }

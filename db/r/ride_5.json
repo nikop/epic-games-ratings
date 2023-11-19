@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2175,
+  "EOS_Progressed": 2176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5042,6 +5042,11 @@
       "Time": "2023-11-18T22:09:06.9824191+00:00",
       "NumProgressed": 2175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T11:09:52.4483858+00:00",
+      "NumProgressed": 2176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5054,7 +5059,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5062,7 +5067,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5254,7 +5259,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -5342,7 +5347,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5445,14 +5450,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2175,
+      "Progressed": 2176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:09:12.7083516+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:09:52.4483856+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:58:53.5600097+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:09:12.7084083+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:59:33.0995437+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:09:52.4484439+00:00"
 }

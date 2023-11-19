@@ -9,7 +9,7 @@
 | Medal of Exploration I | 71.00% | ~941 |
 | Recruit | 68.00% | ~901 |
 | Search and Rescue | 67.00% | ~888 |
-| Quarian Ally | 63.00% | ~835 |
+| Quarian Ally | 64.00% | ~848 |
 | Medal of Heroism | 59.00% | ~782 |
 | Honorarium of Corporate Service | 59.00% | ~782 |
 | Council Legion of Merit | 54.00% | ~716 |
@@ -56,9 +56,9 @@
 | Catharsis | 30.00% | ~398 |
 | Ghost of the Father | 30.00% | ~398 |
 | The Cure | 30.00% | ~398 |
+| Big Game Hunter | 30.00% | ~398 |
 | Archivist | 29.00% | ~384 |
 | Fade Away | 29.00% | ~384 |
-| Big Game Hunter | 29.00% | ~384 |
 | Revenge! | 29.00% | ~384 |
 | Heart of Darkness | 29.00% | ~384 |
 | Bringer of War | 29.00% | ~384 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.80% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 241)  
+Progressed: 1,325 (Ranked 242)  
 Completed: 5 (0.38%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |

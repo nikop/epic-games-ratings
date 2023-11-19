@@ -5,14 +5,14 @@ Rating: 4.12 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,290 |
-| World Map | 79.00% | ~1,945 |
-| Temple of Eternals | 57.00% | ~1,403 |
-| Prestigious | 54.00% | ~1,329 |
+| Victor | 93.00% | ~2,291 |
+| World Map | 79.00% | ~1,946 |
+| Temple of Eternals | 57.00% | ~1,404 |
+| Prestigious | 54.00% | ~1,330 |
 | Fellowship Power | 42.00% | ~1,034 |
 | Guild Power | 25.00% | ~616 |
 | Prestigious x10 | 22.00% | ~542 |
-| The game is on | 20.00% | ~492 |
+| The game is on | 20.00% | ~493 |
 | Exotic Merchant | 18.00% | ~443 |
 | Dragon Clicker | 17.00% | ~419 |
 | Inspection | 16.00% | ~394 |
@@ -24,9 +24,9 @@ Rating: 4.12 (Ranked 961)
 | Lieutenant | 14.00% | ~345 |
 | Natural Talent | 13.00% | ~320 |
 | The Unstoppable | 13.00% | ~320 |
-| Milestone collector | 12.00% | ~295 |
-| Mysterious Rock | 12.00% | ~295 |
-| Superior | 12.00% | ~295 |
+| Milestone collector | 12.00% | ~296 |
+| Mysterious Rock | 12.00% | ~296 |
+| Superior | 12.00% | ~296 |
 | Scientist | 11.00% | ~271 |
 | The power of Awakening | 11.00% | ~271 |
 | Challenger | 10.00% | ~246 |
@@ -61,7 +61,7 @@ Rating: 4.12 (Ranked 961)
 | Arena Challenger | 5.00% | ~123 |
 | Background Story | 5.00% | ~123 |
 | Ebony Jungle Liberator | 5.00% | ~123 |
-| Mythic Power | 4.00% | ~98 |
+| Mythic Power | 4.00% | ~99 |
 | Gear Enchanting | 3.00% | ~74 |
 | Guardian Master | 3.00% | ~74 |
 | What lies behind the bush | 3.00% | ~74 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 961)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,462 (Ranked 216)  
+Progressed: 2,463 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2 (0.08%) (Ranked 291)
 | 2023-11-16 | 2,376 | 2 |
 | 2023-11-17 | 2,423 | 2 |
 | 2023-11-18 | 2,456 | 2 |
-| 2023-11-19 | 2,462 | 2 |
+| 2023-11-19 | 2,463 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 81 (Ranked 457)  

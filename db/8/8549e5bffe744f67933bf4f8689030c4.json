@@ -4,8 +4,8 @@
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "DestroyNestsWithMashuras",
       "SetID": "59jf8f5",
       "Name": "A Private Issue?",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DestroyTwoNestsAtOnceWithKamakinoko",
@@ -426,9 +426,9 @@
       "ID": "KillEnemyByEnemyAttack",
       "SetID": "59jf8f5",
       "Name": "Battlefield Tactician",
-      "Percentage": 45,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KillEnemyByFailedGrow",
@@ -632,8 +632,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:03:51.5946638+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:04:52.718577+00:00",
   "LastUpdate_AppInfo": "2023-11-14T03:57:39.6148587+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:59:21.5771624+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:03:51.594703+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:00:14.6037514+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:04:52.7186157+00:00"
 }

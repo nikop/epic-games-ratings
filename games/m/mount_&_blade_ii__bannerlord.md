@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,165 |
-| Landlord | 33.00% | ~21,586 |
+| Lawbringer | 40.00% | ~26,166 |
+| Landlord | 33.00% | ~21,587 |
 | Bannerlord | 24.00% | ~15,699 |
 | Horde breaker | 24.00% | ~15,699 |
 | Lawmaker | 24.00% | ~15,699 |
 | Trained | 24.00% | ~15,699 |
-| The king is pleased | 19.00% | ~12,428 |
-| King Solomon | 18.00% | ~11,774 |
+| The king is pleased | 19.00% | ~12,429 |
+| King Solomon | 18.00% | ~11,775 |
 | Apple of my eye | 16.00% | ~10,466 |
 | I can do it | 16.00% | ~10,466 |
 | Against all odds | 13.00% | ~8,504 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,271 |
 | Crush your enemies | 5.00% | ~3,271 |
 | My way | 5.00% | ~3,271 |
-| Veni vidi vici | 4.00% | ~2,616 |
+| Veni vidi vici | 4.00% | ~2,617 |
 | Freedom! | 3.00% | ~1,962 |
 | Long live the Empire! | 3.00% | ~1,962 |
 | Real Estate | 3.00% | ~1,962 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,412 (Ranked 104)  
+Progressed: 65,414 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,17 +271,17 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 65,241 | 0 |
 | 2023-11-17 | 65,302 | 0 |
 | 2023-11-18 | 65,383 | 0 |
-| 2023-11-19 | 65,412 | 0 |
+| 2023-11-19 | 65,414 | 0 |
 ## Awards
 Max (Character Customization): 7,401  (Ranked 53)  
-Sum: 15,337 (Ranked 68)  
+Sum: 15,340 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,401 |
 | This game is Great for Beginners | 1,065 |
 | This game has Diverse Characters | 1,011 |
-| This game is Highly Recommended | 928 |
+| This game is Highly Recommended | 931 |
 | This game is Extremely Fun | 877 |
 | This game has Amazing Storytelling | 865 |
 | This game has Amazing Characters | 865 |
@@ -601,4 +601,4 @@ Diff (max vs sum): -15
 | 2023-11-16 | 4.74 | - | 7,391 | 15,300 |
 | 2023-11-17 | 4.74 | - | 7,397 | 15,314 |
 | 2023-11-18 | 4.74 | - | 7,401 | 15,334 |
-| 2023-11-19 | 4.74 | - | 7,401 | 15,337 |
+| 2023-11-19 | 4.74 | - | 7,401 | 15,340 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 603,
+  "EOS_Progressed": 604,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.8,
+  "EOS_Completed_Percentage": 5.79,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2585,6 +2585,11 @@
       "Time": "2023-11-19T09:04:50.4834538+00:00",
       "NumProgressed": 603,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-19T11:05:36.2520047+00:00",
+      "NumProgressed": 604,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2644,7 +2649,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2652,7 +2657,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2660,7 +2665,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2692,7 +2697,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2795,14 +2800,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 603,
+      "Progressed": 604,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:04:23.0944408+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:05:36.2520045+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:59:54.9827849+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:04:23.0944631+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:01:02.801603+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:05:36.2520251+00:00"
 }

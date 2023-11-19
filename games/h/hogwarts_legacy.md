@@ -11,16 +11,16 @@ Rating: 4.76 (Ranked 126)
 | A Keen Sense of Spell | 13.00% | ~39,310 |
 | That's a Keeper | 13.00% | ~39,310 |
 | A Talent for Spending | 12.00% | ~36,286 |
-| Grappling with a Graphorn | 11.00% | ~33,262 |
-| The One Who Mastered Memories | 11.00% | ~33,262 |
-| The Hallowed Hero | 11.00% | ~33,262 |
-| The Hero of Hogwarts | 11.00% | ~33,262 |
-| The Defender of Dragons | 11.00% | ~33,262 |
-| Challenge Accepted | 11.00% | ~33,262 |
-| Loom for Improvement | 11.00% | ~33,262 |
-| Coasting Along | 11.00% | ~33,262 |
-| Followed the Butterflies | 10.00% | ~30,238 |
-| Rising From the Ashes | 10.00% | ~30,238 |
+| Grappling with a Graphorn | 11.00% | ~33,263 |
+| The One Who Mastered Memories | 11.00% | ~33,263 |
+| The Hallowed Hero | 11.00% | ~33,263 |
+| The Hero of Hogwarts | 11.00% | ~33,263 |
+| The Defender of Dragons | 11.00% | ~33,263 |
+| Challenge Accepted | 11.00% | ~33,263 |
+| Loom for Improvement | 11.00% | ~33,263 |
+| Coasting Along | 11.00% | ~33,263 |
+| Followed the Butterflies | 10.00% | ~30,239 |
+| Rising From the Ashes | 10.00% | ~30,239 |
 | The Spell Master | 9.00% | ~27,215 |
 | The Avenging Gazelle | 8.00% | ~24,191 |
 | Beast Friends | 8.00% | ~24,191 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,385 (Ranked 53)  
+Progressed: 302,387 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,14 +264,14 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
-| 2023-11-19 | 302,385 | 512 |
+| 2023-11-19 | 302,387 | 512 |
 ## Awards
-Max (Character Customization): 24,407  (Ranked 17)  
-Sum: 48,502 (Ranked 30)  
+Max (Character Customization): 24,447  (Ranked 17)  
+Sum: 48,542 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 24,407 |
+| This game has Inclusive Character Customization | 24,447 |
 | This game has Great Boss Battles | 12,398 |
 | This game is Great for Beginners | 1,325 |
 | This game has Amazing Storytelling | 1,270 |
@@ -526,4 +526,4 @@ Diff (max vs sum): -13
 | 2023-11-16 | 4.76 | 24,339 | 48,302 |
 | 2023-11-17 | 4.76 | 24,370 | 48,391 |
 | 2023-11-18 | 4.76 | 24,407 | 48,496 |
-| 2023-11-19 | 4.76 | 24,407 | 48,502 |
+| 2023-11-19 | 4.76 | 24,447 | 48,542 |

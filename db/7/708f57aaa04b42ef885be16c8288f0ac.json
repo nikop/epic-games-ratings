@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5575,
+  "EOS_Progressed": 5577,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3731,6 +3731,11 @@
       "Time": "2023-11-19T10:08:50.6658381+00:00",
       "NumProgressed": 5575,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T11:09:22.9700157+00:00",
+      "NumProgressed": 5577,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3823,7 +3828,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "GarbageMan",
@@ -3895,7 +3900,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3967,7 +3972,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4014,7 +4019,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5575,
+      "Progressed": 5577,
       "Completed": 7
     }
   ],
@@ -4022,8 +4027,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:08:50.6658377+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:09:22.9700155+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:57:38.3449706+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:08:50.6659007+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:57:41.5851115+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:09:22.9700492+00:00"
 }

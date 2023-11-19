@@ -20,18 +20,18 @@
 | Half the way | 19.00% | ~115 |
 | In this together | 18.00% | ~109 |
 | Champollion | 18.00% | ~109 |
-| Open door | 16.00% | ~96 |
-| Feels like springtime | 16.00% | ~96 |
-| Alchemists Express | 16.00% | ~96 |
-| Free at last | 13.00% | ~78 |
+| Open door | 16.00% | ~97 |
+| Feels like springtime | 16.00% | ~97 |
+| Alchemists Express | 16.00% | ~97 |
+| Free at last | 13.00% | ~79 |
 | A Link to the Past | 12.00% | ~72 |
 | Rascal | 12.00% | ~72 |
 | A great audience | 11.00% | ~66 |
 | For its own good | 10.00% | ~60 |
 | Fashion victim | 4.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603 (Ranked 293)  
-Completed: 35 (5.80%) (Ranked 69)  
+Progressed: 604 (Ranked 293)  
+Completed: 35 (5.79%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,4 +150,4 @@ Completed: 35 (5.80%) (Ranked 69)
 | 2023-11-16 | 567 | 31 |
 | 2023-11-17 | 580 | 32 |
 | 2023-11-18 | 599 | 32 |
-| 2023-11-19 | 603 | 35 |
+| 2023-11-19 | 604 | 35 |

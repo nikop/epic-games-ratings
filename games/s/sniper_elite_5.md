@@ -6,26 +6,26 @@ Rating: 4.45 (Ranked 659)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,787 |
-| Confirming Suspicions | 41.00% | ~1,592 |
+| Confirming Suspicions | 41.00% | ~1,593 |
 | The Kraken Wakes | 37.00% | ~1,437 |
 | It's Starting to Crack | 34.00% | ~1,321 |
 | Change the Channel | 31.00% | ~1,204 |
-| Lord of War | 30.00% | ~1,165 |
-| Taking it back | 29.00% | ~1,126 |
+| Lord of War | 30.00% | ~1,166 |
+| Taking it back | 29.00% | ~1,127 |
 | Resourceful | 27.00% | ~1,049 |
 | Target America | 27.00% | ~1,049 |
 | The Kraken Sleeps | 25.00% | ~971 |
-| Liberté | 23.00% | ~893 |
-| Organ Grinder | 23.00% | ~893 |
-| As Quiet as a Mouse | 23.00% | ~893 |
-| Sharpshooter | 22.00% | ~854 |
+| Liberté | 23.00% | ~894 |
+| Organ Grinder | 23.00% | ~894 |
+| As Quiet as a Mouse | 23.00% | ~894 |
+| Sharpshooter | 22.00% | ~855 |
 | Gunslinger | 19.00% | ~738 |
 | Explosive Efficiency | 19.00% | ~738 |
 | Climbing the Ladder | 17.00% | ~660 |
 | Just a Flesh Wound | 17.00% | ~660 |
 | Der Geist | 17.00% | ~660 |
-| Close Quarters | 16.00% | ~621 |
-| Snake in the Grass | 16.00% | ~621 |
+| Close Quarters | 16.00% | ~622 |
+| Snake in the Grass | 16.00% | ~622 |
 | Skirmisher | 15.00% | ~583 |
 | Die Nussknacker Sweet! | 15.00% | ~583 |
 | Brains of the Operation | 15.00% | ~583 |
@@ -37,7 +37,7 @@ Rating: 4.45 (Ranked 659)
 | Precision Is Key | 10.00% | ~388 |
 | My Little Friend | 10.00% | ~388 |
 | Rigged to Blow | 9.00% | ~350 |
-| Herr Today, Gone Tomorrow | 7.00% | ~268 |
+| Herr Today, Gone Tomorrow | 7.00% | ~269 |
 | Operation Foxley | 6.00% | ~230 |
 | The Long Game | 5.00% | ~194 |
 | Tinkerer | 5.00% | ~194 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 659)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,884 (Ranked 196)  
+Progressed: 3,885 (Ranked 196)  
 Completed: 11 (0.28%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,11 +288,11 @@ Completed: 11 (0.28%) (Ranked 239)
 | 2023-11-16 | 3,873 | 11 |
 | 2023-11-17 | 3,876 | 11 |
 | 2023-11-18 | 3,882 | 11 |
-| 2023-11-19 | 3,884 | 11 |
+| 2023-11-19 | 3,885 | 11 |
 ## Awards
-Max (Great for Beginners): 25  (Ranked 516)  
+Max (Great for Beginners): 25  (Ranked 517)  
 Sum: 25 (Ranked 523)  
-Diff (max vs sum): -7  
+Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 25 |

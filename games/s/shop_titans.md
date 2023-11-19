@@ -6,16 +6,16 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,027 |
-| Titan's First Steps | 5.00% | ~7,027 |
+| Sponsored by Argon | 5.00% | ~7,028 |
+| Titan's First Steps | 5.00% | ~7,028 |
 | Basic in Bulk | 4.00% | ~5,622 |
 | Tinkle of Coins | 4.00% | ~5,622 |
-| Disintermediation | 3.00% | ~4,216 |
-| Another Satisfied Customer | 3.00% | ~4,216 |
-| It's Free Real Estate | 3.00% | ~4,216 |
-| Budding Merchant | 3.00% | ~4,216 |
-| Capitalism Ho! | 3.00% | ~4,216 |
-| Own the Means of Production | 3.00% | ~4,216 |
+| Disintermediation | 3.00% | ~4,217 |
+| Another Satisfied Customer | 3.00% | ~4,217 |
+| It's Free Real Estate | 3.00% | ~4,217 |
+| Budding Merchant | 3.00% | ~4,217 |
+| Capitalism Ho! | 3.00% | ~4,217 |
+| Own the Means of Production | 3.00% | ~4,217 |
 | The Daily Grind | 2.00% | ~2,811 |
 | One Easy Payment | 2.00% | ~2,811 |
 | Some Assembly Required | 2.00% | ~2,811 |
@@ -28,26 +28,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 2.00% | ~2,811 |
 | Dungeon Imports | 2.00% | ~2,811 |
 | Through Repetition, Perfection | 2.00% | ~2,811 |
-| On the Path to Greatness | 1.00% | ~1,405 |
-| Ascended | 1.00% | ~1,405 |
-| Tax not Included | 1.00% | ~1,405 |
-| Research & Development | 1.00% | ~1,405 |
-| Vanity, Verily | 1.00% | ~1,405 |
-| Fated Encounters | 1.00% | ~1,405 |
-| For the Hoard! | 1.00% | ~1,405 |
-| Blank Page Syndrome | 1.00% | ~1,405 |
-| Power of Love | 1.00% | ~1,405 |
-| Efficient Floor Space | 1.00% | ~1,405 |
-| Flawless Fusion | 1.00% | ~1,405 |
-| Trash to Treasure | 1.00% | ~1,405 |
-| Gem Expert | 1.00% | ~1,405 |
-| Royal Ransom | 1.00% | ~1,405 |
-| Helping Hand | 1.00% | ~1,405 |
-| Accomplished Merchant | 1.00% | ~1,405 |
-| Natural 20 | 1.00% | ~1,405 |
-| Did we pack lunch? | 1.00% | ~1,405 |
-| Magical Harmony | 1.00% | ~1,405 |
-| Arcane Industries | 1.00% | ~1,405 |
+| On the Path to Greatness | 1.00% | ~1,406 |
+| Ascended | 1.00% | ~1,406 |
+| Tax not Included | 1.00% | ~1,406 |
+| Research & Development | 1.00% | ~1,406 |
+| Vanity, Verily | 1.00% | ~1,406 |
+| Fated Encounters | 1.00% | ~1,406 |
+| For the Hoard! | 1.00% | ~1,406 |
+| Blank Page Syndrome | 1.00% | ~1,406 |
+| Power of Love | 1.00% | ~1,406 |
+| Efficient Floor Space | 1.00% | ~1,406 |
+| Flawless Fusion | 1.00% | ~1,406 |
+| Trash to Treasure | 1.00% | ~1,406 |
+| Gem Expert | 1.00% | ~1,406 |
+| Royal Ransom | 1.00% | ~1,406 |
+| Helping Hand | 1.00% | ~1,406 |
+| Accomplished Merchant | 1.00% | ~1,406 |
+| Natural 20 | 1.00% | ~1,406 |
+| Did we pack lunch? | 1.00% | ~1,406 |
+| Magical Harmony | 1.00% | ~1,406 |
+| Arcane Industries | 1.00% | ~1,406 |
 | A Notch Above the Rest | 0.90% | ~1,265 |
 | The King's Caprice | 0.90% | ~1,265 |
 | Big Game Hunting | 0.90% | ~1,265 |
@@ -57,6 +57,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.90% | ~1,265 |
 | Hidden Potential | 0.90% | ~1,265 |
 | Expansion in Session | 0.90% | ~1,265 |
+| Cranked up to 11 | 0.90% | ~1,265 |
 | Mammonite | 0.90% | ~1,265 |
 | Miracle Alchemist | 0.90% | ~1,265 |
 | Laden with Loot | 0.90% | ~1,265 |
@@ -72,12 +73,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.80% | ~1,124 |
 | Master of Transmutation | 0.80% | ~1,124 |
 | Supercharged | 0.80% | ~1,124 |
-| Cranked up to 11 | 0.80% | ~1,124 |
 | Fit for a King | 0.80% | ~1,124 |
 | By Your Powers Combined... | 0.80% | ~1,124 |
 | Wealth Beyond Measure | 0.80% | ~1,124 |
 | Fat Cat Tag Team | 0.80% | ~1,124 |
 | Necromancer Queen | 0.80% | ~1,124 |
+| Item of Renown | 0.80% | ~1,124 |
 | Master Merchant | 0.80% | ~1,124 |
 | Attrition Mission | 0.80% | ~1,124 |
 | Glittering Collection | 0.80% | ~1,124 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.70% | ~984 |
 | Ritualist | 0.70% | ~984 |
 | A Legend is Born | 0.70% | ~984 |
-| Item of Renown | 0.70% | ~984 |
 | Bountiful Harvest | 0.70% | ~984 |
 | Precision Engineering | 0.70% | ~984 |
 | Treasure Trove | 0.70% | ~984 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,549 (Ranked 80)  
+Progressed: 140,554 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
-| 2023-11-19 | 140,549 | 187 |
+| 2023-11-19 | 140,554 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,563 (Ranked 50)  

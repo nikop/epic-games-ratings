@@ -13,9 +13,9 @@ Rating: 4.56 (Ranked 489)
 | Captain Drummer | 4.00% | ~604 |
 | Celebrations are in Order | 4.00% | ~604 |
 | Impossible Objects | 4.00% | ~604 |
-| Safe Cracker | 4.00% | ~42 |
-| Zen Master | 4.00% | ~42 |
-| Madame Undersecretary | 4.00% | ~42 |
+| Safe Cracker | 4.00% | ~43 |
+| Zen Master | 4.00% | ~43 |
+| Madame Undersecretary | 4.00% | ~43 |
 | Data Archivist | 3.00% | ~453 |
 | Stogie for Fogey | 3.00% | ~453 |
 | Drug Gifter | 3.00% | ~453 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,106 (Ranked 150)  
+Progressed: 15,109 (Ranked 150)  
 Completed: 34 (0.23%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 34 (0.23%) (Ranked 245)
 | 2023-11-16 | 15,021 | 34 |
 | 2023-11-17 | 15,061 | 34 |
 | 2023-11-18 | 15,097 | 34 |
-| 2023-11-19 | 15,106 | 34 |
+| 2023-11-19 | 15,109 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

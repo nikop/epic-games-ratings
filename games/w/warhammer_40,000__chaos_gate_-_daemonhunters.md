@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,310 (Ranked 208)  
+Progressed: 3,311 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 3,306 | 0 |
 | 2023-11-17 | 3,307 | 0 |
 | 2023-11-18 | 3,310 | 0 |
+| 2023-11-19 | 3,311 | 0 |
 ## Awards
 Max (Character Customization): 222  (Ranked 276)  
 Sum: 481 (Ranked 329)  

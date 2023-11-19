@@ -34,7 +34,7 @@
 | Nervous Hands | 0.80% | ~5 |
 | Elf-Friend | 0.70% | ~4 |
 | We wants it! We needs it | 0.70% | ~4 |
-| Scout | 0.50% | ~3 |
+| Scout | 0.70% | ~4 |
 | Good Sméagol! | 0.50% | ~3 |
 | We Hates Them! | 0.30% | ~2 |
 | Rule them all! | 0.20% | ~1 |

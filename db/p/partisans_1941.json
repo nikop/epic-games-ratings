@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1762,
+  "EOS_Progressed": 1763,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
@@ -4009,6 +4009,11 @@
       "Time": "2023-11-19T09:05:26.8388731+00:00",
       "NumProgressed": 1762,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-19T11:06:22.6602459+00:00",
+      "NumProgressed": 1763,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4044,7 +4049,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Boy",
@@ -4052,7 +4057,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "Commandos",
@@ -4100,7 +4105,7 @@
       "Name": "E1M1",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "Everyone_is_here",
@@ -4148,7 +4153,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "High_noon",
@@ -4212,7 +4217,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "Scout",
@@ -4228,15 +4233,15 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 740
+      "UsersEstimate": 758
     },
     {
       "ID": "We_were_not_here",
@@ -4259,15 +4264,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1762,
+      "Progressed": 1763,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:04:57.0450503+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:06:22.6602458+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.4089299+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:00:15.1848499+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:04:57.0450774+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:01:32.4851651+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:06:22.6602896+00:00"
 }

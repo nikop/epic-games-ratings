@@ -4,12 +4,12 @@
 Rating: 4.20 (Ranked 911)  
 Number of Ratings: 2,200  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 127  (Ranked 331)  
-Sum: 745 (Ranked 287)  
-Diff (max vs sum): 44  
+Max (Amazing Storytelling): 128  (Ranked 328)  
+Sum: 746 (Ranked 287)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 127 |
+| This game has Amazing Storytelling | 128 |
 | This game is Relaxing | 123 |
 | This game is Great for Beginners | 122 |
 | This game has Quickly Understood Controls | 119 |
@@ -131,3 +131,4 @@ Diff (max vs sum): 44
 | 2023-11-01 | 4.20 | - | 127 | 742 |
 | 2023-11-15 | 4.20 | - | 127 | 744 |
 | 2023-11-17 | 4.20 | - | 127 | 745 |
+| 2023-11-19 | 4.20 | - | 128 | 746 |

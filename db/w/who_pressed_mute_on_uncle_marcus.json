@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -585,9 +585,9 @@
       "ID": "sorry_kiddo",
       "SetID": "202dmm8",
       "Name": "Sorry, kiddo",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "the_truth",
@@ -634,8 +634,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:08:38.5887799+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:09:06.4928241+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:28.267339+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:58:03.7415018+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:08:38.5887927+00:00"
+  "LastUpdate_Ratings": "2023-11-19T10:58:18.6831897+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:09:06.4928329+00:00"
 }

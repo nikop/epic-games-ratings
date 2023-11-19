@@ -12,7 +12,7 @@ Rating: 4.57 (Ranked 469)
 | Ready for a New World | 18.00% | ~597 |
 | Space Society | 17.00% | ~564 |
 | A Thousand Strong | 17.00% | ~564 |
-| Permanent Redesigns | 15.00% | ~497 |
+| Permanent Redesigns | 15.00% | ~498 |
 | Fully Recycled | 14.00% | ~464 |
 | The Ship of Theseus | 14.00% | ~464 |
 | Guy de Borderlands | 13.00% | ~431 |
@@ -21,7 +21,7 @@ Rating: 4.57 (Ranked 469)
 | Hope Seeker | 12.00% | ~398 |
 | A Hunk of Junk | 11.00% | ~365 |
 | Breaking Protocol | 11.00% | ~365 |
-| Man's Best Friend | 9.00% | ~298 |
+| Man's Best Friend | 9.00% | ~299 |
 | Power Outage | 8.00% | ~265 |
 | Convenient Transport | 8.00% | ~265 |
 | Please Make it Stop! | 8.00% | ~265 |
@@ -39,10 +39,10 @@ Rating: 4.57 (Ranked 469)
 | In Dolos We Trust | 4.00% | ~133 |
 | Pedal to the Metal | 4.00% | ~133 |
 | Drill-dozer | 4.00% | ~133 |
-| Praise the Hull! | 3.00% | ~99 |
-| Delivery! | 3.00% | ~99 |
-| Help of the Forgotten Member | 3.00% | ~99 |
-| Pulsar Disciple | 3.00% | ~99 |
+| Praise the Hull! | 3.00% | ~100 |
+| Delivery! | 3.00% | ~100 |
+| Help of the Forgotten Member | 3.00% | ~100 |
+| Pulsar Disciple | 3.00% | ~100 |
 | Mutual Loyalty | 2.00% | ~66 |
 | Tiqqun Contender | 2.00% | ~66 |
 | Catastrophe Avoided | 2.00% | ~66 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 469)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,316 (Ranked 207)  
+Progressed: 3,317 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 3,309 | 0 |
 | 2023-11-17 | 3,313 | 0 |
 | 2023-11-18 | 3,315 | 0 |
-| 2023-11-19 | 3,316 | 0 |
+| 2023-11-19 | 3,317 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

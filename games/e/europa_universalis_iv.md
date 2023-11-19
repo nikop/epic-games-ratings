@@ -15,6 +15,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A tale of two Families | 0.10% | ~459 |
 | AAA Credit | 0.10% | ~459 |
 | Absolutely | 0.10% | ~459 |
+| AEIOU | 0.10% | ~459 |
 | Aggressive Expander | 0.10% | ~459 |
 | Albania or Iberia | 0.10% | ~459 |
 | All belongs to Mother Russia | 0.10% | ~459 |
@@ -202,6 +203,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Discoverer | 0.10% | ~459 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~459 |
 | Breadbasket of the World | 0.10% | ~459 |
+| Desert Power | 0.10% | ~459 |
 | King of Kings | 0.10% | ~459 |
 | Legacy of Saint George | 0.10% | ~459 |
 | Mets Hayk | 0.10% | ~459 |
@@ -213,7 +215,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Sun God | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
-| AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
@@ -367,10 +368,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
-| Desert Power | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,052 (Ranked 41)  
+Progressed: 459,095 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,052 | 1 |
+| 2023-11-19 | 459,095 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
 Sum: 58,191 (Ranked 24)  

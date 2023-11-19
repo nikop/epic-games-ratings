@@ -6681,9 +6681,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 720665,
+  "EOS_Progressed": 720697,
   "EOS_Completed": 2412,
-  "EOS_NewPlayers": 3547,
+  "EOS_NewPlayers": 3533,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -31016,6 +31016,11 @@
       "Time": "2023-11-19T10:02:49.0159545+00:00",
       "NumProgressed": 720665,
       "NumCompleted": 2412
+    },
+    {
+      "Time": "2023-11-19T11:03:27.2155339+00:00",
+      "NumProgressed": 720697,
+      "NumCompleted": 2412
     }
   ],
   "TotalAchievements": 51,
@@ -31051,7 +31056,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31115,7 +31120,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach_doom_buddies",
@@ -31139,7 +31144,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach_finisher",
@@ -31153,9 +31158,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach_good_eyesight",
@@ -31347,7 +31352,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31387,7 +31392,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ach_dark_magic",
@@ -31395,7 +31400,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ach_gardening_tools",
@@ -31411,7 +31416,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31434,13 +31439,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 720665,
+      "Progressed": 720697,
       "Completed": 2412
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46207,
+      "Progressed": 46239,
       "Completed": 36565
     }
   ],
@@ -31448,8 +31453,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-19T08:59:48.2082382+00:00",
-  "LastChanged_Achievements": "2023-11-19T10:02:49.015954+00:00",
+  "LastChanged_Achievements": "2023-11-19T11:03:27.2155337+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-19T09:59:46.8673305+00:00",
-  "LastUpdate_Achievements": "2023-11-19T10:02:49.0161297+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:00:50.9645911+00:00",
+  "LastUpdate_Achievements": "2023-11-19T11:03:27.2156556+00:00"
 }
