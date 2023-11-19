@@ -15,20 +15,20 @@
 | Nerd | 80.00% | ~102 |
 | Up and down | 77.00% | ~99 |
 | Rolling, Rolling, Rolling | 74.00% | ~95 |
-| Fire-fighter! | 65.00% | ~83 |
-| Oh, you're up to no gouda! | 63.00% | ~81 |
-| Make Love not War-Craft a Mistlefoe | 60.00% | ~77 |
+| Fire-fighter! | 66.00% | ~84 |
+| Oh, you're up to no gouda! | 64.00% | ~82 |
+| Make Love not War-Craft a Mistlefoe | 61.00% | ~78 |
 | Meat grinder | 59.00% | ~76 |
-| You're not going to blow me up! | 54.00% | ~69 |
+| You're not going to blow me up! | 55.00% | ~70 |
 | Mushroom soup of the day | 51.00% | ~65 |
 | Honk honk! | 48.00% | ~61 |
-| Cockadoodledoo! | 47.00% | ~60 |
-| Butcher | 46.00% | ~59 |
+| Cockadoodledoo! | 48.00% | ~61 |
+| Butcher | 47.00% | ~60 |
+| Spare Ribs | 46.00% | ~59 |
 | Thats disgusting! | 45.00% | ~58 |
-| Spare Ribs | 45.00% | ~58 |
 | Self assessed tax return | 41.00% | ~52 |
 | My pants squeak when I walk | 41.00% | ~52 |
-| Surprise!! | 39.00% | ~50 |
+| Surprise!! | 40.00% | ~51 |
 | Haemochromatosis | 38.00% | ~49 |
 | Pasta Bolognese | 34.00% | ~44 |
 | Make America Grate Again | 33.00% | ~42 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3849,6 +3849,11 @@
       "Time": "2023-11-19T18:09:06.2782249+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T19:09:08.4404045+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3963,9 +3968,9 @@
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_22",
@@ -4085,7 +4090,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "achievement_36",
@@ -4101,7 +4106,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "achievement_38",
@@ -4364,13 +4369,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 1
     }
   ],
@@ -4378,8 +4383,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:09:06.2782245+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:09:08.440404+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:59:18.9672112+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:09:06.2782826+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:59:25.5757208+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:09:08.4404734+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -1472,9 +1472,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 524
     },
     {
       "ID": "EV_ACH02",
@@ -1512,9 +1512,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 352
     },
     {
       "ID": "EV_ACH07",
@@ -1568,9 +1568,9 @@
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 262
+      "UsersEstimate": 269
     },
     {
       "ID": "EV_ACH14",
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:09:02.1153553+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:09:04.1839054+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:59:05.4951304+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:09:02.1153929+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:59:11.8151467+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:09:04.1839423+00:00"
 }

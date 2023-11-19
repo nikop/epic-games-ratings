@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -481,7 +481,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2473,
+  "EOS_Progressed": 2474,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
@@ -7451,6 +7451,11 @@
       "Time": "2023-11-19T17:08:30.3619957+00:00",
       "NumProgressed": 2473,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-19T19:08:25.8805158+00:00",
+      "NumProgressed": 2474,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7500,9 +7505,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "blueprintupgrades",
@@ -7566,7 +7571,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "dragonmaster",
@@ -7660,9 +7665,9 @@
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 223
     },
     {
       "ID": "fullparty",
@@ -7838,7 +7843,7 @@
       "Name": "Natural Talent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "pokerface",
@@ -7854,7 +7859,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "prestigiousx10",
@@ -7966,7 +7971,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "titanpower",
@@ -8022,7 +8027,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "warmachinesarmy",
@@ -8061,7 +8066,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2473,
+      "Progressed": 2474,
       "Completed": 2
     }
   ],
@@ -8069,8 +8074,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:08:24.3568913+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:08:25.8805154+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:14.6336276+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:08:24.3569768+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:20.8416784+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:08:25.8806255+00:00"
 }

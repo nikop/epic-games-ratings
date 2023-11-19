@@ -10,7 +10,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Strongman | 31.00% | ~6,609 |
 | Alpha Male | 20.00% | ~4,264 |
 | Just Enough | 19.00% | ~4,050 |
-| Pro-creative | 18.00% | ~3,837 |
+| Pro-creative | 19.00% | ~4,050 |
 | Worth Every Penny | 14.00% | ~2,985 |
 | Family man | 13.00% | ~2,771 |
 | Junior Estate Agent | 13.00% | ~2,771 |
@@ -245,8 +245,8 @@ Completed: 21 (0.10%) (Ranked 279)
 | 2023-11-19 | 21,318 | 21 |
 ## Awards
 Max (Great for Beginners): 322  (Ranked 247)  
-Sum: 2,251 (Ranked 202)  
-Diff (max vs sum): 45  
+Sum: 2,251 (Ranked 201)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 322 |

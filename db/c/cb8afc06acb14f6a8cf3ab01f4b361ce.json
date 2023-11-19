@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -347,9 +347,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 314570,
+  "EOS_Progressed": 314618,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5383,
+  "EOS_NewPlayers": 5393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6567,6 +6567,11 @@
       "Time": "2023-11-19T18:03:28.746391+00:00",
       "NumProgressed": 314570,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-19T19:03:27.2491207+00:00",
+      "NumProgressed": 314618,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6898,7 +6903,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 314570,
+      "Progressed": 314618,
       "Completed": 4
     }
   ],
@@ -6906,8 +6911,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-16T23:57:28.5098553+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:03:28.7463906+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:03:27.2491203+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:48.6947662+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:03:28.7464401+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:54.851952+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:03:27.2491638+00:00"
 }

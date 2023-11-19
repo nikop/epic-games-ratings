@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22829,
+  "EOS_Progressed": 22830,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24540,6 +24540,11 @@
       "Time": "2023-11-19T18:05:07.5320959+00:00",
       "NumProgressed": 22829,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-19T19:05:07.9026516+00:00",
+      "NumProgressed": 22830,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -24639,7 +24644,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10273
+      "UsersEstimate": 10274
     },
     {
       "ID": "ICallItLuck",
@@ -24647,7 +24652,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 9816
+      "UsersEstimate": 9817
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -24655,7 +24660,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "Junkrunner",
@@ -24687,7 +24692,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17350
+      "UsersEstimate": 17351
     },
     {
       "ID": "MoreThanHuman",
@@ -24743,7 +24748,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "PreempativeStrike",
@@ -24751,7 +24756,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "PushItToTheLimit",
@@ -24815,7 +24820,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "SwordRunner",
@@ -24831,7 +24836,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "TripleA",
@@ -24847,7 +24852,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -24863,7 +24868,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6620
+      "UsersEstimate": 6621
     },
     {
       "ID": "Wallrunner",
@@ -24871,7 +24876,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12099
+      "UsersEstimate": 12100
     },
     {
       "ID": "WaveOfMutilation",
@@ -24879,7 +24884,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "WhereAreMyKeys",
@@ -24895,7 +24900,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "WhyNotBoth",
@@ -24910,21 +24915,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22829,
+      "Progressed": 22830,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22829,
+      "Progressed": 22830,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:05:07.5320952+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:05:07.9026512+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:39.017829+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:05:07.5322268+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:44.735473+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:05:07.9027822+00:00"
 }

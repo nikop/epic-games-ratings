@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12948,
+  "EOS_Progressed": 12959,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 919,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10662,6 +10662,11 @@
       "Time": "2023-11-19T18:08:25.7864401+00:00",
       "NumProgressed": 12948,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-19T19:08:27.37253+00:00",
+      "NumProgressed": 12959,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10674,7 +10679,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "a_10",
@@ -10706,7 +10711,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "a_16",
@@ -10722,15 +10727,15 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5313
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 1037
     },
     {
       "ID": "a_2",
@@ -10738,7 +10743,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "a_20",
@@ -10746,7 +10751,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "a_21",
@@ -10754,7 +10759,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "a_22",
@@ -10770,7 +10775,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "a_25",
@@ -10778,7 +10783,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "a_26",
@@ -10794,7 +10799,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "a_28",
@@ -10810,7 +10815,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "a_30",
@@ -10874,7 +10879,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "a_5",
@@ -10890,7 +10895,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "a_7",
@@ -10906,7 +10911,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "a_9",
@@ -10921,7 +10926,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12948,
+      "Progressed": 12959,
       "Completed": 11
     }
   ],
@@ -10929,8 +10934,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:08:25.7864397+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:08:27.3725294+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-19T18:02:42.4336461+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:08:25.7864938+00:00"
+  "LastUpdate_Ratings": "2023-11-19T19:02:39.2911679+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:08:27.3725887+00:00"
 }

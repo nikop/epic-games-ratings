@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5595,
+  "EOS_Progressed": 5597,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -3761,6 +3761,11 @@
       "Time": "2023-11-19T16:09:56.3989128+00:00",
       "NumProgressed": 5595,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-19T19:08:46.2944099+00:00",
+      "NumProgressed": 5597,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3781,7 +3786,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "BeLikeWater",
@@ -3973,7 +3978,7 @@
       "Name": "The Quarterback",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ThisIsDharma",
@@ -4044,7 +4049,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5595,
+      "Progressed": 5597,
       "Completed": 7
     }
   ],
@@ -4052,8 +4057,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:08:44.3678951+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:08:46.2944095+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:57:41.8331551+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:08:44.3679316+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:57:47.7963731+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:08:46.2944407+00:00"
 }

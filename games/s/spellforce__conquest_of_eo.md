@@ -9,11 +9,11 @@
 | Home Sweet Home | 90.00% | ~19 |
 | A kind of Magic | 90.00% | ~19 |
 | Connected | 90.00% | ~19 |
-| Expansion | 76.00% | ~16 |
+| Expansion | 81.00% | ~17 |
 | Artificer's Apprentice | 76.00% | ~16 |
 | Harvest Time | 76.00% | ~16 |
 | Mine! | 71.00% | ~15 |
-| Friend of Lyraine | 62.00% | ~13 |
+| Friend of Lyraine | 67.00% | ~14 |
 | Fly the friendly Sky | 62.00% | ~13 |
 | Alchemist's Apprentice | 57.00% | ~12 |
 | Redecorating | 52.00% | ~11 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -157,9 +157,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 76,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Build_First_Room",
@@ -565,9 +565,9 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -718,8 +718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:05:24.9541041+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:05:26.8106648+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:31.9247956+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:05:24.9541527+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:38.1125989+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:05:26.8107119+00:00"
 }

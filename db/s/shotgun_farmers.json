@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1563,9 +1563,9 @@
       "ID": "ach_honk_horn",
       "SetID": "cmg602e",
       "Name": "Honk Honk",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_horde_darkside",
@@ -2082,8 +2082,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:05:50.536875+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:05:52.7890562+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:00.0974039+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:57:30.6523724+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:05:50.536937+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:57:36.3538035+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:05:52.7891249+00:00"
 }

@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Chapter I | 50.00% | ~84 |
 | Fire in the... nevermind | 50.00% | ~84 |
-| Haute cuisine | 45.00% | ~76 |
-| Demolition expert | 39.00% | ~66 |
-| I didn't do it! | 39.00% | ~66 |
-| Keep away from children | 36.00% | ~60 |
+| Haute cuisine | 44.00% | ~74 |
+| Demolition expert | 38.00% | ~64 |
+| I didn't do it! | 38.00% | ~64 |
+| Keep away from children | 36.00% | ~61 |
 | Open up wide | 34.00% | ~57 |
 | Wooooooow! | 34.00% | ~57 |
-| Artistic fool | 33.00% | ~55 |
-| Let the boot talk | 30.00% | ~50 |
-| Shadow on the wall | 30.00% | ~50 |
-| Chapter II | 24.00% | ~40 |
+| Artistic fool | 33.00% | ~56 |
+| Let the boot talk | 30.00% | ~51 |
+| Shadow on the wall | 30.00% | ~51 |
+| Chapter II | 24.00% | ~41 |
 | Handyman | 22.00% | ~37 |
 | Bubblekillerfamily | 22.00% | ~37 |
 | Chapter III | 22.00% | ~37 |
@@ -27,14 +27,14 @@
 | Fastidious Clown | 17.00% | ~29 |
 | It's not easy being green! | 17.00% | ~29 |
 | Home is where the heart is | 17.00% | ~29 |
-| Master of Thermodynamics | 13.00% | ~22 |
 | Death is a part of life | 13.00% | ~22 |
 | To err is human... | 12.00% | ~20 |
-| Unfullfilled dreams | 11.00% | ~18 |
+| Master of Thermodynamics | 12.00% | ~20 |
+| Unfullfilled dreams | 11.00% | ~19 |
 | Nothing can stop me | 9.00% | ~15 |
 | Mumbo Jumbo | 9.00% | ~15 |
-| Useless but beautiful | 8.00% | ~13 |
-| Lollipop | 8.00% | ~13 |
+| Useless but beautiful | 8.00% | ~14 |
+| Lollipop | 8.00% | ~14 |
 | Where there is life, there is hope | 7.00% | ~12 |
 | It's nothing personal | 7.00% | ~12 |
 | The hands of a healer | 6.00% | ~10 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 392)  
+Progressed: 169 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 163 | 0 |
 | 2023-11-17 | 165 | 0 |
 | 2023-11-18 | 167 | 0 |
-| 2023-11-19 | 168 | 0 |
+| 2023-11-19 | 169 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

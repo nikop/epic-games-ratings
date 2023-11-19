@@ -21,24 +21,24 @@
 | First steps | 14.00% | ~10 |
 | A new way | 12.00% | ~9 |
 | Breaking free | 12.00% | ~9 |
+| A Slice of Life | 11.00% | ~8 |
+| Debut | 11.00% | ~8 |
+| The art of movement | 11.00% | ~8 |
 | True Reflection | 11.00% | ~8 |
 | Whispers long forgotten | 11.00% | ~8 |
-| A Slice of Life | 9.00% | ~7 |
-| Debut | 9.00% | ~7 |
-| The art of movement | 9.00% | ~7 |
-| Another perspective | 7.00% | ~5 |
-| Sound Bite | 7.00% | ~5 |
+| Another perspective | 8.00% | ~6 |
+| Sound Bite | 8.00% | ~6 |
+| Lights! Camera! Action! | 8.00% | ~6 |
 | Heavy Burden | 7.00% | ~5 |
-| Lights! Camera! Action! | 7.00% | ~5 |
 | Casting Finished | 5.00% | ~4 |
 | We Are Not Alone | 5.00% | ~4 |
 | Something to think about | 4.00% | ~3 |
 | I remember It Like Was Yesterday | 4.00% | ~3 |
+| The Perfect Storm | 4.00% | ~3 |
 | Fisherman | 4.00% | ~3 |
 | The Big Picture | 3.00% | ~2 |
 | Body of Work | 3.00% | ~2 |
 | Dark correspondence | 3.00% | ~2 |
-| The Perfect Storm | 3.00% | ~2 |
 | It was worth a try | 1.00% | ~1 |
 | Immortalized in my heart | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |

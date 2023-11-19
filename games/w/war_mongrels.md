@@ -7,9 +7,9 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 67.00% | ~423 |
-| Cowardice | 61.00% | ~385 |
-| NO LIFE IS WORTH SAVING... | 48.00% | ~303 |
-| Eat Lead! | 46.00% | ~290 |
+| Cowardice | 61.00% | ~386 |
+| NO LIFE IS WORTH SAVING... | 47.00% | ~297 |
+| Eat Lead! | 46.00% | ~291 |
 | The Breaking Point | 44.00% | ~278 |
 | Here Comes the Boom | 42.00% | ~265 |
 | Prospector | 41.00% | ~259 |
@@ -19,8 +19,8 @@ Number of Ratings: 34  (23.09.2022)
 | Heroism | 35.00% | ~221 |
 | Collectibles of Chapter I | 34.00% | ~215 |
 | Missing in Action | 34.00% | ~215 |
-| Consequences | 32.00% | ~202 |
 | King of Knives | 32.00% | ~202 |
+| Consequences | 31.00% | ~196 |
 | Opportunities | 31.00% | ~196 |
 | The Horror | 29.00% | ~183 |
 | The Difference | 26.00% | ~164 |
@@ -38,7 +38,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter IV | 14.00% | ~88 |
 | Collectibles of Chapter V | 10.00% | ~63 |
 | Tiptoe Around | 10.00% | ~63 |
-| Such is War! | 8.00% | ~50 |
+| Such is War! | 8.00% | ~51 |
 | Collectibles of Chapter XII | 7.00% | ~44 |
 | Piece of Cake | 7.00% | ~44 |
 | Collectibles of Chapter VII | 6.00% | ~38 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631 (Ranked 289)  
+Progressed: 632 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 610 | 0 |
 | 2023-11-17 | 617 | 0 |
 | 2023-11-18 | 624 | 0 |
-| 2023-11-19 | 631 | 0 |
+| 2023-11-19 | 632 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

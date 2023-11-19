@@ -7,9 +7,9 @@
 | Feels Familiar | 78.00% | ~583 |
 | I Broke It | 74.00% | ~554 |
 | Better On Ice | 71.00% | ~531 |
+| Blue Dreams | 70.00% | ~524 |
 | He's Famous! | 70.00% | ~524 |
 | Notai Notes | 70.00% | ~524 |
-| Blue Dreams | 69.00% | ~516 |
 | Krugmazing | 68.00% | ~509 |
 | Cutie Poro | 68.00% | ~509 |
 | The Fire Below the Mountain | 65.00% | ~486 |
@@ -21,7 +21,7 @@
 | My Darkest Day | 51.00% | ~381 |
 | Rhythm Of Willump | 49.00% | ~367 |
 | The Relentless Storm | 48.00% | ~359 |
-| A Tragic Reminder | 46.00% | ~344 |
+| A Tragic Reminder | 47.00% | ~352 |
 | 3000 Year Blackout | 46.00% | ~344 |
 | The Finisher | 44.00% | ~329 |
 | So Close | 42.00% | ~314 |
@@ -34,7 +34,7 @@
 | Freeze The Ice Witch | 38.00% | ~284 |
 | Deadliest and Biggest Snowball Ever! | 38.00% | ~284 |
 | On The Rocks | 37.00% | ~277 |
-| It Is Not Over | 35.00% | ~262 |
+| It Is Not Over | 36.00% | ~269 |
 | Never Gets Old | 33.00% | ~247 |
 | Snowy Poro | 32.00% | ~239 |
 | Vertical Power | 29.00% | ~217 |
@@ -50,7 +50,7 @@
 | Sneaky Notai | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 748 (Ranked 277)  
-Completed: 7 (0.94%) (Ranked 166)  
+Completed: 7 (0.94%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

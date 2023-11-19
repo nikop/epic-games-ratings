@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2661,
+  "EOS_Progressed": 2662,
   "EOS_Completed": 240,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 2,
@@ -7271,6 +7271,11 @@
       "Time": "2023-11-19T18:08:53.5026495+00:00",
       "NumProgressed": 2661,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-19T19:08:55.3422538+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 12,
@@ -7298,7 +7303,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7354,7 +7359,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Nazis in Paris",
@@ -7377,7 +7382,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2661,
+      "Progressed": 2662,
       "Completed": 240
     }
   ],
@@ -7385,8 +7390,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:08:53.5026491+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:08:55.3422534+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.5028572+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:16.1719846+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:08:53.502698+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:22.2698239+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:08:55.3422977+00:00"
 }

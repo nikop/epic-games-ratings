@@ -4,11 +4,11 @@
   "ProductSlug": "midnight-ghost-hunt",
   "Ranking_Rating": 790,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 312,
+  "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1965,9 +1965,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 1288934,
+  "EOS_Progressed": 1288956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1554,
+  "EOS_NewPlayers": 1558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21970,6 +21970,11 @@
       "Time": "2023-11-19T18:06:04.1953097+00:00",
       "NumProgressed": 1288934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T19:06:06.4271796+00:00",
+      "NumProgressed": 1288956,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -22093,7 +22098,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 141783
+      "UsersEstimate": 141785
     },
     {
       "ID": "10_ghost_wins",
@@ -22101,7 +22106,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 103115
+      "UsersEstimate": 103116
     },
     {
       "ID": "10_hero_prop_kills",
@@ -22117,7 +22122,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 206229
+      "UsersEstimate": 206233
     },
     {
       "ID": "10_hunter_wins",
@@ -22125,7 +22130,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 77336
+      "UsersEstimate": 77337
     },
     {
       "ID": "10_prop_headshots",
@@ -22229,7 +22234,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12889
+      "UsersEstimate": 12890
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -22245,7 +22250,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51557
+      "UsersEstimate": 51558
     },
     {
       "ID": "50_riot_shield_kills",
@@ -22261,7 +22266,7 @@
       "Name": "Ace Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 10311
+      "UsersEstimate": 10312
     },
     {
       "ID": "ace",
@@ -22269,7 +22274,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 128893
+      "UsersEstimate": 128896
     },
     {
       "ID": "ghost_win",
@@ -22277,7 +22282,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 760471
+      "UsersEstimate": 760484
     },
     {
       "ID": "hunter_win",
@@ -22285,7 +22290,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 696024
+      "UsersEstimate": 696036
     },
     {
       "ID": "master_of_loadouts",
@@ -22309,14 +22314,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 296455
+      "UsersEstimate": 296460
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1288934,
+      "Progressed": 1288956,
       "Completed": 0
     }
   ],
@@ -22324,8 +22329,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-18T07:59:54.6506733+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:06:04.1953094+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:06:06.4271792+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:23.6547045+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:57:25.6344061+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:06:04.1954289+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:57:32.1597592+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:06:06.4272731+00:00"
 }

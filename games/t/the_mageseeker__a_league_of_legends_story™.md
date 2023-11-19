@@ -17,7 +17,7 @@ Rating: 4.82 (Ranked 67)
 | Clarion Cove | 39.00% | ~1,027 |
 | Elemental master | 37.00% | ~975 |
 | Past trauma | 37.00% | ~975 |
-| Ternmoat Headquarters | 36.00% | ~948 |
+| Ternmoat Headquarters | 37.00% | ~975 |
 | Cypress Glen Headquarters | 34.00% | ~896 |
 | Petricite Burst | 33.00% | ~869 |
 | Hijack | 31.00% | ~817 |

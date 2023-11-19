@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2921,9 +2921,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 369
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -3168,8 +3168,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:08:48.0094418+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:08:49.8954341+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:02.0177367+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:23.1005263+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:08:48.0095032+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:29.2843254+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:08:49.8954876+00:00"
 }

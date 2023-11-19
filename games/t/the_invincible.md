@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 27.00% | ~48 |
-| The City | 27.00% | ~48 |
+| The Camp | 28.00% | ~50 |
+| The City | 28.00% | ~50 |
 | The Teleprobe | 26.00% | ~47 |
-| The field base | 25.00% | ~45 |
+| The field base | 26.00% | ~47 |
 | Survivors | 23.00% | ~41 |
 | The Condor | 18.00% | ~32 |
 | The End | 18.00% | ~32 |
@@ -15,8 +15,8 @@
 | On her own | 13.00% | ~23 |
 | The Alliance | 13.00% | ~23 |
 | Peacemaker | 12.00% | ~21 |
+| Krauta is alive | 12.00% | ~21 |
 | Volcanologist | 12.00% | ~21 |
-| Krauta is alive | 11.00% | ~20 |
 | Beyond divisions | 11.00% | ~20 |
 | Flying Objects Operator | 10.00% | ~18 |
 | Fierce fight | 9.00% | ~16 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -13523,10 +13523,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 104030,
       "NumberOfAwardsMax": 12891
+    },
+    {
+      "Time": "2023-11-19T18:57:27.5059566+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 104088,
+      "NumberOfAwardsMax": 12891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 104030,
+  "NumberOfAwards": 104088,
   "NumberOfAwardsMax": 12891,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13540,7 +13546,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 11099
+      "Count": 11127
     },
     {
       "Text": "This game is Relaxing",
@@ -13588,7 +13594,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8158
+      "Count": 8188
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13616,9 +13622,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2023-11-19T13:57:26.0053415+00:00",
-  "LastChanged_Achievements": "2023-11-19T18:04:20.753773+00:00",
+  "LastChanged": "2023-11-19T18:57:27.5059564+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:04:20.1423375+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.6241304+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:57:20.7701208+00:00",
-  "LastUpdate_Achievements": "2023-11-19T18:04:20.7537755+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:57:27.505957+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:04:20.1423398+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,514 |
-| Incurious | 17.00% | ~112,875 |
-| Climate Change | 16.00% | ~106,235 |
-| Stroller | 15.00% | ~99,595 |
-| Toy Train | 14.00% | ~92,956 |
-| Advanced Hiker | 13.00% | ~86,316 |
-| Hiker | 12.00% | ~79,676 |
-| Mojave Courier | 6.00% | ~39,838 |
-| Saved by Nausicaä | 5.00% | ~33,198 |
-| Advanced Voyager | 4.00% | ~26,559 |
-| Expert Stroller | 4.00% | ~26,559 |
-| Voyager | 3.00% | ~19,919 |
-| Orient Express | 3.00% | ~19,919 |
-| Marathon | 3.00% | ~19,919 |
-| Destructionist | 3.00% | ~19,919 |
-| Expert Hiker | 2.00% | ~13,279 |
-| Lost | 2.00% | ~13,279 |
+| Advanced Stroller | 18.00% | ~119,518 |
+| Incurious | 17.00% | ~112,878 |
+| Climate Change | 16.00% | ~106,238 |
+| Stroller | 15.00% | ~99,598 |
+| Toy Train | 14.00% | ~92,958 |
+| Advanced Hiker | 13.00% | ~86,318 |
+| Hiker | 12.00% | ~79,679 |
+| Mojave Courier | 6.00% | ~39,839 |
+| Saved by Nausicaä | 5.00% | ~33,199 |
+| Advanced Voyager | 4.00% | ~26,560 |
+| Expert Stroller | 4.00% | ~26,560 |
+| Voyager | 3.00% | ~19,920 |
+| Orient Express | 3.00% | ~19,920 |
+| Marathon | 3.00% | ~19,920 |
+| Destructionist | 3.00% | ~19,920 |
+| Expert Hiker | 2.00% | ~13,280 |
+| Lost | 2.00% | ~13,280 |
 | Rocketman | 0.80% | ~5,312 |
 | Expert Voyager | 0.70% | ~4,648 |
 | Shopaholic | 0.70% | ~4,648 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~664 |
 | 20 Miles under the Sea | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,969 (Ranked 29)  
+Progressed: 663,988 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 12 (0.00%) (Ranked 356)
 | 2023-11-16 | 663,040 | 12 |
 | 2023-11-17 | 663,305 | 12 |
 | 2023-11-18 | 663,724 | 12 |
-| 2023-11-19 | 663,969 | 12 |
+| 2023-11-19 | 663,988 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 288)  
 Sum: 1,599 (Ranked 229)  

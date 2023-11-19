@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 99.00% | ~297 |
-| Hidden History | 85.00% | ~255 |
-| Commencing of Quests | 77.00% | ~231 |
-| Budding Conjuror | 77.00% | ~231 |
-| Man-Machine Master | 68.00% | ~204 |
-| Mountain Splitter | 66.00% | ~198 |
-| Charmed by the Hunt | 66.00% | ~198 |
-| Fusion Conjuror | 65.00% | ~195 |
-| Memory Rouser | 65.00% | ~195 |
-| Subsistence Skills | 65.00% | ~195 |
-| Kemono Hunter | 60.00% | ~180 |
-| Expert Conjuror | 58.00% | ~174 |
-| Flawless Crystal | 55.00% | ~165 |
-| Distance Devourer | 54.00% | ~162 |
-| Bonds of Enmity | 54.00% | ~162 |
-| Helpful Heart | 53.00% | ~159 |
+| Land of the Rising Sun | 99.00% | ~298 |
+| Hidden History | 84.00% | ~253 |
+| Commencing of Quests | 77.00% | ~232 |
+| Budding Conjuror | 77.00% | ~232 |
+| Man-Machine Master | 68.00% | ~205 |
+| Mountain Splitter | 66.00% | ~199 |
+| Charmed by the Hunt | 66.00% | ~199 |
+| Fusion Conjuror | 65.00% | ~196 |
+| Subsistence Skills | 65.00% | ~196 |
+| Memory Rouser | 64.00% | ~193 |
+| Kemono Hunter | 60.00% | ~181 |
+| Expert Conjuror | 58.00% | ~175 |
+| Distance Devourer | 54.00% | ~163 |
+| Flawless Crystal | 54.00% | ~163 |
+| Bonds of Enmity | 54.00% | ~163 |
+| Helpful Heart | 53.00% | ~160 |
 | Master of the Skies | 50.00% | ~150 |
 | Counter Specialist | 50.00% | ~150 |
 | Axer of Auspice | 46.00% | ~138 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~33 |
 | Tsukumo Whisperer | 7.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 345)  
+Progressed: 301 (Ranked 344)  
 Completed: 7 (2.33%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 7 (2.33%) (Ranked 122)
 | 2023-11-16 | 290 | 7 |
 | 2023-11-17 | 294 | 7 |
 | 2023-11-18 | 297 | 7 |
-| 2023-11-19 | 300 | 7 |
+| 2023-11-19 | 301 | 7 |

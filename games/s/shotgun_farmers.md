@@ -40,10 +40,10 @@
 | Chick Magnet | 5.00% | ~17 |
 | I Have The High Ground | 5.00% | ~17 |
 | Pyromaniac | 5.00% | ~14 |
+| Honk Honk | 3.00% | ~10 |
 | Master Survivor | 3.00% | ~9 |
 | Heart Breaker | 3.00% | ~9 |
 | 15 Days | 2.00% | ~7 |
-| Honk Honk | 2.00% | ~7 |
 | Pro Shotgunner | 1.00% | ~3 |
 | Easy Peasy | 1.00% | ~3 |
 | King of the Crow | 0.90% | ~3 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,7 +523,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3666,
+  "EOS_Progressed": 3667,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -5578,6 +5578,11 @@
       "Time": "2023-11-18T19:07:05.1483687+00:00",
       "NumProgressed": 3666,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-19T19:02:59.4408646+00:00",
+      "NumProgressed": 3667,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5773,7 +5778,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5781,7 +5786,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5909,7 +5914,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5924,15 +5929,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3666,
+      "Progressed": 3667,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:06:47.9861184+00:00",
+  "LastChanged_Achievements": "2023-11-19T19:02:59.4408641+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:58:21.7104751+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:06:47.9861736+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:58:28.0079785+00:00",
+  "LastUpdate_Achievements": "2023-11-19T19:02:59.4409478+00:00"
 }

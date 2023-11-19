@@ -8,7 +8,7 @@
 | Thalya – Simply Immortal | 86.00% | ~267 |
 | For the Horde! | 81.00% | ~252 |
 | Hammer Time, Round Two | 80.00% | ~249 |
-| The Hellwoods | 76.00% | ~236 |
+| The Hellwoods | 77.00% | ~239 |
 | The Plains of Strothalm | 70.00% | ~218 |
 | Thalya's Concentrated Fury | 68.00% | ~211 |
 | Experienced Thalya | 68.00% | ~211 |
@@ -17,12 +17,12 @@
 | Magic Accidents | 59.00% | ~183 |
 | Heroes’ Gorge | 59.00% | ~183 |
 | Unicorn steaks – fresh off the hoof! | 58.00% | ~180 |
-| Minions, Minions! | 55.00% | ~171 |
+| Minions, Minions! | 56.00% | ~174 |
 | Trap Master | 53.00% | ~165 |
 | The Ascent | 47.00% | ~146 |
 | It's Warm and Cozy at Home | 47.00% | ~146 |
 | YOU SHALL NOT PASS! | 44.00% | ~137 |
-| Hard Work | 42.00% | ~131 |
+| Hard Work | 43.00% | ~134 |
 | The Big Eaty | 42.00% | ~131 |
 | Pure Dynamite! | 39.00% | ~121 |
 | “… like son” | 36.00% | ~112 |
@@ -30,7 +30,7 @@
 | Dungeonlord Gorgu | 32.00% | ~100 |
 | The Cathedral of Light | 31.00% | ~96 |
 | Shame! Shame! Shame! | 31.00% | ~96 |
-| Tanos' Crusade Against Thalya | 26.00% | ~81 |
+| Tanos' Crusade Against Thalya | 27.00% | ~84 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~72 |
 | Unstoppable Horde | 23.00% | ~72 |
 | Master of the Undead | 21.00% | ~65 |
@@ -38,12 +38,12 @@
 | All’s Well That Ends Evil | 20.00% | ~62 |
 | Forbidden Knowledge | 18.00% | ~56 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
+| Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
 | The Duel | 16.00% | ~50 |
-| Sacrificial Pit = Garbage Disposal? | 15.00% | ~47 |
 | Stop Tanos! | 14.00% | ~44 |
 | If Looks Could Kill | 14.00% | ~44 |
 | The Finitude Drill | 13.00% | ~40 |
-| Bonus Evilness | 9.00% | ~28 |
+| Bonus Evilness | 10.00% | ~31 |
 | Sabotage! | 9.00% | ~28 |
 | Doom Hill | 9.00% | ~28 |
 | Brimstone Shaken, Not Stirred | 9.00% | ~28 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 311 (Ranked 339)  
-Completed: 2 (0.64%) (Ranked 182)  
+Completed: 3 (0.96%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,4 +81,4 @@ Completed: 2 (0.64%) (Ranked 182)
 | 2023-11-16 | 284 | 1 |
 | 2023-11-17 | 291 | 1 |
 | 2023-11-18 | 306 | 1 |
-| 2023-11-19 | 311 | 2 |
+| 2023-11-19 | 311 | 3 |

@@ -6,18 +6,18 @@ Rating: 4.26 (Ranked 869)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 55.00% | ~1,937 |
-| MVP | 54.00% | ~1,901 |
-| Big Spender | 53.00% | ~1,866 |
+| MVP | 54.00% | ~1,902 |
+| Big Spender | 53.00% | ~1,867 |
 | Stud Finder | 41.00% | ~1,444 |
-| Dealmaker | 39.00% | ~1,373 |
+| Dealmaker | 39.00% | ~1,374 |
 | ROTY | 32.00% | ~1,127 |
 | Roster Reshuffle | 31.00% | ~1,092 |
 | Future of the Franchise | 19.00% | ~669 |
 | Throwin’ Dots | 18.00% | ~634 |
 | Already in Progress | 17.00% | ~599 |
 | Change of Scenery | 17.00% | ~599 |
-| Primetime | 16.00% | ~563 |
-| Pro Bowler | 16.00% | ~563 |
+| Primetime | 16.00% | ~564 |
+| Pro Bowler | 16.00% | ~564 |
 | Unblockable | 9.00% | ~317 |
 | Pocket Ace | 5.00% | ~176 |
 | Lockdown Corner | 5.00% | ~176 |
@@ -27,7 +27,7 @@ Rating: 4.26 (Ranked 869)
 | Lockdown Leader | 0.50% | ~18 |
 | The Fortress | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,521 (Ranked 205)  
+Progressed: 3,522 (Ranked 205)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,16 +92,16 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-16 | 3,465 | 0 |
 | 2023-11-17 | 3,482 | 0 |
 | 2023-11-18 | 3,507 | 0 |
-| 2023-11-19 | 3,521 | 0 |
+| 2023-11-19 | 3,522 | 0 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 459)  
-Sum: 89 (Ranked 452)  
-Diff (max vs sum): 7  
+Sum: 91 (Ranked 449)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |
-| This game has a Competitive Community | 29 |
-| This game is Highly Recommended | 22 |
+| This game has a Competitive Community | 30 |
+| This game is Highly Recommended | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -234,3 +234,4 @@ Diff (max vs sum): 7
 | 2023-11-11 | 4.28 | 37 | 88 |
 | 2023-11-16 | 4.27 | 38 | 89 |
 | 2023-11-17 | 4.26 | 38 | 89 |
+| 2023-11-19 | 4.26 | 38 | 91 |

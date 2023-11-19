@@ -1,7 +1,7 @@
 # Warhammer 40,000: Gladius - Relics of War
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-gladius-relics-of-war)  
 [View Rawdata](../../db/w/warhammer_40,000__gladius_-_relics_of_war.json)  
-Rating: 4.41 (Ranked 720)  
+Rating: 4.42 (Ranked 711)  
 Number of Ratings: 39  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 127  (Ranked 332)  
@@ -223,3 +223,4 @@ Diff (max vs sum): 11
 | 2023-11-16 | 4.41 | - | 126 | 525 |
 | 2023-11-17 | 4.41 | - | 127 | 528 |
 | 2023-11-18 | 4.41 | - | 127 | 533 |
+| 2023-11-19 | 4.42 | - | 127 | 533 |
