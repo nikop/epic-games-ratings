@@ -14,21 +14,21 @@ Rating: 4.56 (Ranked 489)
 | Captain Drummer | 4.00% | ~605 |
 | Celebrations are in Order | 4.00% | ~605 |
 | Impossible Objects | 4.00% | ~605 |
-| Keep Arjun in Check | 4.00% | ~43 |
-| Safe Cracker | 4.00% | ~43 |
-| Madame Undersecretary | 4.00% | ~43 |
+| Keep Arjun in Check | 4.00% | ~44 |
+| Safe Cracker | 4.00% | ~44 |
+| Madame Undersecretary | 4.00% | ~44 |
 | Data Archivist | 3.00% | ~454 |
 | Stogie for Fogey | 3.00% | ~454 |
 | Drug Gifter | 3.00% | ~454 |
 | Spore Taste | 3.00% | ~454 |
 | Heal Thy Medic | 3.00% | ~454 |
+| Khan's Revenge | 3.00% | ~454 |
 | Call it Even | 3.00% | ~454 |
 | Master Negotiator | 3.00% | ~33 |
 | Doctor Approved | 2.00% | ~303 |
 | Bottoms up! | 2.00% | ~303 |
 | Thorston Mayer | 2.00% | ~303 |
 | Miraculous Maya | 2.00% | ~303 |
-| Khan's Revenge | 2.00% | ~303 |
 | Data Logger | 1.00% | ~151 |
 | Data Master | 0.90% | ~136 |
 | Brother's Reaper | 0.70% | ~106 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 489)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,133 (Ranked 151)  
-Completed: 34 (0.22%) (Ranked 246)  
+Progressed: 15,136 (Ranked 151)  
+Completed: 35 (0.23%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 34 (0.22%) (Ranked 246)
 | 2023-11-16 | 15,021 | 34 |
 | 2023-11-17 | 15,061 | 34 |
 | 2023-11-18 | 15,097 | 34 |
-| 2023-11-19 | 15,133 | 34 |
+| 2023-11-19 | 15,136 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

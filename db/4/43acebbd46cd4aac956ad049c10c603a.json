@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -105,7 +105,7 @@
   ],
   "EOS_Progressed": 399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1137,9 +1137,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "NewBeginning",
@@ -1169,9 +1169,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 219
     },
     {
       "ID": "Persistent",
@@ -1273,9 +1273,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1305,9 +1305,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "TheThiefOfFire",
@@ -1321,9 +1321,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 295
     },
     {
       "ID": "TouchGrass",
@@ -1394,8 +1394,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:06:13.1272604+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:08:03.3979415+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:57:50.496251+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:06:13.1273006+00:00"
+  "LastUpdate_Ratings": "2023-11-19T22:58:13.9325426+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:08:03.3979901+00:00"
 }

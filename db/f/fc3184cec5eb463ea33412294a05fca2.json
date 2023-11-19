@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1323,9 +1323,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1363,9 +1363,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1403,17 +1403,17 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1458,8 +1458,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:04:42.480442+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:05:58.0214469+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.0538921+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:00:03.9190962+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:04:42.4804593+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:01:39.072027+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:05:58.0214614+00:00"
 }

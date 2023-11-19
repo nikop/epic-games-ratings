@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8082,
+  "EOS_Progressed": 8084,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6791,6 +6791,11 @@
       "Time": "2023-11-19T22:08:54.9305222+00:00",
       "NumProgressed": 8082,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T23:10:10.7300564+00:00",
+      "NumProgressed": 8084,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6851,7 +6856,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "CreditsSpent50000",
@@ -6875,7 +6880,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "EAUpgraded1",
@@ -6923,7 +6928,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "GamesPlayed10",
@@ -6979,7 +6984,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "HAPurchased1",
@@ -7019,7 +7024,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "HSUPurchased1",
@@ -7067,7 +7072,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "InhibitorKills3",
@@ -7171,7 +7176,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "MaxTowersKilled6",
@@ -7219,7 +7224,7 @@
       "Name": "200 Neutral Eliminations",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "NexusKills1",
@@ -7235,7 +7240,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "PlayerKills100",
@@ -7299,7 +7304,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "SEUpgraded1",
@@ -7355,7 +7360,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "TPurchased1",
@@ -7394,7 +7399,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8082,
+      "Progressed": 8084,
       "Completed": 1
     }
   ],
@@ -7402,8 +7407,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:08:54.9305218+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:10:10.7300559+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:00:24.1779943+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:08:54.9306151+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:02:39.7768423+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:10:10.7301738+00:00"
 }

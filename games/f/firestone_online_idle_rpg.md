@@ -5,23 +5,23 @@ Rating: 4.12 (Ranked 961)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,307 |
-| World Map | 79.00% | ~1,960 |
-| Temple of Eternals | 57.00% | ~1,414 |
-| Prestigious | 54.00% | ~1,340 |
-| Fellowship Power | 42.00% | ~1,042 |
-| Guild Power | 25.00% | ~620 |
+| Victor | 93.00% | ~2,309 |
+| World Map | 79.00% | ~1,962 |
+| Temple of Eternals | 57.00% | ~1,415 |
+| Prestigious | 54.00% | ~1,341 |
+| Fellowship Power | 42.00% | ~1,043 |
+| Guild Power | 25.00% | ~621 |
 | Prestigious x10 | 22.00% | ~546 |
-| The game is on | 20.00% | ~496 |
+| The game is on | 20.00% | ~497 |
 | Exotic Merchant | 18.00% | ~447 |
 | Dragon Clicker | 17.00% | ~422 |
 | Inspection | 16.00% | ~397 |
 | Miner Clicker | 16.00% | ~397 |
-| Enlightenment | 15.00% | ~372 |
 | Full Party | 15.00% | ~372 |
-| Dragon Master | 14.00% | ~347 |
-| Hero inspection | 14.00% | ~347 |
-| Lieutenant | 14.00% | ~347 |
+| Dragon Master | 14.00% | ~348 |
+| Enlightenment | 14.00% | ~348 |
+| Hero inspection | 14.00% | ~348 |
+| Lieutenant | 14.00% | ~348 |
 | Natural Talent | 13.00% | ~323 |
 | The Unstoppable | 13.00% | ~323 |
 | Milestone collector | 12.00% | ~298 |
@@ -41,8 +41,8 @@ Rating: 4.12 (Ranked 961)
 | Frostfire Liberator | 9.00% | ~223 |
 | Master Enchanter | 9.00% | ~223 |
 | The father of Dragons | 9.00% | ~223 |
-| Here We Go Again | 8.00% | ~198 |
-| Trader | 8.00% | ~198 |
+| Here We Go Again | 8.00% | ~199 |
+| Trader | 8.00% | ~199 |
 | Blueprint Upgrades | 7.00% | ~174 |
 | Crystal Mining | 7.00% | ~174 |
 | Dragon Slayer | 7.00% | ~174 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 961)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,481 (Ranked 216)  
+Progressed: 2,483 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,11 +289,11 @@ Completed: 2 (0.08%) (Ranked 291)
 | 2023-11-16 | 2,376 | 2 |
 | 2023-11-17 | 2,423 | 2 |
 | 2023-11-18 | 2,456 | 2 |
-| 2023-11-19 | 2,481 | 2 |
+| 2023-11-19 | 2,483 | 2 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 486)  
-Sum: 82 (Ranked 457)  
-Diff (max vs sum): 29  
+Sum: 82 (Ranked 458)  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

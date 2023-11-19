@@ -86,20 +86,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.80% | ~1,125 |
 | Exotic Commodities | 0.80% | ~1,125 |
 | King's Blade | 0.80% | ~1,125 |
-| Top of the World | 0.70% | ~984 |
-| Constellated | 0.70% | ~984 |
-| Thirst for Knowledge | 0.70% | ~984 |
-| Booty by the Boatload | 0.70% | ~984 |
-| Archivist | 0.70% | ~984 |
-| Fillin' the Bin | 0.70% | ~984 |
-| Industrial Evolution | 0.70% | ~984 |
-| Ritualist | 0.70% | ~984 |
-| A Legend is Born | 0.70% | ~984 |
-| Bountiful Harvest | 0.70% | ~984 |
-| Precision Engineering | 0.70% | ~984 |
-| Moment of Respite | 0.70% | ~984 |
-| King's Shadow | 0.70% | ~984 |
-| Economy of Scarce | 0.70% | ~984 |
+| Top of the World | 0.70% | ~985 |
+| Constellated | 0.70% | ~985 |
+| Thirst for Knowledge | 0.70% | ~985 |
+| Booty by the Boatload | 0.70% | ~985 |
+| Archivist | 0.70% | ~985 |
+| Fillin' the Bin | 0.70% | ~985 |
+| Industrial Evolution | 0.70% | ~985 |
+| Ritualist | 0.70% | ~985 |
+| A Legend is Born | 0.70% | ~985 |
+| Bountiful Harvest | 0.70% | ~985 |
+| Precision Engineering | 0.70% | ~985 |
+| Moment of Respite | 0.70% | ~985 |
+| King's Shadow | 0.70% | ~985 |
+| Economy of Scarce | 0.70% | ~985 |
 | Jackpot! | 0.60% | ~844 |
 | The Free Encyclopedia | 0.50% | ~703 |
 | Thank You Tom Nook | 0.50% | ~703 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,638 (Ranked 80)  
+Progressed: 140,648 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 188 (0.13%) (Ranked 267)
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
-| 2023-11-19 | 140,638 | 188 |
+| 2023-11-19 | 140,648 | 188 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,568 (Ranked 50)  

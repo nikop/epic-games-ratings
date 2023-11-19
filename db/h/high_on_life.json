@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24499,
+  "EOS_Progressed": 24500,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6728,6 +6728,11 @@
       "Time": "2023-11-19T20:05:44.606299+00:00",
       "NumProgressed": 24499,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-19T23:06:40.2492805+00:00",
+      "NumProgressed": 24500,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6971,7 +6976,7 @@
       "Name": "Playing Favorites",
       "Percentage": 0.3,
       "XP": 45,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_STANS_STUFF",
@@ -6979,7 +6984,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -7090,13 +7095,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24499,
+      "Progressed": 24500,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1792,
+      "Progressed": 1793,
       "Completed": 1376
     }
   ],
@@ -7104,8 +7109,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:05:12.8366876+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:06:40.2492801+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:58:31.543214+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:05:12.8367399+00:00"
+  "LastUpdate_Ratings": "2023-11-19T22:59:17.1178176+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:06:40.2493265+00:00"
 }

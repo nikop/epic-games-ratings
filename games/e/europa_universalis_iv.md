@@ -152,6 +152,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.10% | ~460 |
 | Rise of the White Sheep | 0.10% | ~460 |
 | Royal Authority | 0.10% | ~460 |
+| Rozwi Empire | 0.10% | ~460 |
 | Ruina Imperii | 0.10% | ~460 |
 | Sakoku Law | 0.10% | ~460 |
 | Seriously?! | 0.10% | ~460 |
@@ -321,7 +322,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rags and Riches | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Rozwi Empire | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,664 (Ranked 41)  
+Progressed: 459,684 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,7 +583,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,664 | 1 |
+| 2023-11-19 | 459,684 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
 Sum: 58,277 (Ranked 24)  

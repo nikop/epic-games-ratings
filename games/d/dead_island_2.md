@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~932 |
-| Whatever It Takes | 2.00% | ~932 |
-| Pork Chopped | 2.00% | ~932 |
+| One of Us | 2.00% | ~933 |
+| Whatever It Takes | 2.00% | ~933 |
+| Pork Chopped | 2.00% | ~933 |
 | Git Gutte! | 1.00% | ~7,211 |
 | Break A Leg | 1.00% | ~7,211 |
 | Coup de Grâce | 1.00% | ~7,211 |
@@ -26,16 +26,16 @@ Rating: 4.54 (Ranked 523)
 | Can't Handle the Truth | 0.80% | ~5,769 |
 | Like Riding a Bike | 0.80% | ~5,769 |
 | A Patton Emerges | 0.80% | ~5,769 |
-| Perks of the Job | 0.70% | ~5,047 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,047 |
-| Slayer Squad | 0.70% | ~5,047 |
-| Zombologist | 0.70% | ~5,047 |
-| Ooh, Shiny! | 0.70% | ~5,047 |
-| Our True Nature | 0.70% | ~5,047 |
-| Making Your Mark | 0.60% | ~4,326 |
-| Humanity Distilled | 0.60% | ~4,326 |
-| I Am the Resurrection | 0.60% | ~4,326 |
-| Max Headroom | 0.60% | ~4,326 |
+| Perks of the Job | 0.70% | ~5,048 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,048 |
+| Slayer Squad | 0.70% | ~5,048 |
+| Zombologist | 0.70% | ~5,048 |
+| Ooh, Shiny! | 0.70% | ~5,048 |
+| Our True Nature | 0.70% | ~5,048 |
+| Making Your Mark | 0.60% | ~4,327 |
+| Humanity Distilled | 0.60% | ~4,327 |
+| I Am the Resurrection | 0.60% | ~4,327 |
+| Max Headroom | 0.60% | ~4,327 |
 | Not Even My Final Form | 0.50% | ~3,605 |
 | Down with the Sickness | 0.50% | ~3,605 |
 | On Safari | 0.40% | ~2,884 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,070 (Ranked 20)  
+Progressed: 721,090 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,412 (0.33%) (Ranked 228)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 721,070 | 2,412 |
+| 2023-11-19 | 721,090 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
 Sum: 11,539 (Ranked 84)  

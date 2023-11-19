@@ -6,25 +6,25 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 87.00% | ~271 |
 | Thalya – Simply Immortal | 87.00% | ~271 |
-| For the Horde! | 81.00% | ~253 |
-| Hammer Time, Round Two | 80.00% | ~250 |
+| For the Horde! | 82.00% | ~256 |
+| Hammer Time, Round Two | 81.00% | ~253 |
 | The Hellwoods | 77.00% | ~240 |
-| The Plains of Strothalm | 71.00% | ~222 |
-| Experienced Thalya | 69.00% | ~215 |
+| The Plains of Strothalm | 72.00% | ~225 |
+| Experienced Thalya | 70.00% | ~218 |
 | Thalya's Concentrated Fury | 68.00% | ~212 |
-| Master of Magic | 65.00% | ~203 |
+| Master of Magic | 66.00% | ~206 |
 | Bad Elves Go Everywhere | 65.00% | ~203 |
 | Heroes’ Gorge | 60.00% | ~187 |
 | Magic Accidents | 59.00% | ~184 |
-| Unicorn steaks – fresh off the hoof! | 58.00% | ~181 |
+| Unicorn steaks – fresh off the hoof! | 59.00% | ~184 |
 | Minions, Minions! | 57.00% | ~178 |
 | Trap Master | 53.00% | ~165 |
 | The Ascent | 47.00% | ~147 |
 | It's Warm and Cozy at Home | 47.00% | ~147 |
 | YOU SHALL NOT PASS! | 45.00% | ~140 |
-| Hard Work | 43.00% | ~134 |
+| Hard Work | 44.00% | ~137 |
 | The Big Eaty | 43.00% | ~134 |
-| Pure Dynamite! | 39.00% | ~122 |
+| Pure Dynamite! | 40.00% | ~125 |
 | “… like son” | 37.00% | ~115 |
 | Mana Cannon | 34.00% | ~106 |
 | Dungeonlord Gorgu | 32.00% | ~100 |

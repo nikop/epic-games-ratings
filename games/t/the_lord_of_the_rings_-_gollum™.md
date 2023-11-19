@@ -20,8 +20,8 @@
 | Gollum/Sméagol | 10.00% | ~60 |
 | Murderer | 10.00% | ~60 |
 | Trigger-Happy | 10.00% | ~60 |
+| The Friend | 9.00% | ~54 |
 | He's so Annoying | 8.00% | ~48 |
-| The Friend | 8.00% | ~48 |
 | Master of the Old Game | 6.00% | ~36 |
 | Made a Song | 5.00% | ~30 |
 | So Silly! | 4.00% | ~24 |
@@ -35,8 +35,8 @@
 | Elf-Friend | 0.70% | ~4 |
 | We wants it! We needs it | 0.70% | ~4 |
 | Scout | 0.70% | ~4 |
+| We Hates Them! | 0.50% | ~3 |
 | Good Sméagol! | 0.50% | ~3 |
-| We Hates Them! | 0.30% | ~2 |
 | Rule them all! | 0.20% | ~1 |
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |

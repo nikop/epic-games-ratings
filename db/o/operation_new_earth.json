@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.35,
+  "Rating": 3.26,
   "RatingHistory": [
     {
       "Time": "2023-10-02T15:57:56.3745228+00:00",
@@ -65,15 +65,21 @@
       "Rating": 3.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-19T22:59:32.4737199+00:00",
+      "Rating": 3.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1862,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7006,6 +7012,11 @@
       "Time": "2023-11-19T16:06:03.5695862+00:00",
       "NumProgressed": 1862,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T23:05:53.8506577+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7049,7 +7060,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -7137,7 +7148,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7193,7 +7204,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7201,7 +7212,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7233,7 +7244,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -7320,16 +7331,16 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1862,
+      "Progressed": 1863,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged": "2023-11-15T21:00:03.3726924+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:04:39.4722299+00:00",
+  "LastChanged": "2023-11-19T22:59:32.4737198+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:05:53.8506575+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:45.1710661+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:58:41.7476004+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:04:39.4722869+00:00"
+  "LastUpdate_Ratings": "2023-11-19T22:59:32.4737203+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:05:53.8507126+00:00"
 }

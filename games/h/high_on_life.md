@@ -33,8 +33,8 @@ Rating: 4.64 (Ranked 332)
 | We Paid For The Rights To Put A Whole Movie In Here | 0.50% | ~122 |
 | Fall In Love With A Parasite | 0.50% | ~9 |
 | Sequel-Bait | 0.40% | ~98 |
-| Playing Favorites | 0.30% | ~73 |
-| Carried Stan's Load To Completion | 0.30% | ~73 |
+| Playing Favorites | 0.30% | ~74 |
+| Carried Stan's Load To Completion | 0.30% | ~74 |
 | Mods Please Ban | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |
 | Give Away All Your Money | 0.20% | ~4 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 332)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,499 (Ranked 128)  
+Progressed: 24,500 (Ranked 128)  
 Completed: 13 (0.05%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 13 (0.05%) (Ranked 305)
 | 2023-11-16 | 24,486 | 13 |
 | 2023-11-17 | 24,490 | 13 |
 | 2023-11-18 | 24,495 | 13 |
-| 2023-11-19 | 24,499 | 13 |
+| 2023-11-19 | 24,500 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

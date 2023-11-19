@@ -4,11 +4,11 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 459,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -553,10 +553,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-19T23:01:57.8286613+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 100,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
+  "NumberOfAwards": 100,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -583,11 +589,17 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 5824,
+  "EOS_Progressed": 5825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5875,6 +5887,11 @@
       "Time": "2023-11-19T22:06:10.5287543+00:00",
       "NumProgressed": 5824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T23:07:59.5888576+00:00",
+      "NumProgressed": 5825,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5927,7 +5944,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "achievement_0007",
@@ -5935,7 +5952,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "achievement_0008",
@@ -5943,7 +5960,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "achievement_0009",
@@ -5959,7 +5976,7 @@
       "Name": "Network Success",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "achievement_0011",
@@ -5983,7 +6000,7 @@
       "Name": "Oil and Water",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_0014",
@@ -6029,9 +6046,9 @@
       "ID": "achievement_0019",
       "SetID": "9123ogc",
       "Name": "Undisputed Winner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 466
+      "UsersEstimate": 524
     },
     {
       "ID": "achievement_0020",
@@ -6039,7 +6056,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_0021",
@@ -6047,7 +6064,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "achievement_0022",
@@ -6143,7 +6160,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3203
+      "UsersEstimate": 3204
     },
     {
       "ID": "achievement_0034",
@@ -6159,7 +6176,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_0036",
@@ -6191,7 +6208,7 @@
       "Name": "Smooth Operator",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "achievement_0040",
@@ -6223,7 +6240,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "achievement_0044",
@@ -6239,7 +6256,7 @@
       "Name": "Making History",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "achievement_0046",
@@ -6278,16 +6295,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5824,
+      "Progressed": 5825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-19T22:00:16.3401542+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:06:10.528754+00:00",
+  "LastChanged": "2023-11-19T23:01:57.8286612+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:07:59.5888573+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:00:16.3401546+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:06:10.5288402+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:01:57.8286618+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:07:59.588932+00:00"
 }

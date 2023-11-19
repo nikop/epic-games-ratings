@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -718,8 +718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:05:25.0444748+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:06:56.1869273+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-19T21:58:42.7296274+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:05:25.0445362+00:00"
+  "LastUpdate_Ratings": "2023-11-19T22:59:33.9716492+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:06:56.186975+00:00"
 }

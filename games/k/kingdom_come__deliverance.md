@@ -6,20 +6,20 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,904 |
-| Cavalier | 25.00% | ~202,269 |
-| Fatso | 23.00% | ~186,087 |
+| Blacksmith's Son | 32.00% | ~258,905 |
+| Cavalier | 25.00% | ~202,270 |
+| Fatso | 23.00% | ~186,088 |
 | Awakening | 21.00% | ~169,906 |
-| Ranger | 20.00% | ~161,815 |
-| Scrooge | 20.00% | ~161,815 |
+| Ranger | 20.00% | ~161,816 |
+| Scrooge | 20.00% | ~161,816 |
 | Anorectic | 16.00% | ~129,452 |
-| Bookworm | 15.00% | ~121,361 |
-| Firestarter | 15.00% | ~121,361 |
+| Bookworm | 15.00% | ~121,362 |
+| Firestarter | 15.00% | ~121,362 |
 | Insomniac | 13.00% | ~105,180 |
 | Buddy | 12.00% | ~97,089 |
 | Thief | 12.00% | ~97,089 |
-| Sinner | 11.00% | ~88,998 |
-| Traveller | 11.00% | ~88,998 |
+| Sinner | 11.00% | ~88,999 |
+| Traveller | 11.00% | ~88,999 |
 | Convict | 10.00% | ~80,908 |
 | Haggler | 9.00% | ~72,817 |
 | McLovin | 7.00% | ~56,635 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~809 |
 | Wingman | 0.10% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809,076 (Ranked 17)  
+Progressed: 809,078 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,16 +302,16 @@ Completed: 51 (0.01%) (Ranked 334)
 | 2023-11-16 | 808,645 | 51 |
 | 2023-11-17 | 808,751 | 51 |
 | 2023-11-18 | 808,937 | 51 |
-| 2023-11-19 | 809,076 | 51 |
+| 2023-11-19 | 809,078 | 51 |
 ## Awards
 Max (Character Customization): 7,615  (Ranked 49)  
-Sum: 28,287 (Ranked 48)  
+Sum: 28,290 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,615 |
 | This game has Great Boss Battles | 5,576 |
-| This game has Challenging Combat | 1,775 |
+| This game has Challenging Combat | 1,778 |
 | This game has Diverse Characters | 1,732 |
 | This game has Amazing Storytelling | 1,722 |
 | This game is Highly Recommended | 1,695 |
@@ -620,4 +620,4 @@ Diff (max vs sum): 1
 | 2023-11-16 | 4.71 | - | 7,606 | 28,250 |
 | 2023-11-17 | 4.71 | - | 7,611 | 28,263 |
 | 2023-11-18 | 4.71 | - | 7,611 | 28,272 |
-| 2023-11-19 | 4.71 | - | 7,615 | 28,287 |
+| 2023-11-19 | 4.71 | - | 7,615 | 28,290 |

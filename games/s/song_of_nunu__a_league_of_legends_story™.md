@@ -14,18 +14,18 @@
 | Cutie Poro | 68.00% | ~511 |
 | The Fire Below the Mountain | 65.00% | ~488 |
 | Moneyball | 62.00% | ~466 |
+| No Bites | 59.00% | ~443 |
 | Iceborn | 59.00% | ~443 |
-| No Bites | 58.00% | ~436 |
 | Boom Things | 56.00% | ~421 |
 | Tear of Freedom | 55.00% | ~413 |
 | My Darkest Day | 51.00% | ~383 |
 | Rhythm Of Willump | 49.00% | ~368 |
-| The Relentless Storm | 48.00% | ~360 |
+| The Relentless Storm | 49.00% | ~368 |
 | A Tragic Reminder | 47.00% | ~353 |
 | 3000 Year Blackout | 46.00% | ~345 |
 | The Finisher | 44.00% | ~330 |
 | So Close | 43.00% | ~323 |
-| You Get Used To It | 42.00% | ~315 |
+| You Get Used To It | 43.00% | ~323 |
 | True Legends | 42.00% | ~315 |
 | Bullseye | 39.00% | ~293 |
 | Boosted! | 39.00% | ~293 |

@@ -10,7 +10,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Strongman | 31.00% | ~6,609 |
 | Alpha Male | 20.00% | ~4,264 |
 | Just Enough | 19.00% | ~4,051 |
-| Pro-creative | 18.00% | ~3,837 |
+| Pro-creative | 19.00% | ~4,051 |
 | Worth Every Penny | 14.00% | ~2,985 |
 | Family man | 13.00% | ~2,771 |
 | Junior Estate Agent | 13.00% | ~2,771 |

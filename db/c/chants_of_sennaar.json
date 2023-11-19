@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.72,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2620,6 +2620,11 @@
       "Time": "2023-11-19T22:04:43.6118362+00:00",
       "NumProgressed": 612,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-19T23:05:59.5711711+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2645,9 +2650,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2663,7 +2668,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "META_HALF_LINK",
@@ -2719,15 +2724,15 @@
       "Name": "A Link to the Past",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2735,7 +2740,7 @@
       "Name": "Rascal",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2759,7 +2764,7 @@
       "Name": "Fashion victim",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -2799,7 +2804,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PROGRESS_N3",
@@ -2823,21 +2828,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T22:04:43.6118358+00:00",
+  "LastChanged_Achievements": "2023-11-19T23:05:59.5711709+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:00:10.4965046+00:00",
-  "LastUpdate_Achievements": "2023-11-19T22:04:43.611867+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:01:49.3258749+00:00",
+  "LastUpdate_Achievements": "2023-11-19T23:05:59.5711936+00:00"
 }

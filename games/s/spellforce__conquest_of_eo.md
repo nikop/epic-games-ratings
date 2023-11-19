@@ -25,6 +25,7 @@
 | Sevenkeeps Seat of Kings | 29.00% | ~6 |
 | Friend of Gillyshire | 29.00% | ~6 |
 | Break Free | 29.00% | ~6 |
+| Philo's Tale | 24.00% | ~5 |
 | Castle Meldec | 24.00% | ~5 |
 | Friend of Alluvyan | 24.00% | ~5 |
 | Friend of Connach | 24.00% | ~5 |
@@ -32,7 +33,6 @@
 | Bad JuJu | 24.00% | ~5 |
 | Defeat Gor | 19.00% | ~4 |
 | Defeat Uram | 19.00% | ~4 |
-| Philo's Tale | 19.00% | ~4 |
 | Stormwatch Faste | 19.00% | ~4 |
 | Friend of Orgash | 19.00% | ~4 |
 | Defeat Hokan | 14.00% | ~3 |

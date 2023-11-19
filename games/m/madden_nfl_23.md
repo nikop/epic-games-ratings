@@ -1,13 +1,13 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.26 (Ranked 868)  
+Rating: 4.27 (Ranked 860)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 55.00% | ~1,940 |
+| MVP | 54.00% | ~1,905 |
 | Big Spender | 53.00% | ~1,869 |
-| MVP | 53.00% | ~1,869 |
 | Stud Finder | 41.00% | ~1,446 |
 | Dealmaker | 39.00% | ~1,376 |
 | ROTY | 32.00% | ~1,129 |
@@ -95,8 +95,8 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-19 | 3,527 | 0 |
 ## Awards
 Max (Diverse Characters): 38  (Ranked 459)  
-Sum: 91 (Ranked 449)  
-Diff (max vs sum): 10  
+Sum: 91 (Ranked 450)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 38 |
@@ -234,4 +234,4 @@ Diff (max vs sum): 10
 | 2023-11-11 | 4.28 | 37 | 88 |
 | 2023-11-16 | 4.27 | 38 | 89 |
 | 2023-11-17 | 4.26 | 38 | 89 |
-| 2023-11-19 | 4.26 | 38 | 91 |
+| 2023-11-19 | 4.27 | 38 | 91 |
