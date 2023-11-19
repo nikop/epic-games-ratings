@@ -18,6 +18,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.30% | ~720 |
 | That Was Quick | 0.30% | ~720 |
 | Colorful Corpse | 0.30% | ~720 |
+| Cold Hearted | 0.30% | ~720 |
 | I Am Overburdened | 0.30% | ~720 |
 | Defeat The Dark | 0.30% | ~720 |
 | The Bestiary | 0.30% | ~720 |
@@ -47,7 +48,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.20% | ~480 |
 | Walk It Off | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
-| Cold Hearted | 0.20% | ~480 |
 | Save Our Souls | 0.20% | ~480 |
 | Destroy Your Fears | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,939 (Ranked 62)  
+Progressed: 239,941 (Ranked 62)  
 Completed: 288 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,7 +358,7 @@ Completed: 288 (0.12%) (Ranked 274)
 | 2023-11-16 | 239,775 | 288 |
 | 2023-11-17 | 239,825 | 288 |
 | 2023-11-18 | 239,893 | 288 |
-| 2023-11-19 | 239,939 | 288 |
+| 2023-11-19 | 239,941 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,684 (Ranked 83)  

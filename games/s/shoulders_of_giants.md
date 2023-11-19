@@ -1,22 +1,22 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.34 (Ranked 805)  
+Rating: 4.34 (Ranked 804)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~2,016 |
-| A Ribbiting Performance | 76.00% | ~1,741 |
-| At Least We Have Each Other... | 75.00% | ~1,718 |
-| Frogbot | 73.00% | ~1,672 |
-| Ouch | 55.00% | ~1,260 |
-| Fun in the Stun | 54.00% | ~1,237 |
-| The Interdimensional Power of Friendship | 44.00% | ~1,008 |
-| Do you feel like a tough guy? | 43.00% | ~985 |
-| Turn Up The HEAT | 41.00% | ~939 |
-| Stop Hitting Yourself! | 34.00% | ~779 |
-| Nothing to Wear | 31.00% | ~710 |
-| The First Law of Thermodynamics | 28.00% | ~641 |
+| On the Shoulders of Giants | 88.00% | ~2,018 |
+| A Ribbiting Performance | 76.00% | ~1,743 |
+| At Least We Have Each Other... | 75.00% | ~1,720 |
+| Frogbot | 72.00% | ~1,651 |
+| Ouch | 55.00% | ~1,261 |
+| Fun in the Stun | 54.00% | ~1,238 |
+| The Interdimensional Power of Friendship | 44.00% | ~1,009 |
+| Do you feel like a tough guy? | 43.00% | ~986 |
+| Turn Up The HEAT | 41.00% | ~940 |
+| Stop Hitting Yourself! | 34.00% | ~780 |
+| Nothing to Wear | 31.00% | ~711 |
+| The First Law of Thermodynamics | 28.00% | ~642 |
 | The Second Law of Thermodynamics | 15.00% | ~344 |
 | Do you trust me? | 15.00% | ~344 |
 | Taking Out the Trash | 10.00% | ~229 |
@@ -25,8 +25,8 @@ Rating: 4.34 (Ranked 805)
 | Better Than the Devs | 4.00% | ~92 |
 | So do we just stay up here, or?... | 2.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,291 (Ranked 219)  
-Completed: 10 (0.44%) (Ranked 208)  
+Progressed: 2,293 (Ranked 219)  
+Completed: 10 (0.44%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,6 +156,7 @@ Completed: 10 (0.44%) (Ranked 208)
 | 2023-11-07 | 2,287 | 9 |
 | 2023-11-08 | 2,289 | 9 |
 | 2023-11-18 | 2,291 | 10 |
+| 2023-11-19 | 2,293 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

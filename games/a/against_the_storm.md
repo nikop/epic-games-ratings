@@ -14,6 +14,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 6.00% | ~1,041 |
 | Coral Forest | 6.00% | ~1,041 |
 | The Scarlet Orchard | 6.00% | ~1,041 |
+| Bandit Camp | 5.00% | ~867 |
 | Ancient Battleground | 5.00% | ~867 |
 | Sparkdew Crystals | 5.00% | ~867 |
 | Royal Outpost | 5.00% | ~867 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 4.00% | ~694 |
 | Against All Odds | 4.00% | ~694 |
 | Ruined Armory | 4.00% | ~694 |
-| Bandit Camp | 4.00% | ~694 |
 | Barren Lands | 4.00% | ~694 |
 | Haunted Forest | 4.00% | ~694 |
 | Levitating Monument | 4.00% | ~694 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,349 (Ranked 144)  
-Completed: 56 (0.32%) (Ranked 230)  
+Completed: 56 (0.32%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

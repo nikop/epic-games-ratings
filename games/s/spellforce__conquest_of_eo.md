@@ -11,7 +11,7 @@
 | Connected | 90.00% | ~19 |
 | Expansion | 76.00% | ~16 |
 | Artificer's Apprentice | 76.00% | ~16 |
-| Harvest Time | 71.00% | ~15 |
+| Harvest Time | 76.00% | ~16 |
 | Mine! | 71.00% | ~15 |
 | Friend of Lyraine | 62.00% | ~13 |
 | Fly the friendly Sky | 62.00% | ~13 |

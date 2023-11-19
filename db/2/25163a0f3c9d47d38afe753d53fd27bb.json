@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1381,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.86,
+  "EOS_Completed_Percentage": 6.81,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3369,6 +3369,11 @@
       "Time": "2023-11-19T17:09:12.398783+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-11-19T18:09:01.4492008+00:00",
+      "NumProgressed": 1381,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 30,
@@ -3380,7 +3385,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1298
     },
     {
       "ID": "LEVEL_002",
@@ -3388,7 +3393,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1091
     },
     {
       "ID": "LEVEL_003",
@@ -3396,7 +3401,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 925
     },
     {
       "ID": "LEVEL_004",
@@ -3404,15 +3409,15 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 732
     },
     {
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 608
     },
     {
       "ID": "LEVEL_006",
@@ -3420,7 +3425,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 511
     },
     {
       "ID": "LEVEL_007",
@@ -3428,7 +3433,7 @@
       "Name": "Animals in the farm",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 442
     },
     {
       "ID": "LEVEL_008",
@@ -3436,7 +3441,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 400
     },
     {
       "ID": "LEVEL_009",
@@ -3444,15 +3449,15 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 359
     },
     {
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 304
     },
     {
       "ID": "LEVEL_011",
@@ -3460,7 +3465,7 @@
       "Name": "This island of mine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 276
     },
     {
       "ID": "LEVEL_012",
@@ -3468,7 +3473,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_013",
@@ -3476,7 +3481,7 @@
       "Name": "Higher ground",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "LEVEL_014",
@@ -3484,7 +3489,7 @@
       "Name": "Cross-country",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 221
     },
     {
       "ID": "LEVEL_015",
@@ -3492,7 +3497,7 @@
       "Name": "Flatland",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "LEVEL_016",
@@ -3500,7 +3505,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "LEVEL_017",
@@ -3508,7 +3513,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_018",
@@ -3516,7 +3521,7 @@
       "Name": "Isle rock city",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_019",
@@ -3524,15 +3529,15 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 110,
-      "UsersEstimate": 137
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_021",
@@ -3564,7 +3569,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_025",
@@ -3572,7 +3577,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_026",
@@ -3580,7 +3585,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_027",
@@ -3588,7 +3593,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_028",
@@ -3596,7 +3601,7 @@
       "Name": "What is the country?",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_029",
@@ -3604,7 +3609,7 @@
       "Name": "Bridges connect us",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LEVEL_030",
@@ -3612,21 +3617,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1381,
       "Completed": 94
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:09:12.3987827+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:09:01.4492003+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:59:52.5231872+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:09:12.39882+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:59:35.8472921+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:09:01.4492287+00:00"
 }

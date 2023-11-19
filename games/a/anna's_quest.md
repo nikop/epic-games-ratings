@@ -37,8 +37,8 @@
 | Kill it! KILL IT! | 20.00% | ~16 |
 | Singstar | 19.00% | ~15 |
 | Makeover | 18.00% | ~14 |
+| Cameodalic | 16.00% | ~13 |
 | Bahahahaha... | 16.00% | ~13 |
-| Cameodalic | 15.00% | ~12 |
 | Guilty conscience | 15.00% | ~12 |
 | Clever reference #451 | 13.00% | ~10 |
 | What a mess | 10.00% | ~8 |

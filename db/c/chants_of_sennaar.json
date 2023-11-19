@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 609,
+  "EOS_Progressed": 610,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 5.75,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2605,6 +2605,11 @@
       "Time": "2023-11-19T17:04:53.7619481+00:00",
       "NumProgressed": 609,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-19T18:04:45.1591353+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2664,7 +2669,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2680,7 +2685,7 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2712,7 +2717,7 @@
       "Name": "Alchemists Express",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2736,7 +2741,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2774,9 +2779,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 183
     },
     {
       "ID": "PROGRESS_N2",
@@ -2784,7 +2789,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PROGRESS_N3",
@@ -2815,14 +2820,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 609,
+      "Progressed": 610,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:04:53.7619478+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:04:45.1591348+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:00:20.2728493+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:04:53.7619736+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:00:00.1453167+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:04:45.1591632+00:00"
 }

@@ -23,8 +23,8 @@
 | Pal of your father? | 68.00% | ~234 |
 | Employee of the month | 67.00% | ~230 |
 | Spirit of the past | 66.00% | ~227 |
+| Law student | 63.00% | ~217 |
 | Workout professional | 62.00% | ~213 |
-| Law student | 62.00% | ~213 |
 | Handyman | 61.00% | ~210 |
 | Champion – starter pack | 60.00% | ~206 |
 | It's good to be alive | 60.00% | ~206 |
@@ -36,7 +36,7 @@
 | Legal courier | 56.00% | ~193 |
 | Extreme neuropower! | 55.00% | ~189 |
 | Escaped from a big trouble | 53.00% | ~182 |
-| Now you are worthy | 49.00% | ~169 |
+| Now you are worthy | 50.00% | ~172 |
 | Fight is life | 48.00% | ~165 |
 | Mysterious voice | 48.00% | ~165 |
 | Guiding on the right path | 47.00% | ~162 |

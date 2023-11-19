@@ -11,7 +11,7 @@
 | Uncaged | 18.00% | ~15 |
 | The end is nigh! | 13.00% | ~11 |
 | Get Together | 13.00% | ~11 |
-| Wait for me! | 5.00% | ~4 |
+| Wait for me! | 6.00% | ~5 |
 | Leave no stone unturned | 1.00% | ~1 |
 | The best of both worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

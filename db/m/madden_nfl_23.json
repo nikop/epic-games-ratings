@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -817,9 +817,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3520,
+  "EOS_Progressed": 3521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5622,6 +5622,11 @@
       "Time": "2023-11-19T17:05:32.6256846+00:00",
       "NumProgressed": 3520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T18:05:19.3553488+00:00",
+      "NumProgressed": 3521,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5642,7 +5647,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "achievement_11",
@@ -5658,7 +5663,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "achievement_13",
@@ -5690,7 +5695,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "achievement_17",
@@ -5762,7 +5767,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "achievement_6",
@@ -5770,7 +5775,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "achievement_7",
@@ -5778,7 +5783,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "achievement_8",
@@ -5801,7 +5806,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3520,
+      "Progressed": 3521,
       "Completed": 0
     }
   ],
@@ -5809,8 +5814,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-17T05:58:08.8219337+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:05:32.6256844+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:05:19.3553483+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:59:03.9382783+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:05:32.6257115+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:58:53.1821475+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:05:19.3553794+00:00"
 }

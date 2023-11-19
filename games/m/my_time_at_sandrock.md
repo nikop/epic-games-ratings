@@ -9,17 +9,17 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 247.00% | ~921 |
 | Iron Chef | 177.00% | ~660 |
 | Greeno-B-Gone | 124.00% | ~463 |
-| Your Especially Earned Trajectory | 96.00% | ~358 |
-| No Mountain Wide Enough | 72.00% | ~269 |
+| Your Especially Earned Trajectory | 97.00% | ~362 |
+| No Mountain Wide Enough | 73.00% | ~272 |
+| Yakmel Whisperer | 70.00% | ~261 |
 | One of the Cool Kids | 69.00% | ~257 |
-| Yakmel Whisperer | 69.00% | ~257 |
 | Can We Keep It? | 67.00% | ~250 |
 | On that Grindset | 66.00% | ~246 |
+| Pack Mule | 62.00% | ~231 |
 | Diamonds are Forever | 62.00% | ~231 |
-| Pack Mule | 61.00% | ~228 |
 | Unboxing | 60.00% | ~224 |
+| Big Game Hunter | 54.00% | ~201 |
 | Chatterbox | 54.00% | ~201 |
-| Big Game Hunter | 53.00% | ~198 |
 | First Love | 52.00% | ~194 |
 | Financially Secure | 51.00% | ~190 |
 | Got Served | 51.00% | ~190 |
@@ -31,8 +31,8 @@ Number of Ratings: 892  (23.09.2022)
 | What Plants Crave | 45.00% | ~168 |
 | Mole Masher | 45.00% | ~168 |
 | Commissions, commissions...! | 44.00% | ~164 |
+| Panda-kin | 43.00% | ~160 |
 | Anti-Santa | 43.00% | ~160 |
-| Panda-kin | 42.00% | ~157 |
 | Finishing Touches | 42.00% | ~157 |
 | Bridging the Gap | 42.00% | ~157 |
 | My Time Mansion | 41.00% | ~153 |
@@ -48,7 +48,7 @@ Number of Ratings: 892  (23.09.2022)
 | Lifeline Pipeline | 34.00% | ~127 |
 | Sepia Toned Memories | 31.00% | ~116 |
 | He Can Spin A Yarn... | 30.00% | ~112 |
-| Time Flies | 27.00% | ~101 |
+| Time Flies | 28.00% | ~104 |
 | Newton | 27.00% | ~101 |
 | Kind of a Big Deal | 25.00% | ~93 |
 | Santa In Training | 25.00% | ~93 |

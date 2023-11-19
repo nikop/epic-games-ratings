@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3886,
+  "EOS_Progressed": 3888,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8005,6 +8005,11 @@
       "Time": "2023-11-19T12:05:49.8396257+00:00",
       "NumProgressed": 3886,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-19T18:05:58.4721544+00:00",
+      "NumProgressed": 3888,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8088,7 +8093,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -8136,7 +8141,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8184,7 +8189,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8216,7 +8221,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8240,7 +8245,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8264,7 +8269,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8328,7 +8333,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8344,7 +8349,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -8384,7 +8389,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8408,7 +8413,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8583,13 +8588,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3837,
+      "Progressed": 3839,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3886,
+      "Progressed": 3888,
       "Completed": 11
     }
   ],
@@ -8597,8 +8602,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:06:16.7292451+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:05:58.472154+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:57:07.0422194+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:06:16.7293243+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:57:08.751707+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:05:58.4722513+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.18 (Ranked 929)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,102 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,834 |
+| First Step Into the Knight | 51.00% | ~39,103 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,835 |
 | Loose Ends | 34.00% | ~26,068 |
 | To the Victor Go the Spoils | 28.00% | ~21,468 |
 | Knighthood | 27.00% | ~20,701 |
 | Get ReQ'd | 25.00% | ~19,168 |
 | Whispered Words | 25.00% | ~19,168 |
-| The Batman Family | 23.00% | ~17,634 |
-| Lock and Key | 22.00% | ~16,867 |
+| The Batman Family | 23.00% | ~17,635 |
+| Lock and Key | 22.00% | ~16,868 |
 | Something in the Clay | 21.00% | ~16,101 |
 | Quartzer Life Crisis | 21.00% | ~16,101 |
 | Working Hard or Harley Working? | 20.00% | ~15,334 |
 | Unstoppable Force | 20.00% | ~15,334 |
 | Bad Apples in Every Orchard | 20.00% | ~15,334 |
-| Snow Problem | 19.00% | ~14,567 |
+| Snow Problem | 19.00% | ~14,568 |
 | The Show Mud Go On | 18.00% | ~13,801 |
 | From Inside Gotham's Walls | 18.00% | ~13,801 |
 | Protector of Gotham | 17.00% | ~13,034 |
-| Universal Health Scare | 16.00% | ~12,267 |
-| In Your Element | 15.00% | ~11,500 |
-| Voiceless | 15.00% | ~11,500 |
+| Universal Health Scare | 16.00% | ~12,268 |
+| In Your Element | 15.00% | ~11,501 |
+| Voiceless | 15.00% | ~11,501 |
 | Rock and a Hard Place | 14.00% | ~10,734 |
 | Cooldown | 14.00% | ~10,734 |
 | Seeking Asylum | 14.00% | ~10,734 |
 | Not On My Watch | 13.00% | ~9,967 |
 | Shock Til They Drop | 13.00% | ~9,967 |
-| End of an Era | 12.00% | ~9,200 |
-| Bulldozed | 12.00% | ~9,200 |
-| Gotham Knight | 12.00% | ~9,200 |
+| End of an Era | 12.00% | ~9,201 |
+| Bulldozed | 12.00% | ~9,201 |
+| Gotham Knight | 12.00% | ~9,201 |
 | Gotham City Confidential | 11.00% | ~8,434 |
 | Drone You Out | 10.00% | ~7,667 |
 | Out of Their League | 9.00% | ~6,900 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 929)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,670 (Ranked 99)  
+Progressed: 76,672 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 124 (0.16%) (Ranked 263)
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
 | 2023-11-18 | 76,626 | 123 |
-| 2023-11-19 | 76,670 | 124 |
+| 2023-11-19 | 76,672 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,951  (Ranked 98)  
 Sum: 5,012 (Ranked 138)  

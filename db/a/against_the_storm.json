@@ -6,9 +6,9 @@
   "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -13870,9 +13870,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 867
     },
     {
       "ID": "WinNearBarren",
@@ -14158,8 +14158,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-19T07:57:29.1859996+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:08:01.6969829+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:07:58.4295295+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:57:37.1557576+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:08:01.6970567+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:57:36.0384815+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:07:58.4296142+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -194,17 +194,17 @@
       "ID": "ACH_03_TRAININGRACE2",
       "SetID": "9dl0ei6",
       "Name": "Training Race 2",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_04_TRAININGRACE3",
       "SetID": "9dl0ei6",
       "Name": "Training Race 3",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_05_GRANDLAP1",
@@ -401,8 +401,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:09:12.2262013+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:09:01.2876935+00:00",
   "LastUpdate_AppInfo": "2023-11-12T22:57:17.4315684+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:57:39.6319695+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:09:12.2262166+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:57:38.2137962+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:09:01.2877107+00:00"
 }

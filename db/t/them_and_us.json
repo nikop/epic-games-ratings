@@ -3,9 +3,9 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 341,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 307,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1674,8 +1674,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:03:45.2711122+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:03:43.2203406+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.9837452+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:59:10.5681292+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:03:45.2711493+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:58:59.1317591+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:03:43.2203691+00:00"
 }

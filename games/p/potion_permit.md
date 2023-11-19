@@ -30,7 +30,7 @@ Rating: 3.82 (Ranked 1,028)
 | Line Cook | 12.00% | ~198 |
 | Good Samaritan | 11.00% | ~181 |
 | Production Sorter | 11.00% | ~181 |
-| Acrobatic Adventurer | 9.00% | ~148 |
+| Acrobatic Adventurer | 10.00% | ~165 |
 | Animal Exterminator | 9.00% | ~148 |
 | Adolescent Love | 6.00% | ~99 |
 | Mail Carrier | 6.00% | ~99 |
@@ -44,8 +44,8 @@ Rating: 3.82 (Ranked 1,028)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,646 (Ranked 234)  
-Completed: 10 (0.61%) (Ranked 183)  
+Progressed: 1,646 (Ranked 235)  
+Completed: 10 (0.61%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -103,7 +103,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -883,6 +883,11 @@
       "Time": "2023-11-19T16:08:14.0543555+00:00",
       "NumProgressed": 394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T18:06:12.7302186+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -901,9 +906,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "AnthropicHills",
@@ -935,7 +940,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "BreakTheLoop",
@@ -951,7 +956,7 @@
       "Name": "Bridge Builder",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ChasingTheLight",
@@ -1095,7 +1100,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Mnemosyne",
@@ -1159,7 +1164,7 @@
       "Name": "Persistent",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "PrometheusUnbound",
@@ -1167,7 +1172,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "PuzzleFiend",
@@ -1231,7 +1236,7 @@
       "Name": "Southern Coast",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TeamSpirit",
@@ -1239,7 +1244,7 @@
       "Name": "Team Spirit",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "TextAdventurer",
@@ -1255,7 +1260,7 @@
       "Name": "The All-Gifted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1287,7 +1292,7 @@
       "Name": "The Spark",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "TheThiefOfFire",
@@ -1311,7 +1316,7 @@
       "Name": "Touch Grass",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "TrevorsBiographer",
@@ -1333,9 +1338,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "WesternDelta",
@@ -1366,7 +1371,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 1
     }
   ],
@@ -1374,8 +1379,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:06:32.2817764+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:06:12.7302182+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:57:40.5096295+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:06:32.2818293+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:57:39.0376113+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:06:12.7302573+00:00"
 }

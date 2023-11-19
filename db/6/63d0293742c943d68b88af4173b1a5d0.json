@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2023-11-19T16:05:11.4183147+00:00",
       "NumProgressed": 180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-19T18:04:04.1719584+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -566,7 +571,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "9",
@@ -588,17 +593,17 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "Remake_005",
@@ -620,9 +625,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "Remake_008",
@@ -668,9 +673,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "Remake_14",
@@ -749,14 +754,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:04:07.6585483+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:04:04.1719581+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:02:39.7517561+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:04:07.6585671+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:02:42.5493723+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:04:04.1719751+00:00"
 }

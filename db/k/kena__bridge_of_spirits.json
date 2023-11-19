@@ -4,11 +4,11 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 213,
   "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 222,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1451,7 +1451,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429058,
+  "EOS_Progressed": 429059,
   "EOS_Completed": 547,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 3,
@@ -15336,6 +15336,11 @@
       "Time": "2023-11-19T15:04:57.5849716+00:00",
       "NumProgressed": 429058,
       "NumCompleted": 547
+    },
+    {
+      "Time": "2023-11-19T18:04:47.3447707+00:00",
+      "NumProgressed": 429059,
+      "NumCompleted": 547
     }
   ],
   "TotalAchievements": 41,
@@ -15379,7 +15384,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107264
+      "UsersEstimate": 107265
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -15387,7 +15392,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180204
+      "UsersEstimate": 180205
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -15403,7 +15408,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128717
+      "UsersEstimate": 128718
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -15483,7 +15488,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201657
+      "UsersEstimate": 201658
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -15515,7 +15520,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407605
+      "UsersEstimate": 407606
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15539,7 +15544,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158751
+      "UsersEstimate": 158752
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -15563,7 +15568,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343246
+      "UsersEstimate": 343247
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15619,7 +15624,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120136
+      "UsersEstimate": 120137
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -15627,7 +15632,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240272
+      "UsersEstimate": 240273
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15674,15 +15679,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 429058,
+      "Progressed": 429059,
       "Completed": 547
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-19T15:02:24.7874888+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:04:56.211242+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:04:47.3447702+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:06.8328833+00:00",
-  "LastUpdate_Ratings": "2023-11-19T17:00:41.4225175+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:04:56.211336+00:00"
+  "LastUpdate_Ratings": "2023-11-19T18:02:27.7305153+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:04:47.3448405+00:00"
 }

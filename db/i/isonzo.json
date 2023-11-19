@@ -5,10 +5,10 @@
   "Ranking_Rating": 504,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 371,
-  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -907,9 +907,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8448,
+  "EOS_Progressed": 8463,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -7582,6 +7582,11 @@
       "Time": "2023-11-19T17:05:57.6397408+00:00",
       "NumProgressed": 8448,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-19T18:05:40.7968819+00:00",
+      "NumProgressed": 8463,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -7593,7 +7598,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -7601,7 +7606,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1777
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -7609,7 +7614,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3808
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -7625,7 +7630,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -7633,7 +7638,7 @@
       "Name": "Compagnia della Morte",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ISONZO_ACH_CONRAD_VON_HOTZENSOCKS",
@@ -7641,7 +7646,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2708
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -7649,7 +7654,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 762
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -7657,7 +7662,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1693
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -7665,7 +7670,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1016
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -7673,7 +7678,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1016
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -7681,7 +7686,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1608
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -7689,7 +7694,7 @@
       "Name": "Drop and Give Me 20",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
@@ -7705,7 +7710,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2708
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -7713,7 +7718,7 @@
       "Name": "Generalissimo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -7721,7 +7726,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1608
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -7729,7 +7734,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 762
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -7737,7 +7742,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1269
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -7745,7 +7750,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 929
+      "UsersEstimate": 931
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -7753,7 +7758,7 @@
       "Name": "Malpractice",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ISONZO_ACH_MAMMA_MIA",
@@ -7761,7 +7766,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2962
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -7769,7 +7774,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 760
+      "UsersEstimate": 762
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -7777,7 +7782,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -7785,7 +7790,7 @@
       "Name": "Peak Performance",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4062
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -7793,7 +7798,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -7801,7 +7806,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1439
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -7809,7 +7814,7 @@
       "Name": "Rome Wasn\u0027t Built In A Day",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ISONZO_ACH_SACRO_EGOISMO",
@@ -7825,7 +7830,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -7833,7 +7838,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1016
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -7841,7 +7846,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2285
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -7865,7 +7870,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 929
+      "UsersEstimate": 931
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -7873,7 +7878,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -7881,7 +7886,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1608
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -7889,7 +7894,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1269
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -7897,7 +7902,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -7905,7 +7910,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 929
+      "UsersEstimate": 931
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -7913,7 +7918,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -7921,7 +7926,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4316
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -7929,7 +7934,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1100
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -7937,7 +7942,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1608
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -7945,14 +7950,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4316
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8448,
+      "Progressed": 8463,
       "Completed": 9
     }
   ],
@@ -7960,8 +7965,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-17T11:58:18.2120245+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:05:57.63974+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:05:40.7968815+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:59:09.5758392+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:05:57.6398035+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:58:58.2828506+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:05:40.7969369+00:00"
 }

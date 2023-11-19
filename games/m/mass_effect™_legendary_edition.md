@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,235 |
-| Spectre Inductee | 79.00% | ~1,049 |
-| Medal of Exploration I | 71.00% | ~943 |
+| Spectre Inductee | 80.00% | ~1,062 |
+| Medal of Exploration I | 72.00% | ~956 |
 | Recruit | 68.00% | ~903 |
 | Search and Rescue | 67.00% | ~890 |
 | Quarian Ally | 64.00% | ~850 |
@@ -25,8 +25,8 @@
 | Principled | 45.00% | ~598 |
 | Paramour I | 43.00% | ~571 |
 | Colonial Savior | 43.00% | ~571 |
+| Scientist | 43.00% | ~571 |
 | Missing in Action | 42.00% | ~558 |
-| Scientist | 42.00% | ~558 |
 | Krogan Ally | 41.00% | ~544 |
 | Very Elusive | 41.00% | ~544 |
 | Merciless | 41.00% | ~544 |
@@ -57,12 +57,12 @@
 | Ghost of the Father | 30.00% | ~398 |
 | The Cure | 30.00% | ~398 |
 | Big Game Hunter | 30.00% | ~398 |
+| Revenge! | 30.00% | ~398 |
 | Heart of Darkness | 30.00% | ~398 |
 | Focused | 29.00% | ~385 |
 | Archivist | 29.00% | ~385 |
 | Fade Away | 29.00% | ~385 |
 | Agent | 29.00% | ~385 |
-| Revenge! | 29.00% | ~385 |
 | Bringer of War | 29.00% | ~385 |
 | Cat's in the Cradle | 28.00% | ~372 |
 | Doppelganger | 28.00% | ~372 |
@@ -97,7 +97,7 @@
 | No One Left Behind | 19.00% | ~252 |
 | Saboteur | 19.00% | ~252 |
 | Last Witness | 19.00% | ~252 |
-| Well Connected | 18.00% | ~239 |
+| Well Connected | 19.00% | ~252 |
 | Executioner | 17.00% | ~226 |
 | Patriot | 17.00% | ~226 |
 | Master and Commander | 17.00% | ~226 |

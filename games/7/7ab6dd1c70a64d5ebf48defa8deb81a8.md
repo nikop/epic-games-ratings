@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Trinity | 8.00% | ~16 |
 | I Found It | 6.00% | ~12 |
+| Find Allies | 5.00% | ~10 |
 | Powerful Allies | 5.00% | ~10 |
 | Adventurer | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
-| Find Allies | 4.00% | ~8 |
 | Calm before the Storm | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |
 | Tributes of Caladrias | 4.00% | ~8 |
 | Geared Up | 4.00% | ~8 |
 | Shatter Them All | 3.00% | ~6 |
 | Big Bazar | 3.00% | ~6 |
+| Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Stone Collection | 3.00% | ~6 |
 | The Collector | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Essence Blow | 2.00% | ~4 |
-| Fine Feathers Make Fine Birds | 2.00% | ~4 |
 | Fashion Victim | 2.00% | ~4 |
 | The Mentor | 1.00% | ~2 |
 | Airborne | 1.00% | ~2 |
@@ -42,7 +42,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 195 (Ranked 382)  
-Completed: 1 (0.51%) (Ranked 198)  
+Completed: 1 (0.51%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3430,9 +3430,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 239939,
+  "EOS_Progressed": 239941,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25535,6 +25535,11 @@
       "Time": "2023-11-19T17:09:18.3254385+00:00",
       "NumProgressed": 239939,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-19T18:09:07.1029316+00:00",
+      "NumProgressed": 239941,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25808,9 +25813,9 @@
       "ID": "FREEZE20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Cold Hearted",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 720
     },
     {
       "ID": "FULLINVENTORY",
@@ -26649,13 +26654,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239939,
+      "Progressed": 239941,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1419,
+      "Progressed": 1421,
       "Completed": 382
     }
   ],
@@ -26663,8 +26668,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-19T10:59:39.8368487+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:09:18.3254383+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:09:07.1029308+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:59:15.7658979+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:09:18.325688+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:59:03.5017394+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:09:07.1031895+00:00"
 }

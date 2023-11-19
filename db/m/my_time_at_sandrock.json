@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1580,7 +1580,7 @@
   ],
   "EOS_Progressed": 373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3497,17 +3497,17 @@
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "C_YEAR",
       "SetID": "80dcan0",
       "Name": "Time Flies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 104
     },
     {
       "ID": "F_DUEL",
@@ -3529,9 +3529,9 @@
       "ID": "F_MONSTER_ELITE",
       "SetID": "80dcan0",
       "Name": "Big Game Hunter",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -3553,9 +3553,9 @@
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 231
     },
     {
       "ID": "M_COMMISSION",
@@ -3705,9 +3705,9 @@
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 362
     },
     {
       "ID": "P_SCHOOL",
@@ -3729,9 +3729,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 272
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -3889,9 +3889,9 @@
       "ID": "S_YAKMEL",
       "SetID": "80dcan0",
       "Name": "Yakmel Whisperer",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 261
     },
     {
       "ID": "X_CHEST",
@@ -3961,8 +3961,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-18T21:00:35.4683999+00:00",
-  "LastChanged_Achievements": "2023-11-19T17:05:13.2152725+00:00",
+  "LastChanged_Achievements": "2023-11-19T18:05:02.2959189+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-19T16:57:57.9292931+00:00",
-  "LastUpdate_Achievements": "2023-11-19T17:05:13.2153197+00:00"
+  "LastUpdate_Ratings": "2023-11-19T17:57:54.2098773+00:00",
+  "LastUpdate_Achievements": "2023-11-19T18:05:02.295973+00:00"
 }
