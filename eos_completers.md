@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 31.37% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 31.31% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -24,9 +24,9 @@
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
 | 23 | [Island Cities](games/i/island_cities.md) | 17.15% |
 | 24 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
-| 25 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.79% |
-| 26 | [laserlemon Production](games/l/laserlemon_production.md) | 15.38% |
-| 27 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.34% |
+| 25 | [laserlemon Production](games/l/laserlemon_production.md) | 15.38% |
+| 26 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.34% |
+| 27 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 15.00% |
 | 28 | [Remains](games/r/remains.md) | 14.55% |
 | 29 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 30 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 13.21% |
@@ -58,7 +58,7 @@
 | 56 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.93% |
 | 57 | [Scorn](games/s/scorn.md) | 6.93% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.83% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.85% |
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 61 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.38% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
@@ -69,7 +69,7 @@
 | 67 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 67 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.73% |
-| 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.65% |
+| 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.63% |
 | 71 | [JARS](games/j/jars.md) | 5.21% |
 | 72 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.00% |
 | 73 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
@@ -79,13 +79,13 @@
 | 77 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 77 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.55% |
 | 79 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.52% |
-| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.51% |
+| 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.52% |
 | 81 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.37% |
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 83 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.18% |
 | 84 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.91% |
-| 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.88% |
+| 85 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.88% |
+| 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.88% |
 | 87 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 88 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.76% |
 | 89 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
@@ -156,7 +156,7 @@
 | 153 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 155 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.18% |
 | 156 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 157 | [Adios](games/a/adios.md) | 1.07% |
+| 157 | [Adios](games/a/adios.md) | 1.08% |
 | 158 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.06% |
 | 158 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
 | 160 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
@@ -231,8 +231,8 @@
 | 228 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 228 | [Them and Us](games/t/them_and_us.md) | 0.33% |
 | 231 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
-| 231 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
-| 233 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
+| 232 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
+| 232 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 234 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 235 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 235 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
@@ -270,10 +270,10 @@
 | 267 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.13% |
 | 267 | [BLACKTAIL](games/b/blacktail.md) | 0.13% |
 | 267 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
-| 267 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.13% |
 | 267 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 267 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
-| 274 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 273 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.12% |
+| 273 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 275 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 275 | [Isonzo](games/i/isonzo.md) | 0.11% |
 | 275 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
