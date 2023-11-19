@@ -18,7 +18,7 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,206 | 4.64 | 332 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,447 | 4.76 | 126 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,889 | 4.53 | 539 |
-| 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,140 | 4.26 | 868 |
+| 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,140 | 4.26 | 869 |
 | 20 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 20,911 | 4.74 | 158 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,449 | 4.57 | 469 |
 | 22 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 20,099 | 4.89 | 12 |
@@ -97,7 +97,7 @@
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,275 | 4.50 | 586 |
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,262 | 4.35 | 790 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,023 | 4.50 | 586 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,951 | 4.18 | 929 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,954 | 4.18 | 929 |
 | 99 | [Among Us](games/a/among_us.md) | 2,838 | 4.57 | 469 |
 | 100 | [RAGE 2](games/r/rage_2.md) | 2,700 | 4.27 | 860 |
 | 101 | [Path of Exile](games/p/path_of_exile.md) | 2,686 | 4.61 | 386 |
@@ -252,7 +252,7 @@
 | 250 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 312 | 4.36 | 781 |
 | 251 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.63 | 349 |
 | 252 | [Alan Wake 2](games/a/alan_wake_2.md) | 300 | 4.78 | 107 |
-| 253 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 868 |
+| 253 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 869 |
 | 254 | [Dead Cells](games/d/dead_cells.md) | 294 | 4.87 | 23 |
 | 255 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 293 | 4.61 | 386 |
 | 256 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 292 | 4.45 | 660 |
@@ -280,9 +280,9 @@
 | 277 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 222 | 4.58 | 444 |
 | 279 | [Stranded Deep](games/s/stranded_deep.md) | 220 | 4.22 | 897 |
 | 280 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 219 | 4.84 | 52 |
-| 281 | [HITMAN](games/h/hitman.md) | 217 | 4.64 | 332 |
-| 281 | [Sunless Sea](games/s/sunless_sea.md) | 217 | 4.58 | 444 |
-| 283 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 216 | 4.81 | 78 |
+| 280 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 219 | 4.81 | 78 |
+| 282 | [HITMAN](games/h/hitman.md) | 217 | 4.64 | 332 |
+| 282 | [Sunless Sea](games/s/sunless_sea.md) | 217 | 4.58 | 444 |
 | 284 | [Predecessor](games/p/predecessor.md) | 211 | 4.43 | 690 |
 | 285 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 207 | 4.35 | 790 |
 | 286 | [Relicta](games/r/relicta.md) | 203 | 4.15 | 945 |
@@ -458,7 +458,7 @@
 | 455 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 186 |
 | 455 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 39 | 4.25 | 878 |
 | 455 | [Steelrising](games/s/steelrising.md) | 39 | 4.29 | 842 |
-| 459 | [Madden NFL 23](games/m/madden_nfl_23.md) | 38 | 4.26 | 868 |
+| 459 | [Madden NFL 23](games/m/madden_nfl_23.md) | 38 | 4.27 | 860 |
 | 459 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 622 |
 | 459 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.41 | 721 |
 | 459 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 38 | 4.49 | 605 |
