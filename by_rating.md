@@ -108,7 +108,7 @@
 | 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 300 | 252 |
 | 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 548 |
 | 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 422 |
-| 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,723 | 37 |
+| 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,739 | 37 |
 | 106 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,441 | 104 |
 | 106 | [Outlast](games/o/outlast.md) | 4.78 | 0 | 548 |
 | 106 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 548 |
@@ -187,7 +187,7 @@
 | 173 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 694 | 185 |
 | 186 | [Barony](games/b/barony.md) | 4.72 | 92 | 373 |
 | 186 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 519 | 207 |
-| 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 638 | 187 |
+| 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 640 | 187 |
 | 186 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 455 |
 | 186 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 548 |
 | 186 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 251 | 269 |
@@ -360,7 +360,7 @@
 | 349 | [Revita](games/r/revita.md) | 4.63 | 0 | 548 |
 | 349 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 186 | 295 |
 | 349 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 251 |
-| 349 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,798 | 119 |
+| 349 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,799 | 119 |
 | 349 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,731 | 122 |
 | 349 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 73 | 398 |
 | 349 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 548 |
@@ -477,7 +477,7 @@
 | 469 | [Hob](games/h/hob.md) | 4.57 | 0 | 548 |
 | 469 | [IXION](games/i/ixion.md) | 4.57 | 0 | 548 |
 | 469 | [Minit](games/m/minit.md) | 4.57 | 0 | 548 |
-| 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,234 | 44 |
+| 469 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,246 | 44 |
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,358 | 94 |
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 548 |
 | 469 | [Risen](games/r/risen.md) | 4.57 | 0 | 548 |
@@ -931,7 +931,7 @@
 | 929 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 548 |
 | 929 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,951 | 98 |
 | 929 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 31 | 490 |
-| 929 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 211,882 | 5 |
+| 929 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 212,047 | 5 |
 | 929 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 364 |
 | 934 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.17 | 0 | 548 |
 | 934 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 548 |

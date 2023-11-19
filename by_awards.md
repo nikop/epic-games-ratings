@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 621,765 | 4.48 | 622 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 315,627 | 4.68 | 252 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 260,699 | 4.68 | 252 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 211,882 | 4.18 | 929 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 212,047 | 4.18 | 929 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 198,975 | 4.88 | 17 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 151,814 | 4.51 | 567 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,814 | 4.69 | 232 |
@@ -36,14 +36,14 @@
 | 34 | [SnowRunner](games/s/snowrunner.md) | 12,300 | 4.76 | 126 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,790 | 4.39 | 746 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,621 | 4.69 | 232 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,723 | 4.78 | 106 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,739 | 4.78 | 106 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,424 | 4.61 | 385 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 10,127 | 4.58 | 444 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,556 | 4.58 | 444 |
 | 41 | [Control](games/c/control.md) | 8,750 | 4.60 | 413 |
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,695 | 4.89 | 12 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,567 | 4.49 | 605 |
-| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,234 | 4.57 | 469 |
+| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,246 | 4.57 | 469 |
 | 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,061 | 4.85 | 44 |
 | 46 | [DEATH STRANDING](games/d/death_stranding.md) | 8,007 | 4.77 | 115 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,989 | 4.70 | 213 |
@@ -118,7 +118,7 @@
 | 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,831 | 4.50 | 587 |
 | 117 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,819 | 4.77 | 115 |
 | 118 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,818 | 4.56 | 489 |
-| 119 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,798 | 4.63 | 349 |
+| 119 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,799 | 4.63 | 349 |
 | 120 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,791 | 4.57 | 469 |
 | 121 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,744 | 4.76 | 126 |
 | 122 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,731 | 4.63 | 349 |
@@ -186,7 +186,7 @@
 | 184 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 698 | 4.67 | 272 |
 | 185 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 694 | 4.73 | 173 |
 | 186 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 652 | 4.50 | 587 |
-| 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 638 | 4.72 | 186 |
+| 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 640 | 4.72 | 186 |
 | 188 | [Dishonored 2](games/d/dishonored_2.md) | 637 | 4.79 | 96 |
 | 189 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 628 | 4.63 | 349 |
 | 190 | [Dark Deity](games/d/dark_deity.md) | 621 | 4.16 | 937 |
