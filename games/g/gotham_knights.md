@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 928)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,095 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,830 |
-| Loose Ends | 34.00% | ~26,063 |
-| To the Victor Go the Spoils | 28.00% | ~21,464 |
-| Knighthood | 27.00% | ~20,697 |
-| Get ReQ'd | 25.00% | ~19,164 |
-| Whispered Words | 25.00% | ~19,164 |
-| The Batman Family | 23.00% | ~17,631 |
+| First Step Into the Knight | 51.00% | ~39,096 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,831 |
+| Loose Ends | 34.00% | ~26,064 |
+| To the Victor Go the Spoils | 28.00% | ~21,465 |
+| Knighthood | 27.00% | ~20,698 |
+| Get ReQ'd | 25.00% | ~19,165 |
+| Whispered Words | 25.00% | ~19,165 |
+| The Batman Family | 23.00% | ~17,632 |
 | Lock and Key | 22.00% | ~16,865 |
 | Something in the Clay | 21.00% | ~16,098 |
 | Quartzer Life Crisis | 21.00% | ~16,098 |
-| Working Hard or Harley Working? | 20.00% | ~15,331 |
-| Unstoppable Force | 20.00% | ~15,331 |
-| Bad Apples in Every Orchard | 20.00% | ~15,331 |
+| Working Hard or Harley Working? | 20.00% | ~15,332 |
+| Unstoppable Force | 20.00% | ~15,332 |
+| Bad Apples in Every Orchard | 20.00% | ~15,332 |
 | Snow Problem | 19.00% | ~14,565 |
-| The Show Mud Go On | 18.00% | ~13,798 |
-| From Inside Gotham's Walls | 18.00% | ~13,798 |
+| The Show Mud Go On | 18.00% | ~13,799 |
+| From Inside Gotham's Walls | 18.00% | ~13,799 |
 | Protector of Gotham | 17.00% | ~13,032 |
 | Universal Health Scare | 16.00% | ~12,265 |
 | In Your Element | 15.00% | ~11,499 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 928)
 | Rock and a Hard Place | 14.00% | ~10,732 |
 | Cooldown | 14.00% | ~10,732 |
 | Seeking Asylum | 14.00% | ~10,732 |
-| Not On My Watch | 13.00% | ~9,965 |
-| Shock Til They Drop | 13.00% | ~9,965 |
+| Not On My Watch | 13.00% | ~9,966 |
+| Shock Til They Drop | 13.00% | ~9,966 |
 | End of an Era | 12.00% | ~9,199 |
 | Bulldozed | 12.00% | ~9,199 |
 | Gotham Knight | 12.00% | ~9,199 |
@@ -39,9 +39,9 @@ Rating: 4.18 (Ranked 928)
 | Out of Their League | 9.00% | ~6,899 |
 | Solid Alibi | 9.00% | ~6,899 |
 | Fusion Expert | 7.00% | ~5,366 |
-| Expert Crime Fighter | 6.00% | ~4,599 |
-| Family Meeting | 6.00% | ~4,599 |
-| A Worthy Successor | 6.00% | ~4,599 |
+| Expert Crime Fighter | 6.00% | ~4,600 |
+| Family Meeting | 6.00% | ~4,600 |
+| A Worthy Successor | 6.00% | ~4,600 |
 | Dressed to Impress | 4.00% | ~3,066 |
 | A Momentum Occasion | 3.00% | ~2,300 |
 | Bat Out of Hell | 3.00% | ~2,300 |
@@ -51,9 +51,9 @@ Rating: 4.18 (Ranked 928)
 | The Man-Bat Family | 1.00% | ~767 |
 | Batarang Collector | 1.00% | ~767 |
 | Claiming the Mural High Ground | 1.00% | ~767 |
-| Icebreaker | 0.80% | ~375 |
+| Icebreaker | 0.80% | ~376 |
 | History Major | 0.80% | ~613 |
-| A Sophisticated Mallet | 0.80% | ~375 |
+| A Sophisticated Mallet | 0.80% | ~376 |
 | Read Owl About It | 0.70% | ~537 |
 | Gotham's Greatest Depths | 0.60% | ~282 |
 | Don't Mecha Big Deal About It | 0.60% | ~282 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 928)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,657 (Ranked 99)  
+Progressed: 76,659 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,10 +280,10 @@ Completed: 124 (0.16%) (Ranked 263)
 | 2023-11-16 | 76,514 | 123 |
 | 2023-11-17 | 76,565 | 123 |
 | 2023-11-18 | 76,626 | 123 |
-| 2023-11-19 | 76,657 | 124 |
+| 2023-11-19 | 76,659 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,951  (Ranked 98)  
-Sum: 5,010 (Ranked 138)  
+Sum: 5,012 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -294,8 +294,8 @@ Diff (max vs sum): -40
 | This game is Relaxing | 259 |
 | This game is Great for Beginners | 257 |
 | This game has Amazing Characters | 254 |
+| This game is Highly Recommended | 254 |
 | This game has Amazing Storytelling | 252 |
-| This game is Highly Recommended | 252 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -567,3 +567,4 @@ Diff (max vs sum): -40
 | 2023-11-16 | 4.18 | 2,946 | 4,997 |
 | 2023-11-17 | 4.18 | 2,949 | 5,002 |
 | 2023-11-18 | 4.18 | 2,951 | 5,010 |
+| 2023-11-19 | 4.18 | 2,951 | 5,012 |

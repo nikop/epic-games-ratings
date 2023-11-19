@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 17.17,
+  "EOS_Completed_Percentage": 17.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3261,6 +3261,11 @@
       "Time": "2023-11-19T05:04:38.6323867+00:00",
       "NumProgressed": 757,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2023-11-19T12:04:32.151379+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 22,
@@ -3272,7 +3277,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "LEVEL_002",
@@ -3288,7 +3293,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "LEVEL_004",
@@ -3296,7 +3301,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "LEVEL_005",
@@ -3304,7 +3309,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 51,
       "XP": 35,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "LEVEL_006",
@@ -3312,7 +3317,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "LEVEL_007",
@@ -3320,7 +3325,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "LEVEL_008",
@@ -3328,7 +3333,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "LEVEL_009",
@@ -3352,7 +3357,7 @@
       "Name": "At the heart of the city",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_012",
@@ -3360,7 +3365,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_013",
@@ -3392,7 +3397,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_017",
@@ -3447,7 +3452,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 130
     }
   ],
@@ -3455,8 +3460,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:05:31.3034741+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:04:32.1513785+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:26.26929+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:58:13.7685886+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:05:31.3035014+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:58:06.4025167+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:04:32.1514077+00:00"
 }

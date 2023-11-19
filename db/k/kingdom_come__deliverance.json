@@ -8581,10 +8581,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28272,
       "NumberOfAwardsMax": 7611
+    },
+    {
+      "Time": "2023-11-19T12:02:45.345765+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28277,
+      "NumberOfAwardsMax": 7611
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28272,
+  "NumberOfAwards": 28277,
   "NumberOfAwardsMax": 7611,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8640,13 +8646,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1720
+      "Count": 1722
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1667
+      "Count": 1670
     },
     {
       "Text": "This game is Relaxing",
@@ -8667,9 +8673,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808997,
+  "EOS_Progressed": 809002,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32577,6 +32583,11 @@
       "Time": "2023-11-19T11:08:31.7987194+00:00",
       "NumProgressed": 808997,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-19T12:08:11.6568158+00:00",
+      "NumProgressed": 809002,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32620,7 +32631,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169889
+      "UsersEstimate": 169890
     },
     {
       "ID": "BadGirl",
@@ -32668,7 +32679,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258879
+      "UsersEstimate": 258881
     },
     {
       "ID": "Bookworm",
@@ -32700,7 +32711,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202249
+      "UsersEstimate": 202250
     },
     {
       "ID": "Chivalrous",
@@ -32788,7 +32799,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186069
+      "UsersEstimate": 186070
     },
     {
       "ID": "Fighter",
@@ -33068,7 +33079,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161799
+      "UsersEstimate": 161800
     },
     {
       "ID": "RevenantOfLedechko",
@@ -33108,7 +33119,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161799
+      "UsersEstimate": 161800
     },
     {
       "ID": "SerialKiller",
@@ -33243,15 +33254,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808997,
+      "Progressed": 809002,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-18T21:06:03.2272775+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:08:31.7987193+00:00",
+  "LastChanged": "2023-11-19T12:02:45.3457648+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:08:11.6568153+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:03:01.6800524+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:08:31.7988704+00:00"
+  "LastUpdate_Ratings": "2023-11-19T12:02:45.3457654+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:08:11.6569618+00:00"
 }

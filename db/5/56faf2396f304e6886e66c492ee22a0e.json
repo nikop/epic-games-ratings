@@ -230,9 +230,9 @@
       "ID": "ACHIEVEMENT_Cassie_Death2_Failed",
       "SetID": "70j9o42",
       "Name": "No Such Thing As Bad Pizza",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_Dorian_Impress_D2",
@@ -446,17 +446,17 @@
       "ID": "ACHIEVEMENT_Suave",
       "SetID": "70j9o42",
       "Name": "Master Of Love",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_TechSavvy",
@@ -478,9 +478,9 @@
       "ID": "ACHIEVEMENT_Wine_veryfancy",
       "SetID": "70j9o42",
       "Name": "Wine And Dine",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -493,8 +493,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:06:56.1306694+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:05:33.4741787+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8215636+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:58:00.5731318+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:06:56.1306961+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:57:57.2632501+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:05:33.4741977+00:00"
 }

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get lost! | 93.00% | ~77 |
-| Elevator Pitch | 82.00% | ~68 |
-| Beam me up | 63.00% | ~52 |
-| Rock Bottom | 58.00% | ~48 |
+| Elevator Pitch | 83.00% | ~69 |
+| Beam me up | 64.00% | ~53 |
+| Rock Bottom | 59.00% | ~49 |
 | Uncaged | 18.00% | ~15 |
 | The end is nigh! | 13.00% | ~11 |
 | Get Together | 13.00% | ~11 |

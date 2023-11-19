@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251409,
+  "EOS_Progressed": 251410,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19332,6 +19332,11 @@
       "Time": "2023-11-19T10:08:46.9739913+00:00",
       "NumProgressed": 251409,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-19T12:08:46.4730849+00:00",
+      "NumProgressed": 251410,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19415,7 +19420,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37711
+      "UsersEstimate": 37712
     },
     {
       "ID": "clearCut",
@@ -19543,7 +19548,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65366
+      "UsersEstimate": 65367
     },
     {
       "ID": "justABit",
@@ -19583,7 +19588,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125704
+      "UsersEstimate": 125705
     },
     {
       "ID": "notScared",
@@ -19703,14 +19708,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40225
+      "UsersEstimate": 40226
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251409,
+      "Progressed": 251410,
       "Completed": 6
     }
   ],
@@ -19718,8 +19723,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:09:17.8251972+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:08:46.4730846+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.785851+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:57:05.4611625+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:09:17.8252898+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:57:18.9276151+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:08:46.4731765+00:00"
 }

@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 523)
 | Humanity Distilled | 0.60% | ~4,324 |
 | I Am the Resurrection | 0.60% | ~4,324 |
 | Max Headroom | 0.60% | ~4,324 |
-| Not Even My Final Form | 0.50% | ~3,603 |
-| Down with the Sickness | 0.50% | ~3,603 |
+| Not Even My Final Form | 0.50% | ~3,604 |
+| Down with the Sickness | 0.50% | ~3,604 |
 | On Safari | 0.40% | ~2,883 |
 | Internet Famous | 0.40% | ~2,883 |
 | Jumbo Keyring | 0.40% | ~2,883 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 523)
 | Sole Survivor | 0.20% | ~1,441 |
 | Gore Horse | 0.20% | ~1,441 |
 | Sharpest Tool in the Box | 0.20% | ~1,441 |
-| Lawn and Order | 0.20% | ~92 |
+| Lawn and Order | 0.20% | ~93 |
 | Donk! | 0.10% | ~721 |
 | Survival Skills | 0.10% | ~721 |
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 720,697 (Ranked 20)  
+Progressed: 720,721 (Ranked 20)  
 Completed: 2,412 (0.33%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 2,412 (0.33%) (Ranked 227)
 | 2023-11-16 | 719,387 | 2,399 |
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
-| 2023-11-19 | 720,697 | 2,412 |
+| 2023-11-19 | 720,721 | 2,412 |
 ## Awards
 Max (Great Boss Battles): 7,552  (Ranked 51)  
 Sum: 11,535 (Ranked 84)  

@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The City | 25.00% | ~43 |
 | The Camp | 24.00% | ~41 |
-| The City | 24.00% | ~41 |
 | The Teleprobe | 23.00% | ~39 |
 | The field base | 23.00% | ~39 |
-| Survivors | 21.00% | ~36 |
+| Survivors | 22.00% | ~38 |
 | The Condor | 18.00% | ~31 |
 | The End | 18.00% | ~31 |
-| The Necroevolution | 16.00% | ~27 |
+| The Necroevolution | 17.00% | ~29 |
 | On her own | 12.00% | ~21 |
 | Peacemaker | 12.00% | ~21 |
 | The Alliance | 12.00% | ~21 |
+| Krauta is alive | 11.00% | ~19 |
 | Volcanologist | 11.00% | ~19 |
-| Krauta is alive | 10.00% | ~17 |
+| Beyond divisions | 10.00% | ~17 |
 | Evacuation | 9.00% | ~15 |
 | Flying Objects Operator | 9.00% | ~15 |
-| Beyond divisions | 9.00% | ~15 |
 | Fierce fight | 8.00% | ~14 |
 | I remember everything! | 7.00% | ~12 |
 | Innate curiosity | 6.00% | ~10 |

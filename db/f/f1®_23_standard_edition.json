@@ -4,7 +4,7 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 294,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 460,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 156,
@@ -575,7 +575,7 @@
   ],
   "EOS_Progressed": 5809,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6239,8 +6239,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-18T22:59:59.0811593+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:07:35.2953964+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:06:01.2256596+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:01:11.3388637+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:07:35.2954549+00:00"
+  "LastUpdate_Ratings": "2023-11-19T12:00:06.7089019+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:06:01.2257198+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
   "Ranking_Rating": 843,
-  "Ranking_Popularity": 315,
+  "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 748,
   "Ranking_EOS_Completed": 356,
@@ -2162,11 +2162,17 @@
       "Rating": 4.29,
       "NumberOfAwards": 1452,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2023-11-19T11:59:44.9817048+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1454,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1452,
-  "NumberOfAwardsMax": 154,
+  "NumberOfAwards": 1454,
+  "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2209,7 +2215,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 154
+      "Count": 155
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2233,7 +2239,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 151
+      "Count": 152
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2254,8 +2260,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2023-11-15T13:57:33.6837033+00:00",
+  "LastChanged": "2023-11-19T11:59:44.9817046+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:33.5238036+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:00:38.8672397+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:04:52.2959523+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:59:44.9817051+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:04:04.1445524+00:00"
 }

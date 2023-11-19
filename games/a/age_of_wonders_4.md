@@ -50,11 +50,11 @@ Rating: 4.61 (Ranked 386)
 | Duality | 0.30% | ~16 |
 | God Emperor | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
+| Eternal Lord | 0.20% | ~11 |
 | Grexolis | 0.20% | ~11 |
 | One for All, All for One | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
-| Eternal Lord | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |

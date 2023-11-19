@@ -250,17 +250,17 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GT_ACH_ELEVATOR",
       "SetID": "883j7b4",
       "Name": "Elevator Pitch",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -298,9 +298,9 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "GT_ACH_RITUALEND",
@@ -339,8 +339,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:03:47.6104568+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:03:17.2395667+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.5977768+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:00:17.723726+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:03:47.6104689+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:57:10.9647429+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:03:17.2395744+00:00"
 }

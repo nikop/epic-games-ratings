@@ -82,6 +82,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.80% | ~1,124 |
 | Attrition Mission | 0.80% | ~1,124 |
 | Glittering Collection | 0.80% | ~1,124 |
+| Treasure Trove | 0.80% | ~1,124 |
 | Master Recycler | 0.80% | ~1,124 |
 | Exotic Commodities | 0.80% | ~1,124 |
 | King's Blade | 0.80% | ~1,124 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.70% | ~984 |
 | Bountiful Harvest | 0.70% | ~984 |
 | Precision Engineering | 0.70% | ~984 |
-| Treasure Trove | 0.70% | ~984 |
 | Moment of Respite | 0.70% | ~984 |
 | King's Shadow | 0.70% | ~984 |
 | Economy of Scarce | 0.70% | ~984 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,554 (Ranked 80)  
+Progressed: 140,558 (Ranked 80)  
 Completed: 187 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 187 (0.13%) (Ranked 267)
 | 2023-11-16 | 140,080 | 186 |
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
-| 2023-11-19 | 140,554 | 187 |
+| 2023-11-19 | 140,558 | 187 |
 ## Awards
 Max (Great for Beginners): 4,834  (Ranked 74)  
 Sum: 27,563 (Ranked 50)  

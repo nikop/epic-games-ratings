@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~19,890 |
-| Fried Friendship | 87.00% | ~19,664 |
-| Look At Him Go | 78.00% | ~17,630 |
-| On Rails Experience | 57.00% | ~12,883 |
-| A Daring Devil | 52.00% | ~11,753 |
-| It Took Two | 43.00% | ~9,719 |
-| Break the Bank | 43.00% | ~9,719 |
-| Bug Sized Relaxation | 21.00% | ~4,746 |
-| Plastic Prison Breakers | 17.00% | ~3,842 |
-| Terror Of The Seven Seas | 15.00% | ~3,390 |
-| Realize Your Art | 12.00% | ~2,712 |
-| Force Triangulated | 12.00% | ~2,712 |
-| Meditation Maestro | 12.00% | ~2,712 |
-| Lost And Found | 10.00% | ~2,260 |
-| Something Fishy | 10.00% | ~2,260 |
-| Platforming Prodigy | 9.00% | ~2,034 |
-| Snackosaurus | 8.00% | ~1,808 |
-| Mood Swing | 7.00% | ~1,582 |
-| Faraway Frequencies | 4.00% | ~904 |
-| Minigame Megalomania | 3.00% | ~678 |
+| Struck A Pose | 88.00% | ~19,904 |
+| Fried Friendship | 87.00% | ~19,678 |
+| Look At Him Go | 78.00% | ~17,642 |
+| On Rails Experience | 57.00% | ~12,892 |
+| A Daring Devil | 52.00% | ~11,761 |
+| It Took Two | 43.00% | ~9,726 |
+| Break the Bank | 43.00% | ~9,726 |
+| Bug Sized Relaxation | 21.00% | ~4,750 |
+| Plastic Prison Breakers | 17.00% | ~3,845 |
+| Terror Of The Seven Seas | 15.00% | ~3,393 |
+| Realize Your Art | 12.00% | ~2,714 |
+| Force Triangulated | 12.00% | ~2,714 |
+| Meditation Maestro | 12.00% | ~2,714 |
+| Lost And Found | 10.00% | ~2,262 |
+| Something Fishy | 10.00% | ~2,262 |
+| Platforming Prodigy | 9.00% | ~2,036 |
+| Snackosaurus | 8.00% | ~1,809 |
+| Mood Swing | 7.00% | ~1,583 |
+| Faraway Frequencies | 4.00% | ~905 |
+| Minigame Megalomania | 3.00% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,602 (Ranked 131)  
-Completed: 93 (0.41%) (Ranked 210)  
+Progressed: 22,618 (Ranked 131)  
+Completed: 94 (0.42%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,4 +90,4 @@ Completed: 93 (0.41%) (Ranked 210)
 | 2023-11-16 | 21,938 | 91 |
 | 2023-11-17 | 22,158 | 91 |
 | 2023-11-18 | 22,461 | 92 |
-| 2023-11-19 | 22,602 | 93 |
+| 2023-11-19 | 22,618 | 94 |

@@ -13,14 +13,14 @@
 | Back to the anvil | 33.00% | ~26 |
 | Kekekeke... | 33.00% | ~26 |
 | So soothing... | 32.00% | ~25 |
+| Mystery solved | 31.00% | ~24 |
 | Roostwig has entered the building | 31.00% | ~24 |
-| Mystery solved | 29.00% | ~23 |
 | Honey, honey, honey… | 29.00% | ~23 |
 | Far away from home | 29.00% | ~23 |
+| NOW GO AWAY! | 29.00% | ~23 |
 | Sorry Grandpa | 29.00% | ~23 |
 | Game Over! | 28.00% | ~22 |
 | A very special drink | 28.00% | ~22 |
-| NOW GO AWAY! | 28.00% | ~22 |
 | Shattered | 27.00% | ~21 |
 | GG | 27.00% | ~21 |
 | You've got mail! | 26.00% | ~20 |

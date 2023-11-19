@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1329,
+  "EOS_Progressed": 1331,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.07,
+  "EOS_Completed_Percentage": 7.06,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3339,6 +3339,11 @@
       "Time": "2023-11-19T11:09:46.9902112+00:00",
       "NumProgressed": 1329,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-11-19T12:09:08.1193807+00:00",
+      "NumProgressed": 1331,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 30,
@@ -3350,7 +3355,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1251
     },
     {
       "ID": "LEVEL_002",
@@ -3358,7 +3363,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "LEVEL_003",
@@ -3366,7 +3371,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 890
+      "UsersEstimate": 892
     },
     {
       "ID": "LEVEL_004",
@@ -3374,7 +3379,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "LEVEL_005",
@@ -3382,7 +3387,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "LEVEL_006",
@@ -3438,7 +3443,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "LEVEL_013",
@@ -3462,7 +3467,7 @@
       "Name": "Flatland",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "LEVEL_016",
@@ -3478,7 +3483,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_018",
@@ -3486,7 +3491,7 @@
       "Name": "Isle rock city",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_019",
@@ -3589,14 +3594,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1329,
+      "Progressed": 1331,
       "Completed": 94
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:09:46.9902109+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:09:08.1193804+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-19T11:00:26.7530946+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:09:46.9902454+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:59:36.9184168+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:09:08.119406+00:00"
 }

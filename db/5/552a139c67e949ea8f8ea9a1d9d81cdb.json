@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1103,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2282,6 +2282,11 @@
       "Time": "2023-11-19T09:06:22.1237358+00:00",
       "NumProgressed": 1103,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-19T12:05:59.8927756+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2302,7 +2307,7 @@
       "Name": "Acrobat",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2310,7 +2315,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2372,9 +2377,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 166
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -2438,7 +2443,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2446,7 +2451,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -2550,7 +2555,7 @@
       "Name": "Spin the wheel",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2637,20 +2642,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1103,
+      "Progressed": 1104,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 771,
-      "Completed": 771
+      "Progressed": 772,
+      "Completed": 772
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:07:33.4317558+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:05:59.8927753+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:59:16.4593374+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:07:33.4317855+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:58:49.3074447+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:05:59.892844+00:00"
 }

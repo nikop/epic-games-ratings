@@ -6,11 +6,11 @@ Rating: 4.76 (Ranked 126)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,382 |
-| First Class Student | 14.00% | ~42,334 |
-| Troll with the Punches | 14.00% | ~42,334 |
-| A Keen Sense of Spell | 13.00% | ~39,310 |
-| That's a Keeper | 13.00% | ~39,310 |
-| A Talent for Spending | 12.00% | ~36,286 |
+| First Class Student | 14.00% | ~42,335 |
+| Troll with the Punches | 14.00% | ~42,335 |
+| A Keen Sense of Spell | 13.00% | ~39,311 |
+| That's a Keeper | 13.00% | ~39,311 |
+| A Talent for Spending | 12.00% | ~36,287 |
 | Grappling with a Graphorn | 11.00% | ~33,263 |
 | The One Who Mastered Memories | 11.00% | ~33,263 |
 | The Hallowed Hero | 11.00% | ~33,263 |
@@ -30,13 +30,13 @@ Rating: 4.76 (Ranked 126)
 | The Root of the Problem | 6.00% | ~18,143 |
 | Third Time's a Charm | 6.00% | ~18,143 |
 | Raising Expectations | 6.00% | ~18,143 |
-| The Toast of the Town | 5.00% | ~15,119 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,119 |
-| The Ends Petrify the Means | 5.00% | ~15,119 |
-| Going Through the Potions | 4.00% | ~12,095 |
-| Room with a View | 4.00% | ~12,095 |
-| The Intrepid Explorer | 4.00% | ~12,095 |
-| The Wise Owl | 4.00% | ~12,095 |
+| The Toast of the Town | 5.00% | ~15,120 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,120 |
+| The Ends Petrify the Means | 5.00% | ~15,120 |
+| Going Through the Potions | 4.00% | ~12,096 |
+| Room with a View | 4.00% | ~12,096 |
+| The Intrepid Explorer | 4.00% | ~12,096 |
+| The Wise Owl | 4.00% | ~12,096 |
 | Put Down Roots | 3.00% | ~9,072 |
 | The Auror's Apprentice | 3.00% | ~9,072 |
 | Floo Around the World | 3.00% | ~9,072 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 126)
 | A Forte for Achievement | 2.00% | ~6,048 |
 | Savvy Spender | 1.00% | ~3,024 |
 | Merlin's Beard! | 1.00% | ~3,024 |
-| Spilled Milk | 0.90% | ~2,721 |
+| Spilled Milk | 0.90% | ~2,722 |
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,387 (Ranked 53)  
+Progressed: 302,390 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-16 | 302,204 | 512 |
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
-| 2023-11-19 | 302,387 | 512 |
+| 2023-11-19 | 302,390 | 512 |
 ## Awards
 Max (Character Customization): 24,447  (Ranked 17)  
 Sum: 48,542 (Ranked 30)  

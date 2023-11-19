@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -99,7 +99,7 @@
   ],
   "EOS_Progressed": 386,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -987,9 +987,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "FloodedValley",
@@ -1011,9 +1011,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "GrasslandsRing",
@@ -1083,9 +1083,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "MuseumVisitor",
@@ -1348,8 +1348,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-18T14:57:11.51088+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:07:39.2717234+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:06:04.1478209+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:57:37.4007163+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:07:39.2717601+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:57:40.9511038+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:06:04.1478692+00:00"
 }

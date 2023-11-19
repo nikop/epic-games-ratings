@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2120,9 +2120,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 285
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2168,9 +2168,9 @@
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 379
     },
     {
       "ID": "BroomAmanita",
@@ -2192,9 +2192,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "DevilRope",
@@ -2455,8 +2455,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-19T11:05:25.8242489+00:00",
+  "LastChanged_Achievements": "2023-11-19T12:04:28.419711+00:00",
   "LastUpdate_AppInfo": "2023-11-14T23:57:11.8055688+00:00",
-  "LastUpdate_Ratings": "2023-11-19T10:56:59.0138205+00:00",
-  "LastUpdate_Achievements": "2023-11-19T11:05:25.8242886+00:00"
+  "LastUpdate_Ratings": "2023-11-19T11:57:14.3455113+00:00",
+  "LastUpdate_Achievements": "2023-11-19T12:04:28.4197523+00:00"
 }

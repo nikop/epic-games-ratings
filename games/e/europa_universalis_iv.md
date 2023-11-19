@@ -59,6 +59,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.10% | ~459 |
 | Early-Modern Warfare | 0.10% | ~459 |
 | Electable! | 0.10% | ~459 |
+| Emperor of Hindustan | 0.10% | ~459 |
 | The Emperors new clothes | 0.10% | ~459 |
 | Even Better than Piet Heyn | 0.10% | ~459 |
 | Everything's Coming Up Mulhouse | 0.10% | ~459 |
@@ -132,6 +133,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Poland can into space | 0.10% | ~459 |
 | Populists in Government | 0.10% | ~459 |
 | Prester John | 0.10% | ~459 |
+| Protect the Secret | 0.10% | ~459 |
 | Pyramid of Skulls | 0.10% | ~459 |
 | Qing of China | 0.10% | ~459 |
 | Queen of Conquest | 0.10% | ~459 |
@@ -247,7 +249,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
-| Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
@@ -313,7 +314,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | The Prince of Egypt | 0.00% | ~0 |
-| Protect the Secret | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,095 (Ranked 41)  
+Progressed: 459,143 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -583,17 +583,17 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-16 | 457,049 | 1 |
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
-| 2023-11-19 | 459,095 | 1 |
+| 2023-11-19 | 459,143 | 1 |
 ## Awards
 Max (Educational): 7,061  (Ranked 54)  
-Sum: 58,191 (Ranked 24)  
+Sum: 58,212 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,061 |
 | This game has Diverse Characters | 6,805 |
 | This game is Highly Recommended | 6,794 |
-| This game has Challenging Combat | 6,683 |
+| This game has Challenging Combat | 6,704 |
 | This game is Extremely Fun | 6,680 |
 | This game is Relaxing | 6,490 |
 | This game has Competitive Players | 6,347 |
@@ -909,4 +909,4 @@ Diff (max vs sum): 30
 | 2023-11-16 | 4.69 | - | 7,026 | 57,847 |
 | 2023-11-17 | 4.69 | - | 7,043 | 58,000 |
 | 2023-11-18 | 4.69 | - | 7,061 | 58,112 |
-| 2023-11-19 | 4.69 | - | 7,061 | 58,191 |
+| 2023-11-19 | 4.69 | - | 7,061 | 58,212 |

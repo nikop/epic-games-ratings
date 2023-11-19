@@ -9,7 +9,7 @@
 | For the Horde! | 81.00% | ~250 |
 | Hammer Time, Round Two | 80.00% | ~247 |
 | The Hellwoods | 75.00% | ~232 |
-| The Plains of Strothalm | 68.00% | ~210 |
+| The Plains of Strothalm | 69.00% | ~213 |
 | Thalya's Concentrated Fury | 67.00% | ~207 |
 | Experienced Thalya | 67.00% | ~207 |
 | Master of Magic | 64.00% | ~198 |
@@ -23,35 +23,35 @@
 | It's Warm and Cozy at Home | 47.00% | ~145 |
 | YOU SHALL NOT PASS! | 42.00% | ~130 |
 | Hard Work | 41.00% | ~127 |
-| The Big Eaty | 40.00% | ~124 |
+| The Big Eaty | 41.00% | ~127 |
 | Pure Dynamite! | 39.00% | ~121 |
 | “… like son” | 35.00% | ~108 |
 | Mana Cannon | 33.00% | ~102 |
 | Dungeonlord Gorgu | 31.00% | ~96 |
 | Shame! Shame! Shame! | 30.00% | ~93 |
 | The Cathedral of Light | 28.00% | ~87 |
-| Tanos' Crusade Against Thalya | 24.00% | ~74 |
+| Tanos' Crusade Against Thalya | 25.00% | ~77 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~68 |
-| Unstoppable Horde | 20.00% | ~62 |
-| Master of the Undead | 19.00% | ~59 |
-| Hungry, Hungry Gorgu! | 18.00% | ~56 |
+| Unstoppable Horde | 21.00% | ~65 |
+| Master of the Undead | 20.00% | ~62 |
+| Hungry, Hungry Gorgu! | 19.00% | ~59 |
 | Forbidden Knowledge | 18.00% | ~56 |
 | All’s Well That Ends Evil | 18.00% | ~56 |
 | Ghost Pirates? Ghost Heroes! | 16.00% | ~49 |
 | The Duel | 15.00% | ~46 |
 | Sacrificial Pit = Garbage Disposal? | 14.00% | ~43 |
+| If Looks Could Kill | 14.00% | ~43 |
 | Stop Tanos! | 13.00% | ~40 |
-| If Looks Could Kill | 13.00% | ~40 |
 | The Finitude Drill | 12.00% | ~37 |
 | Bonus Evilness | 9.00% | ~28 |
 | Sabotage! | 9.00% | ~28 |
 | Doom Hill | 9.00% | ~28 |
 | Brimstone Shaken, Not Stirred | 8.00% | ~25 |
 | My Little Torture Chamber | 7.00% | ~22 |
+| Raiders of the Lost Stone | 7.00% | ~22 |
 | Mirror, Mirror | 6.00% | ~19 |
 | Untouchable | 6.00% | ~19 |
 | Lavalumps on Ice! | 6.00% | ~19 |
-| Raiders of the Lost Stone | 6.00% | ~19 |
 | The Rune Sockets of Finitude (Part 1) | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~15 |
 | Laser Eyes Are So Useless | 5.00% | ~15 |
@@ -61,8 +61,8 @@
 | To the Max! | 4.00% | ~12 |
 | To Infinity And Beyond! | 4.00% | ~12 |
 | Evilification | 4.00% | ~12 |
+| No Mana, No Cry | 3.00% | ~9 |
 | Hands Off My Stones | 3.00% | ~9 |
-| No Mana, No Cry | 2.00% | ~6 |
 | Heal Heal Blessing | 2.00% | ~6 |
 | I Don't Need Any Help | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

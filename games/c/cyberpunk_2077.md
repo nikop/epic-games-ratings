@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,893 |
+| V for Vendetta | 4.00% | ~35,894 |
 | Gun Fu | 2.00% | ~17,947 |
 | Relic Ruler | 1.00% | ~260 |
 | Full Body Conversion | 0.90% | ~8,076 |
-| True Soldier | 0.80% | ~7,179 |
+| True Soldier | 0.90% | ~8,076 |
 | Right Back At Ya | 0.70% | ~6,281 |
 | Stanislavski's Method | 0.70% | ~6,281 |
 | All the President's Men | 0.70% | ~182 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,334 (Ranked 15)  
+Progressed: 897,343 (Ranked 15)  
 Completed: 2,787 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,16 +287,16 @@ Completed: 2,787 (0.31%) (Ranked 233)
 | 2023-11-16 | 896,943 | 2,781 |
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
-| 2023-11-19 | 897,334 | 2,787 |
+| 2023-11-19 | 897,343 | 2,787 |
 ## Awards
 Max (Character Customization): 106,055  (Ranked 9)  
-Sum: 356,840 (Ranked 10)  
+Sum: 356,926 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 106,055 |
 | This game has Great Boss Battles | 76,948 |
-| This game is Great for Beginners | 21,521 |
+| This game is Great for Beginners | 21,607 |
 | This game has Diverse Characters | 21,152 |
 | This game is Highly Recommended | 20,284 |
 | This game has Amazing Storytelling | 20,176 |
@@ -612,4 +612,4 @@ Diff (max vs sum): -1
 | 2023-11-16 | 4.64 | - | 105,726 | 354,422 |
 | 2023-11-17 | 4.64 | - | 105,891 | 355,372 |
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
-| 2023-11-19 | 4.64 | - | 106,055 | 356,840 |
+| 2023-11-19 | 4.64 | - | 106,055 | 356,926 |
