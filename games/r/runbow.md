@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 646)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~133,261 |
-| My First Runbow | 50.00% | ~125,718 |
-| It's The Fall | 26.00% | ~65,373 |
+| In The Zone | 53.00% | ~133,262 |
+| My First Runbow | 50.00% | ~125,719 |
+| It's The Fall | 26.00% | ~65,374 |
 | The Stunner | 22.00% | ~55,316 |
-| Be Aggressive | 21.00% | ~52,801 |
-| Curator | 20.00% | ~50,287 |
-| Crowning Around | 18.00% | ~45,258 |
+| Be Aggressive | 21.00% | ~52,802 |
+| Curator | 20.00% | ~50,288 |
+| Crowning Around | 18.00% | ~45,259 |
 | Can You Dig It? | 17.00% | ~42,744 |
 | You Juan-A-Go? | 16.00% | ~40,230 |
-| Chan-tastic | 15.00% | ~37,715 |
+| Chan-tastic | 15.00% | ~37,716 |
 | Muddy Waters | 14.00% | ~35,201 |
 | Toasty! | 13.00% | ~32,687 |
 | Lazy Laser | 8.00% | ~20,115 |
-| Just A Phaze | 7.00% | ~17,600 |
-| Into The Drift | 7.00% | ~17,600 |
-| Ready? Fight! | 7.00% | ~17,600 |
+| Just A Phaze | 7.00% | ~17,601 |
+| Into The Drift | 7.00% | ~17,601 |
+| Ready? Fight! | 7.00% | ~17,601 |
 | Butt Butt | 6.00% | ~15,086 |
 | He Who Laughs Last | 3.00% | ~7,543 |
 | Shoo, Cat! | 3.00% | ~7,543 |
@@ -31,7 +31,7 @@ Rating: 4.46 (Ranked 646)
 | Tubular, Dude | 1.00% | ~2,514 |
 | What A Trip | 1.00% | ~2,514 |
 | Please The King | 0.90% | ~2,263 |
-| Here We Go! | 0.80% | ~2,011 |
+| Here We Go! | 0.80% | ~2,012 |
 | Clear-Cut | 0.50% | ~1,257 |
 | Breaking Out | 0.40% | ~1,006 |
 | Disposable | 0.40% | ~1,006 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 646)
 | Talent Scout | 0.10% | ~251 |
 | True Completionist | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,435 (Ranked 60)  
+Progressed: 251,438 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 6 (0.00%) (Ranked 356)
 | 2023-11-17 | 251,360 | 6 |
 | 2023-11-18 | 251,400 | 6 |
 | 2023-11-19 | 251,432 | 6 |
-| 2023-11-20 | 251,435 | 6 |
+| 2023-11-20 | 251,438 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

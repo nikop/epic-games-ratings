@@ -5,26 +5,26 @@ Rating: 4.64 (Ranked 332)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,767 |
-| Welcome Aboard | 85.00% | ~1,615 |
-| Lab Rat | 75.00% | ~1,425 |
-| All Systems Go | 67.00% | ~1,273 |
-| Brute Force | 66.00% | ~1,254 |
-| Cannon Fodder | 62.00% | ~1,178 |
-| Autofire | 58.00% | ~1,102 |
-| True Believer | 57.00% | ~1,083 |
-| Story Teller | 56.00% | ~1,064 |
-| Raise the Stakes | 56.00% | ~1,064 |
-| Surgeon | 53.00% | ~1,007 |
-| Exterminator | 52.00% | ~988 |
-| Freeze | 51.00% | ~969 |
-| Greenhouse Effect | 51.00% | ~969 |
+| Marksman | 93.00% | ~1,768 |
+| Welcome Aboard | 85.00% | ~1,616 |
+| Lab Rat | 75.00% | ~1,426 |
+| All Systems Go | 67.00% | ~1,274 |
+| Brute Force | 66.00% | ~1,255 |
+| Cannon Fodder | 62.00% | ~1,179 |
+| Autofire | 58.00% | ~1,103 |
+| True Believer | 57.00% | ~1,084 |
+| Story Teller | 56.00% | ~1,065 |
+| Raise the Stakes | 56.00% | ~1,065 |
+| Surgeon | 53.00% | ~1,008 |
+| Exterminator | 52.00% | ~989 |
+| Greenhouse Effect | 52.00% | ~989 |
+| Freeze | 51.00% | ~970 |
 | S.O.S. | 46.00% | ~874 |
 | Full Arsenal | 45.00% | ~855 |
 | Get Off My Ship! | 44.00% | ~836 |
 | Strange Transmissions | 44.00% | ~836 |
-| Wreckage | 42.00% | ~798 |
-| Live with the Hot Ones | 41.00% | ~779 |
+| Wreckage | 43.00% | ~817 |
+| Live with the Hot Ones | 42.00% | ~798 |
 | Keeper of the Faith | 40.00% | ~760 |
 | Betrayed | 39.00% | ~741 |
 | Legend Teller | 38.00% | ~722 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 332)
 | Untouchable | 2.00% | ~38 |
 | One Gun | 2.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,900 (Ranked 226)  
+Progressed: 1,901 (Ranked 226)  
 Completed: 10 (0.53%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 10 (0.53%) (Ranked 195)
 | 2023-11-17 | 1,847 | 10 |
 | 2023-11-18 | 1,871 | 10 |
 | 2023-11-19 | 1,899 | 10 |
-| 2023-11-20 | 1,900 | 10 |
+| 2023-11-20 | 1,901 | 10 |
 ## Awards
 Max (Great Boss Battles): 112  (Ranked 346)  
 Sum: 112 (Ranked 438)  

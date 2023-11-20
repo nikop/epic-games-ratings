@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24500,
+  "EOS_Progressed": 24502,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6733,6 +6733,11 @@
       "Time": "2023-11-19T23:06:40.2492805+00:00",
       "NumProgressed": 24500,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-20T01:53:32.7489129+00:00",
+      "NumProgressed": 24502,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6744,7 +6749,7 @@
       "Name": "Epic Legendary Prize",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ALL_CARDS",
@@ -6752,7 +6757,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -6768,7 +6773,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -6952,7 +6957,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 0.5,
       "XP": 45,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -6960,7 +6965,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -7095,13 +7100,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24500,
+      "Progressed": 24502,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1793,
+      "Progressed": 1795,
       "Completed": 1376
     }
   ],
@@ -7109,8 +7114,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:06:25.8761681+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:53:32.7489127+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:59:50.8900138+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:06:25.8762201+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:46:41.1112789+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:53:32.7489631+00:00"
 }

@@ -5,14 +5,14 @@ Rating: 4.21 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 1.00% | ~3,148 |
-| A powerful aura was here | 1.00% | ~3,148 |
-| The touch of Chaos | 1.00% | ~3,148 |
+| May the Torchbearer light our way | 1.00% | ~3,149 |
+| A powerful aura was here | 1.00% | ~3,149 |
+| The touch of Chaos | 1.00% | ~3,149 |
 | Let's raise the stakes!! | 0.50% | ~1,574 |
 | Your wounds… They are healing so fast! | 0.40% | ~1,259 |
-| Rumors are true | 0.30% | ~944 |
-| We'll be careful | 0.30% | ~944 |
-| Pride is a sin, young Knight | 0.30% | ~944 |
+| Rumors are true | 0.30% | ~945 |
+| We'll be careful | 0.30% | ~945 |
+| Pride is a sin, young Knight | 0.30% | ~945 |
 | Back to your senses | 0.20% | ~630 |
 | They tricked me | 0.20% | ~630 |
 | We need to talk | 0.20% | ~630 |
@@ -20,9 +20,9 @@ Rating: 4.21 (Ranked 904)
 | Here to stay | 0.20% | ~630 |
 | Counting on you | 0.20% | ~630 |
 | This is the end | 0.20% | ~630 |
+| We can choose to fight | 0.20% | ~630 |
 | They won't last long | 0.20% | ~630 |
 | Bring it on! | 0.20% | ~630 |
-| We can choose to fight | 0.10% | ~315 |
 | No damsels in distress | 0.10% | ~315 |
 | The immortal is bound to reborn | 0.10% | ~315 |
 | A legend among Chimeras | 0.10% | ~315 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 904)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314,817 (Ranked 50)  
+Progressed: 314,857 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,14 +104,14 @@ Completed: 4 (0.00%) (Ranked 356)
 | 2023-11-17 | 312,860 | 4 |
 | 2023-11-18 | 313,822 | 4 |
 | 2023-11-19 | 314,789 | 4 |
-| 2023-11-20 | 314,817 | 4 |
+| 2023-11-20 | 314,857 | 4 |
 ## Awards
-Max (Great Boss Battles): 60  (Ranked 412)  
-Sum: 60 (Ranked 473)  
+Max (Great Boss Battles): 61  (Ranked 412)  
+Sum: 61 (Ranked 473)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 60 |
+| This game has Great Boss Battles | 61 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -148,3 +148,4 @@ Diff (max vs sum): -61
 | 2023-11-14 | 4.21 | 58 | 58 |
 | 2023-11-15 | 4.22 | 58 | 58 |
 | 2023-11-16 | 4.21 | 60 | 60 |
+| 2023-11-20 | 4.21 | 61 | 61 |

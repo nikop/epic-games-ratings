@@ -23,9 +23,9 @@
 | The Collector | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
+| The Mentor | 2.00% | ~4 |
 | Essence Blow | 2.00% | ~4 |
 | Alchemist | 2.00% | ~4 |
-| The Mentor | 1.00% | ~2 |
 | Airborne | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1501,7 +1501,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 159188,
+  "EOS_Progressed": 159201,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 0,
@@ -16306,6 +16306,11 @@
       "Time": "2023-11-20T00:07:27.9990986+00:00",
       "NumProgressed": 159188,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T01:54:34.8013417+00:00",
+      "NumProgressed": 159201,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16381,7 +16386,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -16533,7 +16538,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -16684,21 +16689,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158771,
+      "Progressed": 158784,
       "Completed": 1211
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159188,
+      "Progressed": 159201,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T23:58:22.9175877+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:07:27.9990982+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:54:34.8013413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:00:39.5469823+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:07:27.9992118+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:47:18.9873423+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:54:34.801427+00:00"
 }

@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15139,
+  "EOS_Progressed": 15141,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11667,6 +11667,11 @@
       "Time": "2023-11-20T00:04:01.7409757+00:00",
       "NumProgressed": 15139,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-20T01:51:29.87947+00:00",
+      "NumProgressed": 15141,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11677,9 +11682,9 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 61
     },
     {
       "ID": "10",
@@ -11693,9 +11698,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 757
     },
     {
       "ID": "12",
@@ -11958,22 +11963,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15139,
+      "Progressed": 15141,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1093,
-      "Completed": 639
+      "Progressed": 1095,
+      "Completed": 642
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:04:01.7409754+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:51:29.8794697+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:00:29.2284397+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:04:01.7410641+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:47:08.6604303+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:51:29.8795594+00:00"
 }

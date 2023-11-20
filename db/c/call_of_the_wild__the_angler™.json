@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6582,
+  "EOS_Progressed": 6585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10188,6 +10188,11 @@
       "Time": "2023-11-19T23:04:33.7880279+00:00",
       "NumProgressed": 6582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T01:52:06.3201978+00:00",
+      "NumProgressed": 6585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10197,9 +10202,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -10359,7 +10364,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -10518,13 +10523,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6582,
+      "Progressed": 6585,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5954,
+      "Progressed": 5957,
       "Completed": 113
     }
   ],
@@ -10532,8 +10537,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-17T16:57:26.9437298+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:04:38.2713717+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:52:06.3201975+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:59:54.2270465+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:04:38.2714254+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:46:43.7414274+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:52:06.3202572+00:00"
 }

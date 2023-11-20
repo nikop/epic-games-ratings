@@ -20,27 +20,27 @@
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~80 |
 | Meat grinder | 60.00% | ~77 |
 | You're not going to blow me up! | 56.00% | ~72 |
-| Mushroom soup of the day | 52.00% | ~67 |
-| Cockadoodledoo! | 49.00% | ~63 |
-| Honk honk! | 48.00% | ~62 |
-| Butcher | 47.00% | ~61 |
+| Mushroom soup of the day | 53.00% | ~68 |
+| Cockadoodledoo! | 50.00% | ~64 |
+| Honk honk! | 49.00% | ~63 |
+| Butcher | 48.00% | ~62 |
 | Spare Ribs | 47.00% | ~61 |
-| Thats disgusting! | 45.00% | ~58 |
+| Thats disgusting! | 46.00% | ~59 |
 | Self assessed tax return | 43.00% | ~55 |
 | My pants squeak when I walk | 42.00% | ~54 |
 | Surprise!! | 41.00% | ~53 |
-| Haemochromatosis | 39.00% | ~50 |
-| Make America Grate Again | 33.00% | ~43 |
+| Haemochromatosis | 40.00% | ~52 |
+| Make America Grate Again | 34.00% | ~44 |
 | Pasta Bolognese | 33.00% | ~43 |
+| You are no match for me, Billy! | 32.00% | ~41 |
+| Catch the bus with me! | 32.00% | ~41 |
 | Karaoke king | 32.00% | ~41 |
 | You can't stop me, bro! | 32.00% | ~41 |
-| You are no match for me, Billy! | 31.00% | ~40 |
-| Catch the bus with me! | 31.00% | ~40 |
 | Meatballs, coming up! | 29.00% | ~37 |
 | I'm going to get a concussion | 29.00% | ~37 |
-| Another one bites the iron | 26.00% | ~34 |
+| Another one bites the iron | 27.00% | ~35 |
+| Ripe Meat Off The Bone! | 25.00% | ~32 |
 | Kleptomaniac | 25.00% | ~32 |
-| Ripe Meat Off The Bone! | 24.00% | ~31 |
 | A Megapint...? | 23.00% | ~30 |
 | Hovering around | 23.00% | ~30 |
 | You're not so Big anymore, Boi! | 22.00% | ~28 |

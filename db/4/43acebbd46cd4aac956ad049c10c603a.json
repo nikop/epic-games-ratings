@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -105,7 +105,7 @@
   ],
   "EOS_Progressed": 399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1353,9 +1353,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "WesternDelta",
@@ -1394,8 +1394,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:07:23.5166892+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:54:30.2552831+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:58:23.8474414+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:07:23.5167297+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:46:01.5061407+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:54:30.2553334+00:00"
 }

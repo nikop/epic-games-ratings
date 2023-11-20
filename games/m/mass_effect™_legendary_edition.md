@@ -15,16 +15,16 @@
 | Council Legion of Merit | 54.00% | ~720 |
 | Medal of Exploration II | 53.00% | ~706 |
 | Turian Ally | 53.00% | ~706 |
+| Medal of Honor | 51.00% | ~680 |
 | Meritorious Service Medal | 51.00% | ~680 |
-| Medal of Honor | 50.00% | ~666 |
 | Charismatic | 50.00% | ~666 |
 | Soldier | 49.00% | ~653 |
 | Asari Ally | 47.00% | ~627 |
 | Soldier Ally | 46.00% | ~613 |
 | Medal of Exploration III | 45.00% | ~600 |
 | Principled | 45.00% | ~600 |
+| Colonial Savior | 44.00% | ~587 |
 | Paramour I | 43.00% | ~573 |
-| Colonial Savior | 43.00% | ~573 |
 | Missing in Action | 42.00% | ~560 |
 | Merciless | 42.00% | ~560 |
 | Scientist | 42.00% | ~560 |
@@ -42,19 +42,19 @@
 | Colony Defense | 33.00% | ~440 |
 | The Krogan | 33.00% | ~440 |
 | Ghost Ship | 32.00% | ~427 |
+| The Quarian | 32.00% | ~427 |
 | Broke, Blind, and Bedlam | 32.00% | ~427 |
 | A Personal Touch | 31.00% | ~413 |
 | The Assassin | 31.00% | ~413 |
 | The Justicar | 31.00% | ~413 |
-| The Quarian | 31.00% | ~413 |
 | Battlemaster | 31.00% | ~413 |
+| Ghost of the Father | 31.00% | ~413 |
 | The Prodigal | 31.00% | ~413 |
 | Galactic Explorer | 31.00% | ~413 |
 | Driven | 31.00% | ~413 |
 | Shopaholic | 31.00% | ~413 |
 | Completionist | 30.00% | ~400 |
 | Catharsis | 30.00% | ~400 |
-| Ghost of the Father | 30.00% | ~400 |
 | The Cure | 30.00% | ~400 |
 | Big Game Hunter | 30.00% | ~400 |
 | Revenge! | 30.00% | ~400 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7512,
+  "EOS_Progressed": 7513,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -5808,6 +5808,11 @@
       "Time": "2023-11-19T21:07:08.676316+00:00",
       "NumProgressed": 7512,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-20T01:53:57.0733552+00:00",
+      "NumProgressed": 7513,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5851,7 +5856,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5915,7 +5920,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5947,7 +5952,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -6034,15 +6039,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7512,
+      "Progressed": 7513,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:06:49.874794+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:53:57.0733549+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.536262+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:03:04.174137+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:06:49.8748251+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:50:50.9217062+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:53:57.0733953+00:00"
 }

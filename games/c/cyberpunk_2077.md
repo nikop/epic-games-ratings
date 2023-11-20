@@ -6,12 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,897 |
+| V for Vendetta | 4.00% | ~35,898 |
 | Gun Fu | 2.00% | ~17,949 |
 | Relic Ruler | 1.00% | ~261 |
 | Full Body Conversion | 0.90% | ~8,077 |
 | True Soldier | 0.90% | ~8,077 |
-| Right Back At Ya | 0.80% | ~7,179 |
+| Right Back At Ya | 0.80% | ~7,180 |
 | Stanislavski's Method | 0.70% | ~6,282 |
 | All the President's Men | 0.70% | ~182 |
 | Arachnophobia | 0.70% | ~182 |
@@ -21,17 +21,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.60% | ~5,385 |
 | The Wheel of Fortune | 0.60% | ~5,385 |
 | True Warrior | 0.60% | ~5,385 |
+| Spin Doctor | 0.60% | ~156 |
 | Bushido and Chill | 0.50% | ~4,487 |
 | Christmas Tree Attack | 0.50% | ~4,487 |
 | The High Priestess | 0.50% | ~4,487 |
 | The World | 0.50% | ~4,487 |
+| Judy vs Night City | 0.50% | ~4,487 |
 | Legend of The Afterlife | 0.50% | ~4,487 |
-| Spin Doctor | 0.50% | ~130 |
 | To Protect and Serve | 0.40% | ~3,590 |
 | Master Crafter | 0.40% | ~3,590 |
 | I Am The Law | 0.40% | ~3,590 |
 | The Fool | 0.40% | ~3,590 |
-| Judy vs Night City | 0.40% | ~3,590 |
 | King of Wands | 0.40% | ~104 |
 | Dirty Deeds | 0.40% | ~104 |
 | Easy Come, Easy Go | 0.40% | ~104 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,432 (Ranked 15)  
+Progressed: 897,440 (Ranked 15)  
 Completed: 2,789 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,789 (0.31%) (Ranked 232)
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
-| 2023-11-20 | 897,432 | 2,789 |
+| 2023-11-20 | 897,440 | 2,789 |
 ## Awards
 Max (Character Customization): 106,230  (Ranked 9)  
 Sum: 357,485 (Ranked 10)  

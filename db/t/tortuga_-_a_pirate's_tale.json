@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17089,
+  "EOS_Progressed": 17090,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6659,6 +6659,11 @@
       "Time": "2023-11-19T18:05:44.3210662+00:00",
       "NumProgressed": 17089,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T01:54:03.056465+00:00",
+      "NumProgressed": 17090,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6670,7 +6675,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16235
+      "UsersEstimate": 16236
     },
     {
       "ID": "ACH001",
@@ -6710,7 +6715,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "ACH0014",
@@ -6766,7 +6771,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12304
+      "UsersEstimate": 12305
     },
     {
       "ID": "ACH0020",
@@ -6790,7 +6795,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5981
+      "UsersEstimate": 5982
     },
     {
       "ID": "ACH0023",
@@ -6822,7 +6827,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9228
+      "UsersEstimate": 9229
     },
     {
       "ID": "ACH004",
@@ -6830,7 +6835,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14867
+      "UsersEstimate": 14868
     },
     {
       "ID": "ACH005",
@@ -6877,7 +6882,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17089,
+      "Progressed": 17090,
       "Completed": 1
     }
   ],
@@ -6885,8 +6890,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:06:55.8817818+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:54:03.0564646+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:26.1699707+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:02:47.9507069+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:06:55.8818251+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:50:35.0084461+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:54:03.0565525+00:00"
 }

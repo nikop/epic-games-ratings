@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1320,6 +1320,11 @@
       "Time": "2023-11-19T15:08:27.4822509+00:00",
       "NumProgressed": 282,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T01:56:05.2049961+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1332,7 +1337,7 @@
       "Name": "Unforeseen",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_10",
@@ -1372,7 +1377,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_15",
@@ -1420,7 +1425,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_20",
@@ -1474,9 +1479,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_36",
@@ -1546,9 +1551,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_46",
@@ -1564,7 +1569,7 @@
       "Name": "Enlisted",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_49",
@@ -1618,9 +1623,9 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_6",
@@ -1707,7 +1712,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 1
     }
   ],
@@ -1715,8 +1720,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-19T13:02:21.5491129+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:08:49.8793689+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:56:05.2049958+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:01:13.1860985+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:08:49.8794341+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:47:51.6220568+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:56:05.205043+00:00"
 }

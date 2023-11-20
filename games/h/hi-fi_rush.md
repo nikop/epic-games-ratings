@@ -14,8 +14,8 @@ Rating: 4.87 (Ranked 23)
 | You got this, Peppermint? | 13.00% | ~550 |
 | Perfect Parry | 12.00% | ~508 |
 | Alright, that felt AWESOME! | 12.00% | ~508 |
-| This will cost you big time | 11.00% | ~465 |
-| Uh, they were broken when I got here | 11.00% | ~465 |
+| This will cost you big time | 11.00% | ~466 |
+| Uh, they were broken when I got here | 11.00% | ~466 |
 | I play my own way! | 10.00% | ~423 |
 | Z-shielding's got nothing on us! | 10.00% | ~423 |
 | Kissing the sky! | 10.00% | ~423 |
@@ -23,11 +23,11 @@ Rating: 4.87 (Ranked 23)
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~381 |
 | Out in a puff of smoke | 9.00% | ~381 |
 | I look cool. But I can look COOLER. | 9.00% | ~381 |
-| Headliner | 8.00% | ~338 |
-| Time to pay up! | 8.00% | ~338 |
-| Who's the boss now? | 8.00% | ~338 |
-| You must like calling me in, Chai | 8.00% | ~338 |
-| Does that say weakpoint? | 8.00% | ~338 |
+| Headliner | 8.00% | ~339 |
+| Time to pay up! | 8.00% | ~339 |
+| Who's the boss now? | 8.00% | ~339 |
+| You must like calling me in, Chai | 8.00% | ~339 |
+| Does that say weakpoint? | 8.00% | ~339 |
 | NOW we got a kickass hideout! | 8.00% | ~220 |
 | I have to read these things? | 7.00% | ~296 |
 | Perfecter Parry-er! | 7.00% | ~296 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 23)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,231 (Ranked 194)  
+Progressed: 4,232 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 8 (0.19%) (Ranked 258)
 | 2023-11-17 | 4,228 | 8 |
 | 2023-11-18 | 4,229 | 8 |
 | 2023-11-19 | 4,231 | 8 |
+| 2023-11-20 | 4,232 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

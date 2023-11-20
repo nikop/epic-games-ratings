@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 20,
@@ -6631,18 +6631,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11539,
       "NumberOfAwardsMax": 7552
+    },
+    {
+      "Time": "2023-11-20T01:48:09.8191043+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11576,
+      "NumberOfAwardsMax": 7589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11539,
-  "NumberOfAwardsMax": 7552,
+  "NumberOfAwards": 11576,
+  "NumberOfAwardsMax": 7589,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7552
+      "Count": 7589
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6693,9 +6699,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 721109,
-  "EOS_Completed": 2412,
-  "EOS_NewPlayers": 3462,
+  "EOS_Progressed": 721137,
+  "EOS_Completed": 2413,
+  "EOS_NewPlayers": 3452,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -31098,6 +31104,11 @@
       "Time": "2023-11-20T00:04:06.7539525+00:00",
       "NumProgressed": 721109,
       "NumCompleted": 2412
+    },
+    {
+      "Time": "2023-11-20T01:51:34.8569761+00:00",
+      "NumProgressed": 721137,
+      "NumCompleted": 2413
     }
   ],
   "TotalAchievements": 51,
@@ -31181,7 +31192,7 @@
       "Name": "On Safari",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_defensive",
@@ -31211,9 +31222,9 @@
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -31285,7 +31296,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_investigator",
@@ -31301,7 +31312,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_knock_down",
@@ -31413,7 +31424,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_thesacrifice",
@@ -31437,7 +31448,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -31453,7 +31464,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "ach_well_trained",
@@ -31469,7 +31480,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ach_dark_magic",
@@ -31477,7 +31488,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ach_gardening_tools",
@@ -31493,7 +31504,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31516,22 +31527,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721109,
-      "Completed": 2412
+      "Progressed": 721137,
+      "Completed": 2413
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46651,
-      "Completed": 36571
+      "Progressed": 46679,
+      "Completed": 36572
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-19T17:59:52.4296377+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:04:06.7539521+00:00",
+  "LastChanged": "2023-11-20T01:48:09.8191041+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:51:34.8569758+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:01:31.3436753+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:04:06.7540958+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:48:09.8191048+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:51:34.857098+00:00"
 }

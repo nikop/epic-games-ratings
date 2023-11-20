@@ -11,10 +11,13 @@
 | The Weighing of the Soul | 10.00% | ~2 |
 | The Curse of Kih-Oskh | 10.00% | ~2 |
 | It's a Deal! | 10.00% | ~2 |
+| In the Name of the Law | 5.00% | ~1 |
+| Au Revoir, Abudin | 5.00% | ~1 |
 | Mummy Nightmare | 5.00% | ~1 |
 | Barking Dog | 5.00% | ~1 |
-| In the Name of the Law | 0.00% | ~0 |
-| Au Revoir, Abudin | 0.00% | ~0 |
+| Cat Lover | 5.00% | ~1 |
+| Dynamite, Treason and Coconuts | 5.00% | ~1 |
+| Save a Friend | 5.00% | ~1 |
 | Mysterious Bungalow | 0.00% | ~0 |
 | The Eyes! | 0.00% | ~0 |
 | Keep the Doctor Away | 0.00% | ~0 |
@@ -35,12 +38,9 @@
 | Mountain Runner | 0.00% | ~0 |
 | A Yummy Detour | 0.00% | ~0 |
 | The Pharaoh's New Clothes | 0.00% | ~0 |
-| Cat Lover | 0.00% | ~0 |
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 | Threat | 0.00% | ~0 |
-| Dynamite, Treason and Coconuts | 0.00% | ~0 |
-| Save a Friend | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 545)  
 Completed: 0 (0.00%) (Ranked 356)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -2624,6 +2624,11 @@
       "Time": "2023-11-19T17:08:57.01393+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T01:56:58.7212443+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2635,7 +2640,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2675,7 +2680,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2699,7 +2704,7 @@
       "Name": "Barkannan Cannot Be Pacified",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BARK_ACHIEVEMENT_1",
@@ -2707,7 +2712,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2803,7 +2808,7 @@
       "Name": "01000011 01000010 01000100",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "COOP_ACHIEVEMENT_1",
@@ -2835,7 +2840,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2843,7 +2848,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2891,7 +2896,7 @@
       "Name": "Free Like Birds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2907,7 +2912,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2915,15 +2920,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 359
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2931,7 +2936,7 @@
       "Name": "Decakill!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2955,7 +2960,7 @@
       "Name": "And There We Go",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2987,7 +2992,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -3027,7 +3032,7 @@
       "Name": "Night Snack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -3115,7 +3120,7 @@
       "Name": "Let the Medical Exams Begin",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SING_ACHIEVEMENT_1",
@@ -3162,14 +3167,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:09:44.1391066+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:56:58.721244+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:02.0177367+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:59:53.241231+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:09:44.1391765+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:46:43.2710252+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:56:58.7212959+00:00"
 }

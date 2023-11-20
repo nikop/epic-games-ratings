@@ -10681,10 +10681,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48598,
       "NumberOfAwardsMax": 24447
+    },
+    {
+      "Time": "2023-11-20T01:47:43.3990977+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48613,
+      "NumberOfAwardsMax": 24447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48598,
+  "NumberOfAwards": 48613,
   "NumberOfAwardsMax": 24447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10734,7 +10740,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1237
+      "Count": 1241
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10752,7 +10758,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1128
+      "Count": 1139
     },
     {
       "Text": "This game has a Creative Community",
@@ -10761,9 +10767,9 @@
       "Count": 794
     }
   ],
-  "EOS_Progressed": 302452,
+  "EOS_Progressed": 302458,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33711,6 +33717,11 @@
       "Time": "2023-11-20T00:09:57.6225533+00:00",
       "NumProgressed": 302452,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-20T01:57:12.639209+00:00",
+      "NumProgressed": 302458,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33722,7 +33733,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48392
+      "UsersEstimate": 48393
     },
     {
       "ID": "PFA_10",
@@ -33770,7 +33781,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24196
+      "UsersEstimate": 24197
     },
     {
       "ID": "PFA_16",
@@ -33786,7 +33797,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24196
+      "UsersEstimate": 24197
     },
     {
       "ID": "PFA_18",
@@ -33794,7 +33805,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24196
+      "UsersEstimate": 24197
     },
     {
       "ID": "PFA_19",
@@ -33802,7 +33813,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24196
+      "UsersEstimate": 24197
     },
     {
       "ID": "PFA_2",
@@ -33842,7 +33853,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39319
+      "UsersEstimate": 39320
     },
     {
       "ID": "PFA_24",
@@ -33906,7 +33917,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36294
+      "UsersEstimate": 36295
     },
     {
       "ID": "PFA_31",
@@ -33946,7 +33957,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30245
+      "UsersEstimate": 30246
     },
     {
       "ID": "PFA_36",
@@ -34050,7 +34061,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42343
+      "UsersEstimate": 42344
     },
     {
       "ID": "PFA_7",
@@ -34058,7 +34069,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42343
+      "UsersEstimate": 42344
     },
     {
       "ID": "PFA_8",
@@ -34066,7 +34077,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39319
+      "UsersEstimate": 39320
     },
     {
       "ID": "PFA_9",
@@ -34074,23 +34085,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30245
+      "UsersEstimate": 30246
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302452,
+      "Progressed": 302458,
       "Completed": 512
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-19T21:59:35.492379+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:09:57.6225531+00:00",
+  "LastChanged": "2023-11-20T01:47:43.3990976+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:57:12.6392088+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:01:04.7947401+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:09:57.6226834+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:47:43.3990984+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:57:12.6393256+00:00"
 }

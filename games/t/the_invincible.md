@@ -9,22 +9,22 @@
 | The field base | 27.00% | ~49 |
 | The Teleprobe | 25.00% | ~45 |
 | Survivors | 23.00% | ~42 |
-| The Condor | 19.00% | ~34 |
+| The Condor | 20.00% | ~36 |
+| The End | 19.00% | ~34 |
 | The Necroevolution | 18.00% | ~33 |
-| The End | 18.00% | ~33 |
 | On her own | 13.00% | ~24 |
+| Peacemaker | 13.00% | ~24 |
 | The Alliance | 13.00% | ~24 |
-| Peacemaker | 12.00% | ~22 |
 | Krauta is alive | 12.00% | ~22 |
 | Volcanologist | 12.00% | ~22 |
+| Flying Objects Operator | 11.00% | ~20 |
 | Beyond divisions | 11.00% | ~20 |
-| Flying Objects Operator | 10.00% | ~18 |
 | Fierce fight | 9.00% | ~16 |
 | Evacuation | 9.00% | ~16 |
 | I remember everything! | 8.00% | ~14 |
 | Violent solution | 6.00% | ~11 |
 | Innate curiosity | 6.00% | ~11 |
-| The Invincible | 4.00% | ~7 |
+| The Invincible | 5.00% | ~9 |
 | Ubiquitous holes | 3.00% | ~5 |
 | Strong objection | 3.00% | ~5 |
 | Another giant | 2.00% | ~4 |

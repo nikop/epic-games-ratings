@@ -15422,9 +15422,9 @@
       "Count": 13195
     }
   ],
-  "EOS_Progressed": 897432,
+  "EOS_Progressed": 897440,
   "EOS_Completed": 2789,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39627,6 +39627,11 @@
       "Time": "2023-11-20T00:04:43.6423721+00:00",
       "NumProgressed": 897432,
       "NumCompleted": 2789
+    },
+    {
+      "Time": "2023-11-20T01:52:11.5640721+00:00",
+      "NumProgressed": 897440,
+      "NumCompleted": 2789
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39671,7 +39676,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7179
+      "UsersEstimate": 7180
     },
     {
       "ID": "FollowingTheRiver",
@@ -39957,9 +39962,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 4487
     },
     {
       "ID": "VForVendetta",
@@ -39967,7 +39972,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35897
+      "UsersEstimate": 35898
     },
     {
       "ID": "YipMan",
@@ -40037,9 +40042,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 156
     },
     {
       "ID": "Kingofcups",
@@ -40174,21 +40179,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897432,
+      "Progressed": 897440,
       "Completed": 2789
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26055,
+      "Progressed": 26063,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-19T18:59:12.9501741+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:04:43.6423718+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:52:11.5640717+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:00:46.7370304+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:04:43.6425622+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:47:26.0988369+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:52:11.564207+00:00"
 }

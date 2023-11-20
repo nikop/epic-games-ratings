@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13750,
+  "EOS_Progressed": 13751,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
@@ -14799,6 +14799,11 @@
       "Time": "2023-11-20T00:04:22.6169159+00:00",
       "NumProgressed": 13750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T01:51:50.7076102+00:00",
+      "NumProgressed": 13751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14850,7 +14855,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -14890,7 +14895,7 @@
       "Name": "First words",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -14898,7 +14903,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -15009,14 +15014,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13750,
+      "Progressed": 13751,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-20T00:04:22.6169153+00:00",
+  "LastChanged_Achievements": "2023-11-20T01:51:50.7076098+00:00",
   "LastUpdate_AppInfo": "2023-11-18T04:57:05.2770485+00:00",
-  "LastUpdate_Ratings": "2023-11-20T00:01:43.8514817+00:00",
-  "LastUpdate_Achievements": "2023-11-20T00:04:22.616993+00:00"
+  "LastUpdate_Ratings": "2023-11-20T01:48:22.4128217+00:00",
+  "LastUpdate_Achievements": "2023-11-20T01:51:50.7076889+00:00"
 }
