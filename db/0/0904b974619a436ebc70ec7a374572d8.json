@@ -3,9 +3,9 @@
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 528,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:08:50.8543712+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:09:44.1558709+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:59.7875371+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:58.3801405+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:08:50.8543848+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:30.3337738+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:09:44.1558859+00:00"
 }

@@ -33,8 +33,8 @@
 | Sentinel Ally | 40.00% | ~534 |
 | Head Hunter | 39.00% | ~521 |
 | Scholar | 39.00% | ~521 |
+| Veteran | 38.00% | ~507 |
 | Operative | 38.00% | ~507 |
-| Veteran | 37.00% | ~494 |
 | The Professor | 37.00% | ~494 |
 | The Archangel | 36.00% | ~481 |
 | Power Full | 36.00% | ~481 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,335 (Ranked 242)  
-Completed: 6 (0.45%) (Ranked 206)  
+Completed: 6 (0.45%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

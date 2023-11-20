@@ -56,7 +56,7 @@ Rating: 4.67 (Ranked 273)
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,827 (Ranked 185)  
-Completed: 0 (0.00%) (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

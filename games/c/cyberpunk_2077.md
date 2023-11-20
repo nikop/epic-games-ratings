@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,899 |
+| V for Vendetta | 4.00% | ~35,900 |
 | Gun Fu | 2.00% | ~17,950 |
 | Relic Ruler | 1.00% | ~261 |
 | Full Body Conversion | 0.90% | ~8,077 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,485 (Ranked 15)  
-Completed: 2,790 (0.31%) (Ranked 232)  
+Progressed: 897,493 (Ranked 15)  
+Completed: 2,792 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,10 +288,10 @@ Completed: 2,790 (0.31%) (Ranked 232)
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
-| 2023-11-20 | 897,485 | 2,790 |
+| 2023-11-20 | 897,493 | 2,792 |
 ## Awards
 Max (Character Customization): 106,230  (Ranked 9)  
-Sum: 358,101 (Ranked 10)  
+Sum: 358,168 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -303,7 +303,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 20,251 |
 | This game is Extremely Fun | 19,984 |
 | This game has Amazing Characters | 19,855 |
-| This game is Relaxing | 19,049 |
+| This game is Relaxing | 19,116 |
 | This game has Quickly Understood Controls | 19,024 |
 | This game has a Creative Community | 13,257 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -614,4 +614,4 @@ Diff (max vs sum): -1
 | 2023-11-17 | 4.64 | - | 105,891 | 355,372 |
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
 | 2023-11-19 | 4.64 | - | 106,230 | 357,485 |
-| 2023-11-20 | 4.64 | - | 106,230 | 358,101 |
+| 2023-11-20 | 4.64 | - | 106,230 | 358,168 |

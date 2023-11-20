@@ -6,9 +6,9 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8101,
+  "EOS_Progressed": 8103,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6841,6 +6841,11 @@
       "Time": "2023-11-20T13:21:08.0862864+00:00",
       "NumProgressed": 8101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T15:10:13.3736131+00:00",
+      "NumProgressed": 8103,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6973,7 +6978,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "GamesPlayed10",
@@ -6997,7 +7002,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "GamesWon10",
@@ -7444,7 +7449,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8101,
+      "Progressed": 8103,
       "Completed": 1
     }
   ],
@@ -7452,8 +7457,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:09:14.0438572+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:10:13.3736126+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:02:40.6973476+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:09:14.0439523+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:02:59.7787627+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:10:13.3737038+00:00"
 }

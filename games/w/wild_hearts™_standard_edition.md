@@ -34,9 +34,9 @@
 | Karakuri Isle | 33.00% | ~101 |
 | Reincarnation Cycle Stopper | 32.00% | ~98 |
 | Left Arm Leverager | 29.00% | ~89 |
+| Unrivaled in Arms | 28.00% | ~86 |
 | Style Seeker | 27.00% | ~83 |
 | Human Believer | 27.00% | ~83 |
-| Unrivaled in Arms | 27.00% | ~83 |
 | Canyon of Karakuri | 26.00% | ~80 |
 | Karakuri Minato | 26.00% | ~80 |
 | Threaded Harmony | 24.00% | ~74 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 307 (Ranked 341)  
-Completed: 7 (2.28%) (Ranked 123)  
+Completed: 7 (2.28%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

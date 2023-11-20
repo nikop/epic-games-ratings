@@ -1,30 +1,30 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 386)  
+Rating: 4.61 (Ranked 385)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~48,934 |
-| Get Busy Living | 16.00% | ~31,318 |
-| Samuel Norton | 9.00% | ~17,616 |
-| Spare The Rod | 5.00% | ~9,787 |
-| Don't Put Me In The Dark | 3.00% | ~5,872 |
-| Wait and Hope | 3.00% | ~5,872 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,872 |
+| Stone Walls | 25.00% | ~48,939 |
+| Get Busy Living | 16.00% | ~31,321 |
+| Samuel Norton | 9.00% | ~17,618 |
+| Spare The Rod | 5.00% | ~9,788 |
+| Don't Put Me In The Dark | 3.00% | ~5,873 |
+| Wait and Hope | 3.00% | ~5,873 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,873 |
 | Throw The Book At Them | 2.00% | ~3,915 |
 | Iron Bars | 2.00% | ~3,915 |
-| D.B. Cooper | 1.00% | ~1,957 |
-| Reformation | 0.60% | ~1,174 |
+| D.B. Cooper | 1.00% | ~1,958 |
+| Reformation | 0.60% | ~1,175 |
 | Crowd Control | 0.50% | ~979 |
 | Freedom | 0.40% | ~783 |
 | Confined | 0.30% | ~587 |
 | It's Not What You Know... | 0.10% | ~196 |
 | ... It's What You Can Prove | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195,737 (Ranked 75)  
-Completed: 10 (0.01%) (Ranked 334)  
+Progressed: 195,756 (Ranked 75)  
+Completed: 10 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,7 +237,7 @@ Completed: 10 (0.01%) (Ranked 334)
 | 2023-11-17 | 194,816 | 10 |
 | 2023-11-18 | 195,201 | 10 |
 | 2023-11-19 | 195,612 | 10 |
-| 2023-11-20 | 195,737 | 10 |
+| 2023-11-20 | 195,756 | 10 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 199)  
 Sum: 4,421 (Ranked 147)  

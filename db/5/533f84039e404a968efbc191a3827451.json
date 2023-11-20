@@ -2,10 +2,10 @@
   "ID": "533f84039e404a968efbc191a3827451",
   "Name": "Drift Cars Zombie Crusher",
   "ProductSlug": "drift-cars-zombie-crusher-672b07",
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-27T22:00:00+00:00",
     "PcReleaseDate": "2023-08-31T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-20T07:57:15.3582097+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:28.5878265+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:04:29.7647714+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:58:50.5135555+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:05:25.096404+00:00"
 }

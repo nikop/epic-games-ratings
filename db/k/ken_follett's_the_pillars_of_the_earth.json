@@ -6,9 +6,9 @@
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16555,
+  "EOS_Progressed": 16556,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14528,6 +14528,11 @@
       "Time": "2023-11-20T14:04:47.4760817+00:00",
       "NumProgressed": 16555,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-20T15:05:47.4939312+00:00",
+      "NumProgressed": 16556,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14603,7 +14608,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "tpote_achievement_18",
@@ -14643,7 +14648,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "tpote_achievement_22",
@@ -14833,9 +14838,9 @@
       "ID": "tpote_achievement_6",
       "SetID": "3jcf6c3",
       "Name": "Full house",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3973
     },
     {
       "ID": "tpote_achievement_7",
@@ -14866,15 +14871,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16555,
+      "Progressed": 16556,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:04:47.4760814+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:05:47.4939307+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:32.8037901+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:04:47.476169+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:58:56.6984629+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:05:47.4940561+00:00"
 }

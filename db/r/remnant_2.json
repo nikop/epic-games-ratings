@@ -6,7 +6,7 @@
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -4485,10 +4485,10 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 224436,
-  "EOS_Completed": 491,
-  "EOS_NewPlayers": 4180,
-  "EOS_NewCompleters": 47,
+  "EOS_Progressed": 224477,
+  "EOS_Completed": 492,
+  "EOS_NewPlayers": 4207,
+  "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19010,6 +19010,11 @@
       "Time": "2023-11-20T14:08:20.037576+00:00",
       "NumProgressed": 224436,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-11-20T15:09:04.214137+00:00",
+      "NumProgressed": 224477,
+      "NumCompleted": 492
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19422,7 +19427,7 @@
       "Name": "Regicide",
       "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19438,7 +19443,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19461,22 +19466,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 224436,
-      "Completed": 491
+      "Progressed": 224477,
+      "Completed": 492
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 3601,
-      "Completed": 123
+      "Progressed": 3642,
+      "Completed": 124
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-20T10:03:34.7102744+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:08:20.0375755+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:09:04.2141367+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:02:59.7137428+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:08:20.0377339+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:03:25.8834529+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:09:04.2142687+00:00"
 }

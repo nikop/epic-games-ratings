@@ -11,7 +11,7 @@
 | Exhaustive Explorer | 27.00% | ~302 |
 | Pest Control | 26.00% | ~291 |
 | How Low Can We Go? | 24.00% | ~269 |
-| Team Builder | 20.00% | ~224 |
+| Team Builder | 21.00% | ~235 |
 | Long Live Rock | 16.00% | ~179 |
 | Aggressive Antivirus | 15.00% | ~168 |
 | Effective Efficiency | 14.00% | ~157 |
@@ -36,7 +36,7 @@
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,119 (Ranked 254)  
-Completed: 0 (0.00%) (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

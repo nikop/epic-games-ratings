@@ -9,7 +9,7 @@
 | Ouch, that hurt! | 30.00% | ~9 |
 | Slam-KABAM | 27.00% | ~8 |
 | Fight like an idiot | 27.00% | ~8 |
-| Repair the Mind Validation Machine | 23.00% | ~7 |
+| Repair the Mind Validation Machine | 27.00% | ~8 |
 | A heavy thinker | 20.00% | ~6 |
 | Dance like an idiot | 13.00% | ~4 |
 | Elementary, My Dear Dusty | 13.00% | ~4 |
@@ -24,7 +24,7 @@
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 521)  
-Completed: 0 (0.00%) (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "2169f3808bad448fbc29f18ada527f28",
   "Name": "Survival Bunker",
   "ProductSlug": "survival-bunker-b10b13",
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-16T01:45:07.3443968+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:22.3808792+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:04:32.9038562+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:58:41.5308111+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:05:28.9963844+00:00"
 }

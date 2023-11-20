@@ -19,6 +19,7 @@
 | The Guardian | 38.00% | ~10 |
 | Endgame | 38.00% | ~10 |
 | The Philosopher | 38.00% | ~10 |
+| The Partner | 38.00% | ~10 |
 | Socially Acceptable Insanity | 38.00% | ~10 |
 | They Flock to Him | 38.00% | ~10 |
 | The Counsellor | 38.00% | ~10 |
@@ -26,7 +27,6 @@
 | A Total Riot | 35.00% | ~9 |
 | Everyone Needs a Break | 35.00% | ~9 |
 | Knock Knock | 35.00% | ~9 |
-| The Partner | 35.00% | ~9 |
 | The Companion | 35.00% | ~9 |
 | That One Doesn't Count | 31.00% | ~8 |
 | Blood Begets Blood | 27.00% | ~7 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 531)  
-Completed: 0 (0.00%) (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

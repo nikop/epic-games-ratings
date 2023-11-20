@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 4,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.92,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -89,6 +89,12 @@
       "Rating": 4.91,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-11-20T14:58:37.9477479+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -105,7 +111,7 @@
   ],
   "EOS_Progressed": 402,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1408,9 +1414,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:06:36.1393606+00:00",
+  "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:08:29.2878625+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:20.0094262+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:06:36.1394015+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:58:37.9477483+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:08:29.2879228+00:00"
 }

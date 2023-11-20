@@ -2,13 +2,13 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 806,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 200,
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -3131,10 +3131,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2287,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-11-20T14:59:07.481545+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2288,
+      "NumberOfAwardsMax": 264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2287,
+  "NumberOfAwards": 2288,
   "NumberOfAwardsMax": 264,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3160,7 +3166,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 256
+      "Count": 257
     },
     {
       "Text": "This game is Relaxing",
@@ -3216,8 +3222,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-11-20T02:21:50.921372+00:00",
+  "LastChanged": "2023-11-20T14:59:07.4815448+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:22.3310121+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:41.0122264+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:05:11.5299935+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:07.4815453+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:06:18.5952474+00:00"
 }

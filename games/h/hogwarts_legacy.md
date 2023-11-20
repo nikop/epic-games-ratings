@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,395 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,396 |
 | First Class Student | 14.00% | ~42,346 |
 | Troll with the Punches | 14.00% | ~42,346 |
 | A Keen Sense of Spell | 13.00% | ~39,321 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 126)
 | Coasting Along | 11.00% | ~33,272 |
 | Followed the Butterflies | 10.00% | ~30,247 |
 | Rising From the Ashes | 10.00% | ~30,247 |
-| The Spell Master | 9.00% | ~27,222 |
+| The Spell Master | 9.00% | ~27,223 |
 | The Avenging Gazelle | 8.00% | ~24,198 |
 | Beast Friends | 8.00% | ~24,198 |
 | A Sallow Grave | 8.00% | ~24,198 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,471 (Ranked 53)  
-Completed: 512 (0.17%) (Ranked 260)  
+Progressed: 302,473 (Ranked 54)  
+Completed: 512 (0.17%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,15 +265,15 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
 | 2023-11-19 | 302,449 | 512 |
-| 2023-11-20 | 302,471 | 512 |
+| 2023-11-20 | 302,473 | 512 |
 ## Awards
 Max (Character Customization): 24,475  (Ranked 17)  
-Sum: 48,656 (Ranked 30)  
+Sum: 48,678 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,475 |
-| This game has Great Boss Battles | 12,425 |
+| This game has Great Boss Battles | 12,447 |
 | This game is Great for Beginners | 1,332 |
 | This game has Amazing Storytelling | 1,278 |
 | This game has Diverse Characters | 1,274 |
@@ -528,4 +528,4 @@ Diff (max vs sum): -13
 | 2023-11-17 | 4.76 | 24,370 | 48,391 |
 | 2023-11-18 | 4.76 | 24,407 | 48,496 |
 | 2023-11-19 | 4.76 | 24,447 | 48,598 |
-| 2023-11-20 | 4.76 | 24,475 | 48,656 |
+| 2023-11-20 | 4.76 | 24,475 | 48,678 |

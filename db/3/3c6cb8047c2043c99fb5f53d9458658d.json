@@ -2,10 +2,10 @@
   "ID": "3c6cb8047c2043c99fb5f53d9458658d",
   "Name": "MiLE HiGH TAXi",
   "ProductSlug": "mile-high-taxi-fef5aa",
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2023-03-13T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.926816+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:38.8801702+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:05:12.7321325+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:04.8563468+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:06:20.2178735+00:00"
 }

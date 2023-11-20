@@ -2,10 +2,10 @@
   "ID": "ba705eb72f864b23b8934fb90b8cfdf2",
   "Name": "1001 Jigsaw. Legends of Mystery",
   "ProductSlug": "1001-jigsaw-legends-of-mystery-14e62d",
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-27T21:00:00+00:00",
     "PcReleaseDate": "2018-12-23T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-29T03:01:59.2416771+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:25.1747691+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:56.8203542+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:06:24.9763539+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:28.2412103+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:07:54.8253857+00:00"
 }

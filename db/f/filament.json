@@ -6,9 +6,9 @@
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205691,
+  "EOS_Progressed": 205692,
   "EOS_Completed": 529,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23288,6 +23288,11 @@
       "Time": "2023-11-20T13:17:54.1301567+00:00",
       "NumProgressed": 205691,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2023-11-20T15:06:58.0495779+00:00",
+      "NumProgressed": 205692,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 29,
@@ -23435,7 +23440,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12341
+      "UsersEstimate": 12342
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -23530,7 +23535,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205691,
+      "Progressed": 205692,
       "Completed": 529
     }
   ],
@@ -23538,8 +23543,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:05:41.5856169+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:06:58.0495774+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:22.0176891+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:05:41.5857197+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:58:41.0016891+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:06:58.0497173+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7fc4cfdf21844b70ab22e8b6ba0b0a3a",
   "Name": "Steal Then Just Escape",
   "ProductSlug": "steal-then-just-escape-87b7b6",
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-18T16:00:00+00:00",
     "PcReleaseDate": "2023-11-18T16:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-19T04:03:15.3860042+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:03:35.351468+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:04:14.4960367+00:00",
   "LastUpdate_AppInfo": "2023-11-19T03:57:01.3382054+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:57:58.9301068+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:03:35.3514716+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:58:10.0021838+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:04:14.4960396+00:00"
 }

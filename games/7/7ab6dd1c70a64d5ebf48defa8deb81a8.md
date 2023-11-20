@@ -42,7 +42,7 @@
 | A Queen's Tale | -0.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 195 (Ranked 382)  
-Completed: 1 (0.51%) (Ranked 199)  
+Completed: 1 (0.51%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 386,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 356,
+  "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -301,7 +301,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232513,
+  "EOS_Progressed": 232514,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
@@ -22096,6 +22096,11 @@
       "Time": "2023-11-20T13:16:13.7477398+00:00",
       "NumProgressed": 232513,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-20T15:05:18.359585+00:00",
+      "NumProgressed": 232514,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22251,7 +22256,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79054
+      "UsersEstimate": 79055
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -22330,7 +22335,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232513,
+      "Progressed": 232514,
       "Completed": 5
     }
   ],
@@ -22338,8 +22343,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-18T13:00:16.7419126+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:04:24.5814733+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:05:18.3595844+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.6645592+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:48.3212488+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:04:24.5815756+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:16.5116275+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:05:18.3597571+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 114,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 34,
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
     "PcReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -10819,10 +10819,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 41233,
       "NumberOfAwardsMax": 7610
+    },
+    {
+      "Time": "2023-11-20T15:00:54.4038414+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 41258,
+      "NumberOfAwardsMax": 7610
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41233,
+  "NumberOfAwards": 41258,
   "NumberOfAwardsMax": 7610,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10842,13 +10848,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3008
+      "Count": 3022
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3059
+      "Count": 3070
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10917,8 +10923,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-11-20T03:59:33.494481+00:00",
+  "LastChanged": "2023-11-20T15:00:54.4038413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.338125+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:59:59.7513811+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:04:34.5775037+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:00:54.403842+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:05:31.1028944+00:00"
 }

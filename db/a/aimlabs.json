@@ -2,13 +2,13 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 385,
   "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 356,
-  "Ranking_EOS_Progress": 750,
-  "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -1129,10 +1129,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-11-20T14:59:34.5635366+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1170,7 +1176,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1203,8 +1209,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-19T15:59:19.0318664+00:00",
+  "LastChanged": "2023-11-20T14:59:34.5635364+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.159456+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:59:01.3527383+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:06:02.1533217+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:34.5635385+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:07:25.4604908+00:00"
 }

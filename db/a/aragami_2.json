@@ -6,9 +6,9 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43925,
+  "EOS_Progressed": 43926,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17719,6 +17719,11 @@
       "Time": "2023-11-20T12:07:45.8269925+00:00",
       "NumProgressed": 43925,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-11-20T15:07:55.0427118+00:00",
+      "NumProgressed": 43926,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 44,
@@ -17730,7 +17735,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25037
+      "UsersEstimate": 25038
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17778,7 +17783,7 @@
       "Name": "Hatching",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -17850,7 +17855,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35140
+      "UsersEstimate": 35141
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17866,7 +17871,7 @@
       "Name": "Hot Potato",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -17882,7 +17887,7 @@
       "Name": "Anger Management",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -17922,7 +17927,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16252
+      "UsersEstimate": 16253
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -17930,7 +17935,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -17994,7 +17999,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26355
+      "UsersEstimate": 26356
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18026,7 +18031,7 @@
       "Name": "Legacy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -18034,7 +18039,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19766
+      "UsersEstimate": 19767
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -18066,7 +18071,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40850
+      "UsersEstimate": 40851
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18074,14 +18079,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22841
+      "UsersEstimate": 22842
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43925,
+      "Progressed": 43926,
       "Completed": 241
     }
   ],
@@ -18089,8 +18094,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:06:25.0885423+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:07:55.0427111+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:11.2490619+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:02:41.3222466+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:06:25.0886305+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:03:00.7824213+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:07:55.0428443+00:00"
 }

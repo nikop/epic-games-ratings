@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 619,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.66,
+  "EOS_Completed_Percentage": 5.65,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2640,6 +2640,11 @@
       "Time": "2023-11-20T07:04:33.5987862+00:00",
       "NumProgressed": 618,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-20T15:06:13.4086534+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2651,7 +2656,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "END_GOOD",
@@ -2675,7 +2680,7 @@
       "Name": "Cable guy",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2691,7 +2696,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2771,7 +2776,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2811,7 +2816,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "PROGRESS_N2",
@@ -2827,7 +2832,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PROGRESS_N4",
@@ -2850,14 +2855,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 619,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:05:07.4492722+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:06:13.4086529+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:57:26.9127211+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:05:07.4492995+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:57:26.6400079+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:06:13.4086857+00:00"
 }

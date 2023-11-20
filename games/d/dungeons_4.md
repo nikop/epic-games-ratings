@@ -12,12 +12,12 @@
 | The Plains of Strothalm | 73.00% | ~229 |
 | Experienced Thalya | 70.00% | ~220 |
 | Thalya's Concentrated Fury | 68.00% | ~214 |
+| Bad Elves Go Everywhere | 67.00% | ~210 |
 | Master of Magic | 66.00% | ~207 |
-| Bad Elves Go Everywhere | 66.00% | ~207 |
 | Heroes’ Gorge | 62.00% | ~195 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~188 |
 | Magic Accidents | 59.00% | ~185 |
-| Minions, Minions! | 57.00% | ~179 |
+| Minions, Minions! | 58.00% | ~182 |
 | Trap Master | 53.00% | ~166 |
 | The Ascent | 48.00% | ~151 |
 | It's Warm and Cozy at Home | 48.00% | ~151 |
@@ -36,8 +36,8 @@
 | All’s Well That Ends Evil | 23.00% | ~72 |
 | Hungry, Hungry Gorgu! | 21.00% | ~66 |
 | Master of the Undead | 21.00% | ~66 |
+| Forbidden Knowledge | 19.00% | ~60 |
 | The Duel | 19.00% | ~60 |
-| Forbidden Knowledge | 18.00% | ~57 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~57 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
 | Stop Tanos! | 16.00% | ~50 |
@@ -47,13 +47,13 @@
 | Doom Hill | 11.00% | ~35 |
 | My Little Torture Chamber | 10.00% | ~31 |
 | Sabotage! | 10.00% | ~31 |
+| Raiders of the Lost Stone | 10.00% | ~31 |
 | Brimstone Shaken, Not Stirred | 10.00% | ~31 |
-| Raiders of the Lost Stone | 9.00% | ~28 |
 | The Rune Sockets of Finitude (Part 1) | 8.00% | ~25 |
 | Untouchable | 7.00% | ~22 |
 | Lavalumps on Ice! | 7.00% | ~22 |
+| Rubble and Ashes | 7.00% | ~22 |
 | Mirror, Mirror | 6.00% | ~19 |
-| Rubble and Ashes | 6.00% | ~19 |
 | To Infinity And Beyond! | 6.00% | ~19 |
 | The Rune Sockets of Finitude (Part 2) | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
@@ -67,7 +67,7 @@
 | I Don't Need Any Help | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 314 (Ranked 339)  
-Completed: 3 (0.96%) (Ranked 165)  
+Completed: 3 (0.96%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

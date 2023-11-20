@@ -34,8 +34,8 @@ Number of Ratings: 266  (23.09.2022)
 | Hold my Mead and Watch This | 6.00% | ~220 |
 | Ancestor's Pride | 4.00% | ~147 |
 | For All Aurai | 4.00% | ~147 |
+| Light of Levant | 4.00% | ~147 |
 | Memory of a legend | 4.00% | ~147 |
-| Light of Levant | 3.00% | ~110 |
 | This was a mistake... | 3.00% | ~110 |
 | Crowd Pleaser. | 2.00% | ~73 |
 | Perfect Defense | 2.00% | ~73 |
@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,668 (Ranked 202)  
-Completed: 4 (0.11%) (Ranked 275)  
+Completed: 4 (0.11%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

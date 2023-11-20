@@ -6,7 +6,7 @@ Rating: 4.09 (Ranked 967)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~258 |
-| Battlefields Have Memories | 87.00% | ~247 |
+| Battlefields Have Memories | 88.00% | ~250 |
 | Enlisted | 84.00% | ~239 |
 | Maybe Engage a Little | 80.00% | ~227 |
 | No More Names | 69.00% | ~196 |
@@ -54,7 +54,7 @@ Rating: 4.09 (Ranked 967)
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 284 (Ranked 355)  
-Completed: 1 (0.35%) (Ranked 224)  
+Completed: 1 (0.35%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,787 |
-| A thief's beginning | 10.00% | ~21,489 |
-| Thorough | 10.00% | ~21,489 |
-| Disguised | 9.00% | ~19,340 |
-| Rollin' | 9.00% | ~19,340 |
-| Tanuki Time | 9.00% | ~19,340 |
-| Rescue Takuma | 8.00% | ~17,191 |
-| Stoned Ox | 8.00% | ~17,191 |
-| Happy Planning | 7.00% | ~15,042 |
-| Ice Ice Yuki | 7.00% | ~15,042 |
-| Jonin | 7.00% | ~15,042 |
-| Yabu | 7.00% | ~15,042 |
+| Genin | 12.00% | ~25,789 |
+| A thief's beginning | 10.00% | ~21,491 |
+| Thorough | 10.00% | ~21,491 |
+| Disguised | 9.00% | ~19,342 |
+| Rollin' | 9.00% | ~19,342 |
+| Tanuki Time | 9.00% | ~19,342 |
+| Rescue Takuma | 8.00% | ~17,193 |
+| Stoned Ox | 8.00% | ~17,193 |
+| Happy Planning | 7.00% | ~15,044 |
+| Ice Ice Yuki | 7.00% | ~15,044 |
+| Jonin | 7.00% | ~15,044 |
+| Yabu | 7.00% | ~15,044 |
 | Chunin | 6.00% | ~12,894 |
 | Flying Rocks | 6.00% | ~12,894 |
 | Mugen Unchained | 6.00% | ~12,894 |
@@ -43,7 +43,7 @@ Number of Ratings: 495  (23.09.2022)
 | High Five the Moon | 0.80% | ~1,719 |
 | The Cave | 0.80% | ~1,719 |
 | Time Paradox | 0.60% | ~1,289 |
-| Merciful | 0.50% | ~1,074 |
+| Merciful | 0.50% | ~1,075 |
 | Five Shadows | 0.40% | ~860 |
 | Complete Mastery | 0.20% | ~430 |
 | Praise the Shogun | 0.20% | ~430 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~215 |
 | Release the Kraken | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,892 (Ranked 71)  
-Completed: 98 (0.05%) (Ranked 305)  
+Progressed: 214,908 (Ranked 71)  
+Completed: 98 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,7 +265,7 @@ Completed: 98 (0.05%) (Ranked 305)
 | 2023-11-17 | 214,284 | 98 |
 | 2023-11-18 | 214,552 | 98 |
 | 2023-11-19 | 214,799 | 98 |
-| 2023-11-20 | 214,892 | 98 |
+| 2023-11-20 | 214,908 | 98 |
 ## Awards
 Max (Great for Beginners): 574  (Ranked 197)  
 Sum: 4,859 (Ranked 144)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7883,
+  "EOS_Progressed": 7884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7066,6 +7066,11 @@
       "Time": "2023-11-20T12:09:34.4907538+00:00",
       "NumProgressed": 7883,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T15:10:02.2312601+00:00",
+      "NumProgressed": 7884,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7086,7 +7091,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5597
+      "UsersEstimate": 5598
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7102,7 +7107,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7166,7 +7171,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7350,29 +7355,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7883,
+      "Progressed": 7884,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 500,
-      "Completed": 500
+      "Progressed": 501,
+      "Completed": 501
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:09:04.8686196+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:10:02.2312596+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:02:52.2503804+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:09:04.8686643+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:03:16.1195679+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:10:02.2313173+00:00"
 }

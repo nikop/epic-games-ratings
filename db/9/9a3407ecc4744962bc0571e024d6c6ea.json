@@ -3,9 +3,9 @@
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2556,8 +2556,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:08:47.922157+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:09:40.4100543+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:27.496577+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:57:42.9195061+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:08:47.9221763+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:57:48.659756+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:09:40.410082+00:00"
 }

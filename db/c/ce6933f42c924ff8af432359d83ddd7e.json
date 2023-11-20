@@ -2,10 +2,10 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1119,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 3.94,
+  "EOS_Completed_Percentage": 3.93,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -2324,6 +2324,11 @@
       "Time": "2023-11-20T14:08:40.852856+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-11-20T15:09:31.1896651+00:00",
+      "NumProgressed": 1119,
+      "NumCompleted": 44
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2336,7 +2341,7 @@
       "Name": "Time traveller",
       "Percentage": 19,
       "XP": 140,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_CUBES",
@@ -2344,7 +2349,7 @@
       "Name": "Brain-teaser",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_DONUTS",
@@ -2352,7 +2357,7 @@
       "Name": "Sweet tooth",
       "Percentage": 68,
       "XP": 45,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2392,7 +2397,7 @@
       "Name": "Food lover",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2415,14 +2420,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1119,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:08:40.8528556+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:09:31.1896647+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:58:36.9670349+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:08:40.8528738+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:59:02.2738216+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:09:31.1896877+00:00"
 }

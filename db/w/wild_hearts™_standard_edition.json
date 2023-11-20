@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 341,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1667,9 +1667,9 @@
       "ID": "achievement_35",
       "SetID": "2cpn27e",
       "Name": "Unrivaled in Arms",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_36",
@@ -1833,8 +1833,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-20T14:05:18.6419768+00:00",
+  "LastChanged_Achievements": "2023-11-20T15:06:27.9466329+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:07.8893552+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:59:32.8636188+00:00",
-  "LastUpdate_Achievements": "2023-11-20T14:05:18.6420194+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:00:17.2279011+00:00",
+  "LastUpdate_Achievements": "2023-11-20T15:06:27.9466785+00:00"
 }

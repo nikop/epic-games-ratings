@@ -29,7 +29,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter II | 23.00% | ~146 |
 | Broken Hopes | 22.00% | ~139 |
 | Bullseye! | 22.00% | ~139 |
-| Sorrow | 19.00% | ~120 |
+| Sorrow | 20.00% | ~127 |
 | Atonement | 18.00% | ~114 |
 | Food Massacre | 18.00% | ~114 |
 | Helping Hand | 16.00% | ~101 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 633 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
