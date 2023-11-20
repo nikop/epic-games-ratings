@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7309,
+  "EOS_Progressed": 7310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8600,6 +8600,11 @@
       "Time": "2023-11-20T01:56:09.7931516+00:00",
       "NumProgressed": 7309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T05:08:57.6976972+00:00",
+      "NumProgressed": 7310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8651,7 +8656,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4458
+      "UsersEstimate": 4459
     },
     {
       "ID": "Control_All_Relics",
@@ -8715,7 +8720,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "First_Race_Met",
@@ -8723,7 +8728,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5262
+      "UsersEstimate": 5263
     },
     {
       "ID": "First_Ship_Designed",
@@ -8731,7 +8736,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "First_Stream_Travel",
@@ -8747,7 +8752,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8931,7 +8936,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4385
+      "UsersEstimate": 4386
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9099,7 +9104,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4751
+      "UsersEstimate": 4752
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9186,15 +9191,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7309,
+      "Progressed": 7310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:08:34.8538802+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:08:57.6976968+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:59:36.5884194+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:08:34.8539904+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:00:54.7066571+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:08:57.6977726+00:00"
 }

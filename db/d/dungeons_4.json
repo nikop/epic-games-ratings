@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 313,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -681,17 +681,17 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 257
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_main03demon_completed",
@@ -785,9 +785,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main07storm_classified",
@@ -1144,8 +1144,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:03:04.590726+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:03:27.8435527+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:59:01.9162863+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:03:04.590781+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:59:58.5662011+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:03:27.8436033+00:00"
 }

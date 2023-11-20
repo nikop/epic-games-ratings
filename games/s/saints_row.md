@@ -6,46 +6,46 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~37,264 |
-| To The Nines | 42.00% | ~33,300 |
-| Optimized | 37.00% | ~29,336 |
-| Performance Review | 36.00% | ~28,543 |
-| Making a Name | 35.00% | ~27,750 |
-| Tune Up | 34.00% | ~26,957 |
-| Landlord | 33.00% | ~26,164 |
-| Wet Work | 32.00% | ~25,372 |
-| The Side Job | 31.00% | ~24,579 |
-| Wrecking Ball | 28.00% | ~22,200 |
-| Food for Thought | 27.00% | ~21,407 |
-| Finders Keepers | 26.00% | ~20,614 |
-| A Young Empire | 26.00% | ~20,614 |
-| Work Ethic | 23.00% | ~18,236 |
-| Picking Fights | 20.00% | ~15,857 |
-| Power Players | 19.00% | ~15,064 |
-| Quality Time | 18.00% | ~14,271 |
-| Showdown | 17.00% | ~13,479 |
-| Et tu? | 17.00% | ~13,479 |
-| Took It to The Limit | 17.00% | ~13,479 |
-| Kitted Out | 14.00% | ~11,100 |
-| Masters of Santo Ileso | 12.00% | ~9,514 |
-| Hijacked | 11.00% | ~8,721 |
+| First F#@!ing Day | 47.00% | ~37,268 |
+| To The Nines | 42.00% | ~33,303 |
+| Optimized | 37.00% | ~29,339 |
+| Performance Review | 36.00% | ~28,546 |
+| Making a Name | 35.00% | ~27,753 |
+| Tune Up | 34.00% | ~26,960 |
+| Landlord | 33.00% | ~26,167 |
+| Wet Work | 32.00% | ~25,374 |
+| The Side Job | 31.00% | ~24,581 |
+| Wrecking Ball | 28.00% | ~22,202 |
+| Food for Thought | 27.00% | ~21,409 |
+| Finders Keepers | 26.00% | ~20,616 |
+| A Young Empire | 26.00% | ~20,616 |
+| Work Ethic | 23.00% | ~18,238 |
+| Picking Fights | 20.00% | ~15,859 |
+| Power Players | 19.00% | ~15,066 |
+| Quality Time | 18.00% | ~14,273 |
+| Showdown | 17.00% | ~13,480 |
+| Et tu? | 17.00% | ~13,480 |
+| Took It to The Limit | 17.00% | ~13,480 |
+| Kitted Out | 14.00% | ~11,101 |
+| Masters of Santo Ileso | 12.00% | ~9,515 |
+| Hijacked | 11.00% | ~8,722 |
 | The Spins | 10.00% | ~7,929 |
 | The Mechanic | 10.00% | ~7,929 |
-| Closet Space | 8.00% | ~6,343 |
-| We could go home, or… | 7.00% | ~5,550 |
-| Challenge Accepted | 7.00% | ~5,550 |
-| A Golden Age | 7.00% | ~5,550 |
+| Closet Space | 8.00% | ~6,344 |
+| We could go home, or… | 7.00% | ~5,551 |
+| Challenge Accepted | 7.00% | ~5,551 |
+| A Golden Age | 7.00% | ~5,551 |
 | Producer Credit | 7.00% | ~3,565 |
-| Chaos Tamer | 6.00% | ~4,757 |
-| Face Off | 6.00% | ~3,055 |
-| The Professional | 5.00% | ~3,964 |
-| Untouchable | 5.00% | ~3,964 |
-| Free Refills | 5.00% | ~3,964 |
-| Neighborly | 5.00% | ~3,964 |
-| Prankster | 5.00% | ~3,964 |
-| Smooth Moves | 5.00% | ~3,964 |
-| Hazardous Heist | 5.00% | ~2,546 |
-| Tourist | 4.00% | ~3,171 |
+| Chaos Tamer | 6.00% | ~4,758 |
+| Face Off | 6.00% | ~3,056 |
+| The Professional | 5.00% | ~3,965 |
+| Untouchable | 5.00% | ~3,965 |
+| Free Refills | 5.00% | ~3,965 |
+| Neighborly | 5.00% | ~3,965 |
+| Prankster | 5.00% | ~3,965 |
+| Smooth Moves | 5.00% | ~3,965 |
+| Hazardous Heist | 5.00% | ~2,547 |
+| Tourist | 4.00% | ~3,172 |
 | Shopping Spree | 3.00% | ~2,379 |
 | Always Be Hustling | 3.00% | ~2,379 |
 | Community Outreach | 3.00% | ~2,379 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~159 |
 | Fiesta Time | 0.20% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,286 (Ranked 96)  
+Progressed: 79,294 (Ranked 96)  
 Completed: 51 (0.06%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,17 +274,17 @@ Completed: 51 (0.06%) (Ranked 298)
 | 2023-11-17 | 78,889 | 51 |
 | 2023-11-18 | 79,069 | 51 |
 | 2023-11-19 | 79,252 | 51 |
-| 2023-11-20 | 79,286 | 51 |
+| 2023-11-20 | 79,294 | 51 |
 ## Awards
 Max (Extremely Fun): 1,076  (Ranked 146)  
-Sum: 8,734 (Ranked 98)  
+Sum: 8,735 (Ranked 98)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,076 |
 | This game has Quickly Understood Controls | 1,046 |
 | This game is Great for Beginners | 1,017 |
-| This game is Highly Recommended | 1,016 |
+| This game is Highly Recommended | 1,017 |
 | This game has Diverse Characters | 1,004 |
 | This game has Amazing Characters | 997 |
 | This game is Relaxing | 990 |
@@ -513,3 +513,4 @@ Diff (max vs sum): 48
 | 2023-11-14 | 3.79 | - | 1,075 | 8,730 |
 | 2023-11-15 | 3.79 | - | 1,075 | 8,733 |
 | 2023-11-19 | 3.79 | - | 1,076 | 8,734 |
+| 2023-11-20 | 3.79 | - | 1,076 | 8,735 |

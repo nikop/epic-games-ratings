@@ -12297,9 +12297,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459762,
+  "EOS_Progressed": 459771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5369,
+  "EOS_NewPlayers": 5361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36772,6 +36772,11 @@
       "Time": "2023-11-20T04:06:02.1354661+00:00",
       "NumProgressed": 459762,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T05:07:44.2217962+00:00",
+      "NumProgressed": 459771,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38189,9 +38194,9 @@
       "ID": "achievement_levant_turnabout",
       "SetID": "8p2n7he",
       "Name": "The Levant Turnabout",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_liberty_or_death",
@@ -38941,9 +38946,9 @@
       "ID": "achievement_sun_invasion",
       "SetID": "67mdiil",
       "Name": "Sun Invasion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_sun_never_sets_on_the_indian_empire",
@@ -39686,21 +39691,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459762,
+      "Progressed": 459771,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459762,
+      "Progressed": 459771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-20T01:47:59.8561241+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:06:02.1354657+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:07:44.2217957+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:59:56.5325844+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:06:02.1366058+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:01:25.8775505+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:07:44.2228541+00:00"
 }

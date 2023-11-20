@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~934 |
-| Whatever It Takes | 2.00% | ~934 |
-| Pork Chopped | 2.00% | ~934 |
+| One of Us | 2.00% | ~935 |
+| Whatever It Takes | 2.00% | ~935 |
+| Pork Chopped | 2.00% | ~935 |
 | Git Gutte! | 1.00% | ~7,212 |
 | Break A Leg | 1.00% | ~7,212 |
 | Coup de Grâce | 1.00% | ~7,212 |
@@ -23,18 +23,18 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.90% | ~6,491 |
 | Stacking the Deck | 0.90% | ~6,491 |
 | This is My Weapon | 0.90% | ~6,491 |
-| Can't Handle the Truth | 0.80% | ~5,769 |
-| Like Riding a Bike | 0.80% | ~5,769 |
-| A Patton Emerges | 0.80% | ~5,769 |
-| Our True Nature | 0.80% | ~5,769 |
+| Can't Handle the Truth | 0.80% | ~5,770 |
+| Like Riding a Bike | 0.80% | ~5,770 |
+| Zombologist | 0.80% | ~5,770 |
+| A Patton Emerges | 0.80% | ~5,770 |
+| Our True Nature | 0.80% | ~5,770 |
 | Perks of the Job | 0.70% | ~5,048 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,048 |
 | Slayer Squad | 0.70% | ~5,048 |
-| Zombologist | 0.70% | ~5,048 |
 | Ooh, Shiny! | 0.70% | ~5,048 |
+| I Am the Resurrection | 0.70% | ~5,048 |
 | Making Your Mark | 0.60% | ~4,327 |
 | Humanity Distilled | 0.60% | ~4,327 |
-| I Am the Resurrection | 0.60% | ~4,327 |
 | Max Headroom | 0.60% | ~4,327 |
 | Not Even My Final Form | 0.50% | ~3,606 |
 | Down with the Sickness | 0.50% | ~3,606 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,177 (Ranked 20)  
-Completed: 2,413 (0.33%) (Ranked 228)  
+Progressed: 721,189 (Ranked 20)  
+Completed: 2,414 (0.33%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,7 +271,7 @@ Completed: 2,413 (0.33%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,177 | 2,413 |
+| 2023-11-20 | 721,189 | 2,414 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,576 (Ranked 84)  

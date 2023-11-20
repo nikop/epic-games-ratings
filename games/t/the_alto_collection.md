@@ -6,22 +6,22 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,706 |
-| Finding Your Footing | 25.00% | ~11,765 |
-| Nomad | 17.00% | ~8,000 |
-| Picking Up Speed | 16.00% | ~7,529 |
-| Welcome Maya | 14.00% | ~6,588 |
-| Scout | 11.00% | ~5,176 |
-| Sightseer | 11.00% | ~5,176 |
-| Amateur | 10.00% | ~4,706 |
+| Rookie | 27.00% | ~12,708 |
+| Finding Your Footing | 25.00% | ~11,767 |
+| Nomad | 17.00% | ~8,002 |
+| Picking Up Speed | 16.00% | ~7,531 |
+| Welcome Maya | 14.00% | ~6,590 |
+| Scout | 11.00% | ~5,177 |
+| Sightseer | 11.00% | ~5,177 |
+| Amateur | 10.00% | ~4,707 |
 | Unlock Maya | 8.00% | ~3,765 |
 | Wanderer | 8.00% | ~3,765 |
-| Enter Paz | 7.00% | ~3,294 |
+| Enter Paz | 7.00% | ~3,295 |
 | Aviator | 6.00% | ~2,824 |
 | My Little Friend | 5.00% | ~2,353 |
 | One With The Board | 5.00% | ~2,353 |
 | Voyager | 5.00% | ~2,353 |
-| Izel Has Arrived | 4.00% | ~1,882 |
+| Izel Has Arrived | 4.00% | ~1,883 |
 | Junkie | 3.00% | ~1,412 |
 | Traveler | 3.00% | ~1,412 |
 | Unlock Paz | 3.00% | ~1,412 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~471 |
 | Vandal | 1.00% | ~471 |
 | Unlock Felipe | 0.90% | ~424 |
-| Adventurer | 0.80% | ~376 |
+| Adventurer | 0.80% | ~377 |
 | Unlock Tupa | 0.50% | ~235 |
 | Master Of The Sands | 0.30% | ~141 |
 | Master | 0.20% | ~94 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,059 (Ranked 112)  
+Progressed: 47,068 (Ranked 112)  
 Completed: 5 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 5 (0.01%) (Ranked 334)
 | 2023-11-17 | 46,740 | 5 |
 | 2023-11-18 | 46,900 | 5 |
 | 2023-11-19 | 47,040 | 5 |
-| 2023-11-20 | 47,059 | 5 |
+| 2023-11-20 | 47,068 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 438)  
 Sum: 372 (Ranked 347)  

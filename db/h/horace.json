@@ -2,7 +2,7 @@
   "ID": "8aa6e526d2864c108f219747ad7011e5",
   "Name": "Horace",
   "ProductSlug": "horace",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 554,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 748,
@@ -282,6 +282,6 @@
   "FirstSeen": "2022-07-22T20:16:46.8760783+00:00",
   "LastChanged": "2023-11-15T16:59:51.8273062+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.565181+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:58:22.9224751+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:04:48.7625919+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:59:06.4953282+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:05:58.9606994+00:00"
 }

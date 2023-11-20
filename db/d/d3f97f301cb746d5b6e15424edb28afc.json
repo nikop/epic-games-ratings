@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2229,9 +2229,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_FISH",
@@ -2253,9 +2253,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -2285,9 +2285,9 @@
       "ID": "GSS_ACH_03_TIP_01",
       "SetID": "5fn8ia4",
       "Name": "The first tip",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 905
+      "UsersEstimate": 915
     },
     {
       "ID": "GSS_ACH_04_TIP_02",
@@ -2421,9 +2421,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 886
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -2437,17 +2437,17 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 378
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 279
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -2501,9 +2501,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 806
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -2541,9 +2541,9 @@
       "ID": "GSS_ACH_36_BROOM_02",
       "SetID": "5fn8ia4",
       "Name": "Further Cleaning!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 905
     },
     {
       "ID": "GSS_ACH_37_BROOM_03",
@@ -2837,9 +2837,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 866
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -2924,8 +2924,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:04:02.8760147+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:04:52.8751858+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:58:57.9980495+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:04:02.8761163+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:59:52.351131+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:04:52.8752706+00:00"
 }

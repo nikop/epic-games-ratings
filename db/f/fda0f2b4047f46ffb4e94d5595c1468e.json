@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 166,
@@ -2835,9 +2835,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 8634,
+  "EOS_Progressed": 8635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8605,6 +8605,11 @@
       "Time": "2023-11-20T04:05:08.6887531+00:00",
       "NumProgressed": 8634,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T05:06:27.4396837+00:00",
+      "NumProgressed": 8635,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8625,7 +8630,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "ach03",
@@ -8657,7 +8662,7 @@
       "Name": "Titan",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "ach07",
@@ -8665,7 +8670,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "ach08",
@@ -8681,7 +8686,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ach10",
@@ -8745,7 +8750,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4662
+      "UsersEstimate": 4663
     },
     {
       "ID": "ach18",
@@ -8825,7 +8830,7 @@
       "Name": "So Krafty",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ach28",
@@ -8841,7 +8846,7 @@
       "Name": "Unstoppable",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "ach30",
@@ -8849,7 +8854,7 @@
       "Name": "Juggernaut",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ach31",
@@ -8857,7 +8862,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ach32",
@@ -8881,7 +8886,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "ach35",
@@ -8905,7 +8910,7 @@
       "Name": "ABACABB",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "ach38",
@@ -8913,7 +8918,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "ach39",
@@ -8921,7 +8926,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "ach40",
@@ -8945,7 +8950,7 @@
       "Name": "Quest Master",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "ach43",
@@ -8993,7 +8998,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "ach49",
@@ -9016,7 +9021,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8634,
+      "Progressed": 8635,
       "Completed": 0
     }
   ],
@@ -9024,8 +9029,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-20T03:02:36.9846008+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:05:08.6887528+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:06:27.4396831+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:00:24.2742369+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:05:08.6888157+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:02:40.4945702+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:06:27.4397318+00:00"
 }

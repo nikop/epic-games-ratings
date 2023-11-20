@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-11-19T22:04:02.421937+00:00",
       "NumProgressed": 188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T05:05:05.8060652+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -586,7 +591,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "9",
@@ -610,7 +615,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "REMAKE_004",
@@ -769,14 +774,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:04:12.0224892+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:05:05.8060648+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:02:44.7126277+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:04:12.0225061+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:02:54.794912+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:05:05.8060861+00:00"
 }

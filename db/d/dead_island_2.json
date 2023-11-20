@@ -6699,10 +6699,10 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 721177,
-  "EOS_Completed": 2413,
-  "EOS_NewPlayers": 3455,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 721189,
+  "EOS_Completed": 2414,
+  "EOS_NewPlayers": 3453,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -31124,6 +31124,11 @@
       "Time": "2023-11-20T04:03:22.3303268+00:00",
       "NumProgressed": 721177,
       "NumCompleted": 2413
+    },
+    {
+      "Time": "2023-11-20T05:03:53.4191242+00:00",
+      "NumProgressed": 721189,
+      "NumCompleted": 2414
     }
   ],
   "TotalAchievements": 51,
@@ -31247,7 +31252,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5769
+      "UsersEstimate": 5770
     },
     {
       "ID": "ach_finisher",
@@ -31263,7 +31268,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5769
+      "UsersEstimate": 5770
     },
     {
       "ID": "ach_good_eyesight",
@@ -31341,9 +31346,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5770
     },
     {
       "ID": "ach_legendary",
@@ -31367,7 +31372,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5769
+      "UsersEstimate": 5770
     },
     {
       "ID": "ach_mind_over_monster",
@@ -31381,9 +31386,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4327
+      "UsersEstimate": 5048
     },
     {
       "ID": "ach_salvation",
@@ -31447,7 +31452,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5769
+      "UsersEstimate": 5770
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -31495,7 +31500,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ach_dark_magic",
@@ -31503,7 +31508,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ach_gardening_tools",
@@ -31519,7 +31524,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31542,13 +31547,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721177,
-      "Completed": 2413
+      "Progressed": 721189,
+      "Completed": 2414
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46719,
+      "Progressed": 46731,
       "Completed": 36573
     }
   ],
@@ -31556,8 +31561,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-20T01:48:09.8191041+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:03:22.3303264+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:03:53.4191239+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:00:06.5727461+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:03:22.3304515+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:01:43.4597763+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:03:53.4192752+00:00"
 }

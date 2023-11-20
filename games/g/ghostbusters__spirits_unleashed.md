@@ -25,26 +25,26 @@ Rating: 4.50 (Ranked 586)
 | Ghostbuster In Training | 3.00% | ~938 |
 | Icing on the Cake | 3.00% | ~938 |
 | Right back at ya | 3.00% | ~938 |
-| Back Off | 2.00% | ~625 |
-| We have the best insurance | 2.00% | ~625 |
-| Collector | 2.00% | ~625 |
-| Escape Artist | 2.00% | ~625 |
-| Legions | 2.00% | ~625 |
-| Pesky Jerks | 2.00% | ~625 |
-| Rift Destroyer | 2.00% | ~625 |
-| Seasoned | 2.00% | ~625 |
-| Side Hustle | 2.00% | ~625 |
-| Skilled | 2.00% | ~625 |
-| Stunner | 2.00% | ~625 |
-| Summoner | 2.00% | ~625 |
-| Welcome to the Crew | 2.00% | ~625 |
+| Back Off | 2.00% | ~626 |
+| We have the best insurance | 2.00% | ~626 |
+| Collector | 2.00% | ~626 |
+| Escape Artist | 2.00% | ~626 |
+| Legions | 2.00% | ~626 |
+| Pesky Jerks | 2.00% | ~626 |
+| Rift Destroyer | 2.00% | ~626 |
+| Seasoned | 2.00% | ~626 |
+| Side Hustle | 2.00% | ~626 |
+| Skilled | 2.00% | ~626 |
+| Stunner | 2.00% | ~626 |
+| Summoner | 2.00% | ~626 |
+| Welcome to the Crew | 2.00% | ~626 |
 | Diabolical | 1.00% | ~313 |
+| Liability | 1.00% | ~313 |
 | Reckless | 1.00% | ~313 |
 | Rivalry | 1.00% | ~313 |
 | Terrifying | 1.00% | ~313 |
 | Tobin's Prodigy | 1.00% | ~313 |
 | Fragile Panes | 0.90% | ~281 |
-| Liability | 0.90% | ~281 |
 | Surprise! | 0.90% | ~281 |
 | Therapeutic | 0.70% | ~219 |
 | Rift Seeker | 0.50% | ~156 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 586)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,272 (Ranked 124)  
-Completed: 68 (0.22%) (Ranked 248)  
+Progressed: 31,275 (Ranked 124)  
+Completed: 68 (0.22%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,7 +271,7 @@ Completed: 68 (0.22%) (Ranked 248)
 | 2023-11-17 | 31,117 | 68 |
 | 2023-11-18 | 31,196 | 68 |
 | 2023-11-19 | 31,263 | 68 |
-| 2023-11-20 | 31,272 | 68 |
+| 2023-11-20 | 31,275 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 248)  
 Sum: 2,827 (Ranked 179)  

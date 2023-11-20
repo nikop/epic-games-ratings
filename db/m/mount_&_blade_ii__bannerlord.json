@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8958,9 +8958,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65469,
+  "EOS_Progressed": 65471,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31433,6 +31433,11 @@
       "Time": "2023-11-20T04:09:13.6757899+00:00",
       "NumProgressed": 65469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T05:09:52.3658383+00:00",
+      "NumProgressed": 65471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31500,7 +31505,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "Crackshot",
@@ -31516,7 +31521,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "Duelist",
@@ -31636,7 +31641,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11784
+      "UsersEstimate": 11785
     },
     {
       "ID": "Kingslayer",
@@ -31724,7 +31729,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "Real Estate",
@@ -31851,15 +31856,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65469,
+      "Progressed": 65471,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-19T20:59:10.3725617+00:00",
-  "LastChanged_Achievements": "2023-11-20T04:09:13.6757896+00:00",
+  "LastChanged_Achievements": "2023-11-20T05:09:52.365838+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:58:34.3386539+00:00",
-  "LastUpdate_Achievements": "2023-11-20T04:09:13.6759426+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:59:20.1933041+00:00",
+  "LastUpdate_Achievements": "2023-11-20T05:09:52.3660358+00:00"
 }

@@ -22,8 +22,8 @@
 | Helpful Heart | 53.00% | ~161 |
 | Master of the Skies | 50.00% | ~152 |
 | Counter Specialist | 50.00% | ~152 |
-| Axer of Auspice | 45.00% | ~137 |
-| Mighty Marmelizer | 42.00% | ~128 |
+| Axer of Auspice | 46.00% | ~140 |
+| Mighty Marmelizer | 43.00% | ~131 |
 | Fair Means or Foul | 42.00% | ~128 |
 | Single Minded | 41.00% | ~125 |
 | Snare Specialist | 41.00% | ~125 |
