@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 76.00% | ~29 |
-| Grand Re-Opening | 66.00% | ~25 |
-| Summer Day | 63.00% | ~24 |
-| Pup Pup Boogie | 61.00% | ~23 |
-| Mr. Porter | 50.00% | ~19 |
-| Risky Rescue | 47.00% | ~18 |
-| Carlos Is Tangled | 45.00% | ~17 |
-| Mandy Family | 42.00% | ~16 |
-| Clear the Road | 39.00% | ~15 |
-| Paw patrol member | 37.00% | ~14 |
-| Robot Out of Control | 37.00% | ~14 |
-| Break Time | 34.00% | ~13 |
-| Master of the Rope | 32.00% | ~12 |
-| Training Day | 32.00% | ~12 |
-| The Fastest | 29.00% | ~11 |
-| In the Air | 29.00% | ~11 |
-| Never Miss | 29.00% | ~11 |
+| Mighty Powers | 74.00% | ~29 |
+| Grand Re-Opening | 64.00% | ~25 |
+| Summer Day | 62.00% | ~24 |
+| Pup Pup Boogie | 59.00% | ~23 |
+| Mr. Porter | 49.00% | ~19 |
+| Risky Rescue | 46.00% | ~18 |
+| Carlos Is Tangled | 44.00% | ~17 |
+| Mandy Family | 41.00% | ~16 |
+| Clear the Road | 38.00% | ~15 |
+| Paw patrol member | 36.00% | ~14 |
+| Robot Out of Control | 36.00% | ~14 |
+| Break Time | 33.00% | ~13 |
+| Master of the Rope | 31.00% | ~12 |
+| Training Day | 31.00% | ~12 |
+| The Fastest | 28.00% | ~11 |
+| In the Air | 28.00% | ~11 |
+| Never Miss | 28.00% | ~11 |
 | Animal Sighting | 26.00% | ~10 |
-| Don’t Miss Any | 24.00% | ~9 |
-| Adventure Bay’s Citizen | 24.00% | ~9 |
+| Don’t Miss Any | 23.00% | ~9 |
+| Adventure Bay’s Citizen | 23.00% | ~9 |
 | You Have Been Everywhere | 18.00% | ~7 |
 | Mountain and Ice | 18.00% | ~7 |
 | Everything Under Control | 13.00% | ~5 |
-| A Great Explorer | 11.00% | ~4 |
-| Nothing Can Stop You | 11.00% | ~4 |
+| A Great Explorer | 10.00% | ~4 |
+| Nothing Can Stop You | 10.00% | ~4 |
 | King of the Mountain | 5.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 507)  
+Progressed: 39 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,6 +74,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-09 | 36 | 0 |
 | 2023-11-14 | 37 | 0 |
 | 2023-11-18 | 38 | 0 |
+| 2023-11-20 | 39 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

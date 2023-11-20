@@ -8,9 +8,9 @@
 | I Found It | 7.00% | ~14 |
 | Find Allies | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
-| Adventurer | 5.00% | ~10 |
+| Adventurer | 6.00% | ~12 |
+| Scholar | 6.00% | ~12 |
 | Geared Up | 5.00% | ~10 |
-| Scholar | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
 | Calm before the Storm | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |

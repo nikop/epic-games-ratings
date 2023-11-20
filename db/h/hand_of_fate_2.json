@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -925,9 +925,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664866,
+  "EOS_Progressed": 664867,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21200,6 +21200,11 @@
       "Time": "2023-11-20T14:05:06.1614058+00:00",
       "NumProgressed": 664866,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-20T16:06:37.7937275+00:00",
+      "NumProgressed": 664867,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -21219,7 +21224,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385622
+      "UsersEstimate": 385623
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -21475,7 +21480,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166216
+      "UsersEstimate": 166217
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -21594,15 +21599,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664866,
+      "Progressed": 664867,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-16T15:59:02.0377741+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:06:11.8843531+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:06:37.793727+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:00:38.8534791+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:06:11.8844978+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:57:17.58889+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:06:37.7938636+00:00"
 }

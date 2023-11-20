@@ -22,7 +22,7 @@
 | No Stone Unturned | 5.00% | ~56 |
 | Turret Syndrome | 2.00% | ~22 |
 | Endless Biographer | 1.00% | ~11 |
-| Grab 'Em All | 0.20% | ~2 |
+| Grab 'Em All | 0.30% | ~3 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
 | Finishing an Endless Story | 0.00% | ~0 |

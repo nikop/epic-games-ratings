@@ -14,8 +14,8 @@ Rating: 4.67 (Ranked 273)
 | Sharing the Love | 42.00% | ~2,447 |
 | Going the Extra Mile | 42.00% | ~2,447 |
 | Hitting a Season | 37.00% | ~2,156 |
+| A Dozen Pieces | 33.00% | ~1,923 |
 | Challenge Yourself | 33.00% | ~1,923 |
-| A Dozen Pieces | 32.00% | ~1,865 |
 | Making History | 31.00% | ~1,806 |
 | Network Success | 27.00% | ~1,573 |
 | Writing a new Chapter | 25.00% | ~1,457 |
@@ -125,9 +125,9 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 5,825 | 0 |
 | 2023-11-20 | 5,827 | 0 |
 ## Awards
-Max (Great for Beginners): 36  (Ranked 467)  
+Max (Great for Beginners): 36  (Ranked 468)  
 Sum: 100 (Ranked 444)  
-Diff (max vs sum): 23  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -473,7 +473,7 @@
   ],
   "EOS_Progressed": 5408,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7661,9 +7661,9 @@
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "59",
@@ -7700,8 +7700,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:03:55.7922784+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:04:12.1115569+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:02:53.1661694+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:03:55.7923491+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:03:03.8718825+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:04:12.1116238+00:00"
 }

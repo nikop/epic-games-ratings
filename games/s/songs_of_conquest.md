@@ -6,9 +6,9 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 28.00% | ~44 |
+| Adept | 29.00% | ~45 |
 | Double Kill | 18.00% | ~28 |
-| Critical Hit | 7.00% | ~11 |
+| Critical Hit | 8.00% | ~12 |
 | Veteran | 7.00% | ~11 |
 | Dressed For Success | 5.00% | ~8 |
 | Sorcerous Spree | 4.00% | ~6 |
@@ -19,6 +19,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 2.00% | ~3 |
 | Master | 1.00% | ~2 |
 | Expert Essence Employment | 1.00% | ~2 |
+| Venisti, Vidisti, Perdidisti | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |
 | Death To Diplomacy | 0.60% | ~1 |
 | This Spot's Taken | 0.60% | ~1 |
@@ -33,7 +34,6 @@ Number of Ratings: 292  (23.09.2022)
 | Get Over Here! | 0.60% | ~1 |
 | Trojan Horse | 0.60% | ~1 |
 | Ultra Kill | 0.60% | ~1 |
-| Venisti, Vidisti, Perdidisti | 0.60% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |

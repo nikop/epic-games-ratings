@@ -15,10 +15,10 @@
 | The darkness | 21.00% | ~130 |
 | One last step | 20.00% | ~124 |
 | I did it | 19.00% | ~118 |
+| Peace walker | 19.00% | ~118 |
 | Cable guy | 19.00% | ~118 |
 | Half the way | 19.00% | ~118 |
 | In this together | 18.00% | ~111 |
-| Peace walker | 18.00% | ~111 |
 | Champollion | 18.00% | ~111 |
 | Open door | 16.00% | ~99 |
 | Feels like springtime | 16.00% | ~99 |

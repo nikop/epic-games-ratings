@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -681,9 +681,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3711,
+  "EOS_Progressed": 3712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5541,6 +5541,11 @@
       "Time": "2023-11-20T11:05:10.930079+00:00",
       "NumProgressed": 3711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T16:07:16.5907395+00:00",
+      "NumProgressed": 3712,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5569,7 +5574,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_12",
@@ -5649,7 +5654,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "achievement_21",
@@ -5720,7 +5725,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3711,
+      "Progressed": 3712,
       "Completed": 0
     }
   ],
@@ -5728,8 +5733,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-19T21:58:29.8180418+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:06:48.9611041+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:07:16.590739+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:59:32.4042609+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:06:48.9611403+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:59:52.8157556+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:07:16.5907812+00:00"
 }

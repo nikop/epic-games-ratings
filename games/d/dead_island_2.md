@@ -8,14 +8,14 @@ Rating: 4.54 (Ranked 524)
 | One of Us | 2.00% | ~938 |
 | Whatever It Takes | 2.00% | ~938 |
 | Pork Chopped | 2.00% | ~938 |
-| Git Gutte! | 1.00% | ~7,213 |
-| Break A Leg | 1.00% | ~7,213 |
-| Coup de Grâce | 1.00% | ~7,213 |
-| Hazardous Materials | 1.00% | ~7,213 |
-| Friends Like These | 1.00% | ~7,213 |
-| Hotel California | 1.00% | ~7,213 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,213 |
-| Welcome To Hell-A | 1.00% | ~7,213 |
+| Git Gutte! | 1.00% | ~7,214 |
+| Break A Leg | 1.00% | ~7,214 |
+| Coup de Grâce | 1.00% | ~7,214 |
+| Hazardous Materials | 1.00% | ~7,214 |
+| Friends Like These | 1.00% | ~7,214 |
+| Hotel California | 1.00% | ~7,214 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,214 |
+| Welcome To Hell-A | 1.00% | ~7,214 |
 | Dr. Reed, I Presume? | 0.90% | ~6,492 |
 | Anger Management | 0.90% | ~6,492 |
 | Bookworm | 0.90% | ~6,492 |
@@ -28,23 +28,23 @@ Rating: 4.54 (Ranked 524)
 | Zombologist | 0.80% | ~5,771 |
 | A Patton Emerges | 0.80% | ~5,771 |
 | Our True Nature | 0.80% | ~5,771 |
-| Perks of the Job | 0.70% | ~5,049 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,049 |
-| Slayer Squad | 0.70% | ~5,049 |
-| Ooh, Shiny! | 0.70% | ~5,049 |
-| I Am the Resurrection | 0.70% | ~5,049 |
+| Perks of the Job | 0.70% | ~5,050 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,050 |
+| Slayer Squad | 0.70% | ~5,050 |
+| Ooh, Shiny! | 0.70% | ~5,050 |
+| I Am the Resurrection | 0.70% | ~5,050 |
 | Making Your Mark | 0.60% | ~4,328 |
 | Humanity Distilled | 0.60% | ~4,328 |
 | Max Headroom | 0.60% | ~4,328 |
 | Not Even My Final Form | 0.50% | ~3,607 |
 | Jumbo Keyring | 0.50% | ~3,607 |
 | Down with the Sickness | 0.50% | ~3,607 |
+| Rising Star | 0.50% | ~3,607 |
 | On Safari | 0.40% | ~2,885 |
 | Smorgasbord | 0.40% | ~2,885 |
 | Internet Famous | 0.40% | ~2,885 |
 | Go, Bobcats! | 0.40% | ~2,885 |
 | Variety is the Spice of Death | 0.40% | ~2,885 |
-| Rising Star | 0.40% | ~2,885 |
 | Make it So | 0.30% | ~2,164 |
 | LA Influential | 0.30% | ~2,164 |
 | Gore Horse | 0.30% | ~2,164 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,345 (Ranked 20)  
+Progressed: 721,367 (Ranked 20)  
 Completed: 2,418 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,418 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,345 | 2,418 |
+| 2023-11-20 | 721,367 | 2,418 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,580 (Ranked 84)  

@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~30,514 |
-| IT MAKES BOOM! | 6.00% | ~18,308 |
-| EXTRA BOOST | 5.00% | ~15,257 |
-| PROTECTED | 4.00% | ~12,206 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,154 |
-| AGGRESSIVE RACER | 3.00% | ~9,154 |
-| PRO | 3.00% | ~9,154 |
-| A TIGER'S FEAR | 2.00% | ~6,103 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,051 |
-| ACE SPEEDSTER | 1.00% | ~3,051 |
-| RELEASE THE KRAKEN | 0.90% | ~2,746 |
-| BE OUR GUEST | 0.80% | ~2,441 |
-| FRIENDLY | 0.80% | ~2,441 |
-| MASTER | 0.80% | ~2,441 |
-| LEGENDARY HERO | 0.80% | ~2,441 |
+| ROOKIE | 10.00% | ~30,520 |
+| IT MAKES BOOM! | 6.00% | ~18,312 |
+| EXTRA BOOST | 5.00% | ~15,260 |
+| PROTECTED | 4.00% | ~12,208 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,156 |
+| AGGRESSIVE RACER | 3.00% | ~9,156 |
+| PRO | 3.00% | ~9,156 |
+| A TIGER'S FEAR | 2.00% | ~6,104 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~3,052 |
+| ACE SPEEDSTER | 1.00% | ~3,052 |
+| RELEASE THE KRAKEN | 0.90% | ~2,747 |
+| BE OUR GUEST | 0.80% | ~2,442 |
+| FRIENDLY | 0.80% | ~2,442 |
+| MASTER | 0.80% | ~2,442 |
+| LEGENDARY HERO | 0.80% | ~2,442 |
 | TRAINING HARD | 0.70% | ~2,136 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,136 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,136 |
 | EXPERIENCED CREW | 0.60% | ~1,831 |
 | ACE BRAWLER | 0.40% | ~1,221 |
 | ACE DEFENDER | 0.40% | ~1,221 |
-| FRAMED! | 0.30% | ~915 |
-| ACE TRICKSTER | 0.30% | ~915 |
+| FRAMED! | 0.30% | ~916 |
+| ACE TRICKSTER | 0.30% | ~916 |
 | PERFECTLY POISED | 0.20% | ~610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,141 (Ranked 52)  
+Progressed: 305,203 (Ranked 52)  
 Completed: 309 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,16 +240,16 @@ Completed: 309 (0.10%) (Ranked 279)
 | 2023-11-17 | 300,625 | 296 |
 | 2023-11-18 | 302,536 | 303 |
 | 2023-11-19 | 304,467 | 306 |
-| 2023-11-20 | 305,141 | 309 |
+| 2023-11-20 | 305,203 | 309 |
 ## Awards
 Max (Great for Beginners): 77  (Ranked 394)  
-Sum: 589 (Ranked 312)  
+Sum: 592 (Ranked 312)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 77 |
+| This game is Great for Quick Sessions | 69 |
 | This game has Diverse Characters | 68 |
-| This game is Great for Quick Sessions | 66 |
 | This game has Amazing Characters | 50 |
 | This game has Competitive Players | 44 |
 | This game is Highly Recommended | 43 |
@@ -312,4 +312,4 @@ Diff (max vs sum): 82
 | 2023-11-17 | 4.39 | 72 | 567 |
 | 2023-11-18 | 4.39 | 74 | 573 |
 | 2023-11-19 | 4.39 | 77 | 587 |
-| 2023-11-20 | 4.39 | 77 | 589 |
+| 2023-11-20 | 4.39 | 77 | 592 |

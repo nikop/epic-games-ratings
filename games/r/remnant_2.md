@@ -1,7 +1,7 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.76 (Ranked 126)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,7 +61,7 @@ Rating: 4.75 (Ranked 148)
 | A Foul Feast | 0.10% | ~4 |
 | You Shall Pass | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,477 (Ranked 69)  
+Progressed: 224,496 (Ranked 69)  
 Completed: 492 (0.22%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,18 +188,18 @@ Completed: 492 (0.22%) (Ranked 248)
 | 2023-11-17 | 222,583 | 469 |
 | 2023-11-18 | 223,350 | 472 |
 | 2023-11-19 | 224,109 | 485 |
-| 2023-11-20 | 224,477 | 492 |
+| 2023-11-20 | 224,496 | 492 |
 ## Awards
 Max (Great Boss Battles): 2,358  (Ranked 105)  
-Sum: 5,559 (Ranked 132)  
+Sum: 5,563 (Ranked 132)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,358 |
 | This game has Diverse Characters | 366 |
+| This game is Extremely Fun | 346 |
 | This game is Highly Recommended | 344 |
 | This game is Relaxing | 343 |
-| This game is Extremely Fun | 342 |
 | This game has Challenging Combat | 338 |
 | This game has Amazing Storytelling | 332 |
 | This game has Quickly Understood Controls | 309 |
@@ -326,4 +326,4 @@ Diff (max vs sum): -27
 | 2023-11-17 | 4.75 | 2,280 | 5,300 |
 | 2023-11-18 | 4.75 | 2,299 | 5,384 |
 | 2023-11-19 | 4.75 | 2,336 | 5,490 |
-| 2023-11-20 | 4.75 | 2,358 | 5,559 |
+| 2023-11-20 | 4.76 | 2,358 | 5,563 |

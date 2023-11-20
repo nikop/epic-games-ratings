@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2187,
+  "EOS_Progressed": 2190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5097,6 +5097,11 @@
       "Time": "2023-11-20T14:09:12.8351707+00:00",
       "NumProgressed": 2187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T16:10:35.6861723+00:00",
+      "NumProgressed": 2190,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5109,7 +5114,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 942
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5117,7 +5122,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5131,9 +5136,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 175
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -5149,7 +5154,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -5181,7 +5186,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5197,7 +5202,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5237,7 +5242,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -5317,7 +5322,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5333,7 +5338,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -5397,7 +5402,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5405,7 +5410,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 984
+      "UsersEstimate": 986
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5413,7 +5418,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5461,7 +5466,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5500,14 +5505,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2187,
+      "Progressed": 2190,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:10:12.2184128+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:10:35.6861718+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:00:27.7718345+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:10:12.2184721+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:00:53.3041945+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:10:35.6862221+00:00"
 }

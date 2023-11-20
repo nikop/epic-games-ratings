@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -10387,9 +10387,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -10562,8 +10562,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-17T16:57:26.9437298+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:04:54.2884602+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:05:14.525253+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:39.6723901+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:59:38.4422975+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:04:54.2885467+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:59:59.5162682+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:05:14.5253484+00:00"
 }

@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 385)  
+Rating: 4.61 (Ranked 384)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,13 +27,13 @@ Rating: 4.61 (Ranked 385)
 | Seal the Deal | 0.90% | ~49 |
 | Here be Dragons | 0.80% | ~43 |
 | Tipping the Scales | 0.80% | ~43 |
+| Dawn of the Dread | 0.80% | ~43 |
 | Enchanted Archipelago | 0.70% | ~38 |
 | Digging for Treasure | 0.70% | ~38 |
 | My Final Form | 0.70% | ~38 |
 | Fiery Friend | 0.70% | ~38 |
 | Impenetrable Fortress | 0.70% | ~38 |
 | Mighty Hoard | 0.70% | ~38 |
-| Dawn of the Dread | 0.70% | ~38 |
 | Return of the Wizard King | 0.60% | ~32 |
 | Prometheus Avenged | 0.60% | ~32 |
 | A Conqueror's Cohort | 0.60% | ~32 |

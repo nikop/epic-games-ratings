@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15149,
+  "EOS_Progressed": 15152,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11697,6 +11697,11 @@
       "Time": "2023-11-20T14:03:27.9048214+00:00",
       "NumProgressed": 15149,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-20T16:04:21.5325062+00:00",
+      "NumProgressed": 15152,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11725,7 +11730,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "12",
@@ -11733,7 +11738,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "13",
@@ -11741,7 +11746,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "14",
@@ -11757,7 +11762,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "16",
@@ -11765,7 +11770,7 @@
       "Name": "Drug Gifter",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "17",
@@ -11773,7 +11778,7 @@
       "Name": "Spore Taste",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "18",
@@ -11797,7 +11802,7 @@
       "Name": "Data Logger",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "20",
@@ -11829,7 +11834,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "24",
@@ -11845,7 +11850,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "26",
@@ -11861,7 +11866,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "28",
@@ -11909,7 +11914,7 @@
       "Name": "Data Master",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "6",
@@ -11988,13 +11993,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15149,
+      "Progressed": 15152,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1103,
+      "Progressed": 1106,
       "Completed": 650
     }
   ],
@@ -12002,8 +12007,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:04:04.8077108+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:04:21.5325059+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:00:13.8695481+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:04:04.8077929+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:00:37.9119923+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:04:21.5325917+00:00"
 }

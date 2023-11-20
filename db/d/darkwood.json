@@ -2,13 +2,13 @@
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
   "ProductSlug": "darkwood-fa73bd",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2017-08-17T07:00:00+00:00",
@@ -510,10 +510,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2418,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2023-11-20T15:57:48.2841125+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2419,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2418,
+  "NumberOfAwards": 2419,
   "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -557,7 +563,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 270
+      "Count": 271
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -590,8 +596,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2023-11-18T20:01:21.1392262+00:00",
+  "LastChanged": "2023-11-20T15:57:48.2841123+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.6090704+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:57:37.7937545+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:05:58.9644191+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:57:48.2841129+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:06:24.1530271+00:00"
 }

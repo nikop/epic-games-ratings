@@ -6,30 +6,30 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 51.00% | ~4,386 |
-| You Shall Not Pass | 51.00% | ~4,386 |
-| Peak Performance | 48.00% | ~4,128 |
-| Avanti Savoia! | 44.00% | ~3,784 |
-| Mamma Mia! | 35.00% | ~3,010 |
-| Conrad von Hotzensocks | 32.00% | ~2,752 |
-| Gabriele D'Annunzio | 31.00% | ~2,666 |
-| Silver Lining | 27.00% | ~2,322 |
-| Aurelio Baruzzi | 21.00% | ~1,806 |
-| Decimation | 20.00% | ~1,720 |
-| Donatello | 19.00% | ~1,634 |
-| The Italian Job | 19.00% | ~1,634 |
-| Veni Vidi Vici | 19.00% | ~1,634 |
-| Insubordination | 18.00% | ~1,548 |
-| Ragazzi del '99 | 17.00% | ~1,462 |
-| Luigi Cadorna | 15.00% | ~1,290 |
-| The Lion of the Isonzo | 15.00% | ~1,290 |
-| Uomo Universale | 13.00% | ~1,118 |
-| Dirty Dozen | 12.00% | ~1,032 |
-| Shaken, Not Stirred | 12.00% | ~1,032 |
-| Die Bosniaken Kommen! | 11.00% | ~946 |
-| Machiavelli | 11.00% | ~946 |
-| The Devil's Paintbrush | 11.00% | ~946 |
-| Thus With A Kiss | 11.00% | ~946 |
+| Tutti Eroi! | 51.00% | ~4,389 |
+| You Shall Not Pass | 51.00% | ~4,389 |
+| Peak Performance | 48.00% | ~4,130 |
+| Avanti Savoia! | 44.00% | ~3,786 |
+| Mamma Mia! | 35.00% | ~3,012 |
+| Conrad von Hotzensocks | 32.00% | ~2,754 |
+| Gabriele D'Annunzio | 31.00% | ~2,668 |
+| Silver Lining | 27.00% | ~2,323 |
+| Aurelio Baruzzi | 21.00% | ~1,807 |
+| Decimation | 20.00% | ~1,721 |
+| Donatello | 19.00% | ~1,635 |
+| The Italian Job | 19.00% | ~1,635 |
+| Veni Vidi Vici | 19.00% | ~1,635 |
+| Insubordination | 18.00% | ~1,549 |
+| Ragazzi del '99 | 17.00% | ~1,463 |
+| Luigi Cadorna | 15.00% | ~1,291 |
+| The Lion of the Isonzo | 15.00% | ~1,291 |
+| Uomo Universale | 13.00% | ~1,119 |
+| Dirty Dozen | 12.00% | ~1,033 |
+| Shaken, Not Stirred | 12.00% | ~1,033 |
+| Die Bosniaken Kommen! | 11.00% | ~947 |
+| Machiavelli | 11.00% | ~947 |
+| The Devil's Paintbrush | 11.00% | ~947 |
+| Thus With A Kiss | 11.00% | ~947 |
 | Dante's Inferno | 9.00% | ~774 |
 | I Have the High Ground | 9.00% | ~774 |
 | Millenial | 9.00% | ~774 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~34 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,600 (Ranked 169)  
+Progressed: 8,605 (Ranked 169)  
 Completed: 9 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,14 +260,14 @@ Completed: 9 (0.10%) (Ranked 279)
 | 2023-11-17 | 7,896 | 9 |
 | 2023-11-18 | 8,286 | 9 |
 | 2023-11-19 | 8,528 | 9 |
-| 2023-11-20 | 8,600 | 9 |
+| 2023-11-20 | 8,605 | 9 |
 ## Awards
-Max (Diverse Characters): 36  (Ranked 467)  
-Sum: 280 (Ranked 372)  
-Diff (max vs sum): 95  
+Max (Highly Recommended): 37  (Ranked 464)  
+Sum: 281 (Ranked 372)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 36 |
+| This game is Highly Recommended | 37 |
 | This game has Diverse Characters | 36 |
 | This game is Extremely Fun | 34 |
 | This game has Realistic Visuals | 34 |
@@ -401,3 +401,4 @@ Diff (max vs sum): 95
 | 2023-11-14 | 4.55 | - | 36 | 278 |
 | 2023-11-15 | 4.55 | - | 36 | 279 |
 | 2023-11-17 | 4.55 | - | 36 | 280 |
+| 2023-11-20 | 4.55 | - | 37 | 281 |

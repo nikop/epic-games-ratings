@@ -10,14 +10,14 @@
 | Notai Notes | 71.00% | ~535 |
 | Blue Dreams | 70.00% | ~528 |
 | He's Famous! | 70.00% | ~528 |
+| Krugmazing | 69.00% | ~520 |
 | Cutie Poro | 69.00% | ~520 |
-| Krugmazing | 68.00% | ~513 |
 | The Fire Below the Mountain | 66.00% | ~498 |
 | Moneyball | 62.00% | ~467 |
 | No Bites | 59.00% | ~445 |
 | Iceborn | 59.00% | ~445 |
+| Boom Things | 57.00% | ~430 |
 | Tear of Freedom | 56.00% | ~422 |
-| Boom Things | 56.00% | ~422 |
 | My Darkest Day | 52.00% | ~392 |
 | Rhythm Of Willump | 49.00% | ~369 |
 | The Relentless Storm | 49.00% | ~369 |
@@ -30,9 +30,9 @@
 | Boosted! | 40.00% | ~302 |
 | Family | 39.00% | ~294 |
 | Biggest Snowball Ever | 39.00% | ~294 |
+| Freeze The Ice Witch | 39.00% | ~294 |
 | Bullseye | 39.00% | ~294 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~294 |
-| Freeze The Ice Witch | 38.00% | ~287 |
 | On The Rocks | 38.00% | ~287 |
 | It Is Not Over | 36.00% | ~271 |
 | Never Gets Old | 33.00% | ~249 |

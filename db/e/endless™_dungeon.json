@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -1795,9 +1795,9 @@
       "ID": "ACHIEVEMENT_100K_KILLED_MONSTERS",
       "SetID": "9991201",
       "Name": "Grab \u0027Em All",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_10K_OPEN_DOORS",
@@ -2042,8 +2042,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:07:52.9694947+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:08:33.002456+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:00:18.8117776+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:07:52.9695294+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:00:43.5881284+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:08:33.0024803+00:00"
 }

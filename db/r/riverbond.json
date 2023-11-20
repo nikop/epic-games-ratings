@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531695,
+  "EOS_Progressed": 531697,
   "EOS_Completed": 500,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23242,6 +23242,11 @@
       "Time": "2023-11-20T14:03:57.8593792+00:00",
       "NumProgressed": 531695,
       "NumCompleted": 500
+    },
+    {
+      "Time": "2023-11-20T16:05:03.0384934+00:00",
+      "NumProgressed": 531697,
+      "NumCompleted": 500
     }
   ],
   "TotalAchievements": 57,
@@ -23261,7 +23266,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239263
+      "UsersEstimate": 239264
     },
     {
       "ID": "11",
@@ -23269,7 +23274,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372186
+      "UsersEstimate": 372188
     },
     {
       "ID": "12",
@@ -23285,7 +23290,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69120
+      "UsersEstimate": 69121
     },
     {
       "ID": "14",
@@ -23293,7 +23298,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58486
+      "UsersEstimate": 58487
     },
     {
       "ID": "15",
@@ -23325,7 +23330,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79754
+      "UsersEstimate": 79755
     },
     {
       "ID": "19",
@@ -23333,7 +23338,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329651
+      "UsersEstimate": 329652
     },
     {
       "ID": "2",
@@ -23357,7 +23362,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58486
+      "UsersEstimate": 58487
     },
     {
       "ID": "22",
@@ -23485,7 +23490,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85071
+      "UsersEstimate": 85072
     },
     {
       "ID": "37",
@@ -23509,7 +23514,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180776
+      "UsersEstimate": 180777
     },
     {
       "ID": "4",
@@ -23581,7 +23586,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329651
+      "UsersEstimate": 329652
     },
     {
       "ID": "48",
@@ -23597,7 +23602,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180776
+      "UsersEstimate": 180777
     },
     {
       "ID": "5",
@@ -23613,7 +23618,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74437
+      "UsersEstimate": 74438
     },
     {
       "ID": "51",
@@ -23629,7 +23634,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244580
+      "UsersEstimate": 244581
     },
     {
       "ID": "53",
@@ -23708,15 +23713,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531695,
+      "Progressed": 531697,
       "Completed": 500
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:04:43.6174983+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:05:03.0384929+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.3890508+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:03:06.7695781+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:04:43.6177226+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:03:19.0696575+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:05:03.0386759+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -505,6 +505,11 @@
       "Time": "2023-11-20T11:07:58.9460478+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T16:09:14.200186+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -531,9 +536,9 @@
       "ID": "AchvAssertive",
       "SetID": "1hj060c",
       "Name": "On her own",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "AchvBattleScore",
@@ -541,23 +546,23 @@
       "Name": "Fierce fight",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "AchvBombing",
       "SetID": "1hj060c",
       "Name": "Violent solution",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvConvoyList",
@@ -573,15 +578,15 @@
       "Name": "Ubiquitous holes",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "AchvDoom",
@@ -597,7 +602,7 @@
       "Name": "Evacuation",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AchvInvShip",
@@ -677,7 +682,7 @@
       "Name": "Strong objection",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AchvReachBase",
@@ -691,9 +696,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "AchvReachCity",
@@ -701,15 +706,15 @@
       "Name": "The City",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "AchvSurvivors",
@@ -717,7 +722,7 @@
       "Name": "Survivors",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -748,14 +753,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 185,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:08:55.1609561+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:09:14.2001855+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:58:08.0904405+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:08:55.160979+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:58:21.2651161+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:09:14.2002263+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1284,
+  "EOS_Progressed": 1285,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -2457,6 +2457,11 @@
       "Time": "2023-11-20T12:05:38.9439012+00:00",
       "NumProgressed": 1284,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-20T16:06:15.4277244+00:00",
+      "NumProgressed": 1285,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2468,7 +2473,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "DieInPermadeath",
@@ -2492,7 +2497,7 @@
       "Name": "Helping Hand",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "FinishAllSideMissions",
@@ -2500,7 +2505,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "GatlingVsArmor",
@@ -2508,7 +2513,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2532,7 +2537,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "MasteryOfCombat",
@@ -2540,7 +2545,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "MasteryOfRites",
@@ -2548,7 +2553,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MasteryOfWeapons",
@@ -2556,7 +2561,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "MissionActivateDish",
@@ -2564,7 +2569,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -2572,7 +2577,7 @@
       "Name": "Retaliate",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "MissionAncientRitual",
@@ -2612,7 +2617,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "MissionEosReturn",
@@ -2644,7 +2649,7 @@
       "Name": "Cult Slayer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -2652,7 +2657,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2668,7 +2673,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2716,7 +2721,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2804,22 +2809,22 @@
       "Name": "Relentless",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1284,
+      "Progressed": 1285,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:05:50.8165102+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:06:15.4277237+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.4152618+00:00",
-  "LastUpdate_Ratings": "2023-11-20T14:59:33.1312628+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:05:50.81654+00:00"
+  "LastUpdate_Ratings": "2023-11-20T15:59:53.4734986+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:06:15.4277581+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8617,18 +8617,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28290,
       "NumberOfAwardsMax": 7615
+    },
+    {
+      "Time": "2023-11-20T16:03:25.9168443+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28293,
+      "NumberOfAwardsMax": 7617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28290,
-  "NumberOfAwardsMax": 7615,
+  "NumberOfAwards": 28293,
+  "NumberOfAwardsMax": 7617,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7615
+      "Count": 7617
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8682,7 +8688,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1670
+      "Count": 1671
     },
     {
       "Text": "This game is Relaxing",
@@ -8703,9 +8709,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809143,
+  "EOS_Progressed": 809148,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32748,6 +32754,11 @@
       "Time": "2023-11-20T15:08:56.9357332+00:00",
       "NumProgressed": 809143,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-20T16:09:16.1332486+00:00",
+      "NumProgressed": 809148,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32783,7 +32794,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129463
+      "UsersEstimate": 129464
     },
     {
       "ID": "Awakening",
@@ -32791,7 +32802,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169920
+      "UsersEstimate": 169921
     },
     {
       "ID": "BadGirl",
@@ -32839,7 +32850,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258926
+      "UsersEstimate": 258927
     },
     {
       "ID": "Bookworm",
@@ -32847,7 +32858,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121371
+      "UsersEstimate": 121372
     },
     {
       "ID": "Buddy",
@@ -32855,7 +32866,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97097
+      "UsersEstimate": 97098
     },
     {
       "ID": "Casanova",
@@ -32871,7 +32882,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202286
+      "UsersEstimate": 202287
     },
     {
       "ID": "Chivalrous",
@@ -32919,7 +32930,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80914
+      "UsersEstimate": 80915
     },
     {
       "ID": "DavidHorak",
@@ -32959,7 +32970,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 186103
+      "UsersEstimate": 186104
     },
     {
       "ID": "Fighter",
@@ -32975,7 +32986,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121371
+      "UsersEstimate": 121372
     },
     {
       "ID": "Freud",
@@ -33239,7 +33250,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161829
+      "UsersEstimate": 161830
     },
     {
       "ID": "RevenantOfLedechko",
@@ -33279,7 +33290,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161829
+      "UsersEstimate": 161830
     },
     {
       "ID": "SerialKiller",
@@ -33335,7 +33346,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 97097
+      "UsersEstimate": 97098
     },
     {
       "ID": "TisButAScratch",
@@ -33414,15 +33425,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809143,
+      "Progressed": 809148,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-19T23:03:08.4936742+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:08:56.9357327+00:00",
+  "LastChanged": "2023-11-20T16:03:25.9168441+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:09:16.1332478+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:03:13.3387664+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:08:56.935939+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:03:25.9168448+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:09:16.1334689+00:00"
 }

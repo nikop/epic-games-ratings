@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -172,8 +172,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2023-11-20T15:06:50.200124+00:00",
+  "LastChanged_Achievements": "2023-11-20T16:07:17.9258013+00:00",
   "LastUpdate_AppInfo": "2023-11-15T16:57:23.7235053+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:01:30.4936088+00:00",
-  "LastUpdate_Achievements": "2023-11-20T15:06:50.2001329+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:02:00.0842157+00:00",
+  "LastUpdate_Achievements": "2023-11-20T16:07:17.9258085+00:00"
 }

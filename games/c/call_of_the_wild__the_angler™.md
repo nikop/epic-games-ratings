@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 1.00% | ~66 |
 | License to Gill | 0.90% | ~59 |
 | Going for Gold | 0.90% | ~59 |
-| I'm Hooked! | 0.60% | ~40 |
+| I'm Hooked! | 0.70% | ~46 |
 | I'm the Captain Now | 0.30% | ~20 |
 | Marathon | 0.30% | ~20 |
 | Diamond in the Rough | 0.30% | ~20 |
