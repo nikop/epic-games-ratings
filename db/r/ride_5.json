@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2182,
+  "EOS_Progressed": 2183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5077,6 +5077,11 @@
       "Time": "2023-11-20T06:09:42.9805495+00:00",
       "NumProgressed": 2182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T09:09:23.4461009+00:00",
+      "NumProgressed": 2183,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5089,7 +5094,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5177,7 +5182,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5480,14 +5485,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2182,
+      "Progressed": 2183,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:09:49.855828+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:09:23.4461007+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:59:46.3209673+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:09:49.8558813+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:59:25.9556464+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:09:23.4461578+00:00"
 }

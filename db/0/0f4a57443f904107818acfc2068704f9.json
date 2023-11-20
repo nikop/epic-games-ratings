@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 197
     },
     {
       "ID": "CompleteChapter10",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:04:00.2135473+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:03:43.4003425+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:00:04.8124461+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:04:00.213576+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:59:41.8312653+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:03:43.4003628+00:00"
 }

@@ -14,8 +14,8 @@ Rating: 4.67 (Ranked 273)
 | Sharing the Love | 42.00% | ~2,447 |
 | Going the Extra Mile | 42.00% | ~2,447 |
 | Hitting a Season | 37.00% | ~2,156 |
+| Challenge Yourself | 33.00% | ~1,923 |
 | A Dozen Pieces | 32.00% | ~1,864 |
-| Challenge Yourself | 32.00% | ~1,864 |
 | Making History | 31.00% | ~1,806 |
 | Network Success | 27.00% | ~1,573 |
 | Writing a new Chapter | 25.00% | ~1,456 |

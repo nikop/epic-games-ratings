@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~213 |
 | Bad Elves Go Everywhere | 66.00% | ~207 |
 | Master of Magic | 65.00% | ~203 |
-| Heroes’ Gorge | 61.00% | ~191 |
+| Heroes’ Gorge | 62.00% | ~194 |
 | Magic Accidents | 59.00% | ~185 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~185 |
 | Minions, Minions! | 58.00% | ~182 |
@@ -26,17 +26,17 @@
 | The Big Eaty | 43.00% | ~135 |
 | Pure Dynamite! | 41.00% | ~128 |
 | “… like son” | 37.00% | ~116 |
-| Mana Cannon | 35.00% | ~110 |
+| Mana Cannon | 36.00% | ~113 |
 | Dungeonlord Gorgu | 33.00% | ~103 |
 | The Cathedral of Light | 31.00% | ~97 |
 | Shame! Shame! Shame! | 31.00% | ~97 |
 | Tanos' Crusade Against Thalya | 27.00% | ~85 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~72 |
 | Unstoppable Horde | 23.00% | ~72 |
-| All’s Well That Ends Evil | 22.00% | ~69 |
+| All’s Well That Ends Evil | 23.00% | ~72 |
 | Master of the Undead | 21.00% | ~66 |
 | Hungry, Hungry Gorgu! | 20.00% | ~63 |
-| Forbidden Knowledge | 18.00% | ~56 |
+| Forbidden Knowledge | 19.00% | ~59 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
 | The Duel | 17.00% | ~53 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
@@ -44,9 +44,9 @@
 | If Looks Could Kill | 15.00% | ~47 |
 | The Finitude Drill | 13.00% | ~41 |
 | Doom Hill | 11.00% | ~34 |
+| My Little Torture Chamber | 10.00% | ~31 |
 | Bonus Evilness | 10.00% | ~31 |
 | Brimstone Shaken, Not Stirred | 10.00% | ~31 |
-| My Little Torture Chamber | 9.00% | ~28 |
 | Sabotage! | 9.00% | ~28 |
 | Raiders of the Lost Stone | 9.00% | ~28 |
 | The Rune Sockets of Finitude (Part 1) | 8.00% | ~25 |

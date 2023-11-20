@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 146,
@@ -14818,9 +14818,9 @@
       "ID": "tpote_achievement_6",
       "SetID": "3jcf6c3",
       "Name": "Full house",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3972
     },
     {
       "ID": "tpote_achievement_7",
@@ -14858,8 +14858,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:05:06.8555187+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:04:43.0046279+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:58:32.2732787+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:05:06.855623+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:58:22.1512133+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:04:43.004717+00:00"
 }

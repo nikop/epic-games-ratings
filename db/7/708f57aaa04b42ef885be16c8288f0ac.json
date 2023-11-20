@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,7 +111,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5634,
+  "EOS_Progressed": 5635,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 2,
@@ -3831,6 +3831,11 @@
       "Time": "2023-11-20T08:09:26.9189691+00:00",
       "NumProgressed": 5634,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T09:09:02.2088618+00:00",
+      "NumProgressed": 5635,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3987,7 +3992,7 @@
       "Name": "Nasty!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "NoMoreTotems",
@@ -4114,7 +4119,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5634,
+      "Progressed": 5635,
       "Completed": 7
     }
   ],
@@ -4122,8 +4127,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:09:26.9189686+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:09:02.2088615+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:58:20.4776242+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:09:26.9190128+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:58:12.5387163+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:09:02.2088907+00:00"
 }

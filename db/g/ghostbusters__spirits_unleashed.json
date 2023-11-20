@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3453,9 +3453,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31276,
+  "EOS_Progressed": 31278,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19863,6 +19863,11 @@
       "Time": "2023-11-20T08:04:11.1665165+00:00",
       "NumProgressed": 31276,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-20T09:03:53.2853259+00:00",
+      "NumProgressed": 31278,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20002,7 +20007,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Fully_Upgraded",
@@ -20194,7 +20199,7 @@
       "Name": "Surprise!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "Swift_Removers",
@@ -20281,7 +20286,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31276,
+      "Progressed": 31278,
       "Completed": 68
     }
   ],
@@ -20289,8 +20294,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-19T22:02:41.6352953+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:04:11.1665161+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:03:53.2853254+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:03:02.8675836+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:04:11.1666207+00:00"
+  "LastUpdate_Ratings": "2023-11-20T09:02:51.8825379+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:03:53.2854397+00:00"
 }

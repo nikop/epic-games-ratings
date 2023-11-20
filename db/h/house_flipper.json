@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2085,9 +2085,9 @@
       "Count": 219
     }
   ],
-  "EOS_Progressed": 21322,
+  "EOS_Progressed": 21323,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10500,6 +10500,11 @@
       "Time": "2023-11-20T04:03:52.3521229+00:00",
       "NumProgressed": 21322,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-20T09:04:02.2471612+00:00",
+      "NumProgressed": 21323,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10559,7 +10564,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20256
+      "UsersEstimate": 20257
     },
     {
       "ID": "GameOver",
@@ -10647,7 +10652,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "SeniorEstateAgent",
@@ -10694,15 +10699,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21322,
+      "Progressed": 21323,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-19T21:57:40.0245193+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:04:21.1693298+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:04:02.2471608+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:56:56.4663346+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:58:05.3052026+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:04:21.1693906+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:57:59.2107294+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:04:02.2472124+00:00"
 }

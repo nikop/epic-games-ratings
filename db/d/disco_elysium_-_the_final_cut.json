@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1478,9 +1478,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130992,
+  "EOS_Progressed": 130994,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22398,6 +22398,11 @@
       "Time": "2023-11-20T07:02:50.0258668+00:00",
       "NumProgressed": 130992,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-20T09:03:18.3127735+00:00",
+      "NumProgressed": 130994,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22465,7 +22470,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31438
+      "UsersEstimate": 31439
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22521,7 +22526,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27508
+      "UsersEstimate": 27509
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22728,15 +22733,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130992,
+      "Progressed": 130994,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:03:31.2099471+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:03:18.3127731+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:58:51.06964+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:03:31.2100566+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:58:37.6497099+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:03:18.3129268+00:00"
 }

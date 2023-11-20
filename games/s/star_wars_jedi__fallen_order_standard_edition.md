@@ -5,23 +5,23 @@ Rating: 4.66 (Ranked 295)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~19,028 |
-| A Long Time Ago | 93.00% | ~17,696 |
-| Sabersmith | 80.00% | ~15,222 |
-| The Obstacle is the Way | 78.00% | ~14,842 |
-| Back At You | 73.00% | ~13,890 |
-| Happy Go Wookiee | 69.00% | ~13,129 |
+| The Mantis | 100.00% | ~19,029 |
+| A Long Time Ago | 93.00% | ~17,697 |
+| Sabersmith | 80.00% | ~15,223 |
+| The Obstacle is the Way | 78.00% | ~14,843 |
+| Back At You | 73.00% | ~13,891 |
+| Happy Go Wookiee | 69.00% | ~13,130 |
 | Everything is Connected | 60.00% | ~11,417 |
-| Her Name Was Masana Tide | 55.00% | ~10,465 |
-| Bank Shot | 54.00% | ~10,275 |
+| Her Name Was Masana Tide | 55.00% | ~10,466 |
+| Bank Shot | 54.00% | ~10,276 |
 | Perfect Timing | 53.00% | ~10,085 |
-| The Full Glow-Up | 51.00% | ~9,704 |
+| The Full Glow-Up | 51.00% | ~9,705 |
 | Gorgara Falls | 50.00% | ~9,514 |
 | For A More Civilized Age | 49.00% | ~9,324 |
-| I Knew He Was No Good | 47.00% | ~8,943 |
+| I Knew He Was No Good | 47.00% | ~8,944 |
 | The Holocron Awaits | 46.00% | ~8,753 |
-| Look Out Below | 44.00% | ~8,372 |
-| Trust Only In The Force | 44.00% | ~8,372 |
+| Look Out Below | 44.00% | ~8,373 |
+| Trust Only In The Force | 44.00% | ~8,373 |
 | Scum and Villainy | 43.00% | ~8,182 |
 | Don't Mess with BD-1 | 42.00% | ~7,992 |
 | Blade Master | 38.00% | ~7,231 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 295)
 | Kicking Back | 2.00% | ~381 |
 | Not So Fast | 1.00% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,028 (Ranked 140)  
+Progressed: 19,029 (Ranked 140)  
 Completed: 187 (0.98%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 187 (0.98%) (Ranked 164)
 | 2023-11-17 | 18,524 | 186 |
 | 2023-11-18 | 18,744 | 187 |
 | 2023-11-19 | 18,989 | 187 |
-| 2023-11-20 | 19,028 | 187 |
+| 2023-11-20 | 19,029 | 187 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

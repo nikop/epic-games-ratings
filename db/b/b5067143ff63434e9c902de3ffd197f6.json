@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10500,
+  "EOS_Progressed": 10503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1444,
+  "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5984,6 +5984,11 @@
       "Time": "2023-11-20T08:05:40.4444125+00:00",
       "NumProgressed": 10500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T09:05:12.7587299+00:00",
+      "NumProgressed": 10503,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -6012,7 +6017,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_LEVEL188",
@@ -6052,7 +6057,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -6060,7 +6065,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -6068,7 +6073,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_THEEND",
@@ -6092,7 +6097,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -6187,14 +6192,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 10500,
+      "Progressed": 10503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:05:40.444412+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:05:12.7587296+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:19.8590325+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:58:45.7607078+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:05:40.4444628+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:58:33.1529588+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:05:12.758771+00:00"
 }

@@ -1,43 +1,43 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 567)  
+Rating: 4.51 (Ranked 566)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~82,638 |
-| Zealous | 7.00% | ~72,308 |
-| Skillful | 7.00% | ~72,308 |
-| Not half bad | 6.00% | ~61,979 |
-| Apt Survivor | 6.00% | ~61,979 |
-| Make Some Noise | 6.00% | ~61,979 |
-| Handyman | 5.00% | ~51,649 |
-| Survival Treasures | 5.00% | ~51,649 |
-| Sorted | 5.00% | ~51,649 |
-| Resurgence | 5.00% | ~51,649 |
-| The Grand Sacrifice | 4.00% | ~41,319 |
-| Agonizing Escape | 4.00% | ~41,319 |
-| Backdoor Escape | 4.00% | ~41,319 |
-| No one left behind | 4.00% | ~41,319 |
-| Medic | 4.00% | ~41,319 |
-| Perfect Escape | 4.00% | ~41,319 |
-| Bloody Millionaire | 4.00% | ~41,319 |
-| I | 4.00% | ~41,319 |
-| Engineer | 4.00% | ~41,319 |
-| Healthy Obsession | 4.00% | ~41,319 |
-| Preemptive Strike | 4.00% | ~41,319 |
-| Humanitarian | 4.00% | ~41,319 |
-| I've got your back | 3.00% | ~30,989 |
-| Perfect Killing | 3.00% | ~30,989 |
-| Apt Killer | 3.00% | ~30,989 |
-| Risk it all | 3.00% | ~30,989 |
-| Vulture | 3.00% | ~30,989 |
-| II | 3.00% | ~30,989 |
-| III | 3.00% | ~30,989 |
-| Wounded Healer | 3.00% | ~30,989 |
-| Close Shave | 3.00% | ~30,989 |
-| Second Act | 3.00% | ~30,989 |
+| It wakes | 8.00% | ~82,641 |
+| Zealous | 7.00% | ~72,311 |
+| Skillful | 7.00% | ~72,311 |
+| Not half bad | 6.00% | ~61,981 |
+| Apt Survivor | 6.00% | ~61,981 |
+| Make Some Noise | 6.00% | ~61,981 |
+| Handyman | 5.00% | ~51,651 |
+| Survival Treasures | 5.00% | ~51,651 |
+| Sorted | 5.00% | ~51,651 |
+| Resurgence | 5.00% | ~51,651 |
+| The Grand Sacrifice | 4.00% | ~41,321 |
+| Agonizing Escape | 4.00% | ~41,321 |
+| Backdoor Escape | 4.00% | ~41,321 |
+| No one left behind | 4.00% | ~41,321 |
+| Medic | 4.00% | ~41,321 |
+| Perfect Escape | 4.00% | ~41,321 |
+| Bloody Millionaire | 4.00% | ~41,321 |
+| I | 4.00% | ~41,321 |
+| Engineer | 4.00% | ~41,321 |
+| Healthy Obsession | 4.00% | ~41,321 |
+| Preemptive Strike | 4.00% | ~41,321 |
+| Humanitarian | 4.00% | ~41,321 |
+| I've got your back | 3.00% | ~30,991 |
+| Perfect Killing | 3.00% | ~30,991 |
+| Apt Killer | 3.00% | ~30,991 |
+| Risk it all | 3.00% | ~30,991 |
+| Vulture | 3.00% | ~30,991 |
+| II | 3.00% | ~30,991 |
+| III | 3.00% | ~30,991 |
+| Wounded Healer | 3.00% | ~30,991 |
+| Close Shave | 3.00% | ~30,991 |
+| Second Act | 3.00% | ~30,991 |
 | Blood on your hands | 2.00% | ~20,660 |
 | Escape Artist | 2.00% | ~20,660 |
 | Made it out alive! | 2.00% | ~20,660 |
@@ -92,6 +92,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 1.00% | ~10,330 |
 | Insult and Injury | 1.00% | ~10,330 |
 | Outrun the Overlap | 1.00% | ~10,330 |
+| High Speed Pursuit | 1.00% | ~10,330 |
 | Complete the Evolution | 1.00% | ~10,330 |
 | Extraterrestrial | 1.00% | ~10,330 |
 | Kitted Out | 1.00% | ~10,330 |
@@ -100,7 +101,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Punch Drunk | 0.90% | ~9,297 |
 | Prowler | 0.90% | ~9,297 |
 | Triage | 0.90% | ~9,297 |
-| High Speed Pursuit | 0.90% | ~9,297 |
 | Blood in your mouth | 0.80% | ~8,264 |
 | Whiffing to Success | 0.80% | ~8,264 |
 | Power Moves | 0.80% | ~8,264 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,033 |
 | Adept Ripley | 0.10% | ~1,033 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,032,976 (Ranked 14)  
+Progressed: 1,033,018 (Ranked 14)  
 Completed: 54 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 54 (0.01%) (Ranked 334)
 | 2023-11-17 | 1,026,834 | 54 |
 | 2023-11-18 | 1,029,621 | 54 |
 | 2023-11-19 | 1,032,368 | 54 |
-| 2023-11-20 | 1,032,976 | 54 |
+| 2023-11-20 | 1,033,018 | 54 |
 ## Awards
 Max (Diverse Characters): 36,252  (Ranked 15)  
 Sum: 277,052 (Ranked 13)  

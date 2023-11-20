@@ -5,15 +5,15 @@
 | ---- | ---------- | ----- |
 | The Prison | 38.00% | ~6 |
 | The Kitchen | 31.00% | ~5 |
+| The Lair | 31.00% | ~5 |
+| Six's Song | 25.00% | ~4 |
 | Highly Sprung | 25.00% | ~4 |
 | Light Up Your life | 25.00% | ~4 |
-| The Lair | 25.00% | ~4 |
 | Ashes in The Maw | 19.00% | ~3 |
 | Ashes to Ashes | 19.00% | ~3 |
 | Elusive | 19.00% | ~3 |
 | End in Sight | 19.00% | ~3 |
 | Fun and Games Ahead | 19.00% | ~3 |
-| Six's Song | 19.00% | ~3 |
 | I'm Losing You | 19.00% | ~3 |
 | Is Anybody Out There? | 19.00% | ~3 |
 | Kitchen Hand | 19.00% | ~3 |

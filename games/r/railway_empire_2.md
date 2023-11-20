@@ -42,9 +42,9 @@ Rating: 4.42 (Ranked 710)
 | Networker | 18.00% | ~392 |
 | Resistance is futile | 17.00% | ~371 |
 | Assimilated | 16.00% | ~349 |
+| Settler | 16.00% | ~349 |
 | Locusts | 15.00% | ~327 |
 | Bold and beautiful | 15.00% | ~327 |
-| Settler | 15.00% | ~327 |
 | Go West | 14.00% | ~305 |
 | Max Power | 14.00% | ~305 |
 | A new Hope | 11.00% | ~240 |

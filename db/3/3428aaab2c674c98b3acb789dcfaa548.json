@@ -7803,10 +7803,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 16167,
       "NumberOfAwardsMax": 5558
+    },
+    {
+      "Time": "2023-11-20T08:59:21.6061808+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 16175,
+      "NumberOfAwardsMax": 5558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16167,
+  "NumberOfAwards": 16175,
   "NumberOfAwardsMax": 5558,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7868,7 +7874,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 488
+      "Count": 496
     },
     {
       "Text": "This game has a Creative Community",
@@ -7883,9 +7889,9 @@
       "Count": 1185
     }
   ],
-  "EOS_Progressed": 842950,
+  "EOS_Progressed": 842958,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 4774,
+  "EOS_NewPlayers": 4762,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28888,6 +28894,11 @@
       "Time": "2023-11-20T08:06:23.3416378+00:00",
       "NumProgressed": 842950,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-11-20T09:05:51.1133654+00:00",
+      "NumProgressed": 842958,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 75,
@@ -28899,7 +28910,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 210738
+      "UsersEstimate": 210740
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -28939,7 +28950,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25288
+      "UsersEstimate": 25289
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -29003,7 +29014,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25288
+      "UsersEstimate": 25289
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -29379,7 +29390,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25288
+      "UsersEstimate": 25289
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -29467,7 +29478,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25288
+      "UsersEstimate": 25289
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -29498,22 +29509,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 842950,
+      "Progressed": 842958,
       "Completed": 245
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 842950,
+      "Progressed": 842958,
       "Completed": 202
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-11-20T02:22:48.8669021+00:00",
-  "LastChanged_Achievements": "2023-11-20T08:06:23.3416374+00:00",
+  "LastChanged": "2023-11-20T08:59:21.6061806+00:00",
+  "LastChanged_Achievements": "2023-11-20T09:05:51.1133651+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.3200366+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:59:41.3157259+00:00",
-  "LastUpdate_Achievements": "2023-11-20T08:06:23.3417966+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:59:21.6061812+00:00",
+  "LastUpdate_Achievements": "2023-11-20T09:05:51.113492+00:00"
 }
