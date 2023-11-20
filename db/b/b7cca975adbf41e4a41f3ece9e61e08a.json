@@ -143,7 +143,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8660,
+  "EOS_Progressed": 8661,
   "EOS_Completed": 148,
   "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 22,
@@ -3973,6 +3973,11 @@
       "Time": "2023-11-20T18:04:18.8885132+00:00",
       "NumProgressed": 8660,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-11-20T19:05:51.0498534+00:00",
+      "NumProgressed": 8661,
+      "NumCompleted": 148
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -3985,7 +3990,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 8140
+      "UsersEstimate": 8141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -3993,7 +3998,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 7707
+      "UsersEstimate": 7708
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -4089,7 +4094,7 @@
       "Name": "Happy Family",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -4137,7 +4142,7 @@
       "Name": "Still Single",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -4159,9 +4164,9 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "7opfcp",
       "Name": "Can You Do This Or Not?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1386
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -4169,7 +4174,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -4193,7 +4198,7 @@
       "Name": "What I Want Is You",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5543
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -4201,7 +4206,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -4249,7 +4254,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -4281,7 +4286,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -4289,7 +4294,7 @@
       "Name": "Worthless Speech",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -4297,7 +4302,7 @@
       "Name": "Drama King",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3811
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -4320,7 +4325,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 8660,
+      "Progressed": 8661,
       "Completed": 148
     }
   ],
@@ -4328,8 +4333,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-19T04:01:05.4941686+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:04:18.8885127+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:05:51.0498529+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.4892963+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:27.8081134+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:04:18.888562+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:57:55.7590665+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:05:51.0498976+00:00"
 }

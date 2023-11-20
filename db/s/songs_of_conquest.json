@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -843,6 +843,11 @@
       "Time": "2023-11-20T14:03:38.5272223+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T19:04:34.1095567+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -959,7 +964,7 @@
       "Name": "Critical Hit",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Deepstrike",
@@ -997,9 +1002,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1183,7 +1188,7 @@
       "Name": "Adept",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WielderLevel2",
@@ -1191,7 +1196,7 @@
       "Name": "Veteran",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WielderLevel3",
@@ -1286,15 +1291,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:03:22.1237019+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:04:34.1095563+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:49.1988481+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:03:22.123736+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:58:28.3565039+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:04:34.1095894+00:00"
 }

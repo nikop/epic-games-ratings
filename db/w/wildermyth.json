@@ -3,11 +3,11 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 107,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1474,
+  "EOS_Progressed": 1475,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1861,6 +1861,11 @@
       "Time": "2023-11-20T18:08:38.7655358+00:00",
       "NumProgressed": 1474,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-20T19:09:50.666151+00:00",
+      "NumProgressed": 1475,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1936,7 +1941,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1944,7 +1949,7 @@
       "Name": "Passing Shadow",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2032,7 +2037,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2040,7 +2045,7 @@
       "Name": "How Romantic!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_maimedHero",
@@ -2064,7 +2069,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2144,7 +2149,7 @@
       "Name": "Daybreak",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2319,15 +2324,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1474,
+      "Progressed": 1475,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:08:38.7655355+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:09:50.6661505+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:23.7351184+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:08:38.7655767+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:57:50.7406678+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:09:50.6661881+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 155,
@@ -1537,9 +1537,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13730,
+  "EOS_Progressed": 13731,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14792,6 +14792,11 @@
       "Time": "2023-11-20T17:08:53.8463644+00:00",
       "NumProgressed": 13730,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-20T19:09:19.7563673+00:00",
+      "NumProgressed": 13731,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14859,7 +14864,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7002
+      "UsersEstimate": 7003
     },
     {
       "ID": "ACH09",
@@ -14915,7 +14920,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH16",
@@ -14947,7 +14952,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH20",
@@ -15082,7 +15087,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13730,
+      "Progressed": 13731,
       "Completed": 53
     }
   ],
@@ -15090,8 +15095,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-20T13:08:04.1380995+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:08:15.5324877+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:09:19.756367+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:04.7531071+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:08:15.5325778+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:57:24.4151643+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:09:19.7564476+00:00"
 }

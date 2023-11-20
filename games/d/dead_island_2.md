@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~939 |
-| Whatever It Takes | 2.00% | ~939 |
-| Pork Chopped | 2.00% | ~939 |
-| Git Gutte! | 1.00% | ~7,214 |
-| Break A Leg | 1.00% | ~7,214 |
-| Coup de Grâce | 1.00% | ~7,214 |
-| Hazardous Materials | 1.00% | ~7,214 |
-| Friends Like These | 1.00% | ~7,214 |
-| Hotel California | 1.00% | ~7,214 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,214 |
-| Welcome To Hell-A | 1.00% | ~7,214 |
+| One of Us | 2.00% | ~940 |
+| Whatever It Takes | 2.00% | ~940 |
+| Pork Chopped | 2.00% | ~940 |
+| Git Gutte! | 1.00% | ~7,215 |
+| Break A Leg | 1.00% | ~7,215 |
+| Coup de Grâce | 1.00% | ~7,215 |
+| Hazardous Materials | 1.00% | ~7,215 |
+| Friends Like These | 1.00% | ~7,215 |
+| Hotel California | 1.00% | ~7,215 |
+| Apex Predator | 1.00% | ~7,215 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,215 |
+| Welcome To Hell-A | 1.00% | ~7,215 |
 | Dr. Reed, I Presume? | 0.90% | ~6,493 |
 | Anger Management | 0.90% | ~6,493 |
 | Bookworm | 0.90% | ~6,493 |
 | But Doctor, I am Butcho | 0.90% | ~6,493 |
-| Apex Predator | 0.90% | ~6,493 |
 | Stacking the Deck | 0.90% | ~6,493 |
 | This is My Weapon | 0.90% | ~6,493 |
-| Can't Handle the Truth | 0.80% | ~5,771 |
-| Like Riding a Bike | 0.80% | ~5,771 |
-| Zombologist | 0.80% | ~5,771 |
-| A Patton Emerges | 0.80% | ~5,771 |
-| Our True Nature | 0.80% | ~5,771 |
+| Can't Handle the Truth | 0.80% | ~5,772 |
+| Like Riding a Bike | 0.80% | ~5,772 |
+| Zombologist | 0.80% | ~5,772 |
+| A Patton Emerges | 0.80% | ~5,772 |
+| Our True Nature | 0.80% | ~5,772 |
 | Perks of the Job | 0.70% | ~5,050 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,050 |
 | Slayer Squad | 0.70% | ~5,050 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,427 (Ranked 20)  
-Completed: 2,420 (0.34%) (Ranked 228)  
+Progressed: 721,458 (Ranked 20)  
+Completed: 2,421 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,10 +271,10 @@ Completed: 2,420 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,427 | 2,420 |
+| 2023-11-20 | 721,458 | 2,421 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
-Sum: 11,582 (Ranked 84)  
+Sum: 11,584 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 554 |
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 501 |
-| This game has Amazing Storytelling | 479 |
+| This game has Amazing Storytelling | 481 |
 | This game is Extremely Fun | 465 |
 | This game is Highly Recommended | 464 |
 | This game has Amazing Characters | 430 |
@@ -503,4 +503,4 @@ Diff (max vs sum): -33
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
-| 2023-11-20 | 4.54 | 7,589 | 11,582 |
+| 2023-11-20 | 4.54 | 7,589 | 11,584 |

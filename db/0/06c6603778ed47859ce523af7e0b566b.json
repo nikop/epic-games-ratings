@@ -180,9 +180,9 @@
       "ID": "Buckets and Bouquets",
       "SetID": "dene75h",
       "Name": "Buckets and Bouquets",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Concerted Effort",
@@ -244,9 +244,9 @@
       "ID": "Fruit Salad",
       "SetID": "dene75h",
       "Name": "Fruit Salad",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Grand Circus",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:05:45.914916+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:07:46.5038463+00:00",
   "LastUpdate_AppInfo": "2023-11-17T20:57:03.0950865+00:00",
-  "LastUpdate_Ratings": "2023-11-20T18:02:29.4736334+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:05:45.9149455+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:03:19.4360832+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:07:46.5038733+00:00"
 }

@@ -1693,17 +1693,17 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 279
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 319
     }
   ],
   "AchievementSets": [
@@ -1718,8 +1718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:07:51.1615116+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:08:46.6324612+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:19.5323392+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:42.0579712+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:07:51.1615358+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:58:18.2920549+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:08:46.632481+00:00"
 }

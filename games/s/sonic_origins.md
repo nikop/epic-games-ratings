@@ -19,7 +19,7 @@ Number of Ratings: 154  (23.09.2022)
 | Bubbly Breath | 57.00% | ~345 |
 | Knuckles the Echidna | 57.00% | ~345 |
 | Miles "Tails" Prower | 57.00% | ~345 |
-| Boss Rush Attempt | 50.00% | ~302 |
+| Boss Rush Attempt | 51.00% | ~309 |
 | Cleared Sonic the Hedgehog | 47.00% | ~284 |
 | Super Sonic | 43.00% | ~260 |
 | Beware Stingers! | 41.00% | ~248 |

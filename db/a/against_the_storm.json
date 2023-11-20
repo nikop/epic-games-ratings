@@ -3269,9 +3269,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17357,
+  "EOS_Progressed": 17358,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13799,6 +13799,11 @@
       "Time": "2023-11-20T17:08:22.5784348+00:00",
       "NumProgressed": 17357,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-20T19:08:38.5391223+00:00",
+      "NumProgressed": 17358,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -13842,7 +13847,7 @@
       "Name": "Beaver Utopia",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "HarpyUtopia",
@@ -14209,15 +14214,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17357,
+      "Progressed": 17358,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-20T16:57:59.3838092+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:07:45.1306027+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:08:38.5391217+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:59.1520639+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:07:45.1307047+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:58:43.0410387+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:08:38.5392446+00:00"
 }

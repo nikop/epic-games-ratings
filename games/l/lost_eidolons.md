@@ -6,7 +6,7 @@ Rating: 4.35 (Ranked 792)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The First Step | 68.00% | ~767 |
-| First Blood | 64.00% | ~722 |
+| First Blood | 65.00% | ~733 |
 | Ready to Learn | 62.00% | ~699 |
 | Monster Hunter | 53.00% | ~598 |
 | Earning Trust | 50.00% | ~564 |

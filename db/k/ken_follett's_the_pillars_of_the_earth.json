@@ -5,10 +5,10 @@
   "Ranking_Rating": 566,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 400,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,10 +558,10 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16559,
+  "EOS_Progressed": 16560,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 172,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 171,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
@@ -14548,6 +14548,11 @@
       "Time": "2023-11-20T18:04:30.3989534+00:00",
       "NumProgressed": 16559,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-20T19:06:05.6401824+00:00",
+      "NumProgressed": 16560,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14599,7 +14604,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5464
+      "UsersEstimate": 5465
     },
     {
       "ID": "tpote_achievement_15",
@@ -14647,7 +14652,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5464
+      "UsersEstimate": 5465
     },
     {
       "ID": "tpote_achievement_20",
@@ -14687,7 +14692,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "tpote_achievement_25",
@@ -14871,7 +14876,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "tpote_achievement_9",
@@ -14886,15 +14891,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16559,
+      "Progressed": 16560,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:04:30.3989529+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:06:05.640182+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:58:16.4945883+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:04:30.3990445+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:59:06.1764503+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:06:05.6402718+00:00"
 }

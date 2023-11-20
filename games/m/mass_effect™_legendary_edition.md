@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,245 |
 | Spectre Inductee | 80.00% | ~1,071 |
-| Medal of Exploration I | 71.00% | ~951 |
+| Medal of Exploration I | 72.00% | ~964 |
 | Recruit | 68.00% | ~911 |
 | Search and Rescue | 67.00% | ~897 |
 | Quarian Ally | 64.00% | ~857 |
@@ -26,9 +26,9 @@
 | Paramour I | 43.00% | ~576 |
 | Colonial Savior | 43.00% | ~576 |
 | Missing in Action | 43.00% | ~576 |
+| Scientist | 43.00% | ~576 |
 | Very Elusive | 42.00% | ~562 |
 | Merciless | 42.00% | ~562 |
-| Scientist | 42.00% | ~562 |
 | Krogan Ally | 41.00% | ~549 |
 | Sentinel Ally | 40.00% | ~536 |
 | Head Hunter | 39.00% | ~522 |
@@ -38,7 +38,7 @@
 | The Professor | 37.00% | ~495 |
 | The Archangel | 36.00% | ~482 |
 | Power Full | 36.00% | ~482 |
-| The Convict | 34.00% | ~455 |
+| The Convict | 35.00% | ~469 |
 | Colony Defense | 33.00% | ~442 |
 | The Krogan | 33.00% | ~442 |
 | Ghost Ship | 32.00% | ~428 |
@@ -47,13 +47,13 @@
 | A Personal Touch | 31.00% | ~415 |
 | The Assassin | 31.00% | ~415 |
 | The Justicar | 31.00% | ~415 |
+| Battlemaster | 31.00% | ~415 |
 | Ghost of the Father | 31.00% | ~415 |
 | The Prodigal | 31.00% | ~415 |
 | Galactic Explorer | 31.00% | ~415 |
 | Driven | 31.00% | ~415 |
 | Shopaholic | 31.00% | ~415 |
 | Completionist | 30.00% | ~402 |
-| Battlemaster | 30.00% | ~402 |
 | Catharsis | 30.00% | ~402 |
 | The Cure | 30.00% | ~402 |
 | Big Game Hunter | 30.00% | ~402 |

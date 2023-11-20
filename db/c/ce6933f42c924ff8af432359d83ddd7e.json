@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1124,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -2373,9 +2373,9 @@
       "ID": "ACH_FRUIT_BOWLS",
       "SetID": "6f5dahd",
       "Name": "An apple a day",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 596
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -2405,9 +2405,9 @@
       "ID": "ACH_SANDWICHES",
       "SetID": "6f5dahd",
       "Name": "Food lover",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 686
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -2436,8 +2436,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:08:18.2809722+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:09:23.3276958+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:58:20.6012148+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:08:18.2809913+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:59:11.8400645+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:09:23.3277152+00:00"
 }

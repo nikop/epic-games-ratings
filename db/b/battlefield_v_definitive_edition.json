@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20599,
+  "EOS_Progressed": 20600,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7238,6 +7238,11 @@
       "Time": "2023-11-20T18:08:25.8082258+00:00",
       "NumProgressed": 20599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T19:09:33.4205567+00:00",
+      "NumProgressed": 20600,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -7282,7 +7287,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 15243
+      "UsersEstimate": 15244
     },
     {
       "ID": "achievement_14",
@@ -7298,7 +7303,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 10917
+      "UsersEstimate": 10918
     },
     {
       "ID": "achievement_16",
@@ -7306,7 +7311,7 @@
       "Name": "Heads Down",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 15037
+      "UsersEstimate": 15038
     },
     {
       "ID": "achievement_17",
@@ -7346,7 +7351,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 18951
+      "UsersEstimate": 18952
     },
     {
       "ID": "achievement_21",
@@ -7354,7 +7359,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 14419
+      "UsersEstimate": 14420
     },
     {
       "ID": "achievement_3",
@@ -7402,7 +7407,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 15037
+      "UsersEstimate": 15038
     },
     {
       "ID": "achievement_9",
@@ -7417,13 +7422,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 20599,
+      "Progressed": 20600,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:08:25.8082254+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:09:33.4205563+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:02.3555074+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:57:56.9579054+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:08:25.808269+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:58:39.7570758+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:09:33.4206035+00:00"
 }

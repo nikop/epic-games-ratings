@@ -13,7 +13,7 @@ Rating: 4.67 (Ranked 273)
 | Familiar Faces | 48.00% | ~2,798 |
 | Sharing the Love | 42.00% | ~2,448 |
 | Going the Extra Mile | 42.00% | ~2,448 |
-| Hitting a Season | 37.00% | ~2,157 |
+| Hitting a Season | 38.00% | ~2,215 |
 | A Dozen Pieces | 33.00% | ~1,924 |
 | Challenge Yourself | 33.00% | ~1,924 |
 | Making History | 31.00% | ~1,807 |
@@ -126,8 +126,8 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-20 | 5,829 | 0 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 468)  
-Sum: 100 (Ranked 444)  
-Diff (max vs sum): 24  
+Sum: 100 (Ranked 443)  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

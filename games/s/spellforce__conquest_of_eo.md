@@ -15,7 +15,7 @@
 | Mine! | 71.00% | ~15 |
 | Friend of Lyraine | 67.00% | ~14 |
 | Fly the friendly Sky | 67.00% | ~14 |
-| The Circle | 57.00% | ~12 |
+| The Circle | 62.00% | ~13 |
 | Alchemist's Apprentice | 57.00% | ~12 |
 | Get out of here! | 57.00% | ~12 |
 | Redecorating | 52.00% | ~11 |

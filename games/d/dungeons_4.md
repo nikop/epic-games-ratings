@@ -22,9 +22,9 @@
 | The Ascent | 49.00% | ~155 |
 | It's Warm and Cozy at Home | 49.00% | ~155 |
 | YOU SHALL NOT PASS! | 46.00% | ~145 |
-| Hard Work | 45.00% | ~142 |
-| The Big Eaty | 43.00% | ~136 |
-| Pure Dynamite! | 41.00% | ~130 |
+| Hard Work | 46.00% | ~145 |
+| The Big Eaty | 44.00% | ~139 |
+| Pure Dynamite! | 42.00% | ~133 |
 | “… like son” | 38.00% | ~120 |
 | Mana Cannon | 35.00% | ~111 |
 | Dungeonlord Gorgu | 33.00% | ~104 |
@@ -34,10 +34,10 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~73 |
 | Unstoppable Horde | 23.00% | ~73 |
 | All’s Well That Ends Evil | 23.00% | ~73 |
+| Hungry, Hungry Gorgu! | 22.00% | ~70 |
 | Master of the Undead | 22.00% | ~70 |
-| Hungry, Hungry Gorgu! | 21.00% | ~66 |
+| The Duel | 20.00% | ~63 |
 | Forbidden Knowledge | 19.00% | ~60 |
-| The Duel | 19.00% | ~60 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~57 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~51 |
 | Stop Tanos! | 16.00% | ~51 |
@@ -49,14 +49,14 @@
 | Sabotage! | 10.00% | ~32 |
 | Raiders of the Lost Stone | 10.00% | ~32 |
 | Brimstone Shaken, Not Stirred | 10.00% | ~32 |
-| The Rune Sockets of Finitude (Part 1) | 8.00% | ~25 |
+| The Rune Sockets of Finitude (Part 1) | 9.00% | ~28 |
 | Mirror, Mirror | 7.00% | ~22 |
 | Untouchable | 7.00% | ~22 |
 | Lavalumps on Ice! | 7.00% | ~22 |
 | Rubble and Ashes | 7.00% | ~22 |
 | To Infinity And Beyond! | 7.00% | ~22 |
+| The Rune Sockets of Finitude (Part 2) | 7.00% | ~22 |
 | To the Max! | 6.00% | ~19 |
-| The Rune Sockets of Finitude (Part 2) | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
 | The Last Stand - This Time For Real! | 5.00% | ~16 |

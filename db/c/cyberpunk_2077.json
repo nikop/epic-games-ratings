@@ -15378,10 +15378,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 358377,
       "NumberOfAwardsMax": 106367
+    },
+    {
+      "Time": "2023-11-20T19:00:50.6034107+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 358439,
+      "NumberOfAwardsMax": 106367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358377,
+  "NumberOfAwards": 358439,
   "NumberOfAwardsMax": 106367,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15401,7 +15407,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21275
+      "Count": 21337
     },
     {
       "Text": "This game is Relaxing",
@@ -15458,10 +15464,10 @@
       "Count": 13257
     }
   ],
-  "EOS_Progressed": 897509,
-  "EOS_Completed": 2793,
-  "EOS_NewPlayers": 938,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 897513,
+  "EOS_Completed": 2794,
+  "EOS_NewPlayers": 935,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -39753,6 +39759,11 @@
       "Time": "2023-11-20T18:03:54.7627647+00:00",
       "NumProgressed": 897509,
       "NumCompleted": 2793
+    },
+    {
+      "Time": "2023-11-20T19:05:18.4407863+00:00",
+      "NumProgressed": 897513,
+      "NumCompleted": 2794
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -40093,7 +40104,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35900
+      "UsersEstimate": 35901
     },
     {
       "ID": "YipMan",
@@ -40300,21 +40311,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897509,
-      "Completed": 2793
+      "Progressed": 897513,
+      "Completed": 2794
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26132,
+      "Progressed": 26136,
       "Completed": 10239
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-20T16:59:32.523822+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:03:54.7627642+00:00",
+  "LastChanged": "2023-11-20T19:00:50.6034105+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:05:18.440786+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:59:28.8359644+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:03:54.7628931+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:00:50.6034117+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:05:18.4409082+00:00"
 }

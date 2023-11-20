@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 29.00% | ~54 |
+| The Camp | 30.00% | ~56 |
 | The City | 27.00% | ~50 |
 | The field base | 26.00% | ~48 |
 | The Teleprobe | 25.00% | ~46 |
 | Survivors | 23.00% | ~43 |
-| The Condor | 20.00% | ~37 |
+| The Condor | 21.00% | ~39 |
 | The End | 19.00% | ~35 |
 | The Necroevolution | 18.00% | ~33 |
 | On her own | 13.00% | ~24 |
@@ -20,7 +20,7 @@
 | Flying Objects Operator | 11.00% | ~20 |
 | Beyond divisions | 11.00% | ~20 |
 | Fierce fight | 10.00% | ~18 |
-| Evacuation | 9.00% | ~17 |
+| Evacuation | 10.00% | ~18 |
 | I remember everything! | 8.00% | ~15 |
 | Violent solution | 7.00% | ~13 |
 | The Invincible | 5.00% | ~9 |

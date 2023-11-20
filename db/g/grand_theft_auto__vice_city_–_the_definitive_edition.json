@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 524,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11048,
+  "EOS_Progressed": 11049,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13044,6 +13044,11 @@
       "Time": "2023-11-20T11:07:59.8903786+00:00",
       "NumProgressed": 11048,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-20T19:08:48.1863192+00:00",
+      "NumProgressed": 11049,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13159,7 +13164,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4641
     },
     {
       "ID": "ACH15",
@@ -13231,7 +13236,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "ACH24",
@@ -13326,7 +13331,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11048,
+      "Progressed": 11049,
       "Completed": 65
     }
   ],
@@ -13334,8 +13339,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:07:52.2678601+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:08:48.1863187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:59:10.2200603+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:07:52.2679431+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:00:23.6368732+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:08:48.1864011+00:00"
 }

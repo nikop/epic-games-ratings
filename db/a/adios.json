@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78828,
+  "EOS_Progressed": 78830,
   "EOS_Completed": 848,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24057,6 +24057,11 @@
       "Time": "2023-11-20T18:04:28.3742295+00:00",
       "NumProgressed": 78828,
       "NumCompleted": 848
+    },
+    {
+      "Time": "2023-11-20T19:06:02.8053832+00:00",
+      "NumProgressed": 78830,
+      "NumCompleted": 848
     }
   ],
   "TotalAchievements": 25,
@@ -24100,7 +24105,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17342
+      "UsersEstimate": 17343
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24164,7 +24169,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "Master, Commander",
@@ -24188,7 +24193,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14977
+      "UsersEstimate": 14978
     },
     {
       "ID": "Nice Try",
@@ -24196,7 +24201,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12613
     },
     {
       "ID": "Nothing Left to Say",
@@ -24267,7 +24272,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78828,
+      "Progressed": 78830,
       "Completed": 848
     }
   ],
@@ -24275,8 +24280,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:04:28.3742289+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:06:02.8053826+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:58:47.8625895+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:04:28.3743486+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:59:51.5549511+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:06:02.8054926+00:00"
 }

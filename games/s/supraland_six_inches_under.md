@@ -12,7 +12,7 @@ Number of Ratings: 209  (23.09.2022)
 | Speed | 97.00% | ~2,241 |
 | High Jump | 96.00% | ~2,218 |
 | Knee bending | 96.00% | ~2,218 |
-| Pickaxe | 94.00% | ~2,171 |
+| Pickaxe | 95.00% | ~2,194 |
 | Revenge | 94.00% | ~2,171 |
 | Cage Town | 94.00% | ~2,171 |
 | Force Beam | 93.00% | ~2,148 |
@@ -247,8 +247,8 @@ Completed: 287 (12.42%) (Ranked 34)
 | 2023-11-20 | 2,310 | 287 |
 ## Awards
 Max (Challenging Puzzles): 105  (Ranked 354)  
-Sum: 105 (Ranked 443)  
-Diff (max vs sum): -89  
+Sum: 105 (Ranked 442)  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 105 |

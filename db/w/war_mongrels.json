@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2326,9 +2326,9 @@
       "ID": "ACH_COLL_CH08",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VIII",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_COLL_CH09",
@@ -2622,8 +2622,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-18T22:59:33.9450808+00:00",
-  "LastChanged_Achievements": "2023-11-20T18:08:27.8660746+00:00",
+  "LastChanged_Achievements": "2023-11-20T19:09:36.2040093+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.3118815+00:00",
-  "LastUpdate_Ratings": "2023-11-20T18:00:01.579726+00:00",
-  "LastUpdate_Achievements": "2023-11-20T18:08:27.8661184+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:01:39.1416002+00:00",
+  "LastUpdate_Achievements": "2023-11-20T19:09:36.2040521+00:00"
 }
