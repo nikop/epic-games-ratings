@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3692,
+  "EOS_Progressed": 3693,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -2349,6 +2349,11 @@
       "Time": "2023-11-20T07:07:57.3899382+00:00",
       "NumProgressed": 3692,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-20T08:08:42.7612123+00:00",
+      "NumProgressed": 3693,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2401,7 +2406,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -2488,14 +2493,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 3692,
+      "Progressed": 3693,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:07:57.3899378+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:08:42.761212+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:14.7075005+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:07:57.3899542+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:58:43.4428106+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:08:42.7612463+00:00"
 }

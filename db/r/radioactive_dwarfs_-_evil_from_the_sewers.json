@@ -2,10 +2,10 @@
   "ID": "cdc8468cc97240d98a7d2f6aa62ac2c5",
   "Name": "Radioactive Dwarfs - Evil From The Sewers",
   "ProductSlug": "radioactive-dwarfs-evil-from-the-sewers-b43f18",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2021-08-16T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.3138785+00:00",
   "LastChanged": "2023-03-31T05:57:49.3138787+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.9135893+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:59:15.6728658+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:03:06.8209274+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:55.3001806+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:03:50.6301209+00:00"
 }

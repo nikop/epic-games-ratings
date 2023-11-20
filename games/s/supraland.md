@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~726,075 |
+| Out of bed | 99.00% | ~726,076 |
 | The Blues | 85.00% | ~623,398 |
-| Fast | 66.00% | ~484,050 |
-| Healthbar | 55.00% | ~403,375 |
+| Fast | 66.00% | ~484,051 |
+| Healthbar | 55.00% | ~403,376 |
 | Force Cube | 53.00% | ~388,707 |
-| Double Jump | 48.00% | ~352,036 |
-| Regeneration | 47.00% | ~344,702 |
+| Double Jump | 48.00% | ~352,037 |
+| Regeneration | 47.00% | ~344,703 |
 | Triple Jump | 43.00% | ~315,366 |
 | Climb the hill | 42.00% | ~308,032 |
 | Through the fire pipe | 39.00% | ~286,030 |
-| MacGuffin | 38.00% | ~278,695 |
-| Just once | 37.00% | ~271,361 |
+| MacGuffin | 38.00% | ~278,696 |
+| Just once | 37.00% | ~271,362 |
 | Armor | 30.00% | ~220,023 |
 | True holy spirit | 28.00% | ~205,355 |
-| That's how electronics work obviously | 27.00% | ~198,020 |
+| That's how electronics work obviously | 27.00% | ~198,021 |
 | Force Cube Catapult | 25.00% | ~183,352 |
 | Holy Sword | 23.00% | ~168,684 |
 | Telefrag | 23.00% | ~168,684 |
@@ -29,8 +29,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Double Health | 19.00% | ~139,348 |
 | Green Keycard | 18.00% | ~132,014 |
 | Buckle | 17.00% | ~124,680 |
-| Rattle Hag | 16.00% | ~117,345 |
-| All Shells | 15.00% | ~110,011 |
+| Rattle Hag | 16.00% | ~117,346 |
+| All Shells | 15.00% | ~110,012 |
 | Beam | 14.00% | ~102,677 |
 | Health Drink | 13.00% | ~95,343 |
 | Helped a star | 13.00% | ~95,343 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,409 (Ranked 19)  
+Progressed: 733,410 (Ranked 19)  
 Completed: 762 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 762 (0.10%) (Ranked 279)
 | 2023-11-17 | 733,096 | 761 |
 | 2023-11-18 | 733,252 | 761 |
 | 2023-11-19 | 733,388 | 762 |
-| 2023-11-20 | 733,409 | 762 |
+| 2023-11-20 | 733,410 | 762 |
 ## Awards
 Max (Challenging Puzzles): 7,729  (Ranked 48)  
 Sum: 10,082 (Ranked 91)  

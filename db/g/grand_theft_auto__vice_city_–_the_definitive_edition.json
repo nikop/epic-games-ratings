@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -859,7 +859,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11045,
+  "EOS_Progressed": 11046,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
@@ -13029,6 +13029,11 @@
       "Time": "2023-11-20T01:55:59.1257523+00:00",
       "NumProgressed": 11045,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-20T08:08:47.5655534+00:00",
+      "NumProgressed": 11046,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13056,7 +13061,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH04",
@@ -13200,7 +13205,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "ACH22",
@@ -13208,7 +13213,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ACH23",
@@ -13311,7 +13316,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11045,
+      "Progressed": 11046,
       "Completed": 65
     }
   ],
@@ -13319,8 +13324,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:08:01.572855+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:08:47.565553+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:57.7695659+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:08:01.5729353+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:34.1873517+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:08:47.5656418+00:00"
 }

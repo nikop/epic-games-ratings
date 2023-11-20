@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15428,10 +15428,10 @@
       "Count": 13195
     }
   ],
-  "EOS_Progressed": 897462,
+  "EOS_Progressed": 897464,
   "EOS_Completed": 2790,
-  "EOS_NewPlayers": 966,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 964,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -39668,6 +39668,11 @@
       "Time": "2023-11-20T07:03:40.8582033+00:00",
       "NumProgressed": 897462,
       "NumCompleted": 2790
+    },
+    {
+      "Time": "2023-11-20T08:04:28.7184632+00:00",
+      "NumProgressed": 897464,
+      "NumCompleted": 2790
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -40008,7 +40013,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35898
+      "UsersEstimate": 35899
     },
     {
       "ID": "YipMan",
@@ -40215,21 +40220,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897462,
+      "Progressed": 897464,
       "Completed": 2790
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26085,
+      "Progressed": 26087,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-20T05:00:32.6544517+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:03:40.858203+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:04:28.7184629+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:59:15.7601951+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:03:40.8583326+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:55.3942488+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:04:28.7186235+00:00"
 }

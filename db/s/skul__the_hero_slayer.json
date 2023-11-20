@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1091,9 +1091,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 8307,
+  "EOS_Progressed": 8308,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5381,6 +5381,11 @@
       "Time": "2023-11-20T07:04:46.4028507+00:00",
       "NumProgressed": 8307,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-20T08:05:42.8826129+00:00",
+      "NumProgressed": 8308,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5416,7 +5421,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5233
+      "UsersEstimate": 5234
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5488,7 +5493,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "LeoniasFall_2",
@@ -5496,7 +5501,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "Manners",
@@ -5512,7 +5517,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "SavedElderEnt",
@@ -5520,7 +5525,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5528,7 +5533,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "SkeletonKing",
@@ -5544,7 +5549,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "TheLegendBegins",
@@ -5560,7 +5565,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5576,22 +5581,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6978
+      "UsersEstimate": 6979
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8307,
+      "Progressed": 8308,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-18T20:01:19.6525053+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:04:46.4028504+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:05:42.8826126+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.7381553+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:57:15.7743552+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:04:46.4028855+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:57:35.1160073+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:05:42.8826482+00:00"
 }

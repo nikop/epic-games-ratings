@@ -12,8 +12,8 @@
 | The Plains of Strothalm | 73.00% | ~228 |
 | Experienced Thalya | 70.00% | ~219 |
 | Thalya's Concentrated Fury | 68.00% | ~213 |
+| Bad Elves Go Everywhere | 66.00% | ~207 |
 | Master of Magic | 65.00% | ~203 |
-| Bad Elves Go Everywhere | 65.00% | ~203 |
 | Heroes’ Gorge | 61.00% | ~191 |
 | Magic Accidents | 59.00% | ~185 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~185 |
@@ -23,7 +23,7 @@
 | It's Warm and Cozy at Home | 48.00% | ~150 |
 | YOU SHALL NOT PASS! | 46.00% | ~144 |
 | Hard Work | 44.00% | ~138 |
-| The Big Eaty | 42.00% | ~131 |
+| The Big Eaty | 43.00% | ~135 |
 | Pure Dynamite! | 41.00% | ~128 |
 | “… like son” | 37.00% | ~116 |
 | Mana Cannon | 35.00% | ~110 |
@@ -31,8 +31,8 @@
 | The Cathedral of Light | 31.00% | ~97 |
 | Shame! Shame! Shame! | 31.00% | ~97 |
 | Tanos' Crusade Against Thalya | 27.00% | ~85 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~72 |
 | Unstoppable Horde | 23.00% | ~72 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~69 |
 | All’s Well That Ends Evil | 22.00% | ~69 |
 | Master of the Undead | 21.00% | ~66 |
 | Hungry, Hungry Gorgu! | 20.00% | ~63 |
@@ -40,7 +40,7 @@
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
 | The Duel | 17.00% | ~53 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
-| Stop Tanos! | 15.00% | ~47 |
+| Stop Tanos! | 16.00% | ~50 |
 | If Looks Could Kill | 15.00% | ~47 |
 | The Finitude Drill | 13.00% | ~41 |
 | Doom Hill | 11.00% | ~34 |

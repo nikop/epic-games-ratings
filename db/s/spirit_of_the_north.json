@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74693,
+  "EOS_Progressed": 74695,
   "EOS_Completed": 394,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -23868,6 +23868,11 @@
       "Time": "2023-11-20T07:08:23.3964723+00:00",
       "NumProgressed": 74693,
       "NumCompleted": 394
+    },
+    {
+      "Time": "2023-11-20T08:09:11.877988+00:00",
+      "NumProgressed": 74695,
+      "NumCompleted": 394
     }
   ],
   "TotalAchievements": 24,
@@ -23887,7 +23892,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16432
+      "UsersEstimate": 16433
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -23895,7 +23900,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50791
+      "UsersEstimate": 50793
     },
     {
       "ID": "BEST_FRIENDS",
@@ -23903,7 +23908,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16432
+      "UsersEstimate": 16433
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -23911,7 +23916,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19420
+      "UsersEstimate": 19421
     },
     {
       "ID": "ERADICATE",
@@ -23927,7 +23932,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20914
+      "UsersEstimate": 20915
     },
     {
       "ID": "FOXIN_AROUND",
@@ -23935,7 +23940,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21661
+      "UsersEstimate": 21662
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -23959,7 +23964,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39587
+      "UsersEstimate": 39588
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -23975,7 +23980,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -23991,7 +23996,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "OLD_COMPANION",
@@ -23999,7 +24004,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6722
+      "UsersEstimate": 6723
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -24007,7 +24012,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -24015,7 +24020,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5975
+      "UsersEstimate": 5976
     },
     {
       "ID": "SPIRIT_BARK",
@@ -24070,7 +24075,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74693,
+      "Progressed": 74695,
       "Completed": 394
     }
   ],
@@ -24078,8 +24083,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:08:23.3964719+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:09:11.8779877+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:59:24.6627941+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:08:23.3966118+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:00:05.8534168+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:09:11.8780896+00:00"
 }

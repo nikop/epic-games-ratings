@@ -2,10 +2,10 @@
   "ID": "03849ec647f1407a9e8558559248913e",
   "Name": "Paw Paw Destiny",
   "ProductSlug": "paw-paw-destiny-843848",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-11T15:00:00+00:00",
     "PcReleaseDate": "2023-09-11T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:59:15.4921601+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:57:23.0559523+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:04:14.2834723+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:57:43.7786339+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:05:06.4801113+00:00"
 }

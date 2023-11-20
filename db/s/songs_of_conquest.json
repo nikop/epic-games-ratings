@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -823,6 +823,11 @@
       "Time": "2023-11-20T07:03:09.5431123+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T08:03:53.7187804+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -859,7 +864,7 @@
       "Name": "Dressed For Success",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AttackCount",
@@ -939,7 +944,7 @@
       "Name": "Critical Hit",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Deepstrike",
@@ -1107,7 +1112,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SorcerousSpree",
@@ -1161,9 +1166,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "WielderLevel2",
@@ -1179,7 +1184,7 @@
       "Name": "Master",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WielderLevel4",
@@ -1195,7 +1200,7 @@
       "Name": "Humiliation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1211,7 +1216,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -1266,15 +1271,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:03:09.5431119+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:03:53.71878+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:57:40.0021494+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:03:09.5431528+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:58:02.3262645+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:03:53.718813+00:00"
 }

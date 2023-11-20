@@ -2,10 +2,10 @@
   "ID": "342f562fb76f4b098138f1d838bc2169",
   "Name": "Chronicles Of Galdurvale",
   "ProductSlug": "chronicles-of-galdurvale-5d9cf0",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-05-07T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-14T17:57:10.9955404+00:00",
-  "LastUpdate_Ratings": "2023-11-20T07:02:28.8842867+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:05:59.2077259+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:03:04.8013832+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:07:03.7714008+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2086,9 +2086,9 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 214845,
+  "EOS_Progressed": 214850,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26531,6 +26531,11 @@
       "Time": "2023-11-20T07:02:45.2548682+00:00",
       "NumProgressed": 214845,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-20T08:03:25.9008018+00:00",
+      "NumProgressed": 214850,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26542,7 +26547,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21484
+      "UsersEstimate": 21485
     },
     {
       "ID": "AtheistOx",
@@ -26614,7 +26619,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25781
+      "UsersEstimate": 25782
     },
     {
       "ID": "HappyLittleAccidents",
@@ -26630,7 +26635,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15039
+      "UsersEstimate": 15040
     },
     {
       "ID": "HighFiveTheMoon",
@@ -26646,7 +26651,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15039
+      "UsersEstimate": 15040
     },
     {
       "ID": "ItsRainingMen",
@@ -26654,7 +26659,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "Jonin",
@@ -26662,7 +26667,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15039
+      "UsersEstimate": 15040
     },
     {
       "ID": "Mercyful",
@@ -26782,7 +26787,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "StonedOx",
@@ -26822,7 +26827,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6445
+      "UsersEstimate": 6446
     },
     {
       "ID": "Thorough",
@@ -26830,7 +26835,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21484
+      "UsersEstimate": 21485
     },
     {
       "ID": "TimeParadox",
@@ -26886,22 +26891,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 15039
+      "UsersEstimate": 15040
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 214845,
+      "Progressed": 214850,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-19T17:58:18.266534+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:02:45.2548679+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:03:25.9008013+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:29.8570828+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:02:45.2550333+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:01.4847733+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:03:25.9009568+00:00"
 }

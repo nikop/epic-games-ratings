@@ -2,10 +2,10 @@
   "ID": "fbb8cd7f211345bab8e723a90b0fd8cf",
   "Name": "FROGUE",
   "ProductSlug": "frogue-c91fc5",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:57:58.8473485+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:59:06.4026021+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:03:53.2001438+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:44.3624668+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:04:42.5831576+00:00"
 }

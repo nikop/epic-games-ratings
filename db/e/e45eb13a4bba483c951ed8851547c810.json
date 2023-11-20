@@ -2,10 +2,10 @@
   "ID": "e45eb13a4bba483c951ed8851547c810",
   "Name": "Civil War: 1862",
   "ProductSlug": "civil-war-1862-f542d2",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-31T11:00:00+00:00",
     "PcReleaseDate": "2016-10-06T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T22:58:11.4690201+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.2066206+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:02:54.3972593+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:08:23.660877+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:57:17.687592+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:09:12.1899876+00:00"
 }

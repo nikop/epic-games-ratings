@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1864,
+  "EOS_Progressed": 1865,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7022,6 +7022,11 @@
       "Time": "2023-11-20T06:05:13.1988996+00:00",
       "NumProgressed": 1864,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T08:05:24.2343795+00:00",
+      "NumProgressed": 1865,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7041,7 +7046,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7137,7 +7142,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7336,7 +7341,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1864,
+      "Progressed": 1865,
       "Completed": 1
     }
   ],
@@ -7344,8 +7349,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-19T22:59:32.4737198+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:04:29.7385208+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:05:24.2343791+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:45.1710661+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:41.5633012+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:04:29.7385861+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:15.1406374+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:05:24.2344473+00:00"
 }

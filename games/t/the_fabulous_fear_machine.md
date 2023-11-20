@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 8.00% | ~3 |
-| You have three wishes left | 8.00% | ~3 |
+| Master trainee | 11.00% | ~4 |
+| You have three wishes left | 11.00% | ~4 |
 | A continent with chemistry | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
 | Fanatacism is... poisonous | 5.00% | ~2 |
@@ -52,7 +52,7 @@
 | A new Hindenburg | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 508)  
+Progressed: 38 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,3 +77,4 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-11 | 35 | 0 |
 | 2023-11-14 | 36 | 0 |
 | 2023-11-16 | 37 | 0 |
+| 2023-11-20 | 38 | 0 |

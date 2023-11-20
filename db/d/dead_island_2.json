@@ -6699,10 +6699,10 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 721213,
-  "EOS_Completed": 2414,
-  "EOS_NewPlayers": 3449,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 721225,
+  "EOS_Completed": 2415,
+  "EOS_NewPlayers": 3454,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -31139,6 +31139,11 @@
       "Time": "2023-11-20T07:03:04.3086494+00:00",
       "NumProgressed": 721213,
       "NumCompleted": 2414
+    },
+    {
+      "Time": "2023-11-20T08:03:47.869108+00:00",
+      "NumProgressed": 721225,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 51,
@@ -31198,7 +31203,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ach_bookworm",
@@ -31230,7 +31235,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -31246,7 +31251,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ach_explorer",
@@ -31366,7 +31371,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ach_magnum_opus",
@@ -31398,7 +31403,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ach_salvation",
@@ -31557,13 +31562,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721213,
-      "Completed": 2414
+      "Progressed": 721225,
+      "Completed": 2415
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46755,
+      "Progressed": 46767,
       "Completed": 36573
     }
   ],
@@ -31571,8 +31576,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-20T01:48:09.8191041+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:03:04.3086491+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:03:47.8691077+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:59:59.5629813+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:03:04.3088177+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:00:53.1759969+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:03:47.869258+00:00"
 }

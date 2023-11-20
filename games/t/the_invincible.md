@@ -22,7 +22,7 @@
 | Fierce fight | 9.00% | ~16 |
 | Evacuation | 9.00% | ~16 |
 | I remember everything! | 8.00% | ~15 |
-| Violent solution | 6.00% | ~11 |
+| Violent solution | 7.00% | ~13 |
 | The Invincible | 5.00% | ~9 |
 | Innate curiosity | 5.00% | ~9 |
 | Ubiquitous holes | 3.00% | ~5 |

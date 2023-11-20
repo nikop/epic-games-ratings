@@ -2,10 +2,10 @@
   "ID": "23327b2a52e14dde9fdbe9a2e8c085fe",
   "Name": "Uncle Chop\u0027s Rocket Shop",
   "ProductSlug": "uncle-chops-rocket-shop-ed20e6",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.989874+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:57:24.7704073+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:05:47.1565241+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:57:45.8089828+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:06:50.47273+00:00"
 }

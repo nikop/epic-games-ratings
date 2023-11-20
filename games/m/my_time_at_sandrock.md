@@ -17,13 +17,13 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 67.00% | ~247 |
 | Pack Mule | 64.00% | ~236 |
 | Diamonds are Forever | 64.00% | ~236 |
-| Unboxing | 61.00% | ~224 |
+| Unboxing | 62.00% | ~228 |
 | Chatterbox | 56.00% | ~206 |
 | Big Game Hunter | 55.00% | ~202 |
 | First Love | 54.00% | ~199 |
 | Financially Secure | 53.00% | ~195 |
 | Got Served | 53.00% | ~195 |
-| I Do! | 52.00% | ~191 |
+| I Do! | 53.00% | ~195 |
 | Happier-est Place on Earth | 50.00% | ~184 |
 | You Don't Win Friends With Salad | 50.00% | ~184 |
 | Call Me Fishmael | 49.00% | ~180 |
@@ -41,7 +41,7 @@ Number of Ratings: 892  (23.09.2022)
 | Knowledge is Power | 41.00% | ~151 |
 | Better Late than Never | 40.00% | ~147 |
 | Elementary, My Dear | 39.00% | ~144 |
-| Lifeline Pipeline | 37.00% | ~136 |
+| Lifeline Pipeline | 38.00% | ~140 |
 | Who Ya Gonna Call...? | 37.00% | ~136 |
 | Jewel of the Eufaula | 36.00% | ~132 |
 | Officially Official | 36.00% | ~132 |

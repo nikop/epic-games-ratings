@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8958,7 +8958,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65473,
+  "EOS_Progressed": 65477,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
@@ -31443,6 +31443,11 @@
       "Time": "2023-11-20T07:08:49.9012296+00:00",
       "NumProgressed": 65473,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T08:09:41.8723249+00:00",
+      "NumProgressed": 65477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31454,7 +31459,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8511
+      "UsersEstimate": 8512
     },
     {
       "ID": "Apple of my eye",
@@ -31534,7 +31539,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Dynasty",
@@ -31542,7 +31547,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Entrepreneur",
@@ -31582,7 +31587,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8511
+      "UsersEstimate": 8512
     },
     {
       "ID": "Great Granny",
@@ -31630,7 +31635,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "Jack of All Trades",
@@ -31646,7 +31651,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11785
+      "UsersEstimate": 11786
     },
     {
       "ID": "Kingslayer",
@@ -31678,7 +31683,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21606
+      "UsersEstimate": 21607
     },
     {
       "ID": "Lawbringer",
@@ -31686,7 +31691,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26189
+      "UsersEstimate": 26191
     },
     {
       "ID": "Lawmaker",
@@ -31790,7 +31795,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "Swordbearer",
@@ -31798,7 +31803,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "The king is pleased",
@@ -31806,7 +31811,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12440
+      "UsersEstimate": 12441
     },
     {
       "ID": "This Is Our Land",
@@ -31814,7 +31819,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8511
+      "UsersEstimate": 8512
     },
     {
       "ID": "This is Sparta",
@@ -31854,22 +31859,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65473,
+      "Progressed": 65477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-19T20:59:10.3725617+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:08:49.9012293+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:09:41.8723245+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:30.336321+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:08:49.90137+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:01.9046128+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:09:41.8724327+00:00"
 }

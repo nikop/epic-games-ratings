@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1328,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -3884,6 +3884,11 @@
       "Time": "2023-11-20T06:09:43.2511896+00:00",
       "NumProgressed": 1328,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T08:09:50.2693054+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4120,7 +4125,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "achievement_36",
@@ -4136,7 +4141,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_38",
@@ -4160,7 +4165,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_40",
@@ -4399,13 +4404,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1328,
+      "Progressed": 1329,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1328,
+      "Progressed": 1329,
       "Completed": 1
     }
   ],
@@ -4413,8 +4418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:08:57.7487604+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:09:50.269305+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:59:27.4608223+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:08:57.7488336+00:00"
+  "LastUpdate_Ratings": "2023-11-20T08:00:15.0267602+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:09:50.2693735+00:00"
 }

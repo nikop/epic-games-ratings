@@ -6,27 +6,27 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~9,190 |
-| Overkill | 34.00% | ~7,439 |
-| Vaccine Incoming | 33.00% | ~7,220 |
-| A normal day in Gloomhaven | 32.00% | ~7,002 |
-| Spread the plague | 30.00% | ~6,564 |
-| Get over here! | 25.00% | ~5,470 |
-| Just when I thought I was out... | 19.00% | ~4,157 |
+| I'm not dead yet | 42.00% | ~9,191 |
+| Overkill | 34.00% | ~7,440 |
+| Vaccine Incoming | 33.00% | ~7,221 |
+| A normal day in Gloomhaven | 32.00% | ~7,003 |
+| Spread the plague | 30.00% | ~6,565 |
+| Get over here! | 25.00% | ~5,471 |
+| Just when I thought I was out... | 19.00% | ~4,158 |
 | Precious! | 17.00% | ~3,720 |
 | Mine... All Mine... | 17.00% | ~3,720 |
 | Grizzled veteran | 15.00% | ~3,282 |
 | Anatomy Lesson | 15.00% | ~3,282 |
-| Light of my life | 14.00% | ~3,063 |
-| You activated my trap card! | 13.00% | ~2,844 |
-| Obstacle race | 13.00% | ~2,844 |
+| Light of my life | 14.00% | ~3,064 |
+| You activated my trap card! | 13.00% | ~2,845 |
+| Obstacle race | 13.00% | ~2,845 |
 | Augmented rat | 11.00% | ~2,407 |
 | Doom and gloom | 11.00% | ~2,407 |
 | Who's the Boss? | 10.00% | ~2,188 |
-| Dungeon Veteran | 8.00% | ~1,750 |
-| Pain is your friend | 8.00% | ~1,750 |
-| Black death | 8.00% | ~1,750 |
-| Play it again, Sam | 8.00% | ~1,750 |
+| Dungeon Veteran | 8.00% | ~1,751 |
+| Pain is your friend | 8.00% | ~1,751 |
+| Black death | 8.00% | ~1,751 |
+| Play it again, Sam | 8.00% | ~1,751 |
 | Pack leader | 7.00% | ~1,532 |
 | Quad damage | 6.00% | ~1,313 |
 | Power Up! | 5.00% | ~1,094 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~22 |
 | Murder Death Kill | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,880 (Ranked 132)  
+Progressed: 21,883 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-17 | 21,220 | 1 |
 | 2023-11-18 | 21,507 | 1 |
 | 2023-11-19 | 21,804 | 1 |
-| 2023-11-20 | 21,880 | 1 |
+| 2023-11-20 | 21,883 | 1 |
 ## Awards
 Max (Character Customization): 3,581  (Ranked 90)  
 Sum: 8,370 (Ranked 100)  

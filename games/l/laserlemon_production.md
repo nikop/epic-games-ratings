@@ -3,31 +3,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Kitchen | 36.00% | ~5 |
-| The Prison | 36.00% | ~5 |
-| Light Up Your life | 29.00% | ~4 |
-| The Lair | 29.00% | ~4 |
-| Ashes in The Maw | 21.00% | ~3 |
-| Ashes to Ashes | 21.00% | ~3 |
-| Elusive | 21.00% | ~3 |
-| End in Sight | 21.00% | ~3 |
-| Fun and Games Ahead | 21.00% | ~3 |
-| Six's Song | 21.00% | ~3 |
-| Highly Sprung | 21.00% | ~3 |
-| I'm Losing You | 21.00% | ~3 |
-| Is Anybody Out There? | 21.00% | ~3 |
-| Kitchen Hand | 21.00% | ~3 |
-| Not Alone | 21.00% | ~3 |
-| Rascal | 21.00% | ~3 |
-| So Close | 21.00% | ~3 |
-| The Guest Area | 21.00% | ~3 |
-| The Lady's Quarters | 21.00% | ~3 |
-| We'll Meet Again | 21.00% | ~3 |
-| Hard to the Core | 14.00% | ~2 |
-| Little Lost Things | 14.00% | ~2 |
+| The Prison | 38.00% | ~6 |
+| The Kitchen | 31.00% | ~5 |
+| Highly Sprung | 25.00% | ~4 |
+| Light Up Your life | 25.00% | ~4 |
+| The Lair | 25.00% | ~4 |
+| Ashes in The Maw | 19.00% | ~3 |
+| Ashes to Ashes | 19.00% | ~3 |
+| Elusive | 19.00% | ~3 |
+| End in Sight | 19.00% | ~3 |
+| Fun and Games Ahead | 19.00% | ~3 |
+| Six's Song | 19.00% | ~3 |
+| I'm Losing You | 19.00% | ~3 |
+| Is Anybody Out There? | 19.00% | ~3 |
+| Kitchen Hand | 19.00% | ~3 |
+| Not Alone | 19.00% | ~3 |
+| Rascal | 19.00% | ~3 |
+| So Close | 19.00% | ~3 |
+| The Guest Area | 19.00% | ~3 |
+| The Lady's Quarters | 19.00% | ~3 |
+| We'll Meet Again | 19.00% | ~3 |
+| Hard to the Core | 13.00% | ~2 |
+| Little Lost Things | 13.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 577)  
-Completed: 2 (14.29%) (Ranked 28)  
+Progressed: 16 (Ranked 562)  
+Completed: 2 (12.50%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -43,4 +43,4 @@ Completed: 2 (14.29%) (Ranked 28)
 | 2023-10-18 | 12 | 1 |
 | 2023-10-19 | 13 | 1 |
 | 2023-11-16 | 13 | 2 |
-| 2023-11-20 | 14 | 2 |
+| 2023-11-20 | 16 | 2 |

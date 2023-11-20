@@ -21,11 +21,11 @@
 | First steps | 13.00% | ~10 |
 | A new way | 12.00% | ~9 |
 | Breaking free | 12.00% | ~9 |
+| Whispers long forgotten | 12.00% | ~9 |
 | A Slice of Life | 11.00% | ~8 |
 | Debut | 11.00% | ~8 |
 | The art of movement | 11.00% | ~8 |
 | True Reflection | 11.00% | ~8 |
-| Whispers long forgotten | 11.00% | ~8 |
 | Another perspective | 8.00% | ~6 |
 | Sound Bite | 8.00% | ~6 |
 | Lights! Camera! Action! | 8.00% | ~6 |
@@ -39,7 +39,7 @@
 | The Big Picture | 3.00% | ~2 |
 | Body of Work | 3.00% | ~2 |
 | Dark correspondence | 3.00% | ~2 |
-| It was worth a try | 1.00% | ~1 |
+| It was worth a try | 3.00% | ~2 |
 | Immortalized in my heart | 1.00% | ~1 |
 | Full Scoop | 1.00% | ~1 |
 | In One Take | 1.00% | ~1 |

@@ -1299,9 +1299,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 304891,
+  "EOS_Progressed": 304916,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 10343,
+  "EOS_NewPlayers": 10350,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12819,6 +12819,11 @@
       "Time": "2023-11-20T07:04:09.4052305+00:00",
       "NumProgressed": 304891,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-11-20T08:05:01.0216093+00:00",
+      "NumProgressed": 304916,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 24,
@@ -12838,7 +12843,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15245
+      "UsersEstimate": 15246
     },
     {
       "ID": "11",
@@ -12870,7 +12875,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18293
+      "UsersEstimate": 18295
     },
     {
       "ID": "15",
@@ -12926,7 +12931,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12196
+      "UsersEstimate": 12197
     },
     {
       "ID": "21",
@@ -12982,7 +12987,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30489
+      "UsersEstimate": 30492
     },
     {
       "ID": "6",
@@ -13021,7 +13026,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 304891,
+      "Progressed": 304916,
       "Completed": 307
     }
   ],
@@ -13029,8 +13034,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-20T03:57:47.1810122+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:04:09.4052302+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:05:01.0216089+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:57:46.399045+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:04:09.4053208+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:58:09.0972079+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:05:01.0216677+00:00"
 }

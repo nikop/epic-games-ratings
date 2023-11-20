@@ -202,10 +202,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20773,
+  "EOS_Progressed": 20778,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1879,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 1876,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
@@ -3907,6 +3907,11 @@
       "Time": "2023-11-20T07:08:44.7598684+00:00",
       "NumProgressed": 20773,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-20T08:09:36.0469864+00:00",
+      "NumProgressed": 20778,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 24,
@@ -3942,7 +3947,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -3950,7 +3955,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "ACH_Finale",
@@ -4006,7 +4011,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -4046,7 +4051,7 @@
       "Name": "Sector 1",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3947
+      "UsersEstimate": 3948
     },
     {
       "ID": "ACH_Sector2",
@@ -4054,7 +4059,7 @@
       "Name": "Sector 2",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3531
+      "UsersEstimate": 3532
     },
     {
       "ID": "ACH_Sector3",
@@ -4062,7 +4067,7 @@
       "Name": "Sector 3",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "ACH_Sector4",
@@ -4109,7 +4114,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 20773,
+      "Progressed": 20778,
       "Completed": 76
     }
   ],
@@ -4117,8 +4122,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-16T08:02:54.6302362+00:00",
-  "LastChanged_Achievements": "2023-11-20T07:08:44.759868+00:00",
+  "LastChanged_Achievements": "2023-11-20T08:09:36.046986+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:44.057375+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:39.9687695+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:08:44.7599057+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:59:13.2387144+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:09:36.0470247+00:00"
 }

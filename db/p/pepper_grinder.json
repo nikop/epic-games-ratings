@@ -2,10 +2,10 @@
   "ID": "2f41f7b835bf4008821c8dd59e6111a0",
   "Name": "Pepper Grinder",
   "ProductSlug": "pepper-grinder-48f87f",
-  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Progress": 749,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T18:57:24.6079786+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:58:09.288549+00:00",
-  "LastUpdate_Achievements": "2023-11-20T07:03:50.3335796+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:58:36.8153235+00:00",
+  "LastUpdate_Achievements": "2023-11-20T08:04:39.2129872+00:00"
 }
