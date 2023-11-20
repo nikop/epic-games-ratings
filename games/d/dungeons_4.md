@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~270 |
-| Thalya – Simply Immortal | 86.00% | ~270 |
+| The Last Stand | 87.00% | ~273 |
+| Thalya – Simply Immortal | 87.00% | ~273 |
 | For the Horde! | 82.00% | ~257 |
 | Hammer Time, Round Two | 81.00% | ~254 |
 | The Hellwoods | 77.00% | ~242 |
@@ -24,7 +24,7 @@
 | YOU SHALL NOT PASS! | 46.00% | ~144 |
 | Hard Work | 44.00% | ~138 |
 | The Big Eaty | 43.00% | ~135 |
-| Pure Dynamite! | 40.00% | ~126 |
+| Pure Dynamite! | 41.00% | ~129 |
 | “… like son” | 37.00% | ~116 |
 | Mana Cannon | 36.00% | ~113 |
 | Dungeonlord Gorgu | 33.00% | ~104 |
@@ -34,8 +34,8 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~72 |
 | Unstoppable Horde | 23.00% | ~72 |
 | All’s Well That Ends Evil | 23.00% | ~72 |
+| Hungry, Hungry Gorgu! | 21.00% | ~66 |
 | Master of the Undead | 21.00% | ~66 |
-| Hungry, Hungry Gorgu! | 20.00% | ~63 |
 | Forbidden Knowledge | 18.00% | ~57 |
 | The Duel | 18.00% | ~57 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
@@ -43,9 +43,9 @@
 | Stop Tanos! | 16.00% | ~50 |
 | If Looks Could Kill | 15.00% | ~47 |
 | The Finitude Drill | 14.00% | ~44 |
+| Bonus Evilness | 11.00% | ~35 |
 | Doom Hill | 11.00% | ~35 |
 | My Little Torture Chamber | 10.00% | ~31 |
-| Bonus Evilness | 10.00% | ~31 |
 | Sabotage! | 10.00% | ~31 |
 | Brimstone Shaken, Not Stirred | 10.00% | ~31 |
 | Raiders of the Lost Stone | 9.00% | ~28 |

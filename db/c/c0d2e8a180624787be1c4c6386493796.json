@@ -565,9 +565,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -637,9 +637,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -932,8 +932,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:05:02.4974517+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:03:43.7710588+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:02:34.4027918+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:05:02.4975172+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:00:14.3651574+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:03:43.7711138+00:00"
 }

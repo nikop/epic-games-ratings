@@ -2086,9 +2086,9 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 214859,
+  "EOS_Progressed": 214863,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1356,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26546,6 +26546,11 @@
       "Time": "2023-11-20T10:03:51.7338297+00:00",
       "NumProgressed": 214859,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-20T11:02:55.1123338+00:00",
+      "NumProgressed": 214863,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26597,7 +26602,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19337
+      "UsersEstimate": 19338
     },
     {
       "ID": "FiveShadows",
@@ -26621,7 +26626,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8594
+      "UsersEstimate": 8595
     },
     {
       "ID": "Genin",
@@ -26629,7 +26634,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25783
+      "UsersEstimate": 25784
     },
     {
       "ID": "HappyLittleAccidents",
@@ -26637,7 +26642,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8594
+      "UsersEstimate": 8595
     },
     {
       "ID": "HappyPlanning",
@@ -26725,7 +26730,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8594
+      "UsersEstimate": 8595
     },
     {
       "ID": "Okkoto",
@@ -26781,7 +26786,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19337
+      "UsersEstimate": 19338
     },
     {
       "ID": "StillRollin",
@@ -26789,7 +26794,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8594
+      "UsersEstimate": 8595
     },
     {
       "ID": "Stoned",
@@ -26813,7 +26818,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19337
+      "UsersEstimate": 19338
     },
     {
       "ID": "TheCave",
@@ -26908,15 +26913,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 214859,
+      "Progressed": 214863,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-19T17:58:18.266534+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:03:51.7338292+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:02:55.1123334+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:59:42.919951+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:03:51.7339793+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:58:26.7143627+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:02:55.112456+00:00"
 }

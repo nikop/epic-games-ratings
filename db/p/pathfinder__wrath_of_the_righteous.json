@@ -4289,9 +4289,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12125,
+  "EOS_Progressed": 12126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15764,6 +15764,11 @@
       "Time": "2023-11-20T00:08:50.4979109+00:00",
       "NumProgressed": 12125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T11:08:07.2388966+00:00",
+      "NumProgressed": 12126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15775,7 +15780,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "02_BurningCity",
@@ -15783,7 +15788,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -15839,7 +15844,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "10_PathOfAzata",
@@ -15855,7 +15860,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "12_PathOfTrickster",
@@ -15871,7 +15876,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "14_PathOfSwarm",
@@ -16031,7 +16036,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -16055,7 +16060,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -16111,7 +16116,7 @@
       "Name": "Ashes to Ashes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "45_VoiceFromDreams",
@@ -16175,7 +16180,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -16702,21 +16707,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10907,
+      "Progressed": 10908,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12125,
+      "Progressed": 12126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-19T18:59:13.5492289+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:09:15.1400457+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:08:07.2388963+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:00:58.8584811+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:09:15.1402125+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:59:14.4676773+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:08:07.2390564+00:00"
 }

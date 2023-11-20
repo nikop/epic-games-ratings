@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~20,549 |
-| Safety in the Storm | 24.00% | ~5,191 |
-| A Better Idea | 24.00% | ~5,191 |
-| Begin the Ceremony | 20.00% | ~4,326 |
+| Fracture at Fostar Haven | 95.00% | ~20,552 |
+| Safety in the Storm | 24.00% | ~5,192 |
+| A Better Idea | 24.00% | ~5,192 |
+| Begin the Ceremony | 20.00% | ~4,327 |
 | Mission Accomplished | 19.00% | ~4,110 |
 | The Galaxy's Finest (Story Mode) | 15.00% | ~3,245 |
-| A Starfighter of Your Own | 14.00% | ~3,028 |
+| A Starfighter of Your Own | 14.00% | ~3,029 |
 | Asset Secured | 13.00% | ~2,812 |
-| Unkillable | 8.00% | ~1,730 |
+| Unkillable | 8.00% | ~1,731 |
 | Together, Vanguard | 7.00% | ~1,514 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,298 |
 | Sound Strategy | 6.00% | ~1,298 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~22 |
 | The Galaxy's Finest (Ace) | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,631 (Ranked 133)  
+Progressed: 21,634 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-17 | 20,684 | 1 |
 | 2023-11-18 | 21,085 | 1 |
 | 2023-11-19 | 21,532 | 1 |
-| 2023-11-20 | 21,631 | 1 |
+| 2023-11-20 | 21,634 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

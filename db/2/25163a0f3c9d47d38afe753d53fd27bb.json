@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1460,
+  "EOS_Progressed": 1462,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 6.71,
+  "EOS_Completed_Percentage": 6.7,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3454,6 +3454,11 @@
       "Time": "2023-11-20T10:10:20.5507491+00:00",
       "NumProgressed": 1460,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-20T11:08:51.8628864+00:00",
+      "NumProgressed": 1462,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 30,
@@ -3465,7 +3470,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1374
     },
     {
       "ID": "LEVEL_002",
@@ -3473,7 +3478,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1155
     },
     {
       "ID": "LEVEL_003",
@@ -3481,7 +3486,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 980
     },
     {
       "ID": "LEVEL_004",
@@ -3489,7 +3494,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "LEVEL_005",
@@ -3497,7 +3502,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "LEVEL_006",
@@ -3505,7 +3510,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "LEVEL_007",
@@ -3513,7 +3518,7 @@
       "Name": "Animals in the farm",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "LEVEL_008",
@@ -3521,7 +3526,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "LEVEL_009",
@@ -3529,7 +3534,7 @@
       "Name": "Going zig zag",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "LEVEL_010",
@@ -3537,7 +3542,7 @@
       "Name": "Rocks around the island",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "LEVEL_011",
@@ -3553,7 +3558,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_013",
@@ -3577,7 +3582,7 @@
       "Name": "Flatland",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_016",
@@ -3704,14 +3709,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1460,
+      "Progressed": 1462,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:10:20.5507488+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:08:51.8628862+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:01:43.8153654+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:10:20.5507848+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:59:41.8147468+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:08:51.8629177+00:00"
 }

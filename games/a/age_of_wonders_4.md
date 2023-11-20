@@ -38,11 +38,11 @@ Rating: 4.61 (Ranked 386)
 | Prometheus Avenged | 0.60% | ~32 |
 | A Conqueror's Cohort | 0.60% | ~32 |
 | Arch Mage | 0.50% | ~27 |
+| Crimson Caldera | 0.50% | ~27 |
 | Preparation Is Everything | 0.50% | ~27 |
 | Blood of the Dragon | 0.50% | ~27 |
 | Lord of Chaos | 0.40% | ~22 |
 | The Creator | 0.40% | ~22 |
-| Crimson Caldera | 0.40% | ~22 |
 | Manufactured War | 0.40% | ~22 |
 | The Eternal Court | 0.40% | ~22 |
 | Pruning for Progress | 0.40% | ~22 |

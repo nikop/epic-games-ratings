@@ -149,9 +149,9 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Glissando",
@@ -221,9 +221,9 @@
       "ID": "NotAlone",
       "SetID": "c36hpcf",
       "Name": "Not Alone",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Rascal",
@@ -237,9 +237,9 @@
       "ID": "SoClose",
       "SetID": "c36hpcf",
       "Name": "So Close",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheGuestArea",
@@ -299,8 +299,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:08:36.4496504+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:06:10.5629333+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:59:31.8217286+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:08:36.4496665+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:58:19.3103498+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:06:10.5629572+00:00"
 }

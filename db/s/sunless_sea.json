@@ -742,7 +742,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40878,
+  "EOS_Progressed": 40879,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
@@ -22542,6 +22542,11 @@
       "Time": "2023-11-20T09:05:21.6565851+00:00",
       "NumProgressed": 40878,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-20T11:05:04.6071149+00:00",
+      "NumProgressed": 40879,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22753,7 +22758,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ach_legacyrival",
@@ -22769,7 +22774,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ach_legacyshipmate",
@@ -22785,7 +22790,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ach_portbell",
@@ -22897,7 +22902,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ach_sweetheart",
@@ -22984,15 +22989,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40878,
+      "Progressed": 40879,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-14T11:58:18.1801292+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:07:00.7222986+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:05:04.6071147+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.6571384+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:58:45.2987321+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:07:00.7224204+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:57:49.2154059+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:05:04.6072634+00:00"
 }

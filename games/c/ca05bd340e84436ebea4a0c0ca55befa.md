@@ -5,42 +5,42 @@ Rating: 4.19 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,038 |
-| First fall | 36.00% | ~5,810 |
-| Don't play with fire, kids | 27.00% | ~4,358 |
-| First steps | 27.00% | ~4,358 |
-| 1.000.000 Scovilles | 19.00% | ~3,066 |
-| An Old Timer | 18.00% | ~2,905 |
-| I'll give this one a 0 star rating | 18.00% | ~2,905 |
-| Hands up! | 16.00% | ~2,582 |
-| Feeling Better | 16.00% | ~2,582 |
-| Unfortunate Plumber | 15.00% | ~2,421 |
-| Don't interrupt my research! | 14.00% | ~2,259 |
-| A Good Read | 11.00% | ~1,775 |
-| Boot for an eye | 10.00% | ~1,614 |
-| Pacifist Run | 7.00% | ~1,130 |
-| Uh, Which Key is the Right One? | 6.00% | ~968 |
-| Golden fingers | 5.00% | ~807 |
-| OMG I FOUND A BUG | 5.00% | ~807 |
-| Spiky chin | 4.00% | ~646 |
-| I Think I'm Lost | 4.00% | ~646 |
-| Meat Machine | 4.00% | ~646 |
-| Untouchable | 4.00% | ~646 |
-| Merchant | 3.00% | ~484 |
-| Groovy! | 3.00% | ~484 |
-| Gentle hugs | 3.00% | ~484 |
-| Mmm, tasty | 3.00% | ~484 |
-| Good Murder | 3.00% | ~484 |
+| Fire safety | 56.00% | ~9,052 |
+| First fall | 36.00% | ~5,819 |
+| Don't play with fire, kids | 27.00% | ~4,365 |
+| First steps | 27.00% | ~4,365 |
+| 1.000.000 Scovilles | 19.00% | ~3,071 |
+| An Old Timer | 18.00% | ~2,910 |
+| I'll give this one a 0 star rating | 18.00% | ~2,910 |
+| Hands up! | 16.00% | ~2,586 |
+| Feeling Better | 16.00% | ~2,586 |
+| Unfortunate Plumber | 15.00% | ~2,425 |
+| Don't interrupt my research! | 14.00% | ~2,263 |
+| A Good Read | 11.00% | ~1,778 |
+| Boot for an eye | 10.00% | ~1,616 |
+| Pacifist Run | 7.00% | ~1,132 |
+| Uh, Which Key is the Right One? | 6.00% | ~970 |
+| Golden fingers | 5.00% | ~808 |
+| OMG I FOUND A BUG | 5.00% | ~808 |
+| Spiky chin | 4.00% | ~647 |
+| I Think I'm Lost | 4.00% | ~647 |
+| Meat Machine | 4.00% | ~647 |
+| Untouchable | 4.00% | ~647 |
+| Merchant | 3.00% | ~485 |
+| Groovy! | 3.00% | ~485 |
+| Gentle hugs | 3.00% | ~485 |
+| Mmm, tasty | 3.00% | ~485 |
+| Good Murder | 3.00% | ~485 |
 | Infinite pleasure | 2.00% | ~323 |
 | Body Building | 2.00% | ~323 |
 | Stranger in the Elevator | 2.00% | ~323 |
-| Can i be more unfortunate? | 1.00% | ~161 |
-| Golden tongue | 1.00% | ~161 |
-| Smothered in Meat | 1.00% | ~161 |
-| No Love | 1.00% | ~161 |
-| Vampire Killer | 1.00% | ~161 |
-| Where are those diamonds? | 1.00% | ~161 |
-| Blue Valentine | 1.00% | ~161 |
+| Can i be more unfortunate? | 1.00% | ~162 |
+| Golden tongue | 1.00% | ~162 |
+| Smothered in Meat | 1.00% | ~162 |
+| No Love | 1.00% | ~162 |
+| Vampire Killer | 1.00% | ~162 |
+| Where are those diamonds? | 1.00% | ~162 |
+| Blue Valentine | 1.00% | ~162 |
 | Now you see | 0.80% | ~129 |
 | Don't Come Near Me | 0.60% | ~97 |
 | Athletic | 0.50% | ~81 |
@@ -73,7 +73,7 @@ Rating: 4.19 (Ranked 921)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,139 (Ranked 149)  
+Progressed: 16,165 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 12,074 | 0 |
 | 2023-11-18 | 14,127 | 0 |
 | 2023-11-19 | 15,706 | 0 |
-| 2023-11-20 | 16,139 | 0 |
+| 2023-11-20 | 16,165 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

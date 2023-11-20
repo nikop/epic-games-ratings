@@ -5,7 +5,7 @@
   "Ranking_Rating": 967,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 122,
@@ -1548,17 +1548,17 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_46",
@@ -1725,8 +1725,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-19T13:02:21.5491129+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:09:13.6036217+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:08:06.0254838+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:01:40.146606+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:09:13.6036689+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:59:39.6581205+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:08:06.0255153+00:00"
 }

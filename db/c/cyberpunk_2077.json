@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15354,10 +15354,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 357853,
       "NumberOfAwardsMax": 106230
+    },
+    {
+      "Time": "2023-11-20T10:59:13.956506+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 357948,
+      "NumberOfAwardsMax": 106230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357853,
+  "NumberOfAwards": 357948,
   "NumberOfAwardsMax": 106230,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15401,7 +15407,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20284
+      "Count": 20379
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15434,9 +15440,9 @@
       "Count": 13257
     }
   ],
-  "EOS_Progressed": 897469,
+  "EOS_Progressed": 897472,
   "EOS_Completed": 2790,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39689,6 +39695,11 @@
       "Time": "2023-11-20T10:05:13.7048575+00:00",
       "NumProgressed": 897469,
       "NumCompleted": 2790
+    },
+    {
+      "Time": "2023-11-20T11:03:51.4850729+00:00",
+      "NumProgressed": 897472,
+      "NumCompleted": 2790
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -40171,9 +40182,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 209
     },
     {
       "ID": "KingOfTheCups",
@@ -40236,21 +40247,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897469,
+      "Progressed": 897472,
       "Completed": 2790
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26092,
+      "Progressed": 26095,
       "Completed": 10237
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-20T10:00:58.0704058+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:05:13.7048567+00:00",
+  "LastChanged": "2023-11-20T10:59:13.9565058+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:03:51.4850723+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:00:58.0704064+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:05:13.7050039+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:59:13.9565064+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:03:51.4852761+00:00"
 }

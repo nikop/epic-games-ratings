@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1334,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4147,9 +4147,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_38",
@@ -4267,9 +4267,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_51",
@@ -4451,9 +4451,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 574
     },
     {
       "ID": "achievement_72",
@@ -4711,8 +4711,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:08:34.8291109+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:06:09.5838303+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:03:24.4857646+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:08:34.8292595+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:02:36.4917001+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:06:09.5840081+00:00"
 }

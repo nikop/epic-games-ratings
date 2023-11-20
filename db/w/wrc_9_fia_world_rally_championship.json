@@ -3,8 +3,8 @@
   "Name": "WRC 9 FIA World Rally Championship",
   "ProductSlug": "wrc-9",
   "Ranking_Rating": 566,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 387,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 437,
@@ -618,11 +618,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-11-20T10:59:35.3541285+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 239,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 239,
+  "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -653,13 +659,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 28
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -671,25 +677,25 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -703,8 +709,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2023-09-22T13:06:20.6807027+00:00",
+  "LastChanged": "2023-11-20T10:59:35.3541283+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.3192666+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:01:33.218591+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:09:26.8893765+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:59:35.3541288+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:08:15.0533819+00:00"
 }

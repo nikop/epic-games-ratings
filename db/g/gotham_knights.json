@@ -4179,10 +4179,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 5020,
       "NumberOfAwardsMax": 2954
+    },
+    {
+      "Time": "2023-11-20T10:57:18.970316+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 5021,
+      "NumberOfAwardsMax": 2954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5020,
+  "NumberOfAwards": 5021,
   "NumberOfAwardsMax": 2954,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4202,7 +4208,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4247,9 +4253,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76713,
+  "EOS_Progressed": 76714,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23237,6 +23243,11 @@
       "Time": "2023-11-20T09:03:49.1353358+00:00",
       "NumProgressed": 76713,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-20T11:03:31.1640812+00:00",
+      "NumProgressed": 76714,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23360,7 +23371,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13808
+      "UsersEstimate": 13809
     },
     {
       "ID": "CLAYFACE_3",
@@ -23446,9 +23457,9 @@
       "ID": "DEFEAT_OC_1",
       "SetID": "4eo5ebm",
       "Name": "Family Meeting",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4603
+      "UsersEstimate": 5370
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -23488,7 +23499,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14575
+      "UsersEstimate": 14576
     },
     {
       "ID": "FREEZE_3",
@@ -23640,7 +23651,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26082
+      "UsersEstimate": 26083
     },
     {
       "ID": "MYSTERY_02",
@@ -23672,7 +23683,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13808
+      "UsersEstimate": 13809
     },
     {
       "ID": "MYSTERY_06",
@@ -23704,7 +23715,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8438
+      "UsersEstimate": 8439
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -23735,22 +23746,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76713,
+      "Progressed": 76714,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46993,
+      "Progressed": 46994,
       "Completed": 2674
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-20T07:57:44.6559623+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:04:44.0073168+00:00",
+  "LastChanged": "2023-11-20T10:57:18.9703158+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:03:31.164081+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:57:57.9480196+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:04:44.0074399+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:57:18.9703168+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:03:31.1642205+00:00"
 }

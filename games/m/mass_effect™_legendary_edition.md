@@ -26,10 +26,10 @@
 | Paramour I | 43.00% | ~574 |
 | Colonial Savior | 43.00% | ~574 |
 | Missing in Action | 43.00% | ~574 |
+| Scientist | 43.00% | ~574 |
+| Very Elusive | 42.00% | ~560 |
 | Merciless | 42.00% | ~560 |
-| Scientist | 42.00% | ~560 |
 | Krogan Ally | 41.00% | ~547 |
-| Very Elusive | 41.00% | ~547 |
 | Sentinel Ally | 40.00% | ~534 |
 | Head Hunter | 39.00% | ~520 |
 | Scholar | 39.00% | ~520 |
@@ -42,11 +42,11 @@
 | Colony Defense | 33.00% | ~440 |
 | The Krogan | 33.00% | ~440 |
 | Ghost Ship | 32.00% | ~427 |
+| The Quarian | 32.00% | ~427 |
 | Broke, Blind, and Bedlam | 32.00% | ~427 |
 | A Personal Touch | 31.00% | ~414 |
 | The Assassin | 31.00% | ~414 |
 | The Justicar | 31.00% | ~414 |
-| The Quarian | 31.00% | ~414 |
 | Battlemaster | 31.00% | ~414 |
 | Ghost of the Father | 31.00% | ~414 |
 | The Prodigal | 31.00% | ~414 |

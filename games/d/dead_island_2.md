@@ -8,13 +8,13 @@ Rating: 4.54 (Ranked 524)
 | One of Us | 2.00% | ~936 |
 | Whatever It Takes | 2.00% | ~936 |
 | Pork Chopped | 2.00% | ~936 |
-| Git Gutte! | 1.00% | ~7,212 |
-| Break A Leg | 1.00% | ~7,212 |
-| Coup de Grâce | 1.00% | ~7,212 |
-| Hazardous Materials | 1.00% | ~7,212 |
-| Hotel California | 1.00% | ~7,212 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,212 |
-| Welcome To Hell-A | 1.00% | ~7,212 |
+| Git Gutte! | 1.00% | ~7,213 |
+| Break A Leg | 1.00% | ~7,213 |
+| Coup de Grâce | 1.00% | ~7,213 |
+| Hazardous Materials | 1.00% | ~7,213 |
+| Hotel California | 1.00% | ~7,213 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,213 |
+| Welcome To Hell-A | 1.00% | ~7,213 |
 | Dr. Reed, I Presume? | 0.90% | ~6,491 |
 | Anger Management | 0.90% | ~6,491 |
 | Bookworm | 0.90% | ~6,491 |
@@ -33,9 +33,9 @@ Rating: 4.54 (Ranked 524)
 | Slayer Squad | 0.70% | ~5,049 |
 | Ooh, Shiny! | 0.70% | ~5,049 |
 | I Am the Resurrection | 0.70% | ~5,049 |
-| Making Your Mark | 0.60% | ~4,327 |
-| Humanity Distilled | 0.60% | ~4,327 |
-| Max Headroom | 0.60% | ~4,327 |
+| Making Your Mark | 0.60% | ~4,328 |
+| Humanity Distilled | 0.60% | ~4,328 |
+| Max Headroom | 0.60% | ~4,328 |
 | Not Even My Final Form | 0.50% | ~3,606 |
 | Jumbo Keyring | 0.50% | ~3,606 |
 | Down with the Sickness | 0.50% | ~3,606 |
@@ -49,16 +49,16 @@ Rating: 4.54 (Ranked 524)
 | LA Influential | 0.30% | ~2,164 |
 | Gore Horse | 0.30% | ~2,164 |
 | Top That, Tisha! | 0.30% | ~140 |
-| Sole Survivor | 0.20% | ~1,442 |
-| Sharpest Tool in the Box | 0.20% | ~1,442 |
+| Sole Survivor | 0.20% | ~1,443 |
+| Sharpest Tool in the Box | 0.20% | ~1,443 |
 | Lawn and Order | 0.20% | ~94 |
 | Donk! | 0.10% | ~721 |
 | Survival Skills | 0.10% | ~721 |
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,243 (Ranked 20)  
-Completed: 2,415 (0.33%) (Ranked 228)  
+Progressed: 721,258 (Ranked 20)  
+Completed: 2,417 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,7 +271,7 @@ Completed: 2,415 (0.33%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,243 | 2,415 |
+| 2023-11-20 | 721,258 | 2,417 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,576 (Ranked 84)  

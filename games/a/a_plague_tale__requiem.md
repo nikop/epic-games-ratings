@@ -1,37 +1,37 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 173)  
+Rating: 4.73 (Ranked 172)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,838 |
-| Newcomers | 79.00% | ~11,024 |
-| A Burden of Blood | 74.00% | ~10,326 |
-| Protector's Duty | 71.00% | ~9,907 |
-| In our Wake | 69.00% | ~9,628 |
-| Alchemist | 69.00% | ~9,628 |
-| Leaving all Behind | 66.00% | ~9,210 |
-| Felons | 63.00% | ~8,791 |
-| A Sea of Promises | 61.00% | ~8,512 |
-| Tales and Revelations | 58.00% | ~8,093 |
-| Bloodline | 53.00% | ~7,396 |
-| The Cradle of Centuries | 49.00% | ~6,837 |
-| The Life We Deserve | 47.00% | ~6,558 |
-| Night guard | 44.00% | ~6,140 |
+| Under a New Sun | 92.00% | ~12,840 |
+| Newcomers | 79.00% | ~11,025 |
+| A Burden of Blood | 74.00% | ~10,327 |
+| Protector's Duty | 71.00% | ~9,909 |
+| In our Wake | 69.00% | ~9,630 |
+| Alchemist | 69.00% | ~9,630 |
+| Leaving all Behind | 65.00% | ~9,071 |
+| Felons | 63.00% | ~8,792 |
+| A Sea of Promises | 61.00% | ~8,513 |
+| Tales and Revelations | 58.00% | ~8,094 |
+| Bloodline | 53.00% | ~7,397 |
+| The Cradle of Centuries | 49.00% | ~6,838 |
+| The Life We Deserve | 47.00% | ~6,559 |
+| Night guard | 44.00% | ~6,141 |
 | Nothing Left | 40.00% | ~5,582 |
 | Healing our Wounds | 38.00% | ~5,303 |
-| Dying Sun | 34.00% | ~4,744 |
+| Dying Sun | 34.00% | ~4,745 |
 | Improved crossbow | 27.00% | ~3,768 |
-| King Hugo | 25.00% | ~3,488 |
+| King Hugo | 25.00% | ~3,489 |
 | Mercy | 24.00% | ~3,349 |
-| Perfect shot | 23.00% | ~3,209 |
+| Perfect shot | 23.00% | ~3,210 |
 | Effective instruments | 22.00% | ~3,070 |
 | Perfect throw | 22.00% | ~3,070 |
-| Knights! | 21.00% | ~2,930 |
+| Knights! | 21.00% | ~2,931 |
 | Handful of pockets | 13.00% | ~1,814 |
-| Not a toy anymore | 12.00% | ~1,674 |
-| Pocket laboratory | 12.00% | ~1,674 |
+| Not a toy anymore | 12.00% | ~1,675 |
+| Pocket laboratory | 12.00% | ~1,675 |
 | Herbalist | 8.00% | ~1,116 |
 | Fighter | 8.00% | ~1,116 |
 | Ornithologist | 5.00% | ~698 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 173)
 | Old protector | 2.00% | ~279 |
 | Malignant | 1.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,954 (Ranked 153)  
+Progressed: 13,956 (Ranked 153)  
 Completed: 55 (0.39%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 55 (0.39%) (Ranked 216)
 | 2023-11-17 | 13,920 | 54 |
 | 2023-11-18 | 13,934 | 54 |
 | 2023-11-19 | 13,950 | 55 |
-| 2023-11-20 | 13,954 | 55 |
+| 2023-11-20 | 13,956 | 55 |
 ## Awards
 Max (Great Boss Battles): 431  (Ranked 225)  
 Sum: 678 (Ranked 299)  

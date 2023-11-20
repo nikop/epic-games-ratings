@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753339,
+  "EOS_Progressed": 753340,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24789,6 +24789,11 @@
       "Time": "2023-11-20T10:06:23.2805012+00:00",
       "NumProgressed": 753339,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-20T11:04:39.2255846+00:00",
+      "NumProgressed": 753340,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -24864,7 +24869,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278735
+      "UsersEstimate": 278736
     },
     {
       "ID": "ach_demolish_trees",
@@ -25008,14 +25013,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 143134
+      "UsersEstimate": 143135
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753339,
+      "Progressed": 753340,
       "Completed": 4
     }
   ],
@@ -25023,8 +25028,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:06:23.2805007+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:04:39.2255843+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:57:30.7691603+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:06:23.2806335+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:57:01.5592553+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:04:39.2257758+00:00"
 }

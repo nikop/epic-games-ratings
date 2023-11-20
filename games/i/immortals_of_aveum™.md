@@ -21,13 +21,13 @@ Rating: 4.09 (Ranked 967)
 | The Means to Save It | 24.00% | ~68 |
 | Resilience to Sin | 21.00% | ~60 |
 | A Familiar Nest | 21.00% | ~60 |
+| Periapt Alizarin | 21.00% | ~60 |
 | Geas Aristeya | 20.00% | ~57 |
-| Periapt Alizarin | 20.00% | ~57 |
 | A Perfect Cycle | 18.00% | ~51 |
 | Armsman | 18.00% | ~51 |
 | Recruit | 17.00% | ~48 |
 | Lights Army | 12.00% | ~34 |
-| Periapt Cerulean | 11.00% | ~31 |
+| Periapt Cerulean | 12.00% | ~34 |
 | Good Boy | 11.00% | ~31 |
 | Shroudfane Explorer | 9.00% | ~26 |
 | Best Dressed | 8.00% | ~23 |
@@ -53,7 +53,7 @@ Rating: 4.09 (Ranked 967)
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284 (Ranked 354)  
+Progressed: 284 (Ranked 355)  
 Completed: 1 (0.35%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1299,9 +1299,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 304964,
+  "EOS_Progressed": 304980,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 10350,
+  "EOS_NewPlayers": 10345,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12834,6 +12834,11 @@
       "Time": "2023-11-20T10:05:55.685828+00:00",
       "NumProgressed": 304964,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2023-11-20T11:04:20.4588398+00:00",
+      "NumProgressed": 304980,
+      "NumCompleted": 308
     }
   ],
   "TotalAchievements": 24,
@@ -12853,7 +12858,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "11",
@@ -12885,7 +12890,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18298
+      "UsersEstimate": 18299
     },
     {
       "ID": "15",
@@ -12965,7 +12970,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6099
+      "UsersEstimate": 6100
     },
     {
       "ID": "24",
@@ -12997,7 +13002,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30496
+      "UsersEstimate": 30498
     },
     {
       "ID": "6",
@@ -13036,7 +13041,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 304964,
+      "Progressed": 304980,
       "Completed": 308
     }
   ],
@@ -13044,8 +13049,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-20T03:57:47.1810122+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:05:55.6858276+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:04:20.4588396+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:58:32.1159935+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:05:55.6859066+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:57:40.7444465+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:04:20.4589145+00:00"
 }

@@ -191,9 +191,9 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "combat_thought_block_friendly_fire",
@@ -344,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:10:22.5202604+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:08:53.3479922+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:05.0738951+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:58:39.8734736+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:10:22.5202718+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:57:45.6364244+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:08:53.3480032+00:00"
 }

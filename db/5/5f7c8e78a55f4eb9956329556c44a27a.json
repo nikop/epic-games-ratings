@@ -2,9 +2,9 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-11-20T09:04:33.4907009+00:00",
       "NumProgressed": 101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T11:04:16.4106603+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -379,7 +384,7 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
       "UsersEstimate": 85
     },
@@ -443,7 +448,7 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 82
     },
@@ -451,7 +456,7 @@
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -459,7 +464,7 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -491,7 +496,7 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 18
     },
@@ -499,7 +504,7 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 20,
       "UsersEstimate": 85
     },
@@ -507,9 +512,9 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -555,9 +560,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -595,7 +600,7 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -611,9 +616,9 @@
       "ID": "TINGWD_SHIFUMI_LOSE",
       "SetID": "c0imaa6",
       "Name": "Roshambo Addict",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TINGWD_SHOOT",
@@ -635,9 +640,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 120,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -652,14 +657,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:05:49.601202+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:04:16.41066+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:01:44.8703095+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:05:49.601224+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:59:42.608373+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:04:16.410696+00:00"
 }

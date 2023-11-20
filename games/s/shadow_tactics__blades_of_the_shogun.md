@@ -6,12 +6,12 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,783 |
+| Genin | 12.00% | ~25,784 |
 | A thief's beginning | 10.00% | ~21,486 |
 | Thorough | 10.00% | ~21,486 |
-| Disguised | 9.00% | ~19,337 |
-| Rollin' | 9.00% | ~19,337 |
-| Tanuki Time | 9.00% | ~19,337 |
+| Disguised | 9.00% | ~19,338 |
+| Rollin' | 9.00% | ~19,338 |
+| Tanuki Time | 9.00% | ~19,338 |
 | Rescue Takuma | 8.00% | ~17,189 |
 | Stoned Ox | 8.00% | ~17,189 |
 | Happy Planning | 7.00% | ~15,040 |
@@ -25,10 +25,10 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,743 |
 | Prisoners | 5.00% | ~10,743 |
 | Too Early | 5.00% | ~10,743 |
-| Gear up | 4.00% | ~8,594 |
-| Happy little accidents | 4.00% | ~8,594 |
-| Noboru | 4.00% | ~8,594 |
-| Still Rollin' | 4.00% | ~8,594 |
+| Gear up | 4.00% | ~8,595 |
+| Happy little accidents | 4.00% | ~8,595 |
+| Noboru | 4.00% | ~8,595 |
+| Still Rollin' | 4.00% | ~8,595 |
 | It's raining men | 3.00% | ~6,446 |
 | Stoned | 3.00% | ~6,446 |
 | The Old Way | 3.00% | ~6,446 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~215 |
 | Release the Kraken | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,859 (Ranked 71)  
+Progressed: 214,863 (Ranked 71)  
 Completed: 98 (0.05%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 98 (0.05%) (Ranked 305)
 | 2023-11-17 | 214,284 | 98 |
 | 2023-11-18 | 214,552 | 98 |
 | 2023-11-19 | 214,799 | 98 |
-| 2023-11-20 | 214,859 | 98 |
+| 2023-11-20 | 214,863 | 98 |
 ## Awards
 Max (Great for Beginners): 574  (Ranked 197)  
 Sum: 4,856 (Ranked 144)  

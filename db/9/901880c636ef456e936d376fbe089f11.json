@@ -532,9 +532,9 @@
       "ID": "ACH_COMFORTABLE_WITH_YOU",
       "SetID": "8h8m55b",
       "Name": "Comfortable With You",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FAILED_MESSENGER",
@@ -548,9 +548,9 @@
       "ID": "ACH_FELLOW_INFLUENCER",
       "SetID": "8h8m55b",
       "Name": "Fellow Influencer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FESTINA_LENTE",
@@ -620,9 +620,9 @@
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
       "SetID": "8h8m55b",
       "Name": "How I Met Your Ancestor",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_HYDE_LEIBOVITZ",
@@ -804,9 +804,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:05:36.4068166+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:04:07.3758068+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8766102+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:00:11.5825209+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:05:36.4068486+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:58:44.9855496+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:04:07.375838+00:00"
 }

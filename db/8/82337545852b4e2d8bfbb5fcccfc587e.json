@@ -585,9 +585,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "EpicACHV_12",
@@ -617,17 +617,17 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "EpicACHV_17",
@@ -657,9 +657,9 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EpicACHV_5",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-20T10:08:20.6621807+00:00",
+  "LastChanged_Achievements": "2023-11-20T11:05:59.6011167+00:00",
   "LastUpdate_AppInfo": "2023-11-15T11:57:01.8293407+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:58:03.8710262+00:00",
-  "LastUpdate_Achievements": "2023-11-20T10:08:20.6621958+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:57:22.7218858+00:00",
+  "LastUpdate_Achievements": "2023-11-20T11:05:59.6011327+00:00"
 }
