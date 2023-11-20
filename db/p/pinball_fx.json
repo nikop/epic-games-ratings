@@ -2,12 +2,12 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 980,
+  "Ranking_Rating": 981,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2023,9 +2023,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 280715,
+  "EOS_Progressed": 280720,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26558,6 +26558,11 @@
       "Time": "2023-11-20T21:04:00.6931549+00:00",
       "NumProgressed": 280715,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T22:04:11.4872945+00:00",
+      "NumProgressed": 280720,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -26777,7 +26782,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -26793,7 +26798,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230186
+      "UsersEstimate": 230190
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26801,22 +26806,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 95443
+      "UsersEstimate": 95445
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 280715,
+      "Progressed": 280720,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-18T05:02:55.7382742+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:04:00.693154+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:04:11.4872942+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.7413731+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:02:46.4766644+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:04:00.6933082+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:02:53.0381497+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:04:11.487424+00:00"
 }

@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 645)  
+Rating: 4.46 (Ranked 646)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~18,921 |
-| Mama? | 27.00% | ~6,635 |
-| People's Haven | 18.00% | ~4,423 |
-| Cartographer | 17.00% | ~4,177 |
+| Light at the end of the tunnel | 77.00% | ~18,924 |
+| Mama? | 27.00% | ~6,636 |
+| People's Haven | 18.00% | ~4,424 |
+| Cartographer | 17.00% | ~4,178 |
 | Antlers of Stone | 15.00% | ~3,686 |
-| Knowledge for Power | 14.00% | ~3,440 |
-| Gaze into the abyss | 13.00% | ~3,194 |
-| Mausoleum of Ice | 13.00% | ~3,194 |
+| Knowledge for Power | 14.00% | ~3,441 |
+| Gaze into the abyss | 13.00% | ~3,195 |
+| Mausoleum of Ice | 13.00% | ~3,195 |
 | Wings of Stone | 12.00% | ~2,949 |
 | Equilibrium | 12.00% | ~2,949 |
 | In the belly of the beast | 11.00% | ~2,703 |
-| Condor condo | 10.00% | ~2,457 |
+| Condor condo | 10.00% | ~2,458 |
 | Memorial | 9.00% | ~2,212 |
 | An uninvited guest | 7.00% | ~1,720 |
-| Tails of Stone | 6.00% | ~1,474 |
-| Baa from the past | 6.00% | ~1,474 |
-| Written in stone | 6.00% | ~1,474 |
-| Talk to all the spirit animals | 6.00% | ~1,474 |
+| Tails of Stone | 6.00% | ~1,475 |
+| Baa from the past | 6.00% | ~1,475 |
+| Written in stone | 6.00% | ~1,475 |
+| Talk to all the spirit animals | 6.00% | ~1,475 |
 | Ripples on the surface | 5.00% | ~1,229 |
 | Hide and Seek | 4.00% | ~983 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,573 (Ranked 127)  
+Progressed: 24,576 (Ranked 127)  
 Completed: 471 (1.92%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 471 (1.92%) (Ranked 128)
 | 2023-11-17 | 24,341 | 465 |
 | 2023-11-18 | 24,433 | 469 |
 | 2023-11-19 | 24,522 | 471 |
-| 2023-11-20 | 24,573 | 471 |
+| 2023-11-20 | 24,576 | 471 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

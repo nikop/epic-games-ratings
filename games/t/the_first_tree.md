@@ -1,27 +1,27 @@
 # The First Tree
 [Store](https://store.epicgames.com/en-US/p/the-first-tree)  
 [View Rawdata](../../db/t/the_first_tree.json)  
-Rating: 4.01 (Ranked 996)  
+Rating: 4.01 (Ranked 997)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Two Worlds | 77.00% | ~29,355 |
-| 50 Stars | 26.00% | ~9,912 |
-| Hare Today | 24.00% | ~9,150 |
-| The Way Forward | 17.00% | ~6,481 |
-| Joseph | 9.00% | ~3,431 |
+| Two Worlds | 77.00% | ~29,359 |
+| 50 Stars | 26.00% | ~9,913 |
+| Hare Today | 24.00% | ~9,151 |
+| The Way Forward | 17.00% | ~6,482 |
+| Joseph | 9.00% | ~3,432 |
 | 100 Stars | 5.00% | ~1,906 |
 | Hummed of Mystery | 4.00% | ~1,525 |
-| Excavator | 2.00% | ~762 |
+| Excavator | 2.00% | ~763 |
 | Well Hidden | 1.00% | ~381 |
 | Easter Bunny | 0.50% | ~191 |
-| 150 Stars | 0.40% | ~152 |
-| No Stone Left Unturned | 0.40% | ~152 |
-| Completionist | 0.40% | ~152 |
-| Deja Vu | 0.40% | ~152 |
+| 150 Stars | 0.40% | ~153 |
+| No Stone Left Unturned | 0.40% | ~153 |
+| Completionist | 0.40% | ~153 |
+| Deja Vu | 0.40% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,124 (Ranked 123)  
+Progressed: 38,128 (Ranked 123)  
 Completed: 120 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 120 (0.31%) (Ranked 233)
 | 2023-11-17 | 37,999 | 120 |
 | 2023-11-18 | 38,055 | 120 |
 | 2023-11-19 | 38,105 | 120 |
-| 2023-11-20 | 38,124 | 120 |
+| 2023-11-20 | 38,128 | 120 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

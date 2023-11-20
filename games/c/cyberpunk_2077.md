@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 332)  
+Rating: 4.64 (Ranked 333)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 4.00% | ~35,901 |
 | Gun Fu | 2.00% | ~17,951 |
 | Full Body Conversion | 1.00% | ~8,975 |
-| Relic Ruler | 1.00% | ~261 |
+| Relic Ruler | 1.00% | ~262 |
 | True Soldier | 0.90% | ~8,078 |
 | Right Back At Ya | 0.80% | ~7,180 |
 | Stanislavski's Method | 0.80% | ~7,180 |
@@ -30,10 +30,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.50% | ~4,488 |
 | The World | 0.50% | ~4,488 |
 | Judy vs Night City | 0.50% | ~4,488 |
+| Dirty Deeds | 0.50% | ~131 |
 | To Protect and Serve | 0.40% | ~3,590 |
 | I Am The Law | 0.40% | ~3,590 |
 | King of Wands | 0.40% | ~105 |
-| Dirty Deeds | 0.40% | ~105 |
 | Easy Come, Easy Go | 0.40% | ~105 |
 | To Bad Decisions! | 0.30% | ~2,693 |
 | The Wandering Fool | 0.30% | ~2,693 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,526 (Ranked 15)  
+Progressed: 897,529 (Ranked 15)  
 Completed: 2,794 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,794 (0.31%) (Ranked 233)
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
-| 2023-11-20 | 897,526 | 2,794 |
+| 2023-11-20 | 897,529 | 2,794 |
 ## Awards
 Max (Character Customization): 106,367  (Ranked 9)  
 Sum: 358,439 (Ranked 10)  

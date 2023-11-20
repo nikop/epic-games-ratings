@@ -2,7 +2,7 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 853,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 751,
@@ -7526,18 +7526,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 15307235,
       "NumberOfAwardsMax": 2152604
+    },
+    {
+      "Time": "2023-11-20T21:59:33.3786444+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 15319530,
+      "NumberOfAwardsMax": 2164899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15307235,
-  "NumberOfAwardsMax": 2152604,
+  "NumberOfAwards": 15319530,
+  "NumberOfAwardsMax": 2164899,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2152604
+      "Count": 2164899
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7593,8 +7599,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-11-20T01:47:26.3452755+00:00",
+  "LastChanged": "2023-11-20T21:59:33.3786442+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:09.9533538+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:59:37.1659263+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:08:08.5072229+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:59:33.3786449+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:08:10.1113966+00:00"
 }

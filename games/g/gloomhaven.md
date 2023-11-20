@@ -1,33 +1,33 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 635)  
+Rating: 4.47 (Ranked 636)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~9,231 |
-| Overkill | 34.00% | ~7,473 |
-| Vaccine Incoming | 33.00% | ~7,253 |
-| A normal day in Gloomhaven | 32.00% | ~7,033 |
-| Spread the plague | 30.00% | ~6,593 |
-| Get over here! | 25.00% | ~5,494 |
-| Just when I thought I was out... | 19.00% | ~4,176 |
-| Precious! | 17.00% | ~3,736 |
-| Mine... All Mine... | 17.00% | ~3,736 |
-| Grizzled veteran | 15.00% | ~3,297 |
-| Anatomy Lesson | 15.00% | ~3,297 |
-| Light of my life | 14.00% | ~3,077 |
-| Obstacle race | 13.00% | ~2,857 |
-| You activated my trap card! | 12.00% | ~2,637 |
+| I'm not dead yet | 42.00% | ~9,234 |
+| Overkill | 34.00% | ~7,475 |
+| Vaccine Incoming | 33.00% | ~7,255 |
+| A normal day in Gloomhaven | 32.00% | ~7,035 |
+| Spread the plague | 30.00% | ~6,596 |
+| Get over here! | 25.00% | ~5,496 |
+| Just when I thought I was out... | 19.00% | ~4,177 |
+| Precious! | 17.00% | ~3,737 |
+| Mine... All Mine... | 17.00% | ~3,737 |
+| Grizzled veteran | 15.00% | ~3,298 |
+| Anatomy Lesson | 15.00% | ~3,298 |
+| Light of my life | 14.00% | ~3,078 |
+| Obstacle race | 13.00% | ~2,858 |
+| You activated my trap card! | 12.00% | ~2,638 |
 | Augmented rat | 11.00% | ~2,418 |
 | Doom and gloom | 11.00% | ~2,418 |
 | Who's the Boss? | 10.00% | ~2,198 |
-| Dungeon Veteran | 8.00% | ~1,758 |
-| Pain is your friend | 8.00% | ~1,758 |
-| Black death | 8.00% | ~1,758 |
-| Play it again, Sam | 8.00% | ~1,758 |
-| Pack leader | 7.00% | ~1,538 |
+| Dungeon Veteran | 8.00% | ~1,759 |
+| Pack leader | 8.00% | ~1,759 |
+| Pain is your friend | 8.00% | ~1,759 |
+| Black death | 8.00% | ~1,759 |
+| Play it again, Sam | 8.00% | ~1,759 |
 | Quad damage | 6.00% | ~1,319 |
 | Power Up! | 5.00% | ~1,099 |
 | Caught off guard | 5.00% | ~1,099 |
@@ -35,9 +35,9 @@ Number of Ratings: 68  (23.09.2022)
 | Pretty lights! | 5.00% | ~1,099 |
 | Now you see me... | 5.00% | ~1,099 |
 | Merchant of doom | 4.00% | ~879 |
-| I hate portals | 3.00% | ~659 |
-| Down the hatch | 3.00% | ~659 |
-| An eye for an eye | 3.00% | ~659 |
+| I hate portals | 3.00% | ~660 |
+| Down the hatch | 3.00% | ~660 |
+| An eye for an eye | 3.00% | ~660 |
 | From Gloom, only greed and death emerges | 2.00% | ~440 |
 | The Rat King | 2.00% | ~440 |
 | How to train your Drake | 2.00% | ~440 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~22 |
 | Murder Death Kill | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,978 (Ranked 132)  
+Progressed: 21,985 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-17 | 21,220 | 1 |
 | 2023-11-18 | 21,507 | 1 |
 | 2023-11-19 | 21,804 | 1 |
-| 2023-11-20 | 21,978 | 1 |
+| 2023-11-20 | 21,985 | 1 |
 ## Awards
 Max (Character Customization): 3,581  (Ranked 90)  
-Sum: 8,370 (Ranked 100)  
+Sum: 8,371 (Ranked 100)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -150,8 +150,8 @@ Diff (max vs sum): -10
 | This game is Extremely Fun | 543 |
 | This game has Amazing Characters | 491 |
 | This game is Relaxing | 489 |
+| This game has Quickly Understood Controls | 488 |
 | This game has Amazing Storytelling | 488 |
-| This game has Quickly Understood Controls | 487 |
 | This game has Unique Visuals | 381 |
 | This game has a Creative Community | 216 |
 | This game has Obsessive Gameplay | 152 |
@@ -379,3 +379,4 @@ Diff (max vs sum): -10
 | 2023-11-17 | 4.47 | - | 3,576 | 8,362 |
 | 2023-11-18 | 4.47 | - | 3,579 | 8,368 |
 | 2023-11-19 | 4.47 | - | 3,581 | 8,370 |
+| 2023-11-20 | 4.47 | - | 3,581 | 8,371 |

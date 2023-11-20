@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,9 +14,9 @@ Number of Ratings: 371  (23.09.2022)
 | Blood for the Blood God! | 6.00% | ~199 |
 | Purging Spree | 6.00% | ~199 |
 | Bloodless | 5.00% | ~166 |
-| Surgical Excision | 4.00% | ~132 |
-| Friendly Fire | 4.00% | ~132 |
-| The Emperor Protects | 4.00% | ~132 |
+| Surgical Excision | 4.00% | ~133 |
+| Friendly Fire | 4.00% | ~133 |
+| The Emperor Protects | 4.00% | ~133 |
 | Honoured Battle-Brother | 3.00% | ~99 |
 | Nemesis Master | 3.00% | ~99 |
 | Gunmaster | 3.00% | ~99 |
@@ -37,10 +37,10 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
 | Fleetmaster | 0.90% | ~30 |
-| Patron of Deimos | 0.80% | ~26 |
-| For the Machine God | 0.80% | ~26 |
-| Preservationist | 0.80% | ~26 |
-| Death Comes For All | 0.80% | ~26 |
+| Patron of Deimos | 0.80% | ~27 |
+| For the Machine God | 0.80% | ~27 |
+| Preservationist | 0.80% | ~27 |
+| Death Comes For All | 0.80% | ~27 |
 | Engine Kill | 0.70% | ~23 |
 | Harvest No More | 0.70% | ~23 |
 | Hands-On Research | 0.60% | ~20 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,312 (Ranked 208)  
+Progressed: 3,313 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 3,307 | 0 |
 | 2023-11-18 | 3,310 | 0 |
 | 2023-11-19 | 3,311 | 0 |
-| 2023-11-20 | 3,312 | 0 |
+| 2023-11-20 | 3,313 | 0 |
 ## Awards
 Max (Character Customization): 222  (Ranked 277)  
 Sum: 481 (Ranked 329)  

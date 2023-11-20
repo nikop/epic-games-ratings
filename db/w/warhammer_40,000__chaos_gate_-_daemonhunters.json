@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -747,9 +747,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3312,
+  "EOS_Progressed": 3313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3887,6 +3887,11 @@
       "Time": "2023-11-20T18:06:06.948325+00:00",
       "NumProgressed": 3312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T22:07:40.034248+00:00",
+      "NumProgressed": 3313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3962,7 +3967,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Dominus",
@@ -3994,7 +3999,7 @@
       "Name": "Surgical Excision",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -4018,7 +4023,7 @@
       "Name": "For the Machine God",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FrequentWarpSurges",
@@ -4106,7 +4111,7 @@
       "Name": "Friendly Fire",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Kills_Interactable",
@@ -4162,7 +4167,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -4290,7 +4295,7 @@
       "Name": "Preservationist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -4330,7 +4335,7 @@
       "Name": "Death Comes For All",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SacristaCompleted",
@@ -4441,21 +4446,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3312,
+      "Progressed": 3313,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3312,
+      "Progressed": 3313,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-10-29T02:59:23.6089798+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:06:17.195092+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:07:40.0342469+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.3059568+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:57:23.9228808+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:06:17.1951482+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:57:19.4790228+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:07:40.0343088+00:00"
 }

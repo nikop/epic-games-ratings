@@ -11,6 +11,7 @@ Rating: 4.61 (Ranked 384)
 | Secret Technique | 2.00% | ~108 |
 | Walls Cannot Stop Us | 2.00% | ~108 |
 | Freed Lands of Manuhari | 2.00% | ~108 |
+| Valley of Wonders | 1.00% | ~54 |
 | There Can Only Be One! | 1.00% | ~54 |
 | Full Ascension | 1.00% | ~54 |
 | Bone Peddler | 1.00% | ~54 |
@@ -22,7 +23,6 @@ Rating: 4.61 (Ranked 384)
 | Sehiran Oasis | 1.00% | ~54 |
 | Chaos Surge | 1.00% | ~54 |
 | Spoils of War | 1.00% | ~54 |
-| Valley of Wonders | 0.90% | ~49 |
 | Intimidation Tactics | 0.90% | ~49 |
 | Seal the Deal | 0.90% | ~49 |
 | Here be Dragons | 0.80% | ~43 |

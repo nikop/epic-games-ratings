@@ -2,7 +2,7 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 1017,
+  "Ranking_Rating": 1018,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 173,
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 8115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7477,8 +7477,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:09:00.9999267+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:09:03.4935851+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:02:28.2977605+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:09:01.0000032+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:02:34.7262886+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:09:03.4936665+00:00"
 }

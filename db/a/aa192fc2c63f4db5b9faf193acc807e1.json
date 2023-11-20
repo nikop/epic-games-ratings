@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "creepytaleach10",
@@ -330,9 +330,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "creepytaleach12",
@@ -410,9 +410,9 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
@@ -425,8 +425,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:08:51.7295453+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:08:54.0503796+00:00",
   "LastUpdate_AppInfo": "2023-11-15T04:57:06.3642794+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:58:35.0945295+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:08:51.7295561+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:58:31.3861348+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:08:54.0503885+00:00"
 }

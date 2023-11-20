@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 1,001)  
+Rating: 3.99 (Ranked 1,002)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,17 +17,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 3.00% | ~4,222 |
 | Capitalism Ho! | 3.00% | ~4,222 |
 | Own the Means of Production | 3.00% | ~4,222 |
-| The Daily Grind | 2.00% | ~2,814 |
-| Some Assembly Required | 2.00% | ~2,814 |
-| Bounty Hunters | 2.00% | ~2,814 |
-| Demand for Supplies | 2.00% | ~2,814 |
-| Flooding the Market | 2.00% | ~2,814 |
-| Where it Hurts | 2.00% | ~2,814 |
-| Pretty Penny | 2.00% | ~2,814 |
-| Gild-Gotten Goods | 2.00% | ~2,814 |
-| One-Armed Bandit | 2.00% | ~2,814 |
-| Dungeon Imports | 2.00% | ~2,814 |
-| Through Repetition, Perfection | 2.00% | ~2,814 |
+| The Daily Grind | 2.00% | ~2,815 |
+| Some Assembly Required | 2.00% | ~2,815 |
+| Bounty Hunters | 2.00% | ~2,815 |
+| Demand for Supplies | 2.00% | ~2,815 |
+| Flooding the Market | 2.00% | ~2,815 |
+| Where it Hurts | 2.00% | ~2,815 |
+| Pretty Penny | 2.00% | ~2,815 |
+| Gild-Gotten Goods | 2.00% | ~2,815 |
+| One-Armed Bandit | 2.00% | ~2,815 |
+| Dungeon Imports | 2.00% | ~2,815 |
+| Through Repetition, Perfection | 2.00% | ~2,815 |
 | On the Path to Greatness | 1.00% | ~1,407 |
 | Ascended | 1.00% | ~1,407 |
 | Tax not Included | 1.00% | ~1,407 |
@@ -48,24 +48,24 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,407 |
 | Magical Harmony | 1.00% | ~1,407 |
 | Arcane Industries | 1.00% | ~1,407 |
-| A Notch Above the Rest | 0.90% | ~1,266 |
-| The King's Caprice | 0.90% | ~1,266 |
-| Big Game Hunting | 0.90% | ~1,266 |
-| Scrapbooker | 0.90% | ~1,266 |
-| Locally Sourced | 0.90% | ~1,266 |
-| Flying off the Shelves | 0.90% | ~1,266 |
-| This Power Level...! | 0.90% | ~1,266 |
-| Hidden Potential | 0.90% | ~1,266 |
-| Expansion in Session | 0.90% | ~1,266 |
-| Cranked up to 11 | 0.90% | ~1,266 |
-| Mammonite | 0.90% | ~1,266 |
-| Miracle Alchemist | 0.90% | ~1,266 |
-| Laden with Loot | 0.90% | ~1,266 |
-| Seasoned Journeyman | 0.90% | ~1,266 |
-| Scourge of the Seas | 0.90% | ~1,266 |
-| Black Friday Special | 0.90% | ~1,266 |
-| Special Ingredient | 0.90% | ~1,266 |
-| Complete Monopoly | 0.90% | ~1,266 |
+| A Notch Above the Rest | 0.90% | ~1,267 |
+| The King's Caprice | 0.90% | ~1,267 |
+| Big Game Hunting | 0.90% | ~1,267 |
+| Scrapbooker | 0.90% | ~1,267 |
+| Locally Sourced | 0.90% | ~1,267 |
+| Flying off the Shelves | 0.90% | ~1,267 |
+| This Power Level...! | 0.90% | ~1,267 |
+| Hidden Potential | 0.90% | ~1,267 |
+| Expansion in Session | 0.90% | ~1,267 |
+| Cranked up to 11 | 0.90% | ~1,267 |
+| Mammonite | 0.90% | ~1,267 |
+| Miracle Alchemist | 0.90% | ~1,267 |
+| Laden with Loot | 0.90% | ~1,267 |
+| Seasoned Journeyman | 0.90% | ~1,267 |
+| Scourge of the Seas | 0.90% | ~1,267 |
+| Black Friday Special | 0.90% | ~1,267 |
+| Special Ingredient | 0.90% | ~1,267 |
+| Complete Monopoly | 0.90% | ~1,267 |
 | Cream of the Crop | 0.80% | ~1,126 |
 | Proud Paladin | 0.80% | ~1,126 |
 | Above the Norm | 0.80% | ~1,126 |
@@ -83,6 +83,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 0.80% | ~1,126 |
 | Glittering Collection | 0.80% | ~1,126 |
 | Treasure Trove | 0.80% | ~1,126 |
+| Moment of Respite | 0.80% | ~1,126 |
 | Master Recycler | 0.80% | ~1,126 |
 | Exotic Commodities | 0.80% | ~1,126 |
 | King's Blade | 0.80% | ~1,126 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.70% | ~985 |
 | Bountiful Harvest | 0.70% | ~985 |
 | Precision Engineering | 0.70% | ~985 |
-| Moment of Respite | 0.70% | ~985 |
 | King's Shadow | 0.70% | ~985 |
 | Economy of Scarce | 0.70% | ~985 |
 | Jackpot! | 0.60% | ~844 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,721 (Ranked 80)  
+Progressed: 140,726 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 188 (0.13%) (Ranked 268)
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
-| 2023-11-20 | 140,721 | 188 |
+| 2023-11-20 | 140,726 | 188 |
 ## Awards
 Max (Great for Beginners): 4,836  (Ranked 74)  
 Sum: 27,570 (Ranked 50)  

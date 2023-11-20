@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1530,9 +1530,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -1681,8 +1681,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:03:06.1745672+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:03:14.9028148+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:03.5964806+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:57:53.7588006+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:03:06.1745862+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:57:49.5551219+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:03:14.9028373+00:00"
 }

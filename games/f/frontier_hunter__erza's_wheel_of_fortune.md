@@ -37,7 +37,7 @@
 | Warden Slayer | 13.00% | ~15 |
 | Boss challenge | 12.00% | ~14 |
 | Giantess Slayer | 12.00% | ~14 |
-| Silver Moon Wolf King Challenge | 6.00% | ~7 |
+| Silver Moon Wolf King Challenge | 7.00% | ~8 |
 | Big Face Goalkeeper Challenge | 5.00% | ~6 |
 | Rebellious | 4.00% | ~5 |
 | Blade Mantis Challenge | 4.00% | ~5 |

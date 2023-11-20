@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Camp | 31.00% | ~58 |
 | The City | 27.00% | ~50 |
+| The Teleprobe | 26.00% | ~48 |
 | The field base | 26.00% | ~48 |
-| The Teleprobe | 25.00% | ~46 |
 | Survivors | 24.00% | ~45 |
 | The Condor | 22.00% | ~41 |
 | The End | 20.00% | ~37 |
@@ -23,8 +23,8 @@
 | Evacuation | 10.00% | ~19 |
 | I remember everything! | 8.00% | ~15 |
 | Violent solution | 7.00% | ~13 |
+| Innate curiosity | 6.00% | ~11 |
 | The Invincible | 5.00% | ~9 |
-| Innate curiosity | 5.00% | ~9 |
 | Ubiquitous holes | 3.00% | ~6 |
 | Another giant | 3.00% | ~6 |
 | Strong objection | 3.00% | ~6 |

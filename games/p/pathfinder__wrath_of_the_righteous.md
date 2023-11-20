@@ -340,7 +340,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-20 | 12,129 | 0 |
 ## Awards
 Max (Character Customization): 1,744  (Ranked 122)  
-Sum: 7,071 (Ranked 120)  
+Sum: 7,072 (Ranked 120)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 587 |
 | This game has Quickly Understood Controls | 578 |
 | This game is Relaxing | 557 |
-| This game has a Creative Community | 394 |
+| This game has a Creative Community | 395 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -625,4 +625,4 @@ Diff (max vs sum): 2
 | 2023-11-17 | 4.76 | - | 1,743 | 7,062 |
 | 2023-11-18 | 4.76 | - | 1,743 | 7,065 |
 | 2023-11-19 | 4.76 | - | 1,744 | 7,069 |
-| 2023-11-20 | 4.76 | - | 1,744 | 7,071 |
+| 2023-11-20 | 4.76 | - | 1,744 | 7,072 |

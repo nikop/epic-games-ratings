@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 76.00% | ~58 |
-| Something important | 74.00% | ~56 |
-| A piece of the story | 61.00% | ~46 |
-| Do what you have to | 46.00% | ~35 |
-| Scraps of love | 43.00% | ~33 |
-| The artist’s impression | 43.00% | ~33 |
-| It's covered up for a reason | 42.00% | ~32 |
+| Wanderer | 77.00% | ~59 |
+| Something important | 74.00% | ~57 |
+| A piece of the story | 61.00% | ~47 |
+| Do what you have to | 45.00% | ~35 |
+| Scraps of love | 44.00% | ~34 |
+| The artist’s impression | 44.00% | ~34 |
+| It's covered up for a reason | 43.00% | ~33 |
 | Refuse to look | 39.00% | ~30 |
 | Sign of weakness | 38.00% | ~29 |
 | Finished it | 30.00% | ~23 |
-| Face your fears | 24.00% | ~18 |
+| Face your fears | 23.00% | ~18 |
 | Playtime | 16.00% | ~12 |
 | Tough conversation | 16.00% | ~12 |
 | The tragedy unfolds | 14.00% | ~11 |
@@ -22,14 +22,14 @@
 | A new way | 12.00% | ~9 |
 | Breaking free | 12.00% | ~9 |
 | Whispers long forgotten | 12.00% | ~9 |
-| A Slice of Life | 11.00% | ~8 |
-| Debut | 11.00% | ~8 |
-| The art of movement | 11.00% | ~8 |
-| True Reflection | 11.00% | ~8 |
+| A Slice of Life | 10.00% | ~8 |
+| Debut | 10.00% | ~8 |
+| The art of movement | 10.00% | ~8 |
+| True Reflection | 10.00% | ~8 |
 | Another perspective | 8.00% | ~6 |
 | Sound Bite | 8.00% | ~6 |
 | Lights! Camera! Action! | 8.00% | ~6 |
-| Heavy Burden | 7.00% | ~5 |
+| Heavy Burden | 6.00% | ~5 |
 | Casting Finished | 5.00% | ~4 |
 | We Are Not Alone | 5.00% | ~4 |
 | Fisherman | 5.00% | ~4 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 455)  
+Progressed: 77 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,4 +90,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 71 | 0 |
 | 2023-11-18 | 73 | 0 |
 | 2023-11-19 | 75 | 0 |
-| 2023-11-20 | 76 | 0 |
+| 2023-11-20 | 77 | 0 |

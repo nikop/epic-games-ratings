@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 147,
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16562,
+  "EOS_Progressed": 16563,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14558,6 +14558,11 @@
       "Time": "2023-11-20T20:06:02.2985066+00:00",
       "NumProgressed": 16562,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-20T22:04:51.3810161+00:00",
+      "NumProgressed": 16563,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14609,7 +14614,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5465
+      "UsersEstimate": 5466
     },
     {
       "ID": "tpote_achievement_15",
@@ -14657,7 +14662,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5465
+      "UsersEstimate": 5466
     },
     {
       "ID": "tpote_achievement_20",
@@ -14681,7 +14686,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "tpote_achievement_23",
@@ -14705,7 +14710,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "tpote_achievement_26",
@@ -14729,7 +14734,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "tpote_achievement_29",
@@ -14793,7 +14798,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "tpote_achievement_36",
@@ -14817,7 +14822,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "tpote_achievement_39",
@@ -14896,15 +14901,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16562,
+      "Progressed": 16563,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:04:38.6261423+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:04:51.3810158+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:58:21.8015605+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:04:38.6262376+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:58:17.7270599+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:04:51.3810943+00:00"
 }

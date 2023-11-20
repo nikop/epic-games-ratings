@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 123,
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38124,
+  "EOS_Progressed": 38128,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -18855,6 +18855,11 @@
       "Time": "2023-11-20T21:05:08.5701231+00:00",
       "NumProgressed": 38124,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-20T22:05:20.9753308+00:00",
+      "NumProgressed": 38128,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -18874,7 +18879,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "50stars",
@@ -18882,7 +18887,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9912
+      "UsersEstimate": 9913
     },
     {
       "ID": "allItems",
@@ -18890,7 +18895,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "allSecrets",
@@ -18898,7 +18903,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "bigBunny",
@@ -18914,7 +18919,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "completionist",
@@ -18922,7 +18927,7 @@
       "Name": "Completionist",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "dejaVu",
@@ -18930,7 +18935,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ending",
@@ -18946,7 +18951,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9150
+      "UsersEstimate": 9151
     },
     {
       "ID": "firstItem",
@@ -18954,7 +18959,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29355
+      "UsersEstimate": 29359
     },
     {
       "ID": "roots",
@@ -18962,7 +18967,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6481
+      "UsersEstimate": 6482
     },
     {
       "ID": "secretItem",
@@ -18977,15 +18982,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38124,
+      "Progressed": 38128,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:05:08.5701228+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:05:20.9753304+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.7435726+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:57:17.3502017+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:05:08.570221+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:57:13.0335476+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:05:20.9754609+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5667,
+  "EOS_Progressed": 5668,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3886,6 +3886,11 @@
       "Time": "2023-11-20T21:08:38.2000569+00:00",
       "NumProgressed": 5667,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T22:08:40.6336965+00:00",
+      "NumProgressed": 5668,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3906,7 +3911,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "BeLikeWater",
@@ -3970,7 +3975,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4098,7 +4103,7 @@
       "Name": "The Quarterback",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ThisIsDharma",
@@ -4169,7 +4174,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5667,
+      "Progressed": 5668,
       "Completed": 7
     }
   ],
@@ -4177,8 +4182,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:08:38.2000564+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:08:40.6336962+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:58:11.274293+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:08:38.2000922+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:58:07.3430639+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:08:40.6337326+00:00"
 }

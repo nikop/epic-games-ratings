@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 436,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.32,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -519,6 +519,11 @@
       "Time": "2023-11-20T01:51:51.8141348+00:00",
       "NumProgressed": 95,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-20T22:03:52.6226526+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 26,
@@ -656,7 +661,7 @@
       "ID": "Moon_Fragile",
       "SetID": "6j29jep",
       "Name": "Something to make you dream... (fragile)",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -737,14 +742,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:03:43.0252433+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:03:52.6226522+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:05.5071455+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:59:36.0514353+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:03:43.0252593+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:59:32.248878+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:03:52.6226705+00:00"
 }

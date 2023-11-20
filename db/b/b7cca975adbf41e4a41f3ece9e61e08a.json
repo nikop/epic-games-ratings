@@ -143,7 +143,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8664,
+  "EOS_Progressed": 8665,
   "EOS_Completed": 148,
   "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 22,
@@ -3983,6 +3983,11 @@
       "Time": "2023-11-20T20:05:46.9617586+00:00",
       "NumProgressed": 8664,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-11-20T22:04:40.2702727+00:00",
+      "NumProgressed": 8665,
+      "NumCompleted": 148
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -3995,7 +4000,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -4003,7 +4008,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 7711
+      "UsersEstimate": 7712
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -4027,7 +4032,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -4083,7 +4088,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -4139,7 +4144,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -4179,7 +4184,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 5978
+      "UsersEstimate": 5979
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -4203,7 +4208,7 @@
       "Name": "What I Want Is You",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 5545
+      "UsersEstimate": 5546
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -4211,7 +4216,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -4267,7 +4272,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -4275,7 +4280,7 @@
       "Name": "David",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -4307,7 +4312,7 @@
       "Name": "Drama King",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -4330,7 +4335,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 8664,
+      "Progressed": 8665,
       "Completed": 148
     }
   ],
@@ -4338,8 +4343,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-19T04:01:05.4941686+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:04:27.7395666+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:04:40.2702721+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.4892963+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:57:32.0894784+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:04:27.7396008+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:57:28.1450885+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:04:40.2703222+00:00"
 }

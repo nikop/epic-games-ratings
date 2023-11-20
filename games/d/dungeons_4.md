@@ -39,8 +39,8 @@
 | The Duel | 20.00% | ~63 |
 | Forbidden Knowledge | 19.00% | ~60 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~57 |
+| If Looks Could Kill | 17.00% | ~54 |
 | Stop Tanos! | 16.00% | ~51 |
-| If Looks Could Kill | 16.00% | ~51 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~48 |
 | The Finitude Drill | 15.00% | ~48 |
 | Doom Hill | 12.00% | ~38 |

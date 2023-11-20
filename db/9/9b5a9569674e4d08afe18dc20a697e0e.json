@@ -244,9 +244,9 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SKILLED",
@@ -260,9 +260,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOUL",
@@ -306,8 +306,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:05:20.1181751+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:05:32.8722979+00:00",
   "LastUpdate_AppInfo": "2023-11-15T22:57:04.9325318+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:57:29.9414557+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:05:20.1181897+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:57:25.8758704+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:05:32.8723177+00:00"
 }

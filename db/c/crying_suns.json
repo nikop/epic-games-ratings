@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 586,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 40,
@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471120,
+  "EOS_Progressed": 471123,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
@@ -23013,6 +23013,11 @@
       "Time": "2023-11-20T21:09:00.2964303+00:00",
       "NumProgressed": 471120,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-20T22:09:02.7772576+00:00",
+      "NumProgressed": 471123,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23040,7 +23045,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113069
+      "UsersEstimate": 113070
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -23048,7 +23053,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103646
+      "UsersEstimate": 103647
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -23112,7 +23117,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310939
+      "UsersEstimate": 310941
     },
     {
       "ID": "achievement_story_landa",
@@ -23144,7 +23149,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117780
+      "UsersEstimate": 117781
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -23160,7 +23165,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32978
+      "UsersEstimate": 32979
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -23168,7 +23173,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32978
+      "UsersEstimate": 32979
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -23176,7 +23181,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51823
+      "UsersEstimate": 51824
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -23200,7 +23205,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94224
+      "UsersEstimate": 94225
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -23208,7 +23213,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160181
+      "UsersEstimate": 160182
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23264,7 +23269,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32978
+      "UsersEstimate": 32979
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -23448,7 +23453,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207293
+      "UsersEstimate": 207294
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23456,7 +23461,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141336
+      "UsersEstimate": 141337
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23472,7 +23477,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51823
+      "UsersEstimate": 51824
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -23480,7 +23485,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183737
+      "UsersEstimate": 183738
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23536,7 +23541,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103646
+      "UsersEstimate": 103647
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -23655,21 +23660,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15054,
+      "Progressed": 15057,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471120,
+      "Progressed": 471123,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:09:00.2964299+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:09:02.7772573+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:57:20.9378964+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:09:00.2965784+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:57:16.37351+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:09:02.7773921+00:00"
 }

@@ -2,6 +2,9 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
+  "Ranking_Rating": 431,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 123,
@@ -19,14 +22,22 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.59,
+  "RatingHistory": [
+    {
+      "Time": "2023-11-20T21:59:05.9866436+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2212,9 +2223,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -2260,9 +2271,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -2396,9 +2407,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 689
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -2420,9 +2431,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 420
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -2596,9 +2607,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 619
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -2636,9 +2647,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 749
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -2780,9 +2791,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 669
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -2876,9 +2887,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 589
+      "UsersEstimate": 599
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -2938,9 +2949,11 @@
     }
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
+  "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-20T21:04:07.97004+00:00",
+  "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
+  "LastChanged_Achievements": "2023-11-20T22:04:19.2600604+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:59:10.1313258+00:00",
-  "LastUpdate_Achievements": "2023-11-20T21:04:07.9701263+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:59:05.9866445+00:00",
+  "LastUpdate_Achievements": "2023-11-20T22:04:19.2601434+00:00"
 }
