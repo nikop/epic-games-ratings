@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,431 |
-| Alt+F4 | 8.00% | ~19,070 |
-| Where's that freaking Dwarf? | 7.00% | ~16,686 |
-| Déjà vu | 6.00% | ~14,302 |
+| Sowwy! | 35.00% | ~83,435 |
+| Alt+F4 | 8.00% | ~19,071 |
+| Where's that freaking Dwarf? | 7.00% | ~16,687 |
+| Déjà vu | 6.00% | ~14,303 |
 | Sock! SOCK! | 5.00% | ~11,919 |
 | Speedrun | 5.00% | ~11,919 |
 | A beer, two curses, three companions | 4.00% | ~9,535 |
 | GG EZ | 4.00% | ~9,535 |
 | DM intervention | 4.00% | ~9,535 |
 | Fireproof Wizardess | 4.00% | ~9,535 |
-| Livin' in a dwarven paradise | 3.00% | ~7,151 |
-| Way of the Wimp | 3.00% | ~7,151 |
-| The plot thickens... At the tavern | 3.00% | ~7,151 |
+| Livin' in a dwarven paradise | 3.00% | ~7,152 |
+| Way of the Wimp | 3.00% | ~7,152 |
+| The plot thickens... At the tavern | 3.00% | ~7,152 |
 | Shiny and Crôm | 2.00% | ~4,768 |
 | The demons' feast | 2.00% | ~4,768 |
 | The Great Library | 2.00% | ~4,768 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,375 (Ranked 63)  
+Progressed: 238,387 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,13 +268,14 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-17 | 237,757 | 7 |
 | 2023-11-18 | 238,073 | 7 |
 | 2023-11-19 | 238,375 | 7 |
+| 2023-11-20 | 238,387 | 7 |
 ## Awards
-Max (Character Customization): 231  (Ranked 272)  
-Sum: 467 (Ranked 331)  
-Diff (max vs sum): -59  
+Max (Character Customization): 235  (Ranked 272)  
+Sum: 471 (Ranked 330)  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 231 |
+| This game has Inclusive Character Customization | 235 |
 | This game is Relaxing | 37 |
 | This game is Great for Beginners | 34 |
 | This game has Quickly Understood Controls | 30 |
@@ -465,4 +466,4 @@ Diff (max vs sum): -59
 | 2023-11-14 | 4.58 | - | 229 | 460 |
 | 2023-11-16 | 4.58 | - | 230 | 463 |
 | 2023-11-18 | 4.59 | - | 231 | 467 |
-| 2023-11-19 | 4.58 | - | 231 | 467 |
+| 2023-11-19 | 4.58 | - | 235 | 471 |

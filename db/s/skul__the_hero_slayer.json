@@ -1091,9 +1091,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 8305,
+  "EOS_Progressed": 8306,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5371,6 +5371,11 @@
       "Time": "2023-11-19T23:06:17.9474341+00:00",
       "NumProgressed": 8305,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-20T00:06:10.376367+00:00",
+      "NumProgressed": 8306,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5406,7 +5411,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5430,7 +5435,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -5446,7 +5451,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -5462,7 +5467,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "HeroSlayer",
@@ -5510,7 +5515,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5316
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5542,7 +5547,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7724
+      "UsersEstimate": 7725
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5550,7 +5555,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5558,7 +5563,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WhattoBuy",
@@ -5566,22 +5571,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6976
+      "UsersEstimate": 6977
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8305,
+      "Progressed": 8306,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-18T20:01:19.6525053+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:06:17.9474339+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:06:10.3763667+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.7381553+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:57:16.6785273+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:06:17.9474824+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:57:09.5770331+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:06:10.3764052+00:00"
 }

@@ -3918,9 +3918,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 493
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_127",
@@ -4278,9 +4278,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_53",
@@ -4350,9 +4350,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 387
     },
     {
       "ID": "achievement_61",
@@ -4702,12 +4702,12 @@
       "ID": "d252ncf",
       "IsBase": false,
       "Progressed": 1333,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:08:01.1849698+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:07:22.0576418+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:03:12.4494032+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:08:01.18518+00:00"
+  "LastUpdate_Ratings": "2023-11-20T00:03:02.7751725+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:07:22.0578168+00:00"
 }

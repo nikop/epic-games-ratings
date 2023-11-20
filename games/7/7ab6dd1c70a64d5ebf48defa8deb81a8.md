@@ -18,12 +18,12 @@
 | Shatter Them All | 3.00% | ~6 |
 | Big Bazar | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
+| Fashion Victim | 3.00% | ~6 |
 | Stone Collection | 3.00% | ~6 |
 | The Collector | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Essence Blow | 2.00% | ~4 |
-| Fashion Victim | 2.00% | ~4 |
 | Alchemist | 2.00% | ~4 |
 | The Mentor | 1.00% | ~2 |
 | Airborne | 1.00% | ~2 |

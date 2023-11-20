@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,170 |
+| First Step | 70.00% | ~372,171 |
 | Now You're Talking | 62.00% | ~329,637 |
 | Steel Yourself | 62.00% | ~329,637 |
 | Window Dressing | 50.00% | ~265,836 |
-| Trigger Happy | 46.00% | ~244,569 |
-| Riverborn | 45.00% | ~239,252 |
-| Starry Eyed | 34.00% | ~180,768 |
-| Poking Around | 34.00% | ~180,768 |
-| Talk of the Town | 24.00% | ~127,601 |
+| Trigger Happy | 46.00% | ~244,570 |
+| Riverborn | 45.00% | ~239,253 |
+| Starry Eyed | 34.00% | ~180,769 |
+| Poking Around | 34.00% | ~180,769 |
+| Talk of the Town | 24.00% | ~127,602 |
 | AAARR! | 23.00% | ~122,285 |
 | Hello Darkness | 23.00% | ~122,285 |
 | Wind At Our Backs | 22.00% | ~116,968 |
-| To the Beat | 20.00% | ~106,334 |
+| To the Beat | 20.00% | ~106,335 |
 | Sunny Shores | 17.00% | ~90,384 |
 | Sunday Best | 16.00% | ~85,068 |
 | To Victory! | 15.00% | ~79,751 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~58,484 |
 | Walking The Line | 10.00% | ~53,167 |
 | Not So Cute Anymore | 10.00% | ~53,167 |
-| Road Less Travelled | 9.00% | ~47,850 |
-| Lost and Found | 9.00% | ~47,850 |
+| Road Less Travelled | 9.00% | ~47,851 |
+| Lost and Found | 9.00% | ~47,851 |
 | Under the Radar | 8.00% | ~42,534 |
 | Partner in Crime | 7.00% | ~37,217 |
 | Hard to Hear | 7.00% | ~37,217 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,595 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,672 (Ranked 35)  
+Progressed: 531,673 (Ranked 35)  
 Completed: 500 (0.09%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,6 +278,7 @@ Completed: 500 (0.09%) (Ranked 284)
 | 2023-11-17 | 531,514 | 499 |
 | 2023-11-18 | 531,602 | 499 |
 | 2023-11-19 | 531,672 | 500 |
+| 2023-11-20 | 531,673 | 500 |
 ## Awards
 Max (Relaxing): 20  (Ranked 542)  
 Sum: 20 (Ranked 543)  

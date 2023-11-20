@@ -10,9 +10,9 @@
 | The Tomb of Kih-Oskh | 20.00% | ~4 |
 | The Weighing of the Soul | 10.00% | ~2 |
 | The Curse of Kih-Oskh | 10.00% | ~2 |
+| It's a Deal! | 10.00% | ~2 |
 | Mummy Nightmare | 5.00% | ~1 |
 | Barking Dog | 5.00% | ~1 |
-| It's a Deal! | 5.00% | ~1 |
 | In the Name of the Law | 0.00% | ~0 |
 | Au Revoir, Abudin | 0.00% | ~0 |
 | Mysterious Bungalow | 0.00% | ~0 |

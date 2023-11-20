@@ -6,40 +6,40 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~635,975 |
-| Escaped Asphodel | 79.00% | ~564,517 |
-| Arms Collector | 70.00% | ~500,205 |
-| Friends in High Places | 67.00% | ~478,768 |
-| Escaped Elysium | 66.00% | ~471,622 |
-| Chthonic Colleagues | 62.00% | ~443,039 |
-| Is There No Escape? | 52.00% | ~371,581 |
-| Death Dealer | 45.00% | ~321,561 |
-| Skelly Slayer | 42.00% | ~300,123 |
-| Well Stocked | 40.00% | ~285,832 |
-| Back to Work | 38.00% | ~271,540 |
-| Day-or-Night Trader | 37.00% | ~264,394 |
-| Blessed by the Gods | 37.00% | ~264,394 |
-| Urge to Sing | 36.00% | ~257,248 |
-| Blood Bound | 35.00% | ~250,103 |
-| Three-Headed Boy | 32.00% | ~228,665 |
-| River Denizens | 28.00% | ~200,082 |
-| Grown Close | 28.00% | ~200,082 |
-| Home Makeover | 27.00% | ~192,936 |
-| Had to Happen | 25.00% | ~178,645 |
-| The Family Secret | 25.00% | ~178,645 |
-| Tools of the Architect | 23.00% | ~164,353 |
-| Master of Arms | 23.00% | ~164,353 |
-| To Charon's Credit | 22.00% | ~157,207 |
-| Rare Collectible | 22.00% | ~157,207 |
+| Escaped Tartarus | 89.00% | ~635,978 |
+| Escaped Asphodel | 79.00% | ~564,520 |
+| Arms Collector | 70.00% | ~500,207 |
+| Friends in High Places | 67.00% | ~478,770 |
+| Escaped Elysium | 66.00% | ~471,624 |
+| Chthonic Colleagues | 62.00% | ~443,041 |
+| Is There No Escape? | 52.00% | ~371,583 |
+| Death Dealer | 45.00% | ~321,562 |
+| Skelly Slayer | 42.00% | ~300,124 |
+| Well Stocked | 40.00% | ~285,833 |
+| Back to Work | 38.00% | ~271,541 |
+| Day-or-Night Trader | 37.00% | ~264,395 |
+| Blessed by the Gods | 37.00% | ~264,395 |
+| Urge to Sing | 36.00% | ~257,250 |
+| Blood Bound | 35.00% | ~250,104 |
+| Three-Headed Boy | 32.00% | ~228,666 |
+| River Denizens | 28.00% | ~200,083 |
+| Grown Close | 28.00% | ~200,083 |
+| Home Makeover | 27.00% | ~192,937 |
+| Had to Happen | 25.00% | ~178,646 |
+| The Family Secret | 25.00% | ~178,646 |
+| Tools of the Architect | 23.00% | ~164,354 |
+| Master of Arms | 23.00% | ~164,354 |
+| To Charon's Credit | 22.00% | ~157,208 |
+| Rare Collectible | 22.00% | ~157,208 |
 | Weapon of Fate | 21.00% | ~150,062 |
-| Something From Everyone | 19.00% | ~135,770 |
-| Hold the Onions | 18.00% | ~128,624 |
-| Well Versed | 17.00% | ~121,478 |
+| Something From Everyone | 19.00% | ~135,771 |
+| Hold the Onions | 18.00% | ~128,625 |
+| Well Versed | 17.00% | ~121,479 |
 | War-God's Bloodlust | 15.00% | ~107,187 |
 | Musician and Muse | 14.00% | ~100,041 |
-| The Useless Trinket | 13.00% | ~92,895 |
-| Champion of Elysium | 13.00% | ~92,895 |
-| Slashed Benefits | 12.00% | ~85,749 |
+| The Useless Trinket | 13.00% | ~92,896 |
+| Champion of Elysium | 13.00% | ~92,896 |
+| Slashed Benefits | 12.00% | ~85,750 |
 | Haste of Hermes | 11.00% | ~78,604 |
 | Bad Call | 10.00% | ~71,458 |
 | Nyx's Mirror | 10.00% | ~71,458 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~64,312 |
 | Thanks, But No Thanks | 9.00% | ~64,312 |
 | Infernal Arms | 9.00% | ~64,312 |
-| Divided by Death | 8.00% | ~57,166 |
+| Divided by Death | 8.00% | ~57,167 |
 | Harsh Conditions | 7.00% | ~50,021 |
 | One for the Ages | 7.00% | ~50,021 |
 | Complete Set | 6.00% | ~42,875 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,583 |
 | Friends Forever | 4.00% | ~28,583 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,579 (Ranked 23)  
+Progressed: 714,582 (Ranked 23)  
 Completed: 6,489 (0.91%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,11 @@ Completed: 6,489 (0.91%) (Ranked 170)
 | 2023-11-17 | 714,276 | 6,486 |
 | 2023-11-18 | 714,433 | 6,488 |
 | 2023-11-19 | 714,579 | 6,489 |
+| 2023-11-20 | 714,582 | 6,489 |
 ## Awards
 Max (Character Customization): 3,373  (Ranked 93)  
-Sum: 8,229 (Ranked 102)  
-Diff (max vs sum): -9  
+Sum: 8,229 (Ranked 103)  
+Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,373 |

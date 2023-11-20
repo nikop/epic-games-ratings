@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 548,
+  "EOS_Progressed": 549,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
@@ -1895,6 +1895,11 @@
       "Time": "2023-11-19T21:09:16.2922366+00:00",
       "NumProgressed": 548,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-20T00:09:08.3541992+00:00",
+      "NumProgressed": 549,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1913,9 +1918,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_11",
@@ -1945,9 +1950,9 @@
       "ID": "achievement_14",
       "SetID": "7ldgi7j",
       "Name": "Golfer Versus Golfer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_15",
@@ -1963,7 +1968,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_17",
@@ -1971,7 +1976,7 @@
       "Name": "Clean Sheet",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_18",
@@ -1979,7 +1984,7 @@
       "Name": "Perfect Round",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_2",
@@ -2003,7 +2008,7 @@
       "Name": "From Many, One",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_5",
@@ -2019,7 +2024,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_7",
@@ -2050,13 +2055,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 548,
+      "Progressed": 549,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:09:22.3501004+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:09:08.3541991+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:58:17.1013099+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:09:22.3501269+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:58:27.4664185+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:09:08.3542164+00:00"
 }

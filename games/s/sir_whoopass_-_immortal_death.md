@@ -14,21 +14,21 @@
 | Nerd | 81.00% | ~104 |
 | Blurry depth perception | 81.00% | ~104 |
 | Up and down | 78.00% | ~101 |
-| Rolling, Rolling, Rolling | 74.00% | ~95 |
-| Fire-fighter! | 66.00% | ~85 |
+| Rolling, Rolling, Rolling | 75.00% | ~97 |
+| Fire-fighter! | 67.00% | ~86 |
 | Oh, you're up to no gouda! | 64.00% | ~83 |
-| Make Love not War-Craft a Mistlefoe | 61.00% | ~79 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~80 |
 | Meat grinder | 60.00% | ~77 |
-| You're not going to blow me up! | 55.00% | ~71 |
+| You're not going to blow me up! | 56.00% | ~72 |
 | Mushroom soup of the day | 52.00% | ~67 |
 | Cockadoodledoo! | 49.00% | ~63 |
 | Honk honk! | 48.00% | ~62 |
 | Butcher | 47.00% | ~61 |
 | Spare Ribs | 47.00% | ~61 |
 | Thats disgusting! | 45.00% | ~58 |
-| Self assessed tax return | 42.00% | ~54 |
+| Self assessed tax return | 43.00% | ~55 |
 | My pants squeak when I walk | 42.00% | ~54 |
-| Surprise!! | 40.00% | ~52 |
+| Surprise!! | 41.00% | ~53 |
 | Haemochromatosis | 39.00% | ~50 |
 | Make America Grate Again | 33.00% | ~43 |
 | Pasta Bolognese | 33.00% | ~43 |
@@ -46,8 +46,8 @@
 | You're not so Big anymore, Boi! | 22.00% | ~28 |
 | Your daily dose of Vitamin C. | 21.00% | ~27 |
 | I cant stand still! | 20.00% | ~26 |
+| Just wing it! | 17.00% | ~22 |
 | Master Butcher | 16.00% | ~21 |
-| Just wing it! | 16.00% | ~21 |
 | Deal with it | 16.00% | ~21 |
 | Slimy... yet satisfying | 16.00% | ~21 |
 | Yeehaw!!! | 13.00% | ~17 |

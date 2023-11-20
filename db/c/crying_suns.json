@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471083,
+  "EOS_Progressed": 471085,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
@@ -22923,6 +22923,11 @@
       "Time": "2023-11-19T23:10:09.8500842+00:00",
       "NumProgressed": 471083,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-20T00:10:01.9631698+00:00",
+      "NumProgressed": 471085,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22934,7 +22939,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70662
+      "UsersEstimate": 70663
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -22942,7 +22947,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70662
+      "UsersEstimate": 70663
     },
     {
       "ID": "achievement_first_death",
@@ -22958,7 +22963,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103638
+      "UsersEstimate": 103639
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -22966,7 +22971,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70662
+      "UsersEstimate": 70663
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -23022,7 +23027,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310915
+      "UsersEstimate": 310916
     },
     {
       "ID": "achievement_story_landa",
@@ -23102,7 +23107,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70662
+      "UsersEstimate": 70663
     },
     {
       "ID": "achievement_story_neon_child",
@@ -23118,7 +23123,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160168
+      "UsersEstimate": 160169
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23366,7 +23371,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141325
+      "UsersEstimate": 141326
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23390,7 +23395,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183722
+      "UsersEstimate": 183723
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23406,7 +23411,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14132
+      "UsersEstimate": 14133
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -23422,7 +23427,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14132
+      "UsersEstimate": 14133
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -23446,7 +23451,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103638
+      "UsersEstimate": 103639
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -23565,21 +23570,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15017,
+      "Progressed": 15019,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471083,
+      "Progressed": 471085,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:10:09.850084+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:10:01.9631696+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:02:41.4605434+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:10:09.8502178+00:00"
+  "LastUpdate_Ratings": "2023-11-20T00:01:53.0735285+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:10:01.9633389+00:00"
 }

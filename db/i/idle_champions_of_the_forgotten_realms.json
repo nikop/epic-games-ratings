@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8173,10 +8173,10 @@
       "Count": 3524
     }
   ],
-  "EOS_Progressed": 236022,
+  "EOS_Progressed": 236031,
   "EOS_Completed": 2459,
-  "EOS_NewPlayers": 1232,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 1237,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32098,6 +32098,11 @@
       "Time": "2023-11-19T23:10:12.7737519+00:00",
       "NumProgressed": 236022,
       "NumCompleted": 2459
+    },
+    {
+      "Time": "2023-11-20T00:10:04.2961604+00:00",
+      "NumProgressed": 236031,
+      "NumCompleted": 2459
     }
   ],
   "TotalAchievements": 532,
@@ -36357,28 +36362,28 @@
       "Name": "See You on the Flipside",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202296,
+      "Progressed": 202305,
       "Completed": 3925
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236022,
+      "Progressed": 236031,
       "Completed": 2459
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-19T14:59:45.1711306+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:10:12.7737515+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:10:04.29616+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:01:10.6248904+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:10:12.7769022+00:00"
+  "LastUpdate_Ratings": "2023-11-20T00:01:14.5529852+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:10:04.2983032+00:00"
 }

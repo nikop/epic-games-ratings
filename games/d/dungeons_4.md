@@ -26,7 +26,7 @@
 | The Big Eaty | 43.00% | ~134 |
 | Pure Dynamite! | 40.00% | ~125 |
 | “… like son” | 37.00% | ~115 |
-| Mana Cannon | 34.00% | ~106 |
+| Mana Cannon | 35.00% | ~109 |
 | Dungeonlord Gorgu | 32.00% | ~100 |
 | The Cathedral of Light | 31.00% | ~97 |
 | Shame! Shame! Shame! | 31.00% | ~97 |
@@ -45,26 +45,26 @@
 | The Finitude Drill | 13.00% | ~41 |
 | Bonus Evilness | 10.00% | ~31 |
 | Doom Hill | 10.00% | ~31 |
+| Brimstone Shaken, Not Stirred | 10.00% | ~31 |
+| My Little Torture Chamber | 9.00% | ~28 |
 | Sabotage! | 9.00% | ~28 |
 | Raiders of the Lost Stone | 9.00% | ~28 |
-| Brimstone Shaken, Not Stirred | 9.00% | ~28 |
-| My Little Torture Chamber | 8.00% | ~25 |
 | The Rune Sockets of Finitude (Part 1) | 8.00% | ~25 |
 | Mirror, Mirror | 6.00% | ~19 |
 | Untouchable | 6.00% | ~19 |
 | Lavalumps on Ice! | 6.00% | ~19 |
 | Rubble and Ashes | 6.00% | ~19 |
 | To Infinity And Beyond! | 6.00% | ~19 |
+| The Rune Sockets of Finitude (Part 2) | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
 | To the Max! | 5.00% | ~16 |
-| The Rune Sockets of Finitude (Part 2) | 5.00% | ~16 |
 | The Last Stand - This Time For Real! | 5.00% | ~16 |
 | Evilification | 4.00% | ~12 |
 | No Mana, No Cry | 3.00% | ~9 |
 | Heal Heal Blessing | 3.00% | ~9 |
 | Hands Off My Stones | 3.00% | ~9 |
-| I Don't Need Any Help | 2.00% | ~6 |
+| I Don't Need Any Help | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 312 (Ranked 339)  
 Completed: 3 (0.96%) (Ranked 165)  

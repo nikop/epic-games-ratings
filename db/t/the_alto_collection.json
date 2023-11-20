@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -826,7 +826,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47040,
+  "EOS_Progressed": 47043,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 0,
@@ -24956,6 +24956,11 @@
       "Time": "2023-11-19T23:05:25.2476616+00:00",
       "NumProgressed": 47040,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-20T00:05:33.259567+00:00",
+      "NumProgressed": 47043,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -24991,7 +24996,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "distance500000",
@@ -25007,7 +25012,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12701
+      "UsersEstimate": 12702
     },
     {
       "ID": "goals180",
@@ -25047,7 +25052,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "journeyer",
@@ -25095,7 +25100,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "playerFelipe",
@@ -25175,7 +25180,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11760
+      "UsersEstimate": 11761
     },
     {
       "ID": "sandboarder",
@@ -25191,7 +25196,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "ultimate",
@@ -25278,15 +25283,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47040,
+      "Progressed": 47043,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-18T16:00:09.1538988+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:05:25.2476612+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:05:33.2595667+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-19T23:00:59.0207634+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:05:25.2478903+00:00"
+  "LastUpdate_Ratings": "2023-11-20T00:01:07.4711673+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:05:33.2596927+00:00"
 }

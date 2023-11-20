@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 929,
+  "Ranking_Rating": 930,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4229,9 +4229,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76685,
+  "EOS_Progressed": 76687,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23174,6 +23174,11 @@
       "Time": "2023-11-19T22:03:28.0753475+00:00",
       "NumProgressed": 76685,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-20T00:04:23.7197167+00:00",
+      "NumProgressed": 76687,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23281,7 +23286,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13036
+      "UsersEstimate": 13037
     },
     {
       "ID": "CLAYFACE_1",
@@ -23297,7 +23302,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13803
+      "UsersEstimate": 13804
     },
     {
       "ID": "CLAYFACE_3",
@@ -23401,7 +23406,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "FREEZE_1",
@@ -23425,7 +23430,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14570
+      "UsersEstimate": 14571
     },
     {
       "ID": "FREEZE_3",
@@ -23497,7 +23502,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "HARLEY_3",
@@ -23529,7 +23534,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39109
+      "UsersEstimate": 39110
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23577,7 +23582,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26073
+      "UsersEstimate": 26074
     },
     {
       "ID": "MYSTERY_02",
@@ -23585,7 +23590,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "MYSTERY_03",
@@ -23609,7 +23614,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13803
+      "UsersEstimate": 13804
     },
     {
       "ID": "MYSTERY_06",
@@ -23641,7 +23646,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8435
+      "UsersEstimate": 8436
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -23672,13 +23677,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76685,
+      "Progressed": 76687,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46965,
+      "Progressed": 46967,
       "Completed": 2674
     }
   ],
@@ -23686,8 +23691,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-19T22:57:29.5280152+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:04:12.9883579+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:04:23.7197163+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:57:29.5280158+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:04:12.9884949+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:57:27.7876941+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:04:23.7198593+00:00"
 }

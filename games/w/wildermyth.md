@@ -27,12 +27,12 @@ Number of Ratings: 45  (23.09.2022)
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
 | Chain Reaction | 0.30% | ~4 |
+| Another Tale to Tell | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
 | Plague Doctor | 0.20% | ~3 |
 | Legends Never Die | 0.20% | ~3 |
 | Everfading | 0.20% | ~3 |
-| Another Tale to Tell | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,472 (Ranked 240)  
+Progressed: 1,473 (Ranked 240)  
 Completed: 6 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 6 (0.41%) (Ranked 213)
 | 2023-11-17 | 1,468 | 6 |
 | 2023-11-18 | 1,471 | 6 |
 | 2023-11-19 | 1,472 | 6 |
+| 2023-11-20 | 1,473 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 496)  
 Sum: 29 (Ranked 511)  

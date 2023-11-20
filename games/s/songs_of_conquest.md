@@ -22,9 +22,11 @@ Number of Ratings: 292  (23.09.2022)
 | The Song of Stoutheart | 0.70% | ~1 |
 | Death To Diplomacy | 0.70% | ~1 |
 | This Spot's Taken | 0.70% | ~1 |
+| Hello There | 0.70% | ~1 |
 | Versatile Wielder | 0.70% | ~1 |
 | Unlimited Power! | 0.70% | ~1 |
 | Fully Charged | 0.70% | ~1 |
+| Coming Through! | 0.70% | ~1 |
 | Deepstrike | 0.70% | ~1 |
 | Infernal Influence | 0.70% | ~1 |
 | Don't Touch My Stuff | 0.70% | ~1 |
@@ -36,8 +38,6 @@ Number of Ratings: 292  (23.09.2022)
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
-| Hello There | 0.00% | ~0 |
-| Coming Through! | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
 | Die by the Staff | 0.00% | ~0 |
 | Die by the Sword | 0.00% | ~0 |

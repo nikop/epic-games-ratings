@@ -47,12 +47,12 @@ Rating: 4.61 (Ranked 386)
 | Pruning for Progress | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | Lord of Chaos | 0.30% | ~16 |
+| Grexolis | 0.30% | ~16 |
+| One for All, All for One | 0.30% | ~16 |
 | Duality | 0.30% | ~16 |
 | God Emperor | 0.20% | ~11 |
 | The Goddess of Nature | 0.20% | ~11 |
 | Eternal Lord | 0.20% | ~11 |
-| Grexolis | 0.20% | ~11 |
-| One for All, All for One | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |

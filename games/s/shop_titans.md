@@ -6,16 +6,16 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,032 |
-| Basic in Bulk | 5.00% | ~7,032 |
-| Titan's First Steps | 5.00% | ~7,032 |
+| Sponsored by Argon | 5.00% | ~7,033 |
+| Basic in Bulk | 5.00% | ~7,033 |
+| Titan's First Steps | 5.00% | ~7,033 |
 | Tinkle of Coins | 4.00% | ~5,626 |
-| Disintermediation | 3.00% | ~4,219 |
-| Another Satisfied Customer | 3.00% | ~4,219 |
-| It's Free Real Estate | 3.00% | ~4,219 |
-| Budding Merchant | 3.00% | ~4,219 |
-| Capitalism Ho! | 3.00% | ~4,219 |
-| Own the Means of Production | 3.00% | ~4,219 |
+| Disintermediation | 3.00% | ~4,220 |
+| Another Satisfied Customer | 3.00% | ~4,220 |
+| It's Free Real Estate | 3.00% | ~4,220 |
+| Budding Merchant | 3.00% | ~4,220 |
+| Capitalism Ho! | 3.00% | ~4,220 |
+| Own the Means of Production | 3.00% | ~4,220 |
 | The Daily Grind | 2.00% | ~2,813 |
 | One Easy Payment | 2.00% | ~2,813 |
 | Some Assembly Required | 2.00% | ~2,813 |
@@ -28,26 +28,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 2.00% | ~2,813 |
 | Dungeon Imports | 2.00% | ~2,813 |
 | Through Repetition, Perfection | 2.00% | ~2,813 |
-| On the Path to Greatness | 1.00% | ~1,406 |
-| Ascended | 1.00% | ~1,406 |
-| Tax not Included | 1.00% | ~1,406 |
-| Research & Development | 1.00% | ~1,406 |
-| Vanity, Verily | 1.00% | ~1,406 |
-| Fated Encounters | 1.00% | ~1,406 |
-| For the Hoard! | 1.00% | ~1,406 |
-| Blank Page Syndrome | 1.00% | ~1,406 |
-| Power of Love | 1.00% | ~1,406 |
-| Efficient Floor Space | 1.00% | ~1,406 |
-| Flawless Fusion | 1.00% | ~1,406 |
-| Trash to Treasure | 1.00% | ~1,406 |
-| Gem Expert | 1.00% | ~1,406 |
-| Royal Ransom | 1.00% | ~1,406 |
-| Helping Hand | 1.00% | ~1,406 |
-| Accomplished Merchant | 1.00% | ~1,406 |
-| Natural 20 | 1.00% | ~1,406 |
-| Did we pack lunch? | 1.00% | ~1,406 |
-| Magical Harmony | 1.00% | ~1,406 |
-| Arcane Industries | 1.00% | ~1,406 |
+| On the Path to Greatness | 1.00% | ~1,407 |
+| Ascended | 1.00% | ~1,407 |
+| Tax not Included | 1.00% | ~1,407 |
+| Research & Development | 1.00% | ~1,407 |
+| Vanity, Verily | 1.00% | ~1,407 |
+| Fated Encounters | 1.00% | ~1,407 |
+| For the Hoard! | 1.00% | ~1,407 |
+| Blank Page Syndrome | 1.00% | ~1,407 |
+| Power of Love | 1.00% | ~1,407 |
+| Efficient Floor Space | 1.00% | ~1,407 |
+| Flawless Fusion | 1.00% | ~1,407 |
+| Trash to Treasure | 1.00% | ~1,407 |
+| Gem Expert | 1.00% | ~1,407 |
+| Royal Ransom | 1.00% | ~1,407 |
+| Helping Hand | 1.00% | ~1,407 |
+| Accomplished Merchant | 1.00% | ~1,407 |
+| Natural 20 | 1.00% | ~1,407 |
+| Did we pack lunch? | 1.00% | ~1,407 |
+| Magical Harmony | 1.00% | ~1,407 |
+| Arcane Industries | 1.00% | ~1,407 |
 | A Notch Above the Rest | 0.90% | ~1,266 |
 | The King's Caprice | 0.90% | ~1,266 |
 | Big Game Hunting | 0.90% | ~1,266 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,648 (Ranked 80)  
+Progressed: 140,651 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,13 +333,14 @@ Completed: 188 (0.13%) (Ranked 267)
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
+| 2023-11-20 | 140,651 | 188 |
 ## Awards
-Max (Great for Beginners): 4,834  (Ranked 74)  
-Sum: 27,568 (Ranked 50)  
+Max (Great for Beginners): 4,836  (Ranked 74)  
+Sum: 27,570 (Ranked 50)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,834 |
+| This game is Great for Beginners | 4,836 |
 | This game is Relaxing | 4,043 |
 | This game has Quickly Understood Controls | 4,030 |
 | This game has Diverse Characters | 3,945 |
@@ -644,3 +645,4 @@ Diff (max vs sum): 24
 | 2023-11-17 | 3.99 | - | 4,832 | 27,561 |
 | 2023-11-18 | 3.99 | - | 4,834 | 27,563 |
 | 2023-11-19 | 3.99 | - | 4,834 | 27,568 |
+| 2023-11-20 | 3.99 | - | 4,836 | 27,570 |

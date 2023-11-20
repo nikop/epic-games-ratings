@@ -6,22 +6,22 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,182 |
-| Get A Room | 75.00% | ~5,114 |
-| Reap What You Sow | 73.00% | ~4,978 |
-| The First Day | 69.00% | ~4,705 |
+| Having A Field Day | 76.00% | ~5,183 |
+| Get A Room | 75.00% | ~5,115 |
+| Reap What You Sow | 73.00% | ~4,979 |
+| The First Day | 69.00% | ~4,706 |
 | Green Thumb | 67.00% | ~4,569 |
 | Novice Researcher | 67.00% | ~4,569 |
 | Home Cooked Meal | 61.00% | ~4,160 |
 | Onward | 57.00% | ~3,887 |
-| The First Week | 55.00% | ~3,750 |
+| The First Week | 55.00% | ~3,751 |
 | Beam Me Up | 52.00% | ~3,546 |
 | Studious Researcher | 52.00% | ~3,546 |
-| Putting Food on the Table | 48.00% | ~3,273 |
+| Putting Food on the Table | 48.00% | ~3,274 |
 | Adept Researcher | 45.00% | ~3,069 |
 | Retribution | 42.00% | ~2,864 |
 | ...And Don’t Come Back! | 42.00% | ~2,864 |
-| Feast or Famine | 39.00% | ~2,659 |
+| Feast or Famine | 39.00% | ~2,660 |
 | Heating Up | 31.00% | ~2,114 |
 | Luminary Researcher | 31.00% | ~2,114 |
 | Fit For A King | 30.00% | ~2,046 |
@@ -31,14 +31,14 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 22.00% | ~1,500 |
 | Oh Deer! | 22.00% | ~1,500 |
 | All Year Round | 22.00% | ~1,500 |
-| Nothing Wasted | 13.00% | ~886 |
-| Don't Cry Wolf | 13.00% | ~886 |
+| Nothing Wasted | 13.00% | ~887 |
+| Don't Cry Wolf | 13.00% | ~887 |
 | Deerly Departed | 8.00% | ~546 |
 | Where Wolf? | 5.00% | ~341 |
 | Food Chain | 2.00% | ~136 |
 | Wabbit Season | 0.50% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,819 (Ranked 180)  
+Progressed: 6,820 (Ranked 180)  
 Completed: 14 (0.21%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 14 (0.21%) (Ranked 250)
 | 2023-11-17 | 6,785 | 14 |
 | 2023-11-18 | 6,799 | 14 |
 | 2023-11-19 | 6,819 | 14 |
+| 2023-11-20 | 6,820 | 14 |
 ## Awards
 Max (Great for Beginners): 125  (Ranked 336)  
 Sum: 1,013 (Ranked 260)  

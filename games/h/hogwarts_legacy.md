@@ -8,20 +8,20 @@ Rating: 4.76 (Ranked 126)
 | The Sort Who Makes an Entrance | 16.00% | ~48,392 |
 | First Class Student | 14.00% | ~42,343 |
 | Troll with the Punches | 14.00% | ~42,343 |
-| A Keen Sense of Spell | 13.00% | ~39,318 |
-| That's a Keeper | 13.00% | ~39,318 |
+| A Keen Sense of Spell | 13.00% | ~39,319 |
+| That's a Keeper | 13.00% | ~39,319 |
 | A Talent for Spending | 12.00% | ~36,294 |
-| Grappling with a Graphorn | 11.00% | ~33,269 |
-| The One Who Mastered Memories | 11.00% | ~33,269 |
-| The Hallowed Hero | 11.00% | ~33,269 |
-| The Hero of Hogwarts | 11.00% | ~33,269 |
-| The Defender of Dragons | 11.00% | ~33,269 |
-| Challenge Accepted | 11.00% | ~33,269 |
-| Loom for Improvement | 11.00% | ~33,269 |
-| Coasting Along | 11.00% | ~33,269 |
+| Grappling with a Graphorn | 11.00% | ~33,270 |
+| The One Who Mastered Memories | 11.00% | ~33,270 |
+| The Hallowed Hero | 11.00% | ~33,270 |
+| The Hero of Hogwarts | 11.00% | ~33,270 |
+| The Defender of Dragons | 11.00% | ~33,270 |
+| Challenge Accepted | 11.00% | ~33,270 |
+| Loom for Improvement | 11.00% | ~33,270 |
+| Coasting Along | 11.00% | ~33,270 |
 | Followed the Butterflies | 10.00% | ~30,245 |
 | Rising From the Ashes | 10.00% | ~30,245 |
-| The Spell Master | 9.00% | ~27,220 |
+| The Spell Master | 9.00% | ~27,221 |
 | The Avenging Gazelle | 8.00% | ~24,196 |
 | Beast Friends | 8.00% | ~24,196 |
 | A Sallow Grave | 8.00% | ~24,196 |
@@ -30,28 +30,28 @@ Rating: 4.76 (Ranked 126)
 | The Root of the Problem | 6.00% | ~18,147 |
 | Third Time's a Charm | 6.00% | ~18,147 |
 | Raising Expectations | 6.00% | ~18,147 |
-| The Toast of the Town | 5.00% | ~15,122 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,122 |
-| The Ends Petrify the Means | 5.00% | ~15,122 |
+| The Toast of the Town | 5.00% | ~15,123 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,123 |
+| The Ends Petrify the Means | 5.00% | ~15,123 |
 | Going Through the Potions | 4.00% | ~12,098 |
 | Room with a View | 4.00% | ~12,098 |
 | The Intrepid Explorer | 4.00% | ~12,098 |
 | The Wise Owl | 4.00% | ~12,098 |
-| Put Down Roots | 3.00% | ~9,073 |
-| The Auror's Apprentice | 3.00% | ~9,073 |
-| Floo Around the World | 3.00% | ~9,073 |
+| Put Down Roots | 3.00% | ~9,074 |
+| The Auror's Apprentice | 3.00% | ~9,074 |
+| Floo Around the World | 3.00% | ~9,074 |
 | The Good Samaritan | 2.00% | ~6,049 |
 | Rise to the Challenges | 2.00% | ~6,049 |
 | Demiguise Dread | 2.00% | ~6,049 |
 | Finishing Touches | 2.00% | ~6,049 |
 | A Forte for Achievement | 2.00% | ~6,049 |
-| Savvy Spender | 1.00% | ~3,024 |
-| Merlin's Beard! | 1.00% | ~3,024 |
+| Savvy Spender | 1.00% | ~3,025 |
+| Merlin's Beard! | 1.00% | ~3,025 |
 | Spilled Milk | 0.90% | ~2,722 |
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,449 (Ranked 53)  
+Progressed: 302,452 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
 | 2023-11-19 | 302,449 | 512 |
+| 2023-11-20 | 302,452 | 512 |
 ## Awards
 Max (Character Customization): 24,447  (Ranked 17)  
 Sum: 48,598 (Ranked 30)  

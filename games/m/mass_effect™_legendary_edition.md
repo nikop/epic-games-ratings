@@ -33,8 +33,8 @@
 | Sentinel Ally | 40.00% | ~533 |
 | Head Hunter | 39.00% | ~520 |
 | Scholar | 39.00% | ~520 |
+| Veteran | 38.00% | ~507 |
 | Operative | 38.00% | ~507 |
-| Veteran | 37.00% | ~493 |
 | The Professor | 37.00% | ~493 |
 | The Archangel | 36.00% | ~480 |
 | Power Full | 36.00% | ~480 |
@@ -47,12 +47,12 @@
 | The Assassin | 31.00% | ~413 |
 | The Justicar | 31.00% | ~413 |
 | The Quarian | 31.00% | ~413 |
+| Battlemaster | 31.00% | ~413 |
 | The Prodigal | 31.00% | ~413 |
 | Galactic Explorer | 31.00% | ~413 |
 | Driven | 31.00% | ~413 |
 | Shopaholic | 31.00% | ~413 |
 | Completionist | 30.00% | ~400 |
-| Battlemaster | 30.00% | ~400 |
 | Catharsis | 30.00% | ~400 |
 | Ghost of the Father | 30.00% | ~400 |
 | The Cure | 30.00% | ~400 |
@@ -61,13 +61,13 @@
 | Focused | 29.00% | ~387 |
 | Archivist | 29.00% | ~387 |
 | Fade Away | 29.00% | ~387 |
+| Treason | 29.00% | ~387 |
 | Agent | 29.00% | ~387 |
 | Heart of Darkness | 29.00% | ~387 |
 | Bringer of War | 29.00% | ~387 |
 | Friend or Foe | 28.00% | ~373 |
 | Cat's in the Cradle | 28.00% | ~373 |
 | Doppelganger | 28.00% | ~373 |
-| Treason | 28.00% | ~373 |
 | Digital Exorcist | 28.00% | ~373 |
 | Mobilizer | 28.00% | ~373 |
 | Mission Accomplished | 27.00% | ~360 |

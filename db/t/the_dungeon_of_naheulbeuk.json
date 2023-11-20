@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 444,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 60,
@@ -1291,18 +1291,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 467,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2023-11-19T23:58:00.6359197+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 471,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 467,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 471,
+  "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 231
+      "Count": 235
     },
     {
       "Text": "This game is Relaxing",
@@ -1353,9 +1359,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238375,
+  "EOS_Progressed": 238387,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1523,
+  "EOS_NewPlayers": 1531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19198,6 +19204,11 @@
       "Time": "2023-11-19T23:09:00.5713852+00:00",
       "NumProgressed": 238375,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T00:08:53.5019676+00:00",
+      "NumProgressed": 238387,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19209,7 +19220,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7151
+      "UsersEstimate": 7152
     },
     {
       "ID": "100Fail",
@@ -19241,7 +19252,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7151
+      "UsersEstimate": 7152
     },
     {
       "ID": "BookCollection",
@@ -19257,7 +19268,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14303
     },
     {
       "ID": "Chapter2",
@@ -19273,7 +19284,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7151
+      "UsersEstimate": 7152
     },
     {
       "ID": "Chapter4",
@@ -19609,7 +19620,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16686
+      "UsersEstimate": 16687
     },
     {
       "ID": "DwarfElf15Support",
@@ -19657,7 +19668,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83431
+      "UsersEstimate": 83435
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19705,7 +19716,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19070
+      "UsersEstimate": 19071
     },
     {
       "ID": "FollowBraztok",
@@ -19912,21 +19923,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238375,
+      "Progressed": 238387,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238375,
+      "Progressed": 238387,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-19T21:57:39.4118016+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:09:00.5713847+00:00",
+  "LastChanged": "2023-11-19T23:58:00.6359195+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:08:53.5019673+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:57:57.2450414+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:09:00.571528+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:58:00.6359203+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:08:53.5021458+00:00"
 }

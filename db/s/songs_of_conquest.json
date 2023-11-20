@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -882,9 +882,9 @@
       "ID": "BurrowUp",
       "SetID": "71c0n9i",
       "Name": "Hello There",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CastEachSpell",
@@ -914,9 +914,9 @@
       "ID": "ComingThrough",
       "SetID": "71c0n9i",
       "Name": "Coming Through!",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DamageThreshold",
@@ -1258,8 +1258,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-19T23:03:55.9065042+00:00",
+  "LastChanged_Achievements": "2023-11-20T00:04:11.8886025+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-19T22:57:53.8909919+00:00",
-  "LastUpdate_Achievements": "2023-11-19T23:03:55.90655+00:00"
+  "LastUpdate_Ratings": "2023-11-19T23:57:58.3304374+00:00",
+  "LastUpdate_Achievements": "2023-11-20T00:04:11.8886336+00:00"
 }
