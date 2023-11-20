@@ -32,7 +32,7 @@ Rating: 4.80 (Ranked 86)
 | Let Me Be Your Toy Boy | 25.00% | ~2,158 |
 | That's So You | 25.00% | ~2,158 |
 | SALUTE | 25.00% | ~2,158 |
-| Off We Sail Tonight | 20.00% | ~1,726 |
+| Off We Sail Tonight | 21.00% | ~1,813 |
 | Love You Three Thousand | 16.00% | ~1,381 |
 | Can You Do This Or Not? | 16.00% | ~1,381 |
 | Doesn't Matter I'll Handle It | 15.00% | ~1,295 |
@@ -49,7 +49,7 @@ Rating: 4.80 (Ranked 86)
 | Limerence | 2.00% | ~173 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,632 (Ranked 167)  
-Completed: 146 (1.69%) (Ranked 135)  
+Completed: 147 (1.70%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 146 (1.69%) (Ranked 135)
 | 2023-11-17 | 8,442 | 133 |
 | 2023-11-18 | 8,534 | 138 |
 | 2023-11-19 | 8,609 | 143 |
-| 2023-11-20 | 8,632 | 146 |
+| 2023-11-20 | 8,632 | 147 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

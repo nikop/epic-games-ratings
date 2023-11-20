@@ -114,6 +114,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Lazarus | 0.10% | ~460 |
 | The Levant Turnabout | 0.10% | ~460 |
 | Liberty or Death | 0.10% | ~460 |
+| Lion of the North | 0.10% | ~460 |
 | Live Long and Prosper | 0.10% | ~460 |
 | Magellan’s Voyage | 0.10% | ~460 |
 | Maharana Pratap | 0.10% | ~460 |
@@ -296,7 +297,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kushite Restoration | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
-| Lion of the North | 0.00% | ~0 |
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,824 (Ranked 41)  
+Progressed: 459,844 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
 | 2023-11-19 | 459,684 | 1 |
-| 2023-11-20 | 459,824 | 1 |
+| 2023-11-20 | 459,844 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
 Sum: 58,295 (Ranked 24)  

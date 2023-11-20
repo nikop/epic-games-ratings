@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.25 (Ranked 880)  
+Rating: 4.25 (Ranked 879)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -80,13 +80,13 @@ Number of Ratings: 37  (23.09.2022)
 | Buried | 0.70% | ~30 |
 | Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
+| I've been everywhere III | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
 | An honorable departure | 0.60% | ~26 |
 | I've been everywhere VII | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
 | To serve and protect | 0.60% | ~26 |
 | I've been everywhere IV | 0.50% | ~22 |
-| I've been everywhere III | 0.50% | ~22 |
 | Governor-elect | 0.50% | ~22 |
 | Little place in the country | 0.50% | ~22 |
 | I've been everywhere VIII | 0.50% | ~22 |

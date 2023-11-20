@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -657,6 +657,11 @@
       "Time": "2023-11-20T08:04:00.2135477+00:00",
       "NumProgressed": 285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T10:04:35.8315879+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -813,7 +818,7 @@
       "Name": "Met the Enemy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CompleteChapter3",
@@ -821,7 +826,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CompleteChapter4",
@@ -829,15 +834,15 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "CompleteChapter6",
@@ -859,17 +864,17 @@
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -917,13 +922,13 @@
       "Name": "Feeding Shyish",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Win100OnlineMatched",
       "SetID": "52ail55",
       "Name": "True Commander",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -941,7 +946,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Win50ConquestBattles",
@@ -964,14 +969,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:03:43.4003425+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:04:35.8315875+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:59:41.8312653+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:03:43.4003628+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:01:11.8719018+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:04:35.8316135+00:00"
 }

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21628,
+  "EOS_Progressed": 21631,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 2131,
   "EOS_NewCompleters": 0,
@@ -7264,6 +7264,11 @@
       "Time": "2023-11-20T09:09:22.4923592+00:00",
       "NumProgressed": 21628,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T10:10:25.3738463+00:00",
+      "NumProgressed": 21631,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -7276,7 +7281,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "achievement_10",
@@ -7484,7 +7489,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "achievement_34",
@@ -7500,7 +7505,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 20547
+      "UsersEstimate": 20549
     },
     {
       "ID": "achievement_36",
@@ -7548,7 +7553,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_41",
@@ -7604,7 +7609,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_5",
@@ -7644,14 +7649,14 @@
       "Name": "A Promising Career",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 21628,
+      "Progressed": 21631,
       "Completed": 1
     }
   ],
@@ -7659,8 +7664,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:09:22.4923581+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:10:25.373846+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:16.1177806+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:03:00.2841105+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:09:22.4924173+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:03:28.9025816+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:10:25.373902+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11466,7 +11466,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 52010,
+  "EOS_Progressed": 52011,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
@@ -30881,6 +30881,11 @@
       "Time": "2023-11-20T07:04:50.447315+00:00",
       "NumProgressed": 52010,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-20T10:06:56.942975+00:00",
+      "NumProgressed": 52011,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -30972,7 +30977,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 33286
+      "UsersEstimate": 33287
     },
     {
       "ID": "CutTree",
@@ -30988,7 +30993,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 31206
+      "UsersEstimate": 31207
     },
     {
       "ID": "DeliveryGrapes",
@@ -31028,7 +31033,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 31206
+      "UsersEstimate": 31207
     },
     {
       "ID": "Harvested",
@@ -31076,7 +31081,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 26525
+      "UsersEstimate": 26526
     },
     {
       "ID": "Mission",
@@ -31100,7 +31105,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27565
+      "UsersEstimate": 27566
     },
     {
       "ID": "NumBeehives",
@@ -31124,7 +31129,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 22884
+      "UsersEstimate": 22885
     },
     {
       "ID": "NumProductionPoints",
@@ -31180,7 +31185,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 32246
+      "UsersEstimate": 32247
     },
     {
       "ID": "Stones",
@@ -31196,7 +31201,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 22364
+      "UsersEstimate": 22365
     },
     {
       "ID": "TruckDriving",
@@ -31235,15 +31240,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 52010,
+      "Progressed": 52011,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-20T01:46:03.1165797+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:05:19.0372337+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:06:56.9429745+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.2844816+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:58:11.3535406+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:05:19.0373263+00:00"
+  "LastUpdate_Ratings": "2023-11-20T09:58:45.52612+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:06:56.9431235+00:00"
 }

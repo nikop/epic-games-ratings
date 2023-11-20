@@ -3,11 +3,11 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 967,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
-  "Ranking_EOS_Progress": 355,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1325,6 +1325,11 @@
       "Time": "2023-11-20T01:56:05.2049961+00:00",
       "NumProgressed": 283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T10:09:13.6036221+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1361,7 +1366,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_13",
@@ -1369,7 +1374,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_14",
@@ -1417,15 +1422,15 @@
       "Name": "Socialite",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_20",
@@ -1479,9 +1484,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_36",
@@ -1513,7 +1518,7 @@
       "Name": "No More Names",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_41",
@@ -1569,7 +1574,7 @@
       "Name": "Enlisted",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_49",
@@ -1585,7 +1590,7 @@
       "Name": "Initiate",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_50",
@@ -1625,15 +1630,15 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_60",
@@ -1689,7 +1694,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_8",
@@ -1697,7 +1702,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_9",
@@ -1712,7 +1717,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 1
     }
   ],
@@ -1720,8 +1725,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-19T13:02:21.5491129+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:08:33.2814288+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:09:13.6036217+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:59:59.611285+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:08:33.2814646+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:01:40.146606+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:09:13.6036689+00:00"
 }

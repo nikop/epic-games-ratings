@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 11046,
+  "EOS_Progressed": 11047,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13034,6 +13034,11 @@
       "Time": "2023-11-20T08:08:47.5655534+00:00",
       "NumProgressed": 11046,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-20T10:09:04.4804222+00:00",
+      "NumProgressed": 11047,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13149,7 +13154,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4639
+      "UsersEstimate": 4640
     },
     {
       "ID": "ACH15",
@@ -13245,7 +13250,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH27",
@@ -13316,7 +13321,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11046,
+      "Progressed": 11047,
       "Completed": 65
     }
   ],
@@ -13324,8 +13329,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-16T18:57:40.8979647+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:08:27.0881804+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:09:04.4804216+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:59:15.0436179+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:08:27.088266+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:00:29.1508085+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:09:04.4804983+00:00"
 }

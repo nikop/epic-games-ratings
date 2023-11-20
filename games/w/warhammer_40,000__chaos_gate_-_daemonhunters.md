@@ -45,7 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.60% | ~20 |
 | Harvest No More | 0.60% | ~20 |
 | Strike Force | 0.50% | ~17 |
-| Reign of Confusion | 0.40% | ~13 |
+| Reign of Confusion | 0.50% | ~17 |
 | Suffer Not the Mutant | 0.40% | ~13 |
 | Blood and Iron | 0.30% | ~10 |
 | Warp Flickers | 0.30% | ~10 |

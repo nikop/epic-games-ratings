@@ -12297,9 +12297,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 459824,
+  "EOS_Progressed": 459844,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5334,
+  "EOS_NewPlayers": 5325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36797,6 +36797,11 @@
       "Time": "2023-11-20T09:06:12.5031568+00:00",
       "NumProgressed": 459824,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T10:08:14.9472222+00:00",
+      "NumProgressed": 459844,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38230,9 +38235,9 @@
       "ID": "achievement_lion_of_the_north",
       "SetID": "8p2n7he",
       "Name": "Lion of the North",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_live_long_and_prosper",
@@ -39711,21 +39716,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 459824,
+      "Progressed": 459844,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 459824,
+      "Progressed": 459844,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-20T01:47:59.8561241+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:06:12.5031566+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:08:14.9472219+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:00:07.7320358+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:06:12.5041996+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:01:53.3568905+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:08:14.9482275+00:00"
 }

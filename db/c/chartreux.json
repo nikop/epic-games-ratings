@@ -1,7 +1,7 @@
 {
   "ID": "39730ab4f444470887adafea466dc4fd",
   "Name": "Chartreux",
-  "Ranking_EOS_Progress": 749,
+  "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 122,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:17.3028342+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:58:24.4986987+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:08:45.3596329+00:00"
+  "LastUpdate_Ratings": "2023-11-20T09:59:07.1683653+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:09:31.2636083+00:00"
 }

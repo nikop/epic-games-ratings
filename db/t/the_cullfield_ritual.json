@@ -2,7 +2,7 @@
   "ID": "2bf780871f4e416bac3e454d03d5ac71",
   "Name": "The Cullfield Ritual",
   "ProductSlug": "the-cullfield-ritual-a821c4",
-  "Ranking_EOS_Progress": 749,
+  "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 122,
@@ -137,8 +137,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:34.5395291+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:03:09.8485224+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:03:45.9802335+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:56.6307445+00:00",
-  "LastUpdate_Ratings": "2023-11-20T09:00:29.980281+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:03:09.8485282+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:02:29.3617307+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:03:45.9802467+00:00"
 }

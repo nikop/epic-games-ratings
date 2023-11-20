@@ -2314,9 +2314,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 916
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -2434,9 +2434,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 886
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -2682,9 +2682,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 319
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -2698,9 +2698,9 @@
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 5",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 139
     },
     {
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
@@ -2850,9 +2850,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 448
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -2929,8 +2929,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:04:12.9928755+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:05:19.5372788+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:59:07.2487917+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:04:12.9929526+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:00:16.2370765+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:05:19.5373617+00:00"
 }

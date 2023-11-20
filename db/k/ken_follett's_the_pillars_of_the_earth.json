@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16552,
+  "EOS_Progressed": 16553,
   "EOS_Completed": 116,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 2,
@@ -14513,6 +14513,11 @@
       "Time": "2023-11-20T05:05:36.1393238+00:00",
       "NumProgressed": 16552,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-20T10:06:03.7042644+00:00",
+      "NumProgressed": 16553,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14604,7 +14609,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "tpote_achievement_2",
@@ -14636,7 +14641,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "tpote_achievement_23",
@@ -14676,7 +14681,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "tpote_achievement_28",
@@ -14716,7 +14721,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "tpote_achievement_32",
@@ -14812,7 +14817,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3972
+      "UsersEstimate": 3973
     },
     {
       "ID": "tpote_achievement_6",
@@ -14820,7 +14825,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3972
+      "UsersEstimate": 3973
     },
     {
       "ID": "tpote_achievement_7",
@@ -14851,15 +14856,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16552,
+      "Progressed": 16553,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:04:43.0046279+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:06:03.7042639+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:58:22.1512133+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:04:43.004717+00:00"
+  "LastUpdate_Ratings": "2023-11-20T09:59:03.1137915+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:06:03.704348+00:00"
 }

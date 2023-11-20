@@ -2,9 +2,9 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 885,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Rating": 884,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 50,
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753335,
+  "EOS_Progressed": 753339,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1910,
+  "EOS_NewPlayers": 1907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24784,6 +24784,11 @@
       "Time": "2023-11-20T09:04:56.1641277+00:00",
       "NumProgressed": 753335,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-20T10:06:23.2805012+00:00",
+      "NumProgressed": 753339,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -24859,7 +24864,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278734
+      "UsersEstimate": 278735
     },
     {
       "ID": "ach_demolish_trees",
@@ -24867,7 +24872,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 128067
+      "UsersEstimate": 128068
     },
     {
       "ID": "ach_free_cam_mode",
@@ -24899,7 +24904,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 90400
+      "UsersEstimate": 90401
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -24923,7 +24928,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361601
+      "UsersEstimate": 361603
     },
     {
       "ID": "ach_produced",
@@ -24995,7 +25000,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90400
+      "UsersEstimate": 90401
     },
     {
       "ID": "ach_warehouse_clients",
@@ -25010,7 +25015,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753335,
+      "Progressed": 753339,
       "Completed": 4
     }
   ],
@@ -25018,8 +25023,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:04:56.1641273+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:06:23.2805007+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:57:23.7314606+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:04:56.1642563+00:00"
+  "LastUpdate_Ratings": "2023-11-20T09:57:30.7691603+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:06:23.2806335+00:00"
 }

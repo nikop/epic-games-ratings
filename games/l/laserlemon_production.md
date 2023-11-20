@@ -3,12 +3,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Kitchen | 38.00% | ~6 |
 | The Prison | 38.00% | ~6 |
-| The Kitchen | 31.00% | ~5 |
+| Light Up Your life | 31.00% | ~5 |
 | The Lair | 31.00% | ~5 |
 | Six's Song | 25.00% | ~4 |
 | Highly Sprung | 25.00% | ~4 |
-| Light Up Your life | 25.00% | ~4 |
+| Rascal | 25.00% | ~4 |
+| The Guest Area | 25.00% | ~4 |
+| The Lady's Quarters | 25.00% | ~4 |
 | Ashes in The Maw | 19.00% | ~3 |
 | Ashes to Ashes | 19.00% | ~3 |
 | Elusive | 19.00% | ~3 |
@@ -17,14 +20,11 @@
 | I'm Losing You | 19.00% | ~3 |
 | Is Anybody Out There? | 19.00% | ~3 |
 | Kitchen Hand | 19.00% | ~3 |
+| Little Lost Things | 19.00% | ~3 |
 | Not Alone | 19.00% | ~3 |
-| Rascal | 19.00% | ~3 |
 | So Close | 19.00% | ~3 |
-| The Guest Area | 19.00% | ~3 |
-| The Lady's Quarters | 19.00% | ~3 |
 | We'll Meet Again | 19.00% | ~3 |
 | Hard to the Core | 13.00% | ~2 |
-| Little Lost Things | 13.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 562)  
 Completed: 2 (12.50%) (Ranked 31)  

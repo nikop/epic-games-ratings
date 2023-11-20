@@ -7,9 +7,9 @@
 | Feels Familiar | 78.00% | ~587 |
 | I Broke It | 74.00% | ~556 |
 | Better On Ice | 71.00% | ~534 |
+| Notai Notes | 71.00% | ~534 |
 | Blue Dreams | 70.00% | ~526 |
 | He's Famous! | 70.00% | ~526 |
-| Notai Notes | 70.00% | ~526 |
 | Krugmazing | 68.00% | ~511 |
 | Cutie Poro | 68.00% | ~511 |
 | The Fire Below the Mountain | 65.00% | ~489 |

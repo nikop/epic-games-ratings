@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1646,
+  "EOS_Progressed": 1647,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2383,6 +2383,11 @@
       "Time": "2023-11-19T11:05:57.9510802+00:00",
       "NumProgressed": 1646,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-20T10:06:53.7875968+00:00",
+      "NumProgressed": 1647,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2394,7 +2399,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2442,7 +2447,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2450,7 +2455,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2458,7 +2463,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2506,7 +2511,7 @@
       "Name": "Friendly",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2530,7 +2535,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2578,7 +2583,7 @@
       "Name": "Stone Specialist",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -2658,7 +2663,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2697,7 +2702,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1646,
+      "Progressed": 1647,
       "Completed": 10
     }
   ],
@@ -2705,8 +2710,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:05:16.9201356+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:06:53.7875963+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:49.0461133+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:59:06.8970635+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:05:16.9201693+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:00:15.672631+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:06:53.7876346+00:00"
 }

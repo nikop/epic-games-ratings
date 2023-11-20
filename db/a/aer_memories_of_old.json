@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 646,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 114,
@@ -415,7 +415,7 @@
   "Tags": [],
   "EOS_Progressed": 24540,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
@@ -23580,8 +23580,8 @@
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-20T09:06:33.6896899+00:00",
+  "LastChanged_Achievements": "2023-11-20T10:08:46.2614271+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-20T08:59:31.129321+00:00",
-  "LastUpdate_Achievements": "2023-11-20T09:06:33.6898005+00:00"
+  "LastUpdate_Ratings": "2023-11-20T10:00:54.2226008+00:00",
+  "LastUpdate_Achievements": "2023-11-20T10:08:46.2615844+00:00"
 }
