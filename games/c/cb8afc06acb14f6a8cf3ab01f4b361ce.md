@@ -9,7 +9,7 @@ Rating: 4.21 (Ranked 905)
 | A powerful aura was here | 1.00% | ~3,151 |
 | The touch of Chaos | 1.00% | ~3,151 |
 | Let's raise the stakes!! | 0.50% | ~1,576 |
-| Your wounds… They are healing so fast! | 0.40% | ~1,260 |
+| Your wounds… They are healing so fast! | 0.40% | ~1,261 |
 | Rumors are true | 0.30% | ~945 |
 | We'll be careful | 0.30% | ~945 |
 | Pride is a sin, young Knight | 0.30% | ~945 |
@@ -23,6 +23,7 @@ Rating: 4.21 (Ranked 905)
 | We can choose to fight | 0.20% | ~630 |
 | They won't last long | 0.20% | ~630 |
 | Bring it on! | 0.20% | ~630 |
+| Chaos be damned! | 0.20% | ~630 |
 | No damsels in distress | 0.10% | ~315 |
 | The immortal is bound to reborn | 0.10% | ~315 |
 | A legend among Chimeras | 0.10% | ~315 |
@@ -41,12 +42,11 @@ Rating: 4.21 (Ranked 905)
 | I'm just warming up | 0.10% | ~315 |
 | We learned it the hard way | 0.10% | ~315 |
 | We strike as one | 0.10% | ~315 |
-| Chaos be damned! | 0.10% | ~315 |
 | I took a risk | 0.10% | ~315 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,110 (Ranked 50)  
+Progressed: 315,137 (Ranked 50)  
 Completed: 4 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 4 (0.00%) (Ranked 356)
 | 2023-11-17 | 312,860 | 4 |
 | 2023-11-18 | 313,822 | 4 |
 | 2023-11-19 | 314,789 | 4 |
-| 2023-11-20 | 315,110 | 4 |
+| 2023-11-20 | 315,137 | 4 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 414)  
 Sum: 61 (Ranked 474)  

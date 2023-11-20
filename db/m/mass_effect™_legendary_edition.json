@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1335,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3952,9 +3952,9 @@
       "ID": "achievement_14",
       "SetID": "b9pe172",
       "Name": "Electronics Specialist",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_15",
@@ -4000,9 +4000,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 801
     },
     {
       "ID": "achievement_20",
@@ -4152,9 +4152,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 561
     },
     {
       "ID": "achievement_38",
@@ -4716,8 +4716,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:19:24.8472653+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:06:35.3097307+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:14:13.0509077+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:19:24.847441+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:02:52.9337494+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:06:35.3098842+00:00"
 }

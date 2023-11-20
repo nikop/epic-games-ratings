@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Escape artist | 76.00% | ~61 |
 | Book Worm | 45.00% | ~36 |
-| Ooh, it's shiny! | 44.00% | ~35 |
+| Ooh, it's shiny! | 45.00% | ~36 |
 | My lost nightingale | 38.00% | ~30 |
 | Through the woods | 36.00% | ~29 |
-| Fussy eater | 34.00% | ~27 |
+| Fussy eater | 35.00% | ~28 |
 | Kekekeke... | 34.00% | ~27 |
 | Back to the anvil | 33.00% | ~26 |
 | So soothing... | 31.00% | ~25 |
@@ -27,10 +27,10 @@
 | Little genius | 26.00% | ~21 |
 | You've got mail! | 25.00% | ~20 |
 | Pain in the hands | 25.00% | ~20 |
+| Mischief maker | 25.00% | ~20 |
 | No posters allowed | 25.00% | ~20 |
 | Show me your true self | 24.00% | ~19 |
 | Memories | 24.00% | ~19 |
-| Mischief maker | 24.00% | ~19 |
 | Turn the last page | 23.00% | ~18 |
 | Kill it! KILL IT! | 21.00% | ~17 |
 | Close the deal | 20.00% | ~16 |

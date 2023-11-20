@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -672,6 +672,11 @@
       "Time": "2023-11-20T13:15:21.5454082+00:00",
       "NumProgressed": 290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T14:03:44.8650818+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -716,7 +721,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -740,7 +745,7 @@
       "Name": "Pathfinder",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "CompleteChapter10",
@@ -842,9 +847,9 @@
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "CompleteChapter5",
@@ -860,7 +865,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteChapter7",
@@ -979,14 +984,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:15:21.5454076+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:03:44.8650814+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:11:41.1895813+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:15:21.5454341+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:59:57.1117457+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:03:44.865107+00:00"
 }

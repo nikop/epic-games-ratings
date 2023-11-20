@@ -10,7 +10,7 @@
 | Recruit | 68.00% | ~908 |
 | Search and Rescue | 67.00% | ~894 |
 | Quarian Ally | 64.00% | ~854 |
-| Medal of Heroism | 59.00% | ~788 |
+| Medal of Heroism | 60.00% | ~801 |
 | Honorarium of Corporate Service | 59.00% | ~788 |
 | Council Legion of Merit | 54.00% | ~721 |
 | Medal of Exploration II | 53.00% | ~708 |
@@ -26,10 +26,10 @@
 | Paramour I | 43.00% | ~574 |
 | Colonial Savior | 43.00% | ~574 |
 | Missing in Action | 43.00% | ~574 |
+| Very Elusive | 42.00% | ~561 |
 | Merciless | 42.00% | ~561 |
 | Scientist | 42.00% | ~561 |
 | Krogan Ally | 41.00% | ~547 |
-| Very Elusive | 41.00% | ~547 |
 | Sentinel Ally | 40.00% | ~534 |
 | Head Hunter | 39.00% | ~521 |
 | Scholar | 39.00% | ~521 |
@@ -104,9 +104,9 @@
 | Sabotage Specialist | 16.00% | ~214 |
 | Legend | 16.00% | ~214 |
 | Long Service Medal | 15.00% | ~200 |
+| Electronics Specialist | 15.00% | ~200 |
 | Throw Mastery | 15.00% | ~200 |
 | Mail Slot | 14.00% | ~187 |
-| Electronics Specialist | 14.00% | ~187 |
 | Combined Arms | 12.00% | ~160 |
 | Bruiser | 11.00% | ~147 |
 | Warp Mastery | 11.00% | ~147 |

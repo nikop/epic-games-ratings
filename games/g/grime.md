@@ -6,45 +6,45 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,962 |
-| Imprint | 5.00% | ~7,962 |
+| Taste | 5.00% | ~7,963 |
+| Imprint | 5.00% | ~7,963 |
 | The Hunt | 4.00% | ~6,370 |
 | Ravenous | 4.00% | ~6,370 |
-| Weeper | 3.00% | ~4,777 |
+| Weeper | 3.00% | ~4,778 |
 | Harmless | 2.00% | ~3,185 |
 | Silenced Whispers | 2.00% | ~3,185 |
 | Devourer | 2.00% | ~3,185 |
-| Shapely | 1.00% | ~1,592 |
+| Shapely | 1.00% | ~1,593 |
 | Scion | 1.00% | ~1,588 |
 | Glare | 1.00% | ~1,588 |
-| Jawcrab | 1.00% | ~1,592 |
-| Jawstag | 1.00% | ~1,592 |
-| Feast | 1.00% | ~1,592 |
-| Watcher | 1.00% | ~1,592 |
-| Yank | 1.00% | ~1,592 |
-| Sharpened Vessel | 1.00% | ~1,592 |
+| Jawcrab | 1.00% | ~1,593 |
+| Jawstag | 1.00% | ~1,593 |
+| Feast | 1.00% | ~1,593 |
+| Watcher | 1.00% | ~1,593 |
+| Yank | 1.00% | ~1,593 |
+| Sharpened Vessel | 1.00% | ~1,593 |
 | Predator | 0.90% | ~1,433 |
 | Assimilation | 0.80% | ~1,274 |
 | Host | 0.80% | ~1,271 |
 | Celebration | 0.80% | ~1,274 |
 | Hunt Down | 0.70% | ~1,115 |
 | All-Seeing | 0.70% | ~1,115 |
-| Artisan | 0.60% | ~955 |
-| Hush | 0.60% | ~955 |
-| Inevitable | 0.60% | ~955 |
-| Breathsmith | 0.60% | ~955 |
+| Artisan | 0.60% | ~956 |
+| Hush | 0.60% | ~956 |
+| Inevitable | 0.60% | ~956 |
+| Breathsmith | 0.60% | ~956 |
 | Dream | 0.60% | ~953 |
 | Breath | 0.50% | ~796 |
 | Unwrap the Gift | 0.50% | ~796 |
 | Passage | 0.50% | ~796 |
 | Bloodhunter | 0.40% | ~637 |
 | Proportions | 0.40% | ~637 |
-| Zygote | 0.30% | ~476 |
+| Zygote | 0.30% | ~477 |
 | Kinship | 0.30% | ~478 |
-| Kin | 0.30% | ~476 |
-| Listen | 0.30% | ~476 |
-| Weakness | 0.20% | ~318 |
-| Generous | 0.20% | ~318 |
+| Kin | 0.30% | ~477 |
+| Listen | 0.30% | ~477 |
+| Weakness | 0.20% | ~319 |
+| Generous | 0.20% | ~319 |
 | Enrich | 0.20% | ~318 |
 | Intensify | 0.20% | ~318 |
 | Spiral Heart | 0.10% | ~159 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,247 (Ranked 78)  
+Progressed: 159,252 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-17 | 158,769 | 1 |
 | 2023-11-18 | 158,977 | 1 |
 | 2023-11-19 | 159,185 | 1 |
-| 2023-11-20 | 159,247 | 1 |
+| 2023-11-20 | 159,252 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 426)  
 Sum: 370 (Ranked 348)  

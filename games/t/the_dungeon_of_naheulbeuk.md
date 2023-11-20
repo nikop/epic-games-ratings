@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,458 |
-| Alt+F4 | 8.00% | ~19,076 |
+| Sowwy! | 35.00% | ~83,461 |
+| Alt+F4 | 8.00% | ~19,077 |
 | Where's that freaking Dwarf? | 7.00% | ~16,692 |
-| Déjà vu | 6.00% | ~14,307 |
-| Sock! SOCK! | 5.00% | ~11,922 |
-| Speedrun | 5.00% | ~11,922 |
+| Déjà vu | 6.00% | ~14,308 |
+| Sock! SOCK! | 5.00% | ~11,923 |
+| Speedrun | 5.00% | ~11,923 |
 | A beer, two curses, three companions | 4.00% | ~9,538 |
 | GG EZ | 4.00% | ~9,538 |
 | DM intervention | 4.00% | ~9,538 |
@@ -37,13 +37,13 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,769 |
 | Team Building Exercise | 2.00% | ~4,769 |
 | Oh, when I'll be level 10... | 2.00% | ~4,769 |
-| Dwarf Fortress | 1.00% | ~2,384 |
-| %#*!$*! | 1.00% | ~2,384 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,384 |
-| Dead for good | 1.00% | ~2,384 |
-| Gargantua | 1.00% | ~2,384 |
-| Lust and Debauchery | 1.00% | ~2,384 |
-| Material Girl | 1.00% | ~2,384 |
+| Dwarf Fortress | 1.00% | ~2,385 |
+| %#*!$*! | 1.00% | ~2,385 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,385 |
+| Dead for good | 1.00% | ~2,385 |
+| Gargantua | 1.00% | ~2,385 |
+| Lust and Debauchery | 1.00% | ~2,385 |
+| Material Girl | 1.00% | ~2,385 |
 | In Navalu's footsteps | 0.90% | ~2,146 |
 | Lëgal Legend | 0.80% | ~1,908 |
 | We come in peace | 0.70% | ~1,669 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~238 |
 | Dwarf Candy | 0.10% | ~238 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,450 (Ranked 63)  
+Progressed: 238,459 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-17 | 237,757 | 7 |
 | 2023-11-18 | 238,073 | 7 |
 | 2023-11-19 | 238,375 | 7 |
-| 2023-11-20 | 238,450 | 7 |
+| 2023-11-20 | 238,459 | 7 |
 ## Awards
 Max (Character Customization): 235  (Ranked 272)  
 Sum: 472 (Ranked 330)  

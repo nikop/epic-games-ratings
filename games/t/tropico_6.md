@@ -7,9 +7,9 @@ Number of Ratings: 398  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,550 |
-| Un-Lonely Island | 46.00% | ~2,790 |
+| Un-Lonely Island | 46.00% | ~2,791 |
 | The Beginning of a Servantship | 45.00% | ~2,730 |
-| Trade Is My Trait | 37.00% | ~2,244 |
+| Trade Is My Trait | 37.00% | ~2,245 |
 | Number 18 | 24.00% | ~1,456 |
 | We Don't Have Time For That | 19.00% | ~1,153 |
 | The Governator | 17.00% | ~1,031 |
@@ -36,18 +36,18 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 3.00% | ~182 |
 | Narcissist | 3.00% | ~182 |
 | The Time For Wonders | 3.00% | ~182 |
-| Chain Gang | 2.00% | ~121 |
 | One Does Not Simply Stage A Coup | 2.00% | ~121 |
 | Promising Endeavors | 2.00% | ~121 |
 | Sublime Subliminal Supreme | 2.00% | ~121 |
-| Teamplayer | 2.00% | ~121 |
 | Terraformer | 2.00% | ~121 |
 | Curse of the Mummy | 2.00% | ~121 |
+| Chain Gang | 1.00% | ~61 |
 | From Knight to Little Duck | 1.00% | ~61 |
+| Teamplayer | 1.00% | ~61 |
 | Survivor | 0.80% | ~49 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,066 (Ranked 184)  
+Progressed: 6,067 (Ranked 184)  
 Completed: 2 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2 (0.03%) (Ranked 318)
 | 2023-11-17 | 6,038 | 2 |
 | 2023-11-18 | 6,055 | 2 |
 | 2023-11-19 | 6,064 | 2 |
-| 2023-11-20 | 6,066 | 2 |
+| 2023-11-20 | 6,067 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
 Sum: 729 (Ranked 291)  

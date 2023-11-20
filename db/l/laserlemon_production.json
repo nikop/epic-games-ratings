@@ -165,9 +165,9 @@
       "ID": "HardToTheCore",
       "SetID": "c36hpcf",
       "Name": "Hard to the Core",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HighlySprung",
@@ -299,8 +299,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:19:26.0731747+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:06:36.198582+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:10:10.1993017+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:19:26.0731856+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:58:52.0805542+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:06:36.1985956+00:00"
 }

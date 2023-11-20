@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~20,572 |
-| Safety in the Storm | 24.00% | ~5,197 |
-| A Better Idea | 24.00% | ~5,197 |
-| Begin the Ceremony | 20.00% | ~4,331 |
-| Mission Accomplished | 19.00% | ~4,114 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~3,248 |
+| Fracture at Fostar Haven | 95.00% | ~20,577 |
+| Safety in the Storm | 24.00% | ~5,198 |
+| A Better Idea | 24.00% | ~5,198 |
+| Begin the Ceremony | 20.00% | ~4,332 |
+| Mission Accomplished | 19.00% | ~4,115 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~3,249 |
 | A Starfighter of Your Own | 14.00% | ~3,032 |
-| Asset Secured | 13.00% | ~2,815 |
-| Unkillable | 8.00% | ~1,732 |
+| Asset Secured | 13.00% | ~2,816 |
+| Unkillable | 8.00% | ~1,733 |
 | Together, Vanguard | 7.00% | ~1,516 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,299 |
-| Sound Strategy | 6.00% | ~1,299 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,300 |
+| Sound Strategy | 6.00% | ~1,300 |
 | Flames Over Mon Cala | 5.00% | ~1,083 |
 | Stomped | 5.00% | ~1,083 |
 | A Promising Career | 5.00% | ~1,083 |
@@ -42,9 +42,9 @@
 | Special Modifications | 0.40% | ~87 |
 | Victory for the New Republic | 0.30% | ~65 |
 | Heavy Hitter | 0.30% | ~65 |
+| Stay on Target | 0.30% | ~65 |
 | Across the Stars | 0.30% | ~65 |
 | Victory for the Empire | 0.20% | ~43 |
-| Stay on Target | 0.20% | ~43 |
 | Shallow Grave | 0.20% | ~43 |
 | Ultimate Weapon | 0.20% | ~43 |
 | I Know a Few Maneuvers | 0.10% | ~22 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~22 |
 | The Galaxy's Finest (Ace) | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,655 (Ranked 133)  
+Progressed: 21,660 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-17 | 20,684 | 1 |
 | 2023-11-18 | 21,085 | 1 |
 | 2023-11-19 | 21,532 | 1 |
-| 2023-11-20 | 21,655 | 1 |
+| 2023-11-20 | 21,660 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -22,9 +22,9 @@
 | We'll Meet Again | 25.00% | ~4 |
 | Ashes in The Maw | 19.00% | ~3 |
 | End in Sight | 19.00% | ~3 |
+| Hard to the Core | 19.00% | ~3 |
 | Is Anybody Out There? | 19.00% | ~3 |
 | Little Lost Things | 19.00% | ~3 |
-| Hard to the Core | 13.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16 (Ranked 562)  
 Completed: 2 (12.50%) (Ranked 31)  

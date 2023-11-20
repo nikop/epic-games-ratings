@@ -23,11 +23,11 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.90% | ~6,492 |
 | Stacking the Deck | 0.90% | ~6,492 |
 | This is My Weapon | 0.90% | ~6,492 |
-| Can't Handle the Truth | 0.80% | ~5,770 |
-| Like Riding a Bike | 0.80% | ~5,770 |
-| Zombologist | 0.80% | ~5,770 |
-| A Patton Emerges | 0.80% | ~5,770 |
-| Our True Nature | 0.80% | ~5,770 |
+| Can't Handle the Truth | 0.80% | ~5,771 |
+| Like Riding a Bike | 0.80% | ~5,771 |
+| Zombologist | 0.80% | ~5,771 |
+| A Patton Emerges | 0.80% | ~5,771 |
+| Our True Nature | 0.80% | ~5,771 |
 | Perks of the Job | 0.70% | ~5,049 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,049 |
 | Slayer Squad | 0.70% | ~5,049 |
@@ -36,9 +36,9 @@ Rating: 4.54 (Ranked 524)
 | Making Your Mark | 0.60% | ~4,328 |
 | Humanity Distilled | 0.60% | ~4,328 |
 | Max Headroom | 0.60% | ~4,328 |
-| Not Even My Final Form | 0.50% | ~3,606 |
-| Jumbo Keyring | 0.50% | ~3,606 |
-| Down with the Sickness | 0.50% | ~3,606 |
+| Not Even My Final Form | 0.50% | ~3,607 |
+| Jumbo Keyring | 0.50% | ~3,607 |
+| Down with the Sickness | 0.50% | ~3,607 |
 | On Safari | 0.40% | ~2,885 |
 | Smorgasbord | 0.40% | ~2,885 |
 | Internet Famous | 0.40% | ~2,885 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,296 (Ranked 20)  
+Progressed: 721,316 (Ranked 20)  
 Completed: 2,418 (0.34%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,418 (0.34%) (Ranked 227)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,296 | 2,418 |
+| 2023-11-20 | 721,316 | 2,418 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,580 (Ranked 84)  

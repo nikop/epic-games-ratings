@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2246,6 +2246,11 @@
       "Time": "2023-11-20T03:09:13.4360463+00:00",
       "NumProgressed": 764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T14:08:56.8448391+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2345,7 +2350,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "GossipGirl",
@@ -2512,7 +2517,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 1
     }
   ],
@@ -2520,8 +2525,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:20:46.5386174+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:08:56.8448387+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.4942077+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:13:35.1357381+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:20:46.5386427+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:00:36.1754073+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:08:56.8448641+00:00"
 }

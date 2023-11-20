@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -392,9 +392,9 @@
       "ID": "TINGWD_ANIMAL",
       "SetID": "c0imaa6",
       "Name": "A friend of the animals... or not.",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TINGWD_BEATEM",
@@ -416,9 +416,9 @@
       "ID": "TINGWD_BUTTON_PLAY",
       "SetID": "c0imaa6",
       "Name": "I want to PLAY!!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -472,9 +472,9 @@
       "ID": "TINGWD_CHAP_END_04",
       "SetID": "c0imaa6",
       "Name": "The end of the ordeal",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -488,9 +488,9 @@
       "ID": "TINGWD_CHAP_END_06",
       "SetID": "c0imaa6",
       "Name": "Home at last",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -536,9 +536,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TINGWD_HONEY",
@@ -552,9 +552,9 @@
       "ID": "TINGWD_KARAMASOV",
       "SetID": "c0imaa6",
       "Name": "Serge Karamasov",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TINGWD_NOSHAME",
@@ -584,9 +584,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TINGWD_RADAR",
@@ -663,8 +663,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:16:29.9991118+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:04:37.1136819+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:12:11.9019891+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:16:29.9991366+00:00"
+  "LastUpdate_Ratings": "2023-11-20T14:00:19.6374089+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:04:37.1137018+00:00"
 }

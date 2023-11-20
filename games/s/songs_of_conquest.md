@@ -15,8 +15,8 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 3.00% | ~5 |
 | Multi Kill | 2.00% | ~3 |
 | Whoops! | 2.00% | ~3 |
+| Such A Fungi | 2.00% | ~3 |
 | Veni, Vidi, Vici | 2.00% | ~3 |
-| Such A Fungi | 1.00% | ~2 |
 | Master | 1.00% | ~2 |
 | Expert Essence Employment | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 398)  
+Progressed: 156 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 92 | 0 |
 | 2023-11-18 | 118 | 0 |
 | 2023-11-19 | 146 | 0 |
-| 2023-11-20 | 154 | 0 |
+| 2023-11-20 | 156 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 509)  
 Sum: 194 (Ranked 403)  

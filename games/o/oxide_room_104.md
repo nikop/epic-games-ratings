@@ -14,7 +14,7 @@
 | First aid | 60.00% | ~149 |
 | Soundtrack | 60.00% | ~149 |
 | Antidote | 54.00% | ~134 |
-| Pick the right door | 25.00% | ~62 |
+| Pick the right door | 26.00% | ~64 |
 | The third floor | 19.00% | ~47 |
 | One-way | 17.00% | ~42 |
 | On the right path | 16.00% | ~40 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 248 (Ranked 363)  
-Completed: 1 (0.40%) (Ranked 215)  
+Completed: 1 (0.40%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

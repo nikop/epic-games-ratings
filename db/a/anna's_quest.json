@@ -470,9 +470,9 @@
       "ID": "aq_achievement_23",
       "SetID": "7jh86ne",
       "Name": "Fussy eater",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_24",
@@ -534,9 +534,9 @@
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_31",
@@ -574,9 +574,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "aq_achievement_36",
@@ -671,8 +671,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:21:03.0994831+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:09:09.6487574+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:10:16.9642657+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:21:03.0995053+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:58:56.6955531+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:09:09.6487853+00:00"
 }

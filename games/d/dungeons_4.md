@@ -22,7 +22,7 @@
 | The Ascent | 48.00% | ~151 |
 | It's Warm and Cozy at Home | 48.00% | ~151 |
 | YOU SHALL NOT PASS! | 46.00% | ~144 |
-| Hard Work | 44.00% | ~138 |
+| Hard Work | 45.00% | ~141 |
 | The Big Eaty | 43.00% | ~135 |
 | Pure Dynamite! | 41.00% | ~129 |
 | “… like son” | 38.00% | ~119 |
@@ -38,7 +38,7 @@
 | Master of the Undead | 21.00% | ~66 |
 | The Duel | 19.00% | ~60 |
 | Forbidden Knowledge | 18.00% | ~57 |
-| Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
+| Ghost Pirates? Ghost Heroes! | 18.00% | ~57 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
 | Stop Tanos! | 16.00% | ~50 |
 | If Looks Could Kill | 15.00% | ~47 |

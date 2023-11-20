@@ -301,17 +301,17 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MoneyCamouflage",
@@ -412,8 +412,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-20T13:15:48.4795307+00:00",
+  "LastChanged_Achievements": "2023-11-20T14:04:05.3810475+00:00",
   "LastUpdate_AppInfo": "2023-11-20T09:57:14.4124968+00:00",
-  "LastUpdate_Ratings": "2023-11-20T13:08:00.0755272+00:00",
-  "LastUpdate_Achievements": "2023-11-20T13:15:48.4795431+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:57:18.1530202+00:00",
+  "LastUpdate_Achievements": "2023-11-20T14:04:05.3810629+00:00"
 }
