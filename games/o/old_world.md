@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 1.00% | ~154 |
 | Redemption | 1.00% | ~154 |
 | Revelation | 1.00% | ~154 |
+| Veneration | 1.00% | ~154 |
 | Cimmerian Archer | 1.00% | ~154 |
 | Mounted Lancer | 1.00% | ~154 |
 | Legionary | 1.00% | ~154 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.90% | ~139 |
 | Assyrian Paganism | 0.90% | ~139 |
 | Enlightenment | 0.90% | ~139 |
-| Veneration | 0.90% | ~139 |
 | Bad Heir Day | 0.80% | ~123 |
 | Rome | 0.80% | ~123 |
 | Hittite Paganism | 0.80% | ~123 |

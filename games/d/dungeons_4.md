@@ -26,7 +26,7 @@
 | The Big Eaty | 44.00% | ~139 |
 | Pure Dynamite! | 42.00% | ~133 |
 | “… like son” | 38.00% | ~120 |
-| Mana Cannon | 35.00% | ~111 |
+| Mana Cannon | 36.00% | ~114 |
 | Dungeonlord Gorgu | 33.00% | ~105 |
 | The Cathedral of Light | 32.00% | ~101 |
 | Shame! Shame! Shame! | 32.00% | ~101 |
@@ -43,8 +43,8 @@
 | If Looks Could Kill | 16.00% | ~51 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~48 |
 | The Finitude Drill | 15.00% | ~48 |
+| Doom Hill | 12.00% | ~38 |
 | Bonus Evilness | 11.00% | ~35 |
-| Doom Hill | 11.00% | ~35 |
 | Brimstone Shaken, Not Stirred | 11.00% | ~35 |
 | My Little Torture Chamber | 10.00% | ~32 |
 | Sabotage! | 10.00% | ~32 |

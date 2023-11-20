@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -725,6 +725,11 @@
       "Time": "2023-11-19T22:08:43.0689091+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T21:08:49.4770886+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -745,7 +750,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_11",
@@ -753,7 +758,7 @@
       "Name": "Gravel Guru",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_12",
@@ -775,9 +780,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_15",
@@ -801,7 +806,7 @@
       "Name": "Your first time?",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_18",
@@ -825,7 +830,7 @@
       "Name": "Team Principal",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_20",
@@ -887,9 +892,9 @@
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_4",
@@ -921,7 +926,7 @@
       "Name": "NEW PB!",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_8",
@@ -944,14 +949,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 290,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:10:01.3088243+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:08:49.4770881+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:00:03.3458747+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:10:01.3088464+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:58:56.9378845+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:08:49.4771076+00:00"
 }

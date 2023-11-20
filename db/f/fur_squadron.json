@@ -2,9 +2,9 @@
   "ID": "1f48927b60c5460dbca66555584a80cf",
   "Name": "FUR Squadron",
   "ProductSlug": "fur-squadron-0042b8",
-  "Ranking_EOS_Progress": 473,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -322,6 +322,11 @@
       "Time": "2023-11-20T10:08:40.8907582+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T21:07:46.9458702+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -381,15 +386,15 @@
       "Name": "All systems go",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "COMPLETED_BLAZE_3",
@@ -397,29 +402,29 @@
       "Name": "Huh? What was that?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "COMPLETED_BLAZE_6",
       "SetID": "d91enl3",
       "Name": "My Emperor... I\u0027ve failed you!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -483,7 +488,7 @@
       "ID": "MASTERED_2",
       "SetID": "d91enl3",
       "Name": "Priceless company",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
       "UsersEstimate": 10
     },
@@ -524,13 +529,13 @@
     {
       "ID": "d91enl3",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:08:34.3173153+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:07:46.9458697+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.4098214+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:01:37.4766802+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:08:34.3173316+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:59:58.6416112+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:07:46.9458934+00:00"
 }

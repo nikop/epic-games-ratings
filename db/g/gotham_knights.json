@@ -4259,9 +4259,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76738,
+  "EOS_Progressed": 76741,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23289,6 +23289,11 @@
       "Time": "2023-11-20T20:04:42.8251226+00:00",
       "NumProgressed": 76738,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-20T21:03:42.8439535+00:00",
+      "NumProgressed": 76741,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23396,7 +23401,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13045
+      "UsersEstimate": 13046
     },
     {
       "ID": "CLAYFACE_1",
@@ -23404,7 +23409,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16115
+      "UsersEstimate": 16116
     },
     {
       "ID": "CLAYFACE_2",
@@ -23420,7 +23425,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10743
+      "UsersEstimate": 10744
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -23484,7 +23489,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -23532,7 +23537,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16115
+      "UsersEstimate": 16116
     },
     {
       "ID": "FREEZE_2",
@@ -23540,7 +23545,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14580
+      "UsersEstimate": 14581
     },
     {
       "ID": "FREEZE_3",
@@ -23548,7 +23553,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10743
+      "UsersEstimate": 10744
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -23604,7 +23609,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26858
+      "UsersEstimate": 26859
     },
     {
       "ID": "HARLEY_2",
@@ -23612,7 +23617,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19184
+      "UsersEstimate": 19185
     },
     {
       "ID": "HARLEY_3",
@@ -23628,7 +23633,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12278
+      "UsersEstimate": 12279
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23644,7 +23649,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39136
+      "UsersEstimate": 39138
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23676,7 +23681,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20719
+      "UsersEstimate": 20720
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23692,7 +23697,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26091
+      "UsersEstimate": 26092
     },
     {
       "ID": "MYSTERY_02",
@@ -23700,7 +23705,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19184
+      "UsersEstimate": 19185
     },
     {
       "ID": "MYSTERY_03",
@@ -23708,7 +23713,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16882
+      "UsersEstimate": 16883
     },
     {
       "ID": "MYSTERY_04",
@@ -23740,7 +23745,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10743
+      "UsersEstimate": 10744
     },
     {
       "ID": "MYSTERY_08",
@@ -23756,7 +23761,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8441
+      "UsersEstimate": 8442
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -23764,7 +23769,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -23787,13 +23792,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76738,
+      "Progressed": 76741,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47018,
+      "Progressed": 47021,
       "Completed": 2674
     }
   ],
@@ -23801,8 +23806,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-20T16:57:32.9268616+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:04:42.825122+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:03:42.8439529+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:58:06.2883626+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:04:42.8252283+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:57:37.8778706+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:03:42.8440777+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13777,
+  "EOS_Progressed": 13779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14874,6 +14874,11 @@
       "Time": "2023-11-20T20:04:40.628387+00:00",
       "NumProgressed": 13777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T21:03:41.2494463+00:00",
+      "NumProgressed": 13779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14957,7 +14962,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -14971,9 +14976,9 @@
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "Facepalm",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2480
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -15053,7 +15058,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -15084,14 +15089,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13777,
+      "Progressed": 13779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:04:40.6283866+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:03:41.2494458+00:00",
   "LastUpdate_AppInfo": "2023-11-18T04:57:05.2770485+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:57:25.7905286+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:04:40.6284717+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:57:11.7690338+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:03:41.2495432+00:00"
 }

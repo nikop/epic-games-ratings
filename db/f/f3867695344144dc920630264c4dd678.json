@@ -2,12 +2,12 @@
   "ID": "f3867695344144dc920630264c4dd678",
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
-  "Ranking_Rating": 946,
-  "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Rating": 952,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-07-14T19:57:17.8350643+00:00",
@@ -509,18 +509,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-11-20T20:59:39.7636378+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -535,8 +541,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2023-11-18T18:59:18.5678509+00:00",
+  "LastChanged": "2023-11-20T20:59:39.7636376+00:00",
   "LastUpdate_AppInfo": "2023-11-15T16:57:23.2882547+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:01:08.6890304+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:05:38.3940864+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:59:39.7636382+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:04:21.7981458+00:00"
 }

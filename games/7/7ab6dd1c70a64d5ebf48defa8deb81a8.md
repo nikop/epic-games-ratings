@@ -21,11 +21,11 @@
 | Shatter Them All | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Fashion Victim | 3.00% | ~6 |
+| Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | The Mentor | 2.00% | ~4 |
 | Essence Blow | 2.00% | ~4 |
-| Alchemist | 2.00% | ~4 |
 | Airborne | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
@@ -41,7 +41,7 @@
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 382)  
+Progressed: 195 (Ranked 383)  
 Completed: 1 (0.51%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

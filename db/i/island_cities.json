@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 759,
+  "EOS_Progressed": 760,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 17.13,
+  "EOS_Completed_Percentage": 17.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3271,6 +3271,11 @@
       "Time": "2023-11-20T15:06:08.5631196+00:00",
       "NumProgressed": 759,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2023-11-20T21:04:55.5052263+00:00",
+      "NumProgressed": 760,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 22,
@@ -3282,7 +3287,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "LEVEL_002",
@@ -3290,7 +3295,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "LEVEL_003",
@@ -3312,9 +3317,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 35,
-      "UsersEstimate": 380
+      "UsersEstimate": 388
     },
     {
       "ID": "LEVEL_006",
@@ -3346,7 +3351,7 @@
       "Name": "Who loves trains?",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LEVEL_010",
@@ -3394,7 +3399,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_016",
@@ -3457,7 +3462,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 759,
+      "Progressed": 760,
       "Completed": 130
     }
   ],
@@ -3465,8 +3470,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:06:24.7996162+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:04:55.5052258+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:26.26929+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:59:30.8356321+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:06:24.799648+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:58:34.5648584+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:04:55.5052628+00:00"
 }

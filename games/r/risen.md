@@ -33,9 +33,9 @@ Rating: 4.57 (Ranked 470)
 | Defender | 23.00% | ~10 |
 | Ghost hunter | 20.00% | ~9 |
 | Sidelined | 20.00% | ~9 |
+| Showdown | 18.00% | ~8 |
 | Workaholic | 18.00% | ~8 |
 | Fence | 18.00% | ~8 |
-| Showdown | 16.00% | ~7 |
 | Safecracker | 16.00% | ~7 |
 | Master thief | 16.00% | ~7 |
 | Freedom fighter | 14.00% | ~6 |

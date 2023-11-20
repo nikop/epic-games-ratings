@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Small town | 11.00% | ~43 |
 | I like parks | 10.00% | ~39 |
-| The spiritual world... | 6.00% | ~24 |
+| The spiritual world... | 7.00% | ~27 |
 | It is nice to share with friends in the city | 6.00% | ~24 |
 | I like books | 5.00% | ~20 |
 | The woodcutter | 5.00% | ~20 |

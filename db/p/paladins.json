@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
@@ -9327,10 +9327,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 25203,
       "NumberOfAwardsMax": 3833
+    },
+    {
+      "Time": "2023-11-20T20:59:15.2270516+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 25204,
+      "NumberOfAwardsMax": 3833
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 25203,
+  "NumberOfAwards": 25204,
   "NumberOfAwardsMax": 3833,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9362,7 +9368,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3227
+      "Count": 3228
     },
     {
       "Text": "This game has Competitive Players",
@@ -9406,8 +9412,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-11-20T19:00:19.5959671+00:00",
+  "LastChanged": "2023-11-20T20:59:15.2270514+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:52.1059395+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:00:31.403841+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:06:19.3190555+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:59:15.2270521+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:04:51.6271303+00:00"
 }

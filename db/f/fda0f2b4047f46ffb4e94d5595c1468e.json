@@ -2773,10 +2773,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 4985,
       "NumberOfAwardsMax": 1550
+    },
+    {
+      "Time": "2023-11-20T21:02:27.7699634+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 4990,
+      "NumberOfAwardsMax": 1550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4985,
+  "NumberOfAwards": 4990,
   "NumberOfAwardsMax": 1550,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2808,7 +2814,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 328
+      "Count": 333
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2853,9 +2859,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 8647,
+  "EOS_Progressed": 8648,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8668,6 +8674,11 @@
       "Time": "2023-11-20T20:06:55.0768081+00:00",
       "NumProgressed": 8647,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T21:05:16.0743951+00:00",
+      "NumProgressed": 8648,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8680,7 +8691,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "ach02",
@@ -8696,7 +8707,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ach04",
@@ -8736,7 +8747,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ach09",
@@ -8776,7 +8787,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ach14",
@@ -8800,7 +8811,7 @@
       "Name": "Test Your Might",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "ach17",
@@ -8808,7 +8819,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "ach18",
@@ -8848,7 +8859,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ach23",
@@ -8864,7 +8875,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4064
+      "UsersEstimate": 4065
     },
     {
       "ID": "ach25",
@@ -8872,7 +8883,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "ach26",
@@ -8976,7 +8987,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "ach39",
@@ -9008,7 +9019,7 @@
       "Name": "Quest Master",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "ach43",
@@ -9016,7 +9027,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "ach44",
@@ -9056,7 +9067,7 @@
       "Name": "Total Disrespect",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "ach49",
@@ -9079,16 +9090,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8647,
+      "Progressed": 8648,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-20T19:03:06.7985193+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:06:55.0768077+00:00",
+  "LastChanged": "2023-11-20T21:02:27.7699632+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:05:16.0743944+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:02:54.2744293+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:06:55.0768643+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:02:27.7699641+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:05:16.0744479+00:00"
 }

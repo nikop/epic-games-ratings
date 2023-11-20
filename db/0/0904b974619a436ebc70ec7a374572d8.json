@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "ach_picklock19",
       "SetID": "753ghg2",
       "Name": "Pizzeria",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_picklock2",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:09:45.797698+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:08:38.3579556+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:59.7875371+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:59:49.1424157+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:09:45.7977144+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:58:47.7138098+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:08:38.3579683+00:00"
 }

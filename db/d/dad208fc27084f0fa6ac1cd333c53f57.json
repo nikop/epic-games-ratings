@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3735,
+  "EOS_Progressed": 3736,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-11-20T20:08:47.758354+00:00",
       "NumProgressed": 3735,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-20T21:07:57.0229105+00:00",
+      "NumProgressed": 3736,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2424,9 +2429,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_END",
       "SetID": "4d50jip",
       "Name": "Finish The Hidden Room",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 822
+      "UsersEstimate": 859
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -2553,14 +2558,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 3735,
+      "Progressed": 3736,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:08:47.7583536+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:07:57.0229099+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:59:27.2156552+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:08:47.7583961+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:58:32.1916979+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:07:57.0229286+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114689,
+  "EOS_Progressed": 114690,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
@@ -18564,6 +18564,11 @@
       "Time": "2023-11-20T20:09:29.75161+00:00",
       "NumProgressed": 114689,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-20T21:08:27.2775193+00:00",
+      "NumProgressed": 114690,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18607,7 +18612,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17203
+      "UsersEstimate": 17204
     },
     {
       "ID": "EAwards_13",
@@ -18966,7 +18971,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114689,
+      "Progressed": 114690,
       "Completed": 50
     }
   ],
@@ -18974,8 +18979,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:09:29.7516093+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:08:27.2775188+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:02:57.7821799+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:09:29.7517356+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:02:30.086532+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:08:27.2776187+00:00"
 }

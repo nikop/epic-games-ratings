@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1144,6 +1144,11 @@
       "Time": "2023-11-15T14:05:35.623373+00:00",
       "NumProgressed": 631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T21:07:56.1677184+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1171,7 +1176,7 @@
       "Name": "Fireball",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "DashDashDash",
@@ -1179,7 +1184,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1307,13 +1312,13 @@
       "Name": "Air Slash",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "OhNo",
       "SetID": "d9ekhim",
       "Name": "Oh, no",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -1435,7 +1440,7 @@
       "Name": "Dash Crash",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "World2Boss",
@@ -1443,7 +1448,7 @@
       "Name": "Snake Eyes",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "World3Boss",
@@ -1483,7 +1488,7 @@
       "Name": "Bomberman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "World8Boss",
@@ -1491,7 +1496,7 @@
       "Name": "The Colossus",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "World9Boss",
@@ -1506,7 +1511,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 0
     }
   ],
@@ -1514,8 +1519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:08:46.4294742+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:07:56.167718+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:15.1765469+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:03:11.5399088+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:08:46.4295065+00:00"
+  "LastUpdate_Ratings": "2023-11-20T21:02:38.6763198+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:07:56.1677616+00:00"
 }

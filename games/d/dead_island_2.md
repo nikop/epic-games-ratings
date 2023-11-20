@@ -18,46 +18,46 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 1.00% | ~7,215 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,215 |
 | Welcome To Hell-A | 1.00% | ~7,215 |
-| Anger Management | 0.90% | ~6,493 |
-| Bookworm | 0.90% | ~6,493 |
-| But Doctor, I am Butcho | 0.90% | ~6,493 |
-| Stacking the Deck | 0.90% | ~6,493 |
-| This is My Weapon | 0.90% | ~6,493 |
+| Anger Management | 0.90% | ~6,494 |
+| Bookworm | 0.90% | ~6,494 |
+| But Doctor, I am Butcho | 0.90% | ~6,494 |
+| Stacking the Deck | 0.90% | ~6,494 |
+| This is My Weapon | 0.90% | ~6,494 |
+| Slayer Squad | 0.80% | ~5,772 |
 | Can't Handle the Truth | 0.80% | ~5,772 |
 | Like Riding a Bike | 0.80% | ~5,772 |
 | Zombologist | 0.80% | ~5,772 |
 | A Patton Emerges | 0.80% | ~5,772 |
 | Our True Nature | 0.80% | ~5,772 |
-| Perks of the Job | 0.70% | ~5,050 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,050 |
-| Slayer Squad | 0.70% | ~5,050 |
-| Ooh, Shiny! | 0.70% | ~5,050 |
-| I Am the Resurrection | 0.70% | ~5,050 |
+| Perks of the Job | 0.70% | ~5,051 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,051 |
+| Ooh, Shiny! | 0.70% | ~5,051 |
+| I Am the Resurrection | 0.70% | ~5,051 |
 | Making Your Mark | 0.60% | ~4,329 |
 | Humanity Distilled | 0.60% | ~4,329 |
 | Max Headroom | 0.60% | ~4,329 |
-| Not Even My Final Form | 0.50% | ~3,607 |
-| Jumbo Keyring | 0.50% | ~3,607 |
-| Down with the Sickness | 0.50% | ~3,607 |
-| Go, Bobcats! | 0.50% | ~3,607 |
-| Rising Star | 0.50% | ~3,607 |
+| Not Even My Final Form | 0.50% | ~3,608 |
+| Jumbo Keyring | 0.50% | ~3,608 |
+| Down with the Sickness | 0.50% | ~3,608 |
+| Go, Bobcats! | 0.50% | ~3,608 |
+| Rising Star | 0.50% | ~3,608 |
 | On Safari | 0.40% | ~2,886 |
 | Smorgasbord | 0.40% | ~2,886 |
 | Internet Famous | 0.40% | ~2,886 |
 | Variety is the Spice of Death | 0.40% | ~2,886 |
-| Make it So | 0.30% | ~2,164 |
-| LA Influential | 0.30% | ~2,164 |
-| Gore Horse | 0.30% | ~2,164 |
+| Make it So | 0.30% | ~2,165 |
+| LA Influential | 0.30% | ~2,165 |
+| Gore Horse | 0.30% | ~2,165 |
 | Top That, Tisha! | 0.30% | ~141 |
 | Sole Survivor | 0.20% | ~1,443 |
 | Sharpest Tool in the Box | 0.20% | ~1,443 |
+| Survival Skills | 0.20% | ~1,443 |
 | Lawn and Order | 0.20% | ~94 |
-| Donk! | 0.10% | ~721 |
-| Survival Skills | 0.10% | ~721 |
-| Bucket List | 0.10% | ~721 |
+| Donk! | 0.10% | ~722 |
+| Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,492 (Ranked 20)  
+Progressed: 721,528 (Ranked 20)  
 Completed: 2,421 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,421 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,492 | 2,421 |
+| 2023-11-20 | 721,528 | 2,421 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,585 (Ranked 84)  

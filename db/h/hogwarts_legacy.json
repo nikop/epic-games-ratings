@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10797,10 +10797,10 @@
       "Count": 799
     }
   ],
-  "EOS_Progressed": 302488,
-  "EOS_Completed": 512,
-  "EOS_NewPlayers": 465,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 302489,
+  "EOS_Completed": 513,
+  "EOS_NewPlayers": 464,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -33827,6 +33827,11 @@
       "Time": "2023-11-20T20:10:10.20535+00:00",
       "NumProgressed": 302488,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-20T21:08:55.7962805+00:00",
+      "NumProgressed": 302489,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -33958,7 +33963,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39323
+      "UsersEstimate": 39324
     },
     {
       "ID": "PFA_24",
@@ -34182,7 +34187,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39323
+      "UsersEstimate": 39324
     },
     {
       "ID": "PFA_9",
@@ -34197,16 +34202,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302488,
-      "Completed": 512
+      "Progressed": 302489,
+      "Completed": 513
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-20T20:01:32.3178473+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:10:10.2053497+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:08:55.7962801+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-20T20:01:32.3178478+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:10:10.2054795+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:59:55.1482052+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:08:55.7964804+00:00"
 }

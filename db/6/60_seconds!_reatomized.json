@@ -231,9 +231,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5618,
+  "EOS_Progressed": 5619,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7071,6 +7071,11 @@
       "Time": "2023-11-20T20:03:42.0574849+00:00",
       "NumProgressed": 5618,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T21:02:59.3572387+00:00",
+      "NumProgressed": 5619,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -7090,7 +7095,7 @@
       "Name": "2-1-6",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -7210,7 +7215,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4775
+      "UsersEstimate": 4776
     },
     {
       "ID": "ACH_DEEDEE",
@@ -7298,7 +7303,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -7378,7 +7383,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "ACH_MADHATTER",
@@ -7426,7 +7431,7 @@
       "Name": "Duck and cover!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "ACH_PANZER",
@@ -7514,7 +7519,7 @@
       "Name": "Survivalist",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -7522,7 +7527,7 @@
       "Name": "Last man standing",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -7530,7 +7535,7 @@
       "Name": "Prepper",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 5225
+      "UsersEstimate": 5226
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -7538,7 +7543,7 @@
       "Name": "Unplugged",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_TRADER",
@@ -7561,7 +7566,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 5618,
+      "Progressed": 5619,
       "Completed": 1
     }
   ],
@@ -7569,8 +7574,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-20T20:03:42.0574846+00:00",
+  "LastChanged_Achievements": "2023-11-20T21:02:59.3572378+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:34.1034181+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:57:21.5792044+00:00",
-  "LastUpdate_Achievements": "2023-11-20T20:03:42.0575642+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:57:09.1370531+00:00",
+  "LastUpdate_Achievements": "2023-11-20T21:02:59.3573148+00:00"
 }
