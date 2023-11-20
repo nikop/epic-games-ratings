@@ -40,6 +40,7 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game III | 4.00% | ~174 |
 | Bread for the people III | 3.00% | ~130 |
 | I like to build stuff... IV | 3.00% | ~130 |
+| I like to build stuff... V | 3.00% | ~130 |
 | The King's new clothes II | 3.00% | ~130 |
 | Saint Florian | 3.00% | ~130 |
 | My precious... I | 3.00% | ~130 |
@@ -51,7 +52,6 @@ Number of Ratings: 37  (23.09.2022)
 | Out of the frying pan | 3.00% | ~130 |
 | The Art of War | 2.00% | ~87 |
 | Five brews are a schnitzel | 2.00% | ~87 |
-| I like to build stuff... V | 2.00% | ~87 |
 | The King's new clothes III | 2.00% | ~87 |
 | My precious... III | 2.00% | ~87 |
 | Plague strikes! | 2.00% | ~87 |

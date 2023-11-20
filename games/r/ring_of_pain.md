@@ -31,9 +31,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.30% | ~720 |
 | Deflection | 0.30% | ~720 |
 | A Quick Escape | 0.30% | ~720 |
+| Stone Touch | 0.30% | ~720 |
 | Toxic | 0.30% | ~720 |
 | Explorer | 0.30% | ~720 |
 | Sneaky | 0.30% | ~720 |
+| Shadow Walker | 0.30% | ~720 |
 | An Offering | 0.30% | ~720 |
 | Expensive Look | 0.30% | ~4 |
 | What Doesn't Kill You | 0.30% | ~4 |
@@ -55,13 +57,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stop Hitting Yourself | 0.20% | ~480 |
 | Illuminate, Eliminate | 0.20% | ~480 |
 | Chain Reaction | 0.20% | ~480 |
-| Stone Touch | 0.20% | ~480 |
 | Doing Time | 0.20% | ~480 |
 | Spreading Plague | 0.20% | ~480 |
 | Acid Bath | 0.20% | ~480 |
 | Antivenom | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
-| Shadow Walker | 0.20% | ~480 |
 | Flesh Wound | 0.20% | ~480 |
 | Shapeshifting | 0.20% | ~480 |
 | The Long Run | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,964 (Ranked 62)  
+Progressed: 239,965 (Ranked 62)  
 Completed: 289 (0.12%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,7 +359,7 @@ Completed: 289 (0.12%) (Ranked 273)
 | 2023-11-17 | 239,825 | 288 |
 | 2023-11-18 | 239,893 | 288 |
 | 2023-11-19 | 239,946 | 288 |
-| 2023-11-20 | 239,964 | 289 |
+| 2023-11-20 | 239,965 | 289 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,684 (Ranked 83)  

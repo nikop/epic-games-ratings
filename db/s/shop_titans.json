@@ -7129,9 +7129,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140687,
+  "EOS_Progressed": 140691,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29149,6 +29149,11 @@
       "Time": "2023-11-20T11:04:51.4170608+00:00",
       "NumProgressed": 140687,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-20T12:06:11.9162748+00:00",
+      "NumProgressed": 140691,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29184,7 +29189,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "advlevel05",
@@ -29200,7 +29205,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "ascend01",
@@ -29216,7 +29221,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "ascend03",
@@ -29232,7 +29237,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "bigsale01",
@@ -29328,7 +29333,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7034
+      "UsersEstimate": 7035
     },
     {
       "ID": "chest02",
@@ -29392,7 +29397,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7034
+      "UsersEstimate": 7035
     },
     {
       "ID": "commonres02",
@@ -29480,7 +29485,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "donovan_a",
@@ -29488,7 +29493,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "enchant01",
@@ -29528,7 +29533,7 @@
       "Name": "Supercharged",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "expansion01",
@@ -29584,7 +29589,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "fuseepic",
@@ -29592,7 +29597,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "fuseflawless",
@@ -29632,7 +29637,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5628
     },
     {
       "ID": "gold02",
@@ -29672,7 +29677,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "help01",
@@ -29688,7 +29693,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "help03",
@@ -29704,7 +29709,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "jackslot01",
@@ -29736,7 +29741,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "level01",
@@ -29760,7 +29765,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "level04",
@@ -29880,7 +29885,7 @@
       "Name": "Attrition Mission",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "quest03",
@@ -29904,7 +29909,7 @@
       "Name": "Glittering Collection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "rareres02",
@@ -29912,7 +29917,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "rareres03",
@@ -29968,7 +29973,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "tutorial",
@@ -29976,7 +29981,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7034
+      "UsersEstimate": 7035
     },
     {
       "ID": "twinenchant01",
@@ -30008,7 +30013,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "uncommonres03",
@@ -30048,22 +30053,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140687,
+      "Progressed": 140691,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-20T00:01:54.2870534+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:04:51.4170606+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:06:11.9162739+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:00:13.5373541+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:04:51.417283+00:00"
+  "LastUpdate_Ratings": "2023-11-20T12:02:45.2967492+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:06:11.9164566+00:00"
 }

@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471104,
+  "EOS_Progressed": 471105,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22973,6 +22973,11 @@
       "Time": "2023-11-20T11:08:56.9233332+00:00",
       "NumProgressed": 471104,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-20T12:09:45.1582282+00:00",
+      "NumProgressed": 471105,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23136,7 +23141,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51821
+      "UsersEstimate": 51822
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -23168,7 +23173,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160175
+      "UsersEstimate": 160176
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23416,7 +23421,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141331
+      "UsersEstimate": 141332
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23432,7 +23437,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51821
+      "UsersEstimate": 51822
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -23615,21 +23620,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15038,
+      "Progressed": 15039,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471104,
+      "Progressed": 471105,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:08:56.923333+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:09:45.1582278+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:57:02.0454603+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:08:56.9235009+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:57:13.1440115+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:09:45.1584265+00:00"
 }

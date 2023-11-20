@@ -6699,9 +6699,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 721258,
+  "EOS_Progressed": 721276,
   "EOS_Completed": 2417,
-  "EOS_NewPlayers": 3442,
+  "EOS_NewPlayers": 3441,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31159,6 +31159,11 @@
       "Time": "2023-11-20T11:03:14.4243959+00:00",
       "NumProgressed": 721258,
       "NumCompleted": 2417
+    },
+    {
+      "Time": "2023-11-20T12:03:57.0007154+00:00",
+      "NumProgressed": 721276,
+      "NumCompleted": 2417
     }
   ],
   "TotalAchievements": 51,
@@ -31320,9 +31325,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6491
+      "UsersEstimate": 7213
     },
     {
       "ID": "ach_hotel_california",
@@ -31577,13 +31582,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721258,
+      "Progressed": 721276,
       "Completed": 2417
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46800,
+      "Progressed": 46818,
       "Completed": 36573
     }
   ],
@@ -31591,8 +31596,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-20T01:48:09.8191041+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:03:14.4243957+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:03:57.0007151+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:59:58.248079+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:03:14.4245662+00:00"
+  "LastUpdate_Ratings": "2023-11-20T12:01:33.4226863+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:03:57.0008349+00:00"
 }

@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -833,6 +833,11 @@
       "Time": "2023-11-20T11:03:19.6017974+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T12:04:04.1447407+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -851,7 +856,7 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -859,7 +864,7 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -899,7 +904,7 @@
       "ID": "BurrowBlocked",
       "SetID": "71c0n9i",
       "Name": "This Spot\u0027s Taken",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -907,7 +912,7 @@
       "ID": "BurrowUp",
       "SetID": "71c0n9i",
       "Name": "Hello There",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -915,7 +920,7 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -923,7 +928,7 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -931,7 +936,7 @@
       "ID": "ChargerCount",
       "SetID": "71c0n9i",
       "Name": "Fully Charged",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -939,7 +944,7 @@
       "ID": "ComingThrough",
       "SetID": "71c0n9i",
       "Name": "Coming Through!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -955,7 +960,7 @@
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -989,7 +994,7 @@
       "Name": "Double Kill",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1019,7 +1024,7 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1107,7 +1112,7 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1131,7 +1136,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1155,7 +1160,7 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1163,7 +1168,7 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1173,7 +1178,7 @@
       "Name": "Adept",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "WielderLevel2",
@@ -1235,7 +1240,7 @@
       "ID": "WinSiegeAsDefender",
       "SetID": "71c0n9i",
       "Name": "Venisti, Vidisti, Perdidisti",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1276,15 +1281,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:03:19.6017972+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:04:04.1447402+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:57:34.325262+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:03:19.6018364+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:58:01.2449425+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:04:04.1447757+00:00"
 }

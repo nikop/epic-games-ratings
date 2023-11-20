@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -5055,9 +5055,9 @@
       "ID": "achLandscape",
       "SetID": "dgl390n",
       "Name": "Sculpturer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 931
     },
     {
       "ID": "achLongestTrain",
@@ -5231,8 +5231,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-19T20:59:08.5145239+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:04:52.3735202+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:06:13.1868951+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.5826666+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:58:25.8113291+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:04:52.3735979+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:59:16.587064+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:06:13.186947+00:00"
 }

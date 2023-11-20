@@ -1495,9 +1495,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 391
     },
     {
       "ID": "EV_ACH03",
@@ -1711,9 +1711,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 519
     },
     {
       "ID": "EV_ACH30",
@@ -1846,8 +1846,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:08:52.9620899+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:09:40.1064486+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:59:12.7443348+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:08:52.962119+00:00"
+  "LastUpdate_Ratings": "2023-11-20T12:00:25.3429881+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:09:40.1064907+00:00"
 }

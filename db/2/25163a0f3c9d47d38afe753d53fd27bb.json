@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1462,
+  "EOS_Progressed": 1463,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.7,
   "EosHistory": [
@@ -3459,6 +3459,11 @@
       "Time": "2023-11-20T11:08:51.8628864+00:00",
       "NumProgressed": 1462,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-20T12:09:38.7738043+00:00",
+      "NumProgressed": 1463,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 30,
@@ -3470,7 +3475,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "LEVEL_002",
@@ -3478,7 +3483,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "LEVEL_003",
@@ -3550,7 +3555,7 @@
       "Name": "This island of mine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "LEVEL_012",
@@ -3598,7 +3603,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_018",
@@ -3709,14 +3714,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1462,
+      "Progressed": 1463,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:08:51.8628862+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:09:38.773804+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:59:41.8147468+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:08:51.8629177+00:00"
+  "LastUpdate_Ratings": "2023-11-20T12:01:09.1120726+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:09:38.7738382+00:00"
 }

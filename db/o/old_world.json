@@ -2010,7 +2010,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15400,
+  "EOS_Progressed": 15401,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -16250,6 +16250,11 @@
       "Time": "2023-11-20T11:04:16.235512+00:00",
       "NumProgressed": 15400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-20T12:05:22.2253663+00:00",
+      "NumProgressed": 15401,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16859,9 +16864,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -17707,9 +17712,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -18996,21 +19001,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15400,
+      "Progressed": 15401,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15400,
+      "Progressed": 15401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:04:16.2355117+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:05:22.2253659+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:59:43.0722517+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:04:16.2363791+00:00"
+  "LastUpdate_Ratings": "2023-11-20T12:01:10.9459432+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:05:22.2262419+00:00"
 }

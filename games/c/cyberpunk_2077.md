@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 4.00% | ~35,899 |
-| Gun Fu | 2.00% | ~17,949 |
+| Gun Fu | 2.00% | ~17,950 |
 | Relic Ruler | 1.00% | ~261 |
 | Full Body Conversion | 0.90% | ~8,077 |
 | True Soldier | 0.90% | ~8,077 |
@@ -21,13 +21,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.60% | ~5,385 |
 | The Wheel of Fortune | 0.60% | ~5,385 |
 | True Warrior | 0.60% | ~5,385 |
+| Legend of The Afterlife | 0.60% | ~5,385 |
 | Spin Doctor | 0.60% | ~157 |
 | Bushido and Chill | 0.50% | ~4,487 |
 | Christmas Tree Attack | 0.50% | ~4,487 |
 | The High Priestess | 0.50% | ~4,487 |
 | The World | 0.50% | ~4,487 |
 | Judy vs Night City | 0.50% | ~4,487 |
-| Legend of The Afterlife | 0.50% | ~4,487 |
 | To Protect and Serve | 0.40% | ~3,590 |
 | Master Crafter | 0.40% | ~3,590 |
 | I Am The Law | 0.40% | ~3,590 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,472 (Ranked 15)  
+Progressed: 897,478 (Ranked 15)  
 Completed: 2,790 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 2,790 (0.31%) (Ranked 232)
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
-| 2023-11-20 | 897,472 | 2,790 |
+| 2023-11-20 | 897,478 | 2,790 |
 ## Awards
 Max (Character Customization): 106,230  (Ranked 9)  
 Sum: 357,948 (Ranked 10)  

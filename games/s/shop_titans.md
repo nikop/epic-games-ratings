@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,034 |
-| Basic in Bulk | 5.00% | ~7,034 |
-| Titan's First Steps | 5.00% | ~7,034 |
-| Tinkle of Coins | 4.00% | ~5,627 |
+| Sponsored by Argon | 5.00% | ~7,035 |
+| Basic in Bulk | 5.00% | ~7,035 |
+| Titan's First Steps | 5.00% | ~7,035 |
+| Tinkle of Coins | 4.00% | ~5,628 |
 | Disintermediation | 3.00% | ~4,221 |
 | Another Satisfied Customer | 3.00% | ~4,221 |
 | It's Free Real Estate | 3.00% | ~4,221 |
@@ -66,26 +66,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,266 |
 | Special Ingredient | 0.90% | ~1,266 |
 | Complete Monopoly | 0.90% | ~1,266 |
-| Cream of the Crop | 0.80% | ~1,125 |
-| Proud Paladin | 0.80% | ~1,125 |
-| Above the Norm | 0.80% | ~1,125 |
-| A Ronin Reborn | 0.80% | ~1,125 |
-| Omae wa Mou Shindeiru | 0.80% | ~1,125 |
-| Master of Transmutation | 0.80% | ~1,125 |
-| Supercharged | 0.80% | ~1,125 |
-| Fit for a King | 0.80% | ~1,125 |
-| By Your Powers Combined... | 0.80% | ~1,125 |
-| Wealth Beyond Measure | 0.80% | ~1,125 |
-| Fat Cat Tag Team | 0.80% | ~1,125 |
-| Necromancer Queen | 0.80% | ~1,125 |
-| Item of Renown | 0.80% | ~1,125 |
-| Master Merchant | 0.80% | ~1,125 |
-| Attrition Mission | 0.80% | ~1,125 |
-| Glittering Collection | 0.80% | ~1,125 |
-| Treasure Trove | 0.80% | ~1,125 |
-| Master Recycler | 0.80% | ~1,125 |
-| Exotic Commodities | 0.80% | ~1,125 |
-| King's Blade | 0.80% | ~1,125 |
+| Cream of the Crop | 0.80% | ~1,126 |
+| Proud Paladin | 0.80% | ~1,126 |
+| Above the Norm | 0.80% | ~1,126 |
+| A Ronin Reborn | 0.80% | ~1,126 |
+| Omae wa Mou Shindeiru | 0.80% | ~1,126 |
+| Master of Transmutation | 0.80% | ~1,126 |
+| Supercharged | 0.80% | ~1,126 |
+| Fit for a King | 0.80% | ~1,126 |
+| By Your Powers Combined... | 0.80% | ~1,126 |
+| Wealth Beyond Measure | 0.80% | ~1,126 |
+| Fat Cat Tag Team | 0.80% | ~1,126 |
+| Necromancer Queen | 0.80% | ~1,126 |
+| Item of Renown | 0.80% | ~1,126 |
+| Master Merchant | 0.80% | ~1,126 |
+| Attrition Mission | 0.80% | ~1,126 |
+| Glittering Collection | 0.80% | ~1,126 |
+| Treasure Trove | 0.80% | ~1,126 |
+| Master Recycler | 0.80% | ~1,126 |
+| Exotic Commodities | 0.80% | ~1,126 |
+| King's Blade | 0.80% | ~1,126 |
 | Top of the World | 0.70% | ~985 |
 | Constellated | 0.70% | ~985 |
 | Thirst for Knowledge | 0.70% | ~985 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,687 (Ranked 80)  
+Progressed: 140,691 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 188 (0.13%) (Ranked 267)
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
-| 2023-11-20 | 140,687 | 188 |
+| 2023-11-20 | 140,691 | 188 |
 ## Awards
 Max (Great for Beginners): 4,836  (Ranked 74)  
 Sum: 27,570 (Ranked 50)  

@@ -19,7 +19,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 4.00% | ~616 |
 | Strong | 4.00% | ~616 |
 | Hanging Gardens | 4.00% | ~616 |
-| Oracle | 4.00% | ~616 |
 | Ambitious | 3.00% | ~462 |
 | Enlightened | 3.00% | ~462 |
 | Glorious | 3.00% | ~462 |
@@ -33,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 3.00% | ~462 |
 | Ishtar Gate | 3.00% | ~462 |
 | Lighthouse | 3.00% | ~462 |
+| Oracle | 3.00% | ~462 |
 | Pyramids | 3.00% | ~462 |
 | Learn to Play 1 | 3.00% | ~462 |
 | Christianity | 3.00% | ~462 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 1.00% | ~154 |
 | Invincible | 1.00% | ~154 |
 | Lion | 1.00% | ~154 |
+| Ready | 1.00% | ~154 |
 | Subjugator | 1.00% | ~154 |
 | Strong Difficulty | 1.00% | ~154 |
 | Hunters | 1.00% | ~154 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~154 |
 | The Clergy | 1.00% | ~154 |
 | Devout | 0.90% | ~139 |
-| Ready | 0.90% | ~139 |
 | Clerics | 0.90% | ~139 |
 | Egypt | 0.90% | ~139 |
 | Assyrian Paganism | 0.90% | ~139 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,400 (Ranked 150)  
+Progressed: 15,401 (Ranked 150)  
 Completed: 5 (0.03%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -563,7 +563,7 @@ Completed: 5 (0.03%) (Ranked 318)
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
 | 2023-11-19 | 15,395 | 5 |
-| 2023-11-20 | 15,400 | 5 |
+| 2023-11-20 | 15,401 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 217)  

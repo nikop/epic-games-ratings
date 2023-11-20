@@ -436,9 +436,9 @@
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Expert",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_40075_KM",
@@ -460,9 +460,9 @@
       "ID": "ACH_A_BUDDING_PARTNERSHIP",
       "SetID": "8h8m55b",
       "Name": "A Budding Partnership",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BAD_MEMORY",
@@ -508,9 +508,9 @@
       "ID": "ACH_CAT_SHELTER",
       "SetID": "8h8m55b",
       "Name": "Cat Shelter",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CHILDS_PLAY",
@@ -572,9 +572,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -644,9 +644,9 @@
       "ID": "ACH_LISTEN_ALL_SONG",
       "SetID": "8h8m55b",
       "Name": "24/7 a beat to relax/study to",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LOCAL_FAVORITE",
@@ -724,9 +724,9 @@
       "ID": "ACH_TENDER_SOUL",
       "SetID": "8h8m55b",
       "Name": "Tender Soul",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
@@ -764,9 +764,9 @@
       "ID": "ACH_TRUE_FAN",
       "SetID": "8h8m55b",
       "Name": "True Fan",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNLOCK_ALL",
@@ -788,17 +788,17 @@
       "ID": "ACH_UNLOCK_ALL_DRINK",
       "SetID": "8h8m55b",
       "Name": "Master Brewer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_UNLOCK_GALLERY",
       "SetID": "8h8m55b",
       "Name": "Art Connoisseur",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_UNSOLICITED_BOUNCER",
@@ -820,9 +820,9 @@
       "ID": "ACH_WHAT_THIS",
       "SetID": "8h8m55b",
       "Name": "What\u2019s This?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_WISTFUL_NIGHT",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:04:07.3758068+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:05:09.8913773+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8766102+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:58:44.9855496+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:04:07.375838+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:59:43.9803167+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:05:09.8914101+00:00"
 }

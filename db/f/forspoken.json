@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42836,
+  "EOS_Progressed": 42838,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12927,6 +12927,11 @@
       "Time": "2023-11-20T11:04:54.2781444+00:00",
       "NumProgressed": 42836,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-20T12:06:15.6103122+00:00",
+      "NumProgressed": 42838,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12970,7 +12975,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -12994,7 +12999,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -13194,7 +13199,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "MAGIC_IVY",
@@ -13361,22 +13366,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42836,
+      "Progressed": 42838,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7673,
-      "Completed": 7673
+      "Progressed": 7675,
+      "Completed": 7675
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:04:54.2781442+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:06:15.6103118+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.9444808+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:58:57.9054283+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:04:54.2782375+00:00"
+  "LastUpdate_Ratings": "2023-11-20T12:00:04.2471721+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:06:15.6103906+00:00"
 }

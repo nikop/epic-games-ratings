@@ -6,27 +6,27 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 67.00% | ~423 |
+| Explorer | 67.00% | ~424 |
 | Cowardice | 61.00% | ~386 |
-| NO LIFE IS WORTH SAVING... | 47.00% | ~297 |
+| NO LIFE IS WORTH SAVING... | 48.00% | ~304 |
 | Eat Lead! | 46.00% | ~291 |
-| The Breaking Point | 44.00% | ~278 |
-| Here Comes the Boom | 42.00% | ~265 |
-| Prospector | 41.00% | ~259 |
-| Sniper Wolf | 39.00% | ~246 |
-| Treasure Hunter | 38.00% | ~240 |
-| The Motivation | 38.00% | ~240 |
-| Heroism | 35.00% | ~221 |
+| The Breaking Point | 44.00% | ~279 |
+| Here Comes the Boom | 42.00% | ~266 |
+| Prospector | 41.00% | ~260 |
+| Sniper Wolf | 39.00% | ~247 |
+| Treasure Hunter | 38.00% | ~241 |
+| The Motivation | 38.00% | ~241 |
+| Heroism | 35.00% | ~222 |
 | Collectibles of Chapter I | 34.00% | ~215 |
 | Missing in Action | 34.00% | ~215 |
-| Consequences | 32.00% | ~202 |
-| King of Knives | 32.00% | ~202 |
+| Consequences | 32.00% | ~203 |
+| King of Knives | 32.00% | ~203 |
 | Opportunities | 31.00% | ~196 |
-| The Horror | 29.00% | ~183 |
+| The Horror | 29.00% | ~184 |
 | The Difference | 27.00% | ~171 |
 | Vengeance | 25.00% | ~158 |
 | It's Just an Accident | 24.00% | ~152 |
-| Collectibles of Chapter II | 23.00% | ~145 |
+| Collectibles of Chapter II | 23.00% | ~146 |
 | Broken Hopes | 22.00% | ~139 |
 | Bullseye! | 22.00% | ~139 |
 | Sorrow | 19.00% | ~120 |
@@ -34,8 +34,8 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 18.00% | ~114 |
 | Helping Hand | 16.00% | ~101 |
 | Without a Second Thought | 15.00% | ~95 |
-| Collectibles of Chapter III | 14.00% | ~88 |
-| Collectibles of Chapter IV | 14.00% | ~88 |
+| Collectibles of Chapter III | 14.00% | ~89 |
+| Collectibles of Chapter IV | 14.00% | ~89 |
 | Collectibles of Chapter V | 10.00% | ~63 |
 | Tiptoe Around | 10.00% | ~63 |
 | Such is War! | 8.00% | ~51 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 632 (Ranked 289)  
+Progressed: 633 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 617 | 0 |
 | 2023-11-18 | 624 | 0 |
 | 2023-11-19 | 632 | 0 |
+| 2023-11-20 | 633 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

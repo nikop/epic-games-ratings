@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3890,
+  "EOS_Progressed": 3892,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8020,6 +8020,11 @@
       "Time": "2023-11-20T10:08:15.258327+00:00",
       "NumProgressed": 3890,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-20T12:07:40.8458912+00:00",
+      "NumProgressed": 3892,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8031,7 +8036,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8087,7 +8092,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8111,7 +8116,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8175,7 +8180,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8199,7 +8204,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8239,7 +8244,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8255,7 +8260,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8263,7 +8268,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8279,7 +8284,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8287,7 +8292,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8295,7 +8300,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8335,7 +8340,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -8351,7 +8356,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -8367,7 +8372,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8383,7 +8388,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -8391,7 +8396,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -8399,7 +8404,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8423,7 +8428,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8439,7 +8444,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8503,7 +8508,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8598,13 +8603,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3841,
+      "Progressed": 3843,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3890,
+      "Progressed": 3892,
       "Completed": 11
     }
   ],
@@ -8612,8 +8617,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-20T11:05:55.9249648+00:00",
+  "LastChanged_Achievements": "2023-11-20T12:07:40.8458909+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-20T10:57:18.591901+00:00",
-  "LastUpdate_Achievements": "2023-11-20T11:05:55.925053+00:00"
+  "LastUpdate_Ratings": "2023-11-20T11:57:37.1893032+00:00",
+  "LastUpdate_Achievements": "2023-11-20T12:07:40.8459748+00:00"
 }

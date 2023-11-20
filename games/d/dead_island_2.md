@@ -12,6 +12,7 @@ Rating: 4.54 (Ranked 524)
 | Break A Leg | 1.00% | ~7,213 |
 | Coup de Grâce | 1.00% | ~7,213 |
 | Hazardous Materials | 1.00% | ~7,213 |
+| Friends Like These | 1.00% | ~7,213 |
 | Hotel California | 1.00% | ~7,213 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,213 |
 | Welcome To Hell-A | 1.00% | ~7,213 |
@@ -19,7 +20,6 @@ Rating: 4.54 (Ranked 524)
 | Anger Management | 0.90% | ~6,491 |
 | Bookworm | 0.90% | ~6,491 |
 | But Doctor, I am Butcho | 0.90% | ~6,491 |
-| Friends Like These | 0.90% | ~6,491 |
 | Apex Predator | 0.90% | ~6,491 |
 | Stacking the Deck | 0.90% | ~6,491 |
 | This is My Weapon | 0.90% | ~6,491 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,258 (Ranked 20)  
+Progressed: 721,276 (Ranked 20)  
 Completed: 2,417 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,417 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,258 | 2,417 |
+| 2023-11-20 | 721,276 | 2,417 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,576 (Ranked 84)  
