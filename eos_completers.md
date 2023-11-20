@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 31.07% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 31.05% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -18,7 +18,7 @@
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 17 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 18 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 24.14% |
-| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.64% |
+| 19 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.49% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 21 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 22 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
@@ -58,7 +58,7 @@
 | 56 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 57 | [Scorn](games/s/scorn.md) | 6.93% |
 | 58 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.83% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.82% |
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 61 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 62 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.32% |
@@ -149,8 +149,8 @@
 | 147 | [Chorus](games/c/chorus.md) | 1.33% |
 | 148 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
 | 149 | [Iron Danger](games/i/iron_danger.md) | 1.28% |
-| 150 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.27% |
-| 151 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
+| 150 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.26% |
+| 150 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
 | 152 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 153 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 153 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
@@ -223,10 +223,10 @@
 | 221 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.37% |
 | 221 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 223 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.36% |
-| 223 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.36% |
-| 225 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 225 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.35% |
-| 225 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
+| 224 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 224 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.35% |
+| 224 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.35% |
+| 224 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 228 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 228 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 228 | [Them and Us](games/t/them_and_us.md) | 0.33% |
@@ -746,4 +746,4 @@
 | 356 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 356 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 356 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,582 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,583 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
