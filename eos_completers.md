@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.88% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.96% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.95% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -40,11 +40,11 @@
 | 37 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 37 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
 | 40 | [Smelter](games/s/smelter.md) | 9.76% |
-| 41 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 9.68% |
+| 41 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 9.52% |
 | 42 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 43 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 43 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.01% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.00% |
 | 46 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 8.74% |
 | 47 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 48 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 8.33% |
@@ -82,7 +82,7 @@
 | 79 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.52% |
 | 81 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.36% |
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 83 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.18% |
+| 83 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 84 | [The Bunker](games/t/the_bunker.md) | 4.14% |
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.95% |
 | 86 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.88% |
@@ -146,8 +146,8 @@
 | 144 | [Late Shift](games/l/late_shift.md) | 1.36% |
 | 144 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
 | 146 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
-| 147 | [Chorus](games/c/chorus.md) | 1.33% |
-| 148 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
+| 147 | [Chorus](games/c/chorus.md) | 1.32% |
+| 147 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
 | 149 | [Iron Danger](games/i/iron_danger.md) | 1.28% |
 | 150 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.26% |
 | 150 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
@@ -156,7 +156,7 @@
 | 153 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 155 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.21% |
 | 156 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 157 | [Adios](games/a/adios.md) | 1.07% |
+| 157 | [Adios](games/a/adios.md) | 1.08% |
 | 158 | [The Devil's Face](games/t/the_devil's_face.md) | 1.06% |
 | 159 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.05% |
 | 159 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
@@ -194,10 +194,10 @@
 | 192 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 192 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.55% |
 | 192 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.55% |
-| 195 | [Dead Space](games/d/dead_space.md) | 0.53% |
 | 195 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.53% |
 | 195 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 195 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 198 | [Dead Space](games/d/dead_space.md) | 0.52% |
 | 199 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.51% |
 | 199 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.51% |
 | 201 | [Eternights](games/e/eternights.md) | 0.50% |

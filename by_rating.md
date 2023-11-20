@@ -261,12 +261,12 @@
 | 252 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 727 | 180 |
 | 252 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,556 | 69 |
 | 252 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 315,748 | 3 |
-| 252 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 261,245 | 4 |
+| 252 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 261,708 | 4 |
 | 252 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 550 |
 | 252 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 550 |
 | 252 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.68 | 0 | 550 |
 | 252 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 594 | 194 |
-| 252 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 706 | 183 |
+| 252 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 707 | 183 |
 | 252 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 58 | 417 |
 | 252 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 550 |
 | 252 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 550 |
@@ -309,7 +309,7 @@
 | 295 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 550 |
 | 295 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 452 | 220 |
 | 295 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 196 | 290 |
-| 295 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,968 | 64 |
+| 295 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,973 | 64 |
 | 295 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,976 | 85 |
 | 295 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 216 |
 | 313 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 550 |
@@ -331,7 +331,7 @@
 | 313 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 34 | 479 |
 | 313 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 550 |
 | 313 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 103 | 355 |
-| 332 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,992 | 63 |
+| 332 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,993 | 63 |
 | 332 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 118 | 341 |
 | 332 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.64 | 106,230 | 9 |
 | 332 | [Dead Space](games/d/dead_space.md) | 4.64 | 112 | 346 |
@@ -408,7 +408,7 @@
 | 386 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 550 |
 | 386 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 293 | 255 |
 | 386 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.61 | 0 | 550 |
-| 386 | [Supraland](games/s/supraland.md) | 4.61 | 7,729 | 48 |
+| 386 | [Supraland](games/s/supraland.md) | 4.61 | 7,731 | 48 |
 | 386 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 550 |
 | 386 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 52 | 426 |
 | 386 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 26 | 513 |
@@ -824,7 +824,7 @@
 | 814 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 550 |
 | 823 | [Hammerting](games/h/hammerting.md) | 4.32 | 0 | 550 |
 | 823 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 550 |
-| 823 | [Paladins](games/p/paladins.md) | 4.32 | 3,828 | 88 |
+| 823 | [Paladins](games/p/paladins.md) | 4.32 | 3,833 | 88 |
 | 823 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 550 |
 | 823 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 498 |
 | 823 | [Vampyr](games/v/vampyr.md) | 4.32 | 576 | 196 |
@@ -843,6 +843,7 @@
 | 836 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 550 |
 | 842 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 550 |
 | 842 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 550 |
+| 842 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.29 | 35 | 470 |
 | 842 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 90 | 378 |
 | 842 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 764 | 174 |
 | 842 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 155 | 314 |
@@ -850,15 +851,14 @@
 | 842 | [Steelrising](games/s/steelrising.md) | 4.29 | 39 | 457 |
 | 842 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.29 | 0 | 550 |
 | 842 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.29 | 190 | 292 |
-| 851 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 550 |
-| 851 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 550 |
-| 851 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 35 | 470 |
-| 851 | [Fortnite](games/f/fortnite.md) | 4.28 | 2,152,604 | 1 |
-| 851 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 550 |
-| 851 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 550 |
-| 851 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 550 |
-| 851 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 550 |
-| 851 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 305 |
+| 852 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 550 |
+| 852 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 550 |
+| 852 | [Fortnite](games/f/fortnite.md) | 4.28 | 2,152,604 | 1 |
+| 852 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 550 |
+| 852 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 550 |
+| 852 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 550 |
+| 852 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 550 |
+| 852 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 305 |
 | 860 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 550 |
 | 860 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,856 | 86 |
 | 860 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 38 | 460 |
