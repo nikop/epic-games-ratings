@@ -397,6 +397,7 @@
 | [Kabaret](../games/k/kabaret.md) | 67 | 1,000 |
 | [Kaichu - The Kaiju Dating Sim](../games/k/kaichu_-_the_kaiju_dating_sim.md) | 15 | 1,000 |
 | [Kainga: Seeds of Civilization](../games/k/kainga__seeds_of_civilization.md) | 24 | 1,000 |
+| [Kaze and the Wild Masks](../games/8/87b2e2971d6b485085001a91c73a9718.md) | 25 | 1,000 |
 | [Ken Follett's The Pillars of the Earth](../games/k/ken_follett's_the_pillars_of_the_earth.md) | 41 | 1,000 |
 | [Kena: Bridge of Spirits](../games/k/kena__bridge_of_spirits.md) | 41 | 1,000 |
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |

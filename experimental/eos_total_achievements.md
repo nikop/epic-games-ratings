@@ -489,6 +489,7 @@
 | [Dinobreak](../games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 25 | 1,000 |
 | [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [Haunted House](../games/8/81970ccb964d4720adccf2e2244fe754.md) | 25 | 1,000 |
+| [Kaze and the Wild Masks](../games/8/87b2e2971d6b485085001a91c73a9718.md) | 25 | 1,000 |
 | [Knight vs Giant: The Broken Excalibur](../games/9/973549a03a1441058badf7a1bc8b565d.md) | 25 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
 | [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |
