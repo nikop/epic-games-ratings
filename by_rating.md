@@ -108,7 +108,7 @@
 | 95 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 43 | 450 |
 | 107 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 318 | 248 |
 | 107 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 423 |
-| 107 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,739 | 37 |
+| 107 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,751 | 37 |
 | 107 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,441 | 104 |
 | 107 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 549 |
 | 107 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 965 | 155 |
@@ -413,7 +413,7 @@
 | 386 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.61 | 52 | 426 |
 | 386 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.61 | 26 | 513 |
 | 386 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 292 | 256 |
-| 414 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,856 | 25 |
+| 414 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,879 | 25 |
 | 414 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 549 |
 | 414 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,923 | 72 |
 | 414 | [Control](games/c/control.md) | 4.60 | 8,757 | 41 |
@@ -522,7 +522,7 @@
 | 504 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 549 |
 | 504 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 369 | 238 |
 | 504 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 81 | 388 |
-| 504 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,350 | 135 |
+| 504 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,351 | 135 |
 | 524 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 549 |
 | 524 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 518 |
 | 524 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,555 | 127 |
@@ -860,7 +860,7 @@
 | 851 | [Scrapnaut](games/s/scrapnaut.md) | 4.28 | 0 | 549 |
 | 851 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 305 |
 | 860 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 549 |
-| 860 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,855 | 86 |
+| 860 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,856 | 86 |
 | 860 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.27 | 38 | 460 |
 | 860 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 543 |
 | 860 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 549 |
