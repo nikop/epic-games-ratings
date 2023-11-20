@@ -71,7 +71,7 @@
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 548 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 478 |
 | 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 877 | 162 |
-| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,811 | 55 |
+| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,821 | 55 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 425 | 226 |
 | 67 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 548 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 548 |
@@ -462,7 +462,7 @@
 | 444 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 548 |
 | 444 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 235 | 272 |
 | 444 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 56 | 417 |
-| 444 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,539 | 58 |
+| 444 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,540 | 58 |
 | 444 | [Travellers Rest](games/t/travellers_rest.md) | 4.58 | 0 | 548 |
 | 444 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 548 |
 | 444 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 222 | 277 |

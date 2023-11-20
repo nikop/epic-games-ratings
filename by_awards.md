@@ -54,10 +54,10 @@
 | 52 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,526 | 4.68 | 252 |
 | 53 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,405 | 4.74 | 158 |
 | 54 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 7,073 | 4.69 | 232 |
-| 55 | [Sifu](games/s/sifu.md) | 6,811 | 4.82 | 67 |
+| 55 | [Sifu](games/s/sifu.md) | 6,821 | 4.82 | 67 |
 | 56 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 710 |
 | 57 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,562 | 4.75 | 148 |
-| 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,539 | 4.58 | 444 |
+| 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,540 | 4.58 | 444 |
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,466 | 4.80 | 86 |
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,237 | 4.66 | 294 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,109 | 4.79 | 95 |
