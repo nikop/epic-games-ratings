@@ -2086,9 +2086,9 @@
       "Count": 253
     }
   ],
-  "EOS_Progressed": 214838,
+  "EOS_Progressed": 214843,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26521,6 +26521,11 @@
       "Time": "2023-11-20T05:03:25.6509633+00:00",
       "NumProgressed": 214838,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-20T06:03:15.4073721+00:00",
+      "NumProgressed": 214843,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26556,7 +26561,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12890
+      "UsersEstimate": 12891
     },
     {
       "ID": "CompleteMastery",
@@ -26572,7 +26577,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19335
+      "UsersEstimate": 19336
     },
     {
       "ID": "FiveShadows",
@@ -26588,7 +26593,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12890
+      "UsersEstimate": 12891
     },
     {
       "ID": "GearUp",
@@ -26684,7 +26689,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12890
+      "UsersEstimate": 12891
     },
     {
       "ID": "NoGimmicks",
@@ -26756,7 +26761,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19335
+      "UsersEstimate": 19336
     },
     {
       "ID": "StillRollin",
@@ -26788,7 +26793,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19335
+      "UsersEstimate": 19336
     },
     {
       "ID": "TheCave",
@@ -26852,7 +26857,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12890
+      "UsersEstimate": 12891
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -26883,15 +26888,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 214838,
+      "Progressed": 214843,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-19T17:58:18.266534+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:03:25.6509629+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:03:15.4073719+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:59:19.6270883+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:03:25.6511442+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:58:37.7146304+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:03:15.407527+00:00"
 }

@@ -7807,9 +7807,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 358831,
+  "EOS_Progressed": 358832,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 2581,
+  "EOS_NewPlayers": 2576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31852,6 +31852,11 @@
       "Time": "2023-11-20T05:10:03.7915548+00:00",
       "NumProgressed": 358831,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-20T06:09:44.1634612+00:00",
+      "NumProgressed": 358832,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -31879,7 +31884,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 132767
+      "UsersEstimate": 132768
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -32015,7 +32020,7 @@
       "Name": "Clean Sheet Network",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28706
+      "UsersEstimate": 28707
     },
     {
       "ID": "achievement_clean_sheet_versus",
@@ -32071,7 +32076,7 @@
       "Name": "First Goal Network",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28706
+      "UsersEstimate": 28707
     },
     {
       "ID": "achievement_first_goal_versus",
@@ -32087,7 +32092,7 @@
       "Name": "First Win Network",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28706
+      "UsersEstimate": 28707
     },
     {
       "ID": "achievement_first_win_versus",
@@ -32143,7 +32148,7 @@
       "Name": "Superb Strike",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28706
+      "UsersEstimate": 28707
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -32175,7 +32180,7 @@
       "Name": "T\u00EAte-\u00E0-t\u00EAte",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28706
+      "UsersEstimate": 28707
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -32183,7 +32188,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 107649
+      "UsersEstimate": 107650
     },
     {
       "ID": "achievement_import_to_victory",
@@ -32239,7 +32244,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 86119
+      "UsersEstimate": 86120
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -32247,7 +32252,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 244005
+      "UsersEstimate": 244006
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -32271,7 +32276,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 218887
+      "UsersEstimate": 218888
     },
     {
       "ID": "achievement_people_pleaser",
@@ -32295,7 +32300,7 @@
       "Name": "Planned Signing",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 154297
+      "UsersEstimate": 154298
     },
     {
       "ID": "achievement_played_30_seasons",
@@ -32327,7 +32332,7 @@
       "Name": "Record Sale",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 86119
+      "UsersEstimate": 86120
     },
     {
       "ID": "achievement_record_signing",
@@ -32335,7 +32340,7 @@
       "Name": "Record Signing",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 107649
+      "UsersEstimate": 107650
     },
     {
       "ID": "achievement_red_hot_newgen",
@@ -32383,7 +32388,7 @@
       "Name": "#DoneDeal",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 190180
+      "UsersEstimate": 190181
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -32567,7 +32572,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 39471
+      "UsersEstimate": 39472
     },
     {
       "ID": "achievement_won_top_domestic_cup",
@@ -32591,7 +32596,7 @@
       "Name": "Best in the World",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 28706
+      "UsersEstimate": 28707
     },
     {
       "ID": "achievement_you_can_buy_happiness",
@@ -32662,7 +32667,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 358831,
+      "Progressed": 358832,
       "Completed": 26
     }
   ],
@@ -32670,8 +32675,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-20T04:02:50.7569989+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:10:03.7915545+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:09:44.163461+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.5620034+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:03:04.0535719+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:10:03.7917237+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:02:59.2329978+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:09:44.1636285+00:00"
 }

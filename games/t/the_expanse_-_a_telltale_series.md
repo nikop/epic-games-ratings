@@ -11,6 +11,7 @@ Rating: 4.56 (Ranked 489)
 | Zen Master | 5.00% | ~55 |
 | Martian Music | 4.00% | ~606 |
 | Drone Dodger | 4.00% | ~606 |
+| Call it Even | 4.00% | ~606 |
 | Captain Drummer | 4.00% | ~606 |
 | Celebrations are in Order | 4.00% | ~606 |
 | Impossible Objects | 4.00% | ~606 |
@@ -23,7 +24,6 @@ Rating: 4.56 (Ranked 489)
 | Spore Taste | 3.00% | ~454 |
 | Heal Thy Medic | 3.00% | ~454 |
 | Khan's Revenge | 3.00% | ~454 |
-| Call it Even | 3.00% | ~454 |
 | Master Negotiator | 3.00% | ~33 |
 | Doctor Approved | 2.00% | ~303 |
 | Bottoms up! | 2.00% | ~303 |

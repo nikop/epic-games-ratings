@@ -58,10 +58,10 @@
 | The Cure | 30.00% | ~400 |
 | Big Game Hunter | 30.00% | ~400 |
 | Revenge! | 30.00% | ~400 |
+| Heart of Darkness | 30.00% | ~400 |
 | Archivist | 29.00% | ~387 |
 | Fade Away | 29.00% | ~387 |
 | Agent | 29.00% | ~387 |
-| Heart of Darkness | 29.00% | ~387 |
 | Bringer of War | 29.00% | ~387 |
 | Focused | 28.00% | ~374 |
 | Friend or Foe | 28.00% | ~374 |

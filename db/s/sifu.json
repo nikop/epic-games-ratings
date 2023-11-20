@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7737,9 +7737,9 @@
       "Count": 421
     }
   ],
-  "EOS_Progressed": 717050,
+  "EOS_Progressed": 717053,
   "EOS_Completed": 12938,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26607,6 +26607,11 @@
       "Time": "2023-11-20T05:04:58.750493+00:00",
       "NumProgressed": 717050,
       "NumCompleted": 12938
+    },
+    {
+      "Time": "2023-11-20T06:04:27.0678905+00:00",
+      "NumProgressed": 717053,
+      "NumCompleted": 12938
     }
   ],
   "TotalAchievements": 60,
@@ -26656,9 +26661,9 @@
       "ID": "06_Vengeance_H5",
       "SetID": "adcm20g",
       "Name": "Furious Fists",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 2868
+      "UsersEstimate": 3585
     },
     {
       "ID": "07_Wude_H1",
@@ -27097,21 +27102,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26351,
+      "Progressed": 26354,
       "Completed": 10747
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717050,
+      "Progressed": 717053,
       "Completed": 12938
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-20T02:59:39.504417+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:04:58.7504927+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:04:27.0678901+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:01:12.8595936+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:04:58.7506072+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:00:00.573768+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:04:27.0679946+00:00"
 }

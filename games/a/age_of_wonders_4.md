@@ -32,9 +32,9 @@ Rating: 4.61 (Ranked 386)
 | My Final Form | 0.70% | ~38 |
 | Fiery Friend | 0.70% | ~38 |
 | Impenetrable Fortress | 0.70% | ~38 |
+| Mighty Hoard | 0.70% | ~38 |
 | Dawn of the Dread | 0.70% | ~38 |
 | Return of the Wizard King | 0.60% | ~32 |
-| Mighty Hoard | 0.60% | ~32 |
 | Prometheus Avenged | 0.60% | ~32 |
 | A Conqueror's Cohort | 0.60% | ~32 |
 | Arch Mage | 0.50% | ~27 |

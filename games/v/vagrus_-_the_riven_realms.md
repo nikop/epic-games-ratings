@@ -35,13 +35,13 @@
 | Bounty Hunter | 3.00% | ~6 |
 | Potential Unlocked | 3.00% | ~6 |
 | Huntress Unbound | 3.00% | ~6 |
+| Despised | 3.00% | ~6 |
 | A Terrible Will | 3.00% | ~6 |
 | Life... Finds a Way | 3.00% | ~6 |
 | Inquisitions of Discord | 3.00% | ~6 |
 | Making Contact | 2.00% | ~4 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
-| Despised | 2.00% | ~4 |
 | Business As Usual | 2.00% | ~4 |
 | Legacy of a Mercenary | 2.00% | ~4 |
 | Moving At Odd Angles | 2.00% | ~4 |

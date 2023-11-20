@@ -1501,9 +1501,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 159213,
+  "EOS_Progressed": 159215,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1187,
+  "EOS_NewPlayers": 1188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16331,6 +16331,11 @@
       "Time": "2023-11-20T05:08:10.7430228+00:00",
       "NumProgressed": 159213,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T06:08:15.6860319+00:00",
+      "NumProgressed": 159215,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16422,7 +16427,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -16550,7 +16555,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -16709,21 +16714,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158796,
+      "Progressed": 158798,
       "Completed": 1211
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159213,
+      "Progressed": 159215,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T23:58:22.9175877+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:08:10.7430222+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:08:15.6860317+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:00:21.7010911+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:08:10.7431351+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:59:23.0799499+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:08:15.6861088+00:00"
 }

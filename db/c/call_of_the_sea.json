@@ -6,7 +6,7 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 83,
-  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130686,
+  "EOS_Progressed": 130688,
   "EOS_Completed": 1125,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -24622,6 +24622,11 @@
       "Time": "2023-11-20T05:04:05.4949911+00:00",
       "NumProgressed": 130686,
       "NumCompleted": 1125
+    },
+    {
+      "Time": "2023-11-20T06:03:46.5922506+00:00",
+      "NumProgressed": 130688,
+      "NumCompleted": 1125
     }
   ],
   "TotalAchievements": 34,
@@ -24649,7 +24654,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 54888
+      "UsersEstimate": 54889
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -24657,7 +24662,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37899
+      "UsersEstimate": 37900
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -24665,7 +24670,7 @@
       "Name": "The Amazing Adventures of Norah Everhart",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     },
     {
       "ID": "ACH_GAME_NOTES",
@@ -24689,7 +24694,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 104549
+      "UsersEstimate": 104550
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -24705,7 +24710,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73184
+      "UsersEstimate": 73185
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -24713,7 +24718,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36592
+      "UsersEstimate": 36593
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -24721,7 +24726,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52274
+      "UsersEstimate": 52275
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -24729,7 +24734,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 35285
+      "UsersEstimate": 35286
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -24801,7 +24806,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 35285
+      "UsersEstimate": 35286
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -24809,7 +24814,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36592
+      "UsersEstimate": 36593
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -24817,7 +24822,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 23523
+      "UsersEstimate": 23524
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -24904,7 +24909,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 130686,
+      "Progressed": 130688,
       "Completed": 1125
     }
   ],
@@ -24912,8 +24917,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:04:05.4949906+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:03:46.5922504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:57:06.5800308+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:04:05.4951603+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:56:58.704085+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:03:46.5923667+00:00"
 }

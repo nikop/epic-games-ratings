@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2835,9 +2835,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 8635,
+  "EOS_Progressed": 8636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8610,6 +8610,11 @@
       "Time": "2023-11-20T05:06:27.4396837+00:00",
       "NumProgressed": 8635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T06:05:35.4850559+00:00",
+      "NumProgressed": 8636,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8622,7 +8627,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 3022
+      "UsersEstimate": 3023
     },
     {
       "ID": "ach02",
@@ -8638,7 +8643,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ach04",
@@ -8670,7 +8675,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "ach08",
@@ -8678,7 +8683,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "ach09",
@@ -8694,7 +8699,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ach11",
@@ -8758,7 +8763,7 @@
       "Name": "Adventure Time",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "ach19",
@@ -8798,7 +8803,7 @@
       "Name": "Take And Deny",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "ach24",
@@ -8806,7 +8811,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ach25",
@@ -8814,7 +8819,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "ach26",
@@ -8934,7 +8939,7 @@
       "Name": "Found You",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "ach41",
@@ -8942,7 +8947,7 @@
       "Name": "Stop Hiding",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "ach42",
@@ -8956,9 +8961,9 @@
       "ID": "ach43",
       "SetID": "47in8n6",
       "Name": "Working Overtime",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3972
+      "UsersEstimate": 3886
     },
     {
       "ID": "ach44",
@@ -9021,7 +9026,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8635,
+      "Progressed": 8636,
       "Completed": 0
     }
   ],
@@ -9029,8 +9034,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-20T03:02:36.9846008+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:06:27.4396831+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:05:35.4850557+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:02:40.4945702+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:06:27.4397318+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:02:41.3281738+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:05:35.4851047+00:00"
 }

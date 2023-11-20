@@ -31,8 +31,8 @@ Rating: 3.95 (Ranked 1,008)
 | Foo Finder | 0.40% | ~365 |
 | Olympus Ascended | 0.40% | ~365 |
 | Ding Dong | 0.40% | ~365 |
+| All that Glitters | 0.40% | ~79 |
 | Rockay Raider | 0.30% | ~274 |
-| All that Glitters | 0.30% | ~59 |
 | Rockay Knight | 0.20% | ~183 |
 | Privateer | 0.20% | ~183 |
 | Talent Scout | 0.20% | ~183 |

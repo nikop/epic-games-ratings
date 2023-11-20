@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1863,
+  "EOS_Progressed": 1864,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7017,6 +7017,11 @@
       "Time": "2023-11-19T23:05:53.8506577+00:00",
       "NumProgressed": 1863,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T06:05:13.1988996+00:00",
+      "NumProgressed": 1864,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -7140,7 +7145,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7266,9 +7271,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -7331,7 +7336,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1863,
+      "Progressed": 1864,
       "Completed": 1
     }
   ],
@@ -7339,8 +7344,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-19T22:59:32.4737198+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:05:58.8804289+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:05:13.1988993+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:45.1710661+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:59:38.6757625+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:05:58.8804906+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:58:51.619382+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:05:13.1989422+00:00"
 }

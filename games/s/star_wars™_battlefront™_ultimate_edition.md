@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,180 |
-| Off to a good start | 66.00% | ~875 |
-| Do... or do not. There is no try | 50.00% | ~663 |
-| A good blaster at your side | 31.00% | ~411 |
+| New Recruit | 89.00% | ~1,182 |
+| Off to a good start | 66.00% | ~876 |
+| Do... or do not. There is no try | 50.00% | ~664 |
+| A good blaster at your side | 31.00% | ~412 |
 | I suggest a new strategy | 19.00% | ~252 |
 | Scrap collector | 18.00% | ~239 |
-| All right, I'll give it a try | 17.00% | ~225 |
-| Great shot, kid! | 17.00% | ~225 |
+| All right, I'll give it a try | 17.00% | ~226 |
+| Great shot, kid! | 17.00% | ~226 |
+| Together we can rule the galaxy | 15.00% | ~199 |
 | The power of the Force | 14.00% | ~186 |
-| Together we can rule the galaxy | 14.00% | ~186 |
 | Shoot first | 14.00% | ~186 |
-| Collector | 13.00% | ~172 |
-| Best star-pilot in the galaxy | 10.00% | ~133 |
+| Collector | 13.00% | ~173 |
 | Survivor | 10.00% | ~133 |
-| Tell Jabba that I've got his money | 9.00% | ~119 |
-| Never tell me the odds! | 9.00% | ~119 |
+| Tell Jabba that I've got his money | 9.00% | ~120 |
+| Never tell me the odds! | 9.00% | ~120 |
+| Best star-pilot in the galaxy | 9.00% | ~120 |
 | A cunning warrior | 8.00% | ~106 |
 | What's the cargo? | 7.00% | ~93 |
 | "Gonk? Gonk!" | 6.00% | ~80 |
 | Distinguished | 6.00% | ~80 |
 | Impressive. Most impressive. | 6.00% | ~80 |
 | Judge me by my size, do you? | 6.00% | ~80 |
-| Support the troops | 6.00% | ~80 |
 | A tremor in the Force | 5.00% | ~66 |
+| Support the troops | 5.00% | ~66 |
 | On the ball | 4.00% | ~53 |
 | Safety ain't the point of a joyride | 4.00% | ~53 |
 | Not bad for a little furball | 4.00% | ~53 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,326 (Ranked 243)  
+Progressed: 1,328 (Ranked 243)  
 Completed: 1 (0.08%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 1 (0.08%) (Ranked 291)
 | 2023-11-17 | 1,286 | 1 |
 | 2023-11-18 | 1,305 | 1 |
 | 2023-11-19 | 1,322 | 1 |
-| 2023-11-20 | 1,326 | 1 |
+| 2023-11-20 | 1,328 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

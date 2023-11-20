@@ -5,25 +5,25 @@ Rating: 4.76 (Ranked 126)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~244,005 |
+| Motivational Speaker | 68.00% | ~244,006 |
 | The Player Whisperer | 67.00% | ~240,417 |
-| One of Us, One of Us! | 61.00% | ~218,887 |
+| One of Us, One of Us! | 61.00% | ~218,888 |
 | Clean Sheet | 54.00% | ~193,769 |
 | First Victory | 54.00% | ~193,769 |
-| #DoneDeal | 53.00% | ~190,180 |
+| #DoneDeal | 53.00% | ~190,181 |
 | Off the Books | 51.00% | ~183,004 |
 | Super-Sub | 51.00% | ~183,004 |
 | Hat-trick | 45.00% | ~161,474 |
-| Planned Signing | 43.00% | ~154,297 |
+| Planned Signing | 43.00% | ~154,298 |
 | "I Would Love It If We Beat Them" | 42.00% | ~150,709 |
 | Scoring Streak | 39.00% | ~139,944 |
 | Wheeler Dealer | 39.00% | ~139,944 |
 | Thumping | 38.00% | ~136,356 |
 | People Pleaser | 38.00% | ~136,356 |
-| Unbeatable! | 37.00% | ~132,767 |
+| Unbeatable! | 37.00% | ~132,768 |
 | One Of Our Own | 35.00% | ~125,591 |
-| They're a Natural | 30.00% | ~107,649 |
-| Record Signing | 30.00% | ~107,649 |
+| They're a Natural | 30.00% | ~107,650 |
+| Record Signing | 30.00% | ~107,650 |
 | Team Performance | 29.00% | ~104,061 |
 | Star Player | 28.00% | ~100,473 |
 | The Only Stat That Matters | 28.00% | ~100,473 |
@@ -33,8 +33,8 @@ Rating: 4.76 (Ranked 126)
 | The People's Champion | 26.00% | ~93,296 |
 | Beating Expectations | 25.00% | ~89,708 |
 | Squad Goals | 25.00% | ~89,708 |
-| Unstoppable Force | 24.00% | ~86,119 |
-| Record Sale | 24.00% | ~86,119 |
+| Unstoppable Force | 24.00% | ~86,120 |
+| Record Sale | 24.00% | ~86,120 |
 | You're on Fire | 23.00% | ~82,531 |
 | Tremendous Trio | 23.00% | ~82,531 |
 | Drilling Down | 23.00% | ~82,531 |
@@ -53,14 +53,14 @@ Rating: 4.76 (Ranked 126)
 | Window Shopping | 14.00% | ~50,236 |
 | Top Form | 13.00% | ~46,648 |
 | A Game of Two Halves | 12.00% | ~43,060 |
-| You're Up! | 11.00% | ~39,471 |
+| You're Up! | 11.00% | ~39,472 |
 | Money, Money, Money | 10.00% | ~35,883 |
-| Clean Sheet Network | 8.00% | ~28,706 |
-| First Goal Network | 8.00% | ~28,706 |
-| First Win Network | 8.00% | ~28,706 |
-| Superb Strike | 8.00% | ~28,706 |
-| Tête-à-tête | 8.00% | ~28,706 |
-| Best in the World | 8.00% | ~28,706 |
+| Clean Sheet Network | 8.00% | ~28,707 |
+| First Goal Network | 8.00% | ~28,707 |
+| First Win Network | 8.00% | ~28,707 |
+| Superb Strike | 8.00% | ~28,707 |
+| Tête-à-tête | 8.00% | ~28,707 |
+| Best in the World | 8.00% | ~28,707 |
 | Invincible! | 7.00% | ~25,118 |
 | Best in the Business | 6.00% | ~21,530 |
 | National Service | 6.00% | ~21,530 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 126)
 | Draft Dominator | 0.10% | ~359 |
 | Draft Value | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,831 (Ranked 46)  
+Progressed: 358,832 (Ranked 46)  
 Completed: 26 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 26 (0.01%) (Ranked 334)
 | 2023-11-17 | 357,975 | 26 |
 | 2023-11-18 | 358,424 | 26 |
 | 2023-11-19 | 358,787 | 26 |
-| 2023-11-20 | 358,831 | 26 |
+| 2023-11-20 | 358,832 | 26 |
 ## Awards
 Max (Diverse Characters): 1,193  (Ranked 141)  
 Sum: 8,238 (Ranked 102)  

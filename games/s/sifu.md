@@ -17,6 +17,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 0.60% | ~158 |
 | A Lady's Blood in the Snow | 0.50% | ~3,585 |
 | Lady Wing Chun | 0.50% | ~3,585 |
+| Furious Fists | 0.50% | ~3,585 |
 | Kill Nil | 0.50% | ~3,585 |
 | Stuntmaster | 0.50% | ~3,585 |
 | Street Fighting | 0.50% | ~3,585 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.50% | ~3,585 |
 | Rumble in the Hangar | 0.50% | ~3,585 |
 | Fight the way you practice | 0.50% | ~132 |
-| Furious Fists | 0.40% | ~2,868 |
 | Scareless | 0.40% | ~2,868 |
 | Old Child | 0.40% | ~2,868 |
 | Kung-Fu Tussle | 0.40% | ~2,868 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,050 (Ranked 22)  
+Progressed: 717,053 (Ranked 22)  
 Completed: 12,938 (1.80%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 12,938 (1.80%) (Ranked 131)
 | 2023-11-17 | 716,966 | 12,936 |
 | 2023-11-18 | 717,005 | 12,937 |
 | 2023-11-19 | 717,041 | 12,938 |
-| 2023-11-20 | 717,050 | 12,938 |
+| 2023-11-20 | 717,053 | 12,938 |
 ## Awards
 Max (Great Boss Battles): 6,821  (Ranked 55)  
 Sum: 11,923 (Ranked 82)  

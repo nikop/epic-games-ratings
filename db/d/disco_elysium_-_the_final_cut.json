@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 23,
   "Ranking_Popularity": 179,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 139,
@@ -1478,7 +1478,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130990,
+  "EOS_Progressed": 130991,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -22388,6 +22388,11 @@
       "Time": "2023-11-20T01:51:00.3058065+00:00",
       "NumProgressed": 130990,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-20T06:03:20.8552603+00:00",
+      "NumProgressed": 130991,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22503,7 +22508,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20958
+      "UsersEstimate": 20959
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22535,7 +22540,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20958
+      "UsersEstimate": 20959
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22718,15 +22723,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130990,
+      "Progressed": 130991,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-20T05:03:32.6926487+00:00",
+  "LastChanged_Achievements": "2023-11-20T06:03:20.85526+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-20T04:59:05.8561366+00:00",
-  "LastUpdate_Achievements": "2023-11-20T05:03:32.6927704+00:00"
+  "LastUpdate_Ratings": "2023-11-20T05:58:27.2997813+00:00",
+  "LastUpdate_Achievements": "2023-11-20T06:03:20.855409+00:00"
 }
