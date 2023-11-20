@@ -3,8 +3,8 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 313,
-  "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 454,
+  "Ranking_Popularity": 380,
+  "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 53,
@@ -651,9 +651,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 54356,
+  "EOS_Progressed": 54359,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 1792,
+  "EOS_NewPlayers": 1788,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -10291,6 +10291,11 @@
       "Time": "2023-11-20T06:03:14.9378815+00:00",
       "NumProgressed": 54356,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-20T07:02:44.8359785+00:00",
+      "NumProgressed": 54359,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -10359,7 +10364,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "CHEATER",
@@ -10431,7 +10436,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "FERN",
@@ -10495,7 +10500,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "INITIATION",
@@ -10503,7 +10508,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15220
+      "UsersEstimate": 15221
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -10519,7 +10524,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -10567,7 +10572,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -10583,7 +10588,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -10607,7 +10612,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "SUSANIN",
@@ -10631,7 +10636,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "TALES_3",
@@ -10639,7 +10644,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "TRAVELLER",
@@ -10663,7 +10668,7 @@
       "Name": "Wolf",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4349
     },
     {
       "ID": "WORD_MASTER",
@@ -10695,22 +10700,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 54356,
+      "Progressed": 54359,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-17T02:20:19.7818304+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:03:14.9378813+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:02:44.8359782+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7853183+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:59:10.9553001+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:03:14.9379621+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:58:58.2887985+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:02:44.8360753+00:00"
 }

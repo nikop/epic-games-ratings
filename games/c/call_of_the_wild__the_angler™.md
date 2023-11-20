@@ -22,9 +22,9 @@ Number of Ratings: 281  (23.09.2022)
 | I'm Hooked! | 0.60% | ~40 |
 | I'm the Captain Now | 0.30% | ~20 |
 | Marathon | 0.30% | ~20 |
+| Diamond in the Rough | 0.30% | ~20 |
 | More than a Tourist | 0.20% | ~13 |
 | Hook, Line and Sinker | 0.20% | ~13 |
-| Diamond in the Rough | 0.20% | ~13 |
 | No Fin left to give | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~12 |
@@ -263,9 +263,9 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-19 | 6,582 | 0 |
 | 2023-11-20 | 6,587 | 0 |
 ## Awards
-Max (Relaxing): 37  (Ranked 463)  
+Max (Relaxing): 37  (Ranked 464)  
 Sum: 195 (Ranked 401)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 37 |

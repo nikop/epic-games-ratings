@@ -1519,9 +1519,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "completeact3",
@@ -1640,8 +1640,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:09:36.2778484+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:08:51.2583607+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:50.8521418+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:59:04.2031372+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:09:36.2778641+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:58:52.433677+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:08:51.258377+00:00"
 }

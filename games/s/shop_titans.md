@@ -16,18 +16,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 3.00% | ~4,220 |
 | Capitalism Ho! | 3.00% | ~4,220 |
 | Own the Means of Production | 3.00% | ~4,220 |
-| The Daily Grind | 2.00% | ~2,813 |
-| One Easy Payment | 2.00% | ~2,813 |
-| Some Assembly Required | 2.00% | ~2,813 |
-| Bounty Hunters | 2.00% | ~2,813 |
-| Demand for Supplies | 2.00% | ~2,813 |
-| Flooding the Market | 2.00% | ~2,813 |
-| Where it Hurts | 2.00% | ~2,813 |
-| Pretty Penny | 2.00% | ~2,813 |
-| Gild-Gotten Goods | 2.00% | ~2,813 |
-| One-Armed Bandit | 2.00% | ~2,813 |
-| Dungeon Imports | 2.00% | ~2,813 |
-| Through Repetition, Perfection | 2.00% | ~2,813 |
+| The Daily Grind | 2.00% | ~2,814 |
+| One Easy Payment | 2.00% | ~2,814 |
+| Some Assembly Required | 2.00% | ~2,814 |
+| Bounty Hunters | 2.00% | ~2,814 |
+| Demand for Supplies | 2.00% | ~2,814 |
+| Flooding the Market | 2.00% | ~2,814 |
+| Where it Hurts | 2.00% | ~2,814 |
+| Pretty Penny | 2.00% | ~2,814 |
+| Gild-Gotten Goods | 2.00% | ~2,814 |
+| One-Armed Bandit | 2.00% | ~2,814 |
+| Dungeon Imports | 2.00% | ~2,814 |
+| Through Repetition, Perfection | 2.00% | ~2,814 |
 | On the Path to Greatness | 1.00% | ~1,407 |
 | Ascended | 1.00% | ~1,407 |
 | Tax not Included | 1.00% | ~1,407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,674 (Ranked 80)  
+Progressed: 140,675 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 188 (0.13%) (Ranked 267)
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
-| 2023-11-20 | 140,674 | 188 |
+| 2023-11-20 | 140,675 | 188 |
 ## Awards
 Max (Great for Beginners): 4,836  (Ranked 74)  
 Sum: 27,570 (Ranked 50)  

@@ -3,11 +3,11 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 586,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 549,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235846,
+  "EOS_Progressed": 235847,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22807,6 +22807,11 @@
       "Time": "2023-11-20T06:08:30.2699734+00:00",
       "NumProgressed": 235846,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-20T07:06:13.2511627+00:00",
+      "NumProgressed": 235847,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22954,7 +22959,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77829
+      "UsersEstimate": 77830
     },
     {
       "ID": "NOBUNAGA",
@@ -23089,15 +23094,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235846,
+      "Progressed": 235847,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:08:30.2699732+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:06:13.2511622+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8860637+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:57:34.068979+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:08:30.2700852+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:57:34.5896911+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:06:13.2513003+00:00"
 }

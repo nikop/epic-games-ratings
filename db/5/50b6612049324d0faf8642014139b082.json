@@ -759,9 +759,9 @@
       "ID": "achievement_12",
       "SetID": "jnappp",
       "Name": "Snow Specialist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_13",
@@ -950,8 +950,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:09:31.7184896+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:08:47.1353017+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:58:46.5506575+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:09:31.7185035+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:58:37.6315799+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:08:47.1353192+00:00"
 }

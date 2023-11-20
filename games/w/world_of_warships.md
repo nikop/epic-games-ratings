@@ -6,19 +6,19 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~44,479 |
-| Initial Capital | 67.00% | ~37,251 |
-| Moneybags | 45.00% | ~25,020 |
-| Junior Supply Officer | 45.00% | ~25,020 |
-| Naval Warfare. Arson | 34.00% | ~18,904 |
-| Naval Warfare. Ramming | 33.00% | ~18,348 |
-| Amateur | 31.00% | ~17,236 |
-| Naval Warfare. Tactics | 31.00% | ~17,236 |
-| Naval Constructor | 31.00% | ~17,236 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,788 |
-| Naval Warfare. Lucky Shot | 20.00% | ~11,120 |
-| Naval Warfare. Flooding | 19.00% | ~10,564 |
-| Business Magnate | 17.00% | ~9,452 |
+| Junior Naval Designer | 80.00% | ~44,482 |
+| Initial Capital | 67.00% | ~37,254 |
+| Moneybags | 45.00% | ~25,021 |
+| Junior Supply Officer | 45.00% | ~25,021 |
+| Naval Warfare. Arson | 34.00% | ~18,905 |
+| Naval Warfare. Ramming | 33.00% | ~18,349 |
+| Amateur | 31.00% | ~17,237 |
+| Naval Warfare. Tactics | 31.00% | ~17,237 |
+| Naval Constructor | 31.00% | ~17,237 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,789 |
+| Naval Warfare. Lucky Shot | 20.00% | ~11,121 |
+| Naval Warfare. Flooding | 19.00% | ~10,565 |
+| Business Magnate | 17.00% | ~9,453 |
 | Battle Hero | 16.00% | ~8,896 |
 | Warrior | 13.00% | ~7,228 |
 | Supply Officer | 13.00% | ~7,228 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~56 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,599 (Ranked 107)  
+Progressed: 55,603 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 54,768 | 0 |
 | 2023-11-18 | 55,174 | 0 |
 | 2023-11-19 | 55,542 | 0 |
-| 2023-11-20 | 55,599 | 0 |
+| 2023-11-20 | 55,603 | 0 |
 ## Awards
 Max (Relaxing): 1,522  (Ranked 130)  
 Sum: 12,733 (Ranked 79)  

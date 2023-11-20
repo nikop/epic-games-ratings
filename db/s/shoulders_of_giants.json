@@ -3,12 +3,12 @@
   "Name": "Shoulders of Giants",
   "ProductSlug": "shoulders-of-giants-61381f",
   "Ranking_Rating": 805,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 549,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -2017,8 +2017,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-11-09T05:59:03.7239671+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:06:08.3738818+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:05:18.8220905+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:27.9838282+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:57:38.8998267+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:06:08.3739002+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:57:39.3115589+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:05:18.8221186+00:00"
 }

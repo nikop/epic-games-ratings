@@ -10,7 +10,7 @@ Rating: 4.76 (Ranked 126)
 | Troll with the Punches | 14.00% | ~42,345 |
 | A Keen Sense of Spell | 13.00% | ~39,320 |
 | That's a Keeper | 13.00% | ~39,320 |
-| A Talent for Spending | 12.00% | ~36,295 |
+| A Talent for Spending | 12.00% | ~36,296 |
 | Grappling with a Graphorn | 11.00% | ~33,271 |
 | The One Who Mastered Memories | 11.00% | ~33,271 |
 | The Hallowed Hero | 11.00% | ~33,271 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 126)
 | Coasting Along | 11.00% | ~33,271 |
 | Followed the Butterflies | 10.00% | ~30,246 |
 | Rising From the Ashes | 10.00% | ~30,246 |
-| The Spell Master | 9.00% | ~27,221 |
+| The Spell Master | 9.00% | ~27,222 |
 | The Avenging Gazelle | 8.00% | ~24,197 |
 | Beast Friends | 8.00% | ~24,197 |
 | A Sallow Grave | 8.00% | ~24,197 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 126)
 | The Toast of the Town | 5.00% | ~15,123 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,123 |
 | The Ends Petrify the Means | 5.00% | ~15,123 |
-| Going Through the Potions | 4.00% | ~12,098 |
-| Room with a View | 4.00% | ~12,098 |
-| The Intrepid Explorer | 4.00% | ~12,098 |
-| The Wise Owl | 4.00% | ~12,098 |
+| Going Through the Potions | 4.00% | ~12,099 |
+| Room with a View | 4.00% | ~12,099 |
+| The Intrepid Explorer | 4.00% | ~12,099 |
+| The Wise Owl | 4.00% | ~12,099 |
 | Put Down Roots | 3.00% | ~9,074 |
 | The Auror's Apprentice | 3.00% | ~9,074 |
 | Floo Around the World | 3.00% | ~9,074 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,117 |
 | Collector's Edition | 0.30% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,461 (Ranked 53)  
+Progressed: 302,463 (Ranked 53)  
 Completed: 512 (0.17%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 512 (0.17%) (Ranked 260)
 | 2023-11-17 | 302,271 | 512 |
 | 2023-11-18 | 302,354 | 512 |
 | 2023-11-19 | 302,449 | 512 |
-| 2023-11-20 | 302,461 | 512 |
+| 2023-11-20 | 302,463 | 512 |
 ## Awards
 Max (Character Customization): 24,447  (Ranked 17)  
 Sum: 48,621 (Ranked 30)  

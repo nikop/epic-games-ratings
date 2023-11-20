@@ -4,9 +4,9 @@
 Rating: 4.54 (Ranked 524)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
-Max (Unique Visuals): 36  (Ranked 466)  
+Max (Unique Visuals): 36  (Ranked 467)  
 Sum: 217 (Ranked 393)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game has Unique Visuals | 36 |

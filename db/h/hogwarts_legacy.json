@@ -10773,9 +10773,9 @@
       "Count": 794
     }
   ],
-  "EOS_Progressed": 302461,
+  "EOS_Progressed": 302463,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33743,6 +33743,11 @@
       "Time": "2023-11-20T06:09:39.0156351+00:00",
       "NumProgressed": 302461,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-20T07:08:53.7097803+00:00",
+      "NumProgressed": 302463,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33906,7 +33911,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "PFA_28",
@@ -33938,7 +33943,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36295
+      "UsersEstimate": 36296
     },
     {
       "ID": "PFA_31",
@@ -33954,7 +33959,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "PFA_33",
@@ -34002,7 +34007,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "PFA_39",
@@ -34058,7 +34063,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27221
+      "UsersEstimate": 27222
     },
     {
       "ID": "PFA_45",
@@ -34074,7 +34079,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "PFA_6",
@@ -34113,7 +34118,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302461,
+      "Progressed": 302463,
       "Completed": 512
     }
   ],
@@ -34121,8 +34126,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-20T03:59:40.4262923+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:09:39.0156348+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:08:53.7097799+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:59:51.4083518+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:09:39.0157454+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:59:33.0800723+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:08:53.7099699+00:00"
 }

@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 524)
 | Sole Survivor | 0.20% | ~1,442 |
 | Gore Horse | 0.20% | ~1,442 |
 | Sharpest Tool in the Box | 0.20% | ~1,442 |
-| Lawn and Order | 0.20% | ~93 |
+| Lawn and Order | 0.20% | ~94 |
 | Donk! | 0.10% | ~721 |
 | Survival Skills | 0.10% | ~721 |
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,199 (Ranked 20)  
+Progressed: 721,213 (Ranked 20)  
 Completed: 2,414 (0.33%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,414 (0.33%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,199 | 2,414 |
+| 2023-11-20 | 721,213 | 2,414 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,576 (Ranked 84)  

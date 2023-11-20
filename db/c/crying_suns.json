@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471097,
+  "EOS_Progressed": 471098,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -22953,6 +22953,11 @@
       "Time": "2023-11-20T06:09:43.5157856+00:00",
       "NumProgressed": 471097,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-20T07:08:57.9046431+00:00",
+      "NumProgressed": 471098,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22980,7 +22985,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113063
+      "UsersEstimate": 113064
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22988,7 +22993,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103641
+      "UsersEstimate": 103642
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -23052,7 +23057,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310924
+      "UsersEstimate": 310925
     },
     {
       "ID": "achievement_story_landa",
@@ -23140,7 +23145,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94219
+      "UsersEstimate": 94220
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -23476,7 +23481,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103641
+      "UsersEstimate": 103642
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -23595,21 +23600,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15031,
+      "Progressed": 15032,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471097,
+      "Progressed": 471098,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:09:43.5157855+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:08:57.9046429+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:57:02.7808258+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:09:43.5159203+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:57:06.8412883+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:08:57.9048147+00:00"
 }

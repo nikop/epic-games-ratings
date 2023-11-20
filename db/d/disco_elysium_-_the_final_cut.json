@@ -1478,7 +1478,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130991,
+  "EOS_Progressed": 130992,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -22393,6 +22393,11 @@
       "Time": "2023-11-20T06:03:20.8552603+00:00",
       "NumProgressed": 130991,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-20T07:02:50.0258668+00:00",
+      "NumProgressed": 130992,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22436,7 +22441,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23578
+      "UsersEstimate": 23579
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22484,7 +22489,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36677
+      "UsersEstimate": 36678
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22596,7 +22601,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -22723,15 +22728,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130991,
+      "Progressed": 130992,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:03:20.85526+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:02:50.0258666+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:58:27.2997813+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:03:20.855409+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:58:20.9513739+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:02:50.0260161+00:00"
 }

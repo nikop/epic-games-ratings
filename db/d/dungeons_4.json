@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 313,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -857,9 +857,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -1144,8 +1144,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:03:17.2010512+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:02:46.8745371+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:59:06.2774094+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:03:17.201115+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:58:54.2266892+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:02:46.8746+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 616,
+  "EOS_Progressed": 618,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.68,
+  "EOS_Completed_Percentage": 5.66,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2635,6 +2635,11 @@
       "Time": "2023-11-20T06:05:17.7176474+00:00",
       "NumProgressed": 616,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-20T07:04:33.5987862+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2660,9 +2665,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 111
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2678,7 +2683,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "META_HALF_LINK",
@@ -2742,7 +2747,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2758,7 +2763,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2790,7 +2795,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2814,7 +2819,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "PROGRESS_N3",
@@ -2830,7 +2835,7 @@
       "Name": "The darkness",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PROGRESS_N5",
@@ -2838,21 +2843,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 616,
+      "Progressed": 618,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:05:17.7176471+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:04:33.5987859+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:56:57.0581391+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:05:17.7176733+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:57:02.3833089+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:04:33.5988155+00:00"
 }

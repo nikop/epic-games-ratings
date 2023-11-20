@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 623,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 298,
@@ -776,7 +776,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4967,
+  "EOS_Progressed": 4968,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -9536,6 +9536,11 @@
       "Time": "2023-11-20T04:05:09.3423074+00:00",
       "NumProgressed": 4967,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-20T07:04:49.9570126+00:00",
+      "NumProgressed": 4968,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9580,7 +9585,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9588,7 +9593,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9644,7 +9649,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9668,7 +9673,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9731,15 +9736,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4967,
+      "Progressed": 4968,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:05:36.0441316+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:04:49.9570123+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:57:46.9010458+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:05:36.0442096+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:57:46.7535761+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:04:49.9570896+00:00"
 }

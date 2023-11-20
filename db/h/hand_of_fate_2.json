@@ -3,7 +3,7 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 504,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 317,
@@ -925,9 +925,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664857,
+  "EOS_Progressed": 664858,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21175,6 +21175,11 @@
       "Time": "2023-11-20T06:05:16.1170474+00:00",
       "NumProgressed": 664857,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-20T07:04:32.1639996+00:00",
+      "NumProgressed": 664858,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -21186,7 +21191,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478697
+      "UsersEstimate": 478698
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -21194,7 +21199,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385617
+      "UsersEstimate": 385618
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -21569,15 +21574,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664857,
+      "Progressed": 664858,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-16T15:59:02.0377741+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:05:16.1170471+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:04:32.1639993+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:02:27.3513566+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:05:16.1171508+00:00"
+  "LastUpdate_Ratings": "2023-11-20T07:00:02.7592327+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:04:32.1641261+00:00"
 }

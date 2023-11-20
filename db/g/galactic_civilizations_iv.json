@@ -3,7 +3,7 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 935,
-  "Ranking_Popularity": 370,
+  "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 356,
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7310,
+  "EOS_Progressed": 7311,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -8605,6 +8605,11 @@
       "Time": "2023-11-20T05:08:57.6976972+00:00",
       "NumProgressed": 7310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T07:08:12.0862266+00:00",
+      "NumProgressed": 7311,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8656,7 +8661,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4459
+      "UsersEstimate": 4460
     },
     {
       "ID": "Control_All_Relics",
@@ -8728,7 +8733,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "First_Ship_Designed",
@@ -8832,7 +8837,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "Play_1000_Hours",
@@ -8920,7 +8925,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8936,7 +8941,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9191,15 +9196,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7310,
+      "Progressed": 7311,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:08:52.2444612+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:08:12.0862263+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:59:47.5336167+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:08:52.244545+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:59:29.6217215+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:08:12.0863601+00:00"
 }

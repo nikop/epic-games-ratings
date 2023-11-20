@@ -3,7 +3,7 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 745,
-  "Ranking_Popularity": 393,
+  "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 279,
@@ -1299,9 +1299,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 304877,
+  "EOS_Progressed": 304891,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 10354,
+  "EOS_NewPlayers": 10343,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -12814,6 +12814,11 @@
       "Time": "2023-11-20T06:04:50.3019957+00:00",
       "NumProgressed": 304877,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-11-20T07:04:09.4052305+00:00",
+      "NumProgressed": 304891,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 24,
@@ -12833,7 +12838,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 15244
+      "UsersEstimate": 15245
     },
     {
       "ID": "11",
@@ -12921,7 +12926,7 @@
       "Name": "PROTECTED",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12195
+      "UsersEstimate": 12196
     },
     {
       "ID": "21",
@@ -12953,7 +12958,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "3",
@@ -12969,7 +12974,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "5",
@@ -12977,7 +12982,7 @@
       "Name": "ROOKIE",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30488
+      "UsersEstimate": 30489
     },
     {
       "ID": "6",
@@ -12985,7 +12990,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "7",
@@ -13016,7 +13021,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 304877,
+      "Progressed": 304891,
       "Completed": 307
     }
   ],
@@ -13024,8 +13029,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-20T03:57:47.1810122+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:04:50.3019955+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:04:09.4052302+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:55.8240924+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:57:46.4718511+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:04:50.3020613+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:57:46.399045+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:04:09.4053208+00:00"
 }

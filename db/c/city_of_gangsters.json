@@ -3,7 +3,7 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 851,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 356,
@@ -772,9 +772,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 353235,
+  "EOS_Progressed": 353240,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25052,6 +25052,11 @@
       "Time": "2023-11-20T06:04:24.514657+00:00",
       "NumProgressed": 353235,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T07:03:46.4845245+00:00",
+      "NumProgressed": 353240,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25079,7 +25084,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42388
+      "UsersEstimate": 42389
     },
     {
       "ID": "ach004",
@@ -25119,7 +25124,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42388
+      "UsersEstimate": 42389
     },
     {
       "ID": "ach009",
@@ -25167,7 +25172,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52985
+      "UsersEstimate": 52986
     },
     {
       "ID": "ach015",
@@ -25207,7 +25212,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "ach020",
@@ -25271,7 +25276,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 166020
+      "UsersEstimate": 166023
     },
     {
       "ID": "ach028",
@@ -25279,7 +25284,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "ach029",
@@ -25311,7 +25316,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "ach033",
@@ -25399,7 +25404,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24726
+      "UsersEstimate": 24727
     },
     {
       "ID": "ach044",
@@ -25407,7 +25412,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "ach045",
@@ -25423,7 +25428,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24726
+      "UsersEstimate": 24727
     },
     {
       "ID": "ach047",
@@ -25575,7 +25580,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49453
+      "UsersEstimate": 49454
     },
     {
       "ID": "ach067",
@@ -25599,7 +25604,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49453
+      "UsersEstimate": 49454
     },
     {
       "ID": "ach070",
@@ -25639,7 +25644,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14129
+      "UsersEstimate": 14130
     },
     {
       "ID": "ach075",
@@ -25671,7 +25676,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24726
+      "UsersEstimate": 24727
     },
     {
       "ID": "ach079",
@@ -25702,7 +25707,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 353235,
+      "Progressed": 353240,
       "Completed": 7
     }
   ],
@@ -25710,8 +25715,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-19T11:59:34.4901332+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:04:24.5146568+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:03:46.4845241+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.8503027+00:00",
-  "LastUpdate_Ratings": "2023-11-20T06:00:00.7732858+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:04:24.514802+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:59:41.5829909+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:03:46.4846965+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 962,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 458,
+  "Ranking_Popularity": 487,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 144,
@@ -481,9 +481,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2487,
+  "EOS_Progressed": 2488,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7481,6 +7481,11 @@
       "Time": "2023-11-20T01:56:15.4280534+00:00",
       "NumProgressed": 2487,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-20T07:08:18.4073655+00:00",
+      "NumProgressed": 2488,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7820,7 +7825,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "minerclicker",
@@ -7852,7 +7857,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "mythicpower",
@@ -7860,7 +7865,7 @@
       "Name": "Mythic Power",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "naturaltalent",
@@ -7884,7 +7889,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "prestigiousx10",
@@ -7940,7 +7945,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "templeofeternals",
@@ -7980,7 +7985,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "thepowerofawakening",
@@ -8052,7 +8057,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "warmachinesarmy",
@@ -8084,14 +8089,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2487,
+      "Progressed": 2488,
       "Completed": 2
     }
   ],
@@ -8099,8 +8104,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-20T06:08:58.9904471+00:00",
+  "LastChanged_Achievements": "2023-11-20T07:08:18.4073652+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-20T05:58:33.6803499+00:00",
-  "LastUpdate_Achievements": "2023-11-20T06:08:58.9905229+00:00"
+  "LastUpdate_Ratings": "2023-11-20T06:58:26.1591242+00:00",
+  "LastUpdate_Achievements": "2023-11-20T07:08:18.4074596+00:00"
 }

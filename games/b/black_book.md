@@ -6,7 +6,7 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,220 |
+| Initiation | 28.00% | ~15,221 |
 | Student | 21.00% | ~11,415 |
 | Knower | 16.00% | ~8,697 |
 | Aspen Tree | 14.00% | ~7,610 |
@@ -21,11 +21,11 @@ Number of Ratings: 96  (23.09.2022)
 | New Spirits | 9.00% | ~4,892 |
 | Voipel | 9.00% | ~4,892 |
 | Black Mage | 9.00% | ~4,892 |
-| Card Player | 8.00% | ~4,348 |
-| Dead Friend | 8.00% | ~4,348 |
-| Pine Tree | 8.00% | ~4,348 |
-| Collector | 8.00% | ~4,348 |
-| Wolf | 8.00% | ~4,348 |
+| Card Player | 8.00% | ~4,349 |
+| Dead Friend | 8.00% | ~4,349 |
+| Pine Tree | 8.00% | ~4,349 |
+| Collector | 8.00% | ~4,349 |
+| Wolf | 8.00% | ~4,349 |
 | Worthy | 7.00% | ~3,805 |
 | Black Book | 7.00% | ~3,805 |
 | Black Sorcerer | 7.00% | ~3,805 |
@@ -34,12 +34,12 @@ Number of Ratings: 96  (23.09.2022)
 | 100 Friends | 7.00% | ~3,805 |
 | Researcher | 7.00% | ~3,805 |
 | Savvy | 7.00% | ~3,805 |
-| Encyclopedist | 6.00% | ~3,261 |
-| Witch | 6.00% | ~3,261 |
-| Old Spirits | 6.00% | ~3,261 |
-| Sinner | 6.00% | ~3,261 |
-| Folklorist | 6.00% | ~3,261 |
-| Keeper of Knowledge | 6.00% | ~3,261 |
+| Encyclopedist | 6.00% | ~3,262 |
+| Witch | 6.00% | ~3,262 |
+| Old Spirits | 6.00% | ~3,262 |
+| Sinner | 6.00% | ~3,262 |
+| Folklorist | 6.00% | ~3,262 |
+| Keeper of Knowledge | 6.00% | ~3,262 |
 | Vorsa | 5.00% | ~2,718 |
 | Susanin | 5.00% | ~2,718 |
 | Traveller | 5.00% | ~2,718 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,087 |
 | Word Master | 0.20% | ~109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,356 (Ranked 108)  
+Progressed: 54,359 (Ranked 108)  
 Completed: 51 (0.09%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,10 +143,10 @@ Completed: 51 (0.09%) (Ranked 284)
 | 2023-11-17 | 53,598 | 50 |
 | 2023-11-18 | 53,963 | 50 |
 | 2023-11-19 | 54,299 | 51 |
-| 2023-11-20 | 54,356 | 51 |
+| 2023-11-20 | 54,359 | 51 |
 ## Awards
-Max (Character Customization): 88  (Ranked 379)  
-Sum: 88 (Ranked 454)  
+Max (Character Customization): 88  (Ranked 380)  
+Sum: 88 (Ranked 455)  
 Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
