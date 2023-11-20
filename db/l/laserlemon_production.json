@@ -3,7 +3,7 @@
   "Name": "laserlemon Production",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
@@ -133,9 +133,9 @@
       "ID": "Elusive",
       "SetID": "c36hpcf",
       "Name": "Elusive",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EndInSight",
@@ -299,8 +299,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:08:01.8851001+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:19:26.0731747+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:59:07.228505+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:08:01.8851139+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:10:10.1993017+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:19:26.0731856+00:00"
 }

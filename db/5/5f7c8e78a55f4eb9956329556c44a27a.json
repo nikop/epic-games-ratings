@@ -432,9 +432,9 @@
       "ID": "TINGWD_BUZZ",
       "SetID": "c0imaa6",
       "Name": "To infinity and beyond!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -496,9 +496,9 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -663,8 +663,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:05:22.3923115+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:16:29.9991118+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.3881137+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:01:10.1865352+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:05:22.3923339+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:12:11.9019891+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:16:29.9991366+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24543,
+  "EOS_Progressed": 24546,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
@@ -23413,6 +23413,11 @@
       "Time": "2023-11-20T12:08:09.5315842+00:00",
       "NumProgressed": 24543,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-20T13:19:33.519489+00:00",
+      "NumProgressed": 24546,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23424,7 +23429,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -23464,7 +23469,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -23480,7 +23485,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -23488,7 +23493,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "FOUND_ERIN",
@@ -23536,7 +23541,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "INTRO_FINISHED",
@@ -23544,7 +23549,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18898
+      "UsersEstimate": 18900
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23583,15 +23588,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24543,
+      "Progressed": 24546,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:08:09.531584+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:19:33.5194886+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:00:23.8957572+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:08:09.5316975+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:11:25.5723926+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:19:33.519643+00:00"
 }

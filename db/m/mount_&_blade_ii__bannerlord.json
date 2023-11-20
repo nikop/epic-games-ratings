@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8878,10 +8878,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15350,
       "NumberOfAwardsMax": 7405
+    },
+    {
+      "Time": "2023-11-20T13:10:21.2512702+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15354,
+      "NumberOfAwardsMax": 7405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15350,
+  "NumberOfAwards": 15354,
   "NumberOfAwardsMax": 7405,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8895,7 +8901,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 931
+      "Count": 935
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8958,9 +8964,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65486,
+  "EOS_Progressed": 65489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31468,6 +31474,11 @@
       "Time": "2023-11-20T12:09:34.9905106+00:00",
       "NumProgressed": 65486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T13:20:57.4510988+00:00",
+      "NumProgressed": 65489,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31479,7 +31490,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8513
+      "UsersEstimate": 8514
     },
     {
       "ID": "Apple of my eye",
@@ -31607,7 +31618,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8513
+      "UsersEstimate": 8514
     },
     {
       "ID": "Great Granny",
@@ -31671,7 +31682,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11787
+      "UsersEstimate": 11788
     },
     {
       "ID": "Kingslayer",
@@ -31703,7 +31714,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21610
+      "UsersEstimate": 21611
     },
     {
       "ID": "Lawbringer",
@@ -31711,7 +31722,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26194
+      "UsersEstimate": 26196
     },
     {
       "ID": "Lawmaker",
@@ -31831,7 +31842,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12442
+      "UsersEstimate": 12443
     },
     {
       "ID": "This Is Our Land",
@@ -31839,7 +31850,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8513
+      "UsersEstimate": 8514
     },
     {
       "ID": "This is Sparta",
@@ -31871,7 +31882,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -31886,15 +31897,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65486,
+      "Progressed": 65489,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-19T20:59:10.3725617+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:09:34.9905103+00:00",
+  "LastChanged": "2023-11-20T13:10:21.25127+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:20:57.4510983+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:59:18.396611+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:09:34.9906241+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:10:21.2512706+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:20:57.4512176+00:00"
 }

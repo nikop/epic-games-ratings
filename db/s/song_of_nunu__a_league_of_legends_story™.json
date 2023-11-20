@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -1535,9 +1535,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 353
     },
     {
       "ID": "EV_ACH08",
@@ -1759,9 +1759,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 496
     },
     {
       "ID": "EV_ACH36",
@@ -1846,8 +1846,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:09:40.1064486+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:21:02.5468347+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:00:25.3429881+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:09:40.1064907+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:11:27.2782247+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:21:02.5468714+00:00"
 }

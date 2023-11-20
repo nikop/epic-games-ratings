@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1264,9 +1264,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "TeamSpirit",
@@ -1376,9 +1376,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "WoodedPlateau",
@@ -1409,8 +1409,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:08:01.6767556+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:19:25.8112486+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:58:21.8663907+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:08:01.6767949+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:09:25.9465811+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:19:25.8112881+00:00"
 }

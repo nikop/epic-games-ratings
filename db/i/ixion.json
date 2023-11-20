@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3319,
+  "EOS_Progressed": 3320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5743,6 +5743,11 @@
       "Time": "2023-11-20T08:05:19.3313756+00:00",
       "NumProgressed": 3319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T13:16:58.4956515+00:00",
+      "NumProgressed": 3320,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5834,7 +5839,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_BASE_21",
@@ -5954,7 +5959,7 @@
       "Name": "Ready for a New World",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_BASE_35",
@@ -6058,7 +6063,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_BASE_5",
@@ -6209,13 +6214,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1503,
+      "Progressed": 1504,
       "Completed": 9
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3319,
+      "Progressed": 3320,
       "Completed": 0
     }
   ],
@@ -6223,8 +6228,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:05:50.973131+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:16:58.4956509+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.7251955+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:59:21.6222878+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:05:50.9731875+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:10:24.4825449+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:16:58.4957106+00:00"
 }

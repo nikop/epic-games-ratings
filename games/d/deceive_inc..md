@@ -6,19 +6,19 @@ Rating: 4.57 (Ranked 469)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 30.00% | ~5,659 |
-| Mainframe Hacker | 23.00% | ~4,338 |
-| The Spy who eliminated me | 23.00% | ~4,338 |
+| Mainframe Hacker | 23.00% | ~4,339 |
+| The Spy who eliminated me | 23.00% | ~4,339 |
 | Tomorrow Never Dyes | 22.00% | ~4,150 |
-| From the Vault with Love | 18.00% | ~3,395 |
-| Never Say Loser Again | 18.00% | ~3,395 |
-| Tailor-Made | 18.00% | ~3,395 |
-| For your Eyes only | 18.00% | ~3,395 |
+| From the Vault with Love | 18.00% | ~3,396 |
+| Never Say Loser Again | 18.00% | ~3,396 |
+| Tailor-Made | 18.00% | ~3,396 |
+| For your Eyes only | 18.00% | ~3,396 |
 | Assistant Accountant | 17.00% | ~3,207 |
 | You Only Live Twice | 16.00% | ~3,018 |
 | Fully Decked Out | 16.00% | ~3,018 |
 | A view to Win | 13.00% | ~2,452 |
-| The Living Portrait | 12.00% | ~2,263 |
-| Smells Like Trouble | 12.00% | ~2,263 |
+| The Living Portrait | 12.00% | ~2,264 |
+| Smells Like Trouble | 12.00% | ~2,264 |
 | My Motto, My Creed | 11.00% | ~2,075 |
 | Private Collection | 11.00% | ~2,075 |
 | Killer Looks | 11.00% | ~2,075 |
@@ -28,7 +28,7 @@ Rating: 4.57 (Ranked 469)
 | In It to Win It | 9.00% | ~1,698 |
 | Security Supervisor | 6.00% | ~1,132 |
 | License to Thrill | 5.00% | ~943 |
-| Social of Solace | 4.00% | ~754 |
+| Social of Solace | 4.00% | ~755 |
 | Live and let lie | 3.00% | ~566 |
 | Safe Withdrawal | 3.00% | ~566 |
 | Branch Manager | 2.00% | ~377 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 469)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,862 (Ranked 141)  
+Progressed: 18,864 (Ranked 141)  
 Completed: 4 (0.02%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 4 (0.02%) (Ranked 325)
 | 2023-11-17 | 18,852 | 4 |
 | 2023-11-18 | 18,860 | 4 |
 | 2023-11-19 | 18,861 | 4 |
-| 2023-11-20 | 18,862 | 4 |
+| 2023-11-20 | 18,864 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3373,10 +3373,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2827,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2023-11-20T13:14:05.8500765+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2829,
+      "NumberOfAwardsMax": 318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2827,
+  "NumberOfAwards": 2829,
   "NumberOfAwardsMax": 318,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3432,7 +3438,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 277
+      "Count": 279
     },
     {
       "Text": "This game is Relaxing",
@@ -3453,9 +3459,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31280,
+  "EOS_Progressed": 31286,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19878,6 +19884,11 @@
       "Time": "2023-11-20T12:04:26.2725025+00:00",
       "NumProgressed": 31280,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-20T13:15:35.001384+00:00",
+      "NumProgressed": 31286,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19897,7 +19908,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Back_Off",
@@ -19961,7 +19972,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Diabolical",
@@ -19993,7 +20004,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Efficient",
@@ -20033,7 +20044,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Ghost_Expert",
@@ -20049,7 +20060,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Legions",
@@ -20137,7 +20148,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Rivalry",
@@ -20193,7 +20204,7 @@
       "Name": "Stylish",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "Summoner",
@@ -20296,16 +20307,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31280,
+      "Progressed": 31286,
       "Completed": 68
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-19T22:02:41.6352953+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:04:26.2725021+00:00",
+  "LastChanged": "2023-11-20T13:14:05.8500763+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:15:35.0013836+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:02:55.322593+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:04:26.2725999+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:14:05.8500768+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:15:35.0014854+00:00"
 }

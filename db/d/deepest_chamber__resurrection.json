@@ -4,7 +4,7 @@
   "ProductSlug": "deepest-chamber-f7085f",
   "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-07-22T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.3193935+00:00",
   "LastChanged": "2023-03-31T05:58:33.3193936+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.6779376+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:01:33.9201898+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:08:24.0901184+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:13:35.1532605+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:19:47.5942004+00:00"
 }

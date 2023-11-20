@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21645,
+  "EOS_Progressed": 21655,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2132,
+  "EOS_NewPlayers": 2136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7279,6 +7279,11 @@
       "Time": "2023-11-20T12:09:43.3784387+00:00",
       "NumProgressed": 21645,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T13:21:05.7762901+00:00",
+      "NumProgressed": 21655,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -7291,7 +7296,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "achievement_10",
@@ -7339,7 +7344,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4331
     },
     {
       "ID": "achievement_16",
@@ -7355,7 +7360,7 @@
       "Name": "I Have You Now",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_18",
@@ -7371,7 +7376,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "achievement_2",
@@ -7435,7 +7440,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "achievement_27",
@@ -7499,7 +7504,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "achievement_34",
@@ -7515,7 +7520,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 20563
+      "UsersEstimate": 20572
     },
     {
       "ID": "achievement_36",
@@ -7523,7 +7528,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "achievement_37",
@@ -7531,7 +7536,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "achievement_38",
@@ -7547,7 +7552,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5197
     },
     {
       "ID": "achievement_4",
@@ -7563,7 +7568,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "achievement_41",
@@ -7579,7 +7584,7 @@
       "Name": "Against the Current",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_43",
@@ -7587,7 +7592,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "achievement_44",
@@ -7595,7 +7600,7 @@
       "Name": "Combat Pilot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "achievement_45",
@@ -7619,7 +7624,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "achievement_5",
@@ -7635,7 +7640,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3032
     },
     {
       "ID": "achievement_7",
@@ -7651,7 +7656,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5197
     },
     {
       "ID": "achievement_9",
@@ -7659,14 +7664,14 @@
       "Name": "A Promising Career",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 21645,
+      "Progressed": 21655,
       "Completed": 1
     }
   ],
@@ -7674,8 +7679,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:09:43.3784382+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:21:05.7762897+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:16.1177806+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:03:06.6295721+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:09:43.3785054+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:14:16.8216672+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:21:05.7763564+00:00"
 }

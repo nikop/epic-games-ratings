@@ -9,14 +9,14 @@ Rating: 4.57 (Ranked 469)
 | Sputnik 2049 | 26.00% | ~863 |
 | Infinite Growth... | 25.00% | ~830 |
 | Without Breaking Some Eggs... | 24.00% | ~797 |
-| Ready for a New World | 18.00% | ~597 |
+| Ready for a New World | 18.00% | ~598 |
 | Space Society | 17.00% | ~564 |
 | A Thousand Strong | 17.00% | ~564 |
 | Permanent Redesigns | 15.00% | ~498 |
 | Fully Recycled | 14.00% | ~465 |
 | The Ship of Theseus | 14.00% | ~465 |
-| Guy de Borderlands | 13.00% | ~431 |
-| Ain't Nobody Got Time for That | 13.00% | ~431 |
+| Guy de Borderlands | 13.00% | ~432 |
+| Ain't Nobody Got Time for That | 13.00% | ~432 |
 | Exceeding Capacity | 12.00% | ~398 |
 | Hope Seeker | 12.00% | ~398 |
 | A Hunk of Junk | 11.00% | ~365 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 469)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,319 (Ranked 207)  
+Progressed: 3,320 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 3,313 | 0 |
 | 2023-11-18 | 3,315 | 0 |
 | 2023-11-19 | 3,318 | 0 |
-| 2023-11-20 | 3,319 | 0 |
+| 2023-11-20 | 3,320 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

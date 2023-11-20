@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer",
   "Ranking_Rating": 444,
   "Ranking_Popularity": 58,
-  "Ranking_PopularitySum": 70,
+  "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 750,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
@@ -6805,10 +6805,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 15003,
       "NumberOfAwardsMax": 6540
+    },
+    {
+      "Time": "2023-11-20T13:09:01.704591+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 15004,
+      "NumberOfAwardsMax": 6540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15003,
+  "NumberOfAwards": 15004,
   "NumberOfAwardsMax": 6540,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6840,7 +6846,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1045
+      "Count": 1046
     },
     {
       "Text": "This game is Relaxing",
@@ -6902,8 +6908,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-11-20T02:57:28.7482305+00:00",
+  "LastChanged": "2023-11-20T13:09:01.7045909+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:24.9714249+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:57:56.5121851+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:07:18.2241214+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:09:01.7045918+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:18:23.6750421+00:00"
 }

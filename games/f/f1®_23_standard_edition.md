@@ -5,34 +5,34 @@ Rating: 4.67 (Ranked 273)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,418 |
+| Getting on the Step | 93.00% | ~5,419 |
 | On the Top Step | 87.00% | ~5,069 |
-| Setting up for Success | 77.00% | ~4,486 |
+| Setting up for Success | 77.00% | ~4,487 |
 | Team Orders | 75.00% | ~4,370 |
-| Engineer | 55.00% | ~3,204 |
-| Familiar Faces | 48.00% | ~2,796 |
+| Engineer | 55.00% | ~3,205 |
+| Familiar Faces | 48.00% | ~2,797 |
 | Sharing the Love | 42.00% | ~2,447 |
 | Going the Extra Mile | 42.00% | ~2,447 |
 | Hitting a Season | 37.00% | ~2,156 |
 | Challenge Yourself | 33.00% | ~1,923 |
-| A Dozen Pieces | 32.00% | ~1,864 |
+| A Dozen Pieces | 32.00% | ~1,865 |
 | Making History | 31.00% | ~1,806 |
 | Network Success | 27.00% | ~1,573 |
-| Writing a new Chapter | 25.00% | ~1,456 |
+| Writing a new Chapter | 25.00% | ~1,457 |
 | Spring Cleaning | 24.00% | ~1,398 |
 | Reduce | 20.00% | ~1,165 |
 | Ups and Downs | 20.00% | ~1,165 |
 | Crucial Combo | 19.00% | ~1,107 |
-| Reuse | 17.00% | ~990 |
+| Reuse | 17.00% | ~991 |
 | Gathering Dust | 16.00% | ~932 |
 | One for the Book | 16.00% | ~932 |
 | Proving Them Wrong | 16.00% | ~932 |
 | Oil and Water | 14.00% | ~816 |
-| Eagle Eye | 13.00% | ~757 |
-| Lightning Round the World | 13.00% | ~757 |
-| Hitting a Bullseye | 13.00% | ~757 |
-| Switcheroo | 13.00% | ~757 |
-| Spinning Around | 13.00% | ~757 |
+| Eagle Eye | 13.00% | ~758 |
+| Lightning Round the World | 13.00% | ~758 |
+| Hitting a Bullseye | 13.00% | ~758 |
+| Switcheroo | 13.00% | ~758 |
+| Spinning Around | 13.00% | ~758 |
 | All in a Weekend's Work | 12.00% | ~699 |
 | Friendly Competition | 12.00% | ~699 |
 | Recycle | 11.00% | ~641 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 273)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,826 (Ranked 185)  
+Progressed: 5,827 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 5,778 | 0 |
 | 2023-11-18 | 5,803 | 0 |
 | 2023-11-19 | 5,825 | 0 |
-| 2023-11-20 | 5,826 | 0 |
+| 2023-11-20 | 5,827 | 0 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 467)  
 Sum: 100 (Ranked 444)  

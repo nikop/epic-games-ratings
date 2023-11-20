@@ -19,7 +19,7 @@
 | I love parks | 2.00% | ~8 |
 | Food producer | 1.00% | ~4 |
 | King of fish | 1.00% | ~4 |
-| Metropolurbek | 0.80% | ~3 |
+| Metropolurbek | 1.00% | ~4 |
 | Rebel city | 0.80% | ~3 |
 | Banking city | 0.50% | ~2 |
 | City crisis | 0.50% | ~2 |

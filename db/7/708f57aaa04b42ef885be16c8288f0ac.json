@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5640,
+  "EOS_Progressed": 5645,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3841,6 +3841,11 @@
       "Time": "2023-11-20T12:09:16.1258272+00:00",
       "NumProgressed": 5640,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T13:20:38.8230578+00:00",
+      "NumProgressed": 5645,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3869,7 +3874,7 @@
       "Name": "Be Like Water",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Bikemaggedon",
@@ -3909,7 +3914,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "FasterThanLight",
@@ -3925,7 +3930,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3933,7 +3938,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "GarbageMan",
@@ -3957,7 +3962,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -3981,7 +3986,7 @@
       "Name": "Live By The Sword",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MasterManipulator",
@@ -4005,7 +4010,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4029,7 +4034,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TheFloorIsLava",
@@ -4069,7 +4074,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "UnResurrected",
@@ -4077,7 +4082,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4124,7 +4129,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5640,
+      "Progressed": 5645,
       "Completed": 7
     }
   ],
@@ -4132,8 +4137,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:09:16.1258269+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:20:38.8230574+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:58:26.0470776+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:09:16.12586+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:09:29.7926677+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:20:38.8230899+00:00"
 }

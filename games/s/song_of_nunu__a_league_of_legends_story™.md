@@ -12,7 +12,7 @@
 | He's Famous! | 70.00% | ~526 |
 | Cutie Poro | 69.00% | ~519 |
 | Krugmazing | 68.00% | ~511 |
-| The Fire Below the Mountain | 65.00% | ~489 |
+| The Fire Below the Mountain | 66.00% | ~496 |
 | Moneyball | 62.00% | ~466 |
 | No Bites | 59.00% | ~444 |
 | Iceborn | 59.00% | ~444 |
@@ -22,7 +22,7 @@
 | Rhythm Of Willump | 49.00% | ~368 |
 | The Relentless Storm | 49.00% | ~368 |
 | A Tragic Reminder | 47.00% | ~353 |
-| 3000 Year Blackout | 46.00% | ~346 |
+| 3000 Year Blackout | 47.00% | ~353 |
 | The Finisher | 44.00% | ~331 |
 | So Close | 43.00% | ~323 |
 | You Get Used To It | 43.00% | ~323 |

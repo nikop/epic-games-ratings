@@ -1,36 +1,36 @@
 # Golden Light
 [Store](https://store.epicgames.com/en-US/p/golden-light-f543b3)  
 [View Rawdata](../../db/c/ca05bd340e84436ebea4a0c0ca55befa.json)  
-Rating: 4.19 (Ranked 921)  
+Rating: 4.19 (Ranked 922)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,076 |
-| First fall | 36.00% | ~5,835 |
-| Don't play with fire, kids | 27.00% | ~4,376 |
-| First steps | 27.00% | ~4,376 |
-| 1.000.000 Scovilles | 19.00% | ~3,080 |
-| An Old Timer | 18.00% | ~2,917 |
-| I'll give this one a 0 star rating | 18.00% | ~2,917 |
-| Hands up! | 16.00% | ~2,593 |
-| Feeling Better | 16.00% | ~2,593 |
-| Unfortunate Plumber | 15.00% | ~2,431 |
-| Don't interrupt my research! | 14.00% | ~2,269 |
-| A Good Read | 11.00% | ~1,783 |
-| Boot for an eye | 10.00% | ~1,621 |
-| Pacifist Run | 7.00% | ~1,135 |
-| Uh, Which Key is the Right One? | 6.00% | ~972 |
-| Golden fingers | 5.00% | ~810 |
-| OMG I FOUND A BUG | 5.00% | ~810 |
-| Spiky chin | 4.00% | ~648 |
-| I Think I'm Lost | 4.00% | ~648 |
-| Meat Machine | 4.00% | ~648 |
-| Untouchable | 4.00% | ~648 |
-| Merchant | 3.00% | ~486 |
-| Groovy! | 3.00% | ~486 |
-| Gentle hugs | 3.00% | ~486 |
-| Mmm, tasty | 3.00% | ~486 |
-| Good Murder | 3.00% | ~486 |
+| Fire safety | 56.00% | ~9,085 |
+| First fall | 36.00% | ~5,840 |
+| Don't play with fire, kids | 27.00% | ~4,380 |
+| First steps | 27.00% | ~4,380 |
+| 1.000.000 Scovilles | 19.00% | ~3,082 |
+| An Old Timer | 18.00% | ~2,920 |
+| I'll give this one a 0 star rating | 18.00% | ~2,920 |
+| Hands up! | 16.00% | ~2,596 |
+| Feeling Better | 16.00% | ~2,596 |
+| Unfortunate Plumber | 15.00% | ~2,433 |
+| Don't interrupt my research! | 14.00% | ~2,271 |
+| A Good Read | 11.00% | ~1,785 |
+| Boot for an eye | 10.00% | ~1,622 |
+| Pacifist Run | 7.00% | ~1,136 |
+| Uh, Which Key is the Right One? | 6.00% | ~973 |
+| Golden fingers | 5.00% | ~811 |
+| OMG I FOUND A BUG | 5.00% | ~811 |
+| Spiky chin | 4.00% | ~649 |
+| I Think I'm Lost | 4.00% | ~649 |
+| Meat Machine | 4.00% | ~649 |
+| Untouchable | 4.00% | ~649 |
+| Merchant | 3.00% | ~487 |
+| Groovy! | 3.00% | ~487 |
+| Gentle hugs | 3.00% | ~487 |
+| Mmm, tasty | 3.00% | ~487 |
+| Good Murder | 3.00% | ~487 |
 | Infinite pleasure | 2.00% | ~324 |
 | Body Building | 2.00% | ~324 |
 | Stranger in the Elevator | 2.00% | ~324 |
@@ -73,7 +73,7 @@ Rating: 4.19 (Ranked 921)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,208 (Ranked 149)  
+Progressed: 16,223 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 12,074 | 0 |
 | 2023-11-18 | 14,127 | 0 |
 | 2023-11-19 | 15,706 | 0 |
-| 2023-11-20 | 16,208 | 0 |
+| 2023-11-20 | 16,223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

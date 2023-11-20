@@ -60,7 +60,7 @@ Rating: 4.50 (Ranked 586)
 | Pinpoint | 2.00% | ~167 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,344 (Ranked 171)  
-Completed: 46 (0.55%) (Ranked 192)  
+Completed: 47 (0.56%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,7 +124,7 @@ Completed: 46 (0.55%) (Ranked 192)
 | 2023-11-17 | 8,145 | 46 |
 | 2023-11-18 | 8,214 | 46 |
 | 2023-11-19 | 8,316 | 46 |
-| 2023-11-20 | 8,344 | 46 |
+| 2023-11-20 | 8,344 | 47 |
 ## Awards
 Max (Great Boss Battles): 3,275  (Ranked 95)  
 Sum: 5,023 (Ranked 138)  

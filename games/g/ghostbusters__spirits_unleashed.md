@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 586)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 8.00% | ~2,502 |
+| Stylish | 8.00% | ~2,503 |
 | Meticulously Efficient | 7.00% | ~2,190 |
 | Advancement | 6.00% | ~1,877 |
 | Discovery | 5.00% | ~1,564 |
@@ -19,12 +19,12 @@ Rating: 4.50 (Ranked 586)
 | There you are! | 4.00% | ~1,251 |
 | Vaporous Expansion | 4.00% | ~1,251 |
 | Whoopsie | 4.00% | ~1,251 |
-| Animated | 3.00% | ~938 |
-| Daily Dose | 3.00% | ~938 |
-| Ectoplasmic Entity | 3.00% | ~938 |
-| Ghostbuster In Training | 3.00% | ~938 |
-| Icing on the Cake | 3.00% | ~938 |
-| Right back at ya | 3.00% | ~938 |
+| Animated | 3.00% | ~939 |
+| Daily Dose | 3.00% | ~939 |
+| Ectoplasmic Entity | 3.00% | ~939 |
+| Ghostbuster In Training | 3.00% | ~939 |
+| Icing on the Cake | 3.00% | ~939 |
+| Right back at ya | 3.00% | ~939 |
 | Back Off | 2.00% | ~626 |
 | We have the best insurance | 2.00% | ~626 |
 | Collector | 2.00% | ~626 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 586)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,280 (Ranked 124)  
+Progressed: 31,286 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,10 +271,10 @@ Completed: 68 (0.22%) (Ranked 247)
 | 2023-11-17 | 31,117 | 68 |
 | 2023-11-18 | 31,196 | 68 |
 | 2023-11-19 | 31,263 | 68 |
-| 2023-11-20 | 31,280 | 68 |
+| 2023-11-20 | 31,286 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 248)  
-Sum: 2,827 (Ranked 179)  
+Sum: 2,829 (Ranked 179)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -282,8 +282,8 @@ Diff (max vs sum): 69
 | This game is Great for Quick Sessions | 310 |
 | This game has Diverse Characters | 296 |
 | This game has Amazing Storytelling | 281 |
+| This game is Highly Recommended | 279 |
 | This game has Competitive Players | 278 |
-| This game is Highly Recommended | 277 |
 | This game is Relaxing | 274 |
 | This game is Extremely Fun | 272 |
 | This game has Quickly Understood Controls | 261 |
@@ -510,3 +510,4 @@ Diff (max vs sum): 69
 | 2023-11-17 | 4.50 | 316 | 2,813 |
 | 2023-11-18 | 4.50 | 318 | 2,819 |
 | 2023-11-19 | 4.50 | 318 | 2,827 |
+| 2023-11-20 | 4.50 | 318 | 2,829 |

@@ -452,9 +452,9 @@
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Guru",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_A_BUDDING_PARTNERSHIP",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:05:09.8913773+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:16:17.9218776+00:00",
   "LastUpdate_AppInfo": "2023-11-14T17:57:08.8766102+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:59:43.9803167+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:05:09.8914101+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:10:46.1561722+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:16:17.92191+00:00"
 }

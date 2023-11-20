@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~936 |
-| Whatever It Takes | 2.00% | ~936 |
-| Pork Chopped | 2.00% | ~936 |
+| One of Us | 2.00% | ~937 |
+| Whatever It Takes | 2.00% | ~937 |
+| Pork Chopped | 2.00% | ~937 |
 | Git Gutte! | 1.00% | ~7,213 |
 | Break A Leg | 1.00% | ~7,213 |
 | Coup de Grâce | 1.00% | ~7,213 |
@@ -16,13 +16,13 @@ Rating: 4.54 (Ranked 524)
 | Hotel California | 1.00% | ~7,213 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,213 |
 | Welcome To Hell-A | 1.00% | ~7,213 |
-| Dr. Reed, I Presume? | 0.90% | ~6,491 |
-| Anger Management | 0.90% | ~6,491 |
-| Bookworm | 0.90% | ~6,491 |
-| But Doctor, I am Butcho | 0.90% | ~6,491 |
-| Apex Predator | 0.90% | ~6,491 |
-| Stacking the Deck | 0.90% | ~6,491 |
-| This is My Weapon | 0.90% | ~6,491 |
+| Dr. Reed, I Presume? | 0.90% | ~6,492 |
+| Anger Management | 0.90% | ~6,492 |
+| Bookworm | 0.90% | ~6,492 |
+| But Doctor, I am Butcho | 0.90% | ~6,492 |
+| Apex Predator | 0.90% | ~6,492 |
+| Stacking the Deck | 0.90% | ~6,492 |
+| This is My Weapon | 0.90% | ~6,492 |
 | Can't Handle the Truth | 0.80% | ~5,770 |
 | Like Riding a Bike | 0.80% | ~5,770 |
 | Zombologist | 0.80% | ~5,770 |
@@ -48,7 +48,7 @@ Rating: 4.54 (Ranked 524)
 | Make it So | 0.30% | ~2,164 |
 | LA Influential | 0.30% | ~2,164 |
 | Gore Horse | 0.30% | ~2,164 |
-| Top That, Tisha! | 0.30% | ~140 |
+| Top That, Tisha! | 0.30% | ~141 |
 | Sole Survivor | 0.20% | ~1,443 |
 | Sharpest Tool in the Box | 0.20% | ~1,443 |
 | Lawn and Order | 0.20% | ~94 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,276 (Ranked 20)  
-Completed: 2,417 (0.34%) (Ranked 228)  
+Progressed: 721,296 (Ranked 20)  
+Completed: 2,418 (0.34%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,10 +271,10 @@ Completed: 2,417 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,276 | 2,417 |
+| 2023-11-20 | 721,296 | 2,418 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
-Sum: 11,576 (Ranked 84)  
+Sum: 11,580 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -284,8 +284,8 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 501 |
 | This game has Amazing Storytelling | 479 |
+| This game is Extremely Fun | 465 |
 | This game is Highly Recommended | 464 |
-| This game is Extremely Fun | 461 |
 | This game has Amazing Characters | 430 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -503,4 +503,4 @@ Diff (max vs sum): -33
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
-| 2023-11-20 | 4.54 | 7,589 | 11,576 |
+| 2023-11-20 | 4.54 | 7,589 | 11,580 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10699,18 +10699,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 48628,
       "NumberOfAwardsMax": 24447
+    },
+    {
+      "Time": "2023-11-20T13:11:55.2199295+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48656,
+      "NumberOfAwardsMax": 24475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48628,
-  "NumberOfAwardsMax": 24447,
+  "NumberOfAwards": 48656,
+  "NumberOfAwardsMax": 24475,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24447
+      "Count": 24475
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10779,9 +10785,9 @@
       "Count": 794
     }
   ],
-  "EOS_Progressed": 302468,
+  "EOS_Progressed": 302470,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33769,6 +33775,11 @@
       "Time": "2023-11-20T12:09:39.6280752+00:00",
       "NumProgressed": 302468,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-20T13:21:02.0596966+00:00",
+      "NumProgressed": 302470,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -33788,7 +33799,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_11",
@@ -33796,7 +33807,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_12",
@@ -33804,7 +33815,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_13",
@@ -33812,7 +33823,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_14",
@@ -33828,7 +33839,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24197
+      "UsersEstimate": 24198
     },
     {
       "ID": "PFA_16",
@@ -33836,7 +33847,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_17",
@@ -33844,7 +33855,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24197
+      "UsersEstimate": 24198
     },
     {
       "ID": "PFA_18",
@@ -33852,7 +33863,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24197
+      "UsersEstimate": 24198
     },
     {
       "ID": "PFA_19",
@@ -33860,7 +33871,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24197
+      "UsersEstimate": 24198
     },
     {
       "ID": "PFA_2",
@@ -33868,7 +33879,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "PFA_20",
@@ -33884,7 +33895,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_22",
@@ -33908,7 +33919,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_25",
@@ -34036,7 +34047,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33271
+      "UsersEstimate": 33272
     },
     {
       "ID": "PFA_4",
@@ -34044,7 +34055,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "PFA_40",
@@ -34060,7 +34071,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "PFA_42",
@@ -34139,16 +34150,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302468,
+      "Progressed": 302470,
       "Completed": 512
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-20T10:59:31.6485211+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:09:39.6280748+00:00",
+  "LastChanged": "2023-11-20T13:11:55.2199293+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:21:02.0596962+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-20T12:00:53.4788674+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:09:39.628204+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:11:55.2199298+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:21:02.0598248+00:00"
 }

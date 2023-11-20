@@ -12,8 +12,8 @@
 | The Plains of Strothalm | 73.00% | ~229 |
 | Experienced Thalya | 70.00% | ~220 |
 | Thalya's Concentrated Fury | 68.00% | ~214 |
+| Master of Magic | 66.00% | ~207 |
 | Bad Elves Go Everywhere | 66.00% | ~207 |
-| Master of Magic | 65.00% | ~204 |
 | Heroes’ Gorge | 62.00% | ~195 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~188 |
 | Magic Accidents | 59.00% | ~185 |
@@ -25,7 +25,7 @@
 | Hard Work | 44.00% | ~138 |
 | The Big Eaty | 43.00% | ~135 |
 | Pure Dynamite! | 41.00% | ~129 |
-| “… like son” | 37.00% | ~116 |
+| “… like son” | 38.00% | ~119 |
 | Mana Cannon | 36.00% | ~113 |
 | Dungeonlord Gorgu | 33.00% | ~104 |
 | The Cathedral of Light | 32.00% | ~100 |
@@ -36,8 +36,8 @@
 | All’s Well That Ends Evil | 23.00% | ~72 |
 | Hungry, Hungry Gorgu! | 21.00% | ~66 |
 | Master of the Undead | 21.00% | ~66 |
+| The Duel | 19.00% | ~60 |
 | Forbidden Knowledge | 18.00% | ~57 |
-| The Duel | 18.00% | ~57 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~50 |
 | Stop Tanos! | 16.00% | ~50 |

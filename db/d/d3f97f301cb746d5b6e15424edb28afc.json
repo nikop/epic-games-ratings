@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2266,9 +2266,9 @@
       "ID": "ACH_WASHCAR_03",
       "SetID": "5fn8ia4",
       "Name": "Sand? Not a problem",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "GSS_ACH_01_SHOP_01",
@@ -2482,9 +2482,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 807
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -2562,17 +2562,17 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 737
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 647
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -2626,9 +2626,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 737
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -2834,9 +2834,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 189
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -2929,8 +2929,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-20T12:04:53.7487042+00:00",
+  "LastChanged_Achievements": "2023-11-20T13:16:02.4101946+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-20T11:59:48.4655411+00:00",
-  "LastUpdate_Achievements": "2023-11-20T12:04:53.7487825+00:00"
+  "LastUpdate_Ratings": "2023-11-20T13:10:50.6168053+00:00",
+  "LastUpdate_Achievements": "2023-11-20T13:16:02.4102762+00:00"
 }

@@ -6,68 +6,68 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 251.00% | ~936 |
-| Iron Chef | 180.00% | ~671 |
-| Greeno-B-Gone | 126.00% | ~470 |
-| Your Especially Earned Trajectory | 99.00% | ~369 |
-| No Mountain Wide Enough | 74.00% | ~276 |
-| Yakmel Whisperer | 72.00% | ~269 |
-| One of the Cool Kids | 71.00% | ~265 |
+| Adept Assembler | 252.00% | ~937 |
+| Iron Chef | 181.00% | ~673 |
+| Greeno-B-Gone | 126.00% | ~469 |
+| Your Especially Earned Trajectory | 100.00% | ~372 |
+| No Mountain Wide Enough | 75.00% | ~279 |
+| Yakmel Whisperer | 72.00% | ~268 |
+| One of the Cool Kids | 71.00% | ~264 |
 | Can We Keep It? | 69.00% | ~257 |
-| On that Grindset | 66.00% | ~246 |
-| Diamonds are Forever | 64.00% | ~239 |
-| Pack Mule | 63.00% | ~235 |
-| Unboxing | 61.00% | ~228 |
+| On that Grindset | 67.00% | ~249 |
+| Diamonds are Forever | 65.00% | ~242 |
+| Pack Mule | 63.00% | ~234 |
+| Unboxing | 61.00% | ~227 |
+| Chatterbox | 56.00% | ~208 |
 | Big Game Hunter | 55.00% | ~205 |
-| Chatterbox | 55.00% | ~205 |
-| First Love | 54.00% | ~201 |
-| Financially Secure | 53.00% | ~198 |
-| Got Served | 53.00% | ~198 |
-| I Do! | 52.00% | ~194 |
+| First Love | 55.00% | ~205 |
+| Financially Secure | 53.00% | ~197 |
+| Got Served | 53.00% | ~197 |
+| I Do! | 53.00% | ~197 |
 | Happier-est Place on Earth | 50.00% | ~186 |
 | You Don't Win Friends With Salad | 50.00% | ~186 |
-| Call Me Fishmael | 49.00% | ~183 |
-| Builder of the Month | 47.00% | ~175 |
-| What Plants Crave | 46.00% | ~172 |
-| Anti-Santa | 46.00% | ~172 |
-| Panda-kin | 45.00% | ~168 |
-| Commissions, commissions...! | 45.00% | ~168 |
-| Mole Masher | 45.00% | ~168 |
+| Call Me Fishmael | 49.00% | ~182 |
+| Builder of the Month | 48.00% | ~179 |
+| What Plants Crave | 46.00% | ~171 |
+| Anti-Santa | 46.00% | ~171 |
+| Panda-kin | 45.00% | ~167 |
+| Commissions, commissions...! | 45.00% | ~167 |
+| Mole Masher | 45.00% | ~167 |
 | Finishing Touches | 43.00% | ~160 |
 | Bridging the Gap | 43.00% | ~160 |
 | Martle's Dream | 43.00% | ~160 |
-| My Time Mansion | 42.00% | ~157 |
-| Waste Not Want Not | 42.00% | ~157 |
-| Knowledge is Power | 40.00% | ~149 |
+| My Time Mansion | 42.00% | ~156 |
+| Waste Not Want Not | 42.00% | ~156 |
+| Knowledge is Power | 41.00% | ~153 |
 | Better Late than Never | 40.00% | ~149 |
 | Elementary, My Dear | 39.00% | ~145 |
 | Lifeline Pipeline | 37.00% | ~138 |
 | Got the Flow Back | 37.00% | ~138 |
 | Who Ya Gonna Call...? | 37.00% | ~138 |
-| Jewel of the Eufaula | 35.00% | ~131 |
-| Officially Official | 35.00% | ~131 |
+| Jewel of the Eufaula | 35.00% | ~130 |
+| Officially Official | 35.00% | ~130 |
 | Sepia Toned Memories | 33.00% | ~123 |
-| He Can Spin A Yarn... | 31.00% | ~116 |
+| He Can Spin A Yarn... | 31.00% | ~115 |
 | Time Flies | 28.00% | ~104 |
 | Newton | 28.00% | ~104 |
-| Kind of a Big Deal | 27.00% | ~101 |
-| Santa In Training | 27.00% | ~101 |
-| Just What I Always Wanted! | 27.00% | ~101 |
+| Kind of a Big Deal | 27.00% | ~100 |
+| Santa In Training | 27.00% | ~100 |
+| Just What I Always Wanted! | 27.00% | ~100 |
+| Do Your Part | 26.00% | ~97 |
 | Sandrunning Speedster | 25.00% | ~93 |
-| Do Your Part | 25.00% | ~93 |
 | It Belongs in a Museum! | 25.00% | ~93 |
-| Pro Gamer | 22.00% | ~82 |
+| Pro Gamer | 23.00% | ~86 |
 | Cardistry | 19.00% | ~71 |
 | It's High Noon... | 11.00% | ~41 |
 | Strong Arms | 11.00% | ~41 |
 | Got the Receipt? | 11.00% | ~41 |
-| Jack of All Trades | 9.00% | ~34 |
+| Jack of All Trades | 9.00% | ~33 |
 | Sandrock's Hottest Club | 4.00% | ~15 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 325)  
+Progressed: 372 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-20 | 376 | 0 |
 ## Awards
 Max (Character Customization): 594  (Ranked 194)  
-Sum: 1,368 (Ranked 239)  
+Sum: 1,369 (Ranked 239)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
@@ -105,7 +105,7 @@ Diff (max vs sum): -45
 | This game has Diverse Characters | 74 |
 | This game has Amazing Characters | 72 |
 | This game is Relaxing | 72 |
-| This game has Amazing Storytelling | 70 |
+| This game has Amazing Storytelling | 71 |
 | This game has Easy Combat | 68 |
 | This game has a Creative Community | 55 |
 | This game has a Kind Community | 46 |
@@ -279,4 +279,4 @@ Diff (max vs sum): -45
 | 2023-11-16 | 4.68 | - | 591 | 1,356 |
 | 2023-11-17 | 4.68 | - | 591 | 1,359 |
 | 2023-11-18 | 4.68 | - | 594 | 1,366 |
-| 2023-11-20 | 4.68 | - | 594 | 1,368 |
+| 2023-11-20 | 4.68 | - | 594 | 1,369 |
