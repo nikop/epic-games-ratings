@@ -6,31 +6,31 @@ Number of Ratings: 32,207  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long and Winding Road | 93.00% | ~543,301 |
-| The People's Hero | 56.00% | ~327,149 |
-| In A Flash | 32.00% | ~186,942 |
-| Heart of Darkness | 24.00% | ~140,207 |
-| Lest Ye Be Judged | 23.00% | ~134,365 |
-| Cayde's Pathfinder | 22.00% | ~128,523 |
-| Ikora's Protégé | 21.00% | ~122,681 |
-| The Life Exotic | 19.00% | ~110,997 |
-| Heart of the Awoken | 18.00% | ~105,155 |
-| Zavala's Lieutenant | 17.00% | ~99,313 |
-| Challenge Accepted | 16.00% | ~93,471 |
-| High-Stakes Play | 16.00% | ~93,471 |
-| Show Me What You Got | 16.00% | ~93,471 |
-| Legends Grow | 14.00% | ~81,787 |
-| Exotique | 13.00% | ~75,945 |
-| Nothing Left to Say | 13.00% | ~75,945 |
-| An Exotic Journey | 12.00% | ~70,103 |
-| Darkness Falls | 12.00% | ~70,103 |
+| Long and Winding Road | 93.00% | ~543,310 |
+| The People's Hero | 56.00% | ~327,154 |
+| In A Flash | 32.00% | ~186,945 |
+| Heart of Darkness | 24.00% | ~140,209 |
+| Lest Ye Be Judged | 23.00% | ~134,367 |
+| Cayde's Pathfinder | 22.00% | ~128,525 |
+| Ikora's Protégé | 21.00% | ~122,683 |
+| The Life Exotic | 19.00% | ~110,999 |
+| Heart of the Awoken | 18.00% | ~105,157 |
+| Zavala's Lieutenant | 17.00% | ~99,315 |
+| Challenge Accepted | 16.00% | ~93,473 |
+| High-Stakes Play | 16.00% | ~93,473 |
+| Show Me What You Got | 16.00% | ~93,473 |
+| Legends Grow | 14.00% | ~81,789 |
+| Exotique | 13.00% | ~75,947 |
+| Nothing Left to Say | 13.00% | ~75,947 |
+| An Exotic Journey | 12.00% | ~70,104 |
+| Darkness Falls | 12.00% | ~70,104 |
 | Belly Of The Beast | 10.00% | ~58,420 |
 | The Prestige | 7.00% | ~40,894 |
 | Fashion Statement | 7.00% | ~40,894 |
 | Wishing for the Best | 6.00% | ~35,052 |
 | Seal the Deal | 4.00% | ~23,368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 584,195 (Ranked 31)  
+Progressed: 584,204 (Ranked 31)  
 Completed: 16,587 (2.84%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 16,587 (2.84%) (Ranked 108)
 | 2023-11-17 | 582,524 | 16,540 |
 | 2023-11-18 | 583,290 | 16,564 |
 | 2023-11-19 | 584,103 | 16,587 |
-| 2023-11-20 | 584,195 | 16,587 |
+| 2023-11-20 | 584,204 | 16,587 |
 ## Awards
 Max (Great Boss Battles): 39,230  (Ranked 14)  
 Sum: 100,700 (Ranked 16)  

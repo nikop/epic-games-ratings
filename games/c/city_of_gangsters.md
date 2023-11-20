@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~166,009 |
-| Copacetic Coordination | 16.00% | ~56,514 |
+| Corner Clout | 47.00% | ~166,012 |
+| Copacetic Coordination | 16.00% | ~56,515 |
 | Fronting the Money | 15.00% | ~52,982 |
 | The Dawn of Automation | 14.00% | ~49,450 |
 | Extraordinary Logistics | 14.00% | ~49,450 |
-| Dirty Money | 13.00% | ~45,917 |
-| Family First | 13.00% | ~45,917 |
-| Cleaning House | 12.00% | ~42,385 |
-| Room in the Back | 12.00% | ~42,385 |
-| Beating the Heat | 11.00% | ~38,853 |
-| Booze Baron | 11.00% | ~38,853 |
-| Friends on the Force | 10.00% | ~35,321 |
-| Neighborhood Watch | 10.00% | ~35,321 |
+| Dirty Money | 13.00% | ~45,918 |
+| Family First | 13.00% | ~45,918 |
+| Cleaning House | 12.00% | ~42,386 |
+| Room in the Back | 12.00% | ~42,386 |
+| Beating the Heat | 11.00% | ~38,854 |
+| Booze Baron | 11.00% | ~38,854 |
+| Friends on the Force | 10.00% | ~35,322 |
+| Neighborhood Watch | 10.00% | ~35,322 |
 | Core Corps | 8.00% | ~28,257 |
 | Sizeable Stash | 8.00% | ~28,257 |
 | Street Fighter | 7.00% | ~24,725 |
@@ -36,11 +36,11 @@ Rating: 4.28 (Ranked 851)
 | Opportunity Knocked | 5.00% | ~17,661 |
 | City of Big Shoulders | 5.00% | ~17,661 |
 | Mission Mastery | 5.00% | ~17,661 |
-| Considerable Clams | 4.00% | ~14,128 |
-| Gin Joint | 4.00% | ~14,128 |
-| An Affront to the Enemy | 4.00% | ~14,128 |
-| Friends from Back Home | 4.00% | ~14,128 |
-| Half Century Mark | 4.00% | ~14,128 |
+| Considerable Clams | 4.00% | ~14,129 |
+| Gin Joint | 4.00% | ~14,129 |
+| An Affront to the Enemy | 4.00% | ~14,129 |
+| Friends from Back Home | 4.00% | ~14,129 |
+| Half Century Mark | 4.00% | ~14,129 |
 | Corner Opportunities | 3.00% | ~10,596 |
 | 2122 North Clark Street | 3.00% | ~10,596 |
 | Copious Cabbage | 3.00% | ~10,596 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 851)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,211 (Ranked 47)  
+Progressed: 353,216 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-17 | 352,809 | 7 |
 | 2023-11-18 | 353,005 | 7 |
 | 2023-11-19 | 353,192 | 7 |
-| 2023-11-20 | 353,211 | 7 |
+| 2023-11-20 | 353,216 | 7 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 469)  
 Sum: 146 (Ranked 422)  

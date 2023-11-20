@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -925,9 +925,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664853,
+  "EOS_Progressed": 664854,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21155,6 +21155,11 @@
       "Time": "2023-11-20T02:28:47.0432198+00:00",
       "NumProgressed": 664853,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-20T03:04:54.9412001+00:00",
+      "NumProgressed": 664854,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -21166,7 +21171,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478694
+      "UsersEstimate": 478695
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -21310,7 +21315,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93079
+      "UsersEstimate": 93080
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -21430,7 +21435,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166213
+      "UsersEstimate": 166214
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -21549,15 +21554,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664853,
+      "Progressed": 664854,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-16T15:59:02.0377741+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:28:47.0432193+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:04:54.9411998+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:23:59.4405215+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:28:47.043328+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:00:03.3763811+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:04:54.9413155+00:00"
 }

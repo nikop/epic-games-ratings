@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~269 |
-| Thalya – Simply Immortal | 86.00% | ~269 |
+| The Last Stand | 87.00% | ~272 |
+| Thalya – Simply Immortal | 87.00% | ~272 |
 | Hammer Time, Round Two | 81.00% | ~254 |
 | For the Horde! | 81.00% | ~254 |
 | The Hellwoods | 77.00% | ~241 |
@@ -24,8 +24,8 @@
 | YOU SHALL NOT PASS! | 45.00% | ~141 |
 | Hard Work | 44.00% | ~138 |
 | The Big Eaty | 42.00% | ~131 |
-| Pure Dynamite! | 40.00% | ~125 |
-| “… like son” | 36.00% | ~113 |
+| Pure Dynamite! | 41.00% | ~128 |
+| “… like son” | 37.00% | ~116 |
 | Mana Cannon | 35.00% | ~110 |
 | Dungeonlord Gorgu | 32.00% | ~100 |
 | The Cathedral of Light | 31.00% | ~97 |

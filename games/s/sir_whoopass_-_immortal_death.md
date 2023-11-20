@@ -31,16 +31,16 @@
 | Surprise!! | 41.00% | ~53 |
 | Haemochromatosis | 40.00% | ~52 |
 | Make America Grate Again | 34.00% | ~44 |
+| You can't stop me, bro! | 33.00% | ~43 |
 | Pasta Bolognese | 33.00% | ~43 |
 | You are no match for me, Billy! | 32.00% | ~41 |
 | Catch the bus with me! | 32.00% | ~41 |
 | Karaoke king | 32.00% | ~41 |
-| You can't stop me, bro! | 32.00% | ~41 |
 | Meatballs, coming up! | 29.00% | ~37 |
 | I'm going to get a concussion | 29.00% | ~37 |
 | Another one bites the iron | 27.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~34 |
-| Kleptomaniac | 25.00% | ~32 |
+| Kleptomaniac | 26.00% | ~34 |
 | A Megapint...? | 23.00% | ~30 |
 | Hovering around | 23.00% | ~30 |
 | You're not so Big anymore, Boi! | 22.00% | ~28 |

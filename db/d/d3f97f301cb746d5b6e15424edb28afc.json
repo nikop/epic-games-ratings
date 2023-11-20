@@ -4,8 +4,8 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2192,9 +2192,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -2432,9 +2432,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 378
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -2480,9 +2480,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 746
+      "UsersEstimate": 755
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -2752,9 +2752,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 706
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -2919,8 +2919,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:27:53.9936653+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:04:06.4136839+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:22:33.3778415+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:27:53.9937433+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:58:45.5989091+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:04:06.4137636+00:00"
 }

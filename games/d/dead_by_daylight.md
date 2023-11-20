@@ -6,38 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~82,614 |
-| Zealous | 7.00% | ~72,287 |
-| Skillful | 7.00% | ~72,287 |
-| Not half bad | 6.00% | ~61,960 |
-| Apt Survivor | 6.00% | ~61,960 |
-| Make Some Noise | 6.00% | ~61,960 |
-| Handyman | 5.00% | ~51,634 |
-| Survival Treasures | 5.00% | ~51,634 |
-| Sorted | 5.00% | ~51,634 |
-| Resurgence | 5.00% | ~51,634 |
-| The Grand Sacrifice | 4.00% | ~41,307 |
-| Agonizing Escape | 4.00% | ~41,307 |
-| Backdoor Escape | 4.00% | ~41,307 |
-| No one left behind | 4.00% | ~41,307 |
-| Medic | 4.00% | ~41,307 |
-| Perfect Escape | 4.00% | ~41,307 |
-| Bloody Millionaire | 4.00% | ~41,307 |
-| I | 4.00% | ~41,307 |
-| Engineer | 4.00% | ~41,307 |
-| Healthy Obsession | 4.00% | ~41,307 |
-| Preemptive Strike | 4.00% | ~41,307 |
-| Humanitarian | 4.00% | ~41,307 |
-| I've got your back | 3.00% | ~30,980 |
-| Perfect Killing | 3.00% | ~30,980 |
-| Apt Killer | 3.00% | ~30,980 |
-| Risk it all | 3.00% | ~30,980 |
-| Vulture | 3.00% | ~30,980 |
-| II | 3.00% | ~30,980 |
-| III | 3.00% | ~30,980 |
-| Wounded Healer | 3.00% | ~30,980 |
-| Close Shave | 3.00% | ~30,980 |
-| Second Act | 3.00% | ~30,980 |
+| It wakes | 8.00% | ~82,618 |
+| Zealous | 7.00% | ~72,290 |
+| Skillful | 7.00% | ~72,290 |
+| Not half bad | 6.00% | ~61,963 |
+| Apt Survivor | 6.00% | ~61,963 |
+| Make Some Noise | 6.00% | ~61,963 |
+| Handyman | 5.00% | ~51,636 |
+| Survival Treasures | 5.00% | ~51,636 |
+| Sorted | 5.00% | ~51,636 |
+| Resurgence | 5.00% | ~51,636 |
+| The Grand Sacrifice | 4.00% | ~41,309 |
+| Agonizing Escape | 4.00% | ~41,309 |
+| Backdoor Escape | 4.00% | ~41,309 |
+| No one left behind | 4.00% | ~41,309 |
+| Medic | 4.00% | ~41,309 |
+| Perfect Escape | 4.00% | ~41,309 |
+| Bloody Millionaire | 4.00% | ~41,309 |
+| I | 4.00% | ~41,309 |
+| Engineer | 4.00% | ~41,309 |
+| Healthy Obsession | 4.00% | ~41,309 |
+| Preemptive Strike | 4.00% | ~41,309 |
+| Humanitarian | 4.00% | ~41,309 |
+| I've got your back | 3.00% | ~30,982 |
+| Perfect Killing | 3.00% | ~30,982 |
+| Apt Killer | 3.00% | ~30,982 |
+| Risk it all | 3.00% | ~30,982 |
+| Vulture | 3.00% | ~30,982 |
+| II | 3.00% | ~30,982 |
+| III | 3.00% | ~30,982 |
+| Wounded Healer | 3.00% | ~30,982 |
+| Close Shave | 3.00% | ~30,982 |
+| Second Act | 3.00% | ~30,982 |
 | Blood on your hands | 2.00% | ~20,654 |
 | Escape Artist | 2.00% | ~20,654 |
 | Made it out alive! | 2.00% | ~20,654 |
@@ -101,17 +101,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Prowler | 0.90% | ~9,294 |
 | Triage | 0.90% | ~9,294 |
 | High Speed Pursuit | 0.90% | ~9,294 |
-| Blood in your mouth | 0.80% | ~8,261 |
-| Whiffing to Success | 0.80% | ~8,261 |
-| Power Moves | 0.80% | ~8,261 |
+| Blood in your mouth | 0.80% | ~8,262 |
+| Whiffing to Success | 0.80% | ~8,262 |
+| Power Moves | 0.80% | ~8,262 |
 | Looter | 0.60% | ~6,196 |
 | Death of Ignorance | 0.60% | ~6,196 |
 | Hack the Mainframe | 0.60% | ~6,196 |
-| Mad House | 0.50% | ~5,163 |
-| Denied! | 0.50% | ~5,163 |
-| Viral Video | 0.50% | ~5,163 |
-| Ghost in the Machine | 0.50% | ~5,163 |
-| Disarm and Dismember | 0.50% | ~5,163 |
+| Mad House | 0.50% | ~5,164 |
+| Denied! | 0.50% | ~5,164 |
+| Viral Video | 0.50% | ~5,164 |
+| Ghost in the Machine | 0.50% | ~5,164 |
+| Disarm and Dismember | 0.50% | ~5,164 |
 | A feast for the Entity | 0.40% | ~4,131 |
 | In the void she walks | 0.40% | ~4,131 |
 | Deranged Pursuit | 0.40% | ~4,131 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,033 |
 | Adept Ripley | 0.10% | ~1,033 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,032,675 (Ranked 14)  
+Progressed: 1,032,719 (Ranked 14)  
 Completed: 54 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 54 (0.01%) (Ranked 334)
 | 2023-11-17 | 1,026,834 | 54 |
 | 2023-11-18 | 1,029,621 | 54 |
 | 2023-11-19 | 1,032,368 | 54 |
-| 2023-11-20 | 1,032,675 | 54 |
+| 2023-11-20 | 1,032,719 | 54 |
 ## Awards
 Max (Diverse Characters): 36,252  (Ranked 15)  
 Sum: 277,010 (Ranked 13)  

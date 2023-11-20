@@ -12220,9 +12220,9 @@
       "Count": 871
     }
   ],
-  "EOS_Progressed": 670714,
+  "EOS_Progressed": 670770,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 19334,
+  "EOS_NewPlayers": 19383,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -36645,6 +36645,11 @@
       "Time": "2023-11-20T02:29:40.8643166+00:00",
       "NumProgressed": 670714,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-20T03:05:44.1670347+00:00",
+      "NumProgressed": 670770,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 65,
@@ -36656,7 +36661,7 @@
       "Name": "Into the Unknown",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 221336
+      "UsersEstimate": 221354
     },
     {
       "ID": "achievement_02",
@@ -36664,7 +36669,7 @@
       "Name": "First Shot",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 228043
+      "UsersEstimate": 228062
     },
     {
       "ID": "achievement_03",
@@ -36672,7 +36677,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 214628
+      "UsersEstimate": 214646
     },
     {
       "ID": "achievement_04",
@@ -36680,7 +36685,7 @@
       "Name": "Under Pressure",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 154264
+      "UsersEstimate": 154277
     },
     {
       "ID": "achievement_05",
@@ -36688,7 +36693,7 @@
       "Name": "On the Trail of the Enemy",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 154264
+      "UsersEstimate": 154277
     },
     {
       "ID": "achievement_06",
@@ -36696,7 +36701,7 @@
       "Name": "Light in the Darkness",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 154264
+      "UsersEstimate": 154277
     },
     {
       "ID": "achievement_07",
@@ -36704,7 +36709,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 147557
+      "UsersEstimate": 147569
     },
     {
       "ID": "achievement_08",
@@ -36712,7 +36717,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 100607
+      "UsersEstimate": 100616
     },
     {
       "ID": "achievement_09",
@@ -36720,7 +36725,7 @@
       "Name": "We Will Be Heard!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 114021
+      "UsersEstimate": 114031
     },
     {
       "ID": "achievement_10",
@@ -36728,7 +36733,7 @@
       "Name": "Known Associate",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 107314
+      "UsersEstimate": 107323
     },
     {
       "ID": "achievement_11",
@@ -36736,7 +36741,7 @@
       "Name": "Brush with Death",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 100607
+      "UsersEstimate": 100616
     },
     {
       "ID": "achievement_12",
@@ -36744,7 +36749,7 @@
       "Name": "Going Down",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 93900
+      "UsersEstimate": 93908
     },
     {
       "ID": "achievement_13",
@@ -36752,7 +36757,7 @@
       "Name": "Family First",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 93900
+      "UsersEstimate": 93908
     },
     {
       "ID": "achievement_14",
@@ -36760,7 +36765,7 @@
       "Name": "Your World, Your Rules",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 93900
+      "UsersEstimate": 93908
     },
     {
       "ID": "achievement_15",
@@ -36768,7 +36773,7 @@
       "Name": "Municipal Services",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33536
+      "UsersEstimate": 33538
     },
     {
       "ID": "achievement_16",
@@ -36776,7 +36781,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 114021
+      "UsersEstimate": 114031
     },
     {
       "ID": "achievement_17",
@@ -36784,7 +36789,7 @@
       "Name": "Tube Map",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 26829
+      "UsersEstimate": 26831
     },
     {
       "ID": "achievement_18",
@@ -36792,7 +36797,7 @@
       "Name": "Sancho Panza",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 201214
+      "UsersEstimate": 201231
     },
     {
       "ID": "achievement_19",
@@ -36800,7 +36805,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 46950
+      "UsersEstimate": 46954
     },
     {
       "ID": "achievement_20",
@@ -36808,7 +36813,7 @@
       "Name": "Don Quixote",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26829
+      "UsersEstimate": 26831
     },
     {
       "ID": "achievement_21",
@@ -36816,7 +36821,7 @@
       "Name": "Can\u0027t You Read the Signs?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26829
+      "UsersEstimate": 26831
     },
     {
       "ID": "achievement_22",
@@ -36824,7 +36829,7 @@
       "Name": "Find Anything Interesting?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13414
+      "UsersEstimate": 13415
     },
     {
       "ID": "achievement_23",
@@ -36832,7 +36837,7 @@
       "Name": "It Wasn\u0027t That Hard, Was It?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 154264
+      "UsersEstimate": 154277
     },
     {
       "ID": "achievement_24",
@@ -36840,7 +36845,7 @@
       "Name": "Revenants",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13414
+      "UsersEstimate": 13415
     },
     {
       "ID": "achievement_25",
@@ -36848,7 +36853,7 @@
       "Name": "Flag Burning",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 167678
+      "UsersEstimate": 167692
     },
     {
       "ID": "achievement_26",
@@ -36856,7 +36861,7 @@
       "Name": "Ban Hammer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 33536
+      "UsersEstimate": 33538
     },
     {
       "ID": "achievement_27",
@@ -36864,7 +36869,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 241457
+      "UsersEstimate": 241477
     },
     {
       "ID": "achievement_28",
@@ -36872,7 +36877,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 187800
+      "UsersEstimate": 187816
     },
     {
       "ID": "achievement_29",
@@ -36888,7 +36893,7 @@
       "Name": "Parkour Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 40243
+      "UsersEstimate": 40246
     },
     {
       "ID": "achievement_31",
@@ -36896,7 +36901,7 @@
       "Name": "Combat Master",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 40243
+      "UsersEstimate": 40246
     },
     {
       "ID": "achievement_32",
@@ -36904,7 +36909,7 @@
       "Name": "Boot Licker",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 26829
+      "UsersEstimate": 26831
     },
     {
       "ID": "achievement_33",
@@ -36912,7 +36917,7 @@
       "Name": "Who Wants To Be a...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13414
+      "UsersEstimate": 13415
     },
     {
       "ID": "achievement_34",
@@ -36936,7 +36941,7 @@
       "Name": "After the Fall",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 127436
+      "UsersEstimate": 127446
     },
     {
       "ID": "achievement_37",
@@ -36944,7 +36949,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 207921
+      "UsersEstimate": 207939
     },
     {
       "ID": "achievement_38",
@@ -36952,7 +36957,7 @@
       "Name": "Can\u0027t Touch This!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 154264
+      "UsersEstimate": 154277
     },
     {
       "ID": "achievement_39",
@@ -36960,7 +36965,7 @@
       "Name": "Night Hunter",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 140850
+      "UsersEstimate": 140862
     },
     {
       "ID": "achievement_40",
@@ -36968,7 +36973,7 @@
       "Name": "Death From Afar",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 87193
+      "UsersEstimate": 87200
     },
     {
       "ID": "achievement_41",
@@ -36976,7 +36981,7 @@
       "Name": "Tanning Salon",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20121
+      "UsersEstimate": 20123
     },
     {
       "ID": "achievement_42",
@@ -36984,7 +36989,7 @@
       "Name": "Terminal Headache",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93900
+      "UsersEstimate": 93908
     },
     {
       "ID": "achievement_43",
@@ -36992,7 +36997,7 @@
       "Name": "Slowpoke!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80486
+      "UsersEstimate": 80492
     },
     {
       "ID": "achievement_44",
@@ -37000,7 +37005,7 @@
       "Name": "Being All Social",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 140850
+      "UsersEstimate": 140862
     },
     {
       "ID": "achievement_45",
@@ -37008,7 +37013,7 @@
       "Name": "That\u0027s Teamwork!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20121
+      "UsersEstimate": 20123
     },
     {
       "ID": "achievement_46",
@@ -37016,7 +37021,7 @@
       "Name": "Lightning Reflexes",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6707
+      "UsersEstimate": 6708
     },
     {
       "ID": "achievement_47",
@@ -37024,7 +37029,7 @@
       "Name": "Modder",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33536
+      "UsersEstimate": 33538
     },
     {
       "ID": "achievement_48",
@@ -37032,7 +37037,7 @@
       "Name": "Fit as a Fiddle",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13414
+      "UsersEstimate": 13415
     },
     {
       "ID": "achievement_49",
@@ -37040,7 +37045,7 @@
       "Name": "Ironheart",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 20121
+      "UsersEstimate": 20123
     },
     {
       "ID": "achievement_50",
@@ -37048,7 +37053,7 @@
       "Name": "You\u0027re Going Down!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20121
+      "UsersEstimate": 20123
     },
     {
       "ID": "achievement_51",
@@ -37056,7 +37061,7 @@
       "Name": "Don\u0027t Look Up",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "achievement_52",
@@ -37128,7 +37133,7 @@
       "Name": "Night of Terrors",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "achievement_61",
@@ -37136,7 +37141,7 @@
       "Name": "My Friend, Ciro",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "achievement_62",
@@ -37144,7 +37149,7 @@
       "Name": "Skullcrusher",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "achievement_63",
@@ -37175,21 +37180,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 670714,
+      "Progressed": 670770,
       "Completed": 68
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 316158,
+      "Progressed": 316214,
       "Completed": 1436
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-11-19T22:59:05.1971983+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:29:40.8643161+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:05:44.1670343+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.2343634+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:22:03.6970396+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:29:40.8644542+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:58:18.3779598+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:05:44.1671718+00:00"
 }

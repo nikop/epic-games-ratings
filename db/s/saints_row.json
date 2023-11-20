@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4047,9 +4047,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 79277,
+  "EOS_Progressed": 79279,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28242,6 +28242,11 @@
       "Time": "2023-11-20T02:32:08.9705789+00:00",
       "NumProgressed": 79277,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-20T03:08:43.7407628+00:00",
+      "NumProgressed": 79279,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -28285,7 +28290,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8720
+      "UsersEstimate": 8721
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -28301,7 +28306,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20612
+      "UsersEstimate": 20613
     },
     {
       "ID": "complet_epilogue_mission",
@@ -28309,7 +28314,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5549
+      "UsersEstimate": 5550
     },
     {
       "ID": "complete_all_of_wanted",
@@ -28333,7 +28338,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5549
+      "UsersEstimate": 5550
     },
     {
       "ID": "complete_final_mission",
@@ -28365,7 +28370,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 37260
+      "UsersEstimate": 37261
     },
     {
       "ID": "customize_a_vehicle",
@@ -28373,7 +28378,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26954
+      "UsersEstimate": 26955
     },
     {
       "ID": "customize_a_weapon",
@@ -28381,7 +28386,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 29332
+      "UsersEstimate": 29333
     },
     {
       "ID": "cutting_edge_materials",
@@ -28429,7 +28434,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20612
+      "UsersEstimate": 20613
     },
     {
       "ID": "empire_tier_3",
@@ -28453,7 +28458,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5549
+      "UsersEstimate": 5550
     },
     {
       "ID": "first_building_placed",
@@ -28461,7 +28466,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 26161
+      "UsersEstimate": 26162
     },
     {
       "ID": "fully_complete_a_building",
@@ -28525,7 +28530,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15855
+      "UsersEstimate": 15856
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -28549,7 +28554,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27747
+      "UsersEstimate": 27748
     },
     {
       "ID": "one_third_purple",
@@ -28637,7 +28642,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33296
+      "UsersEstimate": 33297
     },
     {
       "ID": "whole_map_purple",
@@ -28676,13 +28681,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 79277,
+      "Progressed": 79279,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 50914,
+      "Progressed": 50916,
       "Completed": 4343
     }
   ],
@@ -28690,8 +28695,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-19T13:05:48.1916246+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:32:08.9705787+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:08:43.7407625+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.0708943+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:26:42.0082037+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:32:08.9707155+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:02:58.8887425+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:08:43.7409179+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.59,
+  "EOS_Completed_Percentage": 7.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -336,6 +336,11 @@
       "Time": "2023-11-19T13:12:03.6519283+00:00",
       "NumProgressed": 79,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-20T03:09:26.3612072+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -347,7 +352,7 @@
       "Name": "Escape artist",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "aq_achievement_10",
@@ -401,7 +406,7 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -409,7 +414,7 @@
       "ID": "aq_achievement_17",
       "SetID": "7jh86ne",
       "Name": "GG",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -433,7 +438,7 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -441,17 +446,17 @@
       "ID": "aq_achievement_20",
       "SetID": "7jh86ne",
       "Name": "Beekeeper",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 55,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_22",
@@ -473,7 +478,7 @@
       "ID": "aq_achievement_24",
       "SetID": "7jh86ne",
       "Name": "Book Worm",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -593,7 +598,7 @@
       "ID": "aq_achievement_38",
       "SetID": "7jh86ne",
       "Name": "Little genius",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -601,7 +606,7 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 35,
       "UsersEstimate": 17
     },
@@ -617,7 +622,7 @@
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -649,7 +654,7 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 25
     }
@@ -658,7 +663,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 6
     }
   ],
@@ -666,8 +671,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:32:55.1200118+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:09:26.3612067+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:22:07.1215466+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:32:55.1200389+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:58:21.5068461+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:09:26.3612291+00:00"
 }

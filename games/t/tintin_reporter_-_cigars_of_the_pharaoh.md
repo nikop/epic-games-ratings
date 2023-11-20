@@ -14,12 +14,14 @@
 | In the Name of the Law | 5.00% | ~1 |
 | Au Revoir, Abudin | 5.00% | ~1 |
 | Mysterious Bungalow | 5.00% | ~1 |
+| The Eyes! | 5.00% | ~1 |
+| Punctual | 5.00% | ~1 |
 | Mummy Nightmare | 5.00% | ~1 |
 | Barking Dog | 5.00% | ~1 |
 | Cat Lover | 5.00% | ~1 |
+| Threat | 5.00% | ~1 |
 | Dynamite, Treason and Coconuts | 5.00% | ~1 |
 | Save a Friend | 5.00% | ~1 |
-| The Eyes! | 0.00% | ~0 |
 | Keep the Doctor Away | 0.00% | ~0 |
 | Just a Palm Tree | 0.00% | ~0 |
 | Under the Hood | 0.00% | ~0 |
@@ -29,7 +31,6 @@
 | The Corporal's Golden Boy | 0.00% | ~0 |
 | Eyes Shut | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
-| Punctual | 0.00% | ~0 |
 | A Diagnosis | 0.00% | ~0 |
 | Trials of Kih-Oskh | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
@@ -40,7 +41,6 @@
 | The Pharaoh's New Clothes | 0.00% | ~0 |
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
-| Threat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 545)  
 Completed: 0 (0.00%) (Ranked 356)  

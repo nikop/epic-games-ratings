@@ -9,12 +9,12 @@
 | Powerful Allies | 6.00% | ~12 |
 | I Found It | 6.00% | ~12 |
 | Adventurer | 5.00% | ~10 |
+| Geared Up | 5.00% | ~10 |
 | Scholar | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
 | Calm before the Storm | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |
 | Tributes of Caladrias | 4.00% | ~8 |
-| Geared Up | 4.00% | ~8 |
 | Shatter Them All | 3.00% | ~6 |
 | Big Bazar | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |

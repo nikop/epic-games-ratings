@@ -18,8 +18,8 @@
 | 10K | 29.00% | ~97 |
 | Amateur Survivor | 29.00% | ~83 |
 | 15K | 27.00% | ~91 |
+| Drinking Problem | 23.00% | ~77 |
 | Quick-Draw Pod | 23.00% | ~66 |
-| Drinking Problem | 22.00% | ~74 |
 | Grave Digger | 22.00% | ~63 |
 | Professional Survivor | 20.00% | ~57 |
 | Pork Chop Express | 19.00% | ~64 |

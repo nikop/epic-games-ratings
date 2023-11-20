@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1552,9 +1552,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -2087,8 +2087,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:30:00.2906734+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:06:02.1890312+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:00.0974039+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:21:18.0911657+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:30:00.2907294+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:57:37.7584685+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:06:02.1890901+00:00"
 }

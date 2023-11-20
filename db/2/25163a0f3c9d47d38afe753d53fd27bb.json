@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1432,
+  "EOS_Progressed": 1434,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 6.84,
+  "EOS_Completed_Percentage": 6.83,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -3414,6 +3414,11 @@
       "Time": "2023-11-20T02:32:53.7595246+00:00",
       "NumProgressed": 1432,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-20T03:09:25.1377899+00:00",
+      "NumProgressed": 1434,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 30,
@@ -3425,7 +3430,7 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1348
     },
     {
       "ID": "LEVEL_002",
@@ -3433,7 +3438,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1133
     },
     {
       "ID": "LEVEL_003",
@@ -3441,7 +3446,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "LEVEL_004",
@@ -3449,7 +3454,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "LEVEL_005",
@@ -3457,7 +3462,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "LEVEL_006",
@@ -3465,7 +3470,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "LEVEL_007",
@@ -3473,7 +3478,7 @@
       "Name": "Animals in the farm",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "LEVEL_008",
@@ -3481,7 +3486,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "LEVEL_009",
@@ -3505,7 +3510,7 @@
       "Name": "This island of mine",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "LEVEL_012",
@@ -3513,7 +3518,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "LEVEL_013",
@@ -3537,7 +3542,7 @@
       "Name": "Flatland",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "LEVEL_016",
@@ -3664,14 +3669,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1432,
+      "Progressed": 1434,
       "Completed": 98
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:32:53.7595241+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:09:25.1377895+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:23:35.2138332+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:32:53.7595623+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:59:41.901946+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:09:25.1378184+00:00"
 }

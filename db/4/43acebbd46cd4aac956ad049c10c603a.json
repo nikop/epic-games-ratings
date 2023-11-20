@@ -103,7 +103,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
@@ -903,6 +903,11 @@
       "Time": "2023-11-19T22:06:13.1272612+00:00",
       "NumProgressed": 399,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T03:06:24.3315677+00:00",
+      "NumProgressed": 400,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -955,7 +960,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "BreakTheLoop",
@@ -971,7 +976,7 @@
       "Name": "Bridge Builder",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ChasingTheLight",
@@ -1099,7 +1104,7 @@
       "Name": "Lord of the Files",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "LostMarshes",
@@ -1171,7 +1176,7 @@
       "Name": "Overload",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Persistent",
@@ -1201,9 +1206,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 228
     },
     {
       "ID": "RenaissanceRobot",
@@ -1273,9 +1278,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1323,7 +1328,7 @@
       "Name": "The Word Endures",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "TouchGrass",
@@ -1377,16 +1382,16 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
@@ -1394,8 +1399,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-19T16:57:40.509629+00:00",
-  "LastChanged_Achievements": "2023-11-20T02:30:24.2265256+00:00",
+  "LastChanged_Achievements": "2023-11-20T03:06:24.3315673+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:21:27.7863283+00:00",
-  "LastUpdate_Achievements": "2023-11-20T02:30:24.2265664+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:57:46.358245+00:00",
+  "LastUpdate_Achievements": "2023-11-20T03:06:24.3316095+00:00"
 }
