@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7737,9 +7737,9 @@
       "Count": 421
     }
   ],
-  "EOS_Progressed": 717063,
+  "EOS_Progressed": 717064,
   "EOS_Completed": 12938,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26637,6 +26637,11 @@
       "Time": "2023-11-20T17:04:19.9217886+00:00",
       "NumProgressed": 717063,
       "NumCompleted": 12938
+    },
+    {
+      "Time": "2023-11-20T18:04:03.2567321+00:00",
+      "NumProgressed": 717064,
+      "NumCompleted": 12938
     }
   ],
   "TotalAchievements": 60,
@@ -27006,9 +27011,9 @@
       "ID": "46_Arena_45Challenges",
       "SetID": "14c2oii",
       "Name": "Martial Hub",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 105
+      "UsersEstimate": 132
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -27127,21 +27132,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26364,
+      "Progressed": 26365,
       "Completed": 10747
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 717063,
+      "Progressed": 717064,
       "Completed": 12938
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-20T02:59:39.504417+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:04:19.9217883+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:04:03.2567316+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.0924879+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:59:59.1974412+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:04:19.9219374+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:59:54.9290202+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:04:03.2568376+00:00"
 }

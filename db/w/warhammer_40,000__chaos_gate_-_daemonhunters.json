@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -747,9 +747,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3311,
+  "EOS_Progressed": 3312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3882,6 +3882,11 @@
       "Time": "2023-11-19T11:07:23.6432234+00:00",
       "NumProgressed": 3311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T18:06:06.948325+00:00",
+      "NumProgressed": 3312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4155,9 +4160,9 @@
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 132
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -4299,9 +4304,9 @@
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -4436,21 +4441,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3311,
+      "Progressed": 3312,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3311,
+      "Progressed": 3312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-10-29T02:59:23.6089798+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:06:22.460021+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:06:06.9483245+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.3059568+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:57:18.8298191+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:06:22.4601013+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:57:18.5431833+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:06:06.9483968+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 74.00% | ~29 |
+| Mighty Powers | 77.00% | ~30 |
 | Grand Re-Opening | 64.00% | ~25 |
 | Summer Day | 62.00% | ~24 |
 | Pup Pup Boogie | 59.00% | ~23 |
@@ -22,7 +22,7 @@
 | In the Air | 28.00% | ~11 |
 | Never Miss | 28.00% | ~11 |
 | Animal Sighting | 26.00% | ~10 |
-| Don’t Miss Any | 23.00% | ~9 |
+| Don’t Miss Any | 26.00% | ~10 |
 | Adventure Bay’s Citizen | 23.00% | ~9 |
 | You Have Been Everywhere | 18.00% | ~7 |
 | Mountain and Ice | 18.00% | ~7 |

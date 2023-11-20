@@ -1119,9 +1119,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 67097,
+  "EOS_Progressed": 67100,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9839,6 +9839,11 @@
       "Time": "2023-11-20T15:05:41.3496282+00:00",
       "NumProgressed": 67097,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-20T18:04:25.6028721+00:00",
+      "NumProgressed": 67100,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9851,7 +9856,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22813
+      "UsersEstimate": 22814
     },
     {
       "ID": "10",
@@ -9915,7 +9920,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12077
+      "UsersEstimate": 12078
     },
     {
       "ID": "3",
@@ -9953,9 +9958,9 @@
       "ID": "7",
       "SetID": "2cfdi92",
       "Name": "More Power to You",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 604
+      "UsersEstimate": 671
     },
     {
       "ID": "8",
@@ -9978,7 +9983,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67097,
+      "Progressed": 67100,
       "Completed": 35
     }
   ],
@@ -9986,8 +9991,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-19T04:59:48.9534325+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:04:41.7207212+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:04:25.6028717+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:00:15.0421327+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:04:41.7207767+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:00:09.1524683+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:04:25.6029241+00:00"
 }

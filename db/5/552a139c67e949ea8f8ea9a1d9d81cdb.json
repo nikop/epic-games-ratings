@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2387,9 +2387,9 @@
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "5k00jcd",
       "Name": "Now try online",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 45
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -2611,9 +2611,9 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 313
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2704,8 +2704,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:08:08.3037191+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:06:11.7692545+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:59:14.2427307+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:08:08.3037511+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:59:10.484176+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:06:11.7692942+00:00"
 }

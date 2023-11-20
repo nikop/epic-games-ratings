@@ -4,10 +4,10 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 660,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 116,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
@@ -8423,11 +8423,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 7297,
       "NumberOfAwardsMax": 948
+    },
+    {
+      "Time": "2023-11-20T18:02:24.5103511+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 7301,
+      "NumberOfAwardsMax": 952
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7297,
-  "NumberOfAwardsMax": 948,
+  "NumberOfAwards": 7301,
+  "NumberOfAwardsMax": 952,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8446,7 +8452,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 948
+      "Count": 952
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8496,8 +8502,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-11-20T17:02:42.3520425+00:00",
+  "LastChanged": "2023-11-20T18:02:24.510351+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:34.7196773+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:02:42.352043+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:04:54.2487335+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:02:24.5103518+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:04:38.2859963+00:00"
 }

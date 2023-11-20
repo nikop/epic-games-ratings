@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,472 |
-| Alt+F4 | 8.00% | ~19,079 |
-| Where's that freaking Dwarf? | 7.00% | ~16,694 |
-| Déjà vu | 6.00% | ~14,309 |
-| Sock! SOCK! | 5.00% | ~11,924 |
-| Speedrun | 5.00% | ~11,924 |
+| Sowwy! | 35.00% | ~83,477 |
+| Alt+F4 | 8.00% | ~19,081 |
+| Where's that freaking Dwarf? | 7.00% | ~16,695 |
+| Déjà vu | 6.00% | ~14,310 |
+| Sock! SOCK! | 5.00% | ~11,925 |
+| Speedrun | 5.00% | ~11,925 |
 | A beer, two curses, three companions | 4.00% | ~9,540 |
 | GG EZ | 4.00% | ~9,540 |
 | DM intervention | 4.00% | ~9,540 |
@@ -44,18 +44,18 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,385 |
 | Lust and Debauchery | 1.00% | ~2,385 |
 | Material Girl | 1.00% | ~2,385 |
-| In Navalu's footsteps | 0.90% | ~2,146 |
+| In Navalu's footsteps | 0.90% | ~2,147 |
 | Lëgal Legend | 0.80% | ~1,908 |
-| We come in peace | 0.70% | ~1,669 |
+| We come in peace | 0.70% | ~1,670 |
 | Holistic Adventuring Party | 0.60% | ~1,431 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,431 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,192 |
-| Law and Order | 0.50% | ~1,192 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,193 |
+| Law and Order | 0.50% | ~1,193 |
 | I'd rather... Just... Sing! | 0.40% | ~954 |
 | It's been a hard day's night | 0.40% | ~954 |
-| Friendly fire | 0.30% | ~715 |
-| The number of the counting shalt be 7 | 0.30% | ~715 |
-| Inception | 0.30% | ~715 |
+| Friendly fire | 0.30% | ~716 |
+| The number of the counting shalt be 7 | 0.30% | ~716 |
+| Inception | 0.30% | ~716 |
 | The Blood Countess | 0.20% | ~477 |
 | Free customer service | 0.20% | ~477 |
 | Imposture and Trowels | 0.20% | ~477 |
@@ -64,38 +64,38 @@ Number of Ratings: 118  (23.09.2022)
 | 100% satisfaction guarantee | 0.20% | ~477 |
 | Death is for wimps | 0.20% | ~477 |
 | Demisemiquaver | 0.20% | ~477 |
-| Cursed die | 0.10% | ~238 |
-| Necrophilia | 0.10% | ~238 |
-| He’s alive! Aliiiive! | 0.10% | ~238 |
-| Restless night | 0.10% | ~238 |
-| King of the Arena | 0.10% | ~238 |
-| Finally free | 0.10% | ~238 |
-| Hoarding | 0.10% | ~238 |
-| Staff cut | 0.10% | ~238 |
-| Legendary brew | 0.10% | ~238 |
-| Elite Adventurers | 0.10% | ~238 |
-| Take your time back in time | 0.10% | ~238 |
-| Egghead | 0.10% | ~238 |
-| Deep changes | 0.10% | ~238 |
-| A broken clock… | 0.10% | ~238 |
-| Sleep schedule mastery | 0.10% | ~238 |
-| Cute Dungeon | 0.10% | ~238 |
-| Mystical Dungeon | 0.10% | ~238 |
-| Gloomy Dungeon | 0.10% | ~238 |
-| Power struggle | 0.10% | ~238 |
-| Hit snooze | 0.10% | ~238 |
-| Living legends of the Lands of Fangh | 0.10% | ~238 |
-| Minmaxer | 0.10% | ~238 |
-| Iron Golems Tamer | 0.10% | ~238 |
-| And they lived happily ever after... | 0.10% | ~238 |
-| Star-crossed lovers | 0.10% | ~238 |
-| Pyrrhic victory | 0.10% | ~238 |
-| Super-Ultra-Lydian | 0.10% | ~238 |
-| Lord of the Drunks | 0.10% | ~238 |
-| Dumb and dumber | 0.10% | ~238 |
-| Dwarf Candy | 0.10% | ~238 |
+| Cursed die | 0.10% | ~239 |
+| Necrophilia | 0.10% | ~239 |
+| He’s alive! Aliiiive! | 0.10% | ~239 |
+| Restless night | 0.10% | ~239 |
+| King of the Arena | 0.10% | ~239 |
+| Finally free | 0.10% | ~239 |
+| Hoarding | 0.10% | ~239 |
+| Staff cut | 0.10% | ~239 |
+| Legendary brew | 0.10% | ~239 |
+| Elite Adventurers | 0.10% | ~239 |
+| Take your time back in time | 0.10% | ~239 |
+| Egghead | 0.10% | ~239 |
+| Deep changes | 0.10% | ~239 |
+| A broken clock… | 0.10% | ~239 |
+| Sleep schedule mastery | 0.10% | ~239 |
+| Cute Dungeon | 0.10% | ~239 |
+| Mystical Dungeon | 0.10% | ~239 |
+| Gloomy Dungeon | 0.10% | ~239 |
+| Power struggle | 0.10% | ~239 |
+| Hit snooze | 0.10% | ~239 |
+| Living legends of the Lands of Fangh | 0.10% | ~239 |
+| Minmaxer | 0.10% | ~239 |
+| Iron Golems Tamer | 0.10% | ~239 |
+| And they lived happily ever after... | 0.10% | ~239 |
+| Star-crossed lovers | 0.10% | ~239 |
+| Pyrrhic victory | 0.10% | ~239 |
+| Super-Ultra-Lydian | 0.10% | ~239 |
+| Lord of the Drunks | 0.10% | ~239 |
+| Dumb and dumber | 0.10% | ~239 |
+| Dwarf Candy | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,490 (Ranked 63)  
+Progressed: 238,507 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 7 (0.00%) (Ranked 357)
 | 2023-11-17 | 237,757 | 7 |
 | 2023-11-18 | 238,073 | 7 |
 | 2023-11-19 | 238,375 | 7 |
-| 2023-11-20 | 238,490 | 7 |
+| 2023-11-20 | 238,507 | 7 |
 ## Awards
 Max (Character Customization): 235  (Ranked 272)  
 Sum: 472 (Ranked 330)  

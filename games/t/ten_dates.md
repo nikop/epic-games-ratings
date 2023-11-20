@@ -24,7 +24,7 @@
 | Keep the spark alive | 3.00% | ~9 |
 | Muggy Misha | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 348)  
+Progressed: 295 (Ranked 349)  
 Completed: 4 (1.36%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |

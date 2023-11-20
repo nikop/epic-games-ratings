@@ -16,8 +16,8 @@ Number of Ratings: 292  (23.09.2022)
 | Multi Kill | 2.00% | ~3 |
 | Whoops! | 2.00% | ~3 |
 | Such A Fungi | 2.00% | ~3 |
+| Master | 2.00% | ~3 |
 | Veni, Vidi, Vici | 2.00% | ~3 |
-| Master | 1.00% | ~2 |
 | Expert Essence Employment | 1.00% | ~2 |
 | Venisti, Vidisti, Perdidisti | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |

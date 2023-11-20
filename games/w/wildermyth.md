@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 3.00% | ~44 |
 | The Cost of Heroism | 3.00% | ~44 |
-| Me and My Familiar | 2.00% | ~29 |
 | Gotta Ca... Must Collect All of Them | 2.00% | ~29 |
 | Passing Shadow | 2.00% | ~29 |
 | This Too Shall Pass | 2.00% | ~29 |
@@ -26,12 +26,13 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 0.50% | ~7 |
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
+| No Time for Clawmonsters | 0.40% | ~6 |
 | Chain Reaction | 0.30% | ~4 |
 | Another Tale to Tell | 0.30% | ~4 |
-| No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
 | Plague Doctor | 0.20% | ~3 |
 | Legends Never Die | 0.20% | ~3 |
+| In Soil, In Smoke | 0.20% | ~3 |
 | Everfading | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
@@ -41,7 +42,6 @@ Number of Ratings: 45  (23.09.2022)
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
-| In Soil, In Smoke | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,473 (Ranked 241)  
+Progressed: 1,474 (Ranked 241)  
 Completed: 6 (0.41%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 6 (0.41%) (Ranked 214)
 | 2023-11-17 | 1,468 | 6 |
 | 2023-11-18 | 1,471 | 6 |
 | 2023-11-19 | 1,472 | 6 |
-| 2023-11-20 | 1,473 | 6 |
+| 2023-11-20 | 1,474 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 498)  
 Sum: 29 (Ranked 512)  

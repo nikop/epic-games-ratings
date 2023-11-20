@@ -38,7 +38,7 @@ Rating: 4.49 (Ranked 605)
 | Frontliner | 21.00% | ~769 |
 | The Cable Guy | 21.00% | ~769 |
 | Bandage Lover | 20.00% | ~732 |
-| Regicide | 16.00% | ~586 |
+| Regicide | 17.00% | ~622 |
 | This Went Smoothly | 14.00% | ~512 |
 | Flawless Victory | 13.00% | ~476 |
 | Heavy Steps | 13.00% | ~476 |

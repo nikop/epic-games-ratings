@@ -22,11 +22,11 @@
 | Necromancer's Apprentice | 48.00% | ~10 |
 | Friend of Sevenkeeps | 38.00% | ~8 |
 | Slave to the rhythm | 33.00% | ~7 |
+| Castle Meldec | 29.00% | ~6 |
 | Sevenkeeps Seat of Kings | 29.00% | ~6 |
 | Friend of Gillyshire | 29.00% | ~6 |
 | Break Free | 29.00% | ~6 |
 | Philo's Tale | 24.00% | ~5 |
-| Castle Meldec | 24.00% | ~5 |
 | Friend of Alluvyan | 24.00% | ~5 |
 | Friend of Connach | 24.00% | ~5 |
 | Friend of Bastion | 24.00% | ~5 |

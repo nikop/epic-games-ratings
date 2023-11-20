@@ -15458,9 +15458,9 @@
       "Count": 13257
     }
   ],
-  "EOS_Progressed": 897502,
-  "EOS_Completed": 2792,
-  "EOS_NewPlayers": 940,
+  "EOS_Progressed": 897509,
+  "EOS_Completed": 2793,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39748,6 +39748,11 @@
       "Time": "2023-11-20T17:04:11.5548447+00:00",
       "NumProgressed": 897502,
       "NumCompleted": 2792
+    },
+    {
+      "Time": "2023-11-20T18:03:54.7627647+00:00",
+      "NumProgressed": 897509,
+      "NumCompleted": 2793
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39782,9 +39787,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8078
+      "UsersEstimate": 8975
     },
     {
       "ID": "Denied",
@@ -39974,9 +39979,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 4488
     },
     {
       "ID": "TheHermit",
@@ -40264,7 +40269,7 @@
       "Name": "King of Wands",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TheTower",
@@ -40280,7 +40285,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "EasyComeEasyGo",
@@ -40288,28 +40293,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897502,
-      "Completed": 2792
+      "Progressed": 897509,
+      "Completed": 2793
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26125,
+      "Progressed": 26132,
       "Completed": 10239
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-20T16:59:32.523822+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:04:11.5548444+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:03:54.7627642+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:59:32.5238225+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:04:11.5549883+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:59:28.8359644+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:03:54.7628931+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1008,
-  "Ranking_Popularity": 204,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 299,
@@ -4657,10 +4657,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3064,
       "NumberOfAwardsMax": 540
+    },
+    {
+      "Time": "2023-11-20T17:57:37.3162037+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3066,
+      "NumberOfAwardsMax": 540
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3064,
+  "NumberOfAwards": 3066,
   "NumberOfAwardsMax": 540,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4686,7 +4692,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 511
+      "Count": 513
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4719,9 +4725,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 91340,
+  "EOS_Progressed": 91342,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25919,6 +25925,11 @@
       "Time": "2023-11-20T17:04:15.7387444+00:00",
       "NumProgressed": 91340,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-20T18:03:58.9428861+00:00",
+      "NumProgressed": 91342,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26257,22 +26268,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91340,
+      "Progressed": 91342,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19687,
+      "Progressed": 19689,
       "Completed": 15578
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-20T15:58:15.4455606+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:04:15.7387441+00:00",
+  "LastChanged": "2023-11-20T17:57:37.3162035+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:03:58.9428855+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:57:37.045833+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:04:15.7388436+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:57:37.3162044+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:03:58.9430112+00:00"
 }

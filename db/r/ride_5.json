@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2190,
+  "EOS_Progressed": 2192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5102,6 +5102,11 @@
       "Time": "2023-11-20T16:10:35.6861723+00:00",
       "NumProgressed": 2190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T18:08:49.837446+00:00",
+      "NumProgressed": 2192,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5114,7 +5119,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5122,7 +5127,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5130,7 +5135,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5290,7 +5295,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5314,7 +5319,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -5322,7 +5327,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5402,7 +5407,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5466,7 +5471,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5505,14 +5510,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2190,
+      "Progressed": 2192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:09:28.7872744+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:08:49.8374456+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:59:24.7652552+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:09:28.7873191+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:59:21.0334729+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:08:49.8375048+00:00"
 }

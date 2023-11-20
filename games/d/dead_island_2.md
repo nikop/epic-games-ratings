@@ -33,9 +33,9 @@ Rating: 4.54 (Ranked 524)
 | Slayer Squad | 0.70% | ~5,050 |
 | Ooh, Shiny! | 0.70% | ~5,050 |
 | I Am the Resurrection | 0.70% | ~5,050 |
-| Making Your Mark | 0.60% | ~4,328 |
-| Humanity Distilled | 0.60% | ~4,328 |
-| Max Headroom | 0.60% | ~4,328 |
+| Making Your Mark | 0.60% | ~4,329 |
+| Humanity Distilled | 0.60% | ~4,329 |
+| Max Headroom | 0.60% | ~4,329 |
 | Not Even My Final Form | 0.50% | ~3,607 |
 | Jumbo Keyring | 0.50% | ~3,607 |
 | Down with the Sickness | 0.50% | ~3,607 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,397 (Ranked 20)  
+Progressed: 721,427 (Ranked 20)  
 Completed: 2,420 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,15 +271,15 @@ Completed: 2,420 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,397 | 2,420 |
+| 2023-11-20 | 721,427 | 2,420 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
-Sum: 11,580 (Ranked 84)  
+Sum: 11,582 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,589 |
-| This game is Great for Beginners | 578 |
+| This game is Great for Beginners | 580 |
 | This game has Diverse Characters | 554 |
 | This game has Quickly Understood Controls | 520 |
 | This game is Relaxing | 501 |
@@ -503,4 +503,4 @@ Diff (max vs sum): -33
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
-| 2023-11-20 | 4.54 | 7,589 | 11,580 |
+| 2023-11-20 | 4.54 | 7,589 | 11,582 |

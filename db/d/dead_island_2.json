@@ -6643,10 +6643,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11580,
       "NumberOfAwardsMax": 7589
+    },
+    {
+      "Time": "2023-11-20T18:00:11.9416118+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11582,
+      "NumberOfAwardsMax": 7589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11580,
+  "NumberOfAwards": 11582,
   "NumberOfAwardsMax": 7589,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6672,7 +6678,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 578
+      "Count": 580
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6705,9 +6711,9 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 721397,
+  "EOS_Progressed": 721427,
   "EOS_Completed": 2420,
-  "EOS_NewPlayers": 3444,
+  "EOS_NewPlayers": 3448,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31195,6 +31201,11 @@
       "Time": "2023-11-20T17:03:32.8417631+00:00",
       "NumProgressed": 721397,
       "NumCompleted": 2420
+    },
+    {
+      "Time": "2023-11-20T18:03:16.6611824+00:00",
+      "NumProgressed": 721427,
+      "NumCompleted": 2420
     }
   ],
   "TotalAchievements": 51,
@@ -31214,7 +31225,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "ach_ammo_ran",
@@ -31446,7 +31457,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "ach_revival_tour",
@@ -31502,7 +31513,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "ach_the_vcla",
@@ -31613,22 +31624,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721397,
+      "Progressed": 721427,
       "Completed": 2420
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46939,
+      "Progressed": 46969,
       "Completed": 36573
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-20T13:13:34.791344+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:03:32.8417629+00:00",
+  "LastChanged": "2023-11-20T18:00:11.9416116+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:03:16.661182+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T17:00:17.8267673+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:03:32.8419136+00:00"
+  "LastUpdate_Ratings": "2023-11-20T18:00:11.9416123+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:03:16.6613003+00:00"
 }

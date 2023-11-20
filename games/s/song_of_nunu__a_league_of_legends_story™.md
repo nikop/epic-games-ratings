@@ -22,8 +22,8 @@
 | Rhythm Of Willump | 49.00% | ~369 |
 | The Relentless Storm | 49.00% | ~369 |
 | A Tragic Reminder | 47.00% | ~354 |
-| 3000 Year Blackout | 46.00% | ~347 |
-| The Finisher | 44.00% | ~332 |
+| 3000 Year Blackout | 47.00% | ~354 |
+| The Finisher | 45.00% | ~339 |
 | So Close | 43.00% | ~324 |
 | You Get Used To It | 43.00% | ~324 |
 | True Legends | 42.00% | ~317 |

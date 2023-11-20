@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22869,
+  "EOS_Progressed": 22872,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1518,
+  "EOS_NewPlayers": 1519,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -7213,6 +7213,11 @@
       "Time": "2023-11-20T17:08:39.2098623+00:00",
       "NumProgressed": 22869,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-11-20T18:08:01.1419236+00:00",
+      "NumProgressed": 22872,
+      "NumCompleted": 95
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -7225,7 +7230,7 @@
       "Name": "It Took Two",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "achievement_10",
@@ -7241,7 +7246,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "achievement_12",
@@ -7249,7 +7254,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 13035
+      "UsersEstimate": 13037
     },
     {
       "ID": "achievement_13",
@@ -7265,7 +7270,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "achievement_15",
@@ -7297,7 +7302,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3659
+      "UsersEstimate": 3660
     },
     {
       "ID": "achievement_19",
@@ -7305,7 +7310,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "achievement_2",
@@ -7321,7 +7326,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "achievement_3",
@@ -7329,7 +7334,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 19896
+      "UsersEstimate": 19899
     },
     {
       "ID": "achievement_4",
@@ -7337,7 +7342,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 20125
+      "UsersEstimate": 20127
     },
     {
       "ID": "achievement_5",
@@ -7361,7 +7366,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 17838
+      "UsersEstimate": 17840
     },
     {
       "ID": "achievement_8",
@@ -7369,7 +7374,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "achievement_9",
@@ -7377,20 +7382,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11892
+      "UsersEstimate": 11893
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 22869,
+      "Progressed": 22872,
       "Completed": 95
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:08:39.209862+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:08:01.1419232+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:56.9678677+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:57:08.8290284+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:08:39.2099091+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:57:08.9811608+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:08:01.1419614+00:00"
 }

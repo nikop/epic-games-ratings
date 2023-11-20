@@ -9,11 +9,11 @@ Rating: 4.19 (Ranked 922)
 | Paper Jams | 9.00% | ~1,482 |
 | Flesh Wound | 8.00% | ~1,317 |
 | Float Like A Butterfly | 7.00% | ~1,152 |
+| The Outer Way | 7.00% | ~1,152 |
 | Two Heads Are Better Than One | 6.00% | ~988 |
 | Chew 'Em Up | 6.00% | ~988 |
 | Workplace Hazard | 6.00% | ~988 |
 | Reforged | 6.00% | ~988 |
-| The Outer Way | 6.00% | ~988 |
 | Desperate Times | 6.00% | ~988 |
 | Keep Fighting | 6.00% | ~263 |
 | You Need a Gun | 5.00% | ~823 |

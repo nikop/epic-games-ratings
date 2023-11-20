@@ -109,7 +109,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -929,6 +929,11 @@
       "Time": "2023-11-20T17:08:12.174292+00:00",
       "NumProgressed": 403,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T18:06:15.5639892+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -963,9 +968,9 @@
       "ID": "Archaeologist",
       "SetID": "1n308hc",
       "Name": "Archaeologist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "Balance",
@@ -981,7 +986,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "BreakTheLoop",
@@ -997,7 +1002,7 @@
       "Name": "Bridge Builder",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ChasingTheLight",
@@ -1011,9 +1016,9 @@
       "ID": "Chicken",
       "SetID": "1n308hc",
       "Name": "Chicken",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "CircularOasis",
@@ -1029,7 +1034,7 @@
       "Name": "Desolate Island",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Discovery",
@@ -1037,7 +1042,7 @@
       "Name": "Discovery",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "EasternWetlands",
@@ -1069,7 +1074,7 @@
       "Name": "Flooded Valley",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "GnothiSeauton",
@@ -1093,7 +1098,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "HighPlain",
@@ -1115,9 +1120,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "LordOfTheFiles",
@@ -1133,7 +1138,7 @@
       "Name": "Lost Marshes",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "MistressOfRiddles",
@@ -1195,9 +1200,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 218
     },
     {
       "ID": "Persistent",
@@ -1221,7 +1226,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "RemnantsOfThePast",
@@ -1251,9 +1256,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "SingleRod",
@@ -1285,7 +1290,7 @@
       "Name": "Team Spirit",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "TextAdventurer",
@@ -1331,9 +1336,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "TheThiefOfFire",
@@ -1341,15 +1346,15 @@
       "Name": "The Thief of Fire",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 299
     },
     {
       "ID": "TouchGrass",
@@ -1357,7 +1362,7 @@
       "Name": "Touch Grass",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TrevorsBiographer",
@@ -1379,9 +1384,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "WesternDelta",
@@ -1397,7 +1402,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "YourBiggestFan",
@@ -1405,14 +1410,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 1
     }
   ],
@@ -1420,8 +1425,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:08:12.1742918+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:06:15.5639887+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:58:02.5160077+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:08:12.1743315+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:58:02.2160933+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:06:15.5640351+00:00"
 }

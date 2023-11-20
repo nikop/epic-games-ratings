@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5655,
+  "EOS_Progressed": 5659,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3866,6 +3866,11 @@
       "Time": "2023-11-20T17:09:06.7159882+00:00",
       "NumProgressed": 5655,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T18:08:28.0479203+00:00",
+      "NumProgressed": 5659,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3934,7 +3939,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "FasterThanLight",
@@ -3950,7 +3955,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3958,7 +3963,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "GarbageMan",
@@ -3982,7 +3987,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -4030,7 +4035,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4094,7 +4099,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "UnResurrected",
@@ -4102,7 +4107,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -4149,7 +4154,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5655,
+      "Progressed": 5659,
       "Completed": 7
     }
   ],
@@ -4157,8 +4162,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:09:06.7159879+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:08:28.0479198+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:58:05.2211062+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:09:06.7160158+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:58:05.1279899+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:08:28.0479594+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10791,9 +10791,9 @@
       "Count": 794
     }
   ],
-  "EOS_Progressed": 302479,
+  "EOS_Progressed": 302480,
   "EOS_Completed": 512,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33806,6 +33806,11 @@
       "Time": "2023-11-20T17:09:24.2792143+00:00",
       "NumProgressed": 302479,
       "NumCompleted": 512
+    },
+    {
+      "Time": "2023-11-20T18:08:45.3767463+00:00",
+      "NumProgressed": 302480,
+      "NumCompleted": 512
     }
   ],
   "TotalAchievements": 45,
@@ -34001,7 +34006,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36297
+      "UsersEstimate": 36298
     },
     {
       "ID": "PFA_31",
@@ -34176,7 +34181,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302479,
+      "Progressed": 302480,
       "Completed": 512
     }
   ],
@@ -34184,8 +34189,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-20T15:01:04.3787408+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:09:24.279214+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:08:45.3767459+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:59:51.0186834+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:09:24.2793704+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:59:46.8979391+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:08:45.3768613+00:00"
 }

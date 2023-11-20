@@ -19,6 +19,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 4.00% | ~616 |
 | Strong | 4.00% | ~616 |
 | Hanging Gardens | 4.00% | ~616 |
+| Oracle | 4.00% | ~616 |
 | Ambitious | 3.00% | ~462 |
 | Enlightened | 3.00% | ~462 |
 | Glorious | 3.00% | ~462 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 3.00% | ~462 |
 | Ishtar Gate | 3.00% | ~462 |
 | Lighthouse | 3.00% | ~462 |
-| Oracle | 3.00% | ~462 |
 | Pyramids | 3.00% | ~462 |
 | Learn to Play 1 | 3.00% | ~462 |
 | Christianity | 3.00% | ~462 |
@@ -197,6 +197,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.20% | ~31 |
 | Punic Wars | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
+| Word of God | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
 | Glory to The Aten | 0.20% | ~31 |
 | Akhenaten's Legacy | 0.20% | ~31 |
@@ -286,7 +287,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.10% | ~15 |
 | Colossus in Rhodes | 0.10% | ~15 |
 | Roman Papacy | 0.10% | ~15 |
-| Word of God | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
 | One City Challenge | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,401 (Ranked 150)  
+Progressed: 15,403 (Ranked 150)  
 Completed: 5 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -563,7 +563,7 @@ Completed: 5 (0.03%) (Ranked 319)
 | 2023-11-17 | 15,364 | 5 |
 | 2023-11-18 | 15,379 | 5 |
 | 2023-11-19 | 15,395 | 5 |
-| 2023-11-20 | 15,401 | 5 |
+| 2023-11-20 | 15,403 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 218)  

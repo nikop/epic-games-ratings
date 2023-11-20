@@ -1478,9 +1478,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131006,
+  "EOS_Progressed": 131008,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22433,6 +22433,11 @@
       "Time": "2023-11-20T16:04:08.2655123+00:00",
       "NumProgressed": 131006,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-20T18:03:01.9467072+00:00",
+      "NumProgressed": 131008,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22500,7 +22505,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31441
+      "UsersEstimate": 31442
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22556,7 +22561,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27511
+      "UsersEstimate": 27512
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22763,15 +22768,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131006,
+      "Progressed": 131008,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:03:18.2086178+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:03:01.9467068+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:58:32.5757082+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:03:18.2087609+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:58:32.9649246+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:03:01.9468172+00:00"
 }

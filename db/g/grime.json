@@ -1501,7 +1501,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 159269,
+  "EOS_Progressed": 159276,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 0,
@@ -16391,6 +16391,11 @@
       "Time": "2023-11-20T17:08:13.8550117+00:00",
       "NumProgressed": 159269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T18:07:36.7859807+00:00",
+      "NumProgressed": 159276,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16466,7 +16471,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7963
+      "UsersEstimate": 7964
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -16538,7 +16543,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -16560,9 +16565,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1433
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -16594,7 +16599,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -16602,7 +16607,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -16618,7 +16623,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7963
+      "UsersEstimate": 7964
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -16769,21 +16774,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158852,
+      "Progressed": 158859,
       "Completed": 1212
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159269,
+      "Progressed": 159276,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T23:58:22.9175877+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:08:13.8550112+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:07:36.7859802+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:59:25.579569+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:08:13.8550959+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:59:21.8614813+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:07:36.7860951+00:00"
 }

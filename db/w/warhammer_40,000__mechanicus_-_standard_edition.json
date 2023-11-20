@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -924,9 +924,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227633,
+  "EOS_Progressed": 227636,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24334,6 +24334,11 @@
       "Time": "2023-11-20T16:10:20.6377448+00:00",
       "NumProgressed": 227633,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-20T18:08:38.3630995+00:00",
+      "NumProgressed": 227636,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -24345,7 +24350,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43250
+      "UsersEstimate": 43251
     },
     {
       "ID": "ACH_BASE_10",
@@ -24393,7 +24398,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22763
+      "UsersEstimate": 22764
     },
     {
       "ID": "ACH_BASE_17",
@@ -24616,7 +24621,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227633,
+      "Progressed": 227636,
       "Completed": 5
     }
   ],
@@ -24624,8 +24629,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
-  "LastChanged_Achievements": "2023-11-20T17:09:17.1284758+00:00",
+  "LastChanged_Achievements": "2023-11-20T18:08:38.363099+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.2223415+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:57:15.3605207+00:00",
-  "LastUpdate_Achievements": "2023-11-20T17:09:17.1286113+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:57:15.0449784+00:00",
+  "LastUpdate_Achievements": "2023-11-20T18:08:38.3632106+00:00"
 }
