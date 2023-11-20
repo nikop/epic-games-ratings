@@ -3269,7 +3269,7 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17358,
+  "EOS_Progressed": 17359,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 3,
@@ -13804,6 +13804,11 @@
       "Time": "2023-11-20T19:08:38.5391223+00:00",
       "NumProgressed": 17358,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-20T20:08:44.5264251+00:00",
+      "NumProgressed": 17359,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -13911,7 +13916,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "WinImpossible",
@@ -13975,7 +13980,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "WinNearFishmen",
@@ -14079,7 +14084,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "WinOnCursed",
@@ -14103,7 +14108,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "WinPrestige10",
@@ -14214,15 +14219,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17358,
+      "Progressed": 17359,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-20T16:57:59.3838092+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:08:38.5391217+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:08:44.5264246+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-20T18:58:43.0410387+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:08:38.5392446+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:58:47.0022685+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:08:44.5265344+00:00"
 }

@@ -1537,9 +1537,9 @@
       "ID": "ETUA_RestInPeace",
       "SetID": "65jc0ap",
       "Name": "Rest In Peace",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ETUA_SUPER",
@@ -1674,8 +1674,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:05:09.8755703+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:05:04.0382534+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.9837452+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:00:39.0248638+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:05:09.8756026+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:00:52.3833819+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:05:04.0382837+00:00"
 }

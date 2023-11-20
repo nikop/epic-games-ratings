@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 50.00% | ~84 |
-| Fire in the... nevermind | 50.00% | ~84 |
-| Haute cuisine | 44.00% | ~74 |
-| Demolition expert | 38.00% | ~64 |
-| I didn't do it! | 38.00% | ~64 |
+| Chapter I | 50.00% | ~85 |
+| Fire in the... nevermind | 50.00% | ~85 |
+| Haute cuisine | 45.00% | ~76 |
+| Demolition expert | 39.00% | ~66 |
+| I didn't do it! | 39.00% | ~66 |
 | Keep away from children | 36.00% | ~61 |
-| Open up wide | 34.00% | ~57 |
-| Wooooooow! | 34.00% | ~57 |
-| Artistic fool | 33.00% | ~56 |
+| Open up wide | 35.00% | ~59 |
+| Wooooooow! | 34.00% | ~58 |
+| Artistic fool | 32.00% | ~54 |
 | Let the boot talk | 30.00% | ~51 |
 | Shadow on the wall | 30.00% | ~51 |
 | Chapter II | 25.00% | ~42 |
@@ -20,13 +20,13 @@
 | Bubblekillerfamily | 22.00% | ~37 |
 | Chapter III | 22.00% | ~37 |
 | Like a moth in the Wind | 22.00% | ~37 |
-| Quite a buggy game | 21.00% | ~35 |
-| Achoo!! | 21.00% | ~35 |
+| Quite a buggy game | 21.00% | ~36 |
+| Achoo!! | 21.00% | ~36 |
 | Pacifist | 19.00% | ~32 |
 | Mirror mirror on the wall... | 19.00% | ~32 |
-| Fastidious Clown | 17.00% | ~29 |
 | It's not easy being green! | 17.00% | ~29 |
 | Home is where the heart is | 17.00% | ~29 |
+| Fastidious Clown | 16.00% | ~27 |
 | Death is a part of life | 14.00% | ~24 |
 | To err is human... | 12.00% | ~20 |
 | Master of Thermodynamics | 12.00% | ~20 |
@@ -36,8 +36,8 @@
 | Useless but beautiful | 8.00% | ~14 |
 | Lollipop | 8.00% | ~14 |
 | Where there is life, there is hope | 7.00% | ~12 |
-| It's nothing personal | 7.00% | ~12 |
 | The hands of a healer | 6.00% | ~10 |
+| It's nothing personal | 6.00% | ~10 |
 | Artistic master | 5.00% | ~8 |
 | Sadist | 5.00% | ~8 |
 | Fartjokes! | 5.00% | ~8 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.60% | ~1 |
 | Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 392)  
+Progressed: 170 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 165 | 0 |
 | 2023-11-18 | 167 | 0 |
 | 2023-11-19 | 169 | 0 |
+| 2023-11-20 | 170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

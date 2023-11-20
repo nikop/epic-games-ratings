@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1339,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4359,9 +4359,9 @@
       "ID": "achievement_59",
       "SetID": "d252ncf",
       "Name": "The Prodigal",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_6",
@@ -4607,9 +4607,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_88",
@@ -4731,8 +4731,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:08:26.0333842+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:08:31.5025429+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:03:25.898625+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:08:26.0335514+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:03:14.1666002+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:08:31.5027205+00:00"
 }

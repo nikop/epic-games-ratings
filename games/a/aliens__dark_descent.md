@@ -17,7 +17,7 @@ Rating: 4.49 (Ranked 605)
 | Use The Bumper, That's What It's For | 53.00% | ~1,940 |
 | First Steps Into Madness | 53.00% | ~1,940 |
 | Colonial Barrels | 51.00% | ~1,867 |
-| Harper's Hell | 46.00% | ~1,684 |
+| Harper's Hell | 47.00% | ~1,720 |
 | Making a Stand | 45.00% | ~1,647 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,537 |
 | Where It All Begun | 41.00% | ~1,501 |
@@ -26,7 +26,7 @@ Rating: 4.49 (Ranked 605)
 | The More The Merrier | 35.00% | ~1,281 |
 | Omelette Du Fromage | 34.00% | ~1,244 |
 | The Darwin Era Was Here | 31.00% | ~1,135 |
-| Deep Into Insanity | 29.00% | ~1,061 |
+| Deep Into Insanity | 30.00% | ~1,098 |
 | The Passenger | 29.00% | ~1,061 |
 | Come on, You Wanna Live Forever? | 28.00% | ~1,025 |
 | The Spire | 27.00% | ~988 |

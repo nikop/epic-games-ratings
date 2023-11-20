@@ -5,10 +5,10 @@ Rating: 4.12 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,324 |
-| World Map | 79.00% | ~1,974 |
-| Temple of Eternals | 57.00% | ~1,424 |
-| Prestigious | 54.00% | ~1,349 |
+| Victor | 93.00% | ~2,326 |
+| World Map | 79.00% | ~1,976 |
+| Temple of Eternals | 57.00% | ~1,426 |
+| Prestigious | 54.00% | ~1,351 |
 | Fellowship Power | 42.00% | ~1,050 |
 | Guild Power | 25.00% | ~625 |
 | Prestigious x10 | 22.00% | ~550 |
@@ -75,13 +75,13 @@ Rating: 4.12 (Ranked 962)
 | Training makes a Pro player | 1.00% | ~25 |
 | Transmute | 1.00% | ~25 |
 | Tree of Life | 1.00% | ~25 |
-| Beast War Machines | 0.90% | ~22 |
-| Silverwood liberator | 0.90% | ~22 |
-| Ultimate War Machines | 0.70% | ~17 |
+| Beast War Machines | 0.90% | ~23 |
+| Silverwood liberator | 0.90% | ~23 |
+| Ultimate War Machines | 0.70% | ~18 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,499 (Ranked 216)  
+Progressed: 2,501 (Ranked 216)  
 Completed: 2 (0.08%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 2 (0.08%) (Ranked 292)
 | 2023-11-17 | 2,423 | 2 |
 | 2023-11-18 | 2,456 | 2 |
 | 2023-11-19 | 2,483 | 2 |
-| 2023-11-20 | 2,499 | 2 |
+| 2023-11-20 | 2,501 | 2 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 487)  
 Sum: 82 (Ranked 459)  

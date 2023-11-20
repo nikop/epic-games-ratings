@@ -6,17 +6,17 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,633 |
-| Worker Specialization | 77.00% | ~5,633 |
+| Colonize a Planet | 77.00% | ~5,634 |
+| Worker Specialization | 77.00% | ~5,634 |
 | First Contact | 72.00% | ~5,268 |
-| Win a Battle | 65.00% | ~4,755 |
+| Win a Battle | 65.00% | ~4,756 |
 | Anomaly Researcher | 61.00% | ~4,463 |
 | Unleash My Power | 60.00% | ~4,390 |
-| Own 30 Planets | 33.00% | ~2,414 |
+| Own 30 Planets | 33.00% | ~2,415 |
 | Xenocide | 31.00% | ~2,268 |
 | Design a Civilization | 31.00% | ~2,268 |
 | Commodity Trader | 29.00% | ~2,122 |
-| Design a Ship | 27.00% | ~1,975 |
+| Design a Ship | 27.00% | ~1,976 |
 | Commodity Seller | 24.00% | ~1,756 |
 | Prestige Victory! | 13.00% | ~951 |
 | Galactic War | 10.00% | ~732 |
@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win with a Custom Faction | 6.00% | ~439 |
 | Conquest Victory! | 4.00% | ~293 |
 | Win Quickly | 4.00% | ~293 |
-| Pirate Cleansing | 3.00% | ~219 |
-| Win an Immense Game | 3.00% | ~219 |
+| Pirate Cleansing | 3.00% | ~220 |
+| Win an Immense Game | 3.00% | ~220 |
 | Artifact Mastery | 2.00% | ~146 |
 | Win as Altarians | 2.00% | ~146 |
 | Win as the Yor | 2.00% | ~146 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,316 (Ranked 177)  
+Progressed: 7,317 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,11 +293,11 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 7,294 | 0 |
 | 2023-11-18 | 7,302 | 0 |
 | 2023-11-19 | 7,308 | 0 |
-| 2023-11-20 | 7,316 | 0 |
+| 2023-11-20 | 7,317 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 371)  
-Sum: 681 (Ranked 298)  
-Diff (max vs sum): 73  
+Sum: 681 (Ranked 297)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

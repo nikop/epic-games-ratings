@@ -5,20 +5,20 @@ Rating: 4.67 (Ranked 273)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,479 |
-| On the Top Step | 88.00% | ~5,130 |
-| Setting up for Success | 77.00% | ~4,488 |
-| Team Orders | 75.00% | ~4,372 |
-| Engineer | 55.00% | ~3,206 |
-| Familiar Faces | 48.00% | ~2,798 |
-| Sharing the Love | 42.00% | ~2,448 |
-| Going the Extra Mile | 42.00% | ~2,448 |
-| Hitting a Season | 38.00% | ~2,215 |
+| Getting on the Step | 94.00% | ~5,481 |
+| On the Top Step | 88.00% | ~5,131 |
+| Setting up for Success | 77.00% | ~4,490 |
+| Team Orders | 75.00% | ~4,373 |
+| Engineer | 55.00% | ~3,207 |
+| Familiar Faces | 48.00% | ~2,799 |
+| Sharing the Love | 42.00% | ~2,449 |
+| Going the Extra Mile | 42.00% | ~2,449 |
+| Hitting a Season | 38.00% | ~2,216 |
 | A Dozen Pieces | 33.00% | ~1,924 |
 | Challenge Yourself | 33.00% | ~1,924 |
-| Making History | 31.00% | ~1,807 |
+| Making History | 31.00% | ~1,808 |
 | Network Success | 27.00% | ~1,574 |
-| Writing a new Chapter | 25.00% | ~1,457 |
+| Writing a new Chapter | 25.00% | ~1,458 |
 | Spring Cleaning | 24.00% | ~1,399 |
 | Reduce | 20.00% | ~1,166 |
 | Ups and Downs | 20.00% | ~1,166 |
@@ -33,15 +33,15 @@ Rating: 4.67 (Ranked 273)
 | Hitting a Bullseye | 13.00% | ~758 |
 | Switcheroo | 13.00% | ~758 |
 | Spinning Around | 13.00% | ~758 |
-| All in a Weekend's Work | 12.00% | ~699 |
-| Friendly Competition | 12.00% | ~699 |
+| All in a Weekend's Work | 12.00% | ~700 |
+| Friendly Competition | 12.00% | ~700 |
 | Recycle | 11.00% | ~641 |
 | Tinkerer | 10.00% | ~583 |
 | Undisputed Winner | 9.00% | ~525 |
 | For all Those Back at the Factory | 6.00% | ~350 |
 | Living up to Expectations | 6.00% | ~350 |
 | Smooth Operator | 6.00% | ~350 |
-| Peak Performance | 5.00% | ~291 |
+| Peak Performance | 5.00% | ~292 |
 | Loyal Bond | 4.00% | ~233 |
 | Seasoned Rookie | 3.00% | ~175 |
 | Hitting a Century | 3.00% | ~175 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 273)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,829 (Ranked 185)  
+Progressed: 5,831 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,11 +123,11 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 5,778 | 0 |
 | 2023-11-18 | 5,803 | 0 |
 | 2023-11-19 | 5,825 | 0 |
-| 2023-11-20 | 5,829 | 0 |
+| 2023-11-20 | 5,831 | 0 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 468)  
-Sum: 100 (Ranked 443)  
-Diff (max vs sum): 25  
+Sum: 120 (Ranked 432)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
@@ -135,6 +135,7 @@ Diff (max vs sum): 25
 | This game is Highly Recommended | 22 |
 | This game has Diverse Characters | 22 |
 | This game has a Competitive Community | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -211,3 +212,4 @@ Diff (max vs sum): 25
 | 2023-11-17 | 4.68 | 35 | 78 |
 | 2023-11-18 | 4.66 | 35 | 78 |
 | 2023-11-19 | 4.67 | 36 | 100 |
+| 2023-11-20 | 4.67 | 36 | 120 |

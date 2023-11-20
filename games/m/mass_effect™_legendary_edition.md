@@ -43,13 +43,13 @@
 | The Krogan | 33.00% | ~442 |
 | Ghost Ship | 32.00% | ~428 |
 | The Quarian | 32.00% | ~428 |
+| The Prodigal | 32.00% | ~428 |
 | Broke, Blind, and Bedlam | 32.00% | ~428 |
 | A Personal Touch | 31.00% | ~415 |
 | The Assassin | 31.00% | ~415 |
 | The Justicar | 31.00% | ~415 |
 | Battlemaster | 31.00% | ~415 |
 | Ghost of the Father | 31.00% | ~415 |
-| The Prodigal | 31.00% | ~415 |
 | Galactic Explorer | 31.00% | ~415 |
 | Driven | 31.00% | ~415 |
 | Shopaholic | 31.00% | ~415 |
@@ -90,12 +90,12 @@
 | Party Crasher | 21.00% | ~281 |
 | Last Resort | 20.00% | ~268 |
 | Hard Target | 20.00% | ~268 |
+| Saboteur | 20.00% | ~268 |
 | Fact Finder | 20.00% | ~268 |
 | Problem Solver | 20.00% | ~268 |
 | Pyromaniac | 19.00% | ~254 |
 | Under Pressure | 19.00% | ~254 |
 | No One Left Behind | 19.00% | ~254 |
-| Saboteur | 19.00% | ~254 |
 | Last Witness | 19.00% | ~254 |
 | Well Connected | 19.00% | ~254 |
 | Executioner | 17.00% | ~228 |

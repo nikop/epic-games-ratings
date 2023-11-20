@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-asylum",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 296,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 434,
@@ -1075,6 +1075,6 @@
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
   "LastChanged": "2023-11-20T01:47:37.0267011+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9760339+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:01:07.8377023+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:06:11.2337443+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:01:22.1565728+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:06:08.0532652+00:00"
 }

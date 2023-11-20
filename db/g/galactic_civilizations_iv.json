@@ -4,10 +4,10 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 936,
   "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7316,
+  "EOS_Progressed": 7317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8625,6 +8625,11 @@
       "Time": "2023-11-20T16:09:30.9879685+00:00",
       "NumProgressed": 7316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T20:09:09.8605508+00:00",
+      "NumProgressed": 7317,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8692,7 +8697,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -8740,7 +8745,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "First_Race_Met",
@@ -8756,7 +8761,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "First_Stream_Travel",
@@ -8772,7 +8777,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8852,7 +8857,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "Play_1000_Hours",
@@ -9124,7 +9129,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4755
+      "UsersEstimate": 4756
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -9164,7 +9169,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Win_Influence",
@@ -9211,15 +9216,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7316,
+      "Progressed": 7317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:09:02.7942167+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:09:09.8605502+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:05.0588965+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:01:12.2811916+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:09:02.7942938+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:01:27.0552214+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:09:09.8606725+00:00"
 }

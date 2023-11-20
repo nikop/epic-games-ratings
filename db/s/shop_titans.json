@@ -7129,9 +7129,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140715,
+  "EOS_Progressed": 140719,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29189,6 +29189,11 @@
       "Time": "2023-11-20T19:06:41.4632814+00:00",
       "NumProgressed": 140715,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-20T20:06:40.7365058+00:00",
+      "NumProgressed": 140719,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29280,7 +29285,7 @@
       "Name": "One Easy Payment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "bigsale02",
@@ -29464,7 +29469,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "craft02",
@@ -29552,7 +29557,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "energy02",
@@ -29576,7 +29581,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "expansion02",
@@ -29784,7 +29789,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "level02",
@@ -29976,7 +29981,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "sell02",
@@ -30064,7 +30069,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "workers02",
@@ -30095,15 +30100,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140715,
+      "Progressed": 140719,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-20T00:01:54.2870534+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:06:41.4632808+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:06:40.7365054+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:03:08.1998044+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:06:41.4634642+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:02:55.7541037+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:06:40.7366913+00:00"
 }

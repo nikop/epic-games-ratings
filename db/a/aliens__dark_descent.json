@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -389,7 +389,7 @@
   ],
   "EOS_Progressed": 3660,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6064,9 +6064,9 @@
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1720
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6104,9 +6104,9 @@
       "ID": "ACH_MISSION_08",
       "SetID": "816efe",
       "Name": "Deep Into Insanity",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_MISSION_09",
@@ -6225,8 +6225,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-17T04:58:01.7269194+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:07:56.2349552+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:08:00.0427245+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:00:43.9173081+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:07:56.2349975+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:00:56.839862+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:08:00.0427913+00:00"
 }

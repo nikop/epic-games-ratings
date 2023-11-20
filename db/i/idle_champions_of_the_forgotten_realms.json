@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8129,10 +8129,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32545,
       "NumberOfAwardsMax": 5547
+    },
+    {
+      "Time": "2023-11-20T20:01:47.1276484+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32549,
+      "NumberOfAwardsMax": 5547
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32545,
+  "NumberOfAwards": 32549,
   "NumberOfAwardsMax": 5547,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8146,7 +8152,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5521
+      "Count": 5525
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8179,10 +8185,10 @@
       "Count": 3524
     }
   ],
-  "EOS_Progressed": 236111,
+  "EOS_Progressed": 236117,
   "EOS_Completed": 2463,
-  "EOS_NewPlayers": 1216,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 1214,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32204,6 +32210,11 @@
       "Time": "2023-11-20T19:10:07.6826136+00:00",
       "NumProgressed": 236111,
       "NumCompleted": 2463
+    },
+    {
+      "Time": "2023-11-20T20:10:18.7358457+00:00",
+      "NumProgressed": 236117,
+      "NumCompleted": 2463
     }
   ],
   "TotalAchievements": 532,
@@ -36455,7 +36466,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "objective_completed_1553",
@@ -36470,21 +36481,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202385,
+      "Progressed": 202391,
       "Completed": 3930
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236111,
+      "Progressed": 236117,
       "Completed": 2463
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-20T10:01:42.5507516+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:10:07.6826133+00:00",
+  "LastChanged": "2023-11-20T20:01:47.1276482+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:10:18.7358453+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:01:31.7597986+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:10:07.684742+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:01:47.1276489+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:10:18.7381148+00:00"
 }

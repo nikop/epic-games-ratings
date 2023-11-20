@@ -4,7 +4,7 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 162,
@@ -559,10 +559,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 100,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-20T19:57:26.355901+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 120,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 100,
+  "NumberOfAwards": 120,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -595,11 +601,17 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 20
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 5829,
+  "EOS_Progressed": 5831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5912,6 +5924,11 @@
       "Time": "2023-11-20T18:06:13.0080464+00:00",
       "NumProgressed": 5829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T20:08:28.216585+00:00",
+      "NumProgressed": 5831,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5964,7 +5981,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4490
     },
     {
       "ID": "achievement_0007",
@@ -5972,7 +5989,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5481
     },
     {
       "ID": "achievement_0008",
@@ -5980,7 +5997,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5130
+      "UsersEstimate": 5131
     },
     {
       "ID": "achievement_0009",
@@ -6004,7 +6021,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "achievement_0012",
@@ -6044,7 +6061,7 @@
       "Name": "Hitting a Season",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "achievement_0017",
@@ -6084,7 +6101,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4373
     },
     {
       "ID": "achievement_0022",
@@ -6100,7 +6117,7 @@
       "Name": "Sharing the Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "achievement_0024",
@@ -6124,7 +6141,7 @@
       "Name": "Friendly Competition",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "achievement_0027",
@@ -6180,7 +6197,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "achievement_0034",
@@ -6260,7 +6277,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "achievement_0044",
@@ -6268,7 +6285,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "achievement_0045",
@@ -6276,7 +6293,7 @@
       "Name": "Making History",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "achievement_0046",
@@ -6284,7 +6301,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_0047",
@@ -6292,7 +6309,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_0048",
@@ -6315,16 +6332,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5829,
+      "Progressed": 5831,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-19T23:01:57.8286612+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:08:22.9847429+00:00",
+  "LastChanged": "2023-11-20T19:57:26.3559008+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:08:28.2165848+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-20T18:57:27.2858607+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:08:22.9848326+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:57:26.3559012+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:08:28.2166367+00:00"
 }

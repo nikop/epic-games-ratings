@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,709 |
-| Apprentice | 58.00% | ~385,626 |
-| Close Shave | 25.00% | ~166,218 |
+| The Fool | 72.00% | ~478,710 |
+| Apprentice | 58.00% | ~385,628 |
+| Close Shave | 25.00% | ~166,219 |
 | Mercenary | 23.00% | ~152,921 |
 | Ninja | 23.00% | ~152,921 |
-| Northern Scourge | 17.00% | ~113,028 |
-| Thief Bane | 14.00% | ~93,082 |
+| Northern Scourge | 17.00% | ~113,029 |
+| Thief Bane | 14.00% | ~93,083 |
 | Master of Arms | 12.00% | ~79,785 |
-| Gambler | 10.00% | ~66,487 |
-| Dice Master | 10.00% | ~66,487 |
+| Gambler | 10.00% | ~66,488 |
+| Dice Master | 10.00% | ~66,488 |
 | Swordsman | 9.00% | ~59,839 |
 | Knight | 8.00% | ~53,190 |
 | Cure for Corruption | 8.00% | ~53,190 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~19,946 |
 | Combat Ready | 3.00% | ~19,946 |
 | Stuffed Potato | 3.00% | ~19,946 |
-| Card Sharp | 2.00% | ~13,297 |
-| Magician | 2.00% | ~13,297 |
-| Draknar's Bane | 2.00% | ~13,297 |
+| Card Sharp | 2.00% | ~13,298 |
+| Magician | 2.00% | ~13,298 |
+| Draknar's Bane | 2.00% | ~13,298 |
 | Protector of the Realm | 1.00% | ~6,649 |
 | Purgatorium | 1.00% | ~6,649 |
 | Cursed Soul | 1.00% | ~6,649 |
@@ -45,8 +45,8 @@ Number of Ratings: 780  (23.09.2022)
 | Hero | 0.60% | ~3,989 |
 | Rebel | 0.60% | ~3,989 |
 | Dungeon Master | 0.50% | ~3,324 |
-| Pilgrim | 0.40% | ~2,659 |
-| Smiths Honour | 0.40% | ~2,659 |
+| Pilgrim | 0.40% | ~2,660 |
+| Smiths Honour | 0.40% | ~2,660 |
 | Peaceful Coast | 0.30% | ~1,995 |
 | Money Bags | 0.20% | ~1,330 |
 | Grifter | 0.10% | ~665 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,873 (Ranked 28)  
+Progressed: 664,875 (Ranked 28)  
 Completed: 171 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,17 +269,17 @@ Completed: 171 (0.03%) (Ranked 319)
 | 2023-11-17 | 664,732 | 171 |
 | 2023-11-18 | 664,791 | 171 |
 | 2023-11-19 | 664,846 | 171 |
-| 2023-11-20 | 664,873 | 171 |
+| 2023-11-20 | 664,875 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 470)  
-Sum: 190 (Ranked 404)  
+Sum: 191 (Ranked 404)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
 | This game has Amazing Storytelling | 35 |
 | This game is Highly Recommended | 31 |
-| This game has Amazing Characters | 29 |
+| This game has Amazing Characters | 30 |
 | This game is Great for Beginners | 26 |
 | This game has Quickly Understood Controls | 25 |
 | This game is Extremely Fun | 23 |
@@ -387,3 +387,4 @@ Diff (max vs sum): 66
 | 2023-10-22 | 4.55 | - | 35 | 188 |
 | 2023-10-31 | 4.55 | - | 35 | 189 |
 | 2023-11-16 | 4.55 | - | 35 | 190 |
+| 2023-11-20 | 4.55 | - | 35 | 191 |

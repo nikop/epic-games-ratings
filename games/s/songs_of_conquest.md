@@ -6,8 +6,8 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 29.00% | ~46 |
-| Double Kill | 18.00% | ~28 |
+| Adept | 28.00% | ~45 |
+| Double Kill | 19.00% | ~30 |
 | Critical Hit | 8.00% | ~13 |
 | Veteran | 8.00% | ~13 |
 | Dressed For Success | 5.00% | ~8 |
@@ -18,6 +18,7 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 2.00% | ~3 |
 | Master | 2.00% | ~3 |
 | Veni, Vidi, Vici | 2.00% | ~3 |
+| Coming Through! | 1.00% | ~2 |
 | Expert Essence Employment | 1.00% | ~2 |
 | Venisti, Vidisti, Perdidisti | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |
@@ -27,7 +28,6 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 0.60% | ~1 |
 | Unlimited Power! | 0.60% | ~1 |
 | Fully Charged | 0.60% | ~1 |
-| Coming Through! | 0.60% | ~1 |
 | Deepstrike | 0.60% | ~1 |
 | Infernal Influence | 0.60% | ~1 |
 | Don't Touch My Stuff | 0.60% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157 (Ranked 398)  
+Progressed: 159 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 92 | 0 |
 | 2023-11-18 | 118 | 0 |
 | 2023-11-19 | 146 | 0 |
-| 2023-11-20 | 157 | 0 |
+| 2023-11-20 | 159 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 509)  
 Sum: 194 (Ranked 403)  

@@ -3,8 +3,8 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -3904,6 +3904,11 @@
       "Time": "2023-11-20T19:10:04.7577593+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T20:10:15.8261159+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3938,9 +3943,9 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_13",
@@ -4010,9 +4015,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_21",
@@ -4140,7 +4145,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "achievement_36",
@@ -4170,9 +4175,9 @@
       "ID": "achievement_39",
       "SetID": "271ol84",
       "Name": "Ackbar\u0027s Elite",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_4",
@@ -4188,7 +4193,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "achievement_41",
@@ -4220,7 +4225,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_45",
@@ -4242,9 +4247,9 @@
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_48",
@@ -4419,13 +4424,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 1
     }
   ],
@@ -4433,8 +4438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:10:04.757759+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:10:15.8261153+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-20T19:01:09.0383614+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:10:04.7578158+00:00"
+  "LastUpdate_Ratings": "2023-11-20T20:01:23.466712+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:10:15.8262093+00:00"
 }

@@ -39,7 +39,7 @@
 | Human Believer | 27.00% | ~83 |
 | Canyon of Karakuri | 26.00% | ~80 |
 | Karakuri Minato | 26.00% | ~80 |
-| Threaded Harmony | 24.00% | ~74 |
+| Threaded Harmony | 25.00% | ~77 |
 | Quintessence of Form | 23.00% | ~71 |
 | Jack of All Trades | 22.00% | ~68 |
 | Karakuri Fortress | 21.00% | ~64 |

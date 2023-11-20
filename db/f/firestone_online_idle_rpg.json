@@ -481,9 +481,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2499,
+  "EOS_Progressed": 2501,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7516,6 +7516,11 @@
       "Time": "2023-11-20T18:08:09.0575622+00:00",
       "NumProgressed": 2499,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-20T20:09:18.0591139+00:00",
+      "NumProgressed": 2501,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7567,7 +7572,7 @@
       "Name": "Beast War Machines",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "blueprintupgrades",
@@ -7919,7 +7924,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1351
     },
     {
       "ID": "prestigiousx10",
@@ -7967,7 +7972,7 @@
       "Name": "Silverwood liberator",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "superior",
@@ -7983,7 +7988,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1426
     },
     {
       "ID": "thealchemist",
@@ -8079,7 +8084,7 @@
       "Name": "Ultimate War Machines",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "victor",
@@ -8087,7 +8092,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2326
     },
     {
       "ID": "warmachinesarmy",
@@ -8119,14 +8124,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1976
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2499,
+      "Progressed": 2501,
       "Completed": 2
     }
   ],
@@ -8134,8 +8139,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-20T19:09:10.612885+00:00",
+  "LastChanged_Achievements": "2023-11-20T20:09:18.0591137+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-20T18:59:36.6168631+00:00",
-  "LastUpdate_Achievements": "2023-11-20T19:09:10.6129783+00:00"
+  "LastUpdate_Ratings": "2023-11-20T19:59:44.933674+00:00",
+  "LastUpdate_Achievements": "2023-11-20T20:09:18.0592053+00:00"
 }

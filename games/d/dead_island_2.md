@@ -5,9 +5,10 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~940 |
-| Whatever It Takes | 2.00% | ~940 |
-| Pork Chopped | 2.00% | ~940 |
+| One of Us | 2.00% | ~941 |
+| Whatever It Takes | 2.00% | ~941 |
+| Pork Chopped | 2.00% | ~941 |
+| Dr. Reed, I Presume? | 1.00% | ~7,215 |
 | Git Gutte! | 1.00% | ~7,215 |
 | Break A Leg | 1.00% | ~7,215 |
 | Coup de Grâce | 1.00% | ~7,215 |
@@ -17,7 +18,6 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 1.00% | ~7,215 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,215 |
 | Welcome To Hell-A | 1.00% | ~7,215 |
-| Dr. Reed, I Presume? | 0.90% | ~6,493 |
 | Anger Management | 0.90% | ~6,493 |
 | Bookworm | 0.90% | ~6,493 |
 | But Doctor, I am Butcho | 0.90% | ~6,493 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,458 (Ranked 20)  
+Progressed: 721,492 (Ranked 20)  
 Completed: 2,421 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,10 +271,10 @@ Completed: 2,421 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,458 | 2,421 |
+| 2023-11-20 | 721,492 | 2,421 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
-Sum: 11,584 (Ranked 84)  
+Sum: 11,585 (Ranked 84)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 481 |
 | This game is Extremely Fun | 465 |
 | This game is Highly Recommended | 464 |
-| This game has Amazing Characters | 430 |
+| This game has Amazing Characters | 431 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -503,4 +503,4 @@ Diff (max vs sum): -33
 | 2023-11-17 | 4.54 | 7,519 | 11,470 |
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
-| 2023-11-20 | 4.54 | 7,589 | 11,584 |
+| 2023-11-20 | 4.54 | 7,589 | 11,585 |

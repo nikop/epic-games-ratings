@@ -10,6 +10,7 @@
 | Welcome to the Club | 2.00% | ~2 |
 | A new World ahead | 2.00% | ~2 |
 | Apprentice | 2.00% | ~2 |
+| Defeat Tezuth | 0.80% | ~1 |
 | Don't Cry Wolf | 0.80% | ~1 |
 | The A-Team | 0.80% | ~1 |
 | The Golden Flash | 0.80% | ~1 |
@@ -19,7 +20,6 @@
 | Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Defeat Ingla | 0.00% | ~0 |
-| Defeat Tezuth | 0.00% | ~0 |
 | Defeat Uskol | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Freezing Cold | 0.00% | ~0 |
