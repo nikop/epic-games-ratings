@@ -9,8 +9,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 4.00% | ~35,900 |
 | Gun Fu | 2.00% | ~17,950 |
 | Relic Ruler | 1.00% | ~261 |
-| Full Body Conversion | 0.90% | ~8,077 |
-| True Soldier | 0.90% | ~8,077 |
+| Full Body Conversion | 0.90% | ~8,078 |
+| True Soldier | 0.90% | ~8,078 |
 | Right Back At Ya | 0.80% | ~7,180 |
 | Stanislavski's Method | 0.80% | ~7,180 |
 | All the President's Men | 0.80% | ~209 |
@@ -23,11 +23,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.60% | ~5,385 |
 | Legend of The Afterlife | 0.60% | ~5,385 |
 | Spin Doctor | 0.60% | ~157 |
-| Bushido and Chill | 0.50% | ~4,487 |
-| Christmas Tree Attack | 0.50% | ~4,487 |
-| The High Priestess | 0.50% | ~4,487 |
-| The World | 0.50% | ~4,487 |
-| Judy vs Night City | 0.50% | ~4,487 |
+| Bushido and Chill | 0.50% | ~4,488 |
+| Christmas Tree Attack | 0.50% | ~4,488 |
+| The High Priestess | 0.50% | ~4,488 |
+| The World | 0.50% | ~4,488 |
+| Judy vs Night City | 0.50% | ~4,488 |
 | To Protect and Serve | 0.40% | ~3,590 |
 | Master Crafter | 0.40% | ~3,590 |
 | I Am The Law | 0.40% | ~3,590 |
@@ -35,10 +35,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.40% | ~104 |
 | Dirty Deeds | 0.40% | ~104 |
 | Easy Come, Easy Go | 0.40% | ~104 |
-| To Bad Decisions! | 0.30% | ~2,692 |
-| The Wandering Fool | 0.30% | ~2,692 |
-| The Sun | 0.30% | ~2,692 |
-| Two Heads, One Bullet | 0.30% | ~2,692 |
+| To Bad Decisions! | 0.30% | ~2,693 |
+| The Wandering Fool | 0.30% | ~2,693 |
+| The Sun | 0.30% | ~2,693 |
+| Two Heads, One Bullet | 0.30% | ~2,693 |
 | The Tower | 0.30% | ~78 |
 | Autojock | 0.20% | ~1,795 |
 | Must Be Rats | 0.20% | ~1,795 |
@@ -49,19 +49,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judgement Day | 0.20% | ~52 |
 | King of Pentacles | 0.20% | ~52 |
 | King of Swords | 0.20% | ~52 |
-| City Lights | 0.10% | ~897 |
-| Frequent Flyer | 0.10% | ~897 |
-| Gunslinger | 0.10% | ~897 |
-| Mean Streets | 0.10% | ~897 |
-| Little Tokyo | 0.10% | ~897 |
-| The Wasteland | 0.10% | ~897 |
-| Daemon In The Shell | 0.10% | ~897 |
-| Temperance | 0.10% | ~897 |
-| Rough Landing | 0.10% | ~897 |
-| The Devil | 0.10% | ~897 |
-| Greetings from Pacifica! | 0.10% | ~897 |
-| The Jungle | 0.10% | ~897 |
-| It's Elementary | 0.10% | ~897 |
+| City Lights | 0.10% | ~898 |
+| Frequent Flyer | 0.10% | ~898 |
+| Gunslinger | 0.10% | ~898 |
+| Mean Streets | 0.10% | ~898 |
+| Little Tokyo | 0.10% | ~898 |
+| The Wasteland | 0.10% | ~898 |
+| Daemon In The Shell | 0.10% | ~898 |
+| Temperance | 0.10% | ~898 |
+| Rough Landing | 0.10% | ~898 |
+| The Devil | 0.10% | ~898 |
+| Greetings from Pacifica! | 0.10% | ~898 |
+| The Jungle | 0.10% | ~898 |
+| It's Elementary | 0.10% | ~898 |
 | King of Cups | 0.10% | ~26 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,498 (Ranked 15)  
+Progressed: 897,502 (Ranked 15)  
 Completed: 2,792 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,20 +288,20 @@ Completed: 2,792 (0.31%) (Ranked 233)
 | 2023-11-17 | 897,071 | 2,784 |
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
-| 2023-11-20 | 897,498 | 2,792 |
+| 2023-11-20 | 897,502 | 2,792 |
 ## Awards
-Max (Character Customization): 106,230  (Ranked 9)  
-Sum: 358,168 (Ranked 10)  
+Max (Character Customization): 106,367  (Ranked 9)  
+Sum: 358,377 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 106,230 |
+| This game has Inclusive Character Customization | 106,367 |
 | This game has Great Boss Battles | 77,104 |
 | This game is Great for Beginners | 21,693 |
 | This game has Diverse Characters | 21,275 |
 | This game is Highly Recommended | 20,379 |
 | This game has Amazing Storytelling | 20,251 |
-| This game is Extremely Fun | 19,984 |
+| This game is Extremely Fun | 20,056 |
 | This game has Amazing Characters | 19,855 |
 | This game is Relaxing | 19,116 |
 | This game has Quickly Understood Controls | 19,024 |
@@ -614,4 +614,4 @@ Diff (max vs sum): -1
 | 2023-11-17 | 4.64 | - | 105,891 | 355,372 |
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
 | 2023-11-19 | 4.64 | - | 106,230 | 357,485 |
-| 2023-11-20 | 4.64 | - | 106,230 | 358,168 |
+| 2023-11-20 | 4.64 | - | 106,367 | 358,377 |

@@ -4,7 +4,7 @@
   "ProductSlug": "crimson-dawn-4d855b",
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-14T12:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-05-02T08:58:52.753257+00:00",
   "LastChanged": "2023-05-02T08:58:52.7532571+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.1752394+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:01:21.1967706+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:06:27.0036972+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:59:43.8520067+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:04:56.9438542+00:00"
 }

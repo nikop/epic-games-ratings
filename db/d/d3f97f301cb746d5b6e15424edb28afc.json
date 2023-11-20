@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 997,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2247,9 +2247,9 @@
       "ID": "ACH_FISH",
       "SetID": "5fn8ia4",
       "Name": "Fishy Business",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_WASHCAR_01",
@@ -2439,9 +2439,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 887
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -2471,9 +2471,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 598
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -2519,9 +2519,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 648
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -2679,9 +2679,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 528
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -2934,8 +2934,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:05:27.8337986+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:04:15.5071071+00:00",
   "LastUpdate_AppInfo": "2023-11-13T16:57:20.2714163+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:00:24.5909623+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:05:27.8338772+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:59:04.6166203+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:04:15.5071801+00:00"
 }

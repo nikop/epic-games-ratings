@@ -2,12 +2,12 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 660,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN,KR,HK,MO,TW,TH,VN,ID,PH,MY,SG,KH,LA,BN,MM"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "NumberOfRatings": 14652,
   "RatingHistory": [
     {
@@ -13982,10 +13982,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 97356,
       "NumberOfAwardsMax": 12364
+    },
+    {
+      "Time": "2023-11-20T16:59:43.7342461+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 97360,
+      "NumberOfAwardsMax": 12364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97356,
+  "NumberOfAwards": 97360,
   "NumberOfAwardsMax": 12364,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14035,7 +14041,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7589
+      "Count": 7593
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14067,8 +14073,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-11-20T15:00:53.7305162+00:00",
+  "LastChanged": "2023-11-20T16:59:43.7342459+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.0741929+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:01:21.0127879+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:03:47.3735602+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:59:43.7342465+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:03:03.4012725+00:00"
 }

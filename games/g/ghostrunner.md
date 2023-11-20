@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~91 |
 | Up Close And Personal | 0.40% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,864 (Ranked 130)  
+Progressed: 22,864 (Ranked 131)  
 Completed: 87 (0.38%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |

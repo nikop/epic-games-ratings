@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19806,
+  "EOS_Progressed": 19807,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17363,6 +17363,11 @@
       "Time": "2023-11-20T16:07:53.5261906+00:00",
       "NumProgressed": 19806,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-20T17:05:59.3145212+00:00",
+      "NumProgressed": 19807,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -17430,7 +17435,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10497
+      "UsersEstimate": 10498
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -17485,15 +17490,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19806,
+      "Progressed": 19807,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:07:53.5261904+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:05:59.3145209+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.612501+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:59:46.7175058+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:07:53.5262543+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:58:39.4000793+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:05:59.3145965+00:00"
 }

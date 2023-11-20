@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13062,
+  "EOS_Progressed": 13064,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10767,6 +10767,11 @@
       "Time": "2023-11-20T16:09:40.2590528+00:00",
       "NumProgressed": 13062,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-20T17:08:47.8549264+00:00",
+      "NumProgressed": 13064,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10827,7 +10832,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "a_19",
@@ -10867,7 +10872,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "a_23",
@@ -11026,7 +11031,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13062,
+      "Progressed": 13064,
       "Completed": 11
     }
   ],
@@ -11034,8 +11039,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:09:40.2590522+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:08:47.8549263+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:03:19.5020138+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:09:40.2591369+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:02:44.7858144+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:08:47.8549759+00:00"
 }

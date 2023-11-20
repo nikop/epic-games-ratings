@@ -394,9 +394,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -418,9 +418,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -626,9 +626,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -650,9 +650,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -730,9 +730,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -937,8 +937,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:05:11.3773905+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:04:03.8749435+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:03:13.4281254+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:05:11.3774448+00:00"
+  "LastUpdate_Ratings": "2023-11-20T17:02:40.7437615+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:04:03.8750177+00:00"
 }

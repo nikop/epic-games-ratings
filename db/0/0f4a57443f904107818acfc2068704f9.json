@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 122,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -687,6 +687,11 @@
       "Time": "2023-11-20T16:04:44.8886075+00:00",
       "NumProgressed": 294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T17:03:44.5445618+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -715,7 +720,7 @@
       "Name": "Chosen Victor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -753,9 +758,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "CompleteChapter10",
@@ -763,15 +768,15 @@
       "Name": "You da Boss, Now",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter12",
@@ -779,7 +784,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter13",
@@ -787,7 +792,7 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter14",
@@ -801,9 +806,9 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteChapter16",
@@ -841,9 +846,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "CompleteChapter3",
@@ -859,7 +864,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CompleteChapter5",
@@ -899,7 +904,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -994,14 +999,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:04:44.888607+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:03:44.5445615+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:01:17.8754831+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:04:44.8886323+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:59:41.3186073+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:03:44.5445866+00:00"
 }

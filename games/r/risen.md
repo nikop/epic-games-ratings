@@ -1,48 +1,48 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.57 (Ranked 469)  
+Rating: 4.57 (Ranked 470)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 95.00% | ~39 |
-| Map reader | 83.00% | ~34 |
-| Philanthropist | 76.00% | ~31 |
-| Adventurer | 73.00% | ~30 |
-| The brave little tailor | 56.00% | ~23 |
-| Archer | 56.00% | ~23 |
-| Field hand | 54.00% | ~22 |
-| Samaritan | 54.00% | ~22 |
-| Well-to-do | 51.00% | ~21 |
-| The merciful one | 46.00% | ~19 |
-| Ladies' man | 46.00% | ~19 |
-| Ferocious wild boars | 37.00% | ~15 |
-| Wise man | 34.00% | ~14 |
-| Family man | 32.00% | ~13 |
-| Beast slayer | 32.00% | ~13 |
-| Idiot | 32.00% | ~13 |
-| Ogre friend | 29.00% | ~12 |
-| Hard worker | 29.00% | ~12 |
-| The fourth triplet | 29.00% | ~12 |
-| Master detective | 29.00% | ~12 |
-| Death of a legend | 27.00% | ~11 |
-| Archaeologist | 27.00% | ~11 |
-| Pandora's box | 27.00% | ~11 |
-| Peacekeeper | 27.00% | ~11 |
-| Little hero | 24.00% | ~10 |
-| Defender | 24.00% | ~10 |
-| Ghost hunter | 22.00% | ~9 |
-| Sidelined | 22.00% | ~9 |
-| Workaholic | 20.00% | ~8 |
-| Showdown | 17.00% | ~7 |
-| Safecracker | 17.00% | ~7 |
-| Master thief | 17.00% | ~7 |
-| Fence | 17.00% | ~7 |
-| Freedom fighter | 15.00% | ~6 |
+| Beginner | 93.00% | ~40 |
+| Map reader | 81.00% | ~35 |
+| Philanthropist | 74.00% | ~32 |
+| Adventurer | 72.00% | ~31 |
+| The brave little tailor | 56.00% | ~24 |
+| Archer | 56.00% | ~24 |
+| Field hand | 53.00% | ~23 |
+| Samaritan | 53.00% | ~23 |
+| Well-to-do | 49.00% | ~21 |
+| The merciful one | 47.00% | ~20 |
+| Ladies' man | 47.00% | ~20 |
+| Ferocious wild boars | 35.00% | ~15 |
+| Wise man | 33.00% | ~14 |
+| Family man | 30.00% | ~13 |
+| Beast slayer | 30.00% | ~13 |
+| Idiot | 30.00% | ~13 |
+| Ogre friend | 28.00% | ~12 |
+| Hard worker | 28.00% | ~12 |
+| The fourth triplet | 28.00% | ~12 |
+| Master detective | 28.00% | ~12 |
+| Death of a legend | 26.00% | ~11 |
+| Archaeologist | 26.00% | ~11 |
+| Pandora's box | 26.00% | ~11 |
+| Peacekeeper | 26.00% | ~11 |
+| Little hero | 23.00% | ~10 |
+| Defender | 23.00% | ~10 |
+| Ghost hunter | 21.00% | ~9 |
+| Sidelined | 21.00% | ~9 |
+| Workaholic | 19.00% | ~8 |
+| Fence | 19.00% | ~8 |
+| Showdown | 16.00% | ~7 |
+| Safecracker | 16.00% | ~7 |
+| Master thief | 16.00% | ~7 |
+| Freedom fighter | 14.00% | ~6 |
 | Titan Lord | 12.00% | ~5 |
 | Moneybags | 12.00% | ~5 |
-| The traveler | 10.00% | ~4 |
-| King of the handymen | 10.00% | ~4 |
+| The traveler | 9.00% | ~4 |
+| King of the handymen | 9.00% | ~4 |
 | Terror of the hens | 7.00% | ~3 |
 | Expert | 7.00% | ~3 |
 | King Midas | 7.00% | ~3 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 469)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 500)  
+Progressed: 43 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-15 | 39 | 0 |
 | 2023-11-17 | 40 | 0 |
 | 2023-11-18 | 41 | 0 |
+| 2023-11-20 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

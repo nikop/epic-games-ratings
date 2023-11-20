@@ -2819,9 +2819,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 664213,
+  "EOS_Progressed": 664216,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1928,
+  "EOS_NewPlayers": 1919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27239,6 +27239,11 @@
       "Time": "2023-11-20T16:10:09.0851748+00:00",
       "NumProgressed": 664213,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-20T17:09:08.9562897+00:00",
+      "NumProgressed": 664216,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -27290,7 +27295,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119558
+      "UsersEstimate": 119559
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -27346,7 +27351,7 @@
       "Name": "Expert Voyager",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "_01_13_DISTANCE_1000_HARD",
@@ -27498,7 +27503,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112916
+      "UsersEstimate": 112917
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -27538,7 +27543,7 @@
       "Name": "Shopaholic",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "_04_00_COLLECTOR",
@@ -27570,7 +27575,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106274
+      "UsersEstimate": 106275
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -27634,7 +27639,7 @@
       "Name": "Dynamite Fishing",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4649
+      "UsersEstimate": 4650
     },
     {
       "ID": "_13_00_FIREWORKS",
@@ -27665,15 +27670,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 664213,
+      "Progressed": 664216,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-19T16:02:19.7490617+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:10:09.0851743+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:09:08.9562893+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.4182742+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:57:57.2787188+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:10:09.0853489+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:57:25.2214499+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:09:08.956439+00:00"
 }

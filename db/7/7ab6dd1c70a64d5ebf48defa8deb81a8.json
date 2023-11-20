@@ -929,9 +929,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_22",
@@ -1009,9 +1009,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_33",
@@ -1064,8 +1064,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:10:32.3568085+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:09:25.7478568+00:00",
   "LastUpdate_AppInfo": "2023-11-13T18:57:14.352806+00:00",
-  "LastUpdate_Ratings": "2023-11-20T16:00:52.3913539+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:10:32.3568337+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:59:24.1566656+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:09:25.7478811+00:00"
 }

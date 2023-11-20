@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -11550,9 +11550,9 @@
       "ID": "ACH_06",
       "SetID": "9d4cf4c",
       "Name": "Leaving all Behind",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 9213
+      "UsersEstimate": 9073
     },
     {
       "ID": "ACH_07",
@@ -11799,8 +11799,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-18T18:58:13.2063363+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:07:08.1174805+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:05:26.7609859+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.4734517+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:59:33.5497758+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:07:08.1175571+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:58:29.598375+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:05:26.7610601+00:00"
 }

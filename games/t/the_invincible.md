@@ -12,7 +12,7 @@
 | The Condor | 19.00% | ~35 |
 | The End | 19.00% | ~35 |
 | The Necroevolution | 18.00% | ~33 |
-| On her own | 12.00% | ~22 |
+| On her own | 13.00% | ~24 |
 | Peacemaker | 12.00% | ~22 |
 | The Alliance | 12.00% | ~22 |
 | Volcanologist | 12.00% | ~22 |

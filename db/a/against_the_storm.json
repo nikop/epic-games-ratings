@@ -3195,18 +3195,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 3223,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2023-11-20T16:57:59.3838094+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3224,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3223,
-  "NumberOfAwardsMax": 439,
+  "NumberOfAwards": 3224,
+  "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 439
+      "Count": 440
     },
     {
       "Text": "This game is Relaxing",
@@ -3263,9 +3269,9 @@
       "Count": 326
     }
   ],
-  "EOS_Progressed": 17356,
+  "EOS_Progressed": 17357,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -13788,6 +13794,11 @@
       "Time": "2023-11-20T16:09:05.7430508+00:00",
       "NumProgressed": 17356,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-20T17:08:22.5784348+00:00",
+      "NumProgressed": 17357,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 50,
@@ -13917,9 +13928,9 @@
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 868
     },
     {
       "ID": "WinNearBarren",
@@ -14198,15 +14209,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17356,
+      "Progressed": 17357,
       "Completed": 56
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-20T03:57:51.3538478+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:09:05.7430503+00:00",
+  "LastChanged": "2023-11-20T16:57:59.3838092+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:08:22.5784346+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.2424074+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:58:48.5232949+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:09:05.7431188+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:57:59.3838098+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:08:22.5785241+00:00"
 }

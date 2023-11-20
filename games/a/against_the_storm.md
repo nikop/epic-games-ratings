@@ -14,6 +14,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 6.00% | ~1,041 |
 | Coral Forest | 6.00% | ~1,041 |
 | The Scarlet Orchard | 6.00% | ~1,041 |
+| Bandit Camp | 5.00% | ~868 |
 | Ancient Battleground | 5.00% | ~868 |
 | Sparkdew Crystals | 5.00% | ~868 |
 | Royal Outpost | 5.00% | ~868 |
@@ -24,7 +25,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 4.00% | ~694 |
 | Against All Odds | 4.00% | ~694 |
 | Ruined Armory | 4.00% | ~694 |
-| Bandit Camp | 4.00% | ~694 |
 | Barren Lands | 4.00% | ~694 |
 | Haunted Forest | 4.00% | ~694 |
 | Levitating Monument | 4.00% | ~694 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,356 (Ranked 144)  
+Progressed: 17,357 (Ranked 144)  
 Completed: 56 (0.32%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,14 +271,14 @@ Completed: 56 (0.32%) (Ranked 232)
 | 2023-11-17 | 17,329 | 56 |
 | 2023-11-18 | 17,342 | 56 |
 | 2023-11-19 | 17,352 | 56 |
-| 2023-11-20 | 17,356 | 56 |
+| 2023-11-20 | 17,357 | 56 |
 ## Awards
-Max (Quickly Understood Controls): 439  (Ranked 222)  
-Sum: 3,223 (Ranked 172)  
+Max (Quickly Understood Controls): 440  (Ranked 222)  
+Sum: 3,224 (Ranked 172)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 439 |
+| This game has Quickly Understood Controls | 440 |
 | This game is Relaxing | 429 |
 | This game is Great for Beginners | 419 |
 | This game is Extremely Fun | 407 |
@@ -524,4 +524,4 @@ Diff (max vs sum): 50
 | 2023-11-17 | 4.81 | - | 439 | 3,217 |
 | 2023-11-18 | 4.81 | - | 439 | 3,220 |
 | 2023-11-19 | 4.81 | - | 439 | 3,222 |
-| 2023-11-20 | 4.81 | - | 439 | 3,223 |
+| 2023-11-20 | 4.81 | - | 440 | 3,224 |

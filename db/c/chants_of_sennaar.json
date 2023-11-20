@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 5.65,
   "EosHistory": [
@@ -2645,6 +2645,11 @@
       "Time": "2023-11-20T15:06:13.4086534+00:00",
       "NumProgressed": 619,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-20T17:05:06.1136651+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2664,7 +2669,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "META_ALL_LINK",
@@ -2712,7 +2717,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2792,15 +2797,15 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 192
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2855,14 +2860,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-20T16:06:39.3678451+00:00",
+  "LastChanged_Achievements": "2023-11-20T17:05:06.1136649+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-20T15:57:35.6626702+00:00",
-  "LastUpdate_Achievements": "2023-11-20T16:06:39.3678743+00:00"
+  "LastUpdate_Ratings": "2023-11-20T16:57:11.0682187+00:00",
+  "LastUpdate_Achievements": "2023-11-20T17:05:06.1136905+00:00"
 }

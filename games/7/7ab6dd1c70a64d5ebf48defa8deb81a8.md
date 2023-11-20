@@ -15,12 +15,12 @@
 | Calm before the Storm | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |
 | Tributes of Caladrias | 4.00% | ~8 |
+| Big Bazar | 4.00% | ~8 |
+| Stone Collection | 4.00% | ~8 |
 | The Collector | 4.00% | ~8 |
 | Shatter Them All | 3.00% | ~6 |
-| Big Bazar | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Fashion Victim | 3.00% | ~6 |
-| Stone Collection | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | The Mentor | 2.00% | ~4 |
