@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,036 |
-| Basic in Bulk | 5.00% | ~7,036 |
-| Titan's First Steps | 5.00% | ~7,036 |
+| Sponsored by Argon | 5.00% | ~7,037 |
+| Basic in Bulk | 5.00% | ~7,037 |
+| Titan's First Steps | 5.00% | ~7,037 |
 | Tinkle of Coins | 4.00% | ~5,629 |
 | One Easy Payment | 3.00% | ~4,222 |
 | Disintermediation | 3.00% | ~4,222 |
@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,407 |
 | Did we pack lunch? | 1.00% | ~1,407 |
 | Magical Harmony | 1.00% | ~1,407 |
+| Special Ingredient | 1.00% | ~1,407 |
 | Arcane Industries | 1.00% | ~1,407 |
 | A Notch Above the Rest | 0.90% | ~1,267 |
 | The King's Caprice | 0.90% | ~1,267 |
@@ -64,12 +65,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.90% | ~1,267 |
 | Scourge of the Seas | 0.90% | ~1,267 |
 | Black Friday Special | 0.90% | ~1,267 |
-| Special Ingredient | 0.90% | ~1,267 |
 | Complete Monopoly | 0.90% | ~1,267 |
 | Cream of the Crop | 0.80% | ~1,126 |
 | Proud Paladin | 0.80% | ~1,126 |
 | Above the Norm | 0.80% | ~1,126 |
 | A Ronin Reborn | 0.80% | ~1,126 |
+| Archivist | 0.80% | ~1,126 |
 | Omae wa Mou Shindeiru | 0.80% | ~1,126 |
 | Master of Transmutation | 0.80% | ~1,126 |
 | Supercharged | 0.80% | ~1,126 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.70% | ~985 |
 | Thirst for Knowledge | 0.70% | ~985 |
 | Booty by the Boatload | 0.70% | ~985 |
-| Archivist | 0.70% | ~985 |
 | Fillin' the Bin | 0.70% | ~985 |
 | Industrial Evolution | 0.70% | ~985 |
 | Ritualist | 0.70% | ~985 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~281 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,726 (Ranked 80)  
+Progressed: 140,731 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 188 (0.13%) (Ranked 268)
 | 2023-11-17 | 140,316 | 187 |
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
-| 2023-11-20 | 140,726 | 188 |
+| 2023-11-20 | 140,731 | 188 |
 ## Awards
 Max (Great for Beginners): 4,836  (Ranked 74)  
 Sum: 27,570 (Ranked 50)  

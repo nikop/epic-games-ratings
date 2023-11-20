@@ -3,12 +3,12 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 126,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 549,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5668,
+  "EOS_Progressed": 5669,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3891,6 +3891,11 @@
       "Time": "2023-11-20T22:08:40.6336965+00:00",
       "NumProgressed": 5668,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T23:09:18.9504434+00:00",
+      "NumProgressed": 5669,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3959,7 +3964,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "FasterThanLight",
@@ -4007,7 +4012,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -4119,7 +4124,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "UnResurrected",
@@ -4174,7 +4179,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5668,
+      "Progressed": 5669,
       "Completed": 7
     }
   ],
@@ -4182,8 +4187,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:08:40.6336962+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:09:18.9504431+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:58:07.3430639+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:08:40.6337326+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:58:35.2900171+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:09:18.9504832+00:00"
 }

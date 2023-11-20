@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 252664,
+  "EOS_Progressed": 252667,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24518,6 +24518,11 @@
       "Time": "2023-11-20T22:06:09.6899973+00:00",
       "NumProgressed": 252664,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T23:06:49.8706697+00:00",
+      "NumProgressed": 252667,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -24529,7 +24534,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68219
+      "UsersEstimate": 68220
     },
     {
       "ID": "ACH_AON",
@@ -24593,7 +24598,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32846
+      "UsersEstimate": 32847
     },
     {
       "ID": "ACH_HATTRICK",
@@ -24745,7 +24750,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63166
+      "UsersEstimate": 63167
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -24801,7 +24806,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17686
+      "UsersEstimate": 17687
     },
     {
       "ID": "ACH_MEMESMART",
@@ -24849,7 +24854,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63166
+      "UsersEstimate": 63167
     },
     {
       "ID": "ACH_SOREAD",
@@ -24944,7 +24949,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 252664,
+      "Progressed": 252667,
       "Completed": 7
     }
   ],
@@ -24952,8 +24957,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:06:09.6899969+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:06:49.8706695+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.0454426+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:57:19.3412269+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:06:09.6902166+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:57:40.5273405+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:06:49.8708776+00:00"
 }

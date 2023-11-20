@@ -6,25 +6,25 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,385 |
+| Longrunner | 76.00% | ~17,386 |
 | Sword Runner | 61.00% | ~13,954 |
-| Running out of breath | 54.00% | ~12,352 |
+| Running out of breath | 54.00% | ~12,353 |
 | Wallrunner | 53.00% | ~12,124 |
 | Homerunner | 45.00% | ~10,294 |
 | Out of order | 44.00% | ~10,065 |
-| I call it luck | 43.00% | ~9,836 |
+| I call it luck | 43.00% | ~9,837 |
 | Where are my Keys? | 40.00% | ~9,150 |
 | Back to hell | 37.00% | ~8,464 |
 | Perfection | 32.00% | ~7,320 |
-| Why not both | 30.00% | ~6,862 |
+| Why not both | 30.00% | ~6,863 |
 | Sword to a gunfight | 29.00% | ~6,634 |
 | Upgrades not mandatory | 29.00% | ~6,634 |
 | Artificial selection | 28.00% | ~6,405 |
-| Control freak | 27.00% | ~6,176 |
-| Running Wild | 27.00% | ~6,176 |
+| Control freak | 27.00% | ~6,177 |
+| Running Wild | 27.00% | ~6,177 |
 | Finish line | 26.00% | ~5,948 |
-| Unstoppable force | 22.00% | ~5,032 |
-| Wave of mutilation | 22.00% | ~5,032 |
+| Unstoppable force | 22.00% | ~5,033 |
+| Wave of mutilation | 22.00% | ~5,033 |
 | Can't Run Can't Hide | 16.00% | ~3,660 |
 | R is for Running | 16.00% | ~3,660 |
 | Dead in the air | 15.00% | ~3,431 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strike | 12.00% | ~2,745 |
 | More than human | 11.00% | ~2,516 |
 | Triple A | 9.00% | ~2,059 |
-| Fine addition | 6.00% | ~1,372 |
-| One Of Those Days | 6.00% | ~1,372 |
+| Fine addition | 6.00% | ~1,373 |
+| One Of Those Days | 6.00% | ~1,373 |
 | Where He Stood | 5.00% | ~1,144 |
 | Push it to the limit | 4.00% | ~915 |
 | Scrapped | 4.00% | ~915 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~92 |
 | Up Close And Personal | 0.40% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,875 (Ranked 131)  
+Progressed: 22,876 (Ranked 131)  
 Completed: 87 (0.38%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 87 (0.38%) (Ranked 221)
 | 2023-11-17 | 22,706 | 85 |
 | 2023-11-18 | 22,772 | 87 |
 | 2023-11-19 | 22,837 | 87 |
-| 2023-11-20 | 22,875 | 87 |
+| 2023-11-20 | 22,876 | 87 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 207)  
 Sum: 751 (Ranked 286)  

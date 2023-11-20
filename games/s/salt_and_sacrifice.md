@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 830)  
+Rating: 4.31 (Ranked 829)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -41,9 +41,9 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Dragon | 30.00% | ~20,152 |
 | The Dracomancer | 30.00% | ~20,152 |
 | Well Stocked | 28.00% | ~18,808 |
+| The Kinetomancer | 28.00% | ~18,808 |
 | The Umbramancer | 28.00% | ~18,808 |
 | Chaos Hunger | 27.00% | ~18,136 |
-| The Kinetomancer | 27.00% | ~18,136 |
 | The Sanguimancer | 27.00% | ~18,136 |
 | The Luminimancer | 26.00% | ~17,465 |
 | The Bibliomancer | 25.00% | ~16,793 |

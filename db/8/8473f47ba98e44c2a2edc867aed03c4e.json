@@ -3,12 +3,12 @@
   "Name": "Warhammer: Chaos And Conquest",
   "ProductSlug": "warhammer-939868",
   "Ranking_Rating": 1009,
-  "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 549,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2019-11-18T09:00:00+00:00",
@@ -49,6 +49,6 @@
   "FirstSeenRating": "2023-11-16T13:59:57.3096202+00:00",
   "LastChanged": "2023-11-16T13:59:57.3096203+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:19.8647506+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:58:45.561987+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:05:05.9833712+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:59:18.1573417+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:05:38.2904707+00:00"
 }

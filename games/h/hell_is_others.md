@@ -1,12 +1,12 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 746)  
+Rating: 4.39 (Ranked 747)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~80,161 |
-| Predator I | 23.00% | ~59,474 |
+| Predator I | 23.00% | ~59,475 |
 | Fixer I | 10.00% | ~25,858 |
 | A week in Century City | 10.00% | ~25,858 |
 | The Wait | 7.00% | ~18,101 |
@@ -18,8 +18,8 @@ Rating: 4.39 (Ranked 746)
 | Pacifist | 4.00% | ~10,343 |
 | Vandalism | 4.00% | ~10,343 |
 | Capitalist I | 4.00% | ~10,343 |
-| Fixer II | 3.00% | ~7,757 |
-| Adrenaline | 3.00% | ~7,757 |
+| Fixer II | 3.00% | ~7,758 |
+| Adrenaline | 3.00% | ~7,758 |
 | By a hair | 2.00% | ~5,172 |
 | It took a while | 2.00% | ~5,172 |
 | Samurai | 2.00% | ~5,172 |
@@ -37,7 +37,7 @@ Rating: 4.39 (Ranked 746)
 | Run the Economy | 1.00% | ~2,586 |
 | Committed Relationship | 0.80% | ~2,069 |
 | Number 1 | 0.80% | ~2,069 |
-| Interior designer | 0.60% | ~1,551 |
+| Interior designer | 0.60% | ~1,552 |
 | The Gamble | 0.50% | ~1,293 |
 | The Descent | 0.50% | ~1,293 |
 | A major purchase | 0.50% | ~1,293 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 746)
 | Capitalist III | 0.10% | ~259 |
 | Hell Is You | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,583 (Ranked 58)  
+Progressed: 258,585 (Ranked 58)  
 Completed: 3 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 3 (0.00%) (Ranked 357)
 | 2023-11-17 | 258,480 | 3 |
 | 2023-11-18 | 258,514 | 3 |
 | 2023-11-19 | 258,549 | 3 |
-| 2023-11-20 | 258,583 | 3 |
+| 2023-11-20 | 258,585 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 432)  
 Sum: 347 (Ranked 353)  

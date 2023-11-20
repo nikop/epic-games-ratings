@@ -8,27 +8,27 @@ Rating: 4.54 (Ranked 525)
 | One of Us | 2.00% | ~942 |
 | Whatever It Takes | 2.00% | ~942 |
 | Pork Chopped | 2.00% | ~942 |
-| Dr. Reed, I Presume? | 1.00% | ~7,215 |
-| Git Gutte! | 1.00% | ~7,215 |
-| Break A Leg | 1.00% | ~7,215 |
-| Coup de Grâce | 1.00% | ~7,215 |
-| Hazardous Materials | 1.00% | ~7,215 |
-| Friends Like These | 1.00% | ~7,215 |
-| Hotel California | 1.00% | ~7,215 |
-| Apex Predator | 1.00% | ~7,215 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,215 |
-| Welcome To Hell-A | 1.00% | ~7,215 |
+| Dr. Reed, I Presume? | 1.00% | ~7,216 |
+| Git Gutte! | 1.00% | ~7,216 |
+| Break A Leg | 1.00% | ~7,216 |
+| Coup de Grâce | 1.00% | ~7,216 |
+| Hazardous Materials | 1.00% | ~7,216 |
+| Friends Like These | 1.00% | ~7,216 |
+| Hotel California | 1.00% | ~7,216 |
+| Apex Predator | 1.00% | ~7,216 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,216 |
+| Welcome To Hell-A | 1.00% | ~7,216 |
 | Anger Management | 0.90% | ~6,494 |
 | Bookworm | 0.90% | ~6,494 |
 | But Doctor, I am Butcho | 0.90% | ~6,494 |
 | Stacking the Deck | 0.90% | ~6,494 |
 | This is My Weapon | 0.90% | ~6,494 |
-| Slayer Squad | 0.80% | ~5,772 |
-| Can't Handle the Truth | 0.80% | ~5,772 |
-| Like Riding a Bike | 0.80% | ~5,772 |
-| Zombologist | 0.80% | ~5,772 |
-| A Patton Emerges | 0.80% | ~5,772 |
-| Our True Nature | 0.80% | ~5,772 |
+| Slayer Squad | 0.80% | ~5,773 |
+| Can't Handle the Truth | 0.80% | ~5,773 |
+| Like Riding a Bike | 0.80% | ~5,773 |
+| Zombologist | 0.80% | ~5,773 |
+| A Patton Emerges | 0.80% | ~5,773 |
+| Our True Nature | 0.80% | ~5,773 |
 | Perks of the Job | 0.70% | ~5,051 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,051 |
 | Ooh, Shiny! | 0.70% | ~5,051 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 525)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,548 (Ranked 20)  
+Progressed: 721,571 (Ranked 20)  
 Completed: 2,421 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,421 (0.34%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,548 | 2,421 |
+| 2023-11-20 | 721,571 | 2,421 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,585 (Ranked 84)  

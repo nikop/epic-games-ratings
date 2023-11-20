@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 815,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205716,
+  "EOS_Progressed": 205719,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23328,6 +23328,11 @@
       "Time": "2023-11-20T22:05:46.1950652+00:00",
       "NumProgressed": 205716,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-11-20T23:06:23.6621698+00:00",
+      "NumProgressed": 205719,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 29,
@@ -23363,7 +23368,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193373
+      "UsersEstimate": 193376
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23411,7 +23416,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6171
+      "UsersEstimate": 6172
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -23507,7 +23512,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6171
+      "UsersEstimate": 6172
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -23539,7 +23544,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16457
+      "UsersEstimate": 16458
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -23570,7 +23575,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205716,
+      "Progressed": 205719,
       "Completed": 530
     }
   ],
@@ -23578,8 +23583,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:05:46.1950648+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:06:23.6621695+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:58:06.5281195+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:05:46.195198+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:58:34.4264123+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:06:23.6622849+00:00"
 }

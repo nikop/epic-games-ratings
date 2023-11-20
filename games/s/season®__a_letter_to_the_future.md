@@ -22,7 +22,7 @@
 | Graffiti Artist | 10.00% | ~130 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,305 (Ranked 245)  
-Completed: 59 (4.52%) (Ranked 80)  
+Completed: 59 (4.52%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

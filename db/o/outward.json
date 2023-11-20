@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -525,7 +525,7 @@
   ],
   "EOS_Progressed": 3668,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5709,9 +5709,9 @@
       "ID": "HouseofCards_19",
       "SetID": "c4hee28",
       "Name": "House of Cards",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 293
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -5941,8 +5941,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:03:24.6836465+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:03:46.2569897+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:58:47.4354748+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:03:24.6837036+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:59:20.244467+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:03:46.257045+00:00"
 }

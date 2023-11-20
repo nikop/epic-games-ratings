@@ -9,10 +9,10 @@
 | Hoarder | 33.00% | ~370 |
 | Blobmeister | 27.00% | ~303 |
 | Exhaustive Explorer | 27.00% | ~303 |
-| Pest Control | 26.00% | ~291 |
+| Pest Control | 26.00% | ~292 |
 | How Low Can We Go? | 24.00% | ~269 |
-| Team Builder | 21.00% | ~235 |
-| Long Live Rock | 16.00% | ~179 |
+| Team Builder | 20.00% | ~224 |
+| Long Live Rock | 16.00% | ~180 |
 | Aggressive Antivirus | 15.00% | ~168 |
 | Effective Efficiency | 14.00% | ~157 |
 | Unblurred Lines | 12.00% | ~135 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,121 (Ranked 255)  
+Progressed: 1,122 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 1,109 | 0 |
 | 2023-11-18 | 1,114 | 0 |
 | 2023-11-19 | 1,118 | 0 |
-| 2023-11-20 | 1,121 | 0 |
+| 2023-11-20 | 1,122 | 0 |

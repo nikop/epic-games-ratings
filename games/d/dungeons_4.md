@@ -50,7 +50,7 @@
 | Sabotage! | 10.00% | ~32 |
 | Raiders of the Lost Stone | 10.00% | ~32 |
 | The Rune Sockets of Finitude (Part 1) | 9.00% | ~29 |
-| Mirror, Mirror | 7.00% | ~22 |
+| Mirror, Mirror | 8.00% | ~25 |
 | Untouchable | 7.00% | ~22 |
 | Lavalumps on Ice! | 7.00% | ~22 |
 | Rubble and Ashes | 7.00% | ~22 |

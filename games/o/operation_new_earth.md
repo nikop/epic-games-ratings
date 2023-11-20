@@ -15,8 +15,8 @@ Rating: 3.26 (Ranked 1,044)
 | Getting Deployment | 10.00% | ~187 |
 | Stocking Up | 10.00% | ~187 |
 | On Target | 10.00% | ~187 |
+| Infantry Reporting | 10.00% | ~187 |
 | Keeping Busy | 9.00% | ~168 |
-| Infantry Reporting | 9.00% | ~168 |
 | Fighting for Survival | 8.00% | ~149 |
 | Silver Competitor | 8.00% | ~149 |
 | Captain | 8.00% | ~149 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22875,
+  "EOS_Progressed": 22876,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24655,6 +24655,11 @@
       "Time": "2023-11-20T21:05:22.5392692+00:00",
       "NumProgressed": 22875,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-20T23:06:11.1437502+00:00",
+      "NumProgressed": 22876,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -24722,7 +24727,7 @@
       "Name": "Fine addition",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "FinishLine",
@@ -24762,7 +24767,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 9836
+      "UsersEstimate": 9837
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -24802,7 +24807,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17385
+      "UsersEstimate": 17386
     },
     {
       "ID": "MoreThanHuman",
@@ -24818,7 +24823,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "ObedientMachine",
@@ -24842,7 +24847,7 @@
       "Name": "One Of Those Days",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "OutOfOrder",
@@ -24890,7 +24895,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12352
+      "UsersEstimate": 12353
     },
     {
       "ID": "RunningWild",
@@ -24898,7 +24903,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "Scrapped",
@@ -24962,7 +24967,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -24994,7 +24999,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "WhereAreMyKeys",
@@ -25018,28 +25023,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6862
+      "UsersEstimate": 6863
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22875,
+      "Progressed": 22876,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22875,
+      "Progressed": 22876,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:05:35.3155485+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:06:11.1437497+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:59:04.8587498+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:05:35.3157194+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:59:40.1310742+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:06:11.1438883+00:00"
 }

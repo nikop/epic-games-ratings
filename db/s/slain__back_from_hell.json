@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40690,
+  "EOS_Progressed": 40692,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
@@ -23683,6 +23683,11 @@
       "Time": "2023-11-20T22:05:10.7025234+00:00",
       "NumProgressed": 40690,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-20T23:05:43.5013955+00:00",
+      "NumProgressed": 40692,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -23766,7 +23771,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -23846,7 +23851,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -23854,7 +23859,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -23925,7 +23930,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40690,
+      "Progressed": 40692,
       "Completed": 26
     }
   ],
@@ -23933,8 +23938,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:05:10.7025231+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:05:43.5013952+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.2430708+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:57:59.8960739+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:05:10.70265+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:58:26.9309843+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:05:43.501488+00:00"
 }

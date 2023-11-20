@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4053,9 +4053,9 @@
       "Count": 1076
     }
   ],
-  "EOS_Progressed": 79364,
+  "EOS_Progressed": 79366,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -28348,6 +28348,11 @@
       "Time": "2023-11-20T22:08:16.7808756+00:00",
       "NumProgressed": 79364,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-20T23:08:52.7078861+00:00",
+      "NumProgressed": 79366,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -28415,7 +28420,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5556
     },
     {
       "ID": "complete_all_of_wanted",
@@ -28439,7 +28444,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5556
     },
     {
       "ID": "complete_final_mission",
@@ -28463,7 +28468,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 25396
+      "UsersEstimate": 25397
     },
     {
       "ID": "complete_mission_1",
@@ -28471,7 +28476,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 36507
+      "UsersEstimate": 36508
     },
     {
       "ID": "customize_a_vehicle",
@@ -28527,7 +28532,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7936
+      "UsersEstimate": 7937
     },
     {
       "ID": "empire_tier_2",
@@ -28543,7 +28548,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 15079
+      "UsersEstimate": 15080
     },
     {
       "ID": "empire_tier_4",
@@ -28559,7 +28564,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5556
     },
     {
       "ID": "first_building_placed",
@@ -28567,7 +28572,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 26190
+      "UsersEstimate": 26191
     },
     {
       "ID": "fully_complete_a_building",
@@ -28583,7 +28588,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7936
+      "UsersEstimate": 7937
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -28607,7 +28612,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 28571
+      "UsersEstimate": 28572
     },
     {
       "ID": "hit_max_level",
@@ -28655,7 +28660,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27777
+      "UsersEstimate": 27778
     },
     {
       "ID": "one_third_purple",
@@ -28711,7 +28716,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 21428
+      "UsersEstimate": 21429
     },
     {
       "ID": "two_thirds_purple",
@@ -28743,7 +28748,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 33333
+      "UsersEstimate": 33334
     },
     {
       "ID": "whole_map_purple",
@@ -28782,22 +28787,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 79364,
+      "Progressed": 79366,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 51001,
-      "Completed": 4350
+      "Progressed": 51003,
+      "Completed": 4351
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-20T05:03:12.0152292+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:08:16.7808753+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:08:52.7078857+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:50.0708943+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:02:49.6886552+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:08:16.7810297+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:03:06.0458119+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:08:52.7080164+00:00"
 }

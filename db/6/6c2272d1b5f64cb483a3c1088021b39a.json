@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4274,9 +4274,9 @@
       "ID": "call_of_mana_2",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 2",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "call_of_mana_3",
@@ -4753,8 +4753,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:09:01.9057857+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:09:42.474957+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:57:13.6467013+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:09:01.9058432+00:00"
+  "LastUpdate_Ratings": "2023-11-20T22:57:34.0371586+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:09:42.4750127+00:00"
 }

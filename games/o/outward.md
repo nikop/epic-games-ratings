@@ -26,7 +26,7 @@ Number of Ratings: 266  (23.09.2022)
 | Magic is a science | 9.00% | ~330 |
 | Ace Detective | 8.00% | ~293 |
 | Gift from the Ancestors | 8.00% | ~293 |
-| House of Cards | 7.00% | ~257 |
+| House of Cards | 8.00% | ~293 |
 | Let ‘em eat magma! | 7.00% | ~257 |
 | The power of ambition | 7.00% | ~257 |
 | The stuff of legends. | 7.00% | ~257 |

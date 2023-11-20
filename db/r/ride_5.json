@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2194,
+  "EOS_Progressed": 2195,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -5117,6 +5117,11 @@
       "Time": "2023-11-20T20:10:15.6058604+00:00",
       "NumProgressed": 2194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T23:09:43.0194879+00:00",
+      "NumProgressed": 2195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5129,7 +5134,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5201,7 +5206,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5417,7 +5422,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5425,7 +5430,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5433,7 +5438,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5481,7 +5486,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5520,14 +5525,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2194,
+      "Progressed": 2195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:09:02.4958898+00:00",
+  "LastChanged_Achievements": "2023-11-20T23:09:43.0194876+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-20T21:59:24.9855868+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:09:02.4959352+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:00:02.8582572+00:00",
+  "LastUpdate_Achievements": "2023-11-20T23:09:43.0195339+00:00"
 }

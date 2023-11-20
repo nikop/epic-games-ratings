@@ -1,25 +1,25 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 746)  
+Rating: 4.39 (Ranked 747)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~30,566 |
-| IT MAKES BOOM! | 7.00% | ~21,396 |
-| EXTRA BOOST | 5.00% | ~15,283 |
-| PROTECTED | 4.00% | ~12,226 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,170 |
-| AGGRESSIVE RACER | 3.00% | ~9,170 |
-| PRO | 3.00% | ~9,170 |
-| A TIGER'S FEAR | 2.00% | ~6,113 |
+| ROOKIE | 10.00% | ~30,574 |
+| IT MAKES BOOM! | 7.00% | ~21,402 |
+| EXTRA BOOST | 5.00% | ~15,287 |
+| PROTECTED | 4.00% | ~12,230 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,172 |
+| AGGRESSIVE RACER | 3.00% | ~9,172 |
+| PRO | 3.00% | ~9,172 |
+| A TIGER'S FEAR | 2.00% | ~6,115 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,057 |
 | ACE SPEEDSTER | 1.00% | ~3,057 |
-| RELEASE THE KRAKEN | 0.90% | ~2,751 |
-| BE OUR GUEST | 0.80% | ~2,445 |
-| FRIENDLY | 0.80% | ~2,445 |
-| MASTER | 0.80% | ~2,445 |
-| LEGENDARY HERO | 0.80% | ~2,445 |
+| RELEASE THE KRAKEN | 0.90% | ~2,752 |
+| BE OUR GUEST | 0.80% | ~2,446 |
+| FRIENDLY | 0.80% | ~2,446 |
+| MASTER | 0.80% | ~2,446 |
+| LEGENDARY HERO | 0.80% | ~2,446 |
 | TRAINING HARD | 0.70% | ~2,140 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,140 |
 | THE EYE OF THE HUNTER | 0.70% | ~2,140 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 746)
 | ACE TRICKSTER | 0.30% | ~917 |
 | PERFECTLY POISED | 0.20% | ~611 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,656 (Ranked 53)  
+Progressed: 305,742 (Ranked 53)  
 Completed: 312 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,21 +240,21 @@ Completed: 312 (0.10%) (Ranked 279)
 | 2023-11-17 | 300,625 | 296 |
 | 2023-11-18 | 302,536 | 303 |
 | 2023-11-19 | 304,467 | 306 |
-| 2023-11-20 | 305,656 | 312 |
+| 2023-11-20 | 305,742 | 312 |
 ## Awards
 Max (Great for Beginners): 77  (Ranked 394)  
-Sum: 595 (Ranked 312)  
-Diff (max vs sum): 82  
+Sum: 598 (Ranked 311)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 77 |
 | This game has Diverse Characters | 71 |
 | This game is Great for Quick Sessions | 69 |
 | This game has Amazing Characters | 50 |
+| This game has Playful Visuals | 46 |
 | This game has Competitive Players | 44 |
 | This game is Highly Recommended | 43 |
 | This game has a Competitive Community | 43 |
-| This game has Playful Visuals | 43 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Amazing Storytelling | 39 |
 | This game is Extremely Fun | 39 |
@@ -312,4 +312,4 @@ Diff (max vs sum): 82
 | 2023-11-17 | 4.39 | 72 | 567 |
 | 2023-11-18 | 4.39 | 74 | 573 |
 | 2023-11-19 | 4.39 | 77 | 587 |
-| 2023-11-20 | 4.39 | 77 | 595 |
+| 2023-11-20 | 4.39 | 77 | 598 |
