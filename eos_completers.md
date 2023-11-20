@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.59% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.83% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.79% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -55,11 +55,11 @@
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.60% |
 | 54 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.51% |
 | 55 | [Anna's Quest](games/a/anna's_quest.md) | 7.50% |
-| 56 | [Sonic Origins](games/s/sonic_origins.md) | 7.45% |
+| 56 | [Sonic Origins](games/s/sonic_origins.md) | 7.44% |
 | 57 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 58 | [Scorn](games/s/scorn.md) | 6.92% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.65% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.64% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.32% |
@@ -68,9 +68,9 @@
 | 64 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.25% |
 | 67 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.24% |
 | 68 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 68 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.65% |
-| 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
+| 69 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.65% |
+| 70 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
+| 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [JARS](games/j/jars.md) | 5.21% |
 | 73 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.00% |
 | 74 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
@@ -85,7 +85,7 @@
 | 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 84 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 85 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.91% |
+| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.00% |
 | 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.88% |
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 89 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
@@ -99,7 +99,7 @@
 | 95 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
 | 98 | [Doodle God](games/d/doodle_god.md) | 3.19% |
 | 99 | [The Complex](games/t/the_complex.md) | 3.14% |
-| 100 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.11% |
+| 100 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.10% |
 | 101 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 102 | [HordeCore](games/h/hordecore.md) | 3.04% |
 | 103 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 3.03% |
@@ -116,8 +116,8 @@
 | 114 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.62% |
 | 115 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.54% |
 | 116 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
-| 117 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.50% |
 | 117 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 118 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.47% |
 | 119 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 121 | [Bloodshore](games/b/bloodshore.md) | 2.35% |
@@ -228,9 +228,9 @@
 | 225 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.35% |
 | 225 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 228 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
-| 228 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.34% |
-| 230 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
-| 230 | [Them and Us](games/t/them_and_us.md) | 0.33% |
+| 229 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
+| 229 | [Them and Us](games/t/them_and_us.md) | 0.33% |
+| 229 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.33% |
 | 232 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
 | 233 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 233 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
