@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130666,
+  "EOS_Progressed": 130667,
   "EOS_Completed": 1125,
-  "EOS_NewPlayers": 1109,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -24602,6 +24602,11 @@
       "Time": "2023-11-20T01:51:43.1356935+00:00",
       "NumProgressed": 130666,
       "NumCompleted": 1125
+    },
+    {
+      "Time": "2023-11-20T02:27:17.6490733+00:00",
+      "NumProgressed": 130667,
+      "NumCompleted": 1125
     }
   ],
   "TotalAchievements": 34,
@@ -24669,7 +24674,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 104533
+      "UsersEstimate": 104534
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -24685,7 +24690,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 73173
+      "UsersEstimate": 73174
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -24693,7 +24698,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36586
+      "UsersEstimate": 36587
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -24701,7 +24706,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 52266
+      "UsersEstimate": 52267
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -24789,7 +24794,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36586
+      "UsersEstimate": 36587
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -24821,7 +24826,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 32666
+      "UsersEstimate": 32667
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -24884,7 +24889,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 130666,
+      "Progressed": 130667,
       "Completed": 1125
     }
   ],
@@ -24892,8 +24897,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:51:43.1356932+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:27:17.6490729+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:50:33.4318405+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:51:43.1358021+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:26:19.9251925+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:27:17.6492301+00:00"
 }

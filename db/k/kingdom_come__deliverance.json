@@ -8703,9 +8703,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809090,
+  "EOS_Progressed": 809092,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 878,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32683,6 +32683,11 @@
       "Time": "2023-11-20T01:55:59.0734861+00:00",
       "NumProgressed": 809090,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-20T02:31:55.3595535+00:00",
+      "NumProgressed": 809092,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -32718,7 +32723,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129454
+      "UsersEstimate": 129455
     },
     {
       "ID": "Awakening",
@@ -32742,7 +32747,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40454
+      "UsersEstimate": 40455
     },
     {
       "ID": "Bailiff",
@@ -32798,7 +32803,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48545
+      "UsersEstimate": 48546
     },
     {
       "ID": "Cavalier",
@@ -32806,7 +32811,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202272
+      "UsersEstimate": 202273
     },
     {
       "ID": "Chivalrous",
@@ -33118,7 +33123,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40454
+      "UsersEstimate": 40455
     },
     {
       "ID": "NotSoChristianBurial",
@@ -33222,7 +33227,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40454
+      "UsersEstimate": 40455
     },
     {
       "ID": "Sinner",
@@ -33349,15 +33354,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809090,
+      "Progressed": 809092,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-19T23:03:08.4936742+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:55:59.0734858+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:31:55.3595529+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:50:47.1387895+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:55:59.07365+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:26:36.0167039+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:31:55.3597592+00:00"
 }

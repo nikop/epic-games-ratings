@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 232,
+  "Ranking_Rating": 252,
   "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 210,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 111,
   "RatingHistory": [
     {
@@ -1115,10 +1115,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 552,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-11-20T02:21:02.4962493+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 553,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 552,
+  "NumberOfAwards": 553,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1138,7 +1144,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6112,9 +6118,9 @@
       "ID": "ACH_TIGHT-LIPSLIDES",
       "SetID": "72olkc5",
       "Name": "Tight lipslides",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -6175,9 +6181,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-11-17T05:00:38.1518058+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:53:56.4834026+00:00",
+  "LastChanged": "2023-11-20T02:21:02.4962491+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:29:46.565131+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:03.7815887+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:45:40.6303771+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:53:56.4834463+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:21:02.4962496+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:29:46.5651754+00:00"
 }

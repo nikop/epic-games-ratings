@@ -39,7 +39,7 @@
 | Meatballs, coming up! | 29.00% | ~37 |
 | I'm going to get a concussion | 29.00% | ~37 |
 | Another one bites the iron | 27.00% | ~35 |
-| Ripe Meat Off The Bone! | 25.00% | ~32 |
+| Ripe Meat Off The Bone! | 26.00% | ~34 |
 | Kleptomaniac | 25.00% | ~32 |
 | A Megapint...? | 23.00% | ~30 |
 | Hovering around | 23.00% | ~30 |

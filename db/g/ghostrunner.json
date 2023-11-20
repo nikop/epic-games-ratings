@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22840,
+  "EOS_Progressed": 22841,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24575,6 +24575,11 @@
       "Time": "2023-11-20T01:53:26.4916822+00:00",
       "NumProgressed": 22840,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-20T02:29:13.0655247+00:00",
+      "NumProgressed": 22841,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -24618,7 +24623,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "DeadInTheAir",
@@ -24650,7 +24655,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 5938
+      "UsersEstimate": 5939
     },
     {
       "ID": "GRProjectComplete",
@@ -24682,7 +24687,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 9821
+      "UsersEstimate": 9822
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -24722,7 +24727,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17358
+      "UsersEstimate": 17359
     },
     {
       "ID": "MoreThanHuman",
@@ -24730,7 +24735,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "Neuromancer",
@@ -24802,7 +24807,7 @@
       "Name": "R is for Running",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "RunningOutOfBreath",
@@ -24858,7 +24863,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13932
+      "UsersEstimate": 13933
     },
     {
       "ID": "SwordToAGunfight",
@@ -24906,7 +24911,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 12105
+      "UsersEstimate": 12106
     },
     {
       "ID": "WaveOfMutilation",
@@ -24945,21 +24950,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22840,
+      "Progressed": 22841,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22840,
+      "Progressed": 22841,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:53:26.4916819+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:29:13.0655242+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:46:59.1458395+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:53:26.4918014+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:22:31.9242219+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:29:13.0657157+00:00"
 }

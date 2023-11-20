@@ -23,8 +23,8 @@
 | Evacuation | 9.00% | ~16 |
 | I remember everything! | 8.00% | ~14 |
 | Violent solution | 6.00% | ~11 |
+| The Invincible | 6.00% | ~11 |
 | Innate curiosity | 6.00% | ~11 |
-| The Invincible | 5.00% | ~9 |
 | Ubiquitous holes | 3.00% | ~5 |
 | Strong objection | 3.00% | ~5 |
 | Another giant | 2.00% | ~4 |

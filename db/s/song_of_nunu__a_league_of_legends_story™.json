@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 751,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -1738,9 +1738,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 533
     },
     {
       "ID": "EV_ACH34",
@@ -1786,9 +1786,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 300
     },
     {
       "ID": "EV_ACH40",
@@ -1841,8 +1841,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:57:12.9632279+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:32:54.4203121+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.8843412+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:47:24.550418+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:57:12.9632553+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:23:01.0312005+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:32:54.4203424+00:00"
 }

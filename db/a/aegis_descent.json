@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 419,
+  "EOS_Progressed": 420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -390,6 +390,11 @@
       "Time": "2023-11-12T04:03:44.7978402+00:00",
       "NumProgressed": 419,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T02:27:02.2657176+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -401,7 +406,7 @@
       "Name": "Batteries Included",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Award_BigSpender",
@@ -441,7 +446,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -615,9 +620,9 @@
       "ID": "Award_PerkKing",
       "SetID": "9ojec6n",
       "Name": "Perk King",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "Award_Perky",
@@ -649,7 +654,7 @@
       "Name": "Scavenger",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Award_ShellShock",
@@ -745,14 +750,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 419,
+      "Progressed": 420,
       "Completed": 1
     }
   ],
@@ -760,8 +765,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:51:29.3240576+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:27:02.265717+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:07.6510615+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:47:30.3627011+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:51:29.3240853+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:23:07.6606581+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:27:02.2657661+00:00"
 }

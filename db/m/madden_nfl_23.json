@@ -829,9 +829,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3529,
+  "EOS_Progressed": 3530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5669,6 +5669,11 @@
       "Time": "2023-11-20T01:53:37.768526+00:00",
       "NumProgressed": 3529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T02:29:25.9707781+00:00",
+      "NumProgressed": 3530,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5689,7 +5694,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "achievement_11",
@@ -5713,7 +5718,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_14",
@@ -5721,7 +5726,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "achievement_15",
@@ -5737,7 +5742,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "achievement_17",
@@ -5848,7 +5853,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3529,
+      "Progressed": 3530,
       "Completed": 0
     }
   ],
@@ -5856,8 +5861,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-19T23:00:06.5978852+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:53:37.7685257+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:29:25.9707777+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:47:12.6362951+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:53:37.768555+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:22:47.4681289+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:29:25.970816+00:00"
 }

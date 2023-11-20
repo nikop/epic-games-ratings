@@ -6,20 +6,20 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~44,454 |
-| Initial Capital | 67.00% | ~37,231 |
-| Moneybags | 45.00% | ~25,006 |
-| Junior Supply Officer | 45.00% | ~25,006 |
-| Naval Warfare. Arson | 34.00% | ~18,893 |
-| Naval Warfare. Ramming | 33.00% | ~18,337 |
-| Amateur | 31.00% | ~17,226 |
-| Naval Warfare. Tactics | 31.00% | ~17,226 |
-| Naval Constructor | 31.00% | ~17,226 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,781 |
-| Naval Warfare. Lucky Shot | 20.00% | ~11,114 |
-| Naval Warfare. Flooding | 19.00% | ~10,558 |
+| Junior Naval Designer | 80.00% | ~44,458 |
+| Initial Capital | 67.00% | ~37,234 |
+| Moneybags | 45.00% | ~25,008 |
+| Junior Supply Officer | 45.00% | ~25,008 |
+| Naval Warfare. Arson | 34.00% | ~18,895 |
+| Naval Warfare. Ramming | 33.00% | ~18,339 |
+| Amateur | 31.00% | ~17,228 |
+| Naval Warfare. Tactics | 31.00% | ~17,228 |
+| Naval Constructor | 31.00% | ~17,228 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,782 |
+| Naval Warfare. Lucky Shot | 20.00% | ~11,115 |
+| Naval Warfare. Flooding | 19.00% | ~10,559 |
 | Business Magnate | 17.00% | ~9,447 |
-| Battle Hero | 16.00% | ~8,891 |
+| Battle Hero | 16.00% | ~8,892 |
 | Warrior | 13.00% | ~7,224 |
 | Supply Officer | 13.00% | ~7,224 |
 | Smooth Supply | 13.00% | ~7,224 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~56 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,568 (Ranked 107)  
+Progressed: 55,573 (Ranked 107)  
 Completed: 0 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 0 (0.00%) (Ranked 356)
 | 2023-11-17 | 54,768 | 0 |
 | 2023-11-18 | 55,174 | 0 |
 | 2023-11-19 | 55,542 | 0 |
-| 2023-11-20 | 55,568 | 0 |
+| 2023-11-20 | 55,573 | 0 |
 ## Awards
 Max (Relaxing): 1,522  (Ranked 130)  
 Sum: 12,730 (Ranked 79)  

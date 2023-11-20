@@ -13,12 +13,12 @@
 | It's a Deal! | 10.00% | ~2 |
 | In the Name of the Law | 5.00% | ~1 |
 | Au Revoir, Abudin | 5.00% | ~1 |
+| Mysterious Bungalow | 5.00% | ~1 |
 | Mummy Nightmare | 5.00% | ~1 |
 | Barking Dog | 5.00% | ~1 |
 | Cat Lover | 5.00% | ~1 |
 | Dynamite, Treason and Coconuts | 5.00% | ~1 |
 | Save a Friend | 5.00% | ~1 |
-| Mysterious Bungalow | 0.00% | ~0 |
 | The Eyes! | 0.00% | ~0 |
 | Keep the Doctor Away | 0.00% | ~0 |
 | Just a Palm Tree | 0.00% | ~0 |

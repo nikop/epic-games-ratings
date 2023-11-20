@@ -577,9 +577,9 @@
       "ID": "AchvDoom",
       "SetID": "1hj060c",
       "Name": "The Invincible",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvEvacuate",
@@ -744,8 +744,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:55:58.2378059+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:31:54.4321571+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:45:41.3396631+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:55:58.2378265+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:21:03.3144676+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:31:54.4321778+00:00"
 }

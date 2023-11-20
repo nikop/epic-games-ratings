@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21568,
+  "EOS_Progressed": 21569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2128,
+  "EOS_NewPlayers": 2121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7224,6 +7224,11 @@
       "Time": "2023-11-20T01:57:15.5514422+00:00",
       "NumProgressed": 21568,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T02:32:57.305659+00:00",
+      "NumProgressed": 21569,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -7388,7 +7393,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "achievement_28",
@@ -7460,7 +7465,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 20490
+      "UsersEstimate": 20491
     },
     {
       "ID": "achievement_36",
@@ -7492,7 +7497,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "achievement_4",
@@ -7596,7 +7601,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "achievement_9",
@@ -7611,7 +7616,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 21568,
+      "Progressed": 21569,
       "Completed": 1
     }
   ],
@@ -7619,8 +7624,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:57:15.5514418+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:32:57.3056585+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:16.1177806+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:50:52.1765457+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:57:15.5514962+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:26:41.7419965+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:32:57.3057241+00:00"
 }

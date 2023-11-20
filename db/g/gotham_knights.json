@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4235,7 +4235,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76694,
+  "EOS_Progressed": 76695,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 1,
@@ -23190,6 +23190,11 @@
       "Time": "2023-11-20T01:51:51.7828804+00:00",
       "NumProgressed": 76694,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-20T02:27:27.1914274+00:00",
+      "NumProgressed": 76695,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23385,7 +23390,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6902
+      "UsersEstimate": 6903
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -23417,7 +23422,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7669
+      "UsersEstimate": 7670
     },
     {
       "ID": "FREEZE_1",
@@ -23425,7 +23430,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21474
+      "UsersEstimate": 21475
     },
     {
       "ID": "FREEZE_1_5",
@@ -23577,7 +23582,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20707
+      "UsersEstimate": 20708
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23665,7 +23670,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6902
+      "UsersEstimate": 6903
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -23688,13 +23693,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76694,
+      "Progressed": 76695,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46974,
+      "Progressed": 46975,
       "Completed": 2674
     }
   ],
@@ -23702,8 +23707,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-20T01:45:33.4758858+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:51:51.7828801+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:27:27.1914271+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:45:33.4758863+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:51:51.782995+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:20:53.9683297+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:27:27.1915319+00:00"
 }

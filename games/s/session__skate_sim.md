@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 232)  
+Rating: 4.68 (Ranked 252)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,11 +20,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~277 |
 | Fashionista | 8.00% | ~246 |
 | That pinch! | 8.00% | ~246 |
+| Tight lipslides | 8.00% | ~246 |
 | Bottom ply killer | 7.00% | ~215 |
 | Finally he zips it | 7.00% | ~215 |
 | Fulfilled the dream | 7.00% | ~215 |
 | G'Day Mate! | 7.00% | ~215 |
-| Tight lipslides | 7.00% | ~215 |
 | Commence the Hijinx! | 6.00% | ~184 |
 | DIY Boss | 6.00% | ~184 |
 | Globetrotter | 6.00% | ~184 |
@@ -252,7 +252,7 @@ Completed: 2 (0.07%) (Ranked 296)
 | 2023-11-19 | 3,075 | 2 |
 ## Awards
 Max (Highly Recommended): 58  (Ranked 416)  
-Sum: 552 (Ranked 317)  
+Sum: 553 (Ranked 317)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
@@ -261,7 +261,7 @@ Diff (max vs sum): 99
 | This game has Diverse Characters | 52 |
 | This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 49 |
-| This game has a Creative Community | 47 |
+| This game has a Creative Community | 48 |
 | This game is Extremely Fun | 46 |
 | This game has Amazing Storytelling | 46 |
 | This game is Relaxing | 43 |
@@ -443,3 +443,4 @@ Diff (max vs sum): 99
 | 2023-11-13 | 4.69 | - | 56 | 548 |
 | 2023-11-14 | 4.69 | - | 57 | 550 |
 | 2023-11-17 | 4.69 | - | 58 | 552 |
+| 2023-11-20 | 4.68 | - | 58 | 553 |

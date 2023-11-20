@@ -294,7 +294,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753289,
+  "EOS_Progressed": 753292,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1914,
   "EOS_NewCompleters": 0,
@@ -24744,6 +24744,11 @@
       "Time": "2023-11-20T01:52:58.3874541+00:00",
       "NumProgressed": 753289,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-20T02:28:41.9517334+00:00",
+      "NumProgressed": 753292,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -24779,7 +24784,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45197
+      "UsersEstimate": 45198
     },
     {
       "ID": "ach_build_bridge",
@@ -24819,7 +24824,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278717
+      "UsersEstimate": 278718
     },
     {
       "ID": "ach_demolish_trees",
@@ -24827,7 +24832,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 128059
+      "UsersEstimate": 128060
     },
     {
       "ID": "ach_free_cam_mode",
@@ -24851,7 +24856,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45197
+      "UsersEstimate": 45198
     },
     {
       "ID": "ach_max_truck_distance",
@@ -24883,7 +24888,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361579
+      "UsersEstimate": 361580
     },
     {
       "ID": "ach_produced",
@@ -24899,7 +24904,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 120526
+      "UsersEstimate": 120527
     },
     {
       "ID": "ach_raise_money",
@@ -24970,7 +24975,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753289,
+      "Progressed": 753292,
       "Completed": 4
     }
   ],
@@ -24978,8 +24983,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:52:58.3874538+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:28:41.9517329+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
   "LastUpdate_Ratings": "2023-11-20T01:50:30.3497491+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:52:58.3875892+00:00"
+  "LastUpdate_Achievements": "2023-11-20T02:28:41.9518404+00:00"
 }

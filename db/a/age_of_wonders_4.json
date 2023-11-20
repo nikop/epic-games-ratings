@@ -7269,9 +7269,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "18",
@@ -7645,9 +7645,9 @@
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "57",
@@ -7700,8 +7700,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:51:02.7209364+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:26:55.2510379+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:48:19.6051632+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:51:02.7211171+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:24:05.367499+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:26:55.2511981+00:00"
 }

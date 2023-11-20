@@ -30,7 +30,7 @@ Rating: 4.56 (Ranked 489)
 | Thorston Mayer | 2.00% | ~303 |
 | Miraculous Maya | 2.00% | ~303 |
 | Data Logger | 1.00% | ~151 |
-| Data Master | 0.90% | ~136 |
+| Data Master | 1.00% | ~151 |
 | Brother's Reaper | 0.70% | ~106 |
 | No Belter Left Behind | 0.70% | ~106 |
 | Debris Spree | 0.60% | ~91 |

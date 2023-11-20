@@ -1968,9 +1968,9 @@
       "ID": "ach_waves_40",
       "SetID": "bf10c8p",
       "Name": "Expert Survivor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_waves_50",
@@ -2087,8 +2087,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:54:09.0569508+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:30:00.2906734+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:00.0974039+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:45:53.6699011+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:54:09.0570072+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:21:18.0911657+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:30:00.2907294+00:00"
 }

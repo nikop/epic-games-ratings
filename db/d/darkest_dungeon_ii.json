@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 253,
+  "Ranking_Rating": 252,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 84,
@@ -9002,7 +9002,7 @@
   ],
   "EOS_Progressed": 124089,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32032,8 +32032,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-19T21:57:11.0964693+00:00",
-  "LastChanged_Achievements": "2023-11-20T01:55:49.9605014+00:00",
+  "LastChanged_Achievements": "2023-11-20T02:31:45.4447414+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:08.6658677+00:00",
-  "LastUpdate_Ratings": "2023-11-20T01:45:23.2816283+00:00",
-  "LastUpdate_Achievements": "2023-11-20T01:55:49.9606471+00:00"
+  "LastUpdate_Ratings": "2023-11-20T02:20:42.7761174+00:00",
+  "LastUpdate_Achievements": "2023-11-20T02:31:45.4448722+00:00"
 }

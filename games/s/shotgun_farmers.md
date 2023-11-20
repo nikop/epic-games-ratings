@@ -35,7 +35,7 @@
 | Fresh Pancake | 10.00% | ~34 |
 | Quadsparagus | 10.00% | ~29 |
 | Bring Home The Bacon | 9.00% | ~30 |
-| Expert Survivor | 8.00% | ~23 |
+| Expert Survivor | 9.00% | ~26 |
 | Early Bird | 6.00% | ~20 |
 | Chick Magnet | 5.00% | ~17 |
 | I Have The High Ground | 5.00% | ~17 |

@@ -5,11 +5,11 @@ Rating: 4.28 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~166,008 |
-| Copacetic Coordination | 16.00% | ~56,513 |
-| Fronting the Money | 15.00% | ~52,981 |
-| The Dawn of Automation | 14.00% | ~49,449 |
-| Extraordinary Logistics | 14.00% | ~49,449 |
+| Corner Clout | 47.00% | ~166,009 |
+| Copacetic Coordination | 16.00% | ~56,514 |
+| Fronting the Money | 15.00% | ~52,982 |
+| The Dawn of Automation | 14.00% | ~49,450 |
+| Extraordinary Logistics | 14.00% | ~49,450 |
 | Dirty Money | 13.00% | ~45,917 |
 | Family First | 13.00% | ~45,917 |
 | Cleaning House | 12.00% | ~42,385 |
@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 851)
 | Wise Head | 6.00% | ~21,193 |
 | Show ‘em the Sugar | 6.00% | ~21,193 |
 | Killing Them Softly | 6.00% | ~21,193 |
-| Street Knowledge | 5.00% | ~17,660 |
-| Oh Captain | 5.00% | ~17,660 |
-| Branching Out | 5.00% | ~17,660 |
-| Improvement Missions | 5.00% | ~17,660 |
-| Opportunity Knocked | 5.00% | ~17,660 |
-| City of Big Shoulders | 5.00% | ~17,660 |
-| Mission Mastery | 5.00% | ~17,660 |
+| Street Knowledge | 5.00% | ~17,661 |
+| Oh Captain | 5.00% | ~17,661 |
+| Branching Out | 5.00% | ~17,661 |
+| Improvement Missions | 5.00% | ~17,661 |
+| Opportunity Knocked | 5.00% | ~17,661 |
+| City of Big Shoulders | 5.00% | ~17,661 |
+| Mission Mastery | 5.00% | ~17,661 |
 | Considerable Clams | 4.00% | ~14,128 |
 | Gin Joint | 4.00% | ~14,128 |
 | An Affront to the Enemy | 4.00% | ~14,128 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 851)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,209 (Ranked 47)  
+Progressed: 353,211 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 7 (0.00%) (Ranked 356)
 | 2023-11-17 | 352,809 | 7 |
 | 2023-11-18 | 353,005 | 7 |
 | 2023-11-19 | 353,192 | 7 |
-| 2023-11-20 | 353,209 | 7 |
+| 2023-11-20 | 353,211 | 7 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 469)  
 Sum: 146 (Ranked 422)  
