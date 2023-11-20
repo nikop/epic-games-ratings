@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5625,
+  "EOS_Progressed": 5627,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3806,6 +3806,11 @@
       "Time": "2023-11-20T03:09:07.643302+00:00",
       "NumProgressed": 5625,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T04:08:59.6049204+00:00",
+      "NumProgressed": 5627,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3890,7 +3895,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3930,7 +3935,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "JackOfAllTrades",
@@ -3954,7 +3959,7 @@
       "Name": "Master Manipulator",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Nasty",
@@ -3962,7 +3967,7 @@
       "Name": "Nasty!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "NoMoreTotems",
@@ -3978,7 +3983,7 @@
       "Name": "Not Like The Others",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "OneStarMan",
@@ -3986,7 +3991,7 @@
       "Name": "One-Star Man",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ScorchSquad",
@@ -4002,7 +4007,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TheOldSchoolWay",
@@ -4089,7 +4094,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5625,
+      "Progressed": 5627,
       "Completed": 7
     }
   ],
@@ -4097,8 +4102,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:09:07.6433017+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:08:59.6049201+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:57:49.0575318+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:09:07.6433395+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:57:57.035549+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:08:59.6049634+00:00"
 }

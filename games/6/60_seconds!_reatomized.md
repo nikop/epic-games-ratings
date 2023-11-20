@@ -56,8 +56,8 @@ Rating: 4.53 (Ranked 539)
 | Cuckoo's nest | 1.00% | ~56 |
 | Raining Cats and Dogs | 1.00% | ~56 |
 | Konrad style! | 1.00% | ~56 |
+| Bughunter | 0.90% | ~51 |
 | Cat Lady | 0.90% | ~51 |
-| Bughunter | 0.80% | ~45 |
 | Naysayer | 0.70% | ~39 |
 | Manhattan Project | 0.60% | ~34 |
 | Pro gamer | 0.60% | ~34 |

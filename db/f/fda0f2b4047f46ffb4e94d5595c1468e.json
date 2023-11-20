@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2835,9 +2835,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 8633,
+  "EOS_Progressed": 8634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8600,6 +8600,11 @@
       "Time": "2023-11-20T01:53:20.1694092+00:00",
       "NumProgressed": 8633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-20T04:05:08.6887531+00:00",
+      "NumProgressed": 8634,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8652,7 +8657,7 @@
       "Name": "Titan",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6561
+      "UsersEstimate": 6562
     },
     {
       "ID": "ach07",
@@ -8724,7 +8729,7 @@
       "Name": "Give A Koin",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "ach16",
@@ -8828,7 +8833,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "ach29",
@@ -8860,7 +8865,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "ach33",
@@ -8900,7 +8905,7 @@
       "Name": "ABACABB",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     },
     {
       "ID": "ach38",
@@ -8946,9 +8951,9 @@
       "ID": "ach43",
       "SetID": "47in8n6",
       "Name": "Working Overtime",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3972
     },
     {
       "ID": "ach44",
@@ -9004,14 +9009,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8633,
+      "Progressed": 8634,
       "Completed": 0
     }
   ],
@@ -9019,8 +9024,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-20T03:02:36.9846008+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:05:12.5175274+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:05:08.6887528+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:02:36.9846014+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:05:12.5175931+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:00:24.2742369+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:05:08.6888157+00:00"
 }

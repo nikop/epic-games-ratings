@@ -48,6 +48,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Colonial Management | 0.10% | ~460 |
 | Combined Arms | 0.10% | ~460 |
 | Consulate of the Sea | 0.10% | ~460 |
+| Copium Wars | 0.10% | ~460 |
 | Cowardly Tactics | 0.10% | ~460 |
 | Czechs and Balances | 0.10% | ~460 |
 | Dar al-Islam | 0.10% | ~460 |
@@ -250,7 +251,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cherrypicking | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
-| Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459,748 (Ranked 41)  
+Progressed: 459,762 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -584,7 +584,7 @@ Completed: 1 (0.00%) (Ranked 356)
 | 2023-11-17 | 457,804 | 1 |
 | 2023-11-18 | 458,780 | 1 |
 | 2023-11-19 | 459,684 | 1 |
-| 2023-11-20 | 459,748 | 1 |
+| 2023-11-20 | 459,762 | 1 |
 ## Awards
 Max (Educational): 7,073  (Ranked 54)  
 Sum: 58,295 (Ranked 24)  

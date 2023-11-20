@@ -6699,7 +6699,7 @@
       "Count": 479
     }
   ],
-  "EOS_Progressed": 721161,
+  "EOS_Progressed": 721177,
   "EOS_Completed": 2413,
   "EOS_NewPlayers": 3455,
   "EOS_NewCompleters": 27,
@@ -31119,6 +31119,11 @@
       "Time": "2023-11-20T03:03:24.2134633+00:00",
       "NumProgressed": 721161,
       "NumCompleted": 2413
+    },
+    {
+      "Time": "2023-11-20T04:03:22.3303268+00:00",
+      "NumProgressed": 721177,
+      "NumCompleted": 2413
     }
   ],
   "TotalAchievements": 51,
@@ -31130,7 +31135,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -31154,7 +31159,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31162,7 +31167,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "ach_big_name_in_town",
@@ -31170,7 +31175,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "ach_blueprinted",
@@ -31186,7 +31191,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_break_a_leg",
@@ -31216,9 +31221,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5769
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_doom_buddies",
@@ -31282,7 +31287,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_hotel_california",
@@ -31330,7 +31335,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_knowledgeable",
@@ -31402,7 +31407,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_star_performance",
@@ -31450,7 +31455,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6490
+      "UsersEstimate": 6491
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31537,22 +31542,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721161,
+      "Progressed": 721177,
       "Completed": 2413
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 46703,
-      "Completed": 36572
+      "Progressed": 46719,
+      "Completed": 36573
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-20T01:48:09.8191041+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:03:24.213463+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:03:22.3303264+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:59:57.8978135+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:03:24.2135814+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:00:06.5727461+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:03:22.3304515+00:00"
 }

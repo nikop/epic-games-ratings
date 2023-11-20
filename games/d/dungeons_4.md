@@ -9,18 +9,18 @@
 | Hammer Time, Round Two | 81.00% | ~254 |
 | For the Horde! | 81.00% | ~254 |
 | The Hellwoods | 77.00% | ~241 |
-| The Plains of Strothalm | 72.00% | ~225 |
-| Experienced Thalya | 69.00% | ~216 |
+| The Plains of Strothalm | 73.00% | ~228 |
+| Experienced Thalya | 70.00% | ~219 |
 | Thalya's Concentrated Fury | 68.00% | ~213 |
 | Master of Magic | 65.00% | ~203 |
 | Bad Elves Go Everywhere | 65.00% | ~203 |
 | Heroes’ Gorge | 61.00% | ~191 |
 | Magic Accidents | 59.00% | ~185 |
-| Unicorn steaks – fresh off the hoof! | 58.00% | ~182 |
-| Minions, Minions! | 57.00% | ~178 |
+| Unicorn steaks – fresh off the hoof! | 59.00% | ~185 |
+| Minions, Minions! | 58.00% | ~182 |
 | Trap Master | 52.00% | ~163 |
-| The Ascent | 47.00% | ~147 |
-| It's Warm and Cozy at Home | 47.00% | ~147 |
+| The Ascent | 48.00% | ~150 |
+| It's Warm and Cozy at Home | 48.00% | ~150 |
 | YOU SHALL NOT PASS! | 45.00% | ~141 |
 | Hard Work | 44.00% | ~138 |
 | The Big Eaty | 42.00% | ~131 |
@@ -33,8 +33,8 @@
 | Tanos' Crusade Against Thalya | 27.00% | ~85 |
 | Unstoppable Horde | 23.00% | ~72 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 22.00% | ~69 |
+| All’s Well That Ends Evil | 22.00% | ~69 |
 | Master of the Undead | 21.00% | ~66 |
-| All’s Well That Ends Evil | 21.00% | ~66 |
 | Hungry, Hungry Gorgu! | 20.00% | ~63 |
 | Forbidden Knowledge | 18.00% | ~56 |
 | Ghost Pirates? Ghost Heroes! | 17.00% | ~53 |
@@ -43,16 +43,16 @@
 | Stop Tanos! | 15.00% | ~47 |
 | If Looks Could Kill | 15.00% | ~47 |
 | The Finitude Drill | 13.00% | ~41 |
+| Doom Hill | 11.00% | ~34 |
 | Bonus Evilness | 10.00% | ~31 |
-| Doom Hill | 10.00% | ~31 |
 | Brimstone Shaken, Not Stirred | 10.00% | ~31 |
 | My Little Torture Chamber | 9.00% | ~28 |
 | Sabotage! | 9.00% | ~28 |
 | Raiders of the Lost Stone | 9.00% | ~28 |
 | The Rune Sockets of Finitude (Part 1) | 8.00% | ~25 |
+| Lavalumps on Ice! | 7.00% | ~22 |
 | Mirror, Mirror | 6.00% | ~19 |
 | Untouchable | 6.00% | ~19 |
-| Lavalumps on Ice! | 6.00% | ~19 |
 | Rubble and Ashes | 6.00% | ~19 |
 | To Infinity And Beyond! | 6.00% | ~19 |
 | The Rune Sockets of Finitude (Part 2) | 6.00% | ~19 |

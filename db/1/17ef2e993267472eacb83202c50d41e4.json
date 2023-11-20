@@ -2,13 +2,13 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 1016,
+  "Ranking_Rating": 1017,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,7 +71,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8094,
+  "EOS_Progressed": 8095,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -6816,6 +6816,11 @@
       "Time": "2023-11-20T03:09:30.6080959+00:00",
       "NumProgressed": 8094,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-20T04:09:22.4545746+00:00",
+      "NumProgressed": 8095,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6876,7 +6881,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "CreditsSpent50000",
@@ -6940,7 +6945,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "GamesPlayed1",
@@ -7020,7 +7025,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "HAUpgraded1",
@@ -7044,7 +7049,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "HSUPurchased1",
@@ -7092,7 +7097,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "InhibitorKills3",
@@ -7196,15 +7201,15 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "MaxTowersKilled6",
       "SetID": "12d07c7",
       "Name": "Destroyed 6 Towers in a single match",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 243
     },
     {
       "ID": "MinionKills200",
@@ -7260,7 +7265,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "PlayerKills100",
@@ -7402,9 +7407,9 @@
       "ID": "TowerKills11",
       "SetID": "12d07c7",
       "Name": "Destroyed 11 Towers",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 243
     },
     {
       "ID": "WCUpgraded1",
@@ -7419,7 +7424,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8094,
+      "Progressed": 8095,
       "Completed": 1
     }
   ],
@@ -7427,8 +7432,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:09:30.6080955+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:09:22.4545742+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.6991514+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:02:37.3392066+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:09:30.6082149+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:00:24.630225+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:09:22.4546621+00:00"
 }

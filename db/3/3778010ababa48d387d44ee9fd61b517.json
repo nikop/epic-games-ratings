@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "A_SUNKEN",
       "SetID": "324h56e",
       "Name": "The Sunken City",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_TURRET",
@@ -433,8 +433,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:05:33.0901271+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:05:28.8638068+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:08.5505648+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:57:42.2669365+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:05:33.0901523+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:57:50.4735672+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:05:28.8638347+00:00"
 }

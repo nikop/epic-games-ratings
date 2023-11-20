@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3169,9 +3169,9 @@
       "Count": 251
     }
   ],
-  "EOS_Progressed": 83305,
+  "EOS_Progressed": 83307,
   "EOS_Completed": 163,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -26974,6 +26974,11 @@
       "Time": "2023-11-20T03:06:12.6884129+00:00",
       "NumProgressed": 83305,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2023-11-20T04:06:07.3321848+00:00",
+      "NumProgressed": 83307,
+      "NumCompleted": 163
     }
   ],
   "TotalAchievements": 30,
@@ -27009,7 +27014,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 19160
+      "UsersEstimate": 19161
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -27049,7 +27054,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7497
+      "UsersEstimate": 7498
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -27065,7 +27070,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30823
+      "UsersEstimate": 30824
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -27073,7 +27078,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23325
+      "UsersEstimate": 23326
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -27089,7 +27094,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8330
+      "UsersEstimate": 8331
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -27113,7 +27118,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19160
+      "UsersEstimate": 19161
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -27121,7 +27126,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21659
+      "UsersEstimate": 21660
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -27177,7 +27182,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -27193,7 +27198,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8330
+      "UsersEstimate": 8331
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -27217,22 +27222,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 83305,
+      "Progressed": 83307,
       "Completed": 163
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-18T17:02:36.7880758+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:06:12.6884125+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:06:07.3321846+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.492431+00:00",
-  "LastUpdate_Ratings": "2023-11-20T03:02:43.2667656+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:06:12.688552+00:00"
+  "LastUpdate_Ratings": "2023-11-20T04:02:40.3487128+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:06:07.332316+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3680,
+  "EOS_Progressed": 3682,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2023-11-20T03:08:27.0292684+00:00",
       "NumProgressed": 3680,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-20T04:08:19.5127049+00:00",
+      "NumProgressed": 3682,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2373,7 +2378,7 @@
       "Name": "Unlock the PC",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -2381,7 +2386,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -2389,7 +2394,7 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -2397,7 +2402,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2909
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -2468,14 +2473,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 3680,
+      "Progressed": 3682,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:08:27.029268+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:08:19.5127046+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:58:08.7280705+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:08:27.0292897+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:58:16.3141815+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:08:19.5127405+00:00"
 }

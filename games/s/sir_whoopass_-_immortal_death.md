@@ -27,7 +27,7 @@
 | Spare Ribs | 47.00% | ~61 |
 | Thats disgusting! | 46.00% | ~59 |
 | Self assessed tax return | 43.00% | ~55 |
-| My pants squeak when I walk | 42.00% | ~54 |
+| My pants squeak when I walk | 43.00% | ~55 |
 | Surprise!! | 41.00% | ~53 |
 | Haemochromatosis | 40.00% | ~52 |
 | Make America Grate Again | 34.00% | ~44 |
@@ -36,23 +36,23 @@
 | You are no match for me, Billy! | 32.00% | ~41 |
 | Catch the bus with me! | 32.00% | ~41 |
 | Karaoke king | 32.00% | ~41 |
+| I'm going to get a concussion | 30.00% | ~39 |
 | Meatballs, coming up! | 29.00% | ~37 |
-| I'm going to get a concussion | 29.00% | ~37 |
 | Another one bites the iron | 27.00% | ~35 |
 | Ripe Meat Off The Bone! | 26.00% | ~34 |
 | Kleptomaniac | 26.00% | ~34 |
+| Hovering around | 24.00% | ~31 |
 | A Megapint...? | 23.00% | ~30 |
-| Hovering around | 23.00% | ~30 |
 | You're not so Big anymore, Boi! | 22.00% | ~28 |
 | Your daily dose of Vitamin C. | 21.00% | ~27 |
 | I cant stand still! | 20.00% | ~26 |
 | Just wing it! | 17.00% | ~22 |
+| Slimy... yet satisfying | 17.00% | ~22 |
 | Master Butcher | 16.00% | ~21 |
 | Deal with it | 16.00% | ~21 |
-| Slimy... yet satisfying | 16.00% | ~21 |
+| Ancient Ruins of Dirty Feet | 13.00% | ~17 |
 | Yeehaw!!! | 13.00% | ~17 |
 | You're looking mozzare-hella good! | 12.00% | ~15 |
-| Ancient Ruins of Dirty Feet | 12.00% | ~15 |
 | Timber! | 10.00% | ~13 |
 | Free Of Chains | 10.00% | ~13 |
 | Spoiler alert! | 9.00% | ~12 |

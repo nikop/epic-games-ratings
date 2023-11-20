@@ -3945,9 +3945,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7opfcp",
       "Name": "Off We Sail Tonight",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1810
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -4258,8 +4258,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-19T04:01:05.4941686+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:04:26.1737632+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:04:22.5221351+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.4892963+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:57:10.4211929+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:04:26.1738081+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:57:20.329294+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:04:22.5221753+00:00"
 }

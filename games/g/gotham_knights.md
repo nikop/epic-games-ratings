@@ -1,28 +1,28 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 930)  
+Rating: 4.18 (Ranked 931)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,115 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,844 |
-| Loose Ends | 34.00% | ~26,077 |
-| To the Victor Go the Spoils | 28.00% | ~21,475 |
-| Knighthood | 27.00% | ~20,708 |
-| Get ReQ'd | 25.00% | ~19,174 |
-| Whispered Words | 25.00% | ~19,174 |
-| The Batman Family | 23.00% | ~17,640 |
-| Lock and Key | 22.00% | ~16,873 |
-| Something in the Clay | 21.00% | ~16,106 |
-| Quartzer Life Crisis | 21.00% | ~16,106 |
-| Working Hard or Harley Working? | 20.00% | ~15,339 |
-| Unstoppable Force | 20.00% | ~15,339 |
-| Bad Apples in Every Orchard | 20.00% | ~15,339 |
-| Snow Problem | 19.00% | ~14,572 |
-| The Show Mud Go On | 18.00% | ~13,805 |
-| From Inside Gotham's Walls | 18.00% | ~13,805 |
-| Protector of Gotham | 17.00% | ~13,038 |
+| First Step Into the Knight | 51.00% | ~39,119 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,846 |
+| Loose Ends | 34.00% | ~26,079 |
+| To the Victor Go the Spoils | 28.00% | ~21,477 |
+| Knighthood | 27.00% | ~20,710 |
+| Get ReQ'd | 25.00% | ~19,176 |
+| Whispered Words | 25.00% | ~19,176 |
+| The Batman Family | 23.00% | ~17,642 |
+| Lock and Key | 22.00% | ~16,875 |
+| Something in the Clay | 21.00% | ~16,108 |
+| Quartzer Life Crisis | 21.00% | ~16,108 |
+| Working Hard or Harley Working? | 20.00% | ~15,341 |
+| Unstoppable Force | 20.00% | ~15,341 |
+| Bad Apples in Every Orchard | 20.00% | ~15,341 |
+| Snow Problem | 19.00% | ~14,574 |
+| The Show Mud Go On | 18.00% | ~13,807 |
+| From Inside Gotham's Walls | 18.00% | ~13,807 |
+| Protector of Gotham | 17.00% | ~13,040 |
 | Universal Health Scare | 16.00% | ~12,272 |
 | In Your Element | 15.00% | ~11,505 |
 | Voiceless | 15.00% | ~11,505 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 930)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,697 (Ranked 99)  
+Progressed: 76,703 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 124 (0.16%) (Ranked 263)
 | 2023-11-17 | 76,565 | 123 |
 | 2023-11-18 | 76,626 | 123 |
 | 2023-11-19 | 76,685 | 124 |
-| 2023-11-20 | 76,697 | 124 |
+| 2023-11-20 | 76,703 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,954  (Ranked 98)  
 Sum: 5,018 (Ranked 139)  

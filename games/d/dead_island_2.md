@@ -15,14 +15,14 @@ Rating: 4.54 (Ranked 524)
 | Hotel California | 1.00% | ~7,212 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,212 |
 | Welcome To Hell-A | 1.00% | ~7,212 |
-| Dr. Reed, I Presume? | 0.90% | ~6,490 |
-| Anger Management | 0.90% | ~6,490 |
-| Bookworm | 0.90% | ~6,490 |
-| Friends Like These | 0.90% | ~6,490 |
-| Apex Predator | 0.90% | ~6,490 |
-| Stacking the Deck | 0.90% | ~6,490 |
-| This is My Weapon | 0.90% | ~6,490 |
-| But Doctor, I am Butcho | 0.80% | ~5,769 |
+| Dr. Reed, I Presume? | 0.90% | ~6,491 |
+| Anger Management | 0.90% | ~6,491 |
+| Bookworm | 0.90% | ~6,491 |
+| But Doctor, I am Butcho | 0.90% | ~6,491 |
+| Friends Like These | 0.90% | ~6,491 |
+| Apex Predator | 0.90% | ~6,491 |
+| Stacking the Deck | 0.90% | ~6,491 |
+| This is My Weapon | 0.90% | ~6,491 |
 | Can't Handle the Truth | 0.80% | ~5,769 |
 | Like Riding a Bike | 0.80% | ~5,769 |
 | A Patton Emerges | 0.80% | ~5,769 |
@@ -45,8 +45,8 @@ Rating: 4.54 (Ranked 524)
 | Go, Bobcats! | 0.40% | ~2,885 |
 | Variety is the Spice of Death | 0.40% | ~2,885 |
 | Rising Star | 0.40% | ~2,885 |
-| Make it So | 0.30% | ~2,163 |
-| LA Influential | 0.30% | ~2,163 |
+| Make it So | 0.30% | ~2,164 |
+| LA Influential | 0.30% | ~2,164 |
 | Top That, Tisha! | 0.30% | ~140 |
 | Sole Survivor | 0.20% | ~1,442 |
 | Gore Horse | 0.20% | ~1,442 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Bucket List | 0.10% | ~721 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,161 (Ranked 20)  
+Progressed: 721,177 (Ranked 20)  
 Completed: 2,413 (0.33%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,413 (0.33%) (Ranked 228)
 | 2023-11-17 | 719,812 | 2,402 |
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
-| 2023-11-20 | 721,161 | 2,413 |
+| 2023-11-20 | 721,177 | 2,413 |
 ## Awards
 Max (Great Boss Battles): 7,589  (Ranked 51)  
 Sum: 11,576 (Ranked 84)  

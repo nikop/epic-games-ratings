@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2000,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3092,6 +3092,11 @@
       "Time": "2023-11-19T22:04:01.0231133+00:00",
       "NumProgressed": 2000,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-20T04:04:10.5774006+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3103,7 +3108,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "Collect20Gold",
@@ -3127,7 +3132,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "CollectAllStatues",
@@ -3183,7 +3188,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3197,9 +3202,9 @@
       "ID": "CompleteStoryDM",
       "SetID": "9lj35g4",
       "Name": "A new Warchief rises",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "DefeatAvor",
@@ -3237,9 +3242,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 900
     },
     {
       "ID": "GetRangedWeapon",
@@ -3247,7 +3252,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "GetTHWeapon",
@@ -3255,7 +3260,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "Kill25Bugs",
@@ -3263,7 +3268,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "Kill25Frogs",
@@ -3271,7 +3276,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "Kill25Mozi",
@@ -3327,7 +3332,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3342,22 +3347,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2000,
+      "Progressed": 2001,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 641,
-      "Completed": 641
+      "Progressed": 642,
+      "Completed": 642
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:04:14.3190765+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:04:10.5774002+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:59:18.6032821+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:04:14.3191074+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:59:28.055859+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:04:10.577436+00:00"
 }

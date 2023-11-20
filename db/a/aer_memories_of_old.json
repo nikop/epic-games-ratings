@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24530,
+  "EOS_Progressed": 24532,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
@@ -23378,6 +23378,11 @@
       "Time": "2023-11-20T03:08:15.4041389+00:00",
       "NumProgressed": 24530,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-20T04:08:08.3456068+00:00",
+      "NumProgressed": 24532,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23397,7 +23402,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "EAST_FINISHED",
@@ -23421,7 +23426,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -23509,7 +23514,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18888
+      "UsersEstimate": 18890
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23517,7 +23522,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23541,22 +23546,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24530,
+      "Progressed": 24532,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:08:15.4041386+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:08:08.3456064+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:59:10.3783261+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:08:15.4042426+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:59:20.7881481+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:08:08.3457349+00:00"
 }

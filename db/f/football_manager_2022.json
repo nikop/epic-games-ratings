@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8384,9 +8384,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476383,
+  "EOS_Progressed": 476384,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30149,6 +30149,11 @@
       "Time": "2023-11-20T02:28:11.4969647+00:00",
       "NumProgressed": 476383,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-20T04:04:19.2068099+00:00",
+      "NumProgressed": 476384,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -30176,7 +30181,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128623
+      "UsersEstimate": 128624
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -30248,7 +30253,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128623
+      "UsersEstimate": 128624
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -30304,7 +30309,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71457
+      "UsersEstimate": 71458
     },
     {
       "ID": "achievement_big_win",
@@ -30376,7 +30381,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 42874
+      "UsersEstimate": 42875
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -30408,7 +30413,7 @@
       "Name": "National Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14291
+      "UsersEstimate": 14292
     },
     {
       "ID": "achievement_get_into_hall_of_fame",
@@ -30424,7 +30429,7 @@
       "Name": "National Service",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42874
+      "UsersEstimate": 42875
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -30448,7 +30453,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133387
+      "UsersEstimate": 133388
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -30464,7 +30469,7 @@
       "Name": "Golden Boot",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14291
+      "UsersEstimate": 14292
     },
     {
       "ID": "achievement_good_finance_control",
@@ -30496,7 +30501,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 42874
+      "UsersEstimate": 42875
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -30656,7 +30661,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128623
+      "UsersEstimate": 128624
     },
     {
       "ID": "achievement_record_signing",
@@ -30752,7 +30757,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 42874
+      "UsersEstimate": 42875
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -30776,7 +30781,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71457
+      "UsersEstimate": 71458
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -30808,7 +30813,7 @@
       "Name": "Freedom Of The Country",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14291
+      "UsersEstimate": 14292
     },
     {
       "ID": "achievement_won_promotion",
@@ -30824,7 +30829,7 @@
       "Name": "On Top Of The World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14291
+      "UsersEstimate": 14292
     },
     {
       "ID": "achievement_world_player_of_the_year",
@@ -30943,15 +30948,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476383,
+      "Progressed": 476384,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-19T09:58:42.3019234+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:04:22.7592639+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:04:19.2068096+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:53.8009181+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:58:53.216726+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:04:22.7594333+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:59:05.0116326+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:04:19.2069757+00:00"
 }

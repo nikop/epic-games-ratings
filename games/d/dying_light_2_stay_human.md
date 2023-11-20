@@ -6,64 +6,64 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 36.00% | ~241,477 |
-| First Shot | 34.00% | ~228,062 |
-| Into the Unknown | 33.00% | ~221,354 |
-| Herzlich Wilkommen! | 32.00% | ~214,646 |
-| Good Night & Good Luck | 31.00% | ~207,939 |
-| Sancho Panza | 30.00% | ~201,231 |
-| Oh, So This Is How It Works! | 28.00% | ~187,816 |
-| Flag Burning | 25.00% | ~167,692 |
-| Under Pressure | 23.00% | ~154,277 |
-| On the Trail of the Enemy | 23.00% | ~154,277 |
-| Light in the Darkness | 23.00% | ~154,277 |
-| It Wasn't That Hard, Was It? | 23.00% | ~154,277 |
-| Can't Touch This! | 23.00% | ~154,277 |
-| Get Outta My House! | 22.00% | ~147,569 |
-| Night Hunter | 21.00% | ~140,862 |
-| Being All Social | 21.00% | ~140,862 |
-| After the Fall | 19.00% | ~127,446 |
-| We Will Be Heard! | 17.00% | ~114,031 |
-| Tunnel Entrance | 17.00% | ~114,031 |
-| Known Associate | 16.00% | ~107,323 |
-| Debris and Ashes | 15.00% | ~100,616 |
-| Brush with Death | 15.00% | ~100,616 |
-| Going Down | 14.00% | ~93,908 |
-| Family First | 14.00% | ~93,908 |
-| Your World, Your Rules | 14.00% | ~93,908 |
-| Terminal Headache | 14.00% | ~93,908 |
-| Death From Afar | 13.00% | ~87,200 |
-| Slowpoke! | 12.00% | ~80,492 |
-| Tickets, Please! | 7.00% | ~46,954 |
-| Parkour Master | 6.00% | ~40,246 |
-| Combat Master | 6.00% | ~40,246 |
-| Municipal Services | 5.00% | ~33,538 |
-| Ban Hammer | 5.00% | ~33,538 |
-| Modder | 5.00% | ~33,538 |
-| Tube Map | 4.00% | ~26,831 |
-| Don Quixote | 4.00% | ~26,831 |
-| Can't You Read the Signs? | 4.00% | ~26,831 |
-| Boot Licker | 4.00% | ~26,831 |
-| Tanning Salon | 3.00% | ~20,123 |
-| That's Teamwork! | 3.00% | ~20,123 |
-| Ironheart | 3.00% | ~20,123 |
-| You're Going Down! | 3.00% | ~20,123 |
-| Find Anything Interesting? | 2.00% | ~13,415 |
-| Revenants | 2.00% | ~13,415 |
-| Who Wants To Be a... | 2.00% | ~13,415 |
-| Fit as a Fiddle | 2.00% | ~13,415 |
-| Lightning Reflexes | 1.00% | ~6,708 |
-| Nemesis | 1.00% | ~3,162 |
-| Enter the Hall | 1.00% | ~3,162 |
-| Night of Terrors | 0.90% | ~2,846 |
-| A Friend in Need... | 0.80% | ~5,366 |
-| Man On a Mission | 0.80% | ~5,366 |
-| Get the Point? | 0.80% | ~5,366 |
+| You Never Forget Your First... | 36.00% | ~241,511 |
+| First Shot | 34.00% | ~228,094 |
+| Into the Unknown | 33.00% | ~221,385 |
+| Herzlich Wilkommen! | 32.00% | ~214,676 |
+| Good Night & Good Luck | 31.00% | ~207,968 |
+| Sancho Panza | 30.00% | ~201,259 |
+| Oh, So This Is How It Works! | 28.00% | ~187,842 |
+| Flag Burning | 25.00% | ~167,716 |
+| Under Pressure | 23.00% | ~154,299 |
+| On the Trail of the Enemy | 23.00% | ~154,299 |
+| Light in the Darkness | 23.00% | ~154,299 |
+| It Wasn't That Hard, Was It? | 23.00% | ~154,299 |
+| Can't Touch This! | 23.00% | ~154,299 |
+| Get Outta My House! | 22.00% | ~147,590 |
+| Night Hunter | 21.00% | ~140,881 |
+| Being All Social | 21.00% | ~140,881 |
+| After the Fall | 19.00% | ~127,464 |
+| We Will Be Heard! | 17.00% | ~114,047 |
+| Tunnel Entrance | 17.00% | ~114,047 |
+| Known Associate | 16.00% | ~107,338 |
+| Debris and Ashes | 15.00% | ~100,630 |
+| Brush with Death | 15.00% | ~100,630 |
+| Going Down | 14.00% | ~93,921 |
+| Family First | 14.00% | ~93,921 |
+| Your World, Your Rules | 14.00% | ~93,921 |
+| Terminal Headache | 14.00% | ~93,921 |
+| Death From Afar | 13.00% | ~87,212 |
+| Slowpoke! | 12.00% | ~80,504 |
+| Tickets, Please! | 7.00% | ~46,960 |
+| Parkour Master | 6.00% | ~40,252 |
+| Combat Master | 6.00% | ~40,252 |
+| Municipal Services | 5.00% | ~33,543 |
+| Ban Hammer | 5.00% | ~33,543 |
+| Modder | 5.00% | ~33,543 |
+| Tube Map | 4.00% | ~26,835 |
+| Don Quixote | 4.00% | ~26,835 |
+| Can't You Read the Signs? | 4.00% | ~26,835 |
+| Boot Licker | 4.00% | ~26,835 |
+| Tanning Salon | 3.00% | ~20,126 |
+| That's Teamwork! | 3.00% | ~20,126 |
+| Ironheart | 3.00% | ~20,126 |
+| You're Going Down! | 3.00% | ~20,126 |
+| Find Anything Interesting? | 2.00% | ~13,417 |
+| Revenants | 2.00% | ~13,417 |
+| Who Wants To Be a... | 2.00% | ~13,417 |
+| Fit as a Fiddle | 2.00% | ~13,417 |
+| Lightning Reflexes | 1.00% | ~6,709 |
+| Nemesis | 1.00% | ~3,163 |
+| Enter the Hall | 1.00% | ~3,163 |
+| Night of Terrors | 0.90% | ~2,847 |
+| A Friend in Need... | 0.80% | ~5,367 |
+| Man On a Mission | 0.80% | ~5,367 |
+| Get the Point? | 0.80% | ~5,367 |
 | My Friend, Ciro | 0.80% | ~2,530 |
 | Skullcrusher | 0.80% | ~2,530 |
-| Ultramarathon | 0.30% | ~2,012 |
+| Ultramarathon | 0.30% | ~2,013 |
 | Don't Look Up | 0.20% | ~1,342 |
-| The Madman of Villedor | 0.20% | ~632 |
+| The Madman of Villedor | 0.20% | ~633 |
 | True Nightrunner | 0.10% | ~671 |
 | Bing Bang Boom! | 0.10% | ~671 |
 | Archivist | 0.10% | ~671 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~316 |
 | Connoisseur | 0.10% | ~316 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670,770 (Ranked 27)  
+Progressed: 670,864 (Ranked 27)  
 Completed: 68 (0.01%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 68 (0.01%) (Ranked 334)
 | 2023-11-17 | 662,349 | 68 |
 | 2023-11-18 | 666,718 | 68 |
 | 2023-11-19 | 670,388 | 68 |
-| 2023-11-20 | 670,770 | 68 |
+| 2023-11-20 | 670,864 | 68 |
 ## Awards
 Max (Character Customization): 10,150  (Ranked 39)  
 Sum: 25,740 (Ranked 52)  

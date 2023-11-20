@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 553,
+  "EOS_Progressed": 554,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1765,6 +1765,11 @@
       "Time": "2023-11-20T01:53:42.0641603+00:00",
       "NumProgressed": 553,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-20T04:05:30.7653363+00:00",
+      "NumProgressed": 554,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1847,9 +1852,9 @@
       "ID": "ACH_mg2",
       "SetID": "51of0eo",
       "Name": "Disc Collector",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 39
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_n64",
@@ -1880,14 +1885,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 553,
+      "Progressed": 554,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:05:35.0521804+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:05:30.7653358+00:00",
   "LastUpdate_AppInfo": "2023-11-17T01:44:42.3518344+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:57:42.7522217+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:05:35.052199+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:57:50.9505837+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:05:30.7653531+00:00"
 }

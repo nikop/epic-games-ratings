@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 3659,
+  "EOS_Progressed": 3660,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5842,6 +5842,11 @@
       "Time": "2023-11-20T02:29:56.3706992+00:00",
       "NumProgressed": 3659,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-20T04:05:53.8856373+00:00",
+      "NumProgressed": 3660,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5869,7 +5874,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -5885,7 +5890,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -5893,7 +5898,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5949,7 +5954,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5957,7 +5962,7 @@
       "Name": "Regicide",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -5965,7 +5970,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6021,7 +6026,7 @@
       "Name": "Frontliner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -6037,7 +6042,7 @@
       "Name": "The Cable Guy",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "ACH_MISSION_01",
@@ -6045,7 +6050,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6053,7 +6058,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ACH_MISSION_03",
@@ -6061,7 +6066,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6077,7 +6082,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6093,7 +6098,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH_MISSION_08",
@@ -6157,7 +6162,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6212,7 +6217,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3659,
+      "Progressed": 3660,
       "Completed": 3
     }
   ],
@@ -6220,8 +6225,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-17T04:58:01.7269194+00:00",
-  "LastChanged_Achievements": "2023-11-20T03:05:58.4889741+00:00",
+  "LastChanged_Achievements": "2023-11-20T04:05:53.885637+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-20T02:59:08.2923397+00:00",
-  "LastUpdate_Achievements": "2023-11-20T03:05:58.4890192+00:00"
+  "LastUpdate_Ratings": "2023-11-20T03:59:18.6997564+00:00",
+  "LastUpdate_Achievements": "2023-11-20T04:05:53.8856832+00:00"
 }

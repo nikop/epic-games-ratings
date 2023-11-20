@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,640 |
-| Become King | 74.00% | ~1,480 |
-| Defeat 25 Frogs | 64.00% | ~1,280 |
-| Ranged Weapon | 63.00% | ~1,260 |
-| Collect Monster Parts | 59.00% | ~1,180 |
-| Two Handed Weapon | 58.00% | ~1,160 |
-| Defeat 25 Grubs | 54.00% | ~1,080 |
-| Rescue Redgi's Brothers | 54.00% | ~1,080 |
+| Complete Guard Faction | 82.00% | ~1,641 |
+| Become King | 74.00% | ~1,481 |
+| Defeat 25 Frogs | 64.00% | ~1,281 |
+| Ranged Weapon | 63.00% | ~1,261 |
+| Collect Monster Parts | 59.00% | ~1,181 |
+| Two Handed Weapon | 58.00% | ~1,161 |
+| Defeat 25 Grubs | 54.00% | ~1,081 |
+| Rescue Redgi's Brothers | 54.00% | ~1,081 |
 | Collect Iron Ore | 49.00% | ~980 |
 | Kitchen Ready To Cook | 49.00% | ~980 |
 | Defeat 25 Mozis | 48.00% | ~960 |
 | Collect Gold | 47.00% | ~940 |
 | Smithy Ready to Craft | 47.00% | ~940 |
-| Fix the Travellers Wagon | 46.00% | ~920 |
+| Fix the Travellers Wagon | 45.00% | ~900 |
 | Complete Elder Faction | 43.00% | ~860 |
 | End of the Mozis | 39.00% | ~780 |
 | Throne Room Fit For A King | 39.00% | ~780 |
@@ -34,9 +34,9 @@ Rating: 4.55 (Ranked 504)
 | Complete Arena Faction | 16.00% | ~320 |
 | Complete Redgi's Armory | 8.00% | ~160 |
 | King of Kings | 8.00% | ~160 |
-| A new Warchief rises | 0.90% | ~18 |
+| A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,000 (Ranked 224)  
+Progressed: 2,001 (Ranked 224)  
 Completed: 9 (0.45%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 9 (0.45%) (Ranked 206)
 | 2023-11-17 | 1,997 | 9 |
 | 2023-11-18 | 1,998 | 9 |
 | 2023-11-19 | 2,000 | 9 |
+| 2023-11-20 | 2,001 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
