@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.96% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.59% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.32% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.28% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.82% |
@@ -32,12 +32,12 @@
 | 30 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.04% |
 | 31 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 12.73% |
 | 32 | [laserlemon Production](games/l/laserlemon_production.md) | 12.50% |
-| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.50% |
-| 34 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.42% |
+| 33 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.41% |
+| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.33% |
 | 35 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 36 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 10.77% |
-| 38 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
+| 38 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.53% |
 | 39 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 39 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
 | 39 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.00% |
@@ -60,8 +60,8 @@
 | 58 | [Scorn](games/s/scorn.md) | 6.91% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
-| 61 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.36% |
-| 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
+| 61 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.35% |
+| 61 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 63 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 6.25% |
 | 63 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.25% |
@@ -129,11 +129,11 @@
 | 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
 | 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 129 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
-| 130 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.85% |
-| 131 | [Somerville](games/s/somerville.md) | 1.81% |
+| 129 | [Somerville](games/s/somerville.md) | 1.87% |
+| 131 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.85% |
 | 132 | [Sifu](games/s/sifu.md) | 1.80% |
 | 133 | [Frogun](games/f/frogun.md) | 1.79% |
-| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.71% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.72% |
 | 135 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.70% |
 | 136 | [Five Dates](games/f/five_dates.md) | 1.69% |
 | 137 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.67% |
@@ -279,18 +279,18 @@
 | 276 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 276 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 279 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 279 | [Black Book](games/b/black_book.md) | 0.10% |
 | 279 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
 | 279 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 279 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 279 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
 | 279 | [Supraland](games/s/supraland.md) | 0.10% |
-| 285 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 285 | [Black Book](games/b/black_book.md) | 0.09% |
-| 285 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.09% |
-| 285 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 285 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 285 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 285 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 286 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 286 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.09% |
+| 286 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 286 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 286 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 286 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 292 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.08% |
 | 292 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 292 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
@@ -356,7 +356,6 @@
 | 335 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.01% |
 | 335 | [Train Valley 2](games/t/train_valley_2.md) | 0.01% |
 | 335 | [Verdun](games/v/verdun.md) | 0.01% |
-| 357 | [](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.00% |
 | 357 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 357 | [12 orbits](games/1/12_orbits.md) | 0.00% |
 | 357 | [1428: Shadows over Silesia](games/4/4bd54a4fed074c488e0bb7428f29d2f4.md) | 0.00% |
@@ -654,6 +653,7 @@
 | 357 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 0.00% |
 | 357 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 0.00% |
 | 357 | [Songs of Conquest](games/s/songs_of_conquest.md) | 0.00% |
+| 357 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.00% |
 | 357 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 0.00% |
 | 357 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 0.00% |
 | 357 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 0.00% |

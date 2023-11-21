@@ -54,7 +54,6 @@
 | [Mega City Police](../games/m/mega_city_police.md) | 27 | 1,050 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 43 | 1,045 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 |
-| [](../games/5/50809e4c39674f42b649fa127d6796dd.md) | 40 | 1,000 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
 | [100 Doors - Escape from Prison](../games/d/d00a1f7b44a14dddab853280118f8580.md) | 11 | 1,000 |
 | [100 Doors - Escape from Work](../games/2/2e8b593f066d4ec59a473a0650c2794a.md) | 14 | 1,000 |
@@ -618,6 +617,7 @@
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
 | [Song of Nunu: A League of Legends Story](../games/s/song_of_nunu__a_league_of_legends_story™.md) | 44 | 1,000 |
 | [Songs of Conquest](../games/s/songs_of_conquest.md) | 54 | 1,000 |
+| [Sonic Frontiers](../games/5/50809e4c39674f42b649fa127d6796dd.md) | 40 | 1,000 |
 | [Sonic Origins](../games/s/sonic_origins.md) | 35 | 1,000 |
 | [Souls Of Chronos](../games/f/fc740bd5bc244b50a36620a391980636.md) | 41 | 1,000 |
 | [Soulstice](../games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 40 | 1,000 |
