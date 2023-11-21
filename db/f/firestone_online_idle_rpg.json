@@ -481,9 +481,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2504,
+  "EOS_Progressed": 2505,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7536,6 +7536,11 @@
       "Time": "2023-11-21T00:08:27.3419131+00:00",
       "NumProgressed": 2504,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T02:00:16.4614491+00:00",
+      "NumProgressed": 2505,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7875,7 +7880,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "minerclicker",
@@ -7907,7 +7912,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "mythicpower",
@@ -7939,7 +7944,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "prestigiousx10",
@@ -7971,7 +7976,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "scrollmaster",
@@ -7995,7 +8000,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "templeofeternals",
@@ -8003,7 +8008,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "thealchemist",
@@ -8107,7 +8112,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "warmachinesarmy",
@@ -8139,14 +8144,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2504,
+      "Progressed": 2505,
       "Completed": 2
     }
   ],
@@ -8154,8 +8159,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:08:27.3419128+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:00:16.4614489+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:58:45.9461306+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:08:27.3419988+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:50:19.0832857+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:00:16.4615343+00:00"
 }

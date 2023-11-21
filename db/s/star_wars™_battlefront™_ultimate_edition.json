@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3919,6 +3919,11 @@
       "Time": "2023-11-21T00:09:28.8084521+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T02:01:09.4229922+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4033,9 +4038,9 @@
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_22",
@@ -4075,7 +4080,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_27",
@@ -4123,7 +4128,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_32",
@@ -4155,7 +4160,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "achievement_36",
@@ -4434,13 +4439,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 1
     }
   ],
@@ -4448,8 +4453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:09:28.8084518+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:01:09.4229919+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:50.863823+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:09:28.808507+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:48.4808508+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:01:09.423056+00:00"
 }

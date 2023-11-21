@@ -1,19 +1,19 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 126)  
+Rating: 4.76 (Ranked 125)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~8,245 |
+| Goofy's Investor | 70.00% | ~8,246 |
 | Photographer | 69.00% | ~8,128 |
-| Valley's Helper | 62.00% | ~7,303 |
-| Constructor | 51.00% | ~6,007 |
-| Renovator | 51.00% | ~6,007 |
-| Bestest Friend | 47.00% | ~5,536 |
+| Valley's Helper | 62.00% | ~7,304 |
+| Constructor | 51.00% | ~6,008 |
+| Renovator | 51.00% | ~6,008 |
+| Bestest Friend | 47.00% | ~5,537 |
 | Banker | 39.00% | ~4,594 |
-| Gardener | 31.00% | ~3,651 |
+| Gardener | 31.00% | ~3,652 |
 | Generous | 25.00% | ~2,945 |
 | Chef Cook | 18.00% | ~2,120 |
 | Miner | 10.00% | ~1,178 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Angler | 5.00% | ~589 |
 | Chit Chatter | 3.00% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,779 (Ranked 158)  
+Progressed: 11,780 (Ranked 158)  
 Completed: 279 (2.37%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,9 +188,10 @@ Completed: 279 (2.37%) (Ranked 120)
 | 2023-11-18 | 11,735 | 279 |
 | 2023-11-19 | 11,764 | 279 |
 | 2023-11-20 | 11,779 | 279 |
+| 2023-11-21 | 11,780 | 279 |
 ## Awards
 Max (Great for Beginners): 1,066  (Ranked 147)  
-Sum: 7,924 (Ranked 107)  
+Sum: 7,925 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -203,7 +204,7 @@ Diff (max vs sum): 40
 | This game is Extremely Fun | 765 |
 | This game has Quickly Understood Controls | 757 |
 | This game has a Creative Community | 675 |
-| This game has Easy Combat | 529 |
+| This game has Easy Combat | 530 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -459,3 +460,4 @@ Diff (max vs sum): 40
 | 2023-11-18 | 4.76 | - | 1,066 | 7,917 |
 | 2023-11-19 | 4.76 | - | 1,066 | 7,922 |
 | 2023-11-20 | 4.76 | - | 1,066 | 7,924 |
+| 2023-11-21 | 4.76 | - | 1,066 | 7,925 |

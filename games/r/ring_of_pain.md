@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.80% | ~12 |
 | Not Touching You | 0.50% | ~7 |
 | First Steps | 0.40% | ~960 |
+| A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
 | Ambitious Intent | 0.30% | ~720 |
 | Nothing To Lose | 0.30% | ~720 |
@@ -18,6 +19,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.30% | ~720 |
 | That Was Quick | 0.30% | ~720 |
 | Colorful Corpse | 0.30% | ~720 |
+| Walk It Off | 0.30% | ~720 |
 | Cold Hearted | 0.30% | ~720 |
 | I Am Overburdened | 0.30% | ~720 |
 | Defeat The Dark | 0.30% | ~720 |
@@ -30,7 +32,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.30% | ~720 |
 | C-C-Combo | 0.30% | ~720 |
 | Deflection | 0.30% | ~720 |
-| A Quick Escape | 0.30% | ~720 |
 | Stone Touch | 0.30% | ~720 |
 | Toxic | 0.30% | ~720 |
 | Explorer | 0.30% | ~720 |
@@ -48,7 +49,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.20% | ~480 |
 | Well Prepared | 0.20% | ~480 |
 | Who To Trust? | 0.20% | ~480 |
-| Walk It Off | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
 | Save Our Souls | 0.20% | ~480 |
 | Destroy Your Fears | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,990 (Ranked 62)  
+Progressed: 239,991 (Ranked 62)  
 Completed: 289 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 289 (0.12%) (Ranked 274)
 | 2023-11-18 | 239,893 | 288 |
 | 2023-11-19 | 239,946 | 288 |
 | 2023-11-20 | 239,989 | 289 |
-| 2023-11-21 | 239,990 | 289 |
+| 2023-11-21 | 239,991 | 289 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,685 (Ranked 83)  

@@ -51,7 +51,7 @@
 | Raiders of the Lost Stone | 10.00% | ~32 |
 | The Rune Sockets of Finitude (Part 1) | 9.00% | ~29 |
 | Mirror, Mirror | 8.00% | ~26 |
-| Untouchable | 7.00% | ~22 |
+| Untouchable | 8.00% | ~26 |
 | Lavalumps on Ice! | 7.00% | ~22 |
 | Rubble and Ashes | 7.00% | ~22 |
 | To Infinity And Beyond! | 7.00% | ~22 |

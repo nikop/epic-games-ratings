@@ -353,9 +353,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 315477,
+  "EOS_Progressed": 315526,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5305,
+  "EOS_NewPlayers": 5306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6723,6 +6723,11 @@
       "Time": "2023-11-21T00:04:03.1157732+00:00",
       "NumProgressed": 315477,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-21T01:55:29.6809128+00:00",
+      "NumProgressed": 315526,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6759,7 +6764,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "S05_SWRA",
@@ -6767,7 +6772,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "S06_LWTC",
@@ -6831,7 +6836,7 @@
       "Name": "No damsels in distress",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S14_ALL_VERYHARD",
@@ -6839,7 +6844,7 @@
       "Name": "The immortal is bound to reborn",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S15_ALL_IMPOSSIBLE",
@@ -6847,7 +6852,7 @@
       "Name": "A legend among Chimeras",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S16_VITALITY",
@@ -6855,7 +6860,7 @@
       "Name": "It\u0027s only pain",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S17_ENTROPY",
@@ -6863,7 +6868,7 @@
       "Name": "I know how to handle it",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S18_CHALLENGE",
@@ -6871,7 +6876,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6310
+      "UsersEstimate": 6311
     },
     {
       "ID": "S19_CHALLENGES",
@@ -6879,7 +6884,7 @@
       "Name": "Settle this once and for all",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S20_KNIGHT",
@@ -6887,7 +6892,7 @@
       "Name": "The Ashen Knight",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S21_WITCH",
@@ -6895,7 +6900,7 @@
       "Name": "The Shade",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S22_CORRUPTED",
@@ -6911,7 +6916,7 @@
       "Name": "Through the Veil",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S24_POSSESSED",
@@ -6919,7 +6924,7 @@
       "Name": "Call this the Judge\u0027s mercy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S25_OTWA",
@@ -6927,7 +6932,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "S26_CRTA",
@@ -6935,7 +6940,7 @@
       "Name": "There\u0027s too many of them!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S27_LWTC",
@@ -6943,7 +6948,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S28_CTHB",
@@ -6951,7 +6956,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S29_RECOVER",
@@ -6975,7 +6980,7 @@
       "Name": "I\u0027ve been waiting for this!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S32_NOHIT",
@@ -6983,7 +6988,7 @@
       "Name": "You want more? I\u0027ve got more!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S33_NORMAL_PLATINUM",
@@ -6991,7 +6996,7 @@
       "Name": "I\u0027m just warming up",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S34_HARD_PLATINUM",
@@ -6999,7 +7004,7 @@
       "Name": "We learned it the hard way",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S35_VERYHARD_PLATINUM",
@@ -7023,7 +7028,7 @@
       "Name": "We strike as one",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "S38_RAPTURE",
@@ -7047,14 +7052,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 315477,
+      "Progressed": 315526,
       "Completed": 4
     }
   ],
@@ -7062,8 +7067,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-20T01:47:08.7095792+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:04:03.1157729+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:55:29.6809125+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:20.4434293+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:04:03.1158219+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:06.5983251+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:55:29.6809632+00:00"
 }

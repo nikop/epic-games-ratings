@@ -12321,9 +12321,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 460274,
+  "EOS_Progressed": 460336,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5208,
+  "EOS_NewPlayers": 5233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36891,6 +36891,11 @@
       "Time": "2023-11-20T23:08:09.237107+00:00",
       "NumProgressed": 460274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T01:54:16.4570976+00:00",
+      "NumProgressed": 460336,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38532,9 +38537,9 @@
       "ID": "achievement_no_country_for_old_tercios",
       "SetID": "8p2n7he",
       "Name": "No Country for Old Tercios",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_no_pirates_in_my_carribean",
@@ -38724,9 +38729,9 @@
       "ID": "achievement_prince_of_egypt",
       "SetID": "8p2n7he",
       "Name": "The Prince of Egypt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_protect_the_secret",
@@ -39284,9 +39289,9 @@
       "ID": "achievement_the_navigator",
       "SetID": "8p2n7he",
       "Name": "The Navigator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_the_ostenders",
@@ -39805,21 +39810,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 460274,
+      "Progressed": 460336,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 460274,
+      "Progressed": 460336,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-20T19:01:42.1261288+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:08:09.2371068+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:54:16.4570972+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:10.6085183+00:00",
-  "LastUpdate_Ratings": "2023-11-21T00:00:12.3361257+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:08:09.2381007+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:53:27.3261653+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:54:16.458853+00:00"
 }

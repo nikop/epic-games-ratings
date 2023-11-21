@@ -10,6 +10,7 @@ Rating: 4.54 (Ranked 525)
 | Pork Chopped | 2.00% | ~943 |
 | Dr. Reed, I Presume? | 1.00% | ~7,216 |
 | Git Gutte! | 1.00% | ~7,216 |
+| Bookworm | 1.00% | ~7,216 |
 | Break A Leg | 1.00% | ~7,216 |
 | Coup de Grâce | 1.00% | ~7,216 |
 | Hazardous Materials | 1.00% | ~7,216 |
@@ -18,11 +19,10 @@ Rating: 4.54 (Ranked 525)
 | Apex Predator | 1.00% | ~7,216 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,216 |
 | Welcome To Hell-A | 1.00% | ~7,216 |
-| Anger Management | 0.90% | ~6,494 |
-| Bookworm | 0.90% | ~6,494 |
-| But Doctor, I am Butcho | 0.90% | ~6,494 |
-| Stacking the Deck | 0.90% | ~6,494 |
-| This is My Weapon | 0.90% | ~6,494 |
+| Anger Management | 0.90% | ~6,495 |
+| But Doctor, I am Butcho | 0.90% | ~6,495 |
+| Stacking the Deck | 0.90% | ~6,495 |
+| This is My Weapon | 0.90% | ~6,495 |
 | Slayer Squad | 0.80% | ~5,773 |
 | Can't Handle the Truth | 0.80% | ~5,773 |
 | Like Riding a Bike | 0.80% | ~5,773 |
@@ -33,22 +33,22 @@ Rating: 4.54 (Ranked 525)
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,051 |
 | Ooh, Shiny! | 0.70% | ~5,051 |
 | I Am the Resurrection | 0.70% | ~5,051 |
+| Max Headroom | 0.70% | ~5,051 |
 | Making Your Mark | 0.60% | ~4,330 |
 | Humanity Distilled | 0.60% | ~4,330 |
-| Max Headroom | 0.60% | ~4,330 |
 | Not Even My Final Form | 0.50% | ~3,608 |
 | Jumbo Keyring | 0.50% | ~3,608 |
 | Down with the Sickness | 0.50% | ~3,608 |
 | Go, Bobcats! | 0.50% | ~3,608 |
 | Rising Star | 0.50% | ~3,608 |
-| On Safari | 0.40% | ~2,886 |
-| Smorgasbord | 0.40% | ~2,886 |
-| Internet Famous | 0.40% | ~2,886 |
-| Variety is the Spice of Death | 0.40% | ~2,886 |
+| On Safari | 0.40% | ~2,887 |
+| Smorgasbord | 0.40% | ~2,887 |
+| Internet Famous | 0.40% | ~2,887 |
+| Variety is the Spice of Death | 0.40% | ~2,887 |
 | Make it So | 0.30% | ~2,165 |
 | LA Influential | 0.30% | ~2,165 |
 | Gore Horse | 0.30% | ~2,165 |
-| Top That, Tisha! | 0.30% | ~141 |
+| Top That, Tisha! | 0.30% | ~142 |
 | Sole Survivor | 0.20% | ~1,443 |
 | Sharpest Tool in the Box | 0.20% | ~1,443 |
 | Survival Skills | 0.20% | ~1,443 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 525)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,601 (Ranked 20)  
+Progressed: 721,630 (Ranked 20)  
 Completed: 2,421 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,14 +272,14 @@ Completed: 2,421 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,601 | 2,421 |
+| 2023-11-21 | 721,630 | 2,421 |
 ## Awards
-Max (Great Boss Battles): 7,589  (Ranked 51)  
-Sum: 11,589 (Ranked 84)  
-Diff (max vs sum): -33  
+Max (Great Boss Battles): 7,618  (Ranked 50)  
+Sum: 11,618 (Ranked 84)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,589 |
+| This game has Great Boss Battles | 7,618 |
 | This game is Great for Beginners | 580 |
 | This game has Diverse Characters | 554 |
 | This game has Quickly Understood Controls | 520 |
@@ -505,4 +505,4 @@ Diff (max vs sum): -33
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
-| 2023-11-21 | 4.54 | 7,589 | 11,589 |
+| 2023-11-21 | 4.54 | 7,618 | 11,618 |

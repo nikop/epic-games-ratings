@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -722,6 +722,11 @@
       "Time": "2023-11-21T00:03:57.6003241+00:00",
       "NumProgressed": 305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T01:55:22.6878228+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -750,7 +755,7 @@
       "Name": "Chosen Victor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -806,15 +811,15 @@
       "Name": "The Artefact is Mine",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteChapter13",
@@ -822,15 +827,15 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteChapter15",
@@ -894,7 +899,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter5",
@@ -1029,14 +1034,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:03:57.6003237+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:55:22.6878225+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:46.9447334+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:03:57.6003489+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:43.2325245+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:55:22.6878433+00:00"
 }

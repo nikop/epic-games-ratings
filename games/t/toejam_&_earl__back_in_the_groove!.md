@@ -1,7 +1,7 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.33 (Ranked 814)  
+Rating: 4.33 (Ranked 813)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,8 +26,8 @@ Rating: 4.33 (Ranked 814)
 | Teamwork Rules | 0.70% | ~405 |
 | Beaten By A Little Girl | 0.60% | ~347 |
 | Totally Bummed Again | 0.60% | ~347 |
-| I Can't Believe I've Done This | 0.50% | ~289 |
-| Piece O' Cake | 0.50% | ~289 |
+| I Can't Believe I've Done This | 0.50% | ~290 |
+| Piece O' Cake | 0.50% | ~290 |
 | Boom Box Baby | 0.40% | ~232 |
 | Flying Present Ultimate Master | 0.40% | ~232 |
 | Ridiculously Generous | 0.40% | ~232 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 814)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,899 (Ranked 106)  
+Progressed: 57,900 (Ranked 106)  
 Completed: 6 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 6 (0.01%) (Ranked 335)
 | 2023-11-18 | 57,858 | 6 |
 | 2023-11-19 | 57,884 | 6 |
 | 2023-11-20 | 57,898 | 6 |
-| 2023-11-21 | 57,899 | 6 |
+| 2023-11-21 | 57,900 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

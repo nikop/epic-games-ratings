@@ -24,10 +24,10 @@
 | Evangelist | 6.00% | ~132 |
 | Make It Your Own! | 5.00% | ~110 |
 | Cherry Blossom and Temples | 4.00% | ~88 |
+| The Road to Liberty | 4.00% | ~88 |
 | I Make the Rules! | 4.00% | ~88 |
 | Spoilt for Choice | 3.00% | ~66 |
 | La Dolce Vita | 3.00% | ~66 |
-| The Road to Liberty | 3.00% | ~66 |
 | Romantic Races | 3.00% | ~66 |
 | Rounding Off | 3.00% | ~66 |
 | Iconic! | 2.00% | ~44 |

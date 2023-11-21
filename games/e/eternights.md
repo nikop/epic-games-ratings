@@ -14,7 +14,7 @@
 | Second wall | 38.00% | ~153 |
 | Expert Scavenger | 37.00% | ~149 |
 | Their Rock | 33.00% | ~133 |
-| Yuna's Promise | 31.00% | ~125 |
+| Yuna's Promise | 32.00% | ~129 |
 | Stone Retriever | 31.00% | ~125 |
 | Find myself | 29.00% | ~117 |
 | Min's Promise | 21.00% | ~85 |

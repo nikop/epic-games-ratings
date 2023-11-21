@@ -4,7 +4,7 @@
   "ProductSlug": "arms-race-2-219fd5",
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -178,8 +178,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:04:26.8375779+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:55:59.4805112+00:00",
   "LastUpdate_AppInfo": "2023-11-14T19:57:04.9497423+00:00",
-  "LastUpdate_Ratings": "2023-11-21T00:02:38.7303315+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:04:26.8375925+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:53:47.8294551+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:55:59.4805193+00:00"
 }

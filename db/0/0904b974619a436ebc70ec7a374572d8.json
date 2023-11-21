@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "ach_picklock23",
       "SetID": "753ghg2",
       "Name": "Tuning Center",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_picklock24",
@@ -316,17 +316,17 @@
       "ID": "ach_picklock5",
       "SetID": "753ghg2",
       "Name": "Time to fly away",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_picklock6",
       "SetID": "753ghg2",
       "Name": "Great bike, bro",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_picklock7",
@@ -340,17 +340,17 @@
       "ID": "ach_picklock8",
       "SetID": "753ghg2",
       "Name": "Meat",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_picklock9",
       "SetID": "753ghg2",
       "Name": "I, the millionaire!",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:08:47.1027065+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:00:42.072946+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:59.7875371+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:58:48.7697182+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:08:47.1027224+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:50:23.2951028+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:00:42.0729577+00:00"
 }

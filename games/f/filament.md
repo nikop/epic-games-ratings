@@ -1,11 +1,11 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 814)  
+Rating: 4.33 (Ranked 813)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~193,377 |
+| Boarded! | 94.00% | ~193,381 |
 | Snooper. | 10.00% | ~20,572 |
 | You have to start somewhere, right? | 8.00% | ~16,458 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,343 |
@@ -35,7 +35,7 @@ Rating: 4.33 (Ranked 814)
 | Snooper + | 0.50% | ~1,029 |
 | Corrupted + | 0.40% | ~823 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,720 (Ranked 72)  
+Progressed: 205,724 (Ranked 72)  
 Completed: 530 (0.26%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,14 +250,14 @@ Completed: 530 (0.26%) (Ranked 243)
 | 2023-11-18 | 205,580 | 528 |
 | 2023-11-19 | 205,659 | 529 |
 | 2023-11-20 | 205,719 | 530 |
-| 2023-11-21 | 205,720 | 530 |
+| 2023-11-21 | 205,724 | 530 |
 ## Awards
-Max (Challenging Puzzles): 571  (Ranked 201)  
-Sum: 666 (Ranked 302)  
+Max (Challenging Puzzles): 572  (Ranked 201)  
+Sum: 667 (Ranked 302)  
 Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 571 |
+| This game features Challenging Puzzles | 572 |
 | This game is Highly Recommended | 25 |
 | This game has Amazing Characters | 25 |
 | This game has Quickly Understood Controls | 24 |
@@ -306,3 +306,4 @@ Diff (max vs sum): -101
 | 2023-11-10 | 4.33 | 569 | 664 |
 | 2023-11-11 | 4.33 | 570 | 665 |
 | 2023-11-12 | 4.33 | 571 | 666 |
+| 2023-11-21 | 4.33 | 572 | 667 |

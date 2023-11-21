@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -609,9 +609,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5836,
+  "EOS_Progressed": 5837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5944,6 +5944,11 @@
       "Time": "2023-11-20T23:08:17.5525438+00:00",
       "NumProgressed": 5836,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T01:59:31.628535+00:00",
+      "NumProgressed": 5837,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -6004,7 +6009,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "achievement_0008",
@@ -6012,7 +6017,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5137
     },
     {
       "ID": "achievement_0009",
@@ -6116,7 +6121,7 @@
       "Name": "Team Orders",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4377
+      "UsersEstimate": 4378
     },
     {
       "ID": "achievement_0022",
@@ -6132,7 +6137,7 @@
       "Name": "Sharing the Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "achievement_0024",
@@ -6292,7 +6297,7 @@
       "Name": "Familiar Faces",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "achievement_0044",
@@ -6300,7 +6305,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "achievement_0045",
@@ -6347,7 +6352,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5836,
+      "Progressed": 5837,
       "Completed": 0
     }
   ],
@@ -6355,8 +6360,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-20T19:57:26.3559008+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:07:52.6783617+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:59:31.6285348+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:57:12.7976311+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:07:52.6784104+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:48:12.4964403+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:59:31.6285797+00:00"
 }

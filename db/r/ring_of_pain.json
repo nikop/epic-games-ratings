@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3436,7 +3436,7 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 239990,
+  "EOS_Progressed": 239991,
   "EOS_Completed": 289,
   "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 1,
@@ -25676,6 +25676,11 @@
       "Time": "2023-11-21T00:09:29.5761964+00:00",
       "NumProgressed": 239990,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-11-21T02:01:10.2281063+00:00",
+      "NumProgressed": 239991,
+      "NumCompleted": 289
     }
   ],
   "TotalAchievements": 138,
@@ -25917,9 +25922,9 @@
       "ID": "FATALPOISONESCAPE",
       "SetID": "5l8oe0h",
       "Name": "Walk It Off",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 720
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -26333,9 +26338,9 @@
       "ID": "PASSIVEROOM",
       "SetID": "5l8oe0h",
       "Name": "A Quick Escape",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 960
     },
     {
       "ID": "PETRIFY50",
@@ -26790,13 +26795,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239990,
+      "Progressed": 239991,
       "Completed": 289
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 383
     }
   ],
@@ -26804,8 +26809,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-20T13:59:45.1421719+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:09:29.5761962+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:01:10.228106+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:35.1771158+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:09:29.5764179+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:26.8067831+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:01:10.228329+00:00"
 }

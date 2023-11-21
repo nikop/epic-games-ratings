@@ -10,8 +10,8 @@
 | Conquered | 20.00% | ~40 |
 | Randomized | 18.00% | ~36 |
 | Scribe | 11.00% | ~22 |
+| Breached | 11.00% | ~22 |
 | Tactician | 10.00% | ~20 |
-| Breached | 10.00% | ~20 |
 | Conciliator | 9.00% | ~18 |
 | Acquaintance | 8.00% | ~16 |
 | Fight Another Day | 8.00% | ~16 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 381)  
+Progressed: 199 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |

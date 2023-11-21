@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4687,10 +4687,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7924,
       "NumberOfAwardsMax": 1066
+    },
+    {
+      "Time": "2023-11-21T01:51:47.7892296+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7925,
+      "NumberOfAwardsMax": 1066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7924,
+  "NumberOfAwards": 7925,
   "NumberOfAwardsMax": 1066,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4758,13 +4764,13 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 529
+      "Count": 530
     }
   ],
-  "EOS_Progressed": 11779,
+  "EOS_Progressed": 11780,
   "EOS_Completed": 279,
   "EOS_NewPlayers": 140,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
@@ -19161,6 +19167,11 @@
       "Time": "2023-11-20T21:06:11.8082998+00:00",
       "NumProgressed": 11779,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-21T01:54:18.1421277+00:00",
+      "NumProgressed": 11780,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 15,
@@ -19188,7 +19199,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5536
+      "UsersEstimate": 5537
     },
     {
       "ID": "Chef_Cook",
@@ -19212,7 +19223,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "Duty_Bound",
@@ -19228,7 +19239,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "Generous",
@@ -19244,7 +19255,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8245
+      "UsersEstimate": 8246
     },
     {
       "ID": "Miner",
@@ -19268,7 +19279,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 6007
+      "UsersEstimate": 6008
     },
     {
       "ID": "Thorn_Cleaner",
@@ -19284,23 +19295,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7303
+      "UsersEstimate": 7304
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11779,
+      "Progressed": 11780,
       "Completed": 279
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-20T21:59:45.5008945+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:03:07.4363865+00:00",
+  "LastChanged": "2023-11-21T01:51:47.7892294+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:54:18.1421275+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:50.3646731+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:03:07.4380643+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:47.7892301+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:54:18.1421953+00:00"
 }

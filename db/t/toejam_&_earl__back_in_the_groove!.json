@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 106,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57899,
+  "EOS_Progressed": 57900,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12841,6 +12841,11 @@
       "Time": "2023-11-21T00:07:57.8121718+00:00",
       "NumProgressed": 57899,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-21T01:59:38.5533776+00:00",
+      "NumProgressed": 57900,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12884,7 +12889,7 @@
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "CantTouchThis",
@@ -13100,7 +13105,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Randomizer",
@@ -13243,7 +13248,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57899,
+      "Progressed": 57900,
       "Completed": 6
     }
   ],
@@ -13251,8 +13256,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:07:57.8121713+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:59:38.5533773+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:33.7796714+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:07:57.8122708+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:24.8868779+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:59:38.5534565+00:00"
 }

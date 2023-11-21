@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,502 |
-| Alt+F4 | 8.00% | ~19,086 |
-| Where's that freaking Dwarf? | 7.00% | ~16,700 |
-| Déjà vu | 6.00% | ~14,315 |
-| Sock! SOCK! | 5.00% | ~11,929 |
-| Speedrun | 5.00% | ~11,929 |
-| A beer, two curses, three companions | 4.00% | ~9,543 |
-| GG EZ | 4.00% | ~9,543 |
-| DM intervention | 4.00% | ~9,543 |
-| Fireproof Wizardess | 4.00% | ~9,543 |
-| Livin' in a dwarven paradise | 3.00% | ~7,157 |
-| Way of the Wimp | 3.00% | ~7,157 |
-| The plot thickens... At the tavern | 3.00% | ~7,157 |
+| Sowwy! | 35.00% | ~83,508 |
+| Alt+F4 | 8.00% | ~19,087 |
+| Where's that freaking Dwarf? | 7.00% | ~16,702 |
+| Déjà vu | 6.00% | ~14,316 |
+| Sock! SOCK! | 5.00% | ~11,930 |
+| Speedrun | 5.00% | ~11,930 |
+| A beer, two curses, three companions | 4.00% | ~9,544 |
+| GG EZ | 4.00% | ~9,544 |
+| DM intervention | 4.00% | ~9,544 |
+| Fireproof Wizardess | 4.00% | ~9,544 |
+| Livin' in a dwarven paradise | 3.00% | ~7,158 |
+| Way of the Wimp | 3.00% | ~7,158 |
+| The plot thickens... At the tavern | 3.00% | ~7,158 |
 | Shiny and Crôm | 2.00% | ~4,772 |
 | The demons' feast | 2.00% | ~4,772 |
 | The Great Library | 2.00% | ~4,772 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.90% | ~2,147 |
 | Lëgal Legend | 0.80% | ~1,909 |
 | We come in peace | 0.70% | ~1,670 |
-| Holistic Adventuring Party | 0.60% | ~1,431 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,431 |
+| Holistic Adventuring Party | 0.60% | ~1,432 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,432 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,193 |
 | Law and Order | 0.50% | ~1,193 |
 | I'd rather... Just... Sing! | 0.40% | ~954 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~239 |
 | Dwarf Candy | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,578 (Ranked 63)  
+Progressed: 238,593 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,14 +269,14 @@ Completed: 7 (0.00%) (Ranked 357)
 | 2023-11-18 | 238,073 | 7 |
 | 2023-11-19 | 238,375 | 7 |
 | 2023-11-20 | 238,570 | 7 |
-| 2023-11-21 | 238,578 | 7 |
+| 2023-11-21 | 238,593 | 7 |
 ## Awards
-Max (Character Customization): 235  (Ranked 272)  
-Sum: 472 (Ranked 330)  
+Max (Character Customization): 237  (Ranked 272)  
+Sum: 474 (Ranked 330)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 235 |
+| This game has Inclusive Character Customization | 237 |
 | This game is Relaxing | 37 |
 | This game is Great for Beginners | 34 |
 | This game has Amazing Storytelling | 30 |
@@ -469,3 +469,4 @@ Diff (max vs sum): -58
 | 2023-11-18 | 4.59 | - | 231 | 467 |
 | 2023-11-19 | 4.58 | - | 235 | 471 |
 | 2023-11-20 | 4.58 | - | 235 | 472 |
+| 2023-11-21 | 4.58 | - | 237 | 474 |

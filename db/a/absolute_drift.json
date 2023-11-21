@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1551712,
+  "EOS_Progressed": 1551726,
   "EOS_Completed": 730,
-  "EOS_NewPlayers": 1304,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24924,6 +24924,11 @@
       "Time": "2023-11-21T00:03:18.1843795+00:00",
       "NumProgressed": 1551712,
       "NumCompleted": 730
+    },
+    {
+      "Time": "2023-11-21T01:54:32.0538022+00:00",
+      "NumProgressed": 1551726,
+      "NumCompleted": 730
     }
   ],
   "TotalAchievements": 20,
@@ -24943,7 +24948,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108620
+      "UsersEstimate": 108621
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -24951,7 +24956,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31034
+      "UsersEstimate": 31035
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -24967,7 +24972,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46551
+      "UsersEstimate": 46552
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -24983,7 +24988,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139654
+      "UsersEstimate": 139655
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -25007,7 +25012,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31034
+      "UsersEstimate": 31035
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -25015,7 +25020,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46551
+      "UsersEstimate": 46552
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -25023,7 +25028,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 31034
+      "UsersEstimate": 31035
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -25031,7 +25036,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 155171
+      "UsersEstimate": 155173
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -25047,7 +25052,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139654
+      "UsersEstimate": 139655
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -25063,7 +25068,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31034
+      "UsersEstimate": 31035
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -25094,15 +25099,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1551712,
+      "Progressed": 1551726,
       "Completed": 730
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-11-20T10:57:26.3491363+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:03:18.1843791+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:54:32.0538018+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.8905765+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:57:47.6158947+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:03:18.1845077+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:48:59.3742459+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:54:32.0539238+00:00"
 }

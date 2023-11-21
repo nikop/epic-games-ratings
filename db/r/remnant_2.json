@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 69,
@@ -4429,10 +4429,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 5576,
       "NumberOfAwardsMax": 2358
+    },
+    {
+      "Time": "2023-11-21T01:54:10.697345+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 5581,
+      "NumberOfAwardsMax": 2358
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5576,
+  "NumberOfAwards": 5581,
   "NumberOfAwardsMax": 2358,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4458,7 +4464,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 338
+      "Count": 343
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4503,10 +4509,10 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 224708,
+  "EOS_Progressed": 224733,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 4324,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 4334,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19078,6 +19084,11 @@
       "Time": "2023-11-21T00:08:15.8126383+00:00",
       "NumProgressed": 224708,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-11-21T02:00:01.8929826+00:00",
+      "NumProgressed": 224733,
+      "NumCompleted": 495
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19490,7 +19501,7 @@
       "Name": "Regicide",
       "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19506,7 +19517,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19529,22 +19540,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 224708,
+      "Progressed": 224733,
       "Completed": 495
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 3873,
+      "Progressed": 3898,
       "Completed": 126
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-20T22:02:53.3035894+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:08:15.812638+00:00",
+  "LastChanged": "2023-11-21T01:54:10.6973446+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:00:01.8929824+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-21T00:02:57.9244589+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:08:15.8127494+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:54:10.6973455+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:00:01.8930878+00:00"
 }

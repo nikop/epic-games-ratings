@@ -130,6 +130,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | My True Friend | 0.10% | ~460 |
 | Narcissism | 0.10% | ~460 |
 | Networking | 0.10% | ~460 |
+| No Country for Old Tercios | 0.10% | ~460 |
 | No Pirates in my Caribbean | 0.10% | ~460 |
 | Nobody wants to die | 0.10% | ~460 |
 | Not just Pizza | 0.10% | ~460 |
@@ -144,6 +145,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Poland can into space | 0.10% | ~460 |
 | Populists in Government | 0.10% | ~460 |
 | Prester John | 0.10% | ~460 |
+| The Prince of Egypt | 0.10% | ~460 |
 | Protect the Secret | 0.10% | ~460 |
 | Pyramid of Skulls | 0.10% | ~460 |
 | Qing of China | 0.10% | ~460 |
@@ -185,6 +187,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Continuation of Diplomacy | 0.10% | ~460 |
 | The Five Colonies | 0.10% | ~460 |
 | The Grand Armada | 0.10% | ~460 |
+| The Navigator | 0.10% | ~460 |
 | The pen is mightier than the sword | 0.10% | ~460 |
 | The Power of Three | 0.10% | ~460 |
 | The Princess is in this Castle | 0.10% | ~460 |
@@ -308,7 +311,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
-| No Country for Old Tercios | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
@@ -318,7 +320,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pandya Empire | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
-| The Prince of Egypt | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
@@ -347,7 +348,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Freest Man in the World | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
-| The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460,274 (Ranked 41)  
+Progressed: 460,336 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -585,6 +585,7 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 458,780 | 1 |
 | 2023-11-19 | 459,684 | 1 |
 | 2023-11-20 | 460,274 | 1 |
+| 2023-11-21 | 460,336 | 1 |
 ## Awards
 Max (Educational): 7,086  (Ranked 54)  
 Sum: 58,382 (Ranked 24)  

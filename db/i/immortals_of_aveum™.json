@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1369,17 +1369,17 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_14",
@@ -1529,9 +1529,9 @@
       "ID": "achievement_41",
       "SetID": "18al4io",
       "Name": "Armaments Azure",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_42",
@@ -1730,8 +1730,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-19T13:02:21.5491129+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:08:16.4033006+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:00:02.5508424+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-21T00:00:05.9382928+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:08:16.4033441+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:52:08.4761842+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:00:02.5508978+00:00"
 }

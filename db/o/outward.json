@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5610,9 +5610,9 @@
       "ID": "AceDetective_9",
       "SetID": "c4hee28",
       "Name": "Ace Detective",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 330
     },
     {
       "ID": "AncestorsPride_13",
@@ -5946,8 +5946,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:03:36.5906171+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:54:55.6562898+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:58:53.0767971+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:03:36.5906728+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:50:29.1940568+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:54:55.6563374+00:00"
 }

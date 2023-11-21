@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2342,6 +2342,11 @@
       "Time": "2023-11-20T19:08:21.3465494+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T01:59:29.9985979+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2354,7 +2359,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 941
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2362,7 +2367,7 @@
       "Name": "Acrobat",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2370,7 +2375,7 @@
       "Name": "Out of control",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2402,7 +2407,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2482,7 +2487,7 @@
       "Name": "Solo",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2498,7 +2503,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2608,9 +2613,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 504
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2618,7 +2623,7 @@
       "Name": "Beyond the limit",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2626,7 +2631,7 @@
       "Name": "Extra gear",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2690,27 +2695,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1120,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 786,
-      "Completed": 786
+      "Progressed": 788,
+      "Completed": 788
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:07:51.4462741+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:59:29.9985976+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:59:19.8607967+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:07:51.4463072+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:51:05.7471466+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:59:29.998635+00:00"
 }

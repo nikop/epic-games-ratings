@@ -5,32 +5,32 @@ Rating: 4.43 (Ranked 691)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 19.00% | ~3,980 |
-| Sector 2 | 17.00% | ~3,561 |
-| Crush That Cube! | 15.00% | ~3,142 |
-| Sector 3 | 15.00% | ~3,142 |
-| Crush That Ball! | 12.00% | ~2,514 |
-| Sector 4 | 12.00% | ~2,514 |
-| Sector 5 | 8.00% | ~1,676 |
-| Sector 6 | 7.00% | ~1,466 |
-| Feeling the Blues | 5.00% | ~1,047 |
-| Squished | 5.00% | ~1,047 |
-| Finale | 5.00% | ~1,047 |
-| Sector 7 | 5.00% | ~1,047 |
+| Sector 1 | 19.00% | ~3,982 |
+| Sector 2 | 17.00% | ~3,563 |
+| Crush That Cube! | 15.00% | ~3,144 |
+| Sector 3 | 15.00% | ~3,144 |
+| Crush That Ball! | 12.00% | ~2,515 |
+| Sector 4 | 12.00% | ~2,515 |
+| Sector 5 | 8.00% | ~1,677 |
+| Sector 6 | 7.00% | ~1,467 |
+| Feeling the Blues | 5.00% | ~1,048 |
+| Squished | 5.00% | ~1,048 |
+| Finale | 5.00% | ~1,048 |
+| Sector 7 | 5.00% | ~1,048 |
 | Did That Work? -- No! | 4.00% | ~838 |
-| Master Room | 3.00% | ~628 |
+| Master Room | 3.00% | ~629 |
 | The Puzzle Master | 2.00% | ~419 |
-| The Collector | 1.00% | ~209 |
-| Bronze Trophy | 1.00% | ~209 |
-| Master Of The Collectables | 1.00% | ~209 |
-| Gold Trophy | 1.00% | ~209 |
-| Hopefully that's all of them! | 1.00% | ~209 |
-| Phew! | 1.00% | ~209 |
-| Silver Trophy | 1.00% | ~209 |
-| Completed It. | 1.00% | ~209 |
-| Maxed Out | 1.00% | ~209 |
+| The Collector | 1.00% | ~210 |
+| Bronze Trophy | 1.00% | ~210 |
+| Master Of The Collectables | 1.00% | ~210 |
+| Gold Trophy | 1.00% | ~210 |
+| Hopefully that's all of them! | 1.00% | ~210 |
+| Phew! | 1.00% | ~210 |
+| Silver Trophy | 1.00% | ~210 |
+| Completed It. | 1.00% | ~210 |
+| Maxed Out | 1.00% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,948 (Ranked 135)  
+Progressed: 20,958 (Ranked 135)  
 Completed: 82 (0.39%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 82 (0.39%) (Ranked 217)
 | 2023-11-18 | 20,384 | 71 |
 | 2023-11-19 | 20,715 | 75 |
 | 2023-11-20 | 20,943 | 82 |
-| 2023-11-21 | 20,948 | 82 |
+| 2023-11-21 | 20,958 | 82 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

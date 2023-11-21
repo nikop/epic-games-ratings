@@ -23,8 +23,8 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Faith | 13.00% | ~477 |
 | Strange amalgams | 12.00% | ~440 |
 | The Power of Freedom | 10.00% | ~367 |
+| Ace Detective | 9.00% | ~330 |
 | Magic is a science | 9.00% | ~330 |
-| Ace Detective | 8.00% | ~294 |
 | Gift from the Ancestors | 8.00% | ~294 |
 | House of Cards | 8.00% | ~294 |
 | Let ‘em eat magma! | 7.00% | ~257 |

@@ -693,9 +693,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3727,
+  "EOS_Progressed": 3728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5588,6 +5588,11 @@
       "Time": "2023-11-21T00:05:48.9907689+00:00",
       "NumProgressed": 3727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T01:57:43.4763572+00:00",
+      "NumProgressed": 3728,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5608,7 +5613,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "achievement_11",
@@ -5624,7 +5629,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "achievement_13",
@@ -5688,7 +5693,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_20",
@@ -5696,7 +5701,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "achievement_21",
@@ -5728,7 +5733,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_6",
@@ -5767,7 +5772,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3727,
+      "Progressed": 3728,
       "Completed": 0
     }
   ],
@@ -5775,8 +5780,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-20T23:58:50.4899743+00:00",
-  "LastChanged_Achievements": "2023-11-21T00:05:48.9907685+00:00",
+  "LastChanged_Achievements": "2023-11-21T01:57:43.4763569+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:58:50.4899748+00:00",
-  "LastUpdate_Achievements": "2023-11-21T00:05:48.9908032+00:00"
+  "LastUpdate_Ratings": "2023-11-21T01:50:25.5623473+00:00",
+  "LastUpdate_Achievements": "2023-11-21T01:57:43.4763928+00:00"
 }
