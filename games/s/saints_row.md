@@ -6,26 +6,26 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~36,524 |
-| To The Nines | 42.00% | ~33,348 |
-| Optimized | 37.00% | ~29,378 |
-| Performance Review | 36.00% | ~28,584 |
-| Making a Name | 35.00% | ~27,790 |
-| Tune Up | 34.00% | ~26,996 |
-| Landlord | 33.00% | ~26,202 |
-| Wet Work | 32.00% | ~25,408 |
-| The Side Job | 31.00% | ~24,614 |
-| Wrecking Ball | 28.00% | ~22,232 |
-| Food for Thought | 27.00% | ~21,438 |
-| Finders Keepers | 26.00% | ~20,644 |
-| A Young Empire | 26.00% | ~20,644 |
-| Work Ethic | 23.00% | ~18,262 |
-| Picking Fights | 20.00% | ~15,880 |
-| Power Players | 19.00% | ~15,086 |
-| Quality Time | 18.00% | ~14,292 |
-| Showdown | 17.00% | ~13,498 |
-| Et tu? | 17.00% | ~13,498 |
-| Took It to The Limit | 17.00% | ~13,498 |
+| First F#@!ing Day | 46.00% | ~36,525 |
+| To The Nines | 42.00% | ~33,349 |
+| Optimized | 37.00% | ~29,379 |
+| Performance Review | 36.00% | ~28,585 |
+| Making a Name | 35.00% | ~27,791 |
+| Tune Up | 34.00% | ~26,997 |
+| Landlord | 33.00% | ~26,203 |
+| Wet Work | 32.00% | ~25,409 |
+| The Side Job | 31.00% | ~24,615 |
+| Wrecking Ball | 28.00% | ~22,233 |
+| Food for Thought | 27.00% | ~21,439 |
+| Finders Keepers | 26.00% | ~20,645 |
+| A Young Empire | 26.00% | ~20,645 |
+| Work Ethic | 23.00% | ~18,263 |
+| Picking Fights | 20.00% | ~15,881 |
+| Power Players | 19.00% | ~15,087 |
+| Quality Time | 18.00% | ~14,293 |
+| Showdown | 17.00% | ~13,499 |
+| Et tu? | 17.00% | ~13,499 |
+| Took It to The Limit | 17.00% | ~13,499 |
 | Kitted Out | 14.00% | ~11,116 |
 | Masters of Santo Ileso | 12.00% | ~9,528 |
 | Hijacked | 11.00% | ~8,734 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~159 |
 | Fiesta Time | 0.20% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,400 (Ranked 96)  
+Progressed: 79,403 (Ranked 96)  
 Completed: 51 (0.06%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 51 (0.06%) (Ranked 299)
 | 2023-11-18 | 79,069 | 51 |
 | 2023-11-19 | 79,252 | 51 |
 | 2023-11-20 | 79,366 | 51 |
-| 2023-11-21 | 79,400 | 51 |
+| 2023-11-21 | 79,403 | 51 |
 ## Awards
 Max (Extremely Fun): 1,076  (Ranked 146)  
 Sum: 8,735 (Ranked 98)  

@@ -8902,18 +8902,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 15363,
       "NumberOfAwardsMax": 7405
+    },
+    {
+      "Time": "2023-11-21T06:58:59.0075781+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15368,
+      "NumberOfAwardsMax": 7410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15363,
-  "NumberOfAwardsMax": 7405,
+  "NumberOfAwards": 15368,
+  "NumberOfAwardsMax": 7410,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7405
+      "Count": 7410
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8982,7 +8988,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65529,
+  "EOS_Progressed": 65531,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
@@ -31562,6 +31568,11 @@
       "Time": "2023-11-21T06:10:04.5362515+00:00",
       "NumProgressed": 65529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T07:09:34.9416268+00:00",
+      "NumProgressed": 65531,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31629,7 +31640,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "Crackshot",
@@ -31645,7 +31656,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "Duelist",
@@ -31765,7 +31776,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11795
+      "UsersEstimate": 11796
     },
     {
       "ID": "Kingslayer",
@@ -31853,7 +31864,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     },
     {
       "ID": "Real Estate",
@@ -31980,15 +31991,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65529,
+      "Progressed": 65531,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-21T03:58:56.11016+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:10:04.5362512+00:00",
+  "LastChanged": "2023-11-21T06:58:59.0075779+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:09:34.9416265+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:59:49.4258943+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:10:04.536432+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:58:59.0075785+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:09:34.9417424+00:00"
 }

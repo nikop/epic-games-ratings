@@ -511,9 +511,9 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 611190,
+  "EOS_Progressed": 611192,
   "EOS_Completed": 546,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -24601,6 +24601,11 @@
       "Time": "2023-11-21T06:07:11.153696+00:00",
       "NumProgressed": 611190,
       "NumCompleted": 546
+    },
+    {
+      "Time": "2023-11-21T07:05:53.6177614+00:00",
+      "NumProgressed": 611192,
+      "NumCompleted": 546
     }
   ],
   "TotalAchievements": 28,
@@ -24676,7 +24681,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 372826
+      "UsersEstimate": 372827
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -24724,7 +24729,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 293371
+      "UsersEstimate": 293372
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -24732,7 +24737,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 305595
+      "UsersEstimate": 305596
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -24740,7 +24745,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 568407
+      "UsersEstimate": 568409
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -24772,7 +24777,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 403385
+      "UsersEstimate": 403387
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -24780,7 +24785,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 110014
+      "UsersEstimate": 110015
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -24788,7 +24793,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 323931
+      "UsersEstimate": 323932
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -24835,15 +24840,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 611190,
+      "Progressed": 611192,
       "Completed": 546
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-11-16T16:58:16.9123223+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:07:11.1536958+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:05:53.6177611+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:33.769724+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:57:17.380503+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:07:11.1538143+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:57:08.7075637+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:05:53.6178985+00:00"
 }

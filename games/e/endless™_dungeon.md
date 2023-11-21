@@ -23,6 +23,7 @@
 | Turret Syndrome | 2.00% | ~22 |
 | Endless Biographer | 1.00% | ~11 |
 | Grab 'Em All | 0.30% | ~3 |
+| All Your Secrets Are Belong to Us | 0.10% | ~1 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
 | Finishing an Endless Story | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Technophobia | 0.00% | ~0 |
 | Noob Nirvana | 0.00% | ~0 |
 | Nothing Fancy | 0.00% | ~0 |
-| All Your Secrets Are Belong to Us | 0.00% | ~0 |
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

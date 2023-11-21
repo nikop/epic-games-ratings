@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10654,
+  "EOS_Progressed": 10659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1444,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6094,6 +6094,11 @@
       "Time": "2023-11-21T06:06:47.7542109+00:00",
       "NumProgressed": 10654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T07:05:36.2921276+00:00",
+      "NumProgressed": 10659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -6202,7 +6207,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -6210,7 +6215,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -6218,7 +6223,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -6297,14 +6302,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 10654,
+      "Progressed": 10659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:06:47.7542105+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:05:36.2921273+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.1009511+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:59:28.56681+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:06:47.7542455+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:58:42.9286229+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:05:36.292173+00:00"
 }

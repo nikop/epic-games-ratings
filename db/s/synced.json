@@ -1119,7 +1119,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 67150,
+  "EOS_Progressed": 67152,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 2,
@@ -9904,6 +9904,11 @@
       "Time": "2023-11-21T06:05:59.7470581+00:00",
       "NumProgressed": 67150,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T07:05:00.481728+00:00",
+      "NumProgressed": 67152,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9916,7 +9921,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22831
+      "UsersEstimate": 22832
     },
     {
       "ID": "10",
@@ -9932,7 +9937,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "12",
@@ -9940,7 +9945,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "13",
@@ -10043,7 +10048,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67150,
+      "Progressed": 67152,
       "Completed": 35
     }
   ],
@@ -10051,8 +10056,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-19T04:59:48.9534325+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:05:59.7470577+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:05:00.4817278+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:57:12.2039916+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:05:59.7471096+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:57:04.6534816+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:05:00.4817893+00:00"
 }

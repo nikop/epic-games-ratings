@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15172,
+  "EOS_Progressed": 15174,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11757,6 +11757,11 @@
       "Time": "2023-11-21T05:04:15.9531611+00:00",
       "NumProgressed": 15172,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T07:03:48.2696025+00:00",
+      "NumProgressed": 15174,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11801,7 +11806,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "14",
@@ -12015,9 +12020,9 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "33",
@@ -12048,22 +12053,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15172,
+      "Progressed": 15174,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1126,
-      "Completed": 662
+      "Progressed": 1128,
+      "Completed": 663
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:04:21.9234061+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:03:48.2696022+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:00:32.3431807+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:04:21.9234889+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:59:28.429522+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:03:48.2696872+00:00"
 }

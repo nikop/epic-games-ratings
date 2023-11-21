@@ -7129,9 +7129,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140754,
+  "EOS_Progressed": 140756,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29239,6 +29239,11 @@
       "Time": "2023-11-21T05:06:35.4862448+00:00",
       "NumProgressed": 140754,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-21T07:05:33.4203233+00:00",
+      "NumProgressed": 140756,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29352,9 +29357,9 @@
       "ID": "blueprint01",
       "SetID": "anfd17p",
       "Name": "Some Assembly Required",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2815
+      "UsersEstimate": 4223
     },
     {
       "ID": "blueprint02",
@@ -30145,15 +30150,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140754,
+      "Progressed": 140756,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-20T00:01:54.2870534+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:06:43.8343429+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:05:33.4203231+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:02:58.5822581+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:06:43.8345244+00:00"
+  "LastUpdate_Ratings": "2023-11-21T07:02:48.2393688+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:05:33.4205111+00:00"
 }

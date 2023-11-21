@@ -7931,9 +7931,9 @@
       "Count": 1194
     }
   ],
-  "EOS_Progressed": 843492,
+  "EOS_Progressed": 843505,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 4768,
+  "EOS_NewPlayers": 4766,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29046,6 +29046,11 @@
       "Time": "2023-11-21T06:07:40.2886136+00:00",
       "NumProgressed": 843492,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2023-11-21T07:06:20.0976606+00:00",
+      "NumProgressed": 843505,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 75,
@@ -29057,7 +29062,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 210873
+      "UsersEstimate": 210876
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -29065,7 +29070,7 @@
       "Name": "All or Nothing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_ARIZONA_KILLER",
@@ -29073,7 +29078,7 @@
       "Name": "Arizona Killer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACHIEVEMENT_ARTFUL_POCKETER",
@@ -29081,7 +29086,7 @@
       "Name": "Artful Pocketer",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENT_ASSEMBLE_YOUR_CREW",
@@ -29105,7 +29110,7 @@
       "Name": "Caravan Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENT_CARDIAC_ARREST",
@@ -29129,7 +29134,7 @@
       "Name": "Combat Veteran",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENT_COME_FLY_WITH_ME",
@@ -29169,7 +29174,7 @@
       "Name": "Desert Survivalist",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACHIEVEMENT_DOUBLE_DOWN",
@@ -29193,7 +29198,7 @@
       "Name": "Eureka!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5904
+      "UsersEstimate": 5905
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -29217,7 +29222,7 @@
       "Name": "Globe Trotter",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACHIEVEMENT_HACK_THE_MOJAVE",
@@ -29233,7 +29238,7 @@
       "Name": "Hardcore",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACHIEVEMENT_HAVING_A_BALL",
@@ -29289,7 +29294,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -29337,7 +29342,7 @@
       "Name": "May my Hand Forget its Skill",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_MOD_MASTER",
@@ -29345,7 +29350,7 @@
       "Name": "Mod Master",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_NEW_KID",
@@ -29433,7 +29438,7 @@
       "Name": "Pros Only",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENT_RENDER_UNTO_CAESAR",
@@ -29441,7 +29446,7 @@
       "Name": "Render Unto Caesar",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACHIEVEMENT_RESTORE_OUR_FORTUNES",
@@ -29481,7 +29486,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 5904
+      "UsersEstimate": 5905
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -29553,7 +29558,7 @@
       "Name": "The House Always Wins",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_THE_LEGEND_OF_THE_STAR",
@@ -29561,7 +29566,7 @@
       "Name": "The Legend of the Star",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_THE_WHOLE_GANGS_HERE",
@@ -29585,7 +29590,7 @@
       "Name": "Up to the Challenge",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENT_VENI_VIDI_VICI",
@@ -29593,7 +29598,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "ACHIEVEMENT_VOLARE",
@@ -29656,13 +29661,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 843492,
+      "Progressed": 843505,
       "Completed": 246
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 843492,
+      "Progressed": 843505,
       "Completed": 202
     }
   ],
@@ -29670,8 +29675,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-21T05:00:56.4527818+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:07:40.2886132+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:06:20.0976603+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.3200366+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:00:40.2866307+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:07:40.2887998+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:59:33.9549185+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:06:20.0978051+00:00"
 }

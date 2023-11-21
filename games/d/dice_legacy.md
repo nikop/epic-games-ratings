@@ -21,8 +21,8 @@ Rating: 4.26 (Ranked 869)
 | Ascended | 4.00% | ~47 |
 | Incredible Strength | 4.00% | ~47 |
 | Prophecy Fulfilled | 4.00% | ~47 |
+| The Greedy Ones | 3.00% | ~35 |
 | The First King | 2.00% | ~23 |
-| The Greedy Ones | 2.00% | ~23 |
 | The Unruly Ones | 2.00% | ~23 |
 | The great fire | 1.00% | ~12 |
 | The Council | 1.00% | ~12 |

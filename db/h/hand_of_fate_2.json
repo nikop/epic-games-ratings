@@ -931,9 +931,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664887,
+  "EOS_Progressed": 664888,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21256,6 +21256,11 @@
       "Time": "2023-11-21T05:06:23.9355353+00:00",
       "NumProgressed": 664887,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-21T07:05:24.994855+00:00",
+      "NumProgressed": 664888,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -21275,7 +21280,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385634
+      "UsersEstimate": 385635
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -21507,7 +21512,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79786
+      "UsersEstimate": 79787
     },
     {
       "ID": "Achievement_32_Karma",
@@ -21650,15 +21655,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664887,
+      "Progressed": 664888,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-20T19:57:14.4604137+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:06:32.2938088+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:05:24.9948549+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:57:24.3239737+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:06:32.2939144+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:57:13.7269444+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:05:24.994961+00:00"
 }

@@ -7,13 +7,13 @@ Number of Ratings: 1,316  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wallbanger | 5.00% | ~24,336 |
-| Exploitative | 4.00% | ~19,468 |
-| Point Shooting | 4.00% | ~19,468 |
-| Wet Feet | 4.00% | ~19,468 |
-| High Speed Low Drag | 3.00% | ~14,601 |
-| Lucky | 3.00% | ~14,601 |
-| Stylin' | 3.00% | ~14,601 |
-| Turf War | 3.00% | ~14,601 |
+| Exploitative | 4.00% | ~19,469 |
+| Point Shooting | 4.00% | ~19,469 |
+| Wet Feet | 4.00% | ~19,469 |
+| High Speed Low Drag | 3.00% | ~14,602 |
+| Lucky | 3.00% | ~14,602 |
+| Stylin' | 3.00% | ~14,602 |
+| Turf War | 3.00% | ~14,602 |
 | Banged | 2.00% | ~9,734 |
 | Checkpoint Victory | 2.00% | ~9,734 |
 | First Blood | 2.00% | ~9,734 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~487 |
 | Road Hazard | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,712 (Ranked 38)  
+Progressed: 486,722 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,10 +257,10 @@ Completed: 2 (0.00%) (Ranked 357)
 | 2023-11-18 | 485,491 | 2 |
 | 2023-11-19 | 486,083 | 2 |
 | 2023-11-20 | 486,555 | 2 |
-| 2023-11-21 | 486,712 | 2 |
+| 2023-11-21 | 486,722 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 232)  
-Sum: 3,172 (Ranked 173)  
+Sum: 3,173 (Ranked 173)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): 59
 | This game has Challenging Combat | 385 |
 | This game is Extremely Fun | 366 |
 | This game has Competitive Players | 365 |
-| This game is Highly Recommended | 351 |
+| This game is Highly Recommended | 352 |
 | This game has Amazing Characters | 338 |
 | This game has Realistic Visuals | 337 |
 | This game has Amazing Storytelling | 332 |
@@ -565,4 +565,4 @@ Diff (max vs sum): 59
 | 2023-11-17 | 4.62 | - | 396 | 3,168 |
 | 2023-11-18 | 4.62 | - | 396 | 3,170 |
 | 2023-11-19 | 4.62 | - | 396 | 3,171 |
-| 2023-11-21 | 4.62 | - | 396 | 3,172 |
+| 2023-11-21 | 4.62 | - | 396 | 3,173 |

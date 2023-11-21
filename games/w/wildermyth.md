@@ -13,28 +13,29 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 2.00% | ~30 |
 | How Romantic! | 2.00% | ~30 |
 | Cutthroat Competitors | 2.00% | ~30 |
+| War Endured | 2.00% | ~30 |
 | Daybreak | 2.00% | ~30 |
+| Core Failure | 2.00% | ~30 |
 | Completing the Look | 1.00% | ~15 |
-| War Endured | 1.00% | ~15 |
-| Core Failure | 1.00% | ~15 |
+| A Mythic Menagerie | 0.90% | ~13 |
 | Let Me Get My Chisel | 0.90% | ~13 |
 | Who's Counting? | 0.90% | ~13 |
-| A Mythic Menagerie | 0.80% | ~12 |
-| Echoes Die | 0.80% | ~12 |
-| Thematic Divergence | 0.60% | ~9 |
-| Pyrrhic Victory | 0.50% | ~7 |
+| Echoes Die | 0.90% | ~13 |
+| Thematic Divergence | 0.70% | ~10 |
+| Pyrrhic Victory | 0.60% | ~9 |
+| Turncoat | 0.60% | ~9 |
 | Another Tale to Tell | 0.50% | ~7 |
 | A Story of Heroes | 0.50% | ~7 |
-| Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
+| Chain Reaction | 0.40% | ~6 |
 | No Time for Clawmonsters | 0.40% | ~6 |
 | Legends Never Die | 0.30% | ~4 |
-| Chain Reaction | 0.30% | ~4 |
 | Everfading | 0.30% | ~4 |
 | Storied Past | 0.20% | ~3 |
 | Bonebreakers | 0.20% | ~3 |
 | Plague Doctor | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
+| All My Birds, Safely Home | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | I'm Not Smiling | 0.20% | ~3 |
@@ -45,7 +46,7 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
-| All My Birds, Safely Home | 0.10% | ~1 |
+| War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Astrology | 0.10% | ~1 |
@@ -55,7 +56,6 @@ Number of Ratings: 45  (23.09.2022)
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| War-Ender | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
 | We Call That Mortificient! | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,477 (Ranked 241)  
+Progressed: 1,478 (Ranked 241)  
 Completed: 6 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6 (0.41%) (Ranked 213)
 | 2023-11-18 | 1,471 | 6 |
 | 2023-11-19 | 1,472 | 6 |
 | 2023-11-20 | 1,475 | 6 |
-| 2023-11-21 | 1,477 | 6 |
+| 2023-11-21 | 1,478 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 499)  
 Sum: 29 (Ranked 512)  

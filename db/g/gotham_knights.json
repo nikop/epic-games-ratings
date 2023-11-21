@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4271,9 +4271,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76774,
+  "EOS_Progressed": 76775,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23351,6 +23351,11 @@
       "Time": "2023-11-21T06:04:52.0913538+00:00",
       "NumProgressed": 76774,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-21T07:04:10.7470635+00:00",
+      "NumProgressed": 76775,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23434,7 +23439,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "ALL_VILLAIN",
@@ -23474,7 +23479,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13819
+      "UsersEstimate": 13820
     },
     {
       "ID": "CLAYFACE_3",
@@ -23482,7 +23487,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10748
+      "UsersEstimate": 10749
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -23578,7 +23583,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7677
+      "UsersEstimate": 7678
     },
     {
       "ID": "FREEZE_1",
@@ -23610,7 +23615,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10748
+      "UsersEstimate": 10749
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -23714,7 +23719,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -23754,7 +23759,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26103
+      "UsersEstimate": 26104
     },
     {
       "ID": "MYSTERY_02",
@@ -23786,7 +23791,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13819
+      "UsersEstimate": 13820
     },
     {
       "ID": "MYSTERY_06",
@@ -23802,7 +23807,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10748
+      "UsersEstimate": 10749
     },
     {
       "ID": "MYSTERY_08",
@@ -23849,13 +23854,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76774,
+      "Progressed": 76775,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47054,
+      "Progressed": 47055,
       "Completed": 2674
     }
   ],
@@ -23863,8 +23868,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-21T05:58:12.194287+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:04:52.0913534+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:04:10.7470632+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:58:12.1942876+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:04:52.0914607+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:57:48.1954033+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:04:10.7471982+00:00"
 }

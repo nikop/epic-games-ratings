@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4394,17 +4394,17 @@
       "ID": "elemental_stones_2",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 2",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 48
     },
     {
       "ID": "elemental_stones_3",
       "SetID": "53c1p3k",
       "Name": "Elemental stones 3",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "elite_deck_1",
@@ -4586,9 +4586,9 @@
       "ID": "obsessed_carver_2",
       "SetID": "53c1p3k",
       "Name": "Obsessed Carver 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "obsessed_carver_3",
@@ -4753,8 +4753,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:10:12.9158211+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:09:41.4047708+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:57:43.1947993+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:10:12.9158846+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:57:27.5190391+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:09:41.4048247+00:00"
 }

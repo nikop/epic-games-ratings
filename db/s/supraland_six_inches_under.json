@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2529,9 +2529,9 @@
       "ID": "PickaxeGuy",
       "SetID": "5lok9mm",
       "Name": "You feel very sorry",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1641
     },
     {
       "ID": "PickaxeIron",
@@ -2681,8 +2681,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-11-18T05:59:03.9148559+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:03:43.8367198+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:03:20.2940166+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.1418874+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:01:14.1557328+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:03:43.8367666+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:59:57.6998121+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:03:20.2940617+00:00"
 }

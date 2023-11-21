@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 661)  
+Rating: 4.46 (Ranked 646)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -390,3 +390,4 @@ Diff (max vs sum): -6
 | 2023-11-14 | 4.46 | 24 | 24 |
 | 2023-11-15 | 4.45 | 24 | 24 |
 | 2023-11-16 | 4.45 | 25 | 25 |
+| 2023-11-21 | 4.46 | 25 | 25 |

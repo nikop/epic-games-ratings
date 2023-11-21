@@ -15,8 +15,8 @@
 | Council Legion of Merit | 54.00% | ~727 |
 | Medal of Exploration II | 53.00% | ~713 |
 | Turian Ally | 52.00% | ~700 |
+| Medal of Honor | 51.00% | ~686 |
 | Meritorious Service Medal | 51.00% | ~686 |
-| Medal of Honor | 50.00% | ~673 |
 | Charismatic | 50.00% | ~673 |
 | Soldier | 49.00% | ~660 |
 | Asari Ally | 47.00% | ~633 |

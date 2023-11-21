@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24596,
+  "EOS_Progressed": 24597,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23498,6 +23498,11 @@
       "Time": "2023-11-21T06:08:41.6086484+00:00",
       "NumProgressed": 24596,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-21T07:08:29.7363225+00:00",
+      "NumProgressed": 24597,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23525,7 +23530,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -23573,7 +23578,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "FOUND_ERIN",
@@ -23605,7 +23610,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -23629,7 +23634,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18939
+      "UsersEstimate": 18940
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23645,7 +23650,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -23668,15 +23673,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24596,
+      "Progressed": 24597,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-21T06:08:41.6086481+00:00",
+  "LastChanged_Achievements": "2023-11-21T07:08:29.7363221+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:00:54.298963+00:00",
-  "LastUpdate_Achievements": "2023-11-21T06:08:41.6087859+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:59:43.9096636+00:00",
+  "LastUpdate_Achievements": "2023-11-21T07:08:29.7364713+00:00"
 }

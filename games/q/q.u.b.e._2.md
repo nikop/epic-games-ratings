@@ -1,25 +1,25 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.45 (Ranked 661)  
+Rating: 4.45 (Ranked 662)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~30,277 |
-| Quick Understanding of Block Extrusion | 68.00% | ~27,451 |
-| Nature or Nurture | 52.00% | ~20,992 |
-| Power Glove | 50.00% | ~20,184 |
-| Forgotten Memories | 42.00% | ~16,955 |
-| Cogs in the Machine | 36.00% | ~14,533 |
-| Mission Success | 22.00% | ~8,881 |
-| There's No Place Like Home | 22.00% | ~8,881 |
+| Lost in Space | 75.00% | ~30,278 |
+| Quick Understanding of Block Extrusion | 68.00% | ~27,452 |
+| Nature or Nurture | 52.00% | ~20,993 |
+| Power Glove | 50.00% | ~20,186 |
+| Forgotten Memories | 42.00% | ~16,956 |
+| Cogs in the Machine | 36.00% | ~14,534 |
+| Mission Success | 22.00% | ~8,882 |
+| There's No Place Like Home | 22.00% | ~8,882 |
 | Green Cube Killer | 19.00% | ~7,670 |
 | Infinity Loop | 16.00% | ~6,459 |
 | Path to Salvation | 16.00% | ~6,459 |
 | Descendants | 14.00% | ~5,652 |
 | The Flawed Teacher | 11.00% | ~4,441 |
-| To Infinity and Beyond | 5.00% | ~2,018 |
+| To Infinity and Beyond | 5.00% | ~2,019 |
 | The Truthful Enemy | 4.00% | ~1,615 |
 | Home Stretch | 2.00% | ~807 |
 | Get me out of here | 2.00% | ~807 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~404 |
 | Expert Collector | 1.00% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,369 (Ranked 121)  
+Progressed: 40,371 (Ranked 121)  
 Completed: 164 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 164 (0.41%) (Ranked 213)
 | 2023-11-18 | 39,894 | 162 |
 | 2023-11-19 | 40,161 | 163 |
 | 2023-11-20 | 40,338 | 163 |
-| 2023-11-21 | 40,369 | 164 |
+| 2023-11-21 | 40,371 | 164 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
