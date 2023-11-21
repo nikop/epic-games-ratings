@@ -29,7 +29,7 @@
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 549 |
 | 23 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 549 |
 | 23 | [Rayman Origins](games/r/rayman_origins.md) | 4.87 | 33 | 484 |
-| 23 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 12,945 | 31 |
+| 23 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 12,983 | 31 |
 | 23 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 534 |
 | 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 549 |
 | 32 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 139 | 324 |
@@ -70,8 +70,8 @@
 | 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,093 | 62 |
 | 67 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 549 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 479 |
-| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 877 | 163 |
-| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,821 | 55 |
+| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 882 | 162 |
+| 67 | [Sifu](games/s/sifu.md) | 4.82 | 6,824 | 55 |
 | 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 427 | 226 |
 | 67 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 549 |
 | 67 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 549 |
@@ -363,7 +363,7 @@
 | 349 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,799 | 119 |
 | 349 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,760 | 121 |
 | 349 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 73 | 399 |
-| 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 878 | 162 |
+| 364 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 878 | 163 |
 | 364 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 549 |
 | 364 | [Death's Door](games/d/death's_door.md) | 4.62 | 0 | 549 |
 | 364 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 286 | 260 |
@@ -401,7 +401,7 @@
 | 384 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,688 | 101 |
 | 384 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 549 |
 | 384 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 573 | 199 |
-| 384 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,429 | 38 |
+| 384 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,436 | 38 |
 | 384 | [RiME](games/r/rime.md) | 4.61 | 0 | 549 |
 | 384 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,098 | 145 |
 | 384 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 549 |
@@ -545,6 +545,7 @@
 | 540 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 530 |
 | 540 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 470 |
 | 540 | [Everything](games/e/everything.md) | 4.53 | 0 | 549 |
+| 540 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,391 | 134 |
 | 540 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,524 | 131 |
 | 540 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.53 | 0 | 549 |
 | 540 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 549 |
@@ -553,19 +554,18 @@
 | 540 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 525 | 206 |
 | 540 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 549 |
 | 540 | [Verdun](games/v/verdun.md) | 4.53 | 103 | 355 |
-| 554 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 549 |
-| 554 | [Duskers](games/d/duskers.md) | 4.52 | 0 | 549 |
-| 554 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 549 |
-| 554 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 1,391 | 134 |
-| 554 | [Horace](games/h/horace.md) | 4.52 | 0 | 549 |
-| 554 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 107 | 351 |
-| 554 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 128 | 328 |
-| 554 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 199 | 289 |
-| 554 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 549 |
-| 554 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 549 |
-| 554 | [VALORANT](games/v/valorant.md) | 4.52 | 82,733 | 10 |
-| 554 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.52 | 0 | 549 |
-| 554 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 549 |
+| 555 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 549 |
+| 555 | [Duskers](games/d/duskers.md) | 4.52 | 0 | 549 |
+| 555 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 549 |
+| 555 | [Horace](games/h/horace.md) | 4.52 | 0 | 549 |
+| 555 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 107 | 351 |
+| 555 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 128 | 328 |
+| 555 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 199 | 289 |
+| 555 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 549 |
+| 555 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 549 |
+| 555 | [VALORANT](games/v/valorant.md) | 4.52 | 82,733 | 10 |
+| 555 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.52 | 0 | 549 |
+| 555 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 549 |
 | 567 | [Anno 2070](games/a/anno_2070.md) | 4.51 | 0 | 549 |
 | 567 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 128 | 328 |
 | 567 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 841 | 165 |
@@ -610,7 +610,7 @@
 | 606 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 409 |
 | 606 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,019 | 111 |
 | 606 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 43 | 450 |
-| 606 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,246 | 14 |
+| 606 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,270 | 14 |
 | 606 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 549 |
 | 606 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 279 | 262 |
 | 606 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.49 | 0 | 549 |

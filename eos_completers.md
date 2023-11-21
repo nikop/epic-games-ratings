@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.59% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.48% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.47% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -59,7 +59,7 @@
 | 57 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 58 | [Scorn](games/s/scorn.md) | 6.91% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.48% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.47% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -86,7 +86,7 @@
 | 84 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 85 | [The Bunker](games/t/the_bunker.md) | 4.14% |
 | 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.97% |
-| 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.88% |
+| 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.96% |
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 89 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
 | 90 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.74% |
@@ -126,8 +126,8 @@
 | 124 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.27% |
 | 125 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.24% |
 | 126 | [Night Book](games/n/night_book.md) | 2.07% |
-| 127 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.92% |
 | 127 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.92% |
+| 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 129 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
 | 130 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.85% |
 | 131 | [Somerville](games/s/somerville.md) | 1.81% |
@@ -230,8 +230,8 @@
 | 228 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
 | 229 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 229 | [Them and Us](games/t/them_and_us.md) | 0.33% |
-| 229 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.33% |
-| 232 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
+| 231 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
+| 231 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.32% |
 | 233 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 233 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 235 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
