@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,741 |
-| Sweet Sorrow | 18.00% | ~7,370 |
-| Rules the Waves | 17.00% | ~6,961 |
+| Sink Beneath the Waves | 36.00% | ~14,742 |
+| Sweet Sorrow | 18.00% | ~7,371 |
+| Rules the Waves | 17.00% | ~6,962 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,142 |
 | Rival | 14.00% | ~5,733 |
 | Correspondent | 12.00% | ~4,914 |
@@ -19,11 +19,11 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,504 |
 | Shipmate | 11.00% | ~4,504 |
 | One Year at Zee | 8.00% | ~3,276 |
-| Pupil | 7.00% | ~2,866 |
-| Salvager | 7.00% | ~2,866 |
-| Open Your Ears | 7.00% | ~2,866 |
-| The Ascent of Man | 7.00% | ~2,866 |
-| Zee Fever | 5.00% | ~2,047 |
+| Pupil | 7.00% | ~2,867 |
+| Salvager | 7.00% | ~2,867 |
+| Open Your Ears | 7.00% | ~2,867 |
+| The Ascent of Man | 7.00% | ~2,867 |
+| Zee Fever | 5.00% | ~2,048 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,638 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,638 |
 | Storm's Curse | 3.00% | ~1,228 |
@@ -31,18 +31,18 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,228 |
 | Roaring Rise | 2.00% | ~819 |
 | I am the Captain of my Soul | 2.00% | ~819 |
-| A buoyant escape | 1.00% | ~409 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~409 |
-| The Bell Tolls | 1.00% | ~409 |
-| Thanks for all the fish | 1.00% | ~409 |
-| Knife, Cup and Bone | 1.00% | ~409 |
-| Those are pearls that were his eyes | 1.00% | ~409 |
-| Rosewater sailor | 1.00% | ~409 |
-| A current under zee | 1.00% | ~409 |
+| A buoyant escape | 1.00% | ~410 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~410 |
+| The Bell Tolls | 1.00% | ~410 |
+| Knife, Cup and Bone | 1.00% | ~410 |
+| Rosewater sailor | 1.00% | ~410 |
+| A current under zee | 1.00% | ~410 |
 | Never Stop Sinking... | 0.90% | ~369 |
 | His bones in whispers | 0.90% | ~369 |
 | The beauty of the deep | 0.90% | ~369 |
 | The dragon in the zee | 0.90% | ~369 |
+| Thanks for all the fish | 0.90% | ~369 |
+| Those are pearls that were his eyes | 0.90% | ~369 |
 | No regrets | 0.90% | ~369 |
 | Under the zee | 0.90% | ~369 |
 | Depth charge | 0.90% | ~369 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~41 |
 | Ten Years at Zee | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,947 (Ranked 118)  
+Progressed: 40,950 (Ranked 118)  
 Completed: 4 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 4 (0.01%) (Ranked 335)
 | 2023-11-18 | 40,791 | 4 |
 | 2023-11-19 | 40,856 | 4 |
 | 2023-11-20 | 40,906 | 4 |
-| 2023-11-21 | 40,947 | 4 |
+| 2023-11-21 | 40,950 | 4 |
 ## Awards
 Max (Character Customization): 217  (Ranked 282)  
 Sum: 290 (Ranked 366)  

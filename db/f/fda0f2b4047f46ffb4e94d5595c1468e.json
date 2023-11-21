@@ -2809,10 +2809,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 5009,
       "NumberOfAwardsMax": 1555
+    },
+    {
+      "Time": "2023-11-21T19:02:43.2968162+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 5015,
+      "NumberOfAwardsMax": 1555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5009,
+  "NumberOfAwards": 5015,
   "NumberOfAwardsMax": 1555,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2874,7 +2880,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 324
+      "Count": 330
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2889,7 +2895,7 @@
       "Count": 377
     }
   ],
-  "EOS_Progressed": 8662,
+  "EOS_Progressed": 8664,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -8759,6 +8765,11 @@
       "Time": "2023-11-21T18:06:26.627901+00:00",
       "NumProgressed": 8662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T19:05:57.1107419+00:00",
+      "NumProgressed": 8664,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -8787,7 +8798,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 4071
+      "UsersEstimate": 4072
     },
     {
       "ID": "ach04",
@@ -8795,7 +8806,7 @@
       "Name": "What Just Happened??",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "ach05",
@@ -8811,7 +8822,7 @@
       "Name": "Titan",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6583
+      "UsersEstimate": 6585
     },
     {
       "ID": "ach07",
@@ -8819,7 +8830,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "ach08",
@@ -8827,7 +8838,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3552
     },
     {
       "ID": "ach09",
@@ -8867,7 +8878,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ach14",
@@ -8875,7 +8886,7 @@
       "Name": "Puppet Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ach15",
@@ -8883,7 +8894,7 @@
       "Name": "Give A Koin",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "ach16",
@@ -8891,7 +8902,7 @@
       "Name": "Test Your Might",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ach17",
@@ -8899,7 +8910,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4677
+      "UsersEstimate": 4679
     },
     {
       "ID": "ach18",
@@ -8923,7 +8934,7 @@
       "Name": "Buddy System",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ach21",
@@ -8939,7 +8950,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ach23",
@@ -8955,7 +8966,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4071
+      "UsersEstimate": 4072
     },
     {
       "ID": "ach25",
@@ -8979,7 +8990,7 @@
       "Name": "So Krafty",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach28",
@@ -8987,7 +8998,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "ach29",
@@ -9011,7 +9022,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach32",
@@ -9019,7 +9030,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "ach33",
@@ -9035,7 +9046,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach35",
@@ -9051,7 +9062,7 @@
       "Name": "The Mighty Have Fallen",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ach37",
@@ -9059,7 +9070,7 @@
       "Name": "ABACABB",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "ach38",
@@ -9067,7 +9078,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "ach39",
@@ -9075,7 +9086,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3638
+      "UsersEstimate": 3639
     },
     {
       "ID": "ach40",
@@ -9099,7 +9110,7 @@
       "Name": "Quest Master",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "ach43",
@@ -9107,7 +9118,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3898
+      "UsersEstimate": 3899
     },
     {
       "ID": "ach44",
@@ -9123,7 +9134,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ach46",
@@ -9139,7 +9150,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "ach48",
@@ -9163,23 +9174,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3465
+      "UsersEstimate": 3466
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8662,
+      "Progressed": 8664,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-21T12:02:40.8370202+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:26.6279005+00:00",
+  "LastChanged": "2023-11-21T19:02:43.2968161+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:57.110741+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:11.243077+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:02:42.6697583+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:26.6279588+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:02:43.2968165+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:57.1108018+00:00"
 }

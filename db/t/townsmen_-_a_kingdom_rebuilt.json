@@ -2250,9 +2250,9 @@
       "ID": "ACHIEVEMENT_TAXES5",
       "SetID": "9eacipp",
       "Name": "Tax-man V",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_TIME1",
@@ -2386,8 +2386,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-11-16T20:57:28.2396436+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:09:36.997624+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:09:28.7796018+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.2034383+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:00:21.4116056+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:09:36.9977138+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:59:51.1808048+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:09:28.7796888+00:00"
 }

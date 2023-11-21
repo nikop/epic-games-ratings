@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4209,10 +4209,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5030,
       "NumberOfAwardsMax": 2958
+    },
+    {
+      "Time": "2023-11-21T18:58:06.8314545+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5031,
+      "NumberOfAwardsMax": 2958
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5030,
+  "NumberOfAwards": 5031,
   "NumberOfAwardsMax": 2958,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4268,7 +4274,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 263
+      "Count": 264
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4277,7 +4283,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76790,
+  "EOS_Progressed": 76793,
   "EOS_Completed": 124,
   "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 1,
@@ -23392,6 +23398,11 @@
       "Time": "2023-11-21T18:04:41.077328+00:00",
       "NumProgressed": 76790,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-21T19:04:23.512689+00:00",
+      "NumProgressed": 76793,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23491,7 +23502,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11518
+      "UsersEstimate": 11519
     },
     {
       "ID": "CHALLENGES_1",
@@ -23499,7 +23510,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13054
+      "UsersEstimate": 13055
     },
     {
       "ID": "CLAYFACE_1",
@@ -23507,7 +23518,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16126
+      "UsersEstimate": 16127
     },
     {
       "ID": "CLAYFACE_2",
@@ -23515,7 +23526,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13822
+      "UsersEstimate": 13823
     },
     {
       "ID": "CLAYFACE_3",
@@ -23547,7 +23558,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -23555,7 +23566,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4607
+      "UsersEstimate": 4608
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -23603,7 +23614,7 @@
       "Name": "Family Meeting",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -23627,7 +23638,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21501
+      "UsersEstimate": 21502
     },
     {
       "ID": "FREEZE_1_5",
@@ -23635,7 +23646,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16126
+      "UsersEstimate": 16127
     },
     {
       "ID": "FREEZE_2",
@@ -23643,7 +23654,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14590
+      "UsersEstimate": 14591
     },
     {
       "ID": "FREEZE_3",
@@ -23707,7 +23718,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26876
+      "UsersEstimate": 26878
     },
     {
       "ID": "HARLEY_2",
@@ -23723,7 +23734,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15358
+      "UsersEstimate": 15359
     },
     {
       "ID": "HARLEY_4",
@@ -23731,7 +23742,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12286
+      "UsersEstimate": 12287
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -23747,7 +23758,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39163
+      "UsersEstimate": 39164
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23771,7 +23782,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15358
+      "UsersEstimate": 15359
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -23779,7 +23790,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20733
+      "UsersEstimate": 20734
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23787,7 +23798,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4607
+      "UsersEstimate": 4608
     },
     {
       "ID": "MYSTERY_01",
@@ -23795,7 +23806,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26109
+      "UsersEstimate": 26110
     },
     {
       "ID": "MYSTERY_02",
@@ -23819,7 +23830,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15358
+      "UsersEstimate": 15359
     },
     {
       "ID": "MYSTERY_05",
@@ -23827,7 +23838,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13822
+      "UsersEstimate": 13823
     },
     {
       "ID": "MYSTERY_06",
@@ -23835,7 +23846,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11518
+      "UsersEstimate": 11519
     },
     {
       "ID": "MYSTERY_07",
@@ -23890,22 +23901,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76790,
+      "Progressed": 76793,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47070,
+      "Progressed": 47073,
       "Completed": 2675
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-21T14:58:10.4560721+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:04:41.0773275+00:00",
+  "LastChanged": "2023-11-21T18:58:06.8314544+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:04:23.5126885+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:58:21.9524126+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:04:41.0774335+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:58:06.8314549+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:04:23.5127951+00:00"
 }

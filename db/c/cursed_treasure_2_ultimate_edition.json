@@ -275,9 +275,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -475,9 +475,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:05:20.4121137+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:04:58.5817442+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:54.867623+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:39.4766266+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:05:20.4121436+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:57:29.7742029+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:04:58.5817814+00:00"
 }

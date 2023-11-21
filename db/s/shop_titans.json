@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7141,10 +7141,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140838,
-  "EOS_Completed": 189,
-  "EOS_NewPlayers": 1019,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 140848,
+  "EOS_Completed": 190,
+  "EOS_NewPlayers": 1028,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -29311,6 +29311,11 @@
       "Time": "2023-11-21T18:06:17.0654446+00:00",
       "NumProgressed": 140838,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2023-11-21T19:05:48.9481578+00:00",
+      "NumProgressed": 140848,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 112,
@@ -29544,9 +29549,9 @@
       "ID": "collection05",
       "SetID": "anfd17p",
       "Name": "Ultimate Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 423
     },
     {
       "ID": "commonres01",
@@ -30000,9 +30005,9 @@
       "ID": "master04",
       "SetID": "anfd17p",
       "Name": "Precision Engineering",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 1127
     },
     {
       "ID": "master05",
@@ -30217,15 +30222,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140838,
-      "Completed": 189
+      "Progressed": 140848,
+      "Completed": 190
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-21T14:02:34.5991096+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:17.0654441+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:48.9481574+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:02:44.0762004+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:17.0656247+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:02:44.4058127+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:48.9483424+00:00"
 }

@@ -841,7 +841,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3568,
+  "EOS_Progressed": 3569,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -5796,6 +5796,11 @@
       "Time": "2023-11-21T18:06:46.9913623+00:00",
       "NumProgressed": 3568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T19:06:14.8829182+00:00",
+      "NumProgressed": 3569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5816,7 +5821,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "achievement_11",
@@ -5840,7 +5845,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "achievement_14",
@@ -5975,7 +5980,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3568,
+      "Progressed": 3569,
       "Completed": 0
     }
   ],
@@ -5983,8 +5988,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-20T23:59:24.7419033+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:46.9913617+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:06:14.8829177+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:00:24.050141+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:46.9913986+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:59:54.4568055+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:06:14.8829559+00:00"
 }

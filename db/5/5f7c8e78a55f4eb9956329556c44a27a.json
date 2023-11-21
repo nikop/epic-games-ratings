@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 116,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -530,9 +530,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -586,9 +586,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TINGWD_HONEY",
@@ -618,9 +618,9 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -642,9 +642,9 @@
       "ID": "TINGWD_RADAR",
       "SetID": "c0imaa6",
       "Name": "Better than Mr. Radar",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "TINGWD_RAIDERS",
@@ -713,8 +713,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:05:33.2345403+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:09.9175509+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:20.6600359+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:05:33.23456+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:57:13.8305235+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:09.9175792+00:00"
 }

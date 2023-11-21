@@ -11,14 +11,14 @@ Rating: 4.50 (Ranked 587)
 | Discovery | 5.00% | ~1,567 |
 | Solo Capture | 5.00% | ~1,567 |
 | Swift Rift Removers | 5.00% | ~1,567 |
-| Clutch Capture | 4.00% | ~1,253 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,253 |
-| Cultured | 4.00% | ~1,253 |
-| Fully Upgraded | 4.00% | ~1,253 |
-| Teamwork | 4.00% | ~1,253 |
-| There you are! | 4.00% | ~1,253 |
-| Vaporous Expansion | 4.00% | ~1,253 |
-| Whoopsie | 4.00% | ~1,253 |
+| Clutch Capture | 4.00% | ~1,254 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,254 |
+| Cultured | 4.00% | ~1,254 |
+| Fully Upgraded | 4.00% | ~1,254 |
+| Teamwork | 4.00% | ~1,254 |
+| There you are! | 4.00% | ~1,254 |
+| Vaporous Expansion | 4.00% | ~1,254 |
+| Whoopsie | 4.00% | ~1,254 |
 | Animated | 3.00% | ~940 |
 | Daily Dose | 3.00% | ~940 |
 | Ectoplasmic Entity | 3.00% | ~940 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,336 (Ranked 124)  
+Progressed: 31,339 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 68 (0.22%) (Ranked 249)
 | 2023-11-18 | 31,196 | 68 |
 | 2023-11-19 | 31,263 | 68 |
 | 2023-11-20 | 31,308 | 68 |
-| 2023-11-21 | 31,336 | 68 |
+| 2023-11-21 | 31,339 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 249)  
 Sum: 2,833 (Ranked 179)  

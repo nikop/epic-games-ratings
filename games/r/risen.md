@@ -13,8 +13,8 @@ Rating: 4.57 (Ranked 471)
 | Archer | 57.00% | ~25 |
 | The brave little tailor | 55.00% | ~24 |
 | Samaritan | 52.00% | ~23 |
-| Well-to-do | 48.00% | ~21 |
-| The merciful one | 45.00% | ~20 |
+| Well-to-do | 50.00% | ~22 |
+| The merciful one | 48.00% | ~21 |
 | Ladies' man | 45.00% | ~20 |
 | Ferocious wild boars | 34.00% | ~15 |
 | Wise man | 32.00% | ~14 |
@@ -39,13 +39,13 @@ Rating: 4.57 (Ranked 471)
 | Safecracker | 16.00% | ~7 |
 | Master thief | 16.00% | ~7 |
 | Freedom fighter | 14.00% | ~6 |
+| Moneybags | 14.00% | ~6 |
 | Titan Lord | 11.00% | ~5 |
-| Moneybags | 11.00% | ~5 |
 | The traveler | 9.00% | ~4 |
 | Expert | 9.00% | ~4 |
+| King Midas | 9.00% | ~4 |
 | King of the handymen | 9.00% | ~4 |
 | Terror of the hens | 7.00% | ~3 |
-| King Midas | 7.00% | ~3 |
 | Rune master | 5.00% | ~2 |
 | Big game hunter | 5.00% | ~2 |
 | Mage | 2.00% | ~1 |

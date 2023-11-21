@@ -10,7 +10,7 @@
 | My lost nightingale | 38.00% | ~30 |
 | Through the woods | 36.00% | ~29 |
 | Fussy eater | 35.00% | ~28 |
-| Kekekeke... | 34.00% | ~27 |
+| Kekekeke... | 35.00% | ~28 |
 | Honey, honey, honey… | 33.00% | ~26 |
 | Back to the anvil | 33.00% | ~26 |
 | A very special drink | 31.00% | ~25 |
@@ -19,16 +19,16 @@
 | Mystery solved | 30.00% | ~24 |
 | Game Over! | 30.00% | ~24 |
 | Sorry Grandpa | 30.00% | ~24 |
+| GG | 29.00% | ~23 |
 | Far away from home | 29.00% | ~23 |
 | NOW GO AWAY! | 29.00% | ~23 |
 | Shattered | 26.00% | ~21 |
-| GG | 26.00% | ~21 |
+| You've got mail! | 26.00% | ~21 |
 | Beekeeper | 26.00% | ~21 |
 | Mischief maker | 26.00% | ~21 |
 | No posters allowed | 26.00% | ~21 |
 | Little genius | 26.00% | ~21 |
 | Show me your true self | 25.00% | ~20 |
-| You've got mail! | 25.00% | ~20 |
 | Pain in the hands | 25.00% | ~20 |
 | Memories | 24.00% | ~19 |
 | Turn the last page | 23.00% | ~18 |

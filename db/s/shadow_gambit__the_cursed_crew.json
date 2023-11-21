@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 833,
+  "EOS_Progressed": 834,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.6,
   "EosHistory": [
@@ -2673,6 +2673,11 @@
       "Time": "2023-11-21T18:06:25.9798727+00:00",
       "NumProgressed": 833,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-21T19:05:56.5618549+00:00",
+      "NumProgressed": 834,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2693,7 +2698,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "_03_FinishAct1",
@@ -2701,7 +2706,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2709,7 +2714,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "_05_FinishAct2",
@@ -2717,7 +2722,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2739,9 +2744,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 342
     },
     {
       "ID": "_09_Completion_20",
@@ -2749,7 +2754,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "_10_Completion_30",
@@ -2813,7 +2818,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2892,7 +2897,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 833,
+      "Progressed": 834,
       "Completed": 30
     }
   ],
@@ -2900,8 +2905,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:25.9798724+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:56.5618543+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:28.9516018+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:25.9798984+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:57:20.8181415+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:56.5618776+00:00"
 }

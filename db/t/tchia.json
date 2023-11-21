@@ -6,8 +6,8 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7787,
+  "EOS_Progressed": 7790,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8284,6 +8284,11 @@
       "Time": "2023-11-21T18:05:49.2626287+00:00",
       "NumProgressed": 7787,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-21T19:05:24.2998708+00:00",
+      "NumProgressed": 7790,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8375,7 +8380,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "HISTORIAN",
@@ -8399,7 +8404,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "LIBERATOR",
@@ -8407,7 +8412,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "LIVE_WIRE",
@@ -8415,7 +8420,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "SHREDDER",
@@ -8423,7 +8428,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "SNIP_SNIP",
@@ -8447,7 +8452,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "THING",
@@ -8462,7 +8467,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7787,
+      "Progressed": 7790,
       "Completed": 34
     }
   ],
@@ -8470,8 +8475,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:05:49.2626281+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:24.2998702+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:29.7987835+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:32.31071+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:05:49.2626756+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:57:23.7629034+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:24.2999251+00:00"
 }

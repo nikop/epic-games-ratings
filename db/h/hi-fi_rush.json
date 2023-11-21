@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4232,
+  "EOS_Progressed": 4233,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7390,6 +7390,11 @@
       "Time": "2023-11-20T01:53:42.5984894+00:00",
       "NumProgressed": 4232,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-21T19:06:19.2665617+00:00",
+      "NumProgressed": 4233,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7409,7 +7414,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Ach003",
@@ -7577,7 +7582,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "Ach024",
@@ -7769,7 +7774,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Ach048",
@@ -7968,13 +7973,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4232,
+      "Progressed": 4233,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2753,
+      "Progressed": 2754,
       "Completed": 1930
     }
   ],
@@ -7982,8 +7987,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:51.8591802+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:06:19.2665612+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:18.6200374+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:51.8592586+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:57:12.381264+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:06:19.2666405+00:00"
 }

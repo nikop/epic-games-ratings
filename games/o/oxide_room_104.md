@@ -21,15 +21,15 @@
 | It can't be true | 16.00% | ~40 |
 | I'm close now | 13.00% | ~32 |
 | Failed attempt | 13.00% | ~32 |
+| The real escape | 13.00% | ~32 |
 | Good choice | 13.00% | ~32 |
 | Take the long way round | 13.00% | ~32 |
 | He who seeks, finds! | 13.00% | ~32 |
-| The real escape | 12.00% | ~30 |
-| Nightmare in the kitchen | 10.00% | ~25 |
-| Born again | 7.00% | ~17 |
+| Nightmare in the kitchen | 11.00% | ~27 |
+| Born again | 8.00% | ~20 |
 | 373 | 6.00% | ~15 |
 | The experiment | 6.00% | ~15 |
-| Matthew's revenge | 5.00% | ~12 |
+| Matthew's revenge | 6.00% | ~15 |
 | Eva's diary | 2.00% | ~5 |
 | Horror book | 2.00% | ~5 |
 | A dark past | 2.00% | ~5 |

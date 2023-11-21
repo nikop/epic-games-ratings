@@ -7,16 +7,16 @@
 | Hero Arrives | 85.00% | ~17 |
 | Eat the Rich | 55.00% | ~11 |
 | Killing Machine | 45.00% | ~9 |
+| Phantom Kunoichi | 40.00% | ~8 |
 | Death Battle | 35.00% | ~7 |
-| Phantom Kunoichi | 35.00% | ~7 |
 | Final Showdown | 30.00% | ~6 |
 | Divine Retribution | 30.00% | ~6 |
 | Dispel Rumors | 30.00% | ~6 |
 | The End of an Outlaw | 30.00% | ~6 |
 | Captain Mustache | 30.00% | ~6 |
 | Urban Explorer | 25.00% | ~5 |
+| Sewer Rat | 25.00% | ~5 |
 | Steal Her Away | 20.00% | ~4 |
-| Sewer Rat | 20.00% | ~4 |
 | Not Today | 20.00% | ~4 |
 | Coward | 20.00% | ~4 |
 | Fight Fire With Fire | 20.00% | ~4 |

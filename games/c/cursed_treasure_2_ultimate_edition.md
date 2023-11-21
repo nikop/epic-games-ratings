@@ -19,11 +19,11 @@
 | Look After the Pence... | 74.00% | ~131 |
 | Drunken Master | 74.00% | ~131 |
 | V.I.P. Cemetery | 72.00% | ~127 |
+| Top of the World | 71.00% | ~126 |
+| Takeover | 71.00% | ~126 |
 | Woodcutter | 71.00% | ~126 |
 | Sharpshooter | 71.00% | ~126 |
 | Architect of Darkness | 71.00% | ~126 |
-| Top of the World | 70.00% | ~124 |
-| Takeover | 70.00% | ~124 |
 | The Apotheosis of War | 68.00% | ~120 |
 | Stasis Alcatraz | 68.00% | ~120 |
 | Tastes Like Chicken | 64.00% | ~113 |

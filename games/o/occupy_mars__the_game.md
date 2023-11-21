@@ -14,7 +14,7 @@ Rating: 4.03 (Ranked 991)
 | I am the greatest botanist on this planet. | 29.00% | ~499 |
 | Gardener | 26.00% | ~447 |
 | Miner | 26.00% | ~447 |
-| Houston we have a problem | 22.00% | ~379 |
+| Houston we have a problem | 23.00% | ~396 |
 | Detective | 19.00% | ~327 |
 | The Collector | 18.00% | ~310 |
 | Get your hands dirty | 11.00% | ~189 |

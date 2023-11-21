@@ -3471,9 +3471,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31336,
+  "EOS_Progressed": 31339,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20011,6 +20011,11 @@
       "Time": "2023-11-21T18:04:46.08916+00:00",
       "NumProgressed": 31336,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-21T19:04:27.7106246+00:00",
+      "NumProgressed": 31339,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20062,7 +20067,7 @@
       "Name": "Clutch Capture",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Collect_Spores",
@@ -20070,7 +20075,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Collector",
@@ -20086,7 +20091,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Daily_Dose",
@@ -20158,7 +20163,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "GB_In_Training",
@@ -20358,7 +20363,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Terrifying",
@@ -20382,7 +20387,7 @@
       "Name": "There you are!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Tobins_Prodigy",
@@ -20406,7 +20411,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Welcome_Crew",
@@ -20422,14 +20427,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31336,
+      "Progressed": 31339,
       "Completed": 68
     }
   ],
@@ -20437,8 +20442,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-20T23:02:56.9728557+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:04:46.0891595+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:04:27.7106239+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:02:49.9316495+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:04:46.0892749+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:02:49.8936068+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:04:27.7107478+00:00"
 }

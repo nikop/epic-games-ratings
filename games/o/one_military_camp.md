@@ -16,11 +16,11 @@
 | Perfect Soldier | 8.00% | ~15 |
 | Health Care | 8.00% | ~15 |
 | Ammo Tycoon | 8.00% | ~15 |
+| Healing | 7.00% | ~13 |
 | Good payer | 7.00% | ~13 |
 | Food Tycoon | 7.00% | ~13 |
 | Fuel Tycoon | 7.00% | ~13 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~12 |
-| Healing | 6.00% | ~12 |
 | Overpopulation | 6.00% | ~12 |
 | Pathfinder | 6.00% | ~12 |
 | Self-sufficient | 6.00% | ~12 |

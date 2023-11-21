@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1499,9 +1499,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16465,
+  "EOS_Progressed": 16466,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9094,6 +9094,11 @@
       "Time": "2023-11-21T15:03:33.5771898+00:00",
       "NumProgressed": 16465,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-21T19:03:40.158505+00:00",
+      "NumProgressed": 16466,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9209,7 +9214,7 @@
       "Name": "Get a Grip",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -9457,7 +9462,7 @@
       "Name": "Keep Fighting",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9480,13 +9485,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16465,
+      "Progressed": 16466,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4391,
+      "Progressed": 4392,
       "Completed": 29
     }
   ],
@@ -9494,8 +9499,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-20T01:50:45.362492+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:03:46.5460932+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:03:40.1585041+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:43.3850362+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:02:50.5444132+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:03:46.5461608+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:02:50.4534861+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:03:40.1585795+00:00"
 }

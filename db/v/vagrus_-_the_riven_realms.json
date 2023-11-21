@@ -1514,9 +1514,9 @@
       "ID": "Vanilla_TroubleAtFortLarius",
       "SetID": "27kik8p",
       "Name": "Trouble at Fort Larius",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -1571,8 +1571,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:05:29.2617157+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:06.5537329+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.4978725+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:58:34.2117438+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:05:29.261801+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:58:16.8838614+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:06.5538382+00:00"
 }

@@ -10,8 +10,8 @@
 | Notai Notes | 71.00% | ~542 |
 | Blue Dreams | 70.00% | ~534 |
 | He's Famous! | 70.00% | ~534 |
+| Cutie Poro | 69.00% | ~526 |
 | Krugmazing | 68.00% | ~519 |
-| Cutie Poro | 68.00% | ~519 |
 | The Fire Below the Mountain | 65.00% | ~496 |
 | Moneyball | 62.00% | ~473 |
 | No Bites | 59.00% | ~450 |
@@ -35,8 +35,8 @@
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~298 |
 | It Is Not Over | 37.00% | ~282 |
 | On The Rocks | 37.00% | ~282 |
+| Snowy Poro | 33.00% | ~252 |
 | Never Gets Old | 33.00% | ~252 |
-| Snowy Poro | 32.00% | ~244 |
 | Vertical Power | 29.00% | ~221 |
 | One From The Heart | 15.00% | ~114 |
 | Yummy | 11.00% | ~84 |

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3964,6 +3964,11 @@
       "Time": "2023-11-21T18:09:35.785219+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T19:09:27.6542843+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4070,9 +4075,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_21",
@@ -4200,7 +4205,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "achievement_36",
@@ -4479,13 +4484,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 1
     }
   ],
@@ -4493,8 +4498,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:09:35.7852185+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:09:27.6542841+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:03.2724205+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:09:35.7852782+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:56:59.8853945+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:09:27.6543403+00:00"
 }

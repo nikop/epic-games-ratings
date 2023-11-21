@@ -3,7 +3,7 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 505,
-  "Ranking_Popularity": 469,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 319,
@@ -875,11 +875,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 191,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-21T18:57:31.4359501+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 192,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 191,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 192,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -892,7 +898,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -931,9 +937,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664899,
+  "EOS_Progressed": 664902,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21291,6 +21297,11 @@
       "Time": "2023-11-21T18:06:06.2199734+00:00",
       "NumProgressed": 664899,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-21T19:05:39.4177959+00:00",
+      "NumProgressed": 664902,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -21302,7 +21313,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478727
+      "UsersEstimate": 478729
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -21310,7 +21321,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385641
+      "UsersEstimate": 385643
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -21350,7 +21361,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3324
+      "UsersEstimate": 3325
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -21566,7 +21577,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166225
+      "UsersEstimate": 166226
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -21685,15 +21696,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664899,
+      "Progressed": 664902,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-11-20T19:57:14.4604137+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:06.2199728+00:00",
+  "LastChanged": "2023-11-21T18:57:31.4359499+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:05:39.4177955+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:57:41.3078342+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:06.2201271+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:57:31.4359502+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:05:39.4179417+00:00"
 }

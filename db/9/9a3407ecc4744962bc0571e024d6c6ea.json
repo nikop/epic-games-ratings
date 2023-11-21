@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -2384,6 +2384,11 @@
       "Time": "2023-11-21T02:34:59.9941695+00:00",
       "NumProgressed": 938,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-21T19:09:02.7707746+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2404,7 +2409,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "BoxingClever",
@@ -2444,7 +2449,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -2452,7 +2457,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "DustDancing",
@@ -2476,7 +2481,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2484,7 +2489,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2500,7 +2505,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "Relic",
@@ -2508,7 +2513,7 @@
       "Name": "Relic",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "SkeletonCrew",
@@ -2516,7 +2521,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "TerraTourGuide",
@@ -2548,21 +2553,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:09:07.658697+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:09:02.7707744+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:27.496577+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:58:14.4108395+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:09:07.6587204+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:58:00.8669076+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:09:02.7707913+00:00"
 }

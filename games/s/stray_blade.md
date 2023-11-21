@@ -11,6 +11,7 @@
 | A new World ahead | 2.00% | ~2 |
 | Apprentice | 2.00% | ~2 |
 | Defeat Tezuth | 0.80% | ~1 |
+| Freezing Cold | 0.80% | ~1 |
 | Don't Cry Wolf | 0.80% | ~1 |
 | The A-Team | 0.80% | ~1 |
 | The Golden Flash | 0.80% | ~1 |
@@ -22,7 +23,6 @@
 | Defeat Ingla | 0.00% | ~0 |
 | Defeat Uskol | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
-| Freezing Cold | 0.00% | ~0 |
 | Searing Heat | 0.00% | ~0 |
 | Through Dangers Untold | 0.00% | ~0 |
 | Locked and Loaded | 0.00% | ~0 |

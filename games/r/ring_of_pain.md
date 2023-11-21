@@ -20,6 +20,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 0.30% | ~720 |
 | Colorful Corpse | 0.30% | ~720 |
 | Dig Your Own Grave | 0.30% | ~720 |
+| Who To Trust? | 0.30% | ~720 |
 | Walk It Off | 0.30% | ~720 |
 | Cold Hearted | 0.30% | ~720 |
 | I Am Overburdened | 0.30% | ~720 |
@@ -49,7 +50,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rough Road | 0.20% | ~480 |
 | To The Death! | 0.20% | ~480 |
 | Well Prepared | 0.20% | ~480 |
-| Who To Trust? | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
 | Save Our Souls | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |

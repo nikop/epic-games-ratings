@@ -1,15 +1,15 @@
 # The Riflemen
 [Store](https://store.epicgames.com/en-US/p/the-riflemen-8be608)  
 [View Rawdata](../../db/t/the_riflemen.json)  
-Rating: 4.47 (Ranked 636)  
+Rating: 4.47 (Ranked 637)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First blood | 71.00% | ~27,600 |
-| Head popping I | 4.00% | ~1,555 |
+| First blood | 71.00% | ~27,635 |
+| Head popping I | 4.00% | ~1,557 |
 | It's a piece of cake | 1.00% | ~389 |
-| Rifle Master | 0.60% | ~233 |
-| Hang in there | 0.50% | ~194 |
+| Rifle Master | 0.60% | ~234 |
+| Hang in there | 0.50% | ~195 |
 | Head popping II | 0.20% | ~78 |
 | Bazooka Master | 0.10% | ~39 |
 | Head popping III | 0.10% | ~39 |
@@ -20,8 +20,8 @@ Rating: 4.47 (Ranked 636)
 | Sword Master | 0.10% | ~39 |
 | Grenade Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,873 (Ranked 122)  
-Completed: 11,759 (30.25%) (Ranked 11)  
+Progressed: 38,922 (Ranked 122)  
+Completed: 11,759 (30.21%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 11,759 (30.25%) (Ranked 11)
 | 2023-11-18 | 36,697 | 11,759 |
 | 2023-11-19 | 37,725 | 11,759 |
 | 2023-11-20 | 38,393 | 11,759 |
-| 2023-11-21 | 38,873 | 11,759 |
+| 2023-11-21 | 38,922 | 11,759 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

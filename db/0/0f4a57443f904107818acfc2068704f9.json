@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 121,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 322,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -767,6 +767,11 @@
       "Time": "2023-11-21T18:04:33.8046081+00:00",
       "NumProgressed": 319,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T19:04:17.2243449+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -785,9 +790,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -835,7 +840,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 235
     },
     {
       "ID": "CompleteChapter10",
@@ -915,15 +920,15 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 171
     },
     {
       "ID": "CompleteChapter3",
@@ -931,7 +936,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "CompleteChapter4",
@@ -939,15 +944,15 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 74
     },
     {
       "ID": "CompleteChapter6",
@@ -963,7 +968,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CompleteChapter8",
@@ -979,7 +984,7 @@
       "Name": "Ingredients List",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1025,9 +1030,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1051,7 +1056,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1074,14 +1079,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 322,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:04:33.8046074+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:04:17.2243444+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:00:49.0447201+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:04:33.8046339+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:00:14.1810395+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:04:17.2243709+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -535,7 +535,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8626,
+  "EOS_Progressed": 8627,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -11280,6 +11280,11 @@
       "Time": "2023-11-21T14:06:01.7195087+00:00",
       "NumProgressed": 8626,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-21T19:06:20.1466602+00:00",
+      "NumProgressed": 8627,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 29,
@@ -11363,7 +11368,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "ACH11",
@@ -11395,7 +11400,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACH15",
@@ -11475,7 +11480,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACH25",
@@ -11522,7 +11527,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8626,
+      "Progressed": 8627,
       "Completed": 59
     }
   ],
@@ -11530,8 +11535,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-18T13:00:01.75974+00:00",
-  "LastChanged_Achievements": "2023-11-21T18:06:52.8853467+00:00",
+  "LastChanged_Achievements": "2023-11-21T19:06:20.1466595+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.3385878+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:59:12.3048646+00:00",
-  "LastUpdate_Achievements": "2023-11-21T18:06:52.885407+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:58:49.4328593+00:00",
+  "LastUpdate_Achievements": "2023-11-21T19:06:20.1467185+00:00"
 }
