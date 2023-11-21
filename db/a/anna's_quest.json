@@ -374,9 +374,9 @@
       "ID": "aq_achievement_12",
       "SetID": "7jh86ne",
       "Name": "Game Over!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "aq_achievement_13",
@@ -398,9 +398,9 @@
       "ID": "aq_achievement_15",
       "SetID": "7jh86ne",
       "Name": "A very special drink",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "aq_achievement_16",
@@ -671,8 +671,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:10:07.5543784+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:10:09.7171364+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:00:00.6535684+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:10:07.5543979+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:59:44.8272105+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:10:09.7171641+00:00"
 }

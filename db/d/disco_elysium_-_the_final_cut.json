@@ -1478,7 +1478,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131014,
+  "EOS_Progressed": 131015,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -22463,6 +22463,11 @@
       "Time": "2023-11-21T04:03:20.7060347+00:00",
       "NumProgressed": 131014,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-21T06:04:08.9493585+00:00",
+      "NumProgressed": 131015,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22530,7 +22535,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31443
+      "UsersEstimate": 31444
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22634,7 +22639,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13101
+      "UsersEstimate": 13102
     },
     {
       "ID": "ACH_GLUTEN",
@@ -22793,15 +22798,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131014,
+      "Progressed": 131015,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:04:03.2478829+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:04:08.9493581+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:59:51.3668325+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:04:03.2479865+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:59:35.4871297+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:04:08.9494657+00:00"
 }

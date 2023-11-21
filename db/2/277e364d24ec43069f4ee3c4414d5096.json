@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114714,
+  "EOS_Progressed": 114717,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18609,6 +18609,11 @@
       "Time": "2023-11-21T05:09:29.9793438+00:00",
       "NumProgressed": 114714,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-21T06:09:29.6385128+00:00",
+      "NumProgressed": 114717,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18628,7 +18633,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88330
+      "UsersEstimate": 88332
     },
     {
       "ID": "EAwards_10",
@@ -18652,7 +18657,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17207
+      "UsersEstimate": 17208
     },
     {
       "ID": "EAwards_13",
@@ -18676,7 +18681,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11471
+      "UsersEstimate": 11472
     },
     {
       "ID": "EAwards_16",
@@ -18692,7 +18697,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42444
+      "UsersEstimate": 42445
     },
     {
       "ID": "EAwards_18",
@@ -18700,7 +18705,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10324
+      "UsersEstimate": 10325
     },
     {
       "ID": "EAwards_19",
@@ -18716,7 +18721,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55063
+      "UsersEstimate": 55064
     },
     {
       "ID": "EAwards_20",
@@ -18780,7 +18785,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11471
+      "UsersEstimate": 11472
     },
     {
       "ID": "EAwards_28",
@@ -18788,7 +18793,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "EAwards_29",
@@ -18796,7 +18801,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "EAwards_3",
@@ -18820,7 +18825,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11471
+      "UsersEstimate": 11472
     },
     {
       "ID": "EAwards_32",
@@ -18972,7 +18977,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11471
+      "UsersEstimate": 11472
     },
     {
       "ID": "EAwards_6",
@@ -18980,7 +18985,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10324
+      "UsersEstimate": 10325
     },
     {
       "ID": "EAwards_7",
@@ -19011,7 +19016,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114714,
+      "Progressed": 114717,
       "Completed": 50
     }
   ],
@@ -19019,8 +19024,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:09:29.9793436+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:09:29.6385124+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:02:56.2015572+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:09:29.9794473+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:03:00.5784242+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:09:29.6386083+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,967 |
-| Imprint | 5.00% | ~7,967 |
+| Taste | 5.00% | ~7,968 |
+| Imprint | 5.00% | ~7,968 |
 | The Hunt | 4.00% | ~6,374 |
 | Ravenous | 4.00% | ~6,374 |
-| Weeper | 3.00% | ~4,780 |
+| Weeper | 3.00% | ~4,781 |
 | Harmless | 2.00% | ~3,187 |
 | Silenced Whispers | 2.00% | ~3,187 |
 | Devourer | 2.00% | ~3,187 |
-| Shapely | 1.00% | ~1,593 |
+| Shapely | 1.00% | ~1,594 |
 | Scion | 1.00% | ~1,589 |
 | Glare | 1.00% | ~1,589 |
-| Jawcrab | 1.00% | ~1,593 |
-| Jawstag | 1.00% | ~1,593 |
-| Feast | 1.00% | ~1,593 |
-| Watcher | 1.00% | ~1,593 |
-| Predator | 1.00% | ~1,593 |
-| Yank | 1.00% | ~1,593 |
-| Sharpened Vessel | 1.00% | ~1,593 |
+| Jawcrab | 1.00% | ~1,594 |
+| Jawstag | 1.00% | ~1,594 |
+| Feast | 1.00% | ~1,594 |
+| Watcher | 1.00% | ~1,594 |
+| Predator | 1.00% | ~1,594 |
+| Yank | 1.00% | ~1,594 |
+| Sharpened Vessel | 1.00% | ~1,594 |
 | Celebration | 0.90% | ~1,434 |
 | Assimilation | 0.80% | ~1,275 |
 | Host | 0.80% | ~1,271 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,347 (Ranked 78)  
+Progressed: 159,352 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,20 +245,20 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 158,977 | 1 |
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
-| 2023-11-21 | 159,347 | 1 |
+| 2023-11-21 | 159,352 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 426)  
-Sum: 371 (Ranked 348)  
-Diff (max vs sum): 78  
+Sum: 374 (Ranked 347)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 52 |
 | This game is Highly Recommended | 51 |
 | This game has Unique Visuals | 50 |
+| This game has Amazing Storytelling | 50 |
 | This game is Extremely Fun | 48 |
-| This game has Amazing Storytelling | 48 |
 | This game has Challenging Combat | 47 |
-| This game has Amazing Characters | 39 |
+| This game has Amazing Characters | 40 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -407,4 +407,4 @@ Diff (max vs sum): 78
 | 2023-11-15 | 4.58 | - | 51 | 365 |
 | 2023-11-16 | 4.59 | - | 52 | 368 |
 | 2023-11-17 | 4.59 | - | 52 | 370 |
-| 2023-11-21 | 4.59 | - | 52 | 371 |
+| 2023-11-21 | 4.59 | - | 52 | 374 |

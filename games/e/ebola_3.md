@@ -16,14 +16,14 @@
 | Survival ✔ | 9.00% | ~25 |
 | Hospital ✔ | 8.00% | ~22 |
 | Thirst ✔ | 8.00% | ~22 |
+| City ✔ | 7.00% | ~19 |
+| Fraternal help ✔ | 7.00% | ~19 |
 | Alice ✔ | 6.00% | ~17 |
 | Antivirus ✔ | 6.00% | ~17 |
 | Betty ✔ | 6.00% | ~17 |
 | Brain ✔ | 6.00% | ~17 |
 | Cheats ✔ | 6.00% | ~17 |
-| City ✔ | 6.00% | ~17 |
 | Food ✔ | 6.00% | ~17 |
-| Fraternal help ✔ | 6.00% | ~17 |
 | King of survival ✔ | 6.00% | ~17 |
 | All secrets revealed ✔ | 6.00% | ~17 |
 | Boss 1 ✔ | 5.00% | ~14 |

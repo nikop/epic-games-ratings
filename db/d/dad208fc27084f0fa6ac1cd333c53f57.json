@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3760,
+  "EOS_Progressed": 3761,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -2454,6 +2454,11 @@
       "Time": "2023-11-21T05:03:25.319379+00:00",
       "NumProgressed": 3760,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-21T06:03:30.9234238+00:00",
+      "NumProgressed": 3761,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -2506,7 +2511,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -2522,7 +2527,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -2593,14 +2598,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 3760,
+      "Progressed": 3761,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:03:25.3193787+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:03:30.9234235+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:02.5242204+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:59:42.8978859+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:03:25.3194334+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:59:26.8396686+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:03:30.9235254+00:00"
 }

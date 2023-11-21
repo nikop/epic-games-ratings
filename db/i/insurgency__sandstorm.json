@@ -4016,10 +4016,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3171,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-11-21T05:57:45.1703711+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3172,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3171,
+  "NumberOfAwards": 3172,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4075,7 +4081,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 301
+      "Count": 302
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4090,9 +4096,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 486696,
+  "EOS_Progressed": 486712,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3173,
+  "EOS_NewPlayers": 3174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28595,6 +28601,11 @@
       "Time": "2023-11-21T05:05:54.2554855+00:00",
       "NumProgressed": 486696,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T06:06:01.6117448+00:00",
+      "NumProgressed": 486712,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -28638,7 +28649,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -28870,7 +28881,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24335
+      "UsersEstimate": 24336
     },
     {
       "ID": "ACH_WET_FEET",
@@ -28885,15 +28896,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 486696,
+      "Progressed": 486712,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-11-19T22:00:23.3047105+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:05:54.2554852+00:00",
+  "LastChanged": "2023-11-21T05:57:45.1703709+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:06:01.6117445+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:02.2373484+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:58:00.3167686+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:05:54.2555978+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:57:45.1703715+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:06:01.6118838+00:00"
 }

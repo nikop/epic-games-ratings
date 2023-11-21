@@ -18,11 +18,12 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
 | Let Me Get My Chisel | 0.90% | ~13 |
-| Who's Counting? | 0.80% | ~12 |
+| Who's Counting? | 0.90% | ~13 |
+| A Mythic Menagerie | 0.80% | ~12 |
 | Echoes Die | 0.80% | ~12 |
-| A Mythic Menagerie | 0.70% | ~10 |
-| Thematic Divergence | 0.50% | ~7 |
+| Thematic Divergence | 0.60% | ~9 |
 | Pyrrhic Victory | 0.50% | ~7 |
+| Another Tale to Tell | 0.50% | ~7 |
 | A Story of Heroes | 0.50% | ~7 |
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
@@ -30,7 +31,6 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.30% | ~4 |
 | Chain Reaction | 0.30% | ~4 |
 | Everfading | 0.30% | ~4 |
-| Another Tale to Tell | 0.30% | ~4 |
 | Storied Past | 0.20% | ~3 |
 | Bonebreakers | 0.20% | ~3 |
 | Plague Doctor | 0.20% | ~3 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,476 (Ranked 241)  
+Progressed: 1,477 (Ranked 241)  
 Completed: 6 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6 (0.41%) (Ranked 213)
 | 2023-11-18 | 1,471 | 6 |
 | 2023-11-19 | 1,472 | 6 |
 | 2023-11-20 | 1,475 | 6 |
-| 2023-11-21 | 1,476 | 6 |
+| 2023-11-21 | 1,477 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 499)  
 Sum: 29 (Ranked 512)  

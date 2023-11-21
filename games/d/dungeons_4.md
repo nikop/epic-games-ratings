@@ -10,7 +10,7 @@
 | Hammer Time, Round Two | 80.00% | ~255 |
 | The Hellwoods | 77.00% | ~246 |
 | The Plains of Strothalm | 72.00% | ~230 |
-| Experienced Thalya | 70.00% | ~223 |
+| Experienced Thalya | 71.00% | ~226 |
 | Thalya's Concentrated Fury | 68.00% | ~217 |
 | Bad Elves Go Everywhere | 66.00% | ~211 |
 | Master of Magic | 65.00% | ~207 |
@@ -31,9 +31,9 @@
 | The Cathedral of Light | 32.00% | ~102 |
 | Shame! Shame! Shame! | 32.00% | ~102 |
 | Tanos' Crusade Against Thalya | 29.00% | ~93 |
+| All’s Well That Ends Evil | 24.00% | ~77 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~73 |
 | Unstoppable Horde | 23.00% | ~73 |
-| All’s Well That Ends Evil | 23.00% | ~73 |
 | Master of the Undead | 22.00% | ~70 |
 | Hungry, Hungry Gorgu! | 21.00% | ~67 |
 | The Duel | 20.00% | ~64 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -166,9 +166,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1871,6 +1871,11 @@
       "Time": "2023-11-21T00:09:17.636313+00:00",
       "NumProgressed": 1476,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-21T06:10:00.2142598+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1912,9 +1917,9 @@
       "ID": "achievement_5petsReceived",
       "SetID": "95dc8p",
       "Name": "A Mythic Menagerie",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -2024,9 +2029,9 @@
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2080,9 +2085,9 @@
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -2128,9 +2133,9 @@
       "ID": "completedStory_legacy",
       "SetID": "95dc8p",
       "Name": "Another Tale to Tell",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "completedStory_monarchs",
@@ -2329,15 +2334,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1477,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:09:58.1699142+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:10:00.2142595+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:58:14.0496177+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:09:58.1699636+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:57:59.2999125+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:10:00.2143112+00:00"
 }

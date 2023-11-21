@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4197,10 +4197,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5027,
       "NumberOfAwardsMax": 2958
+    },
+    {
+      "Time": "2023-11-21T05:58:12.1942872+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5028,
+      "NumberOfAwardsMax": 2958
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5027,
+  "NumberOfAwards": 5028,
   "NumberOfAwardsMax": 2958,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4244,7 +4250,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 260
+      "Count": 261
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4265,9 +4271,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76772,
+  "EOS_Progressed": 76774,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23340,6 +23346,11 @@
       "Time": "2023-11-21T05:04:45.7508208+00:00",
       "NumProgressed": 76772,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-21T06:04:52.0913538+00:00",
+      "NumProgressed": 76774,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23447,7 +23458,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 13051
+      "UsersEstimate": 13052
     },
     {
       "ID": "CLAYFACE_1",
@@ -23455,7 +23466,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16122
+      "UsersEstimate": 16123
     },
     {
       "ID": "CLAYFACE_2",
@@ -23511,7 +23522,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9980
+      "UsersEstimate": 9981
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -23535,7 +23546,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6909
+      "UsersEstimate": 6910
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -23559,7 +23570,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9980
+      "UsersEstimate": 9981
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -23575,7 +23586,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21496
+      "UsersEstimate": 21497
     },
     {
       "ID": "FREEZE_1_5",
@@ -23583,7 +23594,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16122
+      "UsersEstimate": 16123
     },
     {
       "ID": "FREEZE_2",
@@ -23655,7 +23666,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26870
+      "UsersEstimate": 26871
     },
     {
       "ID": "HARLEY_2",
@@ -23663,7 +23674,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19193
+      "UsersEstimate": 19194
     },
     {
       "ID": "HARLEY_3",
@@ -23671,7 +23682,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15354
+      "UsersEstimate": 15355
     },
     {
       "ID": "HARLEY_4",
@@ -23695,7 +23706,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 39154
+      "UsersEstimate": 39155
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -23719,7 +23730,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15354
+      "UsersEstimate": 15355
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -23727,7 +23738,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20728
+      "UsersEstimate": 20729
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -23743,7 +23754,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 26102
+      "UsersEstimate": 26103
     },
     {
       "ID": "MYSTERY_02",
@@ -23751,7 +23762,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19193
+      "UsersEstimate": 19194
     },
     {
       "ID": "MYSTERY_03",
@@ -23767,7 +23778,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15354
+      "UsersEstimate": 15355
     },
     {
       "ID": "MYSTERY_05",
@@ -23815,7 +23826,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6909
+      "UsersEstimate": 6910
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -23838,22 +23849,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76772,
+      "Progressed": 76774,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47052,
+      "Progressed": 47054,
       "Completed": 2674
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-20T23:57:39.2938739+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:04:45.7508206+00:00",
+  "LastChanged": "2023-11-21T05:58:12.194287+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:04:52.0913534+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:58:26.8296312+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:04:45.7509272+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:58:12.1942876+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:04:52.0914607+00:00"
 }

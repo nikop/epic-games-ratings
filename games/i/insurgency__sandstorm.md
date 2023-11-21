@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,335 |
+| Wallbanger | 5.00% | ~24,336 |
 | Exploitative | 4.00% | ~19,468 |
 | Point Shooting | 4.00% | ~19,468 |
 | Wet Feet | 4.00% | ~19,468 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,407 |
 | Firefight Victory | 0.60% | ~2,920 |
 | #1 | 0.60% | ~2,920 |
-| Cinematic | 0.50% | ~2,433 |
+| Cinematic | 0.50% | ~2,434 |
 | Thanks Station! | 0.40% | ~1,947 |
 | Knock Knock | 0.30% | ~1,460 |
 | There For You | 0.30% | ~1,460 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~487 |
 | Road Hazard | 0.10% | ~487 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486,696 (Ranked 38)  
+Progressed: 486,712 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,10 +257,10 @@ Completed: 2 (0.00%) (Ranked 357)
 | 2023-11-18 | 485,491 | 2 |
 | 2023-11-19 | 486,083 | 2 |
 | 2023-11-20 | 486,555 | 2 |
-| 2023-11-21 | 486,696 | 2 |
+| 2023-11-21 | 486,712 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 232)  
-Sum: 3,171 (Ranked 173)  
+Sum: 3,172 (Ranked 173)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): 59
 | This game has Amazing Characters | 338 |
 | This game has Realistic Visuals | 337 |
 | This game has Amazing Storytelling | 332 |
-| This game has a Competitive Community | 301 |
+| This game has a Competitive Community | 302 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -565,3 +565,4 @@ Diff (max vs sum): 59
 | 2023-11-17 | 4.62 | - | 396 | 3,168 |
 | 2023-11-18 | 4.62 | - | 396 | 3,170 |
 | 2023-11-19 | 4.62 | - | 396 | 3,171 |
+| 2023-11-21 | 4.62 | - | 396 | 3,172 |

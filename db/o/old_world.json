@@ -2012,7 +2012,7 @@
   ],
   "EOS_Progressed": 15405,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16954,9 +16954,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -19024,8 +19024,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:05:50.44905+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:05:58.0587269+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:02:36.9237187+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:05:50.4499401+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:02:40.2412824+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:05:58.059617+00:00"
 }

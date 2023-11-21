@@ -570,9 +570,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -738,9 +738,9 @@
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
       "SetID": "caeik3h",
       "Name": "Mischievous Demon",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -937,8 +937,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:05:03.2296159+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:05:09.8760165+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:02:55.3457915+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:05:03.2296704+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:02:59.7638158+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:05:09.8760713+00:00"
 }

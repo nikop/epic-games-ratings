@@ -5,30 +5,30 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~104,655 |
-| 74 miles East of Otaheité | 56.00% | ~73,259 |
-| Interesting... | 42.00% | ~54,944 |
-| The Everhart Expedition | 40.00% | ~52,328 |
-| The Vanishing of the Lady Shannon | 30.00% | ~39,246 |
-| Seaside Serenade | 30.00% | ~39,246 |
-| Halfway there | 29.00% | ~37,938 |
-| A brigantine, a brig and a barque | 28.00% | ~36,629 |
-| 506 East Hampden Avenue | 28.00% | ~36,629 |
-| Weekend at Walakea's | 27.00% | ~35,321 |
-| Quite a Show | 27.00% | ~35,321 |
-| Dark Water Ride | 25.00% | ~32,705 |
-| Sunken | 24.00% | ~31,397 |
-| Deep Cut | 24.00% | ~31,397 |
-| FHALGOF'N' | 23.00% | ~30,088 |
-| Marsh Cannery | 21.00% | ~27,472 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~23,547 |
-| The only thing I have now | 17.00% | ~22,239 |
-| Naacalvision | 16.00% | ~20,931 |
-| Not Another Boring Slideshow! | 15.00% | ~19,623 |
+| A Family Heirloom | 80.00% | ~104,659 |
+| 74 miles East of Otaheité | 56.00% | ~73,261 |
+| Interesting... | 42.00% | ~54,946 |
+| The Everhart Expedition | 40.00% | ~52,330 |
+| The Vanishing of the Lady Shannon | 30.00% | ~39,247 |
+| Seaside Serenade | 30.00% | ~39,247 |
+| Halfway there | 29.00% | ~37,939 |
+| A brigantine, a brig and a barque | 28.00% | ~36,631 |
+| 506 East Hampden Avenue | 28.00% | ~36,631 |
+| Weekend at Walakea's | 27.00% | ~35,322 |
+| Quite a Show | 27.00% | ~35,322 |
+| Dark Water Ride | 25.00% | ~32,706 |
+| Sunken | 24.00% | ~31,398 |
+| Deep Cut | 24.00% | ~31,398 |
+| FHALGOF'N' | 23.00% | ~30,090 |
+| Marsh Cannery | 21.00% | ~27,473 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~23,548 |
+| The only thing I have now | 17.00% | ~22,240 |
+| Naacalvision | 16.00% | ~20,932 |
+| Not Another Boring Slideshow! | 15.00% | ~19,624 |
 | I'll make a note of that... | 9.00% | ~11,774 |
 | The Norahnomicon | 9.00% | ~11,774 |
-| Play it again, Norah | 7.00% | ~9,157 |
-| Underwater Royalty | 7.00% | ~9,157 |
+| Play it again, Norah | 7.00% | ~9,158 |
+| Underwater Royalty | 7.00% | ~9,158 |
 | Written in Stone | 6.00% | ~7,849 |
 | Fawning Developers | 5.00% | ~6,541 |
 | Candid Photo | 5.00% | ~6,541 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 746)
 | Gently down the stream... | 1.00% | ~1,308 |
 | Meta-reference | 1.00% | ~1,308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,819 (Ranked 83)  
+Progressed: 130,824 (Ranked 83)  
 Completed: 1,129 (0.86%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1,129 (0.86%) (Ranked 174)
 | 2023-11-18 | 130,451 | 1,123 |
 | 2023-11-19 | 130,648 | 1,125 |
 | 2023-11-20 | 130,795 | 1,129 |
-| 2023-11-21 | 130,819 | 1,129 |
+| 2023-11-21 | 130,824 | 1,129 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

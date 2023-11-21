@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78866,
+  "EOS_Progressed": 78869,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 10,
@@ -24102,6 +24102,11 @@
       "Time": "2023-11-21T05:05:55.965757+00:00",
       "NumProgressed": 78866,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-21T06:06:03.2537796+00:00",
+      "NumProgressed": 78869,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24185,7 +24190,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15773
+      "UsersEstimate": 15774
     },
     {
       "ID": "Hearty",
@@ -24257,7 +24262,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8675
+      "UsersEstimate": 8676
     },
     {
       "ID": "Right On Target",
@@ -24305,14 +24310,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6310
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78866,
+      "Progressed": 78869,
       "Completed": 850
     }
   ],
@@ -24320,8 +24325,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:05:55.9657567+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:06:03.2537793+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:00:13.3596131+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:05:55.9658855+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:59:57.6950144+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:06:03.2539077+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -300,9 +300,9 @@
       "ID": "3_SMOOTHIES",
       "SetID": "6akbe6n",
       "Name": "Good Samaritan",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5_DIFFERENT_BEERS",
@@ -412,9 +412,9 @@
       "ID": "OPENED_LADY_DOOR_3_TIMES",
       "SetID": "6akbe6n",
       "Name": "Perv!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PICKEDUP_BURRITO",
@@ -452,9 +452,9 @@
       "ID": "UNLOCKED_IPHONE",
       "SetID": "6akbe6n",
       "Name": "History Buff",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:03:35.8861305+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:03:41.7405821+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.0183019+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:01:24.8261691+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:03:35.8861428+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:01:08.274329+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:03:41.7405967+00:00"
 }

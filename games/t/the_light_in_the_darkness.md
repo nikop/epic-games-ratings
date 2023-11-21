@@ -10,7 +10,7 @@
 | Building the Fox | 22.00% | ~587 |
 | Green Ticket Roundup | 19.00% | ~507 |
 | Arranging Boxes | 15.00% | ~400 |
-| Jakob | 14.00% | ~374 |
+| Jakob | 15.00% | ~400 |
 | Le Juif et la France | 14.00% | ~374 |
 | Bernard | 13.00% | ~347 |
 | Jude | 13.00% | ~347 |

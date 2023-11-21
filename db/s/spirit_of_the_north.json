@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74767,
+  "EOS_Progressed": 74768,
   "EOS_Completed": 396,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -23973,6 +23973,11 @@
       "Time": "2023-11-21T05:09:25.4713561+00:00",
       "NumProgressed": 74767,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-11-21T06:09:25.095985+00:00",
+      "NumProgressed": 74768,
+      "NumCompleted": 396
     }
   ],
   "TotalAchievements": 24,
@@ -24016,7 +24021,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19439
+      "UsersEstimate": 19440
     },
     {
       "ID": "ERADICATE",
@@ -24040,7 +24045,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21682
+      "UsersEstimate": 21683
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -24144,7 +24149,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12710
+      "UsersEstimate": 12711
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -24175,7 +24180,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74767,
+      "Progressed": 74768,
       "Completed": 396
     }
   ],
@@ -24183,8 +24188,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-21T05:09:25.4713558+00:00",
+  "LastChanged_Achievements": "2023-11-21T06:09:25.0959847+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-21T05:01:27.8613199+00:00",
-  "LastUpdate_Achievements": "2023-11-21T05:09:25.4715003+00:00"
+  "LastUpdate_Ratings": "2023-11-21T06:01:11.2938255+00:00",
+  "LastUpdate_Achievements": "2023-11-21T06:09:25.0961197+00:00"
 }

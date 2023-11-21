@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 3.00% | ~462 |
 | Magnificent | 3.00% | ~462 |
 | Warrior | 3.00% | ~462 |
+| Wise | 3.00% | ~462 |
 | Developing Cities | 3.00% | ~462 |
 | Strong Cities | 3.00% | ~462 |
 | Able Difficulty | 3.00% | ~462 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 2.00% | ~308 |
 | Valiant | 2.00% | ~308 |
 | Victorious | 2.00% | ~308 |
-| Wise | 2.00% | ~308 |
 | Legendary Cities | 2.00% | ~308 |
 | Good Difficulty | 2.00% | ~308 |
 | Just Difficulty | 2.00% | ~308 |
