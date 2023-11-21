@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1392,10 +1392,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1122,
       "NumberOfAwardsMax": 737
+    },
+    {
+      "Time": "2023-11-21T09:00:02.2217383+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1123,
+      "NumberOfAwardsMax": 737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1122,
+  "NumberOfAwards": 1123,
   "NumberOfAwardsMax": 737,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1457,7 +1463,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1478,7 +1484,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131016,
+  "EOS_Progressed": 131017,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
@@ -22473,6 +22479,11 @@
       "Time": "2023-11-21T07:03:38.9085519+00:00",
       "NumProgressed": 131016,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-21T09:04:28.3596493+00:00",
+      "NumProgressed": 131017,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22508,7 +22519,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "ACH_COP_ART",
@@ -22532,7 +22543,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -22548,7 +22559,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11791
+      "UsersEstimate": 11792
     },
     {
       "ID": "ACH_COP_DORK",
@@ -22564,7 +22575,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36684
+      "UsersEstimate": 36685
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22596,7 +22607,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27513
+      "UsersEstimate": 27514
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22708,7 +22719,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -22803,15 +22814,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131016,
+      "Progressed": 131017,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2023-11-18T16:58:10.2629238+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:03:46.6317757+00:00",
+  "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:04:28.3596488+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:59:15.8279428+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:03:46.6319269+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:00:02.2217388+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:04:28.3597504+00:00"
 }

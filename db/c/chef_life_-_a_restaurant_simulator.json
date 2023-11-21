@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3017,6 +3017,11 @@
       "Time": "2023-11-20T15:08:24.3119375+00:00",
       "NumProgressed": 685,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T09:08:38.2262638+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3076,7 +3081,7 @@
       "Name": "French Flair",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -3204,7 +3209,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "Packing20",
@@ -3212,7 +3217,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PerfectGrade25",
@@ -3252,7 +3257,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ServiceMaxClient",
@@ -3284,7 +3289,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TrattoriaSet",
@@ -3347,7 +3352,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 0
     }
   ],
@@ -3355,8 +3360,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:06:43.9192851+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:08:38.2262634+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.7449979+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:57:36.9069444+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:06:43.9193219+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:57:34.6204578+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:08:38.2263097+00:00"
 }

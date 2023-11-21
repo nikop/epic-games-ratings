@@ -39,10 +39,10 @@
 | The Duel | 21.00% | ~67 |
 | Forbidden Knowledge | 19.00% | ~61 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~58 |
-| If Looks Could Kill | 17.00% | ~54 |
+| If Looks Could Kill | 18.00% | ~58 |
+| Sacrificial Pit = Garbage Disposal? | 16.00% | ~51 |
 | Stop Tanos! | 16.00% | ~51 |
 | The Finitude Drill | 16.00% | ~51 |
-| Sacrificial Pit = Garbage Disposal? | 15.00% | ~48 |
 | Doom Hill | 12.00% | ~38 |
 | Bonus Evilness | 11.00% | ~35 |
 | Sabotage! | 11.00% | ~35 |
@@ -52,7 +52,7 @@
 | The Rune Sockets of Finitude (Part 1) | 9.00% | ~29 |
 | Mirror, Mirror | 8.00% | ~26 |
 | Untouchable | 8.00% | ~26 |
-| Lavalumps on Ice! | 7.00% | ~22 |
+| Lavalumps on Ice! | 8.00% | ~26 |
 | Rubble and Ashes | 7.00% | ~22 |
 | To Infinity And Beyond! | 7.00% | ~22 |
 | The Rune Sockets of Finitude (Part 2) | 7.00% | ~22 |

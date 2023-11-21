@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13149,
+  "EOS_Progressed": 13153,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10847,6 +10847,11 @@
       "Time": "2023-11-21T08:08:47.6102752+00:00",
       "NumProgressed": 13149,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-21T09:09:24.5343644+00:00",
+      "NumProgressed": 13153,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10891,7 +10896,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "a_16",
@@ -10907,7 +10912,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5391
+      "UsersEstimate": 5393
     },
     {
       "ID": "a_19",
@@ -10915,7 +10920,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "a_2",
@@ -10923,7 +10928,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "a_20",
@@ -10955,7 +10960,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "a_25",
@@ -10963,7 +10968,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "a_26",
@@ -10979,7 +10984,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "a_28",
@@ -10995,7 +11000,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "a_30",
@@ -11059,7 +11064,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "a_5",
@@ -11075,15 +11080,15 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "a_8",
@@ -11091,7 +11096,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "a_9",
@@ -11106,7 +11111,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13149,
+      "Progressed": 13153,
       "Completed": 11
     }
   ],
@@ -11114,8 +11119,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:08:47.6102747+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:09:24.5343641+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:02:57.748506+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:08:47.610344+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:03:14.7904985+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:09:24.5344306+00:00"
 }

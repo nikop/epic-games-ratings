@@ -17,9 +17,9 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 2.00% | ~30 |
 | Core Failure | 2.00% | ~30 |
 | Completing the Look | 1.00% | ~15 |
+| Who's Counting? | 1.00% | ~15 |
 | A Mythic Menagerie | 0.90% | ~13 |
 | Let Me Get My Chisel | 0.90% | ~13 |
-| Who's Counting? | 0.90% | ~13 |
 | Echoes Die | 0.90% | ~13 |
 | Thematic Divergence | 0.70% | ~10 |
 | Pyrrhic Victory | 0.60% | ~9 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,478 (Ranked 241)  
+Progressed: 1,479 (Ranked 241)  
 Completed: 6 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 6 (0.41%) (Ranked 213)
 | 2023-11-18 | 1,471 | 6 |
 | 2023-11-19 | 1,472 | 6 |
 | 2023-11-20 | 1,475 | 6 |
-| 2023-11-21 | 1,478 | 6 |
+| 2023-11-21 | 1,479 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 499)  
 Sum: 29 (Ranked 512)  

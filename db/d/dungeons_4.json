@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 320,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -767,9 +767,9 @@
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_main05evil_completed",
@@ -999,9 +999,9 @@
       "ID": "ach_main14run_completed",
       "SetID": "4hg22ll",
       "Name": "If Looks Could Kill",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -1055,9 +1055,9 @@
       "ID": "ach_main16ring_lavalings",
       "SetID": "4hg22ll",
       "Name": "Lavalumps on Ice!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_main16ring_spawners",
@@ -1174,8 +1174,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:03:44.119797+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:04:24.75933+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:59:50.9938596+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:03:44.1198383+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:01:03.4647653+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:04:24.7593704+00:00"
 }

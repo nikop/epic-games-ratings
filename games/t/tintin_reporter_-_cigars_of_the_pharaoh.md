@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 81.00% | ~17 |
-| A Loyal Friend | 38.00% | ~8 |
-| Abandon Ship! | 29.00% | ~6 |
-| The Tomb of Kih-Oskh | 19.00% | ~4 |
+| My Papyrus! | 82.00% | ~18 |
+| A Loyal Friend | 36.00% | ~8 |
+| Abandon Ship! | 27.00% | ~6 |
+| The Tomb of Kih-Oskh | 18.00% | ~4 |
 | The Weighing of the Soul | 14.00% | ~3 |
-| Cat Lover | 10.00% | ~2 |
-| The Curse of Kih-Oskh | 10.00% | ~2 |
-| It's a Deal! | 10.00% | ~2 |
+| The Curse of Kih-Oskh | 14.00% | ~3 |
+| It's a Deal! | 14.00% | ~3 |
+| Mummy Nightmare | 9.00% | ~2 |
+| Barking Dog | 9.00% | ~2 |
+| Cat Lover | 9.00% | ~2 |
 | In the Name of the Law | 5.00% | ~1 |
 | Au Revoir, Abudin | 5.00% | ~1 |
 | Mysterious Bungalow | 5.00% | ~1 |
 | The Eyes! | 5.00% | ~1 |
 | Punctual | 5.00% | ~1 |
-| Mummy Nightmare | 5.00% | ~1 |
-| Barking Dog | 5.00% | ~1 |
 | Threat | 5.00% | ~1 |
 | Dynamite, Treason and Coconuts | 5.00% | ~1 |
 | Save a Friend | 5.00% | ~1 |
@@ -42,7 +42,7 @@
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 541)  
+Progressed: 22 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,3 +54,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 17 | 0 |
 | 2023-11-19 | 20 | 0 |
 | 2023-11-20 | 21 | 0 |
+| 2023-11-21 | 22 | 0 |

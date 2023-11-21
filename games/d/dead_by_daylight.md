@@ -6,38 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 9.00% | ~93,139 |
-| Skillful | 8.00% | ~82,790 |
-| Zealous | 7.00% | ~72,442 |
-| Not half bad | 6.00% | ~62,093 |
-| Apt Survivor | 6.00% | ~62,093 |
-| Survival Treasures | 6.00% | ~62,093 |
-| Make Some Noise | 6.00% | ~62,093 |
-| Medic | 5.00% | ~51,744 |
-| Handyman | 5.00% | ~51,744 |
-| I | 5.00% | ~51,744 |
-| Sorted | 5.00% | ~51,744 |
-| Resurgence | 5.00% | ~51,744 |
-| The Grand Sacrifice | 4.00% | ~41,395 |
-| Agonizing Escape | 4.00% | ~41,395 |
-| Backdoor Escape | 4.00% | ~41,395 |
-| No one left behind | 4.00% | ~41,395 |
-| Perfect Escape | 4.00% | ~41,395 |
-| Bloody Millionaire | 4.00% | ~41,395 |
-| Engineer | 4.00% | ~41,395 |
-| Healthy Obsession | 4.00% | ~41,395 |
-| Preemptive Strike | 4.00% | ~41,395 |
-| Humanitarian | 4.00% | ~41,395 |
-| I've got your back | 3.00% | ~31,046 |
-| Perfect Killing | 3.00% | ~31,046 |
-| Apt Killer | 3.00% | ~31,046 |
-| Risk it all | 3.00% | ~31,046 |
-| Vulture | 3.00% | ~31,046 |
-| II | 3.00% | ~31,046 |
-| III | 3.00% | ~31,046 |
-| Wounded Healer | 3.00% | ~31,046 |
-| Close Shave | 3.00% | ~31,046 |
-| Second Act | 3.00% | ~31,046 |
+| It wakes | 9.00% | ~93,143 |
+| Skillful | 8.00% | ~82,794 |
+| Zealous | 7.00% | ~72,445 |
+| Not half bad | 6.00% | ~62,095 |
+| Apt Survivor | 6.00% | ~62,095 |
+| Survival Treasures | 6.00% | ~62,095 |
+| Make Some Noise | 6.00% | ~62,095 |
+| Medic | 5.00% | ~51,746 |
+| Handyman | 5.00% | ~51,746 |
+| I | 5.00% | ~51,746 |
+| Sorted | 5.00% | ~51,746 |
+| Resurgence | 5.00% | ~51,746 |
+| The Grand Sacrifice | 4.00% | ~41,397 |
+| Agonizing Escape | 4.00% | ~41,397 |
+| Backdoor Escape | 4.00% | ~41,397 |
+| No one left behind | 4.00% | ~41,397 |
+| Perfect Escape | 4.00% | ~41,397 |
+| Bloody Millionaire | 4.00% | ~41,397 |
+| Engineer | 4.00% | ~41,397 |
+| Healthy Obsession | 4.00% | ~41,397 |
+| Preemptive Strike | 4.00% | ~41,397 |
+| Humanitarian | 4.00% | ~41,397 |
+| I've got your back | 3.00% | ~31,048 |
+| Perfect Killing | 3.00% | ~31,048 |
+| Apt Killer | 3.00% | ~31,048 |
+| Risk it all | 3.00% | ~31,048 |
+| Vulture | 3.00% | ~31,048 |
+| II | 3.00% | ~31,048 |
+| III | 3.00% | ~31,048 |
+| Wounded Healer | 3.00% | ~31,048 |
+| Close Shave | 3.00% | ~31,048 |
+| Second Act | 3.00% | ~31,048 |
 | Blood on your hands | 2.00% | ~20,698 |
 | Escape Artist | 2.00% | ~20,698 |
 | Made it out alive! | 2.00% | ~20,698 |
@@ -104,15 +104,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Blood in your mouth | 0.80% | ~8,279 |
 | Whiffing to Success | 0.80% | ~8,279 |
 | Power Moves | 0.80% | ~8,279 |
-| Looter | 0.60% | ~6,209 |
-| Denied! | 0.60% | ~6,209 |
-| Death of Ignorance | 0.60% | ~6,209 |
-| Hack the Mainframe | 0.60% | ~6,209 |
-| Disarm and Dismember | 0.60% | ~6,209 |
-| Mad House | 0.50% | ~5,174 |
-| Viral Video | 0.50% | ~5,174 |
-| Ghost in the Machine | 0.50% | ~5,174 |
-| From the Deep | 0.50% | ~5,174 |
+| Looter | 0.60% | ~6,210 |
+| Denied! | 0.60% | ~6,210 |
+| Death of Ignorance | 0.60% | ~6,210 |
+| Hack the Mainframe | 0.60% | ~6,210 |
+| Disarm and Dismember | 0.60% | ~6,210 |
+| Mad House | 0.50% | ~5,175 |
+| Viral Video | 0.50% | ~5,175 |
+| Ghost in the Machine | 0.50% | ~5,175 |
+| From the Deep | 0.50% | ~5,175 |
 | A feast for the Entity | 0.40% | ~4,140 |
 | In the void she walks | 0.40% | ~4,140 |
 | Deranged Pursuit | 0.40% | ~4,140 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,035 |
 | Adept Ripley | 0.10% | ~1,035 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,034,880 (Ranked 14)  
+Progressed: 1,034,922 (Ranked 14)  
 Completed: 54 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 54 (0.01%) (Ranked 335)
 | 2023-11-18 | 1,029,621 | 54 |
 | 2023-11-19 | 1,032,368 | 54 |
 | 2023-11-20 | 1,034,351 | 54 |
-| 2023-11-21 | 1,034,880 | 54 |
+| 2023-11-21 | 1,034,922 | 54 |
 ## Awards
 Max (Diverse Characters): 36,296  (Ranked 15)  
 Sum: 277,343 (Ranked 13)  

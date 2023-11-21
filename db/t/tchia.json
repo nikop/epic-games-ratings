@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7783,
+  "EOS_Progressed": 7784,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8264,6 +8264,11 @@
       "Time": "2023-11-21T07:05:09.5703586+00:00",
       "NumProgressed": 7783,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-21T09:06:36.6434724+00:00",
+      "NumProgressed": 7784,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8331,7 +8336,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "FASHION_VICTIM",
@@ -8339,7 +8344,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -8379,7 +8384,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "LIBERATOR",
@@ -8442,7 +8447,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7783,
+      "Progressed": 7784,
       "Completed": 34
     }
   ],
@@ -8450,8 +8455,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:05:16.9846648+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:06:36.6434719+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:29.7987835+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:57:34.9109953+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:05:16.9847141+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:57:31.4223831+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:06:36.6435619+00:00"
 }

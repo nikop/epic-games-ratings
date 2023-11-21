@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -145,7 +145,7 @@
   "Tags": [],
   "EOS_Progressed": 8679,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -4065,9 +4065,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7opfcp",
       "Name": "Off We Sail Tonight",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1823
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -4378,8 +4378,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-19T04:01:05.4941686+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:05:02.0239111+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:06:14.8768291+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:10.4892963+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:58:10.1532781+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:05:02.0239489+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:58:24.9612533+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:06:14.8768734+00:00"
 }

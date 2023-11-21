@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2914,
+  "EOS_Progressed": 2915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7509,6 +7509,11 @@
       "Time": "2023-11-21T08:09:04.3730852+00:00",
       "NumProgressed": 2914,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T09:09:48.6018543+00:00",
+      "NumProgressed": 2915,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7528,7 +7533,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "BOT_DESTROYER",
@@ -7544,7 +7549,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "CONQUEROR",
@@ -7624,7 +7629,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "GUARD_MAKER",
@@ -7646,9 +7651,9 @@
       "ID": "KING_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Clash of Kings",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 87
     },
     {
       "ID": "KNIGHT_MASTERY",
@@ -7695,14 +7700,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2914,
+      "Progressed": 2915,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:09:04.3730848+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:09:48.6018537+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:58.9195982+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:58:05.4997186+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:09:04.3731279+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:58:17.4574024+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:09:48.6019135+00:00"
 }

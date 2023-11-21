@@ -11,13 +11,13 @@
 | Adventurer | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
 | Calm before the Storm | 5.00% | ~10 |
+| Tributes of Caladrias | 5.00% | ~10 |
 | Geared Up | 5.00% | ~10 |
+| The Collector | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |
-| Tributes of Caladrias | 4.00% | ~8 |
 | Big Bazar | 4.00% | ~8 |
 | Stone Collection | 4.00% | ~8 |
-| The Collector | 4.00% | ~8 |
 | Essence Blow | 3.00% | ~6 |
 | Shatter Them All | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |

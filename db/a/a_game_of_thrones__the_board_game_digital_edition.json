@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28833,
+  "EOS_Progressed": 28835,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24410,6 +24410,11 @@
       "Time": "2023-11-21T08:09:02.0505184+00:00",
       "NumProgressed": 28833,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-21T09:09:45.3709711+00:00",
+      "NumProgressed": 28835,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24557,7 +24562,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11533
+      "UsersEstimate": 11534
     },
     {
       "ID": "1033",
@@ -24581,7 +24586,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3749
     },
     {
       "ID": "1036",
@@ -24596,15 +24601,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28833,
+      "Progressed": 28835,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:09:02.0505179+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:09:45.3709707+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:03:10.6271141+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:09:02.050642+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:03:33.9374136+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:09:45.3710906+00:00"
 }

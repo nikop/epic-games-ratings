@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5683,
+  "EOS_Progressed": 5686,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3931,6 +3931,11 @@
       "Time": "2023-11-21T08:09:06.0923764+00:00",
       "NumProgressed": 5683,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-21T09:09:50.9151855+00:00",
+      "NumProgressed": 5686,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3967,7 +3972,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ChewingTheScenery",
@@ -3983,7 +3988,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Eavesdropper",
@@ -4015,7 +4020,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4087,7 +4092,7 @@
       "Name": "Nasty!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "NoMoreTotems",
@@ -4135,7 +4140,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "TheQuarterback",
@@ -4175,7 +4180,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -4214,7 +4219,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5683,
+      "Progressed": 5686,
       "Completed": 7
     }
   ],
@@ -4222,8 +4227,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:09:06.092376+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:09:50.9151846+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:58:49.6728103+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:09:06.0924134+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:59:22.611994+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:09:50.9152244+00:00"
 }

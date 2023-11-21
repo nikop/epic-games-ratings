@@ -10,7 +10,7 @@
 | Recruit | 68.00% | ~915 |
 | Search and Rescue | 67.00% | ~902 |
 | Quarian Ally | 63.00% | ~848 |
-| Medal of Heroism | 59.00% | ~794 |
+| Medal of Heroism | 60.00% | ~808 |
 | Honorarium of Corporate Service | 59.00% | ~794 |
 | Council Legion of Merit | 54.00% | ~727 |
 | Medal of Exploration II | 53.00% | ~713 |
@@ -103,9 +103,9 @@
 | Master and Commander | 17.00% | ~229 |
 | Sabotage Specialist | 16.00% | ~215 |
 | Legend | 16.00% | ~215 |
+| Long Service Medal | 15.00% | ~202 |
 | Throw Mastery | 15.00% | ~202 |
 | Mail Slot | 14.00% | ~188 |
-| Long Service Medal | 14.00% | ~188 |
 | Electronics Specialist | 14.00% | ~188 |
 | Combined Arms | 12.00% | ~162 |
 | Bruiser | 11.00% | ~148 |

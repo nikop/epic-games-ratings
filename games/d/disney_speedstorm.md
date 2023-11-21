@@ -5,17 +5,17 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~30,615 |
-| IT MAKES BOOM! | 7.00% | ~21,431 |
-| EXTRA BOOST | 5.00% | ~15,308 |
-| PROTECTED | 4.00% | ~12,246 |
+| ROOKIE | 10.00% | ~30,617 |
+| IT MAKES BOOM! | 7.00% | ~21,432 |
+| EXTRA BOOST | 5.00% | ~15,309 |
+| PROTECTED | 4.00% | ~12,247 |
 | HERE ARE SOME BARE NECESSITIES | 3.00% | ~9,185 |
 | AGGRESSIVE RACER | 3.00% | ~9,185 |
 | PRO | 3.00% | ~9,185 |
 | A TIGER'S FEAR | 2.00% | ~6,123 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~3,062 |
 | ACE SPEEDSTER | 1.00% | ~3,062 |
-| RELEASE THE KRAKEN | 0.90% | ~2,755 |
+| RELEASE THE KRAKEN | 0.90% | ~2,756 |
 | BE OUR GUEST | 0.80% | ~2,449 |
 | FRIENDLY | 0.80% | ~2,449 |
 | MASTER | 0.80% | ~2,449 |
@@ -26,11 +26,11 @@ Rating: 4.39 (Ranked 746)
 | EXPERIENCED CREW | 0.60% | ~1,837 |
 | ACE BRAWLER | 0.40% | ~1,225 |
 | ACE DEFENDER | 0.40% | ~1,225 |
-| FRAMED! | 0.30% | ~918 |
-| ACE TRICKSTER | 0.30% | ~918 |
+| FRAMED! | 0.30% | ~919 |
+| ACE TRICKSTER | 0.30% | ~919 |
 | PERFECTLY POISED | 0.20% | ~612 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306,153 (Ranked 52)  
+Progressed: 306,172 (Ranked 52)  
 Completed: 313 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,10 +241,10 @@ Completed: 313 (0.10%) (Ranked 279)
 | 2023-11-18 | 302,536 | 303 |
 | 2023-11-19 | 304,467 | 306 |
 | 2023-11-20 | 305,742 | 312 |
-| 2023-11-21 | 306,153 | 313 |
+| 2023-11-21 | 306,172 | 313 |
 ## Awards
 Max (Great for Beginners): 77  (Ranked 395)  
-Sum: 598 (Ranked 311)  
+Sum: 599 (Ranked 311)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -257,8 +257,8 @@ Diff (max vs sum): 84
 | This game is Highly Recommended | 43 |
 | This game has a Competitive Community | 43 |
 | This game has Quickly Understood Controls | 40 |
+| This game is Extremely Fun | 40 |
 | This game has Amazing Storytelling | 39 |
-| This game is Extremely Fun | 39 |
 | This game is Relaxing | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -314,3 +314,4 @@ Diff (max vs sum): 84
 | 2023-11-18 | 4.39 | 74 | 573 |
 | 2023-11-19 | 4.39 | 77 | 587 |
 | 2023-11-20 | 4.39 | 77 | 598 |
+| 2023-11-21 | 4.39 | 77 | 599 |

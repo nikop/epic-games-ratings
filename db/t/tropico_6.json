@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1389,7 +1389,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6076,
+  "EOS_Progressed": 6077,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -13244,6 +13244,11 @@
       "Time": "2023-11-21T07:09:40.6487082+00:00",
       "NumProgressed": 6076,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T09:10:18.0506357+00:00",
+      "NumProgressed": 6077,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13311,7 +13316,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -13327,7 +13332,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -13351,7 +13356,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13415,7 +13420,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13439,7 +13444,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -13574,15 +13579,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6076,
+      "Progressed": 6077,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-20T18:59:34.5795733+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:09:25.6832085+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:10:18.0506354+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.3230973+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:59:20.0248516+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:09:25.6832834+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:00:08.0488119+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:10:18.0507318+00:00"
 }

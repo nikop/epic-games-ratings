@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1346,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3944,9 +3944,9 @@
       "ID": "achievement_123",
       "SetID": "d252ncf",
       "Name": "Long Service Medal",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 188
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_124",
@@ -4040,9 +4040,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 794
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_20",
@@ -4756,8 +4756,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:08:17.6550224+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:08:42.1637994+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:03:04.7948136+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:08:17.6552013+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:03:25.1725677+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:08:42.1639579+00:00"
 }

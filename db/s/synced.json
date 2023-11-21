@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1119,7 +1119,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 67154,
+  "EOS_Progressed": 67159,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 2,
@@ -9914,6 +9914,11 @@
       "Time": "2023-11-21T08:05:07.8124851+00:00",
       "NumProgressed": 67154,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T09:06:23.0357507+00:00",
+      "NumProgressed": 67159,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9926,7 +9931,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22832
+      "UsersEstimate": 22834
     },
     {
       "ID": "10",
@@ -9966,7 +9971,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "15",
@@ -9990,7 +9995,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12088
+      "UsersEstimate": 12089
     },
     {
       "ID": "3",
@@ -9998,7 +10003,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8730
+      "UsersEstimate": 8731
     },
     {
       "ID": "4",
@@ -10006,7 +10011,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "5",
@@ -10014,7 +10019,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5372
+      "UsersEstimate": 5373
     },
     {
       "ID": "6",
@@ -10022,7 +10027,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4030
     },
     {
       "ID": "7",
@@ -10053,7 +10058,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67154,
+      "Progressed": 67159,
       "Completed": 35
     }
   ],
@@ -10061,8 +10066,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-19T04:59:48.9534325+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:05:07.8124848+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:06:23.0357504+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:57:33.5002841+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:05:07.812539+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:57:29.3823685+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:06:23.0357935+00:00"
 }

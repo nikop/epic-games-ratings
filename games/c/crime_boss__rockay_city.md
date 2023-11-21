@@ -33,6 +33,7 @@ Rating: 3.95 (Ranked 1,009)
 | Ding Dong | 0.40% | ~365 |
 | All that Glitters | 0.40% | ~79 |
 | Rockay Raider | 0.30% | ~274 |
+| All for One | 0.30% | ~59 |
 | Rockay Knight | 0.20% | ~183 |
 | Privateer | 0.20% | ~183 |
 | Talent Scout | 0.20% | ~183 |
@@ -41,13 +42,12 @@ Rating: 3.95 (Ranked 1,009)
 | Red Star | 0.20% | ~183 |
 | Classy Joint | 0.20% | ~183 |
 | Impossible Dreamer | 0.20% | ~183 |
-| All for One | 0.20% | ~39 |
 | One for All | 0.20% | ~39 |
 | Now You See Me | 0.20% | ~39 |
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,351 (Ranked 92)  
+Progressed: 91,352 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 57 (0.06%) (Ranked 299)
 | 2023-11-18 | 91,295 | 57 |
 | 2023-11-19 | 91,321 | 57 |
 | 2023-11-20 | 91,347 | 57 |
-| 2023-11-21 | 91,351 | 57 |
+| 2023-11-21 | 91,352 | 57 |
 ## Awards
 Max (Diverse Characters): 540  (Ranked 205)  
 Sum: 3,071 (Ranked 175)  

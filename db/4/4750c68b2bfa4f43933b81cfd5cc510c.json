@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -1893,9 +1893,9 @@
       "Count": 306
     }
   ],
-  "EOS_Progressed": 53422,
+  "EOS_Progressed": 53423,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9018,6 +9018,11 @@
       "Time": "2023-11-21T08:03:42.4542803+00:00",
       "NumProgressed": 53422,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T09:04:22.5153175+00:00",
+      "NumProgressed": 53423,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -9070,7 +9075,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 27245
+      "UsersEstimate": 27246
     },
     {
       "ID": "achievement_15",
@@ -9086,7 +9091,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 22971
+      "UsersEstimate": 22972
     },
     {
       "ID": "achievement_17",
@@ -9094,7 +9099,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 32053
+      "UsersEstimate": 32054
     },
     {
       "ID": "achievement_18",
@@ -9126,7 +9131,7 @@
       "Name": "Record Breaker",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "achievement_21",
@@ -9134,7 +9139,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 44874
+      "UsersEstimate": 44875
     },
     {
       "ID": "achievement_22",
@@ -9214,7 +9219,7 @@
       "Name": "Make the Grade",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 5876
+      "UsersEstimate": 5877
     },
     {
       "ID": "achievement_31",
@@ -9222,7 +9227,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "achievement_32",
@@ -9254,7 +9259,7 @@
       "Name": "Golden Generation",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 5876
+      "UsersEstimate": 5877
     },
     {
       "ID": "achievement_36",
@@ -9318,7 +9323,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 31519
+      "UsersEstimate": 31520
     },
     {
       "ID": "achievement_7",
@@ -9326,7 +9331,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 19766
+      "UsersEstimate": 19767
     },
     {
       "ID": "achievement_8",
@@ -9334,7 +9339,7 @@
       "Name": "Power Shot",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 40066
+      "UsersEstimate": 40067
     },
     {
       "ID": "achievement_9",
@@ -9342,14 +9347,14 @@
       "Name": "Bring it on",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     }
   ],
   "AchievementSets": [
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 53422,
+      "Progressed": 53423,
       "Completed": 0
     }
   ],
@@ -9357,8 +9362,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-21T07:58:43.8893798+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:03:42.4542801+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:04:22.5153168+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.7483649+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:58:43.8893803+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:03:42.4543353+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:59:14.3339933+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:04:22.5153653+00:00"
 }

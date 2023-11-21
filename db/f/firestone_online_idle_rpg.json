@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -481,9 +481,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2511,
+  "EOS_Progressed": 2512,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7566,6 +7566,11 @@
       "Time": "2023-11-21T08:08:47.3845085+00:00",
       "NumProgressed": 2511,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T09:09:24.2876559+00:00",
+      "NumProgressed": 2512,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7953,7 +7958,7 @@
       "Name": "Natural Talent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "pokerface",
@@ -7977,7 +7982,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "relicofthepast",
@@ -8033,7 +8038,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "thealchemist",
@@ -8081,7 +8086,7 @@
       "Name": "The Unstoppable",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "titanpower",
@@ -8137,7 +8142,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "warmachinesarmy",
@@ -8176,7 +8181,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2511,
+      "Progressed": 2512,
       "Completed": 2
     }
   ],
@@ -8184,8 +8189,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:08:47.3845083+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:09:24.2876556+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:59:21.3734941+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:08:47.3846038+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:00:10.3584187+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:09:24.2877322+00:00"
 }

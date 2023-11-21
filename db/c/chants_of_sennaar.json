@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.58,
+  "EOS_Completed_Percentage": 5.57,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2680,6 +2680,11 @@
       "Time": "2023-11-21T04:05:05.0493243+00:00",
       "NumProgressed": 627,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T09:06:57.9256376+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2713,9 +2718,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 113
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2841,9 +2846,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 132
     },
     {
       "ID": "PROGRESS_N1",
@@ -2883,21 +2888,21 @@
       "Name": "One last step",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:05:32.2429942+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:06:57.9256371+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:57:54.0280919+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:05:32.243021+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:57:59.9001466+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:06:57.9256639+00:00"
 }

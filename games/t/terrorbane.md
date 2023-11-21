@@ -8,8 +8,8 @@
 | System shocked | 67.00% | ~28 |
 | Exposé | 62.00% | ~26 |
 | Blade of prophecy | 50.00% | ~21 |
+| Normal end | 48.00% | ~20 |
 | C Rank Bug-catcher | 45.00% | ~19 |
-| Normal end | 45.00% | ~19 |
 | Armed robbery | 38.00% | ~16 |
 | Never learn | 33.00% | ~14 |
 | B Rank Bug-catcher | 29.00% | ~12 |

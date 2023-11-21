@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8191,10 +8191,10 @@
       "Count": 3524
     }
   ],
-  "EOS_Progressed": 236197,
+  "EOS_Progressed": 236202,
   "EOS_Completed": 2464,
-  "EOS_NewPlayers": 1244,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 1245,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -32281,6 +32281,11 @@
       "Time": "2023-11-21T08:09:29.3414669+00:00",
       "NumProgressed": 236197,
       "NumCompleted": 2464
+    },
+    {
+      "Time": "2023-11-21T09:10:22.9139388+00:00",
+      "NumProgressed": 236202,
+      "NumCompleted": 2464
     }
   ],
   "TotalAchievements": 532,
@@ -36516,7 +36521,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "objective_completed_1548",
@@ -36547,21 +36552,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202471,
+      "Progressed": 202476,
       "Completed": 3932
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236197,
+      "Progressed": 236202,
       "Completed": 2464
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-20T22:00:02.561395+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:09:29.3414666+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:10:22.9139384+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:00:42.7332473+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:09:29.343603+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:02:23.9783252+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:10:22.9161116+00:00"
 }

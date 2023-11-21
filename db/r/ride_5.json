@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 2199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5499,9 +5499,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 638
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5546,8 +5546,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-21T08:09:27.0390236+00:00",
+  "LastChanged_Achievements": "2023-11-21T09:10:19.6270274+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:00:05.9068211+00:00",
-  "LastUpdate_Achievements": "2023-11-21T08:09:27.0390735+00:00"
+  "LastUpdate_Ratings": "2023-11-21T09:01:27.5163081+00:00",
+  "LastUpdate_Achievements": "2023-11-21T09:10:19.6270728+00:00"
 }
