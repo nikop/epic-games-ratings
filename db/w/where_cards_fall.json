@@ -2,7 +2,7 @@
   "ID": "55b3157105b645dc8d26b39d3804944c",
   "Name": "Where Cards Fall",
   "ProductSlug": "where-cards-fall",
-  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Progress": 752,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 120,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:44.3184124+00:00",
   "LastChanged": "2023-03-31T05:57:44.3184125+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:05.6164528+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:58:33.5144945+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:05:34.3302179+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:04:46.9717153+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:16.0379996+00:00"
 }

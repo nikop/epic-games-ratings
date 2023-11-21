@@ -39,9 +39,9 @@ Rating: 4.12 (Ranked 962)
 | Four Leaf Clover | 9.00% | ~226 |
 | Frostfire Liberator | 9.00% | ~226 |
 | Moving Up The Ladder | 9.00% | ~226 |
+| The father of Dragons | 9.00% | ~226 |
 | Here We Go Again | 8.00% | ~201 |
 | Master Enchanter | 8.00% | ~201 |
-| The father of Dragons | 8.00% | ~201 |
 | Trader | 8.00% | ~201 |
 | Blueprint Upgrades | 7.00% | ~176 |
 | Crystal Mining | 7.00% | ~176 |

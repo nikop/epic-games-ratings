@@ -4,7 +4,7 @@
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -444,9 +444,9 @@
       "ID": "SOBER_10_TIMES",
       "SetID": "6akbe6n",
       "Name": "Hangover Hero",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNLOCKED_IPHONE",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:03:59.6987336+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:07.5146494+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.0183019+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:01:53.2068047+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:03:59.698743+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:53.5399639+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:07.5146739+00:00"
 }

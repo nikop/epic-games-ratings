@@ -15390,10 +15390,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 358489,
       "NumberOfAwardsMax": 106367
+    },
+    {
+      "Time": "2023-11-21T10:06:45.9243209+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 358669,
+      "NumberOfAwardsMax": 106367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358489,
+  "NumberOfAwards": 358669,
   "NumberOfAwardsMax": 106367,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15407,7 +15413,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 77104
+      "Count": 77231
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15449,7 +15455,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 19024
+      "Count": 19077
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15470,9 +15476,9 @@
       "Count": 13257
     }
   ],
-  "EOS_Progressed": 897563,
+  "EOS_Progressed": 897568,
   "EOS_Completed": 2796,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39835,6 +39841,11 @@
       "Time": "2023-11-21T09:05:42.4568593+00:00",
       "NumProgressed": 897563,
       "NumCompleted": 2796
+    },
+    {
+      "Time": "2023-11-21T10:11:21.952667+00:00",
+      "NumProgressed": 897568,
+      "NumCompleted": 2796
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -40303,7 +40314,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "HydraIsDead",
@@ -40319,7 +40330,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "KingOfTheCups",
@@ -40382,21 +40393,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897563,
+      "Progressed": 897568,
       "Completed": 2796
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26186,
+      "Progressed": 26191,
       "Completed": 10240
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-21T05:01:14.0492065+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:05:42.4568589+00:00",
+  "LastChanged": "2023-11-21T10:06:45.9243207+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:11:21.9526667+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:01:40.6401345+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:05:42.4569801+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:45.9243212+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:21.9528249+00:00"
 }

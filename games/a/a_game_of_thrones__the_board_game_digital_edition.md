@@ -15,9 +15,9 @@ Number of Ratings: 2,500  (23.09.2022)
 | Daggers in the Dark | 8.00% | ~2,307 |
 | Alliance | 8.00% | ~2,307 |
 | A Long Journey | 8.00% | ~2,307 |
-| Winter is Coming | 7.00% | ~2,018 |
-| Oathkeeper | 7.00% | ~2,018 |
-| Influential | 7.00% | ~2,018 |
+| Winter is Coming | 7.00% | ~2,019 |
+| Oathkeeper | 7.00% | ~2,019 |
+| Influential | 7.00% | ~2,019 |
 | Ours is the Fury | 6.00% | ~1,730 |
 | We Do Not Sow | 6.00% | ~1,730 |
 | Defender of the Wall | 6.00% | ~1,730 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~577 |
 | War of the Five Kings | 1.00% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,835 (Ranked 125)  
+Progressed: 28,836 (Ranked 125)  
 Completed: 79 (0.27%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 79 (0.27%) (Ranked 242)
 | 2023-11-18 | 28,640 | 78 |
 | 2023-11-19 | 28,756 | 79 |
 | 2023-11-20 | 28,815 | 79 |
-| 2023-11-21 | 28,835 | 79 |
+| 2023-11-21 | 28,836 | 79 |
 ## Awards
 Max (Quickly Understood Controls): 126  (Ranked 334)  
 Sum: 797 (Ranked 282)  

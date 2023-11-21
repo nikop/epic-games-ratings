@@ -2,7 +2,7 @@
   "ID": "4db5e019410f4f4d8988365718d54588",
   "Name": "EchoBlade",
   "ProductSlug": "echoblade-f90b32",
-  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Progress": 752,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 120,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-29T06:02:22.1797742+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:06:14.6227958+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:11:44.716656+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:57.8859082+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:01:12.8684213+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:06:14.622798+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:28.4910085+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:44.716659+00:00"
 }

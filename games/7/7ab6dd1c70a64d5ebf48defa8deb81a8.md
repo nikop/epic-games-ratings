@@ -17,11 +17,11 @@
 | Break Out | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |
 | Big Bazar | 4.00% | ~8 |
+| Fashion Victim | 4.00% | ~8 |
 | Stone Collection | 4.00% | ~8 |
 | Essence Blow | 3.00% | ~6 |
 | Shatter Them All | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
-| Fashion Victim | 3.00% | ~6 |
 | Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |

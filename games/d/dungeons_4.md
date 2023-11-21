@@ -9,11 +9,11 @@
 | For the Horde! | 82.00% | ~262 |
 | Hammer Time, Round Two | 81.00% | ~259 |
 | The Hellwoods | 77.00% | ~246 |
-| The Plains of Strothalm | 72.00% | ~230 |
-| Experienced Thalya | 70.00% | ~224 |
+| The Plains of Strothalm | 73.00% | ~234 |
+| Experienced Thalya | 71.00% | ~227 |
 | Thalya's Concentrated Fury | 68.00% | ~218 |
+| Bad Elves Go Everywhere | 66.00% | ~211 |
 | Master of Magic | 65.00% | ~208 |
-| Bad Elves Go Everywhere | 65.00% | ~208 |
 | Heroes’ Gorge | 61.00% | ~195 |
 | Magic Accidents | 59.00% | ~189 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~189 |
@@ -34,8 +34,8 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~74 |
 | Unstoppable Horde | 23.00% | ~74 |
 | All’s Well That Ends Evil | 23.00% | ~74 |
+| Hungry, Hungry Gorgu! | 22.00% | ~70 |
 | Master of the Undead | 22.00% | ~70 |
-| Hungry, Hungry Gorgu! | 21.00% | ~67 |
 | The Duel | 21.00% | ~67 |
 | Forbidden Knowledge | 19.00% | ~61 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~58 |
@@ -49,7 +49,7 @@
 | Brimstone Shaken, Not Stirred | 11.00% | ~35 |
 | My Little Torture Chamber | 10.00% | ~32 |
 | Raiders of the Lost Stone | 10.00% | ~32 |
-| The Rune Sockets of Finitude (Part 1) | 9.00% | ~29 |
+| The Rune Sockets of Finitude (Part 1) | 10.00% | ~32 |
 | Mirror, Mirror | 8.00% | ~26 |
 | Untouchable | 8.00% | ~26 |
 | Lavalumps on Ice! | 8.00% | ~26 |

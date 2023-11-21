@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1043,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 108,
@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78875,
+  "EOS_Progressed": 78876,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 10,
@@ -24122,6 +24122,11 @@
       "Time": "2023-11-21T09:06:26.7638203+00:00",
       "NumProgressed": 78875,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-21T10:11:53.4444149+00:00",
+      "NumProgressed": 78876,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24165,7 +24170,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17352
+      "UsersEstimate": 17353
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24189,7 +24194,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4732
+      "UsersEstimate": 4733
     },
     {
       "ID": "Fair\u0027sFair",
@@ -24332,7 +24337,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78875,
+      "Progressed": 78876,
       "Completed": 850
     }
   ],
@@ -24340,8 +24345,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:06:26.76382+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:11:53.4444146+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:00:31.3059566+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:06:26.7639523+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:03.4859146+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:53.4445323+00:00"
 }

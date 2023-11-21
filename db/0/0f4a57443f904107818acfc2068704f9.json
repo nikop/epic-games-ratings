@@ -891,9 +891,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "CompleteChapter3",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:05:05.1244904+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:54.6303511+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:01:54.7643669+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:05:05.124512+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:54.595276+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:54.6303771+00:00"
 }

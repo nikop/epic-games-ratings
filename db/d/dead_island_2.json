@@ -6741,10 +6741,10 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 721705,
+  "EOS_Progressed": 721723,
   "EOS_Completed": 2422,
-  "EOS_NewPlayers": 3496,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 3500,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -31311,6 +31311,11 @@
       "Time": "2023-11-21T09:04:49.3256096+00:00",
       "NumProgressed": 721705,
       "NumCompleted": 2422
+    },
+    {
+      "Time": "2023-11-21T10:10:43.5371044+00:00",
+      "NumProgressed": 721723,
+      "NumCompleted": 2422
     }
   ],
   "TotalAchievements": 51,
@@ -31346,7 +31351,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31410,7 +31415,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "ach_doom_buddies",
@@ -31594,7 +31599,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "ach_star_performance",
@@ -31642,7 +31647,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31698,7 +31703,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_pork_chops",
@@ -31729,13 +31734,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721705,
+      "Progressed": 721723,
       "Completed": 2422
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47247,
+      "Progressed": 47265,
       "Completed": 36576
     }
   ],
@@ -31743,8 +31748,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-21T02:28:39.6814283+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:04:49.325609+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:43.5371039+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:57:17.8360172+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:04:49.3257257+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:03:56.2770931+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:43.5372623+00:00"
 }

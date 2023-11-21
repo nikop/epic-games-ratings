@@ -365,9 +365,9 @@
       "ID": "Achievement34",
       "SetID": "9fa3l5n",
       "Name": "Cat Lover",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement35",
@@ -429,9 +429,9 @@
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement9",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:06:59.7049975+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:12:17.1171763+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
   "LastUpdate_Ratings": "2023-11-21T09:02:28.8451779+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:06:59.7050195+00:00"
+  "LastUpdate_Achievements": "2023-11-21T10:12:17.1172007+00:00"
 }

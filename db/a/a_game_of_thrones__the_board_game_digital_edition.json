@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28835,
+  "EOS_Progressed": 28836,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24415,6 +24415,11 @@
       "Time": "2023-11-21T09:09:45.3709711+00:00",
       "NumProgressed": 28835,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-21T10:15:34.5752789+00:00",
+      "NumProgressed": 28836,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24458,7 +24463,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "1020",
@@ -24514,7 +24519,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "1027",
@@ -24578,7 +24583,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "1035",
@@ -24601,15 +24606,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28835,
+      "Progressed": 28836,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:09:45.3709707+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:15:34.5752784+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:03:33.9374136+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:09:45.3710906+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:09:49.9463644+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:15:34.5753905+00:00"
 }

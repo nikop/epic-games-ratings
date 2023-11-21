@@ -3,11 +3,11 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 431,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 1004,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2496,9 +2496,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 291
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -2648,9 +2648,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 371
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -2696,9 +2696,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 472
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -2977,8 +2977,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:05:48.227579+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:11:25.9978051+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:00:55.9719802+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:05:48.2276734+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:18.6949559+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:25.9978836+00:00"
 }

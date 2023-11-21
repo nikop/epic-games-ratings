@@ -3,11 +3,11 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 587,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235913,
+  "EOS_Progressed": 235914,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -22922,6 +22922,11 @@
       "Time": "2023-11-21T08:03:31.4535048+00:00",
       "NumProgressed": 235913,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-21T10:10:12.3584125+00:00",
+      "NumProgressed": 235914,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -22965,7 +22970,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25950
+      "UsersEstimate": 25951
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -23069,7 +23074,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77851
+      "UsersEstimate": 77852
     },
     {
       "ID": "NOBUNAGA",
@@ -23197,22 +23202,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96724
+      "UsersEstimate": 96725
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235913,
+      "Progressed": 235914,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:04:06.6523154+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:12.3584123+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8860637+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:58:49.7745469+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:04:06.6524322+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:04:58.7077117+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:12.3585477+00:00"
 }

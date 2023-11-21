@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "aq_achievement_14",
       "SetID": "7jh86ne",
       "Name": "Show me your true self",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "aq_achievement_15",
@@ -558,17 +558,17 @@
       "ID": "aq_achievement_33",
       "SetID": "7jh86ne",
       "Name": "No posters allowed",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_34",
       "SetID": "7jh86ne",
       "Name": "Clever reference #451",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_35",
@@ -671,8 +671,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:10:15.7829816+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:15:56.6268919+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:00:13.5916502+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:10:15.7830225+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:05:54.2283661+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:15:56.6269166+00:00"
 }

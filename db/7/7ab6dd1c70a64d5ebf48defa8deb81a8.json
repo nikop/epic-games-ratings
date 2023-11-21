@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -966,9 +966,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_26",
@@ -1069,8 +1069,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:10:16.0630602+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:15:56.7256245+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:01:26.2173836+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:10:16.0630912+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:37.0081485+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:15:56.7256513+00:00"
 }

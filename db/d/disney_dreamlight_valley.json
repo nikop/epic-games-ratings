@@ -6,8 +6,8 @@
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4767,9 +4767,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 11782,
+  "EOS_Progressed": 11783,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
@@ -19182,6 +19182,11 @@
       "Time": "2023-11-21T06:03:37.8346395+00:00",
       "NumProgressed": 11782,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-21T10:10:04.2404434+00:00",
+      "NumProgressed": 11783,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 15,
@@ -19249,7 +19254,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "Generous",
@@ -19265,7 +19270,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8247
+      "UsersEstimate": 8248
     },
     {
       "ID": "Miner",
@@ -19312,7 +19317,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11782,
+      "Progressed": 11783,
       "Completed": 279
     }
   ],
@@ -19320,8 +19325,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-21T01:51:47.7892294+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:03:54.8807019+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:04.2404431+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:02:00.0949372+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:03:54.8808121+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:06:58.1515009+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:04.2405086+00:00"
 }

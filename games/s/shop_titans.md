@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,038 |
-| Basic in Bulk | 5.00% | ~7,038 |
-| Titan's First Steps | 5.00% | ~7,038 |
+| Sponsored by Argon | 5.00% | ~7,039 |
+| Basic in Bulk | 5.00% | ~7,039 |
+| Titan's First Steps | 5.00% | ~7,039 |
 | Tinkle of Coins | 4.00% | ~5,631 |
 | One Easy Payment | 3.00% | ~4,223 |
 | Some Assembly Required | 3.00% | ~4,223 |
@@ -18,16 +18,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 3.00% | ~4,223 |
 | Capitalism Ho! | 3.00% | ~4,223 |
 | Own the Means of Production | 3.00% | ~4,223 |
-| The Daily Grind | 2.00% | ~2,815 |
-| Bounty Hunters | 2.00% | ~2,815 |
-| Demand for Supplies | 2.00% | ~2,815 |
-| Flooding the Market | 2.00% | ~2,815 |
-| Where it Hurts | 2.00% | ~2,815 |
-| Pretty Penny | 2.00% | ~2,815 |
-| Gild-Gotten Goods | 2.00% | ~2,815 |
-| One-Armed Bandit | 2.00% | ~2,815 |
-| Dungeon Imports | 2.00% | ~2,815 |
-| Through Repetition, Perfection | 2.00% | ~2,815 |
+| The Daily Grind | 2.00% | ~2,816 |
+| Bounty Hunters | 2.00% | ~2,816 |
+| Demand for Supplies | 2.00% | ~2,816 |
+| Flooding the Market | 2.00% | ~2,816 |
+| Where it Hurts | 2.00% | ~2,816 |
+| Pretty Penny | 2.00% | ~2,816 |
+| Gild-Gotten Goods | 2.00% | ~2,816 |
+| One-Armed Bandit | 2.00% | ~2,816 |
+| Dungeon Imports | 2.00% | ~2,816 |
+| Through Repetition, Perfection | 2.00% | ~2,816 |
 | On the Path to Greatness | 1.00% | ~1,408 |
 | Ascended | 1.00% | ~1,408 |
 | Tax not Included | 1.00% | ~1,408 |
@@ -45,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 1.00% | ~1,408 |
 | Accomplished Merchant | 1.00% | ~1,408 |
 | Natural 20 | 1.00% | ~1,408 |
+| Seasoned Journeyman | 1.00% | ~1,408 |
 | Did we pack lunch? | 1.00% | ~1,408 |
 | Magical Harmony | 1.00% | ~1,408 |
 | Special Ingredient | 1.00% | ~1,408 |
@@ -62,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.90% | ~1,267 |
 | Miracle Alchemist | 0.90% | ~1,267 |
 | Laden with Loot | 0.90% | ~1,267 |
-| Seasoned Journeyman | 0.90% | ~1,267 |
 | Scourge of the Seas | 0.90% | ~1,267 |
 | Black Friday Special | 0.90% | ~1,267 |
 | Complete Monopoly | 0.90% | ~1,267 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,767 (Ranked 80)  
+Progressed: 140,776 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 188 (0.13%) (Ranked 268)
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
-| 2023-11-21 | 140,767 | 188 |
+| 2023-11-21 | 140,776 | 188 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,571 (Ranked 50)  

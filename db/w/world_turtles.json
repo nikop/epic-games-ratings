@@ -2,7 +2,7 @@
   "ID": "1c5f9f34be93464192b3a1b76afa380e",
   "Name": "World Turtles",
   "ProductSlug": "world-turtles-b2139d",
-  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Progress": 752,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 120,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-30T21:59:38.6636752+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:06.9209364+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:59:19.0065437+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:06:07.8951951+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:05:18.6268871+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:39.9481589+00:00"
 }

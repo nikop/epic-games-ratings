@@ -8,14 +8,14 @@ Number of Ratings: 43  (23.09.2022)
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~34,047 |
 | Just The Two of Us | 32.00% | ~32,044 |
-| Up On High | 25.00% | ~25,034 |
-| Under The Hood | 25.00% | ~25,034 |
+| Up On High | 25.00% | ~25,035 |
+| Under The Hood | 25.00% | ~25,035 |
 | Got Your Nose | 24.00% | ~24,033 |
 | The Gift of Gab | 24.00% | ~24,033 |
-| Wrapping Up | 22.00% | ~22,030 |
+| Wrapping Up | 22.00% | ~22,031 |
 | More Than A Box Of Sand | 18.00% | ~18,025 |
-| The Dunboyne | 17.00% | ~17,023 |
-| Badge Hobbyist | 17.00% | ~17,023 |
+| The Dunboyne | 17.00% | ~17,024 |
+| Badge Hobbyist | 17.00% | ~17,024 |
 | Chum Novice | 16.00% | ~16,022 |
 | Silver-Tongued Sable | 16.00% | ~16,022 |
 | Sticky Paws | 16.00% | ~16,022 |
@@ -34,11 +34,11 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~10,014 |
 | Ceiling Of Stars | 10.00% | ~10,014 |
 | Playing Dress Up | 10.00% | ~10,014 |
-| Many Different Faces | 9.00% | ~9,012 |
-| Trellick's Pillar | 9.00% | ~9,012 |
-| Centre Of Brunswick | 9.00% | ~9,012 |
-| Bike Collector | 9.00% | ~9,012 |
-| Not That Kind Of Gliding | 9.00% | ~9,012 |
+| Many Different Faces | 9.00% | ~9,013 |
+| Trellick's Pillar | 9.00% | ~9,013 |
+| Centre Of Brunswick | 9.00% | ~9,013 |
+| Bike Collector | 9.00% | ~9,013 |
+| Not That Kind Of Gliding | 9.00% | ~9,013 |
 | The Scrapper Mask | 8.00% | ~8,011 |
 | Shadow Of Neave | 8.00% | ~8,011 |
 | Fragile Goods | 8.00% | ~8,011 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,004 |
 | Vivacious Vivarium | 2.00% | ~2,003 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,138 (Ranked 88)  
+Progressed: 100,139 (Ranked 88)  
 Completed: 1,012 (1.01%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 1,012 (1.01%) (Ranked 164)
 | 2023-11-18 | 99,714 | 1,008 |
 | 2023-11-19 | 99,938 | 1,010 |
 | 2023-11-20 | 100,089 | 1,011 |
-| 2023-11-21 | 100,138 | 1,012 |
+| 2023-11-21 | 100,139 | 1,012 |
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 519)  
 Sum: 92 (Ranked 450)  

@@ -2,9 +2,9 @@
   "ID": "563ac8b0b7d44761a068c0e23d32b7f6",
   "Name": "Party Monsterzz",
   "ProductSlug": "party-monsterzz-f42535",
-  "Ranking_EOS_Progress": 443,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-10-24T09:04:07.3513375+00:00",
@@ -389,6 +389,11 @@
       "Time": "2023-11-21T08:04:22.8057671+00:00",
       "NumProgressed": 84,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T10:11:05.279322+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -425,7 +430,7 @@
       "Name": "Welcome to the party!",
       "Percentage": 86,
       "XP": 200,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement_4",
@@ -440,14 +445,14 @@
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:05:19.2162735+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:11:05.2793215+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.2089598+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:59:25.7048387+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:05:19.2162847+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:05:22.8882008+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:05.2793316+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 549,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 170,
@@ -1252,9 +1252,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "Signatory",
@@ -1429,8 +1429,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:03:59.6066778+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:07.5580542+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:59:18.1743366+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:03:59.6067263+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:05:17.981969+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:07.5581137+00:00"
 }

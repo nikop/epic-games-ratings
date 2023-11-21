@@ -189,9 +189,9 @@
       "ID": "18",
       "SetID": "6hl9l7f",
       "Name": "Monolith",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "19",
@@ -421,17 +421,17 @@
       "ID": "7",
       "SetID": "6hl9l7f",
       "Name": "ViKing 2000",
-      "Percentage": 27,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "8",
       "SetID": "6hl9l7f",
       "Name": "Core Down",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "9",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:03:53.0471805+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:03.0072466+00:00",
   "LastUpdate_AppInfo": "2023-11-19T14:56:56.9964114+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:59:56.2331856+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:03:53.0472028+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:05:43.5806222+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:03.0072702+00:00"
 }

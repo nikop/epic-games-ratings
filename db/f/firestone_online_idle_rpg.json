@@ -483,7 +483,7 @@
   ],
   "EOS_Progressed": 2512,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -8060,9 +8060,9 @@
       "ID": "thefatherofdragons",
       "SetID": "3nl4bcg",
       "Name": "The father of Dragons",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 226
     },
     {
       "ID": "thegameison",
@@ -8189,8 +8189,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:09:24.2876556+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:15:19.8396189+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:00:10.3584187+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:09:24.2877322+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:05:53.0951725+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:15:19.8396987+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 100138,
+  "EOS_Progressed": 100139,
   "EOS_Completed": 1012,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -25033,6 +25033,11 @@
       "Time": "2023-11-21T09:09:46.0934476+00:00",
       "NumProgressed": 100138,
       "NumCompleted": 1012
+    },
+    {
+      "Time": "2023-11-21T10:15:35.2686677+00:00",
+      "NumProgressed": 100139,
+      "NumCompleted": 1012
     }
   ],
   "TotalAchievements": 56,
@@ -25148,7 +25153,7 @@
       "Name": "Many Different Faces",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ach_014_first_chum_egg",
@@ -25172,7 +25177,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 17023
+      "UsersEstimate": 17024
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -25180,7 +25185,7 @@
       "Name": "Trellick\u0027s Pillar",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ach_018_door_shadow_of_neave",
@@ -25204,7 +25209,7 @@
       "Name": "Centre Of Brunswick",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ach_021_door_balfron_connection",
@@ -25252,7 +25257,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25034
+      "UsersEstimate": 25035
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -25324,7 +25329,7 @@
       "Name": "Bike Collector",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ach_036_collect_bike_parts_2",
@@ -25340,7 +25345,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 17023
+      "UsersEstimate": 17024
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -25364,7 +25369,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 25034
+      "UsersEstimate": 25035
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -25436,7 +25441,7 @@
       "Name": "Not That Kind Of Gliding",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ach_050_collect_clothing_items_1",
@@ -25444,7 +25449,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 22030
+      "UsersEstimate": 22031
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -25491,15 +25496,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 100138,
+      "Progressed": 100139,
       "Completed": 1012
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-11-14T13:02:09.920914+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:09:46.0934473+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:15:35.2686671+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:40.7394334+00:00",
-  "LastUpdate_Ratings": "2023-11-21T08:57:16.7611053+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:09:46.09359+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:03:55.501822+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:15:35.2687973+00:00"
 }

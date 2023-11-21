@@ -7702,7 +7702,7 @@
       "ID": "7132754",
       "IsBase": false,
       "Progressed": 5411,
-      "Completed": 4765
+      "Completed": 4766
     },
     {
       "ID": "3aa2279",
@@ -7715,8 +7715,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:04:32.4949501+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:10:31.7103791+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:03:06.0277858+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:04:32.4950123+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:09:31.4807384+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:10:31.7104423+00:00"
 }

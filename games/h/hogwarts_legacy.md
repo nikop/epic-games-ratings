@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,401 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,402 |
 | First Class Student | 14.00% | ~42,351 |
 | Troll with the Punches | 14.00% | ~42,351 |
 | A Keen Sense of Spell | 13.00% | ~39,326 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 125)
 | The Root of the Problem | 6.00% | ~18,151 |
 | Third Time's a Charm | 6.00% | ~18,151 |
 | Raising Expectations | 6.00% | ~18,151 |
-| The Toast of the Town | 5.00% | ~15,125 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,125 |
-| The Ends Petrify the Means | 5.00% | ~15,125 |
+| The Toast of the Town | 5.00% | ~15,126 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,126 |
+| The Ends Petrify the Means | 5.00% | ~15,126 |
 | Going Through the Potions | 4.00% | ~12,100 |
 | Room with a View | 4.00% | ~12,100 |
 | The Intrepid Explorer | 4.00% | ~12,100 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,118 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,509 (Ranked 54)  
+Progressed: 302,510 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 513 (0.17%) (Ranked 261)
 | 2023-11-18 | 302,354 | 512 |
 | 2023-11-19 | 302,449 | 512 |
 | 2023-11-20 | 302,491 | 513 |
-| 2023-11-21 | 302,509 | 513 |
+| 2023-11-21 | 302,510 | 513 |
 ## Awards
 Max (Character Customization): 24,475  (Ranked 17)  
-Sum: 48,711 (Ranked 30)  
+Sum: 48,716 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -283,7 +283,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,223 |
 | This game is Highly Recommended | 1,188 |
 | This game has Quickly Understood Controls | 1,146 |
-| This game has Beautiful Visuals | 1,046 |
+| This game has Beautiful Visuals | 1,051 |
 | This game has a Creative Community | 799 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -530,4 +530,4 @@ Diff (max vs sum): -13
 | 2023-11-18 | 4.76 | 24,407 | 48,496 |
 | 2023-11-19 | 4.76 | 24,447 | 48,598 |
 | 2023-11-20 | 4.76 | 24,475 | 48,693 |
-| 2023-11-21 | 4.76 | 24,475 | 48,711 |
+| 2023-11-21 | 4.76 | 24,475 | 48,716 |

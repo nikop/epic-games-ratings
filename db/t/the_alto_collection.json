@@ -826,9 +826,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 47183,
+  "EOS_Progressed": 47184,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25126,6 +25126,11 @@
       "Time": "2023-11-21T09:06:22.7960708+00:00",
       "NumProgressed": 47183,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-21T10:11:50.5192083+00:00",
+      "NumProgressed": 47184,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -25137,7 +25142,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "distance1000000",
@@ -25153,7 +25158,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "distance50000",
@@ -25177,7 +25182,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12739
+      "UsersEstimate": 12740
     },
     {
       "ID": "goals180",
@@ -25297,7 +25302,7 @@
       "Name": "Unlock Paz",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "playerTime3days",
@@ -25321,7 +25326,7 @@
       "Name": "Human Flight",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "pro",
@@ -25353,7 +25358,7 @@
       "Name": "Sandboarder",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "sightseer",
@@ -25448,15 +25453,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 47183,
+      "Progressed": 47184,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-18T16:00:09.1538988+00:00",
-  "LastChanged_Achievements": "2023-11-21T09:06:22.7960705+00:00",
+  "LastChanged_Achievements": "2023-11-21T10:11:50.5192082+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:20.043749+00:00",
-  "LastUpdate_Ratings": "2023-11-21T09:02:13.3805097+00:00",
-  "LastUpdate_Achievements": "2023-11-21T09:06:22.7962066+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:07:06.5813467+00:00",
+  "LastUpdate_Achievements": "2023-11-21T10:11:50.5193091+00:00"
 }

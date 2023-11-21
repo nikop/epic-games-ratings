@@ -13,8 +13,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.90% | ~8,078 |
 | Right Back At Ya | 0.80% | ~7,181 |
 | Stanislavski's Method | 0.80% | ~7,181 |
-| All the President's Men | 0.80% | ~209 |
-| Arachnophobia | 0.80% | ~209 |
+| All the President's Men | 0.80% | ~210 |
+| Arachnophobia | 0.80% | ~210 |
 | Christmas Tree Attack | 0.60% | ~5,385 |
 | The Quick and the Dead | 0.60% | ~5,385 |
 | Life of the Road | 0.60% | ~5,385 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,563 (Ranked 15)  
+Progressed: 897,568 (Ranked 15)  
 Completed: 2,796 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,15 +289,15 @@ Completed: 2,796 (0.31%) (Ranked 233)
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
 | 2023-11-20 | 897,531 | 2,794 |
-| 2023-11-21 | 897,563 | 2,796 |
+| 2023-11-21 | 897,568 | 2,796 |
 ## Awards
 Max (Character Customization): 106,367  (Ranked 9)  
-Sum: 358,489 (Ranked 10)  
+Sum: 358,669 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 106,367 |
-| This game has Great Boss Battles | 77,104 |
+| This game has Great Boss Battles | 77,231 |
 | This game is Great for Beginners | 21,693 |
 | This game has Diverse Characters | 21,337 |
 | This game is Highly Recommended | 20,379 |
@@ -305,7 +305,7 @@ Diff (max vs sum): -1
 | This game is Extremely Fun | 20,056 |
 | This game has Amazing Characters | 19,855 |
 | This game is Relaxing | 19,116 |
-| This game has Quickly Understood Controls | 19,024 |
+| This game has Quickly Understood Controls | 19,077 |
 | This game has a Creative Community | 13,257 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -616,4 +616,4 @@ Diff (max vs sum): -1
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
 | 2023-11-19 | 4.64 | - | 106,230 | 357,485 |
 | 2023-11-20 | 4.64 | - | 106,367 | 358,439 |
-| 2023-11-21 | 4.64 | - | 106,367 | 358,489 |
+| 2023-11-21 | 4.64 | - | 106,367 | 358,669 |

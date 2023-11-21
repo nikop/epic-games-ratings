@@ -19,10 +19,10 @@ Rating: 4.54 (Ranked 525)
 | Apex Predator | 1.00% | ~7,217 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,217 |
 | Welcome To Hell-A | 1.00% | ~7,217 |
-| Anger Management | 0.90% | ~6,495 |
-| But Doctor, I am Butcho | 0.90% | ~6,495 |
-| Stacking the Deck | 0.90% | ~6,495 |
-| This is My Weapon | 0.90% | ~6,495 |
+| Anger Management | 0.90% | ~6,496 |
+| But Doctor, I am Butcho | 0.90% | ~6,496 |
+| Stacking the Deck | 0.90% | ~6,496 |
+| This is My Weapon | 0.90% | ~6,496 |
 | Slayer Squad | 0.80% | ~5,774 |
 | Can't Handle the Truth | 0.80% | ~5,774 |
 | Like Riding a Bike | 0.80% | ~5,774 |
@@ -52,12 +52,12 @@ Rating: 4.54 (Ranked 525)
 | Sole Survivor | 0.20% | ~1,443 |
 | Sharpest Tool in the Box | 0.20% | ~1,443 |
 | Survival Skills | 0.20% | ~1,443 |
-| Lawn and Order | 0.20% | ~94 |
+| Lawn and Order | 0.20% | ~95 |
 | Donk! | 0.10% | ~722 |
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,705 (Ranked 20)  
+Progressed: 721,723 (Ranked 20)  
 Completed: 2,422 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,422 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,705 | 2,422 |
+| 2023-11-21 | 721,723 | 2,422 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 50)  
 Sum: 11,619 (Ranked 84)  

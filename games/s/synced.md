@@ -5,7 +5,7 @@ Rating: 4.16 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 34.00% | ~22,834 |
+| Your Lucky Day | 34.00% | ~22,835 |
 | As Far Away As Possible | 18.00% | ~12,089 |
 | A Most Unstable Organism | 13.00% | ~8,731 |
 | No Time to Follow Protocol | 10.00% | ~6,716 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 938)
 | Runs for Your Money | 0.30% | ~201 |
 | Past Master | 0.30% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,159 (Ranked 103)  
+Progressed: 67,163 (Ranked 103)  
 Completed: 35 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,11 +108,11 @@ Completed: 35 (0.05%) (Ranked 306)
 | 2023-11-18 | 66,946 | 34 |
 | 2023-11-19 | 67,054 | 34 |
 | 2023-11-20 | 67,119 | 35 |
-| 2023-11-21 | 67,159 | 35 |
+| 2023-11-21 | 67,163 | 35 |
 ## Awards
-Max (Great for Beginners): 95  (Ranked 369)  
+Max (Great for Beginners): 95  (Ranked 370)  
 Sum: 383 (Ranked 345)  
-Diff (max vs sum): 24  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 95 |
