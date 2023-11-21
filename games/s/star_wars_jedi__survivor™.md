@@ -5,32 +5,32 @@ Rating: 4.50 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~8,299 |
-| For Saw Gerrera | 98.00% | ~8,215 |
+| Rooftop Duel | 99.00% | ~8,300 |
+| For Saw Gerrera | 98.00% | ~8,216 |
 | Grab Some Seat | 91.00% | ~7,629 |
-| Can You Pet the Bogling? | 87.00% | ~7,293 |
-| The Past Made Present | 83.00% | ~6,958 |
+| Can You Pet the Bogling? | 87.00% | ~7,294 |
+| The Past Made Present | 83.00% | ~6,959 |
 | Survivors, We Adapt | 79.00% | ~6,623 |
-| Among the Masters | 78.00% | ~6,539 |
-| They Never Saw It Coming | 77.00% | ~6,455 |
-| Who Gives a Puck | 74.00% | ~6,203 |
+| Among the Masters | 78.00% | ~6,540 |
+| They Never Saw It Coming | 77.00% | ~6,456 |
+| Who Gives a Puck | 74.00% | ~6,204 |
 | For the Path | 66.00% | ~5,533 |
-| Mirror Match | 64.00% | ~5,365 |
-| Now, This Isn't Podracing | 64.00% | ~5,365 |
-| Skywalker | 62.00% | ~5,197 |
+| Mirror Match | 64.00% | ~5,366 |
+| Now, This Isn't Podracing | 64.00% | ~5,366 |
+| Skywalker | 62.00% | ~5,198 |
 | Out of Bedlam | 61.00% | ~5,114 |
 | Cleaning Up | 54.00% | ~4,527 |
-| Tanalorr Bound | 53.00% | ~4,443 |
-| Kitted Out | 52.00% | ~4,359 |
+| Tanalorr Bound | 53.00% | ~4,444 |
+| Kitted Out | 52.00% | ~4,360 |
 | Tragedy | 50.00% | ~4,192 |
 | At the Precipice | 49.00% | ~4,108 |
 | Hey, Luke At Us | 49.00% | ~4,108 |
 | Into the Abyss | 47.00% | ~3,940 |
-| Riposte | 46.00% | ~3,856 |
-| A Place You Could Call Home | 45.00% | ~3,772 |
+| Riposte | 46.00% | ~3,857 |
+| A Place You Could Call Home | 45.00% | ~3,773 |
 | Greezy Money | 44.00% | ~3,689 |
-| Catch! | 40.00% | ~3,353 |
-| They're Probably Fine | 40.00% | ~3,353 |
+| Catch! | 40.00% | ~3,354 |
+| They're Probably Fine | 40.00% | ~3,354 |
 | Han Slowlo | 38.00% | ~3,186 |
 | There Is No Try | 37.00% | ~3,102 |
 | The Jedi Path | 32.00% | ~2,683 |
@@ -38,28 +38,28 @@ Rating: 4.50 (Ranked 587)
 | It's a Trap | 26.00% | ~2,180 |
 | You've Got A Friend | 23.00% | ~1,928 |
 | King of the World | 16.00% | ~1,341 |
-| Reconnaissance | 15.00% | ~1,257 |
+| Reconnaissance | 15.00% | ~1,258 |
 | Max Capacity | 14.00% | ~1,174 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,174 |
 | Slam Dunk | 12.00% | ~1,006 |
 | Star Tours | 11.00% | ~922 |
 | Caij Match | 10.00% | ~838 |
 | Gambler | 10.00% | ~838 |
-| Growth Spurt | 9.00% | ~754 |
+| Growth Spurt | 9.00% | ~755 |
 | Perk of the Job | 7.00% | ~587 |
 | I'm a Living Legend | 6.00% | ~503 |
 | Road House | 6.00% | ~503 |
 | Skoova Diving | 6.00% | ~503 |
 | Get Down From There | 5.00% | ~419 |
 | Intergalactic Geographic | 5.00% | ~419 |
-| So Uncivilized | 3.00% | ~251 |
-| One With the Force | 3.00% | ~251 |
-| Cobra Cal | 3.00% | ~251 |
-| Splurgle | 3.00% | ~251 |
-| Blood, Sweat, and Tears | 3.00% | ~251 |
+| So Uncivilized | 3.00% | ~252 |
+| One With the Force | 3.00% | ~252 |
+| Cobra Cal | 3.00% | ~252 |
+| Splurgle | 3.00% | ~252 |
+| Blood, Sweat, and Tears | 3.00% | ~252 |
 | Pinpoint | 2.00% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,383 (Ranked 171)  
+Progressed: 8,384 (Ranked 171)  
 Completed: 48 (0.57%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,14 +125,14 @@ Completed: 48 (0.57%) (Ranked 192)
 | 2023-11-18 | 8,214 | 46 |
 | 2023-11-19 | 8,316 | 46 |
 | 2023-11-20 | 8,375 | 48 |
-| 2023-11-21 | 8,383 | 48 |
+| 2023-11-21 | 8,384 | 48 |
 ## Awards
-Max (Great Boss Battles): 3,275  (Ranked 96)  
-Sum: 5,025 (Ranked 139)  
+Max (Great Boss Battles): 3,282  (Ranked 95)  
+Sum: 5,032 (Ranked 138)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,275 |
+| This game has Great Boss Battles | 3,282 |
 | This game has Amazing Storytelling | 229 |
 | This game has Quickly Understood Controls | 215 |
 | This game has Amazing Characters | 206 |
@@ -350,3 +350,4 @@ Diff (max vs sum): -43
 | 2023-11-18 | 4.50 | 3,262 | 4,991 |
 | 2023-11-19 | 4.50 | 3,275 | 5,017 |
 | 2023-11-20 | 4.50 | 3,275 | 5,025 |
+| 2023-11-21 | 4.50 | 3,282 | 5,032 |

@@ -2819,9 +2819,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 664298,
+  "EOS_Progressed": 664301,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1913,
+  "EOS_NewPlayers": 1909,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27284,6 +27284,11 @@
       "Time": "2023-11-21T02:00:45.1006456+00:00",
       "NumProgressed": 664298,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-21T02:35:05.5274161+00:00",
+      "NumProgressed": 664301,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -27527,7 +27532,7 @@
       "Name": "Scrooge",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3321
+      "UsersEstimate": 3322
     },
     {
       "ID": "_02_08_COWTER_SPACE",
@@ -27647,7 +27652,7 @@
       "Name": "Terminal Station",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3321
+      "UsersEstimate": 3322
     },
     {
       "ID": "_11_00_WHERE_THEY_BELONG",
@@ -27710,15 +27715,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 664298,
+      "Progressed": 664301,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-19T16:02:19.7490617+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:00:45.1006453+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:35:05.5274147+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.4182742+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:48:37.5895827+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:00:45.1007724+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:23:49.7440308+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:35:05.527628+00:00"
 }

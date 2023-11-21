@@ -28,8 +28,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Shopaholic | 0.70% | ~4,650 |
 | Dynamite Fishing | 0.70% | ~4,650 |
 | Nanuk | 0.60% | ~3,986 |
-| Scrooge | 0.50% | ~3,321 |
-| Terminal Station | 0.50% | ~3,321 |
+| Scrooge | 0.50% | ~3,322 |
+| Terminal Station | 0.50% | ~3,322 |
 | Wayfarer | 0.40% | ~2,657 |
 | Advanced Wayfarer | 0.40% | ~2,657 |
 | Tough Nut! | 0.40% | ~2,657 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~664 |
 | 20 Miles under the Sea | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,298 (Ranked 29)  
+Progressed: 664,301 (Ranked 29)  
 Completed: 12 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 12 (0.00%) (Ranked 357)
 | 2023-11-18 | 663,724 | 12 |
 | 2023-11-19 | 664,056 | 12 |
 | 2023-11-20 | 664,277 | 12 |
-| 2023-11-21 | 664,298 | 12 |
+| 2023-11-21 | 664,301 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 288)  
 Sum: 1,599 (Ranked 230)  

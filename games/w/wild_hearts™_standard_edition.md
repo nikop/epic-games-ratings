@@ -24,7 +24,7 @@
 | Counter Specialist | 50.00% | ~154 |
 | Axer of Auspice | 46.00% | ~142 |
 | Mighty Marmelizer | 43.00% | ~132 |
-| Fair Means or Foul | 42.00% | ~129 |
+| Fair Means or Foul | 43.00% | ~132 |
 | Single Minded | 41.00% | ~126 |
 | Snare Specialist | 41.00% | ~126 |
 | Kemono at Heart | 41.00% | ~126 |

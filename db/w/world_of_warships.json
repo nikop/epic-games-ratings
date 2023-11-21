@@ -11181,9 +11181,9 @@
       "Count": 1525
     }
   ],
-  "EOS_Progressed": 55808,
+  "EOS_Progressed": 55811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2246,
+  "EOS_NewPlayers": 2245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22511,6 +22511,11 @@
       "Time": "2023-11-21T01:56:02.4054693+00:00",
       "NumProgressed": 55808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T02:30:31.0520525+00:00",
+      "NumProgressed": 55811,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-18T08:07:13.1799428+00:00",
@@ -22523,7 +22528,7 @@
       "Name": "Battle Hero",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 8929
+      "UsersEstimate": 8930
     },
     {
       "ID": "PCH026",
@@ -22547,7 +22552,7 @@
       "Name": "Amateur",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 17300
+      "UsersEstimate": 17301
     },
     {
       "ID": "PCH029",
@@ -22571,7 +22576,7 @@
       "Name": "Initial Capital",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 37391
+      "UsersEstimate": 37393
     },
     {
       "ID": "PCH032",
@@ -22579,7 +22584,7 @@
       "Name": "Moneybags",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 25114
+      "UsersEstimate": 25115
     },
     {
       "ID": "PCH033",
@@ -22587,7 +22592,7 @@
       "Name": "Business Magnate",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 9487
+      "UsersEstimate": 9488
     },
     {
       "ID": "PCH034",
@@ -22595,7 +22600,7 @@
       "Name": "Naval Warfare. Arson",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 18975
+      "UsersEstimate": 18976
     },
     {
       "ID": "PCH035",
@@ -22611,7 +22616,7 @@
       "Name": "Naval Warfare. Ramming",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 18417
+      "UsersEstimate": 18418
     },
     {
       "ID": "PCH037",
@@ -22627,7 +22632,7 @@
       "Name": "Naval Warfare. Tactics",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 17300
+      "UsersEstimate": 17301
     },
     {
       "ID": "PCH039",
@@ -22635,7 +22640,7 @@
       "Name": "Naval Warfare. Weaponry Basics",
       "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 12836
+      "UsersEstimate": 12837
     },
     {
       "ID": "PCH044",
@@ -22643,7 +22648,7 @@
       "Name": "Junior Naval Designer",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 44646
+      "UsersEstimate": 44649
     },
     {
       "ID": "PCH045",
@@ -22651,7 +22656,7 @@
       "Name": "Naval Constructor",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 17300
+      "UsersEstimate": 17301
     },
     {
       "ID": "PCH046",
@@ -22667,7 +22672,7 @@
       "Name": "Junior Supply Officer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 25114
+      "UsersEstimate": 25115
     },
     {
       "ID": "PCH065",
@@ -22874,15 +22879,15 @@
     {
       "ID": "4pi10fc",
       "IsBase": true,
-      "Progressed": 55808,
+      "Progressed": 55811,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
   "LastChanged": "2023-11-20T23:00:11.8737065+00:00",
-  "LastChanged_Achievements": "2023-11-21T01:56:02.4054689+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:30:31.052052+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:56.5383744+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:51:30.9740958+00:00",
-  "LastUpdate_Achievements": "2023-11-21T01:56:02.4055805+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:25:52.5002633+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:30:31.0521538+00:00"
 }

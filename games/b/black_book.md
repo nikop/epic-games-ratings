@@ -6,14 +6,14 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 28.00% | ~15,281 |
-| Student | 21.00% | ~11,461 |
-| Knower | 16.00% | ~8,732 |
+| Initiation | 28.00% | ~15,282 |
+| Student | 21.00% | ~11,462 |
+| Knower | 16.00% | ~8,733 |
 | Aspen Tree | 14.00% | ~7,641 |
 | Healer | 14.00% | ~7,641 |
 | Listener | 14.00% | ~7,641 |
 | Soldier | 12.00% | ~6,549 |
-| Scientist | 11.00% | ~6,003 |
+| Scientist | 11.00% | ~6,004 |
 | Cow Level | 10.00% | ~5,458 |
 | Water | 10.00% | ~5,458 |
 | Old Friend | 9.00% | ~4,912 |
@@ -26,20 +26,20 @@ Number of Ratings: 96  (23.09.2022)
 | Pine Tree | 8.00% | ~4,366 |
 | Collector | 8.00% | ~4,366 |
 | Wolf | 8.00% | ~4,366 |
-| Worthy | 7.00% | ~3,820 |
-| Black Book | 7.00% | ~3,820 |
-| Black Sorcerer | 7.00% | ~3,820 |
-| Dead Man | 7.00% | ~3,820 |
-| Fern | 7.00% | ~3,820 |
-| 100 Friends | 7.00% | ~3,820 |
-| Researcher | 7.00% | ~3,820 |
-| Savvy | 7.00% | ~3,820 |
-| Encyclopedist | 6.00% | ~3,274 |
-| Witch | 6.00% | ~3,274 |
-| Old Spirits | 6.00% | ~3,274 |
-| Sinner | 6.00% | ~3,274 |
-| Folklorist | 6.00% | ~3,274 |
-| Keeper of Knowledge | 6.00% | ~3,274 |
+| Worthy | 7.00% | ~3,821 |
+| Black Book | 7.00% | ~3,821 |
+| Black Sorcerer | 7.00% | ~3,821 |
+| Dead Man | 7.00% | ~3,821 |
+| Fern | 7.00% | ~3,821 |
+| 100 Friends | 7.00% | ~3,821 |
+| Researcher | 7.00% | ~3,821 |
+| Savvy | 7.00% | ~3,821 |
+| Encyclopedist | 6.00% | ~3,275 |
+| Witch | 6.00% | ~3,275 |
+| Old Spirits | 6.00% | ~3,275 |
+| Sinner | 6.00% | ~3,275 |
+| Folklorist | 6.00% | ~3,275 |
+| Keeper of Knowledge | 6.00% | ~3,275 |
 | Vorsa | 5.00% | ~2,729 |
 | Susanin | 5.00% | ~2,729 |
 | Traveller | 5.00% | ~2,729 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,092 |
 | Word Master | 0.20% | ~109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,575 (Ranked 108)  
+Progressed: 54,579 (Ranked 108)  
 Completed: 52 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 52 (0.10%) (Ranked 279)
 | 2023-11-18 | 53,963 | 50 |
 | 2023-11-19 | 54,299 | 51 |
 | 2023-11-20 | 54,539 | 52 |
-| 2023-11-21 | 54,575 | 52 |
+| 2023-11-21 | 54,579 | 52 |
 ## Awards
 Max (Character Customization): 89  (Ranked 379)  
 Sum: 89 (Ranked 454)  

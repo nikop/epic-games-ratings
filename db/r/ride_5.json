@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2196,
+  "EOS_Progressed": 2198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5127,6 +5127,11 @@
       "Time": "2023-11-21T00:09:28.5258885+00:00",
       "NumProgressed": 2196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T02:35:24.3135732+00:00",
+      "NumProgressed": 2198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5139,7 +5144,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5147,7 +5152,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5155,7 +5160,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5171,7 +5176,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5195,7 +5200,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5211,7 +5216,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5227,7 +5232,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5243,7 +5248,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5315,7 +5320,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5347,7 +5352,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5435,7 +5440,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5443,7 +5448,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5489,9 +5494,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 615
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5530,14 +5535,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2196,
+      "Progressed": 2198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:01:08.8549533+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:35:24.313573+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:51:20.222221+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:01:08.8550119+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:25:44.6966831+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:35:24.3136261+00:00"
 }

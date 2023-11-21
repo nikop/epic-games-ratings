@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.6,
+  "EOS_Completed_Percentage": 5.59,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2670,6 +2670,11 @@
       "Time": "2023-11-21T00:05:22.0779333+00:00",
       "NumProgressed": 625,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T02:31:21.2884228+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2689,7 +2694,7 @@
       "Name": "In this together",
       "Percentage": 18,
       "XP": 200,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "META_ALL_LINK",
@@ -2697,7 +2702,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2761,7 +2766,7 @@
       "Name": "For its own good",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2817,7 +2822,7 @@
       "Name": "Champollion",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2855,9 +2860,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 144
     },
     {
       "ID": "PROGRESS_N4",
@@ -2880,14 +2885,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-21T01:57:08.7150674+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:31:21.2884225+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:48:17.8387469+00:00",
-  "LastUpdate_Achievements": "2023-11-21T01:57:08.7150961+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:23:35.2950241+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:31:21.2884529+00:00"
 }

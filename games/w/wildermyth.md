@@ -18,9 +18,9 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
 | Let Me Get My Chisel | 0.90% | ~13 |
+| Who's Counting? | 0.80% | ~12 |
 | Echoes Die | 0.80% | ~12 |
 | A Mythic Menagerie | 0.70% | ~10 |
-| Who's Counting? | 0.70% | ~10 |
 | Thematic Divergence | 0.50% | ~7 |
 | Pyrrhic Victory | 0.50% | ~7 |
 | A Story of Heroes | 0.50% | ~7 |
@@ -37,6 +37,7 @@ Number of Ratings: 45  (23.09.2022)
 | In Soil, In Smoke | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
+| I'm Not Smiling | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
-| I'm Not Smiling | 0.10% | ~1 |
 | Astrology | 0.10% | ~1 |
 | Tempest | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |

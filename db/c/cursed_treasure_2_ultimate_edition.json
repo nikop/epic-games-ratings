@@ -259,9 +259,9 @@
       "ID": "BADGE_ARMORED_KNIGHT_KILL",
       "SetID": "ak6pfjk",
       "Name": "Tinned Corpse",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "BADGE_BOSS_1_KILL",
@@ -643,9 +643,9 @@
       "ID": "BADGE_SKILL_MAX",
       "SetID": "ak6pfjk",
       "Name": "Evil Genius",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "BADGE_STASIS_COUNT",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-21T01:56:16.1544372+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:30:41.4089207+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:54.867623+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:47:58.9064759+00:00",
-  "LastUpdate_Achievements": "2023-11-21T01:56:16.1544714+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:23:22.158565+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:30:41.4089602+00:00"
 }

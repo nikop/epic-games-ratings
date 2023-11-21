@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -693,9 +693,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3728,
+  "EOS_Progressed": 3729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5593,6 +5593,11 @@
       "Time": "2023-11-21T01:57:43.4763572+00:00",
       "NumProgressed": 3728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T02:31:48.1622067+00:00",
+      "NumProgressed": 3729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5645,7 +5650,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_15",
@@ -5701,7 +5706,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "achievement_21",
@@ -5772,7 +5777,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3728,
+      "Progressed": 3729,
       "Completed": 0
     }
   ],
@@ -5780,8 +5785,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-20T23:58:50.4899743+00:00",
-  "LastChanged_Achievements": "2023-11-21T01:57:43.4763569+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:31:48.1622063+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:50:25.5623473+00:00",
-  "LastUpdate_Achievements": "2023-11-21T01:57:43.4763928+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:25:05.4495174+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:31:48.1622484+00:00"
 }

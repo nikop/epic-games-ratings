@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,966 |
-| Imprint | 5.00% | ~7,966 |
+| Taste | 5.00% | ~7,967 |
+| Imprint | 5.00% | ~7,967 |
 | The Hunt | 4.00% | ~6,373 |
 | Ravenous | 4.00% | ~6,373 |
 | Weeper | 3.00% | ~4,780 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,327 (Ranked 78)  
+Progressed: 159,332 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 158,977 | 1 |
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
-| 2023-11-21 | 159,327 | 1 |
+| 2023-11-21 | 159,332 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 426)  
-Sum: 370 (Ranked 348)  
+Sum: 371 (Ranked 348)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -257,7 +257,7 @@ Diff (max vs sum): 78
 | This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 48 |
 | This game has Amazing Storytelling | 48 |
-| This game has Challenging Combat | 46 |
+| This game has Challenging Combat | 47 |
 | This game has Amazing Characters | 39 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
@@ -407,3 +407,4 @@ Diff (max vs sum): 78
 | 2023-11-15 | 4.58 | - | 51 | 365 |
 | 2023-11-16 | 4.59 | - | 52 | 368 |
 | 2023-11-17 | 4.59 | - | 52 | 370 |
+| 2023-11-21 | 4.59 | - | 52 | 371 |

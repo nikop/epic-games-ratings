@@ -5506,9 +5506,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 714702,
+  "EOS_Progressed": 714703,
   "EOS_Completed": 6489,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -28701,6 +28701,11 @@
       "Time": "2023-11-21T02:00:37.2997726+00:00",
       "NumProgressed": 714702,
       "NumCompleted": 6489
+    },
+    {
+      "Time": "2023-11-21T02:34:59.4767367+00:00",
+      "NumProgressed": 714703,
+      "NumCompleted": 6489
     }
   ],
   "TotalAchievements": 49,
@@ -28728,7 +28733,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 157234
+      "UsersEstimate": 157235
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -28768,7 +28773,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 371645
+      "UsersEstimate": 371646
     },
     {
       "ID": "AchClearAsphodel",
@@ -28784,7 +28789,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 471703
+      "UsersEstimate": 471704
     },
     {
       "ID": "AchClearElysiumEM",
@@ -28800,7 +28805,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 128646
+      "UsersEstimate": 128647
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -28808,7 +28813,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 150087
+      "UsersEstimate": 150088
     },
     {
       "ID": "AchClearTartarus",
@@ -28816,7 +28821,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 636085
+      "UsersEstimate": 636086
     },
     {
       "ID": "AchCrushedThanatos",
@@ -28864,7 +28869,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 135793
+      "UsersEstimate": 135794
     },
     {
       "ID": "AchFoundSummon",
@@ -28872,7 +28877,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 157234
+      "UsersEstimate": 157235
     },
     {
       "ID": "AchGreaterCall",
@@ -28880,7 +28885,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 478850
+      "UsersEstimate": 478851
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -28936,7 +28941,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 443115
+      "UsersEstimate": 443116
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -28976,7 +28981,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 121499
+      "UsersEstimate": 121500
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -29008,7 +29013,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 164381
+      "UsersEstimate": 164382
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -29072,7 +29077,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 500291
+      "UsersEstimate": 500292
     },
     {
       "ID": "AchWeaponClears",
@@ -29080,7 +29085,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 164381
+      "UsersEstimate": 164382
     },
     {
       "ID": "AchWellShopItems",
@@ -29103,15 +29108,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 714702,
+      "Progressed": 714703,
       "Completed": 6489
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-11-20T21:57:28.9392388+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:00:37.2997724+00:00",
+  "LastChanged_Achievements": "2023-11-21T02:34:59.4767366+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.2392385+00:00",
-  "LastUpdate_Ratings": "2023-11-21T01:48:41.474239+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:00:37.2999022+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:23:52.5683404+00:00",
+  "LastUpdate_Achievements": "2023-11-21T02:34:59.4768824+00:00"
 }

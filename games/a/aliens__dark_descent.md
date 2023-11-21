@@ -44,7 +44,7 @@ Rating: 4.49 (Ranked 606)
 | Heavy Steps | 13.00% | ~476 |
 | Perfect Enhancements | 10.00% | ~366 |
 | Hardened In The Heat Of Battle | 8.00% | ~293 |
-| The True Experience | 6.00% | ~220 |
+| The True Experience | 7.00% | ~256 |
 | Fair And Square | 3.00% | ~110 |
 | Archivist | 2.00% | ~73 |
 | Perfect Organism | 1.00% | ~37 |
