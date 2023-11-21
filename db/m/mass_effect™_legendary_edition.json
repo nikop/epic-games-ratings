@@ -4389,9 +4389,9 @@
       "ID": "achievement_59",
       "SetID": "d252ncf",
       "Name": "The Prodigal",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 431
     },
     {
       "ID": "achievement_6",
@@ -4405,9 +4405,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_61",
@@ -4761,8 +4761,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:08:16.7573342+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:17:13.7858965+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T12:02:54.092344+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:08:16.7575364+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:12:06.7909839+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:17:13.7860772+00:00"
 }

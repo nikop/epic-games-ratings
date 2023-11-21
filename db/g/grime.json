@@ -1519,9 +1519,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159379,
+  "EOS_Progressed": 159384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16499,6 +16499,11 @@
       "Time": "2023-11-21T12:03:23.957544+00:00",
       "NumProgressed": 159379,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T13:12:45.111969+00:00",
+      "NumProgressed": 159384,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16548,9 +16553,9 @@
       "ID": "ACQUIRE_FETALPEARLS",
       "SetID": "72k7oh",
       "Name": "Zygote",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 636
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -16582,7 +16587,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4781
+      "UsersEstimate": 4782
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -16877,21 +16882,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158962,
+      "Progressed": 158967,
       "Completed": 1213
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159379,
+      "Progressed": 159384,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-21T10:06:38.5365696+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:03:23.9575436+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:12:45.1119684+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-21T12:00:14.6186564+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:03:23.9576714+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:10:03.2784065+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:12:45.1121999+00:00"
 }

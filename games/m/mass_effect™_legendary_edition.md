@@ -43,13 +43,13 @@
 | The Krogan | 33.00% | ~445 |
 | Ghost Ship | 32.00% | ~431 |
 | The Quarian | 32.00% | ~431 |
+| The Prodigal | 32.00% | ~431 |
 | Broke, Blind, and Bedlam | 32.00% | ~431 |
 | A Personal Touch | 31.00% | ~418 |
 | The Assassin | 31.00% | ~418 |
 | The Justicar | 31.00% | ~418 |
 | Battlemaster | 31.00% | ~418 |
 | Ghost of the Father | 31.00% | ~418 |
-| The Prodigal | 31.00% | ~418 |
 | Galactic Explorer | 31.00% | ~418 |
 | Driven | 31.00% | ~418 |
 | Shopaholic | 31.00% | ~418 |
@@ -61,6 +61,7 @@
 | Heart of Darkness | 30.00% | ~404 |
 | Archivist | 29.00% | ~391 |
 | Fade Away | 29.00% | ~391 |
+| Treason | 29.00% | ~391 |
 | Agent | 29.00% | ~391 |
 | Digital Exorcist | 29.00% | ~391 |
 | Bringer of War | 29.00% | ~391 |
@@ -68,7 +69,6 @@
 | Friend or Foe | 28.00% | ~377 |
 | Cat's in the Cradle | 28.00% | ~377 |
 | Doppelganger | 28.00% | ~377 |
-| Treason | 28.00% | ~377 |
 | Mobilizer | 28.00% | ~377 |
 | Mission Accomplished | 27.00% | ~364 |
 | Suicide Mission | 27.00% | ~364 |

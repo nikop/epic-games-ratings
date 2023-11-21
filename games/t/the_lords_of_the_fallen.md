@@ -5,21 +5,21 @@ Rating: 4.21 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.70% | ~12 |
-| A Veil Lifted | 0.60% | ~10 |
+| Comrades | 0.80% | ~13 |
+| A Veil Lifted | 0.70% | ~12 |
+| Lost and Found | 0.70% | ~12 |
+| Shared Triumph | 0.60% | ~10 |
 | No Mercy | 0.60% | ~10 |
 | Thriving in Darkness | 0.60% | ~10 |
-| Lost and Found | 0.50% | ~8 |
-| Shared Triumph | 0.50% | ~8 |
 | Shades of Violence | 0.50% | ~8 |
 | The Past Shapes the Present | 0.50% | ~8 |
+| A Rest Among the Dead | 0.40% | ~7 |
 | Vengeance for the Fallen | 0.30% | ~5 |
 | Rise and Fall | 0.30% | ~5 |
 | Together in Death | 0.30% | ~5 |
 | Burying the Past | 0.30% | ~5 |
 | Unwanted | 0.30% | ~5 |
 | Unbroken to the End | 0.30% | ~5 |
-| A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
 | Ammunition Collector | 0.20% | ~3 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 905)
 | Lingering Moments | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,663 (Ranked 233)  
+Progressed: 1,665 (Ranked 233)  
 Completed: 1 (0.06%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.06%) (Ranked 299)
 | 2023-11-18 | 1,634 | 1 |
 | 2023-11-19 | 1,651 | 1 |
 | 2023-11-20 | 1,661 | 1 |
-| 2023-11-21 | 1,663 | 1 |
+| 2023-11-21 | 1,665 | 1 |
 ## Awards
 Max (Character Customization): 166  (Ranked 308)  
 Sum: 286 (Ranked 369)  

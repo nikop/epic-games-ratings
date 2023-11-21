@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40721,
+  "EOS_Progressed": 40723,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23748,6 +23748,11 @@
       "Time": "2023-11-21T11:05:34.3387866+00:00",
       "NumProgressed": 40721,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-21T13:15:36.3163695+00:00",
+      "NumProgressed": 40723,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -23767,7 +23772,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8551
+      "UsersEstimate": 8552
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -23791,7 +23796,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -23807,7 +23812,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -23990,7 +23995,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40721,
+      "Progressed": 40723,
       "Completed": 26
     }
   ],
@@ -23998,8 +24003,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:05:45.4441367+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:15:36.316369+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:03.2430708+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:58:37.5162869+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:05:45.4442334+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:08:01.5865913+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:15:36.3164882+00:00"
 }

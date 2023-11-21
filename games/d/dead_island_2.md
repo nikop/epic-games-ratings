@@ -8,35 +8,35 @@ Rating: 4.54 (Ranked 525)
 | One of Us | 2.00% | ~946 |
 | Whatever It Takes | 2.00% | ~946 |
 | Pork Chopped | 2.00% | ~946 |
-| Dr. Reed, I Presume? | 1.00% | ~7,217 |
-| Git Gutte! | 1.00% | ~7,217 |
-| Bookworm | 1.00% | ~7,217 |
-| Break A Leg | 1.00% | ~7,217 |
-| Coup de Grâce | 1.00% | ~7,217 |
-| Hazardous Materials | 1.00% | ~7,217 |
-| Friends Like These | 1.00% | ~7,217 |
-| Hotel California | 1.00% | ~7,217 |
-| Apex Predator | 1.00% | ~7,217 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,217 |
-| Welcome To Hell-A | 1.00% | ~7,217 |
+| Dr. Reed, I Presume? | 1.00% | ~7,218 |
+| Git Gutte! | 1.00% | ~7,218 |
+| Bookworm | 1.00% | ~7,218 |
+| Break A Leg | 1.00% | ~7,218 |
+| Coup de Grâce | 1.00% | ~7,218 |
+| Hazardous Materials | 1.00% | ~7,218 |
+| Friends Like These | 1.00% | ~7,218 |
+| Hotel California | 1.00% | ~7,218 |
+| Apex Predator | 1.00% | ~7,218 |
+| Stacking the Deck | 1.00% | ~7,218 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,218 |
+| Welcome To Hell-A | 1.00% | ~7,218 |
 | Anger Management | 0.90% | ~6,496 |
 | But Doctor, I am Butcho | 0.90% | ~6,496 |
-| Stacking the Deck | 0.90% | ~6,496 |
 | This is My Weapon | 0.90% | ~6,496 |
 | Slayer Squad | 0.80% | ~5,774 |
 | Can't Handle the Truth | 0.80% | ~5,774 |
 | Like Riding a Bike | 0.80% | ~5,774 |
 | Zombologist | 0.80% | ~5,774 |
+| Ooh, Shiny! | 0.80% | ~5,774 |
 | A Patton Emerges | 0.80% | ~5,774 |
 | Our True Nature | 0.80% | ~5,774 |
 | Perks of the Job | 0.70% | ~5,052 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,052 |
-| Ooh, Shiny! | 0.70% | ~5,052 |
 | I Am the Resurrection | 0.70% | ~5,052 |
 | Max Headroom | 0.70% | ~5,052 |
-| Making Your Mark | 0.60% | ~4,330 |
-| Humanity Distilled | 0.60% | ~4,330 |
-| Down with the Sickness | 0.60% | ~4,330 |
+| Making Your Mark | 0.60% | ~4,331 |
+| Humanity Distilled | 0.60% | ~4,331 |
+| Down with the Sickness | 0.60% | ~4,331 |
 | Not Even My Final Form | 0.50% | ~3,609 |
 | Jumbo Keyring | 0.50% | ~3,609 |
 | Go, Bobcats! | 0.50% | ~3,609 |
@@ -49,15 +49,15 @@ Rating: 4.54 (Ranked 525)
 | LA Influential | 0.30% | ~2,165 |
 | Gore Horse | 0.30% | ~2,165 |
 | Top That, Tisha! | 0.30% | ~142 |
-| Sole Survivor | 0.20% | ~1,443 |
-| Sharpest Tool in the Box | 0.20% | ~1,443 |
-| Survival Skills | 0.20% | ~1,443 |
+| Sole Survivor | 0.20% | ~1,444 |
+| Sharpest Tool in the Box | 0.20% | ~1,444 |
+| Survival Skills | 0.20% | ~1,444 |
 | Lawn and Order | 0.20% | ~95 |
 | Donk! | 0.10% | ~722 |
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,745 (Ranked 21)  
+Progressed: 721,760 (Ranked 21)  
 Completed: 2,422 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,422 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,745 | 2,422 |
+| 2023-11-21 | 721,760 | 2,422 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 50)  
 Sum: 11,619 (Ranked 84)  

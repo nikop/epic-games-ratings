@@ -7135,9 +7135,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140784,
+  "EOS_Progressed": 140792,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29275,6 +29275,11 @@
       "Time": "2023-11-21T12:05:55.9109989+00:00",
       "NumProgressed": 140784,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-21T13:15:48.9454162+00:00",
+      "NumProgressed": 140792,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29318,7 +29323,7 @@
       "Name": "Top of the World",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "argon_a",
@@ -29350,7 +29355,7 @@
       "Name": "Constellated",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ashley_a",
@@ -29406,7 +29411,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "bookentry",
@@ -29454,7 +29459,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7039
+      "UsersEstimate": 7040
     },
     {
       "ID": "chest02",
@@ -29470,7 +29475,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "collection01",
@@ -29518,7 +29523,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7039
+      "UsersEstimate": 7040
     },
     {
       "ID": "commonres02",
@@ -29542,7 +29547,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "craft01",
@@ -29574,7 +29579,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "craft05",
@@ -29686,7 +29691,7 @@
       "Name": "Ritualist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "furniture01",
@@ -29734,7 +29739,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "fuseuncommon",
@@ -29758,7 +29763,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5631
+      "UsersEstimate": 5632
     },
     {
       "ID": "gold02",
@@ -29926,7 +29931,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "loot04",
@@ -29966,7 +29971,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "master05",
@@ -30086,7 +30091,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "transmuter",
@@ -30102,7 +30107,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7039
+      "UsersEstimate": 7040
     },
     {
       "ID": "twinenchant01",
@@ -30142,7 +30147,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "workers01",
@@ -30181,15 +30186,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140784,
+      "Progressed": 140792,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-21T08:02:54.4052683+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:05:55.9109986+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:15:48.9454157+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T12:02:42.0639308+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:05:55.9111852+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:11:52.4620506+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:15:48.9455982+00:00"
 }

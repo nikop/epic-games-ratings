@@ -2,12 +2,12 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.09,
+  "Rating": 4.05,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -139,15 +139,21 @@
       "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-21T13:11:41.3417788+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1335,6 +1341,11 @@
       "Time": "2023-11-20T23:08:45.1271754+00:00",
       "NumProgressed": 285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T13:17:38.2864112+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1347,7 +1358,7 @@
       "Name": "Unforeseen",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_10",
@@ -1363,7 +1374,7 @@
       "Name": "The Means to Save It",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_12",
@@ -1435,7 +1446,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_20",
@@ -1491,15 +1502,15 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_37",
@@ -1579,7 +1590,7 @@
       "Name": "Enlisted",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_49",
@@ -1641,9 +1652,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_60",
@@ -1722,16 +1733,16 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-11-19T13:02:21.5491129+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:08:36.5947949+00:00",
+  "LastChanged": "2023-11-21T13:11:41.3417786+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:17:38.2864108+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:24.4008476+00:00",
-  "LastUpdate_Ratings": "2023-11-21T12:00:52.6997798+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:08:36.5948332+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:11:41.341779+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:17:38.2864537+00:00"
 }

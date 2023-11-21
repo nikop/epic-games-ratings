@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -742,6 +742,11 @@
       "Time": "2023-11-21T12:04:16.3467425+00:00",
       "NumProgressed": 309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T13:13:48.7940394+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -784,9 +789,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -824,9 +829,9 @@
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter12",
@@ -840,9 +845,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteChapter14",
@@ -882,7 +887,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteChapter18",
@@ -906,7 +911,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CompleteChapter4",
@@ -938,15 +943,15 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "CompleteChapter9",
@@ -1049,14 +1054,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:04:16.3467419+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:13:48.7940391+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-21T12:00:32.3599655+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:04:16.346764+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:10:26.1017087+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:13:48.7940651+00:00"
 }

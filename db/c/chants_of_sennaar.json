@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.57,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2685,6 +2685,11 @@
       "Time": "2023-11-21T09:06:57.9256376+00:00",
       "NumProgressed": 628,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T13:15:37.4187587+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2696,7 +2701,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "END_GOOD",
@@ -2736,7 +2741,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2744,7 +2749,7 @@
       "Name": "Open door",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2760,15 +2765,15 @@
       "Name": "Feels like springtime",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 63
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2856,7 +2861,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "PROGRESS_N2",
@@ -2864,7 +2869,7 @@
       "Name": "The great escape",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PROGRESS_N3",
@@ -2872,7 +2877,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "PROGRESS_N4",
@@ -2895,14 +2900,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:05:46.4690242+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:15:37.4187584+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:57:42.2075702+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:05:46.4690512+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:06:52.1527666+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:15:37.4187792+00:00"
 }

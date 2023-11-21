@@ -24,10 +24,10 @@
 | Evangelist | 6.00% | ~132 |
 | Make It Your Own! | 5.00% | ~110 |
 | Cherry Blossom and Temples | 4.00% | ~88 |
-| The Road to Liberty | 4.00% | ~88 |
 | I Make the Rules! | 4.00% | ~88 |
 | Spoilt for Choice | 3.00% | ~66 |
 | La Dolce Vita | 3.00% | ~66 |
+| The Road to Liberty | 3.00% | ~66 |
 | Romantic Races | 3.00% | ~66 |
 | Rounding Off | 3.00% | ~66 |
 | Iconic! | 2.00% | ~44 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,200 (Ranked 221)  
+Progressed: 2,201 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,4 +135,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 2,175 | 0 |
 | 2023-11-19 | 2,180 | 0 |
 | 2023-11-20 | 2,195 | 0 |
-| 2023-11-21 | 2,200 | 0 |
+| 2023-11-21 | 2,201 | 0 |

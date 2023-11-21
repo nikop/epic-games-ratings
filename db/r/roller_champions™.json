@@ -3,11 +3,11 @@
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 805,
-  "Ranking_Popularity": 266,
+  "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
@@ -3137,18 +3137,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 2288,
       "NumberOfAwardsMax": 264
+    },
+    {
+      "Time": "2023-11-21T13:08:37.3962398+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2293,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2288,
-  "NumberOfAwardsMax": 264,
+  "NumberOfAwards": 2293,
+  "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 264
+      "Count": 265
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3178,7 +3184,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 239
+      "Count": 240
     },
     {
       "Text": "This game has Competitive Players",
@@ -3196,7 +3202,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3208,7 +3214,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 236
+      "Count": 237
     }
   ],
   "EOS_Progressed": 0,
@@ -3222,8 +3228,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-11-20T14:59:07.4815448+00:00",
+  "LastChanged": "2023-11-21T13:08:37.3962396+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:22.3310121+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:59:06.4963431+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:05:50.1141886+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:08:37.3962402+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:15:41.9570506+00:00"
 }

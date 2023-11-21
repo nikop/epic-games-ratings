@@ -1841,9 +1841,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 64247,
+  "EOS_Progressed": 64248,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -25466,6 +25466,11 @@
       "Time": "2023-11-21T12:06:49.5177808+00:00",
       "NumProgressed": 64247,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-21T13:16:53.5148018+00:00",
+      "NumProgressed": 64248,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -25597,7 +25602,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15419
+      "UsersEstimate": 15420
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -25789,7 +25794,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15419
+      "UsersEstimate": 15420
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -25941,22 +25946,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23771
+      "UsersEstimate": 23772
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 64247,
+      "Progressed": 64248,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-19T17:57:36.1682305+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:06:49.5177804+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:16:53.5148013+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:04.223539+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:58:38.6595583+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:06:49.5179579+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:08:03.1918688+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:16:53.5149208+00:00"
 }

@@ -555,9 +555,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 1663,
+  "EOS_Progressed": 1665,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2695,6 +2695,11 @@
       "Time": "2023-11-21T12:04:32.1171564+00:00",
       "NumProgressed": 1663,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T13:14:07.4740803+00:00",
+      "NumProgressed": 1665,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2713,17 +2718,17 @@
       "ID": "TLOTF_ACHIEVEMENT_002",
       "SetID": "87e61g",
       "Name": "A Veil Lifted",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
       "SetID": "87e61g",
       "Name": "Lost and Found",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -2857,17 +2862,17 @@
       "ID": "TLOTF_ACHIEVEMENT_020",
       "SetID": "87e61g",
       "Name": "Comrades",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
       "SetID": "87e61g",
       "Name": "Shared Triumph",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -3193,9 +3198,9 @@
       "ID": "TLOTF_ACHIEVEMENT_062",
       "SetID": "87e61g",
       "Name": "A Rest Among the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -3210,7 +3215,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1663,
+      "Progressed": 1665,
       "Completed": 1
     }
   ],
@@ -3218,8 +3223,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-21T08:58:49.9508639+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:04:32.1171561+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:14:07.4740801+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8643318+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:58:19.8649103+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:04:32.1172155+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:07:40.0784099+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:14:07.4741281+00:00"
 }

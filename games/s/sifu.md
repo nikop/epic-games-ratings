@@ -8,13 +8,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.90% | ~237 |
 | Project Arena | 0.70% | ~185 |
-| The Old Grandmaster | 0.60% | ~4,302 |
-| The Assault | 0.60% | ~4,302 |
-| The Hateful Pole Fighter | 0.60% | ~4,302 |
-| Life is your teacher | 0.60% | ~4,302 |
-| State of constant learning | 0.60% | ~4,302 |
-| Qi Gong: Breath | 0.60% | ~4,302 |
-| Lightning Hands | 0.60% | ~4,302 |
+| The Old Grandmaster | 0.60% | ~4,303 |
+| The Assault | 0.60% | ~4,303 |
+| The Hateful Pole Fighter | 0.60% | ~4,303 |
+| Life is your teacher | 0.60% | ~4,303 |
+| State of constant learning | 0.60% | ~4,303 |
+| Qi Gong: Breath | 0.60% | ~4,303 |
+| Lightning Hands | 0.60% | ~4,303 |
 | A Lady's Blood in the Snow | 0.50% | ~3,585 |
 | Lady Wing Chun | 0.50% | ~3,585 |
 | Furious Fists | 0.50% | ~3,585 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,082 (Ranked 22)  
+Progressed: 717,084 (Ranked 22)  
 Completed: 12,938 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,16 +282,16 @@ Completed: 12,938 (1.80%) (Ranked 132)
 | 2023-11-18 | 717,005 | 12,937 |
 | 2023-11-19 | 717,041 | 12,938 |
 | 2023-11-20 | 717,073 | 12,938 |
-| 2023-11-21 | 717,082 | 12,938 |
+| 2023-11-21 | 717,084 | 12,938 |
 ## Awards
 Max (Great Boss Battles): 6,824  (Ranked 55)  
-Sum: 11,928 (Ranked 82)  
+Sum: 11,929 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,824 |
 | This game has Diverse Characters | 658 |
-| This game has Challenging Combat | 602 |
+| This game has Challenging Combat | 603 |
 | This game has Amazing Storytelling | 592 |
 | This game has Amazing Characters | 573 |
 | This game is Highly Recommended | 573 |
@@ -611,4 +611,4 @@ Diff (max vs sum): -27
 | 2023-11-18 | 4.82 | - | 6,811 | 11,911 |
 | 2023-11-19 | 4.82 | - | 6,811 | 11,913 |
 | 2023-11-20 | 4.82 | - | 6,821 | 11,925 |
-| 2023-11-21 | 4.82 | - | 6,824 | 11,928 |
+| 2023-11-21 | 4.82 | - | 6,824 | 11,929 |

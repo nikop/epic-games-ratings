@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -481,7 +481,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2514,
+  "EOS_Progressed": 2515,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
@@ -7576,6 +7576,11 @@
       "Time": "2023-11-21T11:09:02.999164+00:00",
       "NumProgressed": 2514,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T13:17:54.0132695+00:00",
+      "NumProgressed": 2515,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7651,7 +7656,7 @@
       "Name": "Challenger",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "conqueror",
@@ -7675,7 +7680,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "doingmypart",
@@ -7683,7 +7688,7 @@
       "Name": "Doing My Part",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "dragonclicker",
@@ -7691,7 +7696,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "dragonmaster",
@@ -7819,7 +7824,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "herewegoagain",
@@ -7851,7 +7856,7 @@
       "Name": "Hunter",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "inspection",
@@ -7907,7 +7912,7 @@
       "Name": "Mastery",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "milestonecollector",
@@ -7995,7 +8000,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "sailor",
@@ -8019,7 +8024,7 @@
       "Name": "Scroll Master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "silverwoodliberator",
@@ -8043,7 +8048,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "thealchemist",
@@ -8083,7 +8088,7 @@
       "Name": "The power of Awakening",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "theunstoppable",
@@ -8147,7 +8152,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "warmachinesarmy",
@@ -8179,14 +8184,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2514,
+      "Progressed": 2515,
       "Completed": 2
     }
   ],
@@ -8194,8 +8199,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:08:49.0153511+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:17:54.0132692+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:59:22.4390165+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:08:49.0154618+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:08:57.3785694+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:17:54.0133694+00:00"
 }

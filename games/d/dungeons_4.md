@@ -28,8 +28,8 @@
 | “… like son” | 38.00% | ~122 |
 | Mana Cannon | 36.00% | ~115 |
 | Dungeonlord Gorgu | 34.00% | ~109 |
+| Shame! Shame! Shame! | 33.00% | ~106 |
 | The Cathedral of Light | 32.00% | ~102 |
-| Shame! Shame! Shame! | 32.00% | ~102 |
 | Tanos' Crusade Against Thalya | 29.00% | ~93 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~74 |
 | Unstoppable Horde | 23.00% | ~74 |
@@ -37,25 +37,25 @@
 | Hungry, Hungry Gorgu! | 22.00% | ~70 |
 | Master of the Undead | 22.00% | ~70 |
 | The Duel | 21.00% | ~67 |
-| Forbidden Knowledge | 19.00% | ~61 |
+| Forbidden Knowledge | 20.00% | ~64 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~58 |
 | If Looks Could Kill | 18.00% | ~58 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~51 |
 | Stop Tanos! | 16.00% | ~51 |
 | The Finitude Drill | 16.00% | ~51 |
-| Doom Hill | 12.00% | ~38 |
+| Doom Hill | 13.00% | ~42 |
+| Brimstone Shaken, Not Stirred | 12.00% | ~38 |
 | Bonus Evilness | 11.00% | ~35 |
 | Sabotage! | 11.00% | ~35 |
-| Brimstone Shaken, Not Stirred | 11.00% | ~35 |
 | My Little Torture Chamber | 10.00% | ~32 |
 | Raiders of the Lost Stone | 10.00% | ~32 |
 | The Rune Sockets of Finitude (Part 1) | 10.00% | ~32 |
 | Mirror, Mirror | 8.00% | ~26 |
 | Untouchable | 8.00% | ~26 |
 | Lavalumps on Ice! | 8.00% | ~26 |
-| Rubble and Ashes | 7.00% | ~22 |
+| Rubble and Ashes | 8.00% | ~26 |
+| The Rune Sockets of Finitude (Part 2) | 8.00% | ~26 |
 | To Infinity And Beyond! | 7.00% | ~22 |
-| The Rune Sockets of Finitude (Part 2) | 7.00% | ~22 |
 | To the Max! | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |

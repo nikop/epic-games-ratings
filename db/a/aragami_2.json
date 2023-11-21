@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43932,
+  "EOS_Progressed": 43933,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17749,6 +17749,11 @@
       "Time": "2023-11-21T05:08:30.6211674+00:00",
       "NumProgressed": 43932,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-11-21T13:12:25.7753896+00:00",
+      "NumProgressed": 43933,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 44,
@@ -17760,7 +17765,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25041
+      "UsersEstimate": 25042
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17784,7 +17789,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7468
+      "UsersEstimate": 7469
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -17792,7 +17797,7 @@
       "Name": "Family",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6150
+      "UsersEstimate": 6151
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -17832,7 +17837,7 @@
       "Name": "War Engines",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6150
+      "UsersEstimate": 6151
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -17936,7 +17941,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10104
+      "UsersEstimate": 10105
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -17968,7 +17973,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8786
+      "UsersEstimate": 8787
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -17992,7 +17997,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14058
+      "UsersEstimate": 14059
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -18000,7 +18005,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27677
+      "UsersEstimate": 27678
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18024,7 +18029,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26359
+      "UsersEstimate": 26360
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18032,7 +18037,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29434
+      "UsersEstimate": 29435
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18048,7 +18053,7 @@
       "Name": "Signature Move",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6150
+      "UsersEstimate": 6151
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -18064,7 +18069,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19769
+      "UsersEstimate": 19770
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -18096,7 +18101,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40857
+      "UsersEstimate": 40858
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18111,7 +18116,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43932,
+      "Progressed": 43933,
       "Completed": 241
     }
   ],
@@ -18119,8 +18124,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-21T12:03:07.9403897+00:00",
+  "LastChanged_Achievements": "2023-11-21T13:12:25.7753893+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:11.2490619+00:00",
-  "LastUpdate_Ratings": "2023-11-21T12:02:42.0278015+00:00",
-  "LastUpdate_Achievements": "2023-11-21T12:03:07.9405023+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:11:52.257032+00:00",
+  "LastUpdate_Achievements": "2023-11-21T13:12:25.7755122+00:00"
 }

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~273 |
-| First Blood | 63.00% | ~212 |
+| Seeds of War | 81.00% | ~274 |
+| First Blood | 63.00% | ~213 |
 | Triple Kill | 61.00% | ~206 |
-| Aspairagus | 60.00% | ~172 |
-| Survivor | 58.00% | ~166 |
-| No Asperascope | 57.00% | ~192 |
-| Cornivore | 55.00% | ~185 |
-| I Believe I Can Fly | 49.00% | ~165 |
-| No Diggity | 45.00% | ~129 |
+| Aspairagus | 60.00% | ~173 |
+| No Asperascope | 57.00% | ~193 |
+| Survivor | 57.00% | ~164 |
+| Cornivore | 54.00% | ~183 |
+| I Believe I Can Fly | 49.00% | ~166 |
+| No Diggity | 44.00% | ~127 |
 | Early Survivor | 40.00% | ~115 |
 | Bouncemato | 31.00% | ~89 |
 | 10K | 30.00% | ~101 |
-| Amateur Survivor | 29.00% | ~83 |
+| Amateur Survivor | 29.00% | ~84 |
 | 15K | 27.00% | ~91 |
-| Drinking Problem | 23.00% | ~78 |
 | Quick-Draw Pod | 23.00% | ~66 |
+| Drinking Problem | 22.00% | ~74 |
 | Grave Digger | 22.00% | ~63 |
-| Professional Survivor | 20.00% | ~57 |
+| Professional Survivor | 20.00% | ~58 |
 | Pork Chop Express | 19.00% | ~64 |
-| Skin Of Your Teeth | 18.00% | ~61 |
+| Skin Of Your Teeth | 17.00% | ~57 |
 | Carrocketeer | 16.00% | ~54 |
 | This Is My Boomstick | 16.00% | ~46 |
 | Getting Started | 15.00% | ~51 |
 | Eggtraordinary | 15.00% | ~51 |
-| Oh My Gourd | 15.00% | ~43 |
-| Summers Here | 12.00% | ~34 |
+| Oh My Gourd | 14.00% | ~40 |
+| Summers Here | 12.00% | ~35 |
 | Quit Horsin' Around | 11.00% | ~37 |
 | Perfect | 11.00% | ~32 |
 | Fresh Pancake | 10.00% | ~34 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 333)  
+Progressed: 338 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-16 | 334 | 0 |
 | 2023-11-17 | 335 | 0 |
 | 2023-11-20 | 336 | 0 |
-| 2023-11-21 | 337 | 0 |
+| 2023-11-21 | 338 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
