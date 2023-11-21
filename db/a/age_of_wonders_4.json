@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5413,
+  "EOS_Progressed": 5414,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7221,6 +7221,11 @@
       "Time": "2023-11-21T21:04:13.9572181+00:00",
       "NumProgressed": 5413,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-21T22:04:41.2156064+00:00",
+      "NumProgressed": 5414,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7278,9 +7283,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "16",
@@ -7711,13 +7716,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5413,
+      "Progressed": 5414,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5413,
+      "Progressed": 5414,
       "Completed": 7
     }
   ],
@@ -7725,8 +7730,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:04:13.9572178+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:04:41.2156062+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:02:48.9441535+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:04:13.9572787+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:03:01.6220084+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:04:41.2156857+00:00"
 }

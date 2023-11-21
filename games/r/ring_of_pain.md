@@ -40,6 +40,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.30% | ~720 |
 | Sneaky | 0.30% | ~720 |
 | Shadow Walker | 0.30% | ~720 |
+| Flesh Wound | 0.30% | ~720 |
 | An Offering | 0.30% | ~720 |
 | Expensive Look | 0.30% | ~5 |
 | What Doesn't Kill You | 0.30% | ~5 |
@@ -62,7 +63,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.20% | ~480 |
 | Antivenom | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
-| Flesh Wound | 0.20% | ~480 |
 | Shapeshifting | 0.20% | ~480 |
 | The Long Run | 0.20% | ~480 |
 | Who Needs Luck? | 0.20% | ~3 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~2 |
 | Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,030 (Ranked 62)  
+Progressed: 240,032 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 290 (0.12%) (Ranked 274)
 | 2023-11-18 | 239,893 | 288 |
 | 2023-11-19 | 239,946 | 288 |
 | 2023-11-20 | 239,989 | 289 |
-| 2023-11-21 | 240,030 | 290 |
+| 2023-11-21 | 240,032 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,685 (Ranked 83)  

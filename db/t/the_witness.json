@@ -4,11 +4,11 @@
   "ProductSlug": "the-witness",
   "Ranking_Rating": 213,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2016-01-26T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -579,6 +579,6 @@
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
   "LastChanged": "2023-10-24T18:59:14.3277483+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.254153+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:59:10.806985+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:08:10.7675249+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:31.770929+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:08:25.9487862+00:00"
 }

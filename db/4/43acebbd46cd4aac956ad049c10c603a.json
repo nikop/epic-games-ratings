@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -108,9 +108,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-11-21T21:03:46.4063798+00:00",
       "NumProgressed": 415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T22:04:08.7928863+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -976,9 +981,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "AnthropicHills",
@@ -1010,7 +1015,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "BreakTheLoop",
@@ -1088,9 +1093,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "FloodedValley",
@@ -1138,7 +1143,7 @@
       "Name": "Into the Machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "JustOneLap",
@@ -1162,7 +1167,7 @@
       "Name": "Lost Marshes",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "MistressOfRiddles",
@@ -1226,7 +1231,7 @@
       "Name": "Overload",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Persistent",
@@ -1234,7 +1239,7 @@
       "Name": "Persistent",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PrometheusUnbound",
@@ -1314,7 +1319,7 @@
       "Name": "Team Spirit",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TextAdventurer",
@@ -1328,9 +1333,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "TheEdgeOfForever",
@@ -1362,7 +1367,7 @@
       "Name": "The Spark",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TheThiefOfFire",
@@ -1378,7 +1383,7 @@
       "Name": "The Word Endures",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "TouchGrass",
@@ -1441,7 +1446,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 1
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:03:46.4063796+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:04:08.792886+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:59:09.9919481+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:03:46.4064261+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:30.9180352+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:04:08.7929247+00:00"
 }

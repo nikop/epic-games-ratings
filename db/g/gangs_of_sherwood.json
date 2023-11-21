@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -480,8 +480,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:03:58.5585985+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:04:23.0589652+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:58:49.4320965+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:03:58.5586278+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:06.5411359+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:04:23.0589943+00:00"
 }

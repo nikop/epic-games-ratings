@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -908,6 +908,11 @@
       "Time": "2023-11-21T21:04:34.2236076+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T22:05:04.6793707+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1094,9 +1099,9 @@
       "ID": "InfernalInfluence",
       "SetID": "71c0n9i",
       "Name": "Infernal Influence",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KillingSpree",
@@ -1128,7 +1133,7 @@
       "Name": "Multi Kill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MultiplayerWins",
@@ -1160,7 +1165,7 @@
       "Name": "Whoops!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RanaCampaign",
@@ -1192,7 +1197,7 @@
       "Name": "Such A Fungi",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SorcerousSpree",
@@ -1248,15 +1253,15 @@
       "Name": "Adept",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "WielderLevel3",
@@ -1264,7 +1269,7 @@
       "Name": "Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "WielderLevel4",
@@ -1278,9 +1283,9 @@
       "ID": "WinBattleBeforeEnemyTurn",
       "SetID": "71c0n9i",
       "Name": "Humiliation",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -1304,15 +1309,15 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "WinSiegeAsDefender",
       "SetID": "71c0n9i",
       "Name": "Venisti, Vidisti, Perdidisti",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -1351,15 +1356,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:04:34.2236074+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:05:04.6793705+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:58:52.38594+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:04:34.2236379+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:10.4229246+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:05:04.679406+00:00"
 }

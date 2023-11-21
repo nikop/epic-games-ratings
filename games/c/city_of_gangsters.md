@@ -8,16 +8,16 @@ Rating: 4.29 (Ranked 842)
 | Corner Clout | 46.00% | ~162,598 |
 | Copacetic Coordination | 16.00% | ~56,556 |
 | Fronting the Money | 15.00% | ~53,021 |
-| The Dawn of Automation | 14.00% | ~49,486 |
-| Extraordinary Logistics | 14.00% | ~49,486 |
-| Dirty Money | 13.00% | ~45,951 |
-| Family First | 13.00% | ~45,951 |
+| The Dawn of Automation | 14.00% | ~49,487 |
+| Extraordinary Logistics | 14.00% | ~49,487 |
+| Dirty Money | 13.00% | ~45,952 |
+| Family First | 13.00% | ~45,952 |
 | Cleaning House | 12.00% | ~42,417 |
 | Room in the Back | 12.00% | ~42,417 |
 | Beating the Heat | 11.00% | ~38,882 |
 | Booze Baron | 11.00% | ~38,882 |
-| Friends on the Force | 10.00% | ~35,347 |
-| Neighborhood Watch | 10.00% | ~35,347 |
+| Friends on the Force | 10.00% | ~35,348 |
+| Neighborhood Watch | 10.00% | ~35,348 |
 | Core Corps | 8.00% | ~28,278 |
 | Sizeable Stash | 8.00% | ~28,278 |
 | Street Fighter | 7.00% | ~24,743 |
@@ -48,20 +48,20 @@ Rating: 4.29 (Ranked 842)
 | Still Stalwart | 3.00% | ~10,604 |
 | Bees Knees Bootlegger | 3.00% | ~10,604 |
 | Tighten the Screws | 3.00% | ~10,604 |
-| One of Us | 2.00% | ~7,069 |
-| Baker’s Dozen | 2.00% | ~7,069 |
-| Dropping the Dime | 2.00% | ~7,069 |
-| Spiffy Speakeasies | 2.00% | ~7,069 |
-| Keeping Your Word | 2.00% | ~7,069 |
+| One of Us | 2.00% | ~7,070 |
+| Baker’s Dozen | 2.00% | ~7,070 |
+| Dropping the Dime | 2.00% | ~7,070 |
+| Spiffy Speakeasies | 2.00% | ~7,070 |
+| Keeping Your Word | 2.00% | ~7,070 |
 | Boxing Them In | 1.00% | ~3,535 |
 | Backroom Empire | 1.00% | ~3,535 |
 | Corner Control | 1.00% | ~3,535 |
 | Full House | 1.00% | ~3,535 |
 | The Rubber Meets the Road | 1.00% | ~3,535 |
 | Cat’s Meow Clubs | 1.00% | ~3,535 |
-| Determined Deliveries | 1.00% | ~3,535 |
 | Stepping It Up | 1.00% | ~3,535 |
 | Crossing Over | 0.90% | ~3,181 |
+| Determined Deliveries | 0.90% | ~3,181 |
 | Boots in the Ground | 0.80% | ~2,828 |
 | Getting Fancy | 0.80% | ~2,828 |
 | Still Dreaming | 0.50% | ~1,767 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 842)
 | High Pillow | 0.10% | ~353 |
 | Station Master | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,473 (Ranked 47)  
+Progressed: 353,475 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,14 +301,14 @@ Completed: 7 (0.00%) (Ranked 357)
 | 2023-11-18 | 353,005 | 7 |
 | 2023-11-19 | 353,192 | 7 |
 | 2023-11-20 | 353,346 | 7 |
-| 2023-11-21 | 353,473 | 7 |
+| 2023-11-21 | 353,475 | 7 |
 ## Awards
-Max (Highly Recommended): 35  (Ranked 470)  
-Sum: 146 (Ranked 422)  
-Diff (max vs sum): 48  
+Max (Great for Beginners): 48  (Ranked 439)  
+Sum: 194 (Ranked 403)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 45 |
+| This game is Great for Beginners | 48 |
 | This game is Highly Recommended | 35 |
 | This game is Relaxing | 32 |
 | This game is Extremely Fun | 30 |
@@ -418,3 +418,4 @@ Diff (max vs sum): 48
 | 2023-11-15 | 4.28 | 35 | 145 |
 | 2023-11-19 | 4.28 | 35 | 146 |
 | 2023-11-20 | 4.29 | 35 | 146 |
+| 2023-11-21 | 4.29 | 48 | 194 |

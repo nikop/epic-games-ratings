@@ -17,8 +17,8 @@
 | No Time To Relax | 22.00% | ~59 |
 | Bad Robots | 20.00% | ~53 |
 | Running Boots | 19.00% | ~51 |
+| Archivist | 18.00% | ~48 |
 | Fashionista | 18.00% | ~48 |
-| Archivist | 17.00% | ~45 |
 | Looper | 17.00% | ~45 |
 | Kaboom! | 16.00% | ~43 |
 | All Alone | 14.00% | ~37 |

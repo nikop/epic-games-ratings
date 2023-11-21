@@ -6,21 +6,22 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 28.00% | ~48 |
+| Adept | 28.00% | ~49 |
 | Double Kill | 20.00% | ~35 |
 | Critical Hit | 9.00% | ~16 |
-| Veteran | 8.00% | ~14 |
+| Veteran | 7.00% | ~12 |
 | Dressed For Success | 5.00% | ~9 |
+| Humiliation | 5.00% | ~9 |
 | Sorcerous Spree | 4.00% | ~7 |
-| Humiliation | 4.00% | ~7 |
-| Multi Kill | 2.00% | ~3 |
-| Whoops! | 2.00% | ~3 |
-| Such A Fungi | 2.00% | ~3 |
-| Master | 2.00% | ~3 |
-| Veni, Vidi, Vici | 2.00% | ~3 |
+| Multi Kill | 2.00% | ~4 |
+| Whoops! | 2.00% | ~4 |
+| Such A Fungi | 2.00% | ~4 |
+| Master | 2.00% | ~4 |
+| Veni, Vidi, Vici | 2.00% | ~4 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~4 |
 | Coming Through! | 1.00% | ~2 |
+| Infernal Influence | 1.00% | ~2 |
 | Expert Essence Employment | 1.00% | ~2 |
-| Venisti, Vidisti, Perdidisti | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |
 | Death To Diplomacy | 0.60% | ~1 |
 | This Spot's Taken | 0.60% | ~1 |
@@ -29,7 +30,6 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.60% | ~1 |
 | Fully Charged | 0.60% | ~1 |
 | Deepstrike | 0.60% | ~1 |
-| Infernal Influence | 0.60% | ~1 |
 | Don't Touch My Stuff | 0.60% | ~1 |
 | Get Over Here! | 0.60% | ~1 |
 | Trojan Horse | 0.60% | ~1 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 391)  
+Progressed: 175 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 118 | 0 |
 | 2023-11-19 | 146 | 0 |
 | 2023-11-20 | 161 | 0 |
-| 2023-11-21 | 173 | 0 |
+| 2023-11-21 | 175 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 508)  
 Sum: 194 (Ranked 403)  

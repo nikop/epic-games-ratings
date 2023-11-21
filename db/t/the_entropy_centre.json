@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -1063,9 +1063,9 @@
       "ID": "ACH_ARCHIVIST",
       "SetID": "2310cb1",
       "Name": "Archivist",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_BESTFRIEND",
@@ -1160,8 +1160,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:05:43.3430439+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:06:25.8669495+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:15.969291+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:58:54.0109107+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:05:43.3430629+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:12.2882236+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:06:25.8669672+00:00"
 }

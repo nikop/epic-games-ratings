@@ -2,13 +2,13 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 675,
+  "Ranking_Rating": 663,
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 438,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -1627,10 +1627,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 1277,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2023-11-21T22:02:59.163843+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1279,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1277,
+  "NumberOfAwards": 1279,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1656,7 +1662,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 139
+      "Count": 141
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1713,8 +1719,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-11-21T18:02:39.1882424+00:00",
+  "LastChanged": "2023-11-21T22:02:59.1638428+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:44.109174+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:02:46.8948137+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:03:56.7781194+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:02:59.1638432+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:04:20.9500696+00:00"
 }

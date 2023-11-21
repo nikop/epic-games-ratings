@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 835,
+  "EOS_Progressed": 836,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.59,
   "EosHistory": [
@@ -2683,6 +2683,11 @@
       "Time": "2023-11-21T20:05:54.2789775+00:00",
       "NumProgressed": 835,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-21T22:07:21.1046193+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2695,7 +2700,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2711,7 +2716,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2735,7 +2740,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "_07_FinishAct3",
@@ -2743,7 +2748,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "_08_Completion_10",
@@ -2751,7 +2756,7 @@
       "Name": "Swabbie",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "_09_Completion_20",
@@ -2767,7 +2772,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "_11_Completion_40",
@@ -2791,7 +2796,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "_14_Completion_70",
@@ -2815,7 +2820,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2831,7 +2836,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2902,7 +2907,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 835,
+      "Progressed": 836,
       "Completed": 30
     }
   ],
@@ -2910,8 +2915,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:06:31.9081167+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:07:21.104619+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:57:40.9239755+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:06:31.9081382+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:57:45.6259419+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:07:21.1046444+00:00"
 }

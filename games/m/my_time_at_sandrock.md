@@ -6,11 +6,11 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 256.00% | ~957 |
-| Iron Chef | 184.00% | ~688 |
+| Adept Assembler | 257.00% | ~961 |
+| Iron Chef | 185.00% | ~692 |
 | Greeno-B-Gone | 130.00% | ~486 |
 | Your Especially Earned Trajectory | 104.00% | ~389 |
-| No Mountain Wide Enough | 76.00% | ~284 |
+| No Mountain Wide Enough | 77.00% | ~288 |
 | One of the Cool Kids | 75.00% | ~280 |
 | Yakmel Whisperer | 74.00% | ~277 |
 | Can We Keep It? | 72.00% | ~269 |
@@ -24,26 +24,26 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 54.00% | ~202 |
 | Got Served | 54.00% | ~202 |
 | I Do! | 54.00% | ~202 |
-| You Don't Win Friends With Salad | 53.00% | ~198 |
+| You Don't Win Friends With Salad | 54.00% | ~202 |
 | Happier-est Place on Earth | 52.00% | ~194 |
 | Builder of the Month | 51.00% | ~191 |
-| Call Me Fishmael | 50.00% | ~187 |
+| Call Me Fishmael | 51.00% | ~191 |
 | Commissions, commissions...! | 47.00% | ~176 |
 | What Plants Crave | 47.00% | ~176 |
 | Anti-Santa | 47.00% | ~176 |
 | Panda-kin | 46.00% | ~172 |
 | Finishing Touches | 46.00% | ~172 |
+| Waste Not Want Not | 46.00% | ~172 |
 | Bridging the Gap | 45.00% | ~168 |
 | Martle's Dream | 45.00% | ~168 |
 | Mole Masher | 45.00% | ~168 |
-| Waste Not Want Not | 45.00% | ~168 |
 | My Time Mansion | 43.00% | ~161 |
 | Knowledge is Power | 42.00% | ~157 |
 | Better Late than Never | 42.00% | ~157 |
 | Elementary, My Dear | 42.00% | ~157 |
 | Lifeline Pipeline | 40.00% | ~150 |
-| Got the Flow Back | 39.00% | ~146 |
-| Who Ya Gonna Call...? | 39.00% | ~146 |
+| Got the Flow Back | 40.00% | ~150 |
+| Who Ya Gonna Call...? | 40.00% | ~150 |
 | Jewel of the Eufaula | 37.00% | ~138 |
 | Officially Official | 37.00% | ~138 |
 | Sepia Toned Memories | 36.00% | ~135 |
@@ -53,9 +53,9 @@ Number of Ratings: 892  (23.09.2022)
 | Santa In Training | 29.00% | ~108 |
 | Newton | 29.00% | ~108 |
 | Just What I Always Wanted! | 28.00% | ~105 |
-| Sandrunning Speedster | 27.00% | ~101 |
+| Sandrunning Speedster | 28.00% | ~105 |
+| It Belongs in a Museum! | 28.00% | ~105 |
 | Do Your Part | 27.00% | ~101 |
-| It Belongs in a Museum! | 27.00% | ~101 |
 | Pro Gamer | 24.00% | ~90 |
 | Cardistry | 20.00% | ~75 |
 | Got the Receipt? | 12.00% | ~45 |
@@ -93,12 +93,12 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-20 | 376 | 0 |
 | 2023-11-21 | 377 | 0 |
 ## Awards
-Max (Character Customization): 596  (Ranked 194)  
-Sum: 1,379 (Ranked 239)  
+Max (Character Customization): 597  (Ranked 194)  
+Sum: 1,380 (Ranked 239)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 596 |
+| This game has Inclusive Character Customization | 597 |
 | This game is Great for Beginners | 109 |
 | This game is Highly Recommended | 89 |
 | This game is Extremely Fun | 86 |
@@ -281,4 +281,4 @@ Diff (max vs sum): -45
 | 2023-11-17 | 4.68 | - | 591 | 1,359 |
 | 2023-11-18 | 4.68 | - | 594 | 1,366 |
 | 2023-11-20 | 4.68 | - | 596 | 1,378 |
-| 2023-11-21 | 4.68 | - | 596 | 1,379 |
+| 2023-11-21 | 4.68 | - | 597 | 1,380 |

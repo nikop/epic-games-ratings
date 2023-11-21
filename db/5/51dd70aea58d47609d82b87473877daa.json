@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -1184,9 +1184,9 @@
       "ID": "ACH_GET_OUT",
       "SetID": "c2kf3nm",
       "Name": "Time Heals NOTHING",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_HABITABLE",
@@ -1279,8 +1279,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:03:42.06029+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:04:03.6523434+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:57.7607971+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:00:31.2528555+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:03:42.060306+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:01:07.2227085+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:04:03.6523622+00:00"
 }

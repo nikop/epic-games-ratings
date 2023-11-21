@@ -12,6 +12,7 @@
 | Merry Co-operation | 50.00% | ~2 |
 | Right between the eyes | 50.00% | ~2 |
 | Locksley's Tears | 50.00% | ~2 |
+| Spring Board | 50.00% | ~2 |
 | The Altruist | 50.00% | ~2 |
 | Take Action! | 50.00% | ~2 |
 | MAX LEVEL | 50.00% | ~2 |
@@ -24,7 +25,6 @@
 | Out of the ring | 25.00% | ~1 |
 | Finish Him! | 25.00% | ~1 |
 | Assault on the Ram | 25.00% | ~1 |
-| Spring Board | 25.00% | ~1 |
 | Ultra Rebel Instinct | 25.00% | ~1 |
 | Rebel Unleashed | 25.00% | ~1 |
 | First Aid | 25.00% | ~1 |

@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~77 |
 | Glorious Difficulty | 0.50% | ~77 |
+| Pantheon of Gods | 0.50% | ~77 |
 | Play a Network Game | 0.50% | ~77 |
 | Ten Crowns | 0.50% | ~77 |
 | Siege Tower | 0.50% | ~77 |
@@ -165,7 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.40% | ~62 |
 | Hatti | 0.40% | ~62 |
 | Persia | 0.40% | ~62 |
-| Pantheon of Gods | 0.40% | ~62 |
 | Capturing Cities | 0.40% | ~62 |
 | Three Man Chariot | 0.40% | ~62 |
 | Conquest Victory | 0.40% | ~62 |

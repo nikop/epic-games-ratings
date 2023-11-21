@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "aq_achievement_17",
@@ -427,17 +427,17 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "aq_achievement_2",
@@ -547,9 +547,9 @@
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_32",
@@ -676,8 +676,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:09:41.7984385+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:10:12.2538057+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.2442322+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:59:51.9727156+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:09:41.7984652+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:00:21.3995702+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:10:12.2538347+00:00"
 }

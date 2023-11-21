@@ -3,12 +3,12 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 842,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 422,
+  "Ranking_Popularity": 439,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -728,12 +728,18 @@
       "Rating": 4.29,
       "NumberOfAwards": 146,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-21T22:02:57.292344+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 194,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 146,
-  "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 194,
+  "NumberOfAwardsMax": 48,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -769,7 +775,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 48
     },
     {
       "Text": "This game has Diverse Characters",
@@ -778,9 +784,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 353473,
+  "EOS_Progressed": 353475,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25248,6 +25254,11 @@
       "Time": "2023-11-21T21:05:17.3683025+00:00",
       "NumProgressed": 353473,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-21T22:05:55.1832404+00:00",
+      "NumProgressed": 353475,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25283,7 +25294,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "ach005",
@@ -25355,7 +25366,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "ach014",
@@ -25387,7 +25398,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45951
+      "UsersEstimate": 45952
     },
     {
       "ID": "ach018",
@@ -25491,7 +25502,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "ach031",
@@ -25563,7 +25574,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35347
+      "UsersEstimate": 35348
     },
     {
       "ID": "ach040",
@@ -25611,7 +25622,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45951
+      "UsersEstimate": 45952
     },
     {
       "ID": "ach046",
@@ -25691,7 +25702,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "ach056",
@@ -25723,7 +25734,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35347
+      "UsersEstimate": 35348
     },
     {
       "ID": "ach060",
@@ -25739,7 +25750,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7069
+      "UsersEstimate": 7070
     },
     {
       "ID": "ach062",
@@ -25761,9 +25772,9 @@
       "ID": "ach065",
       "SetID": "1d2iaed",
       "Name": "Determined Deliveries",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3181
     },
     {
       "ID": "ach066",
@@ -25771,7 +25782,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49486
+      "UsersEstimate": 49487
     },
     {
       "ID": "ach067",
@@ -25795,7 +25806,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49486
+      "UsersEstimate": 49487
     },
     {
       "ID": "ach070",
@@ -25898,16 +25909,16 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 353473,
+      "Progressed": 353475,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2023-11-20T12:01:06.0880668+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:05:17.3683023+00:00",
+  "LastChanged": "2023-11-21T22:02:57.2923438+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:05:55.1832401+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.8503027+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:02:45.2949841+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:05:17.3684478+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:02:57.2923443+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:05:55.1833884+00:00"
 }

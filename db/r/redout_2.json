@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1341,9 +1341,9 @@
       "ID": "FINISHFAST",
       "SetID": "3dh70f3",
       "Name": "Blurred photofinish",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 105
     },
     {
       "ID": "FINISHSOUND",
@@ -1542,8 +1542,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:09:41.4179929+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:10:11.9969046+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:59.6095535+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:58:27.2413553+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:09:41.418025+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:58:40.3107716+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:10:11.9969413+00:00"
 }

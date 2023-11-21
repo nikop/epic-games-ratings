@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~950 |
-| Whatever It Takes | 2.00% | ~950 |
-| Pork Chopped | 2.00% | ~950 |
+| One of Us | 2.00% | ~951 |
+| Whatever It Takes | 2.00% | ~951 |
+| Pork Chopped | 2.00% | ~951 |
 | Dr. Reed, I Presume? | 1.00% | ~7,220 |
 | Git Gutte! | 1.00% | ~7,220 |
 | Bookworm | 1.00% | ~7,220 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,982 (Ranked 21)  
+Progressed: 722,012 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,982 | 2,423 |
+| 2023-11-21 | 722,012 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 51)  
 Sum: 11,622 (Ranked 84)  

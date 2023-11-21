@@ -6,22 +6,22 @@ Rating: 4.62 (Ranked 364)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 32.00% | ~295 |
-| Rail Rat | 26.00% | ~239 |
-| The Mysterious Stranger | 25.00% | ~230 |
+| Rail Rat | 26.00% | ~240 |
+| The Mysterious Stranger | 25.00% | ~231 |
 | Make Up For Lost Time | 22.00% | ~203 |
 | The Prince in Heels | 22.00% | ~203 |
 | Immaculate Aim | 22.00% | ~203 |
 | The Brass Boss | 22.00% | ~203 |
-| The Steel Shadow | 21.00% | ~193 |
-| Time Flies | 21.00% | ~193 |
-| The Harder They Fall | 21.00% | ~193 |
-| No, Thanks! | 21.00% | ~193 |
-| Breaking Down Barriers | 21.00% | ~193 |
-| The Wicked Twins | 21.00% | ~193 |
-| Honest Mistake | 21.00% | ~193 |
-| Fast Learner | 21.00% | ~193 |
-| Immaculate Aim | 21.00% | ~193 |
-| The Betrayer | 20.00% | ~184 |
+| The Steel Shadow | 21.00% | ~194 |
+| Time Flies | 21.00% | ~194 |
+| The Harder They Fall | 21.00% | ~194 |
+| No, Thanks! | 21.00% | ~194 |
+| Breaking Down Barriers | 21.00% | ~194 |
+| The Wicked Twins | 21.00% | ~194 |
+| Fast Learner | 21.00% | ~194 |
+| Immaculate Aim | 21.00% | ~194 |
+| The Betrayer | 20.00% | ~185 |
+| Honest Mistake | 20.00% | ~185 |
 | Like Clockwork | 19.00% | ~175 |
 | The Loose Cannon | 19.00% | ~175 |
 | Golem Chaser | 19.00% | ~175 |
@@ -36,17 +36,17 @@ Rating: 4.62 (Ranked 364)
 | Good Neighbor | 13.00% | ~120 |
 | Chaincrawler Explorer | 12.00% | ~111 |
 | Family Memories | 12.00% | ~111 |
-| Ask Questions Later | 12.00% | ~111 |
-| Sump Explorer | 11.00% | ~101 |
-| Syron for Hope | 11.00% | ~101 |
-| Theater Explorer | 11.00% | ~101 |
+| Sump Explorer | 11.00% | ~102 |
+| Syron for Hope | 11.00% | ~102 |
+| Theater Explorer | 11.00% | ~102 |
+| Ask Questions Later | 11.00% | ~102 |
 | Factorywood Explorer | 10.00% | ~92 |
 | Fairgrounds Explorer | 10.00% | ~92 |
 | Cultivair Explorer | 9.00% | ~83 |
 | Entresol Explorer | 9.00% | ~83 |
 | Corin Goes Home | 8.00% | ~74 |
 | Sartorialist | 8.00% | ~74 |
-| Golem Hunter | 7.00% | ~64 |
+| Golem Hunter | 7.00% | ~65 |
 | Clovemary for Remembering | 6.00% | ~55 |
 | Rungs Was Right | 6.00% | ~55 |
 | Hexlock for Protection | 5.00% | ~46 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 364)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921 (Ranked 268)  
+Progressed: 923 (Ranked 268)  
 Completed: 6 (0.65%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 6 (0.65%) (Ranked 183)
 | 2023-11-10 | 918 | 6 |
 | 2023-11-14 | 919 | 6 |
 | 2023-11-15 | 920 | 6 |
-| 2023-11-21 | 921 | 6 |
+| 2023-11-21 | 923 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

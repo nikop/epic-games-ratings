@@ -9,6 +9,7 @@ Rating: 4.56 (Ranked 491)
 | The Pit and the Pirates | 5.00% | ~760 |
 | Bosmang | 5.00% | ~760 |
 | Celebrations are in Order | 5.00% | ~760 |
+| Impossible Objects | 5.00% | ~760 |
 | Safe Cracker | 5.00% | ~58 |
 | Zen Master | 5.00% | ~58 |
 | Stogie for Fogey | 4.00% | ~608 |
@@ -18,13 +19,12 @@ Rating: 4.56 (Ranked 491)
 | Drone Dodger | 4.00% | ~608 |
 | Call it Even | 4.00% | ~608 |
 | Captain Drummer | 4.00% | ~608 |
-| Impossible Objects | 4.00% | ~608 |
 | Keep Arjun in Check | 4.00% | ~46 |
 | Madame Undersecretary | 4.00% | ~46 |
 | Data Archivist | 3.00% | ~456 |
 | Heal Thy Medic | 3.00% | ~456 |
 | Khan's Revenge | 3.00% | ~456 |
-| Master Negotiator | 3.00% | ~34 |
+| Master Negotiator | 3.00% | ~35 |
 | Doctor Approved | 2.00% | ~304 |
 | Bottoms up! | 2.00% | ~304 |
 | Thorston Mayer | 2.00% | ~304 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,196 (Ranked 152)  
+Progressed: 15,197 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-18 | 15,097 | 34 |
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
-| 2023-11-21 | 15,196 | 35 |
+| 2023-11-21 | 15,197 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

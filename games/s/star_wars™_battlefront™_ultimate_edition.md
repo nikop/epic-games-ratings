@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 89.00% | ~1,202 |
-| Off to a good start | 66.00% | ~892 |
+| Off to a good start | 67.00% | ~905 |
 | Do... or do not. There is no try | 50.00% | ~676 |
 | A good blaster at your side | 31.00% | ~419 |
 | I suggest a new strategy | 19.00% | ~257 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351 (Ranked 242)  
+Progressed: 1,351 (Ranked 243)  
 Completed: 1 (0.07%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

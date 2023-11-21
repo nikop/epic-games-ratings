@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3436,7 +3436,7 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240030,
+  "EOS_Progressed": 240032,
   "EOS_Completed": 290,
   "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 2,
@@ -25756,6 +25756,11 @@
       "Time": "2023-11-21T21:09:45.7153778+00:00",
       "NumProgressed": 240030,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-21T22:10:16.5498868+00:00",
+      "NumProgressed": 240032,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -26549,9 +26554,9 @@
       "ID": "SURVIVEON1",
       "SetID": "5l8oe0h",
       "Name": "Flesh Wound",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 720
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -26870,13 +26875,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240030,
+      "Progressed": 240032,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1510,
+      "Progressed": 1512,
       "Completed": 384
     }
   ],
@@ -26884,8 +26889,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-20T13:59:45.1421719+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:09:45.7153775+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:10:16.5498866+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:00:50.2262476+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:09:45.7156065+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:01:29.4386007+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:10:16.5501693+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1534,18 +1534,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1379,
       "NumberOfAwardsMax": 596
+    },
+    {
+      "Time": "2023-11-21T21:59:53.0202139+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1380,
+      "NumberOfAwardsMax": 597
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1379,
-  "NumberOfAwardsMax": 596,
+  "NumberOfAwards": 1380,
+  "NumberOfAwardsMax": 597,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 596
+      "Count": 597
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1622,7 +1628,7 @@
   ],
   "EOS_Progressed": 374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3817,9 +3823,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 256,
+      "Percentage": 257,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 961
     },
     {
       "ID": "M_BACKPACK",
@@ -3841,9 +3847,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 184,
+      "Percentage": 185,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 692
     },
     {
       "ID": "M_EXPAND",
@@ -4001,9 +4007,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 288
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -4017,9 +4023,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -4073,9 +4079,9 @@
       "ID": "S_GHOST",
       "SetID": "80dcan0",
       "Name": "Who Ya Gonna Call...?",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 150
     },
     {
       "ID": "S_GIFT",
@@ -4129,9 +4135,9 @@
       "ID": "S_SANDRUNNING",
       "SetID": "80dcan0",
       "Name": "Sandrunning Speedster",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "S_SHOWDOWN",
@@ -4153,9 +4159,9 @@
       "ID": "S_WINTERSOLSTICE",
       "SetID": "80dcan0",
       "Name": "You Don\u0027t Win Friends With Salad",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "S_YAKMEL",
@@ -4185,9 +4191,9 @@
       "ID": "X_FISH_RARE",
       "SetID": "80dcan0",
       "Name": "Call Me Fishmael",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 191
     },
     {
       "ID": "X_GET_DIAMOND",
@@ -4201,9 +4207,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "X_KICK",
@@ -4217,9 +4223,9 @@
       "ID": "X_MUSEUM",
       "SetID": "80dcan0",
       "Name": "It Belongs in a Museum!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
@@ -4232,9 +4238,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2023-11-21T19:59:00.6237921+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:06:35.4360746+00:00",
+  "LastChanged": "2023-11-21T21:59:53.0202137+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:07:25.1816976+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:18.4533523+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:59:27.7800217+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:06:35.4361212+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:53.0202143+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:07:25.1817647+00:00"
 }

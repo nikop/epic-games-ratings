@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 1691,
+  "EOS_Progressed": 1695,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2736,6 +2736,11 @@
       "Time": "2023-11-21T21:04:56.2345261+00:00",
       "NumProgressed": 1691,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T22:05:30.3641348+00:00",
+      "NumProgressed": 1695,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2762,9 +2767,9 @@
       "ID": "TLOTF_ACHIEVEMENT_003",
       "SetID": "87e61g",
       "Name": "Lost and Found",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -3251,7 +3256,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1691,
+      "Progressed": 1695,
       "Completed": 1
     }
   ],
@@ -3259,8 +3264,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-21T16:58:33.4620178+00:00",
-  "LastChanged_Achievements": "2023-11-21T21:04:56.2345259+00:00",
+  "LastChanged_Achievements": "2023-11-21T22:05:30.3641346+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.8643318+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:58:46.0200787+00:00",
-  "LastUpdate_Achievements": "2023-11-21T21:04:56.2345769+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:59:02.4059886+00:00",
+  "LastUpdate_Achievements": "2023-11-21T22:05:30.3641855+00:00"
 }
