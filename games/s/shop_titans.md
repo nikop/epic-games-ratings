@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,042 |
 | Basic in Bulk | 5.00% | ~7,042 |
 | Titan's First Steps | 5.00% | ~7,042 |
-| Tinkle of Coins | 4.00% | ~5,633 |
+| Tinkle of Coins | 4.00% | ~5,634 |
 | One Easy Payment | 3.00% | ~4,225 |
 | Some Assembly Required | 3.00% | ~4,225 |
 | Disintermediation | 3.00% | ~4,225 |
@@ -51,21 +51,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 1.00% | ~1,408 |
 | Special Ingredient | 1.00% | ~1,408 |
 | Arcane Industries | 1.00% | ~1,408 |
-| A Notch Above the Rest | 0.90% | ~1,267 |
-| The King's Caprice | 0.90% | ~1,267 |
-| Big Game Hunting | 0.90% | ~1,267 |
-| Locally Sourced | 0.90% | ~1,267 |
-| Flying off the Shelves | 0.90% | ~1,267 |
-| This Power Level...! | 0.90% | ~1,267 |
-| Hidden Potential | 0.90% | ~1,267 |
-| Expansion in Session | 0.90% | ~1,267 |
-| Cranked up to 11 | 0.90% | ~1,267 |
-| Mammonite | 0.90% | ~1,267 |
-| Miracle Alchemist | 0.90% | ~1,267 |
-| Laden with Loot | 0.90% | ~1,267 |
-| Scourge of the Seas | 0.90% | ~1,267 |
-| Black Friday Special | 0.90% | ~1,267 |
-| Complete Monopoly | 0.90% | ~1,267 |
+| A Notch Above the Rest | 0.90% | ~1,268 |
+| The King's Caprice | 0.90% | ~1,268 |
+| Big Game Hunting | 0.90% | ~1,268 |
+| Locally Sourced | 0.90% | ~1,268 |
+| Flying off the Shelves | 0.90% | ~1,268 |
+| This Power Level...! | 0.90% | ~1,268 |
+| Master of Transmutation | 0.90% | ~1,268 |
+| Hidden Potential | 0.90% | ~1,268 |
+| Expansion in Session | 0.90% | ~1,268 |
+| Cranked up to 11 | 0.90% | ~1,268 |
+| Mammonite | 0.90% | ~1,268 |
+| Miracle Alchemist | 0.90% | ~1,268 |
+| Laden with Loot | 0.90% | ~1,268 |
+| Scourge of the Seas | 0.90% | ~1,268 |
+| Black Friday Special | 0.90% | ~1,268 |
+| Complete Monopoly | 0.90% | ~1,268 |
 | Cream of the Crop | 0.80% | ~1,127 |
 | Proud Paladin | 0.80% | ~1,127 |
 | Above the Norm | 0.80% | ~1,127 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.80% | ~1,127 |
 | Archivist | 0.80% | ~1,127 |
 | Omae wa Mou Shindeiru | 0.80% | ~1,127 |
-| Master of Transmutation | 0.80% | ~1,127 |
 | Supercharged | 0.80% | ~1,127 |
 | Ritualist | 0.80% | ~1,127 |
 | Fit for a King | 0.80% | ~1,127 |
@@ -107,10 +107,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 0.50% | ~704 |
 | The Greatest Grind | 0.40% | ~563 |
 | All or Nothing! | 0.40% | ~563 |
-| Unleashed Potential | 0.30% | ~422 |
-| JACKPOT!!! | 0.30% | ~422 |
-| Anything not Nailed Down | 0.30% | ~422 |
-| Marvels from the World Over | 0.30% | ~422 |
+| Unleashed Potential | 0.30% | ~423 |
+| JACKPOT!!! | 0.30% | ~423 |
+| Anything not Nailed Down | 0.30% | ~423 |
+| Marvels from the World Over | 0.30% | ~423 |
 | Bane of Legends | 0.20% | ~282 |
 | Ultimate Collector | 0.20% | ~282 |
 | Oligarch Monarch | 0.20% | ~282 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,832 (Ranked 80)  
-Completed: 188 (0.13%) (Ranked 268)  
+Progressed: 140,838 (Ranked 80)  
+Completed: 189 (0.13%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,7 +334,7 @@ Completed: 188 (0.13%) (Ranked 268)
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
-| 2023-11-21 | 140,832 | 188 |
+| 2023-11-21 | 140,838 | 189 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,572 (Ranked 50)  

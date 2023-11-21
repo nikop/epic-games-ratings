@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3567,
+  "EOS_Progressed": 3568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5791,6 +5791,11 @@
       "Time": "2023-11-21T16:07:27.9291788+00:00",
       "NumProgressed": 3567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T18:06:46.9913623+00:00",
+      "NumProgressed": 3568,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5827,7 +5832,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "achievement_13",
@@ -5843,7 +5848,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_15",
@@ -5851,7 +5856,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "achievement_16",
@@ -5859,7 +5864,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "achievement_17",
@@ -5915,7 +5920,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_4",
@@ -5931,7 +5936,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_6",
@@ -5939,7 +5944,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "achievement_7",
@@ -5970,7 +5975,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3567,
+      "Progressed": 3568,
       "Completed": 0
     }
   ],
@@ -5978,8 +5983,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-20T23:59:24.7419033+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:06:31.1482608+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:06:46.9913617+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:00:12.9341642+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:06:31.1482969+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:00:24.050141+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:06:46.9913986+00:00"
 }

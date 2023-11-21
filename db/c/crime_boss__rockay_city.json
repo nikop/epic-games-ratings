@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4737,9 +4737,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 91364,
+  "EOS_Progressed": 91365,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26027,6 +26027,11 @@
       "Time": "2023-11-21T17:05:02.6737591+00:00",
       "NumProgressed": 91364,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-21T18:05:09.3383805+00:00",
+      "NumProgressed": 91365,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26196,9 +26201,9 @@
       "ID": "ACH_0211",
       "SetID": "3kam13l",
       "Name": "Groundhog Days",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_0220",
@@ -26276,9 +26281,9 @@
       "ID": "ACH_0431",
       "SetID": "3kam13l",
       "Name": "Classy Joint",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 183
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_0440",
@@ -26365,13 +26370,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91364,
+      "Progressed": 91365,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19711,
+      "Progressed": 19712,
       "Completed": 15579
     }
   ],
@@ -26379,8 +26384,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-21T13:07:30.9197894+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:05:02.6737583+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:05:09.3383798+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:58:26.950019+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:05:02.6738938+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:58:27.1651759+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:05:09.3384885+00:00"
 }

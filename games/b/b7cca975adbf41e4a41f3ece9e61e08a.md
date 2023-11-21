@@ -5,14 +5,14 @@ Rating: 4.80 (Ranked 86)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 94.00% | ~8,180 |
-| I Challenge You To Save More Money! | 89.00% | ~7,745 |
+| Last Night...Did We... | 94.00% | ~8,181 |
+| I Challenge You To Save More Money! | 89.00% | ~7,746 |
 | I Love How Tough You Are | 76.00% | ~6,614 |
-| Wanna Come To My Place For Dinner? | 70.00% | ~6,091 |
-| What I Want Is You | 64.00% | ~5,569 |
-| To Be Or Not To Be | 61.00% | ~5,308 |
-| Love Actually | 51.00% | ~4,438 |
-| Are You Alright? | 51.00% | ~4,438 |
+| Wanna Come To My Place For Dinner? | 70.00% | ~6,092 |
+| What I Want Is You | 64.00% | ~5,570 |
+| To Be Or Not To Be | 61.00% | ~5,309 |
+| Love Actually | 51.00% | ~4,439 |
+| Are You Alright? | 51.00% | ~4,439 |
 | Drama King | 44.00% | ~3,829 |
 | You're Really Something Else | 39.00% | ~3,394 |
 | Happy Family | 37.00% | ~3,220 |
@@ -32,9 +32,9 @@ Rating: 4.80 (Ranked 86)
 | Let Me Be Your Toy Boy | 25.00% | ~2,176 |
 | That's So You | 25.00% | ~2,176 |
 | SALUTE | 25.00% | ~2,176 |
-| Off We Sail Tonight | 21.00% | ~1,827 |
-| Love You Three Thousand | 17.00% | ~1,479 |
-| Can You Do This Or Not? | 17.00% | ~1,479 |
+| Off We Sail Tonight | 21.00% | ~1,828 |
+| Love You Three Thousand | 17.00% | ~1,480 |
+| Can You Do This Or Not? | 17.00% | ~1,480 |
 | Doesn't Matter I'll Handle It | 15.00% | ~1,305 |
 | The Flash | 13.00% | ~1,131 |
 | New Yoga Pose Unlocked | 12.00% | ~1,044 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 86)
 | Tall; Grande; Venti | 2.00% | ~174 |
 | Limerence | 2.00% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,702 (Ranked 167)  
+Progressed: 8,703 (Ranked 167)  
 Completed: 150 (1.72%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 150 (1.72%) (Ranked 134)
 | 2023-11-18 | 8,534 | 138 |
 | 2023-11-19 | 8,609 | 143 |
 | 2023-11-20 | 8,665 | 148 |
-| 2023-11-21 | 8,702 | 150 |
+| 2023-11-21 | 8,703 | 150 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

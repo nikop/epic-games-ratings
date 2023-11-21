@@ -2,13 +2,13 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -9685,10 +9685,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 7621,
       "NumberOfAwardsMax": 818
+    },
+    {
+      "Time": "2023-11-21T18:02:41.0952411+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 7627,
+      "NumberOfAwardsMax": 818
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7621,
+  "NumberOfAwards": 7627,
   "NumberOfAwardsMax": 818,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9708,7 +9714,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 768
+      "Count": 771
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9738,7 +9744,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 768
+      "Count": 771
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9782,8 +9788,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-11-21T17:02:55.7601618+00:00",
+  "LastChanged": "2023-11-21T18:02:41.0952409+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:50.6682224+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:02:55.7601626+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:04:21.35706+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:02:41.0952418+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:04:23.8634798+00:00"
 }

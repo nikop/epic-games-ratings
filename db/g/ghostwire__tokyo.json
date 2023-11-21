@@ -2,13 +2,13 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 554,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -2152,10 +2152,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 1906,
       "NumberOfAwardsMax": 1391
+    },
+    {
+      "Time": "2023-11-21T17:57:02.994934+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1909,
+      "NumberOfAwardsMax": 1391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1906,
+  "NumberOfAwards": 1909,
   "NumberOfAwardsMax": 1391,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2181,7 +2187,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 62
+      "Count": 65
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2237,8 +2243,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-11-21T06:01:14.8596578+00:00",
+  "LastChanged": "2023-11-21T17:57:02.9949338+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5514442+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:57:12.7726838+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:08:35.7006232+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:57:02.9949343+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:08:02.514881+00:00"
 }

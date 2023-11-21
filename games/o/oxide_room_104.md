@@ -16,15 +16,15 @@
 | Antidote | 54.00% | ~134 |
 | Pick the right door | 26.00% | ~64 |
 | The third floor | 19.00% | ~47 |
+| On the right path | 17.00% | ~42 |
 | One-way | 17.00% | ~42 |
-| On the right path | 16.00% | ~40 |
 | It can't be true | 16.00% | ~40 |
+| I'm close now | 13.00% | ~32 |
+| Failed attempt | 13.00% | ~32 |
+| Good choice | 13.00% | ~32 |
+| Take the long way round | 13.00% | ~32 |
 | He who seeks, finds! | 13.00% | ~32 |
-| I'm close now | 12.00% | ~30 |
-| Failed attempt | 12.00% | ~30 |
 | The real escape | 12.00% | ~30 |
-| Good choice | 12.00% | ~30 |
-| Take the long way round | 12.00% | ~30 |
 | Nightmare in the kitchen | 10.00% | ~25 |
 | Born again | 7.00% | ~17 |
 | 373 | 6.00% | ~15 |

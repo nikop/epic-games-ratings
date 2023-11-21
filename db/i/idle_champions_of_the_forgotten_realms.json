@@ -8147,10 +8147,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32553,
       "NumberOfAwardsMax": 5547
+    },
+    {
+      "Time": "2023-11-21T17:57:03.9934311+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32555,
+      "NumberOfAwardsMax": 5547
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32553,
+  "NumberOfAwards": 32555,
   "NumberOfAwardsMax": 5547,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8194,12 +8200,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3524
+      "Count": 3526
     }
   ],
-  "EOS_Progressed": 236246,
+  "EOS_Progressed": 236254,
   "EOS_Completed": 2464,
-  "EOS_NewPlayers": 1244,
+  "EOS_NewPlayers": 1235,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32332,6 +32338,11 @@
       "Time": "2023-11-21T17:09:53.1071773+00:00",
       "NumProgressed": 236246,
       "NumCompleted": 2464
+    },
+    {
+      "Time": "2023-11-21T18:09:38.2568299+00:00",
+      "NumProgressed": 236254,
+      "NumCompleted": 2464
     }
   ],
   "TotalAchievements": 532,
@@ -33207,7 +33218,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "objective_completed_1203",
@@ -34023,7 +34034,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "objective_completed_35",
@@ -34135,7 +34146,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "objective_completed_390",
@@ -34207,7 +34218,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "objective_completed_40",
@@ -34479,7 +34490,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "objective_completed_54",
@@ -35559,7 +35570,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "objective_completed_80",
@@ -36567,7 +36578,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "objective_completed_1548",
@@ -36598,21 +36609,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202520,
+      "Progressed": 202528,
       "Completed": 3932
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236246,
+      "Progressed": 236254,
       "Completed": 2464
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-21T15:57:00.2254598+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:09:53.107177+00:00",
+  "LastChanged": "2023-11-21T17:57:03.9934309+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:09:38.2568292+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:57:13.6405963+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:09:53.1093568+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:57:03.9934314+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:09:38.2591791+00:00"
 }

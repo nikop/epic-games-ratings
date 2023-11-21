@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,254 |
 | Spectre Inductee | 79.00% | ~1,065 |
-| Medal of Exploration I | 71.00% | ~957 |
+| Medal of Exploration I | 72.00% | ~971 |
 | Recruit | 68.00% | ~917 |
 | Search and Rescue | 67.00% | ~903 |
 | Quarian Ally | 63.00% | ~849 |
@@ -61,6 +61,7 @@
 | Heart of Darkness | 30.00% | ~404 |
 | Archivist | 29.00% | ~391 |
 | Fade Away | 29.00% | ~391 |
+| Treason | 29.00% | ~391 |
 | Agent | 29.00% | ~391 |
 | Digital Exorcist | 29.00% | ~391 |
 | Bringer of War | 29.00% | ~391 |
@@ -68,7 +69,6 @@
 | Friend or Foe | 28.00% | ~377 |
 | Cat's in the Cradle | 28.00% | ~377 |
 | Doppelganger | 28.00% | ~377 |
-| Treason | 28.00% | ~377 |
 | Mobilizer | 28.00% | ~377 |
 | Mission Accomplished | 27.00% | ~364 |
 | Suicide Mission | 27.00% | ~364 |
@@ -88,19 +88,19 @@
 | Lost and Found | 22.00% | ~297 |
 | Paramour II | 21.00% | ~283 |
 | Party Crasher | 21.00% | ~283 |
+| Problem Solver | 21.00% | ~283 |
 | Last Resort | 20.00% | ~270 |
 | Hard Target | 20.00% | ~270 |
 | Saboteur | 20.00% | ~270 |
 | Fact Finder | 20.00% | ~270 |
-| Problem Solver | 20.00% | ~270 |
 | Pyromaniac | 19.00% | ~256 |
 | Under Pressure | 19.00% | ~256 |
 | No One Left Behind | 19.00% | ~256 |
 | Last Witness | 19.00% | ~256 |
 | Well Connected | 19.00% | ~256 |
+| Master and Commander | 18.00% | ~243 |
 | Executioner | 17.00% | ~229 |
 | Patriot | 17.00% | ~229 |
-| Master and Commander | 17.00% | ~229 |
 | Sabotage Specialist | 16.00% | ~216 |
 | Legend | 16.00% | ~216 |
 | Long Service Medal | 15.00% | ~202 |

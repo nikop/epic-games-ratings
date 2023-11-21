@@ -19,8 +19,8 @@
 | Magic Accidents | 59.00% | ~189 |
 | Minions, Minions! | 58.00% | ~186 |
 | Trap Master | 53.00% | ~170 |
-| The Ascent | 51.00% | ~164 |
-| It's Warm and Cozy at Home | 51.00% | ~164 |
+| The Ascent | 52.00% | ~167 |
+| It's Warm and Cozy at Home | 52.00% | ~167 |
 | YOU SHALL NOT PASS! | 46.00% | ~148 |
 | Hard Work | 46.00% | ~148 |
 | The Big Eaty | 44.00% | ~141 |
@@ -60,10 +60,10 @@
 | To the Max! | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
+| Heal Heal Blessing | 4.00% | ~13 |
 | Hands Off My Stones | 4.00% | ~13 |
 | Evilification | 4.00% | ~13 |
 | No Mana, No Cry | 3.00% | ~10 |
-| Heal Heal Blessing | 3.00% | ~10 |
 | I Don't Need Any Help | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 321 (Ranked 339)  

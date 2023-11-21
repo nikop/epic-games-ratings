@@ -12,18 +12,20 @@
 | Right between the eyes | 50.00% | ~2 |
 | The Altruist | 50.00% | ~2 |
 | Take Action! | 50.00% | ~2 |
+| MAX LEVEL | 50.00% | ~2 |
+| Starry Night | 25.00% | ~1 |
 | King of the Iron Fist | 25.00% | ~1 |
 | The Gang prevails | 25.00% | ~1 |
 | Power of Friendship! | 25.00% | ~1 |
 | Savior | 25.00% | ~1 |
 | Watch your Step! | 25.00% | ~1 |
 | Out of the ring | 25.00% | ~1 |
+| Finish Him! | 25.00% | ~1 |
 | Assault on the Ram | 25.00% | ~1 |
 | Spring Board | 25.00% | ~1 |
 | Ultra Rebel Instinct | 25.00% | ~1 |
 | Rebel Unleashed | 25.00% | ~1 |
 | First Aid | 25.00% | ~1 |
-| Starry Night | 0.00% | ~0 |
 | Ascending Will | 0.00% | ~0 |
 | Brilliant Executioner | 0.00% | ~0 |
 | Ultra Combo | 0.00% | ~0 |
@@ -38,7 +40,6 @@
 | Tap Dancing | 0.00% | ~0 |
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
-| Finish Him! | 0.00% | ~0 |
 | Sky High Fighter | 0.00% | ~0 |
 | Five of Friends | 0.00% | ~0 |
 | The Crowkiller | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | Only Child | 0.00% | ~0 |
 | The transmuted game | 0.00% | ~0 |
 | Haute Couture | 0.00% | ~0 |
-| MAX LEVEL | 0.00% | ~0 |
 | Merry Go Round | 0.00% | ~0 |
 | The Arsenal | 0.00% | ~0 |
 | The Armorer | 0.00% | ~0 |

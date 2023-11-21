@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -502,9 +502,9 @@
       "ID": "ach-diceChallenges",
       "SetID": "17ih7ma",
       "Name": "Roll to Save",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ach-discover-locations",
@@ -654,9 +654,9 @@
       "ID": "ach-maxLevelCharacter",
       "SetID": "17ih7ma",
       "Name": "Veteran Explorer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "ach-meetGhost",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:09:49.690414+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:09:34.5473839+00:00",
   "LastUpdate_AppInfo": "2023-11-18T10:57:10.3611019+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:59:08.2228837+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:09:49.6904611+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:59:14.7059338+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:09:34.5474297+00:00"
 }

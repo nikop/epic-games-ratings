@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -7141,9 +7141,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140832,
-  "EOS_Completed": 188,
-  "EOS_NewPlayers": 1021,
+  "EOS_Progressed": 140838,
+  "EOS_Completed": 189,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29306,6 +29306,11 @@
       "Time": "2023-11-21T17:06:04.1956588+00:00",
       "NumProgressed": 140832,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-21T18:06:17.0654446+00:00",
+      "NumProgressed": 140838,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 112,
@@ -29333,7 +29338,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "advlevel04",
@@ -29413,7 +29418,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "blueprint01",
@@ -29461,7 +29466,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "boss03",
@@ -29565,7 +29570,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "commonres04",
@@ -29597,7 +29602,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "craft04",
@@ -29629,7 +29634,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "damage03",
@@ -29643,9 +29648,9 @@
       "ID": "donovan_a",
       "SetID": "anfd17p",
       "Name": "Master of Transmutation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1268
     },
     {
       "ID": "enchant01",
@@ -29653,7 +29658,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "enchant02",
@@ -29661,7 +29666,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "energy01",
@@ -29701,7 +29706,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "expansion03",
@@ -29733,7 +29738,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "furniture03",
@@ -29789,7 +29794,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "gold02",
@@ -29821,7 +29826,7 @@
       "Name": "Mammonite",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "gold06",
@@ -29885,7 +29890,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "legenchant01",
@@ -29933,7 +29938,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "loot01",
@@ -29949,7 +29954,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "loot03",
@@ -29965,7 +29970,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "master01",
@@ -30021,7 +30026,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "quest01",
@@ -30077,7 +30082,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "rudo_a",
@@ -30101,7 +30106,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "sell03",
@@ -30197,7 +30202,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "yami_a",
@@ -30212,15 +30217,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140832,
-      "Completed": 188
+      "Progressed": 140838,
+      "Completed": 189
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-21T14:02:34.5991096+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:06:04.1956585+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:06:17.0654441+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:02:58.3826437+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:06:04.1959087+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:02:44.0762004+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:06:17.0656247+00:00"
 }

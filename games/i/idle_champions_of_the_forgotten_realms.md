@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 2.00% | ~4,050 |
+| The Beginning is the End | 2.00% | ~4,051 |
 | A Brief Tour of the Realms | 0.90% | ~2,126 |
 | The End is the Beginning | 0.90% | ~1,823 |
 | Tomb of Champions | 0.60% | ~1,215 |
@@ -15,12 +15,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.30% | ~709 |
 | The Mad Wizard | 0.30% | ~709 |
 | A Lesson in Classes | 0.20% | ~405 |
-| Were-verpowered | 0.20% | ~472 |
-| The Ring of Regeneration | 0.20% | ~472 |
-| Seeking Allies | 0.20% | ~472 |
-| Are Ya Chicken? | 0.20% | ~472 |
-| Mad Cow Disease | 0.20% | ~472 |
-| Friendly Imps | 0.20% | ~472 |
+| Were-verpowered | 0.20% | ~473 |
+| The Ring of Regeneration | 0.20% | ~473 |
+| Seeking Allies | 0.20% | ~473 |
+| Are Ya Chicken? | 0.20% | ~473 |
+| Mad Cow Disease | 0.20% | ~473 |
+| Friendly Imps | 0.20% | ~473 |
 | Reya Reborn | 0.20% | ~405 |
 | Maddening | 0.10% | ~236 |
 | Pros and CONs | 0.10% | ~236 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~203 |
 | Time Out | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,246 (Ranked 64)  
+Progressed: 236,254 (Ranked 64)  
 Completed: 2,464 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -754,10 +754,10 @@ Completed: 2,464 (1.04%) (Ranked 162)
 | 2023-11-18 | 235,810 | 2,458 |
 | 2023-11-19 | 236,022 | 2,459 |
 | 2023-11-20 | 236,146 | 2,463 |
-| 2023-11-21 | 236,246 | 2,464 |
+| 2023-11-21 | 236,254 | 2,464 |
 ## Awards
 Max (Great for Beginners): 5,547  (Ranked 70)  
-Sum: 32,553 (Ranked 41)  
+Sum: 32,555 (Ranked 41)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -767,7 +767,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,708 |
 | This game has Amazing Characters | 4,222 |
 | This game is Highly Recommended | 4,210 |
-| This game has Playful Visuals | 3,524 |
+| This game has Playful Visuals | 3,526 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1070,4 +1070,4 @@ Diff (max vs sum): 29
 | 2023-11-18 | 4.06 | - | 5,539 | 32,522 |
 | 2023-11-19 | 4.06 | - | 5,542 | 32,540 |
 | 2023-11-20 | 4.06 | - | 5,547 | 32,551 |
-| 2023-11-21 | 4.06 | - | 5,547 | 32,553 |
+| 2023-11-21 | 4.06 | - | 5,547 | 32,555 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
@@ -2369,6 +2369,11 @@
       "Time": "2023-11-21T14:08:31.3965649+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-11-21T18:09:00.2118952+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2397,7 +2402,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2445,7 +2450,7 @@
       "Name": "Fast as lightning",
       "Percentage": 7,
       "XP": 180,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_THE_END",
@@ -2460,14 +2465,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:09:19.2355835+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:09:00.2118945+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:59:11.1330298+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:09:19.2356028+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:59:17.7907965+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:09:00.2119162+00:00"
 }

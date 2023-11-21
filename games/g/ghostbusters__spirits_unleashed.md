@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 587)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,507 |
-| Meticulously Efficient | 7.00% | ~2,193 |
+| Meticulously Efficient | 7.00% | ~2,194 |
 | Advancement | 6.00% | ~1,880 |
 | Discovery | 5.00% | ~1,567 |
 | Solo Capture | 5.00% | ~1,567 |
@@ -25,6 +25,7 @@ Rating: 4.50 (Ranked 587)
 | Ghostbuster In Training | 3.00% | ~940 |
 | Icing on the Cake | 3.00% | ~940 |
 | Right back at ya | 3.00% | ~940 |
+| Summoner | 3.00% | ~940 |
 | Back Off | 2.00% | ~627 |
 | We have the best insurance | 2.00% | ~627 |
 | Collector | 2.00% | ~627 |
@@ -36,7 +37,6 @@ Rating: 4.50 (Ranked 587)
 | Side Hustle | 2.00% | ~627 |
 | Skilled | 2.00% | ~627 |
 | Stunner | 2.00% | ~627 |
-| Summoner | 2.00% | ~627 |
 | Welcome to the Crew | 2.00% | ~627 |
 | Diabolical | 1.00% | ~313 |
 | Liability | 1.00% | ~313 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,335 (Ranked 124)  
-Completed: 68 (0.22%) (Ranked 248)  
+Progressed: 31,336 (Ranked 124)  
+Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,7 +272,7 @@ Completed: 68 (0.22%) (Ranked 248)
 | 2023-11-18 | 31,196 | 68 |
 | 2023-11-19 | 31,263 | 68 |
 | 2023-11-20 | 31,308 | 68 |
-| 2023-11-21 | 31,335 | 68 |
+| 2023-11-21 | 31,336 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 249)  
 Sum: 2,833 (Ranked 179)  

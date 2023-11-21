@@ -2,13 +2,13 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -11076,10 +11076,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 17174,
       "NumberOfAwardsMax": 6571
+    },
+    {
+      "Time": "2023-11-21T17:58:01.8617146+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 17176,
+      "NumberOfAwardsMax": 6571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17174,
+  "NumberOfAwards": 17176,
   "NumberOfAwardsMax": 6571,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11153,7 +11159,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 623
+      "Count": 625
     },
     {
       "Text": "This game has a Creative Community",
@@ -11179,8 +11185,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-11-21T16:58:04.5531417+00:00",
+  "LastChanged": "2023-11-21T17:58:01.8617144+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:07.0244865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:58:04.5531424+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:04:38.8214535+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:58:01.8617151+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:04:43.3481412+00:00"
 }

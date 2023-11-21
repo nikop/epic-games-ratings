@@ -6,9 +6,9 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -179,11 +179,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7294,
-  "EOS_Completed": 16,
-  "EOS_NewPlayers": 3862,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Progressed": 7313,
+  "EOS_Completed": 17,
+  "EOS_NewPlayers": 3828,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -1554,6 +1554,11 @@
       "Time": "2023-11-21T17:05:55.6779585+00:00",
       "NumProgressed": 7294,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-21T18:06:07.3175744+00:00",
+      "NumProgressed": 7313,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -1566,7 +1571,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -1574,7 +1579,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -1582,7 +1587,7 @@
       "Name": "Good Listener",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -1598,7 +1603,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -1606,15 +1611,15 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
       "SetID": "24fdn9j",
       "Name": "Rescuer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 802
+      "UsersEstimate": 878
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -1622,7 +1627,7 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -1630,7 +1635,7 @@
       "Name": "Locksmith",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -1645,16 +1650,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 7294,
-      "Completed": 16
+      "Progressed": 7313,
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-20T09:58:43.7554605+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:05:55.6779582+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:06:07.3175739+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7592471+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:58:53.7475061+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:05:55.6779754+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:58:57.771508+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:06:07.3175889+00:00"
 }

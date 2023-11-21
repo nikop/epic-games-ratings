@@ -23,8 +23,8 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 26.00% | ~88 |
 | Traveller | 25.00% | ~85 |
 | Nahua Seeker | 24.00% | ~81 |
-| Roll to Save | 22.00% | ~75 |
-| Veteran Explorer | 21.00% | ~71 |
+| Roll to Save | 23.00% | ~78 |
+| Veteran Explorer | 22.00% | ~75 |
 | Red Flag Pirate | 19.00% | ~64 |
 | Iron Man | 17.00% | ~58 |
 | Shortening of the Way | 17.00% | ~58 |
@@ -35,9 +35,9 @@ Number of Ratings: 20  (23.09.2022)
 | Dapper | 15.00% | ~51 |
 | The New Director | 14.00% | ~47 |
 | The Director is Dead | 14.00% | ~47 |
+| And Here Is Your Statue | 14.00% | ~47 |
 | Discovery | 14.00% | ~47 |
 | Plays Well With Others | 14.00% | ~47 |
-| And Here Is Your Statue | 13.00% | ~44 |
 | Very Classy | 12.00% | ~41 |
 | Under the Table | 11.00% | ~37 |
 | It's Complicated | 10.00% | ~34 |

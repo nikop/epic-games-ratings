@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1348,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4066,9 +4066,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 971
     },
     {
       "ID": "achievement_22",
@@ -4410,9 +4410,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_61",
@@ -4706,9 +4706,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_95",
@@ -4738,9 +4738,9 @@
       "ID": "achievement_98",
       "SetID": "d252ncf",
       "Name": "Master and Commander",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_99",
@@ -4766,8 +4766,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-21T17:08:37.8842987+00:00",
+  "LastChanged_Achievements": "2023-11-21T18:08:04.9715981+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T17:03:08.896321+00:00",
-  "LastUpdate_Achievements": "2023-11-21T17:08:37.8844663+00:00"
+  "LastUpdate_Ratings": "2023-11-21T18:02:55.5515375+00:00",
+  "LastUpdate_Achievements": "2023-11-21T18:08:04.9717586+00:00"
 }
