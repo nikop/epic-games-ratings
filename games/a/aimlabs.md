@@ -4,8 +4,8 @@
 Rating: 4.61 (Ranked 384)  
 ## Awards
 Max (Great for Quick Sessions): 57  (Ranked 418)  
-Sum: 342 (Ranked 356)  
-Diff (max vs sum): 62  
+Sum: 343 (Ranked 354)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 57 |
@@ -15,8 +15,8 @@ Diff (max vs sum): 62
 | This game is Educational | 38 |
 | This game has Quickly Understood Controls | 33 |
 | This game is Highly Recommended | 31 |
+| This game has a Competitive Community | 27 |
 | This game has Amazing Storytelling | 27 |
-| This game has a Competitive Community | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -143,4 +143,4 @@ Diff (max vs sum): 62
 | 2023-11-18 | 4.62 | 54 | 293 |
 | 2023-11-19 | 4.62 | 54 | 336 |
 | 2023-11-20 | 4.61 | 57 | 340 |
-| 2023-11-21 | 4.61 | 57 | 342 |
+| 2023-11-21 | 4.61 | 57 | 343 |

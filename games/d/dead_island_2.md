@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 525)  
+Rating: 4.54 (Ranked 526)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,15 +22,15 @@ Rating: 4.54 (Ranked 525)
 | Welcome To Hell-A | 1.00% | ~7,218 |
 | Anger Management | 0.90% | ~6,496 |
 | But Doctor, I am Butcho | 0.90% | ~6,496 |
+| Can't Handle the Truth | 0.90% | ~6,496 |
 | This is My Weapon | 0.90% | ~6,496 |
-| Slayer Squad | 0.80% | ~5,774 |
-| Can't Handle the Truth | 0.80% | ~5,774 |
-| Like Riding a Bike | 0.80% | ~5,774 |
-| Zombologist | 0.80% | ~5,774 |
-| Ooh, Shiny! | 0.80% | ~5,774 |
-| A Patton Emerges | 0.80% | ~5,774 |
-| Our True Nature | 0.80% | ~5,774 |
-| Perks of the Job | 0.70% | ~5,053 |
+| Perks of the Job | 0.80% | ~5,775 |
+| Slayer Squad | 0.80% | ~5,775 |
+| Like Riding a Bike | 0.80% | ~5,775 |
+| Zombologist | 0.80% | ~5,775 |
+| Ooh, Shiny! | 0.80% | ~5,775 |
+| A Patton Emerges | 0.80% | ~5,775 |
+| Our True Nature | 0.80% | ~5,775 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,053 |
 | I Am the Resurrection | 0.70% | ~5,053 |
 | Max Headroom | 0.70% | ~5,053 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 525)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,801 (Ranked 21)  
+Progressed: 721,823 (Ranked 21)  
 Completed: 2,422 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,422 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,801 | 2,422 |
+| 2023-11-21 | 721,823 | 2,422 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 50)  
 Sum: 11,619 (Ranked 84)  

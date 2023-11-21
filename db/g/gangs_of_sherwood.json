@@ -2,9 +2,9 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34,6 +34,11 @@
     {
       "Time": "2023-11-21T15:03:33.4249115+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T16:04:02.4654545+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -69,7 +74,7 @@
       "ID": "ACH_100_HEAT",
       "SetID": "5akmpni",
       "Name": "King of the Iron Fist",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -95,7 +100,7 @@
       "Name": "Air Fighter",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -157,7 +162,7 @@
       "ID": "ACH_COMPLETE_ACTS_REGULAR",
       "SetID": "5akmpni",
       "Name": "The Gang prevails",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -165,7 +170,7 @@
       "ID": "ACH_COMPLETE_LEVEL_COOP",
       "SetID": "5akmpni",
       "Name": "Power of Friendship!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -173,7 +178,7 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -181,7 +186,7 @@
       "ID": "ACH_COOP_MISSIONS",
       "SetID": "5akmpni",
       "Name": "Merry Co-operation",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -189,7 +194,7 @@
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -205,7 +210,7 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -213,7 +218,7 @@
       "ID": "ACH_ENEMY_LEDGE_THROW",
       "SetID": "5akmpni",
       "Name": "Out of the ring",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -229,7 +234,7 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -253,7 +258,7 @@
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -269,7 +274,7 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -333,7 +338,7 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -341,7 +346,7 @@
       "ID": "ACH_LONG_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Ultra Rebel Instinct",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -357,7 +362,7 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -389,7 +394,7 @@
       "ID": "ACH_REBEL_ABILITY",
       "SetID": "5akmpni",
       "Name": "Take Action!",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -397,7 +402,7 @@
       "ID": "ACH_REBEL_INSTINCT",
       "SetID": "5akmpni",
       "Name": "Rebel Unleashed",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -413,7 +418,7 @@
       "ID": "ACH_REVIVE_ALLY",
       "SetID": "5akmpni",
       "Name": "First Aid",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -470,13 +475,13 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:03:33.4249111+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:04:02.465454+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:58:24.8708816+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:03:33.4249416+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:58:51.7299005+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:04:02.4654914+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 21,
@@ -6741,9 +6741,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 721801,
+  "EOS_Progressed": 721823,
   "EOS_Completed": 2422,
-  "EOS_NewPlayers": 3464,
+  "EOS_NewPlayers": 3461,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31341,6 +31341,11 @@
       "Time": "2023-11-21T15:03:59.500836+00:00",
       "NumProgressed": 721801,
       "NumCompleted": 2422
+    },
+    {
+      "Time": "2023-11-21T16:04:36.5658103+00:00",
+      "NumProgressed": 721823,
+      "NumCompleted": 2422
     }
   ],
   "TotalAchievements": 51,
@@ -31398,9 +31403,9 @@
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_bookworm",
@@ -31448,7 +31453,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_explorer",
@@ -31462,9 +31467,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 6496
     },
     {
       "ID": "ach_finisher",
@@ -31480,7 +31485,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_good_eyesight",
@@ -31560,7 +31565,7 @@
       "Name": "Zombologist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_legendary",
@@ -31568,7 +31573,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_magnum_opus",
@@ -31584,7 +31589,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_mind_over_monster",
@@ -31664,7 +31669,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -31759,13 +31764,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721801,
+      "Progressed": 721823,
       "Completed": 2422
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47343,
+      "Progressed": 47365,
       "Completed": 36576
     }
   ],
@@ -31773,8 +31778,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-21T02:28:39.6814283+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:03:59.5008355+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:04:36.5658098+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:57:18.785697+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:03:59.5009633+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:57:19.9109971+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:04:36.5659305+00:00"
 }

@@ -830,9 +830,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_09",
@@ -1046,9 +1046,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": -0.5,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_38",
@@ -1069,8 +1069,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:09:15.1789053+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:09:45.2667818+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:00:00.711648+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:09:15.1789294+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:01:05.6824569+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:09:45.2668099+00:00"
 }

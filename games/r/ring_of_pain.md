@@ -8,7 +8,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | Matching | 0.80% | ~12 |
 | First Steps | 0.50% | ~1,200 |
-| Not Touching You | 0.50% | ~7 |
+| Not Touching You | 0.50% | ~8 |
 | Getting A Glimpse | 0.40% | ~960 |
 | A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
@@ -40,8 +40,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.30% | ~720 |
 | Shadow Walker | 0.30% | ~720 |
 | An Offering | 0.30% | ~720 |
-| Expensive Look | 0.30% | ~4 |
-| What Doesn't Kill You | 0.30% | ~4 |
+| Expensive Look | 0.30% | ~5 |
+| What Doesn't Kill You | 0.30% | ~5 |
 | Thank You, Friend | 0.20% | ~480 |
 | Consecutive Curses | 0.20% | ~480 |
 | Shadow Spreads | 0.20% | ~480 |
@@ -134,18 +134,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nudie Run | 0.10% | ~240 |
 | Precious | 0.10% | ~240 |
 | You Call That A Knife? | 0.10% | ~240 |
-| Scrounger Appreciation | 0.10% | ~1 |
-| Explosives Expert | 0.10% | ~1 |
-| All Natural | 0.10% | ~1 |
-| Diviner | 0.10% | ~1 |
-| Soul Kin | 0.10% | ~1 |
-| Multiclass | 0.10% | ~1 |
-| Stalker | 0.10% | ~1 |
-| Brute | 0.10% | ~1 |
-| Nuclear | 0.10% | ~1 |
-| Dominant Twin | 0.10% | ~1 |
+| Scrounger Appreciation | 0.10% | ~2 |
+| Explosives Expert | 0.10% | ~2 |
+| All Natural | 0.10% | ~2 |
+| Diviner | 0.10% | ~2 |
+| Soul Kin | 0.10% | ~2 |
+| Multiclass | 0.10% | ~2 |
+| Stalker | 0.10% | ~2 |
+| Brute | 0.10% | ~2 |
+| Nuclear | 0.10% | ~2 |
+| Dominant Twin | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,018 (Ranked 62)  
+Progressed: 240,021 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 290 (0.12%) (Ranked 274)
 | 2023-11-18 | 239,893 | 288 |
 | 2023-11-19 | 239,946 | 288 |
 | 2023-11-20 | 239,989 | 289 |
-| 2023-11-21 | 240,018 | 290 |
+| 2023-11-21 | 240,021 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,685 (Ranked 83)  

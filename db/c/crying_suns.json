@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471149,
+  "EOS_Progressed": 471150,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23088,6 +23088,11 @@
       "Time": "2023-11-21T15:09:18.2976618+00:00",
       "NumProgressed": 471149,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-21T16:09:49.3219146+00:00",
+      "NumProgressed": 471150,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23163,7 +23168,7 @@
       "Name": "A Rock in the Dark",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4711
+      "UsersEstimate": 4712
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -23171,7 +23176,7 @@
       "Name": "Emperor of Misery",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4711
+      "UsersEstimate": 4712
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -23179,7 +23184,7 @@
       "Name": "A Frozen Lady",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4711
+      "UsersEstimate": 4712
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -23187,7 +23192,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310958
+      "UsersEstimate": 310959
     },
     {
       "ID": "achievement_story_landa",
@@ -23195,7 +23200,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -23203,7 +23208,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -23219,7 +23224,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117787
+      "UsersEstimate": 117788
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -23299,7 +23304,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -23579,7 +23584,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -23595,7 +23600,7 @@
       "Name": "Void Rule",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4711
+      "UsersEstimate": 4712
     },
     {
       "ID": "achievement_win_run_with_scrapper",
@@ -23730,21 +23735,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15083,
+      "Progressed": 15084,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471149,
+      "Progressed": 471150,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:09:18.2976616+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:09:49.3219141+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:57:52.6586013+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:09:18.2978283+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:58:07.7853031+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:09:49.3220655+00:00"
 }

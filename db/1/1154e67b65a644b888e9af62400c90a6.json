@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 636,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 246,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 434,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -827,10 +827,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 1186,
       "NumberOfAwardsMax": 510
+    },
+    {
+      "Time": "2023-11-21T16:00:53.4617602+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 1145,
+      "NumberOfAwardsMax": 510
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1186,
+  "NumberOfAwards": 1145,
   "NumberOfAwardsMax": 510,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -874,13 +880,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 59
+      "Count": 64
     },
     {
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 53
+      "Count": 60
     },
     {
       "Text": "This game is Highly Recommended",
@@ -892,7 +898,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 43
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -919,8 +925,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-21T14:59:52.406341+00:00",
+  "LastChanged": "2023-11-21T16:00:53.46176+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:57.3999056+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:59:52.4063416+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:04:13.5990731+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:00:53.4617606+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:04:55.1252649+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 971,
   "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2194,9 +2194,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 682585,
+  "EOS_Progressed": 682589,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1672,
+  "EOS_NewPlayers": 1666,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26774,6 +26774,11 @@
       "Time": "2023-11-21T15:09:17.0622378+00:00",
       "NumProgressed": 682585,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-21T16:09:47.7503951+00:00",
+      "NumProgressed": 682589,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 54,
@@ -26785,7 +26790,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 539242
+      "UsersEstimate": 539245
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -26865,7 +26870,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27303
+      "UsersEstimate": 27304
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -26873,7 +26878,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 245731
+      "UsersEstimate": 245732
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -27025,7 +27030,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 211601
+      "UsersEstimate": 211603
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -27105,7 +27110,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27303
+      "UsersEstimate": 27304
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -27185,7 +27190,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 122865
+      "UsersEstimate": 122866
     },
     {
       "ID": "RP_TRUSTED",
@@ -27209,22 +27214,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27303
+      "UsersEstimate": 27304
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 682585,
+      "Progressed": 682589,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-20T05:58:30.267487+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:09:17.0622374+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:09:47.7503943+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:30.7927329+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:59:13.0702184+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:09:17.0624066+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:59:59.6159224+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:09:47.7505146+00:00"
 }

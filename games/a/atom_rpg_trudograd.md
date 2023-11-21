@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.54 (Ranked 525)  
+Rating: 4.55 (Ranked 505)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -230,3 +230,4 @@ Diff (max vs sum): -6
 | 2023-08-16 | 4.53 | 24 | 24 |
 | 2023-08-27 | 4.53 | 25 | 25 |
 | 2023-10-19 | 4.54 | 25 | 25 |
+| 2023-11-21 | 4.55 | 25 | 25 |

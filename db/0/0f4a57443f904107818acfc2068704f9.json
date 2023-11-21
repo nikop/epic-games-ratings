@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -752,6 +752,11 @@
       "Time": "2023-11-21T14:03:59.8715824+00:00",
       "NumProgressed": 311,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T16:04:52.4075127+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -778,9 +783,9 @@
       "ID": "Capture100VictoryPoints",
       "SetID": "52ail55",
       "Name": "Chosen Victor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -820,7 +825,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "CompleteChapter10",
@@ -938,9 +943,9 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "CompleteChapter7",
@@ -1010,9 +1015,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1034,9 +1039,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1059,14 +1064,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:04:11.5019866+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:04:52.4075122+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:00:17.7184711+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:04:11.5020076+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:01:30.3461224+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:04:52.4075389+00:00"
 }

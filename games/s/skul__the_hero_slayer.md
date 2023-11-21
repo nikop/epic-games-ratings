@@ -11,7 +11,7 @@ Number of Ratings: 546  (23.09.2022)
 | Rescued Elder Ent | 64.00% | ~5,320 |
 | Focus! | 63.00% | ~5,237 |
 | The End of the Gold Mane Knights | 49.00% | ~4,073 |
-| False Goddess, Disappear | 41.00% | ~3,408 |
+| False Goddess, Disappear | 42.00% | ~3,491 |
 | Rules of Etiquette | 41.00% | ~3,408 |
 | Quick Movements | 35.00% | ~2,909 |
 | Inventory Management | 35.00% | ~2,909 |
@@ -227,13 +227,13 @@ Completed: 15 (0.18%) (Ranked 260)
 | 2023-11-20 | 8,309 | 14 |
 | 2023-11-21 | 8,312 | 15 |
 ## Awards
-Max (Great for Beginners): 133  (Ranked 327)  
-Sum: 928 (Ranked 270)  
+Max (Great for Beginners): 134  (Ranked 327)  
+Sum: 931 (Ranked 270)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 133 |
-| This game has Diverse Characters | 127 |
+| This game is Great for Beginners | 134 |
+| This game has Diverse Characters | 129 |
 | This game is Highly Recommended | 114 |
 | This game is Extremely Fun | 109 |
 | This game is Relaxing | 108 |
@@ -383,3 +383,4 @@ Diff (max vs sum): 57
 | 2023-11-11 | 4.72 | - | 131 | 923 |
 | 2023-11-18 | 4.72 | - | 132 | 926 |
 | 2023-11-20 | 4.72 | - | 133 | 928 |
+| 2023-11-21 | 4.72 | - | 134 | 931 |

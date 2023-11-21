@@ -4,7 +4,7 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -109,6 +109,11 @@
       "Time": "2023-11-18T05:04:45.5187523+00:00",
       "NumProgressed": 329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T16:07:29.81673+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -126,9 +131,9 @@
       "ID": "ADULTHOOD_REACHED",
       "SetID": "b6f796g",
       "Name": "On The Right Path",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "ALL_PLANES _UNLOCKED",
@@ -160,7 +165,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -184,7 +189,7 @@
       "Name": "Change of Heart",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "CHILDHOOD_REACHED",
@@ -192,7 +197,7 @@
       "Name": "Wonderful World",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "COLLECT_MATTER_10000",
@@ -216,15 +221,15 @@
       "Name": "Road to Improvement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "FULL_IMPROVEMENTS",
       "SetID": "b6f796g",
       "Name": "Best Self",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "IN_LOVE",
@@ -320,7 +325,7 @@
       "Name": "Spring Air",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SURVIVOR",
@@ -342,9 +347,9 @@
       "ID": "WILL_CHAIN_3",
       "SetID": "b6f796g",
       "Name": "Chain of Events",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "YOUNG_ADULTHOOD_REACHED",
@@ -367,7 +372,7 @@
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 0
     }
   ],
@@ -375,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:06:12.1380059+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:07:29.8167295+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.4065509+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:57:18.5413321+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:06:12.1380249+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:57:19.7276299+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:07:29.8167494+00:00"
 }

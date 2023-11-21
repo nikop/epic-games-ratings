@@ -566,12 +566,12 @@ Completed: 5 (0.03%) (Ranked 319)
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,410 | 5 |
 ## Awards
-Max (Relaxing): 226  (Ranked 274)  
-Sum: 1,872 (Ranked 218)  
+Max (Relaxing): 227  (Ranked 274)  
+Sum: 1,873 (Ranked 218)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 226 |
+| This game is Relaxing | 227 |
 | This game has Diverse Characters | 219 |
 | This game is Highly Recommended | 218 |
 | This game is Extremely Fun | 214 |
@@ -747,3 +747,4 @@ Diff (max vs sum): 56
 | 2023-11-05 | 4.65 | - | 226 | 1,868 |
 | 2023-11-07 | 4.65 | - | 226 | 1,869 |
 | 2023-11-09 | 4.65 | - | 226 | 1,872 |
+| 2023-11-21 | 4.65 | - | 227 | 1,873 |

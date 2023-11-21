@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,040 |
-| Basic in Bulk | 5.00% | ~7,040 |
-| Titan's First Steps | 5.00% | ~7,040 |
+| Sponsored by Argon | 5.00% | ~7,041 |
+| Basic in Bulk | 5.00% | ~7,041 |
+| Titan's First Steps | 5.00% | ~7,041 |
 | Tinkle of Coins | 4.00% | ~5,632 |
 | One Easy Payment | 3.00% | ~4,224 |
 | Some Assembly Required | 3.00% | ~4,224 |
@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 1.00% | ~1,408 |
 | For the Hoard! | 1.00% | ~1,408 |
 | Blank Page Syndrome | 1.00% | ~1,408 |
+| Scrapbooker | 1.00% | ~1,408 |
 | Power of Love | 1.00% | ~1,408 |
 | Efficient Floor Space | 1.00% | ~1,408 |
 | Flawless Fusion | 1.00% | ~1,408 |
@@ -53,7 +54,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Notch Above the Rest | 0.90% | ~1,267 |
 | The King's Caprice | 0.90% | ~1,267 |
 | Big Game Hunting | 0.90% | ~1,267 |
-| Scrapbooker | 0.90% | ~1,267 |
 | Locally Sourced | 0.90% | ~1,267 |
 | Flying off the Shelves | 0.90% | ~1,267 |
 | This Power Level...! | 0.90% | ~1,267 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,800 (Ranked 80)  
+Progressed: 140,812 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 188 (0.13%) (Ranked 268)
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
-| 2023-11-21 | 140,800 | 188 |
+| 2023-11-21 | 140,812 | 188 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,572 (Ranked 50)  

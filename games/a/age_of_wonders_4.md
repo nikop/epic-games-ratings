@@ -25,10 +25,10 @@ Rating: 4.61 (Ranked 384)
 | Spoils of War | 1.00% | ~54 |
 | Intimidation Tactics | 0.90% | ~49 |
 | Seal the Deal | 0.90% | ~49 |
+| Enchanted Archipelago | 0.80% | ~43 |
 | Here be Dragons | 0.80% | ~43 |
 | Tipping the Scales | 0.80% | ~43 |
 | Dawn of the Dread | 0.80% | ~43 |
-| Enchanted Archipelago | 0.70% | ~38 |
 | Digging for Treasure | 0.70% | ~38 |
 | My Final Form | 0.70% | ~38 |
 | Fiery Friend | 0.70% | ~38 |

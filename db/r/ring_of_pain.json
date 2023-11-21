@@ -3436,9 +3436,9 @@
       "Count": 745
     }
   ],
-  "EOS_Progressed": 240018,
+  "EOS_Progressed": 240021,
   "EOS_Completed": 290,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25736,6 +25736,11 @@
       "Time": "2023-11-21T15:09:19.4001734+00:00",
       "NumProgressed": 240018,
       "NumCompleted": 290
+    },
+    {
+      "Time": "2023-11-21T16:09:50.4978428+00:00",
+      "NumProgressed": 240021,
+      "NumCompleted": 290
     }
   ],
   "TotalAchievements": 138,
@@ -26723,7 +26728,7 @@
       "Name": "Scrounger Appreciation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHGAMELOWCHANCESTATS",
@@ -26739,7 +26744,7 @@
       "Name": "Explosives Expert",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHGAMENOSTATS",
@@ -26747,7 +26752,7 @@
       "Name": "All Natural",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHRUNALLCLERIC",
@@ -26755,7 +26760,7 @@
       "Name": "Diviner",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -26763,7 +26768,7 @@
       "Name": "Soul Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHRUNALLONLYEQUIPMULTICLASS",
@@ -26771,7 +26776,7 @@
       "Name": "Multiclass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHRUNALLROGUE",
@@ -26779,7 +26784,7 @@
       "Name": "Stalker",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISHRUNALLWARRIOR",
@@ -26787,7 +26792,7 @@
       "Name": "Brute",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KILLALLCREATURESINONETURN",
@@ -26795,7 +26800,7 @@
       "Name": "Nuclear",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -26803,7 +26808,7 @@
       "Name": "Not Touching You",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -26819,7 +26824,7 @@
       "Name": "Dominant Twin",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
@@ -26827,7 +26832,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -26835,7 +26840,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -26850,13 +26855,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 240018,
+      "Progressed": 240021,
       "Completed": 290
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1498,
+      "Progressed": 1501,
       "Completed": 384
     }
   ],
@@ -26864,8 +26869,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-20T13:59:45.1421719+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:09:19.400173+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:09:50.4978423+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:03.3970139+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:00:06.0529244+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:09:19.4004038+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:01:13.6424303+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:09:50.4980711+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205750,
+  "EOS_Progressed": 205751,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -23404,6 +23404,11 @@
       "Time": "2023-11-21T15:03:10.0345941+00:00",
       "NumProgressed": 205750,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-11-21T16:03:31.604413+00:00",
+      "NumProgressed": 205751,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 29,
@@ -23439,7 +23444,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 193405
+      "UsersEstimate": 193406
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -23463,7 +23468,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -23487,7 +23492,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -23583,7 +23588,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -23591,7 +23596,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -23646,7 +23651,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205750,
+      "Progressed": 205751,
       "Completed": 530
     }
   ],
@@ -23654,8 +23659,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-21T01:49:33.7358829+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:03:10.0345937+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:03:31.6044126+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:23.3132898+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:58:43.4901488+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:03:10.0347423+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:59:16.4726759+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:03:31.60453+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Air Fighter | 100.00% | ~3 |
-| Act of Kindness | 100.00% | ~3 |
-| Oo-De-Lally | 67.00% | ~2 |
-| Merry Co-operation | 67.00% | ~2 |
-| Treasure Hunter | 67.00% | ~2 |
-| Right between the eyes | 67.00% | ~2 |
-| The Altruist | 67.00% | ~2 |
-| Take Action! | 67.00% | ~2 |
-| King of the Iron Fist | 33.00% | ~1 |
-| The Gang prevails | 33.00% | ~1 |
-| Power of Friendship! | 33.00% | ~1 |
-| Savior | 33.00% | ~1 |
-| Watch your Step! | 33.00% | ~1 |
-| Out of the ring | 33.00% | ~1 |
-| Spring Board | 33.00% | ~1 |
-| Ultra Rebel Instinct | 33.00% | ~1 |
-| Rebel Unleashed | 33.00% | ~1 |
-| First Aid | 33.00% | ~1 |
+| Air Fighter | 100.00% | ~4 |
+| Act of Kindness | 75.00% | ~3 |
+| Oo-De-Lally | 50.00% | ~2 |
+| Merry Co-operation | 50.00% | ~2 |
+| Treasure Hunter | 50.00% | ~2 |
+| Right between the eyes | 50.00% | ~2 |
+| The Altruist | 50.00% | ~2 |
+| Take Action! | 50.00% | ~2 |
+| King of the Iron Fist | 25.00% | ~1 |
+| The Gang prevails | 25.00% | ~1 |
+| Power of Friendship! | 25.00% | ~1 |
+| Savior | 25.00% | ~1 |
+| Watch your Step! | 25.00% | ~1 |
+| Out of the ring | 25.00% | ~1 |
+| Spring Board | 25.00% | ~1 |
+| Ultra Rebel Instinct | 25.00% | ~1 |
+| Rebel Unleashed | 25.00% | ~1 |
+| First Aid | 25.00% | ~1 |
 | Starry Night | 0.00% | ~0 |
 | Ascending Will | 0.00% | ~0 |
 | Brilliant Executioner | 0.00% | ~0 |
@@ -58,9 +58,9 @@
 | Master of All | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 648)  
+Progressed: 4 (Ranked 638)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-21 | 3 | 0 |
+| 2023-11-21 | 4 | 0 |

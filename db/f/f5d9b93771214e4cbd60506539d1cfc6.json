@@ -2,13 +2,13 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153722,
+  "EOS_Progressed": 153723,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 986,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18918,6 +18918,11 @@
       "Time": "2023-11-21T15:08:06.4680538+00:00",
       "NumProgressed": 153722,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2023-11-21T16:08:14.5337523+00:00",
+      "NumProgressed": 153723,
+      "NumCompleted": 339
     }
   ],
   "TotalAchievements": 31,
@@ -18937,7 +18942,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 107605
+      "UsersEstimate": 107606
     },
     {
       "ID": "EAwards_10",
@@ -19041,7 +19046,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16909
+      "UsersEstimate": 16910
     },
     {
       "ID": "EAwards_22",
@@ -19145,7 +19150,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38430
+      "UsersEstimate": 38431
     },
     {
       "ID": "EAwards_7",
@@ -19161,7 +19166,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 58414
+      "UsersEstimate": 58415
     },
     {
       "ID": "EAwards_9",
@@ -19176,7 +19181,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 153722,
+      "Progressed": 153723,
       "Completed": 339
     }
   ],
@@ -19184,8 +19189,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-21T15:08:06.4680534+00:00",
+  "LastChanged_Achievements": "2023-11-21T16:08:14.5337519+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:52.4824712+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:59:52.5031337+00:00",
-  "LastUpdate_Achievements": "2023-11-21T15:08:06.4681451+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:00:53.4616883+00:00",
+  "LastUpdate_Achievements": "2023-11-21T16:08:14.5338494+00:00"
 }
