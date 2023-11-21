@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6859,10 +6859,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4426,
       "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-11-21T05:01:34.8379003+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4427,
+      "NumberOfAwardsMax": 573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4426,
+  "NumberOfAwards": 4427,
   "NumberOfAwardsMax": 573,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6918,7 +6924,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 431
+      "Count": 432
     },
     {
       "Text": "This game has a Creative Community",
@@ -6933,9 +6939,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 195951,
+  "EOS_Progressed": 195964,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2203,
+  "EOS_NewPlayers": 2209,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31398,6 +31404,11 @@
       "Time": "2023-11-21T04:08:32.0704437+00:00",
       "NumProgressed": 195951,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-21T05:09:34.4819134+00:00",
+      "NumProgressed": 195964,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 16,
@@ -31441,7 +31452,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 31352
+      "UsersEstimate": 31354
     },
     {
       "ID": "Achievement_13",
@@ -31489,7 +31500,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48988
+      "UsersEstimate": 48991
     },
     {
       "ID": "Achievement_5",
@@ -31521,7 +31532,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17636
+      "UsersEstimate": 17637
     },
     {
       "ID": "Achievement_9",
@@ -31536,15 +31547,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 195951,
+      "Progressed": 195964,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-20T23:00:28.1880013+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:08:32.0704431+00:00",
+  "LastChanged": "2023-11-21T05:01:34.8379001+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:09:34.4819131+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:32.1139212+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:59:55.1946489+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:08:32.0705703+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:01:34.8379008+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:09:34.4820486+00:00"
 }

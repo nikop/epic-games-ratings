@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15384,10 +15384,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 358439,
       "NumberOfAwardsMax": 106367
+    },
+    {
+      "Time": "2023-11-21T05:01:14.0492067+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 358489,
+      "NumberOfAwardsMax": 106367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358439,
+  "NumberOfAwards": 358489,
   "NumberOfAwardsMax": 106367,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15419,7 +15425,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20251
+      "Count": 20301
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15464,7 +15470,7 @@
       "Count": 13257
     }
   ],
-  "EOS_Progressed": 897548,
+  "EOS_Progressed": 897552,
   "EOS_Completed": 2794,
   "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 18,
@@ -39804,6 +39810,11 @@
       "Time": "2023-11-21T04:04:12.3666786+00:00",
       "NumProgressed": 897548,
       "NumCompleted": 2794
+    },
+    {
+      "Time": "2023-11-21T05:05:13.5104309+00:00",
+      "NumProgressed": 897552,
+      "NumCompleted": 2794
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39840,7 +39851,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8975
+      "UsersEstimate": 8976
     },
     {
       "ID": "Denied",
@@ -39934,9 +39945,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4488
+      "UsersEstimate": 5385
     },
     {
       "ID": "MaxPain",
@@ -40351,21 +40362,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897548,
+      "Progressed": 897552,
       "Completed": 2794
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26171,
+      "Progressed": 26175,
       "Completed": 10239
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-20T19:00:50.6034105+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:04:12.3666781+00:00",
+  "LastChanged": "2023-11-21T05:01:14.0492065+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:05:13.5104305+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:59:41.1350992+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:04:12.3668774+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:01:14.0492071+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:05:13.5105544+00:00"
 }

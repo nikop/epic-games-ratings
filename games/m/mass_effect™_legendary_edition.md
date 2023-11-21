@@ -39,7 +39,7 @@
 | The Archangel | 36.00% | ~484 |
 | Power Full | 36.00% | ~484 |
 | The Convict | 35.00% | ~471 |
-| Colony Defense | 33.00% | ~444 |
+| Colony Defense | 34.00% | ~457 |
 | The Krogan | 33.00% | ~444 |
 | Ghost Ship | 32.00% | ~430 |
 | The Quarian | 32.00% | ~430 |
@@ -61,13 +61,13 @@
 | Heart of Darkness | 30.00% | ~404 |
 | Archivist | 29.00% | ~390 |
 | Fade Away | 29.00% | ~390 |
+| Agent | 29.00% | ~390 |
 | Bringer of War | 29.00% | ~390 |
 | Focused | 28.00% | ~377 |
 | Friend or Foe | 28.00% | ~377 |
 | Cat's in the Cradle | 28.00% | ~377 |
 | Doppelganger | 28.00% | ~377 |
 | Treason | 28.00% | ~377 |
-| Agent | 28.00% | ~377 |
 | Digital Exorcist | 28.00% | ~377 |
 | Mobilizer | 28.00% | ~377 |
 | Mission Accomplished | 27.00% | ~363 |

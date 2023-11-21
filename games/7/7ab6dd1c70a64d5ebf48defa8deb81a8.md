@@ -41,7 +41,7 @@
 | Feeling Fancy | -0.50% | ~-1 |
 | A Queen's Tale | -0.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 383)  
+Progressed: 196 (Ranked 383)  
 Completed: 1 (0.51%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 1 (0.51%) (Ranked 200)
 | 2023-11-17 | 189 | 1 |
 | 2023-11-18 | 193 | 1 |
 | 2023-11-19 | 195 | 1 |
+| 2023-11-21 | 196 | 1 |

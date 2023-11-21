@@ -1574,9 +1574,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1622,9 +1622,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1814,9 +1814,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
@@ -1831,8 +1831,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-11-17T17:00:24.0955126+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:03:31.7514844+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:04:18.0790758+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:36.3361898+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:57:59.7822897+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:03:31.7515117+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:58:41.9719029+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:04:18.0791002+00:00"
 }

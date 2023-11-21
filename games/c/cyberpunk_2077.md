@@ -8,13 +8,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 4.00% | ~35,902 |
 | Gun Fu | 2.00% | ~17,951 |
-| Full Body Conversion | 1.00% | ~8,975 |
+| Full Body Conversion | 1.00% | ~8,976 |
 | Relic Ruler | 1.00% | ~262 |
 | True Soldier | 0.90% | ~8,078 |
 | Right Back At Ya | 0.80% | ~7,180 |
 | Stanislavski's Method | 0.80% | ~7,180 |
 | All the President's Men | 0.80% | ~209 |
 | Arachnophobia | 0.80% | ~209 |
+| Christmas Tree Attack | 0.60% | ~5,385 |
 | The Quick and the Dead | 0.60% | ~5,385 |
 | Life of the Road | 0.60% | ~5,385 |
 | The Hermit | 0.60% | ~5,385 |
@@ -26,7 +27,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Bushido and Chill | 0.50% | ~4,488 |
 | Master Crafter | 0.50% | ~4,488 |
 | I Am The Law | 0.50% | ~4,488 |
-| Christmas Tree Attack | 0.50% | ~4,488 |
 | The Fool | 0.50% | ~4,488 |
 | The High Priestess | 0.50% | ~4,488 |
 | The World | 0.50% | ~4,488 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,548 (Ranked 15)  
+Progressed: 897,552 (Ranked 15)  
 Completed: 2,794 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 2,794 (0.31%) (Ranked 233)
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
 | 2023-11-20 | 897,531 | 2,794 |
-| 2023-11-21 | 897,548 | 2,794 |
+| 2023-11-21 | 897,552 | 2,794 |
 ## Awards
 Max (Character Customization): 106,367  (Ranked 9)  
-Sum: 358,439 (Ranked 10)  
+Sum: 358,489 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 21,693 |
 | This game has Diverse Characters | 21,337 |
 | This game is Highly Recommended | 20,379 |
-| This game has Amazing Storytelling | 20,251 |
+| This game has Amazing Storytelling | 20,301 |
 | This game is Extremely Fun | 20,056 |
 | This game has Amazing Characters | 19,855 |
 | This game is Relaxing | 19,116 |
@@ -616,3 +616,4 @@ Diff (max vs sum): -1
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
 | 2023-11-19 | 4.64 | - | 106,230 | 357,485 |
 | 2023-11-20 | 4.64 | - | 106,367 | 358,439 |
+| 2023-11-21 | 4.64 | - | 106,367 | 358,489 |

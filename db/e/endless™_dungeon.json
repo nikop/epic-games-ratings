@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
       "SetID": "9991201",
       "Name": "Team Builder",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 236
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -2062,8 +2062,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:06:14.003148+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:08:29.9216962+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:59:28.0093872+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:06:14.0031727+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:00:53.3624449+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:08:29.9217191+00:00"
 }

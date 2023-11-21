@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78865,
+  "EOS_Progressed": 78866,
   "EOS_Completed": 850,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24097,6 +24097,11 @@
       "Time": "2023-11-21T03:04:45.7268303+00:00",
       "NumProgressed": 78865,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-21T05:05:55.965757+00:00",
+      "NumProgressed": 78866,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24140,7 +24145,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17350
+      "UsersEstimate": 17351
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -24228,7 +24233,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14984
+      "UsersEstimate": 14985
     },
     {
       "ID": "Nice Try",
@@ -24236,7 +24241,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12618
+      "UsersEstimate": 12619
     },
     {
       "ID": "Nothing Left to Say",
@@ -24260,7 +24265,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10252
+      "UsersEstimate": 10253
     },
     {
       "ID": "Sniper",
@@ -24307,7 +24312,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78865,
+      "Progressed": 78866,
       "Completed": 850
     }
   ],
@@ -24315,8 +24320,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:04:43.8109281+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:05:55.9657567+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:59:01.8886798+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:04:43.8110646+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:00:13.3596131+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:05:55.9658855+00:00"
 }

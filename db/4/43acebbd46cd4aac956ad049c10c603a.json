@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1076,9 +1076,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "GnothiSeauton",
@@ -1429,8 +1429,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:03:00.713654+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:03:35.655369+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:58:18.1833901+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:03:00.7137314+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:59:09.3675493+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:03:35.655432+00:00"
 }

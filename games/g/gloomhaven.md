@@ -23,7 +23,7 @@ Number of Ratings: 68  (23.09.2022)
 | Augmented rat | 11.00% | ~2,424 |
 | Doom and gloom | 11.00% | ~2,424 |
 | Who's the Boss? | 10.00% | ~2,204 |
-| Dungeon Veteran | 8.00% | ~1,763 |
+| Dungeon Veteran | 9.00% | ~1,983 |
 | Pack leader | 8.00% | ~1,763 |
 | Pain is your friend | 8.00% | ~1,763 |
 | Black death | 8.00% | ~1,763 |

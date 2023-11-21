@@ -8,8 +8,8 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,556 |
 | Un-Lonely Island | 46.00% | ~2,794 |
-| The Beginning of a Servantship | 45.00% | ~2,733 |
-| Trade Is My Trait | 37.00% | ~2,247 |
+| The Beginning of a Servantship | 45.00% | ~2,734 |
+| Trade Is My Trait | 37.00% | ~2,248 |
 | Number 18 | 24.00% | ~1,458 |
 | We Don't Have Time For That | 19.00% | ~1,154 |
 | The Governator | 17.00% | ~1,033 |
@@ -18,7 +18,7 @@ Number of Ratings: 398  (23.09.2022)
 | The Dreamer of Dreams | 15.00% | ~911 |
 | Go Sovereigns! | 11.00% | ~668 |
 | For Science! | 11.00% | ~668 |
-| Happy Ending? | 10.00% | ~607 |
+| Happy Ending? | 10.00% | ~608 |
 | Of Seals And Men | 9.00% | ~547 |
 | Shackadelic | 9.00% | ~547 |
 | Double Trouble | 8.00% | ~486 |
@@ -36,18 +36,18 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 3.00% | ~182 |
 | Narcissist | 3.00% | ~182 |
 | The Time For Wonders | 3.00% | ~182 |
-| One Does Not Simply Stage A Coup | 2.00% | ~121 |
-| Promising Endeavors | 2.00% | ~121 |
-| Sublime Subliminal Supreme | 2.00% | ~121 |
-| Terraformer | 2.00% | ~121 |
-| Curse of the Mummy | 2.00% | ~121 |
+| One Does Not Simply Stage A Coup | 2.00% | ~122 |
+| Promising Endeavors | 2.00% | ~122 |
+| Sublime Subliminal Supreme | 2.00% | ~122 |
+| Terraformer | 2.00% | ~122 |
+| Curse of the Mummy | 2.00% | ~122 |
 | Chain Gang | 1.00% | ~61 |
 | From Knight to Little Duck | 1.00% | ~61 |
 | Teamplayer | 1.00% | ~61 |
 | Survivor | 0.80% | ~49 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,074 (Ranked 184)  
+Progressed: 6,075 (Ranked 184)  
 Completed: 2 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2 (0.03%) (Ranked 319)
 | 2023-11-18 | 6,055 | 2 |
 | 2023-11-19 | 6,064 | 2 |
 | 2023-11-20 | 6,073 | 2 |
-| 2023-11-21 | 6,074 | 2 |
+| 2023-11-21 | 6,075 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
 Sum: 730 (Ranked 290)  

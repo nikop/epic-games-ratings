@@ -23,6 +23,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.30% | ~720 |
 | I Am Overburdened | 0.30% | ~720 |
 | Defeat The Dark | 0.30% | ~720 |
+| Destroy Your Fears | 0.30% | ~720 |
 | The Bestiary | 0.30% | ~720 |
 | Goodbye, Frog Friend | 0.30% | ~720 |
 | Heartless | 0.30% | ~720 |
@@ -51,7 +52,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
 | Save Our Souls | 0.20% | ~480 |
-| Destroy Your Fears | 0.20% | ~480 |
 | Don't Ignore Me! | 0.20% | ~480 |
 | All Consuming | 0.20% | ~480 |
 | Stop Hitting Yourself | 0.20% | ~480 |

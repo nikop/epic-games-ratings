@@ -1320,9 +1320,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28829,
+  "EOS_Progressed": 28831,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -24400,6 +24400,11 @@
       "Time": "2023-11-21T04:08:35.0839333+00:00",
       "NumProgressed": 28829,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-21T05:09:38.7135899+00:00",
+      "NumProgressed": 28831,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 22,
@@ -24435,7 +24440,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "1019",
@@ -24451,7 +24456,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "1021",
@@ -24459,7 +24464,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "1022",
@@ -24515,7 +24520,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5189
+      "UsersEstimate": 5190
     },
     {
       "ID": "1029",
@@ -24586,15 +24591,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28829,
+      "Progressed": 28831,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-17T00:02:50.7129923+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:08:35.0839329+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:09:38.7135897+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.9501823+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:02:49.0523758+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:08:35.084058+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:03:17.5115909+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:09:38.7137101+00:00"
 }

@@ -11,8 +11,8 @@
 | Through the woods | 36.00% | ~29 |
 | Fussy eater | 35.00% | ~28 |
 | Kekekeke... | 34.00% | ~27 |
+| Honey, honey, honey… | 33.00% | ~26 |
 | Back to the anvil | 33.00% | ~26 |
-| Honey, honey, honey… | 31.00% | ~25 |
 | So soothing... | 31.00% | ~25 |
 | Roostwig has entered the building | 31.00% | ~25 |
 | Mystery solved | 30.00% | ~24 |
@@ -24,10 +24,10 @@
 | Shattered | 26.00% | ~21 |
 | GG | 26.00% | ~21 |
 | Beekeeper | 26.00% | ~21 |
+| Mischief maker | 26.00% | ~21 |
 | Little genius | 26.00% | ~21 |
 | You've got mail! | 25.00% | ~20 |
 | Pain in the hands | 25.00% | ~20 |
-| Mischief maker | 25.00% | ~20 |
 | No posters allowed | 25.00% | ~20 |
 | Show me your true self | 24.00% | ~19 |
 | Memories | 24.00% | ~19 |
@@ -38,7 +38,7 @@
 | Singstar | 19.00% | ~15 |
 | Makeover | 18.00% | ~14 |
 | Cameodalic | 18.00% | ~14 |
-| Bahahahaha... | 16.00% | ~13 |
+| Bahahahaha... | 18.00% | ~14 |
 | Guilty conscience | 15.00% | ~12 |
 | Clever reference #451 | 13.00% | ~10 |
 | What a mess | 10.00% | ~8 |

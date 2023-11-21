@@ -3,8 +3,8 @@
   "Name": "Ruined King: A League of Legends Story\u2122",
   "ProductSlug": "ruined-king-a-league-of-legends-story",
   "Ranking_Rating": 349,
-  "Ranking_Popularity": 296,
-  "Ranking_PopularitySum": 407,
+  "Ranking_Popularity": 294,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 432,
@@ -543,18 +543,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2023-11-21T04:58:17.8384099+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 187,
+      "NumberOfAwardsMax": 187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 186,
-  "NumberOfAwardsMax": 186,
+  "NumberOfAwards": 187,
+  "NumberOfAwardsMax": 187,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 186
+      "Count": 187
     }
   ],
   "EOS_Progressed": 0,
@@ -568,8 +574,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
-  "LastChanged": "2023-11-11T23:58:16.9760778+00:00",
+  "LastChanged": "2023-11-21T04:58:17.8384097+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:39.3896546+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:57:41.8230276+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:05:54.348208+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:58:17.8384102+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:07:33.206957+00:00"
 }

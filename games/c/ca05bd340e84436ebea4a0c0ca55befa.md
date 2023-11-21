@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,090 |
+| Fire safety | 56.00% | ~9,091 |
 | First fall | 36.00% | ~5,844 |
 | Don't play with fire, kids | 27.00% | ~4,383 |
 | First steps | 27.00% | ~4,383 |
@@ -73,7 +73,7 @@ Rating: 4.19 (Ranked 923)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,233 (Ranked 149)  
+Progressed: 16,234 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 14,127 | 0 |
 | 2023-11-19 | 15,706 | 0 |
 | 2023-11-20 | 16,231 | 0 |
-| 2023-11-21 | 16,233 | 0 |
+| 2023-11-21 | 16,234 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

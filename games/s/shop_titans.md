@@ -6,17 +6,17 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,037 |
-| Basic in Bulk | 5.00% | ~7,037 |
-| Titan's First Steps | 5.00% | ~7,037 |
+| Sponsored by Argon | 5.00% | ~7,038 |
+| Basic in Bulk | 5.00% | ~7,038 |
+| Titan's First Steps | 5.00% | ~7,038 |
 | Tinkle of Coins | 4.00% | ~5,630 |
-| One Easy Payment | 3.00% | ~4,222 |
-| Disintermediation | 3.00% | ~4,222 |
-| Another Satisfied Customer | 3.00% | ~4,222 |
-| It's Free Real Estate | 3.00% | ~4,222 |
-| Budding Merchant | 3.00% | ~4,222 |
-| Capitalism Ho! | 3.00% | ~4,222 |
-| Own the Means of Production | 3.00% | ~4,222 |
+| One Easy Payment | 3.00% | ~4,223 |
+| Disintermediation | 3.00% | ~4,223 |
+| Another Satisfied Customer | 3.00% | ~4,223 |
+| It's Free Real Estate | 3.00% | ~4,223 |
+| Budding Merchant | 3.00% | ~4,223 |
+| Capitalism Ho! | 3.00% | ~4,223 |
+| Own the Means of Production | 3.00% | ~4,223 |
 | The Daily Grind | 2.00% | ~2,815 |
 | Some Assembly Required | 2.00% | ~2,815 |
 | Bounty Hunters | 2.00% | ~2,815 |
@@ -28,27 +28,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 2.00% | ~2,815 |
 | Dungeon Imports | 2.00% | ~2,815 |
 | Through Repetition, Perfection | 2.00% | ~2,815 |
-| On the Path to Greatness | 1.00% | ~1,407 |
-| Ascended | 1.00% | ~1,407 |
-| Tax not Included | 1.00% | ~1,407 |
-| Research & Development | 1.00% | ~1,407 |
-| Vanity, Verily | 1.00% | ~1,407 |
-| Fated Encounters | 1.00% | ~1,407 |
-| For the Hoard! | 1.00% | ~1,407 |
-| Blank Page Syndrome | 1.00% | ~1,407 |
-| Power of Love | 1.00% | ~1,407 |
-| Efficient Floor Space | 1.00% | ~1,407 |
-| Flawless Fusion | 1.00% | ~1,407 |
-| Trash to Treasure | 1.00% | ~1,407 |
-| Gem Expert | 1.00% | ~1,407 |
-| Royal Ransom | 1.00% | ~1,407 |
-| Helping Hand | 1.00% | ~1,407 |
-| Accomplished Merchant | 1.00% | ~1,407 |
-| Natural 20 | 1.00% | ~1,407 |
-| Did we pack lunch? | 1.00% | ~1,407 |
-| Magical Harmony | 1.00% | ~1,407 |
-| Special Ingredient | 1.00% | ~1,407 |
-| Arcane Industries | 1.00% | ~1,407 |
+| On the Path to Greatness | 1.00% | ~1,408 |
+| Ascended | 1.00% | ~1,408 |
+| Tax not Included | 1.00% | ~1,408 |
+| Research & Development | 1.00% | ~1,408 |
+| Vanity, Verily | 1.00% | ~1,408 |
+| Fated Encounters | 1.00% | ~1,408 |
+| For the Hoard! | 1.00% | ~1,408 |
+| Blank Page Syndrome | 1.00% | ~1,408 |
+| Power of Love | 1.00% | ~1,408 |
+| Efficient Floor Space | 1.00% | ~1,408 |
+| Flawless Fusion | 1.00% | ~1,408 |
+| Trash to Treasure | 1.00% | ~1,408 |
+| Gem Expert | 1.00% | ~1,408 |
+| Royal Ransom | 1.00% | ~1,408 |
+| Helping Hand | 1.00% | ~1,408 |
+| Accomplished Merchant | 1.00% | ~1,408 |
+| Natural 20 | 1.00% | ~1,408 |
+| Did we pack lunch? | 1.00% | ~1,408 |
+| Magical Harmony | 1.00% | ~1,408 |
+| Special Ingredient | 1.00% | ~1,408 |
+| Arcane Industries | 1.00% | ~1,408 |
 | A Notch Above the Rest | 0.90% | ~1,267 |
 | The King's Caprice | 0.90% | ~1,267 |
 | Big Game Hunting | 0.90% | ~1,267 |
@@ -100,7 +100,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Precision Engineering | 0.70% | ~985 |
 | King's Shadow | 0.70% | ~985 |
 | Economy of Scarce | 0.70% | ~985 |
-| Jackpot! | 0.60% | ~844 |
+| Jackpot! | 0.60% | ~845 |
 | The Free Encyclopedia | 0.50% | ~704 |
 | Thank You Tom Nook | 0.50% | ~704 |
 | Eternal Crusade | 0.50% | ~704 |
@@ -111,15 +111,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Anything not Nailed Down | 0.30% | ~422 |
 | The Greatest Grind | 0.30% | ~422 |
 | Marvels from the World Over | 0.30% | ~422 |
-| Bane of Legends | 0.20% | ~281 |
-| Ultimate Collector | 0.20% | ~281 |
-| Oligarch Monarch | 0.20% | ~281 |
-| Merchant Extraordinaire | 0.20% | ~281 |
-| To Hell and Back | 0.20% | ~281 |
-| Cash Only Please | 0.20% | ~281 |
+| Bane of Legends | 0.20% | ~282 |
+| Ultimate Collector | 0.20% | ~282 |
+| Oligarch Monarch | 0.20% | ~282 |
+| Merchant Extraordinaire | 0.20% | ~282 |
+| To Hell and Back | 0.20% | ~282 |
+| Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,749 (Ranked 80)  
+Progressed: 140,754 (Ranked 80)  
 Completed: 188 (0.13%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 188 (0.13%) (Ranked 268)
 | 2023-11-18 | 140,491 | 187 |
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
-| 2023-11-21 | 140,749 | 188 |
+| 2023-11-21 | 140,754 | 188 |
 ## Awards
 Max (Great for Beginners): 4,836  (Ranked 74)  
 Sum: 27,570 (Ranked 50)  

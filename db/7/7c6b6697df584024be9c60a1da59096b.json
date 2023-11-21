@@ -308,17 +308,17 @@
       "ID": "5_DIFFERENT_BEERS",
       "SetID": "6akbe6n",
       "Name": "Beer Snob",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALARMCLOCK",
       "SetID": "6akbe6n",
       "Name": "True MacGyver",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALL_HINTS_USED",
@@ -348,9 +348,9 @@
       "ID": "CHANGED_CHANNEL",
       "SetID": "6akbe6n",
       "Name": "Social disturber",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GIVE_MILK_TO_CAT",
@@ -388,9 +388,9 @@
       "ID": "MILO_GOES_DOWN",
       "SetID": "6akbe6n",
       "Name": "Domino effect",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MY_FIRST_BEER",
@@ -420,9 +420,9 @@
       "ID": "PICKEDUP_BURRITO",
       "SetID": "6akbe6n",
       "Name": "Trash hunter",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PORN_ON",
@@ -444,9 +444,9 @@
       "ID": "SOBER_10_TIMES",
       "SetID": "6akbe6n",
       "Name": "Hangover Hero",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UNLOCKED_IPHONE",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:03:00.9481355+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:03:35.8861305+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:45.0183019+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:59:48.4344956+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:03:00.9481557+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:01:24.8261691+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:03:35.8861428+00:00"
 }

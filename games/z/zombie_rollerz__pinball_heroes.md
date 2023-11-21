@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 837)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 383)  
+Progressed: 195 (Ranked 384)  
 Completed: 1 (0.51%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

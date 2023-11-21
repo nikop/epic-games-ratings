@@ -41,8 +41,8 @@
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~57 |
 | If Looks Could Kill | 17.00% | ~54 |
 | Stop Tanos! | 16.00% | ~51 |
+| The Finitude Drill | 16.00% | ~51 |
 | Sacrificial Pit = Garbage Disposal? | 15.00% | ~48 |
-| The Finitude Drill | 15.00% | ~48 |
 | Doom Hill | 12.00% | ~38 |
 | Bonus Evilness | 11.00% | ~35 |
 | Sabotage! | 11.00% | ~35 |

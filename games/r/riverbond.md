@@ -6,14 +6,14 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~372,211 |
+| First Step | 70.00% | ~372,212 |
 | Now You're Talking | 62.00% | ~329,673 |
 | Steel Yourself | 62.00% | ~329,673 |
-| Window Dressing | 50.00% | ~265,865 |
+| Window Dressing | 50.00% | ~265,866 |
 | Trigger Happy | 46.00% | ~244,596 |
-| Riverborn | 45.00% | ~239,278 |
-| Starry Eyed | 34.00% | ~180,788 |
-| Poking Around | 34.00% | ~180,788 |
+| Riverborn | 45.00% | ~239,279 |
+| Starry Eyed | 34.00% | ~180,789 |
+| Poking Around | 34.00% | ~180,789 |
 | Talk of the Town | 24.00% | ~127,615 |
 | AAARR! | 23.00% | ~122,298 |
 | Hello Darkness | 23.00% | ~122,298 |
@@ -39,9 +39,9 @@ Number of Ratings: 617  (23.09.2022)
 | Oh, Romeo! | 6.00% | ~31,904 |
 | Dressed to Kill | 6.00% | ~31,904 |
 | Beast Mode | 6.00% | ~31,904 |
-| Noble Intentions | 5.00% | ~26,586 |
-| Rising Star | 5.00% | ~26,586 |
-| Slime Slayer | 5.00% | ~26,586 |
+| Noble Intentions | 5.00% | ~26,587 |
+| Rising Star | 5.00% | ~26,587 |
+| Slime Slayer | 5.00% | ~26,587 |
 | Privacy, Please! | 4.00% | ~21,269 |
 | Silky Smooth | 4.00% | ~21,269 |
 | Hash It Over | 4.00% | ~21,269 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,595 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,730 (Ranked 35)  
+Progressed: 531,731 (Ranked 35)  
 Completed: 500 (0.09%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 500 (0.09%) (Ranked 286)
 | 2023-11-18 | 531,602 | 499 |
 | 2023-11-19 | 531,672 | 500 |
 | 2023-11-20 | 531,722 | 500 |
-| 2023-11-21 | 531,730 | 500 |
+| 2023-11-21 | 531,731 | 500 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  

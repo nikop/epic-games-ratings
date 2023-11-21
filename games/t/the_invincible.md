@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 32.00% | ~60 |
+| The Teleprobe | 28.00% | ~53 |
 | The City | 28.00% | ~53 |
-| The Teleprobe | 27.00% | ~51 |
 | The field base | 27.00% | ~51 |
 | Survivors | 23.00% | ~43 |
 | The Condor | 21.00% | ~40 |
@@ -21,7 +21,7 @@
 | Beyond divisions | 11.00% | ~21 |
 | Fierce fight | 10.00% | ~19 |
 | Evacuation | 10.00% | ~19 |
-| I remember everything! | 8.00% | ~15 |
+| I remember everything! | 9.00% | ~17 |
 | Violent solution | 7.00% | ~13 |
 | Innate curiosity | 6.00% | ~11 |
 | The Invincible | 5.00% | ~9 |

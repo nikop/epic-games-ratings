@@ -11,8 +11,8 @@ Number of Ratings: 892  (23.09.2022)
 | Greeno-B-Gone | 129.00% | ~482 |
 | Your Especially Earned Trajectory | 102.00% | ~381 |
 | No Mountain Wide Enough | 75.00% | ~280 |
+| One of the Cool Kids | 73.00% | ~273 |
 | Yakmel Whisperer | 73.00% | ~273 |
-| One of the Cool Kids | 72.00% | ~269 |
 | Can We Keep It? | 71.00% | ~266 |
 | On that Grindset | 67.00% | ~251 |
 | Pack Mule | 65.00% | ~243 |
@@ -51,9 +51,9 @@ Number of Ratings: 892  (23.09.2022)
 | Time Flies | 30.00% | ~112 |
 | Kind of a Big Deal | 28.00% | ~105 |
 | Santa In Training | 28.00% | ~105 |
+| Just What I Always Wanted! | 28.00% | ~105 |
 | Newton | 28.00% | ~105 |
-| Just What I Always Wanted! | 27.00% | ~101 |
-| Sandrunning Speedster | 26.00% | ~97 |
+| Sandrunning Speedster | 27.00% | ~101 |
 | Do Your Part | 26.00% | ~97 |
 | It Belongs in a Museum! | 26.00% | ~97 |
 | Pro Gamer | 24.00% | ~90 |

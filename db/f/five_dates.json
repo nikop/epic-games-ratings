@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.69,
   "EosHistory": [
@@ -1575,6 +1575,11 @@
       "Time": "2023-11-20T16:10:05.7420987+00:00",
       "NumProgressed": 649,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-21T05:09:43.1249452+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 15,
@@ -1586,7 +1591,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "booty_call",
@@ -1602,7 +1607,7 @@
       "Name": "Crash and Burn",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "digital_casanova",
@@ -1610,7 +1615,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "hold_my_beer",
@@ -1626,7 +1631,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "interrogation",
@@ -1642,7 +1647,7 @@
       "Name": "Light Sleepers",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "not_alone",
@@ -1656,9 +1661,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 240
+      "UsersEstimate": 234
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1705,7 +1710,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 11
     }
   ],
@@ -1713,8 +1718,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-21T04:08:38.3692071+00:00",
+  "LastChanged_Achievements": "2023-11-21T05:09:43.1249449+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:39.9190585+00:00",
-  "LastUpdate_Ratings": "2023-11-21T04:00:15.3728276+00:00",
-  "LastUpdate_Achievements": "2023-11-21T04:08:38.3692244+00:00"
+  "LastUpdate_Ratings": "2023-11-21T05:02:43.9891609+00:00",
+  "LastUpdate_Achievements": "2023-11-21T05:09:43.1249599+00:00"
 }
