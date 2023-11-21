@@ -1981,9 +1981,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_17",
@@ -2075,8 +2075,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:08:34.0496597+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:09:07.6713161+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:07.8610082+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:46.755296+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:08:34.0496804+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:59:12.1190446+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:09:07.6713354+00:00"
 }

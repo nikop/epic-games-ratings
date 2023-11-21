@@ -4,8 +4,8 @@
 Rating: 3.92 (Ranked 1,019)  
 ## Awards
 Max (Highly Recommended): 365  (Ranked 239)  
-Sum: 2,574 (Ranked 190)  
-Diff (max vs sum): 49  
+Sum: 2,580 (Ranked 189)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 365 |
@@ -16,7 +16,7 @@ Diff (max vs sum): 49
 | This game is Great for Beginners | 306 |
 | This game has a Competitive Community | 298 |
 | This game has Playful Visuals | 290 |
-| This game has Amazing Storytelling | 283 |
+| This game has Amazing Storytelling | 289 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -60,4 +60,4 @@ Diff (max vs sum): 49
 | 2023-11-18 | 3.91 | 344 | 2,416 |
 | 2023-11-19 | 3.92 | 344 | 2,480 |
 | 2023-11-20 | 3.92 | 359 | 2,536 |
-| 2023-11-21 | 3.92 | 365 | 2,574 |
+| 2023-11-21 | 3.92 | 365 | 2,580 |

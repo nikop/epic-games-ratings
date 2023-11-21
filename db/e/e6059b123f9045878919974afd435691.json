@@ -2,9 +2,9 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1035,
+  "EOS_Progressed": 1036,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2649,6 +2649,11 @@
       "Time": "2023-11-21T20:08:51.8996878+00:00",
       "NumProgressed": 1035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T21:09:27.4334897+00:00",
+      "NumProgressed": 1036,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2660,7 +2665,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2700,7 +2705,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2732,7 +2737,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2972,7 +2977,7 @@
       "Name": "Do This In Silence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -3020,7 +3025,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -3068,7 +3073,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -3108,7 +3113,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3187,14 +3192,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1035,
+      "Progressed": 1036,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:08:51.8996875+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:09:27.4334894+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:02.0177367+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:59:30.153518+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:08:51.8997566+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:00:01.1737913+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:09:27.4335435+00:00"
 }

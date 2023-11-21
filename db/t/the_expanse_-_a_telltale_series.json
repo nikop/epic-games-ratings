@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15193,
+  "EOS_Progressed": 15196,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11807,6 +11807,11 @@
       "Time": "2023-11-21T20:03:53.347362+00:00",
       "NumProgressed": 15193,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T21:04:20.9310905+00:00",
+      "NumProgressed": 15196,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11851,7 +11856,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "14",
@@ -11873,9 +11878,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 608
     },
     {
       "ID": "17",
@@ -12025,9 +12030,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 760
     },
     {
       "ID": "7",
@@ -12067,7 +12072,7 @@
       "Name": "Safe Cracker",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "33",
@@ -12075,7 +12080,7 @@
       "Name": "Zen Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "34",
@@ -12098,22 +12103,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15193,
+      "Progressed": 15196,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1147,
-      "Completed": 668
+      "Progressed": 1150,
+      "Completed": 670
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:03:53.3473618+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:04:20.9310903+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:59:59.8723593+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:03:53.3474377+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:00:33.3980505+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:04:20.9311475+00:00"
 }

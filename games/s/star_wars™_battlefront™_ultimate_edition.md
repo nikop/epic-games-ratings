@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 89.00% | ~1,202 |
-| Off to a good start | 66.00% | ~891 |
-| Do... or do not. There is no try | 50.00% | ~675 |
-| A good blaster at your side | 31.00% | ~418 |
-| I suggest a new strategy | 19.00% | ~256 |
+| Off to a good start | 66.00% | ~892 |
+| Do... or do not. There is no try | 50.00% | ~676 |
+| A good blaster at your side | 31.00% | ~419 |
+| I suggest a new strategy | 19.00% | ~257 |
 | Scrap collector | 18.00% | ~243 |
 | All right, I'll give it a try | 17.00% | ~230 |
 | Great shot, kid! | 17.00% | ~230 |
-| Together we can rule the galaxy | 15.00% | ~202 |
+| Together we can rule the galaxy | 15.00% | ~203 |
 | The power of the Force | 14.00% | ~189 |
 | Shoot first | 14.00% | ~189 |
 | Collector | 13.00% | ~176 |
@@ -33,12 +33,12 @@
 | Not bad for a little furball | 4.00% | ~54 |
 | Patience you must have | 4.00% | ~54 |
 | Don't underestimate the Force | 4.00% | ~54 |
-| I've been waiting for you | 3.00% | ~40 |
-| When 900 years old you reach... | 3.00% | ~40 |
-| Determined | 3.00% | ~40 |
-| Your journey has only started | 3.00% | ~40 |
-| Precision shot | 3.00% | ~40 |
-| That's no moon | 3.00% | ~40 |
+| I've been waiting for you | 3.00% | ~41 |
+| When 900 years old you reach... | 3.00% | ~41 |
+| Determined | 3.00% | ~41 |
+| Your journey has only started | 3.00% | ~41 |
+| Precision shot | 3.00% | ~41 |
+| That's no moon | 3.00% | ~41 |
 | Hold the line! | 2.00% | ~27 |
 | The Force is strong with this one | 2.00% | ~27 |
 | This is a new day, a new beginning | 2.00% | ~27 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,350 (Ranked 242)  
+Progressed: 1,351 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.07%) (Ranked 296)
 | 2023-11-18 | 1,305 | 1 |
 | 2023-11-19 | 1,322 | 1 |
 | 2023-11-20 | 1,335 | 1 |
-| 2023-11-21 | 1,350 | 1 |
+| 2023-11-21 | 1,351 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

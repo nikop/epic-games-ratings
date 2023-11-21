@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1679,9 +1679,9 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 177
+      "UsersEstimate": 181
     },
     {
       "ID": "Fusses",
@@ -1758,8 +1758,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:06:20.4667868+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:08:00.5334229+00:00",
   "LastUpdate_AppInfo": "2023-11-14T23:57:15.4405482+00:00",
-  "LastUpdate_Ratings": "2023-11-21T20:00:19.2079412+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:06:20.4668054+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:00:55.540303+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:08:00.5334378+00:00"
 }

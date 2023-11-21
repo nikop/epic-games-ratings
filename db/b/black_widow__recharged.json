@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19843,
+  "EOS_Progressed": 19845,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17473,6 +17473,11 @@
       "Time": "2023-11-21T20:07:38.0558588+00:00",
       "NumProgressed": 19843,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-21T21:08:07.7095667+00:00",
+      "NumProgressed": 19845,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -17484,7 +17489,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15478
+      "UsersEstimate": 15479
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -17516,7 +17521,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3770
+      "UsersEstimate": 3771
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -17540,7 +17545,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10517
+      "UsersEstimate": 10518
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -17595,15 +17600,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19843,
+      "Progressed": 19845,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:07:38.0558586+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:08:07.7095665+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.612501+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:59:21.6179243+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:07:38.0559542+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:59:50.982499+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:08:07.7096572+00:00"
 }

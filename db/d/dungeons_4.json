@@ -694,25 +694,25 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_main01begin_storm",
       "SetID": "4hg22ll",
       "Name": "Thalya\u0027s Concentrated Fury",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 220
     },
     {
       "ID": "ach_main02horde_completed",
@@ -726,9 +726,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "ach_main02horde_traps",
@@ -766,25 +766,25 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_main05evil_completed",
@@ -798,17 +798,17 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -966,9 +966,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -1062,9 +1062,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -1189,8 +1189,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:03:40.8879575+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:04:07.284897+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:59:54.2866351+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:03:40.8879966+00:00"
+  "LastUpdate_Ratings": "2023-11-21T21:00:26.7873029+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:04:07.2849482+00:00"
 }

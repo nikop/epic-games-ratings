@@ -104,9 +104,9 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 59,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BARON",
@@ -248,9 +248,9 @@
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MIRROR",
@@ -264,9 +264,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 47,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "MOUNTAINEER",
@@ -296,9 +296,9 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SKILLED",
@@ -312,17 +312,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 12,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "WASHING",
@@ -359,8 +359,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:05:58.7429163+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:06:36.9551182+00:00",
   "LastUpdate_AppInfo": "2023-11-15T22:57:04.9325318+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:04.3497067+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:05:58.7429347+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:58:23.7788486+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:06:36.9551364+00:00"
 }

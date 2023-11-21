@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -535,9 +535,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8628,
+  "EOS_Progressed": 8629,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -11290,6 +11290,11 @@
       "Time": "2023-11-21T20:06:18.5155099+00:00",
       "NumProgressed": 8628,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-21T21:07:58.711619+00:00",
+      "NumProgressed": 8629,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 29,
@@ -11301,7 +11306,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7161
+      "UsersEstimate": 7162
     },
     {
       "ID": "ACH02",
@@ -11341,7 +11346,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ACH07",
@@ -11421,7 +11426,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "ACH17",
@@ -11532,7 +11537,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8628,
+      "Progressed": 8629,
       "Completed": 59
     }
   ],
@@ -11540,8 +11545,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-18T13:00:01.75974+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:06:18.5155097+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:07:58.7116187+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.3385878+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:57.3633464+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:06:18.5155822+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:59:24.012336+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:07:58.7116725+00:00"
 }

@@ -8,9 +8,9 @@
 | A Small Thirsty Thing | 14.00% | ~11 |
 | Spirit Within | 11.00% | ~9 |
 | Dousing a Venerable Flame | 10.00% | ~8 |
+| Leisis Bless You | 10.00% | ~8 |
 | Rain Must Fall | 9.00% | ~7 |
 | Overboard | 9.00% | ~7 |
-| Leisis Bless You | 9.00% | ~7 |
 | Advanced Armaments | 9.00% | ~7 |
 | Bladesmith | 6.00% | ~5 |
 | The Guardian of Fire | 6.00% | ~5 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 446)  
+Progressed: 80 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,8 +2,8 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 329,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -777,6 +777,11 @@
       "Time": "2023-11-21T20:04:11.1457968+00:00",
       "NumProgressed": 326,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T21:04:40.1817118+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -805,7 +810,7 @@
       "Name": "Chosen Victor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -819,9 +824,9 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -845,7 +850,7 @@
       "Name": "Pathfinder",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 240
     },
     {
       "ID": "CompleteChapter10",
@@ -859,9 +864,9 @@
       "ID": "CompleteChapter11",
       "SetID": "52ail55",
       "Name": "The Artefact is Mine",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter12",
@@ -875,9 +880,9 @@
       "ID": "CompleteChapter13",
       "SetID": "52ail55",
       "Name": "Slaughter and Siege wiv da Squeeze",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter14",
@@ -885,7 +890,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CompleteChapter15",
@@ -933,7 +938,7 @@
       "Name": "Met the Enemy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "CompleteChapter3",
@@ -941,7 +946,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "CompleteChapter4",
@@ -949,7 +954,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CompleteChapter5",
@@ -957,7 +962,7 @@
       "Name": "Breathing Easy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CompleteChapter6",
@@ -971,9 +976,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "CompleteChapter8",
@@ -1037,7 +1042,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1061,7 +1066,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1084,14 +1089,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 329,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:04:11.1457965+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:04:40.1817114+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:00:14.1810395+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:04:11.1458219+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:57:10.0899201+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:04:40.1817583+00:00"
 }

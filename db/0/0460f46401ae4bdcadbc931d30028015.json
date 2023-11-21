@@ -705,9 +705,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3738,
+  "EOS_Progressed": 3739,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5645,6 +5645,11 @@
       "Time": "2023-11-21T20:06:04.9052569+00:00",
       "NumProgressed": 3738,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T21:06:43.7652906+00:00",
+      "NumProgressed": 3739,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5665,7 +5670,7 @@
       "Name": "Stud Finder",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "achievement_11",
@@ -5673,7 +5678,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "achievement_12",
@@ -5681,7 +5686,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "achievement_13",
@@ -5745,7 +5750,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "achievement_20",
@@ -5793,7 +5798,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "achievement_7",
@@ -5824,7 +5829,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3738,
+      "Progressed": 3739,
       "Completed": 0
     }
   ],
@@ -5832,8 +5837,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-21T17:59:44.3100172+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:06:04.9052567+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:06:43.7652903+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:59:26.2152724+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:06:04.9052946+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:59:55.9669718+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:06:43.7653395+00:00"
 }

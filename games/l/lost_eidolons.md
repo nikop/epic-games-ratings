@@ -1,20 +1,20 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.35 (Ranked 793)  
+Rating: 4.35 (Ranked 792)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 68.00% | ~767 |
-| First Blood | 65.00% | ~733 |
-| Ready to Learn | 62.00% | ~699 |
-| Monster Hunter | 53.00% | ~598 |
-| Earning Trust | 50.00% | ~564 |
-| Monster Slayer | 30.00% | ~338 |
-| Awakening | 23.00% | ~259 |
-| Huntmaster | 22.00% | ~248 |
+| The First Step | 68.00% | ~768 |
+| First Blood | 64.00% | ~723 |
+| Ready to Learn | 62.00% | ~701 |
+| Monster Hunter | 53.00% | ~599 |
+| Earning Trust | 50.00% | ~565 |
+| Monster Slayer | 29.00% | ~328 |
+| Awakening | 23.00% | ~260 |
+| Huntmaster | 22.00% | ~249 |
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~203 |
-| House Vulisica's Heirloom | 15.00% | ~169 |
+| House Vulisica's Heirloom | 15.00% | ~170 |
 | Digging Deep | 14.00% | ~158 |
 | Broken Oath | 9.00% | ~102 |
 | Way of the King | 7.00% | ~79 |
@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 793)
 | Someone to Protect | 0.90% | ~10 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,128 (Ranked 254)  
+Progressed: 1,130 (Ranked 254)  
 Completed: 1 (0.09%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,6 +139,7 @@ Completed: 1 (0.09%) (Ranked 286)
 | 2023-11-11 | 1,126 | 1 |
 | 2023-11-17 | 1,127 | 1 |
 | 2023-11-19 | 1,128 | 1 |
+| 2023-11-21 | 1,130 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

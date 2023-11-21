@@ -4,7 +4,7 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23025,
+  "EOS_Progressed": 23029,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1479,
+  "EOS_NewPlayers": 1478,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -7348,6 +7348,11 @@
       "Time": "2023-11-21T20:08:18.2496777+00:00",
       "NumProgressed": 23025,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-11-21T21:08:51.0531523+00:00",
+      "NumProgressed": 23029,
+      "NumCompleted": 95
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -7360,7 +7365,7 @@
       "Name": "It Took Two",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9901
+      "UsersEstimate": 9902
     },
     {
       "ID": "achievement_10",
@@ -7384,7 +7389,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 13124
+      "UsersEstimate": 13127
     },
     {
       "ID": "achievement_13",
@@ -7392,7 +7397,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "achievement_14",
@@ -7408,7 +7413,7 @@
       "Name": "Lost And Found",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "achievement_16",
@@ -7424,7 +7429,7 @@
       "Name": "Something Fishy",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "achievement_18",
@@ -7432,7 +7437,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "achievement_19",
@@ -7440,7 +7445,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "achievement_2",
@@ -7464,7 +7469,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 20032
+      "UsersEstimate": 20035
     },
     {
       "ID": "achievement_4",
@@ -7472,7 +7477,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 20262
+      "UsersEstimate": 20266
     },
     {
       "ID": "achievement_5",
@@ -7480,7 +7485,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3914
+      "UsersEstimate": 3915
     },
     {
       "ID": "achievement_6",
@@ -7496,7 +7501,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 17960
+      "UsersEstimate": 17963
     },
     {
       "ID": "achievement_8",
@@ -7504,7 +7509,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9901
+      "UsersEstimate": 9902
     },
     {
       "ID": "achievement_9",
@@ -7512,20 +7517,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11973
+      "UsersEstimate": 11975
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 23025,
+      "Progressed": 23029,
       "Completed": 95
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:08:18.2496774+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:08:51.0531521+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:56.9678677+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:57:47.3373952+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:08:18.2497272+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:58:04.3484488+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:08:51.0531901+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~279 |
-| Thalya – Simply Immortal | 86.00% | ~279 |
+| The Last Stand | 87.00% | ~282 |
+| Thalya – Simply Immortal | 87.00% | ~282 |
+| For the Horde! | 82.00% | ~266 |
 | Hammer Time, Round Two | 81.00% | ~262 |
-| For the Horde! | 81.00% | ~262 |
 | The Hellwoods | 77.00% | ~249 |
-| The Plains of Strothalm | 72.00% | ~233 |
-| Experienced Thalya | 70.00% | ~227 |
-| Thalya's Concentrated Fury | 67.00% | ~217 |
+| The Plains of Strothalm | 73.00% | ~237 |
+| Experienced Thalya | 71.00% | ~230 |
+| Thalya's Concentrated Fury | 68.00% | ~220 |
 | Master of Magic | 65.00% | ~211 |
 | Bad Elves Go Everywhere | 65.00% | ~211 |
 | Heroes’ Gorge | 61.00% | ~198 |
+| Unicorn steaks – fresh off the hoof! | 60.00% | ~194 |
 | Magic Accidents | 59.00% | ~191 |
-| Unicorn steaks – fresh off the hoof! | 59.00% | ~191 |
-| Minions, Minions! | 57.00% | ~185 |
+| Minions, Minions! | 58.00% | ~188 |
 | Trap Master | 53.00% | ~172 |
 | The Ascent | 51.00% | ~165 |
 | It's Warm and Cozy at Home | 51.00% | ~165 |
@@ -32,18 +32,18 @@
 | Shame! Shame! Shame! | 33.00% | ~107 |
 | Tanos' Crusade Against Thalya | 31.00% | ~100 |
 | Unstoppable Horde | 24.00% | ~78 |
+| All’s Well That Ends Evil | 24.00% | ~78 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~75 |
 | Master of the Undead | 23.00% | ~75 |
-| All’s Well That Ends Evil | 23.00% | ~75 |
 | Hungry, Hungry Gorgu! | 22.00% | ~71 |
 | The Duel | 21.00% | ~68 |
 | Forbidden Knowledge | 20.00% | ~65 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~62 |
 | If Looks Could Kill | 18.00% | ~58 |
-| Sacrificial Pit = Garbage Disposal? | 16.00% | ~52 |
+| Sacrificial Pit = Garbage Disposal? | 17.00% | ~55 |
 | Stop Tanos! | 16.00% | ~52 |
 | The Finitude Drill | 16.00% | ~52 |
-| Doom Hill | 13.00% | ~42 |
+| Doom Hill | 14.00% | ~45 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~42 |
 | Bonus Evilness | 11.00% | ~36 |
 | Sabotage! | 11.00% | ~36 |

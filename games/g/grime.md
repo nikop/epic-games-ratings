@@ -15,6 +15,7 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 2.00% | ~3,189 |
 | Devourer | 2.00% | ~3,189 |
 | Yank | 2.00% | ~3,189 |
+| Sharpened Vessel | 2.00% | ~3,189 |
 | Shapely | 1.00% | ~1,594 |
 | Scion | 1.00% | ~1,590 |
 | Glare | 1.00% | ~1,590 |
@@ -23,7 +24,6 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 1.00% | ~1,594 |
 | Watcher | 1.00% | ~1,594 |
 | Predator | 1.00% | ~1,594 |
-| Sharpened Vessel | 1.00% | ~1,594 |
 | Assimilation | 0.90% | ~1,435 |
 | Host | 0.90% | ~1,431 |
 | Celebration | 0.90% | ~1,435 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,439 (Ranked 78)  
+Progressed: 159,446 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 158,977 | 1 |
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
-| 2023-11-21 | 159,439 | 1 |
+| 2023-11-21 | 159,446 | 1 |
 ## Awards
 Max (Unique Visuals): 52  (Ranked 426)  
 Sum: 376 (Ranked 347)  

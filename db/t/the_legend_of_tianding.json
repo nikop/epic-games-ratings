@@ -270,9 +270,9 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MilitaryFactoryExplorer",
@@ -367,8 +367,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:05:53.1269544+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:06:30.7364448+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.8117493+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:27.6389376+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:05:53.1269683+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:58:49.2902387+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:06:30.73646+00:00"
 }

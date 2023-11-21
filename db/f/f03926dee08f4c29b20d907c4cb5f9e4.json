@@ -2,7 +2,7 @@
   "ID": "f03926dee08f4c29b20d907c4cb5f9e4",
   "Name": "HORSE CLUB Adventures 2 - Hazelwood Stories",
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 121,
@@ -279,9 +279,9 @@
       "ID": "ACH_16_ART_AT_LIGHTHOUSE",
       "SetID": "9loam6m",
       "Name": "Art at the lighthouse",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_17_FLOCK_OF_BIRDS",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:03:55.1795827+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:04:22.9842704+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:07.6429231+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:56.8801818+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:03:55.1796071+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:59:23.4966443+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:04:22.9842996+00:00"
 }

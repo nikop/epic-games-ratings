@@ -5,7 +5,7 @@
   "Ranking_Rating": 647,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
-  "Ranking_EOS_Progress": 60,
+  "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 121,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251479,
+  "EOS_Progressed": 251481,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19532,6 +19532,11 @@
       "Time": "2023-11-21T18:09:05.9103716+00:00",
       "NumProgressed": 251479,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-21T21:09:15.7722412+00:00",
+      "NumProgressed": 251481,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -19599,7 +19604,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42751
+      "UsersEstimate": 42752
     },
     {
       "ID": "cantBeKeptDown",
@@ -19639,7 +19644,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45266
+      "UsersEstimate": 45267
     },
     {
       "ID": "curator",
@@ -19719,7 +19724,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133284
+      "UsersEstimate": 133285
     },
     {
       "ID": "indegestible",
@@ -19847,7 +19852,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55325
+      "UsersEstimate": 55326
     },
     {
       "ID": "thunderstruck",
@@ -19863,7 +19868,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32692
+      "UsersEstimate": 32693
     },
     {
       "ID": "treeMedalist",
@@ -19910,7 +19915,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251479,
+      "Progressed": 251481,
       "Completed": 6
     }
   ],
@@ -19918,8 +19923,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:08:41.4400426+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:09:15.7722411+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.785851+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:20.9095999+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:08:41.4401643+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:58:42.088329+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:09:15.7723384+00:00"
 }

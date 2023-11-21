@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 121,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -560,6 +560,11 @@
       "Time": "2023-11-21T20:08:06.8161826+00:00",
       "NumProgressed": 198,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T21:08:38.8057767+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -570,9 +575,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "AchvAllMemories",
@@ -740,7 +745,7 @@
       "Name": "The field base",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "AchvReachCamp",
@@ -748,7 +753,7 @@
       "Name": "The Camp",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AchvReachCity",
@@ -756,7 +761,7 @@
       "Name": "The City",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "AchvReachCondor",
@@ -803,14 +808,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 200,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:08:06.8161824+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:08:38.8057765+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:58:21.5754506+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:08:06.8162029+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:58:42.9147578+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:08:38.8058005+00:00"
 }

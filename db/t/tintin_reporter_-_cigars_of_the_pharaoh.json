@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Progress": 534,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2023-11-21T14:05:22.220383+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T21:06:14.4694394+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -156,7 +161,7 @@
       "Name": "My Papyrus!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement10",
@@ -242,7 +247,7 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -298,7 +303,7 @@
       "ID": "Achievement26",
       "SetID": "9fa3l5n",
       "Name": "Mummy Nightmare",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -330,7 +335,7 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -362,7 +367,7 @@
       "ID": "Achievement33",
       "SetID": "9fa3l5n",
       "Name": "Barking Dog",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -402,7 +407,7 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -434,7 +439,7 @@
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -442,7 +447,7 @@
       "ID": "Achievement9",
       "SetID": "9fa3l5n",
       "Name": "Save a Friend",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -451,14 +456,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:05:38.4470069+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:06:14.4694392+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:57:11.432628+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:05:38.4470604+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:57:26.7003083+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:06:14.4694645+00:00"
 }

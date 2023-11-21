@@ -11,8 +11,8 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 71.00% | ~432 |
 | Welcome to Sonic 3 & Knuckles | 71.00% | ~432 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~420 |
+| Time Traveler | 66.00% | ~401 |
 | Ring Collector | 66.00% | ~401 |
-| Time Traveler | 65.00% | ~395 |
 | Everyone's Hero | 62.00% | ~377 |
 | Easy Peasy with Shields | 59.00% | ~359 |
 | Gallant Spin Dash | 58.00% | ~353 |

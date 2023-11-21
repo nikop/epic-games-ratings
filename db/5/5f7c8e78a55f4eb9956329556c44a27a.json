@@ -2,7 +2,7 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 121,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2023-11-21T18:05:33.234541+00:00",
       "NumProgressed": 116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T21:05:38.673898+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -434,7 +439,7 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 96
     },
@@ -460,7 +465,7 @@
       "Name": "Blue moon",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_BUTTON_PLAY",
@@ -492,7 +497,7 @@
       "Name": "Carmack junior",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_CHAP_END_01",
@@ -522,9 +527,9 @@
       "ID": "TINGWD_CHAP_END_04",
       "SetID": "c0imaa6",
       "Name": "The end of the ordeal",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -546,15 +551,15 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 20,
       "UsersEstimate": 94
     },
@@ -562,7 +567,7 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 103
     },
@@ -572,7 +577,7 @@
       "Name": "Who you gonna call?",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_GUIDE",
@@ -588,7 +593,7 @@
       "Name": "Headshot",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_HONEY",
@@ -610,7 +615,7 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 101
     },
@@ -634,9 +639,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_RADAR",
@@ -650,9 +655,9 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -660,7 +665,7 @@
       "Name": "Random luck!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TINGWD_SHIFUMI_LOSE",
@@ -700,21 +705,21 @@
       "Name": "Wrong Dimension",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-21T20:05:06.582502+00:00",
+  "LastChanged_Achievements": "2023-11-21T21:05:38.6738978+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:57:17.1319512+00:00",
-  "LastUpdate_Achievements": "2023-11-21T20:05:06.582537+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:57:32.663955+00:00",
+  "LastUpdate_Achievements": "2023-11-21T21:05:38.6739149+00:00"
 }
