@@ -6741,9 +6741,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 721823,
+  "EOS_Progressed": 721859,
   "EOS_Completed": 2422,
-  "EOS_NewPlayers": 3461,
+  "EOS_NewPlayers": 3497,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31346,6 +31346,11 @@
       "Time": "2023-11-21T16:04:36.5658103+00:00",
       "NumProgressed": 721823,
       "NumCompleted": 2422
+    },
+    {
+      "Time": "2023-11-21T17:04:18.4305389+00:00",
+      "NumProgressed": 721859,
+      "NumCompleted": 2422
     }
   ],
   "TotalAchievements": 51,
@@ -31357,7 +31362,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -31373,7 +31378,7 @@
       "Name": "Git Gutte!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_anger_management",
@@ -31381,7 +31386,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31389,7 +31394,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "ach_big_name_in_town",
@@ -31397,7 +31402,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "ach_blueprinted",
@@ -31413,7 +31418,7 @@
       "Name": "Bookworm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_break_a_leg",
@@ -31421,7 +31426,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_contender",
@@ -31445,7 +31450,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "ach_doom_buddies",
@@ -31469,7 +31474,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "ach_finisher",
@@ -31477,7 +31482,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -31501,7 +31506,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -31509,7 +31514,7 @@
       "Name": "Friends Like These",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_hotel_california",
@@ -31517,7 +31522,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_impressive_aim",
@@ -31557,7 +31562,7 @@
       "Name": "Apex Predator",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_knowledgeable",
@@ -31581,7 +31586,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2166
     },
     {
       "ID": "ach_metropolitan",
@@ -31629,7 +31634,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_star_performance",
@@ -31637,7 +31642,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_survival_expert",
@@ -31677,7 +31682,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -31693,7 +31698,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7218
+      "UsersEstimate": 7219
     },
     {
       "ID": "ach_well_known_survivor",
@@ -31717,7 +31722,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ach_dark_magic",
@@ -31725,7 +31730,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ach_gardening_tools",
@@ -31741,7 +31746,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31764,13 +31769,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721823,
+      "Progressed": 721859,
       "Completed": 2422
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47365,
+      "Progressed": 47401,
       "Completed": 36576
     }
   ],
@@ -31778,8 +31783,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-21T02:28:39.6814283+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:04:36.5658098+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:04:18.4305384+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:57:19.9109971+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:04:36.5659305+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:57:28.7559667+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:18.4306909+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.60 (Ranked 413)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,768 |
-| A Thorny Situation | 71.00% | ~5,610 |
-| ... And Spit Back Out | 61.00% | ~4,820 |
+| Azoria Beckons | 73.00% | ~5,769 |
+| A Thorny Situation | 71.00% | ~5,611 |
+| ... And Spit Back Out | 61.00% | ~4,821 |
 | Break-Net Speed | 49.00% | ~3,872 |
 | Bramble Breaker | 47.00% | ~3,714 |
 | Miner 49er | 43.00% | ~3,398 |
@@ -16,9 +16,9 @@ Rating: 4.60 (Ranked 413)
 | Open the Gate! | 34.00% | ~2,687 |
 | Mist Walker | 32.00% | ~2,529 |
 | Lumberjack | 27.00% | ~2,134 |
-| Oui, Chef! | 23.00% | ~1,817 |
-| Clear the Air | 19.00% | ~1,501 |
-| Botanical Breakthrough | 17.00% | ~1,343 |
+| Oui, Chef! | 23.00% | ~1,818 |
+| Clear the Air | 19.00% | ~1,502 |
+| Botanical Breakthrough | 17.00% | ~1,344 |
 | Search for the Hairy Grell | 14.00% | ~1,106 |
 | Beach Comber | 14.00% | ~1,106 |
 | Higher Tax Bracket | 14.00% | ~1,106 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 413)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,902 (Ranked 174)  
+Progressed: 7,903 (Ranked 174)  
 Completed: 1 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.01%) (Ranked 335)
 | 2023-11-18 | 7,852 | 1 |
 | 2023-11-19 | 7,876 | 1 |
 | 2023-11-20 | 7,894 | 1 |
-| 2023-11-21 | 7,902 | 1 |
+| 2023-11-21 | 7,903 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

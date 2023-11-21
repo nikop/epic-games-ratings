@@ -2,13 +2,13 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 10807,
   "RatingHistory": [
     {
@@ -8633,18 +8633,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 20109,
       "NumberOfAwardsMax": 8254
+    },
+    {
+      "Time": "2023-11-21T16:59:23.658662+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 20118,
+      "NumberOfAwardsMax": 8263
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20109,
-  "NumberOfAwardsMax": 8254,
+  "NumberOfAwards": 20118,
+  "NumberOfAwardsMax": 8263,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8254
+      "Count": 8263
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8712,8 +8718,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-11-21T13:59:01.3000887+00:00",
+  "LastChanged": "2023-11-21T16:59:23.6586618+00:00",
   "LastUpdate_AppInfo": "2023-11-18T12:59:46.559879+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:59:55.1933993+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:05:29.6956701+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:59:23.6586624+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:59.2361058+00:00"
 }

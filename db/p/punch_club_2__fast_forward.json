@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1834,9 +1834,9 @@
       "ID": "trainer_promotion_3",
       "SetID": "69co12a",
       "Name": "Responsible approach",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "undercover_robot",
@@ -1889,8 +1889,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:08:16.2804624+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:08:38.4664185+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:11.3489295+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:57:10.7449707+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:08:16.280542+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:57:21.6442601+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:08:38.4664863+00:00"
 }

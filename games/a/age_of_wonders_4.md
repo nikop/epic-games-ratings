@@ -34,10 +34,10 @@ Rating: 4.61 (Ranked 384)
 | Fiery Friend | 0.70% | ~38 |
 | Impenetrable Fortress | 0.70% | ~38 |
 | Mighty Hoard | 0.70% | ~38 |
+| Prometheus Avenged | 0.70% | ~38 |
 | Return of the Wizard King | 0.60% | ~32 |
 | Preparation Is Everything | 0.60% | ~32 |
 | Blood of the Dragon | 0.60% | ~32 |
-| Prometheus Avenged | 0.60% | ~32 |
 | A Conqueror's Cohort | 0.60% | ~32 |
 | Arch Mage | 0.50% | ~27 |
 | The Creator | 0.50% | ~27 |
@@ -250,9 +250,9 @@ Completed: 7 (0.13%) (Ranked 268)
 | 2023-11-19 | 5,408 | 7 |
 | 2023-11-20 | 5,411 | 7 |
 ## Awards
-Max (Great for Beginners): 32  (Ranked 487)  
+Max (Great for Beginners): 32  (Ranked 486)  
 Sum: 58 (Ranked 475)  
-Diff (max vs sum): 12  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

@@ -4737,9 +4737,9 @@
       "Count": 494
     }
   ],
-  "EOS_Progressed": 91362,
+  "EOS_Progressed": 91364,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26022,6 +26022,11 @@
       "Time": "2023-11-21T16:05:33.9789364+00:00",
       "NumProgressed": 91362,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-21T17:05:02.6737591+00:00",
+      "NumProgressed": 91364,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26119,9 +26124,9 @@
       "ID": "ACH_0050",
       "SetID": "3kam13l",
       "Name": "Foo Finder",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_0060",
@@ -26360,13 +26365,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91362,
+      "Progressed": 91364,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19709,
+      "Progressed": 19711,
       "Completed": 15579
     }
   ],
@@ -26374,8 +26379,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-21T13:07:30.9197894+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:05:33.9789358+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:05:02.6737583+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:58:38.4150309+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:05:33.9791257+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:58:26.950019+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:05:02.6738938+00:00"
 }

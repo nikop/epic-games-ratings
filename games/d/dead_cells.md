@@ -1,7 +1,7 @@
 # Dead Cells
 [Store](https://store.epicgames.com/en-US/p/dead-cells)  
 [View Rawdata](../../db/d/dead_cells.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.88 (Ranked 17)  
 Number of Ratings: 1,319  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 294  (Ranked 254)  
@@ -277,3 +277,4 @@ Diff (max vs sum): 60
 | 2023-11-16 | 4.87 | - | 294 | 2,496 |
 | 2023-11-17 | 4.87 | - | 294 | 2,497 |
 | 2023-11-18 | 4.87 | - | 294 | 2,500 |
+| 2023-11-21 | 4.88 | - | 294 | 2,500 |

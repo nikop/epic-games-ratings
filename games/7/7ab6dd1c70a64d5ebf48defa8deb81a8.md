@@ -14,10 +14,10 @@
 | Calm before the Storm | 5.00% | ~10 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
+| Big Bazar | 5.00% | ~10 |
 | Stone Collection | 5.00% | ~10 |
 | The Collector | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
-| Big Bazar | 4.00% | ~8 |
 | Fashion Victim | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |

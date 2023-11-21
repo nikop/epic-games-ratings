@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 23)  
+Rating: 4.87 (Ranked 24)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,8 +52,8 @@ Rating: 4.87 (Ranked 23)
 | OK, well THEY came after ME! | 0.90% | ~38 |
 | Easy Listening | 0.60% | ~25 |
 | Choose your own adventure | 0.60% | ~17 |
+| Problem solved... wait, what? | 0.50% | ~21 |
 | Now this is how you fight like a team! | 0.50% | ~21 |
-| Problem solved... wait, what? | 0.40% | ~17 |
 | With our powers combined…and to the rhythm… | 0.40% | ~17 |
 | It'll do, CNMN | 0.40% | ~11 |
 | And the crowd goes wild! | 0.30% | ~13 |

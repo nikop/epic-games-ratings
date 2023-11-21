@@ -10833,9 +10833,9 @@
       "Count": 799
     }
   ],
-  "EOS_Progressed": 302518,
+  "EOS_Progressed": 302522,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33943,6 +33943,11 @@
       "Time": "2023-11-21T16:09:43.2665253+00:00",
       "NumProgressed": 302518,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-21T17:09:45.8245887+00:00",
+      "NumProgressed": 302522,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -33954,7 +33959,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48403
+      "UsersEstimate": 48404
     },
     {
       "ID": "PFA_10",
@@ -34002,7 +34007,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24201
+      "UsersEstimate": 24202
     },
     {
       "ID": "PFA_16",
@@ -34018,7 +34023,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24201
+      "UsersEstimate": 24202
     },
     {
       "ID": "PFA_18",
@@ -34034,7 +34039,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24201
+      "UsersEstimate": 24202
     },
     {
       "ID": "PFA_2",
@@ -34074,7 +34079,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39327
+      "UsersEstimate": 39328
     },
     {
       "ID": "PFA_24",
@@ -34138,7 +34143,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36302
+      "UsersEstimate": 36303
     },
     {
       "ID": "PFA_31",
@@ -34298,7 +34303,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39327
+      "UsersEstimate": 39328
     },
     {
       "ID": "PFA_9",
@@ -34313,7 +34318,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302518,
+      "Progressed": 302522,
       "Completed": 513
     }
   ],
@@ -34321,8 +34326,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-21T14:00:19.4414339+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:09:43.2665249+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:09:45.8245882+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:02:33.9463047+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:09:43.2667022+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:02:46.3448967+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:09:45.8247437+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15414,18 +15414,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 358967,
       "NumberOfAwardsMax": 106367
+    },
+    {
+      "Time": "2023-11-21T17:00:26.8455728+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 359156,
+      "NumberOfAwardsMax": 106495
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358967,
-  "NumberOfAwardsMax": 106367,
+  "NumberOfAwards": 359156,
+  "NumberOfAwardsMax": 106495,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 106367
+      "Count": 106495
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15485,7 +15491,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20056
+      "Count": 20117
     },
     {
       "Text": "This game has a Creative Community",
@@ -15494,9 +15500,9 @@
       "Count": 13301
     }
   ],
-  "EOS_Progressed": 897598,
+  "EOS_Progressed": 897664,
   "EOS_Completed": 2797,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -39894,6 +39900,11 @@
       "Time": "2023-11-21T16:05:28.415838+00:00",
       "NumProgressed": 897598,
       "NumCompleted": 2797
+    },
+    {
+      "Time": "2023-11-21T17:04:58.2986634+00:00",
+      "NumProgressed": 897664,
+      "NumCompleted": 2797
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39930,7 +39941,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Denied",
@@ -39954,7 +39965,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "Gearhead",
@@ -39978,7 +39989,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17952
+      "UsersEstimate": 17953
     },
     {
       "ID": "Gunslinger",
@@ -40202,7 +40213,7 @@
       "Name": "True Soldier",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8078
+      "UsersEstimate": 8079
     },
     {
       "ID": "TrueWarrior",
@@ -40218,7 +40229,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "UnderPressure",
@@ -40234,7 +40245,7 @@
       "Name": "V for Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35904
+      "UsersEstimate": 35907
     },
     {
       "ID": "YipMan",
@@ -40282,7 +40293,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Easycomeeasygo",
@@ -40306,7 +40317,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Kingofcups",
@@ -40346,7 +40357,7 @@
       "Name": "Relic Ruler",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "UltimateSurvivor",
@@ -40370,7 +40381,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "IHateSpider",
@@ -40394,7 +40405,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "KingOfTheSwords",
@@ -40402,7 +40413,7 @@
       "Name": "King of Swords",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "KingOfTheWands",
@@ -40441,21 +40452,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 897598,
+      "Progressed": 897664,
       "Completed": 2797
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 26221,
+      "Progressed": 26287,
       "Completed": 10241
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-21T15:00:09.2674706+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:05:28.4158376+00:00",
+  "LastChanged": "2023-11-21T17:00:26.8455727+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:04:58.2986631+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:30.6897606+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:01:18.0426882+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:05:28.4159612+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:00:26.8455736+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:58.298821+00:00"
 }

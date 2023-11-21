@@ -5,10 +5,10 @@ Rating: 4.16 (Ranked 939)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,286 |
+| Attachments | 10.00% | ~4,287 |
 | Unlocked Potential | 9.00% | ~3,858 |
-| Tinkerer | 7.00% | ~3,000 |
-| Knock 'Em Dead | 7.00% | ~3,000 |
+| Tinkerer | 7.00% | ~3,001 |
+| Knock 'Em Dead | 7.00% | ~3,001 |
 | Leapfrogger | 6.00% | ~2,572 |
 | Pilgrimage: Initiate | 6.00% | ~2,572 |
 | Hell of a Run | 6.00% | ~2,572 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 939)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,863 (Ranked 117)  
+Progressed: 42,866 (Ranked 117)  
 Completed: 3 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,11 +274,11 @@ Completed: 3 (0.01%) (Ranked 335)
 | 2023-11-18 | 42,785 | 3 |
 | 2023-11-19 | 42,824 | 3 |
 | 2023-11-20 | 42,850 | 3 |
-| 2023-11-21 | 42,863 | 3 |
+| 2023-11-21 | 42,866 | 3 |
 ## Awards
-Max (Character Customization): 29  (Ranked 499)  
+Max (Character Customization): 29  (Ranked 498)  
 Sum: 29 (Ranked 512)  
-Diff (max vs sum): -13  
+Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

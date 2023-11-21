@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 152,
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15180,
+  "EOS_Progressed": 15184,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11792,6 +11792,11 @@
       "Time": "2023-11-21T16:04:29.0413762+00:00",
       "NumProgressed": 15180,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T17:04:12.5806464+00:00",
+      "NumProgressed": 15184,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11828,7 +11833,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "13",
@@ -11836,7 +11841,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "14",
@@ -11852,7 +11857,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "16",
@@ -11860,7 +11865,7 @@
       "Name": "Drug Gifter",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "17",
@@ -11924,7 +11929,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "24",
@@ -11940,7 +11945,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "26",
@@ -12044,7 +12049,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "32",
@@ -12076,29 +12081,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15180,
+      "Progressed": 15184,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1134,
-      "Completed": 665
+      "Progressed": 1138,
+      "Completed": 666
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:04:29.0413759+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:04:12.5806457+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:00:52.0277127+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:04:29.0414362+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:00:08.5956683+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:12.5807299+00:00"
 }

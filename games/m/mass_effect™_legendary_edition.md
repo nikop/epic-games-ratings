@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 93.00% | ~1,253 |
-| Spectre Inductee | 79.00% | ~1,064 |
-| Medal of Exploration I | 71.00% | ~956 |
-| Recruit | 68.00% | ~916 |
-| Search and Rescue | 67.00% | ~902 |
+| Distinguished Service Medal | 93.00% | ~1,254 |
+| Spectre Inductee | 79.00% | ~1,065 |
+| Medal of Exploration I | 71.00% | ~957 |
+| Recruit | 68.00% | ~917 |
+| Search and Rescue | 67.00% | ~903 |
 | Quarian Ally | 63.00% | ~849 |
-| Honorarium of Corporate Service | 60.00% | ~808 |
+| Honorarium of Corporate Service | 60.00% | ~809 |
 | Medal of Heroism | 59.00% | ~795 |
-| Council Legion of Merit | 54.00% | ~727 |
+| Council Legion of Merit | 54.00% | ~728 |
 | Medal of Exploration II | 53.00% | ~714 |
-| Turian Ally | 52.00% | ~700 |
+| Turian Ally | 52.00% | ~701 |
 | Medal of Honor | 51.00% | ~687 |
 | Meritorious Service Medal | 51.00% | ~687 |
 | Charismatic | 50.00% | ~674 |
-| Soldier | 49.00% | ~660 |
-| Asari Ally | 47.00% | ~633 |
+| Soldier | 49.00% | ~661 |
+| Asari Ally | 47.00% | ~634 |
 | Soldier Ally | 46.00% | ~620 |
-| Medal of Exploration III | 45.00% | ~606 |
-| Principled | 45.00% | ~606 |
-| Paramour I | 43.00% | ~579 |
-| Colonial Savior | 43.00% | ~579 |
-| Missing in Action | 43.00% | ~579 |
-| Scientist | 43.00% | ~579 |
+| Medal of Exploration III | 45.00% | ~607 |
+| Principled | 45.00% | ~607 |
+| Paramour I | 43.00% | ~580 |
+| Colonial Savior | 43.00% | ~580 |
+| Missing in Action | 43.00% | ~580 |
+| Scientist | 43.00% | ~580 |
 | Merciless | 42.00% | ~566 |
-| Krogan Ally | 41.00% | ~552 |
-| Very Elusive | 41.00% | ~552 |
+| Krogan Ally | 41.00% | ~553 |
+| Very Elusive | 41.00% | ~553 |
 | Sentinel Ally | 40.00% | ~539 |
-| Head Hunter | 39.00% | ~525 |
-| Operative | 39.00% | ~525 |
-| Scholar | 39.00% | ~525 |
-| Veteran | 37.00% | ~498 |
-| The Archangel | 37.00% | ~498 |
-| The Professor | 37.00% | ~498 |
+| Head Hunter | 39.00% | ~526 |
+| Operative | 39.00% | ~526 |
+| Scholar | 39.00% | ~526 |
+| Veteran | 37.00% | ~499 |
+| The Archangel | 37.00% | ~499 |
+| The Professor | 37.00% | ~499 |
 | Power Full | 36.00% | ~485 |
-| The Convict | 35.00% | ~471 |
+| The Convict | 35.00% | ~472 |
 | Colony Defense | 34.00% | ~458 |
 | The Krogan | 33.00% | ~445 |
 | Ghost Ship | 32.00% | ~431 |
@@ -61,7 +61,6 @@
 | Heart of Darkness | 30.00% | ~404 |
 | Archivist | 29.00% | ~391 |
 | Fade Away | 29.00% | ~391 |
-| Treason | 29.00% | ~391 |
 | Agent | 29.00% | ~391 |
 | Digital Exorcist | 29.00% | ~391 |
 | Bringer of War | 29.00% | ~391 |
@@ -69,6 +68,7 @@
 | Friend or Foe | 28.00% | ~377 |
 | Cat's in the Cradle | 28.00% | ~377 |
 | Doppelganger | 28.00% | ~377 |
+| Treason | 28.00% | ~377 |
 | Mobilizer | 28.00% | ~377 |
 | Mission Accomplished | 27.00% | ~364 |
 | Suicide Mission | 27.00% | ~364 |
@@ -79,20 +79,20 @@
 | Eye of the Hurricane | 25.00% | ~337 |
 | First Aid Specialist | 25.00% | ~337 |
 | World Shaker | 25.00% | ~337 |
-| Pathfinder | 24.00% | ~323 |
-| Tunnel Rat | 24.00% | ~323 |
-| Liberator | 24.00% | ~323 |
+| Pathfinder | 24.00% | ~324 |
+| Tunnel Rat | 24.00% | ~324 |
+| Liberator | 24.00% | ~324 |
 | Weapon Specialist | 23.00% | ~310 |
 | Arbiter | 23.00% | ~310 |
-| Savior | 22.00% | ~296 |
-| Lost and Found | 22.00% | ~296 |
+| Savior | 22.00% | ~297 |
+| Lost and Found | 22.00% | ~297 |
 | Paramour II | 21.00% | ~283 |
 | Party Crasher | 21.00% | ~283 |
-| Last Resort | 20.00% | ~269 |
-| Hard Target | 20.00% | ~269 |
-| Saboteur | 20.00% | ~269 |
-| Fact Finder | 20.00% | ~269 |
-| Problem Solver | 20.00% | ~269 |
+| Last Resort | 20.00% | ~270 |
+| Hard Target | 20.00% | ~270 |
+| Saboteur | 20.00% | ~270 |
+| Fact Finder | 20.00% | ~270 |
+| Problem Solver | 20.00% | ~270 |
 | Pyromaniac | 19.00% | ~256 |
 | Under Pressure | 19.00% | ~256 |
 | No One Left Behind | 19.00% | ~256 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~13 |
 | The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,347 (Ranked 242)  
+Progressed: 1,348 (Ranked 242)  
 Completed: 6 (0.45%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,4 +199,4 @@ Completed: 6 (0.45%) (Ranked 207)
 | 2023-11-18 | 1,321 | 4 |
 | 2023-11-19 | 1,333 | 6 |
 | 2023-11-20 | 1,344 | 6 |
-| 2023-11-21 | 1,347 | 6 |
+| 2023-11-21 | 1,348 | 6 |

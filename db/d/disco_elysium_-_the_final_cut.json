@@ -2,13 +2,13 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 23,
+  "Ranking_Rating": 24,
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1484,9 +1484,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131026,
+  "EOS_Progressed": 131030,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -22504,6 +22504,11 @@
       "Time": "2023-11-21T16:04:16.271813+00:00",
       "NumProgressed": 131026,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-21T17:04:02.5370485+00:00",
+      "NumProgressed": 131030,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22563,7 +22568,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11792
+      "UsersEstimate": 11793
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -22571,7 +22576,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31446
+      "UsersEstimate": 31447
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -22579,7 +22584,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11792
+      "UsersEstimate": 11793
     },
     {
       "ID": "ACH_COP_DORK",
@@ -22595,7 +22600,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36687
+      "UsersEstimate": 36688
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22619,7 +22624,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20964
+      "UsersEstimate": 20965
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22627,7 +22632,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27515
+      "UsersEstimate": 27516
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22643,7 +22648,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17033
+      "UsersEstimate": 17034
     },
     {
       "ID": "ACH_COP_STAR",
@@ -22651,7 +22656,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20964
+      "UsersEstimate": 20965
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22834,15 +22839,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131026,
+      "Progressed": 131030,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:04:16.2718125+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:04:02.5370481+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-21T15:59:56.4054168+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:04:16.2719391+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:59:24.5659311+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:02.5372173+00:00"
 }

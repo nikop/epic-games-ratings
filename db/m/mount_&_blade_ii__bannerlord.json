@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8914,10 +8914,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15372,
       "NumberOfAwardsMax": 7410
+    },
+    {
+      "Time": "2023-11-21T16:59:34.9620222+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15375,
+      "NumberOfAwardsMax": 7410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15372,
+  "NumberOfAwards": 15375,
   "NumberOfAwardsMax": 7410,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8931,7 +8937,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 935
+      "Count": 936
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8985,7 +8991,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 639
+      "Count": 641
     },
     {
       "Text": "This game has Competitive Players",
@@ -8994,9 +9000,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65564,
+  "EOS_Progressed": 65565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31624,6 +31630,11 @@
       "Time": "2023-11-21T16:09:40.5227558+00:00",
       "NumProgressed": 65564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T17:09:43.6986504+00:00",
+      "NumProgressed": 65565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31651,7 +31662,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "Best served cold",
@@ -31795,7 +31806,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "I can do it",
@@ -31843,7 +31854,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4589
+      "UsersEstimate": 4590
     },
     {
       "ID": "Lance-a-lot",
@@ -31875,7 +31886,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "Long live the Empire",
@@ -32011,7 +32022,7 @@
       "Name": "Trained",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "Undercover",
@@ -32042,15 +32053,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65564,
+      "Progressed": 65565,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-21T09:00:21.2712217+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:09:40.5227552+00:00",
+  "LastChanged": "2023-11-21T16:59:34.962022+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:09:43.69865+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:00:09.5342575+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:09:40.5229185+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:59:34.9620226+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:09:43.6987926+00:00"
 }

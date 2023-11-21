@@ -18,6 +18,7 @@
 | Savior | 25.00% | ~1 |
 | Watch your Step! | 25.00% | ~1 |
 | Out of the ring | 25.00% | ~1 |
+| Assault on the Ram | 25.00% | ~1 |
 | Spring Board | 25.00% | ~1 |
 | Ultra Rebel Instinct | 25.00% | ~1 |
 | Rebel Unleashed | 25.00% | ~1 |
@@ -44,7 +45,6 @@
 | Locksley's Tears | 0.00% | ~0 |
 | Hidden Experiment | 0.00% | ~0 |
 | A Gest of Robyn Hode | 0.00% | ~0 |
-| Assault on the Ram | 0.00% | ~0 |
 | Into the Lion's Den | 0.00% | ~0 |
 | Money can not buy happiness | 0.00% | ~0 |
 | Only Child | 0.00% | ~0 |

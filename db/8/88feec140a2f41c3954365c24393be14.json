@@ -179,10 +179,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101747,
-  "EOS_Completed": 4610,
-  "EOS_NewPlayers": 731,
-  "EOS_NewCompleters": 83,
+  "EOS_Progressed": 101748,
+  "EOS_Completed": 4612,
+  "EOS_NewPlayers": 732,
+  "EOS_NewCompleters": 85,
   "EOS_Completed_Percentage": 4.53,
   "EosHistory": [
     {
@@ -8089,6 +8089,11 @@
       "Time": "2023-11-21T16:08:05.3185976+00:00",
       "NumProgressed": 101747,
       "NumCompleted": 4610
+    },
+    {
+      "Time": "2023-11-21T17:08:29.9362058+00:00",
+      "NumProgressed": 101748,
+      "NumCompleted": 4612
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -8149,7 +8154,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 76310
+      "UsersEstimate": 76311
     },
     {
       "ID": "TheGoldenRatio",
@@ -8173,7 +8178,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 78345
+      "UsersEstimate": 78346
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -8196,16 +8201,16 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 101747,
-      "Completed": 4610
+      "Progressed": 101748,
+      "Completed": 4612
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-17T20:58:16.4880709+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:08:05.3185971+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:08:29.9362041+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:02.959945+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:01:26.013687+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:08:05.3186463+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:00:32.6944924+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:08:29.9362702+00:00"
 }

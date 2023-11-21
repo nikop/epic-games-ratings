@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 489)  
+Rating: 4.56 (Ranked 490)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 9.00% | ~1,366 |
+| Oyedang, Kopengs | 9.00% | ~1,367 |
 | The Pit and the Pirates | 5.00% | ~759 |
 | Bosmang | 5.00% | ~759 |
 | Safe Cracker | 5.00% | ~57 |
@@ -17,13 +17,13 @@ Rating: 4.56 (Ranked 489)
 | Captain Drummer | 4.00% | ~607 |
 | Celebrations are in Order | 4.00% | ~607 |
 | Impossible Objects | 4.00% | ~607 |
-| Keep Arjun in Check | 4.00% | ~45 |
-| Madame Undersecretary | 4.00% | ~45 |
-| Data Archivist | 3.00% | ~455 |
-| Stogie for Fogey | 3.00% | ~455 |
-| Drug Gifter | 3.00% | ~455 |
-| Heal Thy Medic | 3.00% | ~455 |
-| Khan's Revenge | 3.00% | ~455 |
+| Keep Arjun in Check | 4.00% | ~46 |
+| Madame Undersecretary | 4.00% | ~46 |
+| Data Archivist | 3.00% | ~456 |
+| Stogie for Fogey | 3.00% | ~456 |
+| Drug Gifter | 3.00% | ~456 |
+| Heal Thy Medic | 3.00% | ~456 |
+| Khan's Revenge | 3.00% | ~456 |
 | Master Negotiator | 3.00% | ~34 |
 | Doctor Approved | 2.00% | ~304 |
 | Bottoms up! | 2.00% | ~304 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,180 (Ranked 152)  
+Progressed: 15,184 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-18 | 15,097 | 34 |
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
-| 2023-11-21 | 15,180 | 35 |
+| 2023-11-21 | 15,184 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

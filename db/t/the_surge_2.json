@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -276,9 +276,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2209,
+  "EOS_Progressed": 2210,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3221,6 +3221,11 @@
       "Time": "2023-11-21T00:04:02.7969686+00:00",
       "NumProgressed": 2209,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-21T17:04:35.8591133+00:00",
+      "NumProgressed": 2210,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3240,7 +3245,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ACHV_03",
@@ -3408,7 +3413,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACHV_24",
@@ -3432,15 +3437,15 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACHV_27",
       "SetID": "8p5mlmc",
       "Name": "High Performance",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 685
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHV_28",
@@ -3504,7 +3509,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACHV_36",
@@ -3512,7 +3517,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHV_37",
@@ -3536,7 +3541,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACHV_40",
@@ -3687,7 +3692,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2209,
+      "Progressed": 2210,
       "Completed": 13
     }
   ],
@@ -3695,8 +3700,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-11T23:57:43.5779533+00:00",
-  "LastChanged_Achievements": "2023-11-21T16:04:59.5048328+00:00",
+  "LastChanged_Achievements": "2023-11-21T17:04:35.8591129+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:00.2297931+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:00:01.1167741+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:04:59.5048812+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:59:28.706985+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:35.8591737+00:00"
 }

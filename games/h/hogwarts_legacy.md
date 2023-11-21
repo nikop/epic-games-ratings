@@ -5,12 +5,12 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,403 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,404 |
 | First Class Student | 15.00% | ~45,378 |
 | Troll with the Punches | 14.00% | ~42,353 |
-| A Keen Sense of Spell | 13.00% | ~39,327 |
-| That's a Keeper | 13.00% | ~39,327 |
-| A Talent for Spending | 12.00% | ~36,302 |
+| A Keen Sense of Spell | 13.00% | ~39,328 |
+| That's a Keeper | 13.00% | ~39,328 |
+| A Talent for Spending | 12.00% | ~36,303 |
 | Grappling with a Graphorn | 11.00% | ~33,277 |
 | The One Who Mastered Memories | 11.00% | ~33,277 |
 | The Hallowed Hero | 11.00% | ~33,277 |
@@ -23,9 +23,9 @@ Rating: 4.76 (Ranked 125)
 | Rising From the Ashes | 10.00% | ~30,252 |
 | A Sallow Grave | 9.00% | ~27,227 |
 | The Spell Master | 9.00% | ~27,227 |
-| The Avenging Gazelle | 8.00% | ~24,201 |
-| Beast Friends | 8.00% | ~24,201 |
-| Flight the Good Flight | 8.00% | ~24,201 |
+| The Avenging Gazelle | 8.00% | ~24,202 |
+| Beast Friends | 8.00% | ~24,202 |
+| Flight the Good Flight | 8.00% | ~24,202 |
 | The Seeker of Knowledge | 6.00% | ~18,151 |
 | The Root of the Problem | 6.00% | ~18,151 |
 | Third Time's a Charm | 6.00% | ~18,151 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,118 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,518 (Ranked 54)  
+Progressed: 302,522 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 513 (0.17%) (Ranked 262)
 | 2023-11-18 | 302,354 | 512 |
 | 2023-11-19 | 302,449 | 512 |
 | 2023-11-20 | 302,491 | 513 |
-| 2023-11-21 | 302,518 | 513 |
+| 2023-11-21 | 302,522 | 513 |
 ## Awards
 Max (Character Customization): 24,503  (Ranked 17)  
 Sum: 48,750 (Ranked 30)  

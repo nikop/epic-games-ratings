@@ -2,13 +2,13 @@
   "ID": "31bd7140ab344cd59a770e14b2afbcea",
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 911,
   "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-04T15:00:00+00:00",
     "PcReleaseDate": "2017-07-25T15:00:00+00:00",
@@ -1627,10 +1627,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 746,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-11-21T17:03:01.8518907+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 747,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 746,
+  "NumberOfAwards": 747,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1662,7 +1668,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game is Relaxing",
@@ -1700,8 +1706,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2023-11-19T11:02:53.6456535+00:00",
+  "LastChanged": "2023-11-21T17:03:01.8518905+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:14.3713699+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:02:55.7842999+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:04:08.1156017+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:03:01.851891+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:03:56.225026+00:00"
 }

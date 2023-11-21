@@ -2,13 +2,13 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-01T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -3811,10 +3811,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1241,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-11-21T16:59:54.0345532+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1242,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1241,
+  "NumberOfAwards": 1242,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3864,7 +3870,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3891,8 +3897,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2023-11-20T20:00:17.1318744+00:00",
+  "LastChanged": "2023-11-21T16:59:54.034553+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:47.1253224+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:00:33.5923222+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:04:19.5063419+00:00"
+  "LastUpdate_Ratings": "2023-11-21T16:59:54.0345539+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:04:05.2256172+00:00"
 }

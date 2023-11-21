@@ -4,8 +4,8 @@
 Rating: 4.25 (Ranked 879)  
 Number of Ratings: 366  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 24  (Ranked 522)  
-Sum: 86 (Ranked 456)  
+Max (Extremely Fun): 24  (Ranked 521)  
+Sum: 86 (Ranked 455)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |

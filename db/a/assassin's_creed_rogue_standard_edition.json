@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-rogue",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -799,10 +799,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 248,
       "NumberOfAwardsMax": 183
+    },
+    {
+      "Time": "2023-11-21T17:00:05.5953128+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 250,
+      "NumberOfAwardsMax": 183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248,
+  "NumberOfAwards": 250,
   "NumberOfAwardsMax": 183,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -816,7 +822,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 65
+      "Count": 67
     }
   ],
   "EOS_Progressed": 0,
@@ -830,8 +836,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2023-11-20T15:00:10.1769052+00:00",
+  "LastChanged": "2023-11-21T17:00:05.5953127+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:28.271209+00:00",
-  "LastUpdate_Ratings": "2023-11-21T16:00:48.0212968+00:00",
-  "LastUpdate_Achievements": "2023-11-21T16:08:14.2894327+00:00"
+  "LastUpdate_Ratings": "2023-11-21T17:00:05.5953131+00:00",
+  "LastUpdate_Achievements": "2023-11-21T17:08:36.5964369+00:00"
 }
