@@ -2,9 +2,9 @@
   "ID": "e703feccdf534d6582c67d0ce90ecdd3",
   "Name": "Indies Lies",
   "ProductSlug": "indies-lies-57f843",
-  "Ranking_EOS_Progress": 752,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-15T02:30:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-06-15T10:58:56.5389159+00:00",
   "FirstSeenAchievements": "2023-10-11T03:05:29.2604254+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:04:02.2840473+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:04:04.2775053+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.3411423+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:00:21.0840588+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:04:02.2840519+00:00"
+  "LastUpdate_Ratings": "2023-11-21T12:00:20.0747023+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:04:04.2775083+00:00"
 }

@@ -1097,9 +1097,9 @@
       "Count": 133
     }
   ],
-  "EOS_Progressed": 8309,
+  "EOS_Progressed": 8310,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5397,6 +5397,11 @@
       "Time": "2023-11-20T19:06:49.5461458+00:00",
       "NumProgressed": 8309,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-21T12:06:01.1544958+00:00",
+      "NumProgressed": 8310,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5568,7 +5573,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7727
+      "UsersEstimate": 7728
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5576,7 +5581,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4071
+      "UsersEstimate": 4072
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5599,15 +5604,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8309,
+      "Progressed": 8310,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-20T14:57:44.5127909+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:05:48.8681144+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:06:01.1544945+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.7381553+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:58:12.672898+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:05:48.8681506+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:57:57.2115978+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:06:01.1545299+00:00"
 }

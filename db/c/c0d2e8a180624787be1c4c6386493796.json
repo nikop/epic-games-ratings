@@ -666,9 +666,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -898,9 +898,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -937,8 +937,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:04:33.1703393+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:04:37.734616+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:02:51.1285448+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:04:33.1703937+00:00"
+  "LastUpdate_Ratings": "2023-11-21T12:02:43.0569615+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:04:37.7346724+00:00"
 }

@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15405,
+  "EOS_Progressed": 15406,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16265,6 +16265,11 @@
       "Time": "2023-11-20T19:05:54.2076074+00:00",
       "NumProgressed": 15405,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-21T12:05:18.8513707+00:00",
+      "NumProgressed": 15406,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16458,9 +16463,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_SILVER",
       "SetID": "9201eeb",
       "Name": "Silver Victory (Carthage 1)",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -16794,9 +16799,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 616
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -17906,9 +17911,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -18306,9 +18311,9 @@
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
       "SetID": "9201eeb",
       "Name": "Trade Caravan",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 616
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -19011,21 +19016,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15405,
+      "Progressed": 15406,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15405,
+      "Progressed": 15406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:05:09.6780894+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:05:18.8513703+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:57:26.474816+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:05:09.6789778+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:57:07.2762289+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:05:18.8522747+00:00"
 }

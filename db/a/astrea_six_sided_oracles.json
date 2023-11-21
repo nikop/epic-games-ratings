@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -860,9 +860,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "StellarDismantler",
@@ -1052,9 +1052,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BehenianHero",
@@ -1155,8 +1155,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:06:25.5495128+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:06:41.8629975+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:38.9498707+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:57:32.1214617+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:06:25.5496001+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:57:13.396424+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:06:41.863086+00:00"
 }

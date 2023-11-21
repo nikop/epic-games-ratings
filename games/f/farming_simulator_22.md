@@ -6,39 +6,39 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~39,066 |
-| I read Shakespeare and stuff | 64.00% | ~33,336 |
-| Just a sprinkle | 62.00% | ~32,295 |
-| I'm stumped | 60.00% | ~31,253 |
-| Plant get enough | 60.00% | ~31,253 |
-| This is just my weekend vehicle | 58.00% | ~30,211 |
-| It's just the beginning | 58.00% | ~30,211 |
-| Hard work pays off | 53.00% | ~27,607 |
-| It's never too late to farm | 51.00% | ~26,565 |
-| All out of Land | 44.00% | ~22,919 |
-| Field Trip | 43.00% | ~22,398 |
-| I like to switch it up | 40.00% | ~20,835 |
-| Help me to help you | 38.00% | ~19,793 |
-| Ultimutt Pawesomeness | 28.00% | ~14,585 |
-| Van Gogh | 26.00% | ~13,543 |
-| You wood not believe it | 22.00% | ~11,459 |
-| Vehicle fleet | 22.00% | ~11,459 |
-| The plot thickens | 16.00% | ~8,334 |
-| Large-scale supplier | 16.00% | ~8,334 |
-| Well-Oiled Machine | 16.00% | ~8,334 |
-| Long haul | 16.00% | ~8,334 |
-| Clucky Streak | 15.00% | ~7,813 |
-| That's a wrap | 15.00% | ~7,813 |
-| Fix me up | 13.00% | ~6,771 |
+| Own use | 75.00% | ~39,069 |
+| I read Shakespeare and stuff | 64.00% | ~33,339 |
+| Just a sprinkle | 62.00% | ~32,297 |
+| I'm stumped | 60.00% | ~31,255 |
+| Plant get enough | 60.00% | ~31,255 |
+| This is just my weekend vehicle | 58.00% | ~30,213 |
+| It's just the beginning | 58.00% | ~30,213 |
+| Hard work pays off | 53.00% | ~27,609 |
+| It's never too late to farm | 51.00% | ~26,567 |
+| All out of Land | 44.00% | ~22,920 |
+| Field Trip | 43.00% | ~22,400 |
+| I like to switch it up | 40.00% | ~20,837 |
+| Help me to help you | 38.00% | ~19,795 |
+| Ultimutt Pawesomeness | 28.00% | ~14,586 |
+| Van Gogh | 26.00% | ~13,544 |
+| You wood not believe it | 22.00% | ~11,460 |
+| Vehicle fleet | 22.00% | ~11,460 |
+| The plot thickens | 16.00% | ~8,335 |
+| Large-scale supplier | 16.00% | ~8,335 |
+| Well-Oiled Machine | 16.00% | ~8,335 |
+| Long haul | 16.00% | ~8,335 |
+| Clucky Streak | 15.00% | ~7,814 |
+| That's a wrap | 15.00% | ~7,814 |
+| Fix me up | 13.00% | ~6,772 |
 | Rock on | 12.00% | ~6,251 |
 | Highly cultivated | 11.00% | ~5,730 |
 | It's sow easy | 11.00% | ~5,730 |
 | Giddy-up! | 10.00% | ~5,209 |
 | Cowherd | 7.00% | ~3,646 |
-| Fluffyness | 6.00% | ~3,125 |
-| Road Trip | 6.00% | ~3,125 |
-| Helper A does not stop … ever | 6.00% | ~3,125 |
-| Bringing in the Honey | 6.00% | ~3,125 |
+| Fluffyness | 6.00% | ~3,126 |
+| Road Trip | 6.00% | ~3,126 |
+| Helper A does not stop … ever | 6.00% | ~3,126 |
+| Bringing in the Honey | 6.00% | ~3,126 |
 | Three little piggies… | 4.00% | ~2,084 |
 | Game on | 4.00% | ~2,084 |
 | Pretty colourful | 0.80% | ~417 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~208 |
 | Raisin the stakes | 0.30% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,088 (Ranked 110)  
+Progressed: 52,092 (Ranked 110)  
 Completed: 6 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,16 +265,16 @@ Completed: 6 (0.01%) (Ranked 335)
 | 2023-11-18 | 51,905 | 6 |
 | 2023-11-19 | 52,001 | 6 |
 | 2023-11-20 | 52,068 | 6 |
-| 2023-11-21 | 52,088 | 6 |
+| 2023-11-21 | 52,092 | 6 |
 ## Awards
 Max (Great for Beginners): 5,571  (Ranked 69)  
-Sum: 42,993 (Ranked 33)  
+Sum: 43,000 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,571 |
 | This game has Diverse Characters | 4,566 |
-| This game is Educational | 4,350 |
+| This game is Educational | 4,357 |
 | This game is Relaxing | 4,288 |
 | This game is Highly Recommended | 4,279 |
 | This game has Quickly Understood Controls | 4,268 |
@@ -595,4 +595,4 @@ Diff (max vs sum): 36
 | 2023-11-18 | 4.68 | - | 5,538 | 42,868 |
 | 2023-11-19 | 4.68 | - | 5,556 | 42,911 |
 | 2023-11-20 | 4.68 | - | 5,571 | 42,978 |
-| 2023-11-21 | 4.68 | - | 5,571 | 42,993 |
+| 2023-11-21 | 4.68 | - | 5,571 | 43,000 |

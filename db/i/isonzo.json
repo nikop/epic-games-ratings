@@ -913,9 +913,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 8715,
+  "EOS_Progressed": 8717,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7763,6 +7763,11 @@
       "Time": "2023-11-21T11:06:31.8260498+00:00",
       "NumProgressed": 8715,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-21T12:06:49.0769607+00:00",
+      "NumProgressed": 8717,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -7782,7 +7787,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -7830,7 +7835,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -7910,7 +7915,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -7918,7 +7923,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -7942,7 +7947,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -7950,7 +7955,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -7966,7 +7971,7 @@
       "Name": "Peak Performance",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -8006,7 +8011,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -8022,7 +8027,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -8070,7 +8075,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -8133,7 +8138,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 8715,
+      "Progressed": 8717,
       "Completed": 9
     }
   ],
@@ -8141,8 +8146,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-20T16:00:52.1836078+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:06:31.8260496+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:06:49.0769603+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.1611041+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:00:13.9178528+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:06:31.826104+00:00"
+  "LastUpdate_Ratings": "2023-11-21T12:00:12.5530411+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:06:49.0770171+00:00"
 }

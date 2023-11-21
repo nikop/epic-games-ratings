@@ -19,9 +19,9 @@
 | Anomaly Destroyer | 29.00% | ~20 |
 | Stellar Dismantler | 29.00% | ~20 |
 | Loyal Partner | 26.00% | ~18 |
-| Behenian Champion | 25.00% | ~17 |
+| Behenian Champion | 26.00% | ~18 |
+| Star Killer | 25.00% | ~17 |
 | Astral Adventurer | 23.00% | ~16 |
-| Star Killer | 23.00% | ~16 |
 | Aquarian Champion | 22.00% | ~15 |
 | Shard Spender | 20.00% | ~14 |
 | Unbeatable | 20.00% | ~14 |

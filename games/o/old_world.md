@@ -14,19 +14,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 4.00% | ~616 |
 | Good | 4.00% | ~616 |
 | Intrepid | 4.00% | ~616 |
+| Learned | 4.00% | ~616 |
 | Mason | 4.00% | ~616 |
 | Noble | 4.00% | ~616 |
 | Pioneer | 4.00% | ~616 |
 | Strong | 4.00% | ~616 |
 | Hanging Gardens | 4.00% | ~616 |
 | Oracle | 4.00% | ~616 |
+| Trade Caravan | 4.00% | ~616 |
 | Ambitious | 3.00% | ~462 |
 | Brilliant | 3.00% | ~462 |
 | Enlightened | 3.00% | ~462 |
 | Glorious | 3.00% | ~462 |
 | Just | 3.00% | ~462 |
 | Keystone | 3.00% | ~462 |
-| Learned | 3.00% | ~462 |
 | Magnificent | 3.00% | ~462 |
 | Warrior | 3.00% | ~462 |
 | Wise | 3.00% | ~462 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~462 |
 | Roman Paganism | 3.00% | ~462 |
 | Naming Landmarks | 3.00% | ~462 |
-| Trade Caravan | 3.00% | ~462 |
 | Regicide | 2.00% | ~308 |
 | Beloved | 2.00% | ~308 |
 | Drillmaster | 2.00% | ~308 |
@@ -69,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 2.00% | ~308 |
 | Learn to Play 2 | 2.00% | ~308 |
 | Learn to Play 3 | 2.00% | ~308 |
+| Greece | 2.00% | ~308 |
 | Manichaeism | 2.00% | ~308 |
 | Carthaginian Paganism | 2.00% | ~308 |
 | Egyptian Paganism | 2.00% | ~308 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 1.00% | ~154 |
 | Babylonia | 1.00% | ~154 |
 | Carthage | 1.00% | ~154 |
-| Greece | 1.00% | ~154 |
 | One True Faith | 1.00% | ~154 |
 | Power to the People | 1.00% | ~154 |
 | Persian Paganism | 1.00% | ~154 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.50% | ~77 |
 | Greater Kmt Unified | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~62 |
+| Silver Victory (Carthage 1) | 0.40% | ~62 |
 | Ancient | 0.40% | ~62 |
 | Magnificent Difficulty | 0.40% | ~62 |
 | The Eternal Treaty | 0.40% | ~62 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.40% | ~62 |
 | Necropolis in Waset | 0.40% | ~62 |
 | Prosperous Kmt | 0.40% | ~62 |
-| Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Cleopatra's Love | 0.30% | ~46 |
 | Holy | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,405 (Ranked 151)  
+Progressed: 15,406 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -564,6 +564,7 @@ Completed: 5 (0.03%) (Ranked 319)
 | 2023-11-18 | 15,379 | 5 |
 | 2023-11-19 | 15,395 | 5 |
 | 2023-11-20 | 15,405 | 5 |
+| 2023-11-21 | 15,406 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 218)  

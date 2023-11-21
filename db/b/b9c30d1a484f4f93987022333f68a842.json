@@ -2,9 +2,9 @@
   "ID": "b9c30d1a484f4f93987022333f68a842",
   "Name": "Iragon Prologue",
   "ProductSlug": "iragon-prologue-3e8892",
-  "Ranking_EOS_Progress": 752,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-20T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-20T19:57:50.9404395+00:00",
   "LastUpdate_AppInfo": "2023-11-16T10:57:15.3801233+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:59:26.778726+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:03:28.8616121+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:59:20.8173426+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:03:27.0252013+00:00"
 }

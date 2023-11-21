@@ -1,25 +1,25 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.83 (Ranked 1,029)  
+Rating: 3.82 (Ranked 1,030)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~409,617 |
-| Handy | 41.00% | ~220,978 |
-| Cold Caller | 39.00% | ~210,198 |
-| A Bit On The Side | 27.00% | ~145,522 |
-| Backdoor | 25.00% | ~134,742 |
+| Pro Creation | 76.00% | ~409,619 |
+| Handy | 41.00% | ~220,979 |
+| Cold Caller | 39.00% | ~210,199 |
+| A Bit On The Side | 27.00% | ~145,523 |
+| Backdoor | 25.00% | ~134,743 |
 | Rank Amateur | 21.00% | ~113,184 |
-| Three Way | 19.00% | ~102,404 |
-| Deadly Assassin | 16.00% | ~86,235 |
+| Three Way | 19.00% | ~102,405 |
+| Deadly Assassin | 16.00% | ~86,236 |
 | Gutshot | 14.00% | ~75,456 |
 | Risk It For A Biscuit | 14.00% | ~75,456 |
 | Showoff | 13.00% | ~70,066 |
-| W.H.I.P. | 12.00% | ~64,676 |
+| W.H.I.P. | 12.00% | ~64,677 |
 | Bet Bet Bet | 10.00% | ~53,897 |
-| Blindman's Bluff | 9.00% | ~48,507 |
-| Poker Joker | 9.00% | ~48,507 |
+| Blindman's Bluff | 9.00% | ~48,508 |
+| Poker Joker | 9.00% | ~48,508 |
 | Never Give Up | 8.00% | ~43,118 |
 | The Bigger They Are | 8.00% | ~43,118 |
 | Total Knock Out | 8.00% | ~43,118 |
@@ -51,7 +51,7 @@ Rating: 3.83 (Ranked 1,029)
 | Rounder | 0.10% | ~539 |
 | Top Dog | 0.10% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 538,970 (Ranked 33)  
+Progressed: 538,973 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 2 (0.00%) (Ranked 357)
 | 2023-11-18 | 538,483 | 2 |
 | 2023-11-19 | 538,722 | 2 |
 | 2023-11-20 | 538,890 | 2 |
-| 2023-11-21 | 538,970 | 2 |
+| 2023-11-21 | 538,973 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 415)  
 Sum: 176 (Ranked 409)  
@@ -387,3 +387,4 @@ Diff (max vs sum): 6
 | 2023-11-12 | 3.82 | 59 | 174 |
 | 2023-11-16 | 3.82 | 59 | 175 |
 | 2023-11-19 | 3.83 | 59 | 176 |
+| 2023-11-21 | 3.82 | 59 | 176 |

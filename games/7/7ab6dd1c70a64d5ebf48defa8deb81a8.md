@@ -26,7 +26,7 @@
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | The Mentor | 2.00% | ~4 |
-| Airborne | 1.00% | ~2 |
+| Airborne | 2.00% | ~4 |
 | Shatterer | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |

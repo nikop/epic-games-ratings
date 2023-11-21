@@ -2,9 +2,9 @@
   "ID": "dda54842f3d34f8791f2bddfe7d21676",
   "Name": "Debtors\u0027 Club",
   "ProductSlug": "debtors-club-af8a2a",
-  "Ranking_EOS_Progress": 752,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.3164147+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:59:17.8679692+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:03:16.0770929+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:59:10.7181512+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:03:13.3367337+00:00"
 }

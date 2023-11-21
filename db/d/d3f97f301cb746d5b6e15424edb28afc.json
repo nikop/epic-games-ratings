@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 1004,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2312,9 +2312,9 @@
       "ID": "ACH_WASHCAR_03",
       "SetID": "5fn8ia4",
       "Name": "Sand? Not a problem",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 141
     },
     {
       "ID": "GSS_ACH_01_SHOP_01",
@@ -2456,9 +2456,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 432
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -2560,9 +2560,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 663
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -2977,8 +2977,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:04:45.1693162+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:04:51.0067403+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:59:54.7400698+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:04:45.1693943+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:59:51.829233+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:04:51.0068271+00:00"
 }

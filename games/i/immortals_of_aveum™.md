@@ -6,9 +6,9 @@ Rating: 4.09 (Ranked 967)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~259 |
-| Battlefields Have Memories | 87.00% | ~248 |
+| Battlefields Have Memories | 88.00% | ~251 |
 | Enlisted | 85.00% | ~242 |
-| Maybe Engage a Little | 80.00% | ~228 |
+| Maybe Engage a Little | 81.00% | ~231 |
 | No More Names | 69.00% | ~197 |
 | Initiate | 56.00% | ~160 |
 | Thrada-Kul | 52.00% | ~148 |

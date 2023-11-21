@@ -7135,9 +7135,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140782,
+  "EOS_Progressed": 140784,
   "EOS_Completed": 188,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -29270,6 +29270,11 @@
       "Time": "2023-11-21T11:05:43.8837629+00:00",
       "NumProgressed": 140782,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2023-11-21T12:05:55.9109989+00:00",
+      "NumProgressed": 140784,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 112,
@@ -29361,7 +29366,7 @@
       "Name": "One Easy Payment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "bigsale02",
@@ -29385,7 +29390,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "blueprint02",
@@ -29545,7 +29550,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "craft02",
@@ -29633,7 +29638,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "energy02",
@@ -29657,7 +29662,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "expansion02",
@@ -29865,7 +29870,7 @@
       "Name": "Budding Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "level02",
@@ -30057,7 +30062,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "sell02",
@@ -30145,7 +30150,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "workers02",
@@ -30176,15 +30181,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140782,
+      "Progressed": 140784,
       "Completed": 188
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-21T08:02:54.4052683+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:05:43.8837623+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:05:55.9109986+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:02:50.227583+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:05:43.8839567+00:00"
+  "LastUpdate_Ratings": "2023-11-21T12:02:42.0639308+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:05:55.9111852+00:00"
 }

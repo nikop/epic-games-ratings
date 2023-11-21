@@ -2819,9 +2819,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 664341,
+  "EOS_Progressed": 664349,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1899,
+  "EOS_NewPlayers": 1898,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27329,6 +27329,11 @@
       "Time": "2023-11-21T11:09:24.6775117+00:00",
       "NumProgressed": 664341,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-21T12:09:12.6181997+00:00",
+      "NumProgressed": 664349,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -27340,7 +27345,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99651
+      "UsersEstimate": 99652
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -27348,7 +27353,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79721
+      "UsersEstimate": 79722
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -27380,7 +27385,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119581
+      "UsersEstimate": 119583
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -27388,7 +27393,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86364
+      "UsersEstimate": 86365
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -27460,7 +27465,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 93008
+      "UsersEstimate": 93009
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -27588,7 +27593,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112938
+      "UsersEstimate": 112939
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -27596,7 +27601,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39860
+      "UsersEstimate": 39861
     },
     {
       "ID": "_03_02_NANUK",
@@ -27660,7 +27665,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 106295
+      "UsersEstimate": 106296
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -27755,15 +27760,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 664341,
+      "Progressed": 664349,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-19T16:02:19.7490617+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:09:24.6775114+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:09:12.6181994+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.4182742+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:58:13.8179068+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:09:24.6776263+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:57:58.7798888+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:09:12.6183384+00:00"
 }

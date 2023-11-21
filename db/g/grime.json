@@ -1519,9 +1519,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159374,
+  "EOS_Progressed": 159379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1178,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16494,6 +16494,11 @@
       "Time": "2023-11-21T11:03:25.9183463+00:00",
       "NumProgressed": 159374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T12:03:23.957544+00:00",
+      "NumProgressed": 159379,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16513,7 +16518,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -16527,9 +16532,9 @@
       "ID": "ACQUIRE_ALLTRAITS",
       "SetID": "ccc0dlh",
       "Name": "Assimilation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -16641,7 +16646,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -16697,7 +16702,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -16705,7 +16710,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -16759,9 +16764,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 3188
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -16833,7 +16838,7 @@
       "Name": "Proportions",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -16872,21 +16877,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158957,
+      "Progressed": 158962,
       "Completed": 1213
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159374,
+      "Progressed": 159379,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-21T10:06:38.5365696+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:03:25.9183459+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:03:23.9575436+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:00:16.0477353+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:03:25.9184413+00:00"
+  "LastUpdate_Ratings": "2023-11-21T12:00:14.6186564+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:03:23.9576714+00:00"
 }

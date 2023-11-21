@@ -5,46 +5,46 @@ Rating: 4.64 (Ranked 333)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,778 |
-| Welcome Aboard | 85.00% | ~1,625 |
-| Lab Rat | 76.00% | ~1,453 |
-| All Systems Go | 67.00% | ~1,281 |
-| Brute Force | 66.00% | ~1,262 |
-| Cannon Fodder | 62.00% | ~1,185 |
-| Autofire | 58.00% | ~1,109 |
+| Marksman | 93.00% | ~1,779 |
+| Welcome Aboard | 85.00% | ~1,626 |
+| Lab Rat | 76.00% | ~1,454 |
+| All Systems Go | 67.00% | ~1,282 |
+| Brute Force | 66.00% | ~1,263 |
+| Cannon Fodder | 62.00% | ~1,186 |
+| Autofire | 58.00% | ~1,110 |
 | True Believer | 57.00% | ~1,090 |
 | Story Teller | 56.00% | ~1,071 |
 | Raise the Stakes | 56.00% | ~1,071 |
-| Surgeon | 53.00% | ~1,013 |
-| Exterminator | 52.00% | ~994 |
-| Greenhouse Effect | 52.00% | ~994 |
-| Freeze | 51.00% | ~975 |
+| Surgeon | 53.00% | ~1,014 |
+| Exterminator | 52.00% | ~995 |
+| Greenhouse Effect | 52.00% | ~995 |
+| Freeze | 51.00% | ~976 |
 | Full Arsenal | 46.00% | ~880 |
 | S.O.S. | 46.00% | ~880 |
-| Get Off My Ship! | 44.00% | ~841 |
-| Strange Transmissions | 44.00% | ~841 |
+| Get Off My Ship! | 44.00% | ~842 |
+| Strange Transmissions | 44.00% | ~842 |
 | Live with the Hot Ones | 42.00% | ~803 |
 | Wreckage | 42.00% | ~803 |
 | Keeper of the Faith | 40.00% | ~765 |
 | Betrayed | 39.00% | ~746 |
 | Legend Teller | 38.00% | ~727 |
-| Exodus | 37.00% | ~707 |
-| There's Always Peng! | 37.00% | ~707 |
-| Mindless Prey | 37.00% | ~707 |
+| Exodus | 37.00% | ~708 |
+| There's Always Peng! | 37.00% | ~708 |
+| Mindless Prey | 37.00% | ~708 |
 | A Cut Above | 33.00% | ~631 |
 | Front Toward Enemy | 33.00% | ~631 |
-| Whole Again | 29.00% | ~554 |
-| Set A Benchmark | 29.00% | ~554 |
+| Whole Again | 29.00% | ~555 |
+| Set A Benchmark | 29.00% | ~555 |
 | Pack Rat | 26.00% | ~497 |
 | Final Regeneration | 25.00% | ~478 |
 | Full Contact | 25.00% | ~478 |
 | Full Clearance | 24.00% | ~459 |
 | Pusher | 22.00% | ~421 |
 | Z-Baller | 22.00% | ~421 |
-| Marked | 20.00% | ~382 |
+| Marked | 20.00% | ~383 |
 | Eviscerator | 19.00% | ~363 |
 | Backbreaker | 14.00% | ~268 |
-| Wishbone | 8.00% | ~153 |
+| Wishbone | 9.00% | ~172 |
 | Trusted Contractor | 7.00% | ~134 |
 | Built To Order | 5.00% | ~96 |
 | Merchant | 5.00% | ~96 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 333)
 | Untouchable | 2.00% | ~38 |
 | One Gun | 2.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,912 (Ranked 226)  
+Progressed: 1,913 (Ranked 226)  
 Completed: 10 (0.52%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 10 (0.52%) (Ranked 199)
 | 2023-11-18 | 1,871 | 10 |
 | 2023-11-19 | 1,899 | 10 |
 | 2023-11-20 | 1,910 | 10 |
-| 2023-11-21 | 1,912 | 10 |
+| 2023-11-21 | 1,913 | 10 |
 ## Awards
 Max (Great Boss Battles): 112  (Ranked 346)  
 Sum: 112 (Ranked 439)  

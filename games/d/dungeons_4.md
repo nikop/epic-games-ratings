@@ -15,8 +15,8 @@
 | Bad Elves Go Everywhere | 66.00% | ~211 |
 | Master of Magic | 65.00% | ~208 |
 | Heroes’ Gorge | 61.00% | ~195 |
+| Unicorn steaks – fresh off the hoof! | 60.00% | ~192 |
 | Magic Accidents | 59.00% | ~189 |
-| Unicorn steaks – fresh off the hoof! | 59.00% | ~189 |
 | Minions, Minions! | 57.00% | ~182 |
 | Trap Master | 53.00% | ~170 |
 | The Ascent | 51.00% | ~163 |
@@ -27,7 +27,7 @@
 | Pure Dynamite! | 42.00% | ~134 |
 | “… like son” | 38.00% | ~122 |
 | Mana Cannon | 36.00% | ~115 |
-| Dungeonlord Gorgu | 33.00% | ~106 |
+| Dungeonlord Gorgu | 34.00% | ~109 |
 | The Cathedral of Light | 32.00% | ~102 |
 | Shame! Shame! Shame! | 32.00% | ~102 |
 | Tanos' Crusade Against Thalya | 29.00% | ~93 |

@@ -693,9 +693,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3733,
+  "EOS_Progressed": 3734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5613,6 +5613,11 @@
       "Time": "2023-11-21T10:12:42.150887+00:00",
       "NumProgressed": 3733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T12:06:16.2071212+00:00",
+      "NumProgressed": 3734,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5665,7 +5670,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_15",
@@ -5761,7 +5766,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "achievement_7",
@@ -5792,7 +5797,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3733,
+      "Progressed": 3734,
       "Completed": 0
     }
   ],
@@ -5800,8 +5805,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-20T23:58:50.4899743+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:06:02.4731428+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:06:16.2071206+00:00",
   "LastUpdate_AppInfo": "2023-11-16T05:57:12.8821964+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:59:33.4470248+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:06:02.4731842+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:59:28.1481664+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:06:16.2071793+00:00"
 }

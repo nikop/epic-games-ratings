@@ -2,9 +2,9 @@
   "ID": "e5961d482ed54010a4d2fe7f1bf62838",
   "Name": "Lost and Hound",
   "ProductSlug": "lost-and-hound-b40611",
-  "Ranking_EOS_Progress": 752,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-15T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.3649614+00:00",
-  "LastUpdate_Ratings": "2023-11-21T11:00:50.5147804+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:04:40.746434+00:00"
+  "LastUpdate_Ratings": "2023-11-21T12:00:52.5904319+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:04:45.9979247+00:00"
 }

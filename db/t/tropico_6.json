@@ -1389,9 +1389,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 6079,
+  "EOS_Progressed": 6080,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13259,6 +13259,11 @@
       "Time": "2023-11-21T11:09:42.0895945+00:00",
       "NumProgressed": 6079,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T12:09:31.3358769+00:00",
+      "NumProgressed": 6080,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -13422,7 +13427,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -13430,7 +13435,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4560
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13526,7 +13531,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2797
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -13542,7 +13547,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -13589,15 +13594,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 6079,
+      "Progressed": 6080,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-20T18:59:34.5795733+00:00",
-  "LastChanged_Achievements": "2023-11-21T11:09:42.0895942+00:00",
+  "LastChanged_Achievements": "2023-11-21T12:09:31.3358765+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:32.3230973+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:59:26.8987977+00:00",
-  "LastUpdate_Achievements": "2023-11-21T11:09:42.0896927+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:59:20.9623524+00:00",
+  "LastUpdate_Achievements": "2023-11-21T12:09:31.3359689+00:00"
 }
