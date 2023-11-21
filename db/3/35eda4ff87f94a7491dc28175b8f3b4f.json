@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7215,
+  "EOS_Progressed": 7229,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 3881,
+  "EOS_NewPlayers": 3895,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-11-21T13:15:38.1509998+00:00",
       "NumProgressed": 7215,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-21T14:05:21.3994506+00:00",
+      "NumProgressed": 7229,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -1554,7 +1559,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -1570,7 +1575,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -1578,7 +1583,7 @@
       "Name": "Savior",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -1594,7 +1599,7 @@
       "Name": "Rescuer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -1602,15 +1607,15 @@
       "Name": "Secrets Out",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
       "SetID": "24fdn9j",
       "Name": "Locksmith",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 577
+      "UsersEstimate": 506
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -1625,7 +1630,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 7215,
+      "Progressed": 7229,
       "Completed": 16
     }
   ],
@@ -1633,8 +1638,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-20T09:58:43.7554605+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:15:38.1509995+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:05:21.3994503+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7592471+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:08:07.9739958+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:15:38.1510126+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:58:31.3885317+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:05:21.3994625+00:00"
 }

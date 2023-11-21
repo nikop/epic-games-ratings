@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78882,
+  "EOS_Progressed": 78883,
   "EOS_Completed": 850,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24142,6 +24142,11 @@
       "Time": "2023-11-21T13:15:07.18403+00:00",
       "NumProgressed": 78882,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-21T14:04:58.2524056+00:00",
+      "NumProgressed": 78883,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24225,7 +24230,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15776
+      "UsersEstimate": 15777
     },
     {
       "ID": "Hearty",
@@ -24352,7 +24357,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78882,
+      "Progressed": 78883,
       "Completed": 850
     }
   ],
@@ -24360,8 +24365,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:15:07.1840297+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:04:58.2524053+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:09:12.7744993+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:15:07.1841616+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:59:17.5931326+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:04:58.2525836+00:00"
 }

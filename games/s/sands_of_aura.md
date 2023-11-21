@@ -19,10 +19,10 @@
 | The Guardian of Fire | 5.00% | ~4 |
 | Sovereignty of Irons | 5.00% | ~4 |
 | Let Me Solo Them | 4.00% | ~3 |
+| The River Styx | 3.00% | ~2 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
 | Smotherly Love | 1.00% | ~1 |
-| The River Styx | 1.00% | ~1 |
 | Transformative Nature | 1.00% | ~1 |
 | Champion of Starspire | 1.00% | ~1 |
 | No Salvation | 0.00% | ~0 |

@@ -7,18 +7,19 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 0.80% | ~12 |
+| First Steps | 0.50% | ~1,200 |
 | Not Touching You | 0.50% | ~7 |
-| First Steps | 0.40% | ~960 |
+| Getting A Glimpse | 0.40% | ~960 |
 | A Quick Escape | 0.40% | ~960 |
 | Uncharted Territory | 0.40% | ~960 |
 | Ambitious Intent | 0.30% | ~720 |
 | Nothing To Lose | 0.30% | ~720 |
 | Heavy Hitter | 0.30% | ~720 |
 | Delving Deeper | 0.30% | ~720 |
-| Getting A Glimpse | 0.30% | ~720 |
 | R.I.P | 0.30% | ~720 |
 | That Was Quick | 0.30% | ~720 |
 | Colorful Corpse | 0.30% | ~720 |
+| Dig Your Own Grave | 0.30% | ~720 |
 | Walk It Off | 0.30% | ~720 |
 | Cold Hearted | 0.30% | ~720 |
 | I Am Overburdened | 0.30% | ~720 |
@@ -47,7 +48,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 0.20% | ~480 |
 | A Rough Road | 0.20% | ~480 |
 | To The Death! | 0.20% | ~480 |
-| Dig Your Own Grave | 0.20% | ~480 |
 | Well Prepared | 0.20% | ~480 |
 | Who To Trust? | 0.20% | ~480 |
 | Just Chilling | 0.20% | ~480 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,011 (Ranked 62)  
+Progressed: 240,014 (Ranked 62)  
 Completed: 290 (0.12%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 290 (0.12%) (Ranked 274)
 | 2023-11-18 | 239,893 | 288 |
 | 2023-11-19 | 239,946 | 288 |
 | 2023-11-20 | 239,989 | 289 |
-| 2023-11-21 | 240,011 | 290 |
+| 2023-11-21 | 240,014 | 290 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 132)  
 Sum: 11,685 (Ranked 83)  

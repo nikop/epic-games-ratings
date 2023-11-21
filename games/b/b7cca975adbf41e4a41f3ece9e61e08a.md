@@ -5,50 +5,50 @@ Rating: 4.80 (Ranked 86)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 94.00% | ~8,168 |
-| I Challenge You To Save More Money! | 89.00% | ~7,733 |
-| I Love How Tough You Are | 76.00% | ~6,604 |
-| Wanna Come To My Place For Dinner? | 69.00% | ~5,995 |
-| What I Want Is You | 64.00% | ~5,561 |
-| To Be Or Not To Be | 60.00% | ~5,213 |
-| Love Actually | 51.00% | ~4,431 |
-| Are You Alright? | 51.00% | ~4,431 |
-| Drama King | 44.00% | ~3,823 |
-| You're Really Something Else | 39.00% | ~3,389 |
-| Happy Family | 37.00% | ~3,215 |
-| Go Clean up In Your Own Way | 37.00% | ~3,215 |
-| Worthless Speech | 37.00% | ~3,215 |
-| ONE PUNCH | 36.00% | ~3,128 |
-| FIRST LOVE | 36.00% | ~3,128 |
-| Absolutely Elegant | 35.00% | ~3,041 |
-| Drama CP: Reel to Real | 35.00% | ~3,041 |
-| Still Single | 34.00% | ~2,954 |
-| Go Get Some Fries On The Pier | 31.00% | ~2,694 |
-| Days Of Innocence | 31.00% | ~2,694 |
-| David | 30.00% | ~2,607 |
-| A Slap In The Face! | 27.00% | ~2,346 |
-| All I Have Is Money | 26.00% | ~2,259 |
-| Lover In Dark Alley | 25.00% | ~2,172 |
-| Let Me Be Your Toy Boy | 25.00% | ~2,172 |
-| That's So You | 25.00% | ~2,172 |
-| SALUTE | 25.00% | ~2,172 |
-| Off We Sail Tonight | 21.00% | ~1,825 |
-| Love You Three Thousand | 17.00% | ~1,477 |
-| Can You Do This Or Not? | 16.00% | ~1,390 |
-| Doesn't Matter I'll Handle It | 15.00% | ~1,303 |
+| Last Night...Did We... | 94.00% | ~8,173 |
+| I Challenge You To Save More Money! | 89.00% | ~7,739 |
+| I Love How Tough You Are | 76.00% | ~6,608 |
+| Wanna Come To My Place For Dinner? | 69.00% | ~6,000 |
+| What I Want Is You | 64.00% | ~5,565 |
+| To Be Or Not To Be | 60.00% | ~5,217 |
+| Love Actually | 51.00% | ~4,434 |
+| Are You Alright? | 51.00% | ~4,434 |
+| Drama King | 44.00% | ~3,826 |
+| You're Really Something Else | 39.00% | ~3,391 |
+| Happy Family | 37.00% | ~3,217 |
+| Go Clean up In Your Own Way | 37.00% | ~3,217 |
+| Worthless Speech | 37.00% | ~3,217 |
+| ONE PUNCH | 36.00% | ~3,130 |
+| FIRST LOVE | 36.00% | ~3,130 |
+| Absolutely Elegant | 35.00% | ~3,043 |
+| Drama CP: Reel to Real | 35.00% | ~3,043 |
+| Still Single | 34.00% | ~2,956 |
+| Go Get Some Fries On The Pier | 31.00% | ~2,695 |
+| Days Of Innocence | 31.00% | ~2,695 |
+| David | 30.00% | ~2,608 |
+| A Slap In The Face! | 27.00% | ~2,348 |
+| All I Have Is Money | 26.00% | ~2,261 |
+| Lover In Dark Alley | 25.00% | ~2,174 |
+| Let Me Be Your Toy Boy | 25.00% | ~2,174 |
+| That's So You | 25.00% | ~2,174 |
+| SALUTE | 25.00% | ~2,174 |
+| Off We Sail Tonight | 21.00% | ~1,826 |
+| Love You Three Thousand | 17.00% | ~1,478 |
+| Can You Do This Or Not? | 16.00% | ~1,391 |
+| Doesn't Matter I'll Handle It | 15.00% | ~1,304 |
 | The Flash | 12.00% | ~1,043 |
 | New Yoga Pose Unlocked | 12.00% | ~1,043 |
-| My Dear Love! | 9.00% | ~782 |
-| Life Is A Rollercoaster | 9.00% | ~782 |
-| Counting Sheep? | 9.00% | ~782 |
-| This Ain't Right In Many Ways... | 9.00% | ~782 |
-| Boys Need To Protect Themselves | 8.00% | ~695 |
-| Stubborn Noob | 8.00% | ~695 |
+| My Dear Love! | 9.00% | ~783 |
+| Life Is A Rollercoaster | 9.00% | ~783 |
+| Counting Sheep? | 9.00% | ~783 |
+| This Ain't Right In Many Ways... | 9.00% | ~783 |
+| Boys Need To Protect Themselves | 8.00% | ~696 |
+| Stubborn Noob | 8.00% | ~696 |
 | Hurrah! | 2.00% | ~174 |
 | Tall; Grande; Venti | 2.00% | ~174 |
 | Limerence | 2.00% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,689 (Ranked 167)  
+Progressed: 8,695 (Ranked 167)  
 Completed: 149 (1.71%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 149 (1.71%) (Ranked 134)
 | 2023-11-18 | 8,534 | 138 |
 | 2023-11-19 | 8,609 | 143 |
 | 2023-11-20 | 8,665 | 148 |
-| 2023-11-21 | 8,689 | 149 |
+| 2023-11-21 | 8,695 | 149 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

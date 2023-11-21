@@ -14,7 +14,7 @@
 | Thalya's Concentrated Fury | 68.00% | ~218 |
 | Bad Elves Go Everywhere | 66.00% | ~211 |
 | Master of Magic | 65.00% | ~208 |
-| Heroes’ Gorge | 61.00% | ~195 |
+| Heroes’ Gorge | 62.00% | ~198 |
 | Unicorn steaks – fresh off the hoof! | 60.00% | ~192 |
 | Magic Accidents | 59.00% | ~189 |
 | Minions, Minions! | 57.00% | ~182 |
@@ -28,11 +28,11 @@
 | “… like son” | 38.00% | ~122 |
 | Mana Cannon | 36.00% | ~115 |
 | Dungeonlord Gorgu | 34.00% | ~109 |
+| The Cathedral of Light | 33.00% | ~106 |
 | Shame! Shame! Shame! | 33.00% | ~106 |
-| The Cathedral of Light | 32.00% | ~102 |
 | Tanos' Crusade Against Thalya | 29.00% | ~93 |
+| Unstoppable Horde | 24.00% | ~77 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~74 |
-| Unstoppable Horde | 23.00% | ~74 |
 | All’s Well That Ends Evil | 23.00% | ~74 |
 | Hungry, Hungry Gorgu! | 22.00% | ~70 |
 | Master of the Undead | 22.00% | ~70 |
@@ -57,13 +57,13 @@
 | The Rune Sockets of Finitude (Part 2) | 8.00% | ~26 |
 | To Infinity And Beyond! | 7.00% | ~22 |
 | To the Max! | 6.00% | ~19 |
+| The Last Stand - This Time For Real! | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
-| The Last Stand - This Time For Real! | 5.00% | ~16 |
+| Hands Off My Stones | 4.00% | ~13 |
 | Evilification | 4.00% | ~13 |
 | No Mana, No Cry | 3.00% | ~10 |
 | Heal Heal Blessing | 3.00% | ~10 |
-| Hands Off My Stones | 3.00% | ~10 |
 | I Don't Need Any Help | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 320 (Ranked 339)  

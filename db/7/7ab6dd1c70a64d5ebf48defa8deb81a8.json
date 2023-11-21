@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -838,9 +838,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_10",
@@ -950,9 +950,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_24",
@@ -1014,17 +1014,17 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_34",
@@ -1069,8 +1069,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:18:42.7180772+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:08:58.7545597+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:10:00.9696789+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:18:42.7181103+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:59:51.6843191+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:08:58.7545791+00:00"
 }

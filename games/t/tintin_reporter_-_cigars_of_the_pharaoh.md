@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 82.00% | ~18 |
-| A Loyal Friend | 36.00% | ~8 |
-| Abandon Ship! | 27.00% | ~6 |
-| The Tomb of Kih-Oskh | 18.00% | ~4 |
-| Cat Lover | 14.00% | ~3 |
-| The Weighing of the Soul | 14.00% | ~3 |
-| The Curse of Kih-Oskh | 14.00% | ~3 |
-| It's a Deal! | 14.00% | ~3 |
+| My Papyrus! | 83.00% | ~19 |
+| A Loyal Friend | 35.00% | ~8 |
+| Abandon Ship! | 26.00% | ~6 |
+| The Tomb of Kih-Oskh | 22.00% | ~5 |
+| Cat Lover | 13.00% | ~3 |
+| The Weighing of the Soul | 13.00% | ~3 |
+| The Curse of Kih-Oskh | 13.00% | ~3 |
+| It's a Deal! | 13.00% | ~3 |
 | Mummy Nightmare | 9.00% | ~2 |
 | Barking Dog | 9.00% | ~2 |
 | Dynamite, Treason and Coconuts | 9.00% | ~2 |
-| In the Name of the Law | 5.00% | ~1 |
-| Au Revoir, Abudin | 5.00% | ~1 |
-| Mysterious Bungalow | 5.00% | ~1 |
-| The Eyes! | 5.00% | ~1 |
-| Punctual | 5.00% | ~1 |
-| Threat | 5.00% | ~1 |
-| Save a Friend | 5.00% | ~1 |
+| In the Name of the Law | 4.00% | ~1 |
+| Au Revoir, Abudin | 4.00% | ~1 |
+| Mysterious Bungalow | 4.00% | ~1 |
+| The Eyes! | 4.00% | ~1 |
+| Punctual | 4.00% | ~1 |
+| Threat | 4.00% | ~1 |
+| Save a Friend | 4.00% | ~1 |
 | Keep the Doctor Away | 0.00% | ~0 |
 | Just a Palm Tree | 0.00% | ~0 |
 | Under the Hood | 0.00% | ~0 |
@@ -42,7 +42,7 @@
 | Subtlety | 0.00% | ~0 |
 | Guilt | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 540)  
+Progressed: 23 (Ranked 537)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,4 +54,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 17 | 0 |
 | 2023-11-19 | 20 | 0 |
 | 2023-11-20 | 21 | 0 |
-| 2023-11-21 | 22 | 0 |
+| 2023-11-21 | 23 | 0 |

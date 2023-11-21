@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 1004,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2600,9 +2600,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 653
+      "UsersEstimate": 663
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -2688,9 +2688,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 693
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -2832,9 +2832,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 321
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -2977,8 +2977,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:14:30.5140329+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:04:30.9136147+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:09:34.2696553+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:14:30.5141138+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:59:32.9807541+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:04:30.913696+00:00"
 }

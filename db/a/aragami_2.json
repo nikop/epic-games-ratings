@@ -5,7 +5,7 @@
   "Ranking_Rating": 505,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
-  "Ranking_EOS_Progress": 114,
+  "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 84,
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43933,
+  "EOS_Progressed": 43934,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17754,6 +17754,11 @@
       "Time": "2023-11-21T13:12:25.7753896+00:00",
       "NumProgressed": 43933,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-11-21T14:02:58.0180752+00:00",
+      "NumProgressed": 43934,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 44,
@@ -17773,7 +17778,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13619
+      "UsersEstimate": 13620
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17885,7 +17890,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35146
+      "UsersEstimate": 35147
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17957,7 +17962,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16255
+      "UsersEstimate": 16256
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -17989,7 +17994,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24163
+      "UsersEstimate": 24164
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -18037,7 +18042,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29435
+      "UsersEstimate": 29436
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18101,7 +18106,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40858
+      "UsersEstimate": 40859
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -18109,14 +18114,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22845
+      "UsersEstimate": 22846
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43933,
+      "Progressed": 43934,
       "Completed": 241
     }
   ],
@@ -18124,8 +18129,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:12:25.7753893+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:02:58.018075+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:11.2490619+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:11:52.257032+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:12:25.7755122+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:02:34.3716408+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:02:58.0181735+00:00"
 }

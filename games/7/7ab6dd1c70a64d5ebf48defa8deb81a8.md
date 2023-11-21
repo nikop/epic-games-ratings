@@ -9,31 +9,31 @@
 | Find Allies | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | Adventurer | 6.00% | ~12 |
+| Geared Up | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
 | Calm before the Storm | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
-| Geared Up | 5.00% | ~10 |
+| Stone Collection | 5.00% | ~10 |
 | The Collector | 5.00% | ~10 |
 | Break Out | 4.00% | ~8 |
 | A Taste of Wrath | 4.00% | ~8 |
 | Big Bazar | 4.00% | ~8 |
 | Fashion Victim | 4.00% | ~8 |
-| Stone Collection | 4.00% | ~8 |
+| The Mentor | 3.00% | ~6 |
 | Essence Blow | 3.00% | ~6 |
 | Shatter Them All | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | Alchemist | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
-| The Mentor | 2.00% | ~4 |
 | Airborne | 2.00% | ~4 |
+| Miner | 2.00% | ~4 |
 | Shatterer | 1.00% | ~2 |
 | Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |
 | Clear Sight | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
-| Miner | 0.50% | ~1 |
 | Shardbearer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1347,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3733,9 +3733,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 125,
-      "UsersEstimate": 674
+      "UsersEstimate": 687
     },
     {
       "ID": "achievement_10",
@@ -4761,8 +4761,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:17:13.7858965+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:07:52.0859215+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:12:06.7909839+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:17:13.7860772+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:02:44.6271932+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:07:52.0860799+00:00"
 }

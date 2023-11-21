@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -443,7 +443,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218754,
+  "EOS_Progressed": 218755,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 0,
@@ -24918,6 +24918,11 @@
       "Time": "2023-11-21T13:15:50.182025+00:00",
       "NumProgressed": 218754,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T14:05:30.3899459+00:00",
+      "NumProgressed": 218755,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -24929,7 +24934,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 102814
+      "UsersEstimate": 102815
     },
     {
       "ID": "AlekhinesGun",
@@ -25169,7 +25174,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 45938
+      "UsersEstimate": 45939
     },
     {
       "ID": "Stalemate",
@@ -25185,7 +25190,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26250
+      "UsersEstimate": 26251
     },
     {
       "ID": "TournamentAmateur",
@@ -25232,7 +25237,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 218754,
+      "Progressed": 218755,
       "Completed": 2
     }
   ],
@@ -25240,8 +25245,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-14T13:07:38.4889289+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:15:50.1820245+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:05:30.3899456+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:05.7637143+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:12:02.825477+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:15:50.1821686+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:02:41.9060854+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:05:30.3900568+00:00"
 }

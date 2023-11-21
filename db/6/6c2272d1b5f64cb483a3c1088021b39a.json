@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1208,
+  "EOS_Progressed": 1209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4209,6 +4209,11 @@
       "Time": "2023-11-20T19:10:03.8157994+00:00",
       "NumProgressed": 1208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T14:09:01.1662372+00:00",
+      "NumProgressed": 1209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4220,7 +4225,7 @@
       "Name": "Adventurous 1",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "adventurous_2",
@@ -4652,7 +4657,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "soul_shards_2",
@@ -4747,14 +4752,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1208,
+      "Progressed": 1209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:18:46.1444412+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:09:01.166237+00:00",
   "LastUpdate_AppInfo": "2023-11-14T14:57:10.5357411+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:06:54.6976409+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:18:46.1444999+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:57:40.2890547+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:09:01.1663066+00:00"
 }

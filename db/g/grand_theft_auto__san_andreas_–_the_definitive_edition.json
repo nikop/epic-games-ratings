@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1543,9 +1543,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13734,
+  "EOS_Progressed": 13735,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14813,6 +14813,11 @@
       "Time": "2023-11-21T12:08:55.9621095+00:00",
       "NumProgressed": 13734,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-21T14:08:28.3294801+00:00",
+      "NumProgressed": 13735,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14824,7 +14829,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11262
+      "UsersEstimate": 11263
     },
     {
       "ID": "ACH02",
@@ -14880,7 +14885,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 7004
+      "UsersEstimate": 7005
     },
     {
       "ID": "ACH09",
@@ -14904,7 +14909,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "ACH12",
@@ -14920,7 +14925,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "ACH14",
@@ -14992,7 +14997,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "ACH23",
@@ -15048,7 +15053,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2197
+      "UsersEstimate": 2198
     },
     {
       "ID": "ACH30",
@@ -15103,7 +15108,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13734,
+      "Progressed": 13735,
       "Completed": 53
     }
   ],
@@ -15111,8 +15116,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-21T08:57:51.2071784+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:18:02.1582426+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:08:28.3294798+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:30.7041733+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:06:43.1559448+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:18:02.1583125+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:57:32.0232952+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:08:28.3295477+00:00"
 }

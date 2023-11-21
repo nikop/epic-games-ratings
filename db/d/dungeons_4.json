@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -799,9 +799,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -903,17 +903,17 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_main10fire_naga",
@@ -1135,17 +1135,17 @@
       "ID": "ach_main19war_stonedamage",
       "SetID": "4hg22ll",
       "Name": "Hands Off My Stones",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_main20end_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand\u00A0- This Time For Real!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_main20end_notristan",
@@ -1174,8 +1174,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-21T13:13:09.7952271+00:00",
+  "LastChanged_Achievements": "2023-11-21T14:03:30.7065835+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:09:40.1400894+00:00",
-  "LastUpdate_Achievements": "2023-11-21T13:13:09.7952674+00:00"
+  "LastUpdate_Ratings": "2023-11-21T13:59:36.9641382+00:00",
+  "LastUpdate_Achievements": "2023-11-21T14:03:30.7066466+00:00"
 }
