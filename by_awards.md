@@ -128,7 +128,7 @@
 | 126 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,570 | 4.79 | 95 |
 | 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,560 | 4.54 | 525 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,556 | 4.86 | 32 |
-| 129 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,550 | 4.48 | 624 |
+| 129 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,555 | 4.48 | 624 |
 | 130 | [World of Warships](games/w/world_of_warships.md) | 1,525 | 4.41 | 721 |
 | 131 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,524 | 4.53 | 540 |
 | 132 | [Ring of Pain](games/r/ring_of_pain.md) | 1,503 | 4.58 | 445 |
@@ -217,9 +217,9 @@
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 463 | 4.84 | 52 |
 | 216 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 295 |
 | 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 459 | 4.71 | 200 |
-| 218 | [RimWorld](games/r/rimworld.md) | 454 | 4.89 | 12 |
-| 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 453 | 4.70 | 213 |
-| 220 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 452 | 4.66 | 295 |
+| 218 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 457 | 4.66 | 295 |
+| 219 | [RimWorld](games/r/rimworld.md) | 454 | 4.89 | 12 |
+| 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 453 | 4.70 | 213 |
 | 221 | [Warface](games/w/warface.md) | 446 | 3.90 | 1,023 |
 | 222 | [Against the Storm](games/a/against_the_storm.md) | 440 | 4.81 | 78 |
 | 223 | [Into the Breach](games/i/into_the_breach.md) | 439 | 4.84 | 52 |
@@ -295,7 +295,7 @@
 | 292 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 190 | 4.29 | 842 |
 | 294 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 187 | 4.22 | 899 |
 | 294 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 364 |
-| 296 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 186 | 4.63 | 349 |
+| 294 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 187 | 4.63 | 349 |
 | 297 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 183 | 4.58 | 445 |
 | 297 | [Star Stable Online](games/s/star_stable_online.md) | 183 | 4.43 | 691 |
 | 297 | [The Witness](games/t/the_witness.md) | 183 | 4.70 | 213 |

@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.59% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.49% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.48% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -59,7 +59,7 @@
 | 57 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 58 | [Scorn](games/s/scorn.md) | 6.91% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.49% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.48% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -153,9 +153,9 @@
 | 151 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.26% |
 | 151 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
 | 153 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
-| 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.23% |
-| 154 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
-| 154 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
+| 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.24% |
+| 155 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
+| 155 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 157 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 158 | [Adios](games/a/adios.md) | 1.08% |
 | 159 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.05% |
@@ -164,7 +164,7 @@
 | 162 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 162 | [Infindustry](games/i/infindustry.md) | 1.04% |
 | 164 | [Sable](games/s/sable.md) | 1.01% |
-| 165 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
+| 165 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
 | 166 | [Trifox](games/t/trifox.md) | 0.96% |
 | 167 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 167 | [Dungeons 4](games/d/dungeons_4.md) | 0.94% |

@@ -13,7 +13,7 @@
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 549 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,707 | 42 |
 | 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 549 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 454 | 218 |
+| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 454 | 219 |
 | 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 549 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 20,119 | 22 |
 | 17 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 23 | 530 |
@@ -215,7 +215,7 @@
 | 213 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,607 | 79 |
 | 213 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 114 | 343 |
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 116 | 342 |
-| 213 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 453 | 219 |
+| 213 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 453 | 220 |
 | 213 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 8,018 | 47 |
 | 213 | [For The King](games/f/for_the_king.md) | 4.70 | 409 | 227 |
 | 213 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,341 | 136 |
@@ -307,7 +307,7 @@
 | 295 | [Overcooked](games/o/overcooked.md) | 4.66 | 120 | 340 |
 | 295 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,941 | 113 |
 | 295 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 549 |
-| 295 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 452 | 220 |
+| 295 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 457 | 218 |
 | 295 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 196 | 290 |
 | 295 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,973 | 64 |
 | 295 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,986 | 85 |
@@ -358,7 +358,7 @@
 | 349 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 628 | 189 |
 | 349 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 549 |
 | 349 | [Revita](games/r/revita.md) | 4.63 | 0 | 549 |
-| 349 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 186 | 296 |
+| 349 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 187 | 294 |
 | 349 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 252 |
 | 349 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,799 | 119 |
 | 349 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,760 | 121 |
@@ -625,7 +625,7 @@
 | 606 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 460 |
 | 624 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 549 |
 | 624 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 143 | 322 |
-| 624 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.48 | 1,550 | 129 |
+| 624 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.48 | 1,555 | 129 |
 | 624 | [MythForce](games/m/mythforce.md) | 4.48 | 35 | 470 |
 | 624 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 460 |
 | 624 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.48 | 26 | 513 |
