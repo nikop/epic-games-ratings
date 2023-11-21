@@ -602,7 +602,7 @@
 | 587 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 549 |
 | 587 | [Solitairica](games/s/solitairica.md) | 4.50 | 88 | 381 |
 | 587 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 549 |
-| 587 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,275 | 96 |
+| 587 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,282 | 95 |
 | 587 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.50 | 0 | 549 |
 | 587 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 177 | 301 |
 | 606 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 35 | 470 |
@@ -800,7 +800,7 @@
 | 792 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 549 |
 | 792 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.35 | 85 | 384 |
 | 792 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 52 | 426 |
-| 792 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.35 | 3,277 | 95 |
+| 792 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.35 | 3,277 | 96 |
 | 792 | [War Mongrels](games/w/war_mongrels.md) | 4.35 | 0 | 549 |
 | 792 | [ZOMBI](games/z/zombi.md) | 4.35 | 0 | 549 |
 | 804 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 509 |
@@ -977,9 +977,9 @@
 | 973 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 300 |
 | 973 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 0 | 549 |
 | 973 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 549 |
-| 973 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.08 | 0 | 549 |
-| 979 | [Banished](games/b/banished.md) | 4.07 | 0 | 549 |
-| 979 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 561 | 203 |
+| 978 | [Banished](games/b/banished.md) | 4.07 | 0 | 549 |
+| 978 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 561 | 203 |
+| 978 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.07 | 0 | 549 |
 | 981 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,547 | 70 |
 | 981 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 549 |
 | 981 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 202 | 287 |

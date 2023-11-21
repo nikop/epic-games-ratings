@@ -94,8 +94,8 @@
 | 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,385 | 4.68 | 252 |
 | 93 | [Hades](games/h/hades.md) | 3,377 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,361 | 4.57 | 471 |
-| 95 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,277 | 4.35 | 792 |
-| 96 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,275 | 4.50 | 587 |
+| 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,282 | 4.50 | 587 |
+| 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,277 | 4.35 | 792 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,027 | 4.50 | 587 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,958 | 4.19 | 924 |
 | 99 | [Among Us](games/a/among_us.md) | 2,838 | 4.57 | 471 |
@@ -202,7 +202,7 @@
 | 199 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 573 | 4.54 | 525 |
 | 201 | [Filament](games/f/filament.md) | 572 | 4.33 | 813 |
 | 202 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 567 | 4.31 | 829 |
-| 203 | [Godfall Ultimate Edition](games/g/godfall.md) | 561 | 4.07 | 979 |
+| 203 | [Godfall Ultimate Edition](games/g/godfall.md) | 561 | 4.07 | 978 |
 | 204 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 541 | 4.86 | 32 |
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 540 | 3.95 | 1,009 |
 | 206 | [Terraforming Mars](games/t/terraforming_mars.md) | 525 | 4.53 | 540 |
