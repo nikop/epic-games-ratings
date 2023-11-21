@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130814,
+  "EOS_Progressed": 130815,
   "EOS_Completed": 1129,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -24732,6 +24732,11 @@
       "Time": "2023-11-21T03:03:44.1004559+00:00",
       "NumProgressed": 130814,
       "NumCompleted": 1129
+    },
+    {
+      "Time": "2023-11-21T04:03:43.3542781+00:00",
+      "NumProgressed": 130815,
+      "NumCompleted": 1129
     }
   ],
   "TotalAchievements": 34,
@@ -24751,7 +24756,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22238
+      "UsersEstimate": 22239
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -24799,7 +24804,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 104651
+      "UsersEstimate": 104652
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -24959,7 +24964,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 31395
+      "UsersEstimate": 31396
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -24991,7 +24996,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 31395
+      "UsersEstimate": 31396
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -25014,7 +25019,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 130814,
+      "Progressed": 130815,
       "Completed": 1129
     }
   ],
@@ -25022,8 +25027,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:03:44.1004556+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:03:43.3542776+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.8048519+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:57:26.0752786+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:44.1005574+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:57:27.9630391+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:43.3544259+00:00"
 }

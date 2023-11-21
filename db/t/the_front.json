@@ -2,7 +2,7 @@
   "ID": "f4be56a88fff45fb8ffb1f05f1c76467",
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 751,
@@ -277,6 +277,6 @@
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
   "LastChanged": "2023-11-18T16:59:45.4658179+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:04.148058+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:52.3113393+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:33.3231152+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:44.9501526+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:33.0686379+00:00"
 }

@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3781,
+  "EOS_Progressed": 3782,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -4542,6 +4542,11 @@
       "Time": "2023-11-20T21:06:17.7381538+00:00",
       "NumProgressed": 3781,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-21T04:06:15.4543469+00:00",
+      "NumProgressed": 3782,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4601,7 +4606,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "campaign10",
@@ -4633,7 +4638,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "campaign14",
@@ -4816,7 +4821,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3781,
+      "Progressed": 3782,
       "Completed": 11
     }
   ],
@@ -4824,8 +4829,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:06:19.8936694+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:06:15.4543464+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:09.4027746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:55.9691331+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:06:19.8937037+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:48.3192374+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:06:15.4543934+00:00"
 }

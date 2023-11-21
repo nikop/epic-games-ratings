@@ -8,17 +8,17 @@ Rating: 4.54 (Ranked 525)
 | One of Us | 2.00% | ~944 |
 | Whatever It Takes | 2.00% | ~944 |
 | Pork Chopped | 2.00% | ~944 |
-| Dr. Reed, I Presume? | 1.00% | ~7,216 |
-| Git Gutte! | 1.00% | ~7,216 |
-| Bookworm | 1.00% | ~7,216 |
-| Break A Leg | 1.00% | ~7,216 |
-| Coup de Grâce | 1.00% | ~7,216 |
-| Hazardous Materials | 1.00% | ~7,216 |
-| Friends Like These | 1.00% | ~7,216 |
-| Hotel California | 1.00% | ~7,216 |
-| Apex Predator | 1.00% | ~7,216 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,216 |
-| Welcome To Hell-A | 1.00% | ~7,216 |
+| Dr. Reed, I Presume? | 1.00% | ~7,217 |
+| Git Gutte! | 1.00% | ~7,217 |
+| Bookworm | 1.00% | ~7,217 |
+| Break A Leg | 1.00% | ~7,217 |
+| Coup de Grâce | 1.00% | ~7,217 |
+| Hazardous Materials | 1.00% | ~7,217 |
+| Friends Like These | 1.00% | ~7,217 |
+| Hotel California | 1.00% | ~7,217 |
+| Apex Predator | 1.00% | ~7,217 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,217 |
+| Welcome To Hell-A | 1.00% | ~7,217 |
 | Anger Management | 0.90% | ~6,495 |
 | But Doctor, I am Butcho | 0.90% | ~6,495 |
 | Stacking the Deck | 0.90% | ~6,495 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 525)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,646 (Ranked 20)  
+Progressed: 721,660 (Ranked 20)  
 Completed: 2,421 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,421 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,646 | 2,421 |
+| 2023-11-21 | 721,660 | 2,421 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 50)  
 Sum: 11,619 (Ranked 84)  

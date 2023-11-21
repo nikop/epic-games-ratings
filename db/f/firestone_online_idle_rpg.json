@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 963,
+  "Ranking_Rating": 962,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 216,
@@ -481,9 +481,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2507,
+  "EOS_Progressed": 2508,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7551,6 +7551,11 @@
       "Time": "2023-11-21T03:08:37.8191078+00:00",
       "NumProgressed": 2507,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-21T04:08:20.6573637+00:00",
+      "NumProgressed": 2508,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7610,7 +7615,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "cauldronliberator",
@@ -7642,7 +7647,7 @@
       "Name": "Crystal Mining",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "dailyquestcompletionist",
@@ -7682,7 +7687,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ebonyjungleliberator",
@@ -7698,7 +7703,7 @@
       "Name": "Enchanting skill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "enchantingskillx5",
@@ -7714,7 +7719,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "enhancedwarmachines",
@@ -8018,7 +8023,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "thealchemist",
@@ -8034,7 +8039,7 @@
       "Name": "The Expeditioner",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "thefatherofdragons",
@@ -8050,7 +8055,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "thepowerofawakening",
@@ -8138,7 +8143,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "whatliesbehindthebush",
@@ -8161,7 +8166,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2507,
+      "Progressed": 2508,
       "Completed": 2
     }
   ],
@@ -8169,8 +8174,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-19T17:58:14.6336271+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:08:37.8191074+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:08:20.6573632+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:58:56.6697197+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:08:37.8191918+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:58:51.3738926+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:08:20.6574502+00:00"
 }

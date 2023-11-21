@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 432,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -239,6 +239,11 @@
       "Time": "2023-11-12T01:56:21.0389355+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:06:00.8342026+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -433,7 +438,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 25,
       "UsersEstimate": 28
     },
@@ -449,7 +454,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -473,7 +478,7 @@
       "ID": "TheLuxuryTrap",
       "SetID": "d11cl5p",
       "Name": "The luxury trap",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -489,7 +494,7 @@
       "ID": "ThereAndBackAgain",
       "SetID": "d11cl5p",
       "Name": "There and back again",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -522,14 +527,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:06:05.1342527+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:06:00.8342022+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.40063+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:58:58.1418944+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:06:05.1342806+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:58:53.5550486+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:06:00.8342228+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 170  (23.09.2022)
 | People's Haven | 18.00% | ~4,426 |
 | Cartographer | 17.00% | ~4,180 |
 | Antlers of Stone | 15.00% | ~3,688 |
-| Knowledge for Power | 14.00% | ~3,442 |
+| Knowledge for Power | 14.00% | ~3,443 |
 | Gaze into the abyss | 13.00% | ~3,197 |
 | Mausoleum of Ice | 13.00% | ~3,197 |
 | Wings of Stone | 12.00% | ~2,951 |
@@ -24,10 +24,10 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~1,475 |
 | Written in stone | 6.00% | ~1,475 |
 | Talk to all the spirit animals | 6.00% | ~1,475 |
-| Ripples on the surface | 5.00% | ~1,229 |
+| Ripples on the surface | 5.00% | ~1,230 |
 | Hide and Seek | 4.00% | ~984 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,589 (Ranked 127)  
+Progressed: 24,590 (Ranked 127)  
 Completed: 471 (1.92%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 471 (1.92%) (Ranked 127)
 | 2023-11-18 | 24,433 | 469 |
 | 2023-11-19 | 24,522 | 471 |
 | 2023-11-20 | 24,578 | 471 |
-| 2023-11-21 | 24,589 | 471 |
+| 2023-11-21 | 24,590 | 471 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

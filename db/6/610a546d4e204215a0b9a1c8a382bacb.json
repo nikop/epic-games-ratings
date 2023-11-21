@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16731,
+  "EOS_Progressed": 16735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4129,
+  "EOS_NewPlayers": 4124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1923,6 +1923,11 @@
       "Time": "2023-11-21T03:04:33.630279+00:00",
       "NumProgressed": 16731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:04:32.2614977+00:00",
+      "NumProgressed": 16735,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T16:07:36.390537+00:00",
@@ -1943,7 +1948,7 @@
       "Name": "You\u0027re on Fire",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -1951,7 +1956,7 @@
       "Name": "Unbeatable!",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -1975,7 +1980,7 @@
       "Name": "On a Roll",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "achievement_30_matches_without_losing",
@@ -1991,7 +1996,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -1999,7 +2004,7 @@
       "Name": "Parked The Bus",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -2031,7 +2036,7 @@
       "Name": "\u0022I Would Love It If We Beat Them\u0022",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 6190
+      "UsersEstimate": 6192
     },
     {
       "ID": "achievement_big_win",
@@ -2039,7 +2044,7 @@
       "Name": "Thumping",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "achievement_bragging_rights",
@@ -2055,7 +2060,7 @@
       "Name": "Splashing the Cash",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "achievement_centurion",
@@ -2071,7 +2076,7 @@
       "Name": "Clean Sheet",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8533
+      "UsersEstimate": 8535
     },
     {
       "ID": "achievement_club_world_cup",
@@ -2111,7 +2116,7 @@
       "Name": "Drilling Down",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "achievement_eleven_of_our_own",
@@ -2151,7 +2156,7 @@
       "Name": "Full Faith",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -2191,7 +2196,7 @@
       "Name": "What A Goal!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -2223,7 +2228,7 @@
       "Name": "Hat-trick",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6694
     },
     {
       "ID": "achievement_head_to_head",
@@ -2247,7 +2252,7 @@
       "Name": "Impenetrable",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4183
+      "UsersEstimate": 4184
     },
     {
       "ID": "achievement_least_goals_conceded_in_league",
@@ -2263,7 +2268,7 @@
       "Name": "Flavour Of The Month",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -2287,7 +2292,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "achievement_motivational_speaker",
@@ -2295,7 +2300,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 10373
+      "UsersEstimate": 10376
     },
     {
       "ID": "achievement_name_on_the_trophy",
@@ -2311,7 +2316,7 @@
       "Name": "One for the Record Books",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "achievement_one_from_the_training_ground",
@@ -2319,7 +2324,7 @@
       "Name": "One From the Training Ground",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8200
     },
     {
       "ID": "achievement_one_of_our_own",
@@ -2327,7 +2332,7 @@
       "Name": "One Of Our Own",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4685
+      "UsersEstimate": 4686
     },
     {
       "ID": "achievement_one_of_us",
@@ -2335,7 +2340,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9706
     },
     {
       "ID": "achievement_parked_the_tank",
@@ -2351,7 +2356,7 @@
       "Name": "People Pleaser",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 8700
+      "UsersEstimate": 8702
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -2367,7 +2372,7 @@
       "Name": "Planned Signing",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6025
     },
     {
       "ID": "achievement_planning_ahead",
@@ -2375,7 +2380,7 @@
       "Name": "Planning Ahead",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 6190
+      "UsersEstimate": 6192
     },
     {
       "ID": "achievement_played_30_seasons",
@@ -2399,7 +2404,7 @@
       "Name": "Putting in the Hours",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "achievement_racked_them_up",
@@ -2407,7 +2412,7 @@
       "Name": "Racked Them Up",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "achievement_raining_chaos",
@@ -2429,9 +2434,9 @@
       "ID": "achievement_record_sale",
       "SetID": "5240afh",
       "Name": "Record Sale",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2845
     },
     {
       "ID": "achievement_record_signing",
@@ -2439,7 +2444,7 @@
       "Name": "Record Signing",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -2447,7 +2452,7 @@
       "Name": "Scoring Streak",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6025
     },
     {
       "ID": "achievement_sell_50_million_plus_player",
@@ -2455,7 +2460,7 @@
       "Name": "Cash to Burn",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "achievement_sell_player",
@@ -2463,7 +2468,7 @@
       "Name": "Off the Books",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8366
+      "UsersEstimate": 8368
     },
     {
       "ID": "achievement_shots_for_days",
@@ -2487,7 +2492,7 @@
       "Name": "Squad Goals",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "achievement_stay_on_target",
@@ -2503,7 +2508,7 @@
       "Name": "Super-Sub",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8200
     },
     {
       "ID": "achievement_the_fixer",
@@ -2535,7 +2540,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 10875
+      "UsersEstimate": 10878
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -2551,7 +2556,7 @@
       "Name": "Goal Machine",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "achievement_undefeated_season",
@@ -2591,7 +2596,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 6190
+      "UsersEstimate": 6192
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -2607,7 +2612,7 @@
       "Name": "A Game of Two Halves",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -2631,7 +2636,7 @@
       "Name": "First Victory",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 8867
+      "UsersEstimate": 8870
     },
     {
       "ID": "achievement_won_international_championship",
@@ -2655,7 +2660,7 @@
       "Name": "Cup Glory!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "achievement_won_world_cup",
@@ -2719,7 +2724,7 @@
       "Name": "#DoneDeal",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8198
+      "UsersEstimate": 8200
     },
     {
       "ID": "placeholder_achievement_we_meet_again",
@@ -2734,7 +2739,7 @@
     {
       "ID": "5240afh",
       "IsBase": true,
-      "Progressed": 16731,
+      "Progressed": 16735,
       "Completed": 0
     }
   ],
@@ -2742,8 +2747,8 @@
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
   "LastChanged": "2023-11-20T18:58:14.7177481+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:04:33.6302788+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:04:32.2614973+00:00",
   "LastUpdate_AppInfo": "2023-11-14T18:56:56.7954489+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:57:54.0204002+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:04:33.6303661+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:57:56.670564+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:04:32.2616436+00:00"
 }

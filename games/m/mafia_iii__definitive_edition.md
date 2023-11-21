@@ -1,12 +1,12 @@
 # Mafia III: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-iii-definitive-edition)  
 [View Rawdata](../../db/m/mafia_iii__definitive_edition.json)  
-Rating: 4.20 (Ranked 913)  
+Rating: 4.20 (Ranked 912)  
 Number of Ratings: 1,289  (23.09.2022)  
 ## Awards
-Max (Amazing Characters): 78  (Ranked 391)  
+Max (Amazing Characters): 78  (Ranked 392)  
 Sum: 493 (Ranked 326)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 307 |

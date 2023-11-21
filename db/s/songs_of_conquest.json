@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -863,6 +863,11 @@
       "Time": "2023-11-21T00:03:51.9052618+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:03:40.8703888+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1019,7 +1024,7 @@
       "Name": "Double Kill",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1155,7 +1160,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -1203,7 +1208,7 @@
       "Name": "Adept",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WielderLevel2",
@@ -1306,15 +1311,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:03:41.5312175+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:03:40.8703884+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:58:03.1712468+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:41.5312644+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:58:05.4728689+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:40.8704229+00:00"
 }

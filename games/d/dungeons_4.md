@@ -30,7 +30,7 @@
 | Dungeonlord Gorgu | 33.00% | ~105 |
 | The Cathedral of Light | 32.00% | ~102 |
 | Shame! Shame! Shame! | 32.00% | ~102 |
-| Tanos' Crusade Against Thalya | 28.00% | ~89 |
+| Tanos' Crusade Against Thalya | 29.00% | ~93 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~73 |
 | Unstoppable Horde | 23.00% | ~73 |
 | All’s Well That Ends Evil | 23.00% | ~73 |

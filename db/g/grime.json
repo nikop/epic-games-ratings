@@ -1507,9 +1507,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 159336,
+  "EOS_Progressed": 159343,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1169,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16442,6 +16442,11 @@
       "Time": "2023-11-21T03:03:00.4240866+00:00",
       "NumProgressed": 159336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T04:03:00.4861188+00:00",
+      "NumProgressed": 159343,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16501,7 +16506,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -16725,7 +16730,7 @@
       "Name": "Ravenous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -16820,21 +16825,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158919,
+      "Progressed": 158926,
       "Completed": 1213
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159336,
+      "Progressed": 159343,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-21T02:25:45.6142649+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:03:00.4240862+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:03:00.4861183+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:41.2692385+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:00.4241931+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:34.7122166+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:00.4862757+00:00"
 }

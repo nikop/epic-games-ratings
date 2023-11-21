@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 80.00% | ~49 |
-| Do a barrel roll! | 66.00% | ~40 |
-| Huh? What was that? | 52.00% | ~32 |
-| Whatever it is, fix it! | 36.00% | ~22 |
-| The opposite of good news | 30.00% | ~18 |
+| All systems go | 81.00% | ~51 |
+| Do a barrel roll! | 65.00% | ~41 |
+| Huh? What was that? | 52.00% | ~33 |
+| Whatever it is, fix it! | 35.00% | ~22 |
+| The opposite of good news | 29.00% | ~18 |
 | My Emperor... I've failed you! | 21.00% | ~13 |
 | Priceless company | 16.00% | ~10 |
 | Enemy shield analyzed | 5.00% | ~3 |
@@ -29,7 +29,7 @@
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 472)  
+Progressed: 63 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,3 +75,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-10-28 | 56 | 0 |
 | 2023-11-03 | 57 | 0 |
 | 2023-11-20 | 61 | 0 |
+| 2023-11-21 | 63 | 0 |

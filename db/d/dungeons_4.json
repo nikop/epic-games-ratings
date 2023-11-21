@@ -922,9 +922,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -1169,8 +1169,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:03:18.2566967+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:03:18.1202876+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:26.1913694+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:18.2567352+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:20.2387389+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:18.1203389+00:00"
 }

@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15170,
+  "EOS_Progressed": 15171,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11747,6 +11747,11 @@
       "Time": "2023-11-21T03:03:30.2537153+00:00",
       "NumProgressed": 15170,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T04:03:30.1481227+00:00",
+      "NumProgressed": 15171,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11775,7 +11780,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "12",
@@ -11911,7 +11916,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "28",
@@ -12038,13 +12043,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15170,
+      "Progressed": 15171,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1124,
+      "Progressed": 1125,
       "Completed": 661
     }
   ],
@@ -12052,8 +12057,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:03:30.2537149+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:03:30.1481223+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:30.3748921+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:30.2537909+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:24.4665572+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:30.1482214+00:00"
 }

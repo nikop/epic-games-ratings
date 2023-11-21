@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 937)  
+Rating: 4.17 (Ranked 936)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 429  (23.09.2022)
 | First Contact | 72.00% | ~5,270 |
 | Win a Battle | 65.00% | ~4,758 |
 | Anomaly Researcher | 61.00% | ~4,465 |
-| Unleash My Power | 60.00% | ~4,392 |
+| Unleash My Power | 61.00% | ~4,465 |
 | Own 30 Planets | 33.00% | ~2,416 |
 | Xenocide | 31.00% | ~2,269 |
 | Design a Civilization | 31.00% | ~2,269 |

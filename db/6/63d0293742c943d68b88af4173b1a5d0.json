@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-11-21T01:56:14.6103266+00:00",
       "NumProgressed": 200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:04:24.8034956+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -614,9 +619,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "9",
@@ -640,7 +645,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REMAKE_004",
@@ -648,7 +653,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Remake_005",
@@ -662,9 +667,9 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Remake_007",
@@ -686,9 +691,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "Remake_010",
@@ -702,9 +707,9 @@
       "ID": "Remake_11",
       "SetID": "5pi96jj",
       "Name": "Imma Powder Out",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Remake_12",
@@ -718,9 +723,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_14",
@@ -734,17 +739,17 @@
       "ID": "Remake_15",
       "SetID": "5pi96jj",
       "Name": "Ready for the Big Leagues",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Remake_16",
       "SetID": "5pi96jj",
       "Name": "Choked on Balls",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Remake_17",
@@ -766,9 +771,9 @@
       "ID": "Remake_19",
       "SetID": "5pi96jj",
       "Name": "Pan Head",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Remake_20",
@@ -790,23 +795,23 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:04:26.1666059+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:04:24.8034952+00:00",
   "LastUpdate_AppInfo": "2023-11-20T21:56:52.3918726+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:02:37.0784001+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:04:26.1666237+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:02:36.6888209+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:04:24.8035124+00:00"
 }

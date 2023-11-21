@@ -3471,9 +3471,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31314,
+  "EOS_Progressed": 31319,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19961,6 +19961,11 @@
       "Time": "2023-11-21T03:03:57.0783892+00:00",
       "NumProgressed": 31314,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-21T04:03:56.1736621+00:00",
+      "NumProgressed": 31319,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19980,7 +19985,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Back_Off",
@@ -20044,7 +20049,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Diabolical",
@@ -20076,7 +20081,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Efficient",
@@ -20116,7 +20121,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Ghost_Expert",
@@ -20132,7 +20137,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Legions",
@@ -20220,7 +20225,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "Rivalry",
@@ -20276,7 +20281,7 @@
       "Name": "Stylish",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "Summoner",
@@ -20379,7 +20384,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31314,
+      "Progressed": 31319,
       "Completed": 68
     }
   ],
@@ -20387,8 +20392,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-20T23:02:56.9728557+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:03:57.078389+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:03:56.1736617+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:02:39.2218033+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:03:57.0784793+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:02:38.8673734+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:03:56.1737887+00:00"
 }

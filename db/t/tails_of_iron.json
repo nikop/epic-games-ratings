@@ -5,9 +5,9 @@
   "Ranking_Rating": 505,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 549,
-  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2002,
+  "EOS_Progressed": 2003,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3102,6 +3102,11 @@
       "Time": "2023-11-20T16:05:38.5010795+00:00",
       "NumProgressed": 2002,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-21T04:04:23.5695341+00:00",
+      "NumProgressed": 2003,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -3113,7 +3118,7 @@
       "Name": "Become King",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "Collect20Gold",
@@ -3137,7 +3142,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "CollectAllStatues",
@@ -3201,7 +3206,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "CompleteStoryDM",
@@ -3217,7 +3222,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3247,9 +3252,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 901
     },
     {
       "ID": "GetRangedWeapon",
@@ -3257,7 +3262,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "GetTHWeapon",
@@ -3265,7 +3270,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "Kill25Bugs",
@@ -3273,7 +3278,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "Kill25Frogs",
@@ -3281,7 +3286,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "Kill25Mozi",
@@ -3305,7 +3310,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "RepairChef",
@@ -3337,7 +3342,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ReturnPowerInMines",
@@ -3352,22 +3357,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2002,
+      "Progressed": 2003,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 643,
-      "Completed": 643
+      "Progressed": 644,
+      "Completed": 644
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:04:24.9860196+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:04:23.5695337+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:31.2100047+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:54.1141861+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:04:24.9860443+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:46.6524112+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:04:23.569567+00:00"
 }

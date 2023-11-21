@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4301,9 +4301,9 @@
       "Count": 395
     }
   ],
-  "EOS_Progressed": 12130,
+  "EOS_Progressed": 12131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15801,6 +15801,11 @@
       "Time": "2023-11-21T00:08:18.1121214+00:00",
       "NumProgressed": 12130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:08:11.8777416+00:00",
+      "NumProgressed": 12131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15820,7 +15825,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -15884,7 +15889,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "11_PathOfAeon",
@@ -15940,7 +15945,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "18_MythicChoices",
@@ -15996,7 +16001,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "25_MasterfulDispell",
@@ -16156,7 +16161,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "46_AllPathsOpen",
@@ -16164,7 +16169,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -16236,7 +16241,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "56_GetToad",
@@ -16244,7 +16249,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "57_PathOfDevil",
@@ -16739,21 +16744,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10912,
+      "Progressed": 10913,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12130,
+      "Progressed": 12131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-20T21:59:33.4763962+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:08:28.3803664+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:08:11.8777413+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:05.4492632+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:48.8545254+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:08:28.3805208+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:41.6134644+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:08:11.8778952+00:00"
 }

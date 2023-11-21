@@ -1,37 +1,37 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.44 (Ranked 676)  
+Rating: 4.44 (Ranked 675)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~304,932 |
-| Full garage | 61.00% | ~254,806 |
-| To the eyeballs! | 51.00% | ~213,035 |
-| Individual delivery | 47.00% | ~196,326 |
-| Non-Stop | 45.00% | ~187,972 |
-| Juggler | 36.00% | ~150,377 |
-| Forgot something | 35.00% | ~146,200 |
-| Close call! | 30.00% | ~125,314 |
-| Get out my way | 28.00% | ~116,960 |
-| Common cause | 26.00% | ~108,606 |
-| Critical care | 26.00% | ~108,606 |
-| Mega-railroad | 23.00% | ~96,074 |
-| Upgrade complete | 23.00% | ~96,074 |
+| Dealmaker | 73.00% | ~304,934 |
+| Full garage | 61.00% | ~254,808 |
+| To the eyeballs! | 51.00% | ~213,036 |
+| Individual delivery | 47.00% | ~196,327 |
+| Non-Stop | 45.00% | ~187,973 |
+| Juggler | 36.00% | ~150,378 |
+| Forgot something | 35.00% | ~146,201 |
+| Close call! | 30.00% | ~125,315 |
+| Get out my way | 28.00% | ~116,961 |
+| Common cause | 26.00% | ~108,607 |
+| Critical care | 26.00% | ~108,607 |
+| Mega-railroad | 23.00% | ~96,075 |
+| Upgrade complete | 23.00% | ~96,075 |
 | Just in time! | 18.00% | ~75,189 |
 | Builder | 17.00% | ~71,012 |
 | Long Haul | 17.00% | ~70,900 |
-| Steam Age | 16.00% | ~66,834 |
-| Multilevel road | 15.00% | ~62,657 |
-| Bridgemania | 14.00% | ~58,480 |
-| Need to think | 14.00% | ~58,480 |
+| Steam Age | 16.00% | ~66,835 |
+| Multilevel road | 15.00% | ~62,658 |
+| Bridgemania | 14.00% | ~58,481 |
+| Need to think | 14.00% | ~58,481 |
 | The Tortoise | 12.00% | ~50,126 |
 | Beginner | 11.00% | ~45,949 |
 | Without a lunch break | 11.00% | ~45,949 |
 | One way | 10.00% | ~41,772 |
 | Relocation | 10.00% | ~41,772 |
-| Industrial Age | 9.00% | ~37,594 |
+| Industrial Age | 9.00% | ~37,595 |
 | Just One More Valley | 9.00% | ~37,535 |
 | Prick of conscience | 8.00% | ~33,417 |
 | Missed it! | 7.00% | ~29,240 |
@@ -44,10 +44,10 @@ Number of Ratings: 87  (23.09.2022)
 | Electrical Age | 4.00% | ~16,709 |
 | Large construction | 4.00% | ~16,709 |
 | Squander | 4.00% | ~16,709 |
-| Engineer | 3.00% | ~12,531 |
-| Globalisation Age | 3.00% | ~12,531 |
-| Living it large | 3.00% | ~12,531 |
-| Sabotage | 3.00% | ~12,531 |
+| Engineer | 3.00% | ~12,532 |
+| Globalisation Age | 3.00% | ~12,532 |
+| Living it large | 3.00% | ~12,532 |
+| Sabotage | 3.00% | ~12,532 |
 | Test Batch | 3.00% | ~12,512 |
 | Astronomer | 2.00% | ~8,354 |
 | Innovator | 2.00% | ~8,354 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~417 |
 | World Zapper | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,715 (Ranked 44)  
+Progressed: 417,718 (Ranked 44)  
 Completed: 23 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 23 (0.01%) (Ranked 335)
 | 2023-11-18 | 417,125 | 22 |
 | 2023-11-19 | 417,464 | 23 |
 | 2023-11-20 | 417,686 | 23 |
-| 2023-11-21 | 417,715 | 23 |
+| 2023-11-21 | 417,718 | 23 |
 ## Awards
 Max (Challenging Puzzles): 899  (Ranked 159)  
-Sum: 1,807 (Ranked 219)  
+Sum: 1,808 (Ranked 219)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
@@ -288,8 +288,8 @@ Diff (max vs sum): -60
 | This game is Relaxing | 95 |
 | This game is Highly Recommended | 92 |
 | This game has Challenging Combat | 79 |
+| This game has Amazing Storytelling | 64 |
 | This game has a Creative Community | 64 |
-| This game has Amazing Storytelling | 63 |
 | This game has Amazing Characters | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -476,3 +476,4 @@ Diff (max vs sum): -60
 | 2023-11-18 | 4.44 | - | 899 | 1,803 |
 | 2023-11-19 | 4.44 | - | 899 | 1,806 |
 | 2023-11-20 | 4.44 | - | 899 | 1,807 |
+| 2023-11-21 | 4.44 | - | 899 | 1,808 |

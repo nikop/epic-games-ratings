@@ -8896,10 +8896,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15361,
       "NumberOfAwardsMax": 7405
+    },
+    {
+      "Time": "2023-11-21T03:58:56.1101602+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15363,
+      "NumberOfAwardsMax": 7405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15361,
+  "NumberOfAwards": 15363,
   "NumberOfAwardsMax": 7405,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8949,7 +8955,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 832
+      "Count": 834
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8976,9 +8982,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65525,
+  "EOS_Progressed": 65527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31546,6 +31552,11 @@
       "Time": "2023-11-21T02:00:59.7810402+00:00",
       "NumProgressed": 65525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:08:52.3043673+00:00",
+      "NumProgressed": 65527,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -31557,7 +31568,7 @@
       "Name": "Against all odds",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "Apple of my eye",
@@ -31637,7 +31648,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "Dynasty",
@@ -31645,7 +31656,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "Entrepreneur",
@@ -31685,7 +31696,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "Great Granny",
@@ -31733,7 +31744,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "Jack of All Trades",
@@ -31749,7 +31760,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11794
+      "UsersEstimate": 11795
     },
     {
       "ID": "Kingslayer",
@@ -31781,7 +31792,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21623
+      "UsersEstimate": 21624
     },
     {
       "ID": "Lawbringer",
@@ -31789,7 +31800,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26210
+      "UsersEstimate": 26211
     },
     {
       "ID": "Lawmaker",
@@ -31893,7 +31904,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "Swordbearer",
@@ -31901,7 +31912,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     },
     {
       "ID": "The king is pleased",
@@ -31917,7 +31928,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8518
+      "UsersEstimate": 8519
     },
     {
       "ID": "This is Sparta",
@@ -31957,22 +31968,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6552
+      "UsersEstimate": 6553
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65525,
+      "Progressed": 65527,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-20T20:58:49.137398+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:09:10.1388069+00:00",
+  "LastChanged": "2023-11-21T03:58:56.11016+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:08:52.3043669+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:36.2249167+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:00.8533628+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:09:10.1389585+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:58:56.1101605+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:08:52.3044906+00:00"
 }

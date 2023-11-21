@@ -2,8 +2,8 @@
   "ID": "4ac85017adaf4d228518d64325c4ec65",
   "Name": "Obduction",
   "ProductSlug": "obduction",
-  "Ranking_Rating": 968,
-  "Ranking_Popularity": 421,
+  "Ranking_Rating": 967,
+  "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
@@ -494,18 +494,24 @@
       "Rating": 4.09,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-11-21T04:02:50.4546166+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 56,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55,
-  "NumberOfAwardsMax": 55,
+  "NumberOfAwards": 56,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 55
+      "Count": 56
     }
   ],
   "EOS_Progressed": 0,
@@ -519,8 +525,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
-  "LastChanged": "2023-11-02T23:03:01.7242976+00:00",
+  "LastChanged": "2023-11-21T04:02:50.4546164+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:54.4606189+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:02:51.7206514+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:09:02.4669467+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:02:50.4546168+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:08:44.688766+00:00"
 }

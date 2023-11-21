@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -730,6 +730,11 @@
       "Time": "2023-11-20T21:08:49.4770886+00:00",
       "NumProgressed": 290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T04:08:49.1094948+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -750,7 +755,7 @@
       "Name": "Asphalt Artist",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_11",
@@ -772,17 +777,17 @@
       "ID": "achievement_13",
       "SetID": "jnappp",
       "Name": "Long Haul Hero",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_15",
@@ -806,7 +811,7 @@
       "Name": "Your first time?",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "achievement_18",
@@ -830,7 +835,7 @@
       "Name": "Team Principal",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "achievement_20",
@@ -870,7 +875,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_25",
@@ -918,7 +923,7 @@
       "Name": "Keepin it real",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_7",
@@ -949,14 +954,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:09:06.9889808+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:08:49.1094943+00:00",
   "LastUpdate_AppInfo": "2023-11-14T20:57:04.5168704+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:59:08.434728+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:09:06.9889945+00:00"
+  "LastUpdate_Ratings": "2023-11-21T03:59:03.4432311+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:08:49.1095143+00:00"
 }

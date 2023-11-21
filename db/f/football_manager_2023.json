@@ -7837,9 +7837,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 359090,
+  "EOS_Progressed": 359091,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 2481,
+  "EOS_NewPlayers": 2477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31987,6 +31987,11 @@
       "Time": "2023-11-21T03:09:18.0061359+00:00",
       "NumProgressed": 359090,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-21T04:08:59.9987383+00:00",
+      "NumProgressed": 359091,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -32014,7 +32019,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 132863
+      "UsersEstimate": 132864
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -32078,7 +32083,7 @@
       "Name": "Parked The Bus",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 93363
+      "UsersEstimate": 93364
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -32110,7 +32115,7 @@
       "Name": "Beating Expectations",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 89772
+      "UsersEstimate": 89773
     },
     {
       "ID": "achievement_big_win",
@@ -32118,7 +32123,7 @@
       "Name": "Thumping",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 136454
+      "UsersEstimate": 136455
     },
     {
       "ID": "achievement_bragging_rights",
@@ -32238,7 +32243,7 @@
       "Name": "Full Faith",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 93363
+      "UsersEstimate": 93364
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -32286,7 +32291,7 @@
       "Name": "Goal Rush",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 93363
+      "UsersEstimate": 93364
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -32302,7 +32307,7 @@
       "Name": "Hat-trick",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 161590
+      "UsersEstimate": 161591
     },
     {
       "ID": "achievement_head_to_head",
@@ -32382,7 +32387,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 244181
+      "UsersEstimate": 244182
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -32398,7 +32403,7 @@
       "Name": "One Of Our Own",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 125681
+      "UsersEstimate": 125682
     },
     {
       "ID": "achievement_one_of_us",
@@ -32406,7 +32411,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 219045
+      "UsersEstimate": 219046
     },
     {
       "ID": "achievement_people_pleaser",
@@ -32414,7 +32419,7 @@
       "Name": "People Pleaser",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 136454
+      "UsersEstimate": 136455
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -32534,7 +32539,7 @@
       "Name": "Squad Goals",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 93363
+      "UsersEstimate": 93364
     },
     {
       "ID": "achievement_super_sub",
@@ -32558,7 +32563,7 @@
       "Name": "The People\u0027s Champion",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 93363
+      "UsersEstimate": 93364
     },
     {
       "ID": "achievement_the_player_whisperer",
@@ -32566,7 +32571,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 240590
+      "UsersEstimate": 240591
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -32734,7 +32739,7 @@
       "Name": "You Can Buy Happiness",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 17954
+      "UsersEstimate": 17955
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -32797,7 +32802,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 359090,
+      "Progressed": 359091,
       "Completed": 26
     }
   ],
@@ -32805,8 +32810,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-20T23:03:00.1624591+00:00",
-  "LastChanged_Achievements": "2023-11-21T03:09:18.0061356+00:00",
+  "LastChanged_Achievements": "2023-11-21T04:08:59.9987379+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.5620034+00:00",
-  "LastUpdate_Ratings": "2023-11-21T03:02:42.2228864+00:00",
-  "LastUpdate_Achievements": "2023-11-21T03:09:18.0063165+00:00"
+  "LastUpdate_Ratings": "2023-11-21T04:02:41.3384148+00:00",
+  "LastUpdate_Achievements": "2023-11-21T04:08:59.9989057+00:00"
 }

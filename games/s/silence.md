@@ -13,8 +13,8 @@
 | Open up wide | 35.00% | ~59 |
 | Wooooooow! | 34.00% | ~58 |
 | Artistic fool | 32.00% | ~54 |
+| Shadow on the wall | 31.00% | ~53 |
 | Let the boot talk | 30.00% | ~51 |
-| Shadow on the wall | 30.00% | ~51 |
 | Chapter II | 25.00% | ~42 |
 | Handyman | 22.00% | ~37 |
 | Bubblekillerfamily | 22.00% | ~37 |
