@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2110,9 +2110,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 214982,
+  "EOS_Progressed": 214984,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26650,6 +26650,11 @@
       "Time": "2023-11-21T02:29:30.084995+00:00",
       "NumProgressed": 214982,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-21T03:03:16.2460155+00:00",
+      "NumProgressed": 214984,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26701,7 +26706,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19348
+      "UsersEstimate": 19349
     },
     {
       "ID": "FiveShadows",
@@ -26773,7 +26778,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "Jonin",
@@ -26885,7 +26890,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19348
+      "UsersEstimate": 19349
     },
     {
       "ID": "StillRollin",
@@ -26901,7 +26906,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "StonedOx",
@@ -26917,7 +26922,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19348
+      "UsersEstimate": 19349
     },
     {
       "ID": "TheCave",
@@ -26941,7 +26946,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6449
+      "UsersEstimate": 6450
     },
     {
       "ID": "Thorough",
@@ -27012,15 +27017,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 214982,
+      "Progressed": 214984,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-21T01:50:24.4486672+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:29:30.0849943+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:03:16.2460153+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:25:04.6127027+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:29:30.0851729+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:59:00.3577472+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:03:16.2461258+00:00"
 }

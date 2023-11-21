@@ -35,10 +35,10 @@ Rating: 4.64 (Ranked 333)
 | Sequel-Bait | 0.40% | ~98 |
 | Playing Favorites | 0.30% | ~74 |
 | Carried Stan's Load To Completion | 0.30% | ~74 |
+| Meet Frasier from Frasier | 0.30% | ~5 |
 | Mods Please Ban | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |
 | Give Away All Your Money | 0.20% | ~4 |
-| Meet Frasier from Frasier | 0.20% | ~4 |
 | It's Like The Santa Clause | 0.20% | ~4 |
 | Epic Legendary Prize | 0.10% | ~25 |
 | Playing Card To Get | 0.10% | ~25 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 333)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,506 (Ranked 128)  
+Progressed: 24,507 (Ranked 128)  
 Completed: 13 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 13 (0.05%) (Ranked 306)
 | 2023-11-18 | 24,495 | 13 |
 | 2023-11-19 | 24,500 | 13 |
 | 2023-11-20 | 24,506 | 13 |
+| 2023-11-21 | 24,507 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

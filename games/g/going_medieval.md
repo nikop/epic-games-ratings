@@ -22,7 +22,7 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 42.00% | ~2,871 |
 | ...And Don’t Come Back! | 42.00% | ~2,871 |
 | Feast or Famine | 39.00% | ~2,666 |
-| Heating Up | 31.00% | ~2,119 |
+| Heating Up | 32.00% | ~2,188 |
 | Luminary Researcher | 31.00% | ~2,119 |
 | Fit For A King | 30.00% | ~2,051 |
 | Winter Is Coming | 29.00% | ~1,982 |

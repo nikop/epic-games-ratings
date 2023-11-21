@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -865,9 +865,9 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 11051,
+  "EOS_Progressed": 11052,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13060,6 +13060,11 @@
       "Time": "2023-11-20T22:08:03.6589759+00:00",
       "NumProgressed": 11051,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-21T03:08:20.3875868+00:00",
+      "NumProgressed": 11052,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13175,7 +13180,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4641
+      "UsersEstimate": 4642
     },
     {
       "ID": "ACH15",
@@ -13247,7 +13252,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "ACH24",
@@ -13342,7 +13347,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11051,
+      "Progressed": 11052,
       "Completed": 65
     }
   ],
@@ -13350,8 +13355,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-20T21:59:13.9530271+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:34:26.617309+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:08:20.3875866+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:25:33.8713266+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:34:26.6173921+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:59:29.6196597+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:08:20.3876484+00:00"
 }

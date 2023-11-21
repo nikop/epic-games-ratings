@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MOUNTAINEER",
@@ -319,8 +319,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:31:42.3152481+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:05:27.8933131+00:00",
   "LastUpdate_AppInfo": "2023-11-15T22:57:04.9325318+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:23:49.3698255+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:31:42.3152662+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:57:39.4426314+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:05:27.8933307+00:00"
 }

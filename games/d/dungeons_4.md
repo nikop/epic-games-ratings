@@ -19,8 +19,8 @@
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~188 |
 | Minions, Minions! | 57.00% | ~182 |
 | Trap Master | 52.00% | ~166 |
-| The Ascent | 50.00% | ~160 |
-| It's Warm and Cozy at Home | 50.00% | ~160 |
+| The Ascent | 51.00% | ~163 |
+| It's Warm and Cozy at Home | 51.00% | ~163 |
 | YOU SHALL NOT PASS! | 46.00% | ~147 |
 | Hard Work | 46.00% | ~147 |
 | The Big Eaty | 44.00% | ~140 |

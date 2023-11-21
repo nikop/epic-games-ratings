@@ -4,11 +4,11 @@
   "ProductSlug": "slime-rancher",
   "Ranking_Rating": 67,
   "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 169,
+  "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 751,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2017-08-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3683,11 +3683,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 3272,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2023-11-21T02:57:18.9399536+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3274,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3272,
-  "NumberOfAwardsMax": 425,
+  "NumberOfAwards": 3274,
+  "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3712,7 +3718,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 425
+      "Count": 427
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3774,8 +3780,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-11-20T23:57:10.7535158+00:00",
+  "LastChanged": "2023-11-21T02:57:18.9399534+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.0380079+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:23:29.3841328+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:30:31.0093962+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:57:18.9399542+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:04:17.0859792+00:00"
 }

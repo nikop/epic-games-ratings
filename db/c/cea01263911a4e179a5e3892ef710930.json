@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87181,
+  "EOS_Progressed": 87182,
   "EOS_Completed": 289,
-  "EOS_NewPlayers": 839,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -11640,6 +11640,11 @@
       "Time": "2023-11-21T02:30:40.7464623+00:00",
       "NumProgressed": 87181,
       "NumCompleted": 289
+    },
+    {
+      "Time": "2023-11-21T03:04:26.7516622+00:00",
+      "NumProgressed": 87182,
+      "NumCompleted": 289
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -11652,7 +11657,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 69745
+      "UsersEstimate": 69746
     },
     {
       "ID": "grp_beet",
@@ -11668,7 +11673,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 67129
+      "UsersEstimate": 67130
     },
     {
       "ID": "grp_endless",
@@ -11676,7 +11681,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 30513
+      "UsersEstimate": 30514
     },
     {
       "ID": "grp_finallevel",
@@ -11692,7 +11697,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 21795
+      "UsersEstimate": 21796
     },
     {
       "ID": "grp_level10",
@@ -11748,7 +11753,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 64514
+      "UsersEstimate": 64515
     },
     {
       "ID": "grp_speed",
@@ -11756,7 +11761,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 40975
+      "UsersEstimate": 40976
     },
     {
       "ID": "grp_stone",
@@ -11787,7 +11792,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 87181,
+      "Progressed": 87182,
       "Completed": 289
     }
   ],
@@ -11795,8 +11800,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-11T10:01:03.2039027+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:30:40.7464618+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:04:26.7516619+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.8634977+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:24:08.289351+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:30:40.7465517+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:57:57.9363547+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:04:26.7517294+00:00"
 }

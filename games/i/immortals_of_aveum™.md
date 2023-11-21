@@ -28,7 +28,7 @@ Rating: 4.09 (Ranked 968)
 | Armsman | 18.00% | ~51 |
 | Lights Army | 12.00% | ~34 |
 | Periapt Cerulean | 12.00% | ~34 |
-| Good Boy | 11.00% | ~31 |
+| Good Boy | 12.00% | ~34 |
 | Shroudfane Explorer | 9.00% | ~26 |
 | Best Dressed | 8.00% | ~23 |
 | Armaments Azure | 8.00% | ~23 |

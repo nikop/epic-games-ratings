@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200293,
+  "EOS_Progressed": 200294,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23087,6 +23087,11 @@
       "Time": "2023-11-21T01:54:30.1492834+00:00",
       "NumProgressed": 200293,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-21T03:03:07.1082915+00:00",
+      "NumProgressed": 200294,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -23098,7 +23103,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16023
+      "UsersEstimate": 16024
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -23106,7 +23111,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 142208
+      "UsersEstimate": 142209
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -23225,7 +23230,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 200293,
+      "Progressed": 200294,
       "Completed": 4
     }
   ],
@@ -23233,8 +23238,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:29:20.8040128+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:03:07.1082911+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:10.5681178+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:26:01.0727769+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:29:20.8041497+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:59:56.9823192+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:03:07.1084095+00:00"
 }

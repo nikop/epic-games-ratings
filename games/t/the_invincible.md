@@ -11,7 +11,7 @@
 | Survivors | 23.00% | ~43 |
 | The Condor | 21.00% | ~39 |
 | The End | 20.00% | ~38 |
-| The Necroevolution | 18.00% | ~34 |
+| The Necroevolution | 19.00% | ~36 |
 | On her own | 13.00% | ~24 |
 | Peacemaker | 13.00% | ~24 |
 | The Alliance | 13.00% | ~24 |
@@ -21,7 +21,7 @@
 | Beyond divisions | 11.00% | ~21 |
 | Fierce fight | 10.00% | ~19 |
 | Evacuation | 10.00% | ~19 |
-| I remember everything! | 8.00% | ~15 |
+| I remember everything! | 9.00% | ~17 |
 | Violent solution | 7.00% | ~13 |
 | Innate curiosity | 6.00% | ~11 |
 | The Invincible | 5.00% | ~9 |

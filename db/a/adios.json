@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78863,
+  "EOS_Progressed": 78865,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 10,
@@ -24092,6 +24092,11 @@
       "Time": "2023-11-21T01:56:39.9973891+00:00",
       "NumProgressed": 78863,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-21T03:04:45.7268303+00:00",
+      "NumProgressed": 78865,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24119,7 +24124,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 14195
+      "UsersEstimate": 14196
     },
     {
       "ID": "Audiophile",
@@ -24143,7 +24148,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14195
+      "UsersEstimate": 14196
     },
     {
       "ID": "Butcher",
@@ -24207,7 +24212,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16561
+      "UsersEstimate": 16562
     },
     {
       "ID": "Meaty",
@@ -24239,7 +24244,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5520
+      "UsersEstimate": 5521
     },
     {
       "ID": "Piano Man",
@@ -24263,7 +24268,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5520
+      "UsersEstimate": 5521
     },
     {
       "ID": "Spicy",
@@ -24302,7 +24307,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78863,
+      "Progressed": 78865,
       "Completed": 850
     }
   ],
@@ -24310,8 +24315,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:30:59.7033787+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:04:45.72683+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:25:11.3567775+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:30:59.7034968+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:59:06.7689779+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:04:45.7269564+00:00"
 }

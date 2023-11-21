@@ -4,8 +4,8 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -2274,8 +2274,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-11-21T02:31:50.1075057+00:00",
+  "LastChanged_Achievements": "2023-11-21T03:05:35.7629788+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:00.5770633+00:00",
-  "LastUpdate_Ratings": "2023-11-21T02:25:28.0251378+00:00",
-  "LastUpdate_Achievements": "2023-11-21T02:31:50.1075206+00:00"
+  "LastUpdate_Ratings": "2023-11-21T02:59:23.6642208+00:00",
+  "LastUpdate_Achievements": "2023-11-21T03:05:35.7629944+00:00"
 }

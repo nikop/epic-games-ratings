@@ -15,7 +15,7 @@ Rating: 4.19 (Ranked 924)
 | Hands up! | 16.00% | ~2,597 |
 | Feeling Better | 16.00% | ~2,597 |
 | Unfortunate Plumber | 15.00% | ~2,435 |
-| Don't interrupt my research! | 14.00% | ~2,272 |
+| Don't interrupt my research! | 14.00% | ~2,273 |
 | A Good Read | 11.00% | ~1,786 |
 | Boot for an eye | 10.00% | ~1,623 |
 | Pacifist Run | 7.00% | ~1,136 |
@@ -73,7 +73,7 @@ Rating: 4.19 (Ranked 924)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,232 (Ranked 149)  
+Progressed: 16,233 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 14,127 | 0 |
 | 2023-11-19 | 15,706 | 0 |
 | 2023-11-20 | 16,231 | 0 |
-| 2023-11-21 | 16,232 | 0 |
+| 2023-11-21 | 16,233 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
