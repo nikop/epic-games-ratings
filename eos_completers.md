@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.59% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.51% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.49% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -35,8 +35,8 @@
 | 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.50% |
 | 34 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.42% |
 | 35 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 36 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 10.94% |
-| 37 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
+| 36 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
+| 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 10.77% |
 | 38 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
 | 39 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 39 | [Seven Doors](games/s/seven_doors.md) | 10.00% |
@@ -59,7 +59,7 @@
 | 57 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 58 | [Scorn](games/s/scorn.md) | 6.91% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.52% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.49% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -69,7 +69,7 @@
 | 67 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.24% |
 | 68 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 69 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
-| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.59% |
+| 70 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.58% |
 | 71 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 72 | [JARS](games/j/jars.md) | 5.21% |
 | 73 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.00% |
@@ -85,7 +85,7 @@
 | 83 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 84 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 85 | [The Bunker](games/t/the_bunker.md) | 4.14% |
-| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.98% |
+| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 3.97% |
 | 87 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.88% |
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.86% |
 | 89 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
@@ -312,12 +312,12 @@
 | 306 | [House Party](games/h/house_party.md) | 0.05% |
 | 306 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 306 | [Operation New Earth](games/o/operation_new_earth.md) | 0.05% |
-| 306 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.05% |
 | 306 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
 | 306 | [SYNCED](games/s/synced.md) | 0.05% |
 | 306 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.05% |
-| 317 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
-| 317 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 316 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
+| 316 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 316 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.04% |
 | 319 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 319 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 319 | [Old World](games/o/old_world.md) | 0.03% |
