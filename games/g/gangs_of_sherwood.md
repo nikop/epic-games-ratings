@@ -9,6 +9,7 @@
 | Oo-De-Lally | 100.00% | ~1 |
 | Savior | 100.00% | ~1 |
 | Treasure Hunter | 100.00% | ~1 |
+| Act of Kindness | 100.00% | ~1 |
 | Right between the eyes | 100.00% | ~1 |
 | First Aid | 100.00% | ~1 |
 | Starry Night | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | It belongs in a museum | 0.00% | ~0 |
 | Sherwood Moment 37 | 0.00% | ~0 |
 | Finish Him! | 0.00% | ~0 |
-| Act of Kindness | 0.00% | ~0 |
 | Sky High Fighter | 0.00% | ~0 |
 | Five of Friends | 0.00% | ~0 |
 | The Crowkiller | 0.00% | ~0 |

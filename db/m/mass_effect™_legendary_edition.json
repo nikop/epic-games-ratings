@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4261,9 +4261,9 @@
       "ID": "achievement_44",
       "SetID": "d252ncf",
       "Name": "The Archangel",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 498
     },
     {
       "ID": "achievement_45",
@@ -4549,9 +4549,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 377
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_78",
@@ -4761,8 +4761,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:14:50.7276425+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:08:29.296341+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:09:43.9720005+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:14:50.7278405+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:03:00.9056719+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:08:29.2965125+00:00"
 }

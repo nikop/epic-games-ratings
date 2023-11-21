@@ -434,25 +434,25 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -554,9 +554,9 @@
       "ID": "KR4_ACHIEVEMENT_HODOR",
       "SetID": "caeik3h",
       "Name": "Hold The Door",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_HORN",
@@ -618,9 +618,9 @@
       "ID": "KR4_ACHIEVEMENT_KERMIT",
       "SetID": "caeik3h",
       "Name": "None Of My Business",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
@@ -674,9 +674,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -778,9 +778,9 @@
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
       "SetID": "caeik3h",
       "Name": "Smashing Pumpkins",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_ROCKETRIDERS",
@@ -914,9 +914,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
       "SetID": "caeik3h",
       "Name": "Lord of Winter",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
@@ -937,8 +937,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:11:14.2585835+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:04:33.1703393+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:04.7283252+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:09:34.4736742+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:11:14.25865+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:02:51.1285448+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:04:33.1703937+00:00"
 }

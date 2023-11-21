@@ -16,7 +16,7 @@ Rating: 4.38 (Ranked 763)
 | Roll with it | 47.00% | ~532 |
 | Humble beginnings | 45.00% | ~509 |
 | Love is in the air | 44.00% | ~498 |
-| Fine, I'll do it myself | 42.00% | ~475 |
+| Fine, I'll do it myself | 43.00% | ~487 |
 | Moving up | 42.00% | ~475 |
 | No need to call anyone | 40.00% | ~453 |
 | Big fortune | 33.00% | ~374 |

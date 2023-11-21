@@ -3635,9 +3635,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 138644,
+  "EOS_Progressed": 138645,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 920,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27785,6 +27785,11 @@
       "Time": "2023-11-21T10:11:41.3556757+00:00",
       "NumProgressed": 138644,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-21T11:05:00.3507697+00:00",
+      "NumProgressed": 138645,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 67,
@@ -27796,7 +27801,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 94278
+      "UsersEstimate": 94279
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -27812,7 +27817,7 @@
       "Name": "At Least This Way I Can Win...",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 23569
+      "UsersEstimate": 23570
     },
     {
       "ID": "TANNENBERG_ACH_BEFORE_THE_LEAVES_FALL",
@@ -27868,7 +27873,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 113688
+      "UsersEstimate": 113689
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -28004,7 +28009,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 123393
+      "UsersEstimate": 123394
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -28020,7 +28025,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 110915
+      "UsersEstimate": 110916
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -28028,7 +28033,7 @@
       "Name": "I\u0027ve Seen It All",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 23569
+      "UsersEstimate": 23570
     },
     {
       "ID": "TANNENBERG_ACH_KESSELSCHLACHT",
@@ -28076,7 +28081,7 @@
       "Name": "Lucky Shot",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 73481
+      "UsersEstimate": 73482
     },
     {
       "ID": "TANNENBERG_ACH_NA_NOZH",
@@ -28092,7 +28097,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 61003
+      "UsersEstimate": 61004
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -28100,7 +28105,7 @@
       "Name": "Oops!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 23569
+      "UsersEstimate": 23570
     },
     {
       "ID": "TANNENBERG_ACH_OVERACHIEVER",
@@ -28156,7 +28161,7 @@
       "Name": "Rasputin",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 54071
+      "UsersEstimate": 54072
     },
     {
       "ID": "TANNENBERG_ACH_RING_RING",
@@ -28196,7 +28201,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 83186
+      "UsersEstimate": 83187
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -28204,7 +28209,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 61003
+      "UsersEstimate": 61004
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -28212,7 +28217,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 48525
+      "UsersEstimate": 48526
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -28220,7 +28225,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 54071
+      "UsersEstimate": 54072
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -28228,7 +28233,7 @@
       "Name": "Switch, Please!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 26342
+      "UsersEstimate": 26343
     },
     {
       "ID": "TANNENBERG_ACH_S_NAMI_BOG",
@@ -28300,7 +28305,7 @@
       "Name": "Unlucky",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 97051
+      "UsersEstimate": 97052
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -28331,15 +28336,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 138644,
+      "Progressed": 138645,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-11-16T13:59:36.3974216+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:11:41.3556752+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:05:00.3507694+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.2903875+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:05:23.7782787+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:11:41.3558177+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:58:58.1610125+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:05:00.3509047+00:00"
 }

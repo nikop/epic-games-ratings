@@ -2720,9 +2720,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 542
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -2824,9 +2824,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 572
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -2880,9 +2880,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 201
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -2920,9 +2920,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 592
+      "UsersEstimate": 602
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -2977,8 +2977,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:11:25.9978051+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:04:45.1693162+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:06:18.6949559+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:11:25.9978836+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:59:54.7400698+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:04:45.1693943+00:00"
 }

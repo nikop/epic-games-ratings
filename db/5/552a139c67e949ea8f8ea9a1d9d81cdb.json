@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2639,9 +2639,9 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 258
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2724,8 +2724,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:14:47.2439645+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:08:25.5810925+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:06:26.9749649+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:14:47.2440146+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:00:03.3918648+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:08:25.5811389+00:00"
 }

@@ -8727,9 +8727,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 809238,
+  "EOS_Progressed": 809239,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 876,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32862,6 +32862,11 @@
       "Time": "2023-11-21T10:15:03.8282419+00:00",
       "NumProgressed": 809238,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-21T11:08:42.413142+00:00",
+      "NumProgressed": 809239,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -33153,7 +33158,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72831
+      "UsersEstimate": 72832
     },
     {
       "ID": "HardcoreHenry",
@@ -33528,15 +33533,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 809238,
+      "Progressed": 809239,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-21T04:02:40.8539369+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:15:03.8282414+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:08:42.4131416+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:44.9251245+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:09:41.0315955+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:15:03.8284372+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:02:57.6626669+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:08:42.4133255+00:00"
 }

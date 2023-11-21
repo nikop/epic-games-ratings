@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4845,
+  "EOS_Progressed": 4846,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3271,6 +3271,11 @@
       "Time": "2023-11-21T01:55:41.8074161+00:00",
       "NumProgressed": 4845,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-21T11:04:28.0913317+00:00",
+      "NumProgressed": 4846,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3290,7 +3295,7 @@
       "Name": "Firebug",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3306,7 +3311,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3330,7 +3335,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4118
+      "UsersEstimate": 4119
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3338,7 +3343,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3378,7 +3383,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3450,7 +3455,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -3618,7 +3623,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3626,7 +3631,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3817,15 +3822,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4845,
+      "Progressed": 4846,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:11:09.05627+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:04:28.0913315+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:14.8365013+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:04:45.2605145+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:11:09.0563246+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:58:19.6912221+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:04:28.0913885+00:00"
 }

@@ -35,8 +35,8 @@
 | Scholar | 39.00% | ~525 |
 | Operative | 38.00% | ~512 |
 | Veteran | 37.00% | ~498 |
+| The Archangel | 37.00% | ~498 |
 | The Professor | 37.00% | ~498 |
-| The Archangel | 36.00% | ~485 |
 | Power Full | 36.00% | ~485 |
 | The Convict | 35.00% | ~471 |
 | Colony Defense | 34.00% | ~458 |
@@ -62,13 +62,13 @@
 | Archivist | 29.00% | ~391 |
 | Fade Away | 29.00% | ~391 |
 | Agent | 29.00% | ~391 |
+| Digital Exorcist | 29.00% | ~391 |
 | Bringer of War | 29.00% | ~391 |
 | Focused | 28.00% | ~377 |
 | Friend or Foe | 28.00% | ~377 |
 | Cat's in the Cradle | 28.00% | ~377 |
 | Doppelganger | 28.00% | ~377 |
 | Treason | 28.00% | ~377 |
-| Digital Exorcist | 28.00% | ~377 |
 | Mobilizer | 28.00% | ~377 |
 | Mission Accomplished | 27.00% | ~364 |
 | Suicide Mission | 27.00% | ~364 |

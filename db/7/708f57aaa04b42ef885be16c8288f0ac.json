@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5687,
+  "EOS_Progressed": 5689,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3941,6 +3941,11 @@
       "Time": "2023-11-21T10:15:38.6413183+00:00",
       "NumProgressed": 5687,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-21T11:09:21.9609887+00:00",
+      "NumProgressed": 5689,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3969,7 +3974,7 @@
       "Name": "Be Like Water",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Bikemaggedon",
@@ -4041,7 +4046,7 @@
       "Name": "Garbage Man",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Godrunner",
@@ -4081,7 +4086,7 @@
       "Name": "Live By The Sword",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MasterManipulator",
@@ -4209,7 +4214,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "k01101110",
@@ -4217,14 +4222,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5687,
+      "Progressed": 5689,
       "Completed": 7
     }
   ],
@@ -4232,8 +4237,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-18T12:59:51.9731729+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:15:38.6413177+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:09:21.9609884+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:05:21.1001979+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:15:38.6413558+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:58:55.6091768+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:09:21.9610289+00:00"
 }

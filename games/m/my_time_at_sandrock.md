@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 255.00% | ~956 |
 | Iron Chef | 183.00% | ~686 |
 | Greeno-B-Gone | 129.00% | ~484 |
-| Your Especially Earned Trajectory | 102.00% | ~382 |
+| Your Especially Earned Trajectory | 103.00% | ~386 |
 | No Mountain Wide Enough | 75.00% | ~281 |
 | One of the Cool Kids | 73.00% | ~274 |
 | Yakmel Whisperer | 73.00% | ~274 |
@@ -20,7 +20,7 @@ Number of Ratings: 892  (23.09.2022)
 | Unboxing | 62.00% | ~232 |
 | Chatterbox | 57.00% | ~214 |
 | First Love | 57.00% | ~214 |
-| Big Game Hunter | 55.00% | ~206 |
+| Big Game Hunter | 56.00% | ~210 |
 | Got Served | 54.00% | ~202 |
 | I Do! | 54.00% | ~202 |
 | Financially Secure | 53.00% | ~199 |
@@ -32,10 +32,10 @@ Number of Ratings: 892  (23.09.2022)
 | What Plants Crave | 46.00% | ~172 |
 | Anti-Santa | 46.00% | ~172 |
 | Panda-kin | 45.00% | ~169 |
+| Finishing Touches | 45.00% | ~169 |
 | Bridging the Gap | 45.00% | ~169 |
 | Martle's Dream | 45.00% | ~169 |
 | Mole Masher | 45.00% | ~169 |
-| Finishing Touches | 44.00% | ~165 |
 | My Time Mansion | 43.00% | ~161 |
 | Waste Not Want Not | 43.00% | ~161 |
 | Knowledge is Power | 41.00% | ~154 |
@@ -49,7 +49,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 34.00% | ~128 |
 | He Can Spin A Yarn... | 32.00% | ~120 |
 | Time Flies | 30.00% | ~112 |
-| Kind of a Big Deal | 28.00% | ~105 |
+| Kind of a Big Deal | 29.00% | ~109 |
 | Santa In Training | 28.00% | ~105 |
 | Newton | 28.00% | ~105 |
 | Just What I Always Wanted! | 27.00% | ~101 |

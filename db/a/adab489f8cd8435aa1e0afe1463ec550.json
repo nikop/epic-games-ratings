@@ -389,9 +389,9 @@
       "ID": "40",
       "SetID": "6hl9l7f",
       "Name": "Super Rotation",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "41",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:10:03.0072466+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:03:21.5682232+00:00",
   "LastUpdate_AppInfo": "2023-11-19T14:56:56.9964114+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:05:43.5806222+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:10:03.0072702+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:59:18.6058281+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:03:21.56825+00:00"
 }

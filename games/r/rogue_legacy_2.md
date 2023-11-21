@@ -20,8 +20,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Pillow Investments | 0.70% | ~165 |
 | Truly Blessed | 0.60% | ~141 |
 | Looks Familiar | 0.60% | ~141 |
+| Good Boy! | 0.60% | ~141 |
 | For Justice | 0.50% | ~118 |
-| Good Boy! | 0.50% | ~118 |
 | For Survival | 0.40% | ~94 |
 | Jack of all Trades | 0.40% | ~94 |
 | For Wrath | 0.30% | ~71 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 7,
   "Ranking_Popularity": 112,
-  "Ranking_PopularitySum": 97,
+  "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 752,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 432,
@@ -5080,10 +5080,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 9075,
       "NumberOfAwardsMax": 1946
+    },
+    {
+      "Time": "2023-11-21T10:57:26.1382213+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9076,
+      "NumberOfAwardsMax": 1946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9075,
+  "NumberOfAwards": 9076,
   "NumberOfAwardsMax": 1946,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5163,7 +5169,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 535
+      "Count": 536
     }
   ],
   "EOS_Progressed": 0,
@@ -5177,8 +5183,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2023-11-21T05:02:36.3696718+00:00",
+  "LastChanged": "2023-11-21T10:57:26.1382212+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.8402809+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:03:52.6551817+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:11:00.4498819+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:57:26.1382216+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:04:18.549606+00:00"
 }

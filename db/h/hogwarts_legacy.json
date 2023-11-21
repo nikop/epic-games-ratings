@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10821,9 +10821,9 @@
       "Count": 799
     }
   ],
-  "EOS_Progressed": 302510,
+  "EOS_Progressed": 302511,
   "EOS_Completed": 513,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -33906,6 +33906,11 @@
       "Time": "2023-11-21T10:15:55.0645581+00:00",
       "NumProgressed": 302510,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-21T11:09:39.0408526+00:00",
+      "NumProgressed": 302511,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34245,7 +34250,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42351
+      "UsersEstimate": 42352
     },
     {
       "ID": "PFA_7",
@@ -34253,7 +34258,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42351
+      "UsersEstimate": 42352
     },
     {
       "ID": "PFA_8",
@@ -34276,7 +34281,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302510,
+      "Progressed": 302511,
       "Completed": 513
     }
   ],
@@ -34284,8 +34289,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-21T10:07:04.8146152+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:15:55.0645578+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:09:39.0408521+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:07:04.8146157+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:15:55.0646752+00:00"
+  "LastUpdate_Ratings": "2023-11-21T11:00:42.8101435+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:09:39.0409899+00:00"
 }

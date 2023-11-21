@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4271,9 +4271,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76776,
+  "EOS_Progressed": 76777,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23361,6 +23361,11 @@
       "Time": "2023-11-21T09:05:13.4522904+00:00",
       "NumProgressed": 76776,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-11-21T11:04:19.6169061+00:00",
+      "NumProgressed": 76777,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 61,
@@ -23420,7 +23425,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17658
+      "UsersEstimate": 17659
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -23460,7 +23465,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11516
+      "UsersEstimate": 11517
     },
     {
       "ID": "CHALLENGES_1",
@@ -23596,7 +23601,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21497
+      "UsersEstimate": 21498
     },
     {
       "ID": "FREEZE_1_5",
@@ -23612,7 +23617,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14587
+      "UsersEstimate": 14588
     },
     {
       "ID": "FREEZE_3",
@@ -23804,7 +23809,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11516
+      "UsersEstimate": 11517
     },
     {
       "ID": "MYSTERY_07",
@@ -23859,13 +23864,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76776,
+      "Progressed": 76777,
       "Completed": 124
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 47056,
+      "Progressed": 47057,
       "Completed": 2674
     }
   ],
@@ -23873,8 +23878,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-21T05:58:12.194287+00:00",
-  "LastChanged_Achievements": "2023-11-21T10:11:01.2481135+00:00",
+  "LastChanged_Achievements": "2023-11-21T11:04:19.6169057+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:09.9621237+00:00",
-  "LastUpdate_Ratings": "2023-11-21T10:04:47.1339492+00:00",
-  "LastUpdate_Achievements": "2023-11-21T10:11:01.2482188+00:00"
+  "LastUpdate_Ratings": "2023-11-21T10:58:21.4356281+00:00",
+  "LastUpdate_Achievements": "2023-11-21T11:04:19.6170225+00:00"
 }

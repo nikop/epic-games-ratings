@@ -7,7 +7,7 @@ Rating: 4.09 (Ranked 967)
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~259 |
 | Battlefields Have Memories | 87.00% | ~248 |
-| Enlisted | 84.00% | ~239 |
+| Enlisted | 85.00% | ~242 |
 | Maybe Engage a Little | 80.00% | ~228 |
 | No More Names | 69.00% | ~197 |
 | Initiate | 56.00% | ~160 |
@@ -21,8 +21,8 @@ Rating: 4.09 (Ranked 967)
 | The Means to Save It | 24.00% | ~68 |
 | Resilience to Sin | 22.00% | ~63 |
 | A Familiar Nest | 22.00% | ~63 |
+| Geas Aristeya | 21.00% | ~60 |
 | Periapt Alizarin | 21.00% | ~60 |
-| Geas Aristeya | 20.00% | ~57 |
 | A Perfect Cycle | 19.00% | ~54 |
 | Recruit | 18.00% | ~51 |
 | Armsman | 18.00% | ~51 |
