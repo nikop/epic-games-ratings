@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 30.10% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 30.07% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.82% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -19,7 +19,7 @@
 | 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.43% |
+| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.91% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
@@ -79,7 +79,7 @@
 | 77 | [ZZT!](games/z/zzt!.md) | 4.61% |
 | 78 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 78 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.55% |
-| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.53% |
+| 80 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.54% |
 | 81 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.52% |
 | 82 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 82 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.35% |
@@ -120,7 +120,7 @@
 | 118 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 120 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
-| 121 | [Bloodshore](games/b/bloodshore.md) | 2.33% |
+| 121 | [Bloodshore](games/b/bloodshore.md) | 2.31% |
 | 122 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.30% |
 | 123 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
 | 124 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.24% |
@@ -149,7 +149,7 @@
 | 146 | [Ten Dates](games/t/ten_dates.md) | 1.35% |
 | 148 | [Chorus](games/c/chorus.md) | 1.32% |
 | 148 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
-| 150 | [Iron Danger](games/i/iron_danger.md) | 1.28% |
+| 150 | [Iron Danger](games/i/iron_danger.md) | 1.27% |
 | 151 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.26% |
 | 151 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
 | 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.25% |
