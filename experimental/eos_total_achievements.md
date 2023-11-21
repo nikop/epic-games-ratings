@@ -746,6 +746,7 @@
 | [Hanoi Puzzles - Solid Match](../games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 11 | 1,000 |
 | [Inspector Gadget - Mad Time Party](../games/i/inspector_gadget_-_mad_time_party.md) | 11 | 1,000 |
 | [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
+| [Mediterranea Inferno](../games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 11 | 1,000 |
 | [My Friend Peppa Pig](../games/m/my_friend_peppa_pig.md) | 11 | 1,000 |
 | [No Son Of Mine](../games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 11 | 1,000 |
 | [Nocturnal](../games/2/2755e0338895421ebeb217fe1f742e7b.md) | 11 | 1,000 |
