@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~50,099 |
-| Worth it | 63.00% | ~40,464 |
-| Eagle Eye | 55.00% | ~35,326 |
+| Setting an example | 78.00% | ~50,100 |
+| Worth it | 63.00% | ~40,466 |
+| Eagle Eye | 55.00% | ~35,327 |
 | Corpseman I | 40.00% | ~25,692 |
 | Blast fishing | 37.00% | ~23,765 |
-| Not alone | 32.00% | ~20,553 |
+| Not alone | 32.00% | ~20,554 |
 | Headhunter I | 26.00% | ~16,700 |
-| Manual Labour I | 25.00% | ~16,057 |
+| Manual Labour I | 25.00% | ~16,058 |
 | Developers, Developers, Developers | 24.00% | ~15,415 |
 | Basic Training | 24.00% | ~15,415 |
 | Furchtlos und Treu | 13.00% | ~8,350 |
-| Gott Mit Uns | 12.00% | ~7,707 |
+| Gott Mit Uns | 12.00% | ~7,708 |
 | This We'll Defend! | 9.00% | ~5,781 |
 | Anker wirf! | 9.00% | ~5,781 |
 | Providentiea Memor | 9.00% | ~5,781 |
@@ -25,9 +25,9 @@ Number of Ratings: 1,999  (23.09.2022)
 | Battle hardened | 8.00% | ~5,138 |
 | Semper Fidelis! | 7.00% | ~4,496 |
 | Honneur et Patrie | 7.00% | ~4,496 |
-| In Treue Fest | 5.00% | ~3,211 |
-| Voor De Koning | 5.00% | ~3,211 |
-| Extreme Headhunter | 5.00% | ~3,211 |
+| In Treue Fest | 5.00% | ~3,212 |
+| Voor De Koning | 5.00% | ~3,212 |
+| Extreme Headhunter | 5.00% | ~3,212 |
 | Advance Australia | 4.00% | ~2,569 |
 | We Stand on Guard | 4.00% | ~2,569 |
 | Sidi Brahim | 4.00% | ~2,569 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,229 (Ranked 105)  
+Progressed: 64,231 (Ranked 105)  
 Completed: 4 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 4 (0.01%) (Ranked 335)
 | 2023-11-18 | 63,967 | 4 |
 | 2023-11-19 | 64,119 | 4 |
 | 2023-11-20 | 64,207 | 4 |
-| 2023-11-21 | 64,229 | 4 |
+| 2023-11-21 | 64,231 | 4 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
 Sum: 809 (Ranked 280)  

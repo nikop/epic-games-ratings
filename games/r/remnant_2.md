@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Master of the Dark Arts | 0.50% | ~20 |
 | Regicide | 0.40% | ~16 |
-| Master of the Dark Arts | 0.40% | ~16 |
 | Expanding Horizons | 0.10% | ~225 |
 | Crafty | 0.10% | ~225 |
 | Am I Seeing This? | 0.10% | ~225 |
@@ -61,7 +61,7 @@ Rating: 4.76 (Ranked 125)
 | A Foul Feast | 0.10% | ~4 |
 | You Shall Pass | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,817 (Ranked 69)  
+Progressed: 224,831 (Ranked 69)  
 Completed: 495 (0.22%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 495 (0.22%) (Ranked 248)
 | 2023-11-18 | 223,350 | 472 |
 | 2023-11-19 | 224,109 | 485 |
 | 2023-11-20 | 224,687 | 495 |
-| 2023-11-21 | 224,817 | 495 |
+| 2023-11-21 | 224,831 | 495 |
 ## Awards
-Max (Great Boss Battles): 2,358  (Ranked 105)  
-Sum: 5,589 (Ranked 132)  
+Max (Great Boss Battles): 2,369  (Ranked 105)  
+Sum: 5,600 (Ranked 132)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,358 |
+| This game has Great Boss Battles | 2,369 |
 | This game has Diverse Characters | 366 |
 | This game is Highly Recommended | 352 |
 | This game is Extremely Fun | 346 |
@@ -328,4 +328,4 @@ Diff (max vs sum): -27
 | 2023-11-18 | 4.75 | 2,299 | 5,384 |
 | 2023-11-19 | 4.75 | 2,336 | 5,490 |
 | 2023-11-20 | 4.76 | 2,358 | 5,576 |
-| 2023-11-21 | 4.76 | 2,358 | 5,589 |
+| 2023-11-21 | 4.76 | 2,369 | 5,600 |

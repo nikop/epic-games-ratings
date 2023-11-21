@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -1004,9 +1004,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 264
     },
     {
       "ID": "ChasingTheLight",
@@ -1028,9 +1028,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "DesolateIsland",
@@ -1044,9 +1044,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "EasternWetlands",
@@ -1236,9 +1236,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "RenaissanceRobot",
@@ -1340,17 +1340,17 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "TheWordEndures",
@@ -1396,9 +1396,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "WoodedPlateau",
@@ -1429,8 +1429,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:03:18.6259593+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:03:26.6905798+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:58:18.200544+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:03:18.6259957+00:00"
+  "LastUpdate_Ratings": "2023-11-21T07:58:46.410533+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:03:26.6906211+00:00"
 }

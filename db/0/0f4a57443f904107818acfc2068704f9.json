@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -995,9 +995,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:04:04.78109+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:04:12.5443854+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:59:54.6751189+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:04:04.7811196+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:00:23.8099814+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:04:12.5444128+00:00"
 }

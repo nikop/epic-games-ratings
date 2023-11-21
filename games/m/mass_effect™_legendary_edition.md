@@ -27,9 +27,9 @@
 | Colonial Savior | 43.00% | ~579 |
 | Missing in Action | 43.00% | ~579 |
 | Scientist | 43.00% | ~579 |
+| Very Elusive | 42.00% | ~565 |
 | Merciless | 42.00% | ~565 |
 | Krogan Ally | 41.00% | ~552 |
-| Very Elusive | 41.00% | ~552 |
 | Sentinel Ally | 40.00% | ~538 |
 | Head Hunter | 39.00% | ~525 |
 | Scholar | 39.00% | ~525 |

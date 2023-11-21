@@ -2796,9 +2796,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 538768,
+  "EOS_Progressed": 538769,
   "EOS_Completed": 1619,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -26481,6 +26481,11 @@
       "Time": "2023-11-21T07:08:24.2617898+00:00",
       "NumProgressed": 538768,
       "NumCompleted": 1619
+    },
+    {
+      "Time": "2023-11-21T08:06:44.7878967+00:00",
+      "NumProgressed": 538769,
+      "NumCompleted": 1619
     }
   ],
   "TotalAchievements": 37,
@@ -26548,7 +26553,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 447177
+      "UsersEstimate": 447178
     },
     {
       "ID": "HONED",
@@ -26604,7 +26609,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215507
+      "UsersEstimate": 215508
     },
     {
       "ID": "THE_CASTLE",
@@ -26612,7 +26617,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59264
+      "UsersEstimate": 59265
     },
     {
       "ID": "THE_CAVE",
@@ -26732,7 +26737,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43101
+      "UsersEstimate": 43102
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -26772,7 +26777,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43101
+      "UsersEstimate": 43102
     },
     {
       "ID": "WISE_WORDS",
@@ -26787,15 +26792,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 538768,
+      "Progressed": 538769,
       "Completed": 1619
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-18T12:59:55.4246283+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:08:24.2617896+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:06:44.7878963+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:11.7243126+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:58:24.4163231+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:08:24.2619323+00:00"
+  "LastUpdate_Ratings": "2023-11-21T07:58:52.4285856+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:06:44.7880163+00:00"
 }

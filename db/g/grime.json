@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1513,9 +1513,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159356,
+  "EOS_Progressed": 159362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16468,6 +16468,11 @@
       "Time": "2023-11-21T07:03:18.3826502+00:00",
       "NumProgressed": 159356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T08:03:26.3913894+00:00",
+      "NumProgressed": 159362,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16559,7 +16564,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -16687,7 +16692,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -16846,21 +16851,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158939,
+      "Progressed": 158945,
       "Completed": 1213
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159356,
+      "Progressed": 159362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-21T06:00:47.6734976+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:03:18.3826501+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:03:26.3913891+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:59:39.4405019+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:03:18.3827791+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:00:06.7587443+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:03:26.3914707+00:00"
 }

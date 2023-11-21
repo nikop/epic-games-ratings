@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 87.00% | ~278 |
 | Thalya – Simply Immortal | 87.00% | ~278 |
-| For the Horde! | 81.00% | ~259 |
-| Hammer Time, Round Two | 80.00% | ~256 |
+| For the Horde! | 82.00% | ~262 |
+| Hammer Time, Round Two | 81.00% | ~259 |
 | The Hellwoods | 77.00% | ~246 |
 | The Plains of Strothalm | 72.00% | ~230 |
 | Experienced Thalya | 70.00% | ~224 |
@@ -30,7 +30,7 @@
 | Dungeonlord Gorgu | 33.00% | ~106 |
 | The Cathedral of Light | 32.00% | ~102 |
 | Shame! Shame! Shame! | 32.00% | ~102 |
-| Tanos' Crusade Against Thalya | 28.00% | ~90 |
+| Tanos' Crusade Against Thalya | 29.00% | ~93 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~74 |
 | Unstoppable Horde | 23.00% | ~74 |
 | All’s Well That Ends Evil | 23.00% | ~74 |

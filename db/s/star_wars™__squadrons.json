@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21871,
+  "EOS_Progressed": 21875,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2169,
+  "EOS_NewPlayers": 2172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7374,6 +7374,11 @@
       "Time": "2023-11-21T07:09:40.9065929+00:00",
       "NumProgressed": 21871,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T08:09:25.8947083+00:00",
+      "NumProgressed": 21875,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -7394,7 +7399,7 @@
       "Name": "Seasoned Star Pilot",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_11",
@@ -7434,7 +7439,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "achievement_16",
@@ -7482,7 +7487,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_21",
@@ -7546,7 +7551,7 @@
       "Name": "The Trap is Set",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_29",
@@ -7562,7 +7567,7 @@
       "Name": "The Galaxy\u0027s Finest (Veteran)",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_30",
@@ -7578,7 +7583,7 @@
       "Name": "Got \u0027Em",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_32",
@@ -7594,7 +7599,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "achievement_34",
@@ -7610,7 +7615,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 20777
+      "UsersEstimate": 20781
     },
     {
       "ID": "achievement_36",
@@ -7626,7 +7631,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "achievement_38",
@@ -7642,7 +7647,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5249
+      "UsersEstimate": 5250
     },
     {
       "ID": "achievement_4",
@@ -7722,7 +7727,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_6",
@@ -7730,7 +7735,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "achievement_7",
@@ -7746,7 +7751,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5249
+      "UsersEstimate": 5250
     },
     {
       "ID": "achievement_9",
@@ -7761,7 +7766,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 21871,
+      "Progressed": 21875,
       "Completed": 1
     }
   ],
@@ -7769,8 +7774,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:09:40.9065927+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:09:25.8947079+00:00",
   "LastUpdate_AppInfo": "2023-11-18T15:57:16.1177806+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:03:01.2194877+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:09:40.9066595+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:03:07.3561429+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:09:25.8947621+00:00"
 }

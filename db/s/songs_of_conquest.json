@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -873,6 +873,11 @@
       "Time": "2023-11-21T05:04:30.670906+00:00",
       "NumProgressed": 164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T08:04:07.1000454+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1027,9 +1032,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "FlameAttackKillCount",
@@ -1221,7 +1226,7 @@
       "Name": "Veteran",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WielderLevel3",
@@ -1316,15 +1321,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:03:59.19233+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:04:07.1000447+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:58:04.6587225+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:03:59.1923712+00:00"
+  "LastUpdate_Ratings": "2023-11-21T07:58:32.0949451+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:04:07.1000782+00:00"
 }

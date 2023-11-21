@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8414,7 +8414,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 476442,
+  "EOS_Progressed": 476443,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
@@ -30284,6 +30284,11 @@
       "Time": "2023-11-21T05:05:43.1904208+00:00",
       "NumProgressed": 476442,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-21T08:05:01.1153027+00:00",
+      "NumProgressed": 476443,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -30311,7 +30316,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128639
+      "UsersEstimate": 128640
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -30383,7 +30388,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128639
+      "UsersEstimate": 128640
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -30479,7 +30484,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238221
+      "UsersEstimate": 238222
     },
     {
       "ID": "achievement_club_world_cup",
@@ -30591,7 +30596,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95288
+      "UsersEstimate": 95289
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -30615,7 +30620,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195341
+      "UsersEstimate": 195342
     },
     {
       "ID": "achievement_head_to_head",
@@ -30727,7 +30732,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152461
+      "UsersEstimate": 152462
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -30735,7 +30740,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95288
+      "UsersEstimate": 95289
     },
     {
       "ID": "achievement_pick_feeder",
@@ -30791,7 +30796,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128639
+      "UsersEstimate": 128640
     },
     {
       "ID": "achievement_record_signing",
@@ -30799,7 +30804,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152461
+      "UsersEstimate": 152462
     },
     {
       "ID": "achievement_rushed_signing",
@@ -30839,7 +30844,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228692
+      "UsersEstimate": 228693
     },
     {
       "ID": "achievement_signed_a_player",
@@ -30847,7 +30852,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238221
+      "UsersEstimate": 238222
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -30879,7 +30884,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119110
+      "UsersEstimate": 119111
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -30927,7 +30932,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 238221
+      "UsersEstimate": 238222
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -30951,7 +30956,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61937
+      "UsersEstimate": 61938
     },
     {
       "ID": "achievement_won_world_cup",
@@ -31078,15 +31083,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 476442,
+      "Progressed": 476443,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-20T19:00:23.4710724+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:04:53.6155926+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:05:01.1153023+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:53.8009181+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:59:27.4645695+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:04:53.615743+00:00"
+  "LastUpdate_Ratings": "2023-11-21T07:59:54.7031826+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:05:01.1154587+00:00"
 }

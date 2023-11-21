@@ -25,6 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.60% | ~5,385 |
 | Spin Doctor | 0.60% | ~157 |
 | Bushido and Chill | 0.50% | ~4,488 |
+| To Protect and Serve | 0.50% | ~4,488 |
 | Master Crafter | 0.50% | ~4,488 |
 | I Am The Law | 0.50% | ~4,488 |
 | The Fool | 0.50% | ~4,488 |
@@ -32,7 +33,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.50% | ~4,488 |
 | Judy vs Night City | 0.50% | ~4,488 |
 | Dirty Deeds | 0.50% | ~131 |
-| To Protect and Serve | 0.40% | ~3,590 |
 | King of Wands | 0.40% | ~105 |
 | Easy Come, Easy Go | 0.40% | ~105 |
 | To Bad Decisions! | 0.30% | ~2,693 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,559 (Ranked 15)  
+Progressed: 897,560 (Ranked 15)  
 Completed: 2,795 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,795 (0.31%) (Ranked 233)
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
 | 2023-11-20 | 897,531 | 2,794 |
-| 2023-11-21 | 897,559 | 2,795 |
+| 2023-11-21 | 897,560 | 2,795 |
 ## Awards
 Max (Character Customization): 106,367  (Ranked 9)  
 Sum: 358,489 (Ranked 10)  

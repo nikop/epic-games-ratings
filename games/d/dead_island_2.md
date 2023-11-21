@@ -23,12 +23,12 @@ Rating: 4.54 (Ranked 525)
 | But Doctor, I am Butcho | 0.90% | ~6,495 |
 | Stacking the Deck | 0.90% | ~6,495 |
 | This is My Weapon | 0.90% | ~6,495 |
-| Slayer Squad | 0.80% | ~5,773 |
-| Can't Handle the Truth | 0.80% | ~5,773 |
-| Like Riding a Bike | 0.80% | ~5,773 |
-| Zombologist | 0.80% | ~5,773 |
-| A Patton Emerges | 0.80% | ~5,773 |
-| Our True Nature | 0.80% | ~5,773 |
+| Slayer Squad | 0.80% | ~5,774 |
+| Can't Handle the Truth | 0.80% | ~5,774 |
+| Like Riding a Bike | 0.80% | ~5,774 |
+| Zombologist | 0.80% | ~5,774 |
+| A Patton Emerges | 0.80% | ~5,774 |
+| Our True Nature | 0.80% | ~5,774 |
 | Perks of the Job | 0.70% | ~5,052 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,052 |
 | Ooh, Shiny! | 0.70% | ~5,052 |
@@ -36,9 +36,9 @@ Rating: 4.54 (Ranked 525)
 | Max Headroom | 0.70% | ~5,052 |
 | Making Your Mark | 0.60% | ~4,330 |
 | Humanity Distilled | 0.60% | ~4,330 |
+| Down with the Sickness | 0.60% | ~4,330 |
 | Not Even My Final Form | 0.50% | ~3,608 |
 | Jumbo Keyring | 0.50% | ~3,608 |
-| Down with the Sickness | 0.50% | ~3,608 |
 | Go, Bobcats! | 0.50% | ~3,608 |
 | Rising Star | 0.50% | ~3,608 |
 | On Safari | 0.40% | ~2,887 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 525)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,687 (Ranked 20)  
-Completed: 2,421 (0.34%) (Ranked 228)  
+Progressed: 721,696 (Ranked 20)  
+Completed: 2,422 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,7 +272,7 @@ Completed: 2,421 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,687 | 2,421 |
+| 2023-11-21 | 721,696 | 2,422 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 50)  
 Sum: 11,619 (Ranked 84)  

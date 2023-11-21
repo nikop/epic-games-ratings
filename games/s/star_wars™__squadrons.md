@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~20,777 |
-| Safety in the Storm | 24.00% | ~5,249 |
-| A Better Idea | 24.00% | ~5,249 |
-| Begin the Ceremony | 20.00% | ~4,374 |
-| Mission Accomplished | 19.00% | ~4,155 |
+| Fracture at Fostar Haven | 95.00% | ~20,781 |
+| Safety in the Storm | 24.00% | ~5,250 |
+| A Better Idea | 24.00% | ~5,250 |
+| Begin the Ceremony | 20.00% | ~4,375 |
+| Mission Accomplished | 19.00% | ~4,156 |
 | The Galaxy's Finest (Story Mode) | 15.00% | ~3,281 |
-| A Starfighter of Your Own | 14.00% | ~3,062 |
-| Asset Secured | 13.00% | ~2,843 |
+| A Starfighter of Your Own | 14.00% | ~3,063 |
+| Asset Secured | 13.00% | ~2,844 |
 | Unkillable | 8.00% | ~1,750 |
 | Together, Vanguard | 7.00% | ~1,531 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,312 |
@@ -28,18 +28,18 @@
 | Squadron Hunter | 3.00% | ~656 |
 | Punch It | 3.00% | ~656 |
 | Combat Pilot | 3.00% | ~656 |
-| Stun 'Em | 2.00% | ~437 |
-| Dressed for the Job You Want | 2.00% | ~437 |
+| Stun 'Em | 2.00% | ~438 |
+| Dressed for the Job You Want | 2.00% | ~438 |
 | I Have You Now | 1.00% | ~219 |
 | Against the Current | 1.00% | ~219 |
 | Denied | 0.80% | ~175 |
 | Found Your Place | 0.70% | ~153 |
 | Unstoppable Ace | 0.50% | ~109 |
 | Special Modifications | 0.50% | ~109 |
-| Seasoned Star Pilot | 0.40% | ~87 |
-| The Trap is Set | 0.40% | ~87 |
-| The Galaxy's Finest (Veteran) | 0.40% | ~87 |
-| Got 'Em | 0.40% | ~87 |
+| Seasoned Star Pilot | 0.40% | ~88 |
+| The Trap is Set | 0.40% | ~88 |
+| The Galaxy's Finest (Veteran) | 0.40% | ~88 |
+| Got 'Em | 0.40% | ~88 |
 | Victory for the New Republic | 0.30% | ~66 |
 | Victory for the Empire | 0.30% | ~66 |
 | Heavy Hitter | 0.30% | ~66 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~22 |
 | The Galaxy's Finest (Ace) | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,871 (Ranked 133)  
+Progressed: 21,875 (Ranked 133)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 21,085 | 1 |
 | 2023-11-19 | 21,532 | 1 |
 | 2023-11-20 | 21,784 | 1 |
-| 2023-11-21 | 21,871 | 1 |
+| 2023-11-21 | 21,875 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

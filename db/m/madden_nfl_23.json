@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3563,
+  "EOS_Progressed": 3564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5771,6 +5771,11 @@
       "Time": "2023-11-21T06:07:19.1194893+00:00",
       "NumProgressed": 3563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T08:06:06.2763775+00:00",
+      "NumProgressed": 3564,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5815,7 +5820,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "achievement_14",
@@ -5829,9 +5834,9 @@
       "ID": "achievement_15",
       "SetID": "c8fif6p",
       "Name": "MVP",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1925
     },
     {
       "ID": "achievement_16",
@@ -5950,7 +5955,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3563,
+      "Progressed": 3564,
       "Completed": 0
     }
   ],
@@ -5958,8 +5963,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-20T23:59:24.7419033+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:05:59.9940446+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:06:06.2763773+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.6679059+00:00",
-  "LastUpdate_Ratings": "2023-11-21T06:59:32.6800725+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:05:59.9940798+00:00"
+  "LastUpdate_Ratings": "2023-11-21T07:59:59.889689+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:06:06.2764156+00:00"
 }

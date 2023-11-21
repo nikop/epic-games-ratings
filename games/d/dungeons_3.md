@@ -6,16 +6,16 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~28,281 |
-| The Evilest Evil | 59.00% | ~23,837 |
-| Twistram is devastated | 58.00% | ~23,433 |
-| The Gehenna Stones | 50.00% | ~20,201 |
-| No one has to die today! | 47.00% | ~18,989 |
-| Death and destruction! | 46.00% | ~18,585 |
-| The Swamplanders from the swamplands | 44.00% | ~17,777 |
-| The One-Huge-Army-Building Evil | 41.00% | ~16,565 |
-| Rusty Steel | 41.00% | ~16,565 |
-| Braiiiiins! | 38.00% | ~15,353 |
+| The Shadow strikes | 70.00% | ~28,283 |
+| The Evilest Evil | 59.00% | ~23,838 |
+| Twistram is devastated | 58.00% | ~23,434 |
+| The Gehenna Stones | 50.00% | ~20,202 |
+| No one has to die today! | 47.00% | ~18,990 |
+| Death and destruction! | 46.00% | ~18,586 |
+| The Swamplanders from the swamplands | 44.00% | ~17,778 |
+| The One-Huge-Army-Building Evil | 41.00% | ~16,566 |
+| Rusty Steel | 41.00% | ~16,566 |
+| Braiiiiins! | 38.00% | ~15,354 |
 | The last burger | 37.00% | ~14,949 |
 | Hands off the Dungeonheart! | 36.00% | ~14,545 |
 | A trip on sea, what fun it can be | 34.00% | ~13,737 |
@@ -29,20 +29,20 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ogre Solo! | 27.00% | ~10,909 |
 | Destroy the thing | 26.00% | ~10,505 |
 | Tide Master | 26.00% | ~10,505 |
-| Difficult family relationships | 25.00% | ~10,100 |
-| MASS-O-BOT | 24.00% | ~9,696 |
-| Prepare the grave | 24.00% | ~9,696 |
-| Angel of Fire | 24.00% | ~9,696 |
-| Where there is Light, there is Shadow | 23.00% | ~9,292 |
-| At the foot of Mount Destiny | 22.00% | ~8,888 |
-| The Force disturbed | 21.00% | ~8,484 |
-| The Victorious Evil | 20.00% | ~8,080 |
-| Chorus of damnation | 19.00% | ~7,676 |
-| We don’t have time! | 19.00% | ~7,676 |
-| The Stones’ Power | 18.00% | ~7,272 |
-| Flat as a pancake | 17.00% | ~6,868 |
-| Lifeguard | 17.00% | ~6,868 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,060 |
+| Difficult family relationships | 25.00% | ~10,101 |
+| MASS-O-BOT | 24.00% | ~9,697 |
+| Prepare the grave | 24.00% | ~9,697 |
+| Angel of Fire | 24.00% | ~9,697 |
+| Where there is Light, there is Shadow | 23.00% | ~9,293 |
+| At the foot of Mount Destiny | 22.00% | ~8,889 |
+| The Force disturbed | 21.00% | ~8,485 |
+| The Victorious Evil | 20.00% | ~8,081 |
+| Chorus of damnation | 19.00% | ~7,677 |
+| We don’t have time! | 19.00% | ~7,677 |
+| The Stones’ Power | 18.00% | ~7,273 |
+| Flat as a pancake | 17.00% | ~6,869 |
+| Lifeguard | 17.00% | ~6,869 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~6,061 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~4,848 |
 | Then let them eat cake! | 12.00% | ~4,848 |
 | The White Knight | 10.00% | ~4,040 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~808 |
 | Sacrifices! | 2.00% | ~808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,402 (Ranked 120)  
-Completed: 321 (0.79%) (Ranked 179)  
+Progressed: 40,404 (Ranked 120)  
+Completed: 322 (0.80%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,17 +282,17 @@ Completed: 321 (0.79%) (Ranked 179)
 | 2023-11-18 | 39,963 | 318 |
 | 2023-11-19 | 40,211 | 319 |
 | 2023-11-20 | 40,375 | 321 |
-| 2023-11-21 | 40,402 | 321 |
+| 2023-11-21 | 40,404 | 322 |
 ## Awards
 Max (Great for Beginners): 375  (Ranked 234)  
-Sum: 2,762 (Ranked 182)  
+Sum: 2,764 (Ranked 182)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 375 |
 | This game is Extremely Fun | 325 |
 | This game has Quickly Understood Controls | 315 |
-| This game is Highly Recommended | 306 |
+| This game is Highly Recommended | 308 |
 | This game has Amazing Storytelling | 302 |
 | This game has Amazing Characters | 296 |
 | This game has Diverse Characters | 292 |
@@ -531,4 +531,4 @@ Diff (max vs sum): 52
 | 2023-11-18 | 4.66 | - | 374 | 2,755 |
 | 2023-11-19 | 4.66 | - | 374 | 2,757 |
 | 2023-11-20 | 4.66 | - | 375 | 2,761 |
-| 2023-11-21 | 4.66 | - | 375 | 2,762 |
+| 2023-11-21 | 4.66 | - | 375 | 2,764 |

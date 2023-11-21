@@ -27,8 +27,8 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.90% | ~1,434 |
 | Assimilation | 0.80% | ~1,275 |
 | Host | 0.80% | ~1,272 |
-| Hunt Down | 0.70% | ~1,115 |
-| All-Seeing | 0.70% | ~1,115 |
+| Hunt Down | 0.70% | ~1,116 |
+| All-Seeing | 0.70% | ~1,116 |
 | Artisan | 0.60% | ~956 |
 | Hush | 0.60% | ~956 |
 | Inevitable | 0.60% | ~956 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,356 (Ranked 78)  
+Progressed: 159,362 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 158,977 | 1 |
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
-| 2023-11-21 | 159,356 | 1 |
+| 2023-11-21 | 159,362 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 52  (Ranked 426)  
 Sum: 374 (Ranked 347)  

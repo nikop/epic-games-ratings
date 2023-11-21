@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114718,
+  "EOS_Progressed": 114720,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
@@ -18619,6 +18619,11 @@
       "Time": "2023-11-21T07:09:05.4402806+00:00",
       "NumProgressed": 114718,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-21T08:08:55.7120763+00:00",
+      "NumProgressed": 114720,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18638,7 +18643,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88333
+      "UsersEstimate": 88334
     },
     {
       "ID": "EAwards_10",
@@ -18726,7 +18731,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55065
+      "UsersEstimate": 55066
     },
     {
       "ID": "EAwards_20",
@@ -18758,7 +18763,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9177
+      "UsersEstimate": 9178
     },
     {
       "ID": "EAwards_24",
@@ -18774,7 +18779,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21796
+      "UsersEstimate": 21797
     },
     {
       "ID": "EAwards_26",
@@ -18862,7 +18867,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9177
+      "UsersEstimate": 9178
     },
     {
       "ID": "EAwards_36",
@@ -18902,7 +18907,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14913
+      "UsersEstimate": 14914
     },
     {
       "ID": "EAwards_40",
@@ -19021,7 +19026,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114718,
+      "Progressed": 114720,
       "Completed": 50
     }
   ],
@@ -19029,8 +19034,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-21T07:09:05.4402803+00:00",
+  "LastChanged_Achievements": "2023-11-21T08:08:55.7120759+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-21T07:02:49.5969712+00:00",
-  "LastUpdate_Achievements": "2023-11-21T07:09:05.4403753+00:00"
+  "LastUpdate_Ratings": "2023-11-21T08:02:55.7763295+00:00",
+  "LastUpdate_Achievements": "2023-11-21T08:08:55.7121922+00:00"
 }

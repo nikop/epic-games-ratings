@@ -7,27 +7,27 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~372,214 |
-| Now You're Talking | 62.00% | ~329,675 |
-| Steel Yourself | 62.00% | ~329,675 |
-| Window Dressing | 50.00% | ~265,867 |
+| Now You're Talking | 62.00% | ~329,676 |
+| Steel Yourself | 62.00% | ~329,676 |
+| Window Dressing | 50.00% | ~265,868 |
 | Trigger Happy | 46.00% | ~244,598 |
-| Riverborn | 45.00% | ~239,280 |
+| Riverborn | 45.00% | ~239,281 |
 | Starry Eyed | 34.00% | ~180,790 |
 | Poking Around | 34.00% | ~180,790 |
 | Talk of the Town | 24.00% | ~127,616 |
 | AAARR! | 23.00% | ~122,299 |
 | Hello Darkness | 23.00% | ~122,299 |
-| Wind At Our Backs | 22.00% | ~116,981 |
+| Wind At Our Backs | 22.00% | ~116,982 |
 | To the Beat | 20.00% | ~106,347 |
 | Sunny Shores | 17.00% | ~90,395 |
-| Sunday Best | 16.00% | ~85,077 |
+| Sunday Best | 16.00% | ~85,078 |
 | To Victory! | 15.00% | ~79,760 |
 | Two of a Kind | 14.00% | ~74,443 |
-| Keep On Trucking | 13.00% | ~69,125 |
+| Keep On Trucking | 13.00% | ~69,126 |
 | Going on an Adventure | 11.00% | ~58,491 |
 | Make Peace, Not War | 11.00% | ~58,491 |
-| Walking The Line | 10.00% | ~53,173 |
-| Not So Cute Anymore | 10.00% | ~53,173 |
+| Walking The Line | 10.00% | ~53,174 |
+| Not So Cute Anymore | 10.00% | ~53,174 |
 | Road Less Travelled | 9.00% | ~47,856 |
 | Lost and Found | 9.00% | ~47,856 |
 | Under the Radar | 8.00% | ~42,539 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,595 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,734 (Ranked 35)  
+Progressed: 531,735 (Ranked 35)  
 Completed: 500 (0.09%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 500 (0.09%) (Ranked 286)
 | 2023-11-18 | 531,602 | 499 |
 | 2023-11-19 | 531,672 | 500 |
 | 2023-11-20 | 531,722 | 500 |
-| 2023-11-21 | 531,734 | 500 |
+| 2023-11-21 | 531,735 | 500 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  
