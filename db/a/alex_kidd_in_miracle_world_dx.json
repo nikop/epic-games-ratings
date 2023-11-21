@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2023-11-15T15:09:04.5400699+00:00",
       "NumProgressed": 325,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-21T00:04:51.7294807+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -538,7 +543,7 @@
       "Name": "Let\u0027s Talk",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BEAT_BOSS_RUSH",
@@ -546,7 +551,7 @@
       "Name": "Champion",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BEAT_REMAKE_MODE",
@@ -560,9 +565,9 @@
       "ID": "CHOKKINA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Second Commander",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "EGLE_FREED",
@@ -584,9 +589,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -618,7 +623,7 @@
       "Name": "Stingy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OX_DEFEATED",
@@ -626,15 +631,15 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "PET_DOG",
@@ -657,7 +662,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 4
     }
   ],
@@ -665,8 +670,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:05:11.2155053+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:04:51.7294802+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:41.3476946+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:59:25.056411+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:05:11.2155192+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:58:57.2432401+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:04:51.7294927+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 637,
+  "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-11-20T20:07:00.8768932+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T00:05:42.8294062+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -54,7 +59,7 @@
       "ID": "ADVENTURE",
       "SetID": "40o4f14",
       "Name": "Adventure awaits",
-      "Percentage": 75,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -62,7 +67,7 @@
       "ID": "BARON",
       "SetID": "40o4f14",
       "Name": "Baron",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -70,7 +75,7 @@
       "ID": "CHAIR",
       "SetID": "40o4f14",
       "Name": "A nice view",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -78,7 +83,7 @@
       "ID": "CRASHING",
       "SetID": "40o4f14",
       "Name": "Crashing the economy",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -86,7 +91,7 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -94,7 +99,7 @@
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -102,7 +107,7 @@
       "ID": "DRAGON",
       "SetID": "40o4f14",
       "Name": "How to train your...",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "DRESSED",
       "SetID": "40o4f14",
       "Name": "Dressed for success",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "GOLSA",
       "SetID": "40o4f14",
       "Name": "The Rescue",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "HERO",
       "SetID": "40o4f14",
       "Name": "Hero",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "KING",
       "SetID": "40o4f14",
       "Name": "King",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "LIBRARY",
       "SetID": "40o4f14",
       "Name": "The library",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -198,7 +203,7 @@
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -206,7 +211,7 @@
       "ID": "MIRROR",
       "SetID": "40o4f14",
       "Name": "Mirror Mirror on the wall",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -214,7 +219,7 @@
       "ID": "MOIST",
       "SetID": "40o4f14",
       "Name": "Moist",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -230,7 +235,7 @@
       "ID": "PRISON",
       "SetID": "40o4f14",
       "Name": "The prison",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -246,7 +251,7 @@
       "ID": "SAVIOR",
       "SetID": "40o4f14",
       "Name": "Savior of the people",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -294,7 +299,7 @@
       "ID": "WYVERN",
       "SetID": "40o4f14",
       "Name": "Winged creature",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -303,14 +308,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:06:08.1696339+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:05:42.8294059+00:00",
   "LastUpdate_AppInfo": "2023-11-15T22:57:04.9325318+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:57:48.2137497+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:06:08.1696486+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:57:31.1928374+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:05:42.8294223+00:00"
 }

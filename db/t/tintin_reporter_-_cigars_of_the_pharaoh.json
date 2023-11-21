@@ -320,9 +320,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement30",
@@ -447,8 +447,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:05:45.8945072+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:05:23.284865+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.8726498+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:02:40.7324471+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:05:45.8945288+00:00"
+  "LastUpdate_Ratings": "2023-11-21T00:02:30.175022+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:05:23.2848902+00:00"
 }

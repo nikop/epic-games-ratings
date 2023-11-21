@@ -38,9 +38,9 @@ Rating: 4.67 (Ranked 273)
 | Recycle | 11.00% | ~642 |
 | Tinkerer | 10.00% | ~584 |
 | Undisputed Winner | 9.00% | ~525 |
+| Smooth Operator | 7.00% | ~409 |
 | For all Those Back at the Factory | 6.00% | ~350 |
 | Living up to Expectations | 6.00% | ~350 |
-| Smooth Operator | 6.00% | ~350 |
 | Peak Performance | 5.00% | ~292 |
 | Loyal Bond | 4.00% | ~233 |
 | Seasoned Rookie | 3.00% | ~175 |

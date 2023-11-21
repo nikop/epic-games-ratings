@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1526,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2123,6 +2123,11 @@
       "Time": "2023-11-17T13:12:17.9538136+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-21T00:07:47.2014582+00:00",
+      "NumProgressed": 1526,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2134,7 +2139,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "10",
@@ -2142,7 +2147,7 @@
       "Name": "Perfect timing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "11",
@@ -2166,7 +2171,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "14",
@@ -2174,7 +2179,7 @@
       "Name": "Thar she blows",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "15",
@@ -2286,7 +2291,7 @@
       "Name": "A love supreme",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "3",
@@ -2310,7 +2315,7 @@
       "Name": "\u00C0 la carte",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "32",
@@ -2373,15 +2378,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1526,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:08:11.4688455+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:07:47.2014578+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:45.8235025+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:57:18.4131135+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:08:11.468874+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:57:04.6678705+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:07:47.201484+00:00"
 }

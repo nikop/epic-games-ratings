@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~616 |
 | Oracle | 4.00% | ~616 |
 | Ambitious | 3.00% | ~462 |
+| Brilliant | 3.00% | ~462 |
 | Enlightened | 3.00% | ~462 |
 | Glorious | 3.00% | ~462 |
 | Just | 3.00% | ~462 |
@@ -45,7 +46,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~308 |
 | Beloved | 2.00% | ~308 |
 | Drillmaster | 2.00% | ~308 |
-| Brilliant | 2.00% | ~308 |
 | Fountainhead | 2.00% | ~308 |
 | Great | 2.00% | ~308 |
 | Intercessor | 2.00% | ~308 |

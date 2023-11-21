@@ -18,26 +18,26 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
 | Let Me Get My Chisel | 0.90% | ~13 |
+| Echoes Die | 0.80% | ~12 |
 | A Mythic Menagerie | 0.70% | ~10 |
 | Who's Counting? | 0.70% | ~10 |
-| Echoes Die | 0.70% | ~10 |
 | Thematic Divergence | 0.50% | ~7 |
 | Pyrrhic Victory | 0.50% | ~7 |
 | A Story of Heroes | 0.50% | ~7 |
 | Turncoat | 0.50% | ~7 |
 | Empty the Caves | 0.40% | ~6 |
 | No Time for Clawmonsters | 0.40% | ~6 |
+| Legends Never Die | 0.30% | ~4 |
 | Chain Reaction | 0.30% | ~4 |
+| Everfading | 0.30% | ~4 |
 | Another Tale to Tell | 0.30% | ~4 |
+| Storied Past | 0.20% | ~3 |
 | Bonebreakers | 0.20% | ~3 |
 | Plague Doctor | 0.20% | ~3 |
-| Legends Never Die | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
-| Everfading | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
 | We Emerge Changed | 0.10% | ~1 |
-| Storied Past | 0.10% | ~1 |
 | Worldwalker | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | The Power of Friendship | 0.10% | ~1 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,475 (Ranked 241)  
-Completed: 6 (0.41%) (Ranked 214)  
+Progressed: 1,476 (Ranked 241)  
+Completed: 6 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,6 +225,7 @@ Completed: 6 (0.41%) (Ranked 214)
 | 2023-11-18 | 1,471 | 6 |
 | 2023-11-19 | 1,472 | 6 |
 | 2023-11-20 | 1,475 | 6 |
+| 2023-11-21 | 1,476 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 499)  
 Sum: 29 (Ranked 512)  

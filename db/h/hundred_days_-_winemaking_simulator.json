@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13103,
+  "EOS_Progressed": 13106,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10802,6 +10802,11 @@
       "Time": "2023-11-20T23:08:58.050009+00:00",
       "NumProgressed": 13103,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-21T00:08:28.0481162+00:00",
+      "NumProgressed": 13106,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -10814,7 +10819,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "a_10",
@@ -10862,7 +10867,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5372
+      "UsersEstimate": 5373
     },
     {
       "ID": "a_19",
@@ -11061,7 +11066,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13103,
+      "Progressed": 13106,
       "Completed": 11
     }
   ],
@@ -11069,8 +11074,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:08:58.0500087+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:08:28.0481157+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:02:54.9562994+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:08:58.0500565+00:00"
+  "LastUpdate_Ratings": "2023-11-21T00:02:42.0823745+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:08:28.0481894+00:00"
 }

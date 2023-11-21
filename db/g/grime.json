@@ -1501,7 +1501,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 159313,
+  "EOS_Progressed": 159319,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1178,
   "EOS_NewCompleters": 0,
@@ -16416,6 +16416,11 @@
       "Time": "2023-11-20T23:03:16.2366329+00:00",
       "NumProgressed": 159313,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T00:03:10.1638667+00:00",
+      "NumProgressed": 159319,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16499,7 +16504,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -16649,9 +16654,9 @@
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1593
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -16794,21 +16799,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 158896,
+      "Progressed": 158902,
       "Completed": 1213
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159313,
+      "Progressed": 159319,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-17T23:58:22.9175877+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:03:16.2366326+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:03:10.1638664+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:00:03.862229+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:03:16.2367295+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:59:31.1999936+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:03:10.1639619+00:00"
 }

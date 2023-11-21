@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "ach_picklock20",
       "SetID": "753ghg2",
       "Name": "Pub",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_picklock21",
@@ -276,9 +276,9 @@
       "ID": "ach_picklock22",
       "SetID": "753ghg2",
       "Name": "Night Club",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_picklock23",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:09:19.1650606+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:08:47.1027065+00:00",
   "LastUpdate_AppInfo": "2023-11-15T06:56:59.7875371+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:59:15.4951711+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:09:19.1650748+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:58:48.7697182+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:08:47.1027224+00:00"
 }

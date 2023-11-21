@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78853,
+  "EOS_Progressed": 78855,
   "EOS_Completed": 849,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -24082,6 +24082,11 @@
       "Time": "2023-11-20T23:05:19.3466046+00:00",
       "NumProgressed": 78853,
       "NumCompleted": 849
+    },
+    {
+      "Time": "2023-11-21T00:04:59.4495106+00:00",
+      "NumProgressed": 78855,
+      "NumCompleted": 849
     }
   ],
   "TotalAchievements": 25,
@@ -24197,7 +24202,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16559
+      "UsersEstimate": 16560
     },
     {
       "ID": "Meaty",
@@ -24221,7 +24226,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12616
+      "UsersEstimate": 12617
     },
     {
       "ID": "Nothing Left to Say",
@@ -24292,7 +24297,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78853,
+      "Progressed": 78855,
       "Completed": 849
     }
   ],
@@ -24300,8 +24305,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:05:19.3466042+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:04:59.4495103+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:59:23.830789+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:05:19.3467414+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:58:56.2031271+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:04:59.4496176+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7671,9 +7671,9 @@
       "ID": "Ach035",
       "SetID": "12n4k20",
       "Name": "OK, well THEY came after ME!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "Ach036",
@@ -7982,8 +7982,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:06:31.2453455+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:06:02.4621344+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:00:47.0400429+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:06:31.2454219+00:00"
+  "LastUpdate_Ratings": "2023-11-21T00:00:10.153819+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:06:02.4622268+00:00"
 }

@@ -1784,9 +1784,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_tripleKill",
@@ -2087,8 +2087,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:07:00.0474021+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:06:28.3779257+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:00.0974039+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:58:21.8144811+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:07:00.0474749+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:58:01.3721959+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:06:28.3779837+00:00"
 }

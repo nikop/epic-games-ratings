@@ -6661,10 +6661,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11585,
       "NumberOfAwardsMax": 7589
+    },
+    {
+      "Time": "2023-11-21T00:02:29.2311448+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11589,
+      "NumberOfAwardsMax": 7589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11585,
+  "NumberOfAwards": 11589,
   "NumberOfAwardsMax": 7589,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6696,7 +6702,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 464
+      "Count": 468
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6723,9 +6729,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 721571,
+  "EOS_Progressed": 721601,
   "EOS_Completed": 2421,
-  "EOS_NewPlayers": 3482,
+  "EOS_NewPlayers": 3492,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31243,6 +31249,11 @@
       "Time": "2023-11-20T23:03:57.4072745+00:00",
       "NumProgressed": 721571,
       "NumCompleted": 2421
+    },
+    {
+      "Time": "2023-11-21T00:03:46.2570283+00:00",
+      "NumProgressed": 721601,
+      "NumCompleted": 2421
     }
   ],
   "TotalAchievements": 51,
@@ -31262,7 +31273,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ach_ammo_ran",
@@ -31494,7 +31505,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ach_revival_tour",
@@ -31550,7 +31561,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "ach_the_vcla",
@@ -31614,7 +31625,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ach_dark_magic",
@@ -31622,7 +31633,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ach_gardening_tools",
@@ -31638,7 +31649,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31661,22 +31672,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 721571,
+      "Progressed": 721601,
       "Completed": 2421
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47113,
+      "Progressed": 47143,
       "Completed": 36573
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-20T20:02:41.1592806+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:03:57.4072741+00:00",
+  "LastChanged": "2023-11-21T00:02:29.2311446+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:03:46.257028+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:02:39.6366739+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:03:57.4074112+00:00"
+  "LastUpdate_Ratings": "2023-11-21T00:02:29.2311453+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:03:46.2571443+00:00"
 }

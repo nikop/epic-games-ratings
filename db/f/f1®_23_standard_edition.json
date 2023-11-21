@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -6258,9 +6258,9 @@
       "ID": "achievement_0039",
       "SetID": "9123ogc",
       "Name": "Smooth Operator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 350
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_0040",
@@ -6355,8 +6355,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-20T19:57:26.3559008+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:08:17.5525435+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:07:52.6783617+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:13.2409285+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:57:27.4462586+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:08:17.5525956+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:57:12.7976311+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:07:52.6784104+00:00"
 }

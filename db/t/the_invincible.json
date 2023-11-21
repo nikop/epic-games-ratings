@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2023-11-20T23:08:36.6561758+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T00:08:08.9180016+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -596,7 +601,7 @@
       "Name": "The Alliance",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AchvDoom",
@@ -636,7 +641,7 @@
       "Name": "Volcanologist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -706,9 +711,9 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "AchvReachCity",
@@ -716,7 +721,7 @@
       "Name": "The City",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AchvReachCondor",
@@ -730,9 +735,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -748,7 +753,7 @@
       "Name": "The End",
       "Percentage": 20,
       "XP": 55,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AchvUnity",
@@ -763,14 +768,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:08:36.6561755+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:08:08.9180012+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:58:06.9081192+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:08:36.6561986+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:57:48.170944+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:08:08.918026+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 123,
@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -858,6 +858,11 @@
       "Time": "2023-11-20T21:03:31.4226696+00:00",
       "NumProgressed": 161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T00:03:51.9052618+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -1196,9 +1201,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "WielderLevel2",
@@ -1301,15 +1306,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:04:03.6549572+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:03:51.9052613+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:58:16.0948587+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:04:03.6549889+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:57:56.1420177+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:03:51.9053248+00:00"
 }

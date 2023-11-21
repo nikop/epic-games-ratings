@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 123,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -717,6 +717,11 @@
       "Time": "2023-11-20T22:03:46.4244566+00:00",
       "NumProgressed": 304,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T00:03:57.6003241+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -783,9 +788,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "CompleteChapter10",
@@ -793,7 +798,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteChapter11",
@@ -873,15 +878,15 @@
       "Name": "Met the Enemy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "CompleteChapter4",
@@ -929,7 +934,7 @@
       "Name": "Ingredients List",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -975,9 +980,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1024,14 +1029,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:04:10.2141061+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:03:57.6003237+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-20T23:00:21.4083347+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:04:10.2141286+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:59:46.9447334+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:03:57.6003489+00:00"
 }

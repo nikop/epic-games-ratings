@@ -595,7 +595,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3892,
+  "EOS_Progressed": 3893,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -8025,6 +8025,11 @@
       "Time": "2023-11-20T12:07:40.8458912+00:00",
       "NumProgressed": 3892,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-21T00:03:08.3529529+00:00",
+      "NumProgressed": 3893,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8116,7 +8121,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8156,7 +8161,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8236,7 +8241,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8348,7 +8353,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8603,13 +8608,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3843,
+      "Progressed": 3844,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3892,
+      "Progressed": 3893,
       "Completed": 11
     }
   ],
@@ -8617,8 +8622,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-16T20:59:01.2932432+00:00",
-  "LastChanged_Achievements": "2023-11-20T22:07:35.3183227+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:03:08.3529525+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:57:57.0179558+00:00",
-  "LastUpdate_Achievements": "2023-11-20T22:07:35.3184244+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:57:38.8236744+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:03:08.3530756+00:00"
 }

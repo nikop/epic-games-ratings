@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3668,
+  "EOS_Progressed": 3669,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5588,6 +5588,11 @@
       "Time": "2023-11-20T01:51:05.1786241+00:00",
       "NumProgressed": 3668,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-21T00:03:36.5906175+00:00",
+      "NumProgressed": 3669,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5607,7 +5612,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "AncestorsPride_13",
@@ -5663,7 +5668,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5687,7 +5692,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -5711,7 +5716,7 @@
       "Name": "House of Cards",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -5783,7 +5788,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5791,7 +5796,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5799,7 +5804,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5934,15 +5939,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3668,
+      "Progressed": 3669,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-20T23:03:46.2569897+00:00",
+  "LastChanged_Achievements": "2023-11-21T00:03:36.5906171+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-20T22:59:20.244467+00:00",
-  "LastUpdate_Achievements": "2023-11-20T23:03:46.257045+00:00"
+  "LastUpdate_Ratings": "2023-11-20T23:58:53.0767971+00:00",
+  "LastUpdate_Achievements": "2023-11-21T00:03:36.5906728+00:00"
 }
