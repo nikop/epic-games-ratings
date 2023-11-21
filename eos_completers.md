@@ -59,7 +59,7 @@
 | 57 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 58 | [Scorn](games/s/scorn.md) | 6.91% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.46% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.44% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -117,8 +117,8 @@
 | 115 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.54% |
 | 116 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 117 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 118 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.44% |
-| 119 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 118 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 119 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.38% |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 121 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 122 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
@@ -178,7 +178,7 @@
 | 176 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 177 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
 | 177 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.83% |
-| 179 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
+| 179 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 180 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 181 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 182 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
