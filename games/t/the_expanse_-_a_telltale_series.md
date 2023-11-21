@@ -1,15 +1,16 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 490)  
+Rating: 4.56 (Ranked 491)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 9.00% | ~1,367 |
-| The Pit and the Pirates | 5.00% | ~759 |
-| Bosmang | 5.00% | ~759 |
+| The Pit and the Pirates | 5.00% | ~760 |
+| Bosmang | 5.00% | ~760 |
 | Safe Cracker | 5.00% | ~57 |
 | Zen Master | 5.00% | ~57 |
+| Stogie for Fogey | 4.00% | ~608 |
 | Spore Taste | 4.00% | ~608 |
 | Martian Music | 4.00% | ~608 |
 | Drone Dodger | 4.00% | ~608 |
@@ -20,7 +21,6 @@ Rating: 4.56 (Ranked 490)
 | Keep Arjun in Check | 4.00% | ~46 |
 | Madame Undersecretary | 4.00% | ~46 |
 | Data Archivist | 3.00% | ~456 |
-| Stogie for Fogey | 3.00% | ~456 |
 | Drug Gifter | 3.00% | ~456 |
 | Heal Thy Medic | 3.00% | ~456 |
 | Khan's Revenge | 3.00% | ~456 |
@@ -31,8 +31,8 @@ Rating: 4.56 (Ranked 490)
 | Miraculous Maya | 2.00% | ~304 |
 | Data Logger | 1.00% | ~152 |
 | Data Master | 1.00% | ~152 |
+| Brother's Reaper | 0.80% | ~122 |
 | No Belter Left Behind | 0.80% | ~122 |
-| Brother's Reaper | 0.70% | ~106 |
 | Debris Spree | 0.60% | ~91 |
 | Data Recoverer | 0.60% | ~91 |
 | Urshanabi Hoarder | 0.40% | ~61 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 490)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,189 (Ranked 152)  
+Progressed: 15,193 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-18 | 15,097 | 34 |
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
-| 2023-11-21 | 15,189 | 35 |
+| 2023-11-21 | 15,193 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

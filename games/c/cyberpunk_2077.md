@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 4.00% | ~35,917 |
-| Gun Fu | 2.00% | ~17,958 |
-| Full Body Conversion | 1.00% | ~8,979 |
-| Relic Ruler | 1.00% | ~265 |
-| True Soldier | 0.90% | ~8,081 |
-| Right Back At Ya | 0.80% | ~7,183 |
-| Stanislavski's Method | 0.80% | ~7,183 |
-| All the President's Men | 0.80% | ~212 |
-| Arachnophobia | 0.80% | ~212 |
+| V for Vendetta | 4.00% | ~35,923 |
+| Gun Fu | 2.00% | ~17,961 |
+| Full Body Conversion | 1.00% | ~8,981 |
+| Relic Ruler | 1.00% | ~267 |
+| True Soldier | 0.90% | ~8,083 |
+| Right Back At Ya | 0.80% | ~7,185 |
+| Stanislavski's Method | 0.80% | ~7,185 |
+| All the President's Men | 0.80% | ~214 |
+| Arachnophobia | 0.80% | ~214 |
 | Christmas Tree Attack | 0.60% | ~5,388 |
 | The Quick and the Dead | 0.60% | ~5,388 |
 | Life of the Road | 0.60% | ~5,388 |
@@ -23,7 +23,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.60% | ~5,388 |
 | True Warrior | 0.60% | ~5,388 |
 | Legend of The Afterlife | 0.60% | ~5,388 |
-| Spin Doctor | 0.60% | ~159 |
+| Spin Doctor | 0.60% | ~160 |
 | Bushido and Chill | 0.50% | ~4,490 |
 | To Protect and Serve | 0.50% | ~4,490 |
 | Master Crafter | 0.50% | ~4,490 |
@@ -35,8 +35,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.50% | ~133 |
 | The Wandering Fool | 0.40% | ~3,592 |
 | Two Heads, One Bullet | 0.40% | ~3,592 |
-| King of Wands | 0.40% | ~106 |
-| Easy Come, Easy Go | 0.40% | ~106 |
+| King of Wands | 0.40% | ~107 |
+| Easy Come, Easy Go | 0.40% | ~107 |
 | To Bad Decisions! | 0.30% | ~2,694 |
 | The Sun | 0.30% | ~2,694 |
 | The Tower | 0.30% | ~80 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,919 (Ranked 15)  
+Progressed: 898,070 (Ranked 15)  
 Completed: 2,797 (0.31%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2,797 (0.31%) (Ranked 232)
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
 | 2023-11-20 | 897,531 | 2,794 |
-| 2023-11-21 | 897,919 | 2,797 |
+| 2023-11-21 | 898,070 | 2,797 |
 ## Awards
 Max (Character Customization): 106,495  (Ranked 9)  
 Sum: 359,212 (Ranked 10)  

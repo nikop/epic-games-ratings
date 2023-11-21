@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2206,
+  "EOS_Progressed": 2208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5167,6 +5167,11 @@
       "Time": "2023-11-21T18:09:35.3555559+00:00",
       "NumProgressed": 2206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T20:09:07.4269939+00:00",
+      "NumProgressed": 2208,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5187,7 +5192,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5203,7 +5208,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -5211,7 +5216,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5235,7 +5240,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5243,7 +5248,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -5267,7 +5272,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5283,7 +5288,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5387,7 +5392,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5475,7 +5480,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5570,14 +5575,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2206,
+      "Progressed": 2208,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:09:27.3318144+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:09:07.4269937+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:59:59.9887664+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:09:27.3318681+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:00:09.6948197+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:09:07.4270415+00:00"
 }

@@ -41,7 +41,7 @@
 | Forgemaster | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196 (Ranked 383)  
+Progressed: 196 (Ranked 384)  
 Completed: 1 (0.51%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -971,9 +971,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "AnthropicHills",
@@ -1155,9 +1155,9 @@
       "ID": "LostMarshes",
       "SetID": "1n308hc",
       "Name": "Lost Marshes",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "MistressOfRiddles",
@@ -1379,9 +1379,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "TrevorsBiographer",
@@ -1444,8 +1444,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-20T14:58:37.9477478+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:03:28.8577277+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:03:21.2646747+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:58:37.095009+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:03:28.8577671+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:58:44.5590926+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:03:21.264712+00:00"
 }

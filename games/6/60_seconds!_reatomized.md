@@ -14,11 +14,11 @@ Rating: 4.53 (Ranked 540)
 | Last man standing | 80.00% | ~4,498 |
 | Family guy | 77.00% | ~4,329 |
 | Out of the Bag | 76.00% | ~4,273 |
-| The Dark Side | 70.00% | ~3,935 |
+| The Dark Side | 71.00% | ~3,992 |
 | Duck and cover! | 66.00% | ~3,711 |
 | Souper! | 65.00% | ~3,654 |
+| 2-1-6 | 59.00% | ~3,317 |
 | Pacifist | 59.00% | ~3,317 |
-| 2-1-6 | 58.00% | ~3,261 |
 | A gift | 54.00% | ~3,036 |
 | Girl Power | 48.00% | ~2,699 |
 | What goes around... | 44.00% | ~2,474 |

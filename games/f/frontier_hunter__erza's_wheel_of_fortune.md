@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~107 |
-| Training Simulation | 81.00% | ~94 |
-| Kuku Bird Hunter | 72.00% | ~84 |
-| Storm Traveller | 68.00% | ~79 |
+| Travel Streamer | 92.00% | ~108 |
+| Training Simulation | 81.00% | ~95 |
+| Kuku Bird Hunter | 71.00% | ~83 |
+| Storm Traveller | 68.00% | ~80 |
 | Wolf King Killer | 67.00% | ~78 |
 | Fashion Connoisseur | 66.00% | ~77 |
-| Arms Mechanic | 59.00% | ~68 |
-| Flower Thief | 58.00% | ~67 |
-| Apostle of Flame | 56.00% | ~65 |
+| Arms Mechanic | 59.00% | ~69 |
+| Flower Thief | 57.00% | ~67 |
+| Apostle of Flame | 56.00% | ~66 |
 | Beginner Artificer | 54.00% | ~63 |
-| Beginner Cook | 52.00% | ~60 |
+| Beginner Cook | 51.00% | ~60 |
 | Seal Breaker | 49.00% | ~57 |
-| Handyman | 47.00% | ~55 |
-| Giant Lizard Killer | 46.00% | ~53 |
+| Handyman | 46.00% | ~54 |
+| Giant Lizard Killer | 45.00% | ~53 |
 | Nosebleeder | 44.00% | ~51 |
 | Guardian | 43.00% | ~50 |
-| Trader | 41.00% | ~48 |
-| Weapon Boost | 39.00% | ~45 |
-| Youth Magnet | 34.00% | ~39 |
-| Flying Kobold Killer | 33.00% | ~38 |
-| Lethal Blade Mantis Killer | 33.00% | ~38 |
-| Squeaky Clean | 33.00% | ~38 |
-| Master Artificer | 33.00% | ~38 |
+| Trader | 40.00% | ~47 |
+| Weapon Boost | 38.00% | ~44 |
+| Youth Magnet | 33.00% | ~39 |
+| Flying Kobold Killer | 32.00% | ~37 |
 | Furious Scorpion Killer | 32.00% | ~37 |
-| Kind Adventurer | 28.00% | ~32 |
-| Mermaid Killer | 27.00% | ~31 |
-| Face Slapper | 27.00% | ~31 |
+| Lethal Blade Mantis Killer | 32.00% | ~37 |
+| Squeaky Clean | 32.00% | ~37 |
+| Master Artificer | 32.00% | ~37 |
+| Kind Adventurer | 27.00% | ~32 |
+| Mermaid Killer | 26.00% | ~30 |
+| Face Slapper | 26.00% | ~30 |
 | Cave Master | 25.00% | ~29 |
 | Master Cook | 20.00% | ~23 |
 | Berserker Slayer | 14.00% | ~16 |
@@ -48,9 +48,9 @@
 | Mermaid Challenge | 4.00% | ~5 |
 | Giantess Challenge | 4.00% | ~5 |
 | Warden Challenge | 4.00% | ~5 |
-| Berserker Challenge | 3.00% | ~3 |
+| Berserker Challenge | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 416)  
+Progressed: 117 (Ranked 414)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-12 | 111 | 0 |
 | 2023-11-14 | 112 | 0 |
 | 2023-11-20 | 113 | 0 |
-| 2023-11-21 | 116 | 0 |
+| 2023-11-21 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

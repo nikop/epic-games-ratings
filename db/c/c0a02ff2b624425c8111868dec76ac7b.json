@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 692,
+  "Ranking_EOS_Progress": 649,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-11-20T10:05:14.2944093+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T20:04:38.7254505+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "ACH_ALL_COMBAT_SKILLS",
       "SetID": "cagp2pi",
       "Name": "Growth",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -74,7 +79,7 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -154,9 +159,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -235,13 +240,13 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:04:43.387843+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:04:38.7254501+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:59:08.2553216+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:04:43.3878591+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:59:16.884684+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:04:38.7254634+00:00"
 }

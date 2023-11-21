@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-11-21T19:09:02.5768294+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T20:08:42.9344951+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -519,9 +524,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -569,7 +574,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 8,
       "XP": 95,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -577,7 +582,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -585,7 +590,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -616,14 +621,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:09:02.5768291+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:08:42.934495+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.9012837+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:57:18.4571052+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:09:02.5768383+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:57:22.372653+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:08:42.9345028+00:00"
 }

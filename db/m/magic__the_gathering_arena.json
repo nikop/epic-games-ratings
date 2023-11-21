@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -14024,10 +14024,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 97465,
       "NumberOfAwardsMax": 12380
+    },
+    {
+      "Time": "2023-11-21T19:56:58.0655972+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 97506,
+      "NumberOfAwardsMax": 12380
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97465,
+  "NumberOfAwards": 97506,
   "NumberOfAwardsMax": 12380,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14047,7 +14053,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9623
+      "Count": 9634
     },
     {
       "Text": "This game is Relaxing",
@@ -14059,7 +14065,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9050
+      "Count": 9056
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14071,7 +14077,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 8734
+      "Count": 8749
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14095,7 +14101,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 6349
+      "Count": 6358
     }
   ],
   "EOS_Progressed": 0,
@@ -14109,8 +14115,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-11-21T17:02:39.6964232+00:00",
+  "LastChanged": "2023-11-21T19:56:58.065597+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.0741929+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:00:51.8518447+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:03:33.5997622+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:56:58.0655976+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:03:26.025386+00:00"
 }

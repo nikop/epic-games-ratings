@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1124,
+  "EOS_Progressed": 1125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2367,6 +2367,11 @@
       "Time": "2023-11-21T18:08:00.3233829+00:00",
       "NumProgressed": 1124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T20:07:51.8930095+00:00",
+      "NumProgressed": 1125,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2379,7 +2384,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2427,7 +2432,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2467,7 +2472,7 @@
       "Name": "Immortal",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2483,7 +2488,7 @@
       "Name": "Shapeshifter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2507,7 +2512,7 @@
       "Name": "Solo",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2523,7 +2528,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2627,7 +2632,7 @@
       "Name": "Spendthrift",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -2641,17 +2646,17 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 315
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 248
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2691,7 +2696,7 @@
       "Name": "A little nest egg",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -2722,20 +2727,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1124,
+      "Progressed": 1125,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 792,
-      "Completed": 792
+      "Progressed": 793,
+      "Completed": 793
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:08:13.3187851+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:07:51.8930092+00:00",
   "LastUpdate_AppInfo": "2023-11-16T02:19:53.0451911+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:59:48.6718429+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:08:13.3188213+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:59:58.4400741+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:07:51.8930545+00:00"
 }

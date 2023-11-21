@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,201 |
-| Off to a good start | 66.00% | ~890 |
-| Do... or do not. There is no try | 50.00% | ~674 |
+| New Recruit | 89.00% | ~1,202 |
+| Off to a good start | 66.00% | ~891 |
+| Do... or do not. There is no try | 50.00% | ~675 |
 | A good blaster at your side | 31.00% | ~418 |
 | I suggest a new strategy | 19.00% | ~256 |
 | Scrap collector | 18.00% | ~243 |
-| All right, I'll give it a try | 17.00% | ~229 |
-| Great shot, kid! | 17.00% | ~229 |
+| All right, I'll give it a try | 17.00% | ~230 |
+| Great shot, kid! | 17.00% | ~230 |
 | Together we can rule the galaxy | 15.00% | ~202 |
 | The power of the Force | 14.00% | ~189 |
 | Shoot first | 14.00% | ~189 |
-| Collector | 13.00% | ~175 |
+| Collector | 13.00% | ~176 |
 | Survivor | 10.00% | ~135 |
-| Tell Jabba that I've got his money | 9.00% | ~121 |
-| Best star-pilot in the galaxy | 9.00% | ~121 |
+| Tell Jabba that I've got his money | 9.00% | ~122 |
+| Best star-pilot in the galaxy | 9.00% | ~122 |
 | Never tell me the odds! | 8.00% | ~108 |
 | A cunning warrior | 8.00% | ~108 |
-| What's the cargo? | 7.00% | ~94 |
+| What's the cargo? | 7.00% | ~95 |
 | "Gonk? Gonk!" | 6.00% | ~81 |
 | Distinguished | 6.00% | ~81 |
 | Impressive. Most impressive. | 6.00% | ~81 |
 | Judge me by my size, do you? | 6.00% | ~81 |
 | Support the troops | 6.00% | ~81 |
-| A tremor in the Force | 5.00% | ~67 |
+| A tremor in the Force | 5.00% | ~68 |
 | On the ball | 4.00% | ~54 |
 | Safety ain't the point of a joyride | 4.00% | ~54 |
 | Not bad for a little furball | 4.00% | ~54 |
@@ -47,12 +47,12 @@
 | What will you become? | 2.00% | ~27 |
 | The circle is now complete | 2.00% | ~27 |
 | Disturbed tranquility | 2.00% | ~27 |
-| Playing the objective | 1.00% | ~13 |
-| Ackbar's Elite | 1.00% | ~13 |
-| You have your moments | 1.00% | ~13 |
-| When surrounded by war... | 1.00% | ~13 |
-| Stop that Droid | 1.00% | ~13 |
-| Onwards! | 1.00% | ~13 |
+| Playing the objective | 1.00% | ~14 |
+| Ackbar's Elite | 1.00% | ~14 |
+| You have your moments | 1.00% | ~14 |
+| When surrounded by war... | 1.00% | ~14 |
+| Stop that Droid | 1.00% | ~14 |
+| Onwards! | 1.00% | ~14 |
 | No such thing as luck | 0.90% | ~12 |
 | Do we take prisoners? | 0.90% | ~12 |
 | A New Hope | 0.80% | ~11 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 242)  
+Progressed: 1,350 (Ranked 242)  
 Completed: 1 (0.07%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 1 (0.07%) (Ranked 296)
 | 2023-11-18 | 1,305 | 1 |
 | 2023-11-19 | 1,322 | 1 |
 | 2023-11-20 | 1,335 | 1 |
-| 2023-11-21 | 1,349 | 1 |
+| 2023-11-21 | 1,350 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~949 |
-| Whatever It Takes | 2.00% | ~949 |
-| Pork Chopped | 2.00% | ~949 |
+| One of Us | 2.00% | ~950 |
+| Whatever It Takes | 2.00% | ~950 |
+| Pork Chopped | 2.00% | ~950 |
 | Dr. Reed, I Presume? | 1.00% | ~7,219 |
 | Git Gutte! | 1.00% | ~7,219 |
 | Bookworm | 1.00% | ~7,219 |
@@ -20,23 +20,23 @@ Rating: 4.54 (Ranked 526)
 | Stacking the Deck | 1.00% | ~7,219 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,219 |
 | Welcome To Hell-A | 1.00% | ~7,219 |
-| Anger Management | 0.90% | ~6,497 |
-| But Doctor, I am Butcho | 0.90% | ~6,497 |
-| Can't Handle the Truth | 0.90% | ~6,497 |
-| This is My Weapon | 0.90% | ~6,497 |
-| Perks of the Job | 0.80% | ~5,775 |
-| Slayer Squad | 0.80% | ~5,775 |
-| Like Riding a Bike | 0.80% | ~5,775 |
-| Zombologist | 0.80% | ~5,775 |
-| Ooh, Shiny! | 0.80% | ~5,775 |
-| A Patton Emerges | 0.80% | ~5,775 |
-| Our True Nature | 0.80% | ~5,775 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,053 |
-| I Am the Resurrection | 0.70% | ~5,053 |
-| Max Headroom | 0.70% | ~5,053 |
-| Making Your Mark | 0.60% | ~4,331 |
-| Humanity Distilled | 0.60% | ~4,331 |
-| Down with the Sickness | 0.60% | ~4,331 |
+| Anger Management | 0.90% | ~6,498 |
+| But Doctor, I am Butcho | 0.90% | ~6,498 |
+| Can't Handle the Truth | 0.90% | ~6,498 |
+| This is My Weapon | 0.90% | ~6,498 |
+| Perks of the Job | 0.80% | ~5,776 |
+| Slayer Squad | 0.80% | ~5,776 |
+| Like Riding a Bike | 0.80% | ~5,776 |
+| Zombologist | 0.80% | ~5,776 |
+| Ooh, Shiny! | 0.80% | ~5,776 |
+| A Patton Emerges | 0.80% | ~5,776 |
+| Our True Nature | 0.80% | ~5,776 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,054 |
+| I Am the Resurrection | 0.70% | ~5,054 |
+| Max Headroom | 0.70% | ~5,054 |
+| Making Your Mark | 0.60% | ~4,332 |
+| Humanity Distilled | 0.60% | ~4,332 |
+| Down with the Sickness | 0.60% | ~4,332 |
 | Not Even My Final Form | 0.50% | ~3,610 |
 | Jumbo Keyring | 0.50% | ~3,610 |
 | Go, Bobcats! | 0.50% | ~3,610 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 526)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,912 (Ranked 21)  
-Completed: 2,422 (0.34%) (Ranked 228)  
+Progressed: 721,945 (Ranked 21)  
+Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,11 +272,11 @@ Completed: 2,422 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,912 | 2,422 |
+| 2023-11-21 | 721,945 | 2,423 |
 ## Awards
-Max (Great Boss Battles): 7,618  (Ranked 50)  
-Sum: 11,619 (Ranked 84)  
-Diff (max vs sum): -34  
+Max (Great Boss Battles): 7,618  (Ranked 51)  
+Sum: 11,622 (Ranked 84)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,618 |
@@ -286,7 +286,7 @@ Diff (max vs sum): -34
 | This game is Relaxing | 501 |
 | This game has Amazing Storytelling | 481 |
 | This game is Highly Recommended | 468 |
-| This game is Extremely Fun | 465 |
+| This game is Extremely Fun | 468 |
 | This game has Amazing Characters | 431 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -505,4 +505,4 @@ Diff (max vs sum): -34
 | 2023-11-18 | 4.54 | 7,519 | 11,489 |
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
-| 2023-11-21 | 4.54 | 7,618 | 11,619 |
+| 2023-11-21 | 4.54 | 7,618 | 11,622 |

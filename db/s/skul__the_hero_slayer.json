@@ -1103,7 +1103,7 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 8312,
+  "EOS_Progressed": 8313,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
@@ -5418,6 +5418,11 @@
       "Time": "2023-11-21T14:05:34.2997118+00:00",
       "NumProgressed": 8312,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-11-21T20:05:50.9627539+00:00",
+      "NumProgressed": 8313,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 24,
@@ -5445,7 +5450,7 @@
       "Name": "Cold-Blooded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Concentration",
@@ -5493,7 +5498,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -5509,7 +5514,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "HeroSlayer",
@@ -5549,7 +5554,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "SavedElderEnt",
@@ -5565,7 +5570,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "SkeletonKing",
@@ -5581,7 +5586,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2910
     },
     {
       "ID": "TheLegendBegins",
@@ -5589,7 +5594,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7730
+      "UsersEstimate": 7731
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5613,22 +5618,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6982
+      "UsersEstimate": 6983
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8312,
+      "Progressed": 8313,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-21T15:58:19.8594236+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:05:53.2033077+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:05:50.9627537+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:04.7381553+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:57:58.0802304+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:05:53.2033427+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:58:03.6588917+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:05:50.9627865+00:00"
 }

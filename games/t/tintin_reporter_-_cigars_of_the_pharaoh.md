@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 83.00% | ~19 |
 | A Loyal Friend | 39.00% | ~9 |
-| Abandon Ship! | 26.00% | ~6 |
-| The Tomb of Kih-Oskh | 22.00% | ~5 |
+| Abandon Ship! | 30.00% | ~7 |
+| The Tomb of Kih-Oskh | 26.00% | ~6 |
 | The Weighing of the Soul | 17.00% | ~4 |
 | Cat Lover | 13.00% | ~3 |
 | The Curse of Kih-Oskh | 13.00% | ~3 |
@@ -15,20 +15,20 @@
 | Mummy Nightmare | 9.00% | ~2 |
 | Barking Dog | 9.00% | ~2 |
 | Dynamite, Treason and Coconuts | 9.00% | ~2 |
+| Save a Friend | 9.00% | ~2 |
 | In the Name of the Law | 4.00% | ~1 |
 | Au Revoir, Abudin | 4.00% | ~1 |
 | Mysterious Bungalow | 4.00% | ~1 |
 | The Eyes! | 4.00% | ~1 |
+| The Corporal's Golden Boy | 4.00% | ~1 |
 | Punctual | 4.00% | ~1 |
 | Threat | 4.00% | ~1 |
-| Save a Friend | 4.00% | ~1 |
 | Keep the Doctor Away | 0.00% | ~0 |
 | Just a Palm Tree | 0.00% | ~0 |
 | Under the Hood | 0.00% | ~0 |
 | Long Live Gaipajama! | 0.00% | ~0 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Tintin, Reporter | 0.00% | ~0 |
-| The Corporal's Golden Boy | 0.00% | ~0 |
 | Eyes Shut | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | A Diagnosis | 0.00% | ~0 |

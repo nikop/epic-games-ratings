@@ -8,7 +8,7 @@ Number of Ratings: 74  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~4,208 |
 | A Grove Replanted | 53.00% | ~3,983 |
-| Fields Watered | 41.00% | ~3,081 |
+| Fields Watered | 42.00% | ~3,156 |
 | Seekers Found | 41.00% | ~3,081 |
 | Settling the Skies | 41.00% | ~3,081 |
 | Wind Powered | 40.00% | ~3,006 |

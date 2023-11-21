@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 632,
+  "EOS_Progressed": 633,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.54,
+  "EOS_Completed_Percentage": 5.53,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2705,6 +2705,11 @@
       "Time": "2023-11-21T18:06:06.998054+00:00",
       "NumProgressed": 632,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T20:05:37.031049+00:00",
+      "NumProgressed": 633,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2748,7 +2753,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "META_HALF_LINK",
@@ -2778,9 +2783,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 95
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2858,17 +2863,17 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 203
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 133
     },
     {
       "ID": "PROGRESS_N1",
@@ -2884,7 +2889,7 @@
       "Name": "The great escape",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PROGRESS_N3",
@@ -2892,7 +2897,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "PROGRESS_N4",
@@ -2915,14 +2920,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 632,
+      "Progressed": 633,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:05:40.00172+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:05:37.0310488+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:57:43.152481+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:05:40.0017423+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:57:49.1830524+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:05:37.0310697+00:00"
 }

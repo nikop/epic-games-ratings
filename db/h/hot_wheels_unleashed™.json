@@ -2,12 +2,12 @@
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
-  "Ranking_Rating": 364,
-  "Ranking_Popularity": 455,
+  "Ranking_Rating": 383,
+  "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 312,
   "RatingHistory": [
     {
@@ -585,18 +585,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 363,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2023-11-21T19:57:08.043958+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 364,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 363,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 364,
+  "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -684,9 +690,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "FirstSeenAchievements": "2023-10-25T15:04:44.0813586+00:00",
-  "LastChanged": "2023-11-14T17:57:50.4930616+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:05:59.4647518+00:00",
+  "LastChanged": "2023-11-21T19:57:08.0439579+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:05:57.0737734+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:12.2425275+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:57:05.6215376+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:05:59.4647551+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:57:08.0439584+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:05:57.0737752+00:00"
 }

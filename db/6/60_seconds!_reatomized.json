@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -233,7 +233,7 @@
   "Tags": [],
   "EOS_Progressed": 5622,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -7108,9 +7108,9 @@
       "ID": "ACH_10_WATER",
       "SetID": "5nj1ea3",
       "Name": "2-1-6",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3317
     },
     {
       "ID": "ACH_ALL_BROKEN",
@@ -7500,9 +7500,9 @@
       "ID": "ACH_ROBBERY",
       "SetID": "5nj1ea3",
       "Name": "The Dark Side",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3992
     },
     {
       "ID": "ACH_ROGUE",
@@ -7589,8 +7589,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-17T19:00:10.4063992+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:03:39.8035597+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:03:32.7113721+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:34.1034181+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:57:35.6763551+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:03:39.803653+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:57:41.2096238+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:03:32.7114511+00:00"
 }

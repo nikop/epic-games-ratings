@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -416,6 +416,11 @@
       "Time": "2023-11-19T17:04:27.2871708+00:00",
       "NumProgressed": 219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T20:05:13.4929662+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -427,7 +432,7 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Cat",
@@ -451,7 +456,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Doll",
@@ -467,7 +472,7 @@
       "Name": "Children",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Ending2",
@@ -499,7 +504,7 @@
       "Name": "Mysterious footprints",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Friend",
@@ -537,9 +542,9 @@
       "ID": "HugeSnail",
       "SetID": "9kk0gal",
       "Name": "Huge Snail",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "Mirror",
@@ -547,7 +552,7 @@
       "Name": "Egghead Lucy",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Offroad",
@@ -563,7 +568,7 @@
       "Name": "Puppy",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "SchoolRuler",
@@ -571,7 +576,7 @@
       "Name": "Big metal ruler",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Secret",
@@ -587,15 +592,15 @@
       "Name": "Spyglass",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "Trinket",
@@ -603,7 +608,7 @@
       "Name": "Lucky charm",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Trumpet",
@@ -611,7 +616,7 @@
       "Name": "Trumpet",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Well",
@@ -634,7 +639,7 @@
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:05:16.835941+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:05:13.492966+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:24.903326+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:59:01.1620797+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:05:16.8359578+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:59:08.8237783+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:05:13.4929792+00:00"
 }

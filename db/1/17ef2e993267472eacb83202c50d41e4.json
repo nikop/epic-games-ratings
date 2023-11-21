@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8144,
+  "EOS_Progressed": 8149,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6936,6 +6936,11 @@
       "Time": "2023-11-21T19:09:28.2609548+00:00",
       "NumProgressed": 8144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-21T20:09:08.4032072+00:00",
+      "NumProgressed": 8149,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7060,7 +7065,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "GamesPlayed1",
@@ -7068,7 +7073,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "GamesPlayed10",
@@ -7092,7 +7097,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "GamesWon10",
@@ -7140,7 +7145,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "HAUpgraded1",
@@ -7444,7 +7449,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "SEUpgraded1",
@@ -7532,14 +7537,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8144,
+      "Progressed": 8149,
       "Completed": 1
     }
   ],
@@ -7547,8 +7552,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:09:28.2609546+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:09:08.403207+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-21T19:02:43.8106902+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:09:28.2610308+00:00"
+  "LastUpdate_Ratings": "2023-11-21T20:02:34.2429447+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:09:08.4032813+00:00"
 }

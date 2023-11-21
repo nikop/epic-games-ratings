@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 152,
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15189,
+  "EOS_Progressed": 15193,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11802,6 +11802,11 @@
       "Time": "2023-11-21T19:04:00.1823639+00:00",
       "NumProgressed": 15189,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T20:03:53.347362+00:00",
+      "NumProgressed": 15193,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11830,7 +11835,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "12",
@@ -11860,9 +11865,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 608
     },
     {
       "ID": "16",
@@ -11924,9 +11929,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 122
     },
     {
       "ID": "23",
@@ -11966,7 +11971,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "28",
@@ -12093,13 +12098,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15189,
+      "Progressed": 15193,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1143,
+      "Progressed": 1147,
       "Completed": 668
     }
   ],
@@ -12107,8 +12112,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-21T19:04:00.1823635+00:00",
+  "LastChanged_Achievements": "2023-11-21T20:03:53.3473618+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-21T18:59:49.3207163+00:00",
-  "LastUpdate_Achievements": "2023-11-21T19:04:00.1824653+00:00"
+  "LastUpdate_Ratings": "2023-11-21T19:59:59.8723593+00:00",
+  "LastUpdate_Achievements": "2023-11-21T20:03:53.3474377+00:00"
 }

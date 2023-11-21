@@ -4,7 +4,7 @@
 Rating: 4.59 (Ranked 431)  
 ## Awards
 Max (Great for Quick Sessions): 518  (Ranked 208)  
-Sum: 4,190 (Ranked 151)  
+Sum: 4,192 (Ranked 151)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -18,8 +18,8 @@ Diff (max vs sum): 57
 | This game has Amazing Characters | 393 |
 | This game has Challenging Combat | 388 |
 | This game has Amazing Storytelling | 367 |
+| This game has a Competitive Community | 331 |
 | This game is Great for Beginners | 331 |
-| This game has a Competitive Community | 329 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

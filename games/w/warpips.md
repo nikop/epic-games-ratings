@@ -5,7 +5,7 @@ Rating: 4.42 (Ranked 712)
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 30  (Ranked 496)  
-Sum: 209 (Ranked 395)  
+Sum: 210 (Ranked 395)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): 101
 | This game is Great for Beginners | 29 |
 | This game is Extremely Fun | 25 |
 | This game has Diverse Characters | 25 |
+| This game has Amazing Storytelling | 22 |
 | This game has Challenging Combat | 21 |
-| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -132,4 +132,4 @@ Diff (max vs sum): 101
 | 2023-11-14 | 4.42 | - | 29 | 207 |
 | 2023-11-15 | 4.42 | - | 29 | 208 |
 | 2023-11-20 | 4.43 | - | 30 | 209 |
-| 2023-11-21 | 4.42 | - | 30 | 209 |
+| 2023-11-21 | 4.42 | - | 30 | 210 |
