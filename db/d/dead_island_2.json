@@ -6747,9 +6747,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 722012,
+  "EOS_Progressed": 722031,
   "EOS_Completed": 2423,
-  "EOS_NewPlayers": 3508,
+  "EOS_NewPlayers": 3503,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31382,6 +31382,11 @@
       "Time": "2023-11-21T22:04:56.5104938+00:00",
       "NumProgressed": 722012,
       "NumCompleted": 2423
+    },
+    {
+      "Time": "2023-11-21T23:04:23.8820452+00:00",
+      "NumProgressed": 722031,
+      "NumCompleted": 2423
     }
   ],
   "TotalAchievements": 51,
@@ -31399,9 +31404,9 @@
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4332
+      "UsersEstimate": 5054
     },
     {
       "ID": "ach_ammo_ran",
@@ -31800,13 +31805,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722012,
+      "Progressed": 722031,
       "Completed": 2423
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47554,
+      "Progressed": 47573,
       "Completed": 36577
     }
   ],
@@ -31814,8 +31819,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-21T19:57:18.1446375+00:00",
-  "LastChanged_Achievements": "2023-11-21T22:04:56.5104934+00:00",
+  "LastChanged_Achievements": "2023-11-21T23:04:23.8820445+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:57:36.9037203+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:04:56.5106471+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:57:45.1114842+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:04:23.8822173+00:00"
 }

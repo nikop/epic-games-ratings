@@ -9,11 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 6.00% | ~925 |
 | Play a Single Player Game | 6.00% | ~925 |
 | Explorer | 5.00% | ~771 |
+| Intrepid | 5.00% | ~771 |
 | Friendly Family | 5.00% | ~771 |
 | Able | 4.00% | ~617 |
 | Architect | 4.00% | ~617 |
 | Good | 4.00% | ~617 |
-| Intrepid | 4.00% | ~617 |
 | Learned | 4.00% | ~617 |
 | Mason | 4.00% | ~617 |
 | Noble | 4.00% | ~617 |
@@ -22,32 +22,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 4.00% | ~617 |
 | Oracle | 4.00% | ~617 |
 | Trade Caravan | 4.00% | ~617 |
-| Ambitious | 3.00% | ~462 |
-| Brilliant | 3.00% | ~462 |
-| Enlightened | 3.00% | ~462 |
-| Glorious | 3.00% | ~462 |
-| Just | 3.00% | ~462 |
-| Keystone | 3.00% | ~462 |
-| Magnificent | 3.00% | ~462 |
-| Warrior | 3.00% | ~462 |
-| Wise | 3.00% | ~462 |
-| Developing Cities | 3.00% | ~462 |
-| Strong Cities | 3.00% | ~462 |
-| Able Difficulty | 3.00% | ~462 |
-| Ishtar Gate | 3.00% | ~462 |
-| Lighthouse | 3.00% | ~462 |
-| Pyramids | 3.00% | ~462 |
-| Learn to Play 1 | 3.00% | ~462 |
-| Christianity | 3.00% | ~462 |
-| Judaism | 3.00% | ~462 |
-| Babylonian Paganism | 3.00% | ~462 |
-| Greek Paganism | 3.00% | ~462 |
-| Roman Paganism | 3.00% | ~462 |
-| Naming Landmarks | 3.00% | ~462 |
+| Ambitious | 3.00% | ~463 |
+| Brilliant | 3.00% | ~463 |
+| Enlightened | 3.00% | ~463 |
+| Fountainhead | 3.00% | ~463 |
+| Glorious | 3.00% | ~463 |
+| Just | 3.00% | ~463 |
+| Keystone | 3.00% | ~463 |
+| Magnificent | 3.00% | ~463 |
+| Warrior | 3.00% | ~463 |
+| Wise | 3.00% | ~463 |
+| Developing Cities | 3.00% | ~463 |
+| Strong Cities | 3.00% | ~463 |
+| Able Difficulty | 3.00% | ~463 |
+| Ishtar Gate | 3.00% | ~463 |
+| Lighthouse | 3.00% | ~463 |
+| Pyramids | 3.00% | ~463 |
+| Learn to Play 1 | 3.00% | ~463 |
+| Christianity | 3.00% | ~463 |
+| Judaism | 3.00% | ~463 |
+| Babylonian Paganism | 3.00% | ~463 |
+| Greek Paganism | 3.00% | ~463 |
+| Roman Paganism | 3.00% | ~463 |
+| Naming Landmarks | 3.00% | ~463 |
 | Regicide | 2.00% | ~308 |
 | Beloved | 2.00% | ~308 |
 | Drillmaster | 2.00% | ~308 |
-| Fountainhead | 2.00% | ~308 |
 | Great | 2.00% | ~308 |
 | Intercessor | 2.00% | ~308 |
 | Mighty | 2.00% | ~308 |
@@ -141,13 +141,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |
-| Ishtar Gate in Babylon | 0.60% | ~92 |
-| Carthage - Ox Hide | 0.60% | ~92 |
-| Learn to Play 5 | 0.60% | ~92 |
-| Old World Order | 0.60% | ~92 |
-| No Undo | 0.60% | ~92 |
-| Kush | 0.60% | ~92 |
-| Beja Archer | 0.60% | ~92 |
+| Ishtar Gate in Babylon | 0.60% | ~93 |
+| Carthage - Ox Hide | 0.60% | ~93 |
+| Learn to Play 5 | 0.60% | ~93 |
+| Old World Order | 0.60% | ~93 |
+| No Undo | 0.60% | ~93 |
+| Kush | 0.60% | ~93 |
+| Beja Archer | 0.60% | ~93 |
 | Old | 0.50% | ~77 |
 | Glorious Difficulty | 0.50% | ~77 |
 | Pantheon of Gods | 0.50% | ~77 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,416 (Ranked 151)  
+Progressed: 15,417 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -564,7 +564,7 @@ Completed: 5 (0.03%) (Ranked 319)
 | 2023-11-18 | 15,379 | 5 |
 | 2023-11-19 | 15,395 | 5 |
 | 2023-11-20 | 15,405 | 5 |
-| 2023-11-21 | 15,416 | 5 |
+| 2023-11-21 | 15,417 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,873 (Ranked 218)  

@@ -1,36 +1,36 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 921)  
+Rating: 4.19 (Ranked 922)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~39,166 |
+| First Step Into the Knight | 51.00% | ~39,167 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,879 |
 | Loose Ends | 34.00% | ~26,111 |
 | To the Victor Go the Spoils | 28.00% | ~21,503 |
 | Knighthood | 27.00% | ~20,735 |
-| Get ReQ'd | 25.00% | ~19,199 |
-| Whispered Words | 25.00% | ~19,199 |
-| The Batman Family | 23.00% | ~17,663 |
-| Lock and Key | 22.00% | ~16,895 |
-| Something in the Clay | 21.00% | ~16,127 |
-| Quartzer Life Crisis | 21.00% | ~16,127 |
-| Working Hard or Harley Working? | 20.00% | ~15,359 |
-| Unstoppable Force | 20.00% | ~15,359 |
-| Bad Apples in Every Orchard | 20.00% | ~15,359 |
-| Snow Problem | 19.00% | ~14,591 |
-| The Show Mud Go On | 18.00% | ~13,823 |
-| From Inside Gotham's Walls | 18.00% | ~13,823 |
-| Protector of Gotham | 17.00% | ~13,055 |
-| Universal Health Scare | 16.00% | ~12,287 |
-| In Your Element | 15.00% | ~11,519 |
-| Voiceless | 15.00% | ~11,519 |
-| Rock and a Hard Place | 14.00% | ~10,751 |
-| Cooldown | 14.00% | ~10,751 |
-| Seeking Asylum | 14.00% | ~10,751 |
-| Not On My Watch | 13.00% | ~9,983 |
-| Shock Til They Drop | 13.00% | ~9,983 |
+| Get ReQ'd | 25.00% | ~19,200 |
+| Whispered Words | 25.00% | ~19,200 |
+| The Batman Family | 23.00% | ~17,664 |
+| Lock and Key | 22.00% | ~16,896 |
+| Something in the Clay | 21.00% | ~16,128 |
+| Quartzer Life Crisis | 21.00% | ~16,128 |
+| Working Hard or Harley Working? | 20.00% | ~15,360 |
+| Unstoppable Force | 20.00% | ~15,360 |
+| Bad Apples in Every Orchard | 20.00% | ~15,360 |
+| Snow Problem | 19.00% | ~14,592 |
+| The Show Mud Go On | 18.00% | ~13,824 |
+| From Inside Gotham's Walls | 18.00% | ~13,824 |
+| Protector of Gotham | 17.00% | ~13,056 |
+| Universal Health Scare | 16.00% | ~12,288 |
+| In Your Element | 15.00% | ~11,520 |
+| Voiceless | 15.00% | ~11,520 |
+| Rock and a Hard Place | 14.00% | ~10,752 |
+| Cooldown | 14.00% | ~10,752 |
+| Seeking Asylum | 14.00% | ~10,752 |
+| Not On My Watch | 13.00% | ~9,984 |
+| Shock Til They Drop | 13.00% | ~9,984 |
 | End of an Era | 12.00% | ~9,216 |
 | Bulldozed | 12.00% | ~9,216 |
 | Gotham Knight | 12.00% | ~9,216 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 921)
 | Element of Surprise | 0.20% | ~94 |
 | It's Nice to Be Wanted | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,796 (Ranked 99)  
+Progressed: 76,798 (Ranked 99)  
 Completed: 124 (0.16%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,17 +282,17 @@ Completed: 124 (0.16%) (Ranked 264)
 | 2023-11-18 | 76,626 | 123 |
 | 2023-11-19 | 76,685 | 124 |
 | 2023-11-20 | 76,747 | 124 |
-| 2023-11-21 | 76,796 | 124 |
+| 2023-11-21 | 76,798 | 124 |
 ## Awards
 Max (Great Boss Battles): 2,958  (Ranked 98)  
-Sum: 5,031 (Ranked 139)  
+Sum: 5,034 (Ranked 139)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,958 |
+| This game is Extremely Fun | 265 |
 | This game has Diverse Characters | 264 |
-| This game is Extremely Fun | 263 |
-| This game has Quickly Understood Controls | 261 |
+| This game has Quickly Understood Controls | 262 |
 | This game is Relaxing | 261 |
 | This game is Great for Beginners | 259 |
 | This game has Amazing Characters | 257 |
@@ -571,4 +571,4 @@ Diff (max vs sum): -41
 | 2023-11-18 | 4.18 | 2,951 | 5,010 |
 | 2023-11-19 | 4.18 | 2,954 | 5,016 |
 | 2023-11-20 | 4.19 | 2,958 | 5,027 |
-| 2023-11-21 | 4.19 | 2,958 | 5,031 |
+| 2023-11-21 | 4.19 | 2,958 | 5,034 |

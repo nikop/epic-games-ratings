@@ -19,10 +19,10 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 10.00% | ~308 |
 | Good vibes | 9.00% | ~277 |
 | Fashionista | 8.00% | ~246 |
+| Finally he zips it | 8.00% | ~246 |
 | That pinch! | 8.00% | ~246 |
 | Tight lipslides | 8.00% | ~246 |
 | Bottom ply killer | 7.00% | ~215 |
-| Finally he zips it | 7.00% | ~215 |
 | Fulfilled the dream | 7.00% | ~215 |
 | G'Day Mate! | 7.00% | ~215 |
 | Commence the Hijinx! | 6.00% | ~184 |

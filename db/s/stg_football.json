@@ -3,11 +3,11 @@
   "Name": "STG Football",
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 712,
-  "Ranking_Popularity": 435,
+  "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-26T16:00:00+00:00",
@@ -736,18 +736,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 396,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-21T23:02:54.0633218+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 397,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 396,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 397,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -828,8 +834,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-11-21T21:02:56.2501409+00:00",
+  "LastChanged": "2023-11-21T23:02:54.0633216+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.8261671+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:03:09.3960645+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:08:42.1665384+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:02:54.063322+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:08:25.5039946+00:00"
 }

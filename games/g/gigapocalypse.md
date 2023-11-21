@@ -32,10 +32,10 @@
 | Happy Little Home | 32.00% | ~61 |
 | Animal Lover | 31.00% | ~59 |
 | Fight Me! | 31.00% | ~59 |
+| Supremacy | 30.00% | ~57 |
 | Mommy's Very Angry | 29.00% | ~55 |
-| Supremacy | 29.00% | ~55 |
+| Back To The Future | 26.00% | ~49 |
 | Loyal Companion | 26.00% | ~49 |
-| Back To The Future | 25.00% | ~48 |
 | Immortal Skin | 25.00% | ~48 |
 | Lunch Before The Lunch | 23.00% | ~44 |
 | Fire Beacon | 23.00% | ~44 |

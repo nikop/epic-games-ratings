@@ -27,9 +27,9 @@
 | Colonial Savior | 43.00% | ~581 |
 | Missing in Action | 43.00% | ~581 |
 | Scientist | 43.00% | ~581 |
+| Very Elusive | 42.00% | ~568 |
 | Merciless | 42.00% | ~568 |
 | Krogan Ally | 41.00% | ~554 |
-| Very Elusive | 41.00% | ~554 |
 | Sentinel Ally | 40.00% | ~541 |
 | Head Hunter | 39.00% | ~527 |
 | Operative | 39.00% | ~527 |
@@ -41,9 +41,10 @@
 | The Convict | 35.00% | ~473 |
 | Colony Defense | 34.00% | ~460 |
 | The Krogan | 34.00% | ~460 |
+| Broke, Blind, and Bedlam | 33.00% | ~446 |
 | Ghost Ship | 32.00% | ~433 |
 | The Quarian | 32.00% | ~433 |
-| Broke, Blind, and Bedlam | 32.00% | ~433 |
+| Galactic Explorer | 32.00% | ~433 |
 | A Personal Touch | 31.00% | ~419 |
 | The Assassin | 31.00% | ~419 |
 | The Justicar | 31.00% | ~419 |
@@ -51,7 +52,6 @@
 | Ghost of the Father | 31.00% | ~419 |
 | The Cure | 31.00% | ~419 |
 | The Prodigal | 31.00% | ~419 |
-| Galactic Explorer | 31.00% | ~419 |
 | Driven | 31.00% | ~419 |
 | Shopaholic | 31.00% | ~419 |
 | Completionist | 30.00% | ~406 |

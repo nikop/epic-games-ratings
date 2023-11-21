@@ -6,40 +6,40 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~305,086 |
-| Full garage | 61.00% | ~254,935 |
-| To the eyeballs! | 51.00% | ~213,142 |
-| Individual delivery | 47.00% | ~196,425 |
-| Non-Stop | 45.00% | ~188,067 |
-| Juggler | 36.00% | ~150,453 |
-| Forgot something | 35.00% | ~146,274 |
-| Close call! | 30.00% | ~125,378 |
-| Get out my way | 28.00% | ~117,019 |
-| Common cause | 26.00% | ~108,661 |
-| Critical care | 26.00% | ~108,661 |
-| Mega-railroad | 23.00% | ~96,123 |
-| Upgrade complete | 23.00% | ~96,123 |
-| Just in time! | 18.00% | ~75,227 |
-| Builder | 17.00% | ~71,047 |
-| Long Haul | 17.00% | ~70,935 |
-| Steam Age | 16.00% | ~66,868 |
-| Multilevel road | 15.00% | ~62,689 |
-| Bridgemania | 14.00% | ~58,510 |
-| Need to think | 14.00% | ~58,510 |
-| The Tortoise | 12.00% | ~50,151 |
-| Beginner | 11.00% | ~45,972 |
-| Without a lunch break | 11.00% | ~45,972 |
+| Dealmaker | 73.00% | ~305,092 |
+| Full garage | 61.00% | ~254,940 |
+| To the eyeballs! | 51.00% | ~213,146 |
+| Individual delivery | 47.00% | ~196,429 |
+| Non-Stop | 45.00% | ~188,070 |
+| Juggler | 36.00% | ~150,456 |
+| Forgot something | 35.00% | ~146,277 |
+| Close call! | 30.00% | ~125,380 |
+| Get out my way | 28.00% | ~117,022 |
+| Common cause | 26.00% | ~108,663 |
+| Critical care | 26.00% | ~108,663 |
+| Mega-railroad | 23.00% | ~96,125 |
+| Upgrade complete | 23.00% | ~96,125 |
+| Just in time! | 18.00% | ~75,228 |
+| Builder | 17.00% | ~71,049 |
+| Long Haul | 17.00% | ~70,937 |
+| Steam Age | 16.00% | ~66,869 |
+| Multilevel road | 15.00% | ~62,690 |
+| Bridgemania | 14.00% | ~58,511 |
+| Need to think | 14.00% | ~58,511 |
+| The Tortoise | 12.00% | ~50,152 |
+| Beginner | 11.00% | ~45,973 |
+| Without a lunch break | 11.00% | ~45,973 |
 | One way | 10.00% | ~41,793 |
 | Relocation | 10.00% | ~41,793 |
-| Industrial Age | 9.00% | ~37,613 |
-| Just One More Valley | 9.00% | ~37,554 |
-| Prick of conscience | 8.00% | ~33,434 |
+| Industrial Age | 9.00% | ~37,614 |
+| Just One More Valley | 9.00% | ~37,555 |
+| Prick of conscience | 8.00% | ~33,435 |
 | Missed it! | 7.00% | ~29,255 |
 | At the last moment! | 6.00% | ~25,076 |
 | Overseer | 6.00% | ~25,076 |
-| Highlander | 5.00% | ~20,896 |
-| Jewelry accuracy | 5.00% | ~20,896 |
-| Stargazer | 5.00% | ~20,896 |
+| Highlander | 5.00% | ~20,897 |
+| Jewelry accuracy | 5.00% | ~20,897 |
+| Stargazer | 5.00% | ~20,897 |
 | Bridge builder | 4.00% | ~16,717 |
 | Electrical Age | 4.00% | ~16,717 |
 | Large construction | 4.00% | ~16,717 |
@@ -56,14 +56,14 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,359 |
 | Will work | 2.00% | ~8,359 |
 | Woodcutter | 2.00% | ~8,359 |
-| Occupied! | 2.00% | ~8,345 |
+| Occupied! | 2.00% | ~8,346 |
 | Achiever | 1.00% | ~4,179 |
 | Environmental activist | 1.00% | ~4,179 |
 | Metro builder | 1.00% | ~4,179 |
 | Ouroboros | 1.00% | ~4,179 |
 | Space Age | 1.00% | ~4,179 |
 | BBQ | 0.80% | ~3,343 |
-| Miscalculation | 0.70% | ~2,925 |
+| Miscalculation | 0.70% | ~2,926 |
 | Voyager | 0.60% | ~2,508 |
 | Railroad tycoon | 0.50% | ~2,090 |
 | It's no coincidence | 0.40% | ~1,672 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~417 |
 | World Zapper | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,926 (Ranked 44)  
+Progressed: 417,934 (Ranked 44)  
 Completed: 23 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 23 (0.01%) (Ranked 335)
 | 2023-11-18 | 417,125 | 22 |
 | 2023-11-19 | 417,464 | 23 |
 | 2023-11-20 | 417,686 | 23 |
-| 2023-11-21 | 417,926 | 23 |
+| 2023-11-21 | 417,934 | 23 |
 ## Awards
 Max (Challenging Puzzles): 903  (Ranked 159)  
-Sum: 1,813 (Ranked 219)  
+Sum: 1,814 (Ranked 219)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): -60
 | This game is Extremely Fun | 97 |
 | This game is Relaxing | 96 |
 | This game is Highly Recommended | 92 |
-| This game has Challenging Combat | 79 |
+| This game has Challenging Combat | 80 |
 | This game has Amazing Storytelling | 64 |
 | This game has a Creative Community | 64 |
 | This game has Amazing Characters | 48 |
@@ -476,4 +476,4 @@ Diff (max vs sum): -60
 | 2023-11-18 | 4.44 | - | 899 | 1,803 |
 | 2023-11-19 | 4.44 | - | 899 | 1,806 |
 | 2023-11-20 | 4.44 | - | 899 | 1,807 |
-| 2023-11-21 | 4.44 | - | 903 | 1,813 |
+| 2023-11-21 | 4.44 | - | 903 | 1,814 |

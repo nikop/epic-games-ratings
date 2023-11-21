@@ -4222,9 +4222,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_38",
@@ -4502,9 +4502,9 @@
       "ID": "achievement_69",
       "SetID": "d252ncf",
       "Name": "Galactic Explorer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 419
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_7",
@@ -4566,9 +4566,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_77",
@@ -4786,8 +4786,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-21T22:08:45.2325729+00:00",
+  "LastChanged_Achievements": "2023-11-21T23:08:28.3807157+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:46.952865+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:03:18.5605236+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:08:45.2327312+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:03:01.8581607+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:08:28.3808729+00:00"
 }

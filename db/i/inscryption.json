@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-19T19:00:00+00:00",
@@ -704,18 +704,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 392,
       "NumberOfAwardsMax": 346
+    },
+    {
+      "Time": "2023-11-21T22:58:18.220491+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 393,
+      "NumberOfAwardsMax": 347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 392,
-  "NumberOfAwardsMax": 346,
+  "NumberOfAwards": 393,
+  "NumberOfAwardsMax": 347,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 346
+      "Count": 347
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -741,8 +747,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2023-11-18T00:00:06.3503692+00:00",
+  "LastChanged": "2023-11-21T22:58:18.2204909+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.7743665+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:58:18.2176156+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:05:07.7108329+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:58:18.2204914+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:04:33.1312044+00:00"
 }

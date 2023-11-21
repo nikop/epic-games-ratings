@@ -6,12 +6,12 @@ Rating: 4.64 (Ranked 333)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 3.00% | ~735 |
+| Are You Packin'? | 3.00% | ~735 |
 | Sweezy Like Sunday Morning | 3.00% | ~735 |
 | First Bounty Down | 3.00% | ~735 |
 | G3 Graduation | 3.00% | ~735 |
 | Cold-Blooded Driller | 3.00% | ~735 |
 | Creature Feature | 2.00% | ~490 |
-| Are You Packin'? | 2.00% | ~490 |
 | Bring A Knife to a Gun Fight | 2.00% | ~490 |
 | Lezduit! | 2.00% | ~490 |
 | RIP Davey Glutes | 2.00% | ~490 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 333)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,510 (Ranked 128)  
+Progressed: 24,511 (Ranked 128)  
 Completed: 13 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 13 (0.05%) (Ranked 306)
 | 2023-11-18 | 24,495 | 13 |
 | 2023-11-19 | 24,500 | 13 |
 | 2023-11-20 | 24,506 | 13 |
-| 2023-11-21 | 24,510 | 13 |
+| 2023-11-21 | 24,511 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

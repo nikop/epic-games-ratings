@@ -21,14 +21,14 @@
 | First steps | 13.00% | ~10 |
 | A new way | 12.00% | ~9 |
 | Breaking free | 12.00% | ~9 |
+| A Slice of Life | 12.00% | ~9 |
+| Debut | 12.00% | ~9 |
+| The art of movement | 12.00% | ~9 |
 | Whispers long forgotten | 12.00% | ~9 |
-| A Slice of Life | 10.00% | ~8 |
-| Debut | 10.00% | ~8 |
-| The art of movement | 10.00% | ~8 |
 | True Reflection | 10.00% | ~8 |
-| Another perspective | 8.00% | ~6 |
+| Another perspective | 9.00% | ~7 |
+| Lights! Camera! Action! | 9.00% | ~7 |
 | Sound Bite | 8.00% | ~6 |
-| Lights! Camera! Action! | 8.00% | ~6 |
 | Heavy Burden | 6.00% | ~5 |
 | Casting Finished | 5.00% | ~4 |
 | We Are Not Alone | 5.00% | ~4 |

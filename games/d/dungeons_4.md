@@ -9,11 +9,11 @@
 | For the Horde! | 82.00% | ~266 |
 | Hammer Time, Round Two | 81.00% | ~263 |
 | The Hellwoods | 77.00% | ~250 |
-| The Plains of Strothalm | 72.00% | ~234 |
+| The Plains of Strothalm | 73.00% | ~237 |
 | Experienced Thalya | 70.00% | ~227 |
 | Thalya's Concentrated Fury | 67.00% | ~218 |
+| Master of Magic | 66.00% | ~214 |
 | Bad Elves Go Everywhere | 66.00% | ~214 |
-| Master of Magic | 65.00% | ~211 |
 | Heroes’ Gorge | 61.00% | ~198 |
 | Magic Accidents | 59.00% | ~192 |
 | Unicorn steaks – fresh off the hoof! | 59.00% | ~192 |
@@ -36,7 +36,7 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~75 |
 | Master of the Undead | 23.00% | ~75 |
 | Hungry, Hungry Gorgu! | 22.00% | ~72 |
-| The Duel | 21.00% | ~68 |
+| The Duel | 22.00% | ~72 |
 | Forbidden Knowledge | 20.00% | ~65 |
 | Ghost Pirates? Ghost Heroes! | 19.00% | ~62 |
 | If Looks Could Kill | 18.00% | ~58 |

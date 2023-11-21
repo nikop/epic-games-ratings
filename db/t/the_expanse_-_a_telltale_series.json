@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15197,
+  "EOS_Progressed": 15203,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11817,6 +11817,11 @@
       "Time": "2023-11-21T22:04:49.1293861+00:00",
       "NumProgressed": 15197,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-21T23:04:17.5099119+00:00",
+      "NumProgressed": 15203,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11931,17 +11936,17 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 608
+      "UsersEstimate": 760
     },
     {
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 106
     },
     {
       "ID": "23",
@@ -12108,13 +12113,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15197,
+      "Progressed": 15203,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1151,
+      "Progressed": 1157,
       "Completed": 671
     }
   ],
@@ -12122,8 +12127,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-21T22:04:49.1293858+00:00",
+  "LastChanged_Achievements": "2023-11-21T23:04:17.5099114+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:01:10.0611697+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:04:49.129458+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:00:36.1743006+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:04:17.5099872+00:00"
 }

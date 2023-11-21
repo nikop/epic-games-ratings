@@ -20,6 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | Veni, Vidi, Vici | 2.00% | ~4 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~4 |
 | Coming Through! | 1.00% | ~2 |
+| Deepstrike | 1.00% | ~2 |
 | Infernal Influence | 1.00% | ~2 |
 | Expert Essence Employment | 1.00% | ~2 |
 | The Song of Stoutheart | 0.60% | ~1 |
@@ -29,11 +30,11 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 0.60% | ~1 |
 | Unlimited Power! | 0.60% | ~1 |
 | Fully Charged | 0.60% | ~1 |
-| Deepstrike | 0.60% | ~1 |
 | Don't Touch My Stuff | 0.60% | ~1 |
 | Get Over Here! | 0.60% | ~1 |
 | Trojan Horse | 0.60% | ~1 |
 | Ultra Kill | 0.60% | ~1 |
+| Pyrrhic Victory | 0.60% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -55,13 +56,12 @@ Number of Ratings: 292  (23.09.2022)
 | Cleave | 0.00% | ~0 |
 | Landlord Extraordinaire | 0.00% | ~0 |
 | Grand Master | 0.00% | ~0 |
-| Pyrrhic Victory | 0.00% | ~0 |
 | Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175 (Ranked 390)  
+Progressed: 175 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |

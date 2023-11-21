@@ -31,10 +31,10 @@ Rating: 4.54 (Ranked 527)
 | Ooh, Shiny! | 0.80% | ~5,776 |
 | A Patton Emerges | 0.80% | ~5,776 |
 | Our True Nature | 0.80% | ~5,776 |
+| Making Your Mark | 0.70% | ~5,054 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,054 |
 | I Am the Resurrection | 0.70% | ~5,054 |
 | Max Headroom | 0.70% | ~5,054 |
-| Making Your Mark | 0.60% | ~4,332 |
 | Humanity Distilled | 0.60% | ~4,332 |
 | Down with the Sickness | 0.60% | ~4,332 |
 | Not Even My Final Form | 0.50% | ~3,610 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,012 (Ranked 21)  
+Progressed: 722,031 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 722,012 | 2,423 |
+| 2023-11-21 | 722,031 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 51)  
 Sum: 11,622 (Ranked 84)  

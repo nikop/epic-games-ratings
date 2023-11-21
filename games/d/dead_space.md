@@ -11,8 +11,8 @@ Rating: 4.64 (Ranked 333)
 | All Systems Go | 67.00% | ~1,285 |
 | Brute Force | 66.00% | ~1,266 |
 | Cannon Fodder | 62.00% | ~1,189 |
-| Autofire | 58.00% | ~1,112 |
-| True Believer | 57.00% | ~1,093 |
+| Autofire | 59.00% | ~1,132 |
+| True Believer | 58.00% | ~1,112 |
 | Story Teller | 56.00% | ~1,074 |
 | Raise the Stakes | 56.00% | ~1,074 |
 | Surgeon | 53.00% | ~1,017 |

@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24510,
+  "EOS_Progressed": 24511,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6778,6 +6778,11 @@
       "Time": "2023-11-21T21:06:46.5846004+00:00",
       "NumProgressed": 24510,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-21T23:06:40.5359147+00:00",
+      "NumProgressed": 24511,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6843,9 +6848,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -7140,13 +7145,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24510,
+      "Progressed": 24511,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1803,
+      "Progressed": 1804,
       "Completed": 1376
     }
   ],
@@ -7154,8 +7159,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-08T23:02:28.6590221+00:00",
-  "LastChanged_Achievements": "2023-11-21T22:07:38.6121625+00:00",
+  "LastChanged_Achievements": "2023-11-21T23:06:40.5359143+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:37.5324656+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:00:28.9903369+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:07:38.6122151+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:00:03.7076973+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:06:40.535972+00:00"
 }

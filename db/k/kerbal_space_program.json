@@ -4,10 +4,10 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 95,
   "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 126,
+  "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
@@ -6847,10 +6847,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 6695,
       "NumberOfAwardsMax": 1141
+    },
+    {
+      "Time": "2023-11-21T23:00:53.7185784+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6703,
+      "NumberOfAwardsMax": 1141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6695,
+  "NumberOfAwards": 6703,
   "NumberOfAwardsMax": 1141,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -6864,7 +6870,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 975
+      "Count": 981
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6882,7 +6888,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 997
+      "Count": 999
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6915,8 +6921,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-11-21T20:00:16.2751311+00:00",
+  "LastChanged": "2023-11-21T23:00:53.7185782+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:02.764044+00:00",
-  "LastUpdate_Ratings": "2023-11-21T22:01:31.3347723+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:05:46.3240469+00:00"
+  "LastUpdate_Ratings": "2023-11-21T23:00:53.718579+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:05:05.5788048+00:00"
 }

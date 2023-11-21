@@ -18,8 +18,8 @@ Rating: 4.48 (Ranked 624)
 | Running at the speed of sound | 14.00% | ~164 |
 | Rookie No-No More | 13.00% | ~152 |
 | Martian explorer | 11.00% | ~129 |
+| To the core | 9.00% | ~105 |
 | Blurred photofinish | 9.00% | ~105 |
-| To the core | 8.00% | ~94 |
 | EZ game EZ life | 7.00% | ~82 |
 | First step into a larger world | 7.00% | ~82 |
 | Over the clouds | 6.00% | ~70 |
@@ -49,11 +49,11 @@ Rating: 4.48 (Ranked 624)
 | Put a sign on it | 1.00% | ~12 |
 | Everything is better with friends | 1.00% | ~12 |
 | Eat dust my friend | 1.00% | ~12 |
+| Better than half the studio... | 1.00% | ~12 |
 | Grandslam | 1.00% | ~12 |
 | Fashion Racer | 0.90% | ~11 |
 | Redout Grandmaster | 0.90% | ~11 |
 | Familiar Face | 0.90% | ~11 |
-| Better than half the studio... | 0.90% | ~11 |
 | Beat you to it! | 0.90% | ~11 |
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |

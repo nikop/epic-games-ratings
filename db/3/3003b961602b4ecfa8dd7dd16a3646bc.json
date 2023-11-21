@@ -2,9 +2,9 @@
   "ID": "3003b961602b4ecfa8dd7dd16a3646bc",
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-11-14T06:10:15.1548417+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-21T23:09:43.2808061+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -178,7 +183,7 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 71,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -186,7 +191,7 @@
       "ID": "ACH_02_FIRSTRACE",
       "SetID": "9dl0ei6",
       "Name": "First Race",
-      "Percentage": 93,
+      "Percentage": 90,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -194,7 +199,7 @@
       "ID": "ACH_03_TRAININGRACE2",
       "SetID": "9dl0ei6",
       "Name": "Training Race 2",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -218,7 +223,7 @@
       "ID": "ACH_06_GRANDLAP2",
       "SetID": "9dl0ei6",
       "Name": "The Grand Lap 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "ACH_07_GRANDLAP3",
       "SetID": "9dl0ei6",
       "Name": "The Grand Lap 3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -242,7 +247,7 @@
       "ID": "ACH_09_HANNAH",
       "SetID": "9dl0ei6",
       "Name": "Hannah",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -250,7 +255,7 @@
       "ID": "ACH_10_SARAH",
       "SetID": "9dl0ei6",
       "Name": "Sarah",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -266,7 +271,7 @@
       "ID": "ACH_12_LISA",
       "SetID": "9dl0ei6",
       "Name": "Lisa",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -274,7 +279,7 @@
       "ID": "ACH_13_TREASUREHUNTER",
       "SetID": "9dl0ei6",
       "Name": "Treasure Hunter",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -298,7 +303,7 @@
       "ID": "ACH_16_APPLES",
       "SetID": "9dl0ei6",
       "Name": "Apple Gatherer",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -306,7 +311,7 @@
       "ID": "ACH_17_PICNIC",
       "SetID": "9dl0ei6",
       "Name": "Picnic",
-      "Percentage": 54,
+      "Percentage": 52,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -314,7 +319,7 @@
       "ID": "ACH_18_MIA",
       "SetID": "9dl0ei6",
       "Name": "Maverick",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -346,7 +351,7 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -354,7 +359,7 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -362,7 +367,7 @@
       "ID": "ACH_24_STONECIRCLE",
       "SetID": "9dl0ei6",
       "Name": "Stonehenge",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -370,7 +375,7 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -395,14 +400,14 @@
     {
       "ID": "9dl0ei6",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-11-21T22:10:08.9017855+00:00",
+  "LastChanged_Achievements": "2023-11-21T23:09:43.2808058+00:00",
   "LastUpdate_AppInfo": "2023-11-19T23:56:57.7357957+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:59:29.8270552+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:10:08.9017982+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:59:15.1644574+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:09:43.2808228+00:00"
 }

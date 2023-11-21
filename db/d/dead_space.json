@@ -5923,9 +5923,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1132
     },
     {
       "ID": "achievement_21",
@@ -6163,9 +6163,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1112
     },
     {
       "ID": "achievement_6",
@@ -6212,8 +6212,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-18T01:45:06.4980839+00:00",
-  "LastChanged_Achievements": "2023-11-21T22:06:38.2638294+00:00",
+  "LastChanged_Achievements": "2023-11-21T23:05:49.3895222+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.4704456+00:00",
-  "LastUpdate_Ratings": "2023-11-21T21:57:52.6533964+00:00",
-  "LastUpdate_Achievements": "2023-11-21T22:06:38.2638753+00:00"
+  "LastUpdate_Ratings": "2023-11-21T22:57:58.1760974+00:00",
+  "LastUpdate_Achievements": "2023-11-21T23:05:49.3895773+00:00"
 }

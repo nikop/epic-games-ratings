@@ -15,15 +15,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.60% | ~4,303 |
 | Qi Gong: Breath | 0.60% | ~4,303 |
 | Lightning Hands | 0.60% | ~4,303 |
-| A Lady's Blood in the Snow | 0.50% | ~3,585 |
-| Lady Wing Chun | 0.50% | ~3,585 |
-| Furious Fists | 0.50% | ~3,585 |
-| Kill Nil | 0.50% | ~3,585 |
-| Stuntmaster | 0.50% | ~3,585 |
-| Street Fighting | 0.50% | ~3,585 |
-| Qi Gong: Essence | 0.50% | ~3,585 |
-| Path of the Prospect | 0.50% | ~3,585 |
-| Rumble in the Hangar | 0.50% | ~3,585 |
+| A Lady's Blood in the Snow | 0.50% | ~3,586 |
+| Lady Wing Chun | 0.50% | ~3,586 |
+| Furious Fists | 0.50% | ~3,586 |
+| Kill Nil | 0.50% | ~3,586 |
+| Stuntmaster | 0.50% | ~3,586 |
+| Street Fighting | 0.50% | ~3,586 |
+| Qi Gong: Essence | 0.50% | ~3,586 |
+| Path of the Prospect | 0.50% | ~3,586 |
+| Rumble in the Hangar | 0.50% | ~3,586 |
 | Martial Hub | 0.50% | ~132 |
 | Fight the way you practice | 0.50% | ~132 |
 | Scareless | 0.40% | ~2,868 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,099 (Ranked 22)  
+Progressed: 717,101 (Ranked 22)  
 Completed: 12,938 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 12,938 (1.80%) (Ranked 132)
 | 2023-11-18 | 717,005 | 12,937 |
 | 2023-11-19 | 717,041 | 12,938 |
 | 2023-11-20 | 717,073 | 12,938 |
-| 2023-11-21 | 717,099 | 12,938 |
+| 2023-11-21 | 717,101 | 12,938 |
 ## Awards
 Max (Great Boss Battles): 6,824  (Ranked 55)  
 Sum: 11,931 (Ranked 82)  

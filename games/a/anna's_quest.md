@@ -24,12 +24,12 @@
 | Far away from home | 28.00% | ~23 |
 | NOW GO AWAY! | 28.00% | ~23 |
 | You've got mail! | 27.00% | ~22 |
+| Beekeeper | 27.00% | ~22 |
+| Show me your true self | 26.00% | ~21 |
 | Memories | 26.00% | ~21 |
-| Beekeeper | 26.00% | ~21 |
 | Mischief maker | 26.00% | ~21 |
 | No posters allowed | 26.00% | ~21 |
 | Little genius | 26.00% | ~21 |
-| Show me your true self | 25.00% | ~20 |
 | Pain in the hands | 25.00% | ~20 |
 | Turn the last page | 22.00% | ~18 |
 | Ring-a-ding-ding | 21.00% | ~17 |
@@ -39,8 +39,8 @@
 | Bahahahaha... | 19.00% | ~15 |
 | Makeover | 17.00% | ~14 |
 | Cameodalic | 17.00% | ~14 |
+| Clever reference #451 | 15.00% | ~12 |
 | Guilty conscience | 15.00% | ~12 |
-| Clever reference #451 | 14.00% | ~11 |
 | What a mess | 10.00% | ~8 |
 | Posterboy! | 9.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
