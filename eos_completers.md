@@ -10,7 +10,7 @@
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.96% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.59% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
-| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.44% |
+| 11 | [The Riflemen](games/t/the_riflemen.md) | 30.42% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.90% |
@@ -59,7 +59,7 @@
 | 57 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 58 | [Scorn](games/s/scorn.md) | 6.91% |
 | 59 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.86% |
-| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.41% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 6.47% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.35% |
 | 63 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -118,9 +118,9 @@
 | 116 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 117 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 118 | [Lamentum](games/l/lamentum.md) | 2.42% |
-| 119 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.38% |
-| 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 121 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
+| 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
+| 120 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
+| 120 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2.35% |
 | 122 | [Bloodshore](games/b/bloodshore.md) | 2.34% |
 | 123 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.29% |
 | 124 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.27% |
@@ -489,6 +489,7 @@
 | 357 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 0.00% |
 | 357 | [Game Dev Masters](games/g/game_dev_masters.md) | 0.00% |
 | 357 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 0.00% |
+| 357 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 0.00% |
 | 357 | [Garden In](games/g/garden_in.md) | 0.00% |
 | 357 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.00% |
 | 357 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 0.00% |

@@ -308,6 +308,7 @@
 | [Galactic Empire](../games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 67 | 1,000 |
 | [Game Dev Masters](../games/g/game_dev_masters.md) | 68 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
+| [Gangs of Sherwood](../games/g/gangs_of_sherwood.md) | 53 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |
 | [Gas Station Simulator](../games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 91 | 1,000 |
 | [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 13 | 1,000 |
