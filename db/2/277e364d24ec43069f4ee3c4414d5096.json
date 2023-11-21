@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114736,
+  "EOS_Progressed": 114740,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18654,6 +18654,11 @@
       "Time": "2023-11-21T14:08:30.3549245+00:00",
       "NumProgressed": 114736,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-21T15:08:45.9439214+00:00",
+      "NumProgressed": 114740,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18673,7 +18678,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88347
+      "UsersEstimate": 88350
     },
     {
       "ID": "EAwards_10",
@@ -18681,7 +18686,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "EAwards_11",
@@ -18689,7 +18694,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29831
+      "UsersEstimate": 29832
     },
     {
       "ID": "EAwards_12",
@@ -18697,7 +18702,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17210
+      "UsersEstimate": 17211
     },
     {
       "ID": "EAwards_13",
@@ -18737,7 +18742,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42452
+      "UsersEstimate": 42454
     },
     {
       "ID": "EAwards_18",
@@ -18745,7 +18750,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10326
+      "UsersEstimate": 10327
     },
     {
       "ID": "EAwards_19",
@@ -18761,7 +18766,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55073
+      "UsersEstimate": 55075
     },
     {
       "ID": "EAwards_20",
@@ -18809,7 +18814,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21800
+      "UsersEstimate": 21801
     },
     {
       "ID": "EAwards_26",
@@ -18849,7 +18854,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22947
+      "UsersEstimate": 22948
     },
     {
       "ID": "EAwards_30",
@@ -18857,7 +18862,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4589
+      "UsersEstimate": 4590
     },
     {
       "ID": "EAwards_31",
@@ -19025,7 +19030,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10326
+      "UsersEstimate": 10327
     },
     {
       "ID": "EAwards_7",
@@ -19033,7 +19038,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "EAwards_8",
@@ -19041,7 +19046,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13768
+      "UsersEstimate": 13769
     },
     {
       "ID": "EAwards_9",
@@ -19056,7 +19061,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114736,
+      "Progressed": 114740,
       "Completed": 50
     }
   ],
@@ -19064,8 +19069,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:08:30.3549242+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:08:45.943921+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:02:35.6056579+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:08:30.3550544+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:02:42.6616819+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:08:45.9440152+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1499,9 +1499,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 16464,
+  "EOS_Progressed": 16465,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -9089,6 +9089,11 @@
       "Time": "2023-11-20T15:03:39.0924957+00:00",
       "NumProgressed": 16464,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-11-21T15:03:33.5771898+00:00",
+      "NumProgressed": 16465,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 47,
@@ -9260,7 +9265,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9292,7 +9297,7 @@
       "Name": "The Outer Way",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9475,13 +9480,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16464,
+      "Progressed": 16465,
       "Completed": 80
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4390,
+      "Progressed": 4391,
       "Completed": 29
     }
   ],
@@ -9489,8 +9494,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-20T01:50:45.362492+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:03:23.6574085+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:03:33.5771895+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:43.3850362+00:00",
-  "LastUpdate_Ratings": "2023-11-21T14:02:40.2159358+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:03:23.6574629+00:00"
+  "LastUpdate_Ratings": "2023-11-21T15:02:47.3754963+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:03:33.5772565+00:00"
 }

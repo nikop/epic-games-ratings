@@ -21,7 +21,7 @@ Rating: 3.95 (Ranked 1,008)
 | Hidden Sonata | 0.90% | ~822 |
 | Track Star | 0.80% | ~731 |
 | True Player | 0.80% | ~731 |
-| Headhunter | 0.70% | ~639 |
+| Headhunter | 0.70% | ~640 |
 | I Like Trains | 0.60% | ~548 |
 | Freebooter | 0.60% | ~548 |
 | Moneybags | 0.50% | ~457 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,008)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,357 (Ranked 92)  
+Progressed: 91,361 (Ranked 92)  
 Completed: 57 (0.06%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 57 (0.06%) (Ranked 299)
 | 2023-11-18 | 91,295 | 57 |
 | 2023-11-19 | 91,321 | 57 |
 | 2023-11-20 | 91,347 | 57 |
-| 2023-11-21 | 91,357 | 57 |
+| 2023-11-21 | 91,361 | 57 |
 ## Awards
 Max (Diverse Characters): 540  (Ranked 205)  
 Sum: 3,073 (Ranked 175)  

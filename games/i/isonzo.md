@@ -6,45 +6,45 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 50.00% | ~4,362 |
-| You Shall Not Pass | 50.00% | ~4,362 |
-| Peak Performance | 47.00% | ~4,100 |
-| Avanti Savoia! | 44.00% | ~3,839 |
-| Mamma Mia! | 34.00% | ~2,966 |
-| Conrad von Hotzensocks | 32.00% | ~2,792 |
-| Gabriele D'Annunzio | 31.00% | ~2,704 |
-| Silver Lining | 27.00% | ~2,355 |
-| Aurelio Baruzzi | 21.00% | ~1,832 |
-| Decimation | 20.00% | ~1,745 |
-| Donatello | 19.00% | ~1,658 |
-| The Italian Job | 19.00% | ~1,658 |
-| Veni Vidi Vici | 19.00% | ~1,658 |
-| Insubordination | 18.00% | ~1,570 |
-| Ragazzi del '99 | 17.00% | ~1,483 |
-| Luigi Cadorna | 15.00% | ~1,309 |
-| The Lion of the Isonzo | 15.00% | ~1,309 |
-| Uomo Universale | 13.00% | ~1,134 |
-| Dirty Dozen | 12.00% | ~1,047 |
-| Shaken, Not Stirred | 12.00% | ~1,047 |
-| Die Bosniaken Kommen! | 11.00% | ~960 |
-| Machiavelli | 11.00% | ~960 |
-| Thus With A Kiss | 11.00% | ~960 |
-| The Devil's Paintbrush | 10.00% | ~872 |
-| Dante's Inferno | 9.00% | ~785 |
-| I Have the High Ground | 9.00% | ~785 |
-| Millenial | 9.00% | ~785 |
-| The Show Must Go On | 8.00% | ~698 |
-| Tosca | 8.00% | ~698 |
-| 12th Bottle of the Isonzo | 6.00% | ~523 |
-| The Enlightment | 6.00% | ~523 |
-| Cercatore d'Oro | 5.00% | ~436 |
+| Tutti Eroi! | 50.00% | ~4,368 |
+| You Shall Not Pass | 50.00% | ~4,368 |
+| Peak Performance | 47.00% | ~4,106 |
+| Avanti Savoia! | 44.00% | ~3,844 |
+| Mamma Mia! | 34.00% | ~2,971 |
+| Conrad von Hotzensocks | 32.00% | ~2,796 |
+| Gabriele D'Annunzio | 31.00% | ~2,708 |
+| Silver Lining | 27.00% | ~2,359 |
+| Aurelio Baruzzi | 21.00% | ~1,835 |
+| Decimation | 20.00% | ~1,747 |
+| Donatello | 19.00% | ~1,660 |
+| The Italian Job | 19.00% | ~1,660 |
+| Veni Vidi Vici | 19.00% | ~1,660 |
+| Insubordination | 18.00% | ~1,573 |
+| Ragazzi del '99 | 17.00% | ~1,485 |
+| Luigi Cadorna | 15.00% | ~1,311 |
+| The Lion of the Isonzo | 15.00% | ~1,311 |
+| Uomo Universale | 13.00% | ~1,136 |
+| Dirty Dozen | 12.00% | ~1,048 |
+| Shaken, Not Stirred | 12.00% | ~1,048 |
+| Die Bosniaken Kommen! | 11.00% | ~961 |
+| Machiavelli | 11.00% | ~961 |
+| Thus With A Kiss | 11.00% | ~961 |
+| The Devil's Paintbrush | 10.00% | ~874 |
+| Dante's Inferno | 9.00% | ~786 |
+| I Have the High Ground | 9.00% | ~786 |
+| Millenial | 9.00% | ~786 |
+| The Show Must Go On | 8.00% | ~699 |
+| Tosca | 8.00% | ~699 |
+| 12th Bottle of the Isonzo | 6.00% | ~524 |
+| The Enlightment | 6.00% | ~524 |
+| Cercatore d'Oro | 5.00% | ~437 |
 | Generalissimo | 4.00% | ~349 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~349 |
 | Seeing Red | 3.00% | ~262 |
-| Farewell to Arms | 2.00% | ~174 |
-| Ponte of No Return | 2.00% | ~174 |
-| Soča Drag | 2.00% | ~174 |
-| Saboteur | 2.00% | ~174 |
+| Farewell to Arms | 2.00% | ~175 |
+| Ponte of No Return | 2.00% | ~175 |
+| Soča Drag | 2.00% | ~175 |
+| Saboteur | 2.00% | ~175 |
 | Compagnia della Morte | 1.00% | ~87 |
 | Drop and Give Me 20 | 1.00% | ~87 |
 | Malpractice | 1.00% | ~87 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~35 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,724 (Ranked 166)  
+Progressed: 8,737 (Ranked 166)  
 Completed: 9 (0.10%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,16 +261,16 @@ Completed: 9 (0.10%) (Ranked 279)
 | 2023-11-18 | 8,286 | 9 |
 | 2023-11-19 | 8,528 | 9 |
 | 2023-11-20 | 8,686 | 9 |
-| 2023-11-21 | 8,724 | 9 |
+| 2023-11-21 | 8,737 | 9 |
 ## Awards
 Max (Highly Recommended): 37  (Ranked 464)  
-Sum: 281 (Ranked 372)  
+Sum: 282 (Ranked 372)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 37 |
 | This game has Diverse Characters | 36 |
-| This game is Extremely Fun | 34 |
+| This game is Extremely Fun | 35 |
 | This game has Realistic Visuals | 34 |
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 30 |
@@ -403,3 +403,4 @@ Diff (max vs sum): 92
 | 2023-11-15 | 4.55 | - | 36 | 279 |
 | 2023-11-17 | 4.55 | - | 36 | 280 |
 | 2023-11-20 | 4.55 | - | 37 | 281 |
+| 2023-11-21 | 4.55 | - | 37 | 282 |

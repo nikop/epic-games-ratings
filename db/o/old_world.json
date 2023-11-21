@@ -18329,9 +18329,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -19039,8 +19039,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:04:55.9790102+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:05:09.6680358+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:57:05.8420654+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:04:55.9798733+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:57:15.5264264+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:05:09.668947+00:00"
 }

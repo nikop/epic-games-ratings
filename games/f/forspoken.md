@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 938)  
+Rating: 4.16 (Ranked 939)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,9 +15,9 @@ Rating: 4.16 (Ranked 938)
 | Call of the Fount: Baptized | 6.00% | ~2,572 |
 | No Mercy | 5.00% | ~2,143 |
 | Explorer: Seeker | 5.00% | ~2,143 |
-| Through the Eyes of Another: Empath | 4.00% | ~1,714 |
-| Stuck | 4.00% | ~1,714 |
-| Help Me Out Here | 4.00% | ~1,714 |
+| Through the Eyes of Another: Empath | 4.00% | ~1,715 |
+| Stuck | 4.00% | ~1,715 |
+| Help Me Out Here | 4.00% | ~1,715 |
 | Outdoorsperson | 3.00% | ~1,286 |
 | The Interloper | 3.00% | ~1,286 |
 | Hop, Step, Jump | 3.00% | ~1,286 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 938)
 | Remembrance | 0.10% | ~43 |
 | Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,862 (Ranked 117)  
+Progressed: 42,863 (Ranked 117)  
 Completed: 3 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 3 (0.01%) (Ranked 335)
 | 2023-11-18 | 42,785 | 3 |
 | 2023-11-19 | 42,824 | 3 |
 | 2023-11-20 | 42,850 | 3 |
-| 2023-11-21 | 42,862 | 3 |
+| 2023-11-21 | 42,863 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 499)  
 Sum: 29 (Ranked 512)  

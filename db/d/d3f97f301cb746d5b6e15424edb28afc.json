@@ -2552,9 +2552,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 823
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -2616,9 +2616,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 673
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -2760,9 +2760,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 612
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -2808,9 +2808,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 733
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -2977,8 +2977,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:04:30.9136147+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:04:43.5667283+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:59:32.9807541+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:04:30.913696+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:59:41.133177+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:04:43.5668053+00:00"
 }

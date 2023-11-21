@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~122 |
-| Baby's First Car | 29.00% | ~118 |
-| A Forest Walk | 29.00% | ~118 |
-| Amateur Mechanic | 28.00% | ~114 |
+| Baby's First Car | 28.00% | ~114 |
 | Pushover | 28.00% | ~114 |
-| C-C-C-Combo! | 26.00% | ~106 |
+| A Forest Walk | 28.00% | ~114 |
+| Amateur Mechanic | 27.00% | ~110 |
 | Multiply that! | 26.00% | ~106 |
+| C-C-C-Combo! | 25.00% | ~102 |
 | Fore! | 23.00% | ~94 |
 | The Collector | 23.00% | ~94 |
 | Insurance fraud | 23.00% | ~94 |
@@ -21,14 +21,14 @@
 | I see the light! | 22.00% | ~90 |
 | In the Bag! | 22.00% | ~90 |
 | You're it | 22.00% | ~90 |
-| First Come, First Serve | 21.00% | ~85 |
-| Goodbye cruel world | 21.00% | ~85 |
-| Car-Tapult | 20.00% | ~81 |
-| Disoriented | 20.00% | ~81 |
-| Anger Issues | 20.00% | ~81 |
-| Take that Frosty! | 20.00% | ~81 |
-| Your Highness | 20.00% | ~81 |
-| Beach Party! | 20.00% | ~81 |
+| First Come, First Serve | 21.00% | ~86 |
+| Goodbye cruel world | 21.00% | ~86 |
+| Car-Tapult | 20.00% | ~82 |
+| Disoriented | 20.00% | ~82 |
+| Anger Issues | 20.00% | ~82 |
+| Take that Frosty! | 20.00% | ~82 |
+| Your Highness | 20.00% | ~82 |
+| Beach Party! | 20.00% | ~82 |
 | Event Amateur | 18.00% | ~73 |
 | Feeling Hot Hot Hot! | 17.00% | ~69 |
 | Feeling Dizzy? | 17.00% | ~69 |
@@ -44,7 +44,7 @@
 | Rocketman | 11.00% | ~45 |
 | High Roller | 10.00% | ~41 |
 | Event Pro | 10.00% | ~41 |
-| Space Crash | 7.00% | ~28 |
+| Space Crash | 7.00% | ~29 |
 | To war! | 6.00% | ~24 |
 | Hoarder | 6.00% | ~24 |
 | Event Master | 5.00% | ~20 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407 (Ranked 321)  
+Progressed: 408 (Ranked 320)  
 Completed: 2 (0.49%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 2 (0.49%) (Ranked 203)
 | 2023-11-09 | 405 | 2 |
 | 2023-11-10 | 406 | 2 |
 | 2023-11-18 | 407 | 2 |
+| 2023-11-21 | 408 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

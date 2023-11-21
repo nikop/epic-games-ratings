@@ -25,8 +25,8 @@ Number of Ratings: 46  (23.09.2022)
 | Predator | 1.00% | ~1,594 |
 | Sharpened Vessel | 1.00% | ~1,594 |
 | Assimilation | 0.90% | ~1,435 |
+| Host | 0.90% | ~1,431 |
 | Celebration | 0.90% | ~1,435 |
-| Host | 0.80% | ~1,272 |
 | Hunt Down | 0.70% | ~1,116 |
 | All-Seeing | 0.70% | ~1,116 |
 | Artisan | 0.60% | ~956 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,390 (Ranked 78)  
+Progressed: 159,395 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-18 | 158,977 | 1 |
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
-| 2023-11-21 | 159,390 | 1 |
+| 2023-11-21 | 159,395 | 1 |
 ## Awards
 Max (Unique Visuals): 52  (Ranked 426)  
 Sum: 376 (Ranked 347)  

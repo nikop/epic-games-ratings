@@ -21,12 +21,12 @@
 | S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |
 | Deepest lore | 10.00% | ~4 |
+| Brute forcing | 5.00% | ~2 |
 | Pool party | 5.00% | ~2 |
 | Thanks for Buying | 2.00% | ~1 |
-| Brute forcing | 2.00% | ~1 |
+| Higher on the street | 2.00% | ~1 |
 | Dance machine | 2.00% | ~1 |
 | You never know! | 0.00% | ~0 |
-| Higher on the street | 0.00% | ~0 |
 | Arcade master | 0.00% | ~0 |
 | Real completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

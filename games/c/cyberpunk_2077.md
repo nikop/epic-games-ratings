@@ -33,11 +33,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.50% | ~4,488 |
 | Judy vs Night City | 0.50% | ~4,488 |
 | Dirty Deeds | 0.50% | ~131 |
+| The Wandering Fool | 0.40% | ~3,590 |
 | Two Heads, One Bullet | 0.40% | ~3,590 |
 | King of Wands | 0.40% | ~105 |
 | Easy Come, Easy Go | 0.40% | ~105 |
 | To Bad Decisions! | 0.30% | ~2,693 |
-| The Wandering Fool | 0.30% | ~2,693 |
 | The Sun | 0.30% | ~2,693 |
 | The Tower | 0.30% | ~79 |
 | Autojock | 0.20% | ~1,795 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897,589 (Ranked 15)  
+Progressed: 897,595 (Ranked 15)  
 Completed: 2,797 (0.31%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,10 +289,10 @@ Completed: 2,797 (0.31%) (Ranked 233)
 | 2023-11-18 | 897,256 | 2,786 |
 | 2023-11-19 | 897,430 | 2,789 |
 | 2023-11-20 | 897,531 | 2,794 |
-| 2023-11-21 | 897,589 | 2,797 |
+| 2023-11-21 | 897,595 | 2,797 |
 ## Awards
 Max (Character Customization): 106,367  (Ranked 9)  
-Sum: 358,908 (Ranked 10)  
+Sum: 358,967 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 20,301 |
 | This game is Extremely Fun | 20,056 |
 | This game has Amazing Characters | 19,922 |
-| This game is Relaxing | 19,116 |
+| This game is Relaxing | 19,175 |
 | This game has Quickly Understood Controls | 19,077 |
 | This game has a Creative Community | 13,301 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -616,4 +616,4 @@ Diff (max vs sum): -1
 | 2023-11-18 | 4.64 | - | 106,055 | 356,403 |
 | 2023-11-19 | 4.64 | - | 106,230 | 357,485 |
 | 2023-11-20 | 4.64 | - | 106,367 | 358,439 |
-| 2023-11-21 | 4.64 | - | 106,367 | 358,908 |
+| 2023-11-21 | 4.64 | - | 106,367 | 358,967 |

@@ -2,7 +2,7 @@
   "ID": "a7cada234b3840b88336f028778ff162",
   "Name": "Warhammer Age of Sigmar: Storm Ground",
   "ProductSlug": "warhammer-age-of-sigmar-storm-ground",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 753,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-03-05T07:58:17.1363018+00:00",
@@ -35,6 +35,12 @@
     {
       "Time": "2023-10-27T11:58:38.222416+00:00",
       "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-21T14:58:22.3211255+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -55,8 +61,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:43.2871759+00:00",
   "FirstSeenRating": "2023-03-05T07:58:17.1363016+00:00",
-  "LastChanged": "2023-10-27T11:58:38.2224159+00:00",
+  "LastChanged": "2023-11-21T14:58:22.3211254+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.3726167+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:58:12.9146627+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:08:42.074375+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:58:22.3211259+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:08:58.1023747+00:00"
 }

@@ -29,10 +29,10 @@
 | True Legends | 42.00% | ~320 |
 | Biggest Snowball Ever | 40.00% | ~305 |
 | Boosted! | 40.00% | ~305 |
+| Deadliest and Biggest Snowball Ever! | 40.00% | ~305 |
 | Family | 39.00% | ~297 |
 | Freeze The Ice Witch | 39.00% | ~297 |
 | Bullseye | 39.00% | ~297 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~297 |
 | It Is Not Over | 37.00% | ~282 |
 | On The Rocks | 37.00% | ~282 |
 | Never Gets Old | 33.00% | ~251 |
@@ -45,9 +45,9 @@
 | Handy Yeti | 8.00% | ~61 |
 | The Pied Piper Of Freljord | 6.00% | ~46 |
 | Braum's Poro Ranch | 4.00% | ~30 |
+| Rock Star | 3.00% | ~23 |
+| We Are Speed | 3.00% | ~23 |
 | Sneaky Notai | 2.00% | ~15 |
-| Rock Star | 2.00% | ~15 |
-| We Are Speed | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 762 (Ranked 276)  
 Completed: 7 (0.92%) (Ranked 170)  

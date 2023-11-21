@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 525)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~946 |
-| Whatever It Takes | 2.00% | ~946 |
-| Pork Chopped | 2.00% | ~946 |
+| One of Us | 2.00% | ~947 |
+| Whatever It Takes | 2.00% | ~947 |
+| Pork Chopped | 2.00% | ~947 |
 | Dr. Reed, I Presume? | 1.00% | ~7,218 |
 | Git Gutte! | 1.00% | ~7,218 |
 | Bookworm | 1.00% | ~7,218 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 525)
 | Ooh, Shiny! | 0.80% | ~5,774 |
 | A Patton Emerges | 0.80% | ~5,774 |
 | Our True Nature | 0.80% | ~5,774 |
-| Perks of the Job | 0.70% | ~5,052 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,052 |
-| I Am the Resurrection | 0.70% | ~5,052 |
-| Max Headroom | 0.70% | ~5,052 |
+| Perks of the Job | 0.70% | ~5,053 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~5,053 |
+| I Am the Resurrection | 0.70% | ~5,053 |
+| Max Headroom | 0.70% | ~5,053 |
 | Making Your Mark | 0.60% | ~4,331 |
 | Humanity Distilled | 0.60% | ~4,331 |
 | Down with the Sickness | 0.60% | ~4,331 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 525)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 721,776 (Ranked 21)  
+Progressed: 721,801 (Ranked 21)  
 Completed: 2,422 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,422 (0.34%) (Ranked 228)
 | 2023-11-18 | 720,462 | 2,409 |
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
-| 2023-11-21 | 721,776 | 2,422 |
+| 2023-11-21 | 721,801 | 2,422 |
 ## Awards
 Max (Great Boss Battles): 7,618  (Ranked 50)  
 Sum: 11,619 (Ranked 84)  

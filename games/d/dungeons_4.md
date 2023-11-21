@@ -25,17 +25,17 @@
 | Hard Work | 46.00% | ~147 |
 | The Big Eaty | 44.00% | ~141 |
 | Pure Dynamite! | 42.00% | ~134 |
-| “… like son” | 38.00% | ~122 |
-| Mana Cannon | 36.00% | ~115 |
+| “… like son” | 39.00% | ~125 |
+| Mana Cannon | 37.00% | ~118 |
 | Dungeonlord Gorgu | 34.00% | ~109 |
 | The Cathedral of Light | 33.00% | ~106 |
 | Shame! Shame! Shame! | 33.00% | ~106 |
 | Tanos' Crusade Against Thalya | 29.00% | ~93 |
 | Unstoppable Horde | 24.00% | ~77 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 23.00% | ~74 |
+| Master of the Undead | 23.00% | ~74 |
 | All’s Well That Ends Evil | 23.00% | ~74 |
 | Hungry, Hungry Gorgu! | 22.00% | ~70 |
-| Master of the Undead | 22.00% | ~70 |
 | The Duel | 21.00% | ~67 |
 | Forbidden Knowledge | 20.00% | ~64 |
 | Ghost Pirates? Ghost Heroes! | 18.00% | ~58 |
@@ -56,8 +56,8 @@
 | Rubble and Ashes | 8.00% | ~26 |
 | The Rune Sockets of Finitude (Part 2) | 8.00% | ~26 |
 | To Infinity And Beyond! | 7.00% | ~22 |
+| The Last Stand - This Time For Real! | 7.00% | ~22 |
 | To the Max! | 6.00% | ~19 |
-| The Last Stand - This Time For Real! | 6.00% | ~19 |
 | Gorgu is in the Best of Health | 5.00% | ~16 |
 | Laser Eyes Are So Useless | 5.00% | ~16 |
 | Hands Off My Stones | 4.00% | ~13 |

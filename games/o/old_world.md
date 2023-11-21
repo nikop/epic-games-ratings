@@ -137,6 +137,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
 | Adur Burzen-Mihr | 0.70% | ~108 |
+| Cataphract Archer | 0.70% | ~108 |
 | All Nations | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.60% | ~92 |
 | Learn to Play 5 | 0.60% | ~92 |
 | Old World Order | 0.60% | ~92 |
-| Cataphract Archer | 0.60% | ~92 |
 | No Undo | 0.60% | ~92 |
 | Kush | 0.60% | ~92 |
 | Beja Archer | 0.60% | ~92 |

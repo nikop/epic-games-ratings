@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3670,
+  "EOS_Progressed": 3671,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5598,6 +5598,11 @@
       "Time": "2023-11-21T11:03:52.2624373+00:00",
       "NumProgressed": 3670,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-21T15:03:49.3919312+00:00",
+      "NumProgressed": 3671,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5615,9 +5620,9 @@
       "ID": "AceDetective_9",
       "SetID": "c4hee28",
       "Name": "Ace Detective",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 294
     },
     {
       "ID": "AncestorsPride_13",
@@ -5793,7 +5798,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5825,7 +5830,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "Tapped_22",
@@ -5929,7 +5934,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2789
+      "UsersEstimate": 2790
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5944,15 +5949,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3670,
+      "Progressed": 3671,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-11-13T14:58:48.6646632+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:03:39.1687933+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:03:49.3919308+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:38.088089+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:59:14.5819264+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:03:39.1688459+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:59:23.0731909+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:03:49.391982+00:00"
 }

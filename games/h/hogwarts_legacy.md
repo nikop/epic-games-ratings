@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,402 |
-| First Class Student | 14.00% | ~42,352 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,403 |
+| First Class Student | 15.00% | ~45,378 |
 | Troll with the Punches | 14.00% | ~42,352 |
 | A Keen Sense of Spell | 13.00% | ~39,327 |
 | That's a Keeper | 13.00% | ~39,327 |
@@ -21,8 +21,8 @@ Rating: 4.76 (Ranked 125)
 | Coasting Along | 11.00% | ~33,277 |
 | Followed the Butterflies | 10.00% | ~30,252 |
 | Rising From the Ashes | 10.00% | ~30,252 |
-| A Sallow Grave | 9.00% | ~27,226 |
-| The Spell Master | 9.00% | ~27,226 |
+| A Sallow Grave | 9.00% | ~27,227 |
+| The Spell Master | 9.00% | ~27,227 |
 | The Avenging Gazelle | 8.00% | ~24,201 |
 | Beast Friends | 8.00% | ~24,201 |
 | Flight the Good Flight | 8.00% | ~24,201 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 125)
 | Room with a View | 4.00% | ~12,101 |
 | The Intrepid Explorer | 4.00% | ~12,101 |
 | The Wise Owl | 4.00% | ~12,101 |
-| Put Down Roots | 3.00% | ~9,075 |
-| The Auror's Apprentice | 3.00% | ~9,075 |
-| Floo Around the World | 3.00% | ~9,075 |
+| Put Down Roots | 3.00% | ~9,076 |
+| The Auror's Apprentice | 3.00% | ~9,076 |
+| Floo Around the World | 3.00% | ~9,076 |
 | The Good Samaritan | 2.00% | ~6,050 |
 | Rise to the Challenges | 2.00% | ~6,050 |
 | Demiguise Dread | 2.00% | ~6,050 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,118 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,515 (Ranked 54)  
+Progressed: 302,517 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 513 (0.17%) (Ranked 262)
 | 2023-11-18 | 302,354 | 512 |
 | 2023-11-19 | 302,449 | 512 |
 | 2023-11-20 | 302,491 | 513 |
-| 2023-11-21 | 302,515 | 513 |
+| 2023-11-21 | 302,517 | 513 |
 ## Awards
 Max (Character Customization): 24,503  (Ranked 17)  
 Sum: 48,750 (Ranked 30)  

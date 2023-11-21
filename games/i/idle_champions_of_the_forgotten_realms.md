@@ -19,6 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~472 |
 | Seeking Allies | 0.20% | ~472 |
 | Are Ya Chicken? | 0.20% | ~472 |
+| Mad Cow Disease | 0.20% | ~472 |
+| Friendly Imps | 0.20% | ~472 |
 | Reya Reborn | 0.20% | ~405 |
 | Maddening | 0.10% | ~236 |
 | Pros and CONs | 0.10% | ~236 |
@@ -279,7 +281,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~236 |
 | Dino Nightmare | 0.10% | ~236 |
 | A Familiar Friend | 0.10% | ~203 |
-| Mad Cow Disease | 0.10% | ~236 |
 | Exploring Port Nyanzaru | 0.10% | ~236 |
 | A Tale of Two Cities | 0.10% | ~236 |
 | A Tale of Two Fiends | 0.10% | ~236 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.10% | ~236 |
 | Rude Welcome | 0.10% | ~236 |
 | Underdeep Cartography | 0.10% | ~236 |
-| Friendly Imps | 0.10% | ~236 |
 | Overdue Rendezvous | 0.10% | ~236 |
 | Moose Tracks | 0.10% | ~203 |
 | An Awakened Axe | 0.10% | ~203 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~203 |
 | Time Out | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,229 (Ranked 64)  
+Progressed: 236,235 (Ranked 64)  
 Completed: 2,464 (1.04%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -754,7 +754,7 @@ Completed: 2,464 (1.04%) (Ranked 162)
 | 2023-11-18 | 235,810 | 2,458 |
 | 2023-11-19 | 236,022 | 2,459 |
 | 2023-11-20 | 236,146 | 2,463 |
-| 2023-11-21 | 236,229 | 2,464 |
+| 2023-11-21 | 236,235 | 2,464 |
 ## Awards
 Max (Great for Beginners): 5,547  (Ranked 70)  
 Sum: 32,551 (Ranked 41)  

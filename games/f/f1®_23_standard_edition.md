@@ -5,7 +5,7 @@ Rating: 4.67 (Ranked 274)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~5,494 |
+| Getting on the Step | 94.00% | ~5,495 |
 | On the Top Step | 88.00% | ~5,144 |
 | Setting up for Success | 77.00% | ~4,501 |
 | Team Orders | 75.00% | ~4,384 |
@@ -18,7 +18,7 @@ Rating: 4.67 (Ranked 274)
 | Challenge Yourself | 33.00% | ~1,929 |
 | Making History | 31.00% | ~1,812 |
 | Network Success | 27.00% | ~1,578 |
-| Writing a new Chapter | 25.00% | ~1,461 |
+| Writing a new Chapter | 25.00% | ~1,462 |
 | Spring Cleaning | 24.00% | ~1,403 |
 | Reduce | 20.00% | ~1,169 |
 | Ups and Downs | 20.00% | ~1,169 |
@@ -33,10 +33,10 @@ Rating: 4.67 (Ranked 274)
 | Hitting a Bullseye | 13.00% | ~760 |
 | Switcheroo | 13.00% | ~760 |
 | Spinning Around | 13.00% | ~760 |
-| All in a Weekend's Work | 12.00% | ~701 |
-| Friendly Competition | 12.00% | ~701 |
+| All in a Weekend's Work | 12.00% | ~702 |
+| Friendly Competition | 12.00% | ~702 |
 | Recycle | 11.00% | ~643 |
-| Tinkerer | 10.00% | ~584 |
+| Tinkerer | 10.00% | ~585 |
 | Undisputed Winner | 9.00% | ~526 |
 | Smooth Operator | 7.00% | ~409 |
 | For all Those Back at the Factory | 6.00% | ~351 |
@@ -55,7 +55,7 @@ Rating: 4.67 (Ranked 274)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,845 (Ranked 185)  
+Progressed: 5,846 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-18 | 5,803 | 0 |
 | 2023-11-19 | 5,825 | 0 |
 | 2023-11-20 | 5,836 | 0 |
-| 2023-11-21 | 5,845 | 0 |
+| 2023-11-21 | 5,846 | 0 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 468)  
 Sum: 120 (Ranked 432)  

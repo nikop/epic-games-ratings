@@ -807,9 +807,9 @@
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -879,9 +879,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -943,9 +943,9 @@
       "ID": "ach_main11blessing_undeadonly",
       "SetID": "4hg22ll",
       "Name": "Master of the Undead",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_main12race_completed",
@@ -1143,9 +1143,9 @@
       "ID": "ach_main20end_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand\u00A0- This Time For Real!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_main20end_notristan",
@@ -1174,8 +1174,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:03:30.7065835+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:03:41.1088463+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:06.921054+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:59:36.9641382+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:03:30.7066466+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:59:46.2440291+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:03:41.1088891+00:00"
 }

@@ -32,8 +32,8 @@
 | Very Elusive | 41.00% | ~552 |
 | Sentinel Ally | 40.00% | ~539 |
 | Head Hunter | 39.00% | ~525 |
+| Operative | 39.00% | ~525 |
 | Scholar | 39.00% | ~525 |
-| Operative | 38.00% | ~512 |
 | Veteran | 37.00% | ~498 |
 | The Archangel | 37.00% | ~498 |
 | The Professor | 37.00% | ~498 |

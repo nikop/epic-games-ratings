@@ -301,9 +301,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232549,
+  "EOS_Progressed": 232550,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22196,6 +22196,11 @@
       "Time": "2023-11-21T14:04:38.4238777+00:00",
       "NumProgressed": 232549,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-21T15:04:51.0545866+00:00",
+      "NumProgressed": 232550,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -22343,7 +22348,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -22415,7 +22420,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39533
+      "UsersEstimate": 39534
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -22423,14 +22428,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232549,
+      "Progressed": 232550,
       "Completed": 5
     }
   ],
@@ -22438,8 +22443,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-11-18T13:00:16.7419126+00:00",
-  "LastChanged_Achievements": "2023-11-21T14:04:38.4238774+00:00",
+  "LastChanged_Achievements": "2023-11-21T15:04:51.0545862+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:27.6645592+00:00",
-  "LastUpdate_Ratings": "2023-11-21T13:58:59.5776955+00:00",
-  "LastUpdate_Achievements": "2023-11-21T14:04:38.4239745+00:00"
+  "LastUpdate_Ratings": "2023-11-21T14:59:08.7986771+00:00",
+  "LastUpdate_Achievements": "2023-11-21T15:04:51.0547055+00:00"
 }
