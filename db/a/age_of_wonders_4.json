@@ -473,7 +473,7 @@
   ],
   "EOS_Progressed": 5428,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7384,9 +7384,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "22",
@@ -7640,9 +7640,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "47",
@@ -7775,8 +7775,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:04:28.6163919+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:04:48.5104128+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:02:45.9742034+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:04:28.6164693+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:02:45.6429527+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:04:48.510485+00:00"
 }

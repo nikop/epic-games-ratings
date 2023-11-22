@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1484,7 +1484,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 131078,
+  "EOS_Progressed": 131081,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -22619,6 +22619,11 @@
       "Time": "2023-11-22T22:04:24.659554+00:00",
       "NumProgressed": 131078,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-22T23:04:43.6426217+00:00",
+      "NumProgressed": 131081,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -22662,7 +22667,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23594
+      "UsersEstimate": 23595
     },
     {
       "ID": "ACH_COP_BAD",
@@ -22710,7 +22715,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36702
+      "UsersEstimate": 36703
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -22734,7 +22739,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20972
+      "UsersEstimate": 20973
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -22742,7 +22747,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27526
+      "UsersEstimate": 27527
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -22758,7 +22763,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17040
+      "UsersEstimate": 17041
     },
     {
       "ID": "ACH_COP_STAR",
@@ -22766,7 +22771,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20972
+      "UsersEstimate": 20973
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -22949,15 +22954,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 131078,
+      "Progressed": 131081,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-21T09:00:02.2217381+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:04:24.6595536+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:04:43.6426212+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:29.1969761+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:00:07.5974053+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:04:24.6596709+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:00:45.2659476+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:04:43.6427703+00:00"
 }

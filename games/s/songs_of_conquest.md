@@ -6,11 +6,11 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 28.00% | ~51 |
-| Double Kill | 20.00% | ~37 |
+| Adept | 29.00% | ~53 |
+| Double Kill | 21.00% | ~38 |
 | Critical Hit | 10.00% | ~18 |
 | Veteran | 9.00% | ~16 |
-| Dressed For Success | 5.00% | ~9 |
+| Dressed For Success | 6.00% | ~11 |
 | Humiliation | 5.00% | ~9 |
 | Sorcerous Spree | 4.00% | ~7 |
 | Veni, Vidi, Vici | 4.00% | ~7 |

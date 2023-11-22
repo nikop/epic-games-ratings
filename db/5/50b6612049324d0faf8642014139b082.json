@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2023-11-22T22:09:22.7755077+00:00",
       "NumProgressed": 343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T23:09:12.4012843+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -878,7 +883,7 @@
       "Name": "Gravel Guru",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_12",
@@ -926,7 +931,7 @@
       "Name": "Your first time?",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_18",
@@ -950,7 +955,7 @@
       "Name": "Team Principal",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_20",
@@ -990,7 +995,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_25",
@@ -998,7 +1003,7 @@
       "Name": "E-stonia",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_26",
@@ -1046,7 +1051,7 @@
       "Name": "NEW PB!",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_8",
@@ -1069,14 +1074,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:22.7755072+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:09:12.4012839+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:00:27.1940357+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:22.7755293+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:01:08.9719782+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:09:12.4013077+00:00"
 }

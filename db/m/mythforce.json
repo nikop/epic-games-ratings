@@ -776,7 +776,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5019,
+  "EOS_Progressed": 5020,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -9681,6 +9681,11 @@
       "Time": "2023-11-22T21:06:30.0177395+00:00",
       "NumProgressed": 5019,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T23:07:23.7026943+00:00",
+      "NumProgressed": 5020,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9725,7 +9730,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9845,7 +9850,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9876,15 +9881,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 5019,
+      "Progressed": 5020,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-16T17:59:46.2486356+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:06:39.0627018+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:07:23.7026936+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:01.4301139+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:59:26.2090089+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:06:39.0627689+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:59:54.4735686+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:07:23.7027502+00:00"
 }

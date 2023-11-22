@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trinity | 9.00% | ~18 |
+| Trinity | 10.00% | ~20 |
 | I Found It | 7.00% | ~14 |
 | Break Out | 6.00% | ~12 |
 | Powerful Allies | 6.00% | ~12 |
 | Adventurer | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
+| The Collector | 6.00% | ~12 |
 | Find Allies | 5.00% | ~10 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
 | Geared Up | 5.00% | ~10 |
-| The Collector | 5.00% | ~10 |
+| Fashion Victim | 5.00% | ~10 |
+| Stone Collection | 5.00% | ~10 |
 | Calm before the Storm | 4.00% | ~8 |
 | Tributes of Caladrias | 4.00% | ~8 |
 | Shatter Them All | 4.00% | ~8 |
-| Fashion Victim | 4.00% | ~8 |
-| Stone Collection | 4.00% | ~8 |
 | Essence Blow | 3.00% | ~6 |
 | Fine Feathers Make Fine Birds | 3.00% | ~6 |
 | To Battle | 2.00% | ~4 |

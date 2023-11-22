@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15262,
+  "EOS_Progressed": 15266,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11922,6 +11922,11 @@
       "Time": "2023-11-22T22:04:34.1793454+00:00",
       "NumProgressed": 15262,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T23:04:55.1094886+00:00",
+      "NumProgressed": 15266,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11982,7 +11987,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "16",
@@ -11990,7 +11995,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "17",
@@ -11998,7 +12003,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "18",
@@ -12014,7 +12019,7 @@
       "Name": "Martian Music",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "2",
@@ -12078,7 +12083,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "27",
@@ -12110,7 +12115,7 @@
       "Name": "Captain Drummer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "30",
@@ -12198,37 +12203,37 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15262,
+      "Progressed": 15266,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1216,
-      "Completed": 681
+      "Progressed": 1220,
+      "Completed": 682
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:04:34.1793449+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:04:55.1094881+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:00:49.1829203+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:04:34.1794212+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:01:36.560579+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:04:55.109568+00:00"
 }

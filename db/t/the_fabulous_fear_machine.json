@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -435,9 +435,9 @@
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "35",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:06:52.9908956+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:07:40.0800673+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:17.3101019+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:57:41.2551917+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:06:52.9909337+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:57:41.988334+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:07:40.0801011+00:00"
 }

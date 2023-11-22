@@ -8,6 +8,7 @@
 | You have three wishes left | 11.00% | ~4 |
 | Jung's dream | 8.00% | ~3 |
 | The battle of Great Britain | 8.00% | ~3 |
+| Pulp! Terror Tales in the Night | 8.00% | ~3 |
 | Pulp! Where Monsters Dwell | 8.00% | ~3 |
 | A continent with chemistry | 8.00% | ~3 |
 | Bread and bocaua | 5.00% | ~2 |
@@ -15,7 +16,6 @@
 | Giant | 5.00% | ~2 |
 | A rival with no options | 5.00% | ~2 |
 | The adventurer | 5.00% | ~2 |
-| Pulp! Terror Tales in the Night | 5.00% | ~2 |
 | ECO mode | 5.00% | ~2 |
 | You have two wishes left | 5.00% | ~2 |
 | You had one wish left | 3.00% | ~1 |

@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.47,
+  "Rating": 3.45,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -227,6 +227,12 @@
     {
       "Time": "2023-11-12T22:59:39.7154365+00:00",
       "Rating": 3.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-22T22:57:36.1602115+00:00",
+      "Rating": 3.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2940,9 +2946,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2023-11-12T22:59:39.7154363+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:08:28.1523871+00:00",
+  "LastChanged": "2023-11-22T22:57:36.1602113+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:08:08.8685846+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:21.147768+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:57:36.5915047+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:08:28.1524641+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:57:36.160212+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:08:08.8686527+00:00"
 }

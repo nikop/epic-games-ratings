@@ -2,9 +2,9 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -101,6 +101,11 @@
     {
       "Time": "2023-11-22T22:05:20.8498684+00:00",
       "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T23:05:50.4421365+00:00",
+      "NumProgressed": 22,
       "NumCompleted": 0
     }
   ],
@@ -224,9 +229,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -305,13 +310,13 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:05:20.849868+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:05:50.442136+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:00:08.2009949+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:05:20.8498832+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:00:46.1299397+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:05:50.4421518+00:00"
 }

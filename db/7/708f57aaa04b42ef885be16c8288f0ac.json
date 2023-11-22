@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5940,
+  "EOS_Progressed": 5943,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4122,6 +4122,11 @@
       "Time": "2023-11-22T22:09:10.2477678+00:00",
       "NumProgressed": 5940,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T23:08:57.6670709+00:00",
+      "NumProgressed": 5943,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4214,7 +4219,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "GarbageMan",
@@ -4278,7 +4283,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "NoMoreTotems",
@@ -4286,7 +4291,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NotLikeTheOthers",
@@ -4334,7 +4339,7 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ThisIsDharma",
@@ -4405,7 +4410,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5940,
+      "Progressed": 5943,
       "Completed": 7
     }
   ],
@@ -4413,8 +4418,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-21T21:59:36.2748065+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:10.2477675+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:08:57.6670704+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:59:38.0036188+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:10.2478157+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:00:08.9963354+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:08:57.6671123+00:00"
 }

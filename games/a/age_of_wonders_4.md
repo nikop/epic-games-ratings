@@ -24,13 +24,13 @@ Rating: 4.61 (Ranked 382)
 | Chaos Surge | 1.00% | ~54 |
 | Spoils of War | 1.00% | ~54 |
 | Intimidation Tactics | 0.90% | ~49 |
+| Tipping the Scales | 0.90% | ~49 |
 | Seal the Deal | 0.90% | ~49 |
 | Enchanted Archipelago | 0.80% | ~43 |
 | Digging for Treasure | 0.80% | ~43 |
 | My Final Form | 0.80% | ~43 |
 | Impenetrable Fortress | 0.80% | ~43 |
 | Here be Dragons | 0.80% | ~43 |
-| Tipping the Scales | 0.80% | ~43 |
 | Mighty Hoard | 0.80% | ~43 |
 | Dawn of the Dread | 0.80% | ~43 |
 | Return of the Wizard King | 0.70% | ~38 |
@@ -48,11 +48,11 @@ Rating: 4.61 (Ranked 382)
 | Pruning for Progress | 0.40% | ~22 |
 | I've Got Everything I Need Right Here | 0.30% | ~16 |
 | God Emperor | 0.30% | ~16 |
+| Eternal Lord | 0.30% | ~16 |
 | Grexolis | 0.30% | ~16 |
 | One for All, All for One | 0.30% | ~16 |
 | Duality | 0.30% | ~16 |
 | The Goddess of Nature | 0.20% | ~11 |
-| Eternal Lord | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | I Want to Break Free | 0.10% | ~5 |

@@ -17,30 +17,30 @@ Rating: 4.35 (Ranked 790)
 | Florette Duval | 54.00% | ~241 |
 | Order and Method | 52.00% | ~232 |
 | The Altercation | 50.00% | ~223 |
-| Truth from Within | 48.00% | ~214 |
+| Truth from Within | 49.00% | ~219 |
 | The Major | 47.00% | ~210 |
+| Curious and Beautiful | 45.00% | ~201 |
 | Comtesse Margaux de Vos | 45.00% | ~201 |
-| Curious and Beautiful | 44.00% | ~196 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~196 |
 | The Interrogations | 44.00% | ~196 |
-| Well-acquainted | 41.00% | ~183 |
+| Well-acquainted | 42.00% | ~187 |
 | Zakariya Demir | 41.00% | ~183 |
 | Well-read | 39.00% | ~174 |
-| Cassandra Van den Bosch | 37.00% | ~165 |
+| Cassandra Van den Bosch | 38.00% | ~169 |
 | The Secret | 37.00% | ~165 |
 | Gedeon Demir | 35.00% | ~156 |
 | Rehana Piette | 34.00% | ~152 |
 | Instinct is Marvellous | 33.00% | ~147 |
 | Ernesto da Silva | 33.00% | ~147 |
 | Inge Frank | 31.00% | ~138 |
+| The Search | 31.00% | ~138 |
 | Hugo Beckers | 30.00% | ~134 |
-| The Search | 30.00% | ~134 |
 | The Family | 28.00% | ~125 |
 | Well-travelled | 27.00% | ~120 |
-| Thinking of Everything | 26.00% | ~116 |
+| Thinking of Everything | 27.00% | ~120 |
+| Archibald Sterling | 26.00% | ~116 |
 | Viscount Edwin Van den Bosch | 26.00% | ~116 |
 | Exquisite Artwork | 25.00% | ~112 |
-| Archibald Sterling | 25.00% | ~112 |
 | Well-prepared | 21.00% | ~94 |
 | The Truth | 21.00% | ~94 |
 | I Like an Audience | 19.00% | ~85 |

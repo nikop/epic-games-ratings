@@ -2,9 +2,9 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 476,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -319,6 +319,11 @@
       "Time": "2023-11-18T17:09:52.599086+00:00",
       "NumProgressed": 60,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T23:08:47.423823+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -337,7 +342,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -385,7 +390,7 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -401,7 +406,7 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -417,7 +422,7 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -425,7 +430,7 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -473,7 +478,7 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 95,
       "UsersEstimate": 22
     },
@@ -505,7 +510,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 72,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -538,14 +543,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:01.7829304+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:08:47.4238224+00:00",
   "LastUpdate_AppInfo": "2023-11-18T02:57:12.4739818+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:59:33.8732819+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:01.7829596+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:00:04.648188+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:08:47.4238394+00:00"
 }

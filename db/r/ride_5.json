@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2222,
+  "EOS_Progressed": 2223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5207,6 +5207,11 @@
       "Time": "2023-11-22T22:09:32.762305+00:00",
       "NumProgressed": 2222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T23:09:23.8028287+00:00",
+      "NumProgressed": 2223,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5219,7 +5224,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5307,7 +5312,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5475,7 +5480,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5610,14 +5615,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2222,
+      "Progressed": 2223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:32.7623046+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:09:23.8028282+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:00:54.9030245+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:32.7623611+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:01:43.5629906+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:09:23.8028954+00:00"
 }

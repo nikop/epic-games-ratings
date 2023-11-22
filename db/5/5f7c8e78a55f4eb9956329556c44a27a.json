@@ -556,9 +556,9 @@
       "ID": "TINGWD_CHAP_END_02",
       "SetID": "c0imaa6",
       "Name": "A soundly led quest",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -763,8 +763,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:05:48.2093669+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:06:23.1725191+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:58:03.5639585+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:05:48.2093873+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:58:10.8766692+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:06:23.1725386+00:00"
 }

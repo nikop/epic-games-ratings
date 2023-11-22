@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -937,7 +937,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664944,
+  "EOS_Progressed": 664945,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
@@ -21392,6 +21392,11 @@
       "Time": "2023-11-22T21:06:11.652721+00:00",
       "NumProgressed": 664944,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-22T23:07:01.8208557+00:00",
+      "NumProgressed": 664945,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -21555,7 +21560,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113040
+      "UsersEstimate": 113041
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -21731,7 +21736,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5984
+      "UsersEstimate": 5985
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -21786,15 +21791,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664944,
+      "Progressed": 664945,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-11-21T18:57:31.4359499+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:06:21.0017944+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:07:01.8208553+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.8836+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:58:23.5026402+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:06:21.001913+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:58:34.8629235+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:07:01.8209762+00:00"
 }

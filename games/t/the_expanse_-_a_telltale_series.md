@@ -13,18 +13,18 @@ Rating: 4.56 (Ranked 491)
 | Impossible Objects | 5.00% | ~763 |
 | Safe Cracker | 5.00% | ~61 |
 | Zen Master | 5.00% | ~61 |
-| Stogie for Fogey | 4.00% | ~610 |
-| Drug Gifter | 4.00% | ~610 |
-| Spore Taste | 4.00% | ~610 |
-| Martian Music | 4.00% | ~610 |
-| Call it Even | 4.00% | ~610 |
-| Captain Drummer | 4.00% | ~610 |
+| Madame Undersecretary | 5.00% | ~61 |
+| Stogie for Fogey | 4.00% | ~611 |
+| Drug Gifter | 4.00% | ~611 |
+| Spore Taste | 4.00% | ~611 |
+| Martian Music | 4.00% | ~611 |
+| Call it Even | 4.00% | ~611 |
+| Captain Drummer | 4.00% | ~611 |
 | Keep Arjun in Check | 4.00% | ~49 |
-| Madame Undersecretary | 4.00% | ~49 |
 | Data Archivist | 3.00% | ~458 |
 | Heal Thy Medic | 3.00% | ~458 |
 | Khan's Revenge | 3.00% | ~458 |
-| Master Negotiator | 3.00% | ~36 |
+| Master Negotiator | 3.00% | ~37 |
 | Doctor Approved | 2.00% | ~305 |
 | Bottoms up! | 2.00% | ~305 |
 | Thorston Mayer | 2.00% | ~305 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,262 (Ranked 152)  
+Progressed: 15,266 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 247)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,262 | 35 |
+| 2023-11-22 | 15,266 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -16453,9 +16453,9 @@
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate in Babylon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
@@ -19115,8 +19115,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-21T15:57:15.4241342+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:06:01.0360154+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:06:39.0416323+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:58:01.3491254+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:06:01.036913+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:58:08.0048837+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:06:39.042758+00:00"
 }

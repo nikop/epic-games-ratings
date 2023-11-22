@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 79.00% | ~62 |
-| Something important | 76.00% | ~59 |
-| A piece of the story | 63.00% | ~49 |
-| Do what you have to | 45.00% | ~35 |
-| Scraps of love | 45.00% | ~35 |
-| The artist’s impression | 45.00% | ~35 |
-| It's covered up for a reason | 44.00% | ~34 |
+| Wanderer | 78.00% | ~62 |
+| Something important | 76.00% | ~60 |
+| A piece of the story | 62.00% | ~49 |
+| Do what you have to | 44.00% | ~35 |
+| Scraps of love | 44.00% | ~35 |
+| The artist’s impression | 44.00% | ~35 |
+| It's covered up for a reason | 43.00% | ~34 |
 | Refuse to look | 38.00% | ~30 |
 | Sign of weakness | 37.00% | ~29 |
 | Finished it | 29.00% | ~23 |
@@ -20,11 +20,11 @@
 | The tragedy unfolds | 14.00% | ~11 |
 | First steps | 13.00% | ~10 |
 | Whispers long forgotten | 13.00% | ~10 |
-| A new way | 12.00% | ~9 |
-| Breaking free | 12.00% | ~9 |
-| A Slice of Life | 12.00% | ~9 |
-| Debut | 12.00% | ~9 |
-| The art of movement | 12.00% | ~9 |
+| A new way | 11.00% | ~9 |
+| Breaking free | 11.00% | ~9 |
+| A Slice of Life | 11.00% | ~9 |
+| Debut | 11.00% | ~9 |
+| The art of movement | 11.00% | ~9 |
 | True Reflection | 10.00% | ~8 |
 | Another perspective | 9.00% | ~7 |
 | Sound Bite | 9.00% | ~7 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 455)  
+Progressed: 79 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,3 +92,4 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 75 | 0 |
 | 2023-11-20 | 77 | 0 |
 | 2023-11-21 | 78 | 0 |
+| 2023-11-22 | 79 | 0 |

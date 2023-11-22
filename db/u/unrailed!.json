@@ -2825,9 +2825,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 664647,
+  "EOS_Progressed": 664653,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1828,
+  "EOS_NewPlayers": 1818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27510,6 +27510,11 @@
       "Time": "2023-11-22T22:09:14.305864+00:00",
       "NumProgressed": 664647,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-22T23:09:02.5376692+00:00",
+      "NumProgressed": 664653,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -27521,7 +27526,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99697
+      "UsersEstimate": 99698
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -27537,7 +27542,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19939
+      "UsersEstimate": 19940
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -27561,7 +27566,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119636
+      "UsersEstimate": 119638
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -27569,7 +27574,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86404
+      "UsersEstimate": 86405
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -27649,7 +27654,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19939
+      "UsersEstimate": 19940
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -27689,7 +27694,7 @@
       "Name": "Marathon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19939
+      "UsersEstimate": 19940
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -27721,7 +27726,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19939
+      "UsersEstimate": 19940
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -27769,7 +27774,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112990
+      "UsersEstimate": 112991
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -27929,22 +27934,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33232
+      "UsersEstimate": 33233
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 664647,
+      "Progressed": 664653,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-22T14:59:18.4739173+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:14.3058636+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:09:02.5376686+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.4182742+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:58:52.0162547+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:14.3059806+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:59:11.9896781+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:09:02.5378589+00:00"
 }

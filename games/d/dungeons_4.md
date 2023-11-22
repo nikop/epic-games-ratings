@@ -38,11 +38,11 @@
 | Master of the Undead | 22.00% | ~76 |
 | The Duel | 21.00% | ~73 |
 | Forbidden Knowledge | 20.00% | ~69 |
-| Ghost Pirates? Ghost Heroes! | 18.00% | ~62 |
+| Ghost Pirates? Ghost Heroes! | 19.00% | ~66 |
 | If Looks Could Kill | 18.00% | ~62 |
 | The Finitude Drill | 17.00% | ~59 |
 | Sacrificial Pit = Garbage Disposal? | 16.00% | ~56 |
-| Stop Tanos! | 15.00% | ~52 |
+| Stop Tanos! | 16.00% | ~56 |
 | Doom Hill | 14.00% | ~49 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~45 |
 | Bonus Evilness | 12.00% | ~42 |
@@ -51,7 +51,7 @@
 | The Rune Sockets of Finitude (Part 1) | 11.00% | ~38 |
 | My Little Torture Chamber | 10.00% | ~35 |
 | Lavalumps on Ice! | 10.00% | ~35 |
-| The Rune Sockets of Finitude (Part 2) | 9.00% | ~31 |
+| The Rune Sockets of Finitude (Part 2) | 10.00% | ~35 |
 | Untouchable | 8.00% | ~28 |
 | Rubble and Ashes | 8.00% | ~28 |
 | To Infinity And Beyond! | 8.00% | ~28 |

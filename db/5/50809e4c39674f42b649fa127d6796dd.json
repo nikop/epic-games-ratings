@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -212,6 +212,11 @@
       "Time": "2023-11-22T22:08:10.3217703+00:00",
       "NumProgressed": 97,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T23:07:47.868276+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -278,7 +283,7 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -288,13 +293,13 @@
       "Name": "Perfect Run",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -302,7 +307,7 @@
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -310,7 +315,7 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -326,17 +331,17 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "FIRST_S_RANK",
@@ -344,13 +349,13 @@
       "Name": "Superior Ranking",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -376,7 +381,7 @@
       "Name": "The Beginning",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -414,9 +419,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -430,9 +435,9 @@
       "ID": "PORTAL_REPAIRED_ISLANAD1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Memories",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -534,7 +539,7 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 31
     }
@@ -543,14 +548,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:08:10.3217698+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:07:47.8682755+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:58:06.1705165+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:08:10.3218029+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:58:14.0676844+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:07:47.8683346+00:00"
 }

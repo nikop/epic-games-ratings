@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~73,313 |
-| Powergamer | 27.00% | ~68,257 |
-| Write that down | 25.00% | ~63,201 |
-| Barely scratched the surface | 25.00% | ~63,201 |
-| Guns, lots of guns | 13.00% | ~32,864 |
-| Collector | 12.00% | ~30,336 |
-| Elementary! | 9.00% | ~22,752 |
-| Griever | 8.00% | ~20,224 |
-| Pumpkin Jack | 8.00% | ~20,224 |
-| Wake up! | 8.00% | ~20,224 |
+| I will finish what you started | 29.00% | ~73,314 |
+| Powergamer | 27.00% | ~68,258 |
+| Write that down | 25.00% | ~63,202 |
+| Barely scratched the surface | 25.00% | ~63,202 |
+| Guns, lots of guns | 13.00% | ~32,865 |
+| Collector | 12.00% | ~30,337 |
+| Elementary! | 9.00% | ~22,753 |
+| Griever | 8.00% | ~20,225 |
+| Pumpkin Jack | 8.00% | ~20,225 |
+| Wake up! | 8.00% | ~20,225 |
 | It's honest work | 7.00% | ~17,696 |
 | Me smart | 6.00% | ~15,168 |
 | Trash compactor | 6.00% | ~15,168 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~506 |
 | Memory 5 | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,803 (Ranked 59)  
+Progressed: 252,807 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,14 +275,14 @@ Completed: 7 (0.00%) (Ranked 358)
 | 2023-11-19 | 252,566 | 7 |
 | 2023-11-20 | 252,667 | 7 |
 | 2023-11-21 | 252,752 | 7 |
-| 2023-11-22 | 252,803 | 7 |
+| 2023-11-22 | 252,807 | 7 |
 ## Awards
-Max (Character Customization): 90  (Ranked 378)  
-Sum: 90 (Ranked 452)  
-Diff (max vs sum): -74  
+Max (Character Customization): 91  (Ranked 377)  
+Sum: 91 (Ranked 450)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 90 |
+| This game has Inclusive Character Customization | 91 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -366,3 +366,4 @@ Diff (max vs sum): -74
 | 2023-10-29 | 4.29 | - | 87 | 87 |
 | 2023-11-01 | 4.29 | - | 88 | 88 |
 | 2023-11-10 | 4.29 | - | 90 | 90 |
+| 2023-11-22 | 4.29 | - | 91 | 91 |

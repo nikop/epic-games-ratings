@@ -235,9 +235,9 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "1",
@@ -283,9 +283,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "15",
@@ -484,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:04:07.1704324+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:04:23.2771274+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:22.5093035+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:57:14.545929+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:04:07.1704526+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:57:09.6060323+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:04:23.2771465+00:00"
 }

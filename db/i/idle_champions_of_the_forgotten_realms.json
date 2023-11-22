@@ -6,9 +6,9 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8239,9 +8239,9 @@
       "Count": 3530
     }
   ],
-  "EOS_Progressed": 236423,
+  "EOS_Progressed": 236428,
   "EOS_Completed": 2467,
-  "EOS_NewPlayers": 1230,
+  "EOS_NewPlayers": 1232,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -32519,6 +32519,11 @@
       "Time": "2023-11-22T22:09:35.482413+00:00",
       "NumProgressed": 236423,
       "NumCompleted": 2467
+    },
+    {
+      "Time": "2023-11-22T23:09:26.7965794+00:00",
+      "NumProgressed": 236428,
+      "NumCompleted": 2467
     }
   ],
   "TotalAchievements": 532,
@@ -32840,9 +32845,9 @@
       "ID": "objective_completed_1090",
       "SetID": "415jc5c",
       "Name": "Slack-jawed Lorna",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1091",
@@ -33072,9 +33077,9 @@
       "ID": "objective_completed_1138",
       "SetID": "415jc5c",
       "Name": "The Loots of Loomlurch",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1139",
@@ -33280,9 +33285,9 @@
       "ID": "objective_completed_1175",
       "SetID": "415jc5c",
       "Name": "Keep Your Distance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1178",
@@ -33312,9 +33317,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1184",
@@ -33336,9 +33341,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1189",
@@ -33520,9 +33525,9 @@
       "ID": "objective_completed_131",
       "SetID": "cc37lbc",
       "Name": "Lobsterfolk Assault",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_132",
@@ -33688,9 +33693,9 @@
       "ID": "objective_completed_155",
       "SetID": "cc37lbc",
       "Name": "Home Field Advantage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_156",
@@ -33776,9 +33781,9 @@
       "ID": "objective_completed_171",
       "SetID": "cc37lbc",
       "Name": "Sleuth It Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_172",
@@ -33800,9 +33805,9 @@
       "ID": "objective_completed_180",
       "SetID": "cc37lbc",
       "Name": "Never Split the Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_181",
@@ -33936,9 +33941,9 @@
       "ID": "objective_completed_216",
       "SetID": "cc37lbc",
       "Name": "Relentless Misfortune",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_230",
@@ -33960,9 +33965,9 @@
       "ID": "objective_completed_232",
       "SetID": "cc37lbc",
       "Name": "Modron Assistance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_233",
@@ -34000,9 +34005,9 @@
       "ID": "objective_completed_238",
       "SetID": "415jc5c",
       "Name": "This Quest Stinks!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_246",
@@ -34104,9 +34109,9 @@
       "ID": "objective_completed_267",
       "SetID": "cc37lbc",
       "Name": "Seeds of Deceit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_268",
@@ -34160,9 +34165,9 @@
       "ID": "objective_completed_281",
       "SetID": "415jc5c",
       "Name": "Home Not So Alone",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_283",
@@ -34176,17 +34181,17 @@
       "ID": "objective_completed_284",
       "SetID": "cc37lbc",
       "Name": "The Trepidatious Trio",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_285",
       "SetID": "cc37lbc",
       "Name": "Our Time To Shine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_286",
@@ -34496,9 +34501,9 @@
       "ID": "objective_completed_413",
       "SetID": "cc37lbc",
       "Name": "Towering Expectations",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_414",
@@ -34696,9 +34701,9 @@
       "ID": "objective_completed_542",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Champions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_543",
@@ -34840,9 +34845,9 @@
       "ID": "objective_completed_562",
       "SetID": "415jc5c",
       "Name": "Social Grace",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_563",
@@ -35024,9 +35029,9 @@
       "ID": "objective_completed_590",
       "SetID": "cc37lbc",
       "Name": "Lost in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_591",
@@ -35184,9 +35189,9 @@
       "ID": "objective_completed_613",
       "SetID": "415jc5c",
       "Name": "Nightmare Mode",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_615",
@@ -35208,9 +35213,9 @@
       "ID": "objective_completed_617",
       "SetID": "415jc5c",
       "Name": "Ettercap Swarm",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_618",
@@ -35272,9 +35277,9 @@
       "ID": "objective_completed_626",
       "SetID": "415jc5c",
       "Name": "Wait, What?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_627",
@@ -35680,9 +35685,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 236
     },
     {
       "ID": "objective_completed_71",
@@ -35832,9 +35837,9 @@
       "ID": "objective_completed_812",
       "SetID": "415jc5c",
       "Name": "The Sibriex",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_813",
@@ -35848,9 +35853,9 @@
       "ID": "objective_completed_814",
       "SetID": "415jc5c",
       "Name": "A Neutral Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_817",
@@ -35864,9 +35869,9 @@
       "ID": "objective_completed_818",
       "SetID": "415jc5c",
       "Name": "Relentless Peril",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_819",
@@ -36032,9 +36037,9 @@
       "ID": "objective_completed_852",
       "SetID": "415jc5c",
       "Name": "Waiting on Sunrise",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_853",
@@ -36112,9 +36117,9 @@
       "ID": "objective_completed_867",
       "SetID": "415jc5c",
       "Name": "The Battle of High Hall Tower",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_868",
@@ -36144,9 +36149,9 @@
       "ID": "objective_completed_873",
       "SetID": "415jc5c",
       "Name": "Gargauth\u0027s Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_877",
@@ -36184,9 +36189,9 @@
       "ID": "objective_completed_883",
       "SetID": "415jc5c",
       "Name": "Stragglers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_884",
@@ -36280,9 +36285,9 @@
       "ID": "objective_completed_902",
       "SetID": "415jc5c",
       "Name": "Tekeli-li\u0027s Hunt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_903",
@@ -36304,9 +36309,9 @@
       "ID": "objective_completed_918",
       "SetID": "415jc5c",
       "Name": "Neutral No More",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_919",
@@ -36360,9 +36365,9 @@
       "ID": "objective_completed_929",
       "SetID": "415jc5c",
       "Name": "Alien Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_930",
@@ -36536,17 +36541,17 @@
       "ID": "objective_completed_663",
       "SetID": "415jc5c",
       "Name": "Bazaar Companions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_668",
       "SetID": "415jc5c",
       "Name": "Bahamut\u0027s Army",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1375",
@@ -36560,9 +36565,9 @@
       "ID": "objective_completed_1376",
       "SetID": "415jc5c",
       "Name": "Luigi After Hours",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_completed_1380",
@@ -36785,21 +36790,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 202697,
+      "Progressed": 202702,
       "Completed": 3936
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 236423,
+      "Progressed": 236428,
       "Completed": 2467
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-22T21:57:49.5338651+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:35.4824126+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:09:26.796579+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:26.0820595+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:57:49.5338657+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:35.4846186+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:57:53.0749086+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:09:26.7986712+00:00"
 }

@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.80% | ~123 |
 | Turreted Elephant | 0.80% | ~123 |
 | Poetic Leader | 0.80% | ~123 |
+| Ishtar Gate in Babylon | 0.70% | ~108 |
 | Peacemaker | 0.70% | ~108 |
 | Noble Difficulty | 0.70% | ~108 |
 | Cao'an | 0.70% | ~108 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.70% | ~108 |
 | The Great Mage | 0.70% | ~108 |
 | Kmt Unified | 0.70% | ~108 |
-| Ishtar Gate in Babylon | 0.60% | ~93 |
 | Carthage - Ox Hide | 0.60% | ~93 |
 | Learn to Play 5 | 0.60% | ~93 |
 | Old World Order | 0.60% | ~93 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -2464,6 +2464,11 @@
       "Time": "2023-11-20T23:05:45.67935+00:00",
       "NumProgressed": 569,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T23:07:02.4375368+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2475,7 +2480,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2483,7 +2488,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2586,14 +2591,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:06:21.5594216+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:07:02.4375364+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:56:59.3122643+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:59:41.4172941+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:06:21.5594461+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:00:13.5778191+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:07:02.4375623+00:00"
 }

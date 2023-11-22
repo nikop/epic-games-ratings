@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 1028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2440,9 +2440,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 946
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -2584,9 +2584,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 946
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -2616,17 +2616,17 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 792
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
       "SetID": "5fn8ia4",
       "Name": "Cleaning Up",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 946
     },
     {
       "ID": "GSS_ACH_31_TRASH_02",
@@ -3057,8 +3057,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:05:27.6598039+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:05:58.6845845+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-22T22:00:41.803522+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:05:27.6599007+00:00"
+  "LastUpdate_Ratings": "2023-11-22T23:01:27.0987514+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:05:58.6846751+00:00"
 }

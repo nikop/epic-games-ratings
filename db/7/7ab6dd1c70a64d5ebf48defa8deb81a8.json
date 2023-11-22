@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -876,9 +876,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_11",
@@ -996,9 +996,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_26",
@@ -1044,9 +1044,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_33",
@@ -1060,9 +1060,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_35",
@@ -1099,8 +1099,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:09:29.1797735+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:09:19.8610003+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:57:12.2263289+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:09:29.1798038+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:57:07.1739224+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:09:19.8610292+00:00"
 }

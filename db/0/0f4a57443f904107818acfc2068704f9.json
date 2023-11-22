@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 419,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -897,6 +897,11 @@
       "Time": "2023-11-22T22:04:52.1327983+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T23:05:16.5943289+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -925,7 +930,7 @@
       "Name": "Chosen Victor",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -965,7 +970,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 302
     },
     {
       "ID": "CompleteChapter10",
@@ -973,7 +978,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteChapter11",
@@ -981,7 +986,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteChapter12",
@@ -989,7 +994,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CompleteChapter13",
@@ -997,15 +1002,15 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteChapter15",
@@ -1051,9 +1056,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 218
     },
     {
       "ID": "CompleteChapter3",
@@ -1061,15 +1066,15 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "CompleteChapter4",
       "SetID": "52ail55",
       "Name": "Servant of the Blue Raven",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 109
     },
     {
       "ID": "CompleteChapter5",
@@ -1077,7 +1082,7 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CompleteChapter6",
@@ -1085,7 +1090,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CompleteChapter7",
@@ -1093,7 +1098,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CompleteChapter8",
@@ -1109,7 +1114,7 @@
       "Name": "Ingredients List",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1157,7 +1162,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1181,7 +1186,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1189,7 +1194,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -1204,14 +1209,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 419,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-22T22:04:52.1327979+00:00",
+  "LastChanged_Achievements": "2023-11-22T23:05:16.5943283+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:57:42.6491763+00:00",
-  "LastUpdate_Achievements": "2023-11-22T22:04:52.1328313+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:57:43.7490193+00:00",
+  "LastUpdate_Achievements": "2023-11-22T23:05:16.594368+00:00"
 }
