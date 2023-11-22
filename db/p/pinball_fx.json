@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2023,9 +2023,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 280837,
+  "EOS_Progressed": 280839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26703,6 +26703,11 @@
       "Time": "2023-11-22T02:30:18.3518179+00:00",
       "NumProgressed": 280837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T03:05:34.3462921+00:00",
+      "NumProgressed": 280839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -26834,7 +26839,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11233
+      "UsersEstimate": 11234
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -26938,7 +26943,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 230286
+      "UsersEstimate": 230288
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -26953,15 +26958,15 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 280837,
+      "Progressed": 280839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-18T05:02:55.7382742+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:30:18.3518176+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:05:34.3462909+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:52.7413731+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:28:21.7398581+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:30:18.3519607+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:03:17.6407729+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:05:34.3464017+00:00"
 }

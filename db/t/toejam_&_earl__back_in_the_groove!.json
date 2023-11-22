@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57907,
+  "EOS_Progressed": 57908,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12876,6 +12876,11 @@
       "Time": "2023-11-22T01:57:39.5994051+00:00",
       "NumProgressed": 57907,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T03:08:37.5020016+00:00",
+      "NumProgressed": 57908,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12951,7 +12956,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "FlyingPresent",
@@ -13223,7 +13228,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "TimelySplash",
@@ -13278,7 +13283,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57907,
+      "Progressed": 57908,
       "Completed": 6
     }
   ],
@@ -13286,8 +13291,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:33:41.5662039+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:08:37.502001+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.5926184+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:25:58.4942563+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:33:41.5663047+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:01:36.7916026+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:08:37.5021034+00:00"
 }

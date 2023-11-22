@@ -220,9 +220,9 @@
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -236,9 +236,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 108,
+      "Percentage": 113,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -324,9 +324,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:33:26.4113781+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:08:19.8840026+00:00",
   "LastUpdate_AppInfo": "2023-11-21T16:57:12.6068071+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:22:53.7182578+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:33:26.4114029+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:57:48.2868842+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:08:19.8840262+00:00"
 }

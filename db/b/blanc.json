@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2938,
+  "EOS_Progressed": 2939,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4206,6 +4206,11 @@
       "Time": "2023-11-22T02:28:49.1417621+00:00",
       "NumProgressed": 2938,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T03:03:51.1327794+00:00",
+      "NumProgressed": 2939,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4249,7 +4254,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "REUNION",
@@ -4281,7 +4286,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4320,7 +4325,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2938,
+      "Progressed": 2939,
       "Completed": 6
     }
   ],
@@ -4328,8 +4333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:28:49.1417617+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:03:51.1327789+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:17.4994195+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:24:42.3064384+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:28:49.141793+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:59:58.1908008+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:03:51.1328026+00:00"
 }

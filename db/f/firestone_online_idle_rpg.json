@@ -493,9 +493,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 2529,
+  "EOS_Progressed": 2530,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -7643,6 +7643,11 @@
       "Time": "2023-11-22T02:34:11.9139074+00:00",
       "NumProgressed": 2529,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-22T03:09:12.262284+00:00",
+      "NumProgressed": 2530,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -7822,7 +7827,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "exoticmerchant",
@@ -7838,7 +7843,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "fourleafclover",
@@ -7862,7 +7867,7 @@
       "Name": "Full Party",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "gearenchanting",
@@ -7982,7 +7987,7 @@
       "Name": "Milestone collector",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "minerclicker",
@@ -8014,7 +8019,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "mythicpower",
@@ -8054,7 +8059,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "relicofthepast",
@@ -8102,7 +8107,7 @@
       "Name": "Superior",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "templeofeternals",
@@ -8214,7 +8219,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "warmachinesarmy",
@@ -8246,14 +8251,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2529,
+      "Progressed": 2530,
       "Completed": 2
     }
   ],
@@ -8261,8 +8266,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-21T23:59:41.8144849+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:34:11.913907+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:09:12.2622837+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:33.5358091+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:25:05.4056358+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:34:11.9139886+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:00:29.2423788+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:09:12.2623647+00:00"
 }

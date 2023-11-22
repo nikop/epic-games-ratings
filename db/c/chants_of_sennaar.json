@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 643,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.44,
   "EosHistory": [
@@ -2875,9 +2875,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 116
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2899,9 +2899,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 199
     },
     {
       "ID": "PROGRESS_N2",
@@ -2946,8 +2946,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:31:22.817581+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:06:48.1463668+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:23:24.5356626+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:31:22.8176034+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:58:26.3575783+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:06:48.1463871+00:00"
 }

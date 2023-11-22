@@ -83,6 +83,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.80% | ~1,127 |
 | Item of Renown | 0.80% | ~1,127 |
 | Master Merchant | 0.80% | ~1,127 |
+| Bountiful Harvest | 0.80% | ~1,127 |
 | Precision Engineering | 0.80% | ~1,127 |
 | Attrition Mission | 0.80% | ~1,127 |
 | Glittering Collection | 0.80% | ~1,127 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.70% | ~986 |
 | Industrial Evolution | 0.70% | ~986 |
 | A Legend is Born | 0.70% | ~986 |
-| Bountiful Harvest | 0.70% | ~986 |
 | King's Shadow | 0.70% | ~986 |
 | Economy of Scarce | 0.70% | ~986 |
 | Jackpot! | 0.60% | ~845 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,896 (Ranked 80)  
+Progressed: 140,898 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,896 | 191 |
+| 2023-11-22 | 140,898 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,573 (Ranked 50)  

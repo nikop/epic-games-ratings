@@ -497,9 +497,9 @@
       "ID": "TINGWD_BUZZ",
       "SetID": "c0imaa6",
       "Name": "To infinity and beyond!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -529,9 +529,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -561,9 +561,9 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -705,9 +705,9 @@
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 120,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:30:49.8467744+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:06:10.0651813+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:22:51.3905288+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:30:49.8467921+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:57:45.3808069+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:06:10.0652143+00:00"
 }

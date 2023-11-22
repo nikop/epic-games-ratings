@@ -657,7 +657,7 @@
       "Count": 89
     }
   ],
-  "EOS_Progressed": 54929,
+  "EOS_Progressed": 54931,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1994,
   "EOS_NewCompleters": 4,
@@ -10517,6 +10517,11 @@
       "Time": "2023-11-22T02:29:16.5463761+00:00",
       "NumProgressed": 54929,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-22T03:04:22.5965571+00:00",
+      "NumProgressed": 54931,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -10641,7 +10646,7 @@
       "Name": "Student",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 11535
+      "UsersEstimate": 11536
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -10729,7 +10734,7 @@
       "Name": "Initiation",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 15380
+      "UsersEstimate": 15381
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -10737,7 +10742,7 @@
       "Name": "Vorsa",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "MERMAID_FREE",
@@ -10777,7 +10782,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6591
+      "UsersEstimate": 6592
     },
     {
       "ID": "NORMAL_END",
@@ -10841,7 +10846,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "TALES_1",
@@ -10873,7 +10878,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "WATER",
@@ -10928,15 +10933,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 54929,
+      "Progressed": 54931,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-20T17:59:10.8356639+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:29:16.5463758+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:04:22.5965565+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7853183+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:25:43.2544726+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:29:16.54644+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:01:17.0671205+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:04:22.5966246+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
@@ -411,9 +411,9 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 145,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:34:48.7302243+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:09:54.9264543+00:00",
   "LastUpdate_AppInfo": "2023-11-21T06:56:53.6558312+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:23:18.5498516+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:34:48.7302374+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:58:18.0239329+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:09:54.9264628+00:00"
 }

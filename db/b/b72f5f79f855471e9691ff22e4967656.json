@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -709,9 +709,9 @@
       "ID": "killPlant20",
       "SetID": "ci65fo0",
       "Name": "Weed killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "killPlant5",
@@ -877,9 +877,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "questBuildShip",
@@ -1138,8 +1138,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:31:45.8735526+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:07:15.2736125+00:00",
   "LastUpdate_AppInfo": "2023-11-15T18:57:28.7985949+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:24:45.1739543+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:31:45.8736062+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:00:02.165129+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:07:15.273668+00:00"
 }

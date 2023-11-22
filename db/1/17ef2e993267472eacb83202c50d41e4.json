@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8156,
+  "EOS_Progressed": 8158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6961,6 +6961,11 @@
       "Time": "2023-11-22T02:34:56.287417+00:00",
       "NumProgressed": 8156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T03:10:03.3968101+00:00",
+      "NumProgressed": 8158,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -7093,7 +7098,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "GamesPlayed10",
@@ -7381,7 +7386,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "NeutralKills200",
@@ -7397,7 +7402,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "PlayerKills10",
@@ -7533,7 +7538,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "TSUPurchased1",
@@ -7564,7 +7569,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 8156,
+      "Progressed": 8158,
       "Completed": 1
     }
   ],
@@ -7572,8 +7577,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:34:56.2874165+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:10:03.3968098+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:59.0760497+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:28:03.6914753+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:34:56.2874926+00:00"
+  "LastUpdate_Ratings": "2023-11-22T03:02:55.4977771+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:10:03.3969024+00:00"
 }

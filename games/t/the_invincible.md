@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 35.00% | ~72 |
-| The Teleprobe | 30.00% | ~62 |
+| The Teleprobe | 29.00% | ~60 |
 | The City | 28.00% | ~58 |
 | The field base | 27.00% | ~56 |
 | Survivors | 25.00% | ~52 |
@@ -34,7 +34,7 @@
 | I leave no man behind | 1.00% | ~2 |
 | No more mistakes | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 380)  
+Progressed: 207 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 181 | 0 |
 | 2023-11-20 | 187 | 0 |
 | 2023-11-21 | 204 | 0 |
-| 2023-11-22 | 206 | 0 |
+| 2023-11-22 | 207 | 0 |

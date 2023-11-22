@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~953 |
-| Whatever It Takes | 2.00% | ~953 |
-| Pork Chopped | 2.00% | ~953 |
+| One of Us | 2.00% | ~954 |
+| Whatever It Takes | 2.00% | ~954 |
+| Pork Chopped | 2.00% | ~954 |
 | Dr. Reed, I Presume? | 1.00% | ~7,221 |
 | Git Gutte! | 1.00% | ~7,221 |
 | Bookworm | 1.00% | ~7,221 |
@@ -19,11 +19,11 @@ Rating: 4.54 (Ranked 527)
 | Apex Predator | 1.00% | ~7,221 |
 | Stacking the Deck | 1.00% | ~7,221 |
 | Personal Assistant Personally Assisted | 1.00% | ~7,221 |
+| This is My Weapon | 1.00% | ~7,221 |
 | Welcome To Hell-A | 1.00% | ~7,221 |
 | Anger Management | 0.90% | ~6,499 |
 | But Doctor, I am Butcho | 0.90% | ~6,499 |
 | Can't Handle the Truth | 0.90% | ~6,499 |
-| This is My Weapon | 0.90% | ~6,499 |
 | Perks of the Job | 0.80% | ~5,777 |
 | Slayer Squad | 0.80% | ~5,777 |
 | Like Riding a Bike | 0.80% | ~5,777 |
@@ -41,10 +41,10 @@ Rating: 4.54 (Ranked 527)
 | Jumbo Keyring | 0.50% | ~3,611 |
 | Go, Bobcats! | 0.50% | ~3,611 |
 | Rising Star | 0.50% | ~3,611 |
-| On Safari | 0.40% | ~2,888 |
-| Smorgasbord | 0.40% | ~2,888 |
-| Internet Famous | 0.40% | ~2,888 |
-| Variety is the Spice of Death | 0.40% | ~2,888 |
+| On Safari | 0.40% | ~2,889 |
+| Smorgasbord | 0.40% | ~2,889 |
+| Internet Famous | 0.40% | ~2,889 |
+| Variety is the Spice of Death | 0.40% | ~2,889 |
 | Make it So | 0.30% | ~2,166 |
 | LA Influential | 0.30% | ~2,166 |
 | Gore Horse | 0.30% | ~2,166 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,120 (Ranked 21)  
+Progressed: 722,134 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,120 | 2,423 |
+| 2023-11-22 | 722,134 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,660 (Ranked 84)  

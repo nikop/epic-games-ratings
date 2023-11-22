@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 383,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 211,
+  "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 440,
@@ -4491,10 +4491,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2087,
       "NumberOfAwardsMax": 293
+    },
+    {
+      "Time": "2023-11-22T02:58:59.3062028+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2089,
+      "NumberOfAwardsMax": 293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2087,
+  "NumberOfAwards": 2089,
   "NumberOfAwardsMax": 293,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4520,7 +4526,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 268
+      "Count": 270
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4570,8 +4576,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-11-21T19:58:13.9973774+00:00",
+  "LastChanged": "2023-11-22T02:58:59.3062026+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:40.2831209+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:23:51.4352165+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:31:55.2005552+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:58:59.3062031+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:07:26.3179186+00:00"
 }

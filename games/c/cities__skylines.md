@@ -6,24 +6,24 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~845,180 |
-| Green Energy | 60.00% | ~714,237 |
-| Foggy Weather | 59.00% | ~702,333 |
-| Singing In The- | 59.00% | ~702,333 |
-| Unpopular Mayor | 40.00% | ~476,158 |
-| Power at Your Fingertips | 33.00% | ~392,830 |
-| City Planner | 22.00% | ~261,887 |
-| Rolling in Dough | 20.00% | ~238,079 |
-| Does My Bum Look Big In This? | 17.00% | ~202,367 |
-| Climbing the Social Ladder | 16.00% | ~190,463 |
-| Safe City | 14.00% | ~166,655 |
-| Quay-King | 11.00% | ~130,943 |
-| Lawmaker | 10.00% | ~119,040 |
-| With Canals You Can! | 10.00% | ~119,040 |
-| Nomen Est Omen | 7.00% | ~83,328 |
-| Well Informed | 6.00% | ~71,424 |
-| Fire Watch | 5.00% | ~59,520 |
-| Greenest City | 4.00% | ~47,616 |
+| Pioneer | 71.00% | ~845,195 |
+| Green Energy | 60.00% | ~714,249 |
+| Foggy Weather | 59.00% | ~702,345 |
+| Singing In The- | 59.00% | ~702,345 |
+| Unpopular Mayor | 40.00% | ~476,166 |
+| Power at Your Fingertips | 33.00% | ~392,837 |
+| City Planner | 22.00% | ~261,891 |
+| Rolling in Dough | 20.00% | ~238,083 |
+| Does My Bum Look Big In This? | 17.00% | ~202,371 |
+| Climbing the Social Ladder | 16.00% | ~190,466 |
+| Safe City | 14.00% | ~166,658 |
+| Quay-King | 11.00% | ~130,946 |
+| Lawmaker | 10.00% | ~119,042 |
+| With Canals You Can! | 10.00% | ~119,042 |
+| Nomen Est Omen | 7.00% | ~83,329 |
+| Well Informed | 6.00% | ~71,425 |
+| Fire Watch | 5.00% | ~59,521 |
+| Greenest City | 4.00% | ~47,617 |
 | Heavenly City | 3.00% | ~35,712 |
 | Reporting! | 3.00% | ~35,712 |
 | SIMulated City | 3.00% | ~35,712 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,190 |
 | Z00 | 0.10% | ~1,190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,190,395 (Ranked 11)  
+Progressed: 1,190,415 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 10 (0.00%) (Ranked 357)
 | 2023-11-19 | 1,187,336 | 10 |
 | 2023-11-20 | 1,188,798 | 10 |
 | 2023-11-21 | 1,190,248 | 10 |
-| 2023-11-22 | 1,190,395 | 10 |
+| 2023-11-22 | 1,190,415 | 10 |
 ## Awards
 Max (Great for Beginners): 6,258  (Ranked 60)  
-Sum: 46,449 (Ranked 31)  
+Sum: 46,454 (Ranked 31)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 5,685 |
 | This game is Extremely Fun | 5,333 |
 | This game is Highly Recommended | 5,188 |
-| This game has Amazing Storytelling | 4,282 |
+| This game has Amazing Storytelling | 4,287 |
 | This game has a Creative Community | 4,110 |
 | This game has Amazing Characters | 3,641 |
 | This game has Obsessive Gameplay | 2,497 |
@@ -662,3 +662,4 @@ Diff (max vs sum): 29
 | 2023-11-19 | 4.66 | - | 6,237 | 46,329 |
 | 2023-11-20 | 4.66 | - | 6,249 | 46,394 |
 | 2023-11-21 | 4.66 | - | 6,258 | 46,449 |
+| 2023-11-22 | 4.66 | - | 6,258 | 46,454 |

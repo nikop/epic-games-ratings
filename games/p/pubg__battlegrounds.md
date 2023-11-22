@@ -5,11 +5,11 @@ Rating: 3.97 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 72.00% | ~520,523 |
+| Blood on My Hands | 72.00% | ~520,524 |
 | Health Junkie | 39.00% | ~281,950 |
-| You Complete Me | 38.00% | ~274,720 |
-| Guardian Angel | 34.00% | ~245,802 |
-| Devil Inside Me | 26.00% | ~187,966 |
+| You Complete Me | 38.00% | ~274,721 |
+| Guardian Angel | 34.00% | ~245,803 |
+| Devil Inside Me | 26.00% | ~187,967 |
 | Fantastic Four | 19.00% | ~137,360 |
 | Killing Spree | 18.00% | ~130,131 |
 | Marksman Novice | 16.00% | ~115,672 |
@@ -17,10 +17,10 @@ Rating: 3.97 (Ranked 1,005)
 | Top 10 | 12.00% | ~86,754 |
 | Now You See Me, Now You Don't | 10.00% | ~72,295 |
 | Marksman Expert | 8.00% | ~57,836 |
-| CQB Novice | 7.00% | ~50,606 |
+| CQB Novice | 7.00% | ~50,607 |
 | Collateral Damage | 6.00% | ~43,377 |
 | Airborne | 6.00% | ~43,377 |
-| Pacifist | 5.00% | ~36,147 |
+| Pacifist | 5.00% | ~36,148 |
 | Last Survivor | 4.00% | ~28,918 |
 | Marksman Master | 3.00% | ~21,688 |
 | Trigonometry Novice | 3.00% | ~21,688 |
@@ -32,9 +32,9 @@ Rating: 3.97 (Ranked 1,005)
 | Don't Pan Me Bro! | 2.00% | ~14,459 |
 | Fast and Furious | 2.00% | ~14,459 |
 | CQB Expert | 2.00% | ~14,459 |
-| Fury Road | 1.00% | ~7,229 |
-| Ghost | 1.00% | ~7,229 |
-| Cruising with the Enemy | 1.00% | ~7,229 |
+| Fury Road | 1.00% | ~7,230 |
+| Ghost | 1.00% | ~7,230 |
+| Cruising with the Enemy | 1.00% | ~7,230 |
 | Nade King Novice | 0.80% | ~5,784 |
 | Master Assassin | 0.80% | ~5,784 |
 | CQB Master | 0.40% | ~2,892 |
@@ -43,7 +43,7 @@ Rating: 3.97 (Ranked 1,005)
 | Nade King Master | 0.10% | ~723 |
 | Shoot the Knee | 0.10% | ~723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,948 (Ranked 20)  
+Progressed: 722,950 (Ranked 20)  
 Completed: 11 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 11 (0.00%) (Ranked 357)
 | 2023-11-19 | 718,993 | 11 |
 | 2023-11-20 | 720,912 | 11 |
 | 2023-11-21 | 722,890 | 11 |
-| 2023-11-22 | 722,948 | 11 |
+| 2023-11-22 | 722,950 | 11 |
 ## Awards
 Max (Competitive Players): 4,832  (Ranked 75)  
 Sum: 15,832 (Ranked 66)  

@@ -35,6 +35,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.20% | ~3 |
 | Plague Doctor | 0.20% | ~3 |
 | In Soil, In Smoke | 0.20% | ~3 |
+| Wingknight's Prowess | 0.20% | ~3 |
 | All My Birds, Safely Home | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Into Mulch | 0.20% | ~3 |
@@ -45,7 +46,6 @@ Number of Ratings: 45  (23.09.2022)
 | The Power of Friendship | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
-| Wingknight's Prowess | 0.10% | ~1 |
 | War-Ender | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |

@@ -2,7 +2,7 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 119,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -802,6 +802,11 @@
       "Time": "2023-11-22T02:29:52.1121219+00:00",
       "NumProgressed": 343,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T03:05:03.7947934+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -870,7 +875,7 @@
       "Name": "Pathfinder",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 246
     },
     {
       "ID": "CompleteChapter10",
@@ -894,7 +899,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteChapter13",
@@ -910,7 +915,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteChapter15",
@@ -918,7 +923,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteChapter16",
@@ -926,7 +931,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CompleteChapter17",
@@ -958,15 +963,15 @@
       "Name": "Met the Enemy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 180
     },
     {
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "CompleteChapter4",
@@ -982,7 +987,7 @@
       "Name": "Breathing Easy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CompleteChapter6",
@@ -1014,7 +1019,7 @@
       "Name": "Ingredients List",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1060,9 +1065,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1086,7 +1091,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1109,14 +1114,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 346,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:29:52.1121215+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:05:03.7947931+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:22:29.5100625+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:29:52.1121469+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:57:18.6898458+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:05:03.7948132+00:00"
 }

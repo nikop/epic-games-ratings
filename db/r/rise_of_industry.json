@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753771,
+  "EOS_Progressed": 753773,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24989,6 +24989,11 @@
       "Time": "2023-11-22T02:31:16.1379432+00:00",
       "NumProgressed": 753771,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T03:06:40.1508854+00:00",
+      "NumProgressed": 753773,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -25064,7 +25069,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278895
+      "UsersEstimate": 278896
     },
     {
       "ID": "ach_demolish_trees",
@@ -25128,7 +25133,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361810
+      "UsersEstimate": 361811
     },
     {
       "ID": "ach_produced",
@@ -25144,7 +25149,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 120603
+      "UsersEstimate": 120604
     },
     {
       "ID": "ach_raise_money",
@@ -25208,14 +25213,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 143216
+      "UsersEstimate": 143217
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753771,
+      "Progressed": 753773,
       "Completed": 4
     }
   ],
@@ -25223,8 +25228,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-22T02:31:16.1379429+00:00",
+  "LastChanged_Achievements": "2023-11-22T03:06:40.150885+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-22T02:23:29.7980005+00:00",
-  "LastUpdate_Achievements": "2023-11-22T02:31:16.1380846+00:00"
+  "LastUpdate_Ratings": "2023-11-22T02:58:32.9105981+00:00",
+  "LastUpdate_Achievements": "2023-11-22T03:06:40.1510092+00:00"
 }
