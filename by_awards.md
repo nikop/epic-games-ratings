@@ -44,7 +44,7 @@
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,716 | 4.89 | 12 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,586 | 4.49 | 606 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,263 | 4.57 | 472 |
-| 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,066 | 4.85 | 43 |
+| 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,072 | 4.85 | 43 |
 | 46 | [DEATH STRANDING](games/d/death_stranding.md) | 8,057 | 4.77 | 114 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,029 | 4.70 | 213 |
 | 48 | [Supraland](games/s/supraland.md) | 7,732 | 4.61 | 383 |
@@ -91,7 +91,7 @@
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,726 | 4.46 | 647 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,581 | 4.47 | 637 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,389 | 4.76 | 126 |
-| 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,385 | 4.68 | 252 |
+| 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,386 | 4.68 | 252 |
 | 93 | [Hades](games/h/hades.md) | 3,378 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,361 | 4.57 | 472 |
 | 95 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,283 | 4.35 | 793 |
@@ -153,7 +153,7 @@
 | 151 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,037 | 4.69 | 232 |
 | 152 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 893 |
 | 153 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 987 | 4.31 | 829 |
-| 154 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 977 | 4.54 | 527 |
+| 154 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 978 | 4.54 | 527 |
 | 155 | [Sonic Mania](games/s/sonic_mania.md) | 966 | 4.78 | 107 |
 | 156 | [MORDHAU](games/m/mordhau.md) | 964 | 4.38 | 763 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 952 | 4.45 | 662 |
@@ -169,7 +169,7 @@
 | 167 | [Frostpunk](games/f/frostpunk.md) | 838 | 4.74 | 158 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 828 | 4.75 | 148 |
 | 169 | [Riders Republic](games/r/riders_republic.md) | 818 | 4.75 | 148 |
-| 170 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 808 | 4.79 | 95 |
+| 170 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 809 | 4.79 | 95 |
 | 171 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 784 | 4.24 | 885 |
 | 172 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 775 | 4.51 | 567 |
 | 173 | [Core](games/c/core.md) | 767 | 4.36 | 781 |
@@ -180,7 +180,7 @@
 | 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 741 | 4.60 | 413 |
 | 179 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 737 | 4.87 | 24 |
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 727 | 4.68 | 252 |
-| 181 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 725 | 4.67 | 274 |
+| 180 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 727 | 4.67 | 274 |
 | 182 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 721 | 4.59 | 431 |
 | 183 | [Neon Abyss](games/n/neon_abyss.md) | 708 | 4.68 | 252 |
 | 184 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 700 | 4.67 | 274 |
@@ -297,8 +297,8 @@
 | 294 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 364 |
 | 294 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 187 | 4.63 | 349 |
 | 297 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 184 | 4.58 | 445 |
-| 298 | [Star Stable Online](games/s/star_stable_online.md) | 183 | 4.43 | 691 |
-| 298 | [The Witness](games/t/the_witness.md) | 183 | 4.70 | 213 |
+| 297 | [The Witness](games/t/the_witness.md) | 184 | 4.70 | 213 |
+| 299 | [Star Stable Online](games/s/star_stable_online.md) | 183 | 4.43 | 691 |
 | 300 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 182 | 4.08 | 971 |
 | 301 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 177 | 4.50 | 587 |
 | 302 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 939 |

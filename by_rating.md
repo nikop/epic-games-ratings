@@ -45,7 +45,7 @@
 | 43 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.85 | 0 | 551 |
 | 43 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 158 | 313 |
 | 43 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 551 |
-| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,066 | 45 |
+| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,072 | 45 |
 | 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,621 | 67 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 275 |
 | 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 162 | 311 |
@@ -101,7 +101,7 @@
 | 95 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 551 |
 | 95 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,141 | 142 |
 | 95 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 0 | 551 |
-| 95 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 808 | 170 |
+| 95 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 809 | 170 |
 | 95 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,111 | 61 |
 | 95 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 401 | 230 |
 | 95 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 125 | 336 |
@@ -225,7 +225,7 @@
 | 213 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 551 |
 | 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 551 |
 | 213 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 439 |
-| 213 | [The Witness](games/t/the_witness.md) | 4.70 | 183 | 298 |
+| 213 | [The Witness](games/t/the_witness.md) | 4.70 | 184 | 297 |
 | 213 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,694 | 77 |
 | 213 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 551 |
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.70 | 44 | 449 |
@@ -251,7 +251,7 @@
 | 232 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.69 | 95 | 370 |
 | 232 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 551 |
 | 232 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,037 | 151 |
-| 252 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,385 | 92 |
+| 252 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,386 | 92 |
 | 252 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,852 | 87 |
 | 252 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 402 |
 | 252 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 551 |
@@ -288,7 +288,7 @@
 | 274 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.67 | 0 | 551 |
 | 274 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 551 |
 | 274 | [System Shock](games/s/system_shock.md) | 4.67 | 0 | 551 |
-| 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 725 | 181 |
+| 274 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 727 | 180 |
 | 274 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 551 |
 | 274 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 551 |
 | 274 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 24 | 522 |
@@ -534,7 +534,7 @@
 | 527 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 551 |
 | 527 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 167 | 307 |
 | 527 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 551 |
-| 527 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 977 | 154 |
+| 527 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 978 | 154 |
 | 527 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 478 |
 | 527 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 522 |
 | 527 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 364 |
@@ -706,7 +706,7 @@
 | 691 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 551 |
 | 691 | [SMITE](games/s/smite.md) | 4.43 | 4,628 | 78 |
 | 691 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 551 |
-| 691 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 183 | 298 |
+| 691 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 183 | 299 |
 | 691 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 503 | 211 |
 | 691 | [The Surge](games/t/the_surge.md) | 4.43 | 29 | 499 |
 | 691 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.43 | 0 | 551 |
