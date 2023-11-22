@@ -2,9 +2,9 @@
   "ID": "45e261c3baed4237883e63e6bd26b879",
   "Name": "Lyra",
   "ProductSlug": "lyratest-b40efb",
-  "Ranking_EOS_Progress": 755,
+  "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-23T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-20T13:57:16.8939646+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:57:55.0049003+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:08:38.9564454+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:58:05.9767381+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:08:52.1966389+00:00"
 }

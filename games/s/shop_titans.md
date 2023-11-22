@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,051 |
-| Basic in Bulk | 5.00% | ~7,051 |
-| Titan's First Steps | 5.00% | ~7,051 |
+| Sponsored by Argon | 5.00% | ~7,052 |
+| Basic in Bulk | 5.00% | ~7,052 |
+| Titan's First Steps | 5.00% | ~7,052 |
 | Disintermediation | 4.00% | ~5,641 |
 | Tinkle of Coins | 4.00% | ~5,641 |
 | One Easy Payment | 3.00% | ~4,231 |
@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.70% | ~987 |
 | Economy of Scarce | 0.70% | ~987 |
 | Jackpot! | 0.60% | ~846 |
+| Eternal Crusade | 0.60% | ~846 |
 | All Accounted For | 0.60% | ~846 |
 | The Free Encyclopedia | 0.50% | ~705 |
 | Thank You Tom Nook | 0.50% | ~705 |
-| Eternal Crusade | 0.50% | ~705 |
 | The Greatest Grind | 0.40% | ~564 |
 | All or Nothing! | 0.40% | ~564 |
 | Marvels from the World Over | 0.40% | ~564 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141,029 (Ranked 80)  
-Completed: 193 (0.14%) (Ranked 269)  
+Progressed: 141,036 (Ranked 80)  
+Completed: 194 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,7 +335,7 @@ Completed: 193 (0.14%) (Ranked 269)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 141,029 | 193 |
+| 2023-11-22 | 141,036 | 194 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
 Sum: 27,581 (Ranked 50)  

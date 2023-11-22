@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5936,
+  "EOS_Progressed": 5940,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4117,6 +4117,11 @@
       "Time": "2023-11-22T21:08:56.4131123+00:00",
       "NumProgressed": 5936,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T22:09:10.2477678+00:00",
+      "NumProgressed": 5940,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -4137,7 +4142,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "BeLikeWater",
@@ -4145,7 +4150,7 @@
       "Name": "Be Like Water",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Bikemaggedon",
@@ -4169,7 +4174,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "Eavesdropper",
@@ -4201,7 +4206,7 @@
       "Name": "First Time?",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "FuneralForTheDeath",
@@ -4217,7 +4222,7 @@
       "Name": "Garbage Man",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Godrunner",
@@ -4385,7 +4390,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "k01101110",
@@ -4393,14 +4398,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5936,
+      "Progressed": 5940,
       "Completed": 7
     }
   ],
@@ -4408,8 +4413,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-21T21:59:36.2748065+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:08:56.4131121+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:09:10.2477675+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.2025673+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:59:26.4321025+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:08:56.4131434+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:59:38.0036188+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:09:10.2478157+00:00"
 }

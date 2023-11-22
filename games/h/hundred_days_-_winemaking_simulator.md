@@ -1,17 +1,17 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 791)  
+Rating: 4.35 (Ranked 790)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~5,476 |
+| Bye Bye | 41.00% | ~5,477 |
 | It's a good start | 10.00% | ~1,336 |
-| Bonjour! | 8.00% | ~1,068 |
+| Bonjour! | 8.00% | ~1,069 |
 | Quack | 7.00% | ~935 |
-| The Assistant | 6.00% | ~801 |
-| The Blue Marl | 6.00% | ~801 |
+| The Assistant | 6.00% | ~802 |
+| The Blue Marl | 6.00% | ~802 |
 | Ostinata | 5.00% | ~668 |
 | Better than nothing? | 5.00% | ~668 |
 | A long journey | 4.00% | ~534 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Very Important Winemaker | 2.00% | ~267 |
 | King of Langhe | 1.00% | ~134 |
 | Gem of Monferrato | 1.00% | ~134 |
-| Treasure of Roero | 0.70% | ~93 |
+| Treasure of Roero | 0.70% | ~94 |
 | Knight of Langhe | 0.50% | ~67 |
 | King of red wines | 0.20% | ~27 |
 | King of white wines | 0.20% | ~27 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~13 |
 | Master Winemaker | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,356 (Ranked 156)  
+Progressed: 13,359 (Ranked 156)  
 Completed: 12 (0.09%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 12 (0.09%) (Ranked 287)
 | 2023-11-19 | 12,987 | 11 |
 | 2023-11-20 | 13,103 | 11 |
 | 2023-11-21 | 13,246 | 11 |
-| 2023-11-22 | 13,356 | 12 |
+| 2023-11-22 | 13,359 | 12 |
 ## Awards
 Max (Relaxing): 207  (Ranked 285)  
 Sum: 1,728 (Ranked 220)  

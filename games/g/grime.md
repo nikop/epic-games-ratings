@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 5.00% | ~7,979 |
 | The Hunt | 4.00% | ~6,383 |
 | Ravenous | 4.00% | ~6,383 |
-| Weeper | 3.00% | ~4,787 |
+| Weeper | 3.00% | ~4,788 |
 | Harmless | 2.00% | ~3,192 |
 | Silenced Whispers | 2.00% | ~3,192 |
 | Devourer | 2.00% | ~3,192 |
@@ -25,24 +25,24 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 1.00% | ~1,596 |
 | Predator | 1.00% | ~1,596 |
 | Assimilation | 0.90% | ~1,436 |
-| Host | 0.90% | ~1,432 |
+| Host | 0.90% | ~1,433 |
 | Celebration | 0.90% | ~1,436 |
 | Hunt Down | 0.70% | ~1,117 |
 | Inevitable | 0.70% | ~1,117 |
 | All-Seeing | 0.70% | ~1,117 |
 | Dream | 0.70% | ~1,114 |
-| Breath | 0.60% | ~957 |
-| Artisan | 0.60% | ~957 |
-| Hush | 0.60% | ~957 |
-| Breathsmith | 0.60% | ~957 |
+| Breath | 0.60% | ~958 |
+| Artisan | 0.60% | ~958 |
+| Hush | 0.60% | ~958 |
+| Breathsmith | 0.60% | ~958 |
 | Unwrap the Gift | 0.50% | ~798 |
 | Passage | 0.50% | ~798 |
 | Bloodhunter | 0.40% | ~638 |
 | Zygote | 0.40% | ~637 |
 | Proportions | 0.40% | ~638 |
 | Kinship | 0.30% | ~479 |
-| Kin | 0.30% | ~477 |
-| Listen | 0.30% | ~477 |
+| Kin | 0.30% | ~478 |
+| Listen | 0.30% | ~478 |
 | Weakness | 0.20% | ~319 |
 | Generous | 0.20% | ~319 |
 | Enrich | 0.20% | ~318 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,579 (Ranked 78)  
+Progressed: 159,586 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 1 (0.00%) (Ranked 358)
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
 | 2023-11-21 | 159,459 | 1 |
-| 2023-11-22 | 159,579 | 1 |
+| 2023-11-22 | 159,586 | 1 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 423)  
 Sum: 379 (Ranked 346)  

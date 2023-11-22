@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3903,
+  "EOS_Progressed": 3904,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8081,6 +8081,11 @@
       "Time": "2023-11-22T17:04:47.5102091+00:00",
       "NumProgressed": 3903,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-22T22:04:00.5491258+00:00",
+      "NumProgressed": 3904,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8116,7 +8121,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -8124,7 +8129,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -8132,7 +8137,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8140,7 +8145,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -8172,7 +8177,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8220,7 +8225,7 @@
       "Name": "Skirmisher",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -8244,7 +8249,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -8260,7 +8265,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8308,7 +8313,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -8348,7 +8353,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8356,7 +8361,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8468,7 +8473,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8659,13 +8664,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3854,
+      "Progressed": 3855,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3903,
+      "Progressed": 3904,
       "Completed": 11
     }
   ],
@@ -8673,8 +8678,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:03:51.3470331+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:04:00.5491255+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:58:49.1690991+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:03:51.3471591+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:58:59.9822447+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:04:00.5492377+00:00"
 }

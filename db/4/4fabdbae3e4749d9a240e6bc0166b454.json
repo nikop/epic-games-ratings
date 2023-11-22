@@ -2,9 +2,12 @@
   "ID": "4fabdbae3e4749d9a240e6bc0166b454",
   "Name": "Stormshot: Isle of Adventure",
   "ProductSlug": "stormshot-1e4cf4",
-  "Ranking_EOS_Progress": 755,
+  "Ranking_Rating": 1042,
+  "Ranking_Popularity": 551,
+  "Ranking_PopularitySum": 551,
+  "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-04T09:00:00+00:00",
@@ -19,7 +22,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 3.7,
+  "RatingHistory": [
+    {
+      "Time": "2023-11-22T21:59:44.2889127+00:00",
+      "Rating": 3.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -35,7 +46,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2023-09-04T13:57:06.3952239+00:00",
+  "FirstSeenRating": "2023-11-22T21:59:44.2889124+00:00",
+  "LastChanged": "2023-11-22T21:59:44.2889126+00:00",
   "LastUpdate_AppInfo": "2023-11-20T13:57:16.553138+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:59:34.070331+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:03:59.3529372+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:59:44.2889135+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:04:08.5016557+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -3584,6 +3584,11 @@
       "Time": "2023-11-22T21:09:08.6234376+00:00",
       "NumProgressed": 940,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T22:09:22.4027901+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3619,7 +3624,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "BudgetFlight",
@@ -3779,7 +3784,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Millionaire",
@@ -3923,21 +3928,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:09:08.6234372+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:09:22.4027895+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.7052462+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:58:30.6511981+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:09:08.6234833+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:58:41.2793718+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:09:22.4028717+00:00"
 }

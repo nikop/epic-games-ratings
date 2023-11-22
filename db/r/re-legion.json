@@ -2,9 +2,9 @@
   "ID": "713ce40e7239409c8026e6cbeee6bf55",
   "Name": "Re-Legion",
   "ProductSlug": "relegion-fe9684",
-  "Ranking_EOS_Progress": 755,
+  "Ranking_EOS_Progress": 756,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:12.3947796+00:00",
   "LastChanged": "2023-03-31T05:57:12.3947798+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:08.8951133+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:59:25.6244517+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:06:32.8188482+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:59:37.1553067+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:06:41.9195201+00:00"
 }

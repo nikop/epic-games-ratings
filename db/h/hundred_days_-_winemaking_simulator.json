@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 791,
+  "Ranking_Rating": 790,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1063,9 +1063,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13356,
+  "EOS_Progressed": 13359,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11038,6 +11038,11 @@
       "Time": "2023-11-22T21:08:36.2196834+00:00",
       "NumProgressed": 13356,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-22T22:08:49.4760559+00:00",
+      "NumProgressed": 13359,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11098,7 +11103,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5476
+      "UsersEstimate": 5477
     },
     {
       "ID": "a_19",
@@ -11106,7 +11111,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "a_2",
@@ -11122,7 +11127,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "a_21",
@@ -11130,7 +11135,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "a_22",
@@ -11258,7 +11263,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "a_6",
@@ -11297,7 +11302,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13356,
+      "Progressed": 13359,
       "Completed": 12
     }
   ],
@@ -11305,8 +11310,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-22T19:03:12.0492248+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:08:36.219683+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:08:49.4760555+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-22T21:02:43.966287+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:08:36.2197559+00:00"
+  "LastUpdate_Ratings": "2023-11-22T22:02:51.0098976+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:08:49.476121+00:00"
 }

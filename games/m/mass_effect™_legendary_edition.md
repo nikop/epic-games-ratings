@@ -34,8 +34,8 @@
 | Head Hunter | 40.00% | ~546 |
 | Operative | 39.00% | ~532 |
 | Scholar | 39.00% | ~532 |
+| The Professor | 38.00% | ~518 |
 | Veteran | 37.00% | ~505 |
-| The Professor | 37.00% | ~505 |
 | The Archangel | 36.00% | ~491 |
 | Power Full | 36.00% | ~491 |
 | The Convict | 35.00% | ~477 |
@@ -49,11 +49,11 @@
 | A Personal Touch | 31.00% | ~423 |
 | The Assassin | 31.00% | ~423 |
 | The Justicar | 31.00% | ~423 |
+| Battlemaster | 31.00% | ~423 |
 | Ghost of the Father | 31.00% | ~423 |
 | Driven | 31.00% | ~423 |
 | Shopaholic | 31.00% | ~423 |
 | Completionist | 30.00% | ~409 |
-| Battlemaster | 30.00% | ~409 |
 | Catharsis | 30.00% | ~409 |
 | The Cure | 30.00% | ~409 |
 | Big Game Hunter | 30.00% | ~409 |
@@ -117,8 +117,8 @@
 | Always Prepared | 9.00% | ~123 |
 | Lift Mastery | 9.00% | ~123 |
 | Sky High | 8.00% | ~109 |
+| Singularity Mastery | 7.00% | ~95 |
 | Damping Specialist | 6.00% | ~82 |
-| Singularity Mastery | 6.00% | ~82 |
 | Insanity I | 5.00% | ~68 |
 | Incineration Specialist | 5.00% | ~68 |
 | Shield Breaker | 4.00% | ~55 |

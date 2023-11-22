@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 44.00% | ~32 |
-| Purification Pioneer | 43.00% | ~31 |
+| Purification Pioneer | 42.00% | ~31 |
 | Dicesmithing Time! | 40.00% | ~29 |
 | Mechanical Buddy | 40.00% | ~29 |
-| Endless Tricks | 39.00% | ~28 |
+| Endless Tricks | 38.00% | ~28 |
 | Sanctuary Guardian | 36.00% | ~26 |
 | Noctuan Champion | 36.00% | ~26 |
 | Mind Illuminator | 33.00% | ~24 |
@@ -16,23 +16,23 @@
 | Eridanian Champion | 33.00% | ~24 |
 | Lacertian Champion | 32.00% | ~23 |
 | Apian Champion | 29.00% | ~21 |
-| Anomaly Destroyer | 28.00% | ~20 |
-| Stellar Dismantler | 28.00% | ~20 |
+| Anomaly Destroyer | 27.00% | ~20 |
+| Stellar Dismantler | 27.00% | ~20 |
 | Loyal Partner | 25.00% | ~18 |
 | Behenian Champion | 25.00% | ~18 |
-| Star Killer | 24.00% | ~17 |
+| Star Killer | 23.00% | ~17 |
 | Astral Adventurer | 22.00% | ~16 |
 | Aquarian Champion | 21.00% | ~15 |
 | Shard Spender | 19.00% | ~14 |
 | Unbeatable | 19.00% | ~14 |
 | Astral Seeker | 18.00% | ~13 |
 | Heart Gate | 18.00% | ~13 |
-| The Corruption Goddess | 17.00% | ~12 |
-| The Goddes Avatar | 17.00% | ~12 |
+| The Corruption Goddess | 16.00% | ~12 |
+| The Goddes Avatar | 16.00% | ~12 |
 | Favored by the Cosmos | 15.00% | ~11 |
 | Stellar Haste | 14.00% | ~10 |
-| Heavy Purger | 13.00% | ~9 |
-| Apian Hero | 13.00% | ~9 |
+| Heavy Purger | 12.00% | ~9 |
+| Apian Hero | 12.00% | ~9 |
 | Anomaly Control | 11.00% | ~8 |
 | Lacertian Hero | 11.00% | ~8 |
 | The Chaos Artisan | 10.00% | ~7 |
@@ -47,11 +47,11 @@
 | If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
 | The Abyssal Terror | 7.00% | ~5 |
-| Aquarian Hero | 6.00% | ~4 |
-| Aquarian Mastery | 6.00% | ~4 |
-| Behenian Mastery | 6.00% | ~4 |
-| Eridanian Hero | 6.00% | ~4 |
-| Noctuan Hero | 6.00% | ~4 |
+| Aquarian Hero | 5.00% | ~4 |
+| Aquarian Mastery | 5.00% | ~4 |
+| Behenian Mastery | 5.00% | ~4 |
+| Eridanian Hero | 5.00% | ~4 |
+| Noctuan Hero | 5.00% | ~4 |
 | Astrarium of Holding | 4.00% | ~3 |
 | Critical Twist | 4.00% | ~3 |
 | Reflexive Mind | 4.00% | ~3 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 459)  
+Progressed: 73 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-04 | 67 | 0 |
 | 2023-11-06 | 68 | 0 |
 | 2023-11-17 | 69 | 0 |
-| 2023-11-22 | 72 | 0 |
+| 2023-11-22 | 73 | 0 |

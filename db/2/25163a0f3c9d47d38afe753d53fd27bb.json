@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1609,
+  "EOS_Progressed": 1610,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 6.46,
   "EosHistory": [
@@ -3674,6 +3674,11 @@
       "Time": "2023-11-22T16:09:40.0727393+00:00",
       "NumProgressed": 1609,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-11-22T22:09:27.9033972+00:00",
+      "NumProgressed": 1610,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 30,
@@ -3685,7 +3690,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "LEVEL_002",
@@ -3693,7 +3698,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "LEVEL_003",
@@ -3701,7 +3706,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "LEVEL_004",
@@ -3715,9 +3720,9 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 692
     },
     {
       "ID": "LEVEL_006",
@@ -3725,7 +3730,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "LEVEL_007",
@@ -3749,7 +3754,7 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "LEVEL_010",
@@ -3789,7 +3794,7 @@
       "Name": "Cross-country",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "LEVEL_015",
@@ -3924,14 +3929,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1609,
+      "Progressed": 1610,
       "Completed": 104
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:09:14.1689899+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:09:27.9033968+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:57:49.0579127+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:09:14.1690269+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:58:00.4674631+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:09:27.9034304+00:00"
 }

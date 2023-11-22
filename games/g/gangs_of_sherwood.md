@@ -16,6 +16,7 @@
 | Right between the eyes | 50.00% | ~2 |
 | Locksley's Tears | 50.00% | ~2 |
 | Spring Board | 50.00% | ~2 |
+| Ultra Rebel Instinct | 50.00% | ~2 |
 | The Altruist | 50.00% | ~2 |
 | Take Action! | 50.00% | ~2 |
 | Rebel Unleashed | 50.00% | ~2 |
@@ -33,7 +34,6 @@
 | A Gest of Robyn Hode | 25.00% | ~1 |
 | Assault on the Ram | 25.00% | ~1 |
 | Into the Lion's Den | 25.00% | ~1 |
-| Ultra Rebel Instinct | 25.00% | ~1 |
 | Haute Couture | 25.00% | ~1 |
 | Ascending Will | 0.00% | ~0 |
 | Brilliant Executioner | 0.00% | ~0 |

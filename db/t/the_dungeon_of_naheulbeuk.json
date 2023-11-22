@@ -1371,9 +1371,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238915,
+  "EOS_Progressed": 238923,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1593,
+  "EOS_NewPlayers": 1597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19566,6 +19566,11 @@
       "Time": "2023-11-22T21:08:30.4338297+00:00",
       "NumProgressed": 238915,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T22:08:43.7268593+00:00",
+      "NumProgressed": 238923,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19577,7 +19582,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "100Fail",
@@ -19593,7 +19598,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "BarbarianEpic",
@@ -19609,7 +19614,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "BookCollection",
@@ -19641,7 +19646,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7168
     },
     {
       "ID": "Chapter4",
@@ -19977,7 +19982,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16724
+      "UsersEstimate": 16725
     },
     {
       "ID": "DwarfElf15Support",
@@ -20025,7 +20030,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83620
+      "UsersEstimate": 83623
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20073,7 +20078,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19113
+      "UsersEstimate": 19114
     },
     {
       "ID": "FollowBraztok",
@@ -20089,7 +20094,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "InsultLoose",
@@ -20145,7 +20150,7 @@
       "Name": "Law and Order",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "Poster",
@@ -20280,21 +20285,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238915,
+      "Progressed": 238923,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238915,
+      "Progressed": 238923,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-21T01:49:15.3509206+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:08:30.4338293+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:08:43.7268589+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:59:10.7962682+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:08:30.433968+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:59:21.2174281+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:08:43.7269917+00:00"
 }

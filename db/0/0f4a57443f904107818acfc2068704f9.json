@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 413,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
@@ -892,6 +892,11 @@
       "Time": "2023-11-22T21:04:43.0080635+00:00",
       "NumProgressed": 411,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T22:04:52.1327983+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -912,15 +917,15 @@
       "Name": "Territorial",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Capture100VictoryPoints",
       "SetID": "52ail55",
       "Name": "Chosen Victor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -960,7 +965,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "CompleteChapter10",
@@ -1032,7 +1037,7 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CompleteChapter18",
@@ -1048,7 +1053,7 @@
       "Name": "Met the Enemy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "CompleteChapter3",
@@ -1072,7 +1077,7 @@
       "Name": "Breathing Easy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CompleteChapter6",
@@ -1096,7 +1101,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChapter9",
@@ -1199,14 +1204,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 413,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-22T21:04:43.0080631+00:00",
+  "LastChanged_Achievements": "2023-11-22T22:04:52.1327979+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-22T20:57:30.1684924+00:00",
-  "LastUpdate_Achievements": "2023-11-22T21:04:43.0080895+00:00"
+  "LastUpdate_Ratings": "2023-11-22T21:57:42.6491763+00:00",
+  "LastUpdate_Achievements": "2023-11-22T22:04:52.1328313+00:00"
 }
