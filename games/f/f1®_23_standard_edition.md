@@ -28,9 +28,9 @@ Rating: 4.67 (Ranked 274)
 | One for the Book | 16.00% | ~937 |
 | Proving Them Wrong | 16.00% | ~937 |
 | Oil and Water | 14.00% | ~820 |
+| Hitting a Bullseye | 14.00% | ~820 |
 | Eagle Eye | 13.00% | ~762 |
 | Lightning Round the World | 13.00% | ~762 |
-| Hitting a Bullseye | 13.00% | ~762 |
 | Switcheroo | 13.00% | ~762 |
 | Spinning Around | 13.00% | ~762 |
 | All in a Weekend's Work | 12.00% | ~703 |

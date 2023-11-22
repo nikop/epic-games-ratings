@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 5.00% | ~7,048 |
-| Basic in Bulk | 5.00% | ~7,048 |
-| Titan's First Steps | 5.00% | ~7,048 |
+| Sponsored by Argon | 5.00% | ~7,049 |
+| Basic in Bulk | 5.00% | ~7,049 |
+| Titan's First Steps | 5.00% | ~7,049 |
 | Disintermediation | 4.00% | ~5,639 |
 | Tinkle of Coins | 4.00% | ~5,639 |
 | One Easy Payment | 3.00% | ~4,229 |
@@ -18,17 +18,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 3.00% | ~4,229 |
 | Capitalism Ho! | 3.00% | ~4,229 |
 | Own the Means of Production | 3.00% | ~4,229 |
-| The Daily Grind | 2.00% | ~2,819 |
-| Bounty Hunters | 2.00% | ~2,819 |
-| Demand for Supplies | 2.00% | ~2,819 |
-| Flooding the Market | 2.00% | ~2,819 |
-| Where it Hurts | 2.00% | ~2,819 |
-| Pretty Penny | 2.00% | ~2,819 |
-| Gild-Gotten Goods | 2.00% | ~2,819 |
-| One-Armed Bandit | 2.00% | ~2,819 |
-| Dungeon Imports | 2.00% | ~2,819 |
-| Through Repetition, Perfection | 2.00% | ~2,819 |
-| Did we pack lunch? | 2.00% | ~2,819 |
+| The Daily Grind | 2.00% | ~2,820 |
+| Bounty Hunters | 2.00% | ~2,820 |
+| Demand for Supplies | 2.00% | ~2,820 |
+| Flooding the Market | 2.00% | ~2,820 |
+| Where it Hurts | 2.00% | ~2,820 |
+| Pretty Penny | 2.00% | ~2,820 |
+| Gild-Gotten Goods | 2.00% | ~2,820 |
+| One-Armed Bandit | 2.00% | ~2,820 |
+| Dungeon Imports | 2.00% | ~2,820 |
+| Through Repetition, Perfection | 2.00% | ~2,820 |
+| Did we pack lunch? | 2.00% | ~2,820 |
+| Arcane Industries | 2.00% | ~2,820 |
 | On the Path to Greatness | 1.00% | ~1,410 |
 | Ascended | 1.00% | ~1,410 |
 | Tax not Included | 1.00% | ~1,410 |
@@ -48,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 1.00% | ~1,410 |
 | Gem Expert | 1.00% | ~1,410 |
 | Royal Ransom | 1.00% | ~1,410 |
+| Mammonite | 1.00% | ~1,410 |
 | Helping Hand | 1.00% | ~1,410 |
 | Accomplished Merchant | 1.00% | ~1,410 |
 | Natural 20 | 1.00% | ~1,410 |
@@ -55,7 +57,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 1.00% | ~1,410 |
 | Magical Harmony | 1.00% | ~1,410 |
 | Special Ingredient | 1.00% | ~1,410 |
-| Arcane Industries | 1.00% | ~1,410 |
 | Complete Monopoly | 1.00% | ~1,410 |
 | A Notch Above the Rest | 0.90% | ~1,269 |
 | Above the Norm | 0.90% | ~1,269 |
@@ -65,7 +66,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.90% | ~1,269 |
 | Cranked up to 11 | 0.90% | ~1,269 |
 | Fit for a King | 0.90% | ~1,269 |
-| Mammonite | 0.90% | ~1,269 |
 | Wealth Beyond Measure | 0.90% | ~1,269 |
 | Fat Cat Tag Team | 0.90% | ~1,269 |
 | Necromancer Queen | 0.90% | ~1,269 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,969 (Ranked 80)  
+Progressed: 140,979 (Ranked 80)  
 Completed: 192 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 192 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,969 | 192 |
+| 2023-11-22 | 140,979 | 192 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

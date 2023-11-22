@@ -44,9 +44,9 @@ Rating: 4.46 (Ranked 647)
 | It'll Buff Right Out | 5.00% | ~195 |
 | Road Rage | 5.00% | ~195 |
 | Don't hold your breath | 5.00% | ~195 |
-| Last Resort | 5.00% | ~192 |
-| Siegebreaker | 5.00% | ~192 |
-| Ghost of Falaise | 5.00% | ~192 |
+| Last Resort | 5.00% | ~193 |
+| Siegebreaker | 5.00% | ~193 |
+| Ghost of Falaise | 5.00% | ~193 |
 | Strategist | 4.00% | ~156 |
 | Locomotion Commotion | 4.00% | ~156 |
 | From Paris with Love | 3.00% | ~117 |
@@ -66,9 +66,9 @@ Rating: 4.46 (Ranked 647)
 | Sink or Swim | 2.00% | ~77 |
 | Best of the Best | 1.00% | ~39 |
 | Sight Beyond Sights | 1.00% | ~39 |
-| From Führer Away | 1.00% | ~38 |
-| Alpha | 1.00% | ~38 |
-| Das Familienjuwel | 1.00% | ~38 |
+| From Führer Away | 1.00% | ~39 |
+| Alpha | 1.00% | ~39 |
+| Das Familienjuwel | 1.00% | ~39 |
 | Master of Secondaries | 0.90% | ~35 |
 | Master of Rifles | 0.90% | ~35 |
 | Operation Overlord | 0.80% | ~31 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 647)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,899 (Ranked 196)  
+Progressed: 3,900 (Ranked 196)  
 Completed: 11 (0.28%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 11 (0.28%) (Ranked 239)
 | 2023-11-19 | 3,888 | 11 |
 | 2023-11-20 | 3,892 | 11 |
 | 2023-11-21 | 3,897 | 11 |
-| 2023-11-22 | 3,899 | 11 |
+| 2023-11-22 | 3,900 | 11 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 520)  
 Sum: 25 (Ranked 527)  

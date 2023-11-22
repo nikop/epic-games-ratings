@@ -7,20 +7,20 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~40,874 |
-| First Steps | 80.00% | ~35,160 |
-| Control the Shadows | 67.00% | ~29,446 |
-| Tools of the Trade | 63.00% | ~27,688 |
-| Apprentice | 60.00% | ~26,370 |
-| Secret Seeker | 57.00% | ~25,051 |
+| First Steps | 80.00% | ~35,161 |
+| Control the Shadows | 67.00% | ~29,447 |
+| Tools of the Trade | 63.00% | ~27,689 |
+| Apprentice | 60.00% | ~26,371 |
+| Secret Seeker | 57.00% | ~25,052 |
 | Forge of Assassins | 55.00% | ~24,173 |
-| Revenant | 52.00% | ~22,854 |
+| Revenant | 52.00% | ~22,855 |
 | I don’t Care! | 45.00% | ~19,778 |
 | Bird of Prey | 37.00% | ~16,262 |
 | Engraved with Power | 32.00% | ~14,064 |
-| Lady | 31.00% | ~13,624 |
-| Fashionable Assassin | 27.00% | ~11,866 |
+| Lady | 31.00% | ~13,625 |
+| Fashionable Assassin | 27.00% | ~11,867 |
 | Apex Predator | 24.00% | ~10,548 |
-| Soul Reaver | 23.00% | ~10,108 |
+| Soul Reaver | 23.00% | ~10,109 |
 | Embers | 22.00% | ~9,669 |
 | Wall Lizard | 20.00% | ~8,790 |
 | Clinging to Life | 18.00% | ~7,911 |
@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~6,153 |
 | Signature Move | 14.00% | ~6,153 |
 | Ruse | 12.00% | ~5,274 |
-| Master Ninja | 11.00% | ~4,834 |
+| Master Ninja | 11.00% | ~4,835 |
 | Hatching | 10.00% | ~4,395 |
 | Bonds | 9.00% | ~3,956 |
 | Get Over Here | 9.00% | ~3,956 |
@@ -45,13 +45,13 @@ Number of Ratings: 88  (23.09.2022)
 | Left Behind | 4.00% | ~1,758 |
 | Secrets of the Earth | 4.00% | ~1,758 |
 | Heart of Fire | 4.00% | ~1,758 |
-| The Lion’s Den | 3.00% | ~1,318 |
-| Forest Spirits | 3.00% | ~1,318 |
+| The Lion’s Den | 3.00% | ~1,319 |
+| Forest Spirits | 3.00% | ~1,319 |
 | Hot Potato | 2.00% | ~879 |
 | Anger Management | 2.00% | ~879 |
 | Legacy | 2.00% | ~879 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,950 (Ranked 115)  
+Progressed: 43,951 (Ranked 115)  
 Completed: 241 (0.55%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 241 (0.55%) (Ranked 193)
 | 2023-11-19 | 43,920 | 241 |
 | 2023-11-20 | 43,930 | 241 |
 | 2023-11-21 | 43,943 | 241 |
-| 2023-11-22 | 43,950 | 241 |
+| 2023-11-22 | 43,951 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

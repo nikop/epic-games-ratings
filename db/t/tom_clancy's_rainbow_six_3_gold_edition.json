@@ -4,7 +4,7 @@
   "ProductSlug": "rainbow-six-3-gold-edition",
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-09T19:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.1285362+00:00",
   "LastChanged": "2023-03-31T05:58:42.1285363+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:57.929239+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:06:43.307538+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:16:26.9231758+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:58:22.1844248+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:08:20.4487079+00:00"
 }

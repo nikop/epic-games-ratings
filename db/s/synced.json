@@ -1125,9 +1125,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 67249,
+  "EOS_Progressed": 67250,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10060,6 +10060,11 @@
       "Time": "2023-11-22T13:14:43.8560296+00:00",
       "NumProgressed": 67249,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T14:05:30.0381992+00:00",
+      "NumProgressed": 67250,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -10088,7 +10093,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "12",
@@ -10096,7 +10101,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "13",
@@ -10199,7 +10204,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 67249,
+      "Progressed": 67250,
       "Completed": 35
     }
   ],
@@ -10207,8 +10212,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-22T02:23:02.1663342+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:14:43.8560292+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:05:30.0381991+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:34.4775016+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:06:01.430236+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:14:43.8560801+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:57:54.0741533+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:05:30.0382375+00:00"
 }

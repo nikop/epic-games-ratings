@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10777,10 +10777,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48788,
       "NumberOfAwardsMax": 24503
+    },
+    {
+      "Time": "2023-11-22T13:57:22.4687274+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48794,
+      "NumberOfAwardsMax": 24503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48788,
+  "NumberOfAwards": 48794,
   "NumberOfAwardsMax": 24503,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10812,7 +10818,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1334
+      "Count": 1340
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10857,7 +10863,7 @@
       "Count": 804
     }
   ],
-  "EOS_Progressed": 302624,
+  "EOS_Progressed": 302625,
   "EOS_Completed": 513,
   "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 2,
@@ -34067,6 +34073,11 @@
       "Time": "2023-11-22T13:18:05.3112201+00:00",
       "NumProgressed": 302624,
       "NumCompleted": 513
+    },
+    {
+      "Time": "2023-11-22T14:09:28.9288584+00:00",
+      "NumProgressed": 302625,
+      "NumCompleted": 513
     }
   ],
   "TotalAchievements": 45,
@@ -34118,7 +34129,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 18157
+      "UsersEstimate": 18158
     },
     {
       "ID": "PFA_15",
@@ -34214,7 +34225,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18157
+      "UsersEstimate": 18158
     },
     {
       "ID": "PFA_26",
@@ -34246,7 +34257,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18157
+      "UsersEstimate": 18158
     },
     {
       "ID": "PFA_3",
@@ -34366,7 +34377,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 18157
+      "UsersEstimate": 18158
     },
     {
       "ID": "PFA_43",
@@ -34414,7 +34425,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42367
+      "UsersEstimate": 42368
     },
     {
       "ID": "PFA_8",
@@ -34437,16 +34448,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302624,
+      "Progressed": 302625,
       "Completed": 513
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-22T13:05:13.9360368+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:18:05.3112196+00:00",
+  "LastChanged": "2023-11-22T13:57:22.4687272+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:09:28.9288583+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:06.5012392+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:05:13.9360374+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:18:05.3113496+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:57:22.4687277+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:09:28.9289752+00:00"
 }

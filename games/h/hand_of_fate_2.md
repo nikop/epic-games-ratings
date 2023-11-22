@@ -6,14 +6,14 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,748 |
-| Apprentice | 58.00% | ~385,658 |
-| Close Shave | 25.00% | ~166,232 |
-| Mercenary | 23.00% | ~152,933 |
-| Ninja | 23.00% | ~152,933 |
+| The Fool | 72.00% | ~478,750 |
+| Apprentice | 58.00% | ~385,660 |
+| Close Shave | 25.00% | ~166,233 |
+| Mercenary | 23.00% | ~152,934 |
+| Ninja | 23.00% | ~152,934 |
 | Northern Scourge | 17.00% | ~113,038 |
 | Thief Bane | 14.00% | ~93,090 |
-| Master of Arms | 12.00% | ~79,791 |
+| Master of Arms | 12.00% | ~79,792 |
 | Gambler | 10.00% | ~66,493 |
 | Dice Master | 10.00% | ~66,493 |
 | Swordsman | 9.00% | ~59,844 |
@@ -26,8 +26,8 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 7.00% | ~46,545 |
 | Adventurer | 6.00% | ~39,896 |
 | Empire's Bane | 6.00% | ~39,896 |
-| Jack of all Trades | 5.00% | ~33,246 |
-| Smithy | 5.00% | ~33,246 |
+| Jack of all Trades | 5.00% | ~33,247 |
+| Smithy | 5.00% | ~33,247 |
 | Leap of Faith | 3.00% | ~19,948 |
 | Combat Ready | 3.00% | ~19,948 |
 | Stuffed Potato | 3.00% | ~19,948 |
@@ -41,7 +41,7 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,649 |
 | Thomas' Bane | 0.90% | ~5,984 |
 | Ally | 0.80% | ~5,319 |
-| Gamester | 0.70% | ~4,654 |
+| Gamester | 0.70% | ~4,655 |
 | Hero | 0.60% | ~3,990 |
 | Rebel | 0.60% | ~3,990 |
 | Dungeon Master | 0.50% | ~3,325 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~665 |
 | Blood Pact | 0.10% | ~665 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,928 (Ranked 28)  
+Progressed: 664,931 (Ranked 28)  
 Completed: 171 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 171 (0.03%) (Ranked 319)
 | 2023-11-19 | 664,846 | 171 |
 | 2023-11-20 | 664,882 | 171 |
 | 2023-11-21 | 664,911 | 171 |
-| 2023-11-22 | 664,928 | 171 |
+| 2023-11-22 | 664,931 | 171 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 469)  
 Sum: 192 (Ranked 405)  

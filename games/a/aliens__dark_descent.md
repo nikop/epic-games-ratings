@@ -5,17 +5,17 @@ Rating: 4.50 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,969 |
-| Snatched Out | 74.00% | ~2,713 |
-| Keep 'Em Coming | 73.00% | ~2,676 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,456 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,970 |
+| Snatched Out | 74.00% | ~2,714 |
+| Keep 'Em Coming | 73.00% | ~2,677 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,457 |
 | Call Me Snake | 63.00% | ~2,310 |
-| Something Lurks Under The Hills | 61.00% | ~2,236 |
-| This Was No Papercut | 59.00% | ~2,163 |
+| Something Lurks Under The Hills | 61.00% | ~2,237 |
+| This Was No Papercut | 59.00% | ~2,164 |
 | People Person | 57.00% | ~2,090 |
 | The Shrink Hates Me | 57.00% | ~2,090 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,943 |
-| First Steps Into Madness | 53.00% | ~1,943 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,944 |
+| First Steps Into Madness | 53.00% | ~1,944 |
 | Colonial Barrels | 51.00% | ~1,870 |
 | Harper's Hell | 47.00% | ~1,723 |
 | Making a Stand | 45.00% | ~1,650 |
@@ -24,13 +24,13 @@ Rating: 4.50 (Ranked 587)
 | Recouped Investment | 39.00% | ~1,430 |
 | Living Nightmare | 35.00% | ~1,283 |
 | The More The Merrier | 35.00% | ~1,283 |
-| Omelette Du Fromage | 34.00% | ~1,246 |
-| The Darwin Era Was Here | 31.00% | ~1,136 |
+| Omelette Du Fromage | 34.00% | ~1,247 |
+| The Darwin Era Was Here | 31.00% | ~1,137 |
 | Deep Into Insanity | 30.00% | ~1,100 |
 | The Passenger | 29.00% | ~1,063 |
-| Come on, You Wanna Live Forever? | 28.00% | ~1,026 |
+| Come on, You Wanna Live Forever? | 28.00% | ~1,027 |
 | The Spire | 27.00% | ~990 |
-| El Riesgo Siempre Vive | 25.00% | ~916 |
+| El Riesgo Siempre Vive | 25.00% | ~917 |
 | Stuff Of Nightmares | 23.00% | ~843 |
 | Excavating The Truth | 23.00% | ~843 |
 | Abysmal Horrors | 22.00% | ~807 |
@@ -51,7 +51,7 @@ Rating: 4.50 (Ranked 587)
 | Chalk It Up To Experience | 0.80% | ~29 |
 | This Ain't No Picnic | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,666 (Ranked 203)  
+Progressed: 3,667 (Ranked 203)  
 Completed: 3 (0.08%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 3 (0.08%) (Ranked 293)
 | 2023-11-19 | 3,658 | 3 |
 | 2023-11-20 | 3,660 | 3 |
 | 2023-11-21 | 3,662 | 3 |
-| 2023-11-22 | 3,666 | 3 |
+| 2023-11-22 | 3,667 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 471)  
 Sum: 35 (Ranked 501)  

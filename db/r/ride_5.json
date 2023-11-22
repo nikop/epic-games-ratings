@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2215,
+  "EOS_Progressed": 2217,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5187,6 +5187,11 @@
       "Time": "2023-11-22T09:09:57.2182561+00:00",
       "NumProgressed": 2215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T14:09:33.6384549+00:00",
+      "NumProgressed": 2217,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5199,7 +5204,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5207,7 +5212,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5279,7 +5284,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -5335,7 +5340,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -5359,7 +5364,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -5375,7 +5380,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5407,7 +5412,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5487,7 +5492,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5495,7 +5500,7 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5511,7 +5516,7 @@
       "Name": "Rounding Off",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -5551,7 +5556,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5590,14 +5595,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2215,
+      "Progressed": 2217,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:18:10.9159945+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:09:33.6384547+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:09:54.1153496+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:18:10.916048+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:00:24.3850723+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:09:33.6384991+00:00"
 }

@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753859,
+  "EOS_Progressed": 753865,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1923,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25044,6 +25044,11 @@
       "Time": "2023-11-22T13:15:11.8760053+00:00",
       "NumProgressed": 753859,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T14:05:49.0851941+00:00",
+      "NumProgressed": 753865,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -25119,7 +25124,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278928
+      "UsersEstimate": 278930
     },
     {
       "ID": "ach_demolish_trees",
@@ -25127,7 +25132,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 128156
+      "UsersEstimate": 128157
     },
     {
       "ID": "ach_free_cam_mode",
@@ -25159,7 +25164,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 90463
+      "UsersEstimate": 90464
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -25183,7 +25188,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361852
+      "UsersEstimate": 361855
     },
     {
       "ID": "ach_produced",
@@ -25199,7 +25204,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 120617
+      "UsersEstimate": 120618
     },
     {
       "ID": "ach_raise_money",
@@ -25255,7 +25260,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90463
+      "UsersEstimate": 90464
     },
     {
       "ID": "ach_warehouse_clients",
@@ -25263,14 +25268,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 143233
+      "UsersEstimate": 143234
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 753859,
+      "Progressed": 753865,
       "Completed": 4
     }
   ],
@@ -25278,8 +25283,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:15:11.8760044+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:05:49.0851939+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.4041849+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:06:39.7443933+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:15:11.8761285+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:58:19.8591719+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:05:49.0853238+00:00"
 }

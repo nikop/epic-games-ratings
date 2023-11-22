@@ -3,11 +3,11 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 159,
-  "Ranking_Popularity": 20,
+  "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -7723,18 +7723,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 81678,
       "NumberOfAwardsMax": 21122
+    },
+    {
+      "Time": "2023-11-22T14:02:52.4837941+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 81827,
+      "NumberOfAwardsMax": 21242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 81678,
-  "NumberOfAwardsMax": 21122,
+  "NumberOfAwards": 81827,
+  "NumberOfAwardsMax": 21242,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21122
+      "Count": 21242
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7788,7 +7794,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4829
+      "Count": 4858
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7815,8 +7821,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-11-22T11:03:02.8999984+00:00",
+  "LastChanged": "2023-11-22T14:02:52.483787+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:42.2433502+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:10:54.0168918+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:14:45.9921741+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:02:52.4837947+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:05:31.3817678+00:00"
 }

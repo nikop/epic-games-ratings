@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 252774,
+  "EOS_Progressed": 252775,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24683,6 +24683,11 @@
       "Time": "2023-11-22T13:16:26.2669684+00:00",
       "NumProgressed": 252774,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T14:08:20.0300655+00:00",
+      "NumProgressed": 252775,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -24726,7 +24731,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -24750,7 +24755,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -24830,7 +24835,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_ISTARTED",
@@ -24838,7 +24843,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 73304
+      "UsersEstimate": 73305
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -24846,7 +24851,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -24894,7 +24899,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -24942,7 +24947,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -24950,7 +24955,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -25070,7 +25075,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -25109,7 +25114,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 252774,
+      "Progressed": 252775,
       "Completed": 7
     }
   ],
@@ -25117,8 +25122,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:16:26.2669681+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:08:20.0300653+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:01.0454426+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:06:45.4286736+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:16:26.2671341+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:58:23.5545206+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:08:20.0301885+00:00"
 }

@@ -6771,9 +6771,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 722380,
+  "EOS_Progressed": 722418,
   "EOS_Completed": 2423,
-  "EOS_NewPlayers": 3674,
+  "EOS_NewPlayers": 3686,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31481,6 +31481,11 @@
       "Time": "2023-11-22T13:13:08.2463643+00:00",
       "NumProgressed": 722380,
       "NumCompleted": 2423
+    },
+    {
+      "Time": "2023-11-22T14:04:23.4683517+00:00",
+      "NumProgressed": 722418,
+      "NumCompleted": 2423
     }
   ],
   "TotalAchievements": 51,
@@ -31514,9 +31519,9 @@
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6501
+      "UsersEstimate": 7224
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -31580,7 +31585,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     },
     {
       "ID": "ach_doom_buddies",
@@ -31604,7 +31609,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     },
     {
       "ID": "ach_finisher",
@@ -31620,7 +31625,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     },
     {
       "ID": "ach_good_eyesight",
@@ -31732,7 +31737,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "ach_revival_tour",
@@ -31748,7 +31753,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "ach_secrets_of_la",
@@ -31852,7 +31857,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ach_dark_magic",
@@ -31860,7 +31865,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ach_gardening_tools",
@@ -31876,7 +31881,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -31899,13 +31904,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722380,
+      "Progressed": 722418,
       "Completed": 2423
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47922,
+      "Progressed": 47960,
       "Completed": 36578
     }
   ],
@@ -31913,8 +31918,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-22T06:58:06.6450963+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:13:08.2463631+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:04:23.4683515+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:05:49.8090505+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:13:08.2465032+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:57:46.5875975+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:04:23.4684786+00:00"
 }

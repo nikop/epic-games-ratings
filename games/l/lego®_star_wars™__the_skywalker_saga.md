@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,422 |
-| ''I don't like you either!'' | 79.00% | ~41,065 |
-| ''Impressive, most impressive'' | 72.00% | ~37,426 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,426 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,423 |
+| ''I don't like you either!'' | 79.00% | ~41,066 |
+| ''Impressive, most impressive'' | 72.00% | ~37,427 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,427 |
 | The Phantom Menace | 59.00% | ~30,669 |
 | ''Aggressive Negotiations'' | 59.00% | ~30,669 |
-| ''I can fly anything'' | 57.00% | ~29,629 |
+| ''I can fly anything'' | 57.00% | ~29,630 |
 | ''And who gave you permission...?'' | 54.00% | ~28,070 |
 | A New Hope | 48.00% | ~24,951 |
-| Attack of the Clones | 47.00% | ~24,431 |
-| Revenge of the Sith | 41.00% | ~21,312 |
+| Attack of the Clones | 47.00% | ~24,432 |
+| Revenge of the Sith | 41.00% | ~21,313 |
 | The Empire Strikes Back | 38.00% | ~19,753 |
 | ''A fine addition to my collection'' | 38.00% | ~19,753 |
 | Return of the Jedi | 32.00% | ~16,634 |
 | The Force Awakens | 27.00% | ~14,035 |
 | The Last Jedi | 23.00% | ~11,956 |
 | The Rise of Skywalker | 20.00% | ~10,396 |
-| ''It's true... all of it'' | 19.00% | ~9,876 |
-| ''Get the crews to their fighters'' | 19.00% | ~9,876 |
+| ''It's true... all of it'' | 19.00% | ~9,877 |
+| ''Get the crews to their fighters'' | 19.00% | ~9,877 |
 | ''Raw, untamed power'' | 9.00% | ~4,678 |
 | Rishi Maze | 5.00% | ~2,599 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,599 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,981 (Ranked 111)  
+Progressed: 51,982 (Ranked 111)  
 Completed: 250 (0.48%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 250 (0.48%) (Ranked 205)
 | 2023-11-19 | 51,976 | 249 |
 | 2023-11-20 | 51,978 | 249 |
 | 2023-11-21 | 51,979 | 250 |
-| 2023-11-22 | 51,981 | 250 |
+| 2023-11-22 | 51,982 | 250 |
 ## Awards
 Max (Great Boss Battles): 2,442  (Ranked 104)  
 Sum: 6,703 (Ranked 126)  

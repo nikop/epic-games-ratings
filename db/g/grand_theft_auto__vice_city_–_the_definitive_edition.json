@@ -865,9 +865,9 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 11061,
+  "EOS_Progressed": 11062,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -13110,6 +13110,11 @@
       "Time": "2023-11-22T11:08:46.3009547+00:00",
       "NumProgressed": 11061,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-22T14:08:36.2220598+00:00",
+      "NumProgressed": 11062,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -13249,7 +13254,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH18",
@@ -13353,7 +13358,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH31",
@@ -13392,7 +13397,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11061,
+      "Progressed": 11062,
       "Completed": 65
     }
   ],
@@ -13400,8 +13405,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-20T21:59:13.9530271+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:16:49.4622888+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:08:36.2220594+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.2542846+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:09:38.362406+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:16:49.4623772+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:00:14.2984646+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:08:36.2221697+00:00"
 }

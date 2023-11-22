@@ -7,7 +7,7 @@ Rating: 4.76 (Ranked 126)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,420 |
 | First Class Student | 15.00% | ~45,394 |
-| Troll with the Punches | 14.00% | ~42,367 |
+| Troll with the Punches | 14.00% | ~42,368 |
 | A Keen Sense of Spell | 13.00% | ~39,341 |
 | That's a Keeper | 13.00% | ~39,341 |
 | Loom for Improvement | 12.00% | ~36,315 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 126)
 | The Avenging Gazelle | 8.00% | ~24,210 |
 | Beast Friends | 8.00% | ~24,210 |
 | Flight the Good Flight | 8.00% | ~24,210 |
-| The Seeker of Knowledge | 6.00% | ~18,157 |
-| The Root of the Problem | 6.00% | ~18,157 |
-| Third Time's a Charm | 6.00% | ~18,157 |
-| Raising Expectations | 6.00% | ~18,157 |
+| The Seeker of Knowledge | 6.00% | ~18,158 |
+| The Root of the Problem | 6.00% | ~18,158 |
+| Third Time's a Charm | 6.00% | ~18,158 |
+| Raising Expectations | 6.00% | ~18,158 |
 | The Toast of the Town | 5.00% | ~15,131 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,131 |
 | The Ends Petrify the Means | 5.00% | ~15,131 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 126)
 | The Nature of the Beast | 0.70% | ~2,118 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,624 (Ranked 54)  
+Progressed: 302,625 (Ranked 54)  
 Completed: 513 (0.17%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,16 +267,16 @@ Completed: 513 (0.17%) (Ranked 262)
 | 2023-11-19 | 302,449 | 512 |
 | 2023-11-20 | 302,491 | 513 |
 | 2023-11-21 | 302,563 | 513 |
-| 2023-11-22 | 302,624 | 513 |
+| 2023-11-22 | 302,625 | 513 |
 ## Awards
 Max (Character Customization): 24,503  (Ranked 17)  
-Sum: 48,788 (Ranked 30)  
+Sum: 48,794 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,503 |
 | This game has Great Boss Battles | 12,470 |
-| This game is Great for Beginners | 1,334 |
+| This game is Great for Beginners | 1,340 |
 | This game has Amazing Storytelling | 1,282 |
 | This game has Diverse Characters | 1,280 |
 | This game is Extremely Fun | 1,259 |
@@ -532,4 +532,4 @@ Diff (max vs sum): -13
 | 2023-11-19 | 4.76 | 24,447 | 48,598 |
 | 2023-11-20 | 4.76 | 24,475 | 48,693 |
 | 2023-11-21 | 4.76 | 24,503 | 48,784 |
-| 2023-11-22 | 4.76 | 24,503 | 48,788 |
+| 2023-11-22 | 4.76 | 24,503 | 48,794 |

@@ -16,7 +16,7 @@
 | Secret Admirer | 19.00% | ~8 |
 | Errorbane | 17.00% | ~7 |
 | Bugged, not stupid | 14.00% | ~6 |
-| Hackerman | 12.00% | ~5 |
+| Hackerman | 14.00% | ~6 |
 | A Rank Bug-catcher | 10.00% | ~4 |
 | S Rank Bug-catcher | 10.00% | ~4 |
 | Thanks for Playing | 10.00% | ~4 |

@@ -685,9 +685,9 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -748,8 +748,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:14:37.3720949+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:05:25.4953307+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:05:48.4633325+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:14:37.3721184+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:57:45.3054682+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:05:25.4953479+00:00"
 }

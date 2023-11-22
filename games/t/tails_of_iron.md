@@ -5,38 +5,38 @@ Rating: 4.55 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,657 |
+| Complete Guard Faction | 82.00% | ~1,658 |
 | Become King | 74.00% | ~1,496 |
-| Ranged Weapon | 63.00% | ~1,273 |
-| Defeat 25 Frogs | 63.00% | ~1,273 |
-| Collect Monster Parts | 59.00% | ~1,192 |
-| Two Handed Weapon | 58.00% | ~1,172 |
-| Defeat 25 Grubs | 54.00% | ~1,091 |
-| Rescue Redgi's Brothers | 53.00% | ~1,071 |
-| Collect Iron Ore | 49.00% | ~990 |
-| Defeat 25 Mozis | 48.00% | ~970 |
-| Kitchen Ready To Cook | 48.00% | ~970 |
+| Ranged Weapon | 63.00% | ~1,274 |
+| Defeat 25 Frogs | 63.00% | ~1,274 |
+| Collect Monster Parts | 59.00% | ~1,193 |
+| Two Handed Weapon | 58.00% | ~1,173 |
+| Defeat 25 Grubs | 54.00% | ~1,092 |
+| Rescue Redgi's Brothers | 53.00% | ~1,072 |
+| Collect Iron Ore | 49.00% | ~991 |
+| Defeat 25 Mozis | 48.00% | ~971 |
+| Kitchen Ready To Cook | 48.00% | ~971 |
 | Collect Gold | 47.00% | ~950 |
 | Smithy Ready to Craft | 47.00% | ~950 |
-| Fix the Travellers Wagon | 45.00% | ~909 |
+| Fix the Travellers Wagon | 45.00% | ~910 |
 | Complete Elder Faction | 42.00% | ~849 |
-| End of the Mozis | 39.00% | ~788 |
-| Throne Room Fit For A King | 39.00% | ~788 |
+| End of the Mozis | 39.00% | ~789 |
+| Throne Room Fit For A King | 39.00% | ~789 |
 | Meet the Creatures from the Deep | 37.00% | ~748 |
 | Return Power To The Depths | 37.00% | ~748 |
 | Defeat Ratnor Rodentson | 31.00% | ~627 |
 | Return the Statues | 28.00% | ~566 |
 | Defeat Rattus Augustail | 27.00% | ~546 |
-| Complete the Chefs Book | 25.00% | ~505 |
+| Complete the Chefs Book | 25.00% | ~506 |
 | Complete Ranger Faction | 22.00% | ~445 |
-| Defeat Avor Warden of the Northern Wastes | 21.00% | ~424 |
+| Defeat Avor Warden of the Northern Wastes | 21.00% | ~425 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~404 |
-| Complete Arena Faction | 16.00% | ~323 |
+| Complete Arena Faction | 16.00% | ~324 |
 | Complete Redgi's Armory | 8.00% | ~162 |
 | King of Kings | 8.00% | ~162 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,021 (Ranked 223)  
+Progressed: 2,022 (Ranked 223)  
 Completed: 9 (0.45%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 9 (0.45%) (Ranked 207)
 | 2023-11-19 | 2,000 | 9 |
 | 2023-11-20 | 2,002 | 9 |
 | 2023-11-21 | 2,011 | 9 |
-| 2023-11-22 | 2,021 | 9 |
+| 2023-11-22 | 2,022 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

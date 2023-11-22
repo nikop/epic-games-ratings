@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3899,
+  "EOS_Progressed": 3900,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8066,6 +8066,11 @@
       "Time": "2023-11-22T06:03:49.8420104+00:00",
       "NumProgressed": 3899,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-22T14:03:46.0353314+00:00",
+      "NumProgressed": 3900,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8517,7 +8522,7 @@
       "Name": "From F\u00FChrer Away",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
@@ -8533,7 +8538,7 @@
       "Name": "Alpha",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -8557,7 +8562,7 @@
       "Name": "Das Familienjuwel",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -8565,7 +8570,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -8573,7 +8578,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8581,7 +8586,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -8644,13 +8649,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3850,
+      "Progressed": 3851,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3899,
+      "Progressed": 3900,
       "Completed": 11
     }
   ],
@@ -8658,8 +8663,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:12:14.2380492+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:03:46.0353312+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:07:07.5561972+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:12:14.2381406+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:58:37.3435891+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:03:46.0354048+00:00"
 }

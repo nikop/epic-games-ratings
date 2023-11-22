@@ -6,16 +6,16 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,633 |
-| Man of politics | 34.00% | ~5,638 |
-| Friends of sorts | 33.00% | ~5,472 |
-| Yet another secret | 33.00% | ~5,472 |
+| Tattletale | 40.00% | ~6,634 |
+| Man of politics | 34.00% | ~5,639 |
+| Friends of sorts | 33.00% | ~5,473 |
+| Yet another secret | 33.00% | ~5,473 |
 | Let there be darkness | 32.00% | ~5,307 |
 | End of Book One | 30.00% | ~4,975 |
 | Garden of Eden | 24.00% | ~3,980 |
 | Full house | 24.00% | ~3,980 |
 | Wannabe knight | 23.00% | ~3,814 |
-| Help an old friend | 21.00% | ~3,482 |
+| Help an old friend | 21.00% | ~3,483 |
 | Two of us | 20.00% | ~3,317 |
 | Negotiation skills | 18.00% | ~2,985 |
 | Workers' union | 18.00% | ~2,985 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | Good midwife | 10.00% | ~1,658 |
 | Friar Tuck | 10.00% | ~1,658 |
 | Team player | 10.00% | ~1,658 |
-| Skilled merchant | 9.00% | ~1,492 |
-| Nothing but make-believe | 9.00% | ~1,492 |
-| Brother Marcus | 9.00% | ~1,492 |
-| The oath | 9.00% | ~1,492 |
-| The truth revealed | 9.00% | ~1,492 |
-| The End. | 9.00% | ~1,492 |
+| Skilled merchant | 9.00% | ~1,493 |
+| Nothing but make-believe | 9.00% | ~1,493 |
+| Brother Marcus | 9.00% | ~1,493 |
+| The oath | 9.00% | ~1,493 |
+| The truth revealed | 9.00% | ~1,493 |
+| The End. | 9.00% | ~1,493 |
 | A cry for help | 8.00% | ~1,327 |
 | Silentium est aureum | 7.00% | ~1,161 |
 | Rebel without a cause | 6.00% | ~995 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~663 |
 | Self-defense | 4.00% | ~663 |
 | Countess Aliena | 4.00% | ~663 |
-| Care, like a brother cares | 3.00% | ~497 |
-| A brush with death | 3.00% | ~497 |
+| Care, like a brother cares | 3.00% | ~498 |
+| A brush with death | 3.00% | ~498 |
 | Boy of mystery | 2.00% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,583 (Ranked 148)  
+Progressed: 16,584 (Ranked 148)  
 Completed: 116 (0.70%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 116 (0.70%) (Ranked 181)
 | 2023-11-19 | 16,551 | 116 |
 | 2023-11-20 | 16,565 | 116 |
 | 2023-11-21 | 16,578 | 116 |
-| 2023-11-22 | 16,583 | 116 |
+| 2023-11-22 | 16,584 | 116 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 314)  
 Sum: 198 (Ranked 400)  

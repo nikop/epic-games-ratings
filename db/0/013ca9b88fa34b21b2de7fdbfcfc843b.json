@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7923,
+  "EOS_Progressed": 7925,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7191,6 +7191,11 @@
       "Time": "2023-11-22T13:18:01.7547639+00:00",
       "NumProgressed": 7923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T14:09:26.3100481+00:00",
+      "NumProgressed": 7925,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7203,7 +7208,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7211,7 +7216,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5625
+      "UsersEstimate": 5627
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7235,7 +7240,7 @@
       "Name": "Clear the Air",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -7243,7 +7248,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -7291,7 +7296,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -7299,7 +7304,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7307,7 +7312,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3882
+      "UsersEstimate": 3883
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7315,7 +7320,7 @@
       "Name": "Beach Comber",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -7339,7 +7344,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7347,7 +7352,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -7355,7 +7360,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -7363,7 +7368,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -7379,7 +7384,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3725
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -7387,7 +7392,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -7419,7 +7424,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -7435,7 +7440,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -7482,22 +7487,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7923,
+      "Progressed": 7925,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 540,
-      "Completed": 540
+      "Progressed": 542,
+      "Completed": 542
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:18:01.7547632+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:09:26.3100478+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:11:01.6428058+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:18:01.7548145+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:02:56.8345685+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:09:26.3101061+00:00"
 }

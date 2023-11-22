@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6899,
+  "EOS_Progressed": 6900,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -5868,6 +5868,11 @@
       "Time": "2023-11-22T09:08:13.6775539+00:00",
       "NumProgressed": 6899,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-11-22T14:08:18.7586768+00:00",
+      "NumProgressed": 6900,
+      "NumCompleted": 40
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5880,7 +5885,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6003
     },
     {
       "ID": "achievement_01_02",
@@ -5896,7 +5901,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "achievement_01_04",
@@ -5904,7 +5909,7 @@
       "Name": "Bzzzt",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "achievement_01_05",
@@ -5918,9 +5923,9 @@
       "ID": "achievement_01_06",
       "SetID": "4f1m94d",
       "Name": "Mr Wheeler",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 4139
+      "UsersEstimate": 4071
     },
     {
       "ID": "achievement_01_07",
@@ -5936,7 +5941,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "achievement_01_09",
@@ -5952,7 +5957,7 @@
       "Name": "Beat the Clock",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "achievement_02_01",
@@ -6128,7 +6133,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "achievement_04_04",
@@ -6160,7 +6165,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3519
     },
     {
       "ID": "achievement_04_08",
@@ -6168,7 +6173,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5933
+      "UsersEstimate": 5934
     },
     {
       "ID": "achievement_04_09",
@@ -6183,7 +6188,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6899,
+      "Progressed": 6900,
       "Completed": 40
     }
   ],
@@ -6191,8 +6196,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-18T21:58:48.6399645+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:16:24.4174736+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:08:18.7586766+00:00",
   "LastUpdate_AppInfo": "2023-11-16T21:57:02.8000931+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:10:36.8948564+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:16:24.4175456+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:02:42.2310967+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:08:18.7587337+00:00"
 }

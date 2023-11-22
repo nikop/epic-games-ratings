@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16583,
+  "EOS_Progressed": 16584,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14638,6 +14638,11 @@
       "Time": "2023-11-22T13:14:50.6936139+00:00",
       "NumProgressed": 16583,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2023-11-22T14:05:34.9435245+00:00",
+      "NumProgressed": 16584,
+      "NumCompleted": 116
     }
   ],
   "TotalAchievements": 41,
@@ -14689,7 +14694,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "tpote_achievement_15",
@@ -14697,7 +14702,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "tpote_achievement_16",
@@ -14737,7 +14742,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "tpote_achievement_20",
@@ -14769,7 +14774,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "tpote_achievement_24",
@@ -14817,7 +14822,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "tpote_achievement_3",
@@ -14857,7 +14862,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "tpote_achievement_34",
@@ -14881,7 +14886,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "tpote_achievement_37",
@@ -14905,7 +14910,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "tpote_achievement_4",
@@ -14913,7 +14918,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "tpote_achievement_40",
@@ -14921,7 +14926,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "tpote_achievement_41",
@@ -14929,7 +14934,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "tpote_achievement_5",
@@ -14961,7 +14966,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "tpote_achievement_9",
@@ -14969,22 +14974,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16583,
+      "Progressed": 16584,
       "Completed": 116
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:14:50.6936133+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:05:34.9435243+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:16.9246335+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:08:13.9936554+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:14:50.6936992+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:59:20.6136781+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:05:34.9435925+00:00"
 }

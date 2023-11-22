@@ -27,9 +27,9 @@ Rating: 4.64 (Ranked 333)
 | Live with the Hot Ones | 42.00% | ~808 |
 | Keeper of the Faith | 40.00% | ~769 |
 | Betrayed | 39.00% | ~750 |
+| Exodus | 38.00% | ~731 |
 | Legend Teller | 38.00% | ~731 |
 | Mindless Prey | 38.00% | ~731 |
-| Exodus | 37.00% | ~712 |
 | There's Always Peng! | 37.00% | ~712 |
 | A Cut Above | 33.00% | ~635 |
 | Front Toward Enemy | 33.00% | ~635 |

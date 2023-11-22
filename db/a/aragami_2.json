@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43950,
+  "EOS_Progressed": 43951,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17814,6 +17814,11 @@
       "Time": "2023-11-22T13:11:56.5167529+00:00",
       "NumProgressed": 43950,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-11-22T14:03:33.6735803+00:00",
+      "NumProgressed": 43951,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 44,
@@ -17825,7 +17830,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25051
+      "UsersEstimate": 25052
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17833,7 +17838,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13624
+      "UsersEstimate": 13625
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17929,7 +17934,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -17945,7 +17950,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35160
+      "UsersEstimate": 35161
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17953,7 +17958,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -18001,7 +18006,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10108
+      "UsersEstimate": 10109
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -18065,7 +18070,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27688
+      "UsersEstimate": 27689
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -18073,7 +18078,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11866
+      "UsersEstimate": 11867
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -18089,7 +18094,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26370
+      "UsersEstimate": 26371
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -18097,7 +18102,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29446
+      "UsersEstimate": 29447
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -18153,7 +18158,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -18169,14 +18174,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22854
+      "UsersEstimate": 22855
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43950,
+      "Progressed": 43951,
       "Completed": 241
     }
   ],
@@ -18184,8 +18189,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-22T13:11:56.5167522+00:00",
+  "LastChanged_Achievements": "2023-11-22T14:03:33.67358+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:11.2490619+00:00",
-  "LastUpdate_Ratings": "2023-11-22T13:10:48.8329999+00:00",
-  "LastUpdate_Achievements": "2023-11-22T13:11:56.51688+00:00"
+  "LastUpdate_Ratings": "2023-11-22T14:02:49.1099833+00:00",
+  "LastUpdate_Achievements": "2023-11-22T14:03:33.6737151+00:00"
 }
