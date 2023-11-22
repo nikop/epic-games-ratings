@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.74% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.72% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.57% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -19,8 +19,8 @@
 | 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.90% |
-| 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
+| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
+| 21 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.69% |
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
 | 24 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
@@ -70,7 +70,7 @@
 | 68 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.71% |
 | 69 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.61% |
 | 70 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.38% |
+| 71 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.35% |
 | 72 | [JARS](games/j/jars.md) | 5.21% |
 | 73 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.00% |
 | 74 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
@@ -90,7 +90,7 @@
 | 88 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.74% |
 | 90 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.70% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.52% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.51% |
 | 92 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.36% |
 | 93 | [Bunny Park](games/b/bunny_park.md) | 3.32% |
 | 94 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
@@ -130,12 +130,12 @@
 | 128 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 129 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.87% |
 | 129 | [Somerville](games/s/somerville.md) | 1.87% |
-| 131 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.82% |
-| 132 | [Sifu](games/s/sifu.md) | 1.80% |
-| 133 | [Frogun](games/f/frogun.md) | 1.79% |
-| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.69% |
+| 131 | [Sifu](games/s/sifu.md) | 1.80% |
+| 132 | [Frogun](games/f/frogun.md) | 1.79% |
+| 132 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.79% |
 | 134 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.69% |
-| 136 | [Five Dates](games/f/five_dates.md) | 1.68% |
+| 135 | [Five Dates](games/f/five_dates.md) | 1.68% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.68% |
 | 137 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.67% |
 | 138 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.62% |
 | 139 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.57% |
@@ -152,8 +152,8 @@
 | 150 | [Iron Danger](games/i/iron_danger.md) | 1.27% |
 | 151 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.26% |
 | 151 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
-| 153 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.25% |
 | 153 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
+| 154 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.24% |
 | 155 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.23% |
 | 155 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 157 | [Dungeons 4](games/d/dungeons_4.md) | 1.18% |
@@ -166,8 +166,8 @@
 | 164 | [Infindustry](games/i/infindustry.md) | 1.02% |
 | 164 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.02% |
 | 166 | [Sable](games/s/sable.md) | 1.01% |
-| 167 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.00% |
-| 168 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
+| 167 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.99% |
+| 167 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
 | 169 | [Trifox](games/t/trifox.md) | 0.96% |
 | 170 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
 | 171 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.93% |
@@ -179,8 +179,8 @@
 | 177 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 178 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.83% |
 | 179 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
-| 180 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.81% |
-| 181 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 180 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 180 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.80% |
 | 182 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.77% |
 | 183 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 184 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
@@ -226,23 +226,23 @@
 | 224 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 225 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.36% |
 | 226 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 226 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.35% |
 | 226 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 229 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 228 | [Dead Island 2](games/d/dead_island_2.md) | 0.34% |
+| 228 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.34% |
 | 230 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 231 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
 | 231 | [Them and Us](games/t/them_and_us.md) | 0.32% |
 | 233 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 233 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 235 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.30% |
 | 235 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
-| 236 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
-| 236 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
-| 236 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
-| 236 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 240 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 240 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.28% |
-| 242 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 242 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.27% |
+| 237 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
+| 237 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
+| 237 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
+| 237 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
+| 241 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
+| 241 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.28% |
+| 243 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 244 | [Filament](games/f/filament.md) | 0.26% |
 | 244 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.26% |
 | 246 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
