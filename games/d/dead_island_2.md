@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~956 |
-| Whatever It Takes | 2.00% | ~956 |
-| Pork Chopped | 2.00% | ~956 |
+| One of Us | 2.00% | ~957 |
+| Whatever It Takes | 2.00% | ~957 |
+| Pork Chopped | 2.00% | ~957 |
 | Dr. Reed, I Presume? | 1.00% | ~7,223 |
 | Git Gutte! | 1.00% | ~7,223 |
 | Bookworm | 1.00% | ~7,223 |
@@ -37,10 +37,10 @@ Rating: 4.54 (Ranked 527)
 | Max Headroom | 0.70% | ~5,056 |
 | Humanity Distilled | 0.60% | ~4,334 |
 | Down with the Sickness | 0.60% | ~4,334 |
-| Not Even My Final Form | 0.50% | ~3,611 |
-| Jumbo Keyring | 0.50% | ~3,611 |
-| Go, Bobcats! | 0.50% | ~3,611 |
-| Rising Star | 0.50% | ~3,611 |
+| Not Even My Final Form | 0.50% | ~3,612 |
+| Jumbo Keyring | 0.50% | ~3,612 |
+| Go, Bobcats! | 0.50% | ~3,612 |
+| Rising Star | 0.50% | ~3,612 |
 | On Safari | 0.40% | ~2,889 |
 | Smorgasbord | 0.40% | ~2,889 |
 | Internet Famous | 0.40% | ~2,889 |
@@ -48,7 +48,7 @@ Rating: 4.54 (Ranked 527)
 | Make it So | 0.30% | ~2,167 |
 | LA Influential | 0.30% | ~2,167 |
 | Gore Horse | 0.30% | ~2,167 |
-| Top That, Tisha! | 0.30% | ~143 |
+| Top That, Tisha! | 0.30% | ~144 |
 | Sole Survivor | 0.20% | ~1,445 |
 | Sharpest Tool in the Box | 0.20% | ~1,445 |
 | Survival Skills | 0.20% | ~1,445 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,279 (Ranked 21)  
+Progressed: 722,302 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,279 | 2,423 |
+| 2023-11-22 | 722,302 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,664 (Ranked 84)  

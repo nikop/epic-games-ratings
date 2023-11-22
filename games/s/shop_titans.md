@@ -56,22 +56,22 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 1.00% | ~1,409 |
 | Arcane Industries | 1.00% | ~1,409 |
 | Complete Monopoly | 1.00% | ~1,409 |
-| A Notch Above the Rest | 0.90% | ~1,268 |
-| Above the Norm | 0.90% | ~1,268 |
-| The King's Caprice | 0.90% | ~1,268 |
-| Big Game Hunting | 0.90% | ~1,268 |
-| Locally Sourced | 0.90% | ~1,268 |
-| Master of Transmutation | 0.90% | ~1,268 |
-| Hidden Potential | 0.90% | ~1,268 |
-| Cranked up to 11 | 0.90% | ~1,268 |
-| Fit for a King | 0.90% | ~1,268 |
-| Mammonite | 0.90% | ~1,268 |
-| Fat Cat Tag Team | 0.90% | ~1,268 |
-| Necromancer Queen | 0.90% | ~1,268 |
-| Miracle Alchemist | 0.90% | ~1,268 |
-| Laden with Loot | 0.90% | ~1,268 |
-| Scourge of the Seas | 0.90% | ~1,268 |
-| Exotic Commodities | 0.90% | ~1,268 |
+| A Notch Above the Rest | 0.90% | ~1,269 |
+| Above the Norm | 0.90% | ~1,269 |
+| The King's Caprice | 0.90% | ~1,269 |
+| Big Game Hunting | 0.90% | ~1,269 |
+| Locally Sourced | 0.90% | ~1,269 |
+| Master of Transmutation | 0.90% | ~1,269 |
+| Hidden Potential | 0.90% | ~1,269 |
+| Cranked up to 11 | 0.90% | ~1,269 |
+| Fit for a King | 0.90% | ~1,269 |
+| Mammonite | 0.90% | ~1,269 |
+| Fat Cat Tag Team | 0.90% | ~1,269 |
+| Necromancer Queen | 0.90% | ~1,269 |
+| Miracle Alchemist | 0.90% | ~1,269 |
+| Laden with Loot | 0.90% | ~1,269 |
+| Scourge of the Seas | 0.90% | ~1,269 |
+| Exotic Commodities | 0.90% | ~1,269 |
 | Cream of the Crop | 0.80% | ~1,128 |
 | Proud Paladin | 0.80% | ~1,128 |
 | A Ronin Reborn | 0.80% | ~1,128 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,939 (Ranked 80)  
+Progressed: 140,948 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,939 | 191 |
+| 2023-11-22 | 140,948 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

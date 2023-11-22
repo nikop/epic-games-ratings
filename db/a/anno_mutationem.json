@@ -5,10 +5,10 @@
   "Ranking_Rating": 491,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -582,6 +582,11 @@
       "Time": "2023-11-16T23:04:55.1932238+00:00",
       "NumProgressed": 683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T11:03:52.2718243+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -593,7 +598,7 @@
       "Name": "Ann ULTRA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Annakin Skyscroller",
@@ -617,7 +622,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Clarity_of_Mind",
@@ -641,7 +646,7 @@
       "Name": "1\u002B1\u003E2",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Deadly_Kombationem",
@@ -657,7 +662,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -687,9 +692,9 @@
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 178
     },
     {
       "ID": "In the smacker...I think",
@@ -713,7 +718,7 @@
       "Name": "Lady Luck is a cool cat",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Omnipotence",
@@ -721,7 +726,7 @@
       "Name": "Omnipotence",
       "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "SERENITY_NOW",
@@ -761,7 +766,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -793,7 +798,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "The_Warlord",
@@ -801,7 +806,7 @@
       "Name": "The Warlord",
       "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -809,7 +814,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "The_truth_is_out_there",
@@ -825,7 +830,7 @@
       "Name": "This can\u0027t be right\u2026",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Welcome_home_06",
@@ -880,7 +885,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 0
     }
   ],
@@ -888,8 +893,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:03:31.5950081+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:03:52.2718239+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:33.6518262+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:57:34.2356812+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:03:31.5950327+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:57:47.1530854+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:03:52.27185+00:00"
 }

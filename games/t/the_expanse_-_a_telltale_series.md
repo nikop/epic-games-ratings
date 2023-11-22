@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 491)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 9.00% | ~1,370 |
+| Oyedang, Kopengs | 9.00% | ~1,371 |
 | The Pit and the Pirates | 5.00% | ~761 |
 | Drone Dodger | 5.00% | ~761 |
 | Bosmang | 5.00% | ~761 |
@@ -25,10 +25,10 @@ Rating: 4.56 (Ranked 491)
 | Heal Thy Medic | 3.00% | ~457 |
 | Khan's Revenge | 3.00% | ~457 |
 | Master Negotiator | 3.00% | ~35 |
-| Doctor Approved | 2.00% | ~304 |
-| Bottoms up! | 2.00% | ~304 |
-| Thorston Mayer | 2.00% | ~304 |
-| Miraculous Maya | 2.00% | ~304 |
+| Doctor Approved | 2.00% | ~305 |
+| Bottoms up! | 2.00% | ~305 |
+| Thorston Mayer | 2.00% | ~305 |
+| Miraculous Maya | 2.00% | ~305 |
 | Data Logger | 1.00% | ~152 |
 | Data Master | 1.00% | ~152 |
 | Brother's Reaper | 0.80% | ~122 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,225 (Ranked 152)  
+Progressed: 15,229 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,225 | 35 |
+| 2023-11-22 | 15,229 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

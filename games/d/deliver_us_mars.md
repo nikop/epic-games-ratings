@@ -5,41 +5,41 @@ Rating: 4.03 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 56.00% | ~5 |
-| Quick like a Kat | 44.00% | ~4 |
-| The beginning of a beautiful collection | 44.00% | ~4 |
-| Cinephile | 44.00% | ~4 |
-| Piecing the story together | 44.00% | ~4 |
-| Kats always land on their feet | 33.00% | ~3 |
-| Kat-like reflexes | 33.00% | ~3 |
-| Stellar extra-vehicular activities score | 33.00% | ~3 |
-| Peruser | 33.00% | ~3 |
-| Pannapictagraphist | 33.00% | ~3 |
-| Curiosity didn't kill the Kat | 33.00% | ~3 |
-| As the story unfolds... | 33.00% | ~3 |
-| Chronicler | 33.00% | ~3 |
-| Delivered Us Mars | 33.00% | ~3 |
-| Desperate Times | 33.00% | ~3 |
-| When ACE met AYLA | 22.00% | ~2 |
-| Simulacrum | 22.00% | ~2 |
-| Reading is fundamental | 22.00% | ~2 |
-| Take a look | 22.00% | ~2 |
-| Their batteries were low and it got dark | 22.00% | ~2 |
-| On the Precipice | 22.00% | ~2 |
-| Moonbear | 22.00% | ~2 |
-| The Dream for These Folks | 22.00% | ~2 |
-| Like Animals | 22.00% | ~2 |
-| A Nice Place to Live | 22.00% | ~2 |
-| Not the Rabbits, Not the Bees | 22.00% | ~2 |
-| Home Is... | 22.00% | ~2 |
-| Wants and Needs | 22.00% | ~2 |
-| Shai-Hulud? | 22.00% | ~2 |
-| The Gang | 22.00% | ~2 |
-| Getting the hang of it | 11.00% | ~1 |
-| Want to Go to Space? | 11.00% | ~1 |
-| Who waits five minutes, seriously? | 11.00% | ~1 |
+| Better jot that down | 50.00% | ~5 |
+| Quick like a Kat | 40.00% | ~4 |
+| The beginning of a beautiful collection | 40.00% | ~4 |
+| Cinephile | 40.00% | ~4 |
+| Piecing the story together | 40.00% | ~4 |
+| Kats always land on their feet | 30.00% | ~3 |
+| Kat-like reflexes | 30.00% | ~3 |
+| Stellar extra-vehicular activities score | 30.00% | ~3 |
+| Peruser | 30.00% | ~3 |
+| Pannapictagraphist | 30.00% | ~3 |
+| Curiosity didn't kill the Kat | 30.00% | ~3 |
+| As the story unfolds... | 30.00% | ~3 |
+| Chronicler | 30.00% | ~3 |
+| Delivered Us Mars | 30.00% | ~3 |
+| Desperate Times | 30.00% | ~3 |
+| When ACE met AYLA | 20.00% | ~2 |
+| Simulacrum | 20.00% | ~2 |
+| Reading is fundamental | 20.00% | ~2 |
+| Take a look | 20.00% | ~2 |
+| Their batteries were low and it got dark | 20.00% | ~2 |
+| On the Precipice | 20.00% | ~2 |
+| Moonbear | 20.00% | ~2 |
+| The Dream for These Folks | 20.00% | ~2 |
+| Like Animals | 20.00% | ~2 |
+| A Nice Place to Live | 20.00% | ~2 |
+| Not the Rabbits, Not the Bees | 20.00% | ~2 |
+| Home Is... | 20.00% | ~2 |
+| Wants and Needs | 20.00% | ~2 |
+| Shai-Hulud? | 20.00% | ~2 |
+| The Gang | 20.00% | ~2 |
+| Getting the hang of it | 10.00% | ~1 |
+| Want to Go to Space? | 10.00% | ~1 |
+| Who waits five minutes, seriously? | 10.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 604)  
+Progressed: 10 (Ranked 601)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-09-12 | 7 | 0 |
 | 2023-11-07 | 8 | 0 |
 | 2023-11-21 | 9 | 0 |
+| 2023-11-22 | 10 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

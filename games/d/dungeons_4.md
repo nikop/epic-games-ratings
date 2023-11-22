@@ -7,7 +7,7 @@
 | The Last Stand | 87.00% | ~289 |
 | Thalya – Simply Immortal | 87.00% | ~289 |
 | For the Horde! | 82.00% | ~272 |
-| Hammer Time, Round Two | 80.00% | ~266 |
+| Hammer Time, Round Two | 81.00% | ~269 |
 | The Hellwoods | 77.00% | ~256 |
 | The Plains of Strothalm | 72.00% | ~239 |
 | Experienced Thalya | 70.00% | ~232 |
@@ -21,9 +21,9 @@
 | Trap Master | 54.00% | ~179 |
 | The Ascent | 50.00% | ~166 |
 | It's Warm and Cozy at Home | 50.00% | ~166 |
+| Hard Work | 46.00% | ~153 |
 | YOU SHALL NOT PASS! | 45.00% | ~149 |
-| Hard Work | 45.00% | ~149 |
-| The Big Eaty | 44.00% | ~146 |
+| The Big Eaty | 45.00% | ~149 |
 | Pure Dynamite! | 42.00% | ~139 |
 | “… like son” | 38.00% | ~126 |
 | Mana Cannon | 36.00% | ~120 |
@@ -44,13 +44,13 @@
 | Sacrificial Pit = Garbage Disposal? | 17.00% | ~56 |
 | Stop Tanos! | 16.00% | ~53 |
 | Doom Hill | 14.00% | ~46 |
+| Sabotage! | 13.00% | ~43 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~43 |
-| Sabotage! | 12.00% | ~40 |
 | Bonus Evilness | 11.00% | ~37 |
 | Raiders of the Lost Stone | 11.00% | ~37 |
 | The Rune Sockets of Finitude (Part 1) | 11.00% | ~37 |
 | My Little Torture Chamber | 10.00% | ~33 |
-| Lavalumps on Ice! | 9.00% | ~30 |
+| Lavalumps on Ice! | 10.00% | ~33 |
 | Untouchable | 8.00% | ~27 |
 | Rubble and Ashes | 8.00% | ~27 |
 | To Infinity And Beyond! | 8.00% | ~27 |

@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 792,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1057,11 +1057,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13288,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 984,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Progressed": 13289,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 981,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -10977,6 +10977,11 @@
       "Time": "2023-11-22T10:08:56.7284717+00:00",
       "NumProgressed": 13288,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-22T11:09:09.9554417+00:00",
+      "NumProgressed": 13289,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11236,16 +11241,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13288,
-      "Completed": 11
+      "Progressed": 13289,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:08:56.7284713+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:09:09.9554412+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:02:51.3214873+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:08:56.7285317+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:03:00.9960609+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:09:09.9555302+00:00"
 }

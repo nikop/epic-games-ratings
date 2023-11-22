@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,6 +43,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.30% | ~720 |
 | Shadow Walker | 0.30% | ~720 |
 | Flesh Wound | 0.30% | ~720 |
+| Shapeshifting | 0.30% | ~720 |
 | What Doesn't Kill You | 0.30% | ~5 |
 | Thank You, Friend | 0.20% | ~480 |
 | Consecutive Curses | 0.20% | ~480 |
@@ -63,7 +64,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.20% | ~480 |
 | Antivenom | 0.20% | ~480 |
 | New Perspectives | 0.20% | ~480 |
-| Shapeshifting | 0.20% | ~480 |
 | The Long Run | 0.20% | ~480 |
 | Who Needs Luck? | 0.20% | ~3 |
 | Raw Power | 0.20% | ~3 |

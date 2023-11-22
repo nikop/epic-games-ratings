@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24663,
+  "EOS_Progressed": 24664,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23613,6 +23613,11 @@
       "Time": "2023-11-22T10:03:11.8659663+00:00",
       "NumProgressed": 24663,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-22T11:03:28.0134051+00:00",
+      "NumProgressed": 24664,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23776,22 +23781,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4440
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24663,
+      "Progressed": 24664,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:03:11.8659661+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:03:28.0134048+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:00:52.9480709+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:03:11.8660812+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:02:39.878629+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:03:28.0135226+00:00"
 }

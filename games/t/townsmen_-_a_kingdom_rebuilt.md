@@ -38,6 +38,7 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job III | 4.00% | ~174 |
 | Tax-man IV | 4.00% | ~174 |
 | A time consuming game III | 4.00% | ~174 |
+| Tools of the trade II | 4.00% | ~174 |
 | Bread for the people III | 3.00% | ~130 |
 | I like to build stuff... IV | 3.00% | ~130 |
 | I like to build stuff... V | 3.00% | ~130 |
@@ -48,7 +49,6 @@ Number of Ratings: 37  (23.09.2022)
 | Cosmas and Damian | 3.00% | ~130 |
 | Builder III | 3.00% | ~130 |
 | A time consuming game IV | 3.00% | ~130 |
-| Tools of the trade II | 3.00% | ~130 |
 | Out of the frying pan | 3.00% | ~130 |
 | The Art of War | 2.00% | ~87 |
 | Five brews are a schnitzel | 2.00% | ~87 |

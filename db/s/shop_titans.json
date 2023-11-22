@@ -7159,9 +7159,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140939,
+  "EOS_Progressed": 140948,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1066,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29409,6 +29409,11 @@
       "Time": "2023-11-22T10:06:18.1008967+00:00",
       "NumProgressed": 140939,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-11-22T11:07:16.5165146+00:00",
+      "NumProgressed": 140948,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 112,
@@ -29436,7 +29441,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "advlevel04",
@@ -29476,7 +29481,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ascend03",
@@ -29516,7 +29521,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "blueprint01",
@@ -29564,7 +29569,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "boss03",
@@ -29668,7 +29673,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "commonres04",
@@ -29748,7 +29753,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "enchant01",
@@ -29756,7 +29761,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "enchant02",
@@ -29836,7 +29841,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "furniture03",
@@ -29844,7 +29849,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "fuseepic",
@@ -29924,7 +29929,7 @@
       "Name": "Mammonite",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "gold06",
@@ -29948,7 +29953,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "help03",
@@ -29964,7 +29969,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "jackslot01",
@@ -30036,7 +30041,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "loot01",
@@ -30052,7 +30057,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "loot03",
@@ -30124,7 +30129,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "quest01",
@@ -30268,7 +30273,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "uncommonres03",
@@ -30315,15 +30320,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140939,
+      "Progressed": 140948,
       "Completed": 191
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T06:02:58.3526894+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:06:18.1008963+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:07:16.5165141+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:02:49.0504033+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:06:18.1011196+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:02:58.2662335+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:07:16.5167201+00:00"
 }

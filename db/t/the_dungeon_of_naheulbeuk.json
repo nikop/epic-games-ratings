@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1371,9 +1371,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 238813,
+  "EOS_Progressed": 238822,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1596,
+  "EOS_NewPlayers": 1603,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19511,6 +19511,11 @@
       "Time": "2023-11-22T10:08:50.8355051+00:00",
       "NumProgressed": 238813,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T11:09:02.6763734+00:00",
+      "NumProgressed": 238822,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -19522,7 +19527,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7164
+      "UsersEstimate": 7165
     },
     {
       "ID": "100Fail",
@@ -19554,7 +19559,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7164
+      "UsersEstimate": 7165
     },
     {
       "ID": "BookCollection",
@@ -19586,7 +19591,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7164
+      "UsersEstimate": 7165
     },
     {
       "ID": "Chapter4",
@@ -19922,7 +19927,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16717
+      "UsersEstimate": 16718
     },
     {
       "ID": "DwarfElf15Support",
@@ -19970,7 +19975,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83585
+      "UsersEstimate": 83588
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -20018,7 +20023,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "FollowBraztok",
@@ -20225,21 +20230,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 238813,
+      "Progressed": 238822,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 238813,
+      "Progressed": 238822,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-21T01:49:15.3509206+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:08:50.8355046+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:09:02.676373+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:31.8409819+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:59:03.9018758+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:08:50.8356732+00:00"
+  "LastUpdate_Ratings": "2023-11-22T10:59:36.6742976+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:09:02.6765453+00:00"
 }

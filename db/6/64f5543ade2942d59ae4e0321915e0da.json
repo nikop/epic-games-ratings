@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -390,9 +390,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -557,8 +557,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:04:45.5417944+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:05:25.5012832+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:55.647609+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:00:06.6405489+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:04:45.5418232+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:00:50.7128202+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:05:25.5013128+00:00"
 }

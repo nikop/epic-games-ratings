@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2670,
+  "EOS_Progressed": 2671,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 8.99,
   "EosHistory": [
@@ -7316,6 +7316,11 @@
       "Time": "2023-11-22T09:04:09.3499435+00:00",
       "NumProgressed": 2670,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-22T11:04:10.1077272+00:00",
+      "NumProgressed": 2671,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 12,
@@ -7327,7 +7332,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Bernard",
@@ -7343,7 +7348,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7415,14 +7420,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2670,
+      "Progressed": 2671,
       "Completed": 240
     }
   ],
@@ -7430,8 +7435,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:03:46.0086109+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:04:10.1077266+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:34.5028572+00:00",
-  "LastUpdate_Ratings": "2023-11-22T09:59:59.6745669+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:03:46.0086508+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:00:42.8434125+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:04:10.1077757+00:00"
 }

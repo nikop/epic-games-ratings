@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531793,
+  "EOS_Progressed": 531794,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23437,6 +23437,11 @@
       "Time": "2023-11-22T10:04:54.2838986+00:00",
       "NumProgressed": 531793,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-11-22T11:05:36.2973722+00:00",
+      "NumProgressed": 531794,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 57,
@@ -23448,7 +23453,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122312
+      "UsersEstimate": 122313
     },
     {
       "ID": "10",
@@ -23464,7 +23469,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372255
+      "UsersEstimate": 372256
     },
     {
       "ID": "12",
@@ -23472,7 +23477,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116994
+      "UsersEstimate": 116995
     },
     {
       "ID": "13",
@@ -23544,7 +23549,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127630
+      "UsersEstimate": 127631
     },
     {
       "ID": "21",
@@ -23672,7 +23677,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265896
+      "UsersEstimate": 265897
     },
     {
       "ID": "36",
@@ -23752,7 +23757,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42543
+      "UsersEstimate": 42544
     },
     {
       "ID": "45",
@@ -23832,7 +23837,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122312
+      "UsersEstimate": 122313
     },
     {
       "ID": "54",
@@ -23903,15 +23908,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531793,
+      "Progressed": 531794,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:04:54.2838983+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:05:36.2973715+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.3890508+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:02:50.7764437+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:04:54.2840132+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:03:00.4325822+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:05:36.2975412+00:00"
 }

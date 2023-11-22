@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78922,
+  "EOS_Progressed": 78923,
   "EOS_Completed": 850,
   "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 8,
@@ -24237,6 +24237,11 @@
       "Time": "2023-11-22T09:06:38.4933182+00:00",
       "NumProgressed": 78922,
       "NumCompleted": 850
+    },
+    {
+      "Time": "2023-11-22T11:06:34.9244014+00:00",
+      "NumProgressed": 78923,
+      "NumCompleted": 850
     }
   ],
   "TotalAchievements": 25,
@@ -24320,7 +24325,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15784
+      "UsersEstimate": 15785
     },
     {
       "ID": "Hearty",
@@ -24392,7 +24397,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8681
+      "UsersEstimate": 8682
     },
     {
       "ID": "Right On Target",
@@ -24447,7 +24452,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78922,
+      "Progressed": 78923,
       "Completed": 850
     }
   ],
@@ -24455,8 +24460,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-22T10:05:42.83158+00:00",
+  "LastChanged_Achievements": "2023-11-22T11:06:34.9244009+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:40.5899492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:00:09.783345+00:00",
-  "LastUpdate_Achievements": "2023-11-22T10:05:42.8317341+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:00:54.8284904+00:00",
+  "LastUpdate_Achievements": "2023-11-22T11:06:34.9245335+00:00"
 }
