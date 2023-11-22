@@ -558,6 +558,7 @@
 | [Island Cities](../games/i/island_cities.md) | 22 | 1,000 |
 | [laserlemon Production](../games/l/laserlemon_production.md) | 22 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |
+| [LOVE 3](../games/l/love_3.md) | 22 | 1,000 |
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
 | [The Bridge Curse Road to Salvation](../games/0/0edc15388101433f8619477c7860311c.md) | 22 | 1,000 |
 | [The Gardener and the Wild Vines](../games/t/the_gardener_and_the_wild_vines.md) | 22 | 1,000 |
