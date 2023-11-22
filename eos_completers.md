@@ -11,9 +11,9 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.32% |
 | 10 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 33.33% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
-| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.95% |
+| 12 | [The Riflemen](games/t/the_riflemen.md) | 29.94% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.73% |
+| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.65% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 25.00% |
@@ -24,7 +24,7 @@
 | 22 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 23 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 19.05% |
 | 24 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
-| 25 | [Island Cities](games/i/island_cities.md) | 17.08% |
+| 25 | [Island Cities](games/i/island_cities.md) | 17.06% |
 | 26 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 16.67% |
 | 27 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.25% |
 | 28 | [Remains](games/r/remains.md) | 14.55% |
@@ -133,7 +133,7 @@
 | 131 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.82% |
 | 132 | [Sifu](games/s/sifu.md) | 1.80% |
 | 133 | [Frogun](games/f/frogun.md) | 1.79% |
-| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.70% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.71% |
 | 135 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.69% |
 | 136 | [Five Dates](games/f/five_dates.md) | 1.68% |
 | 137 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.67% |
@@ -162,15 +162,15 @@
 | 159 | [The Devil's Face](games/t/the_devil's_face.md) | 1.05% |
 | 159 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.05% |
 | 162 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
-| 162 | [Infindustry](games/i/infindustry.md) | 1.04% |
-| 164 | [Sable](games/s/sable.md) | 1.01% |
-| 165 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
-| 166 | [Trifox](games/t/trifox.md) | 0.96% |
-| 167 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
-| 168 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.93% |
-| 169 | [Dungeons 4](games/d/dungeons_4.md) | 0.91% |
-| 169 | [Hades](games/h/hades.md) | 0.91% |
-| 171 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.90% |
+| 163 | [Infindustry](games/i/infindustry.md) | 1.03% |
+| 163 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.03% |
+| 165 | [Sable](games/s/sable.md) | 1.01% |
+| 166 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.99% |
+| 167 | [Trifox](games/t/trifox.md) | 0.96% |
+| 168 | [A Musical Story](games/a/a_musical_story.md) | 0.94% |
+| 169 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.93% |
+| 170 | [Dungeons 4](games/d/dungeons_4.md) | 0.91% |
+| 170 | [Hades](games/h/hades.md) | 0.91% |
 | 172 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.88% |
 | 172 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.88% |
 | 174 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
