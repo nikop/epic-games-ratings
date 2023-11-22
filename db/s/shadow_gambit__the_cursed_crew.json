@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.51,
   "EosHistory": [
@@ -2753,6 +2753,11 @@
       "Time": "2023-11-22T18:06:13.1815929+00:00",
       "NumProgressed": 854,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-22T20:06:05.1804572+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2773,7 +2778,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "_03_FinishAct1",
@@ -2781,7 +2786,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2789,7 +2794,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "_05_FinishAct2",
@@ -2813,7 +2818,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "_08_Completion_10",
@@ -2821,15 +2826,15 @@
       "Name": "Swabbie",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 265
     },
     {
       "ID": "_10_Completion_30",
@@ -2917,7 +2922,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2933,7 +2938,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2941,7 +2946,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2957,7 +2962,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2972,7 +2977,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 30
     }
   ],
@@ -2980,8 +2985,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:08:07.2209773+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:06:05.1804564+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:58:31.5501288+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:08:07.2210019+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:57:52.753331+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:06:05.1804918+00:00"
 }

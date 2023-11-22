@@ -6,15 +6,15 @@
 | ---- | ---------- | ----- |
 | Travel Streamer | 90.00% | ~144 |
 | Training Simulation | 78.00% | ~125 |
-| Kuku Bird Hunter | 67.00% | ~107 |
-| Storm Traveller | 61.00% | ~98 |
+| Kuku Bird Hunter | 68.00% | ~109 |
+| Storm Traveller | 62.00% | ~99 |
+| Wolf King Killer | 60.00% | ~96 |
 | Fashion Connoisseur | 59.00% | ~94 |
-| Wolf King Killer | 59.00% | ~94 |
-| Arms Mechanic | 50.00% | ~80 |
+| Arms Mechanic | 51.00% | ~82 |
 | Flower Thief | 49.00% | ~78 |
 | Apostle of Flame | 45.00% | ~72 |
 | Beginner Artificer | 44.00% | ~70 |
-| Beginner Cook | 42.00% | ~67 |
+| Beginner Cook | 43.00% | ~69 |
 | Seal Breaker | 39.00% | ~62 |
 | Handyman | 36.00% | ~58 |
 | Giant Lizard Killer | 35.00% | ~56 |

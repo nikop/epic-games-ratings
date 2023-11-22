@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531815,
+  "EOS_Progressed": 531819,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -23477,6 +23477,11 @@
       "Time": "2023-11-22T19:06:08.7683734+00:00",
       "NumProgressed": 531815,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-11-22T20:04:44.0303582+00:00",
+      "NumProgressed": 531819,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 57,
@@ -23488,7 +23493,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122317
+      "UsersEstimate": 122318
     },
     {
       "ID": "10",
@@ -23496,7 +23501,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239317
+      "UsersEstimate": 239319
     },
     {
       "ID": "11",
@@ -23504,7 +23509,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 372270
+      "UsersEstimate": 372273
     },
     {
       "ID": "12",
@@ -23512,7 +23517,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116999
+      "UsersEstimate": 117000
     },
     {
       "ID": "13",
@@ -23544,7 +23549,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47863
+      "UsersEstimate": 47864
     },
     {
       "ID": "17",
@@ -23560,7 +23565,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79772
+      "UsersEstimate": 79773
     },
     {
       "ID": "19",
@@ -23568,7 +23573,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329725
+      "UsersEstimate": 329728
     },
     {
       "ID": "2",
@@ -23584,7 +23589,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127636
+      "UsersEstimate": 127637
     },
     {
       "ID": "21",
@@ -23600,7 +23605,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47863
+      "UsersEstimate": 47864
     },
     {
       "ID": "23",
@@ -23648,7 +23653,7 @@
       "Name": "Talk the Talk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15954
+      "UsersEstimate": 15955
     },
     {
       "ID": "29",
@@ -23712,7 +23717,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265908
+      "UsersEstimate": 265910
     },
     {
       "ID": "36",
@@ -23720,7 +23725,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85090
+      "UsersEstimate": 85091
     },
     {
       "ID": "37",
@@ -23736,7 +23741,7 @@
       "Name": "Skin in the Game",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 15954
+      "UsersEstimate": 15955
     },
     {
       "ID": "39",
@@ -23744,7 +23749,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180817
+      "UsersEstimate": 180818
     },
     {
       "ID": "4",
@@ -23792,7 +23797,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42545
+      "UsersEstimate": 42546
     },
     {
       "ID": "45",
@@ -23800,7 +23805,7 @@
       "Name": "Caving In",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15954
+      "UsersEstimate": 15955
     },
     {
       "ID": "46",
@@ -23808,7 +23813,7 @@
       "Name": "Page Turner",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15954
+      "UsersEstimate": 15955
     },
     {
       "ID": "47",
@@ -23816,7 +23821,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329725
+      "UsersEstimate": 329728
     },
     {
       "ID": "48",
@@ -23824,7 +23829,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106363
+      "UsersEstimate": 106364
     },
     {
       "ID": "49",
@@ -23832,7 +23837,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180817
+      "UsersEstimate": 180818
     },
     {
       "ID": "5",
@@ -23848,7 +23853,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74454
+      "UsersEstimate": 74455
     },
     {
       "ID": "51",
@@ -23864,7 +23869,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244635
+      "UsersEstimate": 244637
     },
     {
       "ID": "53",
@@ -23872,7 +23877,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122317
+      "UsersEstimate": 122318
     },
     {
       "ID": "54",
@@ -23904,7 +23909,7 @@
       "Name": "Spinal Adjustment",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 15954
+      "UsersEstimate": 15955
     },
     {
       "ID": "6",
@@ -23912,7 +23917,7 @@
       "Name": "The Knowledge",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 15954
+      "UsersEstimate": 15955
     },
     {
       "ID": "7",
@@ -23943,15 +23948,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531815,
+      "Progressed": 531819,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:06:08.7683731+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:04:44.0303577+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:13.3890508+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:03:10.6344327+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:06:08.7684931+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:02:45.8359603+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:04:44.0305159+00:00"
 }

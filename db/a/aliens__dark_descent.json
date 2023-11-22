@@ -393,9 +393,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 3671,
+  "EOS_Progressed": 3672,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5903,6 +5903,11 @@
       "Time": "2023-11-22T19:04:41.1713075+00:00",
       "NumProgressed": 3671,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T20:03:44.9449938+00:00",
+      "NumProgressed": 3672,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5954,7 +5959,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5970,7 +5975,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -6010,7 +6015,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -6106,7 +6111,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "ACH_MISSION_02",
@@ -6138,7 +6143,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6162,7 +6167,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH_MISSION_09",
@@ -6186,7 +6191,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH_MISSION_12",
@@ -6234,7 +6239,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -6266,14 +6271,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3671,
+      "Progressed": 3672,
       "Completed": 3
     }
   ],
@@ -6281,8 +6286,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-22T11:02:36.7715383+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:04:41.1713072+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:03:44.9449935+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:57:29.8312778+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:04:41.1713525+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:57:08.1070338+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:03:44.945048+00:00"
 }

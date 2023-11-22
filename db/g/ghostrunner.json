@@ -1395,9 +1395,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22979,
+  "EOS_Progressed": 22980,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -24845,6 +24845,11 @@
       "Time": "2023-11-22T19:03:41.386723+00:00",
       "NumProgressed": 22979,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-22T20:03:05.2029061+00:00",
+      "NumProgressed": 22980,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 45,
@@ -24880,7 +24885,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "CantRunCantHide",
@@ -24960,7 +24965,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "Junkrunner",
@@ -24992,7 +24997,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17464
+      "UsersEstimate": 17465
     },
     {
       "ID": "MoreThanHuman",
@@ -25008,7 +25013,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     },
     {
       "ID": "ObedientMachine",
@@ -25048,7 +25053,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7353
+      "UsersEstimate": 7354
     },
     {
       "ID": "PreempativeStrike",
@@ -25056,7 +25061,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "PushItToTheLimit",
@@ -25088,7 +25093,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     },
     {
       "ID": "Scrapped",
@@ -25120,7 +25125,7 @@
       "Name": "Strike",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "SwordRunner",
@@ -25128,7 +25133,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 14017
+      "UsersEstimate": 14018
     },
     {
       "ID": "SwordToAGunfight",
@@ -25152,7 +25157,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -25184,7 +25189,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "WhereAreMyKeys",
@@ -25215,21 +25220,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22979,
+      "Progressed": 22980,
       "Completed": 57
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22979,
+      "Progressed": 22980,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-14T15:00:11.3052398+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:03:41.3867226+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:03:05.2029058+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:48.6281907+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:01:35.4344072+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:03:41.3868414+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:00:04.8714207+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:03:05.2030185+00:00"
 }

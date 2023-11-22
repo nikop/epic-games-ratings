@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2016,9 +2016,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15427,
+  "EOS_Progressed": 15428,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16351,6 +16351,11 @@
       "Time": "2023-11-22T19:07:17.9037397+00:00",
       "NumProgressed": 15427,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-22T20:05:32.2593145+00:00",
+      "NumProgressed": 15428,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18008,9 +18013,9 @@
       "ID": "ACHIEVEMENT_NATION_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -19097,21 +19102,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15427,
+      "Progressed": 15428,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15427,
+      "Progressed": 15428,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-21T15:57:15.4241342+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:07:17.9037394+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:05:32.2593141+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.7428308+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:58:19.3319891+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:07:17.9046519+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:57:43.9175337+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:05:32.2604169+00:00"
 }

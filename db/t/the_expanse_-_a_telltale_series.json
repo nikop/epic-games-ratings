@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15247,
+  "EOS_Progressed": 15253,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11907,6 +11907,11 @@
       "Time": "2023-11-22T19:05:26.31166+00:00",
       "NumProgressed": 15247,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T20:04:14.4041748+00:00",
+      "NumProgressed": 15253,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11927,7 +11932,7 @@
       "Name": "Data Miner",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "11",
@@ -11935,7 +11940,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "12",
@@ -11943,7 +11948,7 @@
       "Name": "Data Archivist",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "13",
@@ -11951,7 +11956,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "14",
@@ -12007,7 +12012,7 @@
       "Name": "Data Logger",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "20",
@@ -12023,7 +12028,7 @@
       "Name": "Drone Dodger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "22",
@@ -12039,7 +12044,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "24",
@@ -12055,7 +12060,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "26",
@@ -12071,7 +12076,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "28",
@@ -12119,7 +12124,7 @@
       "Name": "Data Master",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "6",
@@ -12127,7 +12132,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "7",
@@ -12135,7 +12140,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "8",
@@ -12143,7 +12148,7 @@
       "Name": "Data Recoverer",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "9",
@@ -12151,7 +12156,7 @@
       "Name": "Impossible Objects",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "31",
@@ -12198,13 +12203,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15247,
+      "Progressed": 15253,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1201,
+      "Progressed": 1207,
       "Completed": 678
     }
   ],
@@ -12212,8 +12217,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:05:26.3116597+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:04:14.4041744+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:02:38.7731985+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:05:26.3117237+00:00"
+  "LastUpdate_Ratings": "2023-11-22T20:00:12.9051461+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:04:14.4042505+00:00"
 }

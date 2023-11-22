@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~963 |
-| Whatever It Takes | 2.00% | ~963 |
-| Pork Chopped | 2.00% | ~963 |
-| Dr. Reed, I Presume? | 1.00% | ~7,226 |
-| Git Gutte! | 1.00% | ~7,226 |
-| Anger Management | 1.00% | ~7,226 |
-| Bookworm | 1.00% | ~7,226 |
-| Break A Leg | 1.00% | ~7,226 |
-| Coup de Grâce | 1.00% | ~7,226 |
-| Hazardous Materials | 1.00% | ~7,226 |
-| Friends Like These | 1.00% | ~7,226 |
-| Hotel California | 1.00% | ~7,226 |
-| Apex Predator | 1.00% | ~7,226 |
-| Stacking the Deck | 1.00% | ~7,226 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,226 |
-| This is My Weapon | 1.00% | ~7,226 |
-| Welcome To Hell-A | 1.00% | ~7,226 |
+| One of Us | 2.00% | ~964 |
+| Whatever It Takes | 2.00% | ~964 |
+| Pork Chopped | 2.00% | ~964 |
+| Dr. Reed, I Presume? | 1.00% | ~7,227 |
+| Git Gutte! | 1.00% | ~7,227 |
+| Anger Management | 1.00% | ~7,227 |
+| Bookworm | 1.00% | ~7,227 |
+| Break A Leg | 1.00% | ~7,227 |
+| Coup de Grâce | 1.00% | ~7,227 |
+| Hazardous Materials | 1.00% | ~7,227 |
+| Friends Like These | 1.00% | ~7,227 |
+| Hotel California | 1.00% | ~7,227 |
+| Apex Predator | 1.00% | ~7,227 |
+| Stacking the Deck | 1.00% | ~7,227 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,227 |
+| This is My Weapon | 1.00% | ~7,227 |
+| Welcome To Hell-A | 1.00% | ~7,227 |
 | But Doctor, I am Butcho | 0.90% | ~6,504 |
 | Can't Handle the Truth | 0.90% | ~6,504 |
 | Like Riding a Bike | 0.90% | ~6,504 |
@@ -32,9 +32,9 @@ Rating: 4.54 (Ranked 527)
 | Zombologist | 0.80% | ~5,781 |
 | Ooh, Shiny! | 0.80% | ~5,781 |
 | Our True Nature | 0.80% | ~5,781 |
-| Making Your Mark | 0.70% | ~5,058 |
-| I Am the Resurrection | 0.70% | ~5,058 |
-| Max Headroom | 0.70% | ~5,058 |
+| Making Your Mark | 0.70% | ~5,059 |
+| I Am the Resurrection | 0.70% | ~5,059 |
+| Max Headroom | 0.70% | ~5,059 |
 | Not Even My Final Form | 0.60% | ~4,336 |
 | Humanity Distilled | 0.60% | ~4,336 |
 | Down with the Sickness | 0.60% | ~4,336 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 527)
 | Bucket List | 0.10% | ~723 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,627 (Ranked 21)  
+Progressed: 722,674 (Ranked 21)  
 Completed: 2,424 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 2,424 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,627 | 2,424 |
+| 2023-11-22 | 722,674 | 2,424 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
-Sum: 11,668 (Ranked 84)  
+Sum: 11,671 (Ranked 84)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -288,7 +288,7 @@ Diff (max vs sum): -34
 | This game has Amazing Storytelling | 484 |
 | This game is Highly Recommended | 471 |
 | This game is Extremely Fun | 468 |
-| This game has Amazing Characters | 431 |
+| This game has Amazing Characters | 434 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -507,4 +507,4 @@ Diff (max vs sum): -34
 | 2023-11-19 | 4.54 | 7,552 | 11,539 |
 | 2023-11-20 | 4.54 | 7,589 | 11,585 |
 | 2023-11-21 | 4.54 | 7,618 | 11,622 |
-| 2023-11-22 | 4.54 | 7,650 | 11,668 |
+| 2023-11-22 | 4.54 | 7,650 | 11,671 |

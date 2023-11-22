@@ -438,9 +438,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -943,6 +943,11 @@
       "Time": "2023-11-22T19:05:44.4032014+00:00",
       "NumProgressed": 181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T20:04:26.923473+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -961,7 +966,7 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -969,7 +974,7 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -977,9 +982,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "AttackCount",
@@ -1009,7 +1014,7 @@
       "ID": "BurrowBlocked",
       "SetID": "71c0n9i",
       "Name": "This Spot\u0027s Taken",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1017,7 +1022,7 @@
       "ID": "BurrowUp",
       "SetID": "71c0n9i",
       "Name": "Hello There",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1025,7 +1030,7 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1033,7 +1038,7 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1041,7 +1046,7 @@
       "ID": "ChargerCount",
       "SetID": "71c0n9i",
       "Name": "Fully Charged",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1217,7 +1222,7 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1241,7 +1246,7 @@
       "ID": "SwapIntoPoisonCloud",
       "SetID": "71c0n9i",
       "Name": "Get Over Here!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1265,7 +1270,7 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1273,7 +1278,7 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1289,9 +1294,9 @@
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "WielderLevel3",
@@ -1321,7 +1326,7 @@
       "ID": "WinBattleWithOneUnitLeft",
       "SetID": "71c0n9i",
       "Name": "Pyrrhic Victory",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1386,15 +1391,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2023-08-17T17:01:15.9766121+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:05:44.403201+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:04:26.9234725+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:28.231511+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:59:52.3193892+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:05:44.4032432+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:58:52.0889445+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:04:26.9235144+00:00"
 }

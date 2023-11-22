@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 121,
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1362,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -4019,6 +4019,11 @@
       "Time": "2023-11-22T17:10:40.5004091+00:00",
       "NumProgressed": 1362,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T20:09:21.7285249+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -4063,7 +4068,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_14",
@@ -4199,7 +4204,7 @@
       "Name": "On the ball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_3",
@@ -4223,7 +4228,7 @@
       "Name": "Scrap collector",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_32",
@@ -4239,7 +4244,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_34",
@@ -4255,7 +4260,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1215
     },
     {
       "ID": "achievement_36",
@@ -4271,7 +4276,7 @@
       "Name": "Off to a good start",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 899
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_38",
@@ -4303,7 +4308,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_41",
@@ -4319,7 +4324,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_43",
@@ -4335,7 +4340,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_45",
@@ -4351,7 +4356,7 @@
       "Name": "Patience you must have",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_47",
@@ -4437,9 +4442,9 @@
       "ID": "achievement_56",
       "SetID": "cemm4l8",
       "Name": "Support the troops",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_57",
@@ -4519,7 +4524,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_9",
@@ -4534,13 +4539,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1362,
+      "Progressed": 1365,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1362,
+      "Progressed": 1365,
       "Completed": 1
     }
   ],
@@ -4548,8 +4553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:10:24.4573134+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:09:21.7285244+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:13.5548208+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:58:03.3357932+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:10:24.4573694+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:57:32.4052997+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:09:21.7286184+00:00"
 }

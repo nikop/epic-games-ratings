@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 23227,
+  "EOS_Progressed": 23229,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 1483,
   "EOS_NewCompleters": 4,
@@ -7463,6 +7463,11 @@
       "Time": "2023-11-22T19:09:17.258558+00:00",
       "NumProgressed": 23227,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-11-22T20:08:34.3454424+00:00",
+      "NumProgressed": 23229,
+      "NumCompleted": 95
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -7499,7 +7504,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 13239
+      "UsersEstimate": 13241
     },
     {
       "ID": "achievement_13",
@@ -7507,7 +7512,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "achievement_14",
@@ -7547,7 +7552,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "achievement_19",
@@ -7579,7 +7584,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 20207
+      "UsersEstimate": 20209
     },
     {
       "ID": "achievement_4",
@@ -7587,7 +7592,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 20440
+      "UsersEstimate": 20442
     },
     {
       "ID": "achievement_5",
@@ -7611,7 +7616,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 18117
+      "UsersEstimate": 18119
     },
     {
       "ID": "achievement_8",
@@ -7627,20 +7632,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 12078
+      "UsersEstimate": 12079
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 23227,
+      "Progressed": 23229,
       "Completed": 95
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:09:17.2585577+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:08:34.3454417+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:56.9678677+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:58:58.2823291+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:09:17.2585941+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:58:12.5319594+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:08:34.3455117+00:00"
 }

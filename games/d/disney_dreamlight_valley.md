@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~8,281 |
-| Photographer | 68.00% | ~8,044 |
-| Valley's Helper | 62.00% | ~7,335 |
-| Constructor | 51.00% | ~6,033 |
-| Renovator | 51.00% | ~6,033 |
-| Bestest Friend | 47.00% | ~5,560 |
-| Banker | 39.00% | ~4,614 |
-| Gardener | 31.00% | ~3,667 |
+| Goofy's Investor | 70.00% | ~8,283 |
+| Photographer | 68.00% | ~8,046 |
+| Valley's Helper | 62.00% | ~7,336 |
+| Constructor | 51.00% | ~6,035 |
+| Renovator | 51.00% | ~6,035 |
+| Bestest Friend | 47.00% | ~5,562 |
+| Banker | 39.00% | ~4,615 |
+| Gardener | 31.00% | ~3,668 |
 | Generous | 25.00% | ~2,958 |
-| Chef Cook | 18.00% | ~2,129 |
+| Chef Cook | 18.00% | ~2,130 |
 | Miner | 10.00% | ~1,183 |
 | Duty Bound | 7.00% | ~828 |
 | Thorn Cleaner | 6.00% | ~710 |
 | Angler | 5.00% | ~592 |
 | Chit Chatter | 3.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,830 (Ranked 159)  
-Completed: 281 (2.38%) (Ranked 119)  
+Progressed: 11,833 (Ranked 159)  
+Completed: 281 (2.37%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,19 +189,19 @@ Completed: 281 (2.38%) (Ranked 119)
 | 2023-11-19 | 11,764 | 279 |
 | 2023-11-20 | 11,779 | 279 |
 | 2023-11-21 | 11,805 | 280 |
-| 2023-11-22 | 11,830 | 281 |
+| 2023-11-22 | 11,833 | 281 |
 ## Awards
 Max (Great for Beginners): 1,067  (Ranked 147)  
-Sum: 7,932 (Ranked 107)  
+Sum: 7,935 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,067 |
-| This game has Diverse Characters | 899 |
+| This game has Diverse Characters | 901 |
 | This game is Highly Recommended | 826 |
 | This game has Amazing Characters | 822 |
 | This game is Relaxing | 812 |
-| This game has Amazing Storytelling | 777 |
+| This game has Amazing Storytelling | 778 |
 | This game is Extremely Fun | 766 |
 | This game has Quickly Understood Controls | 757 |
 | This game has a Creative Community | 676 |
@@ -462,4 +462,4 @@ Diff (max vs sum): 40
 | 2023-11-19 | 4.76 | - | 1,066 | 7,922 |
 | 2023-11-20 | 4.76 | - | 1,066 | 7,924 |
 | 2023-11-21 | 4.76 | - | 1,066 | 7,929 |
-| 2023-11-22 | 4.76 | - | 1,067 | 7,932 |
+| 2023-11-22 | 4.76 | - | 1,067 | 7,935 |

@@ -10,8 +10,8 @@
 | Recruit | 68.00% | ~928 |
 | Search and Rescue | 67.00% | ~914 |
 | Quarian Ally | 63.00% | ~859 |
+| Medal of Heroism | 60.00% | ~818 |
 | Honorarium of Corporate Service | 60.00% | ~818 |
-| Medal of Heroism | 59.00% | ~805 |
 | Council Legion of Merit | 54.00% | ~737 |
 | Medal of Exploration II | 53.00% | ~723 |
 | Turian Ally | 52.00% | ~709 |
@@ -32,8 +32,8 @@
 | Krogan Ally | 41.00% | ~559 |
 | Sentinel Ally | 40.00% | ~546 |
 | Head Hunter | 39.00% | ~532 |
+| Operative | 39.00% | ~532 |
 | Scholar | 39.00% | ~532 |
-| Operative | 38.00% | ~518 |
 | Veteran | 37.00% | ~505 |
 | The Professor | 37.00% | ~505 |
 | The Archangel | 36.00% | ~491 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~14 |
 | The One and Only | 0.90% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,364 (Ranked 242)  
+Progressed: 1,364 (Ranked 243)  
 Completed: 6 (0.44%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |

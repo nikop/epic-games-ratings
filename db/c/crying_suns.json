@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 471203,
+  "EOS_Progressed": 471206,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
@@ -23208,6 +23208,11 @@
       "Time": "2023-11-22T19:10:24.1563963+00:00",
       "NumProgressed": 471203,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-22T20:09:21.4484257+00:00",
+      "NumProgressed": 471206,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -23219,7 +23224,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70680
+      "UsersEstimate": 70681
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -23227,7 +23232,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70680
+      "UsersEstimate": 70681
     },
     {
       "ID": "achievement_first_death",
@@ -23251,7 +23256,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70680
+      "UsersEstimate": 70681
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -23259,7 +23264,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47120
+      "UsersEstimate": 47121
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -23307,7 +23312,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310994
+      "UsersEstimate": 310996
     },
     {
       "ID": "achievement_story_landa",
@@ -23339,7 +23344,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117801
+      "UsersEstimate": 117802
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -23371,7 +23376,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51832
+      "UsersEstimate": 51833
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -23387,7 +23392,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70680
+      "UsersEstimate": 70681
     },
     {
       "ID": "achievement_story_neon_child",
@@ -23403,7 +23408,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160209
+      "UsersEstimate": 160210
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -23643,7 +23648,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207329
+      "UsersEstimate": 207331
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -23651,7 +23656,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141361
+      "UsersEstimate": 141362
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -23667,7 +23672,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51832
+      "UsersEstimate": 51833
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -23675,7 +23680,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183769
+      "UsersEstimate": 183770
     },
     {
       "ID": "achievement_win_run_hard",
@@ -23850,21 +23855,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 15137,
+      "Progressed": 15140,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 471203,
+      "Progressed": 471206,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:10:24.1563959+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:09:21.4484253+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:03.630264+00:00",
-  "LastUpdate_Ratings": "2023-11-22T18:59:07.6084791+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:10:24.1565935+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:58:20.0132825+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:09:21.4486545+00:00"
 }

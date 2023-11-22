@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 35.00% | ~78 |
-| The Teleprobe | 29.00% | ~64 |
-| The field base | 27.00% | ~60 |
-| The City | 27.00% | ~60 |
-| Survivors | 24.00% | ~53 |
-| The Condor | 21.00% | ~47 |
-| The End | 20.00% | ~44 |
-| The Necroevolution | 18.00% | ~40 |
-| On her own | 14.00% | ~31 |
-| The Alliance | 14.00% | ~31 |
-| Volcanologist | 14.00% | ~31 |
-| Peacemaker | 13.00% | ~29 |
+| The Camp | 36.00% | ~82 |
+| The Teleprobe | 29.00% | ~66 |
+| The field base | 27.00% | ~62 |
+| The City | 27.00% | ~62 |
+| Survivors | 24.00% | ~55 |
+| The Condor | 21.00% | ~48 |
+| The End | 19.00% | ~43 |
+| The Necroevolution | 17.00% | ~39 |
+| On her own | 14.00% | ~32 |
+| The Alliance | 13.00% | ~30 |
+| Volcanologist | 13.00% | ~30 |
+| Peacemaker | 12.00% | ~27 |
 | Krauta is alive | 12.00% | ~27 |
-| Fierce fight | 10.00% | ~22 |
-| Flying Objects Operator | 10.00% | ~22 |
-| Beyond divisions | 10.00% | ~22 |
-| I remember everything! | 9.00% | ~20 |
-| Evacuation | 9.00% | ~20 |
-| Violent solution | 6.00% | ~13 |
-| Innate curiosity | 6.00% | ~13 |
+| Fierce fight | 11.00% | ~25 |
+| Flying Objects Operator | 10.00% | ~23 |
+| Beyond divisions | 10.00% | ~23 |
+| I remember everything! | 9.00% | ~21 |
+| Evacuation | 9.00% | ~21 |
+| Violent solution | 6.00% | ~14 |
+| Innate curiosity | 6.00% | ~14 |
 | The Invincible | 5.00% | ~11 |
 | Another giant | 4.00% | ~9 |
 | Strong objection | 4.00% | ~9 |
 | Ubiquitous holes | 3.00% | ~7 |
 | Got lost again | 3.00% | ~7 |
-| I leave no man behind | 2.00% | ~4 |
-| I leave no man behind (no exceptions) | 2.00% | ~4 |
+| I leave no man behind | 2.00% | ~5 |
+| I leave no man behind (no exceptions) | 2.00% | ~5 |
 | Convoy list | 1.00% | ~2 |
-| No more mistakes | 0.50% | ~1 |
+| No more mistakes | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222 (Ranked 374)  
+Progressed: 228 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,4 +51,4 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 181 | 0 |
 | 2023-11-20 | 187 | 0 |
 | 2023-11-21 | 204 | 0 |
-| 2023-11-22 | 222 | 0 |
+| 2023-11-22 | 228 | 0 |

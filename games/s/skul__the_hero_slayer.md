@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~7,736 |
-| What should I buy? | 84.00% | ~6,987 |
-| Rescued Elder Ent | 64.00% | ~5,324 |
-| Focus! | 63.00% | ~5,240 |
-| The End of the Gold Mane Knights | 49.00% | ~4,076 |
-| False Goddess, Disappear | 42.00% | ~3,494 |
-| Rules of Etiquette | 41.00% | ~3,410 |
-| Quick Movements | 35.00% | ~2,911 |
-| Inventory Management | 35.00% | ~2,911 |
-| The Fall of the Leonia Order | 32.00% | ~2,662 |
-| The Hero Killer | 30.00% | ~2,495 |
-| Go Home... | 29.00% | ~2,412 |
-| The Final Battle of the First Hero | 28.00% | ~2,329 |
-| Brain at Full Throttle | 24.00% | ~1,996 |
+| The Legend Begins | 93.00% | ~7,739 |
+| What should I buy? | 84.00% | ~6,990 |
+| Focus! | 63.00% | ~5,243 |
+| Rescued Elder Ent | 63.00% | ~5,243 |
+| The End of the Gold Mane Knights | 49.00% | ~4,078 |
+| False Goddess, Disappear | 41.00% | ~3,412 |
+| Rules of Etiquette | 41.00% | ~3,412 |
+| Quick Movements | 35.00% | ~2,913 |
+| Inventory Management | 35.00% | ~2,913 |
+| The Fall of the Leonia Order | 32.00% | ~2,663 |
+| The Hero Killer | 30.00% | ~2,497 |
+| Go Home... | 29.00% | ~2,413 |
+| The Final Battle of the First Hero | 28.00% | ~2,330 |
+| Brain at Full Throttle | 24.00% | ~1,997 |
 | Rookies Welcome | 20.00% | ~1,664 |
-| Deadly Power | 17.00% | ~1,414 |
+| Deadly Power | 17.00% | ~1,415 |
 | Castle Restoration Plans | 15.00% | ~1,248 |
-| The Dwarven Chandelier | 13.00% | ~1,081 |
+| The Dwarven Chandelier | 13.00% | ~1,082 |
 | Master of Speed | 10.00% | ~832 |
-| The Levitator | 7.00% | ~582 |
+| The Levitator | 7.00% | ~583 |
 | The God of Battle | 3.00% | ~250 |
 | Too Much of a Talker | 2.00% | ~166 |
 | The Skeleton King | 2.00% | ~166 |
 | Cold-Blooded | 0.80% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,318 (Ranked 172)  
+Progressed: 8,322 (Ranked 172)  
 Completed: 15 (0.18%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 15 (0.18%) (Ranked 261)
 | 2023-11-19 | 8,305 | 14 |
 | 2023-11-20 | 8,309 | 14 |
 | 2023-11-21 | 8,314 | 15 |
-| 2023-11-22 | 8,318 | 15 |
+| 2023-11-22 | 8,322 | 15 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 327)  
 Sum: 931 (Ranked 269)  

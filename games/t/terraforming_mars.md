@@ -6,11 +6,11 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~30,922 |
-| Final touch | 35.00% | ~29,251 |
+| It's a steal! | 37.00% | ~30,923 |
+| Final touch | 35.00% | ~29,252 |
 | Prop-M Rover | 32.00% | ~26,744 |
 | Changing the Planet | 28.00% | ~23,401 |
-| Sojourner | 26.00% | ~21,729 |
+| Sojourner | 26.00% | ~21,730 |
 | New Home | 23.00% | ~19,222 |
 | Beagle 2 | 23.00% | ~19,222 |
 | Winner Winner Terraformer | 21.00% | ~17,551 |
@@ -18,18 +18,18 @@ Number of Ratings: 2,731  (23.09.2022)
 | Curiosity | 19.00% | ~15,879 |
 | Collector | 19.00% | ~15,879 |
 | Master | 19.00% | ~15,879 |
-| No Longer Red | 18.00% | ~15,043 |
-| Self-sufficient | 18.00% | ~15,043 |
+| No Longer Red | 18.00% | ~15,044 |
+| Self-sufficient | 18.00% | ~15,044 |
 | Money money | 15.00% | ~12,536 |
-| Biggest Reward | 14.00% | ~11,700 |
+| Biggest Reward | 14.00% | ~11,701 |
 | First Journey | 13.00% | ~10,865 |
 | Acquired knowledge | 12.00% | ~10,029 |
 | Landlord | 11.00% | ~9,193 |
 | Most Achievements | 11.00% | ~9,193 |
 | Hellenic Elysium | 11.00% | ~9,193 |
 | Grand champion | 11.00% | ~9,193 |
-| Spirit | 10.00% | ~8,357 |
-| Ultimate success | 10.00% | ~8,357 |
+| Spirit | 10.00% | ~8,358 |
+| Ultimate success | 10.00% | ~8,358 |
 | Variety Expert | 9.00% | ~7,522 |
 | Frequent tester | 8.00% | ~6,686 |
 | Determined | 8.00% | ~6,686 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,507 |
 | Opportunity | 3.00% | ~2,507 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,574 (Ranked 94)  
+Progressed: 83,576 (Ranked 94)  
 Completed: 164 (0.20%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 164 (0.20%) (Ranked 255)
 | 2023-11-19 | 83,286 | 163 |
 | 2023-11-20 | 83,402 | 163 |
 | 2023-11-21 | 83,502 | 164 |
-| 2023-11-22 | 83,574 | 164 |
+| 2023-11-22 | 83,576 | 164 |
 ## Awards
 Max (Relaxing): 527  (Ranked 207)  
 Sum: 3,264 (Ranked 171)  

@@ -10,7 +10,7 @@
 | A kind of Magic | 92.00% | ~22 |
 | Connected | 92.00% | ~22 |
 | Expansion | 83.00% | ~20 |
-| Harvest Time | 75.00% | ~18 |
+| Harvest Time | 79.00% | ~19 |
 | Artificer's Apprentice | 71.00% | ~17 |
 | Mine! | 67.00% | ~16 |
 | Get out of here! | 63.00% | ~15 |
@@ -18,8 +18,8 @@
 | Friend of Lyraine | 58.00% | ~14 |
 | Fly the friendly Sky | 58.00% | ~14 |
 | The Circle | 54.00% | ~13 |
+| Necromancer's Apprentice | 50.00% | ~12 |
 | Redecorating | 46.00% | ~11 |
-| Necromancer's Apprentice | 46.00% | ~11 |
 | Friend of Sevenkeeps | 38.00% | ~9 |
 | Slave to the rhythm | 29.00% | ~7 |
 | Sevenkeeps Seat of Kings | 29.00% | ~7 |

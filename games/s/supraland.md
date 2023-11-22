@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~726,302 |
-| The Blues | 85.00% | ~623,592 |
-| Fast | 66.00% | ~484,201 |
-| Healthbar | 55.00% | ~403,501 |
-| Force Cube | 53.00% | ~388,828 |
-| Double Jump | 48.00% | ~352,146 |
-| Regeneration | 47.00% | ~344,810 |
-| Triple Jump | 43.00% | ~315,464 |
-| Climb the hill | 42.00% | ~308,128 |
-| Through the fire pipe | 39.00% | ~286,119 |
-| MacGuffin | 38.00% | ~278,782 |
-| Just once | 37.00% | ~271,446 |
-| Armor | 30.00% | ~220,091 |
-| True holy spirit | 28.00% | ~205,419 |
-| That's how electronics work obviously | 27.00% | ~198,082 |
+| Out of bed | 99.00% | ~726,306 |
+| The Blues | 85.00% | ~623,596 |
+| Fast | 66.00% | ~484,204 |
+| Healthbar | 55.00% | ~403,503 |
+| Force Cube | 53.00% | ~388,830 |
+| Double Jump | 48.00% | ~352,148 |
+| Regeneration | 47.00% | ~344,812 |
+| Triple Jump | 43.00% | ~315,466 |
+| Climb the hill | 42.00% | ~308,130 |
+| Through the fire pipe | 39.00% | ~286,120 |
+| MacGuffin | 38.00% | ~278,784 |
+| Just once | 37.00% | ~271,448 |
+| Armor | 30.00% | ~220,093 |
+| True holy spirit | 28.00% | ~205,420 |
+| That's how electronics work obviously | 27.00% | ~198,083 |
 | Force Cube Catapult | 25.00% | ~183,410 |
-| Holy Sword | 23.00% | ~168,737 |
-| Telefrag | 23.00% | ~168,737 |
-| Freed from prison | 21.00% | ~154,064 |
-| Stomp | 21.00% | ~154,064 |
-| Double Health | 19.00% | ~139,391 |
-| Green Keycard | 18.00% | ~132,055 |
-| Buckle | 17.00% | ~124,718 |
-| Rattle Hag | 16.00% | ~117,382 |
+| Holy Sword | 23.00% | ~168,738 |
+| Telefrag | 23.00% | ~168,738 |
+| Freed from prison | 21.00% | ~154,065 |
+| Stomp | 21.00% | ~154,065 |
+| Double Health | 19.00% | ~139,392 |
+| Green Keycard | 18.00% | ~132,056 |
+| Buckle | 17.00% | ~124,719 |
+| Rattle Hag | 16.00% | ~117,383 |
 | All Shells | 15.00% | ~110,046 |
-| Beam | 14.00% | ~102,709 |
+| Beam | 14.00% | ~102,710 |
 | Health Drink | 13.00% | ~95,373 |
 | Helped a star | 13.00% | ~95,373 |
 | 9 | 13.00% | ~95,373 |
 | Purple Cube | 13.00% | ~95,373 |
 | Supraball Noob | 13.00% | ~95,373 |
 | Strong | 12.00% | ~88,037 |
-| Blue King's lair | 11.00% | ~80,700 |
-| Payback | 11.00% | ~80,700 |
-| Got the coins back | 11.00% | ~80,700 |
-| Got the gun back | 11.00% | ~80,700 |
-| Infiltrated | 11.00% | ~80,700 |
-| Robbed | 11.00% | ~80,700 |
+| Blue King's lair | 11.00% | ~80,701 |
+| Payback | 11.00% | ~80,701 |
+| Got the coins back | 11.00% | ~80,701 |
+| Got the gun back | 11.00% | ~80,701 |
+| Infiltrated | 11.00% | ~80,701 |
+| Robbed | 11.00% | ~80,701 |
 | Fire Flies | 10.00% | ~73,364 |
 | Cave Flies | 10.00% | ~73,364 |
 | Gold Scam | 10.00% | ~73,364 |
@@ -51,12 +51,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,364 |
 | Translocator | 10.00% | ~73,364 |
 | Yellow Shot Button | 10.00% | ~73,364 |
-| Moon Door | 9.00% | ~66,027 |
-| Momentum | 9.00% | ~66,027 |
-| Through the tiny pipe | 9.00% | ~66,027 |
-| Win! | 9.00% | ~66,027 |
+| Moon Door | 9.00% | ~66,028 |
+| Momentum | 9.00% | ~66,028 |
+| Through the tiny pipe | 9.00% | ~66,028 |
+| Win! | 9.00% | ~66,028 |
 | The real real teleported man | 8.00% | ~58,691 |
-| Well deserved | 6.00% | ~44,018 |
+| Well deserved | 6.00% | ~44,019 |
 | Super Sword | 4.00% | ~29,346 |
 | Happiness | 3.00% | ~22,009 |
 | All Chests | 2.00% | ~14,673 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~734 |
 | DLC: Top of the world | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,638 (Ranked 19)  
+Progressed: 733,642 (Ranked 19)  
 Completed: 762 (0.10%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 762 (0.10%) (Ranked 280)
 | 2023-11-19 | 733,388 | 762 |
 | 2023-11-20 | 733,475 | 762 |
 | 2023-11-21 | 733,566 | 762 |
-| 2023-11-22 | 733,638 | 762 |
+| 2023-11-22 | 733,642 | 762 |
 ## Awards
 Max (Challenging Puzzles): 7,732  (Ranked 48)  
 Sum: 10,085 (Ranked 91)  

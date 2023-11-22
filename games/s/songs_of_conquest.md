@@ -9,8 +9,8 @@ Number of Ratings: 292  (23.09.2022)
 | Adept | 27.00% | ~49 |
 | Double Kill | 20.00% | ~36 |
 | Critical Hit | 9.00% | ~16 |
-| Veteran | 8.00% | ~14 |
-| Dressed For Success | 6.00% | ~11 |
+| Veteran | 9.00% | ~16 |
+| Dressed For Success | 5.00% | ~9 |
 | Humiliation | 5.00% | ~9 |
 | Sorcerous Spree | 4.00% | ~7 |
 | Veni, Vidi, Vici | 3.00% | ~5 |
@@ -23,18 +23,18 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 1.00% | ~2 |
 | Deepstrike | 1.00% | ~2 |
 | Infernal Influence | 1.00% | ~2 |
-| The Song of Stoutheart | 0.60% | ~1 |
-| Death To Diplomacy | 0.60% | ~1 |
-| This Spot's Taken | 0.60% | ~1 |
-| Hello There | 0.60% | ~1 |
-| Versatile Wielder | 0.60% | ~1 |
-| Unlimited Power! | 0.60% | ~1 |
-| Fully Charged | 0.60% | ~1 |
-| Don't Touch My Stuff | 0.60% | ~1 |
-| Get Over Here! | 0.60% | ~1 |
-| Trojan Horse | 0.60% | ~1 |
-| Ultra Kill | 0.60% | ~1 |
-| Pyrrhic Victory | 0.60% | ~1 |
+| The Song of Stoutheart | 0.50% | ~1 |
+| Death To Diplomacy | 0.50% | ~1 |
+| This Spot's Taken | 0.50% | ~1 |
+| Hello There | 0.50% | ~1 |
+| Versatile Wielder | 0.50% | ~1 |
+| Unlimited Power! | 0.50% | ~1 |
+| Fully Charged | 0.50% | ~1 |
+| Don't Touch My Stuff | 0.50% | ~1 |
+| Get Over Here! | 0.50% | ~1 |
+| Trojan Horse | 0.50% | ~1 |
+| Ultra Kill | 0.50% | ~1 |
+| Pyrrhic Victory | 0.50% | ~1 |
 | Bringer of Ruin | 0.00% | ~0 |
 | Attack Bonanza | 0.00% | ~0 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 390)  
+Progressed: 182 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 146 | 0 |
 | 2023-11-20 | 161 | 0 |
 | 2023-11-21 | 175 | 0 |
-| 2023-11-22 | 181 | 0 |
+| 2023-11-22 | 182 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 27  (Ranked 509)  
 Sum: 194 (Ranked 402)  

@@ -19,14 +19,14 @@ Rating: 4.67 (Ranked 274)
 | Knives Out | 49.00% | ~401 |
 | Land, Ho! | 49.00% | ~401 |
 | Lock, Stock, And Barrel | 48.00% | ~393 |
+| Back In The Saddle | 48.00% | ~393 |
 | No Man Is An Island | 48.00% | ~393 |
-| Back In The Saddle | 47.00% | ~385 |
 | At Wits' End | 47.00% | ~385 |
 | Fhtagn! | 46.00% | ~377 |
 | Up In Flames | 45.00% | ~369 |
 | Bookworm | 44.00% | ~360 |
 | Going Once... | 41.00% | ~336 |
-| Let Me Be Frank | 38.00% | ~311 |
+| Let Me Be Frank | 39.00% | ~319 |
 | No Stone Unturned | 37.00% | ~303 |
 | Brain Food | 36.00% | ~295 |
 | Read It And Weep | 22.00% | ~180 |

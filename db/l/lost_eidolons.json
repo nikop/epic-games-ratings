@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1535,6 +1535,11 @@
       "Time": "2023-11-22T02:29:32.4543862+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T20:04:13.4562462+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1576,9 +1581,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 758
     },
     {
       "ID": "06",
@@ -1594,7 +1599,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "08",
@@ -1602,7 +1607,7 @@
       "Name": "Monster Slayer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "09",
@@ -1674,7 +1679,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "18",
@@ -1712,9 +1717,9 @@
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 158
     },
     {
       "ID": "23",
@@ -1729,7 +1734,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 1
     }
   ],
@@ -1737,8 +1742,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:05:24.7627166+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:04:13.4562454+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:21.2319809+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:00:34.8403237+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:05:24.7627358+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:59:23.034321+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:04:13.4562703+00:00"
 }

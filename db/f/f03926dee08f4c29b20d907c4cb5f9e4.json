@@ -375,9 +375,9 @@
       "ID": "ACH_28_THE_FINE_ART",
       "SetID": "9loam6m",
       "Name": "The fine art",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_29_HERDING_SHEEP",
@@ -502,8 +502,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-11-22T19:05:30.4657082+00:00",
+  "LastChanged_Achievements": "2023-11-22T20:04:17.1026717+00:00",
   "LastUpdate_AppInfo": "2023-11-16T01:45:07.6429231+00:00",
-  "LastUpdate_Ratings": "2023-11-22T19:00:25.0602828+00:00",
-  "LastUpdate_Achievements": "2023-11-22T19:05:30.465735+00:00"
+  "LastUpdate_Ratings": "2023-11-22T19:59:16.0859248+00:00",
+  "LastUpdate_Achievements": "2023-11-22T20:04:17.1026975+00:00"
 }
