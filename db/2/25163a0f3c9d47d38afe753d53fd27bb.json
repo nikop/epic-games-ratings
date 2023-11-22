@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1607,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 6.47,
   "EosHistory": [
@@ -3673,9 +3673,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1527
     },
     {
       "ID": "LEVEL_002",
@@ -3920,8 +3920,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:09:54.7557819+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:09:17.0432258+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:57:55.6913596+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:09:54.7558091+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:57:31.3503737+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:09:17.043257+00:00"
 }

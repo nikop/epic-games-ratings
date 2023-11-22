@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -869,17 +869,17 @@
       "ID": "ACH_11",
       "SetID": "efe2lj",
       "Name": "Forgemaster",
-      "Percentage": -0.5,
+      "Percentage": 0,
       "XP": 40,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_12",
       "SetID": "efe2lj",
       "Name": "Shardbearer",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_13",
@@ -933,9 +933,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_20",
@@ -997,9 +997,9 @@
       "ID": "ACH_27",
       "SetID": "efe2lj",
       "Name": "False God",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_28",
@@ -1061,9 +1061,9 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_38",
@@ -1084,8 +1084,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:09:56.8915657+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:09:18.5283563+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:01:41.5183511+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:09:56.8915868+00:00"
+  "LastUpdate_Ratings": "2023-11-22T12:00:12.2909609+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:09:18.5283848+00:00"
 }

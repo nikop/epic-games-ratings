@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15229,
+  "EOS_Progressed": 15230,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11872,6 +11872,11 @@
       "Time": "2023-11-22T11:04:56.9871178+00:00",
       "NumProgressed": 15229,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T12:04:06.7472995+00:00",
+      "NumProgressed": 15230,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11900,7 +11905,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "12",
@@ -11988,7 +11993,7 @@
       "Name": "Drone Dodger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "22",
@@ -12036,7 +12041,7 @@
       "Name": "Bosmang",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "28",
@@ -12092,7 +12097,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "7",
@@ -12116,7 +12121,7 @@
       "Name": "Impossible Objects",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "31",
@@ -12148,7 +12153,7 @@
       "Name": "Master Negotiator",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "35",
@@ -12163,13 +12168,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15229,
+      "Progressed": 15230,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1183,
+      "Progressed": 1184,
       "Completed": 676
     }
   ],
@@ -12177,8 +12182,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:04:56.9871175+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:04:06.7472989+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:01:30.4274827+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:04:56.9871881+00:00"
+  "LastUpdate_Ratings": "2023-11-22T12:00:04.0820225+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:04:06.7473682+00:00"
 }

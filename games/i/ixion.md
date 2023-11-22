@@ -5,11 +5,11 @@ Rating: 4.57 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~964 |
-| Sputnik 2049 | 26.00% | ~864 |
-| Infinite Growth... | 25.00% | ~831 |
+| Wakey Wakey | 29.00% | ~965 |
+| Sputnik 2049 | 26.00% | ~865 |
+| Infinite Growth... | 25.00% | ~832 |
 | Without Breaking Some Eggs... | 24.00% | ~798 |
-| Ready for a New World | 18.00% | ~598 |
+| Ready for a New World | 18.00% | ~599 |
 | Space Society | 17.00% | ~565 |
 | A Thousand Strong | 17.00% | ~565 |
 | Permanent Redesigns | 15.00% | ~499 |
@@ -43,11 +43,11 @@ Rating: 4.57 (Ranked 472)
 | Delivery! | 3.00% | ~100 |
 | Help of the Forgotten Member | 3.00% | ~100 |
 | Pulsar Disciple | 3.00% | ~100 |
-| Mutual Loyalty | 2.00% | ~66 |
-| Tiqqun Contender | 2.00% | ~66 |
-| Catastrophe Avoided | 2.00% | ~66 |
-| Space Greenhouse | 2.00% | ~66 |
-| Tiqqun Unchained | 2.00% | ~66 |
+| Mutual Loyalty | 2.00% | ~67 |
+| Tiqqun Contender | 2.00% | ~67 |
+| Catastrophe Avoided | 2.00% | ~67 |
+| Space Greenhouse | 2.00% | ~67 |
+| Tiqqun Unchained | 2.00% | ~67 |
 | Better Him Than Me | 1.00% | ~33 |
 | Remember the Dead | 1.00% | ~33 |
 | You Had One Job... | 1.00% | ~33 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 472)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,325 (Ranked 207)  
+Progressed: 3,326 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-19 | 3,318 | 0 |
 | 2023-11-20 | 3,320 | 0 |
 | 2023-11-21 | 3,323 | 0 |
-| 2023-11-22 | 3,325 | 0 |
+| 2023-11-22 | 3,326 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

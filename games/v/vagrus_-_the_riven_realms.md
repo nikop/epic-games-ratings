@@ -9,8 +9,8 @@
 | The Package | 27.00% | ~54 |
 | Conquered | 20.00% | ~40 |
 | Randomized | 18.00% | ~36 |
+| Scribe | 12.00% | ~24 |
 | Breached | 12.00% | ~24 |
-| Scribe | 11.00% | ~22 |
 | Tactician | 10.00% | ~20 |
 | Conciliator | 9.00% | ~18 |
 | Fight Another Day | 9.00% | ~18 |

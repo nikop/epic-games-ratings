@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | The Camp | 36.00% | ~75 |
 | The Teleprobe | 30.00% | ~62 |
+| The field base | 29.00% | ~60 |
 | The City | 29.00% | ~60 |
-| The field base | 28.00% | ~58 |
 | Survivors | 25.00% | ~52 |
 | The Condor | 21.00% | ~44 |
 | The End | 20.00% | ~42 |
@@ -29,9 +29,9 @@
 | Another giant | 3.00% | ~6 |
 | Got lost again | 3.00% | ~6 |
 | Strong objection | 3.00% | ~6 |
+| I leave no man behind | 2.00% | ~4 |
 | I leave no man behind (no exceptions) | 2.00% | ~4 |
 | Convoy list | 1.00% | ~2 |
-| I leave no man behind | 1.00% | ~2 |
 | No more mistakes | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 208 (Ranked 378)  

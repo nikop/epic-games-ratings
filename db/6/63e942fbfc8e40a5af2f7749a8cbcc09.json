@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
     "PcReleaseDate": "2019-11-12T15:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "ClearA01",
       "SetID": "94lmepd",
       "Name": "The Beginning of the End",
-      "Percentage": 90,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ClearC01",
@@ -266,17 +266,17 @@
       "ID": "ClearF01",
       "SetID": "94lmepd",
       "Name": "The Empress",
-      "Percentage": 60,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ClearF01END",
       "SetID": "94lmepd",
       "Name": "The Tower",
-      "Percentage": 60,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ClearG01",
@@ -425,8 +425,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:04:59.6268475+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:04:08.7233413+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:02.6724466+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:01:37.5844057+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:04:59.6268692+00:00"
+  "LastUpdate_Ratings": "2023-11-22T12:00:09.1133874+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:04:08.7233593+00:00"
 }

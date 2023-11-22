@@ -2,10 +2,10 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-11-22T11:05:52.7801603+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T12:04:48.6841134+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -85,7 +90,7 @@
       "ID": "ACH_ALL_COMBAT_SKILLS",
       "SetID": "cagp2pi",
       "Name": "Growth",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "ACH_BRANCH_ALL_SLOTS",
       "SetID": "cagp2pi",
       "Name": "All clean",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -189,7 +194,7 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -270,13 +275,13 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:05:52.7801598+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:04:48.6841126+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:00:34.5556351+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:05:52.7801767+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:59:26.0664693+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:04:48.6841322+00:00"
 }

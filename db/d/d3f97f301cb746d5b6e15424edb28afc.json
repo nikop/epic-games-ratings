@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -2354,9 +2354,9 @@
       "ID": "ACH_WASHCAR_02",
       "SetID": "5fn8ia4",
       "Name": "Squeaky Clean",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_WASHCAR_03",
@@ -2674,9 +2674,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 530
+      "UsersEstimate": 540
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -2690,9 +2690,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 662
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -2786,9 +2786,9 @@
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 183
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
@@ -3027,8 +3027,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2023-11-20T21:59:05.9866432+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:06:00.7937387+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:04:54.8100638+00:00",
   "LastUpdate_AppInfo": "2023-11-20T17:56:56.2431879+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:01:17.539927+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:06:00.7938157+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:59:54.9988492+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:04:54.8101606+00:00"
 }

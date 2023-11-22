@@ -27,18 +27,18 @@
 | To Battle | 2.00% | ~4 |
 | Godslayer | 2.00% | ~4 |
 | Airborne | 2.00% | ~4 |
+| Slayer | 2.00% | ~4 |
 | Miner | 2.00% | ~4 |
 | Summiter | 2.00% | ~4 |
 | Clear Sight | 1.00% | ~2 |
 | Shatterer | 1.00% | ~2 |
-| Slayer | 1.00% | ~2 |
 | Flawless Victory | 1.00% | ~2 |
+| Shardbearer | 0.50% | ~1 |
+| False God | 0.50% | ~1 |
 | All That Gold | 0.50% | ~1 |
-| Shardbearer | 0.00% | ~0 |
+| A Queen's Tale | 0.50% | ~1 |
+| Forgemaster | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| False God | 0.00% | ~0 |
-| A Queen's Tale | 0.00% | ~0 |
-| Forgemaster | -0.50% | ~-1 |
 | Feeling Fancy | -0.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 383)  

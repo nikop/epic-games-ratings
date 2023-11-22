@@ -4575,9 +4575,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 225530,
+  "EOS_Progressed": 225562,
   "EOS_Completed": 502,
-  "EOS_NewPlayers": 4456,
+  "EOS_NewPlayers": 4469,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19325,6 +19325,11 @@
       "Time": "2023-11-22T11:08:54.3217561+00:00",
       "NumProgressed": 225530,
       "NumCompleted": 502
+    },
+    {
+      "Time": "2023-11-22T12:08:30.1942984+00:00",
+      "NumProgressed": 225562,
+      "NumCompleted": 502
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -19737,7 +19742,7 @@
       "Name": "Regicide",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -19753,7 +19758,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -19776,13 +19781,13 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 225530,
+      "Progressed": 225562,
       "Completed": 502
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 4695,
+      "Progressed": 4727,
       "Completed": 135
     }
   ],
@@ -19790,8 +19795,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-22T11:03:19.6201712+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:08:54.3217556+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:08:30.194298+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:53.7880137+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:03:19.6201717+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:08:54.3218418+00:00"
+  "LastUpdate_Ratings": "2023-11-22T12:02:55.8969276+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:08:30.1943965+00:00"
 }

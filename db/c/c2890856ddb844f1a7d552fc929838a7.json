@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2512,9 +2512,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 616
+      "UsersEstimate": 626
     },
     {
       "ID": "AC08",
@@ -2720,9 +2720,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 626
     },
     {
       "ID": "AC34",
@@ -2833,8 +2833,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-18T16:58:56.9508532+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:07:32.1473713+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:06:03.8135489+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:32.1505355+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:01:17.1814647+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:07:32.1474125+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:59:54.760282+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:06:03.8135864+00:00"
 }

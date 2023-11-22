@@ -4,8 +4,8 @@
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
   "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MagicCat20",
@@ -397,8 +397,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:03:29.3902978+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:03:02.9766694+00:00",
   "LastUpdate_AppInfo": "2023-11-22T05:57:07.3042971+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:57:17.189625+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:03:29.3903281+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:57:04.0393425+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:03:02.9766966+00:00"
 }

@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24664,
+  "EOS_Progressed": 24665,
   "EOS_Completed": 471,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -23618,6 +23618,11 @@
       "Time": "2023-11-22T11:03:28.0134051+00:00",
       "NumProgressed": 24664,
       "NumCompleted": 471
+    },
+    {
+      "Time": "2023-11-22T12:03:01.9156872+00:00",
+      "NumProgressed": 24665,
+      "NumCompleted": 471
     }
   ],
   "TotalAchievements": 20,
@@ -23677,7 +23682,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -23749,7 +23754,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18991
+      "UsersEstimate": 18992
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -23757,7 +23762,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6659
+      "UsersEstimate": 6660
     },
     {
       "ID": "NORTH_FINISHED",
@@ -23788,15 +23793,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24664,
+      "Progressed": 24665,
       "Completed": 471
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:03:28.0134048+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:03:01.9156867+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:04.1430777+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:02:39.878629+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:03:28.0135226+00:00"
+  "LastUpdate_Ratings": "2023-11-22T12:02:27.6164284+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:03:01.9158175+00:00"
 }

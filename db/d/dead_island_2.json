@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6771,9 +6771,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 722302,
+  "EOS_Progressed": 722329,
   "EOS_Completed": 2423,
-  "EOS_NewPlayers": 3628,
+  "EOS_NewPlayers": 3642,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -31471,6 +31471,11 @@
       "Time": "2023-11-22T11:05:04.7221213+00:00",
       "NumProgressed": 722302,
       "NumCompleted": 2423
+    },
+    {
+      "Time": "2023-11-22T12:04:12.6611821+00:00",
+      "NumProgressed": 722329,
+      "NumCompleted": 2423
     }
   ],
   "TotalAchievements": 51,
@@ -31530,7 +31535,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_bookworm",
@@ -31562,7 +31567,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -31578,7 +31583,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_explorer",
@@ -31690,7 +31695,7 @@
       "Name": "Zombologist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_legendary",
@@ -31698,7 +31703,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_magnum_opus",
@@ -31714,7 +31719,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_mind_over_monster",
@@ -31794,7 +31799,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5778
+      "UsersEstimate": 5779
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -31889,13 +31894,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 722302,
+      "Progressed": 722329,
       "Completed": 2423
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 47844,
+      "Progressed": 47871,
       "Completed": 36578
     }
   ],
@@ -31903,8 +31908,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-22T06:58:06.6450963+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:05:04.7221209+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:04:12.6611815+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:41.2205858+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:58:00.9155706+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:05:04.7222515+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:57:35.2817408+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:04:12.6613633+00:00"
 }

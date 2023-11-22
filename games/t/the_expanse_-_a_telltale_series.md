@@ -6,11 +6,11 @@ Rating: 4.56 (Ranked 491)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 9.00% | ~1,371 |
-| The Pit and the Pirates | 5.00% | ~761 |
-| Drone Dodger | 5.00% | ~761 |
-| Bosmang | 5.00% | ~761 |
-| Celebrations are in Order | 5.00% | ~761 |
-| Impossible Objects | 5.00% | ~761 |
+| The Pit and the Pirates | 5.00% | ~762 |
+| Drone Dodger | 5.00% | ~762 |
+| Bosmang | 5.00% | ~762 |
+| Celebrations are in Order | 5.00% | ~762 |
+| Impossible Objects | 5.00% | ~762 |
 | Safe Cracker | 5.00% | ~59 |
 | Zen Master | 5.00% | ~59 |
 | Stogie for Fogey | 4.00% | ~609 |
@@ -24,7 +24,7 @@ Rating: 4.56 (Ranked 491)
 | Data Archivist | 3.00% | ~457 |
 | Heal Thy Medic | 3.00% | ~457 |
 | Khan's Revenge | 3.00% | ~457 |
-| Master Negotiator | 3.00% | ~35 |
+| Master Negotiator | 3.00% | ~36 |
 | Doctor Approved | 2.00% | ~305 |
 | Bottoms up! | 2.00% | ~305 |
 | Thorston Mayer | 2.00% | ~305 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 491)
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,229 (Ranked 152)  
+Progressed: 15,230 (Ranked 152)  
 Completed: 35 (0.23%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 35 (0.23%) (Ranked 246)
 | 2023-11-19 | 15,136 | 35 |
 | 2023-11-20 | 15,163 | 35 |
 | 2023-11-21 | 15,203 | 35 |
-| 2023-11-22 | 15,229 | 35 |
+| 2023-11-22 | 15,230 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

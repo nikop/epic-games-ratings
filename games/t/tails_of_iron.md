@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,655 |
-| Become King | 74.00% | ~1,493 |
-| Ranged Weapon | 63.00% | ~1,271 |
-| Defeat 25 Frogs | 63.00% | ~1,271 |
+| Complete Guard Faction | 82.00% | ~1,656 |
+| Become King | 74.00% | ~1,494 |
+| Ranged Weapon | 63.00% | ~1,272 |
+| Defeat 25 Frogs | 63.00% | ~1,272 |
 | Collect Monster Parts | 59.00% | ~1,191 |
-| Two Handed Weapon | 58.00% | ~1,170 |
+| Two Handed Weapon | 58.00% | ~1,171 |
 | Defeat 25 Grubs | 54.00% | ~1,090 |
 | Rescue Redgi's Brothers | 53.00% | ~1,070 |
 | Collect Iron Ore | 49.00% | ~989 |
-| Kitchen Ready To Cook | 49.00% | ~989 |
 | Defeat 25 Mozis | 48.00% | ~969 |
-| Collect Gold | 47.00% | ~948 |
-| Smithy Ready to Craft | 47.00% | ~948 |
-| Fix the Travellers Wagon | 45.00% | ~908 |
+| Kitchen Ready To Cook | 48.00% | ~969 |
+| Collect Gold | 47.00% | ~949 |
+| Smithy Ready to Craft | 47.00% | ~949 |
+| Fix the Travellers Wagon | 45.00% | ~909 |
 | Complete Elder Faction | 42.00% | ~848 |
 | End of the Mozis | 39.00% | ~787 |
 | Throne Room Fit For A King | 39.00% | ~787 |
@@ -32,11 +32,11 @@ Rating: 4.55 (Ranked 505)
 | Defeat Avor Warden of the Northern Wastes | 21.00% | ~424 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~404 |
 | Complete Arena Faction | 16.00% | ~323 |
-| Complete Redgi's Armory | 8.00% | ~161 |
-| King of Kings | 8.00% | ~161 |
+| Complete Redgi's Armory | 8.00% | ~162 |
+| King of Kings | 8.00% | ~162 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,018 (Ranked 223)  
+Progressed: 2,019 (Ranked 223)  
 Completed: 9 (0.45%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 9 (0.45%) (Ranked 207)
 | 2023-11-19 | 2,000 | 9 |
 | 2023-11-20 | 2,002 | 9 |
 | 2023-11-21 | 2,011 | 9 |
-| 2023-11-22 | 2,018 | 9 |
+| 2023-11-22 | 2,019 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

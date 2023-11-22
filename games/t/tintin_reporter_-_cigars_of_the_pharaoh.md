@@ -12,11 +12,11 @@
 | Cat Lover | 11.00% | ~3 |
 | The Curse of Kih-Oskh | 11.00% | ~3 |
 | It's a Deal! | 11.00% | ~3 |
+| In the Name of the Law | 7.00% | ~2 |
 | Mummy Nightmare | 7.00% | ~2 |
 | Barking Dog | 7.00% | ~2 |
 | Dynamite, Treason and Coconuts | 7.00% | ~2 |
 | Save a Friend | 7.00% | ~2 |
-| In the Name of the Law | 4.00% | ~1 |
 | Au Revoir, Abudin | 4.00% | ~1 |
 | Mysterious Bungalow | 4.00% | ~1 |
 | The Eyes! | 4.00% | ~1 |

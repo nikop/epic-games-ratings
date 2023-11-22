@@ -7,15 +7,15 @@ Rating: 4.87 (Ranked 24)
 | ---- | ---------- | ----- |
 | Feeling the beat! | 17.00% | ~722 |
 | Start with a bang! | 16.00% | ~680 |
-| You can pet the cat! | 15.00% | ~637 |
+| You can pet the cat! | 15.00% | ~638 |
 | Cream of the Crop | 14.00% | ~595 |
 | Thanks for the free chip, Peppermint! | 14.00% | ~595 |
 | Who put gears in there? | 14.00% | ~595 |
 | You got this, Peppermint? | 13.00% | ~552 |
 | Perfect Parry | 12.00% | ~510 |
 | Alright, that felt AWESOME! | 12.00% | ~510 |
-| This will cost you big time | 11.00% | ~467 |
-| Uh, they were broken when I got here | 11.00% | ~467 |
+| This will cost you big time | 11.00% | ~468 |
+| Uh, they were broken when I got here | 11.00% | ~468 |
 | I play my own way! | 10.00% | ~425 |
 | Z-shielding's got nothing on us! | 10.00% | ~425 |
 | Kissing the sky! | 10.00% | ~425 |
@@ -29,15 +29,15 @@ Rating: 4.87 (Ranked 24)
 | You must like calling me in, Chai | 8.00% | ~340 |
 | Does that say weakpoint? | 8.00% | ~340 |
 | NOW we got a kickass hideout! | 8.00% | ~222 |
-| I have to read these things? | 7.00% | ~297 |
-| Perfecter Parry-er! | 7.00% | ~297 |
+| I have to read these things? | 7.00% | ~298 |
+| Perfecter Parry-er! | 7.00% | ~298 |
 | Well that was a rush! | 5.00% | ~212 |
 | Beat-hit mania | 5.00% | ~212 |
 | That's a lot of junk metal… | 5.00% | ~212 |
 | There's such a thing as TOO helpful | 5.00% | ~212 |
-| Chip-tuned | 3.00% | ~127 |
-| Wanna hear my playlist? | 3.00% | ~127 |
-| Check out my moves! | 3.00% | ~127 |
+| Chip-tuned | 3.00% | ~128 |
+| Wanna hear my playlist? | 3.00% | ~128 |
+| Check out my moves! | 3.00% | ~128 |
 | I think I deserve some praise, here! | 2.00% | ~85 |
 | I think I found your calling, Macaron | 2.00% | ~85 |
 | This is a breeze! | 2.00% | ~85 |
@@ -50,7 +50,7 @@ Rating: 4.87 (Ranked 24)
 | You ever parry a volcano? | 1.00% | ~42 |
 | New bad guys? No problem! | 1.00% | ~28 |
 | OK, well THEY came after ME! | 0.90% | ~38 |
-| Easy Listening | 0.60% | ~25 |
+| Easy Listening | 0.60% | ~26 |
 | Choose your own adventure | 0.60% | ~17 |
 | Problem solved... wait, what? | 0.50% | ~21 |
 | Now this is how you fight like a team! | 0.50% | ~21 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,248 (Ranked 194)  
+Progressed: 4,250 (Ranked 194)  
 Completed: 8 (0.19%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 8 (0.19%) (Ranked 259)
 | 2023-11-19 | 4,231 | 8 |
 | 2023-11-20 | 4,232 | 8 |
 | 2023-11-21 | 4,235 | 8 |
-| 2023-11-22 | 4,248 | 8 |
+| 2023-11-22 | 4,250 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

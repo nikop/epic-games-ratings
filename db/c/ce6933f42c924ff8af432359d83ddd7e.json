@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
@@ -2389,6 +2389,11 @@
       "Time": "2023-11-22T01:58:14.8540439+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-11-22T12:08:51.3994383+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -2409,7 +2414,7 @@
       "Name": "Brain-teaser",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_DONUTS",
@@ -2417,7 +2422,7 @@
       "Name": "Sweet tooth",
       "Percentage": 69,
       "XP": 45,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -2441,7 +2446,7 @@
       "Name": "Evil plan",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -2449,7 +2454,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -2480,14 +2485,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 46
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:09:22.2690562+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:08:51.3994377+00:00",
   "LastUpdate_AppInfo": "2023-11-17T15:57:09.0899133+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:00:15.6208265+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:09:22.26908+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:59:12.0488046+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:08:51.3994594+00:00"
 }

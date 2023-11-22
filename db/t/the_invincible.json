@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -717,9 +717,9 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -773,9 +773,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "AchvReachCamp",
@@ -844,8 +844,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:08:45.7733587+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:08:23.667262+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:59:22.245665+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:08:45.7733801+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:58:33.7914574+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:08:23.6672829+00:00"
 }

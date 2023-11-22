@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4248,
+  "EOS_Progressed": 4250,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7445,6 +7445,11 @@
       "Time": "2023-11-22T11:07:53.708791+00:00",
       "NumProgressed": 4248,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-22T12:07:39.3178763+00:00",
+      "NumProgressed": 4250,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7472,7 +7477,7 @@
       "Name": "This will cost you big time",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Ach004",
@@ -7512,7 +7517,7 @@
       "Name": "Easy Listening",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach009",
@@ -7576,7 +7581,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Ach017",
@@ -7616,7 +7621,7 @@
       "Name": "I have to read these things?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Ach022",
@@ -7704,7 +7709,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Ach033",
@@ -7712,7 +7717,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Ach034",
@@ -7856,7 +7861,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "Ach052",
@@ -7864,7 +7869,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Ach053",
@@ -7928,7 +7933,7 @@
       "Name": "Check out my moves!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Ach061",
@@ -8023,13 +8028,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4248,
+      "Progressed": 4250,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2769,
+      "Progressed": 2771,
       "Completed": 1930
     }
   ],
@@ -8037,8 +8042,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:07:53.7087906+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:07:39.3178758+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:57:57.9243266+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:07:53.7088666+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:57:32.9586636+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:07:39.3179873+00:00"
 }

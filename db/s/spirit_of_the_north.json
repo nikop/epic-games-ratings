@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74846,
+  "EOS_Progressed": 74849,
   "EOS_Completed": 398,
   "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 5,
@@ -24098,6 +24098,11 @@
       "Time": "2023-11-22T10:09:01.2172277+00:00",
       "NumProgressed": 74846,
       "NumCompleted": 398
+    },
+    {
+      "Time": "2023-11-22T12:08:46.4937211+00:00",
+      "NumProgressed": 74849,
+      "NumCompleted": 398
     }
   ],
   "TotalAchievements": 24,
@@ -24117,7 +24122,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16466
+      "UsersEstimate": 16467
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -24125,7 +24130,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50895
+      "UsersEstimate": 50897
     },
     {
       "ID": "BEST_FRIENDS",
@@ -24133,7 +24138,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16466
+      "UsersEstimate": 16467
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -24141,7 +24146,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19460
+      "UsersEstimate": 19461
     },
     {
       "ID": "ERADICATE",
@@ -24157,7 +24162,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20957
+      "UsersEstimate": 20958
     },
     {
       "ID": "FOXIN_AROUND",
@@ -24165,7 +24170,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21705
+      "UsersEstimate": 21706
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -24181,7 +24186,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13472
+      "UsersEstimate": 13473
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -24189,7 +24194,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39668
+      "UsersEstimate": 39670
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -24293,14 +24298,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11975
+      "UsersEstimate": 11976
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74846,
+      "Progressed": 74849,
       "Completed": 398
     }
   ],
@@ -24308,8 +24313,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:09:15.6045207+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:08:46.4937207+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:11.1118359+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:57:35.036136+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:09:15.6046177+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:57:16.5883205+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:08:46.49384+00:00"
 }

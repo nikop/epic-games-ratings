@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -92,9 +92,9 @@
       "ID": "12",
       "SetID": "5jnn47e",
       "Name": "Always follow the nose",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
@@ -140,9 +140,9 @@
       "ID": "18",
       "SetID": "5jnn47e",
       "Name": "The fish is not fresh",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "19",
@@ -250,8 +250,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-11-22T11:07:24.058805+00:00",
+  "LastChanged_Achievements": "2023-11-22T12:05:57.654875+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.7364939+00:00",
-  "LastUpdate_Ratings": "2023-11-22T10:57:50.3833367+00:00",
-  "LastUpdate_Achievements": "2023-11-22T11:07:24.0588175+00:00"
+  "LastUpdate_Ratings": "2023-11-22T11:57:27.5608274+00:00",
+  "LastUpdate_Achievements": "2023-11-22T12:05:57.6548865+00:00"
 }
