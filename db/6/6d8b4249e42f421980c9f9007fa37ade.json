@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -753,9 +753,9 @@
       "ID": "Epic_RocketCat_1",
       "SetID": "ba1m2fc",
       "Name": "Kitty of Mass Destruction",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_RustySickle_1",
@@ -864,8 +864,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:06:00.0763459+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:15:47.2742377+00:00",
   "LastUpdate_AppInfo": "2023-11-16T16:57:06.5410128+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:58:00.8714338+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:06:00.0763755+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:06:29.6863724+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:15:47.274267+00:00"
 }

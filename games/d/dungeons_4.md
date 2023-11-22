@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 86.00% | ~286 |
-| Thalya – Simply Immortal | 86.00% | ~286 |
-| For the Horde! | 82.00% | ~273 |
-| Hammer Time, Round Two | 80.00% | ~266 |
-| The Hellwoods | 76.00% | ~253 |
+| The Last Stand | 87.00% | ~291 |
+| Thalya – Simply Immortal | 87.00% | ~291 |
+| For the Horde! | 82.00% | ~274 |
+| Hammer Time, Round Two | 80.00% | ~267 |
+| The Hellwoods | 76.00% | ~254 |
 | The Plains of Strothalm | 72.00% | ~240 |
-| Experienced Thalya | 70.00% | ~233 |
-| Thalya's Concentrated Fury | 67.00% | ~223 |
-| Master of Magic | 65.00% | ~216 |
-| Bad Elves Go Everywhere | 65.00% | ~216 |
-| Heroes’ Gorge | 61.00% | ~203 |
-| Magic Accidents | 59.00% | ~196 |
-| Unicorn steaks – fresh off the hoof! | 59.00% | ~196 |
+| Experienced Thalya | 70.00% | ~234 |
+| Thalya's Concentrated Fury | 67.00% | ~224 |
+| Bad Elves Go Everywhere | 66.00% | ~220 |
+| Master of Magic | 65.00% | ~217 |
+| Heroes’ Gorge | 60.00% | ~200 |
+| Magic Accidents | 59.00% | ~197 |
+| Unicorn steaks – fresh off the hoof! | 59.00% | ~197 |
 | Minions, Minions! | 57.00% | ~190 |
 | Trap Master | 54.00% | ~180 |
-| The Ascent | 50.00% | ~166 |
-| It's Warm and Cozy at Home | 50.00% | ~166 |
-| Hard Work | 46.00% | ~153 |
+| The Ascent | 51.00% | ~170 |
+| It's Warm and Cozy at Home | 51.00% | ~170 |
+| Hard Work | 46.00% | ~154 |
 | YOU SHALL NOT PASS! | 45.00% | ~150 |
 | The Big Eaty | 44.00% | ~147 |
 | Pure Dynamite! | 42.00% | ~140 |
 | “… like son” | 38.00% | ~127 |
 | Mana Cannon | 36.00% | ~120 |
-| Dungeonlord Gorgu | 34.00% | ~113 |
+| Dungeonlord Gorgu | 34.00% | ~114 |
 | Shame! Shame! Shame! | 33.00% | ~110 |
 | The Cathedral of Light | 32.00% | ~107 |
 | Tanos' Crusade Against Thalya | 30.00% | ~100 |
@@ -46,9 +46,9 @@
 | Doom Hill | 15.00% | ~50 |
 | Sabotage! | 13.00% | ~43 |
 | Brimstone Shaken, Not Stirred | 13.00% | ~43 |
-| Bonus Evilness | 11.00% | ~37 |
+| Bonus Evilness | 12.00% | ~40 |
+| The Rune Sockets of Finitude (Part 1) | 12.00% | ~40 |
 | Raiders of the Lost Stone | 11.00% | ~37 |
-| The Rune Sockets of Finitude (Part 1) | 11.00% | ~37 |
 | My Little Torture Chamber | 10.00% | ~33 |
 | Lavalumps on Ice! | 10.00% | ~33 |
 | Rubble and Ashes | 9.00% | ~30 |
@@ -66,7 +66,7 @@
 | Hands Off My Stones | 4.00% | ~13 |
 | I Don't Need Any Help | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 335)  
+Progressed: 334 (Ranked 335)  
 Completed: 3 (0.90%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,4 +84,4 @@ Completed: 3 (0.90%) (Ranked 171)
 | 2023-11-19 | 312 | 3 |
 | 2023-11-20 | 317 | 3 |
 | 2023-11-21 | 325 | 3 |
-| 2023-11-22 | 333 | 3 |
+| 2023-11-22 | 334 | 3 |

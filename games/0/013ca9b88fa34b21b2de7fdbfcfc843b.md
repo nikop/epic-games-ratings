@@ -1,19 +1,19 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 413)  
+Rating: 4.60 (Ranked 414)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,783 |
+| Azoria Beckons | 73.00% | ~5,784 |
 | A Thorny Situation | 71.00% | ~5,625 |
-| ... And Spit Back Out | 61.00% | ~4,832 |
+| ... And Spit Back Out | 61.00% | ~4,833 |
 | Break-Net Speed | 49.00% | ~3,882 |
-| Bramble Breaker | 47.00% | ~3,723 |
-| Miner 49er | 43.00% | ~3,406 |
-| Humble Collector | 43.00% | ~3,406 |
-| Calm Sailing | 37.00% | ~2,931 |
-| Open the Gate! | 34.00% | ~2,693 |
+| Bramble Breaker | 47.00% | ~3,724 |
+| Miner 49er | 43.00% | ~3,407 |
+| Humble Collector | 43.00% | ~3,407 |
+| Calm Sailing | 37.00% | ~2,932 |
+| Open the Gate! | 34.00% | ~2,694 |
 | Mist Walker | 32.00% | ~2,535 |
 | Lumberjack | 27.00% | ~2,139 |
 | Oui, Chef! | 23.00% | ~1,822 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 413)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,922 (Ranked 174)  
+Progressed: 7,923 (Ranked 174)  
 Completed: 1 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 1 (0.01%) (Ranked 335)
 | 2023-11-19 | 7,876 | 1 |
 | 2023-11-20 | 7,894 | 1 |
 | 2023-11-21 | 7,915 | 1 |
-| 2023-11-22 | 7,922 | 1 |
+| 2023-11-22 | 7,923 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

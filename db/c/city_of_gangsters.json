@@ -784,9 +784,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 353529,
+  "EOS_Progressed": 353532,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25324,6 +25324,11 @@
       "Time": "2023-11-22T12:04:55.9291154+00:00",
       "NumProgressed": 353529,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T13:14:11.4043248+00:00",
+      "NumProgressed": 353532,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -25351,7 +25356,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42423
+      "UsersEstimate": 42424
     },
     {
       "ID": "ach004",
@@ -25375,7 +25380,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach007",
@@ -25391,7 +25396,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42423
+      "UsersEstimate": 42424
     },
     {
       "ID": "ach009",
@@ -25415,7 +25420,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach012",
@@ -25423,7 +25428,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28282
+      "UsersEstimate": 28283
     },
     {
       "ID": "ach013",
@@ -25439,7 +25444,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 53029
+      "UsersEstimate": 53030
     },
     {
       "ID": "ach015",
@@ -25447,7 +25452,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach016",
@@ -25471,7 +25476,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28282
+      "UsersEstimate": 28283
     },
     {
       "ID": "ach019",
@@ -25543,7 +25548,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 166159
+      "UsersEstimate": 166160
     },
     {
       "ID": "ach028",
@@ -25559,7 +25564,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38888
+      "UsersEstimate": 38889
     },
     {
       "ID": "ach030",
@@ -25647,7 +25652,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach041",
@@ -25663,7 +25668,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach043",
@@ -25727,7 +25732,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach051",
@@ -25735,7 +25740,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38888
+      "UsersEstimate": 38889
     },
     {
       "ID": "ach052",
@@ -25837,9 +25842,9 @@
       "ID": "ach065",
       "SetID": "1d2iaed",
       "Name": "Determined Deliveries",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3535
     },
     {
       "ID": "ach066",
@@ -25887,7 +25892,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17676
+      "UsersEstimate": 17677
     },
     {
       "ID": "ach072",
@@ -25974,7 +25979,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 353529,
+      "Progressed": 353532,
       "Completed": 7
     }
   ],
@@ -25982,8 +25987,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-21T22:02:57.2923438+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:04:55.9291149+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:14:11.4043243+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:23.8503027+00:00",
-  "LastUpdate_Ratings": "2023-11-22T12:02:34.9823371+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:04:55.9293486+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:10:40.0660918+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:14:11.4045312+00:00"
 }

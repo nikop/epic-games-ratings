@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3223,9 +3223,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 40570,
+  "EOS_Progressed": 40571,
   "EOS_Completed": 323,
-  "EOS_NewPlayers": 1415,
+  "EOS_NewPlayers": 1409,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -27183,6 +27183,11 @@
       "Time": "2023-11-22T12:04:28.349334+00:00",
       "NumProgressed": 40570,
       "NumCompleted": 323
+    },
+    {
+      "Time": "2023-11-22T13:13:31.1875771+00:00",
+      "NumProgressed": 40571,
+      "NumCompleted": 323
     }
   ],
   "TotalAchievements": 60,
@@ -27194,7 +27199,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 23936
+      "UsersEstimate": 23937
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -27234,7 +27239,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 8925
+      "UsersEstimate": 8926
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -27242,7 +27247,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -27258,7 +27263,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -27306,7 +27311,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -27338,7 +27343,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -27346,7 +27351,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -27418,7 +27423,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 14605
+      "UsersEstimate": 14606
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -27578,7 +27583,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 18662
+      "UsersEstimate": 18663
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -27594,7 +27599,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 28399
+      "UsersEstimate": 28400
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -27673,15 +27678,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 40570,
+      "Progressed": 40571,
       "Completed": 323
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-21T07:58:32.9860427+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:04:28.3493334+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:13:31.1875767+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:33.1928949+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:58:43.3190276+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:04:28.3494707+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:07:35.2899153+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:13:31.1877485+00:00"
 }

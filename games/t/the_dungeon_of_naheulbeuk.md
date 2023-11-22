@@ -1,17 +1,17 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~83,590 |
-| Alt+F4 | 8.00% | ~19,106 |
-| Where's that freaking Dwarf? | 7.00% | ~16,718 |
+| Sowwy! | 35.00% | ~83,593 |
+| Alt+F4 | 8.00% | ~19,107 |
+| Where's that freaking Dwarf? | 7.00% | ~16,719 |
 | Déjà vu | 6.00% | ~14,330 |
-| Sock! SOCK! | 5.00% | ~11,941 |
-| Speedrun | 5.00% | ~11,941 |
+| Sock! SOCK! | 5.00% | ~11,942 |
+| Speedrun | 5.00% | ~11,942 |
 | A beer, two curses, three companions | 4.00% | ~9,553 |
 | GG EZ | 4.00% | ~9,553 |
 | DM intervention | 4.00% | ~9,553 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 1.00% | ~2,388 |
 | Lust and Debauchery | 1.00% | ~2,388 |
 | Material Girl | 1.00% | ~2,388 |
-| In Navalu's footsteps | 0.90% | ~2,149 |
+| In Navalu's footsteps | 0.90% | ~2,150 |
 | Lëgal Legend | 0.80% | ~1,911 |
 | We come in peace | 0.70% | ~1,672 |
 | Holistic Adventuring Party | 0.60% | ~1,433 |
@@ -53,9 +53,9 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.50% | ~1,194 |
 | I'd rather... Just... Sing! | 0.40% | ~955 |
 | It's been a hard day's night | 0.40% | ~955 |
-| Friendly fire | 0.30% | ~716 |
-| The number of the counting shalt be 7 | 0.30% | ~716 |
-| Inception | 0.30% | ~716 |
+| Friendly fire | 0.30% | ~717 |
+| The number of the counting shalt be 7 | 0.30% | ~717 |
+| Inception | 0.30% | ~717 |
 | The Blood Countess | 0.20% | ~478 |
 | Free customer service | 0.20% | ~478 |
 | Imposture and Trowels | 0.20% | ~478 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~239 |
 | Dwarf Candy | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,829 (Ranked 63)  
+Progressed: 238,837 (Ranked 63)  
 Completed: 7 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 7 (0.00%) (Ranked 357)
 | 2023-11-19 | 238,375 | 7 |
 | 2023-11-20 | 238,570 | 7 |
 | 2023-11-21 | 238,762 | 7 |
-| 2023-11-22 | 238,829 | 7 |
+| 2023-11-22 | 238,837 | 7 |
 ## Awards
 Max (Character Customization): 237  (Ranked 272)  
 Sum: 474 (Ranked 330)  

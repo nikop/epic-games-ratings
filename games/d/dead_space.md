@@ -11,7 +11,7 @@ Rating: 4.64 (Ranked 333)
 | All Systems Go | 67.00% | ~1,288 |
 | Brute Force | 66.00% | ~1,269 |
 | Cannon Fodder | 62.00% | ~1,192 |
-| Autofire | 58.00% | ~1,115 |
+| Autofire | 59.00% | ~1,135 |
 | True Believer | 57.00% | ~1,096 |
 | Story Teller | 56.00% | ~1,077 |
 | Raise the Stakes | 56.00% | ~1,077 |
@@ -19,18 +19,18 @@ Rating: 4.64 (Ranked 333)
 | Freeze | 52.00% | ~1,000 |
 | Exterminator | 52.00% | ~1,000 |
 | Greenhouse Effect | 52.00% | ~1,000 |
+| S.O.S. | 47.00% | ~904 |
 | Full Arsenal | 46.00% | ~885 |
-| S.O.S. | 46.00% | ~885 |
 | Get Off My Ship! | 44.00% | ~846 |
 | Strange Transmissions | 44.00% | ~846 |
+| Wreckage | 43.00% | ~827 |
 | Live with the Hot Ones | 42.00% | ~808 |
-| Wreckage | 42.00% | ~808 |
 | Keeper of the Faith | 40.00% | ~769 |
 | Betrayed | 39.00% | ~750 |
 | Legend Teller | 38.00% | ~731 |
+| Mindless Prey | 38.00% | ~731 |
 | Exodus | 37.00% | ~712 |
 | There's Always Peng! | 37.00% | ~712 |
-| Mindless Prey | 37.00% | ~712 |
 | A Cut Above | 33.00% | ~635 |
 | Front Toward Enemy | 33.00% | ~635 |
 | Whole Again | 29.00% | ~558 |
@@ -46,7 +46,7 @@ Rating: 4.64 (Ranked 333)
 | Backbreaker | 14.00% | ~269 |
 | Wishbone | 9.00% | ~173 |
 | Trusted Contractor | 7.00% | ~135 |
-| Built To Order | 5.00% | ~96 |
+| Built To Order | 6.00% | ~115 |
 | Merchant | 5.00% | ~96 |
 | Maxed Out | 3.00% | ~58 |
 | Reunion | 3.00% | ~58 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4124,
+  "EOS_Progressed": 4125,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -10224,6 +10224,11 @@
       "Time": "2023-11-22T12:04:35.137652+00:00",
       "NumProgressed": 4124,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-22T13:13:40.7942732+00:00",
+      "NumProgressed": 4125,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 16,
@@ -10235,7 +10240,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -10267,7 +10272,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "ach_architecture_completed",
@@ -10291,7 +10296,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ach_color_splash",
@@ -10307,7 +10312,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3340
+      "UsersEstimate": 3341
     },
     {
       "ID": "ach_food_completed",
@@ -10331,7 +10336,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ach_magic_wand",
@@ -10339,7 +10344,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ach_no_boosters",
@@ -10347,7 +10352,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ach_tornado",
@@ -10362,14 +10367,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4124,
+      "Progressed": 4125,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:04:35.1376515+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:13:40.7942727+00:00",
   "LastUpdate_AppInfo": "2023-11-17T20:57:02.4156411+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:59:34.9859288+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:04:35.1377144+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:08:54.6394118+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:13:40.7943319+00:00"
 }

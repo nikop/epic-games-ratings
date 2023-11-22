@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -2023,9 +2023,9 @@
       "ID": "achievement_kill1000Morthagi",
       "SetID": "95dc8p",
       "Name": "Bonebreakers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -2351,8 +2351,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:09:12.9817567+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:17:58.878834+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:35.6437946+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:58:17.67271+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:09:12.981798+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:06:55.0764028+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:17:58.8788758+00:00"
 }

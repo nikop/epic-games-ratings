@@ -2,12 +2,12 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 413,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
@@ -12307,18 +12307,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 36004,
       "NumberOfAwardsMax": 14897
+    },
+    {
+      "Time": "2023-11-22T13:06:39.1560985+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 36024,
+      "NumberOfAwardsMax": 14913
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36004,
-  "NumberOfAwardsMax": 14897,
+  "NumberOfAwards": 36024,
+  "NumberOfAwardsMax": 14913,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 14897
+      "Count": 14913
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12354,7 +12360,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1324
+      "Count": 1328
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12398,8 +12404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-11-22T11:58:07.864481+00:00",
+  "LastChanged": "2023-11-22T13:06:39.1560983+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:02.4297872+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:58:07.8644816+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:03:43.9093749+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:06:39.1560988+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:12:26.2945845+00:00"
 }

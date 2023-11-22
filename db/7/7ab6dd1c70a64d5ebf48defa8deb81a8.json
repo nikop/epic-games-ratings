@@ -1045,9 +1045,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_35",
@@ -1084,8 +1084,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:09:18.5283563+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:18:06.7574714+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:05.7621951+00:00",
-  "LastUpdate_Ratings": "2023-11-22T12:00:12.2909609+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:09:18.5283848+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:09:52.7976132+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:18:06.7575148+00:00"
 }

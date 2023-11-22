@@ -194,9 +194,9 @@
       "ID": "ACH_FIRST_ABSORPTION",
       "SetID": "cagp2pi",
       "Name": "Absorption",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -280,8 +280,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:04:48.6841126+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:14:00.7417861+00:00",
   "LastUpdate_AppInfo": "2023-11-17T13:03:46.2590305+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:59:26.0664693+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:04:48.6841322+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:08:40.8834184+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:14:00.7418117+00:00"
 }

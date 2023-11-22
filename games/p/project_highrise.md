@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | In the Black | 61.00% | ~215 |
 | Starting Skyward | 55.00% | ~194 |
-| Grime is Not Good | 49.00% | ~172 |
+| Grime is Not Good | 49.00% | ~173 |
 | Floor Galore | 42.00% | ~148 |
 | Dinner Dash | 42.00% | ~148 |
-| Campaign Launch | 41.00% | ~144 |
-| It's Technical | 39.00% | ~137 |
-| Need a Consult | 38.00% | ~134 |
-| Upgrade Unlock | 37.00% | ~130 |
-| Delegate Maintenance | 35.00% | ~123 |
+| Campaign Launch | 41.00% | ~145 |
+| Need a Consult | 39.00% | ~138 |
+| It's Technical | 39.00% | ~138 |
+| Upgrade Unlock | 37.00% | ~131 |
+| Delegate Maintenance | 35.00% | ~124 |
 | Proper Walls | 33.00% | ~116 |
 | Destination Destiny | 32.00% | ~113 |
 | Happy Tenants | 27.00% | ~95 |
@@ -22,16 +22,16 @@
 | Your Prestige is Rising | 25.00% | ~88 |
 | Retail Revenue | 25.00% | ~88 |
 | Don't Feel a Loan | 23.00% | ~81 |
-| People Mover | 22.00% | ~77 |
-| Leveled Up Shops | 22.00% | ~77 |
+| People Mover | 22.00% | ~78 |
+| Leveled Up Shops | 22.00% | ~78 |
 | Lux Living | 21.00% | ~74 |
 | Artfully Done | 21.00% | ~74 |
 | Emporium Empire | 21.00% | ~74 |
 | Get Electrified | 21.00% | ~74 |
-| Tasty Profits | 20.00% | ~70 |
+| Tasty Profits | 20.00% | ~71 |
+| We Don't Need No Education | 20.00% | ~71 |
 | Rehab Expert | 19.00% | ~67 |
-| We Don't Need No Education | 19.00% | ~67 |
-| Established Fame | 18.00% | ~63 |
+| Established Fame | 18.00% | ~64 |
 | Under One Roof | 17.00% | ~60 |
 | Cashflow Chief | 17.00% | ~60 |
 | Starred Dining | 16.00% | ~56 |
@@ -40,13 +40,13 @@
 | Terrifically Trashed | 14.00% | ~49 |
 | Thrilled Tenants | 14.00% | ~49 |
 | Swimming in Surplus | 12.00% | ~42 |
-| Aestheticly Pleased | 11.00% | ~39 |
 | 28 Days Later | 11.00% | ~39 |
+| Aestheticly Pleased | 10.00% | ~35 |
 | Master of Puppets | 10.00% | ~35 |
 | Refined Palates | 10.00% | ~35 |
-| First 100 Days | 9.00% | ~32 |
 | Plaza Plan | 9.00% | ~32 |
 | Phoning It In | 9.00% | ~32 |
+| First 100 Days | 8.00% | ~28 |
 | Water Features | 8.00% | ~28 |
 | Careful Constructor | 7.00% | ~25 |
 | Meet Me at HQ | 7.00% | ~25 |
@@ -82,8 +82,8 @@
 | Scenario Success | 2.00% | ~7 |
 | Double Down | 1.00% | ~4 |
 | Lofty Landlord | 1.00% | ~4 |
-| Artistic Largesse | 0.90% | ~3 |
-| High Hand | 0.90% | ~3 |
+| Artistic Largesse | 0.80% | ~3 |
+| High Hand | 0.80% | ~3 |
 | Poker Face | 0.60% | ~2 |
 | Scenario Master | 0.60% | ~2 |
 | Infrastructure Info | 0.30% | ~1 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 329)  
+Progressed: 353 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-07 | 350 | 0 |
 | 2023-11-12 | 351 | 0 |
 | 2023-11-19 | 352 | 0 |
+| 2023-11-22 | 353 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

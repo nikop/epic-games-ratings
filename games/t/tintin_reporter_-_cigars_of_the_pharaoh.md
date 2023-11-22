@@ -8,16 +8,16 @@
 | A Loyal Friend | 41.00% | ~11 |
 | Abandon Ship! | 30.00% | ~8 |
 | The Tomb of Kih-Oskh | 22.00% | ~6 |
-| The Weighing of the Soul | 15.00% | ~4 |
+| The Weighing of the Soul | 19.00% | ~5 |
 | Cat Lover | 11.00% | ~3 |
 | The Curse of Kih-Oskh | 11.00% | ~3 |
 | It's a Deal! | 11.00% | ~3 |
 | In the Name of the Law | 7.00% | ~2 |
+| Au Revoir, Abudin | 7.00% | ~2 |
 | Mummy Nightmare | 7.00% | ~2 |
 | Barking Dog | 7.00% | ~2 |
 | Dynamite, Treason and Coconuts | 7.00% | ~2 |
 | Save a Friend | 7.00% | ~2 |
-| Au Revoir, Abudin | 4.00% | ~1 |
 | Mysterious Bungalow | 4.00% | ~1 |
 | The Eyes! | 4.00% | ~1 |
 | The Corporal's Golden Boy | 4.00% | ~1 |

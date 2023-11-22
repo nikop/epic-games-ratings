@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -7159,10 +7159,10 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140959,
-  "EOS_Completed": 191,
+  "EOS_Progressed": 140969,
+  "EOS_Completed": 192,
   "EOS_NewPlayers": 1069,
-  "EOS_NewCompleters": 5,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -29419,6 +29419,11 @@
       "Time": "2023-11-22T12:05:52.0492578+00:00",
       "NumProgressed": 140959,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-11-22T13:15:35.0245107+00:00",
+      "NumProgressed": 140969,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 112,
@@ -29694,7 +29699,7 @@
       "Name": "Disintermediation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "craft02",
@@ -29902,7 +29907,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "gold02",
@@ -30028,9 +30033,9 @@
       "ID": "level03",
       "SetID": "anfd17p",
       "Name": "Master Merchant",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1269
     },
     {
       "ID": "level04",
@@ -30172,9 +30177,9 @@
       "ID": "rareres01",
       "SetID": "anfd17p",
       "Name": "Glittering Collection",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1269
     },
     {
       "ID": "rareres02",
@@ -30325,15 +30330,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140959,
-      "Completed": 191
+      "Progressed": 140969,
+      "Completed": 192
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-22T06:02:58.3526894+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:05:52.0492573+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:15:35.0245102+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T12:02:40.7187861+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:05:52.0494411+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:10:49.1289936+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:15:35.024709+00:00"
 }

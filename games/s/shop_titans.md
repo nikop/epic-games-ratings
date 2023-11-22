@@ -9,8 +9,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 5.00% | ~7,048 |
 | Basic in Bulk | 5.00% | ~7,048 |
 | Titan's First Steps | 5.00% | ~7,048 |
-| Disintermediation | 4.00% | ~5,638 |
-| Tinkle of Coins | 4.00% | ~5,638 |
+| Disintermediation | 4.00% | ~5,639 |
+| Tinkle of Coins | 4.00% | ~5,639 |
 | One Easy Payment | 3.00% | ~4,229 |
 | Some Assembly Required | 3.00% | ~4,229 |
 | Another Satisfied Customer | 3.00% | ~4,229 |
@@ -69,10 +69,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.90% | ~1,269 |
 | Fat Cat Tag Team | 0.90% | ~1,269 |
 | Necromancer Queen | 0.90% | ~1,269 |
+| Master Merchant | 0.90% | ~1,269 |
 | Miracle Alchemist | 0.90% | ~1,269 |
 | Laden with Loot | 0.90% | ~1,269 |
 | Scourge of the Seas | 0.90% | ~1,269 |
 | Attrition Mission | 0.90% | ~1,269 |
+| Glittering Collection | 0.90% | ~1,269 |
 | Exotic Commodities | 0.90% | ~1,269 |
 | Cream of the Crop | 0.80% | ~1,128 |
 | Proud Paladin | 0.80% | ~1,128 |
@@ -85,10 +87,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.80% | ~1,128 |
 | By Your Powers Combined... | 0.80% | ~1,128 |
 | Item of Renown | 0.80% | ~1,128 |
-| Master Merchant | 0.80% | ~1,128 |
 | Bountiful Harvest | 0.80% | ~1,128 |
 | Precision Engineering | 0.80% | ~1,128 |
-| Glittering Collection | 0.80% | ~1,128 |
 | Treasure Trove | 0.80% | ~1,128 |
 | Moment of Respite | 0.80% | ~1,128 |
 | King's Shadow | 0.80% | ~1,128 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,959 (Ranked 80)  
-Completed: 191 (0.14%) (Ranked 268)  
+Progressed: 140,969 (Ranked 80)  
+Completed: 192 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,959 | 191 |
+| 2023-11-22 | 140,969 | 192 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

@@ -8,8 +8,8 @@
 | I Broke It | 74.00% | ~579 |
 | Better On Ice | 70.00% | ~548 |
 | Notai Notes | 70.00% | ~548 |
-| Blue Dreams | 68.00% | ~532 |
-| He's Famous! | 68.00% | ~532 |
+| Blue Dreams | 69.00% | ~540 |
+| He's Famous! | 69.00% | ~540 |
 | Cutie Poro | 68.00% | ~532 |
 | Krugmazing | 67.00% | ~525 |
 | The Fire Below the Mountain | 64.00% | ~501 |

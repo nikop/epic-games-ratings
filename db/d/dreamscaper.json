@@ -4,7 +4,7 @@
   "ProductSlug": "dreamscaper",
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-08-05T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.3594226+00:00",
   "LastChanged": "2023-03-31T05:57:01.3594227+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:23.4045085+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:59:16.9920231+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:03:39.9710944+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:08:26.8432676+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:12:20.623368+00:00"
 }

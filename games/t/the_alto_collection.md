@@ -1,15 +1,15 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 213)  
+Rating: 4.70 (Ranked 214)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,773 |
-| Finding Your Footing | 25.00% | ~11,827 |
-| Nomad | 17.00% | ~8,042 |
-| Picking Up Speed | 16.00% | ~7,569 |
+| Rookie | 27.00% | ~12,774 |
+| Finding Your Footing | 25.00% | ~11,828 |
+| Nomad | 17.00% | ~8,043 |
+| Picking Up Speed | 16.00% | ~7,570 |
 | Welcome Maya | 14.00% | ~6,623 |
 | Scout | 11.00% | ~5,204 |
 | Sightseer | 11.00% | ~5,204 |
@@ -17,10 +17,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Maya | 8.00% | ~3,785 |
 | Wanderer | 8.00% | ~3,785 |
 | Enter Paz | 7.00% | ~3,312 |
-| Aviator | 6.00% | ~2,838 |
-| My Little Friend | 5.00% | ~2,365 |
-| One With The Board | 5.00% | ~2,365 |
-| Voyager | 5.00% | ~2,365 |
+| Aviator | 6.00% | ~2,839 |
+| My Little Friend | 5.00% | ~2,366 |
+| One With The Board | 5.00% | ~2,366 |
+| Voyager | 5.00% | ~2,366 |
 | Izel Has Arrived | 4.00% | ~1,892 |
 | Junkie | 3.00% | ~1,419 |
 | Traveler | 3.00% | ~1,419 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~47 |
 | Windswept | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,308 (Ranked 113)  
+Progressed: 47,310 (Ranked 113)  
 Completed: 5 (0.01%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 5 (0.01%) (Ranked 335)
 | 2023-11-19 | 47,040 | 5 |
 | 2023-11-20 | 47,146 | 5 |
 | 2023-11-21 | 47,253 | 5 |
-| 2023-11-22 | 47,308 | 5 |
+| 2023-11-22 | 47,310 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 439)  
 Sum: 372 (Ranked 348)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -844,9 +844,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -891,8 +891,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:08:49.6474596+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:17:26.297167+00:00",
   "LastUpdate_AppInfo": "2023-11-17T23:57:09.7789217+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:59:30.3996157+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:08:49.6474766+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:08:47.707573+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:17:26.29718+00:00"
 }

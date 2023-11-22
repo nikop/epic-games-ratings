@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1046,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2786,6 +2786,11 @@
       "Time": "2023-11-19T18:06:02.1474467+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T13:12:12.4739232+00:00",
+      "NumProgressed": 1046,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2797,7 +2802,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH001",
@@ -2885,7 +2890,7 @@
       "Name": "Intangible",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH012",
@@ -2893,7 +2898,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH013",
@@ -2995,9 +3000,9 @@
       "ID": "ACH025",
       "SetID": "69nfp41",
       "Name": "My precious!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH026",
@@ -3085,7 +3090,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH037",
@@ -3141,15 +3146,15 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH044",
       "SetID": "69nfp41",
       "Name": "Greed for gold",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH045",
@@ -3196,15 +3201,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1046,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:03:34.2984796+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:12:12.4739229+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.0945183+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:57:51.0617974+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:03:34.2985299+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:06:13.9113809+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:12:12.4739667+00:00"
 }

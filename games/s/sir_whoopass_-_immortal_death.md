@@ -4,46 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 94.00% | ~121 |
-| MLG 360 no scope kill! | 94.00% | ~121 |
-| Are you ready to rumble? | 94.00% | ~121 |
+| Tastes just like chicken! | 94.00% | ~122 |
+| MLG 360 no scope kill! | 94.00% | ~122 |
+| Are you ready to rumble? | 94.00% | ~122 |
 | That's what cheese said! | 88.00% | ~114 |
-| I like you...but I have to kill you... | 87.00% | ~112 |
+| I like you...but I have to kill you... | 87.00% | ~113 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~110 |
-| Not so hip anymore! | 84.00% | ~108 |
-| Nerd | 81.00% | ~104 |
-| Blurry depth perception | 81.00% | ~104 |
+| Not so hip anymore! | 84.00% | ~109 |
+| Nerd | 82.00% | ~107 |
+| Blurry depth perception | 82.00% | ~107 |
 | Up and down | 78.00% | ~101 |
-| Rolling, Rolling, Rolling | 75.00% | ~97 |
-| Fire-fighter! | 67.00% | ~86 |
-| Oh, you're up to no gouda! | 64.00% | ~83 |
-| Make Love not War-Craft a Mistlefoe | 62.00% | ~80 |
+| Rolling, Rolling, Rolling | 75.00% | ~98 |
+| Fire-fighter! | 67.00% | ~87 |
+| Oh, you're up to no gouda! | 63.00% | ~82 |
+| Make Love not War-Craft a Mistlefoe | 62.00% | ~81 |
 | Meat grinder | 61.00% | ~79 |
-| You're not going to blow me up! | 56.00% | ~72 |
-| Mushroom soup of the day | 53.00% | ~68 |
-| Cockadoodledoo! | 50.00% | ~64 |
-| Honk honk! | 49.00% | ~63 |
+| You're not going to blow me up! | 55.00% | ~72 |
+| Mushroom soup of the day | 52.00% | ~68 |
+| Cockadoodledoo! | 49.00% | ~64 |
+| Honk honk! | 48.00% | ~62 |
 | Butcher | 48.00% | ~62 |
-| Thats disgusting! | 47.00% | ~61 |
 | Spare Ribs | 47.00% | ~61 |
-| Self assessed tax return | 43.00% | ~55 |
-| My pants squeak when I walk | 43.00% | ~55 |
+| Thats disgusting! | 46.00% | ~60 |
+| Self assessed tax return | 42.00% | ~55 |
+| My pants squeak when I walk | 42.00% | ~55 |
 | Surprise!! | 41.00% | ~53 |
-| Haemochromatosis | 40.00% | ~52 |
+| Haemochromatosis | 39.00% | ~51 |
 | Make America Grate Again | 34.00% | ~44 |
-| You can't stop me, bro! | 33.00% | ~43 |
 | Pasta Bolognese | 33.00% | ~43 |
-| You are no match for me, Billy! | 32.00% | ~41 |
-| Catch the bus with me! | 32.00% | ~41 |
-| Karaoke king | 32.00% | ~41 |
+| You are no match for me, Billy! | 32.00% | ~42 |
+| Catch the bus with me! | 32.00% | ~42 |
+| Karaoke king | 32.00% | ~42 |
+| You can't stop me, bro! | 32.00% | ~42 |
 | I'm going to get a concussion | 30.00% | ~39 |
-| Meatballs, coming up! | 29.00% | ~37 |
+| Meatballs, coming up! | 29.00% | ~38 |
 | Another one bites the iron | 27.00% | ~35 |
-| Ripe Meat Off The Bone! | 26.00% | ~34 |
-| Kleptomaniac | 26.00% | ~34 |
+| Ripe Meat Off The Bone! | 25.00% | ~32 |
+| Kleptomaniac | 25.00% | ~32 |
 | Hovering around | 24.00% | ~31 |
 | A Megapint...? | 23.00% | ~30 |
-| You're not so Big anymore, Boi! | 22.00% | ~28 |
+| You're not so Big anymore, Boi! | 22.00% | ~29 |
 | Your daily dose of Vitamin C. | 21.00% | ~27 |
 | I cant stand still! | 20.00% | ~26 |
 | Just wing it! | 17.00% | ~22 |
@@ -52,13 +52,13 @@
 | Deal with it | 16.00% | ~21 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~17 |
 | Yeehaw!!! | 13.00% | ~17 |
-| You're looking mozzare-hella good! | 12.00% | ~15 |
+| You're looking mozzare-hella good! | 12.00% | ~16 |
 | Timber! | 10.00% | ~13 |
 | Free Of Chains | 10.00% | ~13 |
 | Spoiler alert! | 9.00% | ~12 |
-| I drink, but I'm not a drunk! | 9.00% | ~12 |
 | Grumpy Immortal | 9.00% | ~12 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
+| I drink, but I'm not a drunk! | 8.00% | ~10 |
 | I want to throw up! | 7.00% | ~9 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~9 |
 | Scrambled Eggs | 7.00% | ~9 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 407)  
+Progressed: 130 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,3 +141,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-17 | 122 | 0 |
 | 2023-11-18 | 123 | 0 |
 | 2023-11-19 | 129 | 0 |
+| 2023-11-22 | 130 | 0 |

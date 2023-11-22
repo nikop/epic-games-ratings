@@ -11,7 +11,7 @@ Number of Ratings: 546  (23.09.2022)
 | Rescued Elder Ent | 64.00% | ~5,323 |
 | Focus! | 63.00% | ~5,240 |
 | The End of the Gold Mane Knights | 49.00% | ~4,075 |
-| False Goddess, Disappear | 41.00% | ~3,410 |
+| False Goddess, Disappear | 42.00% | ~3,493 |
 | Rules of Etiquette | 41.00% | ~3,410 |
 | Quick Movements | 35.00% | ~2,911 |
 | Inventory Management | 35.00% | ~2,911 |

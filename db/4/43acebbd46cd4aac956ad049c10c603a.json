@@ -117,7 +117,7 @@
   ],
   "EOS_Progressed": 435,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1158,9 +1158,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "GnothiSeauton",
@@ -1286,9 +1286,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "Persistent",
@@ -1511,8 +1511,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-21T23:59:01.7170181+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:03:37.6444067+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:12:17.261611+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:58:55.4599739+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:03:37.6444478+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:07:54.4039414+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:12:17.2616519+00:00"
 }

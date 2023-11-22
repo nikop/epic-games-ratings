@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -501,17 +501,17 @@
       "ID": "TINGWD_BUTTON_PLAY",
       "SetID": "c0imaa6",
       "Name": "I want to PLAY!!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
       "SetID": "c0imaa6",
       "Name": "Future of the planet, and all that...",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TINGWD_BUZZ",
@@ -748,8 +748,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:05:13.6112804+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:14:37.3720949+00:00",
   "LastUpdate_AppInfo": "2023-11-20T19:57:06.1377786+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:57:34.2936124+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:05:13.6113003+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:05:48.4633325+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:14:37.3721184+00:00"
 }

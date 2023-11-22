@@ -11,13 +11,13 @@
 | Adventurer | 6.00% | ~12 |
 | Geared Up | 6.00% | ~12 |
 | Scholar | 6.00% | ~12 |
+| The Collector | 6.00% | ~12 |
 | Break Out | 5.00% | ~10 |
 | Calm before the Storm | 5.00% | ~10 |
 | A Taste of Wrath | 5.00% | ~10 |
 | Tributes of Caladrias | 5.00% | ~10 |
 | Big Bazar | 5.00% | ~10 |
 | Stone Collection | 5.00% | ~10 |
-| The Collector | 5.00% | ~10 |
 | Shatter Them All | 4.00% | ~8 |
 | Fashion Victim | 4.00% | ~8 |
 | The Mentor | 3.00% | ~6 |

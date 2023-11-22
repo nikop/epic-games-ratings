@@ -4717,10 +4717,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7931,
       "NumberOfAwardsMax": 1067
+    },
+    {
+      "Time": "2023-11-22T13:05:02.3000962+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7932,
+      "NumberOfAwardsMax": 1067
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7931,
+  "NumberOfAwards": 7932,
   "NumberOfAwardsMax": 1067,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4740,7 +4746,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 765
+      "Count": 766
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4791,9 +4797,9 @@
       "Count": 530
     }
   ],
-  "EOS_Progressed": 11817,
+  "EOS_Progressed": 11818,
   "EOS_Completed": 281,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -19316,6 +19322,11 @@
       "Time": "2023-11-22T12:03:33.4244088+00:00",
       "NumProgressed": 11817,
       "NumCompleted": 281
+    },
+    {
+      "Time": "2023-11-22T13:12:11.2373685+00:00",
+      "NumProgressed": 11818,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 15,
@@ -19383,7 +19394,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "Generous",
@@ -19399,7 +19410,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8272
+      "UsersEstimate": 8273
     },
     {
       "ID": "Miner",
@@ -19446,16 +19457,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11817,
+      "Progressed": 11818,
       "Completed": 281
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-22T06:57:22.8217739+00:00",
-  "LastChanged_Achievements": "2023-11-22T12:03:33.4244083+00:00",
+  "LastChanged": "2023-11-22T13:05:02.300096+00:00",
+  "LastChanged_Achievements": "2023-11-22T13:12:11.2373681+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.9264376+00:00",
-  "LastUpdate_Ratings": "2023-11-22T11:57:04.4131816+00:00",
-  "LastUpdate_Achievements": "2023-11-22T12:03:33.4244728+00:00"
+  "LastUpdate_Ratings": "2023-11-22T13:05:02.3000965+00:00",
+  "LastUpdate_Achievements": "2023-11-22T13:12:11.2374591+00:00"
 }
