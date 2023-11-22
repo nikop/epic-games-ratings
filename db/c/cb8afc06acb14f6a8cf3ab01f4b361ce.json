@@ -353,9 +353,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 316256,
+  "EOS_Progressed": 316277,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5265,
+  "EOS_NewPlayers": 5277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6883,6 +6883,11 @@
       "Time": "2023-11-22T08:05:07.3385759+00:00",
       "NumProgressed": 316256,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T09:05:25.811681+00:00",
+      "NumProgressed": 316277,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6895,7 +6900,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "S02_BRDA",
@@ -7031,7 +7036,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "S19_CHALLENGES",
@@ -7061,9 +7066,9 @@
       "ID": "S22_CORRUPTED",
       "SetID": "4j44ol8",
       "Name": "They won\u0027t last long",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 949
     },
     {
       "ID": "S23_ETHEREAL",
@@ -7125,9 +7130,9 @@
       "ID": "S30_DIAMOND",
       "SetID": "4j44ol8",
       "Name": "Bring it on!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 949
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -7214,7 +7219,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 316256,
+      "Progressed": 316277,
       "Completed": 4
     }
   ],
@@ -7222,8 +7227,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-20T01:47:08.7095792+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:05:07.3385754+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:05:25.8116805+00:00",
   "LastUpdate_AppInfo": "2023-11-16T18:57:23.3855841+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:01:28.8389912+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:05:07.3386193+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:01:40.139734+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:05:25.8117419+00:00"
 }

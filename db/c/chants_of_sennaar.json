@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.4,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2745,6 +2745,11 @@
       "Time": "2023-11-22T06:05:57.9336008+00:00",
       "NumProgressed": 647,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T09:07:09.6040007+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 25,
@@ -2756,7 +2761,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "END_GOOD",
@@ -2772,7 +2777,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2780,7 +2785,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2788,7 +2793,7 @@
       "Name": "A good beginning",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "META_HALF_LINK",
@@ -2802,9 +2807,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 104
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2868,15 +2873,15 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 162
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2890,9 +2895,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2955,14 +2960,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 35
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:06:46.5602869+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:07:09.604+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:48.9471469+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:58:36.572133+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:06:46.5603146+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:58:36.5362712+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:07:09.6040292+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1607,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
@@ -3772,9 +3772,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 257
     },
     {
       "ID": "LEVEL_015",
@@ -3796,9 +3796,9 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 209
     },
     {
       "ID": "LEVEL_018",
@@ -3812,9 +3812,9 @@
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_020",
@@ -3915,8 +3915,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:09:30.7848493+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:09:51.4244533+00:00",
   "LastUpdate_AppInfo": "2023-11-21T03:56:58.9886705+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:57:51.2979553+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:09:30.7848791+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:57:47.3261713+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:09:51.4244817+00:00"
 }

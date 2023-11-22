@@ -39,6 +39,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 1.00% | ~1,409 |
 | Scrapbooker | 1.00% | ~1,409 |
 | Flying off the Shelves | 1.00% | ~1,409 |
+| This Power Level...! | 1.00% | ~1,409 |
 | Power of Love | 1.00% | ~1,409 |
 | Expansion in Session | 1.00% | ~1,409 |
 | Efficient Floor Space | 1.00% | ~1,409 |
@@ -60,7 +61,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.90% | ~1,268 |
 | Big Game Hunting | 0.90% | ~1,268 |
 | Locally Sourced | 0.90% | ~1,268 |
-| This Power Level...! | 0.90% | ~1,268 |
 | Master of Transmutation | 0.90% | ~1,268 |
 | Hidden Potential | 0.90% | ~1,268 |
 | Cranked up to 11 | 0.90% | ~1,268 |
@@ -71,6 +71,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.90% | ~1,268 |
 | Laden with Loot | 0.90% | ~1,268 |
 | Scourge of the Seas | 0.90% | ~1,268 |
+| Exotic Commodities | 0.90% | ~1,268 |
 | Cream of the Crop | 0.80% | ~1,127 |
 | Proud Paladin | 0.80% | ~1,127 |
 | A Ronin Reborn | 0.80% | ~1,127 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.80% | ~1,127 |
 | King's Shadow | 0.80% | ~1,127 |
 | Master Recycler | 0.80% | ~1,127 |
-| Exotic Commodities | 0.80% | ~1,127 |
 | King's Blade | 0.80% | ~1,127 |
 | Top of the World | 0.70% | ~987 |
 | Constellated | 0.70% | ~987 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,932 (Ranked 80)  
+Progressed: 140,937 (Ranked 80)  
 Completed: 191 (0.14%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 191 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,932 | 191 |
+| 2023-11-22 | 140,937 | 191 |
 ## Awards
 Max (Great for Beginners): 4,837  (Ranked 74)  
 Sum: 27,576 (Ranked 50)  

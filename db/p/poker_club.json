@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
@@ -955,9 +955,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 539130,
+  "EOS_Progressed": 539132,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1415,
+  "EOS_NewPlayers": 1412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25405,6 +25405,11 @@
       "Time": "2023-11-22T08:07:02.5416967+00:00",
       "NumProgressed": 539130,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-22T09:07:26.4272171+00:00",
+      "NumProgressed": 539132,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -25416,7 +25421,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145565
+      "UsersEstimate": 145566
     },
     {
       "ID": "Backdoor",
@@ -25424,7 +25429,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 134782
+      "UsersEstimate": 134783
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -25568,7 +25573,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 221043
+      "UsersEstimate": 221044
     },
     {
       "ID": "HoldingYourOwn",
@@ -25616,7 +25621,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43130
+      "UsersEstimate": 43131
     },
     {
       "ID": "OnTheButton",
@@ -25664,7 +25669,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 409739
+      "UsersEstimate": 409740
     },
     {
       "ID": "ProPlayer",
@@ -25688,7 +25693,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 113217
+      "UsersEstimate": 113218
     },
     {
       "ID": "RegularPunter",
@@ -25736,7 +25741,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43130
+      "UsersEstimate": 43131
     },
     {
       "ID": "ThreeWay",
@@ -25760,7 +25765,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 43130
+      "UsersEstimate": 43131
     },
     {
       "ID": "WHIP",
@@ -25775,7 +25780,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 539130,
+      "Progressed": 539132,
       "Completed": 2
     }
   ],
@@ -25783,8 +25788,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-21T12:00:35.5826026+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:07:02.5416963+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:07:26.4272168+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:12.5472257+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:57:32.2710464+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:07:02.5418331+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:57:26.9880902+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:07:26.4273399+00:00"
 }

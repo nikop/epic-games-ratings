@@ -8,19 +8,19 @@ Rating: 4.54 (Ranked 527)
 | One of Us | 2.00% | ~956 |
 | Whatever It Takes | 2.00% | ~956 |
 | Pork Chopped | 2.00% | ~956 |
-| Dr. Reed, I Presume? | 1.00% | ~7,222 |
-| Git Gutte! | 1.00% | ~7,222 |
-| Bookworm | 1.00% | ~7,222 |
-| Break A Leg | 1.00% | ~7,222 |
-| Coup de Grâce | 1.00% | ~7,222 |
-| Hazardous Materials | 1.00% | ~7,222 |
-| Friends Like These | 1.00% | ~7,222 |
-| Hotel California | 1.00% | ~7,222 |
-| Apex Predator | 1.00% | ~7,222 |
-| Stacking the Deck | 1.00% | ~7,222 |
-| Personal Assistant Personally Assisted | 1.00% | ~7,222 |
-| This is My Weapon | 1.00% | ~7,222 |
-| Welcome To Hell-A | 1.00% | ~7,222 |
+| Dr. Reed, I Presume? | 1.00% | ~7,223 |
+| Git Gutte! | 1.00% | ~7,223 |
+| Bookworm | 1.00% | ~7,223 |
+| Break A Leg | 1.00% | ~7,223 |
+| Coup de Grâce | 1.00% | ~7,223 |
+| Hazardous Materials | 1.00% | ~7,223 |
+| Friends Like These | 1.00% | ~7,223 |
+| Hotel California | 1.00% | ~7,223 |
+| Apex Predator | 1.00% | ~7,223 |
+| Stacking the Deck | 1.00% | ~7,223 |
+| Personal Assistant Personally Assisted | 1.00% | ~7,223 |
+| This is My Weapon | 1.00% | ~7,223 |
+| Welcome To Hell-A | 1.00% | ~7,223 |
 | Anger Management | 0.90% | ~6,500 |
 | But Doctor, I am Butcho | 0.90% | ~6,500 |
 | Can't Handle the Truth | 0.90% | ~6,500 |
@@ -35,8 +35,8 @@ Rating: 4.54 (Ranked 527)
 | Making Your Mark | 0.70% | ~5,056 |
 | I Am the Resurrection | 0.70% | ~5,056 |
 | Max Headroom | 0.70% | ~5,056 |
-| Humanity Distilled | 0.60% | ~4,333 |
-| Down with the Sickness | 0.60% | ~4,333 |
+| Humanity Distilled | 0.60% | ~4,334 |
+| Down with the Sickness | 0.60% | ~4,334 |
 | Not Even My Final Form | 0.50% | ~3,611 |
 | Jumbo Keyring | 0.50% | ~3,611 |
 | Go, Bobcats! | 0.50% | ~3,611 |
@@ -49,15 +49,15 @@ Rating: 4.54 (Ranked 527)
 | LA Influential | 0.30% | ~2,167 |
 | Gore Horse | 0.30% | ~2,167 |
 | Top That, Tisha! | 0.30% | ~143 |
-| Sole Survivor | 0.20% | ~1,444 |
-| Sharpest Tool in the Box | 0.20% | ~1,444 |
-| Survival Skills | 0.20% | ~1,444 |
+| Sole Survivor | 0.20% | ~1,445 |
+| Sharpest Tool in the Box | 0.20% | ~1,445 |
+| Survival Skills | 0.20% | ~1,445 |
 | Lawn and Order | 0.20% | ~96 |
 | Donk! | 0.10% | ~722 |
 | Bucket List | 0.10% | ~722 |
 | Wilhelm | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 722,241 (Ranked 21)  
+Progressed: 722,257 (Ranked 21)  
 Completed: 2,423 (0.34%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,423 (0.34%) (Ranked 228)
 | 2023-11-19 | 721,090 | 2,412 |
 | 2023-11-20 | 721,571 | 2,421 |
 | 2023-11-21 | 722,031 | 2,423 |
-| 2023-11-22 | 722,241 | 2,423 |
+| 2023-11-22 | 722,257 | 2,423 |
 ## Awards
 Max (Great Boss Battles): 7,650  (Ranked 50)  
 Sum: 11,664 (Ranked 84)  

@@ -7,11 +7,11 @@ Rating: 4.43 (Ranked 691)
 | ---- | ---------- | ----- |
 | Sector 1 | 20.00% | ~4,241 |
 | Sector 2 | 18.00% | ~3,817 |
-| Crush That Cube! | 15.00% | ~3,180 |
-| Sector 3 | 15.00% | ~3,180 |
-| Crush That Ball! | 12.00% | ~2,544 |
-| Sector 4 | 12.00% | ~2,544 |
-| Sector 5 | 8.00% | ~1,696 |
+| Crush That Cube! | 15.00% | ~3,181 |
+| Sector 3 | 15.00% | ~3,181 |
+| Crush That Ball! | 12.00% | ~2,545 |
+| Sector 4 | 12.00% | ~2,545 |
+| Sector 5 | 8.00% | ~1,697 |
 | Sector 6 | 7.00% | ~1,484 |
 | Feeling the Blues | 5.00% | ~1,060 |
 | Squished | 5.00% | ~1,060 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 691)
 | Completed It. | 1.00% | ~212 |
 | Maxed Out | 1.00% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,203 (Ranked 135)  
+Progressed: 21,207 (Ranked 135)  
 Completed: 86 (0.41%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 86 (0.41%) (Ranked 213)
 | 2023-11-19 | 20,715 | 75 |
 | 2023-11-20 | 20,943 | 82 |
 | 2023-11-21 | 21,137 | 86 |
-| 2023-11-22 | 21,203 | 86 |
+| 2023-11-22 | 21,207 | 86 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

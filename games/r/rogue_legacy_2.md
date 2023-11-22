@@ -24,13 +24,13 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.50% | ~118 |
 | For Survival | 0.40% | ~94 |
 | Jack of all Trades | 0.40% | ~94 |
+| Color Coordination | 0.40% | ~94 |
 | For Wrath | 0.30% | ~71 |
 | For Love | 0.30% | ~71 |
 | For Pride | 0.30% | ~71 |
 | K.O. | 0.30% | ~71 |
 | Just the Beginning | 0.30% | ~71 |
 | Wasted Betrayal | 0.30% | ~71 |
-| Color Coordination | 0.30% | ~71 |
 | Black-shoppe | 0.20% | ~47 |
 | For Greed | 0.20% | ~47 |
 | For Penance | 0.20% | ~47 |

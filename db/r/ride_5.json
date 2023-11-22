@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2214,
+  "EOS_Progressed": 2215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5182,6 +5182,11 @@
       "Time": "2023-11-22T00:09:38.0718582+00:00",
       "NumProgressed": 2214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T09:09:57.2182561+00:00",
+      "NumProgressed": 2215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -5202,7 +5207,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5490,15 +5495,15 @@
       "Name": "Eat My Dust",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 554
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5585,14 +5590,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2214,
+      "Progressed": 2215,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:09:36.3737653+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:09:57.2182557+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2223369+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:01:42.5788405+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:09:36.373847+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:01:53.8427608+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:09:57.2183138+00:00"
 }

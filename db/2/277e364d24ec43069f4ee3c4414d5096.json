@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114796,
+  "EOS_Progressed": 114797,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
@@ -18739,6 +18739,11 @@
       "Time": "2023-11-22T08:08:56.0320114+00:00",
       "NumProgressed": 114796,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-22T09:09:14.7522623+00:00",
+      "NumProgressed": 114797,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -18758,7 +18763,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 88393
+      "UsersEstimate": 88394
     },
     {
       "ID": "EAwards_10",
@@ -18782,7 +18787,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17219
+      "UsersEstimate": 17220
     },
     {
       "ID": "EAwards_13",
@@ -18846,7 +18851,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 55102
+      "UsersEstimate": 55103
     },
     {
       "ID": "EAwards_20",
@@ -19022,7 +19027,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14923
+      "UsersEstimate": 14924
     },
     {
       "ID": "EAwards_40",
@@ -19141,7 +19146,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114796,
+      "Progressed": 114797,
       "Completed": 50
     }
   ],
@@ -19149,8 +19154,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:08:56.0320111+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:09:14.7522619+00:00",
   "LastUpdate_AppInfo": "2023-11-17T04:56:53.3615182+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:57:22.9926066+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:08:56.0321289+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:57:17.0831542+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:09:14.7523838+00:00"
 }

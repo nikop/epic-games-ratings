@@ -10,7 +10,7 @@ Rating: 4.35 (Ranked 793)
 | Ready to Learn | 62.00% | ~701 |
 | Monster Hunter | 53.00% | ~599 |
 | Earning Trust | 50.00% | ~566 |
-| Monster Slayer | 29.00% | ~328 |
+| Monster Slayer | 30.00% | ~339 |
 | Awakening | 23.00% | ~260 |
 | Huntmaster | 22.00% | ~249 |
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~204 |

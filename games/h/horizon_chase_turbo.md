@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~969,713 |
-| I Need a Bigger Garage | 63.00% | ~678,799 |
-| Pump my Ride | 47.00% | ~506,406 |
-| Ghostbuster | 34.00% | ~366,336 |
-| Call Roadside Assistance | 18.00% | ~193,943 |
-| That Was Close | 18.00% | ~193,943 |
-| Quickie | 11.00% | ~118,520 |
-| California Dreamer | 7.00% | ~75,422 |
-| Can't Touch This | 5.00% | ~53,873 |
-| Carménère Taster | 4.00% | ~43,098 |
-| Comeback | 4.00% | ~43,098 |
+| The First of Many | 90.00% | ~969,723 |
+| I Need a Bigger Garage | 63.00% | ~678,806 |
+| Pump my Ride | 47.00% | ~506,411 |
+| Ghostbuster | 34.00% | ~366,340 |
+| Call Roadside Assistance | 18.00% | ~193,945 |
+| That Was Close | 18.00% | ~193,945 |
+| Quickie | 11.00% | ~118,522 |
+| California Dreamer | 7.00% | ~75,423 |
+| Can't Touch This | 5.00% | ~53,874 |
+| Carménère Taster | 4.00% | ~43,099 |
+| Comeback | 4.00% | ~43,099 |
 | Driver from Ipanema | 3.00% | ~32,324 |
 | Supersonic | 3.00% | ~32,324 |
 | Marathonist | 3.00% | ~32,324 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,077 |
 | Look Mom, No Hands! | 0.10% | ~1,077 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,077,459 (Ranked 13)  
+Progressed: 1,077,470 (Ranked 13)  
 Completed: 494 (0.05%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,17 +260,17 @@ Completed: 494 (0.05%) (Ranked 306)
 | 2023-11-19 | 1,076,707 | 492 |
 | 2023-11-20 | 1,077,060 | 492 |
 | 2023-11-21 | 1,077,382 | 493 |
-| 2023-11-22 | 1,077,459 | 494 |
+| 2023-11-22 | 1,077,470 | 494 |
 ## Awards
 Max (Great for Beginners): 167  (Ranked 307)  
-Sum: 1,529 (Ranked 233)  
+Sum: 1,530 (Ranked 233)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 167 |
 | This game has Diverse Characters | 145 |
 | This game has Quickly Understood Controls | 143 |
-| This game is Great for Quick Sessions | 140 |
+| This game is Great for Quick Sessions | 141 |
 | This game is Relaxing | 138 |
 | This game is Highly Recommended | 132 |
 | This game has Playful Visuals | 125 |
@@ -529,3 +529,4 @@ Diff (max vs sum): 74
 | 2023-11-19 | 4.54 | - | 166 | 1,527 |
 | 2023-11-20 | 4.54 | - | 167 | 1,528 |
 | 2023-11-21 | 4.54 | - | 167 | 1,529 |
+| 2023-11-22 | 4.54 | - | 167 | 1,530 |

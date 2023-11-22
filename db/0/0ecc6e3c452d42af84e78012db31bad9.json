@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4120,
+  "EOS_Progressed": 4121,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -10209,6 +10209,11 @@
       "Time": "2023-11-22T08:05:15.4444858+00:00",
       "NumProgressed": 4120,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-22T09:05:34.6510394+00:00",
+      "NumProgressed": 4121,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 16,
@@ -10236,7 +10241,7 @@
       "Name": "Artist in the making",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ach_animals_completed",
@@ -10252,7 +10257,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3172
+      "UsersEstimate": 3173
     },
     {
       "ID": "ach_architecture_completed",
@@ -10276,7 +10281,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ach_color_splash",
@@ -10284,7 +10289,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ach_first_picture",
@@ -10292,7 +10297,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3338
     },
     {
       "ID": "ach_food_completed",
@@ -10308,7 +10313,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ach_game_opened",
@@ -10316,7 +10321,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ach_magic_wand",
@@ -10347,14 +10352,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4120,
+      "Progressed": 4121,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:05:15.4444853+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:05:34.6510389+00:00",
   "LastUpdate_AppInfo": "2023-11-17T20:57:02.4156411+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:00:46.7443008+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:05:15.4445319+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:00:55.8792368+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:05:34.6511021+00:00"
 }

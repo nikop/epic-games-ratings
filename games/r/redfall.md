@@ -22,10 +22,10 @@ Rating: 3.47 (Ranked 1,044)
 | Sucks To Be You | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
+| Neighborhood Revitalization | 0.90% | ~16 |
+| Radio Silence | 0.90% | ~16 |
 | Good Morning | 0.90% | ~16 |
 | Harvest’s End | 0.90% | ~16 |
-| Neighborhood Revitalization | 0.80% | ~14 |
-| Radio Silence | 0.80% | ~14 |
 | Bell-ringer | 0.80% | ~14 |
 | From the Shadows | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
@@ -37,13 +37,13 @@ Rating: 3.47 (Ranked 1,044)
 | Right This Way | 0.50% | ~9 |
 | Curious Finch | 0.50% | ~9 |
 | I Spit On Your Grave | 0.50% | ~9 |
+| Nice Try | 0.40% | ~7 |
 | Revelations | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
 | What Lies Below | 0.30% | ~5 |
 | Starve the Beast | 0.30% | ~5 |
 | Bloody Initiate | 0.30% | ~5 |
-| Nice Try | 0.30% | ~5 |
 | Blacklight Down | 0.30% | ~5 |
 | Under a Bushel | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |

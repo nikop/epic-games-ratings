@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 357,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -827,6 +827,11 @@
       "Time": "2023-11-22T08:04:59.6430532+00:00",
       "NumProgressed": 355,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T09:05:17.897388+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -895,7 +900,7 @@
       "Name": "Pathfinder",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "CompleteChapter10",
@@ -935,7 +940,7 @@
       "Name": "For Harkanibus!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteChapter15",
@@ -943,7 +948,7 @@
       "Name": "The Great Scheme",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteChapter16",
@@ -951,7 +956,7 @@
       "Name": "Our Own Miracle",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CompleteChapter17",
@@ -965,9 +970,9 @@
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter18",
@@ -983,7 +988,7 @@
       "Name": "Met the Enemy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "CompleteChapter3",
@@ -1007,7 +1012,7 @@
       "Name": "Breathing Easy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CompleteChapter6",
@@ -1015,7 +1020,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CompleteChapter7",
@@ -1023,7 +1028,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "CompleteChapter8",
@@ -1037,9 +1042,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1111,7 +1116,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1134,14 +1139,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 357,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:04:59.6430527+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:05:17.8973877+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:57:28.7019899+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:04:59.6430754+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:57:23.2330136+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:05:17.8974107+00:00"
 }

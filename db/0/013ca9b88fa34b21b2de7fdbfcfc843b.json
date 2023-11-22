@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7919,
+  "EOS_Progressed": 7920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7171,6 +7171,11 @@
       "Time": "2023-11-22T01:58:37.4212255+00:00",
       "NumProgressed": 7919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T09:09:48.232468+00:00",
+      "NumProgressed": 7920,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -7183,7 +7188,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -7191,7 +7196,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -7207,7 +7212,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -7279,7 +7284,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -7287,7 +7292,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -7319,7 +7324,7 @@
       "Name": "Humble Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -7399,7 +7404,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -7462,22 +7467,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7919,
+      "Progressed": 7920,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 536,
-      "Completed": 536
+      "Progressed": 537,
+      "Completed": 537
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:09:27.6380582+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:09:48.2324675+00:00",
   "LastUpdate_AppInfo": "2023-11-17T08:56:58.2186175+00:00",
-  "LastUpdate_Ratings": "2023-11-22T08:02:54.4720544+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:09:27.6381019+00:00"
+  "LastUpdate_Ratings": "2023-11-22T09:03:07.031132+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:09:48.2325222+00:00"
 }

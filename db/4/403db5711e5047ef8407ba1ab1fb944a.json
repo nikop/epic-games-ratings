@@ -4,7 +4,7 @@
   "ProductSlug": "trash-troopers-earth-reclaim-48721c",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-26T16:00:00+00:00",
@@ -147,8 +147,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-24T14:03:35.8313195+00:00",
-  "LastChanged_Achievements": "2023-11-22T08:05:16.4103849+00:00",
+  "LastChanged_Achievements": "2023-11-22T09:05:35.7047274+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.8996612+00:00",
-  "LastUpdate_Ratings": "2023-11-22T07:58:53.1293162+00:00",
-  "LastUpdate_Achievements": "2023-11-22T08:05:16.4103933+00:00"
+  "LastUpdate_Ratings": "2023-11-22T08:58:54.4765572+00:00",
+  "LastUpdate_Achievements": "2023-11-22T09:05:35.7047345+00:00"
 }

@@ -12,14 +12,14 @@ Number of Ratings: 892  (23.09.2022)
 | Your Especially Earned Trajectory | 110.00% | ~397 |
 | No Mountain Wide Enough | 80.00% | ~289 |
 | One of the Cool Kids | 79.00% | ~285 |
-| Yakmel Whisperer | 77.00% | ~278 |
+| Yakmel Whisperer | 78.00% | ~282 |
 | Can We Keep It? | 76.00% | ~274 |
 | On that Grindset | 71.00% | ~256 |
 | Pack Mule | 70.00% | ~253 |
 | Diamonds are Forever | 70.00% | ~253 |
 | Unboxing | 66.00% | ~238 |
+| First Love | 61.00% | ~220 |
 | Chatterbox | 60.00% | ~217 |
-| First Love | 60.00% | ~217 |
 | Big Game Hunter | 58.00% | ~209 |
 | I Do! | 58.00% | ~209 |
 | Got Served | 57.00% | ~206 |
@@ -28,9 +28,9 @@ Number of Ratings: 892  (23.09.2022)
 | Happier-est Place on Earth | 55.00% | ~199 |
 | Builder of the Month | 53.00% | ~191 |
 | Call Me Fishmael | 53.00% | ~191 |
+| Commissions, commissions...! | 50.00% | ~180 |
 | What Plants Crave | 50.00% | ~180 |
 | Panda-kin | 49.00% | ~177 |
-| Commissions, commissions...! | 49.00% | ~177 |
 | Anti-Santa | 49.00% | ~177 |
 | Finishing Touches | 48.00% | ~173 |
 | Mole Masher | 48.00% | ~173 |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-22 | 367 | 0 |
 ## Awards
 Max (Character Customization): 597  (Ranked 194)  
-Sum: 1,382 (Ranked 239)  
+Sum: 1,383 (Ranked 239)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
@@ -105,8 +105,8 @@ Diff (max vs sum): -45
 | This game is Extremely Fun | 87 |
 | This game has Quickly Understood Controls | 83 |
 | This game has Diverse Characters | 78 |
+| This game is Relaxing | 73 |
 | This game has Amazing Characters | 72 |
-| This game is Relaxing | 72 |
 | This game has Amazing Storytelling | 71 |
 | This game has Easy Combat | 68 |
 | This game has a Creative Community | 56 |
@@ -283,4 +283,4 @@ Diff (max vs sum): -45
 | 2023-11-18 | 4.68 | - | 594 | 1,366 |
 | 2023-11-20 | 4.68 | - | 596 | 1,378 |
 | 2023-11-21 | 4.68 | - | 597 | 1,380 |
-| 2023-11-22 | 4.68 | - | 597 | 1,382 |
+| 2023-11-22 | 4.68 | - | 597 | 1,383 |

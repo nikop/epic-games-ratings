@@ -4,53 +4,53 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~122 |
-| Training Simulation | 78.00% | ~104 |
-| Kuku Bird Hunter | 67.00% | ~89 |
-| Storm Traveller | 62.00% | ~82 |
-| Wolf King Killer | 61.00% | ~81 |
+| Travel Streamer | 92.00% | ~123 |
+| Training Simulation | 78.00% | ~105 |
+| Kuku Bird Hunter | 66.00% | ~88 |
+| Storm Traveller | 62.00% | ~83 |
+| Wolf King Killer | 61.00% | ~82 |
 | Fashion Connoisseur | 60.00% | ~80 |
 | Arms Mechanic | 54.00% | ~72 |
-| Flower Thief | 52.00% | ~69 |
-| Apostle of Flame | 50.00% | ~66 |
+| Flower Thief | 51.00% | ~68 |
+| Apostle of Flame | 50.00% | ~67 |
 | Beginner Artificer | 48.00% | ~64 |
-| Beginner Cook | 47.00% | ~63 |
+| Beginner Cook | 46.00% | ~62 |
 | Seal Breaker | 44.00% | ~59 |
-| Giant Lizard Killer | 41.00% | ~55 |
 | Handyman | 41.00% | ~55 |
+| Giant Lizard Killer | 40.00% | ~54 |
 | Nosebleeder | 39.00% | ~52 |
 | Guardian | 38.00% | ~51 |
 | Trader | 36.00% | ~48 |
-| Weapon Boost | 35.00% | ~47 |
-| Flying Kobold Killer | 29.00% | ~39 |
+| Weapon Boost | 34.00% | ~46 |
 | Youth Magnet | 29.00% | ~39 |
-| Lethal Blade Mantis Killer | 29.00% | ~39 |
-| Squeaky Clean | 29.00% | ~39 |
 | Master Artificer | 29.00% | ~39 |
-| Furious Scorpion Killer | 28.00% | ~37 |
+| Flying Kobold Killer | 28.00% | ~38 |
+| Furious Scorpion Killer | 28.00% | ~38 |
+| Lethal Blade Mantis Killer | 28.00% | ~38 |
+| Squeaky Clean | 28.00% | ~38 |
 | Kind Adventurer | 24.00% | ~32 |
 | Mermaid Killer | 23.00% | ~31 |
 | Face Slapper | 23.00% | ~31 |
 | Cave Master | 22.00% | ~29 |
 | Master Cook | 17.00% | ~23 |
 | Berserker Slayer | 12.00% | ~16 |
-| Boss challenge | 11.00% | ~15 |
-| Giantess Slayer | 11.00% | ~15 |
 | Warden Slayer | 11.00% | ~15 |
+| Boss challenge | 10.00% | ~13 |
+| Giantess Slayer | 10.00% | ~13 |
 | Silver Moon Wolf King Challenge | 7.00% | ~9 |
-| Rebellious | 5.00% | ~7 |
 | Big Face Goalkeeper Challenge | 5.00% | ~7 |
-| Flying Kobold Challenge | 5.00% | ~7 |
-| Furious Scorpion Challenge | 5.00% | ~7 |
-| Giant Lizard Challenge | 5.00% | ~7 |
+| Rebellious | 4.00% | ~5 |
 | Blade Mantis Challenge | 4.00% | ~5 |
+| Flying Kobold Challenge | 4.00% | ~5 |
 | Giant Claw Spider Challenge | 4.00% | ~5 |
+| Furious Scorpion Challenge | 4.00% | ~5 |
+| Giant Lizard Challenge | 4.00% | ~5 |
 | Mermaid Challenge | 4.00% | ~5 |
 | Giantess Challenge | 4.00% | ~5 |
 | Warden Challenge | 4.00% | ~5 |
 | Berserker Challenge | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 406)  
+Progressed: 134 (Ranked 405)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-14 | 112 | 0 |
 | 2023-11-20 | 113 | 0 |
 | 2023-11-21 | 120 | 0 |
-| 2023-11-22 | 133 | 0 |
+| 2023-11-22 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
