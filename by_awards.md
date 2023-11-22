@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 23,969 | 4.53 | 540 |
 | 19 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 21,242 | 4.74 | 158 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 21,212 | 4.26 | 868 |
-| 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,488 | 4.57 | 472 |
+| 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,505 | 4.57 | 472 |
 | 22 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 20,169 | 4.89 | 12 |
 | 23 | [Warframe](games/w/warframe.md) | 18,561 | 4.61 | 382 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,920 | 4.76 | 127 |
@@ -65,7 +65,7 @@
 | 63 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,995 | 4.64 | 333 |
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,978 | 4.66 | 295 |
 | 65 | [Prey](games/p/prey.md) | 5,784 | 4.62 | 364 |
-| 66 | [Rogue Company](games/r/rogue_company.md) | 5,689 | 4.31 | 829 |
+| 66 | [Rogue Company](games/r/rogue_company.md) | 5,695 | 4.31 | 829 |
 | 67 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,630 | 4.69 | 232 |
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,622 | 4.85 | 43 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,585 | 4.68 | 252 |
@@ -125,7 +125,7 @@
 | 123 | [Celeste](games/c/celeste.md) | 1,704 | 4.92 | 4 |
 | 124 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,696 | 4.55 | 505 |
 | 125 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,642 | 4.62 | 364 |
-| 126 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,573 | 4.79 | 95 |
+| 126 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,575 | 4.79 | 95 |
 | 127 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,565 | 4.48 | 624 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,563 | 4.54 | 527 |
 | 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,557 | 4.86 | 32 |
@@ -310,7 +310,7 @@
 | 308 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 167 | 4.54 | 527 |
 | 309 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 166 | 4.79 | 95 |
 | 309 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 166 | 4.38 | 763 |
-| 311 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 162 | 4.85 | 43 |
+| 311 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 163 | 4.85 | 43 |
 | 312 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 159 | 4.86 | 32 |
 | 313 | [Blasphemous](games/b/blasphemous.md) | 158 | 4.85 | 43 |
 | 314 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 155 | 4.51 | 568 |
@@ -377,8 +377,8 @@
 | 375 | [Barony](games/b/barony.md) | 92 | 4.72 | 186 |
 | 375 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 505 |
 | 377 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 588 |
-| 378 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 90 | 4.29 | 842 |
-| 378 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 90 | 4.57 | 472 |
+| 377 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 91 | 4.29 | 842 |
+| 379 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 90 | 4.57 | 472 |
 | 380 | [Black Book](games/b/black_book.md) | 89 | 4.65 | 312 |
 | 381 | [Solitairica](games/s/solitairica.md) | 88 | 4.50 | 588 |
 | 382 | [This War of Mine](games/t/this_war_of_mine.md) | 87 | 4.74 | 158 |

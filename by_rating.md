@@ -48,7 +48,7 @@
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,072 | 46 |
 | 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,622 | 68 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 223 | 275 |
-| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 162 | 311 |
+| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 163 | 311 |
 | 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 747 | 176 |
 | 43 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 551 |
 | 52 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.84 | 0 | 551 |
@@ -95,7 +95,7 @@
 | 86 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 513 |
 | 86 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 551 |
 | 95 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 53 | 423 |
-| 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,573 | 126 |
+| 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,575 | 126 |
 | 95 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 642 | 188 |
 | 95 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 166 | 309 |
 | 95 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 551 |
@@ -487,9 +487,9 @@
 | 472 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 551 |
 | 472 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,399 | 81 |
 | 472 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 31 | 494 |
-| 472 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,488 | 21 |
+| 472 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,505 | 21 |
 | 472 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,791 | 121 |
-| 472 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 90 | 378 |
+| 472 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 90 | 379 |
 | 491 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 551 |
 | 491 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 439 |
 | 491 | [Aztez](games/a/aztez.md) | 4.56 | 20 | 546 |
@@ -834,7 +834,7 @@
 | 829 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.31 | 594 | 195 |
 | 829 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 0 | 551 |
 | 829 | [Hellpoint](games/h/hellpoint.md) | 4.31 | 0 | 551 |
-| 829 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,689 | 66 |
+| 829 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,695 | 66 |
 | 829 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 988 | 153 |
 | 837 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.30 | 0 | 551 |
 | 837 | [ELEX II](games/e/elex_ii.md) | 4.30 | 0 | 551 |
@@ -844,7 +844,7 @@
 | 842 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 551 |
 | 842 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 551 |
 | 842 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.29 | 48 | 439 |
-| 842 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 90 | 378 |
+| 842 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 91 | 377 |
 | 842 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 768 | 173 |
 | 842 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 155 | 314 |
 | 842 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 127 | 332 |
@@ -1044,5 +1044,5 @@
 | 1,042 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.70 | 0 | 551 |
 | 1,043 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 551 |
 | 1,044 | [Adios](games/a/adios.md) | 3.55 | 0 | 551 |
-| 1,045 | [Redfall](games/r/redfall.md) | 3.47 | 0 | 551 |
+| 1,045 | [Redfall](games/r/redfall.md) | 3.45 | 0 | 551 |
 | 1,046 | [Operation New Earth](games/o/operation_new_earth.md) | 3.21 | 0 | 551 |
