@@ -704,7 +704,7 @@
 | 691 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 551 |
 | 691 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 551 |
 | 691 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 551 |
-| 691 | [SMITE](games/s/smite.md) | 4.43 | 4,619 | 78 |
+| 691 | [SMITE](games/s/smite.md) | 4.43 | 4,628 | 78 |
 | 691 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.43 | 0 | 551 |
 | 691 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 183 | 298 |
 | 691 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 503 | 211 |
@@ -879,19 +879,19 @@
 | 868 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 551 |
 | 868 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 253 |
 | 879 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 551 |
+| 879 | [The Surge 2](games/t/the_surge_2.md) | 4.25 | 0 | 551 |
 | 879 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.25 | 0 | 551 |
 | 879 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 551 |
 | 879 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 551 |
 | 879 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 24 | 522 |
-| 884 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 551 |
-| 884 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 33 | 483 |
-| 884 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,133 | 143 |
-| 884 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 784 | 171 |
-| 884 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 551 |
-| 884 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.24 | 23 | 531 |
-| 884 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 443 |
-| 884 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 551 |
-| 884 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 551 |
+| 885 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 551 |
+| 885 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 33 | 483 |
+| 885 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,133 | 143 |
+| 885 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 784 | 171 |
+| 885 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 551 |
+| 885 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.24 | 23 | 531 |
+| 885 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 443 |
+| 885 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 551 |
 | 893 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 551 |
 | 893 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.23 | 22 | 536 |
 | 893 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 152 |
@@ -998,12 +998,12 @@
 | 991 | [The Front](games/t/the_front.md) | 4.03 | 0 | 551 |
 | 997 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 0 | 551 |
 | 998 | [Astria Ascending](games/a/astria_ascending.md) | 4.00 | 0 | 551 |
-| 998 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 551 |
 | 998 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 551 |
 | 998 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 4.00 | 0 | 551 |
-| 1,002 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 375 | 235 |
-| 1,002 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,837 | 74 |
-| 1,002 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 551 |
+| 1,001 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 375 | 235 |
+| 1,001 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.99 | 0 | 551 |
+| 1,001 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,837 | 74 |
+| 1,001 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 551 |
 | 1,005 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 551 |
 | 1,005 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 551 |
 | 1,005 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,832 | 75 |
