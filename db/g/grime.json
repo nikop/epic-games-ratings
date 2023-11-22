@@ -3,8 +3,8 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 431,
-  "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 347,
+  "Ranking_Popularity": 423,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 73,
@@ -1457,12 +1457,18 @@
       "Rating": 4.59,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-11-22T01:49:37.596145+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 378,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 376,
-  "NumberOfAwardsMax": 52,
-  "MaxAwardTitle": "Unique Visuals",
+  "NumberOfAwards": 378,
+  "NumberOfAwardsMax": 53,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -1474,7 +1480,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1519,9 +1525,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159466,
+  "EOS_Progressed": 159474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1184,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16559,6 +16565,11 @@
       "Time": "2023-11-22T00:03:38.4847371+00:00",
       "NumProgressed": 159466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T01:52:50.0461818+00:00",
+      "NumProgressed": 159474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16634,7 +16645,7 @@
       "Name": "Taste",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -16674,7 +16685,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -16682,7 +16693,7 @@
       "Name": "Glare",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -16690,7 +16701,7 @@
       "Name": "Host",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -16786,7 +16797,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -16937,21 +16948,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159049,
+      "Progressed": 159057,
       "Completed": 1213
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159466,
+      "Progressed": 159474,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-21T10:06:38.5365696+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:03:38.4847367+00:00",
+  "LastChanged": "2023-11-22T01:49:37.5961448+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:52:50.0461814+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:34.5014402+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:03:38.484839+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:37.5961452+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:52:50.046279+00:00"
 }

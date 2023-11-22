@@ -54,7 +54,7 @@ Rating: 4.42 (Ranked 712)
 | Shadow Boxin' | 1.00% | ~16 |
 | Alpha Editor | 0.90% | ~14 |
 | Fratricide | 0.90% | ~14 |
-| Goaaaaal! | 0.80% | ~13 |
+| Goaaaaal! | 0.90% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,583 (Ranked 239)  

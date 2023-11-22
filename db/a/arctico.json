@@ -2,7 +2,7 @@
   "ID": "9d56883e7b1a45bca132db9427cf4a22",
   "Name": "Arctico",
   "ProductSlug": "arctico-c29f1d",
-  "Ranking_EOS_Progress": 753,
+  "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 119,
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6605343+00:00",
   "LastChanged": "2023-03-31T05:58:38.6605344+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:52.4875384+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:17.8138673+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:08:43.6964944+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:23.0883577+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:57:57.1521082+00:00"
 }

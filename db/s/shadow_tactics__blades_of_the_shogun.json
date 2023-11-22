@@ -2122,9 +2122,9 @@
       "Count": 254
     }
   ],
-  "EOS_Progressed": 215129,
+  "EOS_Progressed": 215133,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -26772,6 +26772,11 @@
       "Time": "2023-11-22T00:03:57.2174637+00:00",
       "NumProgressed": 215129,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-22T01:53:06.915324+00:00",
+      "NumProgressed": 215133,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -26855,7 +26860,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25815
+      "UsersEstimate": 25816
     },
     {
       "ID": "HappyLittleAccidents",
@@ -26959,7 +26964,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "OldMan",
@@ -26983,7 +26988,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "ReleaseTheKraken",
@@ -26999,7 +27004,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17210
+      "UsersEstimate": 17211
     },
     {
       "ID": "Rollin",
@@ -27031,7 +27036,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17210
+      "UsersEstimate": 17211
     },
     {
       "ID": "TanukiTime",
@@ -27095,7 +27100,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "Warzone",
@@ -27134,15 +27139,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 215129,
+      "Progressed": 215133,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-21T13:59:11.2126618+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:03:57.2174633+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:53:06.9153235+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:35.854091+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:59:46.2133347+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:03:57.2176428+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:48:56.7084293+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:53:06.9154339+00:00"
 }

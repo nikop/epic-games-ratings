@@ -8,7 +8,7 @@
 | MLG 360 no scope kill! | 94.00% | ~121 |
 | Are you ready to rumble? | 94.00% | ~121 |
 | That's what cheese said! | 88.00% | ~114 |
-| I like you...but I have to kill you... | 86.00% | ~111 |
+| I like you...but I have to kill you... | 87.00% | ~112 |
 | AHHHHHH.....I'M ON FIRE!!! | 85.00% | ~110 |
 | Not so hip anymore! | 84.00% | ~108 |
 | Nerd | 81.00% | ~104 |
@@ -18,7 +18,7 @@
 | Fire-fighter! | 67.00% | ~86 |
 | Oh, you're up to no gouda! | 64.00% | ~83 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~80 |
-| Meat grinder | 60.00% | ~77 |
+| Meat grinder | 61.00% | ~79 |
 | You're not going to blow me up! | 56.00% | ~72 |
 | Mushroom soup of the day | 53.00% | ~68 |
 | Cockadoodledoo! | 50.00% | ~64 |

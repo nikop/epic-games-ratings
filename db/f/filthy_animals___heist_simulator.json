@@ -4,7 +4,7 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8450,
+  "EOS_Progressed": 8451,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -6336,6 +6336,11 @@
       "Time": "2023-11-21T13:15:17.9770226+00:00",
       "NumProgressed": 8450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T01:54:43.7744808+00:00",
+      "NumProgressed": 8451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -6555,7 +6560,7 @@
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "tutorialSuccess",
@@ -6570,7 +6575,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 8450,
+      "Progressed": 8451,
       "Completed": 0
     }
   ],
@@ -6578,8 +6583,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:05:46.2991989+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:54:43.7744805+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:55.5857713+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:24.4855337+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:05:46.2992416+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:28.842419+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:54:43.7745248+00:00"
 }

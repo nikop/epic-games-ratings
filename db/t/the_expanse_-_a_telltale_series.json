@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15205,
+  "EOS_Progressed": 15207,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11827,6 +11827,11 @@
       "Time": "2023-11-22T00:04:12.464951+00:00",
       "NumProgressed": 15205,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T01:53:20.3464439+00:00",
+      "NumProgressed": 15207,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11871,7 +11876,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "14",
@@ -12118,13 +12123,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15205,
+      "Progressed": 15207,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1159,
+      "Progressed": 1161,
       "Completed": 672
     }
   ],
@@ -12132,8 +12137,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:04:12.4649505+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:53:20.3464436+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:22.3660389+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:04:12.465031+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:26.8880593+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:53:20.3465157+00:00"
 }

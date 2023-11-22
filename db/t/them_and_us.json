@@ -1366,9 +1366,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 222
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1446,9 +1446,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 213
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1679,8 +1679,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:04:54.6968508+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:53:58.176491+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.9837452+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:33.5282738+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:04:54.6968778+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:36.7361055+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:53:58.1765217+00:00"
 }

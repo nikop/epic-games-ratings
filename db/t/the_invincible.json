@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 381,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 119,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -580,6 +580,11 @@
       "Time": "2023-11-22T00:08:32.2182669+00:00",
       "NumProgressed": 205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T01:57:47.1353877+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -600,7 +605,7 @@
       "Name": "I remember everything!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AchvAssertive",
@@ -616,7 +621,7 @@
       "Name": "Fierce fight",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AchvBombStop",
@@ -672,7 +677,7 @@
       "Name": "Evacuation",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AchvInvShip",
@@ -686,9 +691,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "AchvLava",
@@ -718,9 +723,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "AchvNest",
@@ -760,7 +765,7 @@
       "Name": "The field base",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "AchvReachCamp",
@@ -776,7 +781,7 @@
       "Name": "The City",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AchvReachCondor",
@@ -790,9 +795,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -800,7 +805,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AchvTheEnd",
@@ -823,14 +828,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:08:32.2182665+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:57:47.1353873+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:29.1578105+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:58:36.8152602+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:08:32.2182855+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:47:55.7849821+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:57:47.1354083+00:00"
 }

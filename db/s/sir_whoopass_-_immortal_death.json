@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -1140,9 +1140,9 @@
       "ID": "ORC_WARMAIDEN_1",
       "SetID": "9gfkh7c",
       "Name": "I like you...but I have to kill you...",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "OTHER_1",
@@ -1188,9 +1188,9 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "SKELETON_1",
@@ -1251,8 +1251,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:09:05.1173908+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:58:16.2443322+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:08.5244911+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:27.1092366+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:09:05.117471+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:31.0244655+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:58:16.2443943+00:00"
 }

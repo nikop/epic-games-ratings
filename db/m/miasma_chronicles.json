@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4056,9 +4056,9 @@
       "ID": "GOAL",
       "SetID": "9a4jnji",
       "Name": "Goaaaaal!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GUN_FOR_HIRE",
@@ -4249,8 +4249,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-11-16T17:58:19.2022707+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:09:34.4291974+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:58:41.1245053+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.2752705+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:57:49.2213903+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:09:34.4292478+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:47:14.9951479+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:58:41.1245485+00:00"
 }

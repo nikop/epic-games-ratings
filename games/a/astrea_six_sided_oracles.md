@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 42.00% | ~29 |
-| Purification Pioneer | 41.00% | ~28 |
-| Dicesmithing Time! | 38.00% | ~26 |
-| Endless Tricks | 38.00% | ~26 |
-| Mechanical Buddy | 38.00% | ~26 |
-| Noctuan Champion | 38.00% | ~26 |
-| Sanctuary Guardian | 35.00% | ~24 |
-| Wild's Keeper | 35.00% | ~24 |
-| Eridanian Champion | 35.00% | ~24 |
+| Meissa's Savior | 43.00% | ~30 |
+| Purification Pioneer | 41.00% | ~29 |
+| Dicesmithing Time! | 39.00% | ~27 |
+| Endless Tricks | 39.00% | ~27 |
+| Mechanical Buddy | 39.00% | ~27 |
+| Noctuan Champion | 37.00% | ~26 |
+| Sanctuary Guardian | 36.00% | ~25 |
+| Wild's Keeper | 34.00% | ~24 |
+| Eridanian Champion | 34.00% | ~24 |
 | Mind Illuminator | 33.00% | ~23 |
 | Lacertian Champion | 33.00% | ~23 |
 | Apian Champion | 30.00% | ~21 |
@@ -20,9 +20,9 @@
 | Stellar Dismantler | 29.00% | ~20 |
 | Loyal Partner | 26.00% | ~18 |
 | Behenian Champion | 26.00% | ~18 |
-| Star Killer | 25.00% | ~17 |
+| Star Killer | 24.00% | ~17 |
 | Astral Adventurer | 23.00% | ~16 |
-| Aquarian Champion | 22.00% | ~15 |
+| Aquarian Champion | 21.00% | ~15 |
 | Shard Spender | 20.00% | ~14 |
 | Unbeatable | 20.00% | ~14 |
 | Astral Seeker | 19.00% | ~13 |
@@ -33,8 +33,8 @@
 | Stellar Haste | 14.00% | ~10 |
 | Heavy Purger | 13.00% | ~9 |
 | Apian Hero | 13.00% | ~9 |
-| Anomaly Control | 12.00% | ~8 |
-| Lacertian Hero | 12.00% | ~8 |
+| Anomaly Control | 11.00% | ~8 |
+| Lacertian Hero | 11.00% | ~8 |
 | The Chaos Artisan | 10.00% | ~7 |
 | The Dark Moon | 10.00% | ~7 |
 | The Distorted Sage | 10.00% | ~7 |
@@ -103,7 +103,7 @@
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 459)  
+Progressed: 70 (Ranked 459)  
 Completed: 0 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,3 +137,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-04 | 67 | 0 |
 | 2023-11-06 | 68 | 0 |
 | 2023-11-17 | 69 | 0 |
+| 2023-11-22 | 70 | 0 |

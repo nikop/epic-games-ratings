@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1129,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -1830,6 +1830,11 @@
       "Time": "2023-11-21T20:07:50.4096518+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T01:57:32.9935534+00:00",
+      "NumProgressed": 1129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1880,9 +1885,9 @@
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -1898,7 +1903,7 @@
       "Name": "Pest Control",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1986,7 +1991,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -2018,7 +2023,7 @@
       "Name": "Long Live Rock",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -2081,14 +2086,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:07:05.3019313+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:57:32.993553+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:56.2825313+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:25.8566332+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:07:05.3019766+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:29.9213085+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:57:32.9935828+00:00"
 }

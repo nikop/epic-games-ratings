@@ -1,7 +1,7 @@
 {
   "ID": "1abab99ab9d54d16abba65857355f017",
   "Name": "Minskin",
-  "Ranking_EOS_Progress": 753,
+  "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 119,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:27.0704787+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:59:44.0708245+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:05:49.7127858+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:48:54.739028+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:54:46.705481+00:00"
 }

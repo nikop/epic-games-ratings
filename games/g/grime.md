@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 5.00% | ~7,973 |
-| Imprint | 5.00% | ~7,973 |
+| Taste | 5.00% | ~7,974 |
+| Imprint | 5.00% | ~7,974 |
 | The Hunt | 4.00% | ~6,379 |
 | Ravenous | 4.00% | ~6,379 |
 | Weeper | 3.00% | ~4,784 |
@@ -17,15 +17,15 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 2.00% | ~3,189 |
 | Sharpened Vessel | 2.00% | ~3,189 |
 | Shapely | 1.00% | ~1,595 |
-| Scion | 1.00% | ~1,590 |
-| Glare | 1.00% | ~1,590 |
+| Scion | 1.00% | ~1,591 |
+| Glare | 1.00% | ~1,591 |
 | Jawcrab | 1.00% | ~1,595 |
 | Jawstag | 1.00% | ~1,595 |
 | Feast | 1.00% | ~1,595 |
 | Watcher | 1.00% | ~1,595 |
 | Predator | 1.00% | ~1,595 |
 | Assimilation | 0.90% | ~1,435 |
-| Host | 0.90% | ~1,431 |
+| Host | 0.90% | ~1,432 |
 | Celebration | 0.90% | ~1,435 |
 | Hunt Down | 0.70% | ~1,116 |
 | Inevitable | 0.70% | ~1,116 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~159 |
 | Touch of Otherwhere | 0.10% | ~159 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,466 (Ranked 78)  
+Progressed: 159,474 (Ranked 78)  
 Completed: 1 (0.00%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,16 +246,16 @@ Completed: 1 (0.00%) (Ranked 357)
 | 2023-11-19 | 159,185 | 1 |
 | 2023-11-20 | 159,313 | 1 |
 | 2023-11-21 | 159,459 | 1 |
-| 2023-11-22 | 159,466 | 1 |
+| 2023-11-22 | 159,474 | 1 |
 ## Awards
-Max (Unique Visuals): 52  (Ranked 426)  
-Sum: 376 (Ranked 347)  
-Diff (max vs sum): 79  
+Max (Highly Recommended): 53  (Ranked 423)  
+Sum: 378 (Ranked 346)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 53 |
 | This game has Quickly Understood Controls | 52 |
 | This game has Unique Visuals | 52 |
-| This game is Highly Recommended | 51 |
 | This game has Amazing Storytelling | 50 |
 | This game is Extremely Fun | 48 |
 | This game has Challenging Combat | 47 |
@@ -409,3 +409,4 @@ Diff (max vs sum): 79
 | 2023-11-16 | 4.59 | - | 52 | 368 |
 | 2023-11-17 | 4.59 | - | 52 | 370 |
 | 2023-11-21 | 4.59 | - | 52 | 376 |
+| 2023-11-22 | 4.59 | - | 53 | 378 |

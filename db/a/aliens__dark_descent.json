@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 3662,
+  "EOS_Progressed": 3663,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5857,6 +5857,11 @@
       "Time": "2023-11-21T20:03:19.619061+00:00",
       "NumProgressed": 3662,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-22T01:52:49.5705121+00:00",
+      "NumProgressed": 3663,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5964,7 +5969,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5980,7 +5985,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6028,7 +6033,7 @@
       "Name": "Bandage Lover",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -6044,7 +6049,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -6076,7 +6081,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ACH_MISSION_04",
@@ -6092,7 +6097,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6108,7 +6113,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH_MISSION_08",
@@ -6164,7 +6169,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6172,7 +6177,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6188,7 +6193,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -6204,7 +6209,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6220,14 +6225,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3662,
+      "Progressed": 3663,
       "Completed": 3
     }
   ],
@@ -6235,8 +6240,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-17T04:58:01.7269194+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:03:37.9642386+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:52:49.5705117+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:02.2076053+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:00:36.8542128+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:03:37.9642926+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:49:39.5217422+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:52:49.5705566+00:00"
 }

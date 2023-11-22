@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 3.00% | ~463 |
 | Greek Paganism | 3.00% | ~463 |
 | Roman Paganism | 3.00% | ~463 |
+| Zoroastrianism | 3.00% | ~463 |
 | Naming Landmarks | 3.00% | ~463 |
 | Regicide | 2.00% | ~308 |
 | Beloved | 2.00% | ~308 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 2.00% | ~308 |
 | Carthaginian Paganism | 2.00% | ~308 |
 | Egyptian Paganism | 2.00% | ~308 |
-| Zoroastrianism | 2.00% | ~308 |
 | Mythology | 2.00% | ~308 |
 | Points Victory | 2.00% | ~308 |
 | Win a Single Player Game | 2.00% | ~308 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,417 (Ranked 151)  
+Progressed: 15,418 (Ranked 151)  
 Completed: 5 (0.03%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -565,6 +565,7 @@ Completed: 5 (0.03%) (Ranked 319)
 | 2023-11-19 | 15,395 | 5 |
 | 2023-11-20 | 15,405 | 5 |
 | 2023-11-21 | 15,417 | 5 |
+| 2023-11-22 | 15,418 | 5 |
 ## Awards
 Max (Relaxing): 227  (Ranked 274)  
 Sum: 1,873 (Ranked 218)  

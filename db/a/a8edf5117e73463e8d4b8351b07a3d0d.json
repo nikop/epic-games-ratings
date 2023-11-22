@@ -2,7 +2,7 @@
   "ID": "a8edf5117e73463e8d4b8351b07a3d0d",
   "Name": "Crown Of The Empire Collectors Edition",
   "ProductSlug": "crown-of-the-empire-86cf18",
-  "Ranking_EOS_Progress": 753,
+  "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 119,
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-11-22T01:48:44.1977957+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:24.6280169+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:59:30.8245449+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:05:58.0663045+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:48:44.1977991+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:54:53.9106254+00:00"
 }

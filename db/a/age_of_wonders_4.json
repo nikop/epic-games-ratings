@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5414,
+  "EOS_Progressed": 5417,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7226,6 +7226,11 @@
       "Time": "2023-11-21T22:04:41.2156064+00:00",
       "NumProgressed": 5414,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-22T01:53:14.6564855+00:00",
+      "NumProgressed": 5417,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7421,7 +7426,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "31",
@@ -7613,7 +7618,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "49",
@@ -7677,7 +7682,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "57",
@@ -7701,7 +7706,7 @@
       "Name": "But this one is mine",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "60",
@@ -7716,13 +7721,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5414,
+      "Progressed": 5417,
       "Completed": 4766
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5414,
+      "Progressed": 5417,
       "Completed": 7
     }
   ],
@@ -7730,8 +7735,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-19T15:00:16.4075391+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:04:06.0396151+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:53:14.6564851+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:51.8542219+00:00",
-  "LastUpdate_Ratings": "2023-11-22T00:01:02.3492761+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:04:06.0396759+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:52:01.2016487+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:53:14.6565947+00:00"
 }

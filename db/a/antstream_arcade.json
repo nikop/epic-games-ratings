@@ -2,7 +2,7 @@
   "ID": "7c7e1c220ce74bd8b5df4190ca7c3098",
   "Name": "Antstream Arcade",
   "ProductSlug": "antstream-arcade",
-  "Ranking_EOS_Progress": 753,
+  "Ranking_EOS_Progress": 754,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 119,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0431277+00:00",
   "LastChanged": "2023-03-31T05:57:37.0431278+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:56:57.5533613+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:58:08.6116079+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:08:58.8798985+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:47:31.2329664+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:58:10.5919246+00:00"
 }

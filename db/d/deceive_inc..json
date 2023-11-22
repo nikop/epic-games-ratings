@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18873,
+  "EOS_Progressed": 18874,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -13029,6 +13029,11 @@
       "Time": "2023-11-21T21:04:34.1443337+00:00",
       "NumProgressed": 18873,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-22T01:53:31.9958549+00:00",
+      "NumProgressed": 18874,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -13056,7 +13061,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "0004",
@@ -13264,7 +13269,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2454
     },
     {
       "ID": "0030",
@@ -13327,7 +13332,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18873,
+      "Progressed": 18874,
       "Completed": 4
     }
   ],
@@ -13335,8 +13340,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-11-20T16:57:01.0774379+00:00",
-  "LastChanged_Achievements": "2023-11-22T00:04:25.4320384+00:00",
+  "LastChanged_Achievements": "2023-11-22T01:53:31.9958544+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:35.6925077+00:00",
-  "LastUpdate_Ratings": "2023-11-21T23:57:52.4704825+00:00",
-  "LastUpdate_Achievements": "2023-11-22T00:04:25.4321479+00:00"
+  "LastUpdate_Ratings": "2023-11-22T01:47:17.7233472+00:00",
+  "LastUpdate_Achievements": "2023-11-22T01:53:31.9959177+00:00"
 }

@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,352 (Ranked 242)  
+Progressed: 1,352 (Ranked 243)  
 Completed: 1 (0.07%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

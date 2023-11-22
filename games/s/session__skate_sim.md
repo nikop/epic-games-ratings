@@ -25,14 +25,14 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 7.00% | ~215 |
 | Fulfilled the dream | 7.00% | ~215 |
 | G'Day Mate! | 7.00% | ~215 |
-| Commence the Hijinx! | 6.00% | ~184 |
-| DIY Boss | 6.00% | ~184 |
-| Globetrotter | 6.00% | ~184 |
-| Laid back | 6.00% | ~184 |
-| NAHELL! | 6.00% | ~184 |
-| Purple passion | 6.00% | ~184 |
-| Squad goals | 6.00% | ~184 |
-| Sup widdit big dog! | 6.00% | ~184 |
+| Commence the Hijinx! | 6.00% | ~185 |
+| DIY Boss | 6.00% | ~185 |
+| Globetrotter | 6.00% | ~185 |
+| Laid back | 6.00% | ~185 |
+| NAHELL! | 6.00% | ~185 |
+| Purple passion | 6.00% | ~185 |
+| Squad goals | 6.00% | ~185 |
+| Sup widdit big dog! | 6.00% | ~185 |
 | Cops called! | 5.00% | ~154 |
 | Lines for days | 5.00% | ~154 |
 | Manny Destroys All | 5.00% | ~154 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,075 (Ranked 210)  
+Progressed: 3,076 (Ranked 210)  
 Completed: 2 (0.07%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 2 (0.07%) (Ranked 296)
 | 2023-11-17 | 3,071 | 2 |
 | 2023-11-18 | 3,073 | 2 |
 | 2023-11-19 | 3,075 | 2 |
+| 2023-11-22 | 3,076 | 2 |
 ## Awards
 Max (Highly Recommended): 58  (Ranked 417)  
 Sum: 553 (Ranked 317)  

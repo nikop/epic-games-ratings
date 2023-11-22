@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 383)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 3.00% | ~162 |
+| But this one is mine | 3.00% | ~163 |
 | Realm Estate | 2.00% | ~108 |
 | A Wonderful Discovery | 2.00% | ~108 |
 | Secret Technique | 2.00% | ~108 |
@@ -36,9 +36,9 @@ Rating: 4.61 (Ranked 383)
 | Impenetrable Fortress | 0.70% | ~38 |
 | Mighty Hoard | 0.70% | ~38 |
 | Prometheus Avenged | 0.70% | ~38 |
-| Preparation Is Everything | 0.60% | ~32 |
-| Blood of the Dragon | 0.60% | ~32 |
-| A Conqueror's Cohort | 0.60% | ~32 |
+| Preparation Is Everything | 0.60% | ~33 |
+| Blood of the Dragon | 0.60% | ~33 |
+| A Conqueror's Cohort | 0.60% | ~33 |
 | Arch Mage | 0.50% | ~27 |
 | The Creator | 0.50% | ~27 |
 | Crimson Caldera | 0.50% | ~27 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 383)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,414 (Ranked 189)  
+Progressed: 5,417 (Ranked 189)  
 Completed: 7 (0.13%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 7 (0.13%) (Ranked 269)
 | 2023-11-19 | 5,408 | 7 |
 | 2023-11-20 | 5,411 | 7 |
 | 2023-11-21 | 5,414 | 7 |
+| 2023-11-22 | 5,417 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 487)  
 Sum: 58 (Ranked 475)  
