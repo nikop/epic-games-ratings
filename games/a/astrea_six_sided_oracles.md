@@ -8,9 +8,9 @@
 | Purification Pioneer | 43.00% | ~31 |
 | Mechanical Buddy | 40.00% | ~29 |
 | Dicesmithing Time! | 39.00% | ~28 |
-| Endless Tricks | 38.00% | ~27 |
+| Endless Tricks | 39.00% | ~28 |
+| Sanctuary Guardian | 36.00% | ~26 |
 | Noctuan Champion | 36.00% | ~26 |
-| Sanctuary Guardian | 35.00% | ~25 |
 | Wild's Keeper | 33.00% | ~24 |
 | Eridanian Champion | 33.00% | ~24 |
 | Mind Illuminator | 32.00% | ~23 |
@@ -43,9 +43,9 @@
 | Artificer | 8.00% | ~6 |
 | Can't touch this | 8.00% | ~6 |
 | Denying Destiny | 8.00% | ~6 |
+| Sadistic Plan | 8.00% | ~6 |
 | If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
-| Sadistic Plan | 7.00% | ~5 |
 | The Abyssal Terror | 7.00% | ~5 |
 | Aquarian Hero | 6.00% | ~4 |
 | Aquarian Mastery | 6.00% | ~4 |
@@ -104,7 +104,7 @@
 | Unepic Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 72 (Ranked 459)  
-Completed: 0 (0.00%) (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

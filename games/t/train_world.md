@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Task Apprentice | 17.00% | ~2 |
-| City Link | 17.00% | ~2 |
+| Trainee | 15.00% | ~2 |
+| Task Apprentice | 15.00% | ~2 |
+| City Link | 15.00% | ~2 |
 | Billionaire Club | 8.00% | ~1 |
-| Trainee | 8.00% | ~1 |
 | Line Up | 8.00% | ~1 |
 | Full House | 8.00% | ~1 |
 | Speed Demon | 8.00% | ~1 |
@@ -55,8 +55,8 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 591)  
-Completed: 0 (0.00%) (Ranked 357)  
+Progressed: 13 (Ranked 585)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-10-27 | 10 | 0 |
 | 2023-11-05 | 11 | 0 |
 | 2023-11-08 | 12 | 0 |
+| 2023-11-22 | 13 | 0 |

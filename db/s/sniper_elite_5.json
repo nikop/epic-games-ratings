@@ -6,9 +6,9 @@
   "Ranking_Popularity": 520,
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -601,9 +601,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3902,
+  "EOS_Progressed": 3903,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -8076,6 +8076,11 @@
       "Time": "2023-11-22T15:04:31.7161457+00:00",
       "NumProgressed": 3902,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-22T17:04:47.5102091+00:00",
+      "NumProgressed": 3903,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8087,7 +8092,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -8095,7 +8100,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -8143,7 +8148,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -8151,7 +8156,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8207,7 +8212,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8223,7 +8228,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8287,7 +8292,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8319,7 +8324,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8327,7 +8332,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8654,13 +8659,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3853,
+      "Progressed": 3854,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3902,
+      "Progressed": 3903,
       "Completed": 11
     }
   ],
@@ -8668,8 +8673,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-21T06:57:47.9112524+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:03:59.9211451+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:04:47.5102088+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.6880868+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:43.9170691+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:03:59.9212177+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:59:41.4102112+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:04:47.5103038+00:00"
 }

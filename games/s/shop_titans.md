@@ -15,6 +15,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Some Assembly Required | 3.00% | ~4,230 |
 | Another Satisfied Customer | 3.00% | ~4,230 |
 | It's Free Real Estate | 3.00% | ~4,230 |
+| Pretty Penny | 3.00% | ~4,230 |
 | Budding Merchant | 3.00% | ~4,230 |
 | Capitalism Ho! | 3.00% | ~4,230 |
 | Own the Means of Production | 3.00% | ~4,230 |
@@ -23,7 +24,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 2.00% | ~2,820 |
 | Flooding the Market | 2.00% | ~2,820 |
 | Where it Hurts | 2.00% | ~2,820 |
-| Pretty Penny | 2.00% | ~2,820 |
 | Gild-Gotten Goods | 2.00% | ~2,820 |
 | One-Armed Bandit | 2.00% | ~2,820 |
 | Dungeon Imports | 2.00% | ~2,820 |
@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 1.00% | ~1,410 |
 | A Notch Above the Rest | 0.90% | ~1,269 |
 | Above the Norm | 0.90% | ~1,269 |
+| A Ronin Reborn | 0.90% | ~1,269 |
 | The King's Caprice | 0.90% | ~1,269 |
 | Locally Sourced | 0.90% | ~1,269 |
 | Master of Transmutation | 0.90% | ~1,269 |
@@ -78,7 +79,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.90% | ~1,269 |
 | Cream of the Crop | 0.80% | ~1,128 |
 | Proud Paladin | 0.80% | ~1,128 |
-| A Ronin Reborn | 0.80% | ~1,128 |
 | Thirst for Knowledge | 0.80% | ~1,128 |
 | Booty by the Boatload | 0.80% | ~1,128 |
 | Archivist | 0.80% | ~1,128 |
@@ -108,19 +108,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 0.40% | ~564 |
 | All or Nothing! | 0.40% | ~564 |
 | Marvels from the World Over | 0.40% | ~564 |
+| Bane of Legends | 0.30% | ~423 |
 | Ultimate Collector | 0.30% | ~423 |
 | Unleashed Potential | 0.30% | ~423 |
 | JACKPOT!!! | 0.30% | ~423 |
 | Anything not Nailed Down | 0.30% | ~423 |
-| Bane of Legends | 0.20% | ~282 |
 | Oligarch Monarch | 0.20% | ~282 |
 | Merchant Extraordinaire | 0.20% | ~282 |
 | To Hell and Back | 0.20% | ~282 |
 | Cash Only Please | 0.20% | ~282 |
 | Capitalist Camaraderie | 0.10% | ~141 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,992 (Ranked 80)  
-Completed: 192 (0.14%) (Ranked 268)  
+Progressed: 140,997 (Ranked 80)  
+Completed: 192 (0.14%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,10 +335,10 @@ Completed: 192 (0.14%) (Ranked 268)
 | 2023-11-19 | 140,648 | 188 |
 | 2023-11-20 | 140,731 | 188 |
 | 2023-11-21 | 140,875 | 190 |
-| 2023-11-22 | 140,992 | 192 |
+| 2023-11-22 | 140,997 | 192 |
 ## Awards
 Max (Great for Beginners): 4,839  (Ranked 75)  
-Sum: 27,578 (Ranked 50)  
+Sum: 27,581 (Ranked 50)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 25
 | This game has Quickly Understood Controls | 4,031 |
 | This game has Diverse Characters | 3,947 |
 | This game is Highly Recommended | 3,783 |
-| This game has Easy Combat | 3,727 |
+| This game has Easy Combat | 3,730 |
 | This game has Playful Visuals | 3,207 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -649,4 +649,4 @@ Diff (max vs sum): 25
 | 2023-11-19 | 3.99 | - | 4,834 | 27,568 |
 | 2023-11-20 | 3.99 | - | 4,836 | 27,570 |
 | 2023-11-21 | 3.99 | - | 4,837 | 27,572 |
-| 2023-11-22 | 3.99 | - | 4,839 | 27,578 |
+| 2023-11-22 | 3.99 | - | 4,839 | 27,581 |

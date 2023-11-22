@@ -3,7 +3,7 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4125,
+  "EOS_Progressed": 4126,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -10229,6 +10229,11 @@
       "Time": "2023-11-22T13:13:40.7942732+00:00",
       "NumProgressed": 4125,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-22T17:06:14.9681948+00:00",
+      "NumProgressed": 4126,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 16,
@@ -10272,7 +10277,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "ach_architecture_completed",
@@ -10280,7 +10285,7 @@
       "Name": "Architecture - completed",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_architecture_unlocked",
@@ -10288,7 +10293,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ach_bomb",
@@ -10312,7 +10317,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3341
+      "UsersEstimate": 3342
     },
     {
       "ID": "ach_food_completed",
@@ -10367,14 +10372,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4125,
+      "Progressed": 4126,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:05:01.2536247+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:06:14.9681945+00:00",
   "LastUpdate_AppInfo": "2023-11-17T20:57:02.4156411+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:59:55.0880782+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:05:01.2536846+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:01:29.0817782+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:06:14.9682437+00:00"
 }

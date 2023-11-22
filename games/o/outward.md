@@ -12,7 +12,7 @@ Number of Ratings: 266  (23.09.2022)
 | Cordon Bleu | 45.00% | ~1,653 |
 | Tapped! | 38.00% | ~1,396 |
 | Eureka | 33.00% | ~1,212 |
-| Scourge Slayer | 26.00% | ~955 |
+| Scourge Slayer | 27.00% | ~992 |
 | Science, Troglodyte! | 24.00% | ~882 |
 | Exceptional Skill | 23.00% | ~845 |
 | Home Sweet Home | 23.00% | ~845 |
@@ -50,7 +50,7 @@ Number of Ratings: 266  (23.09.2022)
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,674 (Ranked 202)  
-Completed: 4 (0.11%) (Ranked 276)  
+Completed: 4 (0.11%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

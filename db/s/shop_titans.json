@@ -6,7 +6,7 @@
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
@@ -7109,10 +7109,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27578,
       "NumberOfAwardsMax": 4839
+    },
+    {
+      "Time": "2023-11-22T17:03:17.3746508+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27581,
+      "NumberOfAwardsMax": 4839
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27578,
+  "NumberOfAwards": 27581,
   "NumberOfAwardsMax": 4839,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7138,7 +7144,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3727
+      "Count": 3730
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7165,9 +7171,9 @@
       "Count": 3783
     }
   ],
-  "EOS_Progressed": 140992,
+  "EOS_Progressed": 140997,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 1074,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -29445,6 +29451,11 @@
       "Time": "2023-11-22T16:06:22.9101742+00:00",
       "NumProgressed": 140992,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2023-11-22T17:08:09.2789312+00:00",
+      "NumProgressed": 140997,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 112,
@@ -29526,9 +29537,9 @@
       "ID": "ashley_a",
       "SetID": "anfd17p",
       "Name": "A Ronin Reborn",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1269
     },
     {
       "ID": "bigsale01",
@@ -29606,9 +29617,9 @@
       "ID": "boss03",
       "SetID": "anfd17p",
       "Name": "Bane of Legends",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 423
     },
     {
       "ID": "champions01",
@@ -29934,9 +29945,9 @@
       "ID": "gold02",
       "SetID": "anfd17p",
       "Name": "Pretty Penny",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2820
+      "UsersEstimate": 4230
     },
     {
       "ID": "gold03",
@@ -30351,15 +30362,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 140992,
+      "Progressed": 140997,
       "Completed": 192
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-22T16:02:58.6493317+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:06:22.9101737+00:00",
+  "LastChanged": "2023-11-22T17:03:17.3746506+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:08:09.2789309+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:10.692492+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:02:58.6493388+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:06:22.9103718+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:03:17.3746512+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:08:09.2791598+00:00"
 }

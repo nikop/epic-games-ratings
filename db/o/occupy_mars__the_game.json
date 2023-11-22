@@ -6,9 +6,9 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1723,
+  "EOS_Progressed": 1724,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4276,6 +4276,11 @@
       "Time": "2023-11-22T15:03:55.8813745+00:00",
       "NumProgressed": 1723,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T17:04:10.5754349+00:00",
+      "NumProgressed": 1724,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4439,7 +4444,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4511,7 +4516,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4543,7 +4548,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4670,7 +4675,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1723,
+      "Progressed": 1724,
       "Completed": 0
     }
   ],
@@ -4678,8 +4683,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:03:33.4404576+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:04:10.5754347+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.8108323+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:36.059972+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:03:33.4404969+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:59:29.1039873+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:04:10.5754757+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4755,9 +4755,9 @@
       "Count": 496
     }
   ],
-  "EOS_Progressed": 91412,
+  "EOS_Progressed": 91417,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -26145,6 +26145,11 @@
       "Time": "2023-11-22T16:05:21.8043416+00:00",
       "NumProgressed": 91412,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-22T17:06:43.5951696+00:00",
+      "NumProgressed": 91417,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 41,
@@ -26156,7 +26161,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "ACH_0011",
@@ -26236,7 +26241,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_0050",
@@ -26252,7 +26257,7 @@
       "Name": "Freebooter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_0061",
@@ -26300,7 +26305,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "ACH_0210",
@@ -26308,7 +26313,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "ACH_0211",
@@ -26483,13 +26488,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91412,
+      "Progressed": 91417,
       "Completed": 57
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19759,
+      "Progressed": 19764,
       "Completed": 15579
     }
   ],
@@ -26497,8 +26502,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-22T04:58:39.4590249+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:05:21.8043414+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:06:43.5951695+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:37.2640291+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:48.8328334+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:05:21.8044682+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:59:48.8638725+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:06:43.5952754+00:00"
 }

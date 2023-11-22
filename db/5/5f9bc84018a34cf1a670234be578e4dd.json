@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.65,
+  "EOS_Completed_Percentage": 25.57,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1639,6 +1639,11 @@
       "Time": "2023-11-22T08:07:36.968401+00:00",
       "NumProgressed": 308,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-22T17:08:46.1625566+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1651,7 +1656,7 @@
       "Name": "Safe Cracker",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Batteries",
@@ -1665,9 +1670,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "FallDeath",
@@ -1683,7 +1688,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Floppy",
@@ -1699,7 +1704,7 @@
       "Name": "Beginner Electrician",
       "Percentage": 84,
       "XP": 70,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "GameComplete",
@@ -1723,7 +1728,7 @@
       "Name": "Something is wrong here",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Hologram",
@@ -1731,7 +1736,7 @@
       "Name": "Holographic Scanner",
       "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Screwdriver",
@@ -1739,15 +1744,15 @@
       "Name": "Screwdriver",
       "Percentage": 75,
       "XP": 70,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 157
+      "UsersEstimate": 154
     },
     {
       "ID": "Synthesis",
@@ -1762,14 +1767,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 79
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:08:21.013291+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:08:46.1625563+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:28.835377+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:57:29.2767315+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:08:21.0133114+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:57:45.3345077+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:08:46.162578+00:00"
 }

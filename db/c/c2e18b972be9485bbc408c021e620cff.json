@@ -4,11 +4,11 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 822,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 426,
+  "Ranking_PopularitySum": 425,
   "Ranking_EOS_Progress": 755,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -535,10 +535,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 140,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-11-22T17:03:18.6492634+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 142,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 140,
+  "NumberOfAwards": 142,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -558,13 +564,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -587,9 +593,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2023-11-22T08:02:43.6852805+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:08:27.3241249+00:00",
+  "LastChanged": "2023-11-22T17:03:18.6492632+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:08:54.4729415+00:00",
   "LastUpdate_AppInfo": "2023-11-22T01:46:33.5261691+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:02:59.4438232+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:08:27.3241276+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:03:18.6492639+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:08:54.472943+00:00"
 }

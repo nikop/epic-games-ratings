@@ -10,7 +10,7 @@ Rating: 4.05 (Ranked 985)
 | Enlisted | 85.00% | ~246 |
 | Maybe Engage a Little | 81.00% | ~234 |
 | No More Names | 69.00% | ~199 |
-| Initiate | 55.00% | ~159 |
+| Initiate | 56.00% | ~162 |
 | Thrada-Kul | 51.00% | ~147 |
 | Gravity-Challenged Rocks | 40.00% | ~116 |
 | Soldier | 34.00% | ~98 |
@@ -54,7 +54,7 @@ Rating: 4.05 (Ranked 985)
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 289 (Ranked 354)  
-Completed: 1 (0.35%) (Ranked 225)  
+Completed: 1 (0.35%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

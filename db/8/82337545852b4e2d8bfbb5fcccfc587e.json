@@ -597,9 +597,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 70,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "EpicACHV_11",
@@ -613,9 +613,9 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "EpicACHV_13",
@@ -717,9 +717,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
@@ -732,8 +732,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:03:56.5138098+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:04:42.7601209+00:00",
   "LastUpdate_AppInfo": "2023-11-22T13:04:48.5042762+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:48.3100646+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:03:56.5138222+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:59:48.0735293+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:04:42.7601327+00:00"
 }

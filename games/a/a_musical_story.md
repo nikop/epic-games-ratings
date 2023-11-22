@@ -12,14 +12,14 @@
 | Pinewood, Here we come! | 76.00% | ~81 |
 | The Van | 72.00% | ~76 |
 | Road-Trip | 64.00% | ~68 |
-| A Musical Pause | 61.00% | ~65 |
-| Briget's | 53.00% | ~56 |
+| A Musical Pause | 62.00% | ~66 |
+| Briget's | 54.00% | ~57 |
 | Sound of Noise | 49.00% | ~52 |
 | Big City Music | 48.00% | ~51 |
-| Love at First Sight | 45.00% | ~48 |
-| First Kiss | 39.00% | ~41 |
+| Love at First Sight | 46.00% | ~49 |
+| First Kiss | 40.00% | ~42 |
 | Symbiosis | 37.00% | ~39 |
-| A Bigger Band | 34.00% | ~36 |
+| A Bigger Band | 35.00% | ~37 |
 | Fuel | 31.00% | ~33 |
 | Alone Together | 30.00% | ~32 |
 | Threatening Nature | 28.00% | ~30 |
@@ -60,7 +60,7 @@
 | Love is All | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 106 (Ranked 426)  
-Completed: 1 (0.94%) (Ranked 169)  
+Completed: 1 (0.94%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1346,17 +1346,17 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1426,9 +1426,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1450,9 +1450,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1473,8 +1473,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:06:11.5386243+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:07:52.5713195+00:00",
   "LastUpdate_AppInfo": "2023-11-19T01:47:56.0538921+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:57:42.6199101+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:06:11.5386358+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:58:07.2797734+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:07:52.5713357+00:00"
 }

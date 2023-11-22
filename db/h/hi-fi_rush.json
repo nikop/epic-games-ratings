@@ -6,9 +6,9 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7474,9 +7474,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 724
     },
     {
       "ID": "Ach002",
@@ -8057,8 +8057,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-11-19T01:50:05.8903794+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:08:20.9187741+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:08:46.0877046+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:27.9417096+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:57:50.6048886+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:08:20.9188875+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:58:18.088884+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:08:46.0877843+00:00"
 }

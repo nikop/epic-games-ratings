@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 91.00% | ~144 |
+| Travel Streamer | 90.00% | ~143 |
 | Training Simulation | 77.00% | ~122 |
-| Kuku Bird Hunter | 66.00% | ~104 |
-| Storm Traveller | 61.00% | ~96 |
-| Wolf King Killer | 59.00% | ~93 |
+| Kuku Bird Hunter | 67.00% | ~107 |
+| Storm Traveller | 62.00% | ~99 |
+| Wolf King Killer | 59.00% | ~94 |
 | Fashion Connoisseur | 58.00% | ~92 |
-| Arms Mechanic | 50.00% | ~79 |
-| Flower Thief | 47.00% | ~74 |
+| Arms Mechanic | 50.00% | ~80 |
+| Flower Thief | 48.00% | ~76 |
+| Apostle of Flame | 45.00% | ~72 |
 | Beginner Artificer | 44.00% | ~70 |
-| Apostle of Flame | 44.00% | ~70 |
-| Beginner Cook | 42.00% | ~66 |
+| Beginner Cook | 42.00% | ~67 |
 | Seal Breaker | 39.00% | ~62 |
 | Handyman | 36.00% | ~57 |
-| Giant Lizard Killer | 35.00% | ~55 |
-| Guardian | 34.00% | ~54 |
-| Nosebleeder | 34.00% | ~54 |
+| Giant Lizard Killer | 35.00% | ~56 |
+| Guardian | 33.00% | ~52 |
+| Nosebleeder | 33.00% | ~52 |
 | Trader | 31.00% | ~49 |
-| Weapon Boost | 30.00% | ~47 |
+| Weapon Boost | 30.00% | ~48 |
+| Flying Kobold Killer | 25.00% | ~40 |
 | Youth Magnet | 25.00% | ~40 |
 | Master Artificer | 25.00% | ~40 |
-| Flying Kobold Killer | 24.00% | ~38 |
 | Lethal Blade Mantis Killer | 24.00% | ~38 |
 | Squeaky Clean | 24.00% | ~38 |
-| Furious Scorpion Killer | 23.00% | ~36 |
+| Furious Scorpion Killer | 23.00% | ~37 |
 | Kind Adventurer | 20.00% | ~32 |
-| Mermaid Killer | 20.00% | ~32 |
-| Face Slapper | 20.00% | ~32 |
-| Cave Master | 18.00% | ~28 |
-| Master Cook | 15.00% | ~24 |
+| Mermaid Killer | 19.00% | ~30 |
+| Face Slapper | 19.00% | ~30 |
+| Cave Master | 18.00% | ~29 |
+| Master Cook | 14.00% | ~22 |
 | Berserker Slayer | 10.00% | ~16 |
 | Boss challenge | 9.00% | ~14 |
 | Giantess Slayer | 9.00% | ~14 |
 | Warden Slayer | 9.00% | ~14 |
-| Silver Moon Wolf King Challenge | 6.00% | ~9 |
+| Silver Moon Wolf King Challenge | 6.00% | ~10 |
 | Rebellious | 4.00% | ~6 |
 | Blade Mantis Challenge | 4.00% | ~6 |
 | Big Face Goalkeeper Challenge | 4.00% | ~6 |
@@ -50,8 +50,8 @@
 | Giantess Challenge | 3.00% | ~5 |
 | Warden Challenge | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 357)  
+Progressed: 159 (Ranked 398)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 357)
 | 2023-11-14 | 112 | 0 |
 | 2023-11-20 | 113 | 0 |
 | 2023-11-21 | 120 | 0 |
-| 2023-11-22 | 158 | 0 |
+| 2023-11-22 | 159 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

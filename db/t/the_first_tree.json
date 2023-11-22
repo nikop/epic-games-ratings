@@ -6,7 +6,7 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38175,
+  "EOS_Progressed": 38178,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19005,6 +19005,11 @@
       "Time": "2023-11-22T14:06:03.0431706+00:00",
       "NumProgressed": 38175,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2023-11-22T17:08:06.3385568+00:00",
+      "NumProgressed": 38178,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 14,
@@ -19096,7 +19101,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9162
+      "UsersEstimate": 9163
     },
     {
       "ID": "firstItem",
@@ -19104,7 +19109,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29395
+      "UsersEstimate": 29397
     },
     {
       "ID": "roots",
@@ -19127,15 +19132,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 38175,
+      "Progressed": 38178,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-11-16T13:58:53.3342311+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:06:20.8902107+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:08:06.3385565+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:16.7435726+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:23.051655+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:06:20.890322+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:59:08.7199494+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:08:06.3386657+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 82.00% | ~1,660 |
-| Become King | 74.00% | ~1,498 |
+| Complete Guard Faction | 82.00% | ~1,661 |
+| Become King | 74.00% | ~1,499 |
 | Ranged Weapon | 63.00% | ~1,276 |
 | Defeat 25 Frogs | 63.00% | ~1,276 |
 | Collect Monster Parts | 59.00% | ~1,195 |
-| Two Handed Weapon | 57.00% | ~1,154 |
+| Two Handed Weapon | 57.00% | ~1,155 |
 | Defeat 25 Grubs | 54.00% | ~1,094 |
-| Rescue Redgi's Brothers | 53.00% | ~1,073 |
-| Collect Iron Ore | 49.00% | ~992 |
+| Rescue Redgi's Brothers | 53.00% | ~1,074 |
+| Collect Iron Ore | 49.00% | ~993 |
 | Defeat 25 Mozis | 48.00% | ~972 |
 | Kitchen Ready To Cook | 48.00% | ~972 |
 | Collect Gold | 47.00% | ~952 |
 | Smithy Ready to Craft | 47.00% | ~952 |
-| Fix the Travellers Wagon | 45.00% | ~911 |
-| Complete Elder Faction | 42.00% | ~850 |
+| Fix the Travellers Wagon | 45.00% | ~912 |
+| Complete Elder Faction | 42.00% | ~851 |
 | End of the Mozis | 39.00% | ~790 |
 | Throne Room Fit For A King | 39.00% | ~790 |
-| Meet the Creatures from the Deep | 37.00% | ~749 |
-| Return Power To The Depths | 37.00% | ~749 |
+| Meet the Creatures from the Deep | 37.00% | ~750 |
+| Return Power To The Depths | 37.00% | ~750 |
 | Defeat Ratnor Rodentson | 31.00% | ~628 |
 | Return the Statues | 28.00% | ~567 |
 | Defeat Rattus Augustail | 27.00% | ~547 |
@@ -36,8 +36,8 @@ Rating: 4.55 (Ranked 505)
 | King of Kings | 8.00% | ~162 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,025 (Ranked 223)  
-Completed: 9 (0.44%) (Ranked 209)  
+Progressed: 2,026 (Ranked 223)  
+Completed: 9 (0.44%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,7 +207,7 @@ Completed: 9 (0.44%) (Ranked 209)
 | 2023-11-19 | 2,000 | 9 |
 | 2023-11-20 | 2,002 | 9 |
 | 2023-11-21 | 2,011 | 9 |
-| 2023-11-22 | 2,025 | 9 |
+| 2023-11-22 | 2,026 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15237,
+  "EOS_Progressed": 15241,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11892,6 +11892,11 @@
       "Time": "2023-11-22T16:04:31.409408+00:00",
       "NumProgressed": 15237,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-22T17:05:33.3811642+00:00",
+      "NumProgressed": 15241,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11936,7 +11941,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "14",
@@ -11952,7 +11957,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "16",
@@ -11960,7 +11965,7 @@
       "Name": "Drug Gifter",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "17",
@@ -11968,7 +11973,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "18",
@@ -11984,7 +11989,7 @@
       "Name": "Martian Music",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "2",
@@ -12048,7 +12053,7 @@
       "Name": "Call it Even",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "27",
@@ -12080,7 +12085,7 @@
       "Name": "Captain Drummer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "30",
@@ -12183,13 +12188,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 15237,
+      "Progressed": 15241,
       "Completed": 35
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 1191,
+      "Progressed": 1195,
       "Completed": 677
     }
   ],
@@ -12197,8 +12202,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:04:31.4094077+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:05:33.3811639+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:54.7951962+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:00:25.5077923+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:04:31.4094862+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:02:15.9732378+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:05:33.3812278+00:00"
 }

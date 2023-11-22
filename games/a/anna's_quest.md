@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 75.00% | ~61 |
-| Book Worm | 46.00% | ~37 |
+| Escape artist | 76.00% | ~62 |
+| Book Worm | 45.00% | ~37 |
 | Ooh, it's shiny! | 44.00% | ~36 |
 | My lost nightingale | 37.00% | ~30 |
-| Through the woods | 36.00% | ~29 |
-| Fussy eater | 36.00% | ~29 |
-| Kekekeke... | 35.00% | ~28 |
+| Through the woods | 35.00% | ~29 |
+| Fussy eater | 35.00% | ~29 |
+| Kekekeke... | 34.00% | ~28 |
 | Back to the anvil | 33.00% | ~27 |
 | Honey, honey, honey… | 32.00% | ~26 |
 | So soothing... | 32.00% | ~26 |
 | Roostwig has entered the building | 32.00% | ~26 |
-| A very special drink | 31.00% | ~25 |
-| Mystery solved | 30.00% | ~24 |
-| Game Over! | 30.00% | ~24 |
-| Far away from home | 30.00% | ~24 |
-| Sorry Grandpa | 30.00% | ~24 |
+| A very special drink | 30.00% | ~25 |
+| Mystery solved | 29.00% | ~24 |
+| Game Over! | 29.00% | ~24 |
+| Far away from home | 29.00% | ~24 |
+| Sorry Grandpa | 29.00% | ~24 |
 | Shattered | 28.00% | ~23 |
 | GG | 28.00% | ~23 |
 | NOW GO AWAY! | 28.00% | ~23 |
@@ -30,13 +30,13 @@
 | Mischief maker | 26.00% | ~21 |
 | No posters allowed | 26.00% | ~21 |
 | Little genius | 26.00% | ~21 |
-| Pain in the hands | 25.00% | ~20 |
+| Pain in the hands | 24.00% | ~20 |
 | Turn the last page | 22.00% | ~18 |
 | Kill it! KILL IT! | 22.00% | ~18 |
 | Ring-a-ding-ding | 21.00% | ~17 |
 | Close the deal | 20.00% | ~16 |
-| Singstar | 19.00% | ~15 |
-| Bahahahaha... | 19.00% | ~15 |
+| Singstar | 18.00% | ~15 |
+| Bahahahaha... | 18.00% | ~15 |
 | Makeover | 17.00% | ~14 |
 | Cameodalic | 17.00% | ~14 |
 | Clever reference #451 | 15.00% | ~12 |
@@ -44,8 +44,8 @@
 | What a mess | 10.00% | ~8 |
 | Posterboy! | 9.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 447)  
-Completed: 6 (7.41%) (Ranked 55)  
+Progressed: 82 (Ranked 447)  
+Completed: 6 (7.32%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 6 (7.41%) (Ranked 55)
 | 2023-11-19 | 79 | 6 |
 | 2023-11-20 | 80 | 6 |
 | 2023-11-21 | 81 | 6 |
+| 2023-11-22 | 82 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

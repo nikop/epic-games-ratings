@@ -2,10 +2,10 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 388,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -867,6 +867,11 @@
       "Time": "2023-11-22T16:04:48.9530859+00:00",
       "NumProgressed": 383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T17:05:57.549201+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -895,7 +900,7 @@
       "Name": "Chosen Victor",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -933,9 +938,9 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 279
     },
     {
       "ID": "CompleteChapter10",
@@ -943,7 +948,7 @@
       "Name": "You da Boss, Now",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter11",
@@ -951,7 +956,7 @@
       "Name": "The Artefact is Mine",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CompleteChapter12",
@@ -959,7 +964,7 @@
       "Name": "Grumblin\u0027 Bellies",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteChapter13",
@@ -967,15 +972,15 @@
       "Name": "Slaughter and Siege wiv da Squeeze",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "CompleteChapter15",
@@ -1007,15 +1012,15 @@
       "Name": "Who Needs Reinforcements?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteChapter2",
@@ -1023,7 +1028,7 @@
       "Name": "Met the Enemy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "CompleteChapter3",
@@ -1031,7 +1036,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "CompleteChapter4",
@@ -1039,23 +1044,23 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 62
     },
     {
       "ID": "CompleteChapter7",
@@ -1063,7 +1068,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CompleteChapter8",
@@ -1071,7 +1076,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteChapter9",
@@ -1079,7 +1084,7 @@
       "Name": "Ingredients List",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -1125,9 +1130,9 @@
       "ID": "Defeat250Units",
       "SetID": "52ail55",
       "Name": "Feeding Shyish",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "Win100OnlineMatched",
@@ -1149,9 +1154,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 58
     },
     {
       "ID": "Win50ConquestBattles",
@@ -1159,7 +1164,7 @@
       "Name": "Warmaster Supreme",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WinAllConquestBattlesInARun",
@@ -1174,14 +1179,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 388,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:04:48.9530854+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:05:57.5492007+00:00",
   "LastUpdate_AppInfo": "2023-11-17T06:59:21.4588529+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:57:31.3637312+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:04:48.9531083+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:57:48.7671252+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:05:57.549226+00:00"
 }

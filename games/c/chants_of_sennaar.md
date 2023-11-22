@@ -24,8 +24,8 @@
 | Feels like springtime | 15.00% | ~98 |
 | Alchemists Express | 15.00% | ~98 |
 | Free at last | 13.00% | ~85 |
+| A Link to the Past | 12.00% | ~78 |
 | Rascal | 12.00% | ~78 |
-| A Link to the Past | 11.00% | ~72 |
 | A great audience | 10.00% | ~65 |
 | For its own good | 9.00% | ~59 |
 | Fashion victim | 4.00% | ~26 |

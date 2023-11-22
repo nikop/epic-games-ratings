@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -113,11 +113,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 851,
+  "EOS_Progressed": 853,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.53,
+  "EOS_Completed_Percentage": 3.52,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2743,6 +2743,11 @@
       "Time": "2023-11-22T16:06:28.8891815+00:00",
       "NumProgressed": 851,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-22T17:08:17.7629555+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2755,7 +2760,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2763,7 +2768,7 @@
       "Name": "A New Journey",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "_03_FinishAct1",
@@ -2771,7 +2776,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2779,7 +2784,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "_05_FinishAct2",
@@ -2811,15 +2816,15 @@
       "Name": "Swabbie",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 256
     },
     {
       "ID": "_10_Completion_30",
@@ -2827,7 +2832,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_11_Completion_40",
@@ -2835,15 +2840,15 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 94
     },
     {
       "ID": "_13_Completion_60",
@@ -2883,7 +2888,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2899,7 +2904,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2962,7 +2967,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 851,
+      "Progressed": 853,
       "Completed": 30
     }
   ],
@@ -2970,8 +2975,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-11-18T18:59:57.2704305+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:06:28.8891811+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:08:17.7629552+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.4606815+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:57:58.9125554+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:06:28.8892089+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:58:32.0693329+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:08:17.7629833+00:00"
 }

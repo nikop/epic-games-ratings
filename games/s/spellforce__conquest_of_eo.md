@@ -8,14 +8,14 @@
 | First to the post | 96.00% | ~23 |
 | Home Sweet Home | 92.00% | ~22 |
 | A kind of Magic | 92.00% | ~22 |
-| Connected | 88.00% | ~21 |
+| Connected | 92.00% | ~22 |
 | Expansion | 83.00% | ~20 |
 | Harvest Time | 75.00% | ~18 |
 | Artificer's Apprentice | 71.00% | ~17 |
 | Mine! | 67.00% | ~16 |
+| Get out of here! | 63.00% | ~15 |
 | Alchemist's Apprentice | 58.00% | ~14 |
 | Friend of Lyraine | 58.00% | ~14 |
-| Get out of here! | 58.00% | ~14 |
 | Fly the friendly Sky | 58.00% | ~14 |
 | The Circle | 54.00% | ~13 |
 | Redecorating | 46.00% | ~11 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 537)  
-Completed: 0 (0.00%) (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

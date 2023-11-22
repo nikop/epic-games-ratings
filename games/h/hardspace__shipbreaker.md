@@ -7,7 +7,7 @@ Number of Ratings: 36  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 73.00% | ~702 |
-| It’s Heating up! | 69.00% | ~664 |
+| It’s Heating up! | 70.00% | ~673 |
 | Let’s patch things up | 66.00% | ~635 |
 | I can fix it! | 63.00% | ~606 |
 | Post No Bills | 55.00% | ~529 |
@@ -35,7 +35,7 @@ Number of Ratings: 36  (23.09.2022)
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 962 (Ranked 264)  
-Completed: 0 (0.00%) (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

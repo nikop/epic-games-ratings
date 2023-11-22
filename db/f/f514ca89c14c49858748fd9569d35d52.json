@@ -3,9 +3,9 @@
   "Name": "ALAN-13 Reformation",
   "ProductSlug": "alan13-reformation-d4ec20",
   "Ranking_EOS_Progress": 621,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-21T17:00:00+00:00",
     "PcReleaseDate": "2022-05-11T21:00:00+00:00",
@@ -148,8 +148,8 @@
   ],
   "FirstSeen": "2023-09-24T16:58:49.6574733+00:00",
   "FirstSeenAchievements": "2023-09-07T19:06:16.4121929+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:03:35.4956014+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:04:13.5621762+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:01.3605248+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:53.6838494+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:03:35.4956082+00:00"
+  "LastUpdate_Ratings": "2023-11-22T16:59:56.4471729+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:04:13.5621828+00:00"
 }

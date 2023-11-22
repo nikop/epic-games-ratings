@@ -20,7 +20,7 @@ Rating: 4.53 (Ranked 540)
 | Pacifist | 59.00% | ~3,321 |
 | 2-1-6 | 58.00% | ~3,265 |
 | A gift | 54.00% | ~3,040 |
-| Girl Power | 48.00% | ~2,702 |
+| Girl Power | 49.00% | ~2,758 |
 | What goes around... | 44.00% | ~2,477 |
 | Be Prepared | 38.00% | ~2,139 |
 | Unbreakable | 37.00% | ~2,083 |
@@ -67,7 +67,7 @@ Rating: 4.53 (Ranked 540)
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,629 (Ranked 187)  
-Completed: 1 (0.02%) (Ranked 326)  
+Completed: 1 (0.02%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

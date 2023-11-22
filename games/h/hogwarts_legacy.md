@@ -5,13 +5,13 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,423 |
-| First Class Student | 15.00% | ~45,396 |
-| Troll with the Punches | 14.00% | ~42,370 |
-| A Keen Sense of Spell | 13.00% | ~39,343 |
-| That's a Keeper | 13.00% | ~39,343 |
-| Loom for Improvement | 12.00% | ~36,317 |
-| A Talent for Spending | 12.00% | ~36,317 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,424 |
+| First Class Student | 15.00% | ~45,397 |
+| Troll with the Punches | 14.00% | ~42,371 |
+| A Keen Sense of Spell | 13.00% | ~39,344 |
+| That's a Keeper | 13.00% | ~39,344 |
+| Loom for Improvement | 12.00% | ~36,318 |
+| A Talent for Spending | 12.00% | ~36,318 |
 | Grappling with a Graphorn | 11.00% | ~33,291 |
 | The One Who Mastered Memories | 11.00% | ~33,291 |
 | The Hallowed Hero | 11.00% | ~33,291 |
@@ -19,17 +19,17 @@ Rating: 4.76 (Ranked 127)
 | The Defender of Dragons | 11.00% | ~33,291 |
 | Challenge Accepted | 11.00% | ~33,291 |
 | Coasting Along | 11.00% | ~33,291 |
-| Followed the Butterflies | 10.00% | ~30,264 |
-| Rising From the Ashes | 10.00% | ~30,264 |
+| Followed the Butterflies | 10.00% | ~30,265 |
+| Rising From the Ashes | 10.00% | ~30,265 |
 | A Sallow Grave | 9.00% | ~27,238 |
 | The Spell Master | 9.00% | ~27,238 |
-| The Avenging Gazelle | 8.00% | ~24,211 |
-| Beast Friends | 8.00% | ~24,211 |
-| Flight the Good Flight | 8.00% | ~24,211 |
-| The Seeker of Knowledge | 6.00% | ~18,158 |
-| The Root of the Problem | 6.00% | ~18,158 |
-| Third Time's a Charm | 6.00% | ~18,158 |
-| Raising Expectations | 6.00% | ~18,158 |
+| The Avenging Gazelle | 8.00% | ~24,212 |
+| Beast Friends | 8.00% | ~24,212 |
+| Flight the Good Flight | 8.00% | ~24,212 |
+| The Seeker of Knowledge | 6.00% | ~18,159 |
+| The Root of the Problem | 6.00% | ~18,159 |
+| Third Time's a Charm | 6.00% | ~18,159 |
+| Raising Expectations | 6.00% | ~18,159 |
 | The Toast of the Town | 5.00% | ~15,132 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,132 |
 | The Ends Petrify the Means | 5.00% | ~15,132 |
@@ -48,11 +48,11 @@ Rating: 4.76 (Ranked 127)
 | Savvy Spender | 1.00% | ~3,026 |
 | Merlin's Beard! | 1.00% | ~3,026 |
 | Spilled Milk | 0.90% | ~2,724 |
-| The Nature of the Beast | 0.70% | ~2,118 |
+| The Nature of the Beast | 0.70% | ~2,119 |
 | Collector's Edition | 0.30% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,641 (Ranked 54)  
-Completed: 513 (0.17%) (Ranked 262)  
+Progressed: 302,647 (Ranked 54)  
+Completed: 513 (0.17%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,10 +267,10 @@ Completed: 513 (0.17%) (Ranked 262)
 | 2023-11-19 | 302,449 | 512 |
 | 2023-11-20 | 302,491 | 513 |
 | 2023-11-21 | 302,563 | 513 |
-| 2023-11-22 | 302,641 | 513 |
+| 2023-11-22 | 302,647 | 513 |
 ## Awards
 Max (Character Customization): 24,536  (Ranked 17)  
-Sum: 48,832 (Ranked 30)  
+Sum: 48,834 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 1,287 |
 | This game has Diverse Characters | 1,280 |
 | This game is Extremely Fun | 1,259 |
-| This game is Relaxing | 1,246 |
+| This game is Relaxing | 1,248 |
 | This game has Amazing Characters | 1,223 |
 | This game is Highly Recommended | 1,190 |
 | This game has Quickly Understood Controls | 1,146 |
@@ -532,4 +532,4 @@ Diff (max vs sum): -13
 | 2023-11-19 | 4.76 | 24,447 | 48,598 |
 | 2023-11-20 | 4.76 | 24,475 | 48,693 |
 | 2023-11-21 | 4.76 | 24,503 | 48,784 |
-| 2023-11-22 | 4.76 | 24,536 | 48,832 |
+| 2023-11-22 | 4.76 | 24,536 | 48,834 |

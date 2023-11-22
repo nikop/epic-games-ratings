@@ -3,9 +3,9 @@
   "Name": "Ikaruga",
   "ProductSlug": "ikaruga-a200be",
   "Ranking_EOS_Progress": 755,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-30T07:00:00+00:00",
     "PcReleaseDate": "2014-02-18T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.162835+00:00",
   "LastChanged": "2023-03-31T05:57:47.1628351+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:57:20.269646+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:59:32.2964124+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:04:06.2742264+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:00:54.2047758+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:04:56.4473755+00:00"
 }

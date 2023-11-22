@@ -39,10 +39,10 @@
 | False God | 0.50% | ~1 |
 | A Queen's Tale | 0.50% | ~1 |
 | Forgemaster | 0.00% | ~0 |
-| Feeling Fancy | -0.50% | ~-1 |
+| Feeling Fancy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 201 (Ranked 383)  
-Completed: 1 (0.50%) (Ranked 201)  
+Completed: 2 (1.00%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,4 +84,4 @@ Completed: 1 (0.50%) (Ranked 201)
 | 2023-11-18 | 193 | 1 |
 | 2023-11-19 | 195 | 1 |
 | 2023-11-21 | 197 | 1 |
-| 2023-11-22 | 201 | 1 |
+| 2023-11-22 | 201 | 2 |

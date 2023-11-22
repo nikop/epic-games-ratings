@@ -6,7 +6,7 @@
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -1057,9 +1057,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 13320,
+  "EOS_Progressed": 13326,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -11007,6 +11007,11 @@
       "Time": "2023-11-22T16:09:03.9693774+00:00",
       "NumProgressed": 13320,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-22T17:09:45.10749+00:00",
+      "NumProgressed": 13326,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -11019,7 +11024,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "a_10",
@@ -11027,7 +11032,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_11",
@@ -11035,7 +11040,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_12",
@@ -11043,7 +11048,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_15",
@@ -11059,7 +11064,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_18",
@@ -11067,7 +11072,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 5461
+      "UsersEstimate": 5464
     },
     {
       "ID": "a_19",
@@ -11091,7 +11096,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "a_21",
@@ -11099,7 +11104,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "a_22",
@@ -11115,7 +11120,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "a_25",
@@ -11131,7 +11136,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_27",
@@ -11147,7 +11152,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_3",
@@ -11203,7 +11208,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_36",
@@ -11259,14 +11264,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 13320,
+      "Progressed": 13326,
       "Completed": 12
     }
   ],
@@ -11274,8 +11279,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-14T14:59:50.1823357+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:09:03.969377+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:09:45.1074897+00:00",
   "LastUpdate_AppInfo": "2023-11-18T18:57:36.7870716+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:03:00.876355+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:09:03.9694464+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:03:20.7185283+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:09:45.1075485+00:00"
 }

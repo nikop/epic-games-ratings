@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Introduction completed | 78.00% | ~18 |
+| Chapter 2 | 52.00% | ~12 |
 | Chapter 1 | 48.00% | ~11 |
-| Chapter 2 | 48.00% | ~11 |
 | Chapter 3 | 48.00% | ~11 |
 | Chapter 4 | 48.00% | ~11 |
 | Your Days Are Numbered | 43.00% | ~10 |
@@ -35,7 +35,7 @@
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 542)  
-Completed: 0 (0.00%) (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

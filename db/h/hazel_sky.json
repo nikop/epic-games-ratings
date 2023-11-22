@@ -3,9 +3,9 @@
   "Name": "Hazel Sky",
   "ProductSlug": "hazel-sky-478373",
   "Ranking_EOS_Progress": 621,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-20T01:00:00+00:00",
     "PcReleaseDate": "2022-07-20T01:00:00+00:00",
@@ -250,8 +250,8 @@
   "FirstSeenRating": "2023-03-31T05:57:54.9235309+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:27.0387263+00:00",
   "LastChanged": "2023-03-31T05:57:54.9235311+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:04:16.2016216+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:05:10.4482846+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:14.5668233+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:03:01.0583732+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:04:16.2016377+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:03:21.0232313+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:05:10.448297+00:00"
 }

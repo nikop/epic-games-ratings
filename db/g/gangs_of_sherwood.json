@@ -3,9 +3,9 @@
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 640,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -146,9 +146,9 @@
       "ID": "ACH_BOSS_RUSH",
       "SetID": "5akmpni",
       "Name": "Bold and Bossy",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COMPLETE_ACTS_GANGS",
@@ -162,9 +162,9 @@
       "ID": "ACH_COMPLETE_ACTS_REGULAR",
       "SetID": "5akmpni",
       "Name": "The Gang prevails",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_COOP",
@@ -314,9 +314,9 @@
       "ID": "ACH_KILL_PRIORESS_ROBIN",
       "SetID": "5akmpni",
       "Name": "A Gest of Robyn Hode",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_KILL_RAM",
@@ -330,9 +330,9 @@
       "ID": "ACH_KILL_SHERIFF",
       "SetID": "5akmpni",
       "Name": "Into the Lion\u0027s Den",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LAUNCH_ENEMY",
@@ -386,9 +386,9 @@
       "ID": "ACH_PURCHASE_OUTFIT",
       "SetID": "5akmpni",
       "Name": "Haute Couture",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_REBEL_ABILITY",
@@ -480,8 +480,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2023-11-22T16:04:11.9054858+00:00",
+  "LastChanged_Achievements": "2023-11-22T17:05:04.4751047+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:25.5358459+00:00",
-  "LastUpdate_Ratings": "2023-11-22T15:58:57.9218457+00:00",
-  "LastUpdate_Achievements": "2023-11-22T16:04:11.9055207+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:00:02.7467723+00:00",
+  "LastUpdate_Achievements": "2023-11-22T17:05:04.4751428+00:00"
 }

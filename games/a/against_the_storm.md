@@ -22,17 +22,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~869 |
 | A Real Challenge | 5.00% | ~869 |
 | Trade Baron | 5.00% | ~869 |
-| Homesick | 4.00% | ~695 |
-| Against All Odds | 4.00% | ~695 |
-| Ruined Armory | 4.00% | ~695 |
-| Barren Lands | 4.00% | ~695 |
-| Haunted Forest | 4.00% | ~695 |
-| Levitating Monument | 4.00% | ~695 |
-| Flooded Mines | 4.00% | ~695 |
-| Monastery of the Holy Flame | 4.00% | ~695 |
-| Statue of the Forefathers | 4.00% | ~695 |
-| Corrosive Torrent | 4.00% | ~695 |
-| Cursed Lands | 4.00% | ~695 |
+| Homesick | 4.00% | ~696 |
+| Against All Odds | 4.00% | ~696 |
+| Ruined Armory | 4.00% | ~696 |
+| Barren Lands | 4.00% | ~696 |
+| Haunted Forest | 4.00% | ~696 |
+| Levitating Monument | 4.00% | ~696 |
+| Flooded Mines | 4.00% | ~696 |
+| Monastery of the Holy Flame | 4.00% | ~696 |
+| Statue of the Forefathers | 4.00% | ~696 |
+| Corrosive Torrent | 4.00% | ~696 |
+| Cursed Lands | 4.00% | ~696 |
 | Serving Ale | 3.00% | ~522 |
 | Refinery | 3.00% | ~522 |
 | Dangerous Lands | 3.00% | ~522 |
@@ -48,7 +48,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 1.00% | ~174 |
 | Prestigious Expedition | 1.00% | ~174 |
 | Blood Flower Farmer | 1.00% | ~174 |
-| Human Utopia | 0.90% | ~156 |
+| Human Utopia | 0.90% | ~157 |
 | Beaver Utopia | 0.70% | ~122 |
 | The Queen's Chosen | 0.60% | ~104 |
 | Harpy Utopia | 0.50% | ~87 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,387 (Ranked 145)  
-Completed: 56 (0.32%) (Ranked 230)  
+Progressed: 17,389 (Ranked 145)  
+Completed: 56 (0.32%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 56 (0.32%) (Ranked 230)
 | 2023-11-19 | 17,352 | 56 |
 | 2023-11-20 | 17,360 | 56 |
 | 2023-11-21 | 17,370 | 56 |
-| 2023-11-22 | 17,387 | 56 |
+| 2023-11-22 | 17,389 | 56 |
 ## Awards
 Max (Quickly Understood Controls): 440  (Ranked 222)  
 Sum: 3,226 (Ranked 172)  

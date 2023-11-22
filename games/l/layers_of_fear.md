@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 77.00% | ~60 |
-| Something important | 74.00% | ~58 |
-| A piece of the story | 62.00% | ~48 |
+| Wanderer | 78.00% | ~61 |
+| Something important | 76.00% | ~59 |
+| A piece of the story | 63.00% | ~49 |
 | Do what you have to | 45.00% | ~35 |
 | Scraps of love | 45.00% | ~35 |
+| The artist’s impression | 45.00% | ~35 |
 | It's covered up for a reason | 44.00% | ~34 |
-| The artist’s impression | 44.00% | ~34 |
 | Refuse to look | 38.00% | ~30 |
 | Sign of weakness | 37.00% | ~29 |
 | Finished it | 29.00% | ~23 |
@@ -19,12 +19,12 @@
 | Tough conversation | 15.00% | ~12 |
 | The tragedy unfolds | 14.00% | ~11 |
 | First steps | 13.00% | ~10 |
+| Whispers long forgotten | 13.00% | ~10 |
 | A new way | 12.00% | ~9 |
 | Breaking free | 12.00% | ~9 |
 | A Slice of Life | 12.00% | ~9 |
 | Debut | 12.00% | ~9 |
 | The art of movement | 12.00% | ~9 |
-| Whispers long forgotten | 12.00% | ~9 |
 | True Reflection | 10.00% | ~8 |
 | Another perspective | 9.00% | ~7 |
 | Sound Bite | 9.00% | ~7 |
@@ -58,7 +58,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 454)  
-Completed: 0 (0.00%) (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -23,13 +23,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.50% | ~3,586 |
 | Street Fighting | 0.50% | ~3,586 |
 | Qi Gong: Essence | 0.50% | ~3,586 |
+| Old Child | 0.50% | ~3,586 |
 | Path of the Prospect | 0.50% | ~3,586 |
 | Martial Hub | 0.50% | ~132 |
 | Fight the way you practice | 0.50% | ~132 |
 | Scareless | 0.40% | ~2,869 |
 | Qi Gong: Mind | 0.40% | ~2,869 |
 | I know Kung-Fu | 0.40% | ~2,869 |
-| Old Child | 0.40% | ~2,869 |
 | Kung-Fu Tussle | 0.40% | ~2,869 |
 | Take damage to save time | 0.40% | ~2,869 |
 | Bloody Sport | 0.40% | ~106 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,136 (Ranked 22)  
+Progressed: 717,139 (Ranked 22)  
 Completed: 12,938 (1.80%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,17 +283,17 @@ Completed: 12,938 (1.80%) (Ranked 132)
 | 2023-11-19 | 717,041 | 12,938 |
 | 2023-11-20 | 717,073 | 12,938 |
 | 2023-11-21 | 717,101 | 12,938 |
-| 2023-11-22 | 717,136 | 12,938 |
+| 2023-11-22 | 717,139 | 12,938 |
 ## Awards
 Max (Great Boss Battles): 6,827  (Ranked 55)  
-Sum: 11,935 (Ranked 82)  
+Sum: 11,936 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,827 |
 | This game has Diverse Characters | 658 |
 | This game has Challenging Combat | 603 |
-| This game has Amazing Storytelling | 592 |
+| This game has Amazing Storytelling | 593 |
 | This game has Amazing Characters | 574 |
 | This game is Highly Recommended | 573 |
 | This game has Quickly Understood Controls | 572 |
@@ -613,4 +613,4 @@ Diff (max vs sum): -27
 | 2023-11-19 | 4.82 | - | 6,811 | 11,913 |
 | 2023-11-20 | 4.82 | - | 6,821 | 11,925 |
 | 2023-11-21 | 4.82 | - | 6,824 | 11,931 |
-| 2023-11-22 | 4.82 | - | 6,827 | 11,935 |
+| 2023-11-22 | 4.82 | - | 6,827 | 11,936 |
