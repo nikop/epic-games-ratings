@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 124,
@@ -3477,9 +3477,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 31382,
+  "EOS_Progressed": 31386,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -20097,6 +20097,11 @@
       "Time": "2023-11-22T17:06:13.2640543+00:00",
       "NumProgressed": 31382,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-22T18:04:47.2306566+00:00",
+      "NumProgressed": 31386,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -20116,7 +20121,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Back_Off",
@@ -20180,7 +20185,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Diabolical",
@@ -20212,7 +20217,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Efficient",
@@ -20252,7 +20257,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Ghost_Expert",
@@ -20268,7 +20273,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Legions",
@@ -20356,7 +20361,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Rivalry",
@@ -20420,7 +20425,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "Surprise",
@@ -20515,7 +20520,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 31382,
+      "Progressed": 31386,
       "Completed": 68
     }
   ],
@@ -20523,8 +20528,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-22T06:03:02.2029942+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:06:13.264054+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:04:47.2306563+00:00",
   "LastUpdate_AppInfo": "2023-11-18T19:57:05.1211106+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:03:23.5212485+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:06:13.2641547+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:02:51.5821373+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:04:47.230769+00:00"
 }

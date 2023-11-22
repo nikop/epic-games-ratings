@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 587)  
+Rating: 4.50 (Ranked 588)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,13 +19,13 @@ Rating: 4.50 (Ranked 587)
 | There you are! | 4.00% | ~1,255 |
 | Vaporous Expansion | 4.00% | ~1,255 |
 | Whoopsie | 4.00% | ~1,255 |
-| Animated | 3.00% | ~941 |
-| Daily Dose | 3.00% | ~941 |
-| Ectoplasmic Entity | 3.00% | ~941 |
-| Ghostbuster In Training | 3.00% | ~941 |
-| Icing on the Cake | 3.00% | ~941 |
-| Right back at ya | 3.00% | ~941 |
-| Summoner | 3.00% | ~941 |
+| Animated | 3.00% | ~942 |
+| Daily Dose | 3.00% | ~942 |
+| Ectoplasmic Entity | 3.00% | ~942 |
+| Ghostbuster In Training | 3.00% | ~942 |
+| Icing on the Cake | 3.00% | ~942 |
+| Right back at ya | 3.00% | ~942 |
+| Summoner | 3.00% | ~942 |
 | Back Off | 2.00% | ~628 |
 | We have the best insurance | 2.00% | ~628 |
 | Collector | 2.00% | ~628 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,382 (Ranked 124)  
+Progressed: 31,386 (Ranked 124)  
 Completed: 68 (0.22%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 68 (0.22%) (Ranked 249)
 | 2023-11-19 | 31,263 | 68 |
 | 2023-11-20 | 31,308 | 68 |
 | 2023-11-21 | 31,349 | 68 |
-| 2023-11-22 | 31,382 | 68 |
+| 2023-11-22 | 31,386 | 68 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 249)  
 Sum: 2,838 (Ranked 179)  

@@ -2900,9 +2900,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 114
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -3203,8 +3203,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:10:20.7384677+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:09:18.5232844+00:00",
   "LastUpdate_AppInfo": "2023-11-16T23:57:02.0177367+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:01:35.021802+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:20.7385202+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:59:50.970703+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:18.5233422+00:00"
 }

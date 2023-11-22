@@ -749,9 +749,9 @@
       "ID": "ACHIEVEMENT_15",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -837,9 +837,9 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -853,9 +853,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -1021,17 +1021,17 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "7pimpda",
       "Name": "Wolf King Killer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "7pimpda",
       "Name": "Flower Thief",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -1070,8 +1070,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:07:38.3988668+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:05:46.2559259+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:05.4910693+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:59:29.4960891+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:07:38.3988951+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:58:25.9978404+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:05:46.2559644+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1724,
+  "EOS_Progressed": 1725,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4281,6 +4281,11 @@
       "Time": "2023-11-22T17:04:10.5754349+00:00",
       "NumProgressed": 1724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T18:03:22.6650772+00:00",
+      "NumProgressed": 1725,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4372,7 +4377,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4514,9 +4519,9 @@
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 380
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4524,7 +4529,7 @@
       "Name": "ITS crash site",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -4564,7 +4569,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4652,7 +4657,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4675,7 +4680,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1724,
+      "Progressed": 1725,
       "Completed": 0
     }
   ],
@@ -4683,8 +4688,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:04:10.5754347+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:03:22.6650769+00:00",
   "LastUpdate_AppInfo": "2023-11-18T14:57:03.8108323+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:59:29.1039873+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:04:10.5754757+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:58:25.8760454+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:03:22.6651319+00:00"
 }

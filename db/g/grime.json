@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 78,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1463,10 +1463,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 378,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-11-22T17:57:06.1502638+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 379,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 378,
+  "NumberOfAwards": 379,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1510,7 +1516,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1525,9 +1531,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 159557,
+  "EOS_Progressed": 159565,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1186,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16650,6 +16656,11 @@
       "Time": "2023-11-22T17:04:48.0658925+00:00",
       "NumProgressed": 159557,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T18:03:48.3593124+00:00",
+      "NumProgressed": 159565,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -16709,7 +16720,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6382
+      "UsersEstimate": 6383
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -16933,7 +16944,7 @@
       "Name": "Ravenous",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6382
+      "UsersEstimate": 6383
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -17028,21 +17039,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 159140,
+      "Progressed": 159148,
       "Completed": 1215
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 159557,
+      "Progressed": 159565,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-22T01:49:37.5961448+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:04:48.0658922+00:00",
+  "LastChanged": "2023-11-22T17:57:06.1502636+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:03:48.359312+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:00.2539693+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:57:20.3862085+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:04:48.0660278+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:57:06.1502642+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:03:48.3594275+00:00"
 }

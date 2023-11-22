@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 333,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -825,6 +825,11 @@
       "Time": "2023-11-22T17:10:26.9161014+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T18:09:22.710129+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -845,15 +850,15 @@
       "Name": "Asphalt Artist",
       "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_12",
@@ -877,7 +882,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_15",
@@ -893,7 +898,7 @@
       "Name": "Class Act",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_17",
@@ -901,7 +906,7 @@
       "Name": "Your first time?",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_18",
@@ -925,7 +930,7 @@
       "Name": "Team Principal",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_20",
@@ -973,7 +978,7 @@
       "Name": "E-stonia",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_26",
@@ -995,7 +1000,7 @@
       "ID": "achievement_4",
       "SetID": "jnappp",
       "Name": "World Rally Champion!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1021,7 +1026,7 @@
       "Name": "NEW PB!",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_8",
@@ -1044,14 +1049,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 333,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:10:26.9161011+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:09:22.7101284+00:00",
   "LastUpdate_AppInfo": "2023-11-21T20:57:09.2881736+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:01:40.5285701+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:26.9161208+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:59:54.5935756+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:22.7101485+00:00"
 }

@@ -19,8 +19,8 @@
 | Boom Things | 56.00% | ~441 |
 | Tear of Freedom | 55.00% | ~433 |
 | My Darkest Day | 51.00% | ~402 |
+| The Relentless Storm | 49.00% | ~386 |
 | Rhythm Of Willump | 48.00% | ~378 |
-| The Relentless Storm | 48.00% | ~378 |
 | A Tragic Reminder | 47.00% | ~370 |
 | 3000 Year Blackout | 46.00% | ~362 |
 | The Finisher | 44.00% | ~347 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 78.00% | ~61 |
+| Wanderer | 79.00% | ~62 |
 | Something important | 76.00% | ~59 |
 | A piece of the story | 63.00% | ~49 |
 | Do what you have to | 45.00% | ~35 |
@@ -57,7 +57,7 @@
 | Rocket Science | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 454)  
+Progressed: 78 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9,11 +9,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 26.00% | ~3,157 |
 | A Spark | 19.00% | ~2,307 |
 | Burning City | 18.00% | ~2,186 |
-| Mythic Choices | 15.00% | ~1,821 |
-| Defender's Heart | 15.00% | ~1,821 |
+| Mythic Choices | 15.00% | ~1,822 |
+| Defender's Heart | 15.00% | ~1,822 |
 | Banner over the Citadel | 14.00% | ~1,700 |
 | Queen's Gratitude | 12.00% | ~1,457 |
-| Fifth Crusade | 8.00% | ~971 |
+| Fifth Crusade | 8.00% | ~972 |
 | Embrace of the Abyss | 6.00% | ~729 |
 | Path of the Angel | 6.00% | ~729 |
 | Great Upstart | 6.00% | ~729 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~243 |
 | Your First Big Enemy | 2.00% | ~243 |
 | Truly Important Deed | 2.00% | ~243 |
-| Stay Underground | 2.00% | ~218 |
+| Stay Underground | 2.00% | ~219 |
 | The Final Threshold | 1.00% | ~121 |
 | Path of the Legend | 1.00% | ~121 |
 | Strategic Victory | 1.00% | ~121 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,143 (Ranked 157)  
+Progressed: 12,144 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 0 (0.00%) (Ranked 358)
 | 2023-11-19 | 12,124 | 0 |
 | 2023-11-20 | 12,129 | 0 |
 | 2023-11-21 | 12,136 | 0 |
-| 2023-11-22 | 12,143 | 0 |
+| 2023-11-22 | 12,144 | 0 |
 ## Awards
 Max (Character Customization): 1,746  (Ranked 122)  
-Sum: 7,077 (Ranked 120)  
+Sum: 7,078 (Ranked 120)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 2
 | This game has Challenging Combat | 587 |
 | This game has Quickly Understood Controls | 579 |
 | This game is Relaxing | 558 |
-| This game has a Creative Community | 395 |
+| This game has a Creative Community | 396 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -629,4 +629,4 @@ Diff (max vs sum): 2
 | 2023-11-19 | 4.76 | - | 1,744 | 7,069 |
 | 2023-11-20 | 4.76 | - | 1,744 | 7,072 |
 | 2023-11-21 | 4.76 | - | 1,746 | 7,076 |
-| 2023-11-22 | 4.76 | - | 1,746 | 7,077 |
+| 2023-11-22 | 4.76 | - | 1,746 | 7,078 |

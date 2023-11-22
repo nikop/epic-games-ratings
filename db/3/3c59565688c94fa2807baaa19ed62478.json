@@ -4,7 +4,7 @@
   "ProductSlug": "thunder-ray-e9a2e3",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -191,8 +191,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:10:09.8312801+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:09:11.1283624+00:00",
   "LastUpdate_AppInfo": "2023-11-18T04:57:05.1719024+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:03:06.0631771+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:09.8312858+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:02:40.2959036+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:11.1283694+00:00"
 }

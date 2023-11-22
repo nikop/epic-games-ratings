@@ -117,7 +117,7 @@
   ],
   "EOS_Progressed": 449,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1130,9 +1130,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "DesolateIsland",
@@ -1306,9 +1306,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "Persistent",
@@ -1531,8 +1531,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-21T23:59:01.7170181+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:04:49.9787653+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:03:49.7577749+00:00",
   "LastUpdate_AppInfo": "2023-11-16T13:03:46.0383746+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:00:26.8259008+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:04:49.978816+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:59:06.0693591+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:03:49.7578174+00:00"
 }

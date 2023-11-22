@@ -8,12 +8,12 @@
 | Training Simulation | 77.00% | ~122 |
 | Kuku Bird Hunter | 67.00% | ~107 |
 | Storm Traveller | 62.00% | ~99 |
-| Wolf King Killer | 59.00% | ~94 |
-| Fashion Connoisseur | 58.00% | ~92 |
+| Wolf King Killer | 60.00% | ~95 |
+| Fashion Connoisseur | 59.00% | ~94 |
 | Arms Mechanic | 50.00% | ~80 |
-| Flower Thief | 48.00% | ~76 |
+| Flower Thief | 49.00% | ~78 |
+| Beginner Artificer | 45.00% | ~72 |
 | Apostle of Flame | 45.00% | ~72 |
-| Beginner Artificer | 44.00% | ~70 |
 | Beginner Cook | 42.00% | ~67 |
 | Seal Breaker | 39.00% | ~62 |
 | Handyman | 36.00% | ~57 |
@@ -25,9 +25,9 @@
 | Flying Kobold Killer | 25.00% | ~40 |
 | Youth Magnet | 25.00% | ~40 |
 | Master Artificer | 25.00% | ~40 |
+| Furious Scorpion Killer | 24.00% | ~38 |
 | Lethal Blade Mantis Killer | 24.00% | ~38 |
 | Squeaky Clean | 24.00% | ~38 |
-| Furious Scorpion Killer | 23.00% | ~37 |
 | Kind Adventurer | 20.00% | ~32 |
 | Mermaid Killer | 19.00% | ~30 |
 | Face Slapper | 19.00% | ~30 |

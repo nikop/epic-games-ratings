@@ -5,17 +5,17 @@ Rating: 3.82 (Ranked 1,030)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~409,789 |
-| Handy | 41.00% | ~221,070 |
-| Cold Caller | 39.00% | ~210,286 |
-| A Bit On The Side | 27.00% | ~145,583 |
-| Backdoor | 25.00% | ~134,799 |
-| Rank Amateur | 21.00% | ~113,231 |
-| Three Way | 19.00% | ~102,447 |
-| Deadly Assassin | 16.00% | ~86,271 |
-| Gutshot | 14.00% | ~75,487 |
-| Risk It For A Biscuit | 14.00% | ~75,487 |
-| Showoff | 13.00% | ~70,095 |
+| Pro Creation | 76.00% | ~409,794 |
+| Handy | 41.00% | ~221,073 |
+| Cold Caller | 39.00% | ~210,289 |
+| A Bit On The Side | 27.00% | ~145,585 |
+| Backdoor | 25.00% | ~134,801 |
+| Rank Amateur | 21.00% | ~113,233 |
+| Three Way | 19.00% | ~102,449 |
+| Deadly Assassin | 16.00% | ~86,272 |
+| Gutshot | 14.00% | ~75,488 |
+| Risk It For A Biscuit | 14.00% | ~75,488 |
+| Showoff | 13.00% | ~70,096 |
 | W.H.I.P. | 12.00% | ~64,704 |
 | Bet Bet Bet | 10.00% | ~53,920 |
 | Blindman's Bluff | 9.00% | ~48,528 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,030)
 | Rounder | 0.10% | ~539 |
 | Top Dog | 0.10% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539,196 (Ranked 33)  
+Progressed: 539,203 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,15 +266,15 @@ Completed: 2 (0.00%) (Ranked 358)
 | 2023-11-19 | 538,722 | 2 |
 | 2023-11-20 | 538,890 | 2 |
 | 2023-11-21 | 539,072 | 2 |
-| 2023-11-22 | 539,196 | 2 |
+| 2023-11-22 | 539,203 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 415)  
-Sum: 176 (Ranked 410)  
+Sum: 177 (Ranked 410)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 59 |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game has Competitive Players | 28 |
 | This game has Quickly Understood Controls | 28 |
 | This game has a Competitive Community | 27 |
@@ -389,3 +389,4 @@ Diff (max vs sum): 5
 | 2023-11-16 | 3.82 | 59 | 175 |
 | 2023-11-19 | 3.83 | 59 | 176 |
 | 2023-11-21 | 3.82 | 59 | 176 |
+| 2023-11-22 | 3.82 | 59 | 177 |

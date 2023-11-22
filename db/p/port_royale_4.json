@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -3061,9 +3061,9 @@
       "ID": "ACH032",
       "SetID": "69nfp41",
       "Name": "Pirates!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH033",
@@ -3213,8 +3213,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:04:45.3331891+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:03:46.3877132+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:37.0945183+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:58:46.3181832+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:04:45.3332458+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:57:58.3153526+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:03:46.3877573+00:00"
 }

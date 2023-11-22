@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2023-11-22T17:10:26.2231859+00:00",
       "NumProgressed": 938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-22T18:09:22.2099197+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3617,7 +3622,7 @@
       "Name": "Budget Flight",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Calculated",
@@ -3633,7 +3638,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Creator",
@@ -3673,7 +3678,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "First",
@@ -3785,7 +3790,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "NoTimeForModernization",
@@ -3857,7 +3862,7 @@
       "Name": "Resource Economy",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Restructuring",
@@ -3920,14 +3925,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:10:26.2231855+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:09:22.2099191+00:00",
   "LastUpdate_AppInfo": "2023-11-21T18:56:54.7052462+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:59:15.0308561+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:26.2232295+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:58:16.0341044+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:22.2099705+00:00"
 }

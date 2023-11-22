@@ -4,10 +4,10 @@
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 295,
   "Ranking_Popularity": 422,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -1164,11 +1164,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 349,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2023-11-22T17:57:12.7685518+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 351,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 349,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 351,
+  "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1193,13 +1199,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1261,8 +1267,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2023-11-19T21:59:23.1814186+00:00",
+  "LastChanged": "2023-11-22T17:57:12.7685516+00:00",
   "LastUpdate_AppInfo": "2023-11-18T17:57:04.3505755+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:57:30.951709+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:07:05.9609533+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:57:12.7685522+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:05:23.8413348+00:00"
 }

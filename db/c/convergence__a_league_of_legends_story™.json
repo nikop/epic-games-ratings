@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-11-21T22:09:21.1547846+00:00",
       "NumProgressed": 923,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-22T18:08:52.2065966+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2469,7 +2474,7 @@
       "Name": "Treasure Trove",
       "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2493,7 +2498,7 @@
       "Name": "Like Clockwork",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ClovemaryGift",
@@ -2597,7 +2602,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GrindingTime1",
@@ -2629,7 +2634,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LacunaCompleted",
@@ -2645,7 +2650,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "NoCritterSump",
@@ -2659,7 +2664,7 @@
       "ID": "NoDeathRun",
       "SetID": "a9e499d",
       "Name": "Going to Live Forever",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -2667,7 +2672,7 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -2733,7 +2738,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "RewindParry",
@@ -2757,7 +2762,7 @@
       "Name": "Golem Chaser",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "SkillCompletion1",
@@ -2805,15 +2810,15 @@
       "Name": "Check Your Pulse",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 92
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2861,14 +2866,14 @@
       "Name": "The Family Fortune",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 6
     }
   ],
@@ -2876,8 +2881,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:09:43.2975466+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:08:52.206596+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:00.3419172+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:03:14.6956216+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:09:43.2975954+00:00"
+  "LastUpdate_Ratings": "2023-11-22T18:02:45.7795154+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:08:52.2066494+00:00"
 }

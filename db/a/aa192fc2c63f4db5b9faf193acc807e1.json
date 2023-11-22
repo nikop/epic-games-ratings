@@ -329,9 +329,9 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytaleach10",
@@ -345,9 +345,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "creepytaleach12",
@@ -417,17 +417,17 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:10:29.8445602+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:09:24.8038286+00:00",
   "LastUpdate_AppInfo": "2023-11-22T04:57:15.1909896+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:01:07.5331342+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:29.8445741+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:59:32.8896147+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:24.8038401+00:00"
 }

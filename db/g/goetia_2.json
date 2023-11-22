@@ -4,7 +4,7 @@
   "ProductSlug": "goetia-2-97b0ff",
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.397247+00:00",
   "LastChanged": "2023-03-31T05:58:25.3972471+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:26.3474684+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:57:43.1222698+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:28.9825678+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:57:19.9235969+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:24.1865412+00:00"
 }

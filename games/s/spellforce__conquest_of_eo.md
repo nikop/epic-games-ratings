@@ -42,6 +42,7 @@
 | Defeat Yria | 13.00% | ~3 |
 | Elynn's Tale | 13.00% | ~3 |
 | Lore's Tale | 13.00% | ~3 |
+| Silver Drift Hollow Mine | 13.00% | ~3 |
 | A Master of Magic | 13.00% | ~3 |
 | Friend of Silver Drift Hollow | 13.00% | ~3 |
 | Magic Academy | 13.00% | ~3 |
@@ -51,7 +52,6 @@
 | Defeat Undergast | 8.00% | ~2 |
 | Lytra's Tale | 8.00% | ~2 |
 | Yngrid's Tale | 8.00% | ~2 |
-| Silver Drift Hollow Mine | 8.00% | ~2 |
 | Tuscari Sea Portal | 8.00% | ~2 |
 | Master Alchemist | 8.00% | ~2 |
 | Breaking the circle | 8.00% | ~2 |

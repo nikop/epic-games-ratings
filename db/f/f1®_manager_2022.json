@@ -2,12 +2,12 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "ProductSlug": "f1-manager-2022",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-30T14:00:00+00:00",
@@ -2045,10 +2045,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 2100,
       "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-11-22T17:57:30.2176554+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 2101,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2100,
+  "NumberOfAwards": 2101,
   "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2074,7 +2080,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 220
+      "Count": 221
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2139,9 +2145,9 @@
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
-  "LastChanged": "2023-11-22T16:57:59.7522262+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:04:32.7817283+00:00",
+  "LastChanged": "2023-11-22T17:57:30.2176552+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:03:37.4760578+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:58:30.1011349+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:57:59.7522266+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:04:32.7817301+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:57:30.2176558+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:03:37.476061+00:00"
 }

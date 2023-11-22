@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trainee | 15.00% | ~2 |
+| Line Up | 15.00% | ~2 |
+| Steam Power | 15.00% | ~2 |
 | Task Apprentice | 15.00% | ~2 |
 | City Link | 15.00% | ~2 |
 | Billionaire Club | 8.00% | ~1 |
-| Line Up | 8.00% | ~1 |
 | Full House | 8.00% | ~1 |
 | Speed Demon | 8.00% | ~1 |
 | Regional Express | 8.00% | ~1 |
 | Industrial Giant | 8.00% | ~1 |
-| Steam Power | 8.00% | ~1 |
 | Urban Network | 8.00% | ~1 |
 | Supply Chain | 8.00% | ~1 |
 | Mega Train | 8.00% | ~1 |

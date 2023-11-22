@@ -16,15 +16,15 @@ Rating: 4.19 (Ranked 923)
 | Reforged | 6.00% | ~988 |
 | Desperate Times | 6.00% | ~988 |
 | Keep Fighting | 6.00% | ~264 |
-| You Need a Gun | 5.00% | ~823 |
-| I Do Belong Here | 5.00% | ~823 |
-| If the SHU Fits... | 5.00% | ~823 |
-| Without A Paddle | 5.00% | ~823 |
-| In the Pipe, Five by Five | 5.00% | ~823 |
-| What Lies Beneath | 5.00% | ~823 |
-| Crash Site | 5.00% | ~823 |
-| Full Circle | 5.00% | ~823 |
-| Power Up | 5.00% | ~823 |
+| You Need a Gun | 5.00% | ~824 |
+| I Do Belong Here | 5.00% | ~824 |
+| If the SHU Fits... | 5.00% | ~824 |
+| Without A Paddle | 5.00% | ~824 |
+| In the Pipe, Five by Five | 5.00% | ~824 |
+| What Lies Beneath | 5.00% | ~824 |
+| Crash Site | 5.00% | ~824 |
+| Full Circle | 5.00% | ~824 |
+| Power Up | 5.00% | ~824 |
 | Giving Back | 4.00% | ~659 |
 | Terminated | 4.00% | ~659 |
 | It's Time | 4.00% | ~176 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 923)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,469 (Ranked 149)  
+Progressed: 16,470 (Ranked 149)  
 Completed: 80 (0.49%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 80 (0.49%) (Ranked 203)
 | 2023-11-19 | 16,462 | 80 |
 | 2023-11-20 | 16,464 | 80 |
 | 2023-11-21 | 16,466 | 80 |
-| 2023-11-22 | 16,469 | 80 |
+| 2023-11-22 | 16,470 | 80 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 387)  
 Sum: 485 (Ranked 328)  

@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "Landmark_SilverDriftMine",
       "SetID": "7b9f97e",
       "Name": "Silver Drift Hollow Mine",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Landmark_StormwatchFaste",
@@ -728,8 +728,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:08:46.465592+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:07:52.2334875+00:00",
   "LastUpdate_AppInfo": "2023-11-18T16:57:05.0586165+00:00",
-  "LastUpdate_Ratings": "2023-11-22T17:01:48.0335401+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:08:46.4656794+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:59:59.6609862+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:07:52.2335623+00:00"
 }

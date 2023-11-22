@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4219,6 +4219,11 @@
       "Time": "2023-11-22T16:09:44.1795977+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-22T18:09:31.5113847+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4278,7 +4283,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "call_of_mana_2",
@@ -4422,15 +4427,15 @@
       "Name": "Elite Deck 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "elite_deck_2",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 2",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "elite_deck_3",
@@ -4470,7 +4475,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "glitter_of_gold_2",
@@ -4614,7 +4619,7 @@
       "Name": "Punctual 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "punctual_2",
@@ -4757,14 +4762,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1211,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-22T17:10:39.2760485+00:00",
+  "LastChanged_Achievements": "2023-11-22T18:09:31.5113839+00:00",
   "LastUpdate_AppInfo": "2023-11-21T15:56:57.5802496+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:59:09.2917673+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:10:39.276107+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:58:12.8076451+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:09:31.5114492+00:00"
 }

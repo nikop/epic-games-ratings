@@ -12,10 +12,10 @@ Rating: 4.21 (Ranked 906)
 | Rumors are true | 0.40% | ~1,266 |
 | Pride is a sin, young Knight | 0.40% | ~1,266 |
 | Your wounds… They are healing so fast! | 0.40% | ~1,266 |
-| We'll be careful | 0.30% | ~949 |
-| Back to your senses | 0.30% | ~949 |
-| They won't last long | 0.30% | ~949 |
-| Bring it on! | 0.30% | ~949 |
+| We'll be careful | 0.30% | ~950 |
+| Back to your senses | 0.30% | ~950 |
+| They won't last long | 0.30% | ~950 |
+| Bring it on! | 0.30% | ~950 |
 | They tricked me | 0.20% | ~633 |
 | We need to talk | 0.20% | ~633 |
 | I feel drawn to it | 0.20% | ~633 |
@@ -25,28 +25,28 @@ Rating: 4.21 (Ranked 906)
 | We can choose to fight | 0.20% | ~633 |
 | Chaos be damned! | 0.20% | ~633 |
 | I took a risk | 0.20% | ~633 |
-| No damsels in distress | 0.10% | ~316 |
-| The immortal is bound to reborn | 0.10% | ~316 |
-| A legend among Chimeras | 0.10% | ~316 |
-| It's only pain | 0.10% | ~316 |
-| I know how to handle it | 0.10% | ~316 |
-| Settle this once and for all | 0.10% | ~316 |
-| The Ashen Knight | 0.10% | ~316 |
-| The Shade | 0.10% | ~316 |
-| Through the Veil | 0.10% | ~316 |
-| Call this the Judge's mercy | 0.10% | ~316 |
-| There's too many of them! | 0.10% | ~316 |
-| Their fate is sealed | 0.10% | ~316 |
-| Not even from this world | 0.10% | ~316 |
-| I've been waiting for this! | 0.10% | ~316 |
-| You want more? I've got more! | 0.10% | ~316 |
-| I'm just warming up | 0.10% | ~316 |
-| We learned it the hard way | 0.10% | ~316 |
-| We strike as one | 0.10% | ~316 |
+| No damsels in distress | 0.10% | ~317 |
+| The immortal is bound to reborn | 0.10% | ~317 |
+| A legend among Chimeras | 0.10% | ~317 |
+| It's only pain | 0.10% | ~317 |
+| I know how to handle it | 0.10% | ~317 |
+| Settle this once and for all | 0.10% | ~317 |
+| The Ashen Knight | 0.10% | ~317 |
+| The Shade | 0.10% | ~317 |
+| Through the Veil | 0.10% | ~317 |
+| Call this the Judge's mercy | 0.10% | ~317 |
+| There's too many of them! | 0.10% | ~317 |
+| Their fate is sealed | 0.10% | ~317 |
+| Not even from this world | 0.10% | ~317 |
+| I've been waiting for this! | 0.10% | ~317 |
+| You want more? I've got more! | 0.10% | ~317 |
+| I'm just warming up | 0.10% | ~317 |
+| We learned it the hard way | 0.10% | ~317 |
+| We strike as one | 0.10% | ~317 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316,485 (Ranked 51)  
+Progressed: 316,524 (Ranked 51)  
 Completed: 4 (0.00%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 4 (0.00%) (Ranked 358)
 | 2023-11-19 | 314,789 | 4 |
 | 2023-11-20 | 315,462 | 4 |
 | 2023-11-21 | 316,102 | 4 |
-| 2023-11-22 | 316,485 | 4 |
+| 2023-11-22 | 316,524 | 4 |
 ## Awards
 Max (Great Boss Battles): 61  (Ranked 414)  
 Sum: 61 (Ranked 474)  

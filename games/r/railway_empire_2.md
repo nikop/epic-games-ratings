@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 712)  
+Rating: 4.42 (Ranked 713)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.42 (Ranked 712)
 | Travel Company | 66.00% | ~1,446 |
 | Mind the Gap | 65.00% | ~1,424 |
 | All around the World | 63.00% | ~1,380 |
-| Right through the middle | 58.00% | ~1,271 |
+| Right through the middle | 59.00% | ~1,293 |
 | Facility Manager | 54.00% | ~1,183 |
 | Poor Devil | 54.00% | ~1,183 |
 | Producer | 51.00% | ~1,117 |
@@ -42,9 +42,9 @@ Rating: 4.42 (Ranked 712)
 | Networker | 18.00% | ~394 |
 | Resistance is futile | 17.00% | ~372 |
 | Assimilated | 16.00% | ~351 |
+| Settler | 16.00% | ~351 |
 | Locusts | 15.00% | ~329 |
 | Bold and beautiful | 15.00% | ~329 |
-| Settler | 15.00% | ~329 |
 | Go West | 14.00% | ~307 |
 | Max Power | 14.00% | ~307 |
 | A new Hope | 11.00% | ~241 |

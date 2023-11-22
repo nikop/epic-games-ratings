@@ -4,10 +4,10 @@
   "ProductSlug": "immortals-fenyx-rising",
   "Ranking_Rating": 414,
   "Ranking_Popularity": 175,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 755,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -1954,10 +1954,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1122,
       "NumberOfAwardsMax": 762
+    },
+    {
+      "Time": "2023-11-22T17:58:30.5508075+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1123,
+      "NumberOfAwardsMax": 762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1122,
+  "NumberOfAwards": 1123,
   "NumberOfAwardsMax": 762,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2007,7 +2013,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2027,8 +2033,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-11-22T02:23:44.53809+00:00",
+  "LastChanged": "2023-11-22T17:58:30.5508073+00:00",
   "LastUpdate_AppInfo": "2023-11-18T20:59:08.4779084+00:00",
-  "LastUpdate_Ratings": "2023-11-22T16:59:35.9810272+00:00",
-  "LastUpdate_Achievements": "2023-11-22T17:05:57.1042055+00:00"
+  "LastUpdate_Ratings": "2023-11-22T17:58:30.5508078+00:00",
+  "LastUpdate_Achievements": "2023-11-22T18:04:36.3544068+00:00"
 }

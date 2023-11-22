@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,569 |
-| Un-Lonely Island | 46.00% | ~2,802 |
-| The Beginning of a Servantship | 45.00% | ~2,741 |
+| Just One...More...Term... | 75.00% | ~4,570 |
+| Un-Lonely Island | 46.00% | ~2,803 |
+| The Beginning of a Servantship | 45.00% | ~2,742 |
 | Trade Is My Trait | 37.00% | ~2,254 |
-| Number 18 | 23.00% | ~1,401 |
-| We Don't Have Time For That | 19.00% | ~1,157 |
+| Number 18 | 24.00% | ~1,462 |
+| We Don't Have Time For That | 19.00% | ~1,158 |
 | The Governator | 17.00% | ~1,036 |
 | The Legend of Langostino | 16.00% | ~975 |
 | Caribbean Comrade | 15.00% | ~914 |
@@ -23,9 +23,9 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 9.00% | ~548 |
 | Double Trouble | 8.00% | ~487 |
 | Firestarter | 8.00% | ~487 |
-| I Owe You Nothing | 7.00% | ~426 |
-| Make Tropico Great Again! | 7.00% | ~426 |
-| French Connection | 7.00% | ~426 |
+| I Owe You Nothing | 7.00% | ~427 |
+| Make Tropico Great Again! | 7.00% | ~427 |
+| French Connection | 7.00% | ~427 |
 | Don't Panic! | 6.00% | ~366 |
 | Beware The Betman | 6.00% | ~366 |
 | Viva Tropico! | 5.00% | ~305 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~49 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,092 (Ranked 184)  
+Progressed: 6,093 (Ranked 184)  
 Completed: 2 (0.03%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2 (0.03%) (Ranked 320)
 | 2023-11-19 | 6,064 | 2 |
 | 2023-11-20 | 6,073 | 2 |
 | 2023-11-21 | 6,085 | 2 |
-| 2023-11-22 | 6,092 | 2 |
+| 2023-11-22 | 6,093 | 2 |
 ## Awards
 Max (Highly Recommended): 103  (Ranked 355)  
 Sum: 730 (Ranked 291)  
